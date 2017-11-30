@@ -51,7 +51,7 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 
 ## Visualization and Interaction
 
-1. [SlicerVR Updates](Projects/SlicerVr/README.md) (JC Fillon-Robin, Beatriz Paniagua, and others)
+1. [SlicerVR Updates](Projects/SlicerVR/README.md) (JC Fillon-Robin, Beatriz Paniagua, and others)
 1. [Medical Infrared Imaging with Slicer](MedicalInfraredImaging.md) (Jorge Nehrkon, Carlos Luque, Juan Ruiz)
 1. [Integration of Medical Imaging Simulators in Slicer](IntegrationOfMedicalImagingSimulators) (Abián Hernández, Carlos Luque, Guillermo Socorro, Juan Ruiz)
 
