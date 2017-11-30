@@ -23,7 +23,7 @@ The National Alliance for Medical Image Computing (NAMIC), chartered with buildi
 
 Project Week activities: Everyone shows up with a project. Some people are working on the platform. Some people are developing algorithms. Some people are applying the tools to their research problems. We begin the week by introducing projects and connecting teams. We end the week by reporting progress. In addition to the ongoing working sessions, breakout sessions are organized ad-hoc on a variety of special topics. These topics include: discussions of software architecture, presentations of new features and approaches and topics such as Image-Guided Therapy.
 
-Several funded projects use the Project Week as a place to convene and collaborate. These include [NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/). 
+Several funded projects use the Project Week as a place to convene and collaborate. These include [NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/).
 
 Please make sure that you are signed up to [Slicer forum](https://discourse.slicer.org) and watching [ProjectWeek category](https://discourse.slicer.org/c/community/project-week).
 
@@ -45,7 +45,7 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 ## How to add a new project?
 
 1. Join the weekly [preparation call](#prep-calls) to discuss your idea
-1. Add a new entry in the category below by creating a new README.md file in subfolder in projects folder, and copying contents of <Projects/README.md] file into it.
+1. Add a new entry in the category below by creating a new README.md file in subfolder in projects folder, and copying contents of <Projects/README.md> file into it.
 
 <a name="project-list"/>
 
