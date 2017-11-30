@@ -25,16 +25,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
-*Describe progress and next steps in a few bullet points as you are making progress.*
+- SlicerOpenVR extension is functional, source code is available on GitHub (see link below).
 
 # Illustrations
-
-*Add pictures and links to videos that demonstrate what has been accomplished.*
 
 ![SlicerOpenVRLogo](https://github.com/KitwareMedical/SlicerOpenVR/raw/master/VR.png)
 
 # Background and References
-
-*Use this space for information that may help people better understand your project, like links to papers, source code, or data.*
 
 Source code: https://github.com/KitwareMedical/SlicerOpenVR
