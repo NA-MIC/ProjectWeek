@@ -27,7 +27,7 @@ Several funded projects use the Project Week as a place to convene and collabora
 
 Please make sure that you are signed up to [Slicer forum](https://discourse.slicer.org) and watching [ProjectWeek category](https://discourse.slicer.org/c/community/project-week).
 
-# Conference Calls for Preparation <a name="prep-calls"/>
+# Conference Calls for Preparation <a name="PreparationCalls"/>
 
 - Google Hangouts Link: (https://meet.google.com/wzh-syuy-otj)
 - See [Calendar](https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America/Toronto)) for meeting dates and details
@@ -44,10 +44,10 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 
 ## How to add a new project?
 
-1. Join the weekly [preparation call](#prep-calls) to discuss your idea
+1. Join the weekly [preparation call](#PreparationCalls) to discuss your idea
 1. Add a new entry in the category below by creating a new README.md file in subfolder in projects folder, and copying contents of [project description template](Projects/Template/README.md) file into it.
 
-<a name="project-list"/>
+<a name="ProjectsList"/>
 
 ## Visualization and Interaction
 
