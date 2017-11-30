@@ -34,13 +34,11 @@ Please make sure that you are signed up to [Slicer forum](https://discourse.slic
 - Conference call notes are available [here](HangoutsNotes.md).
 - To join the preparation hangout, click on the event above, then "more details" and finally click on the video link under "Joining Info".
 
-![](CalendarJoining.png)
+![CalendarJoiningInstructions](CalendarJoining.png)
 
 # Program
 
-See detailed schedule in this [Google calendar](https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America/Toronto).
-
-iCal (.ics) link: https://calendar.google.com/calendar/ical/kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com/public/basic.ics
+See detailed schedule in this [Google calendar](https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America/Toronto). Use this [iCal (.ics) link](https://calendar.google.com/calendar/ical/kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com/public/basic.ics) to add project week events to a non-Google calendar.
 
 # Projects
 
