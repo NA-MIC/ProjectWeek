@@ -30,7 +30,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 *Add pictures and links to videos that demonstrate what has been accomplished.*
 
-![Description of picture](MyPicture.png)
+![Description of picture](Example1.jpg)
+![Description of picture](Example1.jpg)
 
 # Background and References
 
