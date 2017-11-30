@@ -1,6 +1,6 @@
 # Introduction
 
-![2016 Winter Project Week Final Day](https://www.na-mic.org/wiki/File:2016_Winter_Project_Week_Final_Day.JPG title="Participants in the 2015 winter Project Week.")
+![2016 Winter Project Week Final Day](https://www.na-mic.org/w/images/thumb/2/25/2016_Winter_Project_Week_Final_Day.JPG/800px-2016_Winter_Project_Week_Final_Day.JPG)
 
 **What?** The Project Week is a week-long hands on activity in which medical image computing researchers create solutions using the open source image computing platform, [3D Slicer](http://www.slicer.org), and [VTK](http://www.vtk.org), [ITK](http://www.itk.org), and [CMake](http://www.cmake.org) libraries.   Participants work collaboratively on solutions that lie on the interfaces of the fields of computer science, mechanical engineering, biomedical engineering, and medicine. In contrast to conferences and workshops where the primary focus is to report results, the objective of the Project Week is to provide a venue for creators of medical image computing open-source software creators to collaboratively work.
 
