@@ -45,13 +45,13 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 ## How to add a new project?
 
 1. Join the weekly [preparation call](#prep-calls) to discuss your idea
-1. Add a new entry in the category below by creating a new README.md file in subfolder in projects folder, and copying contents of <Projects/README.md> file into it.
+1. Add a new entry in the category below by creating a new README.md file in subfolder in projects folder, and copying contents of [project description template](Projects/README.md) file into it.
 
 <a name="project-list"/>
 
 ## Visualization and Interaction
 
-1. [SlicerVR Updates](SlicerVrUpdates.md) (JC Fillon-Robin, Beatriz Paniagua, and others)
+1. [SlicerVR Updates](Projects/SlicerVrUpdates/README.md) (JC Fillon-Robin, Beatriz Paniagua, and others)
 1. [Medical Infrared Imaging with Slicer](MedicalInfraredImaging.md) (Jorge Nehrkon, Carlos Luque, Juan Ruiz)
 1. [Integration of Medical Imaging Simulators in Slicer](IntegrationOfMedicalImagingSimulators) (Abián Hernández, Carlos Luque, Guillermo Socorro, Juan Ruiz)
 
