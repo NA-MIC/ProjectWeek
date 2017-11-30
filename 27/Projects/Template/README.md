@@ -37,3 +37,5 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Background and References
 
 *Use this space for information that may help people better understand your project, like links to papers, source code, or data.*
+
+<a href="{{site.github.repository_url}}/blob/gh-pages/{{page.path}}">Edit this page</a>
