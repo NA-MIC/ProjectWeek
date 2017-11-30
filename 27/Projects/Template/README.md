@@ -38,4 +38,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 *Use this space for information that may help people better understand your project, like links to papers, source code, or data.*
 
-<a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page</a>
+<a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
