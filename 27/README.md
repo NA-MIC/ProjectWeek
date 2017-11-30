@@ -45,7 +45,9 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 ## How to add a new project?
 
 1. Join the weekly [preparation call](#prep-calls) to discuss your idea
-1. Add a new entry in the category below by creating a new file and copying contents of ProjectTemplate.md file into it.
+1. Add a new entry in the category below by creating a new README.md file in subfolder in projects folder, and copying contents of <Projects/README.md] file into it.
+
+<a name="project-list"/>
 
 ## Visualization and Interaction
 
