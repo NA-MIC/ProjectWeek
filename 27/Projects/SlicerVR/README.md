@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Beatriz Paniagua, and others (Kitware)
 - Mark Asselin (PerkLab)
 - Andras Lasso (PerkLab)
+- Steve Pieper (Isomics)
 
 # Project Description
 
