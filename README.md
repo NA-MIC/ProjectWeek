@@ -27,3 +27,5 @@ Announcements are posted to [Slicer forum](https://discourse.slicer.org/c/commun
 - [2017 July: Project Event 26](http://wiki.imaging.robarts.ca/) - The **26th Project Event** was held on July 17-21, 2017, Robarts Research Institute, London, ON, Canada.
 - [2017 June: Project Event 25](https://www.na-mic.org/wiki/2017_Summer_Project_Week) - The **25th Project Event** was held on June 26-30, 2017,  Catanzaro Lido, Calabria, Italy. It recorded 51 registered attendees, who worked on 29 projects.
 - [2017 January: Project Event 24](https://www.na-mic.org/wiki/2017_Summer_Project_Week) - The **24th Project Event** was held on January 9-13, 2017, MIT, Cambridge, MA.  It recorded 99 registered attendees, who worked on 55 projects.
+
+This page is hosted [from the NA-MIC organization's SlicerProjectWeeks repository on github.com](https://github.com/NA-MIC/SlicerProjectWeeks)
