@@ -13,7 +13,13 @@ Announcements are posted to [Slicer forum](https://discourse.slicer.org/c/commun
 
 **Who should attend?** This is harder to determine.  Your best bet is to send an email (see below) or attend a preparatory videoconference. 
 
-**What else?** The Project Week series was founded in 2005, along with the [https://wiki.na-mic.org/ National Alliance for Medical Image Computing (NA-MIC)], which was chartered by the NIH to build a computational infrastructure for biomedical research. Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts. Participants in Project Week include  [https://projects.iq.harvard.edu/nac NAC], [http://ncigt.org NCIGT], [http://qiicr.org/  QIICR], and [http://ocairo.technainstitute.com/open-source-software-platforms-and-databases-for-the-adaptive-process OCAIRO].  As of 2014, Project Week is also a MICCAI endorsed event.
+**What else?** The Project Week series was founded in 2005, along with the [National Alliance for Medical Image Computing (NA-MIC)][namic-wiki], which was chartered by the NIH to build a computational infrastructure for biomedical research. Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts. Participants in Project Week include [NAC][nac], [NCIGT][ncigt], [QIICR][qiicr], and [OCAIRO][ocairo].  As of 2014, Project Week is also a MICCAI endorsed event.
+
+[namic-wiki]: https://wiki.na-mic.org/
+[nac]: https://projects.iq.harvard.edu/nac
+[ncigt]: http://ncigt.org
+[qiicr]: http://qiicr.org/
+[ocairo]: http://ocairo.technainstitute.com/open-source-software-platforms-and-databases-for-the-adaptive-process
 
 **Who to contact?** Project Weeks are led by [http://mailto:tkapur@bwh.harvard.edu Tina Kapur, PhD], who is happy to tell you more about them.
 
