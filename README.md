@@ -29,3 +29,6 @@ Announcements are posted to [Slicer forum](https://discourse.slicer.org/c/commun
 - [2017 January: Project Event 24](https://www.na-mic.org/wiki/2017_Summer_Project_Week) - The **24th Project Event** was held on January 9-13, 2017, MIT, Cambridge, MA.  It recorded 99 registered attendees, who worked on 55 projects.
 
 This page is hosted [from the NA-MIC organization's SlicerProjectWeeks repository on github.com](https://github.com/NA-MIC/SlicerProjectWeeks) and is published at [https://na-mic.github.io/SlicerProjectWeeks](https://na-mic.github.io/SlicerProjectWeeks)
+
+<!--Link for editing page when displayed in GitHub pages-->
+<a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
