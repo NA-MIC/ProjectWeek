@@ -36,5 +36,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 Source code: https://github.com/KitwareMedical/SlicerOpenVR
 
+<!--Link for viewing a page on github.io-->
+<a href="https://{{site.github.project_title}}.github.io/{{page.path}}">View this page on the public site (may take a few seconds to update after committing changes.)</a>
+
 <!--Link for editing page when displayed in GitHub pages-->
 <a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
+
+
