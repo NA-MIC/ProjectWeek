@@ -66,6 +66,9 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 ## IGT: Navigation, Robotics, Surgical Planning
 
 ## dMRI
+1. [dMRI Project 1](dMRIProject.md) (person 1, person 2)
+1. dMRI Project 2
+
 
 ## Quantitative Imaging Informatics
 

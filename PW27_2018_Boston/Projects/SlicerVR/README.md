@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mark Asselin (PerkLab)
 - Andras Lasso (PerkLab)
 - Steve Pieper (Isomics)
+-Test Investigator
 
 # Project Description
 
@@ -23,6 +24,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 1. Test building and packaging. Fix all the errors.
 1. Make it more intuitive how to fly around in the scene.
 1. Make controllers change transforms (maybe determine transform automatically from the grabbed actor), so that changes are reflected in all render windows.
+1. Testing Testing Testing
 1. Have fun in VR!!!
 
 ## Progress and Next Steps
