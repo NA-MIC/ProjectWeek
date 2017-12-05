@@ -3,11 +3,10 @@
 # Welcome to the web page for the 27th Project Week!
 The 27th NA-MIC Project Week will be held during the week of January 8-12, 2018 at MIT.
 
-This project week is an event [endorsed](https://www.na-mic.org/wiki/Post-NCBC-2014) by the [MICCAI society](http://www.miccai.org/).
-
 To receive information about this and future events please join the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) and/or read the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27-participants/discussions) (future dissemination mechanism).
 
-Please make sure that you are signed up to [Slicer forum](https://discourse.slicer.org) and watching [ProjectWeek category](https://discourse.slicer.org/c/community/project-week).
+You can read about our experience in running these events for over a decade: [Increasing the Impact of Medical Image Computing Using
+Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
 
 ## Logistics
 
@@ -30,7 +29,7 @@ Please make sure that you are signed up to [Slicer forum](https://discourse.slic
 
 **Who should attend?** This is harder to determine. Your best bet is to send an email (see below) or attend a preparatory videoconference.
 
-**What else?**  The Project Week series was founded in 2005, along with the National Alliance for Medical Image Computing (NAMIC), which was chartered by the NIH to build a computational infrastructure for biomedical research.  Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts where they convene and collaborate. Participants in Project Week include[NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/).
+**What else?**  The Project Week series was founded in 2005, along with the National Alliance for Medical Image Computing (NAMIC), which was chartered by the NIH to build a computational infrastructure for biomedical research.  Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts where they convene and collaborate. Participants in Project Week include[NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/).  
 
 **Who to contact?** Project Weeks are led by [Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur) who is happy to tell you more about them.
 
@@ -72,7 +71,6 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 
 ## IGT: Navigation, Robotics, Surgical Planning
 1. [Harmonus IGT Project](Projects/HarmonusIGT/README.md) (Nicole Aucoin)
-2. [Tracked US Standardization 5](Projects/TrackedUSStandadization/Readme.md) (Simon Drouin, Adam Rankin, Csaba Pinter, Andras Lasso)
 
 ## dMRI
 1. [dMRI Project 1](Projects/dMRIProject/Readme.md) (person 1, person 2)
