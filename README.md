@@ -21,7 +21,7 @@ Announcements are posted to [Slicer forum](https://discourse.slicer.org/c/commun
 [qiicr]: http://qiicr.org/
 [ocairo]: http://ocairo.technainstitute.com/open-source-software-platforms-and-databases-for-the-adaptive-process
 
-**Who to contact?** Project Weeks are led by [Tina Kapur, PhD][tina-email], who is happy to tell you more about them.
+**Who to contact?** Project Weeks are led by [Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur) who is happy to tell you more about them.
 
 [tina-email]: http://mailto:tkapur@bwh.harvard.edu
 
