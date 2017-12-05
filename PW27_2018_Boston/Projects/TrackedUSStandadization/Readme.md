@@ -13,9 +13,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-1. Objective A. Describe it in 1-2 sentences.
-1. Objective B. Describe it in 1-2 sentences.
-1. Objective C. Describe it in 1-2 sentences.
+- [http://www.plustoolkit.org Plus toolkit] provides access to numerous hardware devices (imaging devices, tracking devices, navigations systems, sensors, etc.) and makes it available through [http://www.openigtlink.org OpenIGTLink] protocol
+- This group has created a common library, [OpenIGTLinkIO](http://igsio.github.io) that simplifies the integration of Plus (and OpenIGTLink-compatible devices or software) into different programs and :
+-- Ensure software interoperability
+-- Share software maintenance workload
+-- Make it easy to share new features
+-- Add specific features for tracked ultrasound and and augmented reality in surgical navigation
 
 ## Approach and Plan
 
