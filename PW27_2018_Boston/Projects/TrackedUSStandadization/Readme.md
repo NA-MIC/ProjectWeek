@@ -1,12 +1,13 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Tracked US Standardization 5
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- [Simon Drouin](http://nist.mni.mcgill.ca/?page_id=369) (Montreal Neurological Institute, Canada)
+- [Andras Lasso](http://perk.cs.queensu.ca/users/lasso) (Queen's University, Canada)
+- [Csaba Pinter](http://perk.cs.queensu.ca/users/pinter) (Queen's University, Canada)
+- [Adam Rankin](http://www.imaging.robarts.ca/petergrp/node/113) (Robarts Research Institute, Canada)
 
 # Project Description
 
