@@ -1,16 +1,20 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Harmonus IGT
+# Oram motion compensation in MR
 
 ## Key Investigators
 
-- Nicole Aucoin (Harmonus Inc)
+- Investigator 1 (Affiliation)
+- Investigator 2 (Affiliation)
+- Investigator 3 (Affiliation)
 
 # Project Description
 
 ## Objective
 
-1. Objective TBD. Describe it in 1-2 sentences.
+1. Objective A. Describe it in 1-2 sentences.
+1. Objective B. Describe it in 1-2 sentences.
+1. Objective C. Describe it in 1-2 sentences.
 
 ## Approach and Plan
 
