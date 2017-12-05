@@ -72,6 +72,7 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 
 ## IGT: Navigation, Robotics, Surgical Planning
 1. [Harmonus IGT Project](Projects/HarmonusIGT/README.md) (Nicole Aucoin)
+2. [Tracked US Standardization 5](Projects/TrackedUSStandadization/Readme.md) (Simon Drouin, Adam Rankin, Csaba Pinter, Andras Lasso)
 
 ## dMRI
 1. [dMRI Project 1](Projects/dMRIProject/Readme.md) (person 1, person 2)
