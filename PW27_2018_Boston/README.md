@@ -65,10 +65,9 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 
 ## IGT: Navigation, Robotics, Surgical Planning
 
-## dMRI
-1. [dMRI Project 1](dMRITest1.md) (person 1, person 2)
-1. dMRI Project 2
+1. [Harmonus IGT Project](Projects/HarmonusIGT/README.md) (Nicole Aucoin)
 
+## dMRI
 
 ## Quantitative Imaging Informatics
 
