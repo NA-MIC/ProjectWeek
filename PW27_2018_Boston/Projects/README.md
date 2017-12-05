@@ -1,6 +1,6 @@
 # How to create a new project
 
-- Open [project template page](Template/README.md) and copy its full content to the clipboard
+- Open [project template page](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/Template/README.md) and copy its full content to the clipboard
 - Go back to [Projects](./) folder
 - Click on "Create new file" button
 - Type `YourProjectName/README.md`
