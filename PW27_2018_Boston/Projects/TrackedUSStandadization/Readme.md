@@ -34,16 +34,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
-
-![Some more images](Example2.jpg)
-
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/IGSIO/OpenIGTLinkIO
-- IGSIO web page: http://igsio.github.io/
+- Source code: [https://github.com/IGSIO/OpenIGTLinkIO](https://github.com/IGSIO/OpenIGTLinkIO)
+- IGSIO web page: [http://igsio.github.io/](http://igsio.github.io/)
 
 <!--Link for editing page when displayed in GitHub pages-->
 <a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
