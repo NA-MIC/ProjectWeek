@@ -12,10 +12,12 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 - **Dates:** January 8-12, 2018.
 - **Location:** [MIT CSAIL](https://www.google.com/maps/place/MIT:+Computer+Science+and+Artificial+Intelligence+Laboratory/@42.361864,-71.090563,16z/data=!4m2!3m1!1s0x0:0x303ada1e9664dfed?hl=en), Cambridge, MA. (Rooms: R&D)
-- **Transportation:** Please plan to use public transportation. No parking permits are available through MIT. For a list of local garages, please see [here](http://web.mit.edu/facilities/transportation/parking/visitors/public_parking.html).
 
 - **REGISTRATION:** [Register here](http://regonline.com/projectweek2018). Registration Fee: $330.
+
 - **Hotel:** Similar to previous years, no rooms have been blocked in any hotels.
+
+- **Transportation:** Please plan to use public transportation. No parking permits are available through MIT. For a list of local garages, please see [here](http://web.mit.edu/facilities/transportation/parking/visitors/public_parking.html).
 
 # Introduction
 
