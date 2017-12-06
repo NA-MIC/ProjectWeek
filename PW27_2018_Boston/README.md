@@ -73,8 +73,6 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 1. [Harmonus IGT Project](Projects/HarmonusIGT/README.md) (Nicole Aucoin)
 
 ## dMRI
-1. [dMRI Project 1](Projects/dMRIProject/Readme.md) (person 1, person 2)
-1. dMRI Project 2
 
 ## Quantitative Imaging Informatics
 
