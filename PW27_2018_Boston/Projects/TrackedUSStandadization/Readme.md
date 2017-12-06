@@ -27,7 +27,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 * Add more options to remotely control US machine parameters
 
 ## Progress and Next Steps
-
+* SDK acquired from Attracsys
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
