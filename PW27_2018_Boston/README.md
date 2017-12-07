@@ -65,7 +65,7 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 
 ## Deep Learning. Radiomics and GPUs
 
-1. Repeatability of Pyradiomics Features (Michael Schwier, Andrey Fedorov)
+1. [Repeatability of Pyradiomics Features](Projects/RadiomicsRepeatability/README.md) (Michael Schwier, Andrey Fedorov)
 
 ## Web Technologies
 
