@@ -96,6 +96,10 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 1. Affordable IGT Simulators with Sicer IGT+PLUS (Guillermo Socorro, Carlos Luque, Abián Hernández, Juan Ruiz)
 1. Slicer Ecosystems Education for Newcomers & Developing Countries (Marilola Afonso, Nayra Pumar, Juan Ruiz)
 
+## Miscellaneous
+
+1. [Ogan motion compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene)
+
 # Registrants
 
 Do not add your name to this list - it is maintained by the organizers based on your paid registration. 
