@@ -60,16 +60,16 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 ## Visualization and Interaction
 
 1. [SlicerVR Updates](Projects/SlicerVR/README.md) (JC Fillon-Robin, Beatriz Paniagua, and others)
-1. [Medical Infrared Imaging with Slicer](MedicalInfraredImaging.md) (Jorge Nehrkon, Carlos Luque, Juan Ruiz)
-1. [Integration of Medical Imaging Simulators in Slicer](IntegrationOfMedicalImagingSimulators) (Abián Hernández, Carlos Luque, Guillermo Socorro, Juan Ruiz)
+1. Medical Infrared Imaging with Slicer (Jorge Nehrkon, Carlos Luque, Juan Ruiz)
+1. Integration of Medical Imaging Simulators in Slicer (Abián Hernández, Carlos Luque, Guillermo Socorro, Juan Ruiz)
 
 ## Deep Learning. Radiomics and GPUs
 
-1. [Repeatability of Pyradiomics Features](PyradiomicsRepeatability) (Michael Schwier, Andrey Fedorov)
+1. Repeatability of Pyradiomics Features (Michael Schwier, Andrey Fedorov)
 
 ## Web Technologies
 
-1. [Open Anatomy Browser](OpenAnatomyBrowser) (Abián Hernández, Juan Ruiz Alzola)
+1. Open Anatomy Browser (Abián Hernández, Juan Ruiz Alzola)
 
 ## IGT: Navigation, Robotics, Surgical Planning
 1. [Harmonus IGT Project](Projects/HarmonusIGT/README.md) (Nicole Aucoin)
@@ -78,23 +78,23 @@ See detailed schedule in this [Google calendar](https://calendar.google.com/cale
 
 ## Quantitative Imaging Informatics
 
-1. [Refactoring of Pkmodeling and related tools for easier expandability](Pkmodeling.md) (Michael Schwier, Andrey Fedorov)
+1. Refactoring of Pkmodeling and related tools for easier expandability (Michael Schwier, Andrey Fedorov)
 
 ## Shape Analysis, Segmentation
 
-1. [SlicerSALT Shape Analysis Toolbox Updates](SlicerSALT.md) (Laura Pascal, JC Fillon-Robin, Beatriz Paniagua, Juan Prieto, Loic Michaud)
-1. [Segmentation Inverse Challenge Playoff](SegmentationInverseChallenge.md) (Tina Kapur, Csaba Pinter, Steve Pieper, Andras Lasso)
-1. [Shape Variation analyzer](ShapeVariationAnalyzer.md) (Juan Prieto, Nina Tubau)
-1. [Shape self-learning applications](SelfLearningApplications.md) (Juan Prieto, Loic Michaud)
+1. SlicerSALT Shape Analysis Toolbox Updates (Laura Pascal, JC Fillon-Robin, Beatriz Paniagua, Juan Prieto, Loic Michaud)
+1. Segmentation Inverse Challenge Playoff (Tina Kapur, Csaba Pinter, Steve Pieper, Andras Lasso)
+1. Shape Variation analyzer (Juan Prieto, Nina Tubau)
+1. Shape self-learning applications (Juan Prieto, Loic Michaud)
 
 ## Infrastructure
-1. [Slicer Custom Application](SlicerCustomApplication.md) (Jc Fillon-Robin, Andras Lasso)
-1. [Slicer Documentation @ ReadTheDocs](SlicerDocumentation.md) (Jc Fillon-Robin, Andras Lasso)
+1. Slicer Custom Application (Jc Fillon-Robin, Andras Lasso)
+1. Slicer Documentation @ ReadTheDocs (Jc Fillon-Robin, Andras Lasso)
 
 ## Training and Dissemination
 
-1. [Affordable IGT Simulators with Sicer IGT+PLUS](IgtSimulators.md) (Guillermo Socorro, Carlos Luque, Abián Hernández, Juan Ruiz)
-1. [Slicer Ecosystems Education for Newcomers & Developing Countries](SlicerEducationForDevelopingCountries.md) (Marilola Afonso, Nayra Pumar, Juan Ruiz)
+1. Affordable IGT Simulators with Sicer IGT+PLUS (Guillermo Socorro, Carlos Luque, Abián Hernández, Juan Ruiz)
+1. Slicer Ecosystems Education for Newcomers & Developing Countries (Marilola Afonso, Nayra Pumar, Juan Ruiz)
 
 # Registrants
 
