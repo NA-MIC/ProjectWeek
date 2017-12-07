@@ -1,26 +1,23 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Oram motion compensation in MR
+# Organ motion compensation in MR
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Gino Gulamhussene (University of Magdeburg)
 
 # Project Description
+Creating a program to generate 4D MRI sequences applying the retrospectiv stacking method on 2D MR slices. 
+The available data is comprised of an time resolved alternating sequence of navigator and data slices and a pure sequence of time resolved navigator slices. All navigator slices being aquired at the exact same location and the data slices "scanning" the complete liver in a cyclic manner. To generate a 4D MR sequence from that the program has to collect all data frames that were aquired during the same breating phase, i.e. not at the same time but at different times during the same breathing phase. To find these, the navigator slices are utilized. Finding correspondances between the navigator slices of the pure navigator sequence and the once of the alternating sequence means to find similar or same breathing phases. Thus we find all corresponding data slices giving the 3D liver at the specific breathing phase using the correspondance of its encompassing navigator slices.
 
 ## Objective
 
-1. Objective A. Describe it in 1-2 sentences.
-1. Objective B. Describe it in 1-2 sentences.
-1. Objective C. Describe it in 1-2 sentences.
+1. Creating a program to generat sequences of 3D MR images
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Using reference implementation 
+
 
 ## Progress and Next Steps
 
