@@ -82,7 +82,7 @@ To import the calendar, open https://calendar.google.com/ and follow the steps b
 
 ## Quantitative Imaging Informatics
 
-1. Refactoring of Pkmodeling and related tools for easier expandability (Michael Schwier, Andrey Fedorov)
+1. [Refactoring of Model Fitting Tools into Extension Suite](Projects/ModelFittingTools/README.md) (Michael Schwier, Andrey Fedorov)
 
 ## Shape Analysis, Segmentation
 
