@@ -48,7 +48,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 See detailed schedule in this [Google calendar](https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America/Toronto). Use this [iCal (.ics) link](https://calendar.google.com/calendar/ical/kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com/public/basic.ics) to add project week events to a non-Google calendar.
 
-To import the calendar, open https://calendar.google.com/ and follow the steps below:
+To import the calendar, open [https://calendar.google.com/](https://calendar.google.com/) and follow the steps below:
 
 ![CalendarImportingInstructions](CalendarImporting.png)
 
