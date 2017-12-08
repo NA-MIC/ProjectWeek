@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Andras Lasso](http://perk.cs.queensu.ca/users/lasso) (Queen's University, Canada)
 - [Csaba Pinter](http://perk.cs.queensu.ca/users/pinter) (Queen's University, Canada)
 - [Adam Rankin](http://www.imaging.robarts.ca/petergrp/node/113) (Robarts Research Institute, Canada)
-
+- [Mark Asselin](http://perk.cs.queensu.ca/users/asselin) (Queen's University, Canada)
 # Project Description
 
 ## Objective
