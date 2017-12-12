@@ -5,6 +5,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Michael Schwier (Brigham and Women's Hospital / Harvard Medical School)
+- Joost van Griethuysen (NKI)
+- Hugo Aerts (DFCI)
+- Fiona Fennessy (BWH)
 - Andrey Fedorov (Brigham and Women's Hospital / Harvard Medical School)
 
 # Project Description
