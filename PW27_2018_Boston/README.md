@@ -73,7 +73,8 @@ To import the calendar, open [https://calendar.google.com/](https://calendar.goo
 
 ## Web Technologies
 
-1. Open Anatomy Browser (Abián Hernández, Juan Ruiz Alzola)
+1. [Open Anatomy Browser](Projects/OpenAnatomyBrowser/README.md) (Abián Hernández, Marilola Afonso, Carlos Luque, Juan Ruiz Alzola)
+
 
 ## IGT: Navigation, Robotics, Surgical Planning
 1. [Harmonus IGT Project](Projects/HarmonusIGT/README.md) (Nicole Aucoin)
@@ -95,7 +96,6 @@ To import the calendar, open [https://calendar.google.com/](https://calendar.goo
 ## Infrastructure
 1. Slicer Custom Application (Jc Fillon-Robin, Andras Lasso)
 1. Slicer Documentation @ ReadTheDocs (Jc Fillon-Robin, Andras Lasso)
-1. [Keep track of the installed extensions across version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Mathias Neugebauer, Hans Meine, Jc Fillon-Robin, Andras Lasso)
 
 ## Training and Dissemination
 
