@@ -65,7 +65,7 @@ To import the calendar, open [https://calendar.google.com/](https://calendar.goo
 
 1. [SlicerVR Updates](Projects/SlicerVR/README.md) (JC Fillon-Robin, Beatriz Paniagua, and others)
 1. Medical Infrared Imaging with Slicer (Jorge Nehrkon, Carlos Luque, Juan Ruiz)
-1. Integration of Medical Imaging Simulators in Slicer (Abián Hernández, Carlos Luque, Guillermo Socorro, Juan Ruiz)
+1. [Integration of Medical Imaging Simulators in Slicer](Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md) (Abián Hernández, Carlos Luque, Guillermo Socorro, Juan Ruiz)
 
 ## Deep Learning. Radiomics and GPUs
 
@@ -95,7 +95,6 @@ To import the calendar, open [https://calendar.google.com/](https://calendar.goo
 ## Infrastructure
 1. Slicer Custom Application (Jc Fillon-Robin, Andras Lasso)
 1. Slicer Documentation @ ReadTheDocs (Jc Fillon-Robin, Andras Lasso)
-1. [Keep track of the installed extensions across version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Mathias Neugebauer, Hans Meine, Jc Fillon-Robin, Andras Lasso)
 
 ## Training and Dissemination
 
