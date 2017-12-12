@@ -1,7 +1,3 @@
-# Slicer Ecosystems Education
-
-Slicer Education for Newcomers & Developing Countries description for the 27 projecct NAMIC week - Boston
-
 Back to [Projects List](../../README.md#ProjectsList)
 
 # Slicer Ecosystems Education for Newcomers & Developing Countries
