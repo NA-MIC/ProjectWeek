@@ -17,7 +17,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 - **Hotel:** Similar to previous years, no rooms have been blocked in any hotels.
 
-- **Transportation:** Please plan to use public transportation. No parking permits are available through MIT. For a list of local garages, please see [here](http://web.mit.edu/facilities/transportation/parking/visitors/public_parking.html).
+- **Transportation:** Please use public transportation or park at a [local garage](http://web.mit.edu/facilities/transportation/parking/visitors/public_parking.html). There will be no parking permits from MIT.
 
 # Introduction
 
@@ -27,15 +27,16 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 **How does it work?** Weekly videoconferences for preparation begin 8-12 weeks before an event. Potential participants propose projects during these meetings, and collaboratively create a list of projects that are of mutual interest. The projects include platform work, algorithm development, and biomedical applications. Through the course of the meetings, each participant selects one or more project teams and develops goals for the week. The first day of the Project Week itself begins with a 2-hour in-person introduction to all projects and participants. The rest of the week consists of a mix of working sessions and breakout sessions on special topics, as decided by the participants during the preparatory meetings.
 
-**Who can attend?** Project Weeks are open to all and publicly advertised. One-day participation is permitted for first-time attendees, but rest stay for the entire event. Email announcements are sent to the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) and posted on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27-participants/discussions) (future dissemination mechanism).
+**Who can attend?** Project Weeks are open to all and publicly advertised. One-day participation is permitted for first-time attendees, but rest stay for the entire event. Email announcements are sent to the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) and posted on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27-participants/discussions) (new dissemination mechanism as of PW27).
 
-**Who should attend?** This is harder to determine. Your best bet is to send an email (see below) or attend a preparatory videoconference.
+**Who should attend?** This is harder to determine. Your best bet is to send an email or attend a preparatory videoconference (see below).
 
-**What else?**  The Project Week series was founded in 2005, along with the National Alliance for Medical Image Computing (NAMIC), which was chartered by the NIH to build a computational infrastructure for biomedical research.  Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts where they convene and collaborate. Participants in Project Week include[NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/).  
+**What else?**  The Project Week series was founded in 2005, along with the National Alliance for Medical Image Computing (NAMIC), which was chartered by the NIH to build a computational infrastructure for biomedical research.  Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts where they convene and collaborate. Participants in Project Week include[NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/).   For additional details about our experience in running these events since 2005 are available here: [Increasing the Impact of Medical Image Computing Using Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
+
 
 **Who to contact?** Project Weeks are led by [Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur) who is happy to tell you more about them.
 
-# Conference Calls for Preparation <a name="PreparationCalls"/>
+# Preparatory Videoconferences <a name="PreparationCalls"/>
 
 - Google Hangouts Link: (https://meet.google.com/wzh-syuy-otj)
 - See [Calendar](https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America/Toronto) for meeting dates and details
@@ -58,6 +59,7 @@ To import the calendar, open [https://calendar.google.com/](https://calendar.goo
 
 1. Join the weekly [preparation call](#PreparationCalls) to discuss your idea
 1. Add a new entry in the category below by creating a new README.md file in subfolder in projects folder, and copying contents of [project description template](Projects/Template/README.md) file into it.
+1. Post questions on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27-participants/discussions), our communication mechanism as of PW27).
 
 <a name="ProjectsList"/>
 
