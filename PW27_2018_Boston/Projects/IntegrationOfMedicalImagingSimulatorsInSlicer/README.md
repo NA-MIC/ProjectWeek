@@ -11,9 +11,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-The main objective of this project is the development of a ultrasound (US) simulation prototype based on CT images.
+The main objective of this project is the development of an ultrasound (US) simulation prototype based on CT images.
 Since the project is aimed to developing countries this prototype can mind the gap of gathering real dataset due to legal
-issues.
+issues. Eventually, this project will be integrated in an extension for Medical Imaging Simulators, this extension is intended to contain multiple modules to simulate images for medical purpose.
 
 ## Objective
 
