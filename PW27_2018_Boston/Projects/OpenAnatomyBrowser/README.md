@@ -32,7 +32,10 @@ order to facilitate the communication between both plaforms (OpenAnatomy and Sli
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-![Oabrowser screen.](https://raw.githubusercontent.com/medtec4susdev/OpenAnatomyBrowser/master/oabrowser.jpg)
+
+Oabrowser screen.
+
+<img src="https://raw.githubusercontent.com/MarilolaMACbioIDi/OpenAnatomyBrowser/master/oabrowser.jpg" width="417" height="264">
 
 # Background and References
 
