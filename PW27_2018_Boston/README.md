@@ -103,6 +103,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 ## Infrastructure
 1. Slicer Custom Application (Jc Fillon-Robin, Andras Lasso)
 1. Slicer Documentation @ ReadTheDocs (Jc Fillon-Robin, Andras Lasso)
+1. [Keep track of the installed extensions across version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Mathias Neugebauer, Hans Meine, Jc Fillon-Robin, Andras Lasso)
 
 ## Training and Dissemination
 
