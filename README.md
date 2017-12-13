@@ -38,5 +38,3 @@ Announcements are posted to [Slicer forum](https://discourse.slicer.org/c/commun
 
 This page is hosted [from the NA-MIC organization's SlicerProjectWeeks repository on github.com](https://github.com/NA-MIC/SlicerProjectWeeks) and is published at [https://na-mic.github.io/SlicerProjectWeeks](https://na-mic.github.io/SlicerProjectWeeks)
 
-<!--Link for editing page when displayed in GitHub pages-->
-<a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
