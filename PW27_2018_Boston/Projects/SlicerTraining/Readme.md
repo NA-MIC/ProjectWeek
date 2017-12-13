@@ -35,7 +35,7 @@ In any case the training material sould be oriented to the creation of digital l
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 3D Slicer Training Network.
 
-<img src="https://github.com/medtec4susdev/SlicerEcosystem/blob/master/3DslicerTrainingNetwork_1.jpg" width="337" height="110">
+<img src="https://raw.githubusercontent.com/medtec4susdev/SlicerEcosystem/master/3DslicerTrainingNetwork_1.jpg" width="337" height="110">
 
 # Background and References
 
