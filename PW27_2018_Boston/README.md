@@ -112,7 +112,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 ## Miscellaneous
 
-1. [Ogan motion compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene)
+1. [Organ motion compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene)
 
 # Registrants
 
