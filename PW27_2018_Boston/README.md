@@ -3,7 +3,7 @@
 # Welcome to the web page for the 27th Project Week!
 The 27th NA-MIC Project Week will be held during the week of January 8-12, 2018 at MIT.
 
-To receive information about this and future events please join the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27-participants/discussions) (new dissemination mechanism as of PW27).
+To receive information about this and future events please join the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (new dissemination mechanism as of PW27).
 
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
@@ -27,7 +27,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 **How does it work?** Weekly videoconferences for preparation begin 8-12 weeks before an event. Potential participants propose projects during these meetings, and collaboratively create a list of projects that are of mutual interest. The projects include platform work, algorithm development, and biomedical applications. Through the course of the meetings, each participant selects one or more project teams and develops goals for the week. The first day of the Project Week itself begins with a 2-hour in-person introduction to all projects and participants. The rest of the week consists of a mix of working sessions and breakout sessions on special topics, as decided by the participants during the preparatory meetings.
 
-**Who can attend?** Project Weeks are open to all and publicly advertised. One-day participation is permitted for first-time attendees, but rest stay for the entire event. Email announcements are sent to the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) and posted on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27-participants/discussions) (new dissemination mechanism as of PW27).
+**Who can attend?** Project Weeks are open to all and publicly advertised. One-day participation is permitted for first-time attendees, but rest stay for the entire event. Email announcements are sent to the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) and posted on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (new dissemination mechanism as of PW27).
 
 **Who should attend?** This is harder to determine. Your best bet is to send an email or attend a preparatory videoconference (see below).
 
@@ -63,7 +63,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 1. Join the weekly [preparation call](#PreparationCalls) to discuss your idea
 1. Add a new entry in the category below by creating a new README.md file in subfolder in projects folder, and copying contents of [project description template](Projects/Template/README.md) file into it. [See detailed instructions here](https://na-mic.github.io/ProjectWeek/PW27_2018_Boston/Projects/).
-1. Post questions on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27-participants/discussions), our communication mechanism as of PW27).
+1. Post questions on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27/discussions), our communication mechanism as of PW27).
 
 <a name="ProjectsList"/>
 
