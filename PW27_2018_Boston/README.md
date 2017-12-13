@@ -108,7 +108,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 ## Training and Dissemination
 
 1. Affordable IGT Simulators with Sicer IGT+PLUS (Guillermo Socorro, Carlos Luque, Abián Hernández, Juan Ruiz)
-1. [Slicer Education for Newcomers & Developing Countries](Projects/SlicerTraining/Readme.md) (Marilola Afonso, Nayra Pumar, Juan Ruiz)
+1. [Slicer Education for Newcomers & Developing Countries](Projects/SlicerTraining/Readme.md) (Sonia Pujol, Marilola Afonso, Nayra Pumar, Juan Ruiz)
 
 ## Miscellaneous
 
