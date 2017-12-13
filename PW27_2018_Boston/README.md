@@ -118,22 +118,6 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
 
-1. Abulnaga, Mazy | 	MIT
-1. Anderson, Peter | Traneus	Retired
-1. Andruejol, Johan |	Kitware Inc.
-1. Aucoin, Nicole |	Harmonus Inc
-1. Golland, Polina  |	MIT
-1. Jang, Sam	Mai
-1. Kapur, Tina	 | Brigham and Women's Hospital
-1. Liao, Ruizhi |	MIT
-1. Meyer, Anneke |	University of Magdeburg, Computer-Assisted Surgery Group
-1. Michoud, Loïc |	University of Michigan
-1. Palomar, Rafael	 | The Intervention Centre, Oslo University Hospital
-1. Patel, Jay	 | MIT
-1. Peled, Sharon |	Brigham and Women's Hospital
-1. Pieper, Steve	 | Isomics, Inc.
-1. Pinter, Csaba	 | Queen's University
-1. Schornak, Joseph	 | Worcester Polytechnic Institute Automation and Interventional Medicine Laboratory
-1. Schwier, Michael	 | Brigham and Women's Hospital
-1. Sunderland, Kyle |	Queen's University
-1. Tubau Ribera, Nina	
+<!-- ORGANIZERS: please edit REGISTRANTS.md -->
+
+{% include_relative REGISTRANTS.md %}
