@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Objective
 
 1. Discuss with the interested attendees capabilities of the DICOM standard and available support in tools for standardized communication of data produced by image analysis.
-2. Triage open issues for dcmqi, identify and fix at least some.
+2. Triage open issues for dcmqi, prioritize and fix at least some, revisit documentation and related open issues.
 3. Work on converting an existing radiomics dataset into DICOM representation.
 
 ## Approach and Plan
