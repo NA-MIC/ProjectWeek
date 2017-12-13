@@ -92,6 +92,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 1. [Refactoring of Model Fitting Tools into Extension Suite](Projects/ModelFittingTools/README.md) (Michael Schwier, Sharon Peled, Andrey Fedorov)
 2. [Decision Support for End-Stage Liver Disease Transplants](Projects/ESLD_DSS/README.md) (Mike Halle, Jennifer Nitsch, Hans Meine)
+3. [DICOM for Quantitative Imaging](Projects/DICOMforQuantitativeImaging/README.md) (Andrey Fedorov, Christian Herz)
 
 ## Shape Analysis, Segmentation
 
