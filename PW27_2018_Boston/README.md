@@ -124,16 +124,16 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Aucoin, Nicole |	Harmonus Inc
 1. Golland, Polina  |	MIT
 1. Jang, Sam	Mai
-1. Kapur, Tina	 |Brigham and Women's Hospital
+1. Kapur, Tina	 | Brigham and Women's Hospital
 1. Liao, Ruizhi |	MIT
 1. Meyer, Anneke |	University of Magdeburg, Computer-Assisted Surgery Group
 1. Michoud, Loïc |	University of Michigan
-1. Palomar, Rafael	 |The Intervention Centre, Oslo University Hospital
-1. Patel, Jay	 |MIT
+1. Palomar, Rafael	 | The Intervention Centre, Oslo University Hospital
+1. Patel, Jay	 | MIT
 1. Peled, Sharon |	Brigham and Women's Hospital
-1. Pieper, Steve	 |Isomics, Inc.
-1. Pinter, Csaba	 |Queen's University
-1. Schornak, Joseph	 |Worcester Polytechnic Institute Automation and Interventional Medicine Laboratory
-1. Schwier, Michael	 |Brigham and Women's Hospital
+1. Pieper, Steve	 | Isomics, Inc.
+1. Pinter, Csaba	 | Queen's University
+1. Schornak, Joseph	 | Worcester Polytechnic Institute Automation and Interventional Medicine Laboratory
+1. Schwier, Michael	 | Brigham and Women's Hospital
 1. Sunderland, Kyle |	Queen's University
 1. Tubau Ribera, Nina	
