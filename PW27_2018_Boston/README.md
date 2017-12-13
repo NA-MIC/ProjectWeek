@@ -90,7 +90,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 ## Quantitative Imaging Informatics
 
-1. [Refactoring of Model Fitting Tools into Extension Suite](Projects/ModelFittingTools/README.md) (Michael Schwier, Andrey Fedorov)
+1. [Refactoring of Model Fitting Tools into Extension Suite](Projects/ModelFittingTools/README.md) (Michael Schwier, Sharon Peled, Andrey Fedorov)
 2. [Decision Support for End-Stage Liver Disease Transplants](Projects/ESLD_DSS/README.md) (Mike Halle, Jennifer Nitsch, Hans Meine)
 
 ## Shape Analysis, Segmentation
