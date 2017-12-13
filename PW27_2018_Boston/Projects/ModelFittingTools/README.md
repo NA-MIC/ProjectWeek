@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Michael Schwier (Brigham and Women's Hospital / Harvard Medical School)
+- Sharon Peled (Brigham and Women's Hospital / Harvard Medical School)
 - Andrey Fedorov (Brigham and Women's Hospital / Harvard Medical School)
 
 # Project Description
@@ -23,6 +24,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 1. Analyze current status
     1. Identify common functionality
     2. Identify common process flow
+2. Debug Mouse Error Case
+2. Refactor Bolus Arrival Time
+    1. Replace hard coded part with generic approach allowing to use different methods for BAT estimate
+    2. Implement Sharon's approaches to BAT estimate
 2. Design framework architecture
 3. Implement/plan refactoring of exssting modules
 
