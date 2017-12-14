@@ -1,5 +1,5 @@
 
-Back to [Project Week 27](./README.md)
+Back to [Project Week 27](./README.md#preparatory-videoconferences)
 
 These are notes from PW#27 Preparation Hangouts held weekly on Tuesdays at 10am Boston time between Nov 7th and December 19th.
 
