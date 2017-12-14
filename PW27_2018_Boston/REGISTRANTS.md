@@ -5,7 +5,7 @@
 1. Andruejol, Johan - Kitware Inc. - johan.andruejol@kitware.com
 1. Aucoin, Nicole - Harmonus Inc. - nicole.aucoin@harmonus.com
 1. Golland, Polina - MIT - polina@csail.mit.edu
-1  Groves, Leah - Western University - lgroves6@uwo.ca
+1.  Groves, Leah - Western University - lgroves6@uwo.ca
 1. Jang, Sam	Mai - jsj@mai.ai
 1. Kapur, Tina - Brigham and Women's Hospital- tkapur@bwh.harvard.edu
 1. Liao, Ruizhi - MIT - ruizhi@csail.mit.edu
