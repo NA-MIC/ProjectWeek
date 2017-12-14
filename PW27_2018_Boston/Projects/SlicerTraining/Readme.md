@@ -3,6 +3,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Slicer Ecosystems Education for Newcomers & Developing Countries
 ## Key Investigators
 
+- Sonia Pujol (HARVARD - SPL)
 - Marilola Afonso (ULPGC - GTMA - MACbioIDi)
 - Nayra Pumar (ULPGC - GTMA - MACbioIDi)
 - Juan Ruiz Alzola (ULPGC - GTMA - MACbioIDi)
