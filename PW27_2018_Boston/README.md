@@ -38,8 +38,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 # Preparatory Videoconferences <a name="PreparationCalls"/>
 
-- Google Hangouts Link: (https://meet.google.com/wzh-syuy-otj)
-- See [Calendar](https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America/Toronto) for meeting dates and details
+- Google Hangouts Link: [Tuesdays 10am Boston time](https://meet.google.com/wzh-syuy-otj)
 - Conference call notes are available [here](HangoutsNotes.md).
 - To join the preparation hangout, click on the event above, then "more details" and finally click on the video link under "Joining Info".
 
