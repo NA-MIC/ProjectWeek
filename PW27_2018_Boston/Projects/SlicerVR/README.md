@@ -9,7 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mark Asselin (PerkLab)
 - Andras Lasso (PerkLab)
 - Steve Pieper (Isomics)
-
+- Csaba Pinter (PerkLab)
 
 # Project Description
 
