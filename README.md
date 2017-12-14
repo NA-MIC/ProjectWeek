@@ -28,7 +28,7 @@
 # Upcoming Project Weeks
 
 - **[2018 January: Project Event 27](PW27_2018_Boston/README.md) - The 27th Project Event will be held on January 8-12, 2018 at MIT.**
-- [2018 June: Project Event 28](https://www.na-mic.org/wiki/Project_Week_28) - The 28th Project Event will be held on June 25-29, 2018 at Gran Canaria, Spain.
+- [2018 June: Project Event 28](PW28_2018_GranCanaria/README.md) - The 28th Project Event will be held on June 25-29, 2018 at Gran Canaria, Spain.
 
 # Past Project Weeks
 
