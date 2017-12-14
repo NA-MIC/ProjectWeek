@@ -1,12 +1,10 @@
 
-
-
-These are the notes from PW#27 Preparation Hangouts
+These are notes from PW#27 Preparation Hangouts held weekly on Tuesdays at 10am Boston time between Nov 7th and December 19th.
 
 # Hangout #6: Dec 12
 
-* Discussion about Nicole's project - harmous interface to research software, FDA clearance discussion at PW
-* Breakout sessions - discussed and added these to the calendar
+- Discussion about Nicole's project - harmous interface to research software, FDA clearance discussion at PW
+- Breakout sessions - discussed and added these to the calendar
 
 # Hangout #5: Dec 5 
 
