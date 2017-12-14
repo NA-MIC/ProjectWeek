@@ -31,7 +31,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 **Who should attend?** This is harder to determine. Your best bet is to send an email or attend a preparatory videoconference (see below).
 
-**What else?**  The Project Week series was founded in 2005, along with the National Alliance for Medical Image Computing (NAMIC), which was chartered by the NIH to build a computational infrastructure for biomedical research.  Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts where they convene and collaborate. Participants in Project Week include[NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/).   For additional details about our experience in running these events since 2005 are available here: [Increasing the Impact of Medical Image Computing Using Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
+**What else?**  The Project Week series was founded in 2005, along with the National Alliance for Medical Image Computing (NAMIC), which was chartered by the NIH to build a computational infrastructure for biomedical research.  Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts where they convene and collaborate. Participants in Project Week include [NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/).   For additional details about our experience in running these events since 2005 are available here: [Increasing the Impact of Medical Image Computing Using Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
 
 
 **Who to contact?** Project Weeks are led by [Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur) who is happy to tell you more about them.
@@ -62,7 +62,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 1. Join the weekly [preparation call](#PreparationCalls) to discuss your idea
 1. Add a new entry in the category below by creating a new README.md file in subfolder in projects folder, and copying contents of [project description template](Projects/Template/README.md) file into it. [See detailed instructions here](https://na-mic.github.io/ProjectWeek/PW27_2018_Boston/Projects/).
-1. Post questions on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27/discussions), our communication mechanism as of PW27).
+1. Post questions on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27/discussions), our communication mechanism as of PW27.
 
 <a name="ProjectsList"/>
 
@@ -71,6 +71,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 1. [SlicerVR Updates](Projects/SlicerVR/README.md) (JC Fillon-Robin, Beatriz Paniagua, and others)
 1. Medical Infrared Imaging with Slicer (Jorge Nehrkon, Carlos Luque, Juan Ruiz)
 1. [Integration of Medical Imaging Simulators in Slicer](Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md) (Abián Hernández, Carlos Luque, Guillermo Socorro, Juan Ruiz)
+1. [Segment Editor VR](Projects/SegmentEditorVR/README.md) (Csaba Pinter, Andras Lasso)
 
 ## Deep Learning. Radiomics and GPUs
 
