@@ -1,7 +1,7 @@
 
 # Next Project Week
 
-**[2018 January: Project Event 27](PW27_2018_Boston/README.md) - The 27th Project Event will be held on January 8-12, 2018 at MIT.**
+**The [27th Project Week](https://na-mic.github.io/ProjectWeek/PW27_2018_Boston) will be held on January 8-12, 2018 at MIT.**
 
 
 # Introduction
