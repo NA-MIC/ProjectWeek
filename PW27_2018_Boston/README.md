@@ -1,6 +1,6 @@
 ![ProjectWeekLogo](ProjectWeekLogo.png)
 
-# Welcome to the web page for the 27th Project Week!
+## Welcome to the web page for the 27th Project Week!
 The 27th NA-MIC Project Week will be held during the week of January 8-12, 2018 at MIT.
 
 To receive information about this and future events please join the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27/discussions), our new dissemination mechanism as of PW27.
@@ -19,7 +19,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 - **Transportation:** Please use public transportation or park at a [local garage](http://web.mit.edu/facilities/transportation/parking/visitors/public_parking.html). There will be no parking permits from MIT.
 
-# Introduction
+## Introduction
 
 **What?** The Project Week is a week-long hands on activity in which medical image computing researchers create solutions using the open source image computing platform, [3D Slicer](http://www.slicer.org), and  [VTK](http://www.vtk.org), [ITK](http://www.itk.org), [CMake](http://www.cmake.org), and [CDash](http://www.cdash.org) libraries. Participants work collaboratively on solutions that lie on the interfaces of the fields of computer science, mechanical engineering, biomedical engineering, and medicine. In contrast to conferences and workshops where the primary focus is to report results, the objective of the Project Week is to provide a venue for creators of medical image computing open-source software creators to collaboratively work.
 
@@ -36,7 +36,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 **Who to contact?** Project Weeks are led by [Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur) who is happy to tell you more about them.
 
-# Preparatory Videoconferences <a name="PreparationCalls"/>
+## Preparatory Videoconferences <a name="PreparationCalls"/>
 
 - Google Hangouts Link: [Tuesdays 10am Boston time](https://meet.google.com/wzh-syuy-otj)
 - Conference call notes are available [here](HangoutsNotes.md).
@@ -44,7 +44,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ![CalendarJoiningInstructions](CalendarJoining.png)
 
-# Program
+## Program
 
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -56,9 +56,9 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 ![CalendarImportingInstructions](CalendarImporting.png)
 
-# Projects
+## Projects
 
-## How to add a new project?
+### How to add a new project?
 
 1. Join the weekly [preparation call](#PreparationCalls) to discuss your idea
 1. Add a new entry in the category below by creating a new README.md file in subfolder in projects folder, and copying contents of [project description template](Projects/Template/README.md) file into it. [See detailed instructions here](https://na-mic.github.io/ProjectWeek/PW27_2018_Boston/Projects/).
@@ -66,56 +66,56 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 <a name="ProjectsList"/>
 
-## Visualization and Interaction
+### Visualization and Interaction
 
 1. [SlicerVR Updates](Projects/SlicerVR/README.md) (JC Fillon-Robin, Beatriz Paniagua, and others)
 1. Medical Infrared Imaging with Slicer (Jorge Nehrkon, Carlos Luque, Juan Ruiz)
 1. [Integration of Medical Imaging Simulators in Slicer](Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md) (Abián Hernández, Carlos Luque, Guillermo Socorro, Juan Ruiz)
 1. [Segment Editor VR](Projects/SegmentEditorVR/README.md) (Csaba Pinter, Andras Lasso)
 
-## Deep Learning. Radiomics and GPUs
+### Deep Learning. Radiomics and GPUs
 
 1. [Repeatability of Pyradiomics Features](Projects/RadiomicsRepeatability/README.md) (Michael Schwier, Andrey Fedorov)
 
-## Web Technologies
+### Web Technologies
 
 1. [Open Anatomy Browser](Projects/OpenAnatomyBrowser/README.md) (Abián Hernández, Marilola Afonso, Carlos Luque, Juan Ruiz Alzola)
 
 
-## IGT: Navigation, Robotics, Surgical Planning
+### IGT: Navigation, Robotics, Surgical Planning
 1. [Harmonus IGT Project](Projects/HarmonusIGT/README.md) (Nicole Aucoin)
 1. [Tracked US Standardization 5](Projects/TrackedUSStandadization/Readme.md) (Simon Drouin, Adam Rankin, Csaba Pinter, Andras Lasso, Mark Asselin)
 
-## dMRI
+### dMRI
 
-## Quantitative Imaging Informatics
+### Quantitative Imaging Informatics
 
 1. [Refactoring of Model Fitting Tools into Extension Suite](Projects/ModelFittingTools/README.md) (Michael Schwier, Sharon Peled, Andrey Fedorov)
 2. [Decision Support for End-Stage Liver Disease Transplants](Projects/ESLD_DSS/README.md) (Mike Halle, Jennifer Nitsch, Hans Meine)
 3. [DICOM for Quantitative Imaging](Projects/DICOMforQuantitativeImaging/README.md) (Andrey Fedorov, Christian Herz)
 
-## Shape Analysis, Segmentation
+### Shape Analysis, Segmentation
 
 1. SlicerSALT Shape Analysis Toolbox Updates (Laura Pascal, JC Fillon-Robin, Beatriz Paniagua, Juan Prieto, Loic Michaud)
 1. Segmentation Inverse Challenge Playoff (Tina Kapur, Csaba Pinter, Steve Pieper, Andras Lasso)
 1. Shape Variation analyzer (Juan Prieto, Nina Tubau)
 1. Shape self-learning applications (Juan Prieto, Loic Michaud)
 
-## Infrastructure
+### Infrastructure
 1. Slicer Custom Application (Jc Fillon-Robin, Andras Lasso)
 1. Slicer Documentation @ ReadTheDocs (Jc Fillon-Robin, Andras Lasso)
 1. [Keep track of the installed extensions across version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Jc Fillon-Robin, Mathias Neugebauer, Hans Meine, Andras Lasso, Ron Kikinis)
 
-## Training and Dissemination
+### Training and Dissemination
 
 1. Affordable IGT Simulators with Sicer IGT+PLUS (Guillermo Socorro, Carlos Luque, Abián Hernández, Juan Ruiz)
 1. [Slicer Education for Newcomers & Developing Countries](Projects/SlicerTraining/Readme.md) (Sonia Pujol, Marilola Afonso, Nayra Pumar, Juan Ruiz)
 
-## Miscellaneous
+### Miscellaneous
 
 1. [Organ motion compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene)
 
-# Registrants
+## Registrants
 
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
 
