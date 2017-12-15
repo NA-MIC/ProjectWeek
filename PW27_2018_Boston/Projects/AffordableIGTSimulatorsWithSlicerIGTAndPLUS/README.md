@@ -40,7 +40,7 @@ In this project we aim to create and integrate an Image Guided Therapy (IGT) ult
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-<img src="https://github.com/medtec4susdev/FIXME.jpg" width="340" height="120">
+<!--img src="https://github.com/medtec4susdev/FIXME.jpg" width="340" height="120"-->
 
 # Background and References
 
