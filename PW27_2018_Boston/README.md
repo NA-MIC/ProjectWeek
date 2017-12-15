@@ -69,7 +69,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 ### Visualization and Interaction
 
 1. [SlicerVR Updates](Projects/SlicerVR/README.md) (JC Fillon-Robin, Beatriz Paniagua, and others)
-1. Medical Infrared Imaging with Slicer (Jorge Nehrkon, Carlos Luque, Juan Ruiz)
+1. [Medical Infrared Imaging with Slicer](Projects/MedicalInfraredImagingwithSlicer/README.md) (Jorge Quintero, Carlos Luque, Yolanda Martin, Juan Ruiz)
 1. [Integration of Medical Imaging Simulators in Slicer](Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md) (Abián Hernández, Carlos Luque, Guillermo Socorro, Juan Ruiz)
 1. [Segment Editor VR](Projects/SegmentEditorVR/README.md) (Csaba Pinter, Andras Lasso)
 
