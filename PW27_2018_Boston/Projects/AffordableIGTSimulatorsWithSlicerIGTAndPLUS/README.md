@@ -53,4 +53,4 @@ In this project we aim to create and integrate an Image Guided Therapy (IGT) ult
 + [ArUco optical trackers project site](http://www.uco.es/investiga/grupos/ava/node/26)
 
 <!--Link for editing page when displayed in GitHub pages-->
-<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/FIXME.md">Edit this page on GitHub</a>
+<a href="https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/README.md">Edit this page on GitHub</a>
