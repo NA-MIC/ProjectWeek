@@ -69,8 +69,8 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 ### Visualization and Interaction
 
 1. [SlicerVR Updates](Projects/SlicerVR/README.md) (JC Fillon-Robin, Beatriz Paniagua, and others)
-1. [Medical Infrared Imaging with Slicer](Projects/MedicalInfraredImagingwithSlicer/README.md) (Jorge Quintero, Carlos Luque, Yolanda Martin, Juan Ruiz)
-1. [Integration of Medical Imaging Simulators in Slicer](Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md) (Abián Hernández, Carlos Luque, Guillermo Socorro, Juan Ruiz)
+1. [Medical Infrared Imaging with Slicer](Projects/MedicalInfraredImagingwithSlicer/README.md) (Jorge Quintero-Nehrkorn, Jose Carlos Ruiz-Luque, Yolanda Martin-Hernando, Juan Ruiz-Alzola)
+1. [Integration of Medical Imaging Simulators in Slicer](Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md) (Abián Hernández-Guedes, Jose Carlos Ruiz.Luque, Guillermo Socorro-Marrero, Juan Ruiz-Alzola)
 1. [Segment Editor VR](Projects/SegmentEditorVR/README.md) (Csaba Pinter, Andras Lasso)
 
 ### Deep Learning. Radiomics and GPUs
@@ -79,7 +79,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 ### Web Technologies
 
-1. [Open Anatomy Browser](Projects/OpenAnatomyBrowser/README.md) (Abián Hernández, Marilola Afonso, Carlos Luque, Juan Ruiz Alzola)
+1. [Open Anatomy Browser](Projects/OpenAnatomyBrowser/README.md) (Abián Hernández-Guedes, María Dolores Afonso-Suárez, Jose Carlos Ruiz-Luque, Juan Ruiz-Alzola)
 
 
 ### IGT: Navigation, Robotics, Surgical Planning
@@ -108,8 +108,9 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 ### Training and Dissemination
 
-1. Affordable IGT Simulators with Sicer IGT+PLUS (Guillermo Socorro, Carlos Luque, Abián Hernández, Juan Ruiz)
-1. [Slicer Education for Newcomers & Developing Countries](Projects/SlicerTraining/Readme.md) (Sonia Pujol, Marilola Afonso, Nayra Pumar, Juan Ruiz)
+1. [Affordable IGT Simulators with Slicer IGT+PLUS](Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/README.md) (Guillermo Socorro-Marrero, Jose Carlos Ruiz-Luque, Abián Hernández-Guedes, Juan Ruiz-Alzola)
+
+1. [Slicer Education for Newcomers & Developing Countries](Projects/SlicerTraining/Readme.md) (Sonia Pujol, María Dolores Afonso-Suárez, Nayra Pumar-Carreras, Juan Ruiz-Alzola)
 
 ### Miscellaneous
 
