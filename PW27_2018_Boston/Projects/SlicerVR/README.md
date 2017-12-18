@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# SlicerVR - Interacting with Slicer scene in Virtual Reality headsets
+# SlicerVR - Interacting with Slicer Scene in Virtual Reality Headsets
 
 ## Key Investigators
 
