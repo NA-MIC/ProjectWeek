@@ -21,7 +21,7 @@ This project is a research collaboration between the public research institute I
 
 ## Approach and Plan
 
-1. Create a new Slicer module for processing infrared thermal images. 
+1. Create a new Slicer module for processing thermal infrared images. 
 2. Review segmentation, registration and other image processing technics for foot ulcer detection with infrared images.
 3. Testing.
 
