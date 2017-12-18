@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Remote control for Plus Server Launcher
+# Remote Control for Plus Server Launcher
 
 ## Key Investigators
 
@@ -33,7 +33,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/Sunderlandkyl/PlusApp
+- [Source code](https://github.com/Sunderlandkyl/PlusApp)
 
 <!--Link for editing page when displayed in GitHub pages-->
-<a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
+<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/PlusServerLauncherRemoteControl/Readme.md">Edit this page on GitHub</a>
