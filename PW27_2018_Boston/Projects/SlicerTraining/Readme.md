@@ -3,7 +3,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Slicer Ecosystems Education for Newcomers & Developing Countries
 ## Key Investigators
 
-- Sonia Pujol (HARVARD - SPL)
+- Sonia Pujol (BWH/HMS)
 - Marilola Afonso (ULPGC - GTMA - MACbioIDi)
 - Nayra Pumar (ULPGC - GTMA - MACbioIDi)
 - Juan Ruiz Alzola (ULPGC - GTMA - MACbioIDi)
@@ -42,9 +42,9 @@ In any case the training material sould be oriented to the creation of digital l
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-+ 3D Slicer Tutorials: https://www.slicer.org/wiki/Documentation/4.8/Training
++ [3D Slicer Tutorials](https://www.slicer.org/wiki/Documentation/4.8/Training)
 
-+ Plus Toolkit User's guide: https://plustoolkit.github.io/usersguide
++ [Plus Toolkit User's guide](https://plustoolkit.github.io/usersguide)
 
 <!--Link for editing page when displayed in GitHub pages-->
 <a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/SlicerTraining/Readme.md">Edit this page on GitHub</a>
