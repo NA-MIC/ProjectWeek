@@ -4,9 +4,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Michael Schwier (Brigham and Women's Hospital / Harvard Medical School)
-- Sharon Peled (Brigham and Women's Hospital / Harvard Medical School)
-- Andrey Fedorov (Brigham and Women's Hospital / Harvard Medical School)
+- Michael Schwier (BWH/HMS)
+- Sharon Peled (BWH/HMS)
+- Andrey Fedorov (BWH/HMS)
 
 # Project Description
 
