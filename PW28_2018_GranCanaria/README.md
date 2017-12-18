@@ -17,7 +17,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Local Organizing Committee
  
-''Dr. Juan Ruiz Alzola''<br>
+**Dr. Juan Ruiz Alzola**<br>
 Catedrático de Tecnologías de la Imagen en el área de Teoría de la Señal y las Comunicaciones<br>
 Professor of Imaging Technologies in the area of Signal Processing and Communications<br>
 Departamento de Señales y Comunicaciones<br>
@@ -26,11 +26,11 @@ Instituto Universitario de Investigación Biomédica y Sanitaria (IUIBS)<br>
 Universidad de Las Palmas de Gran Canaria<br>
 http://mt4sd.ulpgc.es
  
-''Asmaa Skareb'' [asmaa.skareb at ulpgc.es]
+**Asmaa Skareb** [asmaa.skareb at ulpgc.es]
 
 ## Preparatory Videoconferences <a name="PreparationCalls"/>
 
-- Google Hangouts: To join videoconference, click [here] on Tuesdays 10am Boston time (https://meet.google.com/wzh-syuy-otj)
+- Google Hangouts: To join the videoconference, click [here] on Tuesdays 10am Boston time (https://meet.google.com/wzh-syuy-otj)
 - Conference call notes are available [here](HangoutsNotes.md).
 
 
