@@ -41,7 +41,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 - [Source code](https://github.com/Radiomics/pyradiomics)
-- Paper on the Prostate MRI data: Fedorov A, Vangel MG, Tempany CM, Fennessy FM. Multiparametric Magnetic Resonance Imaging of the Prostate: Repeatability of Volume and Apparent Diffusion Coefficient Quantification. Invest Radiol. 2017;52(9):538-546. doi:10.1097/RLI.0000000000000382.
+- Paper on the Prostate MRI data: Fedorov A, Vangel MG, Tempany CM, Fennessy FM. Multiparametric Magnetic Resonance Imaging of the Prostate: Repeatability of Volume and Apparent Diffusion Coefficient Quantification. Invest Radiol. 2017;52(9):538-46. doi:10.1097/RLI.0000000000000382.
 
 <!--Link for editing page when displayed in GitHub pages-->
-<a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
+<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/RadiomicsRepeatability/README.md">Edit this page on GitHub</a>
