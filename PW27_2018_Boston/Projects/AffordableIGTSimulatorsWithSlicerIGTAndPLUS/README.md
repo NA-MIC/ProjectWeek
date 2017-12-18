@@ -46,11 +46,11 @@ In this project we aim to create and integrate an Image Guided Therapy (IGT) ult
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-+ 3D Slicer Tutorials: http://www.slicer.org/wiki/Documentation/4.8/Training
++ [3D Slicer Tutorials](http://www.slicer.org/wiki/Documentation/4.8/Training)
 
-+ Plus Toolkit ultrasound simulator device documentation: http://perk-software.cs.queensu.ca/plus/doc/nightly/user/DeviceUsSimulator.html
++ [Plus Toolkit ultrasound simulator device documentation](http://perk-software.cs.queensu.ca/plus/doc/nightly/user/DeviceUsSimulator.html)
 
-+ ArUco optical trackers project site: http://www.uco.es/investiga/grupos/ava/node/26
++ [ArUco optical trackers project site](http://www.uco.es/investiga/grupos/ava/node/26)
 
 <!--Link for editing page when displayed in GitHub pages-->
 <a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/FIXME.md">Edit this page on GitHub</a>
