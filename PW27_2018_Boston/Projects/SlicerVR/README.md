@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# SlicerVR - Interacting with Slicer Scene in Virtual Reality Headsets
+# SlicerOpenVR Extension Development
 
 ## Key Investigators
 
@@ -22,8 +22,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Approach and Plan
 
 1. Test building and packaging. Fix all the errors.
-1. Make it more intuitive how to fly around in the scene.
-1. Make controllers change transforms (maybe determine transform automatically from the grabbed actor), so that changes are reflected in all render windows.
 1. Testing Testing Testing
 1. Have fun in VR!!!
 
