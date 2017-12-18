@@ -3,14 +3,14 @@ Back to [Projects List](../../FIXME.md#ProjectsList)
 # Medical Infrared Imaging with Slicer 
 ## Key Investigators
 
-- Jorge Quintero (IACTEC - MACbioIDi)
-- Carlos Luque (ULPGC - GTMA - MACbioIDi)
-- Yolanda Martin (IACTEC - MACbioIDi)
-- Juan Ruiz (ULPGC - GTMA - MACbioIDi)
+- Jorge Quintero-Nehrkorn (IACTEC - MACbioIDi)
+- Jose-Carlos Ruiz-Luque (ULPGC - GTMA - MACbioIDi)
+- Yolanda Martin-Hernando (IACTEC - MACbioIDi)
+- Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
 # Project Description
 
-This project is a research collaboration between the public research institute IACTEC and the University of Las Palmas de Gran Canarias(ULPGC) in order to use InfraRed (IR) sensors and advanced image processing technics in 3D Slicer for medical diagnosis, mainly for foot ulcers detection in diabetic patients. Different infrared cameras shall be connected to 3D Slicer using the PLUS toolkit.
+This project is a research collaboration between the public research institute IACTEC and the University of Las Palmas de Gran Canarias(ULPGC) in order to use InfraRed (IR) sensors and advanced image processing technics in 3D Slicer for medical diagnosis, mainly for foot ulcers detection in diabetic patients. Different infrared cameras shall be connected to 3D Slicer using the PLUS toolkit and developed a new Thermal Slicer extension.
 
 ## Objective
 
@@ -21,7 +21,7 @@ This project is a research collaboration between the public research institute I
 
 ## Approach and Plan
 
-1. Improve the GUI in order to be more user friendly. 
+1. Create a new Slicer module for processing infrared thermal images. 
 2. Review segmentation, registration and other image processing technics for foot ulcer detection with infrared images.
 3. Testing.
 
@@ -34,22 +34,22 @@ making progress.-->
 
 <!--Add pictures and links to videos that demonstrate what has been
 accomplished.-->
-3D Slicer Training Network.
+<!--3D Slicer Training Network.-->
 
-<img src="
+<!--<img src="
 https://github.com/medtec4susdev/SlicerEcosystem/blob/master/FIXME.jpg"
-width="337" height="110">
+width="337" height="110">-->
 
 # Background and References
 
 <!--Use this space for information that may help people better understand
 your project, like links to papers, source code, or data.-->
 
-+ [3D Slicer](https://www.slicer.org)
++ 3D Slicer : https://www.slicer.org
 
-+ [Plus Toolkit Documentation](http://perk-software.cs.queensu.ca/plus/doc/nightly/user/index.html)
++ Plus Toolkit documentation: http://perk-software.cs.queensu.ca/plus/doc/nightly/user/index.html
 
-+ [IACTEC: Medical Technology Program](http://www.iac.es/iactec.php?op1=141&op2=462)
++ IACTEC: Medical Technology Program: http://www.iac.es/iactec.php?op1=141&op2=462
 
 <!--Link for editing page when displayed in GitHub pages-->
 <a href="
