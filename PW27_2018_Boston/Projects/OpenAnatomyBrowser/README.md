@@ -17,7 +17,7 @@ order to facilitate the communication between both plaforms (OpenAnatomy and Sli
 
 1. To define a strategy to follow in order to tackle i18n and l10n Oabrowser projects
 1. To study how to import/export data from/to 3DSlicer/Oabrowser/Others
-1. Create a prototype with both projects (i18n-l10n and import/export)
+1. Create a prototype with both projects (i18n-L10n and import/export)
 
 ## Approach and Plan
 
@@ -33,7 +33,7 @@ order to facilitate the communication between both plaforms (OpenAnatomy and Sli
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-Oabrowser screen.
+Open Anatomy Browser Screen
 
 <img src="https://raw.githubusercontent.com/MarilolaMACbioIDi/OpenAnatomyBrowser/master/oabrowser.jpg" width="417" height="264">
 
@@ -41,8 +41,8 @@ Oabrowser screen.
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-+ Open Anatomy Browser: https://www.frontiersin.org/articles/10.3389/fninf.2017.00022/full
-+ Brief I18n Analysis: https://github.com/Mltechbox/MedTec_MACbioIDi_Internationalization/blob/master/Analysis_SystemRequirements.pdf
++ [Open Anatomy Browser](https://www.frontiersin.org/articles/10.3389/fninf.2017.00022/full)
++ [Brief i18n Analysis](https://github.com/Mltechbox/MedTec_MACbioIDi_Internationalization/blob/master/Analysis_SystemRequirements.pdf)
 
 <!--Link for editing page when displayed in GitHub pages-->
 <a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/OpenAnatomyBrowser.md">Edit this page on GitHub</a>
