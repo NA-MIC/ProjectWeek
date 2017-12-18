@@ -15,7 +15,7 @@ order to facilitate the communication between both plaforms (OpenAnatomy and Sli
 
 ## Objective
 
-1. To define a strategy to follow in order to tackle i18n and l10n Oabrowser projects
+1. To define a strategy to follow in order to tackle i18n and L10n Oabrowser projects
 1. To study how to import/export data from/to 3DSlicer/Oabrowser/Others
 1. Create a prototype with both projects (i18n-L10n and import/export)
 
