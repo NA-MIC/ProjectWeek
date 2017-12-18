@@ -45,4 +45,4 @@ issues. Eventually, this project will be integrated in an extension for Medical 
 - Test data: https://link.to.test.data
 
 <!--Link for editing page when displayed in GitHub pages-->
-<a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
+<a href="https://github.com/NA-MIC/ProjectWeek/tree/master/PW27_2018_Boston/Projects/IntegrationOfMedicalImagingSimulatorsInSlicer">Edit this page on GitHub</a>
