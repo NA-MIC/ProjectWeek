@@ -98,13 +98,13 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 1. SlicerSALT Shape Analysis Toolbox Updates (Laura Pascal, JC Fillon-Robin, Beatriz Paniagua, Juan Prieto, Loic Michaud)
 1. Segmentation Inverse Challenge Playoff (Tina Kapur, Csaba Pinter, Steve Pieper, Andras Lasso)
-1. Shape Variation analyzer (Juan Prieto, Nina Tubau)
-1. Shape self-learning applications (Juan Prieto, Loic Michaud)
+1. Shape Variation Analyzer (Juan Prieto, Nina Tubau)
+1. Shape Self-learning Applications (Juan Prieto, Loic Michaud)
 
 ### Infrastructure
 1. Slicer Custom Application (Jc Fillon-Robin, Andras Lasso)
 1. Slicer Documentation @ ReadTheDocs (Jc Fillon-Robin, Andras Lasso)
-1. [Keep track of the installed extensions across version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Jc Fillon-Robin, Mathias Neugebauer, Hans Meine, Andras Lasso, Ron Kikinis)
+1. [Keep Track of the Installed Extensions Across Version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Jc Fillon-Robin, Mathias Neugebauer, Hans Meine, Andras Lasso, Ron Kikinis)
 
 ### Training and Dissemination
 
@@ -114,7 +114,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 ### Miscellaneous
 
-1. [Organ motion compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene)
+1. [Organ Motion Compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene)
 
 ## Registrants
 
