@@ -4,13 +4,13 @@ Back to [Projects List](../../FIXME.md#ProjectsList)
 ## Key Investigators
 
 - Jorge Quintero-Nehrkorn (IACTEC - MACbioIDi)
-- Jose-Carlos Ruiz-Luque (ULPGC - GTMA - MACbioIDi)
+- Jose Carlos Ruiz-Luque (ULPGC - GTMA - MACbioIDi)
 - Yolanda Martin-Hernando (IACTEC - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
 # Project Description
 
-This project is a research collaboration between the public research institute IACTEC and the University of Las Palmas de Gran Canarias(ULPGC) in order to use InfraRed (IR) sensors and advanced image processing technics in 3D Slicer for medical diagnosis, mainly for foot ulcers detection in diabetic patients. Different infrared cameras shall be connected to 3D Slicer using the PLUS toolkit and developed a new Thermal Slicer extension.
+This project is a research collaboration between the public research institute IACTEC and the University of Las Palmas de Gran Canarias(ULPGC) in order to use InfraRed (IR) sensors and advanced image processing technics in 3D Slicer for medical diagnosis, mainly for foot ulcers detection in diabetic patients. Different infrared cameras shall be connected to 3D Slicer using the PLUS toolkit and a new Thermal Slicer extension shall be developed.
 
 ## Objective
 
@@ -24,6 +24,7 @@ This project is a research collaboration between the public research institute I
 1. Create a new Slicer module for processing thermal infrared images. 
 2. Review segmentation, registration and other image processing technics for foot ulcer detection with infrared images.
 3. Testing.
+4. Assessment of live video streaming using ffmpeg.
 
 ## Progress and Next Steps
 
