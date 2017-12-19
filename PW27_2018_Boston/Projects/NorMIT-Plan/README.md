@@ -38,7 +38,3 @@ Currently, NorMIT-Plan consists of two modules (vessels segmentation and resecti
  1. Palomar, Rafael, et al. "A novel method for planning liver resections using deformable Bézier surfaces and distance maps." Computer Methods and Programs in Biomedicine 144 (2017): 135-45.
  2. Palomar, Rafael, et al. "Surface reconstruction for planning and navigation of liver resections." Computerized Medical Imaging and Graphics 53 (2016): 30-42.
  3. Kumar, Rahul P., et al. "Three-Dimensional Blood Vessel Segmentation and Centerline Extraction based on Two-Dimensional Cross-Section Analysis." Annals of Biomedical Engineering 43 (2015): 1223-34.
-
-
-<!--Link for editing page when displayed in GitHub pages-->
-<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/NorMIT-Plan/README.md">Edit this page on GitHub</a>
