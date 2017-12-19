@@ -51,6 +51,3 @@ In this project we aim at creating and integrating an Image Guided Therapy (IGT)
 + [Plus Toolkit Ultrasound Simulator Device Documentation](http://perk-software.cs.queensu.ca/plus/doc/nightly/user/DeviceUsSimulator.html)
 
 + [ArUco Optical Trackers Project Site](http://www.uco.es/investiga/grupos/ava/node/26)
-
-<!--Link for editing page when displayed in GitHub pages-->
-<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/README.md">Edit this page on GitHub</a>
