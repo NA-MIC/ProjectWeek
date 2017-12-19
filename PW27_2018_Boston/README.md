@@ -86,6 +86,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 ### IGT: Navigation, Robotics, Surgical Planning
 1. [Harmonus IGT Project](Projects/HarmonusIGT/README.md) (Nicole Aucoin)
 1. [Tracked US Standardization 5](Projects/TrackedUSStandadization/Readme.md) (Simon Drouin, Adam Rankin, Csaba Pinter, Andras Lasso, Mark Asselin)
+1. [NorMIT-Plan: liver resection planning](Projects/NorMIT-Plan/README.md) (Rafael Palomar)
 
 ### dMRI
 
