@@ -3,10 +3,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Open Anatomy Browser
 ## Key Investigators
 
-- Abián Hernández (ULPGC - GTMA - MACbioIDi)
-- Marilola Afonso (ULPGC - GTMA - MACbioIDi)
-- Carlos Luque (ULPGC - GTMA - MACbioIDi)
-- Juan Ruiz Alzola (ULPGC - GTMA - MACbioIDi)
+- Abián Hernández-Guedes (ULPGC - GTMA - MACbioIDi)
+- María Dolores Afonso-Suárez (ULPGC - GTMA - MACbioIDi)
+- Jose Carlos Ruiz-Luque (ULPGC - GTMA - MACbioIDi)
+- Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
 # Project Description
 The main objective of this project is to use the open anatomy browser as a training platform for everyone, including developing countries. In the first place, we plan its adaptation to different languages and study its functionality to import/export data in order to facilitate the communication between both plaforms (OpenAnatomy and Slicer). 
