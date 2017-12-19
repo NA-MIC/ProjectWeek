@@ -53,6 +53,3 @@ Back to [Projects List](../../README.md#ProjectsList)
     - https://github.com/SlicerProstate/SlicerProstate/tree/master/DWModeling
     - https://github.com/QIICR/DSC_Analysis
     - ...
-
-<!--Link for editing page when displayed in GitHub pages-->
-<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/ModelFittingTools/README.md">Edit this page on GitHub</a>
