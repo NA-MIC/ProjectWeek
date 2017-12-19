@@ -42,5 +42,3 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
 
-<!--Link for editing page when displayed in GitHub pages-->
-<a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
