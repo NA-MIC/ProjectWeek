@@ -43,6 +43,3 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
-
-<!--Link for editing page when displayed in GitHub pages-->
-<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/SlicerVRInteractions/README.md">Edit this page on GitHub</a>
