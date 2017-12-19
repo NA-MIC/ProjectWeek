@@ -40,6 +40,3 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Source code: https://github.com/pieper/dcmjs
 - Examples: https://pieper.github.io/dcmjs/examples
-
-<!--Link for editing page when displayed in GitHub pages-->
-<a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
