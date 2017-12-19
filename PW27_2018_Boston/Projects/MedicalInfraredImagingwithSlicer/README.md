@@ -51,7 +51,3 @@ your project, like links to papers, source code, or data.-->
 + [Plus Toolkit documentation](http://perk-software.cs.queensu.ca/plus/doc/nightly/user/index.html)
 
 + [IACTEC: Medical Technology Program](http://www.iac.es/iactec.php?op1=141&op2=462)
-
-<!--Link for editing page when displayed in GitHub pages-->
-<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/README.md">Edit
-this page on GitHub</a>
