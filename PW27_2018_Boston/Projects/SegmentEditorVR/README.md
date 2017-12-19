@@ -45,6 +45,3 @@ Make basic decisions about usage of Segment Editor in VR and possibly prove the 
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
-
-<!--Link for editing page when displayed in GitHub pages-->
-<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/SegmentEditorVR/README.md">Edit this page on GitHub</a>
