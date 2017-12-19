@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Sharon Peled (BWH/HMS)
 - Andrey Fedorov (BWH/HMS)
 
-# Project Description Test
+# Project Description 
 
 ## Objective
 
