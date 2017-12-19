@@ -91,7 +91,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 ### dMRI
 
-1. [Anatomically curated fiber clustering white matter parcellation atlas] (Projects/FiberClusteringAtlas/README.md) (Fan Zhang, Isaiah Norton, Lauren J. O'Donnell)
+1. [Anatomically curated fiber clustering white matter parcellation atlas](Projects/FiberClusteringAtlas/README.md) (Fan Zhang, Isaiah Norton, Lauren J. O'Donnell)
 
 ### Quantitative Imaging Informatics
 
