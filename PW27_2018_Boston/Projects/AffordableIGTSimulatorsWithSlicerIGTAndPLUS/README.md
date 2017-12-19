@@ -6,16 +6,16 @@ Back to [Projects List](../../FIXME.md#ProjectsList)
 # Affordable IGT Simulators with Slicer IGT + PLUS
 ## Key Investigators
 
-- Guillermo Socorro (ULPGC - GTMA - MACbioIDi)
-- Carlos Luque (ULPGC - GTMA - MACbioIDi)
-- Abián Hernández (ULPGC - GTMA - MACbioIDi)
-- Juan Ruiz (ULPGC - GTMA - MACbioIDi)
+- Guillermo Valentín Socorro-Marrero (ULPGC - GTMA - MACbioIDi)
+- Jose Carlos Ruiz-Luque (ULPGC - GTMA - MACbioIDi)
+- Abián Hernández-Guedes (ULPGC - GTMA - MACbioIDi)
+- Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
 # Project Description
 
 <!-- Presentation: https://medtec4susdev.github.io/FIXME -->
 
-In this project we aim to create and integrate an Image Guided Therapy (IGT) ultrasound training system in 3D Slicer. Specifically, the main objective is the implementation of an affordable navigated ultrasound simulator based on ArUco low cost optical trackers. The ultrasound simulator already implemented in the PLUS Toolkit is used as reference and new geometrical models will be included.
+In this project we aim at creating and integrating an Image Guided Therapy (IGT) ultrasound training system in 3D Slicer. Specifically, the main objective is the implementation of an affordable navigated ultrasound simulator based on ArUco low cost optical trackers. The ultrasound simulator already implemented in the PLUS Toolkit is used as reference and new geometrical models will be included.
 
 ## Objective
 
