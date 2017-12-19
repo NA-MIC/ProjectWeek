@@ -32,9 +32,3 @@ Back to [Projects List](../../README.md#ProjectsList)
   + [UV4L Stereoscopic vision](https://www.linux-projects.org/uv4l/tutorials/stereoscopic-vision/)
   + [UV4L Raspicam](https://www.linux-projects.org/documentation/uv4l-raspicam/)
   + [Protect your Raspberry PI SD card, use Read-Only filesystem](http://hallard.me/raspberry-pi-read-only/)
-
-
-<!--Link for editing page when displayed in GitHub pages-->
-<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/SlicerAR/README.md">Edit this page on GitHub</a>
-
-
