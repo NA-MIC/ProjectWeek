@@ -4,16 +4,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Abián Hernández (ULPGC - GTMA - MACbioIDi)
-- Carlos Luque (ULPGC - GTMA - MACbioIDi)
-- Guillermo Socorro (ULPGC - GTMA - MACbioIDi)
-- Juan Ruiz (ULPGC - GTMA - MACbioIDi)
+- Abián Hernández-Guedes (ULPGC - GTMA - MACbioIDi)
+- Jose Carlos Ruiz-Luque (ULPGC - GTMA - MACbioIDi)
+- Guillermo Valentín Socorro-Marrero (ULPGC - GTMA - MACbioIDi)
+- Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
 # Project Description
 
 The main objective of this project is the development of an ultrasound (US) simulation prototype based on CT images.
-Since the project is aimed to developing countries this prototype can mind the gap of gathering real dataset due to legal
-issues. Eventually, this project will be integrated in an extension for Medical Imaging Simulators, this extension is intended to contain multiple modules to simulate images for medical purpose.
+Since the project is aimed to obtain simulated objective data that allow testing algorithms or that could be used for educational purpose. Besides these data, simulated US images, come from a CT dataset with better quality that will facilitate the diagnosis. Eventually, this project will be integrated in an extension for Medical Imaging Simulators, this extension is intended to contain multiple modules to simulate images for medical purpose.
 
 ## Objective
 
