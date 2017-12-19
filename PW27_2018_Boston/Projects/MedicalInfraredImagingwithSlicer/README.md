@@ -10,7 +10,7 @@ Back to [Projects List](../../FIXME.md#ProjectsList)
 
 # Project Description
 
-This project is a research collaboration between the public research institute IACTEC and the University of Las Palmas de Gran Canarias(ULPGC) in order to use InfraRed (IR) sensors and advanced image processing technics in 3D Slicer for medical diagnosis, mainly for foot ulcers detection in diabetic patients. Different infrared cameras shall be connected to 3D Slicer using the PLUS toolkit and a new Thermal Slicer extension shall be developed.
+This project is a research collaboration between the public research institute IACTEC and the University of Las Palmas de Gran Canarias(ULPGC) in order to use InfraRed (IR) sensors and advanced image processing technics in 3D Slicer for medical diagnosis, mainly for foot ulcers detection in diabetic patients. Different infrared cameras shall be connected to 3D Slicer using the PLUS toolkit and a new medical thermal infrared extension shall be developed.
 
 ## Objective
 
