@@ -38,9 +38,3 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Background and References
 
 + [Source code](https://github.com/KitwareMedical/SlicerOpenVR)
-
-
-<!--Link for editing page when displayed in GitHub pages-->
-<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/SlicerVR/README.md">Edit this page on GitHub</a>
-
-
