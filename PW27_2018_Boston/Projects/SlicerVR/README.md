@@ -10,6 +10,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andras Lasso (PerkLab)
 - Steve Pieper (Isomics)
 - Csaba Pinter (PerkLab)
+- Adam Rankin (Robarts)
+- Leah Groves (Robarts)
 
 # Project Description
 
