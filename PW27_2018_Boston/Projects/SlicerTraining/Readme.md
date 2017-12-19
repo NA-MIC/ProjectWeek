@@ -4,9 +4,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Sonia Pujol (BWH/HMS)
-- Marilola Afonso (ULPGC - GTMA - MACbioIDi)
-- Nayra Pumar (ULPGC - GTMA - MACbioIDi)
-- Juan Ruiz Alzola (ULPGC - GTMA - MACbioIDi)
+- María Dolores Afonso-Suárez (ULPGC - GTMA - MACbioIDi)
+- Nayra Pumar-Carreras (ULPGC - GTMA - MACbioIDi)
+- Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
 # Project Description
 
