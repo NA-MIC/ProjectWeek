@@ -42,6 +42,3 @@ Since the project is aimed to obtain simulated objective data that allow testing
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
-
-<!--Link for editing page when displayed in GitHub pages-->
-<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md">Edit this page on GitHub</a>
