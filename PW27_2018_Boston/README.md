@@ -90,6 +90,8 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 1. [NorMIT-Plan: liver resection planning](Projects/NorMIT-Plan/README.md) (Rafael Palomar)
 
 ### dMRI
+1. [SlicerDMRI Core Modernization](Projects/SlicerDMRICore/README.md) (Isaiah Norton, Lauren O'Donnell)
+1. [SlicerDMRI Docfest](Projects/SlicerDMRIDocs/README.md) (Fan Zhang, Isaiah Norton, Lauren O'Donnell)
 
 1. [Anatomically curated fiber clustering white matter parcellation atlas](Projects/FiberClusteringAtlas/README.md) (Fan Zhang, Isaiah Norton, Lauren J. O'Donnell)
 
