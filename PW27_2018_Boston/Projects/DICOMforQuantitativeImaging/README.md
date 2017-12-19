@@ -31,6 +31,3 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - [https://github.com/Radiomics/pyradiomics](https://github.com/Radiomics/pyradiomics)
 - van Griethuysen, J. J. M., Fedorov, A., Parmar, C., Hosny, A., Aucoin, N., Narayan, V., Beets-Tan, R. G. H., Fillon-Robin, J. C., Pieper, S., Aerts, H. J. W. L. (2017). Computational Radiomics System to Decode the Radiographic Phenotype. Cancer Research, 77(21), e104–e107. [https://doi.org/10.1158/0008-5472.CAN-17-0339](https://doi.org/10.1158/0008-5472.CAN-17-0339)
-
-<!--Link for editing page when displayed in GitHub pages-->
-<a href="https://github.com/NA-MIC/ProjectWeek/edit/master/PW27_2018_Boston/Projects/DICOMforQuantitativeImaging/README.md">Edit this page on GitHub</a>
