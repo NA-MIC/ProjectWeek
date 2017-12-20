@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Shape Population Analyzer
+# Shape Variation Analyzer
 
 ## Key Investigators
 
