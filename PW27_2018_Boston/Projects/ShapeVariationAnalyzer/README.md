@@ -22,9 +22,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
--Data generated for each group with SMOTE algorithm
--Test neural network with this new feature extraction
--Add biological and clinical data to the neural network
+- Data generated for each group with SMOTE algorithm
+- Test neural network with this new feature extraction
+- Add biological and clinical data to the neural network
 
 # Illustrations
 
