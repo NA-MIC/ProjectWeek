@@ -22,15 +22,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
-<!--Data generated for each group with SMOTE algorithm.-->
-<!--Test neural network with this new feature extraction.-->
-<!--Add biological and clinical data to the neural network.-->
+-Data generated for each group with SMOTE algorithm
+-Test neural network with this new feature extraction
+-Add biological and clinical data to the neural network
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](morphological_classification.jpg)
+![Description of picture](morphological_classification.jpg) 
 
 ![Some more images](Example2.jpg)
 
