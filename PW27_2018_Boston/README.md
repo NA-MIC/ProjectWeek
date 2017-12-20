@@ -105,7 +105,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 1. [SlicerSALT Shape Analysis Toolbox Updates](Projects/SlicerSALT/README.md) (Laura Pascal, JC Fillon-Robin, Beatriz Paniagua, Juan Prieto, Loic Michaud)
 1. Segmentation Inverse Challenge Playoff (Tina Kapur, Csaba Pinter, Steve Pieper, Andras Lasso)
-1. Shape Variation Analyzer (Juan Prieto, Nina Tubau)
+1. [Shape Variation Analyzer](Projects/ShapeVariationAnalyzer/README.md) (Juan Prieto, Nina Tubau)
 1. Shape Self-learning Applications (Juan Prieto, Loic Michaud)
 
 ### Infrastructure
