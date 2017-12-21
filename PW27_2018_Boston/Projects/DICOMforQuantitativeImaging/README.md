@@ -18,6 +18,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Approach and Plan
 
 Issues to fix: 
+* https://github.com/QIICR/QuantitativeReporting/issues/201
+* https://github.com/QIICR/QuantitativeReporting/issues/209
 * https://github.com/QIICR/QuantitativeReporting/issues/210
 
 ## Progress and Next Steps
