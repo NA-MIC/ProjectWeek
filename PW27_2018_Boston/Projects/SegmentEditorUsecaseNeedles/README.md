@@ -4,9 +4,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- @tkapur 
+- Csaba Pinter
+- Steve Pieper
+- Andras Lasso
 
 # Project Description
 
