@@ -57,6 +57,9 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 ## Breakout Sessions *New this year*
 
+1.3D Slicer Solutions Breakout Session (JC/Bea)
+1. [Medical&Scientific software in the cloud](https://github.com/orgs/NA-MIC/teams/pw27/discussions/8)
+1. [FDA and 3D Slicer](Nicole Aucoin)
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 
