@@ -3,6 +3,12 @@ Back to [Project Week 27](./README.md#preparatory-videoconferences)
 
 These are notes from PW#27 Preparation Hangouts held weekly on Tuesdays at 10am Boston time between Nov 7th and December 19th.
 
+# Hangout #7: Dec 19
+
+* Reviewed creation of a new project entry on this repository
+* Added people to the discussion forum for the team
+* There will be a last video conference on January 2, 2018 for any last minute questions/comments
+
 # Hangout #6: Dec 12
 
 * Discussion about Nicole's project - harmous interface to research software, FDA clearance discussion at PW
