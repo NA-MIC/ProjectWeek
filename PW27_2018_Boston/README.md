@@ -68,7 +68,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 ### Visualization and Interaction
 
 1. [SlicerVR Extension](Projects/SlicerVR/README.md) (@jcfr, @bpaniagua, @adamrankin, and others)
-1. [SlicerVR Interaction Design](Projects/SlicerVRInteractions/README.md) (JC Fillion-Robin, Andras Lasso, Csaba Pinter, and others)
+1. [SlicerVR Interaction Design](Projects/SlicerVRInteractions/README.md) -- JC Fillion-Robin (@jcfr), Andras Lasso (@lassoan), Csaba Pinter (@cpinter), and others
 1. [Medical Infrared Imaging with Slicer](Projects/MedicalInfraredImagingwithSlicer/README.md) (Jorge Quintero-Nehrkorn, Jose Carlos Ruiz-Luque, Yolanda Martin-Hernando, Juan Ruiz-Alzola)
 1. [Integration of Medical Imaging Simulators in Slicer](Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md) (Abián Hernández-Guedes, Jose Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola)
 1. [Segment Editor VR](Projects/SegmentEditorVR/README.md) (Csaba Pinter, Andras Lasso)
