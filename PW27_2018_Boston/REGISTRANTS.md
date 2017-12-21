@@ -24,6 +24,7 @@
 1. Pieper, Steve - Isomics, Inc. - pieper@isomics.com
 1. Pinter, Csaba - Queen's University - csaba.pinter@queensu.ca
 1. Pujol, Sonia - Brigham and Women's Hospital  - 	spujol@bwh.harvard.edu
+1. Adam Rankin -	Robarts Research Institute -	arankin@robarts.ca
 1. Schornak, Joseph - Automation and Interventional Medicine Laboratory, Worcester Polytechnic Institute - jgschornak@wpi.edu
 1. Schwier, Michael - Brigham and Women's Hospital - mschwier@bwh.harvard.edu
 1. Sharp, Gregory	- Massachusetts General Hospital - gcsharp@partners.org
