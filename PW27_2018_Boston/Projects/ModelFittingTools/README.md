@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Michael Schwier (BWH/HMS)
 - Sharon Peled (BWH/HMS)
 - Andrey Fedorov (BWH/HMS)
+- Andrew Beers (MGH/HST)
 
 # Project Description 
 
@@ -17,6 +18,7 @@ Back to [Projects List](../../README.md#ProjectsList)
     2. Combine in one Slicer extension
     3. Clear Interface for adding new modules
     4. Good test coverage
+    5. Common Framework
 2. Long-term: Become standard toolset
 
 ## Approach and Plan
@@ -47,9 +49,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: 
+- Projects considered to be (possibly) part of the refactored extension : 
     - https://github.com/millerjv/PkModeling
     - https://github.com/QIICR/T1Mapping
     - https://github.com/SlicerProstate/SlicerProstate/tree/master/DWModeling
     - https://github.com/QIICR/DSC_Analysis
+    - https://github.com/gattia/Slicer-T2mapping
+    - https://github.com/gti-fing/SlicerPetSpectAnalysis/tree/master/dPetBrainQuantification
     - ...
