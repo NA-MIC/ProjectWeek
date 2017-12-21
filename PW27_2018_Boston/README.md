@@ -2,7 +2,6 @@
 
 ## Welcome to the web page for the 27th Project Week!
 The 27th NA-MIC Project Week will be held during the week of January 8-12, 2018 at MIT.
-
 To receive information about this and future events please join the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27/discussions), our new dissemination mechanism as of PW27.
 
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
@@ -34,7 +33,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 **What else?**  The Project Week series was founded in 2005, along with the National Alliance for Medical Image Computing (NAMIC), which was chartered by the NIH to build a computational infrastructure for biomedical research.  Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts where they convene and collaborate. Participants in Project Week include [NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/).   For additional details about our experience in running these events since 2005 are available here: [Increasing the Impact of Medical Image Computing Using Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.sciencedirect.com/science/article/pii/S1361841516301128).
 
 
-**Who to contact?** Project Weeks are led by [Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur) who is happy to tell you more about them.
+**Who to contact?** Project Weeks are led by @tkapur ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)) who is happy to tell you more about them.
 
 ## Preparatory Videoconferences <a name="PreparationCalls"/>
 
@@ -68,7 +67,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 ### Visualization and Interaction
 
-1. [SlicerVR Extension](Projects/SlicerVR/README.md) (JC Fillion-Robin, Beatriz Paniagua, Adam Rankin, and others)
+1. [SlicerVR Extension](Projects/SlicerVR/README.md) (@jcfr, @bpaniagua, @adamrankin, and others)
 1. [SlicerVR Interaction Design](Projects/SlicerVRInteractions/README.md) (JC Fillion-Robin, Andras Lasso, Csaba Pinter, and others)
 1. [Medical Infrared Imaging with Slicer](Projects/MedicalInfraredImagingwithSlicer/README.md) (Jorge Quintero-Nehrkorn, Jose Carlos Ruiz-Luque, Yolanda Martin-Hernando, Juan Ruiz-Alzola)
 1. [Integration of Medical Imaging Simulators in Slicer](Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md) (Abián Hernández-Guedes, Jose Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola)
