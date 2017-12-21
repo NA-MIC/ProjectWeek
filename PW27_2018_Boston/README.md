@@ -86,14 +86,15 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 
 ### IGT: Navigation, Robotics, Surgical Planning
+
 1. [Harmonus IGT Project](Projects/HarmonusIGT/README.md) (Nicole Aucoin)
 1. [Tracked US Standardization 5](Projects/TrackedUSStandadization/Readme.md) (Simon Drouin, Adam Rankin, Csaba Pinter, Andras Lasso, Mark Asselin)
 1. [NorMIT-Plan: liver resection planning](Projects/NorMIT-Plan/README.md) (Rafael Palomar)
 
 ### dMRI
+
 1. [SlicerDMRI Core Modernization](Projects/SlicerDMRICore/README.md) (Isaiah Norton, Lauren O'Donnell)
 1. [SlicerDMRI Docfest](Projects/SlicerDMRIDocs/README.md) (Fan Zhang, Isaiah Norton, Lauren O'Donnell)
-
 1. [Anatomically curated fiber clustering white matter parcellation atlas](Projects/FiberClusteringAtlas/README.md) (Fan Zhang, Isaiah Norton, Lauren J. O'Donnell)
 
 ### Quantitative Imaging Informatics
@@ -110,6 +111,7 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 1. Shape Self-learning Applications (Juan Prieto, Loic Michaud)
 
 ### Infrastructure
+
 1. Slicer Custom Application (Jc Fillon-Robin, Andras Lasso)
 1. Slicer Documentation @ ReadTheDocs (Jc Fillon-Robin, Andras Lasso)
 1. [Keep Track of the Installed Extensions Across Version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Jc Fillon-Robin, Mathias Neugebauer, Hans Meine, Andras Lasso, Ron Kikinis)
@@ -117,7 +119,6 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 ### Training and Dissemination
 
 1. [Affordable IGT Simulators with Slicer IGT+PLUS](Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/README.md) (Guillermo Valentín Socorro-Marrero, Jose Carlos Ruiz-Luque, Abián Hernández-Guedes, Juan Ruiz-Alzola)
-
 1. [Slicer Education for Newcomers & Developing Countries](Projects/SlicerTraining/Readme.md) (Sonia Pujol, María Dolores Afonso-Suárez, Nayra Pumar-Carreras, Juan Ruiz-Alzola)
 
 ### Miscellaneous
