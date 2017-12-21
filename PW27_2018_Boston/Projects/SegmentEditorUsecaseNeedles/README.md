@@ -4,12 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Tina Kapur (Brigham and Women's Hospital)
-- Csaba Pinter (Queens University)
-- Steve Pieper (Isomics Inc)
-- Andras Lasso (Queens University)
-- Roya Khajavi (Brigham and Women's Hospital)
-
+- @tkapur @cpinter @pieper @lassoan @gpernelle
 
 # Project Description
 
