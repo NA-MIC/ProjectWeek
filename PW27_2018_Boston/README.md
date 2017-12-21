@@ -55,6 +55,9 @@ To import the calendar into your own Google calendar, open [https://calendar.goo
 
 ![CalendarImportingInstructions](CalendarImporting.png)
 
+## Breakout Sessions *New this year*
+
+
 ## Projects
 ---
 ### How to add a new project?
