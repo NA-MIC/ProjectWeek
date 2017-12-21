@@ -29,7 +29,7 @@
 1. Schwier, Michael (@michaelschwier) - Brigham and Women's Hospital - mschwier@bwh.harvard.edu
 1. Sharp, Gregory	(@gregsharp) - Massachusetts General Hospital - gcsharp@partners.org
 1. Sunderland, Kyle (@Sunderlandkyl) - Queen's University - 1krs1@queensu.ca
-1. Tubau Ribera, Nina - tnina@umich.edu
+1. Tubau Ribera, Nina (@ninatubau) - tnina@umich.edu
 1. Van Griethuysen, Joost (@JoostJM) - Netherlands Cancer Institute - 	j.v.griethuysen@nki.nl
 1. Vimort, JB (@jbvimort) - Kitware Inc. - jb.vimort@kitware.com
 1. Zhang, Fan (@zhangfanmark) - Brigham and Women's Hospital - fzhang@bwh.harvard.edu
