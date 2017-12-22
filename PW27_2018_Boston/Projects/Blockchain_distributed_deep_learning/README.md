@@ -4,8 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- [Juan-Carlos Prieto] (https://github.com/juanprietob) (University of North Carolina)
-- [Loïc Michoud] (https://github.com/loic-michoud) (University of Michigan)
+- [Juan-Carlos Prieto](https://github.com/juanprietob) (University of North Carolina)
+- [Loïc Michoud](https://github.com/loic-michoud) (University of Michigan)
 
 # Project Description
 
