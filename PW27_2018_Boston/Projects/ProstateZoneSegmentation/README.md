@@ -34,9 +34,9 @@ After successful segmentation, a sector map could be extracted that is used for 
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Segmentation Example](GT segmentation.PNG)
+![Segmentation Example](segmentation.PNG)
 
-![Segmentation Example 2](GT segmentation2.PNG)
+![Segmentation Example 2](segmentation2.PNG)
 
 # Background and References
 
