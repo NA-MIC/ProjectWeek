@@ -96,6 +96,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Using SegmentEditor for Deep Learning Data Annotation](Projects/SegmentEditorUsecaseNeedles/README.md) (@tkapur @gpernelle @cpinter @pieper @lassoan)
 1. [Shape Variation Analyzer](Projects/ShapeVariationAnalyzer/README.md) (Juan Prieto, Nina Tubau)
 1. Shape Self-learning Applications (Juan Prieto, Loic Michaud)
+1. [Multi Label Segmentation of Prostate Zones with Volumetric CNN](Projects/ProstateZoneSegmentation/README.md) (Anneke Meyer, Alireza Mehrtast, Andrey Fedorov, Christian Hansen)
 
 ### Infrastructure
 
