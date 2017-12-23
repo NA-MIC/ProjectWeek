@@ -24,6 +24,7 @@ After successful segmentation, a sector map could be extracted that is used for 
 
 1. Apply variants of volumentric CNN architectures.
 1. Discuss ways to obtain overlap- and gap-free segmentations.
+1. Discuss methods to create sector map. Which landmarks should be used?
 
 ## Progress and Next Steps
 
