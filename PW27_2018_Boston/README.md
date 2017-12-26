@@ -107,7 +107,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ### Training and Dissemination
 
 1. [Affordable IGT Simulators with Slicer IGT+PLUS](Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/README.md) (Guillermo Valentín Socorro-Marrero, Jose Carlos Ruiz-Luque, Abián Hernández-Guedes, Juan Ruiz-Alzola)
-1. [Slicer Education for Newcomers & Developing Countries](Projects/SlicerTraining/Readme.md) (Sonia Pujol, María Dolores Afonso-Suárez, Nayra Pumar-Carreras, Juan Ruiz-Alzola)
+1. [Slicer Education for Newcomers & Developing Countries](Projects/SlicerTraining/README.md) (Sonia Pujol, María Dolores Afonso-Suárez, Nayra Pumar-Carreras, Juan Ruiz-Alzola)
 
 ### Miscellaneous
 
