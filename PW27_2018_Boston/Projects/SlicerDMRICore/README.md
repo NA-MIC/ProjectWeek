@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# SlicerDMRI internals modernizatoin: display and i/o refactoring
+# SlicerDMRI internals modernization: display and i/o refactoring
 
 ## Key Investigators
 
