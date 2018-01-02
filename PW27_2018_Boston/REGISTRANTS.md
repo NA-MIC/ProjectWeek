@@ -8,16 +8,16 @@
 1. Fillion-Robin, Jean-Christophe (@jcfr) - 	Kitware Inc. - 	jchris.fillionr@kitware.com
 1. Golland, Polina - MIT - polina@csail.mit.edu
 1. Grauer, Michael (@mgrauer) - 	Kitware Inc.	 - michael.grauer@kitware.com
-1. Groves, Leah (lgroves6) - Western University - lgroves6@uwo.ca
-1. Jang, Sam	Mai - jsj@mai.ai
+1. Groves, Leah (@lgroves6) - Western University - lgroves6@uwo.ca
+1. Jang, Sam	Mai (@samjang23) - jsj@mai.ai
 1. Kapur, Tina (@tkapur) - Brigham and Women's Hospital - tkapur@bwh.harvard.edu
 1. Lasso, Andras (@lassoan) - PerkLab, Queen's University - lasso@queensu.ca
 1. Liao, Ruizhi (@RayRuizhiLiao) - MIT - ruizhi@csail.mit.edu
-1. Meyer, Anneke (AnnekeMeyer) - Computer-Assisted Surgery Group, University of Magdeburg - anneke@isg.cs.uni-magdeburg.de
-1. Michoud, Loïc - University of Michigan - lo.michoud@gmail.com
-1. Nitsch, Jennifer - University of Bremen - jenitsch@uni-bremen.de
+1. Meyer, Anneke (@AnnekeMeyer) - Computer-Assisted Surgery Group, University of Magdeburg - anneke@isg.cs.uni-magdeburg.de
+1. Michoud, Loïc (@loic-michoud) - University of Michigan - lo.michoud@gmail.com
+1. Nitsch, Jennifer (@jnitsch1) - University of Bremen - jenitsch@uni-bremen.de
 1. Norton, Isaiah (@ihnorton) - Brigham & Women's Hospital - isaiah.norton@gmail.com
-1. Palomar, Rafael - The Intervention Centre, Oslo University Hospital - rafael.palomar@rr-research.no
+1. Palomar, Rafael (@RafaelPalomar) - The Intervention Centre, Oslo University Hospital - rafael.palomar@rr-research.no
 1. Pascal, Laura (@laurapascal) - Kitware Inc. - laura.pascal@kitware.com
 1. Patel, Jay - MIT - jbpatel@mit.edu
 1. Peled, Sharon (@speled) - Brigham and Women's Hospital- speled66@gmail.com
