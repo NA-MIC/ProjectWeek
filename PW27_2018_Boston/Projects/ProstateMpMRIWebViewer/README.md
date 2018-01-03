@@ -11,15 +11,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-1. Objective A. Describe it in 1-2 sentences.
-1. Objective B. Describe it in 1-2 sentences.
-1. Objective C. Describe it in 1-2 sentences.
+1. Developing dicom utilities for viewing prostate mpMR images on the web
+2. Creating user interaction capabilities for the viewer
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Exploring dcmjs library 
+2. 
 
 ## Progress and Next Steps
 
@@ -37,6 +35,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
+
