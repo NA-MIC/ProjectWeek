@@ -6,6 +6,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Steve Pieper (Isomics)
 - Erik Ziegler (OHIF)
+- Alireza Mehrtash (BWH/UBC)
+- Alireza Sedghi (BWH/Queen's Univeristy)
 
 
 # Project Description
