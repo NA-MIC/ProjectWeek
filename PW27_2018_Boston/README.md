@@ -41,11 +41,6 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 [How to add this calendar to your own?](AddCalendar/README.md)
 
-## Breakout Sessions *New this year*
-
-1. [3D Slicer Solutions Breakout Session] (JC/Bea)
-1. [Medical&Scientific software in the cloud](https://github.com/orgs/NA-MIC/teams/pw27/discussions/8)
-1. [FDA and 3D Slicer](Nicole Aucoin)
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 
@@ -61,9 +56,6 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Segment Editor VR](Projects/SegmentEditorVR/README.md) (Csaba Pinter, Andras Lasso)
 1. [SlicerAR](Projects/SlicerAR/README.md) (Adam Rankin)
 
-### Deep Learning. Radiomics and GPUs
-
-1. [Repeatability of Pyradiomics Features](Projects/RadiomicsRepeatability/README.md) (Michael Schwier, Andrey Fedorov)
 
 ### Web Technologies
 
@@ -90,13 +82,16 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 2. [Decision Support for End-Stage Liver Disease Transplants](Projects/ESLD_DSS/README.md) (Mike Halle, Jennifer Nitsch, Hans Meine)
 3. [DICOM for Quantitative Imaging](Projects/DICOMforQuantitativeImaging/README.md) (Andrey Fedorov, Christian Herz)
 
-### Shape Analysis, Segmentation
+### Shape Analysis, Segmentation, Deep Learning, Radiomics, Organ Motion Compensation
 
 1. [SlicerSALT Shape Analysis Toolbox Updates](Projects/SlicerSALT/README.md) (Laura Pascal, JC Fillon-Robin, Beatriz Paniagua, Juan Prieto, Loic Michaud)
 1. [Using SegmentEditor for Deep Learning Data Annotation](Projects/SegmentEditorUsecaseNeedles/README.md) (@tkapur @gpernelle @cpinter @pieper @lassoan)
 1. [Shape Variation Analyzer](Projects/ShapeVariationAnalyzer/README.md) (Juan Prieto, Nina Tubau)
 1. Shape Self-learning Applications (Juan Prieto, Loic Michaud)
-1. [Multi Label Segmentation of Prostate Zones with Volumetric CNN](Projects/ProstateZoneSegmentation/README.md) (Anneke Meyer, Alireza Mehrtast, Andrey Fedorov, Christian Hansen)
+1. [Multi Label Segmentation of Prostate Zones with Volumetric CNN](Projects/ProstateZoneSegmentation/README.md) (Anneke Meyer, Alireza Mehrtash, Andrey Fedorov, Christian Hansen)
+1. [Repeatability of Pyradiomics Features](Projects/RadiomicsRepeatability/README.md) (Michael Schwier, Andrey Fedorov)
+1. [Organ Motion Compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene)
+
 
 ### Infrastructure
 
@@ -109,9 +104,15 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Affordable IGT Simulators with Slicer IGT+PLUS](Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/README.md) (Guillermo Valentín Socorro-Marrero, Jose Carlos Ruiz-Luque, Abián Hernández-Guedes, Juan Ruiz-Alzola)
 1. [Slicer Education for Newcomers & Developing Countries](Projects/SlicerTraining/README.md) (Sonia Pujol, María Dolores Afonso-Suárez, Nayra Pumar-Carreras, Juan Ruiz-Alzola)
 
-### Miscellaneous
+### Next Project Week
+1. [ProjectWeek 28, June 25-29, 2018, Gran Canaria](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/)(Juan Ruiz-Alzola)
 
-1. [Organ Motion Compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene)
+
+## Breakout Sessions *New this year*
+
+1. [3D Slicer Solutions Breakout Session] (JC/Bea)
+1. [Medical&Scientific software in the cloud](https://github.com/orgs/NA-MIC/teams/pw27/discussions/8)
+1. [FDA and 3D Slicer](Nicole Aucoin)
 
 ## Registrants
 
