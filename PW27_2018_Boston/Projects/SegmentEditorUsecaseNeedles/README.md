@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- @tkapur @cpinter @pieper @lassoan @gpernelle
+- @tkapur @cpinter @pieper @lassoan @gpernelle @Royak
 
 # Project Description
 
