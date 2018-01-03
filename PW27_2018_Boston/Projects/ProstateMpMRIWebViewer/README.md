@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Alireza Sedghi (BWH/Queen's University)
 - Alireza Mehrtash (BWH/UBC)
+- Steve Pieper (Isomics)
 
 # Project Description
 
