@@ -4,55 +4,55 @@
 1. Afonso-Suarez, Maria-Dolores (@MarilolaMACbioIDi) - University of Las Palmas de Gran Canaria - marilola.afonso@ulpgc.es
 1. Anderson, Peter Traneus (@traneus) - Retired - traneus@verizon.net
 1. Andruejol, Johan (@vovythevov) - Kitware Inc. - johan.andruejol@kitware.com
-1. Asselin, Mark - PerkLab, Queen's University
+1. Asselin, Mark - PerkLab, Queen's University - masselin@cs.queensu.ca
 1. Aucoin, Nicole (@naucoin) - Harmonus Inc. - nicole.aucoin@harmonus.com
-1. Beers, Andrew - Massachusetts General Hospital
+1. Beers, Andrew - Massachusetts General Hospital - abeers@mgh.harvard.edu
 1. Drouin, Simon (@drouin-simon) - Montreal Neurological Institute - drouin.simon@gmail.com
 1. Fedorov, Andrey (@fedorov) - Brigham and Women's Hospital - fedorov@bwh.harvard.edu
 1. Fillion-Robin, Jean-Christophe (@jcfr) - Kitware Inc. - jchris.fillionr@kitware.com
 1. Golland, Polina - MIT - polina@csail.mit.edu
 1. Grauer, Michael (@mgrauer) - Kitware Inc.
 1. Groves, Leah (@lgroves6) - Western University - lgroves6@uwo.ca
-1. Gulamhussene, Gino - Otto-von-Guericke-Universität Magdeburg
-1. Harris, Gordon - Massachusetts General Hospital
-1. Hernandez-Guedes, Abian - University of Las Palmas de Gran Canaria
+1. Gulamhussene, Gino - Otto-von-Guericke-Universität Magdeburg - gino@isg.cs.ovgu.de
+1. Harris, Gordon - Massachusetts General Hospital - gjharris@partners.org
+1. Hernandez-Guedes, Abian - University of Las Palmas de Gran Canaria - abianhernandez@outlook.es
 1. Jang, Sam - Augmented Intelligence Inc. - jsj@mai.ai
 1. Jolley, Matthew - Children's Hospital of Philadelphia - jolleym@email.chop.edu
 1. Kapur, Tina (@tkapur) - Brigham and Women's Hospital - tkapur@bwh.harvard.edu
-1. Khajavibajestani, Roya - Brigham and Women's Hospital
+1. Khajavibajestani, Roya - Brigham and Women's Hospital - royakhajavi@gmail.com
 1. Lasso, Andras (@lassoan) - PerkLab, Queen's University - lasso@queensu.ca
 1. Liao, Ruizhi (@RayRuizhiLiao) - MIT - ruizhi@csail.mit.edu
-1. Mastrogiacomo, Katie - Brigham and Women's Hopital
-1. Mehrtash, Alireza - Brigham and Women's Hospital/University of British Columbia
-1. Meine, Hans (@hmeine) - University of Bremen/Fraunhofer MEVIS
+1. Mastrogiacomo, Katie - Brigham and Women's Hopital - kmast@bwh.harvard.edu
+1. Mehrtash, Alireza - Brigham and Women's Hospital/University of British Columbia - alireza.mehrtash@gmail.com
+1. Meine, Hans (@hmeine) - University of Bremen/Fraunhofer MEVIS - meine@uni-bremen.de
 1. Meyer, Anneke (@AnnekeMeyer) - Computer-Assisted Surgery Group, University of Magdeburg - anneke@isg.cs.uni-magdeburg.de
 1. Michoud, Loïc (@loic-michoud) - University of Michigan - lo.michoud@gmail.com
-1. Moiraghi, Alessandro - Geneva University Hospital
+1. Moiraghi, Alessandro - Geneva University Hospital - alessandro.moiraghi@gmail.com
 1. Nitsch, Jennifer (@jnitsch1) - University of Bremen - jenitsch@uni-bremen.de
 1. Norton, Isaiah (@ihnorton) - Brigham & Women's Hospital - isaiah.norton@gmail.com
 1. Palomar, Rafael (@RafaelPalomar) - The Intervention Center, Oslo University Hospital - rafael.palomar@rr-research.no
 1. Pascal, Laura (@laurapascal) - Kitware Inc. - laura.pascal@kitware.com
 1. Patel, Jay - MIT - jbpatel@mit.edu
 1. Peled, Sharon (@speled) - Brigham and Women's Hospital- speled66@gmail.com
-1. Pernelle, Guillaume (@gpernelle) - Imperial College, London - g.pernelle14@imperial.ac.uk
+1. Pernelle, Guillaume (@gpernelle) - Imperial College, London - gpernelle@gmail.com
 1. Pieper, Steve (@pieper) - Isomics, Inc. - pieper@isomics.com
 1. Pinter, Csaba (@cpinter) - Queen's University - csaba.pinter@queensu.ca
-1. Prieto, Juan - NIRAL
+1. Prieto, Juan - NIRAL - juanprietob@gmail.com
 1. Pujol, Sonia (@spujol) - Brigham and Women's Hospital - spujol@bwh.harvard.edu
-1. Quintero Nehrkorn, Jorge - Instituto de Astrofísica de Canarias, IACTEC
+1. Quintero Nehrkorn, Jorge - Instituto de Astrofísica de Canarias, IACTEC - jquintero@iac.es
 1. Rankin, Adam (@adamrankin) - Robarts Research Institute - arankin@robarts.ca
-1. Ruiz-Alzola, Juan - Instituto de Astrofísica de Canarias/University of Las Palmas de Gran Canaria
-1. Ruiz-Luque, José-Carlos - University of Las Palmas de Gran Canaria
+1. Ruiz-Alzola, Juan - Instituto de Astrofísica de Canarias/University of Las Palmas de Gran Canaria - Juan.Ruiz@ulpgc.es
+1. Ruiz-Luque, José-Carlos - University of Las Palmas de Gran Canaria - carlos.luque@ulpgc.es
 1. Schornak, Joseph (@schornakj) - Automation and Interventional Medicine Laboratory, Worcester Polytechnic Institute - jgschornak@wpi.edu
 1. Schwier, Michael (@michaelschwier) - Brigham and Women's Hospital - mschwier@bwh.harvard.edu
-1. Sharp, Gregory (@gregsharp) - Massachusetts General Hospital - gcsharp@partners.org
 1. Sedghi, Alireza (@sedghi) - Brigham and Women's Hospital - asedghi@bwh.harvard.edu
-1. Socorro-Marerro, Guillermo Valentín - Research Institute in Biomedical and Health Sciences (IUIBS). University of Las Palmas de Gran Canaria
+1. Sharp, Gregory (@gregsharp) - Massachusetts General Hospital - gcsharp@partners.org
+1. Socorro-Marerro, Guillermo Valentín - Research Institute in Biomedical and Health Sciences (IUIBS). University of Las Palmas de Gran Canaria - guillermo.socorro@ulpgc.es
 1. Sunderland, Kyle (@Sunderlandkyl) - Queen's University - 1krs1@queensu.ca
 1. Tubau Ribera, Nina (@ninatubau) - tnina@umich.edu
 1. Van Griethuysen, Joost (@JoostJM) - Netherlands Cancer Institute - j.v.griethuysen@nki.nl
 1. Vimort, JB (@jbvimort) - Kitware Inc. - jb.vimort@kitware.com
-1. Wake, Nicole - NYU School of Medicine
+1. Wake, Nicole - NYU School of Medicine - nicole.wake@med.nyu.edu
 1. Westin, Carl-Fredrik - Brigham and Women's Hospital - westin@bwh.harvard.edu
 1. Zhang, Fan (@zhangfanmark) - Brigham and Women's Hospital - fzhang@bwh.harvard.edu
-1. Ziegler, Erik - Radical Imaging
+1. Ziegler, Erik - Radical Imaging - erik@radicalimaging.com
