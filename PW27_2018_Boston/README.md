@@ -60,22 +60,21 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ### Web Technologies
 
 1. [Open Anatomy Browser](Projects/OpenAnatomyBrowser/README.md) (Abián Hernández-Guedes, María Dolores Afonso-Suárez, Jose Carlos Ruiz-Luque, Juan Ruiz-Alzola)
-1. [dcmjs+cornerstone utilities](Projects/dcmjs-cornerstone/README.md) (Steve Pieper, Erik Ziegler)
-1. [Prostate multiparametric MRI Web Viewer](Projects/ProstateMpMRIWebViewer/README.md) (Alireza Sedghi, Alireza Mehrtash)
+1. [DCMJS+Cornerstone Utilities](Projects/dcmjs-cornerstone/README.md) (Steve Pieper, Erik Ziegler)
 
 
 ### IGT: Navigation, Robotics, Surgical Planning
 
 1. [Harmonus IGT Project](Projects/HarmonusIGT/README.md) (Nicole Aucoin)
 1. [Tracked US Standardization 5](Projects/TrackedUSStandadization/README.md) (Simon Drouin, Adam Rankin, Csaba Pinter, Andras Lasso, Mark Asselin)
-1. [NorMIT-Plan: liver resection planning](Projects/NorMIT-Plan/README.md) (Rafael Palomar)
+1. [NorMIT-Plan: Liver Resection Planning](Projects/NorMIT-Plan/README.md) (Rafael Palomar)
 1. [Model-Based Needle Tip Localization and MR Scan Plane Planning](Projects/dynamic-needle-tracking/README.md) (Joe Schornak)
 
 ### dMRI
 
 1. [SlicerDMRI Core Modernization](Projects/SlicerDMRICore/README.md) (Isaiah Norton, Lauren O'Donnell)
 1. [SlicerDMRI Docfest](Projects/SlicerDMRIDocs/README.md) (Fan Zhang, Isaiah Norton, Lauren O'Donnell)
-1. [Anatomically curated fiber clustering white matter parcellation atlas](Projects/FiberClusteringAtlas/README.md) (Fan Zhang, Isaiah Norton, Lauren J. O'Donnell)
+1. [Anatomically Curated Fiber Clustering White Matter Parcellation Atlas](Projects/FiberClusteringAtlas/README.md) (Fan Zhang, Isaiah Norton, Lauren J. O'Donnell)
 
 ### Quantitative Imaging Informatics
 
@@ -112,7 +111,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ## Breakout Sessions *New this year*
 
 1. [3D Slicer Solutions Breakout Session] (JC/Bea)
-1. [Medical&Scientific software in the cloud](https://github.com/orgs/NA-MIC/teams/pw27/discussions/8)
+1. [Medical&Scientific Software in the Cloud](https://github.com/orgs/NA-MIC/teams/pw27/discussions/8)
 1. [FDA and 3D Slicer](Nicole Aucoin)
 
 ## Registrants
