@@ -1,4 +1,4 @@
-![ProjectWeekLogo](27thPW-logo.png)
+![ProjectWeekLogo](PW27-logo.png)
 
 ## Welcome to the web page for the 27th Project Week!
 The 27th NA-MIC Project Week will be held during the week of January 8-12, 2018 at MIT.
