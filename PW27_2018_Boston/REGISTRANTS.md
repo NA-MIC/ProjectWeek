@@ -11,7 +11,7 @@
 1. Fedorov, Andrey (@fedorov) - Brigham and Women's Hospital - fedorov@bwh.harvard.edu
 1. Fillion-Robin, Jean-Christophe (@jcfr) - Kitware Inc. - jchris.fillionr@kitware.com
 1. Golland, Polina - MIT - polina@csail.mit.edu
-1. Grauer, Michael (@mgrauer) - Kitware Inc.
+1. Grauer, Michael (@mgrauer) - Kitware Inc. - michael.grauer@kitware.com
 1. Groves, Leah (@lgroves6) - Western University - lgroves6@uwo.ca
 1. Gulamhussene, Gino - Otto-von-Guericke-Universität Magdeburg - gino@isg.cs.ovgu.de
 1. Harris, Gordon - Massachusetts General Hospital - gjharris@partners.org
