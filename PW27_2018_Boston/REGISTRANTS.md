@@ -45,7 +45,8 @@
 1. Ruiz-Luque, José-Carlos - Universidad de Las Palmas de Gran Canaria
 1. Schornak, Joseph (@schornakj) - Automation and Interventional Medicine Laboratory, Worcester Polytechnic Institute - jgschornak@wpi.edu
 1. Schwier, Michael (@michaelschwier) - Brigham and Women's Hospital - mschwier@bwh.harvard.edu
-1. Sharp, Gregory
+1. Sharp, Gregory - Massachusetts general Hospital
+1. Sedghi, Alireza  - Brigham and Women's Hospital
 1. Socorro-Marerro, Guillermo Valentín - Research Institute in Biomedical and Health Sciences (IUIBS). University of Las Palmas de Gran Canar
 1. Sunderland, Kyle (@Sunderlandkyl) - Queen's University - 1krs1@queensu.ca
 1. Tubau Ribera, Nina (@ninatubau) - tnina@umich.edu
