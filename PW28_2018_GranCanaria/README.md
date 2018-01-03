@@ -1,4 +1,4 @@
-![PW28](PW28.png)
+![PW28](PW28-500px.png)
 ## Welcome to the web page for the 28th Project Week!
 The 28th NA-MIC Project Week will be held during the week of June 25-29, 2018 at [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es/)
 
