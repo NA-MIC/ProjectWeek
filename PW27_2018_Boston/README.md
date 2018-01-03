@@ -61,6 +61,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 1. [Open Anatomy Browser](Projects/OpenAnatomyBrowser/README.md) (Abián Hernández-Guedes, María Dolores Afonso-Suárez, Jose Carlos Ruiz-Luque, Juan Ruiz-Alzola)
 1. [dcmjs+cornerstone utilities](Projects/dcmjs-cornerstone/README.md) (Steve Pieper, Erik Ziegler)
+1. [Prostate multiparametric MRI Web Viewer](Projects/ProstateMpMRIWebViewer/README.md) (Alireza Sedghi, Alireza Mehrtash)
 
 
 ### IGT: Navigation, Robotics, Surgical Planning
