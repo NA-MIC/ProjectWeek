@@ -92,6 +92,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Multi Label Segmentation of Prostate Zones with Volumetric CNN](Projects/ProstateZoneSegmentation/README.md) (Anneke Meyer, Alireza Mehrtash, Andrey Fedorov, Christian Hansen)
 1. [Repeatability of Pyradiomics Features](Projects/RadiomicsRepeatability/README.md) (Michael Schwier, Andrey Fedorov)
 1. [Organ Motion Compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene)
+1. [Chest Imaging Platform Deep Learning Lung Segmentation](Projects/CIPDeepLearningLungSegmentation/README.md) (Jorge Onieva, Raúl San José)
 
 
 ### Infrastructure
@@ -99,6 +100,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. Slicer Custom Application (Jc Fillon-Robin, Andras Lasso)
 1. Slicer Documentation @ ReadTheDocs (Jc Fillon-Robin, Andras Lasso)
 1. [Keep Track of the Installed Extensions Across Version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Jc Fillon-Robin, Mathias Neugebauer, Hans Meine, Andras Lasso, Ron Kikinis)
+1. [Slicer Deep Learning Tools Integration](Projects/SlicerDeepLearningIntegration/README.md) (Jorge Onieva, Raúl San José)
 
 ### Training and Dissemination
 
