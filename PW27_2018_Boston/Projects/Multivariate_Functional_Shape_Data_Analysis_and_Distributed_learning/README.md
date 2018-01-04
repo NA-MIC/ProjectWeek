@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Blockchain distributed deep learning
+# Multivariate Functional Shape Data Analysis & Distributed learning
 
 ## Key Investigators
 
@@ -13,7 +13,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 1. Develop a system to allow users of the website to use a statistical model (MFSDA) with their own data
 2. Develop systems to allow users to use deep learning models about bony changes and disease changing in TMJ OA
-3. Deploy blockchain technology to allow users to collaborate without ceding control to a central management intermediary
 
 ## Approach and Plan
 
@@ -22,6 +21,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 - Adding the new models of deep learning in the web system
+- Developing distributed learning to increase the accuracy of the models
 - Exploring blockchain technology that decentralize the management, make the data provenance tracable, increase robustness and availability and improve security and privacy.
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
