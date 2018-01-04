@@ -6,21 +6,18 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Fan Zhang (BWH)
 - Isaiah Norton (BWH)
-- Lauren J. O'Donnell (Affiliation)
+- Lauren J. O'Donnell (BWH)
 
 # Project Description
 
 ## Objective
 
-1. Objective A. Describe it in 1-2 sentences.
-1. Objective B. Describe it in 1-2 sentences.
-1. Objective C. Describe it in 1-2 sentences.
+Release a whole brain fiber clustering atlas for consistent white matter parcellation and tract identification.
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Create a new Git repo to store and maintain the atlas
+2. Add a script in the whitematteranalysis package to download the atlas
 
 ## Progress and Next Steps
 
