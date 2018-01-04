@@ -85,10 +85,10 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Shape Analysis, Segmentation, Deep Learning, Radiomics, Organ Motion Compensation
 
-1. [SlicerSALT Shape Analysis Toolbox Updates](Projects/SlicerSALT/README.md) (Laura Pascal, JC Fillon-Robin, Beatriz Paniagua, Juan Prieto, Loic Michaud)
+1. [SlicerSALT Shape Analysis Toolbox Updates](Projects/SlicerSALT/README.md) (Laura Pascal, JC Fillon-Robin, Beatriz Paniagua, Juan Prieto, Loic Michoud)
 1. [Using SegmentEditor for Deep Learning Data Annotation](Projects/SegmentEditorUsecaseNeedles/README.md) (@tkapur @gpernelle @cpinter @pieper @lassoan)
 1. [Shape Variation Analyzer](Projects/ShapeVariationAnalyzer/README.md) (Juan Prieto, Nina Tubau)
-1. Shape Self-learning Applications (Juan Prieto, Loic Michaud)
+1. [Blockchain distributed deep learning](Projects/Blockchain_distributed_deep_learning/README.md) (Juan Prieto, Loic Michoud)
 1. [Multi Label Segmentation of Prostate Zones with Volumetric CNN](Projects/ProstateZoneSegmentation/README.md) (Anneke Meyer, Alireza Mehrtash, Andrey Fedorov, Christian Hansen)
 1. [Repeatability of Pyradiomics Features](Projects/RadiomicsRepeatability/README.md) (Michael Schwier, Andrey Fedorov)
 1. [Organ Motion Compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene)
