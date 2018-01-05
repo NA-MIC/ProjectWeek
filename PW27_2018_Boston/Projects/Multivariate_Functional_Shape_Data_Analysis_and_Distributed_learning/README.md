@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Multivariate Functional Shape Data Analysis & Distributed learning
+# Multivariate Functional Shape Data Analysis & Distributed Learning
 
 ## Key Investigators
 
@@ -30,6 +30,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/juanprietob/clusterpost
-- Web Link: https://dsci.dent.umich.edu/
-- Documentation: https://academic.oup.com/jamia/article/24/6/1211/4108087#97611641
+- [Source Code](https://github.com/juanprietob/clusterpost)
+- [Web Link](https://dsci.dent.umich.edu/)
+- [Documentation](https://academic.oup.com/jamia/article/24/6/1211/4108087#97611641)
