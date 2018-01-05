@@ -36,4 +36,4 @@ The goal is to make available in Slicer this and other similar tools based on De
 
 # Background and References
 
-- Source code: https://github.com/acil-bwh/ChestImagingPlatform
+- [Source code](https://github.com/acil-bwh/ChestImagingPlatform)
