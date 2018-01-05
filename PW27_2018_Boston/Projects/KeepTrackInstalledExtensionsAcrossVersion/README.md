@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Keep track of the installed extensions across version
+# Keep Track of the Installed Extensions Across Version
 
 ## Key Investigators
 
@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mathias Neugebauer (Fraunhofer)
 - Hans Meine (Fraunhofer)
 - Andras Lasso (Queens)
-- Ron Kikinis (Fraunhofer, SPL)
+- Ron Kikinis (Fraunhofer,SPL)
 
 # Project Description
 
@@ -20,7 +20,7 @@ Back to [Projects List](../../README.md#ProjectsList)
    (one click-solution for getting the previous setup)
 1. Extensions that where previously installed but are not compatible for some reason, are shown but not selectable
 1. UI: a third tab ("Restore Extensions") should be added to the Extension Manager and provide at least a list
-   view for selection / a button button for installing the selected extensions
+   view for selection / a button for installing the selected extensions
 
 ## Approach and Plan
 
@@ -45,5 +45,5 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- [Source code](https://github.com/Slicer/Slicer/pull/698)
+- [Source Code](https://github.com/Slicer/Slicer/pull/698)
 - [Documentation](https://www.slicer.org/wiki/Documentation/Labs/AutomaticUpdateAndInstallationFramework)
