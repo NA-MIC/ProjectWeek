@@ -63,7 +63,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [DCMJS+Cornerstone Utilities](Projects/dcmjs-cornerstone/README.md) (Steve Pieper, Erik Ziegler)
 1. [Prostate mpMRI Web Viewer](Projects/ProstateMpMRIWebViewer/README.md) (Alireza Sedghi, Alireza Mehrtash, Steve Pieper)
 1. [Girder in the cloud](Projects/GirderWebCloud/README.md) (Michael Grauer)
-1. [Upload Slicer scene to Girder](Projecdts/GirderSlicerScene/README.md) (Michael Grauer, Tamas Ungi, JC Fillion-Robin, Pierre Assemat)
+1. [Upload Slicer scene to Girder](Projects/GirderSlicerScene/README.md) (Michael Grauer, Tamas Ungi, JC Fillion-Robin, Pierre Assemat)
 
 
 ### IGT: Navigation, Robotics, Surgical Planning
