@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Anatomically curated fiber clustering white matter parcellation atlas
+# Anatomically Curated Fiber Clustering White Matter Parcellation Atlas
 
 ## Key Investigators
 
