@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Deep Learning integration in Slicer
+# Deep Learning Integration in Slicer
 
 ## Key Investigators
 
