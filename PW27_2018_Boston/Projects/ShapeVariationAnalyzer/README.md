@@ -38,4 +38,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/DCBIA-OrthoLab/ShapeVariationAnalyzer
+- [Source code](https://github.com/DCBIA-OrthoLab/ShapeVariationAnalyzer)
