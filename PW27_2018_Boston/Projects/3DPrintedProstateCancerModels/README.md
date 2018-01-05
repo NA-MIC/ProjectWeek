@@ -3,24 +3,17 @@
 ##
 Key Investigators
 
-Nicole Wake (NYU School of Medicine)
+- Nicole Wake (NYU School of Medicine)
+- Hersh Chandarana (NYU School of Medicine)
+- Andrew Rosenkrantz (NYU School of Medicine)
+- William Huang (NYU School of Medicine)
 
-Hersh Chandarana (NYU School of Medicine)
-
-Andrew Rosenkrantz (NYU School of Medicine)
-
-William Huang (NYU School of Medicine)
-
- 
 
 #
 Project Description
 
 The goal of this project is to create a workflow to create pre-operative 3D prostate
-cancer models from multi-parametric MRI data. 
-
-
- 
+cancer models from multi-parametric MRI data.  
 
 ##
 Objective
@@ -30,7 +23,6 @@ urethra,and rectal wall.
 
 2. Prepare segmented imaging data for 3D printing.
  
-
 ##
 Approach and Plan
 
