@@ -15,7 +15,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 A common task in medical image analysis is to convert the DICOM image series into a 3d volume that is suitable for the analysis using ITK, deep learning studies, etc. The goal of this project is to summarize, discuss, and evaluate various publicly available tools that exist for this task.
 
-Initially, we want to focus on the very na
+Initially, we want to focus on the very narrow task of converting a scalar volume image series.
 
 ## Approach and Plan
 
