@@ -56,4 +56,4 @@ https://github.com/dgobbi/vtk-dicom
 
 # Background and References
 
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
+* Clunie D. How Thick am I? The Sad Story of a Lonely Slice. 2013. http://dclunie.blogspot.com/2013/10/how-thick-am-i-sad-story-of-lonely-slice.html. Accessed January 5, 2018.
