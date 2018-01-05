@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# NorMIT-Plan: Segmentation, 3D modeling and Planning of Liver Resections.
+# NorMIT-Plan: Segmentation, 3D Modeling and Planning of Liver Resections
 
 ## Key Investigators
 
