@@ -36,9 +36,10 @@ The superior ability of MR to visualize soft tissue has led to an increase in it
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- website for needle segmentation project: http://needlefinder.org/
+- [Web Site for Needle Segmentation Project](http://needlefinder.org)
+- [Recent Publication](http://www.medicalimageanalysisjournal.com/article/S1361-8415(17)30098-1/abstract)
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
-- Recent Publication: http://www.medicalimageanalysisjournal.com/article/S1361-8415(17)30098-1/abstract
+
 
