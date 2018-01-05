@@ -13,11 +13,16 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 1. Eliminate remaining dependencies in Slicer core for fiberbundle and DTI volume rendering, to simplify both Slicer core
    and SlicerDMRI maintenance and refactorability.
+2. Investigate accessibility of __distributable__ Python dependencies for WhiteMatterAnalysis and `Ni-*` (i/o, diffusion, BIDS?) integration.
 
 ## Approach and Plan
 
-1. Remove remaining DMRI display-related code from Slicer core
-1. Remove remaining DMRI i/o code from Slicer core
+- Objective 1:
+  - Remove remaining DMRI display-related code from Slicer core
+  - Remove remaining DMRI i/o code from Slicer core
+- Objective 2:
+  - Test pip installation of dependency list in Qt5/VS2015 Slicer on Windows and Mac
+  - Discuss with Jc and other contributors 
 
 ## Progress and Next Steps
 
