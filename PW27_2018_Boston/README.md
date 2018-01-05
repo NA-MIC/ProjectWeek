@@ -110,7 +110,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Slicer Education for Newcomers & Developing Countries](Projects/SlicerTraining/README.md) (Sonia Pujol, María Dolores Afonso-Suárez, Nayra Pumar-Carreras, Juan Ruiz-Alzola)
 
 ### Next Project Week
-1. [ProjectWeek 28, June 25-29, 2018, Gran Canaria](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/)(Juan Ruiz-Alzola)
+1. [ProjectWeek 28, June 25-29, 2018, Gran Canaria](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/) (Juan Ruiz-Alzola)
 
 
 ## Breakout Sessions *New this year*
