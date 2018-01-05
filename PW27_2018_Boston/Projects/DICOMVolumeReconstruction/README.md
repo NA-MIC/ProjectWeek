@@ -22,9 +22,16 @@ Initially, we want to focus on the very narrow task of converting a scalar volum
 1. Identify the list of requirements: what kind of data should be acceptable
 1. Compile the list of tools suitable for this task. Include main features of the tool: language, license, support/history of development, pros and cons, ...
 1. Collect feedback from the community - what tool do you use? what issues have you encountered? do you feel like you have a solution that is working reliably?
-2. Compile a list of representative datasets, discuss approaches that could be used to evaluate a tool.
+1. Compile a list of representative datasets, discuss approaches that could be used to evaluate a tool.
 
 ## Progress and Next Steps
+<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+
+### Discussion
+
+Questions from @lassoan:
+- Very interesting and important project, but for me the project scope and level are not very clear yet. Is it only about finding and sorting files that make up an image series? If we include lower levels, then we have to talk about what DICOM toolkits are used (DCMTK, GDCM, vtk-dicom, pydicom, ...). If we include higher levels, then we have to consider how images are reconstructed (geometry: tilted gantry, variable slice spacing, multi-orientation scout scans; image intensity: scaling and various LUTs; measurement units, etc.) and how they are stored in memory (ITK, VTK, or other image) and in file (nrrd, nifti, metaio, ...; including metadata). Also, should we exclude 3D+t, color, vector, tensor images?
+- It is a good idea to focus the discussion on a specific topic (probably "scalar volume loading" topic is already too wide), but then we should keep in mind that we cannot make general conclusions about what toolkit we should standardize on, as scalar images are not the only data type we are interested in (segmentation object, spatial registration object, structured report, RT objects, are just as important).
 
 ### Tools
 
@@ -44,8 +51,6 @@ Initially, we want to focus on the very narrow task of converting a scalar volum
 #### dcmstack
 
 [https://github.com/moloney/dcmstack](https://github.com/moloney/dcmstack)
-
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 #### vtk-dicom/dicomtools/dicomtonifti
 
