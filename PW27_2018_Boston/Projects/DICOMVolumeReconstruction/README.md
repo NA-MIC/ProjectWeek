@@ -30,25 +30,26 @@ Initially, we want to focus on the very na
 
 #### 3D Slicer DICOM ScalarVolumePlugin
 
-https://github.com/Slicer/Slicer/blob/master/Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py
+[https://github.com/Slicer/Slicer/blob/master/Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py
+](https://github.com/Slicer/Slicer/blob/master/Modules/Scripted/DICOMPlugins/DICOMScalarVolumePlugin.py)
 
 #### dcm2niix
 
-https://github.com/rordenlab/dcm2niix
+[https://github.com/rordenlab/dcm2niix](https://github.com/rordenlab/dcm2niix)
 
 #### dicom2nifti
 
-https://github.com/icometrix/dicom2nifti
+[https://github.com/icometrix/dicom2nifti](https://github.com/icometrix/dicom2nifti)
 
 #### dcmstack
 
-https://github.com/moloney/dcmstack
+[https://github.com/moloney/dcmstack](https://github.com/moloney/dcmstack)
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 #### vtk-dicom/dicomtools/dicomtonifti
 
-https://github.com/dgobbi/vtk-dicom
+[https://github.com/dgobbi/vtk-dicom](https://github.com/dgobbi/vtk-dicom)
 
 # Illustrations
 
