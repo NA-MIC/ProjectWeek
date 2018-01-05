@@ -34,10 +34,10 @@ A current challenge is that I need to simulate an MRI machine. At minimum I need
 
 See [Closed-loop Autonomous Needle Steering during Cooperatively Controlled Needle Insertionsfor MRI-guided Pelvic Interventions](http://hamlyn.doc.ic.ac.uk/hsmr/sites/default/files//HSMR17_proceedings.pdf) for a similar approach to this problem, albeit using cameras and a transparent phantom.
 
-[1] R. J. Webster, J. S. Kim, N. J. Cowan, G. S. Chirikjian, and A. M. Okamura, “Nonholonomic Modeling of Needle Steering,” The International Journal of Robotics Research, vol. 25, no. 5–6, pp. 509–525, May 2006.
+[1] R. J. Webster, J. S. Kim, N. J. Cowan, G. S. Chirikjian, and A. M. Okamura, “Nonholonomic Modeling of Needle Steering,” The International Journal of Robotics Research. 2006 May;25(5-6):509-25.
 
-[2] J. P. Swensen, M. Lin, A. M. Okamura, and N. J. Cowan, “Torsional Dynamics of Steerable Needles: Modeling and Fluoroscopic Guidance,” IEEE Transactions on Biomedical Engineering, vol. 61, no. 11, pp. 2707–2717, Nov. 2014.
+[2] J. P. Swensen, M. Lin, A. M. Okamura, and N. J. Cowan, “Torsional Dynamics of Steerable Needles: Modeling and Fluoroscopic Guidance,” IEEE Trans Biomed Eng. 2014 Nov;61(11):2707-17.
 
-[3] F. Zijlstra, J. G. Bouwman, I. Braškutė, M. A. Viergever, and P. R. Seevinck, “Fast Fourier-based simulation of off-resonance artifacts in steady-state gradient echo MRI applied to metal object localization,” Magn. Reson. Med, vol. 78, no. 5, pp. 2035–2041, Nov. 2017.
+[3] F. Zijlstra, J. G. Bouwman, I. Braškutė, M. A. Viergever, and P. R. Seevinck, “Fast Fourier-based simulation of off-resonance artifacts in steady-state gradient echo MRI applied to metal object localization,” Magn Reson Med. 2017 Nov;78(5):2035-41.
 
 
