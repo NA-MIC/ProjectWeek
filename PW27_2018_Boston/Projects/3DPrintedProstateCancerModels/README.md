@@ -34,7 +34,7 @@ urethra,and rectal wall.
 ##
 Approach and Plan
 
-1. Learn how to use the SlicerProstate module for prostate segmentation.
+1. Learn how to use relevant 3D Slicer modules for prostate segmentation (modules/extensions to consider: Segment Editor, DeepInfer, TOMAAT, SlicerProstate)
 
 2. Review methods to segment other pertinent prostate anatomy in Slicer.
 
