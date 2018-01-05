@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# dcmjs+cornerstone utilities
+# DCMJs+Cornerstone Utilities
 
 ## Key Investigators
 
