@@ -1,9 +1,8 @@
-# Affordable IGT Simulators with Slicer IGT + PLUS
-3D Slicer affordable (low cost) navigated ultrasound system for training purpose description for the 27th NA-MIC Project Week at Boston.
-
 Back to [Projects List](../../FIXME.md#ProjectsList)
 
 # Affordable IGT Simulators with Slicer IGT + PLUS
+
+3D Slicer affordable (low cost) navigated ultrasound system for training purpose description for the 27th NA-MIC Project Week at Boston.
 ## Key Investigators
 
 - Guillermo Valentín Socorro-Marrero (ULPGC - GTMA - MACbioIDi)
