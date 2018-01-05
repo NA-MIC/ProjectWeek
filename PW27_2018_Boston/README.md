@@ -113,7 +113,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [ProjectWeek 28, June 25-29, 2018, Gran Canaria](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/) (Juan Ruiz-Alzola)
 
 
-## Breakout Sessions *New this year*
+## Breakout Sessions - *New this year*
 
 1. [3D Slicer Solutions Breakout Session](JC/Bea)
 1. [Medical&Scientific Software in the Cloud](https://github.com/orgs/NA-MIC/teams/pw27/discussions/8)
