@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Slicer Guided Ultra Sound Module
 
 ## Key Investigators
 -Leah Groves (Western University)
@@ -12,9 +12,9 @@ The main purpose of this project is to create a module that integrates an alread
 
 ## Objective
 
-1. Objective A. Complete the basic GUI.
-1. Objective B. Integrate the algorithm.
-1. Objective C. Stream and freeze with real time ultrasond. 
+1. Objective A. Complete the basic GU.
+1. Objective B. Integrate the algorithm
+1. Objective C. Stream and freeze with real time ultrasond
 
 ## Approach and Plan
 
