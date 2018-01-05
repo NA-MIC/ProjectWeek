@@ -34,8 +34,8 @@ Review and update SlicerDMRI documentation for new features and code changes pos
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: <https://github.com/SlicerDMRI/SlicerDMRI>
-- Documentation: <https://dmri.slicer.org>
+- [Source code](https://github.com/SlicerDMRI/SlicerDMRI)
+- [Documentation](https://dmri.slicer.org)
 
 <!--Link for editing page when displayed in GitHub pages-->
 <a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
