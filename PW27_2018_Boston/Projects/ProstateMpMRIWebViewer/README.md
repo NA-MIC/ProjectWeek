@@ -18,7 +18,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Approach and Plan
 
 1. Exploring dcmjs library 
-2. 
 
 ## Progress and Next Steps
 
