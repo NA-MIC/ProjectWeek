@@ -46,6 +46,10 @@ https://github.com/moloney/dcmstack
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
+#### vtk-dicom/dicomtools/dicomtonifti
+
+https://github.com/dgobbi/vtk-dicom
+
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
