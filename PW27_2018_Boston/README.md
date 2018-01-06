@@ -70,6 +70,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 1. [Harmonus IGT Project](Projects/HarmonusIGT/README.md) (Nicole Aucoin)
 1. [Tracked US Standardization 5](Projects/TrackedUSStandadization/README.md) (Simon Drouin, Adam Rankin, Csaba Pinter, Andras Lasso, Mark Asselin)
+1. [Compressed Video Saving and Loading for Sequences](Projects/CompressedVideoSaving/README.md) (Longquan Chen, Kyle Sunderland, Tamas Ungi, Andras Lasso, Junichi Tokuda)
 1. [NorMIT-Plan: Liver Resection Planning](Projects/NorMIT-Plan/README.md) (Rafael Palomar)
 1. [Model-Based Needle Tip Localization and MR Scan Plane Planning](Projects/dynamic-needle-tracking/README.md) (Joe Schornak)
 1. [SlicerIGT Extension Development and Tutorial](Projects/SlicerIGT_Tutorial/README.md) (Tamas Ungi, Longquan Chen, Junichi Tokuda)
