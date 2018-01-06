@@ -4,20 +4,20 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
- - [Joost van Griethuysen](https://github.com/JoostJM)<sup>1,3,4</sup>
- - [Andriy Fedorov](https://github.com/fedorov)<sup>2</sup>
- - [Nicole Aucoin](https://github.com/naucoin)<sup>2</sup>
- - [Jean-Christophe Fillion-Robin](https://github.com/jcfr)<sup>5</sup>
- - [Ahmed Hosny](https://github.com/ahmedhosny)<sup>1</sup>
- - [Steve Pieper](https://github.com/pieper)<sup>6</sup>
- - [Hugo Aerts (PI)](https://github.com/hugoaerts)<sup>1,2</sup>
+ - [Joost van Griethuysen](https://github.com/JoostJM) <sup>1, 3, 4</sup>
+ - [Andriy Fedorov](https://github.com/fedorov) <sup>2</sup>
+ - [Nicole Aucoin](https://github.com/naucoin) <sup>2</sup>
+ - [Jean-Christophe Fillion-Robin](https://github.com/jcfr) <sup>5</sup>
+ - [Ahmed Hosny](https://github.com/ahmedhosny) <sup>1</sup>
+ - [Steve Pieper](https://github.com/pieper) <sup>6</sup>
+ - [Hugo Aerts (PI)](https://github.com/hugoaerts) <sup>1, 2</sup>
  
-<sup>1</sup>Department of Radiation Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, MA,
-<sup>2</sup>Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA,
-<sup>3</sup>Department of Radiology, Netherlands Cancer Institute, Amsterdam, The Netherlands, 
-<sup>4</sup>GROW-School for Oncology and Developmental Biology, Maastricht University Medical Center, Maastricht, The Netherlands,
-<sup>5</sup>Kitware,
-<sup>6</sup>Isomics
+<sup>1</sup> Department of Radiation Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, MA,USA.
+<sup>2</sup> Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.
+<sup>3</sup> Department of Radiology, Netherlands Cancer Institute, Amsterdam, The Netherlands 
+<sup>4</sup >GROW-School for Oncology and Developmental Biology, Maastricht University Medical Center, Maastricht, The Netherlands.
+<sup>5</sup> Kitware, Inc.
+<sup>6</sup> Isomics, Inc.
 
 # Project Description
 
@@ -59,6 +59,6 @@ Objective #2
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 - [PyRadiomics Source Code](https://github.com/Radiomics/pyradiomics)
-- [SlicerRadiomics Source code](https://github.com/Radiomics/SlicerRadiomics)
+- [SlicerRadiomics Source Code](https://github.com/Radiomics/SlicerRadiomics)
 - [Documentation](http://pyradiomics.readthedocs.io)
-- [PyRadiomics Article: [Computational Radiomics System to Decode the Radiographic Phenotype](http://cancerres.aacrjournals.org/content/77/21/e104)
+- PyRadiomics Article: [Computational Radiomics System to Decode the Radiographic Phenotype](http://cancerres.aacrjournals.org/content/77/21/e104)
