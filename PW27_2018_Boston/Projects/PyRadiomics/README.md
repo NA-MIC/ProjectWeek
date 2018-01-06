@@ -58,7 +58,7 @@ Objective #2
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- PyRadiomics Source code: https://github.com/Radiomics/pyradiomics
-- SlicerRadiomics Source code: https://github.com/Radiomics/SlicerRadiomics
-- Documentation: http://pyradiomics.readthedocs.io
-- PyRadiomics Article: [Computational Radiomics System to Decode the Radiographic Phenotype](http://cancerres.aacrjournals.org/content/77/21/e104)
+- [PyRadiomics Source Code](https://github.com/Radiomics/pyradiomics)
+- [SlicerRadiomics Source code](https://github.com/Radiomics/SlicerRadiomics)
+- [Documentation](http://pyradiomics.readthedocs.io)
+- [PyRadiomics Article: [Computational Radiomics System to Decode the Radiographic Phenotype](http://cancerres.aacrjournals.org/content/77/21/e104)
