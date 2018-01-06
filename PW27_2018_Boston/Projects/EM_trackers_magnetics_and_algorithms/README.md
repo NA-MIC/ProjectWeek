@@ -15,7 +15,7 @@ Discuss the electromagnetics and algorithms of electromagnetic trackers, both at
 1. Objective A. Find out level of interest.
 1. Objective B. Decide what to write-up at and after the workshop and where to put it.
 1. Objective C. Expand list of references.
-1. Objective D. Electromagnetic trackers have been used for over forty years in simple augmented-reality (AR) systems called Helment-Mounted Sights. Pete wonders to what extent the ancient simple AR technology (whether EM or optical or other tracker is used) might be relevant to modern AR efforts.
+1. Objective D. Electromagnetic trackers have been used for over forty years in simple augmented-reality (AR) systems called Helmet-Mounted Sights. Pete wonders to what extent the ancient simple AR technology (whether EM or optical or other tracker is used) might be relevant to modern AR efforts.
 
 ## Approach and Plan
 
