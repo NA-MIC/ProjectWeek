@@ -37,10 +37,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ### Objective #2
 
-4. Update radiomics base module to allow voxel-based extraction
-5. Add new feature extractor module to provide interface for voxel-based extraction
-6. Add Commandline interface for voxel based extraction
-7. Add examples (settings, usage) to show new functionality
+1. Update radiomics base module to allow voxel-based extraction
+2. Add new feature extractor module to provide interface for voxel-based extraction
+3. Add Commandline interface for voxel based extraction
+4. Add examples (settings, usage) to show new functionality
 
 ## Progress and Next Steps
 
