@@ -1,5 +1,4 @@
-![ProjectWeekLogo](PW27-logo-240.png) ![StataCenter](StataCenter-240.jpg)
-<a href="https://www.csail.mit.edu/about/stata-center"><img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/StataCenter-240.jpg"></a>
+![ProjectWeekLogo](PW27-logo-240.png) !<a href="https://www.csail.mit.edu/about/stata-center"><img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/StataCenter-240.jpg"></a>
 
 ## Welcome to the web page for the 27th Project Week!
 The 27th NA-MIC Project Week will be held during the week of January 8-12, 2018 at MIT.
@@ -122,6 +121,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [3D Slicer Solutions Breakout Session](JC/Bea)
 1. [Medical&Scientific Software in the Cloud](https://github.com/orgs/NA-MIC/teams/pw27/discussions/8)
 1. [FDA and 3D Slicer](Nicole Aucoin)
+
+[StataCenter](StataCenter-240.jpg)
 
 ## Registrants
 
