@@ -1,4 +1,5 @@
 ![ProjectWeekLogo](PW27-logo-240.png) ![StataCenter](StataCenter-240.jpg)
+<a href="https://www.csail.mit.edu/about/stata-center"><img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/StataCenter-240.jpg"></a>
 
 ## Welcome to the web page for the 27th Project Week!
 The 27th NA-MIC Project Week will be held during the week of January 8-12, 2018 at MIT.
