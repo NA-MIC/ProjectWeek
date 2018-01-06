@@ -31,9 +31,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 ### Objective #1
 
 1. Develop configuration file to store a radiomic model.
-2. Add a pyradiomics module or a separate github python repository that can read/write the config file and use radiomics to apply it.
-3. Add commandline interface to use new functionality.
-4. Develop new Slicer module to interface with this new pyradiomics module to make this new functionality directly available in slicer.
+1. Add a pyradiomics module or a separate github python repository that can read/write the config file and use radiomics to apply it.
+1. Add commandline interface to use new functionality.
+1. Develop new Slicer module to interface with this new pyradiomics module to make this new functionality directly available in slicer.
 
 ### Objective #2
 
