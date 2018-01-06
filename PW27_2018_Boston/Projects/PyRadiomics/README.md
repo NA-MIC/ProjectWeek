@@ -13,10 +13,10 @@ Back to [Projects List](../../README.md#ProjectsList)
  - [Hugo Aerts (PI)](https://github.com/hugoaerts) <sup>1, 2</sup>
  
 <sup>1</sup> Department of Radiation Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical -School, Boston, MA,USA.<br>
-<sup>2</sup> Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.
-<sup>3</sup> Department of Radiology, Netherlands Cancer Institute, Amsterdam, The Netherlands 
-<sup>4</sup >GROW-School for Oncology and Developmental Biology, Maastricht University Medical Center, Maastricht, The Netherlands.
-<sup>5</sup> Kitware, Inc.
+<sup>2</sup> Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.<br>
+<sup>3</sup> Department of Radiology, Netherlands Cancer Institute, Amsterdam, The Netherlands.<br>
+<sup>4</sup >GROW-School for Oncology and Developmental Biology, Maastricht University Medical Center, Maastricht, The Netherlands.<br>
+<sup>5</sup> Kitware, Inc.<br>
 <sup>6</sup> Isomics, Inc.
 
 # Project Description
@@ -28,14 +28,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-Objective #1
+### Objective #1
 
 1. Develop configuration file to store a radiomic model.
 2. Add a pyradiomics module or a separate github python repository that can read/write the config file and use radiomics to apply it.
 3. Add commandline interface to use new functionality.
 4. Develop new Slicer module to interface with this new pyradiomics module to make this new functionality directly available in slicer.
 
-Objective #2
+### Objective #2
 
 4. Update radiomics base module to allow voxel-based extraction
 5. Add new feature extractor module to provide interface for voxel-based extraction
