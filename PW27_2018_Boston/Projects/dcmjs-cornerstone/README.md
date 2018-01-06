@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# DCMJs+Cornerstone Utilities
+# DCMJS+Cornerstone Utilities
 
 ## Key Investigators
 
@@ -21,6 +21,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Approach and Plan
 
 1. Brainstorm to define useful utilities, such as client-side deidentification, data organization, previewing, format conversion, online markup or segmentation tool...
+1. Experiment with [DICOMweb](http://dicomweb.org) APIs
 1. Design, implement, and test prototypes
 1. Get comminity feedback
 
