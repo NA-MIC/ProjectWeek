@@ -11,7 +11,7 @@ this along with some info about deployment as part of the Medical and Scientific
 
 # Project Description
 
-My expertise is in Girder and scalable cloud based processing. I will give a ~15 min talk on web/cloud tech, where I'll demo Girder in AWS on Tuesday Jan 9, 1-2 pm. I am going to be at project week Monday and Tuesday. Please reach out if you want to chat!
+My expertise is in Girder and scalable cloud based processing. I will give a ~15 min talk on web/cloud tech, where I'll demo Girder in AWS on Tuesday Jan 9, 1-2 pm. I am going to be at Project Week on Monday and Tuesday. Please reach out if you want to chat!
 
 - [Source code](https://github.com/girder/girder)
 - [Documentation](http://girder.readthedocs.io/en/latest/)
