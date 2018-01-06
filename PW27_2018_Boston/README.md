@@ -1,4 +1,4 @@
-![ProjectWeekLogo](PW27-logo-240.png) <a href="https://www.csail.mit.edu/about/stata-center"><img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/StataCenter-240.jpg"></a>
+![ProjectWeekLogo](PW27-logo-240.png) <a href="https://www.csail.mit.edu/about/stata-center"><img alt="Stata Center" src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/StataCenter-240.jpg"></a>
 
 ## Welcome to the web page for the 27th Project Week!
 The 27th NA-MIC Project Week will be held during the week of January 8-12, 2018 at MIT.
@@ -10,7 +10,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ## Logistics
 
 - **Dates:** January 8-12, 2018.
-- **Location:** [MIT CSAIL, 32 Vassar St, Cambridge, MA](https://www.google.com/maps/place/MIT:+Computer+Science+and+Artificial+Intelligence+Laboratory/@42.361864,-71.090563,16z/data=!4m2!3m1!1s0x0:0x303ada1e9664dfed?hl=en), 4th Floor, R&D Lounge.
+- **Location:** [MIT CSAIL, Stata Center, 32 Vassar St, Cambridge, MA](https://www.google.com/maps/place/MIT:+Computer+Science+and+Artificial+Intelligence+Laboratory/@42.361864,-71.090563,16z/data=!4m2!3m1!1s0x0:0x303ada1e9664dfed?hl=en), 4th Floor, R&D Lounge.
 
 - **REGISTRATION:** [Register here](http://regonline.com/projectweek2018). Registration Fee: $330.
 
