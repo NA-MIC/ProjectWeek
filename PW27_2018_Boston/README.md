@@ -74,6 +74,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [NorMIT-Plan: Liver Resection Planning](Projects/NorMIT-Plan/README.md) (Rafael Palomar)
 1. [Model-Based Needle Tip Localization and MR Scan Plane Planning](Projects/dynamic-needle-tracking/README.md) (Joe Schornak)
 1. [SlicerIGT Extension Development and Tutorial](Projects/SlicerIGT_Tutorial/README.md) (Tamas Ungi, Longquan Chen, Junichi Tokuda)
+1. [EM tracker magnetics and algorithms](Projects/EM_trackers_magnetics_and_algorithms/README.md) (Peter Traneus Anderson)
 
 ### dMRI
 
