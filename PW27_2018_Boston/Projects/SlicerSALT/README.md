@@ -61,5 +61,7 @@ SlicerSALT will be used to:
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- [Source code](https://github.com/Kitware/SlicerSALT)
-- [Documentation](http://salt.slicer.org/)
+- [SlicerSALT Source code](https://github.com/Kitware/SlicerSALT)
+- [SlicerSALT Documentation](http://salt.slicer.org/)
+- [SlicerSALT Presentation](https://github.com/laurapascal/slicerprojectweek2018/blob/master/SlicerSALT_presentation.pdf)
+- [Presentation for the shape correspondence estimation for population of objects with complex topology](https://github.com/laurapascal/slicerprojectweek2018/blob/master/Estimation_of_shape_correspondence_for_population_of_objects_with_complex_topology.pdf)
