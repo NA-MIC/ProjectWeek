@@ -122,7 +122,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Breakout Sessions - *New this year*
 
-1. [3D Slicer Solutions Breakout Session](JC/Bea)
+1. [3D Slicer Solutions Breakout Session](BreakoutSessions/3D-Slicer-Solutions.md)
 1. [Medical&Scientific Software in the Cloud](https://github.com/orgs/NA-MIC/teams/pw27/discussions/8)
 1. [FDA and 3D Slicer](Nicole Aucoin)
 
