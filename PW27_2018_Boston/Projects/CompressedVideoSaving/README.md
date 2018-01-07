@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Junichi	Tokuda (Brigham and Women's Hospital)
 
 # Project Description
-The Video streaming saving module Sequence. [Video Streaming in Sequence](https://drive.google.com/open?id=16-pPUjrErgmlHZdRny_KIIuK5qoB3s0_)
+The Video streaming saving module Sequence. [Video Streaming in Sequence](https://drive.google.com/open?id=1gCdVS6aRlg__4KuaoDLK4HqSbAFGoZ4d)
 
 A 5 minutes HD video without compression will be around 10GB. VP9, H264, HEVC codecs are availabe for video compression and video streaming.
 
