@@ -1,4 +1,4 @@
-Back to [Breakout Sessions List](../../README.md#BreakoutSessions)
+Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 
 # 3D Slicer Solutions
 
