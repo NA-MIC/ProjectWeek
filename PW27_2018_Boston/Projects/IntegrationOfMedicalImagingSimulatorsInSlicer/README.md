@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Jose Carlos Ruiz-Luque (ULPGC - GTMA - MACbioIDi)
 - Guillermo Valentín Socorro-Marrero (ULPGC - GTMA - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
+- Andras Lasso (PerkLab, Queen's University)
 
 # Project Description
 
