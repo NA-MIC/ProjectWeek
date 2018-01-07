@@ -51,8 +51,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 1. [SlicerVR Extension](Projects/SlicerVR/README.md) (JC Fillion-Robin, Beatriz Paniagua, and others)
 1. [SlicerVR Interaction Design](Projects/SlicerVRInteractions/README.md) (JC Fillion-Robin, Andras Lasso, Csaba Pinter, and others)
-1. [Medical Infrared Imaging with Slicer](Projects/MedicalInfraredImagingwithSlicer/README.md) (Jorge Quintero-Nehrkorn, Jose Carlos Ruiz-Luque, Yolanda Martin-Hernando, Juan Ruiz-Alzola)
-1. [Integration of Medical Imaging Simulators in Slicer](Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md) (Abián Hernández-Guedes, Jose Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola)
+1. [Medical Infrared Imaging with Slicer](Projects/MedicalInfraredImagingwithSlicer/README.md) (Jorge Quintero-Nehrkorn, Jose Carlos Ruiz-Luque, Yolanda Martin-Hernando, Juan Ruiz-Alzola, Andras Lasso)
+1. [Integration of Medical Imaging Simulators in Slicer](Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md) (Abián Hernández-Guedes, Jose Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola, Andras Lasso)
 1. [Segment Editor VR](Projects/SegmentEditorVR/README.md) (Csaba Pinter, Andras Lasso)
 1. [SlicerAR](Projects/SlicerAR/README.md) (Adam Rankin)
 
@@ -112,7 +112,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Training and Dissemination
 
-1. [Affordable IGT Simulators with Slicer IGT+PLUS](Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/README.md) (Guillermo Valentín Socorro-Marrero, Jose Carlos Ruiz-Luque, Abián Hernández-Guedes, Juan Ruiz-Alzola)
+1. [Affordable IGT Simulators with Slicer IGT+PLUS](Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/README.md) (Guillermo Valentín Socorro-Marrero, Jose Carlos Ruiz-Luque, Abián Hernández-Guedes, Juan Ruiz-Alzola, Andras Lasso)
 1. [Slicer Education for Newcomers & Developing Countries](Projects/SlicerTraining/README.md) (Sonia Pujol, María Dolores Afonso-Suárez, Nayra Pumar-Carreras, Juan Ruiz-Alzola)
 
 ### Next Project Week
