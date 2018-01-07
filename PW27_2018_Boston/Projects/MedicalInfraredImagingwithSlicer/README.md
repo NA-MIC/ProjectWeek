@@ -7,6 +7,7 @@ Back to [Projects List](../../FIXME.md#ProjectsList)
 - Jose Carlos Ruiz-Luque (ULPGC - GTMA - MACbioIDi)
 - Yolanda Martin-Hernando (IACTEC - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
+- Andras Lasso (PerkLab, Queen's University)
 
 # Project Description
 
