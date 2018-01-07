@@ -10,6 +10,7 @@ Back to [Projects List](../../FIXME.md#ProjectsList)
 - Abián Hernández-Guedes (ULPGC - GTMA - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 - Andras Lasso (PerkLab, Queen's University)
+- Mark Asselin (PerkLab, Queen's University)
 
 # Project Description
 
