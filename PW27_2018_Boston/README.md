@@ -85,12 +85,14 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [SlicerDMRI Docfest](Projects/SlicerDMRIDocs/README.md) (Fan Zhang, Isaiah Norton, Lauren O'Donnell)
 1. [Anatomically Curated Fiber Clustering White Matter Parcellation Atlas](Projects/FiberClusteringAtlas/README.md) (Fan Zhang, Isaiah Norton, Lauren J. O'Donnell)
 
+
 ### Quantitative Imaging Informatics
 
 1. [Refactoring of Model Fitting Tools into Extension Suite](Projects/ModelFittingTools/README.md) (Michael Schwier, Sharon Peled, Andrey Fedorov, Andrew Beers)
 2. [Decision Support for End-Stage Liver Disease Transplants](Projects/ESLD_DSS/README.md) (Mike Halle, Ben Ball, April Wall, Jennifer Nitsch, Hans Meine)
 3. [DICOM for Quantitative Imaging](Projects/DICOMforQuantitativeImaging/README.md) (Andrey Fedorov, Christian Herz)
 4. [DICOM Volume Reconstruction Tools](Projects/DICOMVolumeReconstruction/README.md) (Andrey Fedorov, Andrew Beers, Joost van Griethuysen, Steve Pieper)
+
 
 ### Shape Analysis, Segmentation, Deep Learning, Radiomics, Organ Motion Compensation
 
@@ -104,6 +106,12 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [3D Printed Prostate Cancer Models](Projects/3DPrintedProstateCancerModels/README.md) (Nicole Wake, Andrey Fedorov, Hersh Chandarana, Andrew Rosenkrantz, William Huang)
 1. [PyRadiomics Models](Projects/PyRadiomics/README.md) (Joost van Griethuysen, Andrey Fedorov, Steve Pieper, Jean-Christophe Fillion-Robin, Hugo Aerts)
 
+
+### Chest Imaging Platform
+1. [Chest Imaging Platform Deep Learning Lung Segmentation](Projects/CIPDeepLearningLungSegmentation/README.md) (Jorge Onieva, Raúl San José)
+1. [Slicer Deep Learning Tools Integration](Projects/SlicerDeepLearningIntegration/README.md) (Jorge Onieva, Raúl San José)
+
+
 ### Infrastructure
 
 1. [Slicer Custom Application](Projects/SlicerCustomApplication/README.md) (Jc Fillon-Robin, Andras Lasso)
@@ -115,10 +123,6 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 1. [Affordable IGT Simulators with Slicer IGT+PLUS](Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/README.md) (Guillermo Valentín Socorro-Marrero, Jose Carlos Ruiz-Luque, Abián Hernández-Guedes, Juan Ruiz-Alzola, Andras Lasso, Mark Asselin)
 1. [Slicer Education for Newcomers & Developing Countries](Projects/SlicerTraining/README.md) (Sonia Pujol, María Dolores Afonso-Suárez, Nayra Pumar-Carreras, Juan Ruiz-Alzola)
-
-### Chest Imaging Platform
-1. [Chest Imaging Platform Deep Learning Lung Segmentation](Projects/CIPDeepLearningLungSegmentation/README.md) (Jorge Onieva, Raúl San José)
-1. [Slicer Deep Learning Tools Integration](Projects/SlicerDeepLearningIntegration/README.md) (Jorge Onieva, Raúl San José)
 
 
 ### Next Project Week
