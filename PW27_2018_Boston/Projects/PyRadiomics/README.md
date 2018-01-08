@@ -19,7 +19,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <sup>5</sup> Kitware, Inc.<br>
 <sup>6</sup> Isomics, Inc.
 
-# Project Description
+## Project Description
 
 ## Objective
 
