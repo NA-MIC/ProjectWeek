@@ -13,11 +13,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Objective
 
 1. Developing dicom utilities for viewing prostate mpMR images on the web
-2. Creating user interaction capabilities for the viewer
+1. Creating user interaction capabilities for the viewer
 
+PI-RADS reporting
 ## Approach and Plan
 
-1. Exploring dcmjs library 
+1. Brainstorming the usefull utilities for mpMRI reading of prostate
+1. Exploring dcmjs library
+1. 
 
 ## Progress and Next Steps
 
@@ -27,12 +30,18 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
+![mpmri web viewer](viewer.png)
 
-![Some more images](Example2.jpg)
+
 
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
+
+1. http://rsnacrowdquant.cloudapp.net/
+1. https://github.com/pieper/dcmjs
+1. https://github.com/OHIF
+1. https://github.com/cornerstonejs/cornerstoneTools
+
 
 
