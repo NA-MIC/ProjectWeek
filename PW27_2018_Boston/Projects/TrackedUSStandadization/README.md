@@ -28,7 +28,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 * Implement a Plus server launcher class that can be used in Plus server launcher, Slicer, Ibis, MITK and CustusX.
 
 ## Progress and Next Steps
-* SDK acquired from Attracsys
+* SDK (Windows and Linux only) acquired from Attracsys
+  * version 3.1.1 for the SpryTrack
+  * version 3.0.1 for the FusionTrack
+  * SDKs versions are not compatible but have similar functions
+  * version 4 will be released later this year with universal support
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
