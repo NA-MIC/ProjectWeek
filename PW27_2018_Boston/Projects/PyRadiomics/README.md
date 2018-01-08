@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
  - [Steve Pieper](https://github.com/pieper) <sup>6</sup>
  - [Hugo Aerts (PI)](https://github.com/hugoaerts) <sup>1, 2</sup>
  
-<sup>1</sup> Department of Radiation Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical -School, Boston, MA,USA.<br>
+<sup>1</sup> Department of Radiation Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.<br>
 <sup>2</sup> Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.<br>
 <sup>3</sup> Department of Radiology, Netherlands Cancer Institute, Amsterdam, The Netherlands.<br>
 <sup>4</sup >GROW-School for Oncology and Developmental Biology, Maastricht University Medical Center, Maastricht, The Netherlands.<br>
