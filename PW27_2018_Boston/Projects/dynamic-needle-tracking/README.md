@@ -26,6 +26,10 @@ I have an early implementation of the dynamic needle model and a skeleton of a S
 
 A current challenge is that I need to simulate an MRI machine. At minimum I need to generate custom slices of a time-variant volume that includes the moving needle. This could be achieved by resectioning real scans, or by simulating the needle susceptability artifact<sup>3</sup>.
 
+Probably worthwhile to explore different needle models. I've previously worked with a modified version of the kinematic bicycle model that incorporates dynamic behavior, but a finite element approach could also accurately model needle deflection<sup>4</sup>.
+
+
+
 <!--Illustrations: Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 # Background and References
@@ -40,4 +44,5 @@ See [Closed-loop Autonomous Needle Steering during Cooperatively Controlled Need
 
 [3] F. Zijlstra, J. G. Bouwman, I. Braškutė, M. A. Viergever, and P. R. Seevinck, “Fast Fourier-based simulation of off-resonance artifacts in steady-state gradient echo MRI applied to metal object localization,” Magn Reson Med. 2017 Nov;78(5):2035-41.
 
+[4] A. Mastmeyer, G. Pernelle, R. Ma, L. Barber, and T. Kapur, “Accurate Model-based Segmentation of Gynecologic Brachytherapy Catheter Collections in MRI-images,” Med Image Anal. 2017 Dec;42:173-88
 
