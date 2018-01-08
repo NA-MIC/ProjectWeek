@@ -25,7 +25,7 @@
 1. Jolley, Matthew (@mattjolley- Children's Hospital of Philadelphia - jolleym@email.chop.edu
 1. Kapur, Tina (@tkapur) - Brigham and Women's Hospital - tkapur@bwh.harvard.edu
 1. Khajavibajestani, Roya - Brigham and Women's Hospital - royakhajavi@gmail.com
-1. King,	Franklin (franklinwk) - Brigham and Women's Hospital - fking1@bwh.harvard.edu
+1. King,	Franklin (@franklinwk) - Brigham and Women's Hospital - fking1@bwh.harvard.edu
 1. Lasso, Andras (@lassoan) - PerkLab, Queen's University - lasso@queensu.ca
 1. Léger,	Étienne - Concordia University - e_eger@live.concordia.ca
 1. Liao, Ruizhi (@RayRuizhiLiao) - MIT - ruizhi@csail.mit.edu
