@@ -5,7 +5,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Greg Sharp (MGH)
-- Who else???
+- Adam Rankin (Robarts)
+- JC (Kitware)
 
 # Project Description
 
