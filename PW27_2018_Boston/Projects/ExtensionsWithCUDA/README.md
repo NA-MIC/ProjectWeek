@@ -26,17 +26,18 @@ Provide an easy path for distributing extensions that use CUDA.
 
 # Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+<!--Add pictures and links to videos that demonstrate what has been accomplished.
 
 ![Description of picture](Example2.jpg)
 
 ![Some more images](Example2.jpg)
+-->
 
 # Background and References
 
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
-
+<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
+-->
 
