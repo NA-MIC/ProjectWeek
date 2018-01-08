@@ -34,5 +34,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- ROS-IGTL-Bridge: https://github.com/openigtlink/ROS-IGTL-Bridge
-- OpenIGTLink: https://github.com/openigtlink/OpenIGTLink
+- [ROS-IGTL-Bridge GitHub Repository](https://github.com/openigtlink/ROS-IGTL-Bridge)
+- [Frank T, Krieger A, Leonard S, Patel NA, Tokuda J. ROS-IGTL-Bridge: an open
+network interface for image-guided therapy using the ROS environment. Int J
+Comput Assist Radiol Surg. 2017 Aug;12(8):1451-1460.](https://www.ncbi.nlm.nih.gov/pubmed/?term=28567563)
+- [OpenIGTLink Library] (https://github.com/openigtlink/OpenIGTLink)
