@@ -101,7 +101,6 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Multi Label Segmentation of Prostate Zones with Volumetric CNN](Projects/ProstateZoneSegmentation/README.md) (Anneke Meyer, Alireza Mehrtash, Andrey Fedorov, Christian Hansen)
 1. [Repeatability of Pyradiomics Features](Projects/RadiomicsRepeatability/README.md) (Michael Schwier, Joost van Griethuysen, Andrey Fedorov)
 1. [Organ Motion Compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene)
-1. [Chest Imaging Platform Deep Learning Lung Segmentation](Projects/CIPDeepLearningLungSegmentation/README.md) (Jorge Onieva, Raúl San José)
 1. [3D Printed Prostate Cancer Models](Projects/3DPrintedProstateCancerModels/README.md) (Nicole Wake, Andrey Fedorov, Hersh Chandarana, Andrew Rosenkrantz, William Huang)
 1. [PyRadiomics Models](Projects/PyRadiomics/README.md) (Joost van Griethuysen, Andrey Fedorov, Steve Pieper, Jean-Christophe Fillion-Robin, Hugo Aerts)
 
@@ -110,13 +109,17 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Slicer Custom Application](Projects/SlicerCustomApplication/README.md) (Jc Fillon-Robin, Andras Lasso)
 1. [Slicer Documentation @ ReadTheDocs](Projects/SlicerReadTheDocs/README.md) (Jc Fillon-Robin, Andras Lasso)
 1. [Keep Track of the Installed Extensions Across Version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Jc Fillon-Robin, Mathias Neugebauer, Hans Meine, Andras Lasso, Ron Kikinis)
-1. [Slicer Deep Learning Tools Integration](Projects/SlicerDeepLearningIntegration/README.md) (Jorge Onieva, Raúl San José)
 
 
 ### Training and Dissemination
 
 1. [Affordable IGT Simulators with Slicer IGT+PLUS](Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/README.md) (Guillermo Valentín Socorro-Marrero, Jose Carlos Ruiz-Luque, Abián Hernández-Guedes, Juan Ruiz-Alzola, Andras Lasso, Mark Asselin)
 1. [Slicer Education for Newcomers & Developing Countries](Projects/SlicerTraining/README.md) (Sonia Pujol, María Dolores Afonso-Suárez, Nayra Pumar-Carreras, Juan Ruiz-Alzola)
+
+### Chest Imaging Platform
+1. [Chest Imaging Platform Deep Learning Lung Segmentation](Projects/CIPDeepLearningLungSegmentation/README.md) (Jorge Onieva, Raúl San José)
+1. [Slicer Deep Learning Tools Integration](Projects/SlicerDeepLearningIntegration/README.md) (Jorge Onieva, Raúl San José)
+
 
 ### Next Project Week
 [ProjectWeek 28, June 25-29, 2018, Gran Canaria](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/) (Juan Ruiz-Alzola)
