@@ -21,8 +21,8 @@
 1. Hata,	Nobuhiko (@nobyhata) - Brigham and Women's Hopital - hata@bwh.harvard.edu
 1. Hernandez-Guedes, Abian (@SolidusAbi) - University of Las Palmas de Gran Canaria - abianhernandez@outlook.es
 1. Herz,	Christian - Brigham and Women's Hopital - cherz@bwh.harvard.edu
-1. Jang, Sam - Augmented Intelligence Inc. - jsj@mai.ai
-1. Jolley, Matthew (@mattjolley- Children's Hospital of Philadelphia - jolleym@email.chop.edu
+1. Jang, Sam (@samjang23) - Augmented Intelligence Inc. - jsj@mai.ai
+1. Jolley, Matthew (@mattjolley) - Children's Hospital of Philadelphia - jolleym@email.chop.edu
 1. Kapur, Tina (@tkapur) - Brigham and Women's Hospital - tkapur@bwh.harvard.edu
 1. Khajavibajestani, Roya - Brigham and Women's Hospital - royakhajavi@gmail.com
 1. King,	Franklin (@franklinwk) - Brigham and Women's Hospital - fking1@bwh.harvard.edu
