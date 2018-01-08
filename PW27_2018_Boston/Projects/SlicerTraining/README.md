@@ -44,4 +44,4 @@ In any case the training material sould be oriented to the creation of digital l
 
 + [3D Slicer Tutorials](https://www.slicer.org/wiki/Documentation/4.8/Training)
 
-+ [Plus Toolkit User's guide](https://plustoolkit.github.io/usersguide)
++ [Plus Toolkit User's Guide](https://plustoolkit.github.io/usersguide)
