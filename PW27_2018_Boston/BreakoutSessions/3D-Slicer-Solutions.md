@@ -22,9 +22,9 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
-# Background and References
+## Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- [Discours discussions](https://discourse.slicer.org/t/its-all-about-transitions-lets-talk-about-slicers-landing-page/113/28?u=jcfr)
-- [Slicer Solutions discussion at 2017 Winter Project Week](https://na-mic.org/wiki/2017_Winter_Project_Week/Organizations)
+- [Discours Discussions](https://discourse.slicer.org/t/its-all-about-transitions-lets-talk-about-slicers-landing-page/113/28?u=jcfr)
+- [Slicer Solutions Discussion at 2017 Winter Project Week](https://na-mic.org/wiki/2017_Winter_Project_Week/Organizations)
