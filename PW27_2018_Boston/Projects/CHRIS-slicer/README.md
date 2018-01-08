@@ -18,7 +18,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
+1. Identify a candidate slicer app to use.
+2. Containerize app in CHRIS-compliant structure.
+3. Deploy to CHRIS distributed instance running locally.
+4. Deploy to CHRIS distributed instance running on the Massachusetts Open Cloud.
 
 ## Progress and Next Steps
 
