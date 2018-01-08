@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andrew Beers (MGH)
 - Joost van Griethuysen (NKI)
 - Steve Pieper (Isomics)
+- Greg Sharp (MGH)
 
 # Project Description
 
