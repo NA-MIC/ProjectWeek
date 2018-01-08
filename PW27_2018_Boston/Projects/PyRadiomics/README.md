@@ -65,4 +65,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 Other related references:
 * Image biomarker standardisation initiative: https://arxiv.org/abs/1612.07003
-* Radiomics Ontology: http://www.radiomics.org/RO/01000
+* Radiomics Ontology: http://www.radiomics.org/RO/01000, http://bioportal.bioontology.org/ontologies/RO
