@@ -4,9 +4,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
+- Hans Meine (Fraunhofer)
 - Jean-Christophe Fillion-Robin (Kitware)
 - Mathias Neugebauer (Fraunhofer)
-- Hans Meine (Fraunhofer)
 - Andras Lasso (Queens)
 - Ron Kikinis (Fraunhofer,SPL)
 
