@@ -31,6 +31,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
+## User Wish List
+* If not totally impossible, it would be amazing if the Slicer installer had a checkbox to say "Uninstall previous Slicer version(s) and install existing extensions to new version" or similar. - Adam Rankin
+
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
