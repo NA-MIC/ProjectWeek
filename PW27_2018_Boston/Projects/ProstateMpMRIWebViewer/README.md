@@ -12,15 +12,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-1. Developing dicom utilities for viewing prostate mpMR images on the web
-1. Creating user interaction capabilities for the viewer
+1. Add support for reading and writing DICOM objects
+1. Creating user interaction capabilities for the viewer (placing fiducial, measurements) 
+1. Add support for saving the PI-RADS reporting
 
-PI-RADS reporting
 ## Approach and Plan
 
 1. Brainstorming the usefull utilities for mpMRI reading of prostate
 1. Exploring dcmjs library
-1. 
+
 
 ## Progress and Next Steps
 
