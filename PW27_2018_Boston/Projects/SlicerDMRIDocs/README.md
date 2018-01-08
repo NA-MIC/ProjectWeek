@@ -16,6 +16,9 @@ Review and update SlicerDMRI documentation for new features and code changes pos
 
 ## Approach and Plan
 
+1. Add new tutorials for newly added modules.
+2. Update existing tutorials.
+3. Update SlicerDMRI citation list to date.
 
 ## Progress and Next Steps
 
