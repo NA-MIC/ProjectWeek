@@ -27,6 +27,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+- Initial FiberBundleNode refactoring: https://github.com/SlicerDMRI/SlicerDMRI/pull/94
 
 # Illustrations
 
