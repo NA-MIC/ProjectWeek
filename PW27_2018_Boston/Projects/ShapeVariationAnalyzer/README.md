@@ -9,7 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Osteoarthritis (OA), tha most prevalent arthritis worldwide, is associated with significant pain and disability. The complex pathogenesis of temporomandibular joint (TMJ) OA remains unclear to this day, and its course challenges experts given the different morphological patterns of bone resoption and formation observed in its various stages. We developed ShapeVariationAnalyzer (SVA), a neural network to classify morphological variations using 3D models of the mandibular condyle that can provide information about bony changes and disease changing in TMJ OA.
+Osteoarthritis (OA), the most prevalent arthritis worldwide, is associated with significant pain and disability. The complex pathogenesis of temporomandibular joint (TMJ) OA remains unclear to this day, and its course challenges experts given the different morphological patterns of bone resoption and formation observed in its various stages. We developed ShapeVariationAnalyzer (SVA), a neural network to classify morphological variations using 3D models of the mandibular condyle that can provide information about bony changes and disease changing in TMJ OA.
 
 ## Objective
 
