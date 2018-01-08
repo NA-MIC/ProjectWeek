@@ -38,4 +38,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Frank T, Krieger A, Leonard S, Patel NA, Tokuda J. ROS-IGTL-Bridge: an open
 network interface for image-guided therapy using the ROS environment. Int J
 Comput Assist Radiol Surg. 2017 Aug;12(8):1451-1460.](https://www.ncbi.nlm.nih.gov/pubmed/?term=28567563)
-- [OpenIGTLink Library] (https://github.com/openigtlink/OpenIGTLink)
+- [OpenIGTLink Library](https://github.com/openigtlink/OpenIGTLink)
