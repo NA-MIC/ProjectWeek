@@ -62,3 +62,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [SlicerRadiomics Source Code](https://github.com/Radiomics/SlicerRadiomics)
 - [Documentation](http://pyradiomics.readthedocs.io)
 - PyRadiomics Article: [Computational Radiomics System to Decode the Radiographic Phenotype](http://cancerres.aacrjournals.org/content/77/21/e104)
+
+Other related references:
+* Image biomarker standardisation initiative: https://arxiv.org/abs/1612.07003
+* Radiomics Ontology: http://www.radiomics.org/RO/01000
