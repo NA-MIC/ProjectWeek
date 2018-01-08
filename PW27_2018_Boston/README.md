@@ -76,6 +76,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [SlicerIGT Extension Development and Tutorial](Projects/SlicerIGT_Tutorial/README.md) (Tamas Ungi, Longquan Chen, Junichi Tokuda)
 1. [EM tracker magnetics and algorithms](Projects/EM_trackers_magnetics_and_algorithms/README.md) (Peter Traneus Anderson)
 1. [Slicer Guided Ultra Sound Module](Projects/SlicerGuidedUltraSoundCalibration/README.md) (Leah Groves)
+1. [Trajectory Planning](Projects/TrajectoryPlanning/README.md) (Caroline Essert)
+
 
 ### dMRI
 
