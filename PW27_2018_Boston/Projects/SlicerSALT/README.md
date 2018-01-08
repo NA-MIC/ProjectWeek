@@ -22,8 +22,8 @@ Slicer Shape AnaLysis Toolbox (SlicerSALT) is the dissemination vehicle of power
 
 SlicerSALT will be used to: 
 + Compute Point Distributed Models (PDM) using Spherical Harmonic Representation on spherical topology objects (Extension alrealdy available in SlicerSALT: [SPHARM-PDM Extension](https://www.slicer.org/wiki/Documentation/4.8/Extensions/SpharmPdm))
-+ Compute estimating shape correspondence for population of objects with complex topology
-+ Run 4D regression in a collection of 3D PDMs associated to a linear variable (i.e. age)
++ Compute [estimating shape correspondence for population of objects with complex topology](https://github.com/laurapascal/slicerprojectweek2018/blob/master/Estimation_of_shape_correspondence_for_population_of_objects_with_complex_topology.pdf)
++ Run 4D regression in a collection of 3D PDMs associated to a linear variable (i.e. age) (Extension soon available in SlicerSALT: Shape Regression Extension)
 + Perform correspondence optimization using study-wise shape analysis 
 + Fit skeletal representations (s-reps) to a collection of binary volumes
 + Compute image-based correspondence in binary volumes of different topologies
@@ -56,6 +56,8 @@ SlicerSALT will be used to:
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 ![SlicerSALTlogo](https://raw.githubusercontent.com/slicersalt/slicersalt.github.io/master/images/SALT_Logo_512.png)
+![ExampleOfCorrespondingShapeEstimation](https://raw.githubusercontent.com/laurapascal/slicerprojectweek2018/master/Example_of_corresponding_shape_estimation.png)
+![MethodsForCorrespondingShapeEstimation](https://raw.githubusercontent.com/laurapascal/slicerprojectweek2018/master/methods_estimation_of_shape_correspondence_for_population_of_objects_with_complex_topology.png)
 
 # Background and References
 
@@ -64,4 +66,3 @@ SlicerSALT will be used to:
 - [SlicerSALT Source code](https://github.com/Kitware/SlicerSALT)
 - [SlicerSALT Documentation](http://salt.slicer.org/)
 - [SlicerSALT Presentation](https://github.com/laurapascal/slicerprojectweek2018/blob/master/SlicerSALT_presentation.pdf)
-- [Presentation for the shape correspondence estimation for population of objects with complex topology](https://github.com/laurapascal/slicerprojectweek2018/blob/master/Estimation_of_shape_correspondence_for_population_of_objects_with_complex_topology.pdf)
