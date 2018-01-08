@@ -64,6 +64,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Prostate mpMRI Web Viewer](Projects/ProstateMpMRIWebViewer/README.md) (Alireza Sedghi, Alireza Mehrtash, Steve Pieper)
 1. [Girder and SlicerCLIs in the Cloud](Projects/GirderWebCloud/README.md) (Michael Grauer)
 1. [Upload Slicer scene to Girder](Projects/GirderSlicerScene/README.md) (Michael Grauer, Tamas Ungi, JC Fillion-Robin, Pierre Assemat)
+1. [Slicer (and other) apps on the cloud using a system call CHRIS](Projects/CHRIS-slicer/README.md) (Rudolph Pienaar)
 
 
 ### IGT: Navigation, Robotics, Surgical Planning
@@ -107,7 +108,6 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Organ Motion Compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene)
 1. [3D Printed Prostate Cancer Models](Projects/3DPrintedProstateCancerModels/README.md) (Nicole Wake, Andrey Fedorov, Hersh Chandarana, Andrew Rosenkrantz, William Huang)
 1. [PyRadiomics Models](Projects/PyRadiomics/README.md) (Joost van Griethuysen, Andrey Fedorov, Steve Pieper, Jean-Christophe Fillion-Robin, Hugo Aerts)
-1. [Interactive deep learning for congenital heart disease segmentation](Projects/InteractiveCHDSegmentation/README.md) (Danielle Pace, Adrian Dalca, Polina Golland, Mehdi Hedjazi Moghari)
 
 
 ### Chest Imaging Platform
@@ -119,7 +119,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 1. [Slicer Custom Application](Projects/SlicerCustomApplication/README.md) (Jc Fillon-Robin, Andras Lasso)
 1. [Slicer Documentation @ ReadTheDocs](Projects/SlicerReadTheDocs/README.md) (Jc Fillon-Robin, Andras Lasso)
-1. [Keep Track of the Installed Extensions Across Version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Hans Meine, Jc Fillon-Robin, Mathias Neugebauer, Andras Lasso, Ron Kikinis)
+1. [Keep Track of the Installed Extensions Across Version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Jc Fillon-Robin, Mathias Neugebauer, Hans Meine, Andras Lasso, Ron Kikinis)
 1. [Slicer Extensions with CUDA](Projects/ExtensionsWithCUDA/README.md) (Greg Sharp)
 
 
