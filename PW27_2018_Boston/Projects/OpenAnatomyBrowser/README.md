@@ -9,7 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
 # Project Description
-The main objective of this project is to use the open anatomy browser as a training platform for everyone, including developing countries. In the first place, we plan its adaptation to different languages and study its functionality to import/export data in order to facilitate the communication between both plaforms (OpenAnatomy and Slicer). 
+The main objective of this project is to use the open anatomy browser as a training platform for everyone, including developing countries. In the first place, we plan its adaptation to different languages and study its functionality to import/export data in order to facilitate the communication between both platforms (OpenAnatomy and Slicer). 
 
 ## Objective
 
