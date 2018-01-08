@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Interactive deep learning for congenital heart disease segmentation
+# Interactive Deep Learning for Congenital Heart Disease Segmentation
 
 ## Key Investigators
 
@@ -37,4 +37,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- HVSMR challenge data: www.segchd.csail.mit.edu
+- [HVSMR Challenge Data](www.segchd.csail.mit.edu)
