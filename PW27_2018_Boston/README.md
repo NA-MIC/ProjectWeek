@@ -59,7 +59,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Web Technologies
 
-1. [Open Anatomy Browser](Projects/OpenAnatomyBrowser/README.md) (Abián Hernández-Guedes, María Dolores Afonso-Suárez, Jose Carlos Ruiz-Luque, Juan Ruiz-Alzola)
+1. [Open Anatomy Browser](Projects/OpenAnatomyBrowser/README.md) (Michael Halle, Ben Ball, Abián Hernández-Guedes, María Dolores Afonso-Suárez, Jose Carlos Ruiz-Luque, Juan Ruiz-Alzola)
 1. [DCMJS+Cornerstone Utilities](Projects/dcmjs-cornerstone/README.md) (Steve Pieper, Erik Ziegler)
 1. [Prostate mpMRI Web Viewer](Projects/ProstateMpMRIWebViewer/README.md) (Alireza Sedghi, Alireza Mehrtash, Steve Pieper)
 1. [Girder and SlicerCLIs in the Cloud](Projects/GirderWebCloud/README.md) (Michael Grauer)
@@ -88,7 +88,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ### Quantitative Imaging Informatics
 
 1. [Refactoring of Model Fitting Tools into Extension Suite](Projects/ModelFittingTools/README.md) (Michael Schwier, Sharon Peled, Andrey Fedorov, Andrew Beers)
-2. [Decision Support for End-Stage Liver Disease Transplants](Projects/ESLD_DSS/README.md) (Mike Halle, Jennifer Nitsch, Hans Meine)
+2. [Decision Support for End-Stage Liver Disease Transplants](Projects/ESLD_DSS/README.md) (Mike Halle, Ben Ball, April Wall, Jennifer Nitsch, Hans Meine)
 3. [DICOM for Quantitative Imaging](Projects/DICOMforQuantitativeImaging/README.md) (Andrey Fedorov, Christian Herz)
 4. [DICOM Volume Reconstruction Tools](Projects/DICOMVolumeReconstruction/README.md) (Andrey Fedorov, Andrew Beers, Joost van Griethuysen, Steve Pieper)
 5. [PyRadiomics Models](Projects/PyRadiomics/README.md) (Joost van Griethuysen, Andrey Fedorov, Steve Pieper, Jean-Christophe Fillion-Robin, Hugo Aerts)
