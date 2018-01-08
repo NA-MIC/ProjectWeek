@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Alireza Sedghi (BWH/Queen's University)
 
 
-# Project Description
+## Project Description
 
 ## Objective
 
