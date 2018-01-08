@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-1. Develop a system to allow users of the website to use a statistical model (MFSDA) with their own data
+1. Develop a system to allow users of the website to use a statistical model (MFSDA)
 2. Develop systems to allow users to use deep learning models about bony changes and disease changing in TMJ OA
 
 ## Approach and Plan
