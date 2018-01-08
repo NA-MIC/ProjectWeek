@@ -30,6 +30,7 @@ Osteoarthritis (OA), the most prevalent arthritis worldwide, is associated with 
 
 # Illustrations
 
+https://na-mic.org/wiki/File:TMJ_OA_figure1.png
 
 # Background and References
 
