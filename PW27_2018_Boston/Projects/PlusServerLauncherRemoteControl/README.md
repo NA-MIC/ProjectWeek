@@ -28,7 +28,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - [ ] Allow server monitoring in Slicer (Status, Server Log, etc.)
 
-- [ ] Store server info within Slicer scene to allow saving
+- [ ] Store server info within Slicer scene
 
 # Illustrations
 
