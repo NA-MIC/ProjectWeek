@@ -25,6 +25,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 * Improve support for video compression in OpenIGTLink
 * Add support for the Attracsys tracking system to the Plus Toolkit
 * Add more options to remotely control US machine parameters
+* Implement a Plus server launcher class that can be used in Plus server launcher, Slicer, Ibis, MITK and CustusX.
 
 ## Progress and Next Steps
 * SDK acquired from Attracsys
