@@ -1,3 +1,4 @@
+
 Back to [Projects List](../../README.md#ProjectsList)
 
 # Organ Motion Compensation in MR
@@ -5,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Gino Gulamhussene (University of Magdeburg)
+- Joost van Griethuysen (BWH)
 
 # Project Description
 Creating a program to generate 4D MRI sequences applying the retrospectiv stacking method on 2D MR slices. 
