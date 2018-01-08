@@ -6,7 +6,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 
  - [Joost van Griethuysen](https://github.com/JoostJM) <sup>1, 3, 4</sup>
  - [Andriy Fedorov](https://github.com/fedorov) <sup>2</sup>
- - [Nicole Aucoin](https://github.com/naucoin) <sup>2</sup>
  - [Jean-Christophe Fillion-Robin](https://github.com/jcfr) <sup>5</sup>
  - [Ahmed Hosny](https://github.com/ahmedhosny) <sup>1</sup>
  - [Steve Pieper](https://github.com/pieper) <sup>6</sup>
