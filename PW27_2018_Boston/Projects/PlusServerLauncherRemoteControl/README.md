@@ -24,10 +24,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+- [ ] Implement interface to allow the PlusServerLauncher to be accessed remotely
+- [ ] Allow server monitoring in Slicer (Status, Server Log, etc.)
+- [ ] Store server info within Slicer scene to allow saving
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+![PlusRemoteDemo](PlusRemoteDemo.png)
 
 # Background and References
 
