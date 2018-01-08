@@ -38,7 +38,7 @@ making progress.-->
 accomplished.-->
 <!--3D Slicer Training Network.-->
 
-<img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/PiesRecortados.png" width="337" height="110">
+<img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/PiesRecortados.png">
 
 # Background and References
 
