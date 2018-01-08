@@ -7,7 +7,7 @@
 1. Asselin, Mark (@markasselin) - PerkLab, Queen's University - masselin@cs.queensu.ca
 1. Aucoin, Nicole (@naucoin) - Harmonus Inc. - nicole.aucoin@harmonus.com
 1. Beers, Andrew (@AndrewBeers) - Massachusetts General Hospital - abeers@mgh.harvard.edu
-1. Chen, Longquan - Brigham and Women's Hopital - lchen@bwh.harvard.edu
+1. Chen, Longquan - (@leochan2009) - Brigham and Women's Hopital - lchen@bwh.harvard.edu
 1. Drouin, Simon (@drouin-simon) - Montreal Neurological Institute - drouin.simon@gmail.com
 1. Essert,	Caroline (@essert) - 	ICUBE/University of Strasbourg - 	essert@unistra.fr
 1. Fedorov, Andrey (@fedorov) - Brigham and Women's Hospital - fedorov@bwh.harvard.edu
