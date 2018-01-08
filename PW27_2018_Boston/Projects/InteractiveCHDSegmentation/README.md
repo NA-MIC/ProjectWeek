@@ -31,7 +31,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Picture1.png)
+![Example multi-chamber segmentation](Picture1.png)
 
 # Background and References
 
