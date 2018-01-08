@@ -55,7 +55,7 @@ SlicerSALT will be used to:
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![SlicerSALTlogo](https://github.com/slicersalt/slicersalt.github.io/blob/master/images/SALT_Logo_512.png)
+![SlicerSALTlogo](https://raw.githubusercontent.com/slicersalt/slicersalt.github.io/master/images/SALT_Logo_512.png)
 
 # Background and References
 
