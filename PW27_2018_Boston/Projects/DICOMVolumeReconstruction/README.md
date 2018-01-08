@@ -56,6 +56,10 @@ Questions from @lassoan:
 
 [https://github.com/dgobbi/vtk-dicom](https://github.com/dgobbi/vtk-dicom)
 
+#### FreeSurfer mri_convert
+
+[https://surfer.nmr.mgh.harvard.edu/fswiki/mri_convert](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_convert)
+
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
