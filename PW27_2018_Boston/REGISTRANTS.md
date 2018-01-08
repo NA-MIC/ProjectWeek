@@ -18,6 +18,7 @@
 1. Gulamhussene, Gino - Otto-von-Guericke-Universität Magdeburg - gino@isg.cs.ovgu.de
 1. Harris, Gordon - Massachusetts General Hospital - gjharris@partners.org
 1. Halle,	Michael - Brigham and Women's Hopital - mhalle@bwh.harvard.edu
+1. Hata,	Nobuhiko - Brigham and Women's Hopital - hata@bwh.harvard.edu
 1. Hernandez-Guedes, Abian - University of Las Palmas de Gran Canaria - abianhernandez@outlook.es
 1. Herz,	Christian - Brigham and Women's Hopital - cherz@bwh.harvard.edu
 1. Jang, Sam - Augmented Intelligence Inc. - jsj@mai.ai
@@ -26,8 +27,11 @@
 1. Khajavibajestani, Roya - Brigham and Women's Hospital - royakhajavi@gmail.com
 1. King,	Franklin - Brigham and Women's Hospital - fking1@bwh.harvard.edu
 1. Lasso, Andras (@lassoan) - PerkLab, Queen's University - lasso@queensu.ca
+1. Léger,	Étienne - Concordia University - e_eger@live.concordia.ca
 1. Liao, Ruizhi (@RayRuizhiLiao) - MIT - ruizhi@csail.mit.edu
+1. Lisle,	Curt - KnowledgeVis, LLC - clisle@knowledgevis.com
 1. Mastrogiacomo, Katie - Brigham and Women's Hopital - kmast@bwh.harvard.edu
+1. MacNeil,	Kyle - Brigham & Women's Hospital - kyle_kewlguy@msn.com
 1. Mehrtash, Alireza - Brigham and Women's Hospital/University of British Columbia - alireza.mehrtash@gmail.com
 1. Meine, Hans (@hmeine) - University of Bremen/Fraunhofer MEVIS - meine@uni-bremen.de
 1. Meyer, Anneke (@AnnekeMeyer) - Computer-Assisted Surgery Group, University of Magdeburg - anneke@isg.cs.uni-magdeburg.de
@@ -36,11 +40,14 @@
 1. Moiraghi, Alessandro - Geneva University Hospital - alessandro.moiraghi@gmail.com
 1. Nitsch, Jennifer (@jnitsch1) - University of Bremen - jenitsch@uni-bremen.de
 1. Norton, Isaiah (@ihnorton) - Brigham & Women's Hospital - isaiah.norton@gmail.com
+1. O'Donnell,	Lauren - Brigham & Women's Hospital - odonnell@bwh.harvard.edu
+1. Onieva,	Jorge - Brigham and Women's Hospital - jonieva@bwh.harvard.edu
 1. Palomar, Rafael (@RafaelPalomar) - The Intervention Center, Oslo University Hospital - rafael.palomar@rr-research.no
 1. Pascal, Laura (@laurapascal) - Kitware Inc. - laura.pascal@kitware.com
 1. Patel, Jay - MIT - jbpatel@mit.edu
 1. Peled, Sharon (@speled) - Brigham and Women's Hospital- speled66@gmail.com
 1. Pernelle, Guillaume (@gpernelle) - Imperial College, London - gpernelle@gmail.com
+1. Pienaar,	Rudolph - Boston Children's Hospital - rudolph.pienaar@childrens.harvard.edu
 1. Pieper, Steve (@pieper) - Isomics, Inc. - pieper@isomics.com
 1. Pinter, Csaba (@cpinter) - Queen's University - csaba.pinter@queensu.ca
 1. Prieto, Juan - NIRAL - juanprietob@gmail.com
@@ -49,6 +56,7 @@
 1. Rankin, Adam (@adamrankin) - Robarts Research Institute - arankin@robarts.ca
 1. Ruiz-Alzola, Juan - Instituto de Astrofísica de Canarias/University of Las Palmas de Gran Canaria - Juan.Ruiz@ulpgc.es
 1. Ruiz-Luque, José-Carlos - University of Las Palmas de Gran Canaria - carlos.luque@ulpgc.es
+1. San Jose,	Raul - Brigham and Women's Hospital - rsanjose@bwh.harvard.edu
 1. Schornak, Joseph (@schornakj) - Automation and Interventional Medicine Laboratory, Worcester Polytechnic Institute - jgschornak@wpi.edu
 1. Schwier, Michael (@michaelschwier) - Brigham and Women's Hospital - mschwier@bwh.harvard.edu
 1. Sedghi, Alireza (@sedghi) - Brigham and Women's Hospital - asedghi@bwh.harvard.edu
