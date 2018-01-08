@@ -3,8 +3,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Using SegmentEditor for Deep Learning Data Annotation
 
 ## Key Investigators
-
-- @gpernelle @tkapur @cpinter @pieper @lassoan @Royak
+- Guillaume Pernelle (@gpernelle), Roya Khajavi (@royak), Steve Pieper (@pieper), Csaba Pinter (@cpinter), Andras Lasso (@lassoan), Tina Kapur (@tkapur)
 
 # Project Description
 
