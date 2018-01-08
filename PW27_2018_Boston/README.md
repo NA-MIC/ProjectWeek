@@ -75,6 +75,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Model-Based Needle Tip Localization and MR Scan Plane Planning](Projects/dynamic-needle-tracking/README.md) (Joe Schornak)
 1. [SlicerIGT Extension Development and Tutorial](Projects/SlicerIGT_Tutorial/README.md) (Tamas Ungi, Longquan Chen, Junichi Tokuda)
 1. [EM tracker magnetics and algorithms](Projects/EM_trackers_magnetics_and_algorithms/README.md) (Peter Traneus Anderson)
+1. [Slicer Guided Ultra Sound Module](Projects/SlicerGuidedUltraSoundCalibration/README.md) (Leah Groves)
 
 ### dMRI
 
@@ -108,7 +109,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Slicer Documentation @ ReadTheDocs](Projects/SlicerReadTheDocs/README.md) (Jc Fillon-Robin, Andras Lasso)
 1. [Keep Track of the Installed Extensions Across Version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Jc Fillon-Robin, Mathias Neugebauer, Hans Meine, Andras Lasso, Ron Kikinis)
 1. [Slicer Deep Learning Tools Integration](Projects/SlicerDeepLearningIntegration/README.md) (Jorge Onieva, Raúl San José)
-1. [Slicer Guided Ultra Sound Module](Projects/SlicerGuidedUltraSoundCalibration/README.md) (Leah Groves)
+
 
 ### Training and Dissemination
 
