@@ -17,7 +17,7 @@ In any case the training material sould be oriented to the creation of digital l
 
 ## Objective
 
-1. Establish a training plan for both profiles: medical area professionals and engineers of the developing countries.
+1. Establish a training plan for both profiles: clinicians and engineers of the developing countries.
 1. Establish a training network of professionals to develop learning objects.
 1. The creation of a hub where professionals can find learning objects to configure their own courses.
 
