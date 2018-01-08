@@ -13,7 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Adam Rankin (Robarts)
 - Leah Groves (Robarts)
 
-# Project Description
+## Project Description
 
 ## Objective
 
