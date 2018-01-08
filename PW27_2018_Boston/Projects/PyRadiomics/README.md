@@ -46,7 +46,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
-# Illustrations
+## Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
@@ -54,7 +54,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ![Some more images](Example2.jpg)
 
-# Background and References
+## Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
