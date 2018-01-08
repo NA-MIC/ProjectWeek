@@ -38,6 +38,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+![FusionTrack][fusion-track.png]
 
 # Background and References
 
