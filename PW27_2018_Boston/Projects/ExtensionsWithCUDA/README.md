@@ -19,7 +19,21 @@ Provide an easy path for distributing extensions that use CUDA.
 
 ## Approach and Plan
 
-1. To be discussed.
+1. Create sample CUDA extension
+   1. Create simple CUDA extension "Slicer CUDA Probe"
+   1. Perform manual build, upload, and test 
+      1. https://www.slicer.org/wiki/Documentation/Nightly/Developers/Tutorials/BuildTestPackageDistributeExtensions
+      1. https://www.slicer.org/wiki/Documentation/Nightly/Developers/Build_ExtensionsIndex
+1. Set up VM that matches factory, but with CUDA installed
+   1. Create VM, install dev tools to match factory
+      1. https://www.slicer.org/wiki/Documentation/Nightly/Developers/Factory
+   1. Set up factory build of slicer
+   1. Create extension index
+      1. https://www.slicer.org/wiki/Documentation/Nightly/Developers/Tutorials/Contribute_Extension_Description_File
+   1. Set up dashboard-driven compile
+      1. https://www.slicer.org/wiki/Documentation/Nightly/Developers/Tutorials/DashboardSetup
+   1. Do I need a separate extension server?
+
 
 ## Progress and Next Steps
 
