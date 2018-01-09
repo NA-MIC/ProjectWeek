@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Girder and Slicer in the Cloud
+# Girder and SlicerCLIs in the Cloud
 
 Girder is a web based data management platform, capable of running SlicerCLIs. I'll demonstrate
 this along with some info about deployment as part of the Medical and Scientific software in the cloud breakout session, Tuesday Jan 9, 1-2 pm.
@@ -63,9 +63,9 @@ Use a hybrid approach, where most of your resources are on premises, but you use
 
 Using IaC is key to achieving scale in the cloud (of machine resources and to scale the number of projects you can take on with a fixed number of people) and for repeatable development.
 
-The IaC approach relies on keeping your infrastructure in source control so there is a shared document and understanding between development and operations (sys admin teams). When a problem is discovered in one instance, the fix is encoded into IaC. This also depends on having API access to scale the number of projects -- it doesn't work nearly as well when every site you interact with has a different process and setup, and your API is email.
+The IaC approach relies on keeping your infrastructure in source control so there is a shared document and understanding between development and operations (sys admin teams). When a problem is discovered in one instance, the fix is encoded into IaC. This also depends on having API access to scale the number of projects -- it doesn't work nearly as well when every site you interact with has a different process and setup, and your API is email. Another example of time vs money tradeoff with cloud infrastructure.
 
-Kitawre has had good luck with
+Kitware has had good luck with
 
 * Terraform - creates infrastructure, can target AWS, GCP, OpenStack
 * Ansible - configures and provisions software, as long as you have SSH and root access
@@ -73,6 +73,35 @@ Kitawre has had good luck with
 * Docker - package executables and dependecies into a self-contained and portable container
 
 We use these technologies for our project deployments, and have built reusable tooling on top of them for Girder and Resonant tools.
+
+## Girder and SlicerCLIs
+
+### Resonant tools and what problems they solve
+
+#### Girder
+
+* data management: data storage from most places where your data lives
+* data sharing with permissions and integration with external authentication systems
+* ability to integrate visualizations and analyses
+* extension in various dimensions through plugins (storage, analysis, visualization, authentication)
+* deals with large scale
+* interact through many clients: web or python client, RESTful APIs mean any client can talk to it, SFTP clients for read
+
+#### Girder Worker
+
+* separate algorithmic development from the infrastructure plumbing
+* work on your algorithm as a python function, CLI, Docker image, in Jupyter, and test it locally
+* then integrate it with Girder Worker through a lightweight wrapping, tie it in with Girder's data, parameter and execution management
+* provides a lot of the boilerplate to make algorithmic integration with Girder easy
+* use the full power of Python Celery to allow for simple linear scaling or arbitrary DAG workflows
+
+#### SlicerCLIs and Docker
+
+* form full web applications based on existing Dockerized algorithms or SlicerCLIs
+* Docker containers must self describe using JSON or Slicer XML
+* ingest automatically forms a UI, execution framework to consume Girder data, and manages shipping and handling of data and params and outputs
+* this is a basic starting point, but many apps would need customized UI or optimized computation
+
 
 - [Source code](https://github.com/girder/girder)
 - [Documentation](http://girder.readthedocs.io/en/latest/)
