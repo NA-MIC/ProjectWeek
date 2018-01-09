@@ -20,14 +20,14 @@
 1. Halle,	Michael (@mhalle) - Brigham and Women's Hopital - mhalle@bwh.harvard.edu
 1. Hata,	Nobuhiko (@nobyhata) - Brigham and Women's Hopital - hata@bwh.harvard.edu
 1. Hernandez-Guedes, Abian (@SolidusAbi) - University of Las Palmas de Gran Canaria - abianhernandez@outlook.es
-1. Herz,	Christian - Brigham and Women's Hopital - cherz@bwh.harvard.edu
+1. Herz,	Christian (@che85) - Brigham and Women's Hopital - cherz@bwh.harvard.edu
 1. Jang, Sam (@samjang23) - Augmented Intelligence Inc. - jsj@mai.ai
 1. Jolley, Matthew (@mattjolley) - Children's Hospital of Philadelphia - jolleym@email.chop.edu
 1. Kapur, Tina (@tkapur) - Brigham and Women's Hospital - tkapur@bwh.harvard.edu
 1. Khajavibajestani, Roya - Brigham and Women's Hospital - royakhajavi@gmail.com
 1. King,	Franklin (@franklinwk) - Brigham and Women's Hospital - fking1@bwh.harvard.edu
 1. Lasso, Andras (@lassoan) - PerkLab, Queen's University - lasso@queensu.ca
-1. Léger,	Étienne - Concordia University - e_eger@live.concordia.ca
+1. Léger,	Étienne (@errollgarner) - Concordia University - e_eger@live.concordia.ca
 1. Liao, Ruizhi (@RayRuizhiLiao) - MIT - ruizhi@csail.mit.edu
 1. Lisle,	Curt - KnowledgeVis, LLC - clisle@knowledgevis.com
 1. Mastrogiacomo, Katie - Brigham and Women's Hopital - kmast@bwh.harvard.edu
@@ -61,7 +61,7 @@
 1. Schwier, Michael (@michaelschwier) - Brigham and Women's Hospital - mschwier@bwh.harvard.edu
 1. Sedghi, Alireza (@sedghi) - Brigham and Women's Hospital - asedghi@bwh.harvard.edu
 1. Sharp, Gregory (@gregsharp) - Massachusetts General Hospital - gcsharp@partners.org
-1. Socorro-Marerro, Guillermo Valentín - Research Institute in Biomedical and Health Sciences (IUIBS). University of Las Palmas de Gran Canaria - guillermo.socorro@ulpgc.es
+1. Socorro-Marerro, Guillermo Valentín (@gvsocorro) - Research Institute in Biomedical and Health Sciences (IUIBS). University of Las Palmas de Gran Canaria - guillermo.socorro@ulpgc.es
 1. Sunderland, Kyle (@Sunderlandkyl) - Queen's University - 1krs1@queensu.ca
 1. Tokuda,	Junichi (@tokjun)- 	Brigham and Women's Hospital - 	tokuda@bwh.harvard.edu
 1. Tubau Ribera, Nina (@ninatubau) - tnina@umich.edu
