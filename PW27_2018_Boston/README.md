@@ -141,15 +141,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 1. [What is new in Slicer ?](https://goo.gl/xFQkdQ) - [[Slides](https://goo.gl/xFQkdQ)]
 2. [3D Slicer Solutions Breakout Session](BreakoutSessions/3D-Slicer-Solutions.md) - [[Slides](https://goo.gl/6F29LG)]
-3. Medical&Scientific Software in the Cloud - [[Intro slides](https://goo.gl/aSg6Dh)]
-
-  * [Cloud Lesson learned, Girder and Slicer CLI](Projects/GirderWebCloud/README.md), Mike Grauer (Kitware)
-  * Slicer + Siemens teamplay, Steve Pieper (Isomics)
-  * RSNA CrowdsCureCancer, Steve Pieper (Isomics), Erik Ziegler
-  * CHRIS and RedHat Cloud, Rudolph Pienaar (Children's Hospital Boston)
-  * Rt106, Jim Miller (GE)
-  * [Planning Discussions](https://github.com/orgs/NA-MIC/teams/pw27/discussions/8)
-  
+3. [Medical&Scientific Software in the Cloud](BreakoutSessions/Medical-and-Scientific-Software-in-the-Cloud.md)
 4. [FDA and 3D Slicer](Nicole Aucoin)
 
 
