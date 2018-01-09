@@ -67,10 +67,10 @@ The IaC approach relies on keeping your infrastructure in source control so ther
 
 Kitware has had good luck with
 
-* Terraform - creates infrastructure, can target AWS, GCP, OpenStack
-* Ansible - configures and provisions software, as long as you have SSH and root access
-* Packer - package provisioned compute resources into VMs, Vagrant files, Docker images, AMIs
-* Docker - package executables and dependecies into a self-contained and portable container
+* [Terraform](https://www.packer.io/intro/index.html) - creates infrastructure, can target AWS, GCP, OpenStack
+* [Ansible](https://www.ansible.com/) - configures and provisions software, as long as you have SSH and root access
+* [Packer](https://www.packer.io/intro/index.html) - package provisioned compute resources into VMs, Vagrant files, Docker images, AMIs
+* [Docker](https://www.docker.com/) - package executables and dependecies into a self-contained and portable container
 
 We use these technologies for our project deployments, and have built reusable tooling on top of them for Girder and Resonant tools.
 
@@ -89,13 +89,15 @@ We use these technologies for our project deployments, and have built reusable t
 
 #### Girder Worker
 
+At the end of a large [refactor](https://github.com/girder/girder_worker/milestone/1) as of January 2018. Documentation is the last step to completing the refactor!
+
 * separate algorithmic development from the infrastructure plumbing
 * work on your algorithm as a python function, CLI, Docker image, in Jupyter, and test it locally
 * then integrate it with Girder Worker through a lightweight wrapping, tie it in with Girder's data, parameter and execution management
 * provides a lot of the boilerplate to make algorithmic integration with Girder easy
 * use the full power of Python Celery to allow for simple linear scaling or arbitrary DAG workflows
 
-#### SlicerCLIs and Docker
+#### SlicerCLIs and Docker (item_tasks)
 
 * form full web applications based on existing Dockerized algorithms or SlicerCLIs
 * Docker containers must self describe using JSON or Slicer XML
@@ -103,5 +105,12 @@ We use these technologies for our project deployments, and have built reusable t
 * this is a basic starting point, but many apps would need customized UI or optimized computation
 
 
-- [Source code](https://github.com/girder/girder)
-- [Documentation](http://girder.readthedocs.io/en/latest/)
+- [Girder source code](https://github.com/girder/girder)
+- [Girder documentation](http://girder.readthedocs.io/en/latest/)
+- [Girder devops](https://github.com/girder/girder/tree/master/devops)
+- [Girder item_tasks source code](https://github.com/girder/girder/tree/master/plugins/item_tasks)
+- [Girder Worker source code](https://github.com/girder/girder_worker)
+- [Girder Ansible Galaxy role](https://galaxy.ansible.com/girder/girder/)
+- [Girder Worker Ansible Galaxy role](https://galaxy.ansible.com/girder/girder-worker/)
+
+
