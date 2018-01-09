@@ -13,5 +13,66 @@ this along with some info about deployment as part of the Medical and Scientific
 
 My expertise is in Girder and scalable cloud based processing. I will give a ~15 min talk on web/cloud tech, where I'll demo Girder in AWS on Tuesday Jan 9, 1-2 pm. I am going to be at Project Week on Monday and Tuesday. Please reach out if you want to chat!
 
+# Discussion Topics
+
+## Using commercial cloud services in scientific research projects
+
+### General thoughts
+
+Commercial cloud services are good for experimentation without long term committment, and are useful when you need to have dynamic and elastic scaling. The providers are constantly rolling out new services, and there is a large amount of expertise encoded into these services (e.g. compare the cost of using AWS Elastic Load Balancer versus the time to gain the expertise of knowing how to run a load balancer), but the accounting model may have a mismatch with grant funded research (e.g. it may be easier to pay for an hour of someone's time to build a service versus paying for an hour of a cloud based service, even though the cloud based service is much cheaper in this comparison).
+
+To realize the full power of the cloud, a different mindset is in order compared to purchased hardware and software. Think about using extremely powerful and expensive cloud resources for a very short period of time, or using many more resources in the short term than you would otherwise. 
+
+* Use a new and expensive GPU instance, but only for an hour.
+* Use a powerful instance for a day to do all of your memory intensive processing.
+* Temporarily run twice as many instances so you can have a staging instance as part of a production service migration.
+* Use spot markets to access cheap processing if you have time flexibility.
+* Throw away instances when they get into a bad state, create a new instance from scratch.
+
+### Advantages
+
+ * API driven
+ * Dynamic and elastic scale
+ * Only pay for what you use
+ * Good for experimentation
+ * They are always rolling out new services
+ * There are specialized providers in addition to the large players
+ * Great bandwidth and unlimited data storage are both just an API call away
+ * Because you don't own anything, there is no cost to trying out new HW when it becomes available, and you haven't paid for HW that is now obsolete
+ 
+### Disadvantages
+
+ * Can be expensive, especially for a predictable, stable usage of resources
+ * Can be tricky to pay for
+ * You don't own anything, so how do you run the service when your grant runs out?
+ * A new kind of expertise is demanded
+ * Institutional pushback
+ * PHI concerns
+ * Noisy neighbors, security concerns (e.g. recent CPU exploits)
+ * New services to constantly learn about
+ * You might have to adapt your entire process to live inside a walled garden of services
+ * Expensive bandwidth and data storage
+
+### Related approaches
+
+Using a private cloud based on OpenStack gives you many advantages of commercial cloud services (elasticity, APIs) without some of the drawbacks, but it does require specialized expertise and HW purchases. Where does an approach like Massachusets Open Cloud fit in?
+
+Use a hybrid approach, where most of your resources are on premises, but you use cloud services for marginal needs. E.g., have an expensive GPU in your lab, and add in additional cloud based GPUs for load spikes. This also lets you try new and expensive HW without paying the full purchase price.
+
+## DevOps and Infrastructure as Code (IaC)
+
+Using IaC is key to achieving scale in the cloud (of machine resources and to scale the number of projects you can take on with a fixed number of people) and for repeatable development.
+
+The IaC approach relies on keeping your infrastructure in source control so there is a shared document and understanding between development and operations (sys admin teams). When a problem is discovered in one instance, the fix is encoded into IaC. This also depends on having API access to scale the number of projects -- it doesn't work nearly as well when every site you interact with has a different process and setup, and your API is email.
+
+Kitawre has had good luck with
+
+* Terraform - creates infrastructure, can target AWS, GCP, OpenStack
+* Ansible - configures and provisions software, as long as you have SSH and root access
+* Packer - package provisioned compute resources into VMs, Vagrant files, Docker images, AMIs
+* Docker - package executables and dependecies into a self-contained and portable container
+
+We use these technologies for our project deployments, and have built reusable tooling on top of them for Girder and Resonant tools.
+
 - [Source code](https://github.com/girder/girder)
 - [Documentation](http://girder.readthedocs.io/en/latest/)
