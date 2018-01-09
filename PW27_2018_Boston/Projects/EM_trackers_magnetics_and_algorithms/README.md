@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# EM trackers magnetics and algorithms
+# EM Trackers Magnetics and Algorithms
 
 ## Key Investigators
 
@@ -12,10 +12,10 @@ Discuss the electromagnetics and algorithms of electromagnetic trackers, both at
 
 ## Objective
 
-1. Objective A. Find out level of interest.
-1. Objective B. Decide what to write-up at and after the workshop and where to put it.
-1. Objective C. Expand list of references.
-1. Objective D. Electromagnetic trackers have been used for over forty years in simple augmented-reality (AR) systems called Helmet-Mounted Sights. Pete wonders to what extent the ancient simple AR technology (whether EM or optical or other tracker is used) might be relevant to modern AR efforts.
+- Objective A. Find out level of interest.
+- Objective B. Decide what to write-up at and after the workshop and where to put it.
+- Objective C. Expand list of references.
+- Objective D. Electromagnetic trackers have been used for over forty years in simple augmented-reality (AR) systems called Helmet-Mounted Sights. Pete wonders to what extent the ancient simple AR technology (whether EM or optical or other tracker is used) might be relevant to modern AR efforts.
 
 ## Approach and Plan
 
@@ -38,9 +38,9 @@ Discuss the electromagnetics and algorithms of electromagnetic trackers, both at
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/traneus/emtrackers
-- Documentation: https://na-mic.org/wiki/Open_Source_Electromagnetic_Trackers
-- Documentation: https://web.archive.org/web/20151002101401/http://home.comcast.net/~traneus/dry_emtrackertricoil.htm
-- Documentation: https://web.archive.org/web/20151002101400/http://home.comcast.net/~traneus/thesis.pdf
-- Documentation: https://web.archive.org/web/20151002101400/http://home.comcast.net/~traneus/thesifig.pdf
-- Test data: https://link.to.test.data
+- [Source code](https://github.com/traneus/emtrackers)
+- [Documentation 1](https://na-mic.org/wiki/Open_Source_Electromagnetic_Trackers)
+- [Documentation 2](https://web.archive.org/web/20151002101401/http://home.comcast.net/~traneus/dry_emtrackertricoil.htm)
+- [Documentation 3](https://web.archive.org/web/20151002101400/http://home.comcast.net/~traneus/thesis.pdf)
+- [Documentation 4](https://web.archive.org/web/20151002101400/http://home.comcast.net/~traneus/thesifig.pdf)
+- [Test data](https://link.to.test.data)
