@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Harmonus has developed Slicer extensions for MR guided prostate biopsy, supporting listening for incoming DICOMs, calibration of hardware to patient space, lesion targeting, and needle position confirmation.  The project is a mixture of closed and open source modules and we wish to communicate with other open source Slicer modules in order to interoperate. This will be done via data transfer using OpenIGTLink.
+Harmonus has developed Slicer extensions for MR guided prostate biopsy, supporting listening for incoming DICOMs, calibration of hardware to patient space, lesion targeting, and needle position confirmation. The project is a mixture of closed and open source modules and we wish to communicate with other open source Slicer modules in order to interoperate. This will be done via data transfer using OpenIGTLink.
 
 ## Objective
 
