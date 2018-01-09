@@ -11,10 +11,6 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 * CHRIS and RedHat Cloud, Rudolph Pienaar (Children's Hospital Boston)
 * Rt106, Jim Miller (GE)
 
-## Progress and Next Steps
-
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
-
 ## Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
