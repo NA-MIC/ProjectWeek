@@ -6,7 +6,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 
 * What constitutes a Slicer Solution
 * Differences between using the 3DSlicer dissemination system (i.e. Extension Mechanism) vs creating a custom 3DSlicer package using a 3rd party library
-* Steve Pieper: https://github.com/pieper/CustomSlicerGenerator
+* Steve Pieper: [Custom Slicer Generator](https://github.com/pieper/CustomSlicerGenerator)
 * JC: Slicer SPT
 * Current Slicer Solutions
   * Laura Pascal: SlicerSALT
@@ -15,8 +15,8 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 
 ## Key Investigators
 
-- Jean-Christophe Fillion-Robin (Kitware)
-- Beatriz Paniagua (Kitware)
+- Jean-Christophe Fillion-Robin (Kitware, Inc.)
+- Beatriz Paniagua (Kitware, Inc.)
 
 ## Progress and Next Steps
 
