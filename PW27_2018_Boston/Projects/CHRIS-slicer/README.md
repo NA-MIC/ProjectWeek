@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Running slicer apps in the cloud in the CHRIS framework
+# Running Slicer Apps in the Cloud in the CHRIS Framework
 
 ## Key Investigators
 
