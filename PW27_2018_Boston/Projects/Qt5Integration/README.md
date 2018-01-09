@@ -31,3 +31,6 @@ Make sure that Qt5 is fully integrated with Slicer
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
+See issues with Qt5 in Slicer mantis:
+
+https://issues.slicer.org/search.php?project_id=3&search=Qt5&status[]=10&status[]=20&status[]=30&status[]=40&status[]=50&status[]=80&sticky=on&sort=last_updated&dir=DESC&hide_status=-2&match_type=0
