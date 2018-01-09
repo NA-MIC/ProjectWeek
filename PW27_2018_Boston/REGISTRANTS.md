@@ -44,7 +44,7 @@
 1. Onieva,	Jorge (@jonieva)- Brigham and Women's Hospital - jonieva@bwh.harvard.edu
 1. Palomar, Rafael (@RafaelPalomar) - The Intervention Center, Oslo University Hospital - rafael.palomar@rr-research.no
 1. Pascal, Laura (@laurapascal) - Kitware Inc. - laura.pascal@kitware.com
-1. Patel, Jay - MIT - jbpatel@mit.edu
+1. Patel, Jay (@jbp70) - MIT - jbpatel@mit.edu
 1. Peled, Sharon (@speled) - Brigham and Women's Hospital- speled66@gmail.com
 1. Pernelle, Guillaume (@gpernelle) - Imperial College, London - gpernelle@gmail.com
 1. Pienaar,	Rudolph (@rudolphpienaar)- Boston Children's Hospital - rudolph.pienaar@childrens.harvard.edu
