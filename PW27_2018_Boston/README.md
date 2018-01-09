@@ -107,7 +107,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Repeatability of Pyradiomics Features](Projects/RadiomicsRepeatability/README.md) (Michael Schwier, Joost van Griethuysen, Andrey Fedorov)
 1. [Organ Motion Compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene, Joost van Griethuysen)
 1. [3D Printed Prostate Cancer Models](Projects/3DPrintedProstateCancerModels/README.md) (Nicole Wake, Andrey Fedorov, Hersh Chandarana, Andrew Rosenkrantz, William Huang)
-1. [PyRadiomics Models](Projects/PyRadiomics/README.md) (Joost van Griethuysen, Andrey Fedorov, Steve Pieper, Jean-Christophe Fillion-Robin, Hugo Aerts)
+1. [PyRadiomics Models](Projects/PyRadiomics/README.md) (Joost van Griethuysen, Andrey Fedorov, Steve Pieper, JC Fillion-Robin, Hugo Aerts)
 1. [Interactive Deep Learning for Congenital Heart Disease Segmentation](Projects/InteractiveCHDSegmentation/README.md) (Danielle Pace, Adrian Dalca, Polina Golland, Mehdi Hedjazi Moghari)
 1. [Mapping and Visualizing a Segmented Placenta to a Canonical Template](Projects/PlacentaFlattening/README.md) (Mazdak Abulnaga, Justin Solomon, Polina Golland)
 
@@ -119,8 +119,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Infrastructure
 
-1. [Slicer Custom Application](Projects/SlicerCustomApplication/README.md) (Jc Fillon-Robin, Andras Lasso)
-1. [Slicer Documentation @ ReadTheDocs](Projects/SlicerReadTheDocs/README.md) (Jc Fillon-Robin, Andras Lasso)
+1. [Slicer Custom Application](Projects/SlicerCustomApplication/README.md) (JC Fillon-Robin, Andras Lasso)
+1. [Slicer Documentation @ ReadTheDocs](Projects/SlicerReadTheDocs/README.md) (JC Fillon-Robin, Andras Lasso)
 1. [Keep Track of the Installed Extensions Across Version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Hans Meine, Jc Fillon-Robin, Mathias Neugebauer, Andras Lasso, Ron Kikinis)
 1. [Slicer Extensions with CUDA](Projects/ExtensionsWithCUDA/README.md) (Greg Sharp)
 1. [Qt5 Integration](Projects/Qt5Integration/README.md) (Johan Andruejol)
