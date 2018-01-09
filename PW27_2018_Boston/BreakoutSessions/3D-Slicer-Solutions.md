@@ -2,6 +2,8 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 
 # 3D Slicer Solutions
 
+* [Slides](https://goo.gl/6F29LG)
+
 ## Agenda
 
 * What constitutes a Slicer Solution
