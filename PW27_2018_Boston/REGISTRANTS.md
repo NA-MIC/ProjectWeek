@@ -5,7 +5,7 @@
 1. Anderson, Peter Traneus (@traneus) - Retired - traneus@verizon.net
 1. Andruejol, Johan (@vovythevov) - Kitware Inc. - johan.andruejol@kitware.com
 1. Asselin, Mark (@markasselin) - PerkLab, Queen's University - masselin@cs.queensu.ca
-1. Aucoin, Nicole (@naucoin) - Harmonus Inc. - nicole.aucoin@harmonus.com
+1. Aucoin, Nicole (@nicoleaucoin) - Harmonus Inc. - nicole.aucoin@harmonus.com
 1. Beers, Andrew (@AndrewBeers) - Massachusetts General Hospital - abeers@mgh.harvard.edu
 1. Chen, Longquan - (@leochan2009) - Brigham and Women's Hopital - lchen@bwh.harvard.edu
 1. Drouin, Simon (@drouin-simon) - Montreal Neurological Institute - drouin.simon@gmail.com
