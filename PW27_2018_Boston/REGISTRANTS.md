@@ -29,7 +29,7 @@
 1. Lasso, Andras (@lassoan) - PerkLab, Queen's University - lasso@queensu.ca
 1. Léger,	Étienne (@errollgarner) - Concordia University - e_eger@live.concordia.ca
 1. Liao, Ruizhi (@RayRuizhiLiao) - MIT - ruizhi@csail.mit.edu
-1. Lisle,	Curt - KnowledgeVis, LLC - clisle@knowledgevis.com
+1. Lisle,	Curt (@curtislisle) - KnowledgeVis, LLC - clisle@knowledgevis.com
 1. Mastrogiacomo, Katie - Brigham and Women's Hopital - kmast@bwh.harvard.edu
 1. MacNeil,	Kyle (@kylemacneil) - Brigham & Women's Hospital - kyle_kewlguy@msn.com
 1. Mehrtash, Alireza (@mehrtash) - Brigham and Women's Hospital/University of British Columbia - alireza.mehrtash@gmail.com
