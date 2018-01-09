@@ -1,13 +1,13 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Uploading and Downloading a scene from Slicer to Girder
+# Uploading and Downloading a Scene from Slicer to Girder
 
 ## Key Investigators
 
 - Michael Grauer - (Kitware, Inc. @mgrauer)
 - Tamas Ungi - (Perk Lab @ungi)
 - Jean-Christophe Fillion-Robin - (Kitware, Inc. @jcfr)
-- Pierre Assemat - (Kitware, Inc. @Pierre-Assemat pierre.assemat@kitware.com)
+- Pierre Assemat - (Kitware, Inc. @pierre.assemat@kitware.com)
 
 # Project Description
 
