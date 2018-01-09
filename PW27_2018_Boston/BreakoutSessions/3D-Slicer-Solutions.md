@@ -10,7 +10,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 * JC: Slicer SPT
 * Current Slicer Solutions
   * Laura Pascal: SlicerSALT
-  * Lauren Odonell: SlicerDMRI
+  * Lauren O'Donnell: SlicerDMRI
   * Ask for other volunteers
 
 ## Key Investigators
