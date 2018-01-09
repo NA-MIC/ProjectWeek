@@ -1,12 +1,12 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Slicer Extensions With CUDA
+# Slicer Extensions with CUDA
 
 ## Key Investigators
 
 - Greg Sharp (MGH)
 - Adam Rankin (Robarts)
-- JC (Kitware)
+- JC Fillion-Robin (Kitware, Inc.)
 
 # Project Description
 
