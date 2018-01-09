@@ -19,6 +19,7 @@ The main purpose of this project is to create a module that integrates an alread
 ## Approach and Plan
 
 ## Progress and Next Steps
+1. Added a model node to show a sphere within the image on slicer
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
