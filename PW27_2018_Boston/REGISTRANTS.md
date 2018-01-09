@@ -71,4 +71,4 @@
 1. Wake, Nicole - (@NWake) NYU School of Medicine - nicole.wake@med.nyu.edu
 1. Westin, Carl-Fredrik - Brigham and Women's Hospital - westin@bwh.harvard.edu
 1. Zhang, Fan (@zhangfanmark) - Brigham and Women's Hospital - fzhang@bwh.harvard.edu
-1. Ziegler, Erik (@RadicalImaging) - Radical Imaging - erik@radicalimaging.com
+1. Ziegler, Erik - Radical Imaging - erik@radicalimaging.com
