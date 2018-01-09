@@ -22,6 +22,7 @@ Review and update SlicerDMRI documentation for new features and code changes pos
 
 ## Progress and Next Steps
 
+Done: the DiffusionMRIanalysis tutorial
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
