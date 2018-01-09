@@ -23,7 +23,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Objective
 
 1. Develop framework to easily apply and share radiomic models using PyRadiomics and it's 3D slicer extension SlicerRadiomics.
-2. In addition to the current lesion-based extraction, add a voxel-based extraction.
+1. In addition to the current lesion-based extraction, add a voxel-based extraction.
+1. Update the SlicerRadiomics extension to accept the PyRadiomics parameter files.
 
 ## Approach and Plan
 
@@ -37,13 +38,24 @@ Back to [Projects List](../../README.md#ProjectsList)
 ### Objective #2
 
 1. Update radiomics base module to allow voxel-based extraction
-2. Add new feature extractor module to provide interface for voxel-based extraction
-3. Add Commandline interface for voxel based extraction
-4. Add examples (settings, usage) to show new functionality
+1. Add new feature extractor module to provide interface for voxel-based extraction
+1. Add Commandline interface for voxel based extraction
+1. Add examples (settings, usage) to show new functionality
+
+### Objective #3
+
+1. Update the SlicerRadiomics widget to have a toggle button for manual customization (UI elements in Slicer) or parameter file customization (path line edit to select file)
+1. Update the SlicerRadiomics logic to allow an extraction using the parameter file customization
+1. Add a test to SlicerRadiomicsTest to test this new functionality
 
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+
+### Objective #3
+- [x] Update widget
+- [x] Update Logic
+- [ ] Update Test
 
 ## Illustrations
 
