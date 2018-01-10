@@ -38,9 +38,9 @@ Discuss the electromagnetics and algorithms of electromagnetic trackers, both at
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- [Source code](https://github.com/traneus/emtrackers)
-- [Documentation 1](https://na-mic.org/wiki/Open_Source_Electromagnetic_Trackers)
-- [Documentation 2](https://web.archive.org/web/20151002101401/http://home.comcast.net/~traneus/dry_emtrackertricoil.htm)
-- [Documentation 3](https://web.archive.org/web/20151002101400/http://home.comcast.net/~traneus/thesis.pdf)
-- [Documentation 4](https://web.archive.org/web/20151002101400/http://home.comcast.net/~traneus/thesifig.pdf)
-- [Test data](https://link.to.test.data)
+- [6DOF emtracker simulator and references](https://github.com/traneus/emtrackers)
+- [Some documentation and references](https://na-mic.org/wiki/Open_Source_Electromagnetic_Trackers)
+- [traneus's breadboard 6DOF EM tracker](https://web.archive.org/web/20151002101401/http://home.comcast.net/~traneus/dry_emtrackertricoil.htm)
+- [traneus's PhD dissertation on an EM tracker](https://web.archive.org/web/20151002101400/http://home.comcast.net/~traneus/thesis.pdf)
+- [four figures in traneusx's dissertation](https://web.archive.org/web/20151002101400/http://home.comcast.net/~traneus/thesifig.pdf)
+
