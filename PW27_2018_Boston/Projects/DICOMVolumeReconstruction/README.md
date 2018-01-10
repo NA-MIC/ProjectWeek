@@ -65,6 +65,10 @@ Questions from @lassoan:
 
 [http://plastimatch.org/plastimatch.html](http://plastimatch.org/plastimatch.html)
 
+#### mriconvert and mcverter
+
+https://lcni.uoregon.edu/downloads/mriconvert/mriconvert-and-mcverter
+
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
