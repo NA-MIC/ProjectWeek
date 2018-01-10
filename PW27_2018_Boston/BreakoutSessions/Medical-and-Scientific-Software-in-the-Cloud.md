@@ -8,7 +8,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 * [Cloud Lesson learned, Girder and Slicer CLI](../Projects/GirderWebCloud/README.md), Mike Grauer (Kitware)
 * Slicer + Siemens teamplay [video demo](https://www.youtube.com/watch?v=vTGQMDIqL9k), Steve Pieper (Isomics)
 * RSNA CrowdsCureCancer, [code repo](https://github.com/QTIM-Lab/rsnaCrowdQuant) Steve Pieper (Isomics), Erik Ziegler (Radical Imaging)
-* CHRIS and RedHat Cloud, Rudolph Pienaar (Children's Hospital Boston)
+* [CHRIS and RedHat Cloud, Rudolph Pienaar](http://slides.com/debio/deck-6-7-8-12-13-19-22) (Children's Hospital Boston)
 * Rt106, Jim Miller (GE)
 
 ## Background and References
