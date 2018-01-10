@@ -4,7 +4,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 
 ## Presentations
 
-* [Intro Slides](https://goo.gl/6F29LG), Jean-Christophe Fillion-Robin (Kitware)
+* [Intro Slides](https://goo.gl/aSg6Dh), Jean-Christophe Fillion-Robin (Kitware)
 * [Cloud Lesson learned, Girder and Slicer CLI](../Projects/GirderWebCloud/README.md), Mike Grauer (Kitware)
 * Slicer + Siemens teamplay [video demo](https://www.youtube.com/watch?v=vTGQMDIqL9k), Steve Pieper (Isomics)
 * RSNA CrowdsCureCancer, [code repo](https://github.com/QTIM-Lab/rsnaCrowdQuant) Steve Pieper (Isomics), Erik Ziegler (Radical Imaging)
