@@ -27,11 +27,11 @@ Discuss the electromagnetics and algorithms of electromagnetic trackers, both at
 1. From discussions this year and years ago, an open-source research tracker must use off-the-shelf data-acquisition electronics, and concentrate specialized efforts on coils, cables, software and algorithms.
 2. If an application can be tracked optically, that application should be tracked optically. Advances in cameras, computers, and algorithms have made optical trackers low-cost and accurate (no subtle field-distortion effects). Also, optical trackers are obvious in how they work, and in when they don't work (when the cameras can't see the objects being tracked).
 3. Pete thanks one of the presenters for showing the presenter's laptop computer running in nighttime mode with blue display turned off. Pete has successfully added this option in hardware (by opening VGA blue video signal) to his desktop computer.
-4. Pete thanks those with whom he had conversations.
+4. Pete thanks those with whom he shared conversations.
 
 # Illustrations
 
-None at this time.
+No new ones; see Background and References for old ones.
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
