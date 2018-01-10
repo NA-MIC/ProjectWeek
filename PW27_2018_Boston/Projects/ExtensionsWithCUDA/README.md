@@ -33,7 +33,11 @@ Provide an easy path for distributing extensions that use CUDA.
    1. Set up dashboard-driven compile
       1. https://www.slicer.org/wiki/Documentation/Nightly/Developers/Tutorials/DashboardSetup
    1. Do I need a separate extension server?
-
+   1. How do CUDA extensions get displayed in extension manager?
+1. Options for distrubution
+   1. Option A - End user must install CUDA SDK of same version
+   1. Option B - Extension must statically link CUDA libraries
+   1. Option C - Extension bundles shared libraries
 
 ## Progress and Next Steps
 
