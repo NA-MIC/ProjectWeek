@@ -21,11 +21,14 @@ As mgrauer will only be at project week Monday and Tuesday, this will have to st
 
 ## Approach and Plan
 
-1. To be determined from the first meeting, when we'll get a better sense of a use case, even if it is contrived.
+1. Use the Girder server created as an example for the project week
+2. Install girder-client package for Slicer Python
+3. Add a Slicer module that saves the scene and uploads the scene file to the Girder server
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. girder-client is currently not part of Slicer's Python, but can be installed, see [this guide](https://github.com/ungi/SlicerGirderExample/wiki)
+2. [This module](https://github.com/ungi/SlicerGirderExample) saves current Slicer scene and uploads it to the example Girder (ask API key from @mgrauer or [install your own Girder](https://girder.readthedocs.io/en/latest/installation.html))
 
 # Illustrations
 
@@ -34,3 +37,4 @@ As mgrauer will only be at project week Monday and Tuesday, this will have to st
 
 # Background and References
 
+- [Girder documentation](https://girder.readthedocs.io/en/latest/index.html)
