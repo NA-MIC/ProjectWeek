@@ -45,8 +45,8 @@ In the Software section of the 510(k) application you have to provide:
 * Risk Analysis
 * Requirements Specification: developed from Clinical User Needs and Design Input
 * Software Design Document
-** Includes module level descriptions for the software
-** Includes third party libraries: 
+  * Includes module level descriptions for the software
+  * Includes third party libraries: 
 
 | Name    | Description | How Used in the Software |
 | ------- | ----------- | ------------------------ |
