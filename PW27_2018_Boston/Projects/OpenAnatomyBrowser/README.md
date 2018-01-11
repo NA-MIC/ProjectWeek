@@ -25,7 +25,9 @@ The main objective of this project is to use the open anatomy browser as a train
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. Athough the prototype could be used to define a strategy, still we are working in the definition
+1. The study to import/export data from/to 3DSlicer/Oabrowser is already done and there is a prototype of the module.
+<!-- But in this prototype still we must consider the use of the information of label maps. We are working on this.-->
 
 # Illustrations
 
