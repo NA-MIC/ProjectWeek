@@ -82,6 +82,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Trajectory Planning](Projects/TrajectoryPlanning/README.md) (Caroline Essert)
 1. [Remote Control for Plus Server Launcher](Projects/PlusServerLauncherRemoteControl/README.md) (Kyle Sunderland, Andras Lasso)
 1. [ROS-IGTL-Bridge Video Streaming](Projects/ROSIGTLVideoStreaming/README.md) (Junichi Tokuda, Longquan Chen)
+1. [Python Wrapping OpenIGTLink](Projects/PythonWrapOpenIGTLink/README.md) (Franklin King)
 
 
 ### dMRI
