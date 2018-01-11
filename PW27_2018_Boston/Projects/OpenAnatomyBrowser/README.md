@@ -3,6 +3,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Open Anatomy Browser
 ## Key Investigators
 
+- Michael Halle 
+- Ben Ball
 - Abián Hernández-Guedes (ULPGC - GTMA - MACbioIDi)
 - María Dolores Afonso-Suárez (ULPGC - GTMA - MACbioIDi)
 - Jose Carlos Ruiz-Luque (ULPGC - GTMA - MACbioIDi)
@@ -25,13 +27,15 @@ The main objective of this project is to use the open anatomy browser as a train
 
 ## Progress and Next Steps
 
-1. Athough the prototype could be used to define a strategy, still we are working in the definition
 1. The study to import/export data from/to 3DSlicer/Oabrowser is already done and there is a prototype of the module.
+1. Athough the prototype could be used to define a strategy, still we are working in the definition
 <!-- But in this prototype still we must consider the use of the information of label maps. We are working on this.-->
 
 # Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+Open Anatomy and 3DSlicer update
+
+<img src="https://raw.githubusercontent.com/MarilolaMACbioIDi/OpenAnatomyBrowser/master/OABrowser_update.png" width="417" height="264">
 
 Open Anatomy Browser Screen
 
