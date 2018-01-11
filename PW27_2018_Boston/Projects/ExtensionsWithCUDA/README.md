@@ -39,24 +39,13 @@ Provide an easy path for distributing extensions that use CUDA.
    1. Option B - Extension must statically link CUDA libraries
    1. Option C - Extension bundles shared libraries
 
-## Progress and Next Steps
+## Progress
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. Engineering plan created
+1. Sample extension created
+   1. https://github.com/gregsharp/Slicer-CUDAProbe
+1. Manual upload of extension
 
 # Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.
-
-![Description of picture](Example2.jpg)
-
-![Some more images](Example2.jpg)
--->
-
-# Background and References
-
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
--->
-
+![CUDA Probe Extension](CUDA-extension.png)
