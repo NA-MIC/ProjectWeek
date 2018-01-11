@@ -52,18 +52,41 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
+### Objective #1
+- Designed a model definition configuration file and validation schemas
+
+TODO: 
+- Implement functionality to apply models
+- Add several model types (e.g. linear regression, logistic regression)
+
+### Objective #2
+- Added voxel based extraction functionality
+- Updated current feature extractor module to optionally allow voxel based extraction
+- Added examples to show new functionality
+
+TODO:
+- Add commandline interface
+
 ### Objective #3
-- [x] Update widget
-- [x] Update Logic
-- [ ] Update Test
+- Update widget
+- Update Logic
+- Update Test
 
 ## Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
+### Objective #2
 
-![Some more images](Example2.jpg)
+![The input for the voxel based extraction](pyradiomics_voxelbased_input.png)
+
+![The result of the voxel based extraction (Original GLCM Entropy)](pyradiomics_voxeblbased_parametermap.png)
+
+### Objective #3
+
+![Slicer Radiomics new layout 1 (manual customization)](slicerRadiomics_layout1.png) 
+
+![Slicer Radiomics new layout 2 (parameter file customization)](slicerRadiomics_layout2.png)
 
 ## Background and References
 
