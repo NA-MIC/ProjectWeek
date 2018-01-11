@@ -5,7 +5,7 @@ Python Wrapping OpenIGTLink
 
 ## Key Investigators
 
-- Franklin King (Affiliation)
+- Franklin King (Brigham and Women's Hospital)
 
 # Project Description
 
@@ -29,6 +29,6 @@ Python Wrapping OpenIGTLink
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
+![Usage](PythonOpenIGTLink.png)
 
 
