@@ -32,7 +32,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
   - By simulating mouse interactions all the effects could be used
   - New effects
     - Surface deformation: Grow ROI on segment surface then push or pull with modification function (VR possibly makes it actually usable by allowing quick evaluation of the result while changing the input, and seeing all in real 3D with depth)
-- '''Discussion'''
+- **Discussion**
 
 ## VR software design
 - Already available for SlicerOpenVR
@@ -48,7 +48,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
   - Abstract layout node class
     - Current layout node and the new VR layout node will be its child classes
     - VR "layout" may contain HUD-like objects such as slice views or charts that are positioned and kept stationary in the VR view by the layout
-
+- **Discussion**
 
 ## Background and References
 
