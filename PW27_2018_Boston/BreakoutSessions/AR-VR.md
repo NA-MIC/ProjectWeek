@@ -55,7 +55,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 - [SlicerOpenVR](https://github.com/KitwareMedical/SlicerOpenVR)
 - [Medical Augmented Intelligence](http://mai.ai)
 - [DICOM VR](http://www.dicomvr.com/)
-- [SliVR Tractography](http://pieper/github.io/sites/slivr)
+- [SliVR Tractography](http://pieper.github.io/sites/slivr)
 - [A-Frame](http://iframe.io)
 - [SlicerWeb](http://github.com/pieper/SlicerWeb)
 
