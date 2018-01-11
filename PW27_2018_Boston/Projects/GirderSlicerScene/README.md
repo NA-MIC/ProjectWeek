@@ -33,7 +33,7 @@ As mgrauer will only be at project week Monday and Tuesday, this will have to st
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-
+![image](https://raw.githubusercontent.com/Pierre-Assemat/Slicer-Project-Week-2018/b48b5047d849c9582b170ec53cf0f905a838853d/Screenshot-2018-1-11%20Girder%20-%20REST%20API%20Documentation.png)
 
 # Background and References
 
