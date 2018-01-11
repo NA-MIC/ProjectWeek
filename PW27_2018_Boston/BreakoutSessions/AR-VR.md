@@ -12,6 +12,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 - Sam Jang (Medical Augmented Intelligence): Clinical use cases
 - Steve Pieper (Isomics): VR web integration
 - Andras Lasso (Queen's University): Augmented reality use cases
+- Adam Rankin (Western University): AR development
 - Csaba Pinter (Queen's University): Slicer VR interactions
 
 ## Interactions design
