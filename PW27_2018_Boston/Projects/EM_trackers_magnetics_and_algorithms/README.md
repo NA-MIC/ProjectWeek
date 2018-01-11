@@ -24,10 +24,12 @@ Discuss the electromagnetics and algorithms of electromagnetic trackers, both at
 
 ## Progress and Next Steps
 
-1. From discussions this year and years ago, an open-source research tracker must use off-the-shelf data-acquisition electronics, and concentrate specialized efforts on coils, cables, software and algorithms.
-2. If an application can be tracked optically, that application should be tracked optically. Advances in cameras, computers, and algorithms have made optical trackers low-cost and accurate (no subtle field-distortion effects). Also, optical trackers are obvious in how they work, and in when they don't work (when the cameras can't see the objects being tracked).
-3. Pete thanks one of the presenters for showing the presenter's laptop computer running in nighttime mode with blue display turned off. Pete has successfully added this option in hardware (by opening VGA blue video signal) to his desktop computer.
-4. Pete thanks those with whom he shared conversations.
+1. From discussions this year and years ago, an open-source research tracker should use off-the-shelf data-acquisition electronics, and concentrate specialized efforts on coils, cables, software and algorithms.
+2. If an application can be tracked optically, that application should be tracked optically. Advances in cameras, computers, and algorithms have made optical trackers low-cost and accurate (no subtle field-distortion effects). Optical trackers tracking passive retroreflectors are also inherently wireless. Also, optical trackers are obvious in how they work, and obvious in when they don't work (when the cameras can't see the objects being tracked). Thus, there are few remaining applications for 6DOF EM trackers using tricoil receivers.
+3. 5DOF EM trackers using single-coil receivers are still useful for tracking catheters, as the body is opaque to light.
+4. The Microsoft Hololens optically adds displayed data to the ambient direct-view image, so is an elaborated descendent of Polhemus's 1970s Helmet-Mounted Sight system.
+5. Pete thanks one of the presenters for showing the presenter's laptop computer running in nighttime mode with blue display turned off. Pete has successfully added this option in hardware (by opening VGA blue video signal) to his desktop computer.
+6. Pete thanks those with whom he shared conversations.
 
 # Illustrations
 
