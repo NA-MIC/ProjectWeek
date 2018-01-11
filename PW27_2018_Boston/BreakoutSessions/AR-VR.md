@@ -29,7 +29,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
   - Being able to fly anywhere is a distraction, causes losing orientation (the patient is the only focus)
     - Walk around (e.g. along surface of sphere) and zoom are the only modes of motion
 	The clipped slice(s) will be the slice drawn on, the same way it is done now on the 2D slices
-- Contouring (show [DicomVR video](http://www.dicomvr.com/))
+- Segmentation (show [DicomVR video](http://www.dicomvr.com/))
   - By simulating mouse interactions all the effects could be used
   - New effects
     - Surface deformation: Grow ROI on segment surface then push or pull with modification function (VR possibly makes it actually usable by allowing quick evaluation of the result while changing the input, and seeing all in real 3D with depth)
