@@ -41,7 +41,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
   - Fiducials can have a floating point 3D coordinate in the view (can be grabbed)
   - Same 3D displayable managers can be used
     - Updates automatically, so it may be slow. Could only be updated when control released
-  - Clipping widget (plane) exist (developed at Kitware France)
+  - Clipping widget (plane) exist (developed at Kitware France) - [[videos](https://www.dropbox.com/sh/wbv5fc4yjazs84v/AADIHAdViDfoQze8TvBCkyvta?dl=0)]
   - Can show "floor" for easier orientation
   - Orientation marker
 - Excluding VR view from main layout management: Node reference parentLayoutNodeID in view nodes
