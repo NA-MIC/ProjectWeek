@@ -1,7 +1,7 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
-Python Wrapping OpenIGTLink
+# Python Wrapping OpenIGTLink
+
 
 ## Key Investigators
 
