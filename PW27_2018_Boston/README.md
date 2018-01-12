@@ -57,7 +57,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Integration of Medical Imaging Simulators in Slicer](Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md) (Abián Hernández-Guedes, Jose Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola, Andras Lasso)
 1. [Segment Editor VR](Projects/SegmentEditorVR/README.md) (Csaba Pinter, Andras Lasso)
 1. [SlicerAR](Projects/SlicerAR/README.md) (Adam Rankin)
-
+1. [SlicerHeartVR](Projects/SlicerHeartVR/README.md) (Andras Lasso, Matthew Jolley, Steve Pieper, Mark Asselin)
 
 ### Web Technologies
 
