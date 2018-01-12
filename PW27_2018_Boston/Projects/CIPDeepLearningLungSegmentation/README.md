@@ -30,9 +30,8 @@ The goal is to make available in Slicer this and other similar tools based on De
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
+!["Lung segmentation" pipeline](CIP-1.png)
 
-![Some more images](Example2.jpg)
 
 # Background and References
 
