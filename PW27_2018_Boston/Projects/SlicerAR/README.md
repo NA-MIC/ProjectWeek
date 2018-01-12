@@ -4,7 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- [Adam Rankin](https://www.youtube.com/watch?v=d5ab8BOu4LE) (Robarts)
+- Adam Rankin (Robarts Research Institute)
+- Ken Martin (Kitware, Inc.)
 
 # Project Description
 
@@ -16,7 +17,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - [x] Capture images from stereo camera via Plus
 - [x] Send images to Slicer via OpenIGTLink
-- [ ] Display images as left and rigth eye renderer backgrounds in SlicerVR
+- [ ] Display images as left and right eye renderer backgrounds in SlicerVR
 
 ## Progress and Next Steps
 
