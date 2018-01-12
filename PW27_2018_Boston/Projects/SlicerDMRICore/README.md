@@ -38,11 +38,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-<!--
-![Description of picture](Example2.jpg)
 
-![Some more images](Example2.jpg)
--->
+![Rendering in new FiberBundle displayable manager](dmri-screenshot.png)
+
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
