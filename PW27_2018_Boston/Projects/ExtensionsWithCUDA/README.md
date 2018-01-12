@@ -48,8 +48,6 @@ Provide an easy path for distributing extensions that use CUDA.
 
 # Illustrations
 
+![Alt](CUDA-extension-upload.PNG)
 
-<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/ExtensionsWithCUDA/CUDA-extension-upload.PNG" width="300">
-
-<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/ExtensionsWithCUDA/CUDA-extension.png" width="300">
-
+![Alt](CUDA-extension.png)
