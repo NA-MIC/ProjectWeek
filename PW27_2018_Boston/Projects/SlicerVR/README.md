@@ -31,7 +31,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - SlicerOpenVR extension is functional, source code is available on GitHub (see link below).
 - VTKv9 version used in Slicer has been updated, a merge request has been submitted to upstream VTK.
-- Discussed strategy to generalize layout manager to support VR "views".
+- [Agreed on a design](../../BreakoutSessions/AR-VR.md#proposed-changes) to generalize layout manager to support VR "views".
 
 # Illustrations
 
