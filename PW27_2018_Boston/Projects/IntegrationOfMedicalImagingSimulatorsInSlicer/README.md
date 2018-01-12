@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Guillermo Valentín Socorro-Marrero (ULPGC - GTMA - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 - Andras Lasso (PerkLab, Queen's University)
+- Tamas Ungi (Perk Lab)
 
 # Project Description
 
