@@ -40,13 +40,13 @@ Next steps:
 2. Link UI widgets to functions in the PILOT code
 3. Test !
 
-<!--# Illustrations-->
+# Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 <!--![Description of picture](Example2.jpg)-->
 
-<!--![Some more images](Example2.jpg)-->
+![Screenshot of PILOT UI in Slicer](Screen Shot 2018-01-12 at 13.21.22.png)
 
 # Background and References
 
