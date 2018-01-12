@@ -43,6 +43,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ![Generated documentation for VTK Wrapped class](https://www.slicer.org/w/images/thumb/f/f5/Rtd-vtk-python-wrapped.png/701px-Rtd-vtk-python-wrapped.png)
 
+![Slicer topics](slicer-github-banner.png)
+
 
 # Background and References
 
