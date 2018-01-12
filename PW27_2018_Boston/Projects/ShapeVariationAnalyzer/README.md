@@ -25,8 +25,9 @@ Osteoarthritis (OA), the most prevalent arthritis worldwide, is associated with 
 ## Progress and Next Steps
 
 - Data generated for each group with SMOTE algorithm
-- Test neural network with this new feature extraction
-- Add biological and clinical data to the neural network
+- Improvement of the neural network
+- Testing the accuracy
+- Future: Add biological and clinical data to the neural network
 
 # Illustrations
 
