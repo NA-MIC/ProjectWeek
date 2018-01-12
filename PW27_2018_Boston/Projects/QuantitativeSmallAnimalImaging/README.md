@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Curtis Lisle (KnowledgeVis, LLC)
-- Andrey Federov (BWH)
+- Andrey Fedorov (BWH)
 - Yanling Liu (Frederick National Lab for Cancer Research)
 
 # Project Description
