@@ -112,7 +112,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [3D Printed Prostate Cancer Models](Projects/3DPrintedProstateCancerModels/README.md) (Nicole Wake, Andrey Fedorov, Hersh Chandarana, Andrew Rosenkrantz, William Huang)
 1. [PyRadiomics Models](Projects/PyRadiomics/README.md) (Joost van Griethuysen, Andrey Fedorov, Steve Pieper, JC Fillion-Robin, Hugo Aerts)
 1. [Interactive Deep Learning for Congenital Heart Disease Segmentation](Projects/InteractiveCHDSegmentation/README.md) (Danielle Pace, Adrian Dalca, Polina Golland, Mehdi Hedjazi Moghari)
-1. [Mapping and Visualizing a Segmented Placenta to a Canonical Template](Projects/PlacentaFlattening/README.md) (Mazdak Abulnaga, Justin Solomon, Polina Golland)
+1. [Mapping and Visualizing a Segmented Placenta to a Canonical Template](Projects/PlacentaFlattening/README.md) (Mazdak Abulnaga, Danielle Pace, Steve Pieper, Justin Solomon, Polina Golland)
 
 
 ### Chest Imaging Platform
