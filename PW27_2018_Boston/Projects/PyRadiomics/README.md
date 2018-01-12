@@ -53,6 +53,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 ### Objective #1
+[Related PR](https://github.com/Radiomics/pyradiomics/pull/338)
 - Designed a model definition configuration file and validation schemas
 
 TODO: 
@@ -60,6 +61,7 @@ TODO:
 - Add several model types (e.g. linear regression, logistic regression)
 
 ### Objective #2
+[Related PR](https://github.com/Radiomics/pyradiomics/pull/337)
 - Added voxel based extraction functionality
 - Updated current feature extractor module to optionally allow voxel based extraction
 - Added examples to show new functionality
@@ -68,6 +70,7 @@ TODO:
 - Add commandline interface
 
 ### Objective #3
+[Related PR](https://github.com/Radiomics/SlicerRadiomics/pull/36)
 - Update widget
 - Update Logic
 - Update Test
