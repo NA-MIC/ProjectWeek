@@ -22,13 +22,13 @@ Review and update SlicerDMRI documentation for new features and code changes pos
 
 ## Progress and Next Steps
 
-Done: DiffusionMRIanalysis
-Done: CLITutorial
-Done: DICOM_tractography_converter
-Done: DWIConverterTutorial
-Done: FiberBundleSelectionAndScalarMeasurement
+- Done: DiffusionMRIanalysis
+- Done: CLITutorial
+- Done: DICOM_tractography_converter
+- Done: DWIConverterTutorial
+- Done: FiberBundleSelectionAndScalarMeasurement
 
-Not Yet: Slicer UKF Tractography tutorial
+- Not Yet: Slicer UKF Tractography tutorial
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
