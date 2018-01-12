@@ -39,6 +39,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Illustrations
 
+![Demo AR](demo-ar-boston.png)
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 # Background and References
