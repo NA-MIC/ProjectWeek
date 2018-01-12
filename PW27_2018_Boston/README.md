@@ -140,7 +140,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 <a name="BreakoutSessions"/>
 
-## Breakout Sessions - *New this year*
+## Breakout Sessions - *New topics this year*
 
 1. [What is new in Slicer ?](https://goo.gl/xFQkdQ) - [[Slides](https://goo.gl/xFQkdQ)]
 2. [3D Slicer Solutions Breakout Session](BreakoutSessions/3D-Slicer-Solutions.md) - [[Slides](https://goo.gl/6F29LG)]
