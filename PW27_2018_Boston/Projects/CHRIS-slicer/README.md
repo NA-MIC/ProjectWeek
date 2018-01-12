@@ -35,6 +35,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+<p align='center'>
+<img src='https://raw.githubusercontent.com/FNNDSC/pl-neuproseg/master/docs/chris_pl-neuproseg.png'/>
+</p>
 
 ![Overview](https://github.com/FNNDSC/pl-neuproseg/blob/master/docs/chris_pl-neuproseg.png)
 
