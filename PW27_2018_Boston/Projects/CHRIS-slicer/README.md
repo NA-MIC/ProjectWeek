@@ -39,8 +39,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 <img src='https://raw.githubusercontent.com/FNNDSC/pl-neuproseg/master/docs/chris_pl-neuproseg.png'/>
 </p>
 
-![Overview](https://github.com/FNNDSC/pl-neuproseg/blob/master/docs/chris_pl-neuproseg.png)
-
 
 # Background and References
 
