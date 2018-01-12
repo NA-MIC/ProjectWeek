@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Ben Ball (BWH)
 - April Wall (BWH)
 - Anna Rutherford (BWH)
+- Michael Schwier (BWH)
 - Ron Kikinis (BWH)
 
 # Project Description
@@ -43,7 +44,7 @@ We are using Partner's image database for a corpus of imaging data (liver diseas
 1. We had a first team meeting to bring together computer scientists and clinicians. 
 1. Dr. Wall reviewed her progress in selecting a small set of optimal diseased and control patients. This process has been challenging beccause many people with liver disease have had surgery or tumor ablation that changes the liver morphology. It is also not possible to select only patients on 3T scanner before BWH began using EPIC (2015).
 1. Alireza Ziaei,  Raul San Jose, and Randy Gollub are assisting with RPDR querying and image retrieval.
-1. Jennifer worked on CITI training for IRB clearance to access the data. ...
+1. Jennifer worked on CITI training for IRB clearance to access the data. And talked with experts using PyRadiomics on MRI Data and their approaches on evaluating features (Michael Schwier and Joost van Griethuysen).
 
 ## Next Steps
 
