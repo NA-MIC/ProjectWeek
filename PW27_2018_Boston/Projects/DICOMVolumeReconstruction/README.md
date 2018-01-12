@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Joost van Griethuysen (NKI)
 - Steve Pieper (Isomics)
 - Greg Sharp (MGH)
+- Chris Gorgolewski (Stanford)
 
 # Project Description
 
@@ -27,6 +28,15 @@ Initially, we want to focus on the very narrow task of converting a scalar volum
 
 ## Progress and Next Steps
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+
+* Discussed and started developing the toolset for automated evaluation of conversion tools
+  * Use Docker auto build to make an image containing all of the converters and preloaded data (DICOM + volume reconstructed baseline)
+  * Use CircleCI initialized from the docker image
+  * Use ctest to run each converter, compare with the baseline, compare time
+  * update web page with the comparison dashboard after each run
+* identified new interesting sources of reference data
+
+Repository: [https://github.com/QIICR/dcmheat](https://github.com/QIICR/dcmheat)
 
 ### Discussion
 
@@ -77,4 +87,4 @@ Questions from @lassoan:
 
 * Clunie D. How Thick am I? The Sad Story of a Lonely Slice. 2013. http://dclunie.blogspot.com/2013/10/how-thick-am-i-sad-story-of-lonely-slice.html. Accessed January 5, 2018.
 * Investigate NeuroDebian for simplified install of some converters. [https://hub.docker.com/_/neurodebian/](https://hub.docker.com/_/neurodebian/)
-* Rosetta Bit library of valid file conversion: [https://www.nitrc.org/projects/rosetta/](https://www.nitrc.org/projects/rosetta/)
+* Rosetta Bit library of valid file conversions: [https://www.nitrc.org/projects/rosetta/](https://www.nitrc.org/projects/rosetta/)
