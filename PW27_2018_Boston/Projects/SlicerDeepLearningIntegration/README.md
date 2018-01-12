@@ -6,6 +6,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Jorge Onieva (BWH)
 - Raúl San José (BWH)
+- Roya Khajavi
+- Alireza Mehrtash
 
 # Project Description
 
