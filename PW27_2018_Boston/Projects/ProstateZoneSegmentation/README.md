@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Alireza Mehrtash (BWH/HMS)
 - Andrey Fedorov (BWH, HMS)
 - Christian Hansen (University of Magdeburg, Germany)
+- Nicole Wake (NYU School of Medicine)
 
 # Project Description
 
