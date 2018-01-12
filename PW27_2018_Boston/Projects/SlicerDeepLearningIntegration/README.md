@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Raúl San José (BWH)
 - Roya Khajavi
 - Alireza Mehrtash
+- Andrey Fedorov
 
 # Project Description
 
