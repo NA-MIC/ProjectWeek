@@ -29,7 +29,9 @@ In any case the training material sould be oriented to the creation of digital l
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. Following the approach steps we have drafted two training plans, for clinicians and engineers.
+1. There will be a first training workshop in March for professionals from Cape Verde, Senegal and Mauritania
+1. It is planned as the start point of future collaborations with the team of the MACbioIDi project 
 
 # Illustrations
 
