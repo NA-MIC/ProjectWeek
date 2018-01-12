@@ -27,7 +27,6 @@ Review and update SlicerDMRI documentation for new features and code changes pos
 - Done: DICOM_tractography_converter
 - Done: DWIConverterTutorial
 - Done: FiberBundleSelectionAndScalarMeasurement
-
 - Not Yet: Slicer UKF Tractography tutorial
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
