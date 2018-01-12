@@ -29,9 +29,7 @@ Release a whole brain fiber clustering atlas for consistent white matter parcell
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
-
-![Some more images](Example2.jpg)
+![Screenshot](Screen Shot 2018-01-12 at 9.31.07 AM.png)
 
 # Background and References
 
