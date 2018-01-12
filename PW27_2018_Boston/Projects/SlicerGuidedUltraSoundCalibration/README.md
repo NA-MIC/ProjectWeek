@@ -4,9 +4,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 -Leah Groves (Western University)
+
 -Adam Rankin (Western University)
+
 -Csaba Pinter (Perk Lab)
-- Nicole Aucoin (Harmonous Inc.)
+
+-Nicole Aucoin (Harmonous Inc.)
 
 # Project Description
 The main purpose of this project is to create a module that integrates an already created algorithm for guided ultrasound calibration into slicer.
