@@ -28,7 +28,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
-* Good discussion during the [AR-VR](../../BreakoutSessions/AR-VR.md) breakout session.
+* During the [AR-VR](../../BreakoutSessions/AR-VR.md) breakout session, discussed and document possible strategy for implementing [interactions](../../BreakoutSessions/AR-VR.md#interactions-design) in VR.
 
 # Illustrations
 
