@@ -33,10 +33,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-
+NA
+<!--
 ![Description of picture](Example2.jpg)
 
 ![Some more images](Example2.jpg)
+-->
 
 # Background and References
 
