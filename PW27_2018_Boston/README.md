@@ -98,7 +98,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 2. [Decision Support for End-Stage Liver Disease Transplants](Projects/ESLD_DSS/README.md) (Mike Halle, Ben Ball, April Wall, Jennifer Nitsch, Hans Meine)
 3. [DICOM for Quantitative Imaging](Projects/DICOMforQuantitativeImaging/README.md) (Andrey Fedorov, Christian Herz)
 4. [DICOM Volume Reconstruction Tools](Projects/DICOMVolumeReconstruction/README.md) (Andrey Fedorov, Andrew Beers, Joost van Griethuysen, Steve Pieper)
-
+5. [Quantitative Small Animal Imaging](Projects/QuantitativeSmallAnimalImaging/README.md) (Curtis Lisle, Andrey Fedorov, Yanling Liu)
 
 ### Shape Analysis, Segmentation, Deep Learning, Radiomics, Organ Motion Compensation
 
