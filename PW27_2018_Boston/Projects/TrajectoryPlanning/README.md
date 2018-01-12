@@ -5,6 +5,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Caroline Essert (ICUBE / Université de Strasbourg)
+- Jean-Christophe Fillon-Robin
+- Nicole Aucoin
 
 
 # Project Description
@@ -19,9 +21,24 @@ Back to [Projects List](../../README.md#ProjectsList)
 1. Create a Slicer module and plug PILOT in it
 
 
-<!--## Progress and Next Steps-->
+## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+
+Progress:
+
+1. Built Slicer on Mac OSX
+2. Created a new extension with a loadable module in C++
+3. Modified the UI to match the MITK PILOT plugin UI
+4. Familiarized with the concepts of mrml scene, nodes, and connections in Slicer, thei link with vtk data structures, and made the link with MITK similar concepts
+5. Started playing with the "manual" modification of nodes and vtkpolydatas
+6. Started the process of building the core files of PILOT plugin along with Slicer (ongoing...)
+
+Next steps: 
+
+1. Finish the build
+2. Link UI widgets to functions in the PILOT code
+3. Test !
 
 <!--# Illustrations-->
 
@@ -31,9 +48,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--![Some more images](Example2.jpg)-->
 
-<!--# Background and References-->
+# Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
+
+A short video of the MITK plugin
 
 <!--- Source code: https://github.com/YourUser/YourRepository-->
 <!--- Documentation: https://link.to.docs-->
