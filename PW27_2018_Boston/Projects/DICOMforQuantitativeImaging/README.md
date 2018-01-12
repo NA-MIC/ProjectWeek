@@ -6,6 +6,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Andrey Fedorov (BWH/HMS)
 - Christian Herz (BWH/HMS)
+- JC (Kitware)
+- Curt Lisle (KnowledgeVis, LLC)
+- Joost van Griethuysen (NKI)
+- Csaba Pinter (Queen's)
+- Christian Bauer (U.Iowa)
 
 # Project Description
 
@@ -24,7 +29,14 @@ Issues to fix:
 
 ## Progress and Next Steps
 
+* Fixed several dcmqi issues identified by the users during the project week
+* Finished scripts for converting segmentations and corresponding radiomics features (extracted by pyradiomics) to DICOM  for TCIA LIDC IDRI dataset ([result of conversion for LIDC-IDRI-0011](https://www.dropbox.com/s/myirvs5y20rb64o/LIDC-IDRI-0011.zip?dl=0)); issues identified:
+  * need to integrate pyradiomics features with IBSI-based ontology
+  * improve presentation of large number of features in Quantitative Reporting
+
 # Illustrations
+
+[csv vs dcm](./csvvsdcm.png)
 
 # Background and References
 
