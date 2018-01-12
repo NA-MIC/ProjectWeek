@@ -30,6 +30,16 @@ urethra,and rectal wall.
 
 3. Create optimal outputs for 3D printing.
 
+## Progress and Next Steps
+
+1. Learned 3D Slicer segmentation tools  
+
+2. Continue to work on workflow for segmentation and printing 
+
+3. Compare 3D Slicer models to models created with other software platforms 
+
+4. Work with Anneke Meyer on deep learning for prostate segmentation for 3D Printed models  
+
 
 # Background and References
 
