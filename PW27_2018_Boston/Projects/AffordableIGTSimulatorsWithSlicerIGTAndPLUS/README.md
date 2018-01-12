@@ -10,6 +10,7 @@ Back to [Projects List](../../FIXME.md#ProjectsList)
 - Abián Hernández-Guedes (ULPGC - GTMA - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 - Andras Lasso (PerkLab, Queen's University)
+- Tamas Ungi (PerkLab, Queen's University)
 - Mark Asselin (PerkLab, Queen's University)
 
 # Project Description
@@ -49,9 +50,11 @@ In this project we aim at creating and integrating an Image Guided Therapy (IGT)
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 Tracking system setup
+
 <img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/SystemSetup.png" width="340">
 
 PLUS Ultrasound simulator device running in Slicer
+
 <img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/USSimulator.png" width="340">
 
 
