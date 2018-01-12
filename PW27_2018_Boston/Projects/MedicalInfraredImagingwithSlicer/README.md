@@ -50,7 +50,7 @@ accomplished.-->
 
 <img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/Plus%2BSlicer.png" width="300">
 
-<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/SlicerInfraredModule.png" width="300W>
+<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/SlicerInfraredModule.png" width="300">
 
 # Background and References
 
