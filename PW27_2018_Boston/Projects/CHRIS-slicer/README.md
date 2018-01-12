@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Rudolph Pienaar (Boston Children's Hospital)
 - Jorge Bernal (Boston Children's Hospital)
 - Nicolas Rannou (Eunate Technology)
+- Anneke Meyer (University of Magdeburg, Germany)
 
 # Project Description
 
@@ -25,20 +26,23 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. Identified a trained prostate segmenter from Anneke Meyer.
+1. Created a CHRIS plugin repository and docker hub build for this app:
+* [Plugin repo](https://github.com/FNNDSC/pl-neuproseg)
+* [Dockerhub automated build](https://hub.docker.com/r/fnndsc/pl-neuproseg/)
+1. Successfully ran the segmenter plugin using CHRIS services distributed across localhost and a manager listening on lab website.
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
+![Overview](https://github.com/FNNDSC/pl-neuproseg/blob/master/docs/chris_pl-neuproseg.png)
 
-![Some more images](Example2.jpg)
 
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
+- Source code: https://github.com/FNNDSC/pl-neuproseg
+- Documentation: https://github.com/FNNDSC/pl-neuproseg/wiki
+- Test data: https://github.com/FNNDSC/pl-neuproseg
