@@ -30,6 +30,11 @@ Back to [Projects List](../../README.md#ProjectsList)
   - using sphinx-api to automatically [document wrapped classes](https://www.slicer.org/wiki/Documentation/Labs/DocumentationImprovments#Documenting_Slicer_APIs)
 - Sent an email to Ron for updating the [Rons Rules For Tools](https://www.slicer.org/wiki/Documentation-Rons-Rules-For-Tools).
 
+### Additional notes
+
+- Slicer is now part of the [awesome-healthcare](https://github.com/kakoni/awesome-healthcare#imaging) list.
+- See also [What is an awesome list ?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+- Should we create an `awesome-medical-data` list ? 
 
 # Illustrations
 
