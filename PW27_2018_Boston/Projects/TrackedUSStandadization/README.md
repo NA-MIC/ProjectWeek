@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Tracked US Standardization 5
+# OpenIGTLinkIO Development
 
 ## Key Investigators
 
@@ -23,23 +23,22 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-* Improve support for video compression in OpenIGTLink
+* Improve support for video compression in OpenIGTLink and OpenIGTLinkIO
 * Add support for the [Attracsys tracking system](https://www.atracsys.com/web/eng/measurement/products_2) to the Plus Toolkit
 * Add more options to remotely control US machine parameters
 * Implement a Plus server launcher class that can be used in Plus server launcher, Slicer, Ibis, MITK and CustusX.
 
 ## Progress and Next Steps
-* SDK (Windows and Linux only) acquired from Attracsys
-  * version 3.1.1 for the SpryTrack
-  * version 3.0.1 for the FusionTrack
-  * SDKs versions are not compatible but have similar functions
-  * version 4 will be released later this year with universal support
+* Support for compressed video in OpenIGTLinkIO has been improved to better handle keyframes through smart buffering (Longquan).
+* The code for launching a Plus Server has been extracted from PlusServerLauncher to a standalone class that is used in Ibis Neuronav. Next step: add the class to OpenIGTLinkIO. The code can then be used by Slicer and other applications to automatically launch a Plus server, monitor its execution and parse the output.
+* A recently developed tablet application for surgical AR (Described in [this article](http://digital-library.theiet.org/content/journals/10.1049/htl.2017.0062?crawler=true&mimetype=application/pdf&tags=noindex) ) has been adapted to easily connect to any OpenIGTLinkIO-powered application. The application has been tested to transmit video to Slicer and IbisNeuronav.
+* The tablet application has been setup to produce augmented reality images on Ibis Neuronav (see video) using tracking data from a Plus Server connected to a OptiTrack tracking system.
+
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-![FusionTrack](fusion-track.png) ![SpryTrack](sprytrack.png)
 
 # Background and References
 
