@@ -27,11 +27,6 @@ The goal is to make available in Slicer this and other similar tools based on De
 1. Full pipeline of lung segmentation was run successfully in Slicer
 1. The model needs more work
 
-# Illustrations
-
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-
-!["Lung segmentation" pipeline](CIP-1.png)
 
 
 # Background and References
