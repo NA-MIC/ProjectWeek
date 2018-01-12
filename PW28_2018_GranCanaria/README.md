@@ -15,7 +15,9 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Hotel:** 
 - **Transportation:** 
 
-[Presentation](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/2018-01-08-NAMIC-Boston.pdf)
+
+[Presentation](https://marilolamacbioidi.github.io/Presentacion_28PW/)
+
 
 ### Local Organizing Committee
  
