@@ -48,4 +48,5 @@ Provide an easy path for distributing extensions that use CUDA.
 
 # Illustrations
 
+![CUDA Probe Package](CUDA-extension-upload.png)
 ![CUDA Probe Extension](CUDA-extension.png)
