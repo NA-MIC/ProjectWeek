@@ -31,7 +31,7 @@ The superior ability of MR to visualize soft tissue has led to an increase in it
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 - [NeedleFinder](http://needlefinder.org)
-- [SegmentEditor] (https://slicer.readthedocs.io/en/latest/user_guide/module_segmenteditor.html)
+- [SegmentEditor](https://slicer.readthedocs.io/en/latest/user_guide/module_segmenteditor.html)
 - [SurfaceCut](https://discourse.slicer.org/t/new-segment-editor-effects-mask-volume-and-surface-cut/699)
 - [Recent Publication](http://www.medicalimageanalysisjournal.com/article/S1361-8415(17)30098-1/abstract)
-- Source code: [https://github.com/needlefinder/NeedleFinder] (https://github.com/needlefinder/NeedleFinder)
+- Source code: [https://github.com/needlefinder/NeedleFinder](https://github.com/needlefinder/NeedleFinder)
