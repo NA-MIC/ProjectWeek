@@ -36,7 +36,9 @@ Issues to fix:
 
 # Illustrations
 
-[csv vs dcm](./csvvsdcm.png)
+<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/DICOMforQuantitativeImaging/radiomics_dcm.jpg" width="600">
+
+<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/DICOMforQuantitativeImaging/dcmbrowser.jpg" width="600">
 
 # Background and References
 
