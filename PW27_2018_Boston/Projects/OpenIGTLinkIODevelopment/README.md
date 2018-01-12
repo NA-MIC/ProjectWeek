@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Adam Rankin](http://www.imaging.robarts.ca/petergrp/node/113) (Robarts Research Institute, Canada)
 - [Mark Asselin](http://perk.cs.queensu.ca/users/asselin) (Queen's University, Canada)
 - Étienne Léger (Concordia University)
+- [Longquan Chen](https://www.linkedin.com/in/longquan-chen-68672340/) (Brigham and Women's Hospital)
 # Project Description
 
 ## Objective
@@ -29,7 +30,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 * Implement a Plus server launcher class that can be used in Plus server launcher, Slicer, Ibis, MITK and CustusX.
 
 ## Progress and Next Steps
-* Support for compressed video in OpenIGTLinkIO has been improved to better handle keyframes through smart buffering (Longquan).
+* Support for compressed video in OpenIGTLinkIO has been improved to better handle keyframes through smarter buffering (Longquan).
 * The code for launching a Plus Server has been extracted from PlusServerLauncher to a standalone class that is used in Ibis Neuronav. Next step: add the class to OpenIGTLinkIO. The code can then be used by Slicer and other applications to automatically launch a Plus server on the local machine, monitor its execution and parse the output.
 * A recently developed tablet application for surgical AR (Described in [this article](http://digital-library.theiet.org/content/journals/10.1049/htl.2017.0062?crawler=true&mimetype=application/pdf&tags=noindex) ) has been adapted to easily connect to any OpenIGTLinkIO-powered application. The application has been tested to transmit video to Slicer and IbisNeuronav.
 * The tablet application has also been setup to produce augmented reality images on Ibis Neuronav (see video) using tracking data from a Plus Server connected to a OptiTrack tracking system.
