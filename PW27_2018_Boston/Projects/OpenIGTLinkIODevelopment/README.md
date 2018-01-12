@@ -9,7 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Csaba Pinter](http://perk.cs.queensu.ca/users/pinter) (Queen's University, Canada)
 - [Adam Rankin](http://www.imaging.robarts.ca/petergrp/node/113) (Robarts Research Institute, Canada)
 - [Mark Asselin](http://perk.cs.queensu.ca/users/asselin) (Queen's University, Canada)
-- Étienne Léger (Concordia University)
+- [Étienne Léger](http://www.ap-lab.ca/people/etienneleger/) (Concordia University)
 - [Longquan Chen](https://www.linkedin.com/in/longquan-chen-68672340/) (Brigham and Women's Hospital)
 - [Tamas Ungi](http://perk.cs.queensu.ca/users/ungi) (Perk Lab)
 
