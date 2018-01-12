@@ -41,6 +41,7 @@ The work finished in the project week
 - Video can be replayed at any time point in the Sequence browsing widget. The related key frame will be found and decoded So the current frame can be showed correctly.
 - Compressed video data are saved in a binary file, and can be reloaded into Slicer correctly.
 - Demo Video [IPad real time video](https://drive.google.com/open?id=1WUel7oUq8ndm2i-7pMZGIdSIh0Qak9XY), lossy compression, frame rate 30 FPS, compressed data only 1.7% of the original data.
+- Added support for AV1 codec in OpenIGTLink
 
 Next steps
 - Clean the code, merge branch into upstream, make the new feature in Slicer nightly build
