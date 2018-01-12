@@ -18,21 +18,25 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Review, discuss and implement proposed objectives
 
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
+- Discuss with Andras and agreed on:
+  - migrating user documentation to readthedocs under a single directory
+  - creating api.slicer.org with two set of pages: C++ and Python
+  - using sphinx-api to automatically [document wrapped classes](https://www.slicer.org/wiki/Documentation/Labs/DocumentationImprovments#Documenting_Slicer_APIs)
+- Sent an email to Ron for updating the [Rons Rules For Tools](https://www.slicer.org/wiki/Documentation-Rons-Rules-For-Tools).
+
+
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
+![Generated documentation for VTK Wrapped class](https://www.slicer.org/w/images/thumb/f/f5/Rtd-vtk-python-wrapped.png/701px-Rtd-vtk-python-wrapped.png)
 
-![Some more images](Example2.jpg)
 
 # Background and References
 
