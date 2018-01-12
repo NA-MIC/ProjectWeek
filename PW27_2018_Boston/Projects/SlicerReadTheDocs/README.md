@@ -28,6 +28,7 @@ Back to [Projects List](../../README.md#ProjectsList)
   - migrating user documentation to readthedocs under a single directory
   - creating api.slicer.org with two set of pages: C++ and Python
   - using sphinx-api to automatically [document wrapped classes](https://www.slicer.org/wiki/Documentation/Labs/DocumentationImprovments#Documenting_Slicer_APIs)
+- Talked about associating Slicer extension with a `3d-slicer-extension` [GitHub topic](https://github.com/blog/2309-introducing-topics).
 - Sent an email to Ron for updating the [Rons Rules For Tools](https://www.slicer.org/wiki/Documentation-Rons-Rules-For-Tools).
 
 ### Additional notes
