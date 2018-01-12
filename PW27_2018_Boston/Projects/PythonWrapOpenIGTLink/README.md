@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Franklin King (Brigham and Women's Hospital)
 - Longquan Chen (Brigham and Women's Hospital)
+- Junichi Tokuda (Brigham and Women's Hospital)
 
 # Project Description
 
