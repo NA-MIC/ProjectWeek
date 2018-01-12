@@ -30,7 +30,7 @@ Issues to fix:
 ## Progress and Next Steps
 
 * Fixed several dcmqi issues identified by the users during the project week
-* Finished scripts for converting segmentations and corresponding radiomics features (extracted by pyradiomics) to DICOM  for TCIA LIDC IDRI dataset ([result of conversion for LIDC-IDRI-0011](https://www.dropbox.com/s/myirvs5y20rb64o/LIDC-IDRI-0011.zip?dl=0)); issues identified:
+* Finished [scripts](https://github.com/fedorov/lidc-idri-conversion) for converting segmentations and corresponding radiomics features (extracted by pyradiomics) to DICOM  for TCIA LIDC IDRI dataset ([result of conversion for LIDC-IDRI-0011](https://www.dropbox.com/s/myirvs5y20rb64o/LIDC-IDRI-0011.zip?dl=0)); issues identified:
   * need to integrate pyradiomics features with IBSI-based ontology
   * improve presentation of large number of features in Quantitative Reporting
 
