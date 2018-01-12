@@ -13,7 +13,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 1. Eliminate remaining dependencies in Slicer core for fiberbundle and DTI volume rendering, to simplify both Slicer core
    and SlicerDMRI maintenance and refactorability.
-2. Investigate accessibility of __distributable__ Python dependencies for WhiteMatterAnalysis and `Ni-*` (i/o, diffusion, BIDS?) integration.
 
 ## Approach and Plan
 
@@ -28,6 +27,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 - Initial FiberBundleNode refactoring: https://github.com/SlicerDMRI/SlicerDMRI/pull/94
+  - Hides display pipeline changes so that renderer can have a consistent
+    MeshConnection (vtkAlgorithmOutput) for the life of the display node.
+- New displayable manager for fiberbundle 3D
+  - Allows to replace slow part of the render pipeline:
+    - selection and sub-sampling: set cell visibility per line instead of doing polydata
+      extraction round-trip to CPU
+  - next step: 2D view/slice intersection
 
 # Illustrations
 
