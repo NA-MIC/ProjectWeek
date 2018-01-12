@@ -31,6 +31,8 @@ Since the project is aimed to obtain simulated objective data that allow testing
 
 ## Progress and Next Steps
 
+1. We have followed the approach plan in order to reached some objectives as the plan and prototype 
+1. We have gather valuable information to develop some of the modules
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
