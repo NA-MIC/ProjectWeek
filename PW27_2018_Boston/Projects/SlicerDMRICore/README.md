@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Isaiah Norton (BWH)
 - Lauren O'Donnell (BWH)
+- Tamas Ungi (Queen's)
 
 # Project Description
 
