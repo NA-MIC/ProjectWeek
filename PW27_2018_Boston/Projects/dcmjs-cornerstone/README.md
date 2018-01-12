@@ -49,7 +49,8 @@ Some potential goals for this Project Week are:
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
+![Description of picture](browser.png)
+![Description of picture](display.png)
 
 ![Some more images](Example2.jpg)
 
