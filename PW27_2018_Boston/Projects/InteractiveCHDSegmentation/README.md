@@ -36,5 +36,5 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- [HVSMR Challenge Data](http://segchd.csail.mit.edu)
+- HVSMR Challenge Data: (http://segchd.csail.mit.edu)
 
