@@ -27,7 +27,9 @@ After successful segmentation, a sector map could be extracted that is used for 
 1. Discuss methods to create sector map. Which landmarks should be used?
 
 ## Progress and Next Steps
-
+1. first results on more training data and with different models look promising
+1. Obtained meaningful results for the AFS .
+1. disucussions with people how to further improve the outcome.
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
