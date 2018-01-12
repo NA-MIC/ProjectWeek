@@ -40,9 +40,9 @@ The main purpose of this project is to create a module that integrates an alread
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
+<!--![Description of picture](Example2.jpg)-->
 
-![Some more images](Example2.jpg)
+<!--![Some more images](Example2.jpg)-->
 
 # Background and References
 

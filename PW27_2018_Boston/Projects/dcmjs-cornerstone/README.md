@@ -52,7 +52,7 @@ Some potential goals for this Project Week are:
 ![Description of picture](browser.png)
 ![Description of picture](display.png)
 
-![Some more images](Example2.jpg)
+<!--![Some more images](Example2.jpg)-->
 
 # Background and References
 
