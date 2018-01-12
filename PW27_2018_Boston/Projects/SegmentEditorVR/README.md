@@ -50,7 +50,7 @@ Details:
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![DICOM VR](http://www.dicomvr.com/)
+- [DICOM VR](http://www.dicomvr.com/)
 
 # Background and References
 
