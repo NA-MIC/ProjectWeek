@@ -16,24 +16,25 @@ Back to [Projects List](../../README.md#ProjectsList)
 1. Setup readthedocs documentation
 1. Setup continuous integration
 
+<!-- 
 ## Approach and Plan
+-->
+
+
+## Progress and Next Steps
+
+<!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 - Organized [3d-Slicer-Solutions](../../BreakoutSessions/3D-Slicer-Solutions.md) breakout session to:
   - discuss what define a Slicer solution
   - learn about existing solution
   - present the new project allowing to create custom application. It will be available on https://github.com/KitwareMedical/CustomSlicerAppTemplate
 
-## Progress and Next Steps
-
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
-
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
-
-![Some more images](Example2.jpg)
+![Custom Slicer App CMakeLists.txt](custom-slicer-app-cmakelists.png)
 
 # Background and References
 
