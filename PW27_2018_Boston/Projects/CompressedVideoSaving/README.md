@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Longquan Chen (Brigham and Women's Hospital)
 - Kyle Sunderland (Perk Lab)
 - Andras Lasso (Perk Lab)
+- Étienne Léger (Concordia University)
 - Junichi	Tokuda (Brigham and Women's Hospital)
 
 # Project Description
@@ -59,6 +60,7 @@ Next steps
 
 - [OpenIGTLinkIF module Source Code](https://github.com/openigtlink/OpenIGTLinkIF/tree/IGTLIOFullIntegration)
 - [Sequence module Source Code](https://github.com/leochan2009/Sequences/tree/BitStreamForVideo)
+- [Ipad for image-guided neurosurgery](http://digital-library.theiet.org/content/journals/10.1049/htl.2017.0062?crawler=true&mimetype=application/pdf&tags=noindex)
 <!-- Documentation: https://link.to.docs -->
 <!-- Test data: https://link.to.test.data -->
 
