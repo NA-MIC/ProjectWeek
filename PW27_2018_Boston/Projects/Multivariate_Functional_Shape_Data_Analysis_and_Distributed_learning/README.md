@@ -20,8 +20,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 2. We will add the deep learning models in the web using clusterpost
 
 ## Progress and Next Steps
-- Developing the pre-processing for MFSDA
-- Adding the pre-processing as a plugin on the web site
+- Developing the preprocessing for MFSDA
+- Adding the preprocessing as a plugin on the web site
 - Adding the new models of deep learning in the web system
 - Developing distributed learning to increase the accuracy of the models
 
