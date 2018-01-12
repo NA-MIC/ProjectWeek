@@ -21,11 +21,15 @@ Make sure that Qt5 is fully integrated with Slicer
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+PR integrated: https://github.com/Slicer/Slicer/pull/864
 
 # Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+Old look:
+https://user-images.githubusercontent.com/426898/34784414-31042f10-f5fc-11e7-8776-2bc8eca80a4a.png
+
+New look:
+https://user-images.githubusercontent.com/426898/34784359-058dd700-f5fc-11e7-90c7-b3513a758522.png
 
 # Background and References
 
