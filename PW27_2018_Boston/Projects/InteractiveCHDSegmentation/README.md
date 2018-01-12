@@ -25,11 +25,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. Implemented on-the-fly data augmentation, including (1) random affine transformations constrained by a user-specified maximum rotation, translation, scale and shear, and (2) random elastic deformation.
+2. Currently running trials to measure impact and tune parameters.
 
 # Illustrations
-
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 ![Example multi-chamber segmentation](Picture1.png)
 
