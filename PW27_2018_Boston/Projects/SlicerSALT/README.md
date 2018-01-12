@@ -57,11 +57,9 @@ SlicerSALT will be used to:
 - Estimation of shape correspondence for population of objects with complex topology: 
   - Comparison of the three methods already existing
   - Abandon of the ThinShellDemon method due to the generated results not enough accurate
-
-Next Steps: 
-Project for the estimation of shape correspondence for population of objects with complex topology: 
-  - Improvement of the Deformetrica method in order to accelerate the computation
-  - Tests on new data
+  - Next Steps: 
+    - Improvement of the Deformetrica method in order to accelerate the computation
+    - Tests on new data
 
 
 # Illustrations
