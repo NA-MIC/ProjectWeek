@@ -28,7 +28,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Organized [3d-Slicer-Solutions](../../BreakoutSessions/3D-Slicer-Solutions.md) breakout session to:
   - discuss what define a Slicer solution
   - learn about existing solution
-  - present the new project allowing to create custom application. It will be available on https://github.com/KitwareMedical/CustomSlicerAppTemplate
+  - present the new project allowing to create custom application. **Only ~100 lines**. It will be available and documented on https://github.com/KitwareMedical/CustomSlicerAppTemplate
 
 # Illustrations
 
