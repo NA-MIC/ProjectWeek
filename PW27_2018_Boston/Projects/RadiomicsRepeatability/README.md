@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Hugo Aerts (DFCI)
 - Fiona Fennessy (BWH/DFCI)
 - Andrey Fedorov (BWH/HMS)
+- Jennifer Nitsch (MEVIS)
 
 # Project Description
 
@@ -26,7 +27,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. Short discussions about approach to evaluation and measures
+1. Next step: Write the paper
 
 # Illustrations
 

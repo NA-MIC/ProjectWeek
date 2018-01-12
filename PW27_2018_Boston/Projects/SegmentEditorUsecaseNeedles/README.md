@@ -3,8 +3,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Using SegmentEditor for Deep Learning Data Annotation
 
 ## Key Investigators
-
-- @tkapur @cpinter @pieper @lassoan @gpernelle @Royak
+- Guillaume Pernelle (@gpernelle), Roya Khajavi (@royak), Steve Pieper (@pieper), Csaba Pinter (@cpinter), Andras Lasso (@lassoan), Tina Kapur (@tkapur)
 
 # Project Description
 
@@ -22,24 +21,17 @@ The superior ability of MR to visualize soft tissue has led to an increase in it
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
-
-# Illustrations
-
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-
-![Description of picture](Example2.jpg)
-
-![Some more images](Example2.jpg)
+1. We learned how to apply SegmentEditor and explored the extra effects of the SegmentEditorExtraEffects module
+1. We considered adapting the SurfaceCut extra effect in order to draw multiple Bezier splines, but it would require substantial work to modify the UI of SegmentEditor to allow for segmentation and modification of several needles for a single case. 
+1. We decided instead to improve NeedleFinder, that has been developed for the specific case of multi needle segmentation.
+1. The next steps are the make the NeedleFinder UI more user friendly and ask users for their feedback how to make the workflow easier/faster.
 
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- [Web Site for Needle Segmentation Project](http://needlefinder.org)
+- [NeedleFinder](http://needlefinder.org)
+- [SegmentEditor](https://slicer.readthedocs.io/en/latest/user_guide/module_segmenteditor.html)
+- [SurfaceCut](https://discourse.slicer.org/t/new-segment-editor-effects-mask-volume-and-surface-cut/699)
 - [Recent Publication](http://www.medicalimageanalysisjournal.com/article/S1361-8415(17)30098-1/abstract)
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
-
-
+- Source code: [https://github.com/needlefinder/NeedleFinder](https://github.com/needlefinder/NeedleFinder)

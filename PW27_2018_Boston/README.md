@@ -4,6 +4,8 @@
 The 27th NA-MIC Project Week will be held during the week of January 8-12, 2018 at the Stata Center at MIT.
 To receive information about this and future events please join the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) AND participate in the [Project Week forum on GitHub](https://github.com/orgs/NA-MIC/teams/pw27/discussions), our new dissemination mechanism as of PW27.
 
+![GroupPicture](PW27-2018010-640.gif)
+
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.sciencedirect.com/science/article/pii/S1361841516301128).
 
@@ -35,7 +37,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 **Who to contact?** Project Weeks are led by @tkapur ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)) who is happy to tell you more about them.
 
-## Program 
+## Program
 
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America%2FNew_York&dates=20180108%2F20180112&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -52,37 +54,40 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [SlicerVR Extension](Projects/SlicerVR/README.md) (JC Fillion-Robin, Beatriz Paniagua, and others)
 1. [SlicerVR Interaction Design](Projects/SlicerVRInteractions/README.md) (JC Fillion-Robin, Andras Lasso, Csaba Pinter, and others)
 1. [Medical Infrared Imaging with Slicer](Projects/MedicalInfraredImagingwithSlicer/README.md) (Jorge Quintero-Nehrkorn, Jose Carlos Ruiz-Luque, Yolanda Martin-Hernando, Juan Ruiz-Alzola, Andras Lasso)
-1. [Integration of Medical Imaging Simulators in Slicer](Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md) (Abián Hernández-Guedes, Jose Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola, Andras Lasso)
+1. [Integration of Medical Imaging Simulators in Slicer](Projects/IntegrationOfMedicalImagingSimulatorsInSlicer/README.md) (Abián Hernández-Guedes, Jose Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola, Andras Lasso, Tamas Ungi)
 1. [Segment Editor VR](Projects/SegmentEditorVR/README.md) (Csaba Pinter, Andras Lasso)
 1. [SlicerAR](Projects/SlicerAR/README.md) (Adam Rankin)
-
+1. [SlicerHeartVR](Projects/SlicerHeartVR/README.md) (Andras Lasso, Matthew Jolley, Steve Pieper, Mark Asselin)
 
 ### Web Technologies
 
 1. [Open Anatomy Browser](Projects/OpenAnatomyBrowser/README.md) (Michael Halle, Ben Ball, Abián Hernández-Guedes, María Dolores Afonso-Suárez, Jose Carlos Ruiz-Luque, Juan Ruiz-Alzola)
 1. [DCMJS+Cornerstone Utilities](Projects/dcmjs-cornerstone/README.md) (Steve Pieper, Erik Ziegler)
-1. [Prostate mpMRI Web Viewer](Projects/ProstateMpMRIWebViewer/README.md) (Alireza Sedghi, Alireza Mehrtash, Steve Pieper)
+1. [Prostate mpMRI Web Viewer](Projects/ProstateMpMRIWebViewer/README.md) (Alireza Sedghi, Alireza Mehrtash, Steve Pieper, Erik Ziegler)
 1. [Girder and SlicerCLIs in the Cloud](Projects/GirderWebCloud/README.md) (Michael Grauer)
-1. [Upload Slicer scene to Girder](Projects/GirderSlicerScene/README.md) (Michael Grauer, Tamas Ungi, JC Fillion-Robin, Pierre Assemat)
+1. [Upload Slicer Scene to Girder](Projects/GirderSlicerScene/README.md) (Michael Grauer, Tamas Ungi, JC Fillion-Robin, Pierre Assemat, Curtis Lisle)
+1. [Slicer (and other) Apps on the Cloud using a System Call CHRIS](Projects/CHRIS-slicer/README.md) (Rudolph Pienaar)
 
 
 ### IGT: Navigation, Robotics, Surgical Planning
 
 1. [Harmonus IGT Project](Projects/HarmonusIGT/README.md) (Nicole Aucoin)
-1. [Tracked US Standardization 5](Projects/TrackedUSStandadization/README.md) (Simon Drouin, Adam Rankin, Csaba Pinter, Andras Lasso, Mark Asselin)
+1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Simon Drouin, Adam Rankin, Csaba Pinter, Andras Lasso, Mark Asselin, Étienne Léger)
 1. [Compressed Video Saving and Loading for Sequences](Projects/CompressedVideoSaving/README.md) (Longquan Chen, Kyle Sunderland, Tamas Ungi, Andras Lasso, Junichi Tokuda)
 1. [NorMIT-Plan: Liver Resection Planning](Projects/NorMIT-Plan/README.md) (Rafael Palomar)
 1. [Model-Based Needle Tip Localization and MR Scan Plane Planning](Projects/dynamic-needle-tracking/README.md) (Joe Schornak)
 1. [SlicerIGT Extension Development and Tutorial](Projects/SlicerIGT_Tutorial/README.md) (Tamas Ungi, Longquan Chen, Junichi Tokuda)
-1. [EM tracker magnetics and algorithms](Projects/EM_trackers_magnetics_and_algorithms/README.md) (Peter Traneus Anderson)
-1. [Slicer Guided Ultra Sound Module](Projects/SlicerGuidedUltraSoundCalibration/README.md) (Leah Groves)
+1. [EM Tracker Magnetics and Algorithms](Projects/EM_trackers_magnetics_and_algorithms/README.md) (Peter Traneus Anderson)
+1. [Slicer Guided Ultrasound Calibration Module](Projects/SlicerGuidedUltraSoundCalibration/README.md) (Leah Groves, Adam Rankin)
 1. [Trajectory Planning](Projects/TrajectoryPlanning/README.md) (Caroline Essert)
 1. [Remote Control for Plus Server Launcher](Projects/PlusServerLauncherRemoteControl/README.md) (Kyle Sunderland, Andras Lasso)
+1. [ROS-IGTL-Bridge Video Streaming](Projects/ROSIGTLVideoStreaming/README.md) (Junichi Tokuda, Longquan Chen)
+1. [Python Wrapping OpenIGTLink](Projects/PythonWrapOpenIGTLink/README.md) (Franklin King)
 
 
 ### dMRI
 
-1. [SlicerDMRI Core Modernization](Projects/SlicerDMRICore/README.md) (Isaiah Norton, Lauren O'Donnell)
+1. [SlicerDMRI Core Modernization](Projects/SlicerDMRICore/README.md) (Isaiah Norton, Lauren O'Donnell, Tamas Ungi)
 1. [SlicerDMRI Docfest](Projects/SlicerDMRIDocs/README.md) (Fan Zhang, Isaiah Norton, Lauren O'Donnell)
 1. [Anatomically Curated Fiber Clustering White Matter Parcellation Atlas](Projects/FiberClusteringAtlas/README.md) (Fan Zhang, Isaiah Norton, Lauren J. O'Donnell)
 
@@ -93,20 +98,21 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 2. [Decision Support for End-Stage Liver Disease Transplants](Projects/ESLD_DSS/README.md) (Mike Halle, Ben Ball, April Wall, Jennifer Nitsch, Hans Meine)
 3. [DICOM for Quantitative Imaging](Projects/DICOMforQuantitativeImaging/README.md) (Andrey Fedorov, Christian Herz)
 4. [DICOM Volume Reconstruction Tools](Projects/DICOMVolumeReconstruction/README.md) (Andrey Fedorov, Andrew Beers, Joost van Griethuysen, Steve Pieper)
-
+5. [Quantitative Small Animal Imaging](Projects/QuantitativeSmallAnimalImaging/README.md) (Curtis Lisle, Andrey Fedorov, Yanling Liu)
 
 ### Shape Analysis, Segmentation, Deep Learning, Radiomics, Organ Motion Compensation
 
 1. [SlicerSALT Shape Analysis Toolbox Updates](Projects/SlicerSALT/README.md) (Laura Pascal, JC Fillon-Robin, Beatriz Paniagua, Juan Prieto, Loic Michoud)
-1. [Using SegmentEditor for Deep Learning Data Annotation](Projects/SegmentEditorUsecaseNeedles/README.md) (@tkapur @gpernelle @cpinter @pieper @lassoan)
+1. [Using SegmentEditor for Deep Learning Data Annotation](Projects/SegmentEditorUsecaseNeedles/README.md) (Guillaume Pernelle, Tina Kapur, Steve Pieper, Csaba Pinter, Andras Lasso, Roya Khajavi)
 1. [Shape Variation Analyzer](Projects/ShapeVariationAnalyzer/README.md) (Juan Prieto, Nina Tubau)
 1. [Multivariate Functional Shape Data Analysis & Distributed learning](Projects/Multivariate_Functional_Shape_Data_Analysis_and_Distributed_learning/README.md) (Juan Prieto, Loic Michoud)
 1. [Multi Label Segmentation of Prostate Zones with Volumetric CNN](Projects/ProstateZoneSegmentation/README.md) (Anneke Meyer, Alireza Mehrtash, Andrey Fedorov, Christian Hansen)
 1. [Repeatability of Pyradiomics Features](Projects/RadiomicsRepeatability/README.md) (Michael Schwier, Joost van Griethuysen, Andrey Fedorov)
-1. [Organ Motion Compansation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene)
+1. [Organ Motion Compensation in MR](Projects/OrganmotionCompensationInMR/README.md) (Gino Gulamhussene, Joost van Griethuysen)
 1. [3D Printed Prostate Cancer Models](Projects/3DPrintedProstateCancerModels/README.md) (Nicole Wake, Andrey Fedorov, Hersh Chandarana, Andrew Rosenkrantz, William Huang)
-1. [PyRadiomics Models](Projects/PyRadiomics/README.md) (Joost van Griethuysen, Andrey Fedorov, Steve Pieper, Jean-Christophe Fillion-Robin, Hugo Aerts)
-1. [Interactive deep learning for congenital heart disease segmentation](Projects/InteractiveCHDSegmentation/README.md) (Danielle Pace, Adrian Dalca, Polina Golland, Mehdi Hedjazi Moghari)
+1. [PyRadiomics Models](Projects/PyRadiomics/README.md) (Joost van Griethuysen, Andrey Fedorov, Steve Pieper, JC Fillion-Robin, Hugo Aerts)
+1. [Interactive Deep Learning for Congenital Heart Disease Segmentation](Projects/InteractiveCHDSegmentation/README.md) (Danielle Pace, Adrian Dalca, Polina Golland, Mehdi Hedjazi Moghari)
+1. [Mapping and Visualizing a Segmented Placenta to a Canonical Template](Projects/PlacentaFlattening/README.md) (Mazdak Abulnaga, Justin Solomon, Polina Golland)
 
 
 ### Chest Imaging Platform
@@ -116,10 +122,11 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Infrastructure
 
-1. [Slicer Custom Application](Projects/SlicerCustomApplication/README.md) (Jc Fillon-Robin, Andras Lasso)
-1. [Slicer Documentation @ ReadTheDocs](Projects/SlicerReadTheDocs/README.md) (Jc Fillon-Robin, Andras Lasso)
-1. [Keep Track of the Installed Extensions Across Version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Jc Fillon-Robin, Mathias Neugebauer, Hans Meine, Andras Lasso, Ron Kikinis)
+1. [Slicer Custom Application](Projects/SlicerCustomApplication/README.md) (JC Fillon-Robin, Andras Lasso)
+1. [Slicer Documentation @ ReadTheDocs](Projects/SlicerReadTheDocs/README.md) (JC Fillon-Robin, Andras Lasso)
+1. [Keep Track of the Installed Extensions Across Version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Hans Meine, JC Fillon-Robin, Mathias Neugebauer, Andras Lasso, Steve Pieper, Johan Andruejol, Christian Herz, Ron Kikinis)
 1. [Slicer Extensions with CUDA](Projects/ExtensionsWithCUDA/README.md) (Greg Sharp)
+1. [Qt5 Integration](Projects/Qt5Integration/README.md) (Johan Andruejol)
 
 
 ### Training and Dissemination
@@ -133,11 +140,13 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 <a name="BreakoutSessions"/>
 
-## Breakout Sessions - *New this year*
+## Breakout Sessions - *New topics this year*
 
-1. [3D Slicer Solutions Breakout Session](BreakoutSessions/3D-Slicer-Solutions.md)
-1. [Medical&Scientific Software in the Cloud](https://github.com/orgs/NA-MIC/teams/pw27/discussions/8)
-1. [FDA and 3D Slicer](Nicole Aucoin)
+1. [What is new in Slicer ?](https://goo.gl/xFQkdQ) - [[Slides](https://goo.gl/xFQkdQ)]
+2. [3D Slicer Solutions Breakout Session](BreakoutSessions/3D-Slicer-Solutions.md) - [[Slides](https://goo.gl/6F29LG)]
+3. [Medical&Scientific Software in the Cloud](BreakoutSessions/Medical-and-Scientific-Software-in-the-Cloud.md)
+4. [FDA and 3D Slicer](BreakoutSessions/FDA-and-3D-Slicer.md)
+5. [Augmented/Virtual Reality](BreakoutSessions/AR-VR.md)
 
 
 ## Registrants

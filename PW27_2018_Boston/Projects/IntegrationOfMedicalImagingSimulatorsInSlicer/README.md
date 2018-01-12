@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Guillermo Valentín Socorro-Marrero (ULPGC - GTMA - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 - Andras Lasso (PerkLab, Queen's University)
+- Tamas Ungi (Perk Lab)
 
 # Project Description
 
@@ -30,6 +31,8 @@ Since the project is aimed to obtain simulated objective data that allow testing
 
 ## Progress and Next Steps
 
+1. We have followed the approach plan in order to reached some objectives as the plan and prototype 
+1. We have gather valuable information to develop some of the modules
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
@@ -37,9 +40,11 @@ Since the project is aimed to obtain simulated objective data that allow testing
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 # Background and References
+- Reichl, T., Passenger, J., Acosta, O., & Salvado, O. (2009, March). Ultrasound goes GPU: real-time simulation using CUDA. In SPIE Medical Imaging (Vol. 2009, p. 726116). International Society for Optics and Photonics.
+- Wein, W., Brunke, S., Khamene, A., Callstrom, M. R., & Navab, N. (2008). Automatic CT-ultrasound registration for diagnostic imaging and image-guided intervention. Medical image analysis, 12(5), 577-585.
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/YourUser/YourRepository
+<!-- - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
+- Test data: https://link.to.test.data -->

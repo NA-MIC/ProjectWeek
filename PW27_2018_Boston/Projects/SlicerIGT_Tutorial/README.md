@@ -18,18 +18,20 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-1. Test the currently implemented version.
-2. Fix bugs and implement features as necessary.
-3. Extend the Documents.
+1. Share the latest tutorial in a breakout session
+2. Meetings about current IGT applications and prioritize future tutorials
+3. Extend tutorial documents
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. Live tutorial (see picture)
+2. Online version of tutorial available on the [SlicerIGT website](http://www.slicerigt.org/wp/user-tutorial/), see U-37
+3. Plans for future: developer tutorial, robot control
 
 
 # Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+![SlicerIGT tutorial](Tutorial2018.jpg)
 
 <!-- ![Description of picture](Example2.jpg) -->
 <!-- ![Some more images](Example2.jpg) -->
@@ -39,6 +41,5 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 - [Source Code](https://github.com/SlicerIGT/SlicerIGT)
-<!-- Documentation: https://link.to.docs -->
+- [SlicerIGT website](http://www.slicerigt.org/wp/)
 <!-- Test data: https://link.to.test.data -->
-

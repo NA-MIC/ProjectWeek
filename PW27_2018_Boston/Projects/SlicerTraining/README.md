@@ -17,7 +17,7 @@ In any case the training material sould be oriented to the creation of digital l
 
 ## Objective
 
-1. Establish a training plan for both profiles: medical area professionals and engineers of the developing countries.
+1. Establish a training plan for both profiles: clinicians and engineers of the developing countries.
 1. Establish a training network of professionals to develop learning objects.
 1. The creation of a hub where professionals can find learning objects to configure their own courses.
 
@@ -29,7 +29,11 @@ In any case the training material sould be oriented to the creation of digital l
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. Following the approach steps we have drafted two training plans, for clinicians and engineers.
++ [3D Slicer Clinicians](https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/Projects/SlicerTraining/TrainingPlan_3DSlicer%2BPlus_en_v1.pdf)
++ [3D Slicer Engineers](https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/Projects/SlicerTraining/TrainingPlan_ImagingTechnologies_en_v1.pdf)
+1. There will be a first training workshop in March for professionals from Cape Verde, Senegal and Mauritania
+1. It is planned as the start point of future collaborations with the team of the MACbioIDi project 
 
 # Illustrations
 
@@ -44,4 +48,4 @@ In any case the training material sould be oriented to the creation of digital l
 
 + [3D Slicer Tutorials](https://www.slicer.org/wiki/Documentation/4.8/Training)
 
-+ [Plus Toolkit User's guide](https://plustoolkit.github.io/usersguide)
++ [Plus Toolkit User's Guide](https://plustoolkit.github.io/usersguide)

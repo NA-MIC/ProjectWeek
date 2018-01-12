@@ -1,3 +1,4 @@
+
 Back to [Projects List](../../README.md#ProjectsList)
 
 # Organ Motion Compensation in MR
@@ -5,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Gino Gulamhussene (University of Magdeburg)
+- Joost van Griethuysen (BWH)
 
 # Project Description
 Creating a program to generate 4D MRI sequences applying the retrospectiv stacking method on 2D MR slices. 
@@ -22,14 +24,21 @@ The available data is comprised of an time resolved alternating sequence of navi
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+- got insight in available and relevant DICOM tags (big thanks to Joost for the DICOM Explorer) 
+- hit a roadblock when data appeared to be faulty
+- wrote a python script sorting the data by aquisition time, turns out data is faulty after all (thanks to Joost again)
+
+**next steps**
+- figure out how to tell the MR scanner to aquire slices in the right order
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
+![Data aquisition](dataAquisition.PNG)
+![Data sorting](dataSorting.PNG)
+![Data fault](TimeSorted.PNG)
 
-![Some more images](Example2.jpg)
 
 # Background and References
 

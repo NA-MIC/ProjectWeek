@@ -4,11 +4,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Jean-Christophe Fillion-Robin (Kitware)
-- Mathias Neugebauer (Fraunhofer)
-- Hans Meine (Fraunhofer)
+- Hans Meine (Fraunhofer MEVIS)
+- Mathias Neugebauer (Fraunhofer MEVIS)
 - Andras Lasso (Queens)
-- Ron Kikinis (Fraunhofer,SPL)
+- Steve Pieper (Isomics)
+- Ron Kikinis (Fraunhofer MEVIS, SPL)
+- Johan Andruejol (Kitware)
+- Christian Herz (SPL)
+- Jean-Christophe Fillion-Robin (Kitware)
 
 # Project Description
 
@@ -29,7 +32,18 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+- New, refined pull request [Slicer PR#865](https://github.com/Slicer/Slicer/pull/865)
+- Tested on Windows, Linux and Mac (thanks to Christian and Johan)
+- Debugged timeout problem with qRestAPI (caused by refactoring /
+  extraction of qRestAPI from qMidasAPI – again, thanks to Johan!)
+  - refactored qRestAPI, fix still incomplete
+  - see [qRestAPI PR#16](https://github.com/commontk/qRestAPI/pull/16)
+- Temporary solution: change default for startup check to off, until
+  qRestAPI is fixed
+- Planned for future: Button / method to clear extension history
+
+## User Wish List
+* If not totally impossible, it would be amazing if the Slicer installer had a checkbox to say "Uninstall previous Slicer version(s) and install existing extensions to new version" or similar. - Adam Rankin
 
 # Illustrations
 

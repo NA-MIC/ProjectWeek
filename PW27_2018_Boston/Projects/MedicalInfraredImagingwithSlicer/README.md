@@ -31,6 +31,14 @@ This project is a research collaboration between the public research institute I
 
 <!--Describe progress and next steps in a few bullet points as you are
 making progress.-->
+1. We have finished the integration of the Thermal Seek Pro camera in Plus Toolkit.
+
+2. We have continued the development of the thermal infrared images module. 
+
+3. The next objetives are :
+    - To finish the images registration.
+    - To integrate new infrared cameras, like Thermal Expert Q1 camera.
+    - To add some diferent segmentation methods in order to perform a comparisson. 
 
 # Illustrations
 
@@ -38,7 +46,11 @@ making progress.-->
 accomplished.-->
 <!--3D Slicer Training Network.-->
 
-<img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/PiesRecortados.png">
+<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/PiesRecortados.png" width="300">
+
+<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/Plus%2BSlicer.png" width="300">
+
+<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/SlicerInfraredModule.png" width="300">
 
 # Background and References
 

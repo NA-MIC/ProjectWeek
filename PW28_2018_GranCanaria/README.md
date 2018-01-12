@@ -15,6 +15,10 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Hotel:** 
 - **Transportation:** 
 
+
+[Presentation](https://marilolamacbioidi.github.io/Presentacion_28PW/)
+
+
 ### Local Organizing Committee
  
 **Dr. Juan Ruiz Alzola**<br>

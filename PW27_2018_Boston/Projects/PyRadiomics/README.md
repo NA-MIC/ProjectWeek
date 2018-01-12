@@ -6,7 +6,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 
  - [Joost van Griethuysen](https://github.com/JoostJM) <sup>1, 3, 4</sup>
  - [Andriy Fedorov](https://github.com/fedorov) <sup>2</sup>
- - [Nicole Aucoin](https://github.com/naucoin) <sup>2</sup>
  - [Jean-Christophe Fillion-Robin](https://github.com/jcfr) <sup>5</sup>
  - [Ahmed Hosny](https://github.com/ahmedhosny) <sup>1</sup>
  - [Steve Pieper](https://github.com/pieper) <sup>6</sup>
@@ -24,7 +23,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Objective
 
 1. Develop framework to easily apply and share radiomic models using PyRadiomics and it's 3D slicer extension SlicerRadiomics.
-2. In addition to the current lesion-based extraction, add a voxel-based extraction.
+1. In addition to the current lesion-based extraction, add a voxel-based extraction.
+1. Update the SlicerRadiomics extension to accept the PyRadiomics parameter files.
 
 ## Approach and Plan
 
@@ -38,21 +38,58 @@ Back to [Projects List](../../README.md#ProjectsList)
 ### Objective #2
 
 1. Update radiomics base module to allow voxel-based extraction
-2. Add new feature extractor module to provide interface for voxel-based extraction
-3. Add Commandline interface for voxel based extraction
-4. Add examples (settings, usage) to show new functionality
+1. Add new feature extractor module to provide interface for voxel-based extraction
+1. Add Commandline interface for voxel based extraction
+1. Add examples (settings, usage) to show new functionality
+
+### Objective #3
+
+1. Update the SlicerRadiomics widget to have a toggle button for manual customization (UI elements in Slicer) or parameter file customization (path line edit to select file)
+1. Update the SlicerRadiomics logic to allow an extraction using the parameter file customization
+1. Add a test to SlicerRadiomicsTest to test this new functionality
 
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
+### Objective #1
+[Related PR](https://github.com/Radiomics/pyradiomics/pull/338)
+- Designed a model definition configuration file and validation schemas
+
+TODO: 
+- Implement functionality to apply models
+- Add several model types (e.g. linear regression, logistic regression)
+
+### Objective #2
+[Related PR](https://github.com/Radiomics/pyradiomics/pull/337)
+- Added voxel based extraction functionality
+- Updated current feature extractor module to optionally allow voxel based extraction
+- Added examples to show new functionality
+
+TODO:
+- Add commandline interface
+
+### Objective #3
+[Related PR](https://github.com/Radiomics/SlicerRadiomics/pull/36)
+- Update widget
+- Update Logic
+- Update Test
+
 ## Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
+### Objective #2
 
-![Some more images](Example2.jpg)
+![The input for the voxel based extraction](pyradiomics_voxelbased_input.png)
+
+![The result of the voxel based extraction (Original GLCM Entropy)](pyradiomics_voxeblbased_parametermap.png)
+
+### Objective #3
+
+![Slicer Radiomics new layout 1 (manual customization)](slicerRadiomics_layout1.png) 
+
+![Slicer Radiomics new layout 2 (parameter file customization)](slicerRadiomics_layout2.png)
 
 ## Background and References
 
@@ -65,4 +102,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 Other related references:
 * Image biomarker standardisation initiative: https://arxiv.org/abs/1612.07003
-* Radiomics Ontology: http://www.radiomics.org/RO/01000
+* Radiomics Ontology: http://www.radiomics.org/RO/01000, http://bioportal.bioontology.org/ontologies/RO

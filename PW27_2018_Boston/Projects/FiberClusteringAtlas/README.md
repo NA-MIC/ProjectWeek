@@ -21,15 +21,15 @@ Release a whole brain fiber clustering atlas for consistent white matter parcell
 
 ## Progress and Next Steps
 
+- Done: a pre-release verion on GitHub (not public yet)
+
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Description of picture](Example2.jpg)
-
-![Some more images](Example2.jpg)
+![Screenshot](Screen Shot 2018-01-12 at 9.31.07 AM.png)
 
 # Background and References
 

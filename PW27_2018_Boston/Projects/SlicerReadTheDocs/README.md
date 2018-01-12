@@ -14,6 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 1. Finalize migration of user documentation from the wiki to ReadTheDocs. See https://github.com/Slicer/Slicer/pull/686 and http://slicer.readthedocs.io
 1. Discuss and work on migration of developer documentation.
 1. Setup api.slicer.org portal providing access to C++ classes documentation (generated using doxygen) and Python classes (generated using sphinx). See See https://www.slicer.org/wiki/Documentation/Labs/DocumentationImprovments#Documenting_Slicer_APIs
+1. Update [Rons Rules For Tools](https://www.slicer.org/wiki/Documentation-Rons-Rules-For-Tools) to  include testing and documentation.
 
 ## Approach and Plan
 

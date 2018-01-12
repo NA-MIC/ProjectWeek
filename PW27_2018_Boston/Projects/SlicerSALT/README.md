@@ -39,25 +39,41 @@ SlicerSALT will be used to:
 
 1. SlicerSALT's Project: 
 - Update of the Slicer version used by SlicerSALT to the new release
-- Incorporation of the new extensions in the new SlicerSALT release
+- Incorporation of Shape Regression Extension in the new SlicerSALT release
 - Test of the new extensions
-2. Project for the estimation of shape correspondence for population of objects with complex topology: 
-- Comparison of the three methods already existing and tested
+2. Project for the estimation of shape correspondence for population of objects with complex topology:
+- Comparison of the three methods already existing
 - Investigation in order to universalize the Deformetrica method (issue with the use of Cuda/GPU) 
 - Investigation in order to find a more efficient method (new tools, new algorithms, etc..)
 
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+- Update of the Slicer version used by SlicerSALT to the new release
+- Shape Regression Extension: 
+  - Fixing of some bugs on the shape regression computation
+  - Adding of some tests
+  - Test of the slicer extension package on Windows and Mac (Issue on Linux) -> Almost ready to be intergrated in SlicerSALT
+- Estimation of shape correspondence for population of objects with complex topology: 
+  - Comparison of the three methods already existing
+  - Abandon of the ThinShellDemon method due to the generated results not enough accurate
+  - Next Steps: 
+    - Improvement of the Deformetrica method in order to accelerate the computation
+    - Tests on new data
+
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+Shape Regression Extension: 
 
-![SlicerSALTlogo](https://raw.githubusercontent.com/slicersalt/slicersalt.github.io/master/images/SALT_Logo_512.png)
-![ExampleOfCorrespondingShapeEstimation](https://raw.githubusercontent.com/laurapascal/slicerprojectweek2018/master/Example_of_corresponding_shape_estimation.png)
-![MethodsForCorrespondingShapeEstimation](https://raw.githubusercontent.com/laurapascal/slicerprojectweek2018/master/methods_estimation_of_shape_correspondence_for_population_of_objects_with_complex_topology.png)
+<img src="https://raw.githubusercontent.com/laurapascal/slicerprojectweek2018/master/ShapeRegressionExtension_UI.png" width="440" ></img>
+
+Estimation of shape correspondence for population of objects with complex topology: 
+
+<img src="https://raw.githubusercontent.com/laurapascal/slicerprojectweek2018/master/Example_of_corresponding_shape_estimation.png" width="500" ></img>
+<img src="https://raw.githubusercontent.com/laurapascal/slicerprojectweek2018/master/methods_estimation_of_shape_correspondence_for_population_of_objects_with_complex_topology.png" width="500" ></img>
+
 
 # Background and References
 

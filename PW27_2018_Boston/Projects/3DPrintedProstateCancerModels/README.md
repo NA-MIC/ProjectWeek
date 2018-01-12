@@ -7,6 +7,7 @@ Key Investigators
 - Hersh Chandarana (NYU School of Medicine)
 - Andrew Rosenkrantz (NYU School of Medicine)
 - William Huang (NYU School of Medicine)
+- Danielle Pace (MIT) (has put together a pipeline for preparing 3d printed models before, happy to share experience)
 
 
 # Project Description

@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Jean-Christophe Fillion-Robin (Kitware)
 - Andras Lasso (PerkLab)
+- Johan Andruejol (Kitware)
 
 # Project Description
 
