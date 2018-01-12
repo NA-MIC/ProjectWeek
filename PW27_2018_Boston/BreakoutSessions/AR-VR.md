@@ -23,9 +23,8 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
   - Auto-add transform for "movable" objects when grabbed and moved
     - These default transforms are simple: parent is world, no constraints
     - Moving group of objects or moving with constraints can be set up explicitly
-- Moving in the workd
-  - If no object is grabbed, then the "world is moved" (i.e. the camera manipulated)
-  - "Swimming", pinch zoom: open/close arms with both controllers
+- Moving in the world
+  - If no object is grabbed, then the "world is moved" (i.e. the camera manipulated)  - "Swimming", pinch zoom: open/close arms with both controllers
   - Being able to fly anywhere is a distraction, causes losing orientation (the patient is the only focus)
     - Walk around (e.g. along surface of sphere) and zoom are the only modes of motion
 	The clipped slice(s) will be the slice drawn on, the same way it is done now on the 2D slices
@@ -33,7 +32,39 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
   - By simulating mouse interactions all the effects could be used
   - New effects
     - Surface deformation: Grow ROI on segment surface then push or pull with modification function (VR possibly makes it actually usable by allowing quick evaluation of the result while changing the input, and seeing all in real 3D with depth)
+    
 - **Discussion**
+
+- Sam Jang recommendations: Keep focus on the model, not fly around; rotate or walk around; keep actions very consistent.
+- If elbow and wrist rests on some gel pad then fine manipulation is feasible
+- Minimize virtual motion detached from physical motion to reduce motion thickness
+- Similarly to WebVR/AFrame (https://aframe.io/), WebAR is going to be available, too (for example, with Apple ARKit)
+- There are different use cases, which require different interaction models, such as room-centric and object-centric
+  - Walking around the object is not always feasible (there is not always enough space)
+  - "Turntable" mode could be good (keep a constant distance, view object from different side)
+  - Games mostly "jump" to a new place, to reduce motion thickness
+  - "Laser pointer" kind of interaction
+- Operations in VR must be faster, because arms get tired, time passes quicker
+- Segmentation: painting may betedious but cleaning up a model may be good
+- Warping of 3D surfaces (to match anatomy during segmentation) could be a good use case
+- Some things are possible in 3D that is almost impossible in 2D (such as drawing a knot or follow a complex 3D trajectory). Some other things, such as accurate drawing of contours may be easier using mouse&keyboard.
+- Orientation marker may help (small human figure)
+
+From @curtislisle:
+
+During the VR interaction session at the recent Project Week, we discussed interaction modes.  I was reminded of early research by some former colleagues at Univ. of Central Florida.  Here is a URL and Bibliography to some of the work that might be of interest:
+
+https://www.mitpressjournals.org/doi/abs/10.1162/pres.1995.4.4.403
+
+[Daniel P. Mapes and J. Michael Moshell]
+Presence: Teleoperators and Virtual Environments
+Volume 4 | Issue 4 | Fall 1995 
+p.403-416
+
+This is the work I described about selecting a nearby object to establish a coordinate system transformation and move the world with respect to the eyepoint instead of flying the eyepoint towards the target object.  The point was made about simulation sickness when moving the eyepoint, but our lab's work indicated this paradigm of direct manipulation of the virtual environment was effective. 
+
+Some literature search of the PRESENCE journal might help us take advantage of some of  the earlier work.    It is nice to see that rendering and VR technology is finally more widely accessible.
+
 
 ## VR software design
 - Already available for SlicerOpenVR
@@ -49,7 +80,12 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
   - Abstract layout node class
     - Current layout node and the new VR layout node will be its child classes
     - VR "layout" may contain HUD-like objects such as slice views or charts that are positioned and kept stationary in the VR view by the layout
+
 - **Discussion**
+
+- There are basic menu features in OpenVR
+- OpenVR can also show the "floor"
+- 3D coordinate of widget - seed widget can now store double display coordinate instead of int
 
 ## Background and References
 
