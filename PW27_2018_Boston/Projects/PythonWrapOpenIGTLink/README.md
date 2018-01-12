@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Franklin King (Brigham and Women's Hospital)
+- Longquan Chen (Brigham and Women's Hospital)
 
 # Project Description
 
@@ -16,14 +17,17 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Approach and Plan
 
 1. Making use of SWIG (http://www.swig.org/)
-2. Add as a cmake option to OpenIGTLink build
+2. Added as a cmake option to OpenIGTLink build
 
-## Progress and Next Steps
+## Progress
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 1. Server/client socket creation is functional and wrapping integrated in cmake
 2. Almost all Message types also functional
-3. Implementation still messy and need to figure out SWIG's deal with smartpointers
+3. Implementation still messy (and still need to figure out SWIG's deal with OpenIGTLink smartpointers)
+
+## Next Step
+1. Merge branch with OpenIGTLink 
 
 # Illustrations
 
