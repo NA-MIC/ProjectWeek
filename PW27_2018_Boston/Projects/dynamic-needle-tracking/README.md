@@ -5,6 +5,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Joe Schornak (Worcester Polytechnic Institute, Automation and Interventional Medicine Lab)
+- Guillaume Pernelle (@gpernelle)
+- Longquan Chen (Brigham and Women's Hospital)
+- Junichi Tokuda (Brigham and Women's Hospital)
+- Tina Kapur (@tkapur)
+
 
 # Project Description
 
