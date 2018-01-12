@@ -56,6 +56,8 @@ Some literature search of the PRESENCE journal might help us take advantage of s
 
 
 ## VR software design
+
+### Existing features
 - Already available for SlicerOpenVR
   - Custom menu can be created in the VR view by VTK (useful for show/hide, change color, etc.)
   - 3D coordinate of widget - seed widget can now store floating point display coordinate instead of int (can be grabbed)
@@ -64,6 +66,9 @@ Some literature search of the PRESENCE journal might help us take advantage of s
   - Clipping widget (plane) exist (developed at Kitware France) - [[videos](https://www.dropbox.com/sh/wbv5fc4yjazs84v/AADIHAdViDfoQze8TvBCkyvta?dl=0)], [[LucasGandelKitware/VR_VolumeRendering](https://gitlab.kitware.com/LucasGandelKitware/VR_VolumeRendering)]
   - Can show "floor" for easier orientation
   - Orientation marker
+
+### Proposed changes
+  
 - Excluding VR view from main layout management: Node reference parentLayoutNodeID in view nodes
   - None by default, meaning main layout. Set to node (e.g. itself) to indicate it's standalone and should not be managed
   - Abstract layout node class
