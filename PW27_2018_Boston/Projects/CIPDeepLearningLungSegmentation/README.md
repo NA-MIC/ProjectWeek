@@ -23,7 +23,8 @@ The goal is to make available in Slicer this and other similar tools based on De
 
 ## Progress and Next Steps
 
-1. Full pipeline was run successfully
+1. The core infrastructure was integrated in the CIP library
+1. Full pipeline of lung segmentation was run successfully in Slicer
 1. The model needs more work
 
 # Illustrations
