@@ -11,6 +11,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Mark Asselin](http://perk.cs.queensu.ca/users/asselin) (Queen's University, Canada)
 - Étienne Léger (Concordia University)
 - [Longquan Chen](https://www.linkedin.com/in/longquan-chen-68672340/) (Brigham and Women's Hospital)
+- Tamas Ungi (Perk Lab)
+
 # Project Description
 
 ## Objective
