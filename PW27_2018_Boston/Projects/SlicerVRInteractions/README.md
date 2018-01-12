@@ -28,7 +28,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
-* Good discussion during the [AR-VR](../BreakoutSessions/AR-VR.md) breakout session.
+* Good discussion during the [AR-VR](../../BreakoutSessions/AR-VR.md) breakout session.
 
 # Illustrations
 
