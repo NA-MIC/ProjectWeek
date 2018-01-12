@@ -30,6 +30,8 @@ In any case the training material sould be oriented to the creation of digital l
 ## Progress and Next Steps
 
 1. Following the approach steps we have drafted two training plans, for clinicians and engineers.
++ [3D Slicer Clinicians](https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/Projects/SlicerTraining/TrainingPlan_3DSlicer%2BPlus_en_v1.pdf)
++ [3D Slicer Engineers](https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/Projects/SlicerTraining/TrainingPlan_ImagingTechnologies_en_v1.pdf)
 1. There will be a first training workshop in March for professionals from Cape Verde, Senegal and Mauritania
 1. It is planned as the start point of future collaborations with the team of the MACbioIDi project 
 
