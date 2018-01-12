@@ -11,10 +11,10 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 * JC Fillion-Robin: Slicer SPT
 * Steve Pieper: [Custom Slicer Generator](https://github.com/pieper/CustomSlicerGenerator)
 * Current Slicer Solutions
-  * Laura Pascal: SlicerSALT
-  * Lauren O'Donnell: SlicerDMRI
-  * Raul San Jose: SlicerCIP
-  * Csaba Pinter: SlicerRT
+  * Laura Pascal: [SlicerSALT](http://salt.slicer.org)
+  * Lauren O'Donnell: [SlicerDMRI](http://dmri.slicer.org)
+  * Raul San Jose: [SlicerCIP](https://chestimagingplatform.org/)
+  * Csaba Pinter: [SlicerRT](http://slicerrt.org/)
 
 ## Key Investigators
 
