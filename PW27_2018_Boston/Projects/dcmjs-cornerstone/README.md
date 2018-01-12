@@ -40,6 +40,10 @@ Some potential goals for this Project Week are:
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. Discussed DICOMweb prototype with cornerstone
+1. IHEInvokeImageDisplay demonstration launched from dcm4chee
+1. ProstateX data loaded in dcm4chee and launchable at Patient level to display all series
+1. Next Step: integrate with PI-RADS project progress
 
 # Illustrations
 
