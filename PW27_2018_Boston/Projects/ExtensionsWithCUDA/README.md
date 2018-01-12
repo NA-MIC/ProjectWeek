@@ -48,5 +48,8 @@ Provide an easy path for distributing extensions that use CUDA.
 
 # Illustrations
 
-![CUDA Probe Package](CUDA-extension-upload.png)
-![CUDA Probe Extension](CUDA-extension.png)
+
+<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/ExtensionsWithCUDA/CUDA-extension-upload.PNG" width="300">
+
+<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/ExtensionsWithCUDA/CUDA-extension.png" width="300">
+
