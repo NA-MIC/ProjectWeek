@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Sharon Peled (BWH/HMS)
 - Andrey Fedorov (BWH/HMS)
 - Andrew Beers (MGH/HST)
+- Hans Meine (MEVIS)
 
 # Project Description 
 
@@ -35,7 +36,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. Identified main components in processing pipline to be seperated and made open for extension.
+1. Discussed refactoring options/software architecture.
+1. Identified errors in current computations.
+1. Next steps:
+1.1. Finish refactoring
+1.1. Fix computations
 
 # Illustrations
 
