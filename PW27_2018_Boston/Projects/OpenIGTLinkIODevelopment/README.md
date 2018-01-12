@@ -28,12 +28,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 * Add support for the [Attracsys tracking system](https://www.atracsys.com/web/eng/measurement/products_2) to the Plus Toolkit
 * Add more options to remotely control US machine parameters
 * Implement a Plus server launcher class that can be used in Plus server launcher, Slicer, Ibis, MITK and CustusX.
+* Discuss incentives/oportunities that could convince US machine vendors to open up more components of their machines for real-time acquisition and control for research.
 
 ## Progress and Next Steps
 * Support for compressed video in OpenIGTLinkIO has been improved to better handle keyframes through smarter buffering (Longquan).
 * The code for launching a Plus Server has been extracted from PlusServerLauncher to a standalone class that is used in Ibis Neuronav. Next step: add the class to OpenIGTLinkIO. The code can then be used by Slicer and other applications to automatically launch a Plus server on the local machine, monitor its execution and parse the output.
 * A recently developed tablet application for surgical AR (Described in [this article](http://digital-library.theiet.org/content/journals/10.1049/htl.2017.0062?crawler=true&mimetype=application/pdf&tags=noindex) ) has been adapted to easily connect to any OpenIGTLinkIO-powered application. The application has been tested to transmit video to Slicer and IbisNeuronav.
 * The tablet application has also been setup to produce augmented reality images on Ibis Neuronav (see video) using tracking data from a Plus Server connected to a OptiTrack tracking system.
+* TODO: summarize the conclusions of the discussion about opening up US machines' SDK.
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
