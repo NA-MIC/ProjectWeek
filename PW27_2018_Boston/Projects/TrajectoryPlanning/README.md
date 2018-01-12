@@ -52,7 +52,7 @@ Next steps:
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-A short video of the MITK plugin
+A short video of the MITK plugin in action: https://youtu.be/JG1hFJkmvtA
 
 <!--- Source code: https://github.com/YourUser/YourRepository-->
 <!--- Documentation: https://link.to.docs-->
