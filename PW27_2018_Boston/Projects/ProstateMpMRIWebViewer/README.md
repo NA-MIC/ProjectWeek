@@ -26,16 +26,20 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Progress and Next Steps
 
 ### Progress
-1. Added OHIF Standalone Viewer 
-1. Added the tools (zoom, levels, pan, fiducials)
+1. Built PIRADS trainer using OHIF Standalone Viewer packages
+1. Added the tools (zoom, levels, pan, fiducials) and hanging protocol for the prostate study
 1. Added reporting UI for PIRADS reporting 
-1. Tested on a sample of ProstateX dataset 
+1. Tested on a sample of ProstateX dataset
 
 ### Next Steps
+1. Hosting on virtual machine
+1. Organize more cases, and determine how to host the data
 1. Enabling slice synchronization between MR modalities
-1. Adding crosshairs and length tool
-1. Enhancing the reporting UI 
-1. 
+1. Adding a fiducial which can be displayed and synchronized across view ports
+1. Enhancing the reporting UI, SVG for clicking prostate zones
+1. Enhancing the feedback to give more detailed message(e.g., how close the distance is)
+1. Adding support for 4D DCE images (prefetching across time and scrolling between volumes)
+1. Improve Ktrans colormap  
 
 # Illustrations
 
