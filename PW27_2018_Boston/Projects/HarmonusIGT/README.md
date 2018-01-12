@@ -32,6 +32,11 @@ Harmonus has developed Slicer extensions for MR guided prostate biopsy, supporti
     * hardware relative positions transform nodes
     * target fiducials list
     * needle artefact location fiducials list
+* Discussed data sharing with Andrey with respect to the Slice Tracker extension
+    * swapping between programs requires a new calibration scan
+    * swapping hardware will result in patient motion, hence lesion target fiducials being invalid
+    * different hardware will require different calibration transformations
+    * no data needs to be shared between the two extensions
 
 # Illustrations
 
