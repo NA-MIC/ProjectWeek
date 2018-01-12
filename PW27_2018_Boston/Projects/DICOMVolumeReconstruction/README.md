@@ -82,6 +82,7 @@ Questions from @lassoan:
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+A mockup of how the public-facing page could look: https://andrewbeers.github.io/dicomCompare/
 
 # Background and References
 
