@@ -46,7 +46,7 @@ Next steps:
 
 <!--![Description of picture](Example2.jpg)-->
 
-![Screenshot of PILOT UI in Slicer](Screen Shot 2018-01-12 at 13.21.22.png)
+[Screenshot of PILOT UI in Slicer](Screen Shot 2018-01-12 at 13.21.22.png)
 
 # Background and References
 
