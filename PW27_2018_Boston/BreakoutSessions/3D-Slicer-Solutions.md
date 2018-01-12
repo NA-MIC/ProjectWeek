@@ -8,7 +8,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 
 * What constitutes a Slicer Solution
 * Differences between using the 3DSlicer dissemination system (i.e. Extension Mechanism) vs. creating a custom 3DSlicer package using a 3rd party library
-* JC Fillion-Robin: Slicer SPT
+* JC Fillion-Robin: [Slicer SPT](../Projects/SlicerCustomApplication/README.md#progress-and-next-steps)
 * Steve Pieper: [Custom Slicer Generator](https://github.com/pieper/CustomSlicerGenerator)
 * Current Slicer Solutions
   * Laura Pascal: [SlicerSALT](http://salt.slicer.org)
