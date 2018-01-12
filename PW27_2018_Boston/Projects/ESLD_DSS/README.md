@@ -7,21 +7,24 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mike Halle (BWH)
 - Jennifer Nitsch (University of Bremen, Fraunhofer MEVIS)
 - Hans Meine (University of Bremen, Fraunhofer MEVIS)
+- Ben Ball (BWH)
+- April Wall (BWH)
+- Anna Rutherford (BWH)
+- Ron Kikinis (BWH)
 
 # Project Description
 
 The waiting list for liver transplants is ordered according to a score
 based on multiple criteria.  However, qualitative parts describing the
-quality of live have been excluded from the score because they were
-too easy to abuse.  These scores are important, though, so we would
+quality of life (encephalopathy, coma, ascities, GI or variceal bleeds) have been excluded from the score because they were
+subjective too easy to "game" to move closer to transplant.  These scores are important, though, so we would
 like to introduce a quantitative, image-based scoring in order to
 
-* bump up people with strong bodies who're close to / in a coma and to
-* prevent transplants for people who are already too sick.
-* Look at established clinical scores, are there subscores? Or more specific scores identified in the data (medical imaging/medical record)
+* better reflect the true urgency of transplant for liver disease patients by looking for patterns of disease throughout the abdomen,
+* provide physicians with information that might allow them to defer transplants for people who are already too sick.
+* Look at established clinical practice, including MELD scores, physical assessment of liver disease, and other existing assessment methods.
 
-Mike has roughly 500 MRI with clinical information that can be used
-for this project.
+We are using Partner's image database for a corpus of imaging data (liver disease patients and controls with the same scan protocol but no liver disease).
 
 ## Objective
 
@@ -35,10 +38,17 @@ for this project.
 1. Discuss features and feature extraction.
 1. Radiomics is mostly done on CT, not so much on MR. Applicability of pyradiomics features?
 
-## Progress and Next Steps
+## Progress
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. We had a first team meeting to bring together computer scientists and clinicians. 
+1. Dr. Wall reviewed her progress in selecting a small set of optimal diseased and control patients. This process has been challenging beccause many people with liver disease have had surgery or tumor ablation that changes the liver morphology. It is also not possible to select only patients on 3T scanner before BWH began using EPIC (2015).
+1. Alireza Ziaei,  Raul San Jose, and Randy Gollub are assisting with RPDR querying and image retrieval.
+1. Jennifer worked on CITI training for IRB clearance to access the data. ...
 
-# Illustrations
+## Next Steps
+
+1. Lock down the image queying and retrieval pipeline.  
+1. Get deidentified data to University of Bremen team.
+1. Think hard about segmentation, machine learning, and analysis techniques for the data.
 
 # Background and References
