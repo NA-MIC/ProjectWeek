@@ -25,6 +25,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 1. Server/client socket creation is functional and wrapping integrated in cmake
 2. Almost all Message types also functional
 3. Implementation still messy (and still need to figure out SWIG's deal with OpenIGTLink smartpointers)
+4. (Also had discussions regarding protocol design for the motivating project)
 
 ## Next Step
 1. Merge branch with OpenIGTLink 
