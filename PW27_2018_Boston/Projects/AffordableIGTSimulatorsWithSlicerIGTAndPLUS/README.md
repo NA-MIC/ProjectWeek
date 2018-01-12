@@ -37,11 +37,23 @@ In this project we aim at creating and integrating an Image Guided Therapy (IGT)
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
+1. The system setup (camera and trackers, probe, needle, phantom block, etc.) was tested and successfully completed. 
+2. We confirm that the camera auto-focus is not suitable for tracking. Webcam models without this facility should be considered in the future.
+3. The pivot and spin calibrations for needle-like tools and the fiducial calibration of bodies yield an accuracy good enough  for training applications and no strategies for track accuracy improvement was needed. Without actual ultrasound images, manual calibration of probe was required.
+4. Instead of the arm model, we create a very simple one based on basic geometrical shapes. However, the proof of concept for customizing any particular case is done.
+5. Unfortunately, the calibration of the US simulator failed. The prescribed spatial model seems to mismatch with the actual and virtual scenarios. Therefore the US image does not correspond to the expected one. This should be checked and fixed in the next few days.
+   
+
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-<!--img src="https://github.com/medtec4susdev/FIXME.jpg" width="340" height="120"-->
+Tracking system setup
+<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/SystemSetup.png" width="340">
+
+PLUS Ultrasound simulator device running in Slicer
+<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/USSimulator.png" width="340">
+
 
 # Background and References
 
