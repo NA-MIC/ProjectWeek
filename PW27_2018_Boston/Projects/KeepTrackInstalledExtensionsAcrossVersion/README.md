@@ -29,7 +29,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+- New, reworked pull request https://github.com/Slicer/Slicer/pull/698
+- Debugged timeout problem with qRestAPI (caused by refactoring /
+  extraction of qRestAPI from qMidasAPI)
+  - refactored qRestAPI, fix still incomplete
+  - see https://github.com/commontk/qRestAPI/pull/16
+- Temporary solution: change default for startup check to off, until
+  qRestAPI is fixed
 
 ## User Wish List
 * If not totally impossible, it would be amazing if the Slicer installer had a checkbox to say "Uninstall previous Slicer version(s) and install existing extensions to new version" or similar. - Adam Rankin
