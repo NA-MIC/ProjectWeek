@@ -57,7 +57,8 @@ Next steps
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- [Source Code](https://github.com/leochan2009/Sequences/tree/BitStreamForVideo)
+- [OpenIGTLinkIF module Source Code](https://github.com/openigtlink/OpenIGTLinkIF/tree/IGTLIOFullIntegration)
+- [Sequence module Source Code](https://github.com/leochan2009/Sequences/tree/BitStreamForVideo)
 <!-- Documentation: https://link.to.docs -->
 <!-- Test data: https://link.to.test.data -->
 
