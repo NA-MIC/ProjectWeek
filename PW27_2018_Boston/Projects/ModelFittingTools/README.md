@@ -40,8 +40,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 1. Discussed refactoring options/software architecture.
 1. Identified errors in current computations.
 1. Next steps:
-1.1. Finish refactoring
-1.1. Fix computations
+    1. Finish refactoring
+    1. Fix computations
 
 # Illustrations
 
