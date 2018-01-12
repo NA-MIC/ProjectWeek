@@ -18,13 +18,13 @@ The goal is to make available in Slicer this and other similar tools based on De
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Integrate a local python customized distribution in Slicer
+1. Run a full deep learning keras-tensorboard based pipeline
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. Full pipeline was run successfully
+1. The model needs more work
 
 # Illustrations
 
