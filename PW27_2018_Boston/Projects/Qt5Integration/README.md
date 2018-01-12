@@ -5,6 +5,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Johan Andruejol (Kitware, Inc.)
+- Csaba Pinter (Queens University)
+- Davide Punzo (University of Groningen)
 
 # Project Description
 Make sure that Qt5 is fully integrated with Slicer
