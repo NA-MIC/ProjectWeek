@@ -5,8 +5,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Caroline Essert (ICUBE / Université de Strasbourg)
-- Jean-Christophe Fillon-Robin
-- Nicole Aucoin
+- Jean-Christophe Fillon-Robin (Kitware Inc.)
+- Nicole Aucoin (Harmonus Inc.)
 
 
 # Project Description
