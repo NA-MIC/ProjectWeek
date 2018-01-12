@@ -39,8 +39,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
-
+- [3d-Slicer-Solutions](../../BreakoutSessions/3D-Slicer-Solutions.md) breakout session.
+<!--
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
-
+-->
