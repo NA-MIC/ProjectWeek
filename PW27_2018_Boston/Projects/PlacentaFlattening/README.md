@@ -32,8 +32,8 @@ Next Steps:
 - Develop visualization module
 
 # Illustrations
-![Flowchart of method](flow_chart.jpg)
-![Vector fields of piecewise affine transformation on flattened volume](vector_fields.jpg)
-![Example of a failed warp](warp.jpg)
+![Flowchart of method](flow_chart.JPG)
+![Vector fields of piecewise affine transformation on flattened volume](vector_fields.JPG)
+![Example of a failed warp](warp.JPG)
 
 # Background and References
