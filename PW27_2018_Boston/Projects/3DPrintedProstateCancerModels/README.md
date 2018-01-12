@@ -7,7 +7,9 @@ Key Investigators
 - Hersh Chandarana (NYU School of Medicine)
 - Andrew Rosenkrantz (NYU School of Medicine)
 - William Huang (NYU School of Medicine)
+- Andrey Fedorov (BWH, HMS)
 - Danielle Pace (MIT) (has put together a pipeline for preparing 3d printed models before, happy to share experience)
+- Anneke Meyer (University of Magdeburg, Germany) 
 
 
 # Project Description
@@ -24,7 +26,7 @@ urethra,and rectal wall.
  
 ## Approach and Plan
 
-1. Learn how to use relevant 3D Slicer modules for prostate segmentation (modules/extensions to consider: Segment Editor, DeepInfer, TOMAAT, SlicerProstate)
+1. Learn how to use relevant 3D Slicer modules for prostate segmentation (modules/extensions to consider: Segment Editor, DeepInfer, TOMAAT, SlicerProstate).
 
 2. Review methods to segment other pertinent prostate anatomy in Slicer.
 
@@ -32,13 +34,13 @@ urethra,and rectal wall.
 
 ## Progress and Next Steps
 
-1. Learned 3D Slicer segmentation tools  
+1. Learned and tested 3D Slicer segmentation tools.  Compared surface cut tool to manual segmentation and grow from seeds.  
 
-2. Continue to work on workflow for segmentation and printing 
+2. Continue to work on workflow for segmentation and printing- discuss with Danielle Pace.
 
-3. Compare 3D Slicer models to models created with other software platforms 
+3. Compare 3D Slicer models to models created with other software platforms.
 
-4. Work with Anneke Meyer on deep learning for prostate segmentation for 3D Printed models  
+4. Work with Anneke Meyer on deep learning for prostate segmentation for 3D Printed models.
 
 
 # Background and References
