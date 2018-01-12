@@ -125,7 +125,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 1. [Slicer Custom Application](Projects/SlicerCustomApplication/README.md) (JC Fillon-Robin, Andras Lasso)
 1. [Slicer Documentation @ ReadTheDocs](Projects/SlicerReadTheDocs/README.md) (JC Fillon-Robin, Andras Lasso)
 1. [Keep Track of the Installed Extensions Across Version](Projects/KeepTrackInstalledExtensionsAcrossVersion/README.md) (Hans Meine, JC Fillon-Robin, Mathias Neugebauer, Andras Lasso, Steve Pieper, Johan Andruejol, Christian Herz, Ron Kikinis)
-1. [Slicer Extensions with CUDA](Projects/ExtensionsWithCUDA/README.md) (Greg Sharp)
+1. [Slicer Extensions with CUDA](Projects/ExtensionsWithCUDA/README.md) (Greg Sharp, Adam Rankin, JC Fillon-Robin)
 1. [Qt5 Integration](Projects/Qt5Integration/README.md) (Johan Andruejol)
 
 
