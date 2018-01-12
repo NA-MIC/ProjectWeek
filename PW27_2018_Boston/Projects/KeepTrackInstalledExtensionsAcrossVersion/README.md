@@ -29,11 +29,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
-- New, reworked pull request https://github.com/Slicer/Slicer/pull/698
+- New, reworked pull request [Slicer PR#865](https://github.com/Slicer/Slicer/pull/865)
 - Debugged timeout problem with qRestAPI (caused by refactoring /
   extraction of qRestAPI from qMidasAPI)
   - refactored qRestAPI, fix still incomplete
-  - see https://github.com/commontk/qRestAPI/pull/16
+  - see [qRestAPI PR#16](https://github.com/commontk/qRestAPI/pull/16)
 - Temporary solution: change default for startup check to off, until
   qRestAPI is fixed
 
