@@ -35,6 +35,22 @@ user would put their hands (holding handheld controllers) behind the monitor to 
 ## Pete thanks those with whom he shared conversations, listed here in random order:
 
 1. Steve Pieper
+2. Gregory Sharp
+3. Tina Kapur
+4. Sonia Pujol
+5. Tamas Ungi
+6. Simon Drouin
+7. Nicole Wake
+8. Mark Asselin
+9. Longquan Chen
+10. Jean-Christophe Fillion-Robin
+11. Adam Rankin
+12. Isaiah Norton
+13. Andrey Feodorov
+14. Gino Gulamhussene
+15. Albian Hernandez-Guedes
+16. Joost Van Griethuysen
+17. Joseph Schornak
 
 # Illustrations
 
