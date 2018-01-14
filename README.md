@@ -31,11 +31,11 @@
 
 ## Upcoming Project Weeks
 
-- **[2018 January: Project Event 27](PW27_2018_Boston/README.md) - The 27th Project Event will be held on January 8-12, 2018 at MIT.**
-- [2018 June: Project Event 28](PW28_2018_GranCanaria/README.md) - The 28th Project Event will be held on June 25-29, 2018 at Gran Canaria, Spain.
+- **[2018 June: Project Event 28](PW28_2018_GranCanaria/README.md) - The 28th Project Event will be held on June 25-29, 2018 at Gran Canaria, Spain.**
 
 ## Past Project Weeks
 
+- [2018 January: Project Event 27](PW27_2018_Boston/README.md) - The 27th Project Event was held on January 8-12, 2018 at MIT, Cambridge, MA.  It recorded 72 registered attendees, who worked on 52 projects and attended 5 breakout sessions.
 - [2017 July: Project Event 26](http://wiki.imaging.robarts.ca/) - The **26th Project Event** was held on July 17-21, 2017, Robarts Research Institute, London, ON, Canada.
 - [2017 June: Project Event 25](https://www.na-mic.org/wiki/2017_Summer_Project_Week) - The **25th Project Event** was held on June 26-30, 2017,  Catanzaro Lido, Calabria, Italy. It recorded 51 registered attendees, who worked on 29 projects.
 - [2017 January: Project Event 24](https://www.na-mic.org/wiki/2017_Winter_Project_Week) - The **24th Project Event** was held on January 9-13, 2017, MIT, Cambridge, MA.  It recorded 99 registered attendees, who worked on 55 projects.
