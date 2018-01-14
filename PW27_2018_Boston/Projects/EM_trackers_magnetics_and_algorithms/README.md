@@ -31,7 +31,8 @@ Discuss the electromagnetics and algorithms of electromagnetic trackers, both at
 6. VR/AR might be replaced by sitting very close to a 4K monitor, so the monitor is larger than the user's field of view. The
 user would put their hands (holding handheld controllers) behind the monitor to manipulate virtual objects. Track the user's head, so 3D depth perception occurs through different-depth objects changing perspective as the head is moved.
 7. Pete thanks one of the presenters for showing the presenter's laptop computer running in nighttime mode with blue display turned off. Pete has successfully added this option in hardware (by opening VGA blue video signal) to his desktop computer.
-8. Pete thanks those with whom he shared conversations, listed here in random order:
+
+## Pete thanks those with whom he shared conversations, listed here in random order:
 
 1. Steve Pieper
 
