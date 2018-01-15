@@ -1,6 +1,6 @@
 ![PW28](PW28-500px.png)
 ## Welcome to the web page for the 28th Project Week!
-The 28th NA-MIC Project Week will be held during the week of June 25-29, 2018 at [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es/)
+The 28th NA-MIC Project Week will be held during the week of June 25-29, 2018 at [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es/).
 
 To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (new dissemination mechanism as of PW27).
 
@@ -34,7 +34,7 @@ http://mt4sd.ulpgc.es
 
 ## Preparatory Videoconferences <a name="PreparationCalls"/>
 
-- Google Hangouts: To join the videoconference, click [here] on Tuesdays 10am Boston time (https://meet.google.com/wzh-syuy-otj)
+- Google Hangouts: To join the videoconference, click [here](https://meet.google.com/wzh-syuy-otj) on Tuesdays, 10am Boston time 
 - Conference call notes are available [here](HangoutsNotes.md).
 
 
