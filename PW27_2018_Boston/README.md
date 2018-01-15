@@ -3,9 +3,11 @@
 ## Welcome to the web page for the 27th Project Week!
 The 27th NA-MIC Project Week was held during the week of January 8-12, 2018 at the Stata Center at MIT. It recorded 72 registered attendees, who worked on 53 projects. These attendees represented 25 academic sites: Boston Children's Hospital, Harvard Medical School (USA), Brigham and Women's Hospital, Harvard Medical School (USA), Children's Hospital of Philadelphia (USA), Concordia University (Canada), Fraunhofer Institute for Medical Image Computing MEVIS (Germany), Geneva University Hospital (Switzerland), Imperial College (UK), Instituto de Astrofísica de Canarias (Spain), Massachusetts General Hospital, Harvard Medical School (USA), Massachusetts Institute of Technology (USA), Montreal Neurological Institute (Canada), Netherlands Cancer Institute (The Netherlands), NYU School of Medicine (USA), Oslo University Hospital (Norway), Otto von Guericke University (Germany), Queen's University (Canada), Robarts Research Institute (Canada), University of Bremen (Germany), University of British Columbia (Canada), University of Las Palmas de Gran Canaria (Spain), University of Magdeburg (Germany), University of Michigan (USA),  University of Strasbourg (France), Western University (Canada), Worcester Polytechnic Institute (USA). 8 companies attended the event: Augmented Intelligence Inc. (USA), Fraunhofer MEVIS (Germany), GE Research (USA), Harmonus Inc. (USA), Isomics, Inc.  (USA), Kitware Inc.  (USA), KnowledgeVis, LLC (USA) Radical Imaging, LLC (USA).
 
-To receive information about this and future events please join the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) AND participate in the [Project Week forum on GitHub](https://github.com/orgs/NA-MIC/teams/pw27/discussions), our new dissemination mechanism as of PW27.
-
 ![GroupPicture1](PW27-20180108.gif)  ![GroupPicture2](PW27-20180112.jpg)
+
+See more pictures in this [Events Album](https://photos.app.goo.gl/qDoLvL52eR1VysLF3).
+
+To receive information about this and future events please join the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) AND participate in the [Project Week forum on GitHub](https://github.com/orgs/NA-MIC/teams/pw27/discussions), our new dissemination mechanism as of PW27.
 
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.sciencedirect.com/science/article/pii/S1361841516301128).
