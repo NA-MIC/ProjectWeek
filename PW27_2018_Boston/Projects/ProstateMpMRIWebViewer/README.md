@@ -45,7 +45,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-
+Click on the image below for the video demo:
 [![prostate mpmri web viewer](./illustration1.png)](https://www.youtube.com/watch?v=a8hmkqCZ3HM)
 
 
