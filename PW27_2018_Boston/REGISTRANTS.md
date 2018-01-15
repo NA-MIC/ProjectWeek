@@ -9,7 +9,7 @@
 1. Beers, Andrew (@AndrewBeers) - Massachusetts General Hospital - abeers@mgh.harvard.edu
 1. Chen, Longquan - (@leochan2009) - Brigham and Women's Hopital - lchen@bwh.harvard.edu
 1. Drouin, Simon (@drouin-simon) - Montreal Neurological Institute - drouin.simon@gmail.com
-1. Essert,	Caroline (@essert) - 	ICUBE/University of Strasbourg - essert@unistra.fr
+1. Essert,	Caroline (@essert) - ICUBE, University of Strasbourg - essert@unistra.fr
 1. Fedorov, Andrey (@fedorov) - Brigham and Women's Hospital - fedorov@bwh.harvard.edu
 1. Fillion-Robin, Jean-Christophe (@jcfr) - Kitware Inc. - jchris.fillionr@kitware.com
 1. Golland, Polina - MIT - polina@csail.mit.edu
@@ -17,8 +17,8 @@
 1. Groves, Leah (@lgroves6) - Western University - lgroves6@uwo.ca
 1. Gulamhussene, Gino (@gulamhus) - Otto-von-Guericke-Universität Magdeburg - gino@isg.cs.ovgu.de
 1. Harris, Gordon - Massachusetts General Hospital - gjharris@partners.org
-1. Halle,	Michael (@mhalle) - Brigham and Women's Hopital - mhalle@bwh.harvard.edu
-1. Hata,	Nobuhiko (@nobyhata) - Brigham and Women's Hopital - hata@bwh.harvard.edu
+1. Halle,	Michael (@mhalle) - Brigham and Women's Hospital - mhalle@bwh.harvard.edu
+1. Hata,	Nobuhiko (@nobyhata) - Brigham and Women's Hospital - hata@bwh.harvard.edu
 1. Hernandez-Guedes, Abian (@SolidusAbi) - University of Las Palmas de Gran Canaria - abianhernandez@outlook.es
 1. Herz,	Christian (@che85) - Brigham and Women's Hopital - cherz@bwh.harvard.edu
 1. Jang, Sam (@samjang23) - Augmented Intelligence Inc. - jsj@mai.ai
@@ -30,8 +30,8 @@
 1. Léger,	Étienne (@errollgarner) - Concordia University - e_eger@live.concordia.ca
 1. Liao, Ruizhi (@RayRuizhiLiao) - MIT - ruizhi@csail.mit.edu
 1. Lisle,	Curt (@curtislisle) - KnowledgeVis, LLC - clisle@knowledgevis.com
-1. Mastrogiacomo, Katie - Brigham and Women's Hopital - kmast@bwh.harvard.edu
-1. MacNeil,	Kyle (@kylemacneil) - Brigham & Women's Hospital - kyle_kewlguy@msn.com
+1. Mastrogiacomo, Katie - Brigham and Women's Hospital - kmast@bwh.harvard.edu
+1. MacNeil,	Kyle (@kylemacneil) - Brigham and Women's Hospital - kyle_kewlguy@msn.com
 1. Mehrtash, Alireza (@mehrtash) - Brigham and Women's Hospital/University of British Columbia - alireza.mehrtash@gmail.com
 1. Meine, Hans (@hmeine) - University of Bremen/Fraunhofer MEVIS - meine@uni-bremen.de
 1. Meyer, Anneke (@AnnekeMeyer) - Computer-Assisted Surgery Group, University of Magdeburg - anneke@isg.cs.uni-magdeburg.de
@@ -39,13 +39,13 @@
 1. Miller, James (@millerjv) - GE Research - millerjv@ge.com
 1. Moiraghi, Alessandro - Geneva University Hospital - alessandro.moiraghi@gmail.com
 1. Nitsch, Jennifer (@jnitsch1) - University of Bremen - jenitsch@uni-bremen.de
-1. Norton, Isaiah (@ihnorton) - Brigham & Women's Hospital - isaiah.norton@gmail.com
-1. O'Donnell,	Lauren (@ljod) - Brigham & Women's Hospital - odonnell@bwh.harvard.edu
+1. Norton, Isaiah (@ihnorton) - Brigham and Women's Hospital - isaiah.norton@gmail.com
+1. O'Donnell,	Lauren (@ljod) - Brigham and Women's Hospital - odonnell@bwh.harvard.edu
 1. Onieva,	Jorge (@jonieva) - Brigham and Women's Hospital - jonieva@bwh.harvard.edu
 1. Palomar, Rafael (@RafaelPalomar) - The Intervention Center, Oslo University Hospital - rafael.palomar@rr-research.no
 1. Pascal, Laura (@laurapascal) - Kitware Inc. - laura.pascal@kitware.com
 1. Patel, Jay (@jbp70) - MIT - jbpatel@mit.edu
-1. Peled, Sharon (@speled) - Brigham and Women's Hospital- speled66@gmail.com
+1. Peled, Sharon (@speled) - Brigham and Women's Hospital - speled66@gmail.com
 1. Pernelle, Guillaume (@gpernelle) - Imperial College, London - gpernelle@gmail.com
 1. Pienaar,	Rudolph (@rudolphpienaar) - Boston Children's Hospital - rudolph.pienaar@childrens.harvard.edu
 1. Pieper, Steve (@pieper) - Isomics, Inc. - pieper@isomics.com
@@ -63,9 +63,9 @@
 1. Sharp, Gregory (@gregsharp) - Massachusetts General Hospital - gcsharp@partners.org
 1. Socorro-Marerro, Guillermo Valentín (@gvsocorro) - Research Institute in Biomedical and Health Sciences (IUIBS). University of Las Palmas de Gran Canaria - guillermo.socorro@ulpgc.es
 1. Sunderland, Kyle (@Sunderlandkyl) - Queen's University - 1krs1@queensu.ca
-1. Tokuda,	Junichi (@tokjun) - Brigham and Women's Hospital - 	tokuda@bwh.harvard.edu
-1. Tubau Ribera, Nina (@ninatubau) - tnina@umich.edu
-1. Ungi,	Tamas -	(@ungi) - Queen's University -	ungi@queensu.ca
+1. Tokuda,	Junichi (@tokjun) - Brigham and Women's Hospital - tokuda@bwh.harvard.edu
+1. Tubau Ribera, Nina (@ninatubau) - University of Michigan - tnina@umich.edu
+1. Ungi, Tamas -	(@ungi) - Queen's University - ungi@queensu.ca
 1. Van Griethuysen, Joost (@JoostJM) - Netherlands Cancer Institute - j.v.griethuysen@nki.nl
 1. Vimort, JB (@jbvimort) - Kitware Inc. - jb.vimort@kitware.com
 1. Wake, Nicole - (@NWake) NYU School of Medicine - nicole.wake@med.nyu.edu
