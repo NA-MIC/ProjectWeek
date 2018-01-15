@@ -5,7 +5,7 @@ The 27th NA-MIC Project Week was held during the week of January 8-12, 2018 at t
 
 To receive information about this and future events please join the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) AND participate in the [Project Week forum on GitHub](https://github.com/orgs/NA-MIC/teams/pw27/discussions), our new dissemination mechanism as of PW27.
 
-![GroupPicture](PW27-2018010.gif) ![GroupPicture](PW27-2018012.jpg)
+![GroupPicture](PW27-20180108.gif) [GroupPicture](PW27-20180112.jpg)
 
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.sciencedirect.com/science/article/pii/S1361841516301128).
