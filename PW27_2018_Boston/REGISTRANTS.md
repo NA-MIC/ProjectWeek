@@ -15,7 +15,7 @@
 1. Golland, Polina - MIT - polina@csail.mit.edu
 1. Grauer, Michael (@mgrauer) - Kitware Inc. - michael.grauer@kitware.com
 1. Groves, Leah (@lgroves6) - Western University - lgroves6@uwo.ca
-1. Gulamhussene, Gino (@gulamhus) - Otto-von-Guericke-Universität Magdeburg - gino@isg.cs.ovgu.de
+1. Gulamhussene, Gino (@gulamhus) - Otto von Guericke University, Magdeburg - gino@isg.cs.ovgu.de
 1. Harris, Gordon - Massachusetts General Hospital - gjharris@partners.org
 1. Halle,	Michael (@mhalle) - Brigham and Women's Hospital - mhalle@bwh.harvard.edu
 1. Hata,	Nobuhiko (@nobyhata) - Brigham and Women's Hospital - hata@bwh.harvard.edu
