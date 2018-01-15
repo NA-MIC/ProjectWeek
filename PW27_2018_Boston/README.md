@@ -1,7 +1,8 @@
 ![ProjectWeekLogo](PW27-logo-240.png) <a href="https://www.csail.mit.edu/about/stata-center"><img alt="Stata Center" src="StataCenter-240.jpg"></a>
 
 ## Welcome to the web page for the 27th Project Week!
-The 27th NA-MIC Project Week will be held during the week of January 8-12, 2018 at the Stata Center at MIT.
+The 27th NA-MIC Project Week was held during the week of January 8-12, 2018 at the Stata Center at MIT. It recorded 72 registered attendees, who worked on 53 projects.
+
 To receive information about this and future events please join the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) AND participate in the [Project Week forum on GitHub](https://github.com/orgs/NA-MIC/teams/pw27/discussions), our new dissemination mechanism as of PW27.
 
 ![GroupPicture](PW27-2018010-640.gif)
