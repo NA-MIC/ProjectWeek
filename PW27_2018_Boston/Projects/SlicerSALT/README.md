@@ -67,12 +67,12 @@ SlicerSALT will be used to:
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 Shape Regression Extension: 
 
-<img src="https://raw.githubusercontent.com/laurapascal/slicerprojectweek2018/master/ShapeRegressionExtension_UI.png" width="440" ></img>
+<img src="https://raw.githubusercontent.com/laurapascal/slicerprojectweek2018/master/ShapeRegressionExtension_UI.png" width="440" >
 
 Estimation of shape correspondence for population of objects with complex topology: 
 
-<img src="https://raw.githubusercontent.com/laurapascal/slicerprojectweek2018/master/Example_of_corresponding_shape_estimation.png" width="500" ></img>
-<img src="https://raw.githubusercontent.com/laurapascal/slicerprojectweek2018/master/methods_estimation_of_shape_correspondence_for_population_of_objects_with_complex_topology.png" width="500" ></img>
+<img src="https://raw.githubusercontent.com/laurapascal/slicerprojectweek2018/master/Example_of_corresponding_shape_estimation.png" width="500" >
+<img src="https://raw.githubusercontent.com/laurapascal/slicerprojectweek2018/master/methods_estimation_of_shape_correspondence_for_population_of_objects_with_complex_topology.png" width="500" >
 
 
 # Background and References
