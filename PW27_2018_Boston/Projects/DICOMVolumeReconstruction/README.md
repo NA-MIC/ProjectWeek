@@ -90,3 +90,4 @@ A mockup of how the public-facing page could look: https://andrewbeers.github.io
 * Investigate NeuroDebian for simplified install of some converters. [https://hub.docker.com/_/neurodebian/](https://hub.docker.com/_/neurodebian/)
 * Rosetta Bit library of valid file conversions: [https://www.nitrc.org/projects/rosetta/](https://www.nitrc.org/projects/rosetta/)
 * Potential data source: NIMH Data Archive is releasing a large set of raw DICOMs as part of the [ABCD Study](https://data-archive.nimh.nih.gov/abcd) in January 2018.
+* Another list of alternatives for volume reconstruction: [https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage#Alternatives](https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage#Alternatives)
