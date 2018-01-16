@@ -104,6 +104,18 @@ At the end of a large [refactor](https://github.com/girder/girder_worker/milesto
 * ingest automatically forms a UI, execution framework to consume Girder data, and manages shipping and handling of data and params and outputs
 * this is a basic starting point, but many apps would need customized UI or optimized computation
 
+### Screenshots
+
+![SlicerCLITask](SlicerCLITask.png)
+Listing a SlicerCLI as a task after ingestion.
+
+![ExecuteTask](ExecuteTask.png)
+Task execution UI.
+
+![TaskJob](TaskJob.png)
+Task Job record after execution.
+
+### References
 
 - [Girder source code](https://github.com/girder/girder)
 - [Girder documentation](http://girder.readthedocs.io/en/latest/)
