@@ -1,6 +1,3 @@
-
-Back to [Project Week 27](./README.md#preparatory-videoconferences)
-
 These are notes from PW#27 Preparation Hangouts held weekly on Tuesdays at 10am Boston time between Nov 7th and December 19th.
 
 # Hangout #7: Dec 19
@@ -14,7 +11,7 @@ These are notes from PW#27 Preparation Hangouts held weekly on Tuesdays at 10am 
 * Discussion about Nicole's project - harmous interface to research software, FDA clearance discussion at PW
 * Breakout sessions - discussed and added these to the calendar
 
-# Hangout #5: Dec 5 
+# Hangout #5: Dec 5
 
 * Discussion and work session on github for project week organization
   * General goal is to replace the wiki with something more "standard"
