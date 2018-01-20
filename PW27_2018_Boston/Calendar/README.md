@@ -5,4 +5,4 @@ Use this [iCal (.ics) link](https://calendar.google.com/calendar/ical/kitware.co
 
 To import the calendar into your own Google calendar, open [https://calendar.google.com/](https://calendar.google.com/) and follow the steps below:
 
-![CalendarImportingInstructions](../CalendarImporting.png)
+![CalendarImportingInstructions](CalendarImporting.png)
