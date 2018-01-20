@@ -3,7 +3,7 @@
 
 - Join the weekly [preparation call](../PreparatoryMeetings/README.md) to discuss your idea
 - Post questions about the project idea and team on the [Project Week forum][forum], our communication mechanism as of PW27.
-- When you are ready, add a new entry in the list of **Projects** by creating a new `README.md` file in subfolder in `Projects` folder, and copying contents of [project description template](../Projects/Template/README.md) file into it. Step-by-step instructions for this are:
+- When you are ready, add a new entry in the list of **Projects** by creating a new `README.md` file in subfolder in `Projects` folder, and copying contents of [project description template][project-template-page] file into it. Step-by-step instructions for this are:
 
 1. Open [project template page][project-template-page] and copy its full content to the clipboard
 1. Go back to [Projects](.) folder on GitHub
