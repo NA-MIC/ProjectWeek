@@ -25,22 +25,17 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 - **Transportation:** Please use public transportation or park at a [local garage](http://web.mit.edu/facilities/transportation/parking/visitors/public_parking.html). There will be no parking permits from MIT.
 
-## Introduction
+## Frequently Askes Questions
 
-**What?** The Project Week is a week-long hands on activity in which medical image computing researchers create solutions using the open source image computing platform, [3D Slicer](http://www.slicer.org), and  [VTK](http://www.vtk.org), [ITK](http://www.itk.org), [CMake](http://www.cmake.org), and [CDash](http://www.cdash.org) libraries. Participants work collaboratively on solutions that lie on the interfaces of the fields of computer science, mechanical engineering, biomedical engineering, and medicine. In contrast to conferences and workshops where the primary focus is to report results, the objective of the Project Week is to provide a venue for creators of medical image computing open-source software creators to collaboratively work.
+* [What?](../README.md#what)
+* [When, where, how much?](../README.md#when-where-how-much)
+* [How does it work?](../README.md#how-does-it-work)
+* [Who can attend?](../README.md#who-can-attend)
+* [Who should attend?](../README.md#who-should-attend)
+* [What else?](../README.md#what-else)
+* [Who to contact?](../README.md#who-to-contact)
 
-**When, where, how much?** Twice a year - June in Europe, and January at MIT. Ad-hoc meetings are added occasionally. The registration fee is approximately 350 (USD or Euro), and is used to cover coffee and food.
-
-**How does it work?** [Weekly videoconferences for preparation](PreparatoryMeetings/README.md) begin 8-12 weeks before an event. Potential participants propose projects during these meetings, and collaboratively create a list of projects that are of mutual interest. The projects include platform work, algorithm development, and biomedical applications. Through the course of the meetings, each participant selects one or more project teams and develops goals for the week. The first day of the Project Week itself begins with a 2-hour in-person introduction to all projects and participants. The rest of the week consists of a mix of working sessions and breakout sessions on special topics, as decided by the participants during the preparatory meetings.
-
-**Who can attend?** Project Weeks are open to all and publicly advertised. All attendees are expected to commit to being present for the full week - from Monday at noon to Friday at noon. Only first time attendees are permitted to attend for a shorter period of time, which is typically a single day. Email announcements are sent to the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) and posted on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27/discussions), the  dissemination mechanism as of PW27.
-
-**Who should attend?** This is harder to determine. Your best bet is to contact us (see below) or attend a [preparatory videoconference](PreparatoryMeetings.md)
-
-**What else?**  The Project Week series was founded in 2005, along with the National Alliance for Medical Image Computing (NAMIC), which was chartered by the NIH to build a computational infrastructure for biomedical research.  Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts where they convene and collaborate. Participants in Project Week include [NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/).   For additional details about our experience in running these events since 2005 are available here: [Increasing the Impact of Medical Image Computing Using Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.sciencedirect.com/science/article/pii/S1361841516301128).
-
-
-**Who to contact?** Project Weeks are led by @tkapur ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)) who is happy to tell you more about them.
+{% include_relative PreparatoryMeetings/README.md %}
 
 ## Program
 
