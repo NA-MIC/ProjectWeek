@@ -20,7 +20,8 @@ To receive information about this and future events please join the [Project Wee
 
 ## Local Organizing Committee
  
-**Dr. Juan Ruiz Alzola**<br>
+**Dr. Juan Ruiz Alzola**
+
 Catedrático de Tecnologías de la Imagen en el área de Teoría de la Señal y las Comunicaciones<br>
 Professor of Imaging Technologies in the area of Signal Processing and Communications<br>
 Departamento de Señales y Comunicaciones<br>
@@ -31,7 +32,7 @@ http://mt4sd.ulpgc.es
  
 **Asmaa Skareb** [asmaa.skareb at ulpgc.es]
 
-## Frequently Askes Questions
+## Frequently Asked Questions
 
 * [What?](../README.md#what)
 * [When, where, how much?](../README.md#when-where-how-much)
