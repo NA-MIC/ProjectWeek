@@ -35,7 +35,10 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 * [What else?](../README.md#what-else)
 * [Who to contact?](../README.md#who-to-contact)
 
-{% include_relative PreparatoryMeetings/README.md %}
+## Preparatory Videoconferences
+
+- Google Hangouts Link: [Tuesdays 10am Boston time](https://meet.google.com/wzh-syuy-otj)
+- Conference call notes are available [here](PreparatoryMeetingNotes.md).
 
 ## Program
 
