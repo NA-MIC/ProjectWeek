@@ -7,7 +7,7 @@ To receive information about this and future events please join the [Project Wee
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
 
-### Logistics
+## Logistics
 
 - **Dates:** June 25-29, 2018.
 - **Location:** [Universidad de Las Palmas de Gran Canaria](https://www.google.com/maps/place/University+of+Las+Palmas+de+Gran+Canaria/@28.0990225,-16.5409312,8z/data=!4m5!3m4!1s0xc409514173e77eb:0xbda0edfa5e221aaa!8m2!3d28.0990178!4d-15.4203257)
@@ -18,8 +18,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 [Presentation](https://marilolamacbioidi.github.io/Presentacion_28PW/)
 
-
-### Local Organizing Committee
+## Local Organizing Committee
  
 **Dr. Juan Ruiz Alzola**<br>
 Catedrático de Tecnologías de la Imagen en el área de Teoría de la Señal y las Comunicaciones<br>
@@ -32,11 +31,20 @@ http://mt4sd.ulpgc.es
  
 **Asmaa Skareb** [asmaa.skareb at ulpgc.es]
 
-## Preparatory Videoconferences <a name="PreparationCalls"/>
+## Frequently Askes Questions
+
+* [What?](../README.md#what)
+* [When, where, how much?](../README.md#when-where-how-much)
+* [How does it work?](../README.md#how-does-it-work)
+* [Who can attend?](../README.md#who-can-attend)
+* [Who should attend?](../README.md#who-should-attend)
+* [What else?](../README.md#what-else)
+* [Who to contact?](../README.md#who-to-contact)
+
+## Preparatory Videoconferences
 
 - Google Hangouts: To join the videoconference, click [here](https://meet.google.com/wzh-syuy-otj) on Tuesdays, 10am Boston time 
 - Conference call notes are available [here](PreparatoryMeetingsNotes.md).
-
 
 ## Program
 
