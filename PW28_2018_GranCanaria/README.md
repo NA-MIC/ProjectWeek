@@ -35,7 +35,7 @@ http://mt4sd.ulpgc.es
 ## Preparatory Videoconferences <a name="PreparationCalls"/>
 
 - Google Hangouts: To join the videoconference, click [here](https://meet.google.com/wzh-syuy-otj) on Tuesdays, 10am Boston time 
-- Conference call notes are available [here](HangoutsNotes.md).
+- Conference call notes are available [here](PreparatoryMeetingsNotes.md).
 
 
 ## Program
