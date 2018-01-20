@@ -25,7 +25,7 @@ To receive information about this and future events please join the [Project Wee
 
 - **Transportation:** Please use public transportation or park at a [local garage](http://web.mit.edu/facilities/transportation/parking/visitors/public_parking.html). There will be no parking permits from MIT.
 
-## Frequently Askes Questions
+## Frequently Asked Questions
 
 * [What?](../README.md#what)
 * [When, where, how much?](../README.md#when-where-how-much)
