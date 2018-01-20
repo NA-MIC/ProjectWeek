@@ -14,7 +14,7 @@
 
 **Who can attend?** Project Weeks are open to all and publicly advertised. One-day participation is permitted for first-time attendees, but rest stay for the entire event. Email announcements are sent to the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) and posted on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (new dissemination mechanism as of PW27).
 
-**Who should attend?** This is harder to determine. Your best bet is to send an email or attend a preparatory videoconference (see below).
+**Who should attend?** This is harder to determine. Your best bet is to contact the organizers (see below) or attend a preparatory videoconference (see each Project Week page for details).
 
 **What else?**  The Project Week series was founded in 2005, along with the National Alliance for Medical Image Computing (NAMIC), which was chartered by the NIH to build a computational infrastructure for biomedical research.  Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts where they convene and collaborate. Participants in Project Week include [NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/). For additional details about our experience in running these events since 2005 are available here: [Increasing the Impact of Medical Image Computing Using Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.sciencedirect.com/science/article/pii/S1361841516301128).
 
