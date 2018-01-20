@@ -3,8 +3,8 @@
 
 - Join the weekly [preparation call](../README.md#PreparationCalls) to discuss your idea
 - Post questions about the project idea and team on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27/discussions), our communication mechanism as of PW27.
-- When you are ready:
--- Add a new entry in the list of Projects by creating a new README.md file in subfolder in projects folder, and copying contents of [project description template](../Projects/Template/README.md) file into it. Step-by-step instructions for this are:
+- When you are ready, add a new entry in the list of **Projects** by creating a new `README.md` file in subfolder in `Projects` folder, and copying contents of [project description template](../Projects/Template/README.md) file into it. Step-by-step instructions for this are:
+
 1. Open [project template page](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/Template/README.md) and copy its full content to the clipboard
 1. Go back to [Projects](https://github.com/NA-MIC/ProjectWeek/tree/master/PW27_2018_Boston/Projects) folder on GitHub
 1. Click on "Create new file" button
