@@ -1,7 +1,7 @@
 # How to create a new project
 
 
-- Join the weekly [preparation call](../README.md#PreparationCalls) to discuss your idea
+- Join the weekly [preparation call](../PreparatoryMeetings.md) to discuss your idea
 - Post questions about the project idea and team on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27/discussions), our communication mechanism as of PW27.
 - When you are ready, add a new entry in the list of **Projects** by creating a new `README.md` file in subfolder in `Projects` folder, and copying contents of [project description template](../Projects/Template/README.md) file into it. Step-by-step instructions for this are:
 
