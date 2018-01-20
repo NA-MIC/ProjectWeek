@@ -1,6 +1,3 @@
-
-Back to [Program](../../README.md#program)
-
 Preparatory Videoconferences <a name="PreparationCalls"/>
 
 - Google Hangouts Link: [Tuesdays 10am Boston time](https://meet.google.com/wzh-syuy-otj)
