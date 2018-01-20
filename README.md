@@ -18,9 +18,7 @@
 
 **What else?**  The Project Week series was founded in 2005, along with the National Alliance for Medical Image Computing (NAMIC), which was chartered by the NIH to build a computational infrastructure for biomedical research.  Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts where they convene and collaborate. Participants in Project Week include [NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/). For additional details about our experience in running these events since 2005 are available here: [Increasing the Impact of Medical Image Computing Using Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.sciencedirect.com/science/article/pii/S1361841516301128).
 
-**Who to contact?** Project Weeks are led by @tkapur, ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)) who is happy to tell you more about them.
-
-[tina-email]: http://mailto:tkapur@bwh.harvard.edu
+**Who to contact?** Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)) who is happy to tell you more about them.
 
 ## Upcoming Project Weeks
 
