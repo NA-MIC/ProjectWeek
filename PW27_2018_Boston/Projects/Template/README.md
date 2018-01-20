@@ -10,6 +10,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
+<!-- Add a short paragraph describing the project. -->
+
 ## Objective
 
 1. Objective A. Describe it in 1-2 sentences.
