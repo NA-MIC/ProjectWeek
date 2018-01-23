@@ -41,6 +41,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Temporary solution: change default for startup check to off, until
   qRestAPI is fixed
 - Planned for future: Button / method to clear extension history
+- Update after project week: [Slicer PR#867](https://github.com/Slicer/Slicer/pull/867) was finally merged! (Apparently, still has some problem with Qt5)
 
 ## User Wish List
 * If not totally impossible, it would be amazing if the Slicer installer had a checkbox to say "Uninstall previous Slicer version(s) and install existing extensions to new version" or similar. - Adam Rankin
