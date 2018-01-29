@@ -14,7 +14,7 @@ To receive information about this and future events please join the [Project Wee
 - **Dates:** June 25-29, 2018.
 - **Location:** [Universidad de Las Palmas de Gran Canaria](https://www.google.com/maps/place/University+of+Las+Palmas+de+Gran+Canaria/@28.0990225,-16.5409312,8z/data=!4m5!3m4!1s0xc409514173e77eb:0xbda0edfa5e221aaa!8m2!3d28.0990178!4d-15.4203257)
 - **REGISTRATION:** 
-- **Hotel:** Marriott Iberia(http://achotels.marriott.com/hotels/ac-hotel-iberia-las-palmas)
+- **Hotel:** [Marriott Iberia](http://achotels.marriott.com/hotels/ac-hotel-iberia-las-palmas), [Parque](http://hotelparqueenlaspalmas.com/en/)
 - **Transportation:** 
 
 
