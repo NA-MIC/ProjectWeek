@@ -7,6 +7,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Logistics
 
+[Presentation about the venue](https://marilolamacbioidi.github.io/Presentacion_28PW/) ([pdf](2018-01-08-NAMIC-Boston.pdf))
+
 To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (for questions dedicated to this event).
 
 - **Dates:** June 25-29, 2018.
@@ -15,8 +17,6 @@ To receive information about this and future events please join the [Project Wee
 - **Hotel:** 
 - **Transportation:** 
 
-
-[Presentation](https://marilolamacbioidi.github.io/Presentacion_28PW/)
 
 ## Local Organizing Committee
  
