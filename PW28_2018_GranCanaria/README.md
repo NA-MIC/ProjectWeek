@@ -37,14 +37,14 @@ To receive information about this and future events please join the [Project Wee
 
 ## Preparatory Videoconferences
 
-- Google Hangouts: To join the videoconference, click [here](https://meet.google.com/wzh-syuy-otj) on Tuesdays, 10am Boston time 
-- Conference call notes are available [here](PreparatoryMeetingsNotes.md).
+- Google Hangouts: To join the videoconference, click [here](https://meet.google.com/wzh-syuy-otj) on Tuesdays, 10am Boston time, starting April 24, 2018 
+- Conference call notes: To access these, click [here](PreparatoryMeetingsNotes.md).
 
 ## Program
 
 
 ## Projects
-
+These will be decided based on the discussions in the preparatory videoconferences
 
 ## Registrants
 
