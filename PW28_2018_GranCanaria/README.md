@@ -13,24 +13,16 @@ To receive information about this and future events please join the [Project Wee
 
 - **Dates:** June 25-29, 2018.
 - **Location:** [Universidad de Las Palmas de Gran Canaria](https://www.google.com/maps/place/University+of+Las+Palmas+de+Gran+Canaria/@28.0990225,-16.5409312,8z/data=!4m5!3m4!1s0xc409514173e77eb:0xbda0edfa5e221aaa!8m2!3d28.0990178!4d-15.4203257)
-- **REGISTRATION:** Will be here in March 2018
-- **Hotel:** [Marriott Iberia](http://achotels.marriott.com/hotels/ac-hotel-iberia-las-palmas), [Parque](http://hotelparqueenlaspalmas.com/en/)
+- **REGISTRATION:** Will be here by March 1, 2018.
+- **Hotel:** [Marriott Iberia](http://achotels.marriott.com/hotels/ac-hotel-iberia-las-palmas), [Parque](http://hotelparqueenlaspalmas.com/en/). Deadline to book at preferential rates is March 30, 2018.
 
 
 
 ## Local Organizing Committee
  
-**Dr. Juan Ruiz Alzola**
-
-Catedrático de Tecnologías de la Imagen en el área de Teoría de la Señal y las Comunicaciones<br>
-Professor of Imaging Technologies in the area of Signal Processing and Communications<br>
-Departamento de Señales y Comunicaciones<br>
-Director, Grupo de Tecnología Médica y Audiovisual (GTMA)<br>
-Instituto Universitario de Investigación Biomédica y Sanitaria (IUIBS)<br>
-Universidad de Las Palmas de Gran Canaria<br>
-http://mt4sd.ulpgc.es
- 
-**Asmaa Skareb** [asmaa.skareb at ulpgc.es]
+- [Juan Bautista Ruiz Alzola](mailto:juan.ruiz@ulpgc.es),Professor of Imaging Technologies in the area of Signal Processing and Communications, [Universidad de Las Palmas de Gran Canaria](http://mt4sd.ulpgc.es)
+- [Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es)
+- [Asmaa Skareb](mailto:asmaa.skareb at ulpgc.es)
 
 ## Frequently Asked Questions
 
