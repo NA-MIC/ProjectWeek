@@ -7,7 +7,6 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Logistics
 
-[Presentation about the venue](https://marilolamacbioidi.github.io/Presentacion_28PW/) ([pdf](2018-01-08-NAMIC-Boston.pdf))
 
 To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (for questions dedicated to this event).
 
@@ -20,7 +19,10 @@ To receive information about this and future events please join the [Project Wee
 
 ## Local Organizing Committee
  
-- Host: [Juan Ruiz Alzola, Professor of Imaging Technologies in the area of Signal Processing and Communications, Universidad de Las Palmas de Gran Canaria](http://mt4sd.ulpgc.es)
+- Host: Juan Ruiz Alzola, Professor of Imaging Technologies in the area of Signal Processing and Communications, [Universidad de Las Palmas de Gran Canaria](http://mt4sd.ulpgc.es)
+
+- [Information About the venue](https://marilolamacbioidi.github.io/Presentacion_28PW/) ([pdf](2018-01-08-NAMIC-Boston.pdf))
+
 - [Email Local Organzing Committee Juan Ruiz Alzola, Maria Dolores Afonso Suarez, Asmaa Skareb](mailto:juan.ruiz@ulpgc.es,marilola.afonso@ulpgc.es,asmaa.skareb@ulpgc.es)
 
 ## Frequently Asked Questions
