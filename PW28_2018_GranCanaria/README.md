@@ -21,7 +21,7 @@ To receive information about this and future events please join the [Project Wee
 ## Local Organizing Committee
  
 - Host: [Juan Ruiz Alzola, Professor of Imaging Technologies in the area of Signal Processing and Communications, Universidad de Las Palmas de Gran Canaria](http://mt4sd.ulpgc.es)
-- [Email Local Organzing Committee Juan Ruiz Alzola, Maria Dolores Afonso Suarez, Asmaa Skareb](mailto:juan.ruiz@ulpgc.es; marilola.afonso@ulpgc.es;asmaa.skareb@ulpgc.es)
+- [Email Local Organzing Committee Juan Ruiz Alzola, Maria Dolores Afonso Suarez, Asmaa Skareb](mailto:juan.ruiz@ulpgc.es,marilola.afonso@ulpgc.es,asmaa.skareb@ulpgc.es)
 
 ## Frequently Asked Questions
 
