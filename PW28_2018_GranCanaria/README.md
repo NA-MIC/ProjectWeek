@@ -23,7 +23,7 @@ To receive information about this and future events please join the [Project Wee
 
 - [Information About the venue](https://marilolamacbioidi.github.io/Presentacion_28PW/) ([pdf](2018-01-08-NAMIC-Boston.pdf))
 
-- [Email Local Organzing Committee Juan Ruiz Alzola, Maria Dolores Afonso Suarez, Asmaa Skareb](mailto:juan.ruiz@ulpgc.es,marilola.afonso@ulpgc.es,asmaa.skareb@ulpgc.es)
+- [Email Local Organzing Committee Juan Ruiz Alzola, Maria Dolores Afonso Suarez, Asmaa Skareb](mailto:juan.ruiz@ulpgc.es,marilola.afonso@ulpgc.es,asmaa.skareb@ulpgc.es?cc=tkapur@bwh.harvard.edu?subject=ProjectWeek28)
 
 ## Frequently Asked Questions
 
