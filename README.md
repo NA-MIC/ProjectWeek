@@ -8,7 +8,7 @@
 
 #### What?
 
-The Project Week is a week-long hands on activity in which medical image computing researchers create solutions using the open source image computing platform, [3D Slicer](http://www.slicer.org), and  [VTK](http://www.vtk.org), [ITK](http://www.itk.org), [CMake](http://www.cmake.org), and [CDash](http://www.cdash.org) libraries. Participants work collaboratively on solutions that lie on the interfaces of the fields of computer science, mechanical engineering, biomedical engineering, and medicine. In contrast to conferences and workshops where the primary focus is to report results, the objective of the Project Week is to provide a venue for creators of medical image computing open-source software creators to collaboratively work.
+The Project Week is a week-long hands on activity in which medical image computing researchers create solutions using the open source image computing platform, [3D Slicer](http://www.slicer.org), and [VTK](http://www.vtk.org), [ITK](http://www.itk.org), [CMake](http://www.cmake.org), and [CDash](http://www.cdash.org) libraries. Participants work collaboratively on solutions that lie on the interfaces of the fields of computer science, mechanical engineering, biomedical engineering, and medicine. In contrast to conferences and workshops where the primary focus is to report results, the objective of the Project Week is to provide a venue for creators of medical image computing open-source software creators to collaboratively work.
 
 #### When, where, how much?
 
@@ -28,7 +28,7 @@ This is harder to determine. Your best bet is to contact the organizers (see bel
 
 #### What else?
 
-The Project Week series was founded in 2005, along with the National Alliance for Medical Image Computing (NAMIC), which was chartered by the NIH to build a computational infrastructure for biomedical research.  Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts where they convene and collaborate. Participants in Project Week include [NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/). For additional details about our experience in running these events since 2005 are available here: [Increasing the Impact of Medical Image Computing Using Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.sciencedirect.com/science/article/pii/S1361841516301128).
+The Project Week series was founded in 2005, along with the National Alliance for Medical Image Computing (NAMIC), which was chartered by the NIH to build a computational infrastructure for biomedical research. Today, Project Week has become one of the major events in the calendars of several NIH-funded Center efforts where they convene and collaborate. Participants in Project Week include [NAC](http://nac.spl.harvard.edu/), [NCIGT](http://www.ncigt.org/), [QIICR](http://qiicr.org/), and [CANARIE](https://www.canarie.ca/). For additional details about our experience in running these events since 2005 are available here: [Increasing the Impact of Medical Image Computing Using Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.sciencedirect.com/science/article/pii/S1361841516301128).
 
 #### Who to contact?
 
@@ -37,13 +37,14 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 ## Upcoming Project Weeks
 
 - **[2018 June: Project Event 28](PW28_2018_GranCanaria/README.md) - The 28th Project Event will be held on June 25-29, 2018 at Gran Canaria, Spain.**
+- **[2019 July: Project Event 29](PW29_2018_London_Canada/README.md) - The 29th Project Event will be held on July 16-20, 2018 at London, Ontario, Canada.**
 
 ## Past Project Weeks
 
-- [2018 January: Project Event 27](PW27_2018_Boston/README.md) - The **27th Project Event** was held on January 8-12, 2018 at MIT, Cambridge, MA.  It recorded 72 registered attendees, who worked on 52 projects and attended 5 breakout sessions.
+- [2018 January: Project Event 27](PW27_2018_Boston/README.md) - The **27th Project Event** was held on January 8-12, 2018 at MIT, Cambridge, MA. It recorded 72 registered attendees, who worked on 52 projects and attended 5 breakout sessions.
 - [2017 July: Project Event 26](http://wiki.imaging.robarts.ca/) - The **26th Project Event** was held on July 17-21, 2017, Robarts Research Institute, London, ON, Canada.
-- [2017 June: Project Event 25](https://www.na-mic.org/wiki/2017_Summer_Project_Week) - The **25th Project Event** was held on June 26-30, 2017,  Catanzaro Lido, Calabria, Italy. It recorded 51 registered attendees, who worked on 29 projects.
-- [2017 January: Project Event 24](https://www.na-mic.org/wiki/2017_Winter_Project_Week) - The **24th Project Event** was held on January 9-13, 2017, MIT, Cambridge, MA.  It recorded 99 registered attendees, who worked on 55 projects.
+- [2017 June: Project Event 25](https://www.na-mic.org/wiki/2017_Summer_Project_Week) - The **25th Project Event** was held on June 26-30, 2017, Catanzaro Lido, Calabria, Italy. It recorded 51 registered attendees, who worked on 29 projects.
+- [2017 January: Project Event 24](https://www.na-mic.org/wiki/2017_Winter_Project_Week) - The **24th Project Event** was held on January 9-13, 2017, MIT, Cambridge, MA. It recorded 99 registered attendees, who worked on 55 projects.
 
 ---
 This page is hosted [from the NA-MIC organization's ProjectWeek repository on github.com](https://github.com/NA-MIC/ProjectWeek) and is published at [https://na-mic.github.io/ProjectWeek](https://na-mic.github.io/ProjectWeek)
