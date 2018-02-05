@@ -36,8 +36,8 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 
 ## Upcoming Project Weeks
 
-- **[2018 June: Project Event 28](PW28_2018_GranCanaria/README.md) - The 28th Project Event will be held on June 25-29, 2018 at Gran Canaria, Spain.**
-- **[2018 July: Project Event 29](PW29_2018_London_Canada/README.md) - The 29th Project Event will be held on July 16-20, 2018 at London, Ontario, Canada.**
+- **[2018 June: Core Project Event 28](PW28_2018_GranCanaria/README.md) - The 28th Project Event will be held on June 25-29, 2018 at Gran Canaria, Spain.**
+- **[2018 July: Satellite Project Event 29](PW29_2018_London_Canada/README.md) - The 29th Project Event will be held on July 16-20, 2018 at London, Ontario, Canada. This is a satellite event with a slight focus on new users and community expansion.**
 
 ## Past Project Weeks
 
