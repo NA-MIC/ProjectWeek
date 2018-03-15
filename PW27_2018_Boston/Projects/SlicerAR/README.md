@@ -25,7 +25,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [x] SlicerVR operational
 - [ ] Background display operational
   - Initial work completed by Isabella Morgan (UWaterloo & NDI) [github.com](https://github.com/imorgan1618/VTK/commit/0f9bf00fc6ca953007ca644057e6c8acd8194faf)
-  - VTK [pull request](https://gitlab.kitware.com/vtk/vtk/merge_requests/3790#note_362817) submitted for base class vtkRenderWindow
+  - VTK [pull request](https://gitlab.kitware.com/vtk/vtk/merge_requests/3902) submitted for base class vtkRenderWindow
   - Work on vtkOpenVRRenderWindow for on-GPU texture passing on-going
 
 # Background and References
