@@ -19,7 +19,13 @@ To receive information about this and future events please join the [Project Wee
 
 ## Local Organizing Committee
  
-- Host: Juan Ruiz Alzola, Professor of Imaging Technologies in the area of Signal Processing and Communications, [Universidad de Las Palmas de Gran Canaria](http://mt4sd.ulpgc.es)
+- Host: Medical and Audiovisual Technology Group (GTMA for Grupo de Tecnología Médica y Audiovisual), Research Institute in Biomedical and Health Sciences (IUIBS for Instituto Universitario de Investigación Biomédica y Sanitaria) [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es)
+
+-Juan Ruiz-Alzola, PhD
+- Professor of Imaging Technologies at ULPGC
+- Research Affiliate at the Canary Islands Instiute of Astrophysics
+- GTMA Director
+
 
 - [Information About the venue](https://marilolamacbioidi.github.io/Presentacion_28PW/) ([pdf](2018-01-08-NAMIC-Boston.pdf))
 
