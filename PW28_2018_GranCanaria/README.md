@@ -27,7 +27,7 @@ To receive information about this and future events please join the [Project Wee
 - GTMA Director
 
 
-- [Information About the venue](https://marilolamacbioidi.github.io/Presentacion_28PW/) ([pdf](2018-01-08-NAMIC-Boston.pdf))
+- [Information About the venue](https://medtec4susdev.github.io/ProjectDemoProgressing/)
 
 - [Email Local Organzing Committee Juan Ruiz Alzola, Maria Dolores Afonso Suarez, Asmaa Skareb](mailto:juan.ruiz@ulpgc.es,marilola.afonso@ulpgc.es,asmaa.skareb@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28)
 
