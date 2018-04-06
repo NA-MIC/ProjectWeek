@@ -11,7 +11,7 @@ To receive information about this and future events please join the [Project Wee
 
 + **Dates:** July 16-20, 2018.
 + **Location:** [Robarts Research Institute](https://www.google.ca/maps/@43.0113638,-81.2738561,3a,75y,340.63h,93.84t/data=!3m6!1e1!3m4!1sqB04BofO2fkNxgxlzynSRA!2e0!7i13312!8i6656)
-+ **REGISTRATION:** TBD
++ **REGISTRATION:** https://event-wizard.com/Slicer2018/0/register/
 + **Hotel:** TBD
 
 ## Local Organizing Committee
