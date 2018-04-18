@@ -16,16 +16,11 @@ To receive information about this and future events please join the [Project Wee
 - **Hotel:** [Marriott Iberia](http://achotels.marriott.com/hotels/ac-hotel-iberia-las-palmas), [Parque](http://hotelparqueenlaspalmas.com/en/). Deadline to book at preferential rates is March 30, 2018.
 
 
-
 ## Local Organizing Committee
  
 - Host: Medical and Audiovisual Technology Group (GTMA for Grupo de Tecnología Médica y Audiovisual), Research Institute in Biomedical and Health Sciences (IUIBS for Instituto Universitario de Investigación Biomédica y Sanitaria) [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es)
 
--Juan Ruiz-Alzola, PhD
-- Professor of Imaging Technologies at ULPGC
-- Research Affiliate at the Canary Islands Instiute of Astrophysics
-- GTMA Director
-
+-Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at ULPGC, Research Affiliate at the Canary Islands Instiute of Astrophysics, GTMA Director
 
 - [Information About the venue](https://medtec4susdev.github.io/ProjectDemoProgressing/)
 
