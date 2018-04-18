@@ -18,9 +18,7 @@ To receive information about this and future events please join the [Project Wee
 
 ## Local Organizing Committee
  
-- Host: Medical and Audiovisual Technology Group (GTMA for Grupo de Tecnología Médica y Audiovisual), Research Institute in Biomedical and Health Sciences (IUIBS for Instituto Universitario de Investigación Biomédica y Sanitaria) [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es)
-
--Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at ULPGC, Research Affiliate at the Canary Islands Instiute of Astrophysics, GTMA Director
+- Host: Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es), Director of Medical and Audiovisual Technology Group (GTMA for Grupo de Tecnología Médica y Audiovisual), Research Institute in Biomedical and Health Sciences (IUIBS for Instituto Universitario de Investigación Biomédica y Sanitaria), Research Affiliate at the Canary Islands Instiute of Astrophysics.
 
 - [Information About the venue](https://medtec4susdev.github.io/ProjectDemoProgressing/)
 
@@ -56,3 +54,8 @@ Do not add your name to this list - it is maintained by the organizers based on 
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 
+#Sharon Peled, Brigham and Women's Hospital and Harvard Medical School
+#Davide Punzo, Kapteyn Astronomical Institute, University of Groningen
+#Csaba Pinter, Queens University   
+#Filip Szczepankiewicz, Brigham and Women's Hospital and Harvard Medical School
+#Tina Kapur, Brigham and Women's Hospital and Harvard Medical School
