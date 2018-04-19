@@ -59,7 +59,7 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Csaba Pinter, (@cpinter)(csaba.pinter@queensu.ca) - Queen’s University - Canada 
 1. Filip Szczepankiewicz, (filip.szczepankiewicz@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - EEUU
 1. Tina Kapur, (@tkapur)(tkapur@bwh.harvard.edu) Brigham and Women's Hospital and Harvard Medical School - EEUU
-1. Mohamed El Moctar Septy (moksepty@yahoo.fr) Université de Nouakchott Al Aasriya. Faculté de Médecine - Mauritania
+1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) Université de Nouakchott Al Aasriya. Faculté de Médecine - Mauritania
 1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) Centre Hospitalier National Nouackchott - Mauritania
 1. M Alexandra Fernandes Rodrigues (malexa.rodrigues@gmail.com) - Faculdade de Medicina da Universidade Eduardo Mondlane - Mozambique
 1. Joseane Alexandre Da Rosa de Pina Ferreira (joseane.ferreira@han.gov.cv) - Hospital Agostinho Neto de Praia - Cabo Verde
@@ -67,7 +67,7 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Cheikh Tidiane Diop (chtdiop81@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal
 1. Oumar Kane (droumarkane@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal 
 1. Babacar Diao (babacardiao104uro@yahoo.fr) - Ecole Militaire de Santé Dakar - Senegal
-1. Juan Ruiz Alzola (juan.ruiz@ulpgc.es) - Instituto de Astrofísica de Canarias/University of Las Palmas de Gran Canaria - Spain
+1. Juan Ruiz Alzola (@jruizalz)(juan.ruiz@ulpgc.es) - Instituto de Astrofísica de Canarias/University of Las Palmas de Gran Canaria - Spain
 1. Jose Carlos Ruiz Luque (carlos.luque@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Nayra Pumar Carreras (nayra.pumar@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Guillermo Valentín Socorro Marrero (@gvsocorro)(guillermo.socorro@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
