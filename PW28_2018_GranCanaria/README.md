@@ -54,11 +54,11 @@ Do not add your name to this list - it is maintained by the organizers based on 
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 
-1. Sharon Peled, (@speled)(speled@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - EEUU
+1. Sharon Peled, (@speled)(speled@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Davide Punzo, (punzodavide@hotmail.it) - Kapteyn Astronomical Institute, University of Groningen - Netherlands
 1. Csaba Pinter, (@cpinter)(csaba.pinter@queensu.ca) - Queen’s University - Canada 
-1. Filip Szczepankiewicz, (filip.szczepankiewicz@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - EEUU
-1. Tina Kapur, (@tkapur)(tkapur@bwh.harvard.edu) Brigham and Women's Hospital and Harvard Medical School - EEUU
+1. Filip Szczepankiewicz, (filip.szczepankiewicz@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - USA
+1. Tina Kapur, (@tkapur)(tkapur@bwh.harvard.edu) Brigham and Women's Hospital and Harvard Medical School - USA
 1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) Université de Nouakchott Al Aasriya. Faculté de Médecine - Mauritania
 1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) Centre Hospitalier National Nouackchott - Mauritania
 1. M Alexandra Fernandes Rodrigues (malexa.rodrigues@gmail.com) - Faculdade de Medicina da Universidade Eduardo Mondlane - Mozambique
