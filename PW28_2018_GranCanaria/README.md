@@ -69,4 +69,8 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Babacar Diao (babacardiao104uro@yahoo.fr) - Ecole Militaire de Santé Dakar - Senegal
 1. Juan Ruiz Alzola (juan.ruiz@ulpgc.es) - Instituto de Astrofísica de Canarias/University of Las Palmas de Gran Canaria - Spain
 1. Jose Carlos Ruiz Luque (carlos.luque@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
-
+1. Nayra Pumar Carreras (nayra.pumar@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Guillermo Valentín Socorro Marrero (@gvsocorro)(guillermo.socorro@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Abián Hernández Guedes (@SolidusAbi)(abian.hernandez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Xerach Suárez Moreno (xerach.suarez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Maria Dolores Afonso Suárez  (@MarilolaMACbioIDi)(marilola.afonso@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
