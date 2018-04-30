@@ -61,8 +61,16 @@ To receive information about this and future events please join the [Project Wee
 |22:00|
 
 
-## Projects
+## Themes
 These will be decided based on the discussions in the preparatory videoconferences
+
+## Projects
+Please fork and add your project page, then make a pull request.
+
++ Project list will be here
++ 
++ 
++ 
 
 ## Registrants
 
