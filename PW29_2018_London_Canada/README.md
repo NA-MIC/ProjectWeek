@@ -36,9 +36,9 @@ To receive information about this and future events please join the [Project Wee
 
 ## Preparatory Videoconferences
 
-+ Google Hangouts: To join the videoconference, click [here](https://meet.google.com/wzh-syuy-otj) on Tuesdays, 11:00 EST
-  + May 15th - Slicer VR/AR discussion
-  + May 29th - Neuro applications of Slicer discussion
++ Zoom.us: Tuesdays, 11:00 EST
+  + May 15th - Slicer VR/AR discussion, join [here](https://zoom.us/j/188326641)
+  + May 29th - Neuro applications of Slicer discussion, join [here](https://zoom.us/j/364315803)
   + More as needed...
 + Conference call notes: To access these, click [here](PreparatoryMeetingsNotes.md).
 
