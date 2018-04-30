@@ -12,7 +12,10 @@ To receive information about this and future events please join the [Project Wee
 + **Dates:** July 16-20, 2018.
 + **Location:** [Robarts Research Institute](https://www.google.ca/maps/@43.0113638,-81.2738561,3a,75y,340.63h,93.84t/data=!3m6!1e1!3m4!1sqB04BofO2fkNxgxlzynSRA!2e0!7i13312!8i6656)
 + **REGISTRATION:** https://event-wizard.com/Slicer2018/0/register/
-+ **Hotel:** TBD
++ **Hotel:** No formal arrangement has been made, but some options are:
+  + Close, $, wide range of room styles: http://guesthouseonthemount.ca/
+  + Close, $$, balanced offering: https://windermeremanor.com/
+  + Downtown, $$/$$$, nice character, good location to explore London, http://www.deltahotellondon.com/
 
 ## Local Organizing Committee
  
@@ -33,7 +36,10 @@ To receive information about this and future events please join the [Project Wee
 
 ## Preparatory Videoconferences
 
-+ Google Hangouts: To join the videoconference, click [here](https://meet.google.com/wzh-syuy-otj) on Tuesdays, 11:00 EST, starting TBD
++ Google Hangouts: To join the videoconference, click [here](https://meet.google.com/wzh-syuy-otj) on Tuesdays, 11:00 EST
+  + May 15th - Slicer VR/AR discussion
+  + May 29th - Neuro applications of Slicer discussion
+  + More as needed...
 + Conference call notes: To access these, click [here](PreparatoryMeetingsNotes.md).
 
 ## Program
