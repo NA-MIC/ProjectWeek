@@ -60,9 +60,9 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Davide Punzo, (punzodavide@hotmail.it) - Kapteyn Astronomical Institute, University of Groningen - Netherlands
 1. Csaba Pinter, (@cpinter)(csaba.pinter@queensu.ca) - Queen’s University - Canada 
 1. Filip Szczepankiewicz, (filip.szczepankiewicz@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - USA
-1. Tina Kapur, (@tkapur)(tkapur@bwh.harvard.edu) Brigham and Women's Hospital and Harvard Medical School - USA
-1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) Université de Nouakchott Al Aasriya. Faculté de Médecine - Mauritania
-1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) Centre Hospitalier National Nouackchott - Mauritania
+1. Tina Kapur, (@tkapur)(tkapur@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
+1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) - Université de Nouakchott Al Aasriya. Faculté de Médecine - Mauritania
+1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
 1. M Alexandra Fernandes Rodrigues (malexa.rodrigues@gmail.com) - Faculdade de Medicina da Universidade Eduardo Mondlane - Mozambique
 1. Joseane Alexandre Da Rosa de Pina Ferreira (joseane.ferreira@han.gov.cv) - Hospital Agostinho Neto de Praia - Cabo Verde
 1. Artemisa Mendes Moreno (artemisa.moreno@docente.unicv.edu.cv) - Faculdade de Ciências e Tecnologia. Universidade de Cabo Verde - Cabo Verde
@@ -78,3 +78,7 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Maria Dolores Afonso Suárez  (@MarilolaMACbioIDi)(marilola.afonso@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Steven Pieper (@pieper)(pieper@isomics.com) - Isomics, Inc. - USA
 1. Attila Nagy (nagy.attila@med.u-szeged.hu) - University of Szeged - Faculty of Medicine - Hungary
+1. Andras Lasso (@lassoan) (lasso@queensu.ca) - Queen’s University - Canada
+1. Filippo Cicali (FCICALI@mgh.harvard.edu) - Mass General Hospital. Harvard Medical School - USA
+1. Nikolaos Makris (nikos@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
+
