@@ -6,11 +6,11 @@ These are notes from the Project Week Preparation Meetings.
 Topic: Segmentation
 - Segmentation tasks using slicer. 
 - Introduction to some projects:
- - Efficient approach to the automatization of segmentation tasks. It could have some interest the use of CIP module “Body composition”.
- - The use of CIP with tuberculosis cases, some of them provided by the African countries.
- - Tuberculosis portal: https://data.tbportals.niaid.nih.gov/
- - Effective loading of data, and for this, to analyze how data are structured.
- - Deployment of a container with different dataset of images.
+  - Efficient approach to the automatization of segmentation tasks. It could have some interest the use of CIP module _Body composition_.
+  - The use of CIP with tuberculosis cases, some of them provided by the African countries.
+  - Tuberculosis portal: https://data.tbportals.niaid.nih.gov/
+  - Effective loading of data, and for this, to analyze how data are structured.
+  - Deployment of a container with different dataset of images.
 - Update of the project week mailing list.
 
 ## Meeting #1: April 24
