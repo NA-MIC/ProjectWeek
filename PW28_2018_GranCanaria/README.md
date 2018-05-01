@@ -7,7 +7,6 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Logistics
 
-
 To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (for questions dedicated to this event).
 
 - **Dates:** June 25-29, 2018.
@@ -22,7 +21,7 @@ To receive information about this and future events please join the [Project Wee
  
 - Host: Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es), Director of Medical and Audiovisual Technology Group (GTMA for Grupo de Tecnología Médica y Audiovisual), Research Institute in Biomedical and Health Sciences (IUIBS for Instituto Universitario de Investigación Biomédica y Sanitaria), Research Affiliate at the Canary Islands Instiute of Astrophysics.
 
-- [Information About the venue](https://medtec4susdev.github.io/ProjectDemoProgressing/)
+- [Information About the Venue](https://medtec4susdev.github.io/ProjectDemoProgressing/)
 
 - Email Local Organzing Committee: [Juan Ruiz Alzola](mailto:juan.ruiz@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28)
 
@@ -44,8 +43,6 @@ To receive information about this and future events please join the [Project Wee
 ## Program
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America%2FNew_York&dates=20180625%2F20180629&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 How to add this calendar to your own?
-
-
 
 ## Projects
 These will be decided based on the discussions in the preparatory videoconferences
