@@ -9,3 +9,4 @@ These are notes from the Project Week Preparation Meetings.
 *	It could be interesting to discuss about the creation a segmentation-only slicelet for Slicer, kind of ITK-Snap style, which novices can start to use very easily
 *	Next hangout topic: Segmentation
 
+## Meeting #2: May 01
