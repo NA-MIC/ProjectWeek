@@ -49,7 +49,7 @@ These will be decided based on the discussions in the preparatory videoconferenc
 
 ## Registrants
 
-Do not add your name to this list - it is maintained by the organizers based on your paid registration.
+Do not add your name to this list - it is maintained by the organizers based on your paid registration.  Please [register here](https://www.fulp.es/na-mic-summer-event-2018).
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 
