@@ -5,9 +5,9 @@ These are notes from the Project Week Preparation Meetings.
 -	Brief review of the assistant’s projects: Francisco Marcano (Spectroscopy with MRI and infrared), Simon D. (3D printing), Till, Luke and James (segmentation), Paolo (Containers). It will be interesting to propose a “segment editor” session. 
 -	Pages to check about MRI and spectroscopy projects: 
   - [https://sourceforge.net/p/sivic/sivicwiki/Home/](https://sourceforge.net/p/sivic/sivicwiki/Home/)
-  - (https://na-mic.org/wiki/2011_Winter_Project_Week:MRSI_module_and_SIVIC_interface)
-  - (https://github.com/SIVICLab/sivic/tree/master/applications/slicer_plugin/MRSpectroscopy)
-  - (https://github.com/Slicer/SlicerBuildEnvironment)
+  - [https://na-mic.org/wiki/2011_Winter_Project_Week:MRSI_module_and_SIVIC_interface](https://na-mic.org/wiki/2011_Winter_Project_Week:MRSI_module_and_SIVIC_interface)
+  - [https://github.com/SIVICLab/sivic/tree/master/applications/slicer_plugin/MRSpectroscopy](https://github.com/SIVICLab/sivic/tree/master/applications/slicer_plugin/MRSpectroscopy)
+  - [https://github.com/Slicer/SlicerBuildEnvironment](https://github.com/Slicer/SlicerBuildEnvironment)
 -	To include the MACbioIDi project parallel agenda in google calendar. 
 -	To write a few lines about the projects proposed. They should be ready next week. 
 -	The project git pages deadline is may, 28th. 
@@ -19,7 +19,7 @@ Topic: Segmentation
 - Introduction to some projects:
   - Efficient approach to the automatization of segmentation tasks. It could have some interest the use of CIP module _Body composition_.
   - The use of CIP with tuberculosis cases, some of them provided by the African countries.
-  - [Tuberculosis portal] (https://data.tbportals.niaid.nih.gov/)
+  - [Tuberculosis portal](https://data.tbportals.niaid.nih.gov/)
   - Effective loading of data, and for this, to analyze how data are structured.
   - Deployment of a container with different dataset of images.
 - Update of the project week mailing list.
