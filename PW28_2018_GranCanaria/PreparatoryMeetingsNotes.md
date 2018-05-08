@@ -7,7 +7,6 @@ These are notes from the Project Week Preparation Meetings.
   - [https://sourceforge.net/p/sivic/sivicwiki/Home/](https://sourceforge.net/p/sivic/sivicwiki/Home/)
   - [https://na-mic.org/wiki/2011_Winter_Project_Week:MRSI_module_and_SIVIC_interface](https://na-mic.org/wiki/2011_Winter_Project_Week:MRSI_module_and_SIVIC_interface)
   - [https://github.com/SIVICLab/sivic/tree/master/applications/slicer_plugin/MRSpectroscopy](https://github.com/SIVICLab/sivic/tree/master/applications/slicer_plugin/MRSpectroscopy)
-  - [https://github.com/Slicer/SlicerBuildEnvironment](https://github.com/Slicer/SlicerBuildEnvironment)
 - To include the MACbioIDi project parallel agenda in google calendar. 
 - To write a few lines about the projects proposed. They should be ready next week. 
 - The project git pages deadline is may, 28th. 
