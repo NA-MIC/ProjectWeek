@@ -4,10 +4,10 @@ These are notes from the Project Week Preparation Meetings.
 
 -	Brief review of the assistant’s projects: Francisco Marcano (Spectroscopy with MRI and infrared), Simon D. (3D printing), Till, Luke and James (segmentation), Paolo (Containers). It will be interesting to propose a “segment editor” session. 
 -	Pages to check about MRI and spectroscopy projects: 
-   - [https://sourceforge.net/p/sivic/sivicwiki/Home/]
-   - [https://na-mic.org/wiki/2011_Winter_Project_Week:MRSI_module_and_SIVIC_interface]
-   - [https://github.com/SIVICLab/sivic/tree/master/applications/slicer_plugin/MRSpectroscopy]
-   - [https://github.com/Slicer/SlicerBuildEnvironment]
+  - (https://sourceforge.net/p/sivic/sivicwiki/Home/)
+  - (https://na-mic.org/wiki/2011_Winter_Project_Week:MRSI_module_and_SIVIC_interface)
+  - (https://github.com/SIVICLab/sivic/tree/master/applications/slicer_plugin/MRSpectroscopy)
+  - (https://github.com/Slicer/SlicerBuildEnvironment)
 -	To include the MACbioIDi project parallel agenda in google calendar. 
 -	To write a few lines about the projects proposed. They should be ready next week. 
 -	The project git pages deadline is may, 28th. 
