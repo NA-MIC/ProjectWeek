@@ -45,7 +45,8 @@ To receive information about this and future events please join the [Project Wee
 How to add this calendar to your own?
 
 ## Projects
-These will be decided based on the discussions in the preparatory videoconferences
+1. Using 3D Slicer SegmentEditor (Csaba Pinter, Till Best, Nikos Makris, Filippo Cicali)
+1. Gynecological Brachytherapy Needle Segmentation Deployment (Paolo Zafino, Tina Kapur, Maria Francesca Spadea)
 
 ## Registrants
 
