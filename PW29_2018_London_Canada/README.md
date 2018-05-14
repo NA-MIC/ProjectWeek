@@ -73,6 +73,7 @@ Please fork and add your project page, then make a pull request.
 + 
 
 ## Registrants
++ Adam Rankin (Robarts Research Institute, Western University)
 
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
 
