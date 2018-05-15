@@ -75,11 +75,14 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Guillermo Valentín Socorro Marrero (@gvsocorro)(guillermo.socorro@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Abián Hernández Guedes (@SolidusAbi)(abian.hernandez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Xerach Suárez Moreno (xerach.suarez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
-1. Maria Dolores Afonso Suárez  (@MarilolaMACbioIDi)(marilola.afonso@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Maria Dolores Afonso Suárez (@MarilolaMACbioIDi)(marilola.afonso@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Steven Pieper (@pieper)(pieper@isomics.com) - Isomics, Inc. - USA
 1. Attila Nagy (nagy.attila@med.u-szeged.hu) - Faculty of Medicine, University of Szeged - Hungary
-1. Andras Lasso (@lassoan) (lasso@queensu.ca) - Queen’s University - Canada
+1. Andras Lasso (@lassoan)(lasso@queensu.ca) - Queen’s University - Canada
 1. Filippo Cicali (FCICALI@mgh.harvard.edu) - Mass General Hospital and Harvard Medical School - USA
 1. Nikolaos Makris (nikos@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
-1. Jorge Onieva (@jonieva) (jorge.onieva@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - USA
-1. Paolo Zaffino (@pzaffino) (p.zaffino@unicz.it) - Magna Graecia University - Italy
+1. Jorge Onieva (@jonieva)(jorge.onieva@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - USA
+1. Paolo Zaffino (@pzaffino)(p.zaffino@unicz.it) - Magna Graecia University - Italy
+1. Raúl San José (@rjosest)(rsanjose@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
+1. Hannah Finke (hannah.finke@uni-dortmund.de) - German Cancer Research Center - Germany
+1. Erik Ziegler (erik@radicalimaging.com) - Open Health Imaging Foundation- France
