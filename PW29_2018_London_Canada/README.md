@@ -64,8 +64,10 @@ To receive information about this and future events please join the [Project Wee
 ## Themes
 These will be decided based on the discussions in the preparatory videoconferences
 
-## Projects
+
+## Projects <a name="ProjectsList"/>
 Please fork and add your project page, then make a pull request.
+[Project Template](./Projects/Template/README.md)
 
 + Project list will be here
 + 
