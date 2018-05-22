@@ -54,6 +54,7 @@ How to add this calendar to your own?
 1. 3DSlicer models for serious games (Sergi Bermudez i Badia, Yuri Almedia, Artemisa Moreno, Abián Hernández, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 1. Medical Infrared Imaging with Slicer (Yolanda Martin-Hernando, Abián Hernández, Enrique Villa, José-Carlos Ruiz-Luque, Juan Ruiz-Alzola)
 1. Renal Masses in Radiomics Extension (Rafaela Sousa, Sofia Amante, David Silva, Rui Amaral, Sara Serpa, Diogo Garrido, Sofia Dutra, Mariana Chaves)
+1. Implementing 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of broad metabolite spectrum in 3D Slicer (Francisco-José Marcano-Serrano, Juan Ruiz-Alzola)
 
 ## Registrants
 
