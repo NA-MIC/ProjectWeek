@@ -55,6 +55,7 @@ How to add this calendar to your own?
 1. Medical Infrared Imaging with Slicer (Yolanda Martin-Hernando, Abián Hernández, Enrique Villa, José-Carlos Ruiz-Luque, Juan Ruiz-Alzola)
 1. Renal Masses in Radiomics Extension (Rafaela Sousa, Sofia Amante, David Silva, Rui Amaral, Sara Serpa, Diogo Garrido, Sofia Dutra, Mariana Chaves)
 1. Implementing 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of broad metabolite spectrum in 3D Slicer (Francisco-José Marcano-Serrano, Juan Ruiz-Alzola)
+1. Add 3D views linking capabilities (Davide Punzo, Andras Lasso, Steve Piper, Simon Drouin?, Jean-Christophe Fillion-Robin?)
 
 ## Registrants
 
