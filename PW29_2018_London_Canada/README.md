@@ -45,20 +45,20 @@ To receive information about this and future events please join the [Project Wee
 ## Program
 |   =    |Monday July 16 | Tuesday July 17 | Wednesday July 18 | Thursday July 19 | Friday July 20
 |:---:   |     :---:     |     :---:       |     :---:         |     :---:        |     :---:    
-|9:00|
-|10:00|
-|11:00|
-|12:00|
-|13:00|
-|14:00|
-|15:00|
-|16:00|
-|17:00|
-|18:00|
-|19:00|
-|20:00|
-|21:00|
-|22:00|
+|9:00    |               |                 |                   |                  |
+|10:00   |               |                 |                   |                  |
+|11:00   |               |                 |                   |                  |
+|12:00   |    *Lunch*    |    *Lunch*      |    *Lunch*        |     *Lunch*      |    *Lunch*
+|13:00   |               |                 |                   |   Non-developer  |    --- Fin ---
+|14:00   |               |                 |                   |   presentations  |
+|15:00   |               |                 |                   |                  |
+|16:00   |               |                 |                   |                  |
+|17:00   |               |                 |                   |     Organized    |
+|18:00   |               |                 |                   |     off-site     |
+|19:00   |               |                 |                   |    social event  |
+|20:00   |               |                 |                   |                  |
+|21:00   |               |                 |                   |                  |
+|22:00   |               |                 |                   |                  |
 
 
 ## Themes
@@ -75,8 +75,19 @@ Please fork and add your project page, then make a pull request.
 + 
 
 ## Registrants
-+ Adam Rankin (Robarts Research Institute, Western University)
+1. Golafsoun Ameri (Robarts Research Institute)
+1. Patrick Carnahan (Robarts Research Institute)
+1. Elvis Chen (Robarts Research Institute)
+1. Estee Goldberg (Western University )
+1. Leah Groves (Robarts Research Institute)
+1. Denis Kikinov (Western University)
+1. Johanne Langford (Robarts Research Institute)
+1. Jonathan Lau (Western University)
+1. YingLi Lu (Robarts Research Institute)
+1. Hareem Nisar (Robarts Research Institute)
+1. Daiana Pur (Western University)
+1. Adam Rankin (Robarts Research Institute)
+1. Reid Vassallo (Robarts Research Institute)
+1. Yiming Xiao (Robarts Research Institute)
 
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
-
-<!-- ORGANIZERS: please edit REGISTRANTS.md -->
