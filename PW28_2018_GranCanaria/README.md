@@ -49,7 +49,6 @@ How to add this calendar to your own?
 1. Gynecological Brachytherapy Needle Segmentation Deployment (Paolo Zafino, Tina Kapur, Maria Francesca Spadea)
 1. OpenIGTLinkIO Development (Simon Drouin, Csaba Pinter, Andras Lasso)
 1. Programmable Multi Volume rendering in Slicer (Simon Drouin, Csaba Pinter)
-1. Tuberculosis studies using CIP (José-Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrer, Jorge Onieva, Raúl San José, Juan Ruiz-Alzola)
 1. Pelvis segmentation and atlas (Babacar Diao, Nayra Pumar, Xerach Suárez, Juan Ruiz-Alzola)
 1. 3DSlicer models for serious games (Sergi Bermudez i Badia, Yuri Almedia, Artemisa Moreno, Abián Hernández, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 1. Medical Infrared Imaging with Slicer (Yolanda Martin-Hernando, Abián Hernández, Enrique Villa, José-Carlos Ruiz-Luque, Juan Ruiz-Alzola)
