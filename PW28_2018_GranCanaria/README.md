@@ -95,3 +95,5 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Lauren O'Donnell (@ljod)(odonnell@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Pietro Nardelli (pnardelli@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Francisco José Marcano Serrano (fmarcano@ull.edu.es) - Universidad de la Laguna - Spain
+1. Jean-Christophe Fillion-Robin (jchris.fillionr@kitware.com) - Kitware Inc. - USA
+1. Andrei Irimia (irimia@usc.edu) - University of Southern California - USA
