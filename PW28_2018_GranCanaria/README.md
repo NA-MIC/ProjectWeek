@@ -50,7 +50,6 @@ How to add this calendar to your own?
 1. OpenIGTLinkIO Development (Simon Drouin, Csaba Pinter, Andras Lasso)
 1. Programmable Multi Volume rendering in Slicer (Simon Drouin, Csaba Pinter)
 1. Atlas development for education (Babacar Diao, Nayra Pumar, Xerach Suárez, Juan Ruiz-Alzola)
-1. 3DSlicer models for serious games (Sergi Bermudez i Badia, Yuri Almedia, Artemisa Moreno, Abián Hernández, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 1. Medical Infrared Imaging with Slicer (Yolanda Martin-Hernando, Abián Hernández, Enrique Villa, José-Carlos Ruiz-Luque, Juan Ruiz-Alzola)
 1. Renal Masses in Radiomics Extension (Rafaela Sousa, Sofia Amante, David Silva, Rui Amaral, Sara Serpa, Diogo Garrido, Sofia Dutra, Mariana Chaves)
 1. Implementing 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of broad metabolite spectrum in 3D Slicer (Francisco-José Marcano-Serrano, Juan Ruiz-Alzola)
@@ -97,3 +96,5 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Francisco José Marcano Serrano (fmarcano@ull.edu.es) - Universidad de la Laguna - Spain
 1. Jean-Christophe Fillion-Robin (@jcfr)(jchris.fillionr@kitware.com) - Kitware Inc. - USA
 1. Andrei Irimia (irimia@usc.edu) - University of Southern California - USA
+1. Ole Vegard Solberg (OleVegard.Solberg@sintef.no) - SINTEF - Norway
+1. Geir Arne Tangen (Geir.A.Tangen@sintef.no) - SINTEF - Norway
