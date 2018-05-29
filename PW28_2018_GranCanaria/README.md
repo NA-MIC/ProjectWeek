@@ -98,3 +98,7 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Andrei Irimia (irimia@usc.edu) - University of Southern California - USA
 1. Ole Vegard Solberg (OleVegard.Solberg@sintef.no) - SINTEF - Norway
 1. Geir Arne Tangen (Geir.A.Tangen@sintef.no) - SINTEF - Norway
+1. Yolanda Martín Hernando (yolanda.martin@iac.es) - Instituto de Astrofísica de Canarias - Spain
+1. Enrique Villa Benito (evilla@iac.es) - Instituto de Astrofísica de Canarias - Spain
+1. Natalia Arteaga Marrero (narteaga@iac.es) - Instituto de Astrofísica de Canarias - Spain
+
