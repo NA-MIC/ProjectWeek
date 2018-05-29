@@ -1,5 +1,22 @@
 These are notes from the Project Week Preparation Meetings.
 
+## Meeting #6: May 29
+
+- Review of projects.
+- Proposal of breakout sessions.
+- Agenda update. Still some social events to confirm.
+
+## Meeting #5: May 22
+
+- Review of projects.
+- Proposal to obtain new data sets.
+- Proposal to held a "segment editor tutorial" for the next meeting. Still to confirm.
+
+## Meeting #4: May 15
+
+- Its been held as a Slicer hangout. Announced and associated link:
+https://discourse.slicer.org/t/weekly-hangout-for-slicer-user-and-developer/53/85?u=jcfr. 
+
 ## Meeting #3: May 08
 
 - Brief review of the assistant’s projects: Francisco Marcano (Spectroscopy with MRI and infrared), Simon D. (3D printing), Till, Luke and James (segmentation), Paolo (Containers). It will be interesting to propose a “segment editor” session. 
