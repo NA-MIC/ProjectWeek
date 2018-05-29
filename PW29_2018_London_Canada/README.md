@@ -76,6 +76,7 @@ Please fork and add your project page, then make a pull request.
 1. Johanne Langford (Robarts Research Institute)
 1. Jonathan Lau (Western University)
 1. YingLi Lu (Robarts Research Institute)
+1. Lyla Mu (Western University)
 1. Hareem Nisar (Robarts Research Institute)
 1. Daiana Pur (Western University)
 1. Adam Rankin (Robarts Research Institute)
