@@ -61,7 +61,7 @@ These will be decided based on the discussions in the preparatory videoconferenc
 Please fork and add your project page, then make a pull request.
 [Project Template](./Projects/Template/README.md)
 
-+ [SlicerAR](./Projects/SlicerAR.md)
++ [SlicerAR](./Projects/SlicerAR.md) (Adam Rankin)
 + 
 + 
 + 
