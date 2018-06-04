@@ -1,12 +1,10 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# SlicerAR
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Adam Rankin (Robarts Research Institute)
 
 # Project Description
 
@@ -14,15 +12,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-1. Objective A. Describe it in 1-2 sentences.
-1. Objective B. Describe it in 1-2 sentences.
-1. Objective C. Describe it in 1-2 sentences.
+1. Enable video passthrough to OpenVR family of devices
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. 
 
 ## Progress and Next Steps
 
