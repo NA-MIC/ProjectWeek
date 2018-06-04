@@ -80,6 +80,7 @@ Please fork and add your project page, then make a pull request.
 1. Hareem Nisar (Robarts Research Institute)
 1. Daiana Pur (Western University)
 1. Adam Rankin (Robarts Research Institute)
+1. Michael Schumaker (Sunnybrook Research Institute)
 1. Reid Vassallo (Robarts Research Institute)
 1. Yiming Xiao (Robarts Research Institute)
 
