@@ -106,5 +106,6 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Yolanda Martín Hernando (yolanda.martin@iac.es) - Instituto de Astrofísica de Canarias - Spain
 1. Enrique Villa Benito (evilla@iac.es) - Instituto de Astrofísica de Canarias - Spain
 1. Natalia Arteaga Marrero (narteaga@iac.es) - Instituto de Astrofísica de Canarias - Spain
+1. Michael Halle (@mhalle)(mhalle@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA 
 1. Yuri Ameida (yuri.almeida@m-iti.org) Madeira Madeira Interactive Technologies Institute - Portugal
 
