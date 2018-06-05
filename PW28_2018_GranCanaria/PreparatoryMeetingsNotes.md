@@ -1,5 +1,13 @@
 These are notes from the Project Week Preparation Meetings.
 
+
+## Meeting #7: Jun 05
+
+- Review of projects.
+- Review of the breakout sessions proposal.
+- Agenda update. Social events will be confirmed tomorrow.
+- Meeting on June, 06. Simon Drouin. Topic: OpenIGTLinkIO Development. 9:00 am Boston time. Zoom link: https://zoom.us/j/6500546712
+
 ## Meeting #6: May 29
 
 - Review of projects.
