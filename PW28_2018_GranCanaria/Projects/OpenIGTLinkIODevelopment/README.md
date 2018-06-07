@@ -13,6 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Participating remotely
 
 - [Adam Rankin](http://www.imaging.robarts.ca/petergrp/node/113) (Robarts Research Institute, Canada)
+- [Kyle Sunderland](http://perk.cs.queensu.ca/users/sunderland) (Queen's University, Canada)
 - [Mark Asselin](http://perk.cs.queensu.ca/users/asselin) (Queen's University, Canada)
 - [Étienne Léger](http://www.ap-lab.ca/people/etienneleger/) (Concordia University)
 - [Longquan Chen](https://www.linkedin.com/in/longquan-chen-68672340/) (Brigham and Women's Hospital)
