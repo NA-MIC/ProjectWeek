@@ -33,7 +33,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Approach and Plan
 
 * Complete and improve refactoring of command messages.
-* Embed information about images in the image message itself (currently sent as string messages in CustusX) 
+* Embed information about images in the image message itself (currently sent as string messages to CustusX, see [PlusDeviceSet_Server_BkProFocusOem.xml](https://github.com/PlusToolkit/PlusLibData/blob/d2dcc2d2b8ad84eea14bd6147dcf289da1e4f405/ConfigFiles/PlusDeviceSet_Server_BkProFocusOem.xml) ) 
 * Fix limited length device names (potential solution: troncate long names and put complete name in meta-data)
 * Add possibility to use external video compression codecs in OpenIGTLinkIO even if they are not supported by OpenIGTLink (Longquan)
 * Create a command-line example in OpenIGTLinkIO that implements a simple but complete tracked US session:
@@ -44,6 +44,8 @@ Back to [Projects List](../../README.md#ProjectsList)
   * Capture more data
   * Export acquired images before shutting down
 * Improve Plus server launcher
+* Possible extension (This is an addition after the zoom meeting, so it needs to be discussed): Add functionality for combining streams in the client:
+  * Let's say the server streams positions for several tools, one of them being an ultrasound probe. In addition the ultrasound video is also being streamed. The client then have to combine the ultrasound video stream with the probe position stream. It may be possible to add this functionality to OpenIGTLinkIO, so that users of the library don't have to create their own solutions.
 
 ## Progress and Next Steps
 
