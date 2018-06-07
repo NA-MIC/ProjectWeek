@@ -36,12 +36,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 * Fix limited length device names (potential solution: troncate long names and put complete name in meta-data)
 * Add possibility to use external video compression codecs in OpenIGTLinkIO even if they are not supported by OpenIGTLink (Longquan)
 * Create a command-line example in OpenIGTLinkIO that implements a simple but complete tracked US session:
-** launch a PlusServer with a config that simulates US and includes tracking data
-** Connect to the server
-** Capture a few frames and prints the metadata
-** Changes US acquisition parameters
-** Capture more data
-** Export acquired images before shutting down
+  * launch a PlusServer with a config that simulates US and includes tracking data
+  * Connect to the server
+  * Capture a few frames and prints the metadata
+  * Changes US acquisition parameters
+  * Capture more data
+  * Export acquired images before shutting down
 * Improve Plus server launcher
 
 ## Progress and Next Steps
