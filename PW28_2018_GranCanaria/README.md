@@ -45,7 +45,7 @@ To receive information about this and future events please join the [Project Wee
 How to add this calendar to your own?
 
 ## Projects
-1. Using 3D Slicer SegmentEditor (Csaba Pinter, Till Best, Nikos Makris, Filippo Cicali)
+1. [Using 3D Slicer Segment Editor](Projects/SegmentEditor/README.md) (Csaba Pinter, Till Best, Nikos Makris, Filippo Cicali)
 1. Gynecological Brachytherapy Needle Segmentation Deployment (Paolo Zafino, Tina Kapur, Maria Francesca Spadea)
 1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Simon Drouin, Csaba Pinter, Andras Lasso, Ole Vegard Solberg, Geir Arne Tangen)
 1. Programmable Multi Volume rendering in Slicer (Simon Drouin, Csaba Pinter, Steve Pieper)
