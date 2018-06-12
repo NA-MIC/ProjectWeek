@@ -58,6 +58,7 @@ How to add this calendar to your own?
 1. Integration of OHIFViewer with Siemens teamplay using secure DICOMweb (Michael Kelm, Steve Pieper, Erik Ziegler, Marco Nolden, Jonas Scherer, Tina Kapur)
 1. Improve multivolume preclinical data import for MRI, PET. (Sharon Peled, Andras Lasso, ?).
 1. Conversion of Matlab Bridge modules to integrated 3DSlicer modules (Sharon Peled, Andras Lasso, ?).
+1. Longitudinal analysis of white matter connectivity changes prompted by concussions (Andrei Irimia, Lauren O'Donnell)
 
 ## Registrants
 
