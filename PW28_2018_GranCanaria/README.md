@@ -55,7 +55,7 @@ How to add this calendar to your own?
 1. Renal Masses in Radiomics Extension (Rafaela Sousa, Sofia Amante, David Silva, Rui Amaral, Sara Serpa, Diogo Garrido, Sofia Dutra, Mariana Chaves)
 1. Implementing 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of broad metabolite spectrum in 3D Slicer (Francisco-José Marcano-Serrano, Juan Ruiz-Alzola)
 1. Add 3D views linking capabilities (Davide Punzo, Andras Lasso, Steve Pieper, Simon Drouin?, Jean-Christophe Fillion-Robin?)
-1. Integration of OHIFViewer with Siemens teamplay using secure DICOMweb (Michael Kelm, Steve Pieper, Erik Ziegler, Marco Nolden, Tina Kapur)
+1. Integration of OHIFViewer with Siemens teamplay using secure DICOMweb (Michael Kelm, Steve Pieper, Erik Ziegler, Marco Nolden, Jonas Scherer, Tina Kapur)
 1. Improve multivolume preclinical data import for MRI, PET. (Sharon Peled, Andras Lasso, ?).
 1. Conversion of Matlab Bridge modules to integrated 3DSlicer modules (Sharon Peled, Andras Lasso, ?).
 
