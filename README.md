@@ -1,4 +1,5 @@
 
+## 3D Slicer Hackathon
 ## The [28th Project Week](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria) will be held on June 25-29, 2018 at Gran Canaria, Spain.
 
 
