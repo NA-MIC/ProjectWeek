@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#Projects)
 - María Dolores Afonso-Suárez (ULPGC - GTMA - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
-# Project Description
+## Project Description
 
 - Designing scenarios for Serious Games from 3DSlicer models.
 
@@ -21,7 +21,7 @@ In the case of this project, M-ITI collaborates with the ULPGC-IUIBS MACbioIDi i
 The objective of this project is to create applications within the concept of Serious Game, by using scenarios developed in Unity -the cross platform game engine-.
 These scenarios will be using models of images imported from 3DSlicer.
 
-## Objective
+## Objectives
 
 1. Understand the documentation involved in the import/export formats used.
 1. Choose the best approach to the solution.
@@ -36,13 +36,13 @@ These scenarios will be using models of images imported from 3DSlicer.
 ## Progress and Next Steps
 
 
-# Illustrations
+## Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 Export / Import example.
 
 
-# Background and References
+## Background and References
 
 + [Virtual Reality with Customized Positive Stimuli in a Cognitive-Motor Rehabilitation Task: A feasibility study with subacute stroke patients with mild cognitive impairment
 Mónica S. Cameirão, Fábio Pereira, Sergi Bermúdez i Badia](https://neurorehabilitation.m-iti.org/lab/wp-content/plugins/zotpress/lib/request/request.dl.php?api_user_id=161215&key=4ZQMQFB3&content_type=application/pdf)
