@@ -15,9 +15,9 @@ Back to [Projects List](../../README.md#Projects)
 - Designing scenarios for Serious Games from 3DSlicer models.
 
 Serious games, are designed for a purpose other than pure entertainment. The M-ITI serious games projects -among others- are developed to exploit specific brain mechanisms that relate to functional recovery to approach motor and cognitive rehabilitation by means of non-invasive and low-cost technologies.
-[M-ITI NeuroRehabLab] (https://neurorehabilitation.m-iti.org/lab/)
+[M-ITI NeuroRehabLab](https://neurorehabilitation.m-iti.org/lab/)
 In the case of this project, M-ITI collaborates with the ULPGC-IUIBS MACbioIDi in a joint work proposed for the areas of education, scientific and medical projects.
-[IUIBS MACbioIDi] (https://mt4sd.ulpgc.es/w/index.php/Proyecto_MACbioIDi)
+[IUIBS MACbioIDi](https://mt4sd.ulpgc.es/w/index.php/Proyecto_MACbioIDi)
 The objective of this project is to create applications within the concept of Serious Game, by using scenarios developed in Unity -the cross platform game engine-.
 These scenarios will be using models of images imported from 3DSlicer.
 
@@ -41,10 +41,9 @@ These scenarios will be using models of images imported from 3DSlicer.
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 Export / Import example.
 
-<! ---<img src="https://raw.githubusercontent.com/medtec4susdev/SlicerEcosystem/master/3DslicerTrainingNetwork_1.jpg" width="337" height="110">  -->
 
 # Background and References
 
 + [Virtual Reality with Customized Positive Stimuli in a Cognitive-Motor Rehabilitation Task: A feasibility study with subacute stroke patients with mild cognitive impairment
-Mónica S. Cameirão, Fábio Pereira, Sergi Bermúdez i Badia] (https://neurorehabilitation.m-iti.org/lab/wp-content/plugins/zotpress/lib/request/request.dl.php?api_user_id=161215&key=4ZQMQFB3&content_type=application/pdf)
+Mónica S. Cameirão, Fábio Pereira, Sergi Bermúdez i Badia](https://neurorehabilitation.m-iti.org/lab/wp-content/plugins/zotpress/lib/request/request.dl.php?api_user_id=161215&key=4ZQMQFB3&content_type=application/pdf)
 
