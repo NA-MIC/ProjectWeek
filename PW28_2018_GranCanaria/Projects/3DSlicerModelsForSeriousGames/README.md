@@ -40,7 +40,7 @@ These scenarios will be using models of images imported from 3DSlicer.
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-<img src="Chest.png" width="400" height="200">
+<img src="Chest.png" width="500" height="167">
 
 Export / Import example.
 
