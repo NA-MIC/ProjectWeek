@@ -1,4 +1,4 @@
-Back to [Projects List](../../README.md#Projects)
+Back to [Projects List](../../README.md#ProjectsList)
 
 # 3DSlicer Models for Serious Games
 
