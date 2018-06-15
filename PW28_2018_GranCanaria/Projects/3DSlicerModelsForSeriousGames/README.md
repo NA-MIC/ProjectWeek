@@ -14,11 +14,13 @@ Back to [Projects List](../../README.md#Projects)
 
 ### Designing scenarios for Serious Games from 3DSlicer models.
 
-Serious games, are designed for a purpose other than pure entertainment. The M-ITI serious games projects -among others- are developed to exploit specific brain mechanisms that relate to functional recovery to approach motor and cognitive rehabilitation by means of non-invasive and low-cost technologies.
-[M-ITI NeuroRehabLab](https://neurorehabilitation.m-iti.org/lab/)
-In the case of this project, M-ITI collaborates with the ULPGC-IUIBS MACbioIDi in a joint work proposed for the areas of education, scientific and medical projects.
-[IUIBS MACbioIDi](https://mt4sd.ulpgc.es/w/index.php/Proyecto_MACbioIDi)
-The objective of this project is to create applications within the concept of Serious Game, by using scenarios developed in Unity -the cross platform game engine-.
+Serious games, are designed for a purpose other than pure entertainment. The M-ITI serious games projects -among others- are developed
+to exploit specific brain mechanisms that relate to functional recovery to approach motor and cognitive rehabilitation by means of non
+-invasive and low-cost technologies. [M-ITI NeuroRehabLab](https://neurorehabilitation.m-iti.org/lab/). In the case of this project,
+M-ITI collaborates with the [ULPGC-IUIBS MACbioIDi](https://mt4sd.ulpgc.es/w/index.php/Proyecto_MACbioIDi) in a joint work proposed for
+the areas of education, scientific and medical projects.
+The objective of this project is to create applications within the concept of Serious Game, by using scenarios developed in Unity -the
+cross platform game engine-.
 These scenarios will be using models of images imported from 3DSlicer.
 
 ## Objectives
@@ -35,14 +37,13 @@ These scenarios will be using models of images imported from 3DSlicer.
 
 ## Progress and Next Steps
 
-
 ## Illustrations
 
 Export / Import example.
 
 <img src="Chest.png" width="500" height="167">
 
-Unity Scenario example.
+Unity Scenario video examples.
 
 [![Watch the video](CaveUnity.png)](https://www.youtube.com/watch?v=eQMNyAurvVo)
 [![Watch the video](GrapeStomping.png)](https://www.youtube.com/watch?v=gzIc7Avfijs&list=PLr1mTM03DyQ_8DbbGY4pfbsgm6zHjQfzY&index=16)
