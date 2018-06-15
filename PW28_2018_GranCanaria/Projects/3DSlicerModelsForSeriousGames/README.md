@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#Projects)
 
 ## Project Description
 
-- Designing scenarios for Serious Games from 3DSlicer models.
+### Designing scenarios for Serious Games from 3DSlicer models.
 
 Serious games, are designed for a purpose other than pure entertainment. The M-ITI serious games projects -among others- are developed to exploit specific brain mechanisms that relate to functional recovery to approach motor and cognitive rehabilitation by means of non-invasive and low-cost technologies.
 [M-ITI NeuroRehabLab](https://neurorehabilitation.m-iti.org/lab/)
