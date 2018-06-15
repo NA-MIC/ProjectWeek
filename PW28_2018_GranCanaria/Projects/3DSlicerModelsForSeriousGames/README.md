@@ -39,6 +39,9 @@ These scenarios will be using models of images imported from 3DSlicer.
 ## Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+
+![Alt](Chest.png)
+
 Export / Import example.
 
 
