@@ -38,11 +38,13 @@ These scenarios will be using models of images imported from 3DSlicer.
 
 ## Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+Export / Import example.
 
 <img src="Chest.png" width="500" height="167">
 
-Export / Import example.
+Unity Scenario example.
+
+[![Watch the video](Chest.png)](https://www.youtube.com/watch?v=eQMNyAurvVo)
 
 
 ## Background and References
