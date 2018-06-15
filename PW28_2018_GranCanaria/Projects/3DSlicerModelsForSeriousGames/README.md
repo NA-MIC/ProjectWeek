@@ -17,7 +17,7 @@ Back to [Projects List](../../README.md#Projects)
 Serious games, are designed for a purpose other than pure entertainment. The M-ITI serious games projects -among others- are developed
 to exploit specific brain mechanisms that relate to functional recovery to approach motor and cognitive rehabilitation by means of non
 -invasive and low-cost technologies. [M-ITI NeuroRehabLab](https://neurorehabilitation.m-iti.org/lab/). In the case of this project,
-M-ITI collaborates with the [ULPGC-IUIBS MACbioIDi](https://mt4sd.ulpgc.es/w/index.php/Proyecto_MACbioIDi) in a joint work proposed for
+M-ITI MACbioIDi collaborates with the [ULPGC-IUIBS MACbioIDi](https://mt4sd.ulpgc.es/w/index.php/Proyecto_MACbioIDi) in a joint work proposed for
 the areas of education, scientific and medical projects.
 The objective of this project is to create applications within the concept of Serious Game, by using scenarios developed in Unity -the
 cross platform game engine-.
