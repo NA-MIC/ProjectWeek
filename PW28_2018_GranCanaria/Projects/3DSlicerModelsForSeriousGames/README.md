@@ -40,7 +40,7 @@ These scenarios will be using models of images imported from 3DSlicer.
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Alt](Chest.png)
+![Alt](Chest.png width="337" height="110")
 
 Export / Import example.
 
