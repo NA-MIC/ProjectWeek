@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Yolanda Martin-Hernando (IACTEC - MACbioIDi)
+- Yolanda Martin (IACTEC - MACbioIDi)
 -	Abián Hernández-Guedez (ULPGC - GTMA - MACbioIDi)
 - Enrique Villa (IACTEC - MACbioIDi)
 - Natalia Arteaga (IACTEC - MACbioIDi)
