@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# 3DSlicer Models for Serious Games
+# Medical Infrared Imaging with 3DSlicer
 
 
 ## Key Investigators
