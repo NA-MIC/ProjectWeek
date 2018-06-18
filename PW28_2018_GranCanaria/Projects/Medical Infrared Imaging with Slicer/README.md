@@ -5,28 +5,25 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Yolanda Martin-Hernando (IACTEC - MACbioIDi)
--	Abián Hernández-Guedez (ULPGC - GTMA - MACbioIDi)
+- Yolanda Martin (IACTEC - MACbioIDi)
+-	Abián Hernández-Guedes (ULPGC - GTMA - MACbioIDi)
+- Jorge Quintero Nehrkorn (IACTEC - MACbioIDi)
 - Enrique Villa (IACTEC - MACbioIDi)
-- Natalia Arteaga (IACTEC - MACbioIDi)
+- Natalia Arteaga-Marrero (IACTEC - MACbioIDi)
 - José-Carlos Ruiz-Luque (ULPGC - GTMA - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
 
 ## Project Description
 
-This project is a next step in the one presented during [27thPW NA-MIC](https://na-mic.github.io/ProjectWeek/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/),
-a research collaboration between the public research [institute IACTEC](http://www.iac.es/) and the [University of Las Palmas de Gran Canarias(ULPGC)](http://www.ulpgc.es/)
-in order to use InfraRed (IR) sensors and advanced image processing techniques in 3D Slicer for medical diagnosis.
-It is intended mainly for foot ulcers detection in diabetic patients. The infrared cameras have been integrated and connected to 3D Slicer using the PLUS toolkit and a 
-new medical thermal infrared extension is being developed.
+This project is a continuation of the one presented during the [27thPW NA-MIC](https://na-mic.github.io/ProjectWeek/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/), in which a research collaboration between the public research institute [IACTec](http://www.iac.es/iactec.php?op1=141&lang=en) and the [University of Las Palmas de Gran Canarias(ULPGC)](http://www.ulpgc.es/). The project uses InfraRed (IR) sensors and advanced image processing techniques in 3D Slicer for medical diagnosis, including diabetic foot ulcer assessment. The infrared cameras have been integrated and connected to 3D Slicer using the PLUS toolkit and a new medical thermal infrared extension is being developed.
 
 
 ## Objectives
 
-1. To implement a new extension for medical thermal infrared images.
-1. To develop and test a new module for foot ulcer detection based on thermal infrared images.
-1. Performance & improvements.
+1. Implementation of a new extension for medical thermal infrared images.
+1. Development and testing of a new module for foot ulcer detection based on thermal infrared images.
+1. Performance & efficiency improvements.
 
 
 ## Approach and Plan
