@@ -50,7 +50,7 @@ Male pelvis.
 
 Lung - tuberculosis disease.
 
-<img src="Tuberculosis-x-ray.jpg" width="100" height="75">
+<img src="Tuberculosis-x-ray.jpg" width="130" height="100">
 
 ## Background and References
 
