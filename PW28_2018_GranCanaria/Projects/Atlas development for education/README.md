@@ -46,11 +46,11 @@ tuberculosis disease, also for training purposes. (Data: pelvis -CT-, prostate -
 
 Male pelvis.
 
-<img src="PelvisMale.png" width="400" height="400">
+<img src="PelvisMale.png" width="200" height="200">
 
 Lung - tuberculosis disease.
 
-<img src="Tuberculosis-x-ray.jpg" width="350" height="270">
+<img src="Tuberculosis-x-ray.jpg" width="175" height="130">
 
 ## Background and References
 
