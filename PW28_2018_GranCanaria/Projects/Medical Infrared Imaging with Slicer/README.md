@@ -43,11 +43,11 @@ new medical thermal infrared extension is being developed.
 
 Segmentation Module.
 
-<img src="SegmentationModule.png" width="500" height="167">
+<img src="SegmentationModule.png" width="800" height="500">
 
 Unity Scenario video examples.
 
-<img src="FootTemperatureComparison.png" width="500" height="167">
+<img src="FootTemperatureComparison.png" width="450" height="181">
 
 
 ## Background and References
