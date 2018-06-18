@@ -50,7 +50,7 @@ How to add this calendar to your own?
 1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Simon Drouin, Csaba Pinter, Andras Lasso, Ole Vegard Solberg, Geir Arne Tangen)
 1. Programmable Multi Volume rendering in Slicer (Simon Drouin, Csaba Pinter, Steve Pieper)
 1. Atlas development for education (Babacar Diao, Nayra Pumar, Xerach Suárez, Juan Ruiz-Alzola)
-1. [Medical Infrared Imaging with Slicer](Projects/Medical Infrared Imaging with Slicer/README.md) (Yolanda Martin-Hernando, Abián Hernández, Enrique Villa, José-Carlos Ruiz-Luque, Natalia Arteaga, Juan Ruiz-Alzola)
+1. [Medical Infrared Imaging with Slicer](Projects/MedicalInfraredImagingwithSlicer/README.md) (Yolanda Martin-Hernando, Abián Hernández, Jorge Quintero Nehrkorn, Enrique Villa, José-Carlos Ruiz-Luque, Natalia Arteaga-Marrero, Juan Ruiz-Alzola)
 1. [3DSlicer models for serious games](Projects/3DSlicerModelsForSeriousGames/README.md) (Sergi Bermudez i Badia, Yuri Almedia, Artemisa Moreno, Abián Hernández, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 1. Renal Masses in Radiomics Extension (Rafaela Sousa, Sofia Amante, David Silva, Rui Amaral, Sara Serpa, Diogo Garrido, Sofia Dutra, Mariana Chaves)
 1. Implementing 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of broad metabolite spectrum in 3D Slicer (Francisco-José Marcano-Serrano, Juan Ruiz-Alzola)
