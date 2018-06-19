@@ -23,6 +23,10 @@ To receive information about this and future events please join the [Project Wee
 
 - [Information About the Venue](https://medtec4susdev.github.io/ProjectDemoProgressing/)
 
+-Transpors from the airport to the city (Las Palmas de Gran Canaria:
+* Taxi (line at the airport)
+* [Bus -line 60-](https://www.guaguasglobal.com/en/lineas-horarios/linea/)
+
 - Email Local Organzing Committee: [Juan Ruiz Alzola](mailto:juan.ruiz@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28)
 
 ## Frequently Asked Questions
