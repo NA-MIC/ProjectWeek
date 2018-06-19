@@ -18,7 +18,17 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-* Explore DICOMweb integration with various infrastructures and programming environment
+* Explore DICOMweb integration with various infrastructures and programming environments
+  * OHIF
+  * teamplay
+  * CTK / MITK / Slicer
+* Review existing implementations
+  * dcm4chee
+  * orthanc
+  * teamplay
+* Review enabling software / tools
+  * dcmjs
+  * cornerstone, cornerstoneTools
 
 ## Approach and Plan
 
