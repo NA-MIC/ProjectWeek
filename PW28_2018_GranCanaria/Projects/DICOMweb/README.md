@@ -34,6 +34,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 * Review current implementations
 * Review clinical applications and supportable workflows
+  * General annotation (segmentation and measurements)
+  * Orthopedic workflows
 * Try some experimental connections with real data
   * QIDO/WADO of instances
   * STOW of derived instances
