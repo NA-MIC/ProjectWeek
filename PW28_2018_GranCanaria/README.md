@@ -48,6 +48,8 @@ To receive information about this and future events please join the [Project Wee
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America%2FNew_York&dates=20180625%2F20180629&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 How to add this calendar to your own?
 
+## Projects [(How to add a new project?)](Projects/README.md)
+
 ## Projects
 1. [Using 3D Slicer Segment Editor](Projects/SegmentEditor/README.md) (Csaba Pinter, Till Best, Nikos Makris, Filippo Cicali)
 1. Gynecological Brachytherapy Needle Segmentation Deployment (Paolo Zafino, Tina Kapur, Maria Francesca Spadea)
