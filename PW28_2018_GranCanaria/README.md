@@ -117,4 +117,4 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Tina Vajsbaher (tina.vajsbaher@gmail.com) - University of Bremen - Germany
 1. Gino Gulamhussene (gino@isg.cs.ovgu.de) - Institute for Simulation and Graphics OvGU University Magdeburg - Germany 
 1. Sara Fernández Vidal (sara.fdezvidal@gmail.com) - ICM Institute - France
-1. Eric Bardinet () - ICM Institute - France
+1. Eric Bardinet (eric.bardinet@upmc.fr) - ICM Institute - France
