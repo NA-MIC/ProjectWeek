@@ -23,7 +23,7 @@ To receive information about this and future events please join the [Project Wee
 
 - [Information About the Venue](https://medtec4susdev.github.io/ProjectDemoProgressing/)
 
-- Transpors from the airport to the city (Las Palmas de Gran Canaria:
+- Transports from the airport to the city (Las Palmas de Gran Canaria):
   - Taxi (line at the airport)
   - [Bus -line 60-](https://www.guaguasglobal.com/en/lineas-horarios/linea/)
 
