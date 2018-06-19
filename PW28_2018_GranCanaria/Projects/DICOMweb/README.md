@@ -13,6 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Participating Remotely
 - Andrey Fedorov (BWH)
+- Andreas Fieselmann (Siemens Healthineers)
 
 # Project Description
 
