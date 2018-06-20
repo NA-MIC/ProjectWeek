@@ -14,10 +14,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 
 # Project Description
+Adding 3D views linking functionalities such as the 2D one.
 
 ## Objective
+The 3D view controller widget should have GUI for synchronizing the following proprieties: 
 
-* 3D view linking 
+* displayed content (what models, volumes, segmentations, etc. are visible in each view)
+* view properties (show/hide ruler, orientation marker, background color, etc)
+* camera (position, focal point, up vector, orthogonal/perspective, field of view, etc.)
 
 ## Approach and Plan
 
@@ -37,3 +41,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
+https://discourse.slicer.org/t/project-for-3dslicer-project-week/2558
