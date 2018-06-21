@@ -17,6 +17,13 @@ To receive information about this and future events please join the [Project Wee
 - **Hotel:** [Marriott Iberia](http://achotels.marriott.com/hotels/ac-hotel-iberia-las-palmas), [Parque](http://hotelparqueenlaspalmas.com/en/). Deadline to book at preferential rates is March 30, 2018.
 
 
+- Transports from the airport to the city (Las Palmas de Gran Canaria):
+  - Taxi (line at the airport)
+  - [Bus -line 60-](https://www.guaguasglobal.com/en/lineas-horarios/linea/)
+    - [Airport-San Telmo bus station](https://www.google.es/maps/dir/Aeropuerto+de+Gran+Canaria,+Autopista+GC-1,+s%2Fn,+35230,+Las+Palmas/Estacion+De+Guaguas+SAN+TELMO,+Av.+Rafael+Cabrera,+30,+35002+Las+Palmas+de+Gran+Canaria,+Las+Palmas/@28.0183155,-15.5470931,11z/data=!4m17!4m16!1m5!1m1!1s0xc40a266c3662d1d:0x824bcf7e159f85d4!2m2!1d-15.3877066!2d27.9331848!1m5!1m1!1s0xc4095850670520b:0x5eef5b2e4c79e9e3!2m2!1d-15.415777!2d28.1092527!2m2!7e2!8j1529431200!3e3)
+    - [Paths-distances: San Telmo bus station - Hotels](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW28_2018_GranCanaria/Station-Hotels.png) 
+        
+
 ## Local Organizing Committee
  
 - Host: Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es), Director of Medical and Audiovisual Technology Group (GTMA for Grupo de Tecnología Médica y Audiovisual), Research Institute in Biomedical and Health Sciences (IUIBS for Instituto Universitario de Investigación Biomédica y Sanitaria), Research Affiliate at the Canary Islands Instiute of Astrophysics.
@@ -29,13 +36,6 @@ To receive information about this and future events please join the [Project Wee
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)    [3D View/Map of venue location 26th-29th June](https://bit.ly/2Hkm6Mi)
   
-
-- Transports from the airport to the city (Las Palmas de Gran Canaria):
-  - Taxi (line at the airport)
-  - [Bus -line 60-](https://www.guaguasglobal.com/en/lineas-horarios/linea/)
-    - [Airport-San Telmo bus station](https://www.google.es/maps/dir/Aeropuerto+de+Gran+Canaria,+Autopista+GC-1,+s%2Fn,+35230,+Las+Palmas/Estacion+De+Guaguas+SAN+TELMO,+Av.+Rafael+Cabrera,+30,+35002+Las+Palmas+de+Gran+Canaria,+Las+Palmas/@28.0183155,-15.5470931,11z/data=!4m17!4m16!1m5!1m1!1s0xc40a266c3662d1d:0x824bcf7e159f85d4!2m2!1d-15.3877066!2d27.9331848!1m5!1m1!1s0xc4095850670520b:0x5eef5b2e4c79e9e3!2m2!1d-15.415777!2d28.1092527!2m2!7e2!8j1529431200!3e3)
-    - [Paths-distances: San Telmo bus station - Hotels](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW28_2018_GranCanaria/Station-Hotels.png) 
-        
 
 - Email Local Organzing Committee: [Juan Ruiz Alzola](mailto:juan.ruiz@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28)
 
