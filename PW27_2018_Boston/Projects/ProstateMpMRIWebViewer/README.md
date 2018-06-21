@@ -52,7 +52,7 @@ Click on the image below for the video demo:
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
-1. [Github project](https://github.com/mehrtash/ProstateWebViewer)
+1. [Github project](https://github.com/ProstateWebViewer/PI-RADS-Trainer)
 
 # Similar Projects
 1. http://rsnacrowdquant.cloudapp.net/
