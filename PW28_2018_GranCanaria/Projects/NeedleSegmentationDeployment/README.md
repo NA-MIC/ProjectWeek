@@ -1,28 +1,30 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Gynecological Brachytherapy Needle Segmentation Deployment
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Paolo Zaffino (Magna Graecia University, Catanzaro, Italy)
+- Tina Kapur (Brigham and Women’s Hospital and Harvard Medical School, USA)
+- Maria Francesca Spadea (Magna Graecia University, Catanzaro, Italy)
+
+## Participating remotely
+- Guillaume Pernelle 
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+We developed a fully automatic, AI based algorithm to segment brachyterapy neeedles from intraoperative MRI images.
+Since, we want to make it usable from the 3D Slicer users in a simple and efficient manner, we would like to deploy our algorithm by using DeepInfer plugin.
 
 ## Objective
 
-1. Objective A. Describe it in 1-2 sentences.
-1. Objective B. Describe it in 1-2 sentences.
-1. Objective C. Describe it in 1-2 sentences.
+1. Deploy the developed algorithm
+
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Learn about DeepInfer plugin and Docker system
+1. Deploy the entire workflow
 
 ## Progress and Next Steps
 
