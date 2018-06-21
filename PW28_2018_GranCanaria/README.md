@@ -28,6 +28,9 @@ To receive information about this and future events please join the [Project Wee
  
 - Host: Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es), Director of Medical and Audiovisual Technology Group (GTMA for Grupo de Tecnología Médica y Audiovisual), Research Institute in Biomedical and Health Sciences (IUIBS for Instituto Universitario de Investigación Biomédica y Sanitaria), Research Affiliate at the Canary Islands Instiute of Astrophysics.
 
+- Email Local Organzing Committee: [Juan Ruiz Alzola](mailto:juan.ruiz@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28)
+
+
 - [Information about the Venue](https://medtec4susdev.github.io/ProjectDemoProgressing/)
 
 ## **VENUE LOCATION** 
@@ -36,8 +39,6 @@ To receive information about this and future events please join the [Project Wee
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)    [3D View/Map of venue location 26th-29th June](https://bit.ly/2Hkm6Mi)
   
-
-- Email Local Organzing Committee: [Juan Ruiz Alzola](mailto:juan.ruiz@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28)
 
 ## Frequently Asked Questions
 
