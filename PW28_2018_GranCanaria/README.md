@@ -21,7 +21,12 @@ To receive information about this and future events please join the [Project Wee
  
 - Host: Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es), Director of Medical and Audiovisual Technology Group (GTMA for Grupo de Tecnología Médica y Audiovisual), Research Institute in Biomedical and Health Sciences (IUIBS for Instituto Universitario de Investigación Biomédica y Sanitaria), Research Affiliate at the Canary Islands Instiute of Astrophysics.
 
-- [Information About the Venue](https://medtec4susdev.github.io/ProjectDemoProgressing/)
+- [Information about the Venue](https://medtec4susdev.github.io/ProjectDemoProgressing/)
+
+- **VENUE LOCATION**
+  - [3D View/Map of venue location 25th June](https://www.google.com/maps/place/AC+Hotel+Iberia+Las+Palmas/@28.1112024,-15.4139154,240a,35y,279.49h,55.22t/data=!3m1!1e3!4m7!3m6!1s0x0:0xd874c662b7a1c59a!5m1!1s2018-06-30!8m2!3d28.1120498!4d-15.4172581)
+  - [3D View/Map of venue location 26th-29th June](https://bit.ly/2Hkm6Mi)
+  
 
 - Transports from the airport to the city (Las Palmas de Gran Canaria):
   - Taxi (line at the airport)
