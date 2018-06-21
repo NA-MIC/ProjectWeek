@@ -38,7 +38,10 @@ To receive information about this and future events please join the [Project Wee
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)    [3D View/Map of venue location 25th June](https://www.google.com/maps/place/AC+Hotel+Iberia+Las+Palmas/@28.1112024,-15.4139154,240a,35y,279.49h,55.22t/data=!3m1!1e3!4m7!3m6!1s0x0:0xd874c662b7a1c59a!5m1!1s2018-06-30!8m2!3d28.1120498!4d-15.4172581)'
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)    [3D View/Map of venue location 26th-29th June](https://bit.ly/2Hkm6Mi)
-  
+
+## INFOPACK
+
+- [Infopack](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Infopack%20-%20NAMIC%20SUMMER%20EVENT%202018.pdf)  
 
 ## Frequently Asked Questions
 
