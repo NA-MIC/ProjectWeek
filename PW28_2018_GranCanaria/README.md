@@ -128,3 +128,7 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Sara Fernández Vidal (sara.fdezvidal@gmail.com) - ICM Institute - France
 1. Eric Bardinet (eric.bardinet@upmc.fr) - ICM Institute - France
 1. José Luis González-Mora (jlgonzal@ull.edu.es) - University of La Laguna - Spain
+1. Philippe Simon (philippe.simon@icm-institute.org)  - ICM Institute - France
+1. Donato Monopoli (dmonopoli@itccanarias.org) - Intituto Tecnológico de Canarias - Spain
+1. Javier González Fernández (jgonzalez@itccanarias.org) - Intituto Tecnológico de Canarias - Spain
+1. Michael Kelm (michael.kelm@siemens-healthineers.com) - Siemens Healthcare GmbH - Germany
