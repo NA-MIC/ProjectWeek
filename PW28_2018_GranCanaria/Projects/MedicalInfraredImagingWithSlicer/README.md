@@ -22,9 +22,9 @@ It is intended mainly for foot ulcers detection in diabetic patients. The infrar
 
 ## Objectives
 
-1. To implement a new extension for medical thermal infrared images.
-1. To develop and test a new module for foot ulcer detection based on thermal infrared images.
-1. Performance & improvements.
+1. Implementation of a new extension for medical thermal infrared images.
+1. Development and testing of a new module for foot ulcer assessment based on thermal infrared images.
+1. Performance and efficiency improvements.
 
 ## Approach and Plan
 
