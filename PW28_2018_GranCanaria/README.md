@@ -117,7 +117,6 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Jorge Onieva (@jonieva)(jorge.onieva@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Paolo Zaffino (@pzaffino)(p.zaffino@unicz.it) - Magna Graecia University - Italy
 1. Raúl San José (@rjosest)(rsanjose@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
-1. Hannah Finke (hannah.finke@uni-dortmund.de) - German Cancer Research Center - Germany
 1. Erik Ziegler (erik@radicalimaging.com) - Open Health Imaging Foundation- France
 1. Lauren O'Donnell (@ljod)(odonnell@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Simon Drouin (drouin.simon@gmail.com) - Montreal Neurological Institute - Canada
