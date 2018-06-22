@@ -32,10 +32,9 @@ Since, we want to make it usable from the 3D Slicer users in a simple and effici
 
 # Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+Automatic segmentation example:
 
-<!--![Description of picture](Example2.jpg)-->
+![GYN needles](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/NeedleSegmentationDeployment/GYN%20needles%20example.jpg)
 
-<!--![Some more images](Example2.jpg)-->
 
 # Background and References
