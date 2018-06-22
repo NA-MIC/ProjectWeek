@@ -79,6 +79,7 @@ How to add this calendar to your own?
 1. Improve multivolume preclinical data import for MRI, PET. (Sharon Peled, Andras Lasso, ?).
 1. Conversion of Matlab Bridge modules to integrated 3DSlicer modules (Sharon Peled, Andras Lasso, ?).
 1. Longitudinal analysis of white matter connectivity changes prompted by concussions (Andrei Irimia, Lauren O'Donnell)
+1. [Stereotaxy PYDBS and EPILOC Toolboxes](Projects/STIM_ICM/README.md) (Sara Fernandez Vidal, Jordan Cornillaut and Eric Bardinet)
 
 ## Registrants
 
@@ -139,7 +140,7 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Sara Fernández Vidal (sara.fdezvidal@gmail.com) - ICM Institute - France
 1. Eric Bardinet (eric.bardinet@upmc.fr) - ICM Institute - France
 1. José Luis González-Mora (jlgonzal@ull.edu.es) - University of La Laguna - Spain
-1. Philippe Simon (philippe.simon@icm-institute.org)  - ICM Institute - France
+1. Jordan Cornillault (jordan.cornillault@gmail.com)  - ICM Institute - France
 1. Donato Monopoli (dmonopoli@itccanarias.org) - Intituto Tecnológico de Canarias - Spain
 1. Javier González Fernández (jgonzalez@itccanarias.org) - Intituto Tecnológico de Canarias - Spain
 1. Michael Kelm (michael.kelm@siemens-healthineers.com) - Siemens Healthcare GmbH - Germany
