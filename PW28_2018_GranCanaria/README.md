@@ -146,3 +146,6 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Donato Monopoli (dmonopoli@itccanarias.org) - Intituto Tecnológico de Canarias - Spain
 1. Javier González Fernández (jgonzalez@itccanarias.org) - Intituto Tecnológico de Canarias - Spain
 1. Michael Kelm (michael.kelm@siemens-healthineers.com) - Siemens Healthcare GmbH - Germany
+1. William Wells (sw@bwh.harvard.edu)  - Brigham and Women's Hospital and Harvard Medical School - USA 
+1. Jonas Scherer (jonas.scherer@dkfz.de) - German Cancer Research Center (DKFZ) - Germany
+1. 
