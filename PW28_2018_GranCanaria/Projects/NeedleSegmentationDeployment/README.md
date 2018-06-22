@@ -38,3 +38,8 @@ Automatic segmentation example:
 
 
 # Background and References
+
+- [Needle finder website] (http://needlefinder.org)
+- [Model-based Catheter Segmentation in MRI-images] (https://arxiv.org/abs/1705.06712)
+- [PW 25] (https://na-mic.org/wiki/Project_Week_25/NeedleSegmentation)
+- [2017 Winter PW] (https://na-mic.org/wiki/2017_Winter_Project_Week/Needle_Segmentation_from_MRI)
