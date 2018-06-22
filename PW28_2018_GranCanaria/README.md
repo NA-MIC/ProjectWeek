@@ -81,6 +81,7 @@ How to add this calendar to your own?
 1. Longitudinal analysis of white matter connectivity changes prompted by concussions (Andrei Irimia, Lauren O'Donnell)
 1. [Stereotaxy PYDBS and EPILOC Toolboxes](Projects/STIM_ICM/README.md) (Sara Fernandez Vidal, Jordan Cornillaut and Eric Bardinet)
 1. Multi-Label segmentation of anatomic prostate zones in MRI (Anneke Meyer, Marko Rak, Christian Hansen)
+1. [SlicerCIP Quantitative Reports Tool](Projects/SlicerCIPQuantitativeReportsTool/README.md) (Pietro Nardelli, Jorge Onieva Onieva, Raúl San José Estépar)
 
 ## Registrants
 
