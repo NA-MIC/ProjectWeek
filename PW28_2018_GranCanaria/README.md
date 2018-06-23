@@ -69,6 +69,7 @@ How to add this calendar to your own?
 1. [Gynecological Brachytherapy Needle Segmentation Deployment](Projects/NeedleSegmentationDeployment/README.md) (Paolo Zafino, Tina Kapur, Maria Francesca Spadea)
 1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Simon Drouin, Csaba Pinter, Andras Lasso, Ole Vegard Solberg, Geir Arne Tangen)
 1. [Programmable Multi Volume Rendering in Slicer](Projects/MultiVolumeRendering/README.md) (Simon Drouin, Csaba Pinter, Steve Pieper, Jean-Christophe Fillion-Robin)
+1. [Raw Image Read and Display](Projects/RawImageGuess/README.md) (Attila Nagy, Csaba Pinter) 
 1. [Atlas development for education](Projects/AtlasDevelopmentForEducation/README.md) (Babacar Diao, Ahmedou Moulaye Idriss, Mohamed Septy, Alexandra Fernandes Rodrigues, Cheick Tidiane, Nayra Pumar, Xerach Suárez, Juan Ruiz-Alzola)
 1. [Medical Infrared Imaging with Slicer](Projects/MedicalInfraredImagingWithSlicer/README.md) (Yolanda Martin-Hernando, Abián Hernández, Jorge Quintero Nehrkorn, Enrique Villa, José-Carlos Ruiz-Luque, Natalia Arteaga-Marrero, Juan Ruiz-Alzola)
 1. [3DSlicer models for serious games](Projects/3DSlicerModelsForSeriousGames/README.md) (Sergi Bermudez i Badia, Yuri Almedia, Artemisa Moreno, Abián Hernández, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
