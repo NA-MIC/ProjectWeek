@@ -47,6 +47,7 @@ To receive information about this and future events please join the [Project Wee
 
 * [What?](../README.md#what)
 * [When, where, how much?](../README.md#when-where-how-much)
+
 * [How does it work?](../README.md#how-does-it-work)
 * [Who can attend?](../README.md#who-can-attend)
 * [Who should attend?](../README.md#who-should-attend)
@@ -83,6 +84,7 @@ How to add this calendar to your own?
 1. Multi-Label segmentation of anatomic prostate zones in MRI (Anneke Meyer, Marko Rak, Christian Hansen)
 1. [SlicerCIP Quantitative Reports Tool](Projects/SlicerCIPQuantitativeReportsTool/README.md) (Pietro Nardelli, Jorge Onieva Onieva, Raúl San José Estépar)
 1. [Custom GUI for an US simulator training system](Projects/CustomGUIForUSSimulator/Readme.md) (José Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola)
+1. [4D MRI via retrospectiv stacking of 2D Slices](Projects/4D_MRI_via_retrospectiv_stacking/README.md)(Gino Gulamhussene, Marko Rak)
 
 ## Registrants
 
