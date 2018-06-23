@@ -14,7 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-* Review the newly exposed GLSL hooks in VTK as a mechanism to add features to Slicer's Volume Rendering
+* Review the newly exposed GLSL hooks in VTK as a mechanism to add features to Slicer's Volume Rendering 
 * Possible features to explore
 ** Optimized performance/quality for multiple overlapping volumes
 ** Custom clipping or other rendering features
@@ -26,8 +26,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 ** New VTK version and classes
 ** New Slicer GUI
 ** Other GLSL examples that we can draw from
-*** IBIS / PRISM
+*** IBIS / PRISM : replicate the examples presented in the paper using the improved VTK mapper.
 *** STEP
+* Document existing functionality in the VTK wiki on [this page](https://www.vtk.org/Wiki/VTK/ProgrammableMultiVolumeRendering) and identify potential builtin variables and functions that could be added to facilitate the creation of new volumetric effects.
 
 ## Progress and Next Steps
 
