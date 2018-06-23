@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# 4D MRI via retrospectiv stacking of 2D Slices R
+# 4D MRI via retrospectiv stacking of 2D Slices
 
 ## Key Investigators
 
