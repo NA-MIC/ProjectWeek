@@ -43,3 +43,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - [PRISM Paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193636)
 - [STEP multivolume deformable rendering (in WebGL)](https://www.youtube.com/watch?v=8dputUoKBTA)
+- [Mulitple volume rendering in Slicer 3.6](https://www.slicer.org/wiki/Modules:VolumeRendering-Documentation-3.6)
