@@ -60,7 +60,7 @@ To receive information about this and future events please join the [Project Wee
 - Conference call notes: To access these, click [here](PreparatoryMeetingsNotes.md).
 
 ## Program
-<iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Europe%2FMadrid&dates=20180625%2F20180629&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic%2FCanary&dates=20180625%2F20180629&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 How to add this calendar to your own?
 
 ## Projects [(How to add a new project?)](Projects/README.md)
