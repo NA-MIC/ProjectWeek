@@ -85,7 +85,7 @@ How to add this calendar to your own?
 1. [SlicerCIP Quantitative Reports Tool](Projects/SlicerCIPQuantitativeReportsTool/README.md) (Pietro Nardelli, Jorge Onieva Onieva, Raúl San José Estépar)
 1. [Custom GUI for an US simulator training system](Projects/CustomGUIForUSSimulator/Readme.md) (José Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola)
 1. [4D MRI via retrospectiv stacking of 2D Slices](Projects/4D_MRI_via_retrospectiv_stacking/README.md)(Gino Gulamhussene, Marko Rak)
-1. [Evaluation of projects: simulator of bone sliding, augmented reality system to be used in surgeries, software for orthognaticplanning that can be friendly used by a maxilofacial surgeons](Projects/EvaluationOfProjects/README.md)(Donato Monopoli, Javier González, Juan Ruiz-Alzola)
+1. [Evaluation of projects: simulator of bone sliding, augmented reality system to be used in surgeries, software for orthognatic planning](Projects/EvaluationOfProjects/README.md) (Donato Monopoli, Javier González, Juan Ruiz-Alzola)
 
 
 ## Registrants
