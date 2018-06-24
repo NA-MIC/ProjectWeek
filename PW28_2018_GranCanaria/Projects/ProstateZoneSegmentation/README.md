@@ -29,6 +29,11 @@ This has the potential to automate and better standardize prostate lesion locati
 ...
 
 # Illustrations
+![Segmentation Example. Left: automatic, center: manual segmentation](example1.PNG)
+
+![Segmentation Example 2](example2.PNG)
+
+![Segmentation Example 3](example3.PNG)
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
