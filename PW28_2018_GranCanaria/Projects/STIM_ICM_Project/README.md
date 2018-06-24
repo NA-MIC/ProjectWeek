@@ -1,7 +1,7 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
 # Write full project title here
-
+Stereotactic tools for DBS and intraEEG exploration procedures
 ## Key Investigators
 
 - Sara Fdez Vidal (ICM)
@@ -14,9 +14,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-1. Objective A. Describe it in 1-2 sentences.
-1. Objective B. Describe it in 1-2 sentences.
-1. Objective C. Describe it in 1-2 sentences.
+1. Epi-Plan Slicer Plug-in. Describe it in 1-2 sentences.
+2. PyDBS PostOperative Repport Plug-in . Describe it in 1-2 sentences.
+3. MrTrix Traking On PyDBS Plug-ins. Describe it in 1-2 sentences.
 
 ## Approach and Plan
 
