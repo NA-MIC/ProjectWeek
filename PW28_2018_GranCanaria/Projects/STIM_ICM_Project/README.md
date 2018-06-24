@@ -1,7 +1,7 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
-Stereotactic tools for DBS and intraEEG exploration procedures
+# Stereotactic tools for DBS and intraEEG exploration procedures
+
 ## Key Investigators
 
 - Sara Fdez Vidal (ICM)
@@ -10,7 +10,7 @@ Stereotactic tools for DBS and intraEEG exploration procedures
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+<!-- toto . -->
 
 ## Objective
 
