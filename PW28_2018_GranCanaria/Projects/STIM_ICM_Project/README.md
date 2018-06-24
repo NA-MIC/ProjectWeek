@@ -14,9 +14,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-1. Epi-Plan Slicer Plug-in. Describe it in 1-2 sentences.
-2. PyDBS PostOperative Repport Plug-in . Describe it in 1-2 sentences.
-3. MrTrix Tracking on PyDBS. Describe it in 1-2 sentences.
+1. PyDBS PostOperative Report Plug-in. The main use of pyDBS is to localize the electrodes implanted in some regions of the Basal Ganglia, to tune the stimulation with regard to the surounded anatomy. We process a big amount of data coming from multicentric research projects and for clinicians. We provide to our user a quantitative and qualitative report but also a visual report for each subject processed, with some almost-standar views. 
+2. Epi-Plan slicer Plug-in. We have developed a prototype to help the neurologists and anatomists of our center to plan the surgical procedure to perform intracranial EEG exploration of certain epileptic patients. We want to enhance the plug-in by adding new features and making the graphical interface and user interface interactions more robust
+3. MrTrix Tracking on PyDBS. 
 
 ## Approach and Plan
 
