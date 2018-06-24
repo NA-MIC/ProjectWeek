@@ -16,6 +16,7 @@ planning that can be friendly used by a maxilofacial surgeons.
 
 The Canary Islands Institute of Technology [ITC](http://www.itccanarias.org/web/) is an applied research Institute belonging to
 the Regional Government of Canary Islands (Spain). The ITC is active in different research fields. The Biomedical Engineering Department (BED) represents a spike of excellence in bone loss reconstruction and regeneration. 
+
 During this workshop we plan to work with the GTMA group and explore the possibilities of 3DSlicer and its evironment to plan how we could develop some joint project.
 Proposals:
 A simulator of bone sliding on their articular surfaces with registration of bone volumes that produce impingement and reduce range of movement.
