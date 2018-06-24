@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Evaluation of a Software simulator of bone sliding
+# Evaluation of proposed projects
 
 ## Key Investigators
 
