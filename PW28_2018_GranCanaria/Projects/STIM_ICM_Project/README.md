@@ -16,7 +16,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 1. Epi-Plan Slicer Plug-in. Describe it in 1-2 sentences.
 2. PyDBS PostOperative Repport Plug-in . Describe it in 1-2 sentences.
-3. MrTrix Traking On PyDBS Plug-ins. Describe it in 1-2 sentences.
+3. MrTrix Tracking on PyDBS. Describe it in 1-2 sentences.
 
 ## Approach and Plan
 
