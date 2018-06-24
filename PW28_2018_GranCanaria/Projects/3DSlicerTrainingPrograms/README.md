@@ -57,11 +57,11 @@ February - March training sessions.
 
 Mauritania training sessions.
 
-<img src="MWorkshop_2018.jpg" width="250" height="80">
+<img src="MWorkshop_2018.jpg" width="350" height="250">
 
 Senegal training sessions.
 
-<img src="SWorkshop_2018.jpg" width="500" height="167">
+<img src="SWorkshop_2018.jpg" width="500" height="250">
 
 ## Background and References
 
