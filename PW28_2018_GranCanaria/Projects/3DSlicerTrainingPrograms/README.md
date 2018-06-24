@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# 3DSlicer Training programs
+# 3DSlicer Training programs. Slicer Ecosystems Education for Newcomers & Developing Countries.
 
 ## Key Investigators
 
