@@ -53,15 +53,15 @@ as collaboation in other research projects.
 
 February - March training sessions.
 
-<img src="Chest.png" width="500" height="167">
+<img src="LPAWorkshop2018.jpg" width="1200" height="100">
 
 Mauritania training sessions.
 
-<img src="Chest.png" width="500" height="167">
+<img src="MWorkshop_2018.jpg" width="250" height="80">
 
 Senegal training sessions.
 
-<img src="Chest.png" width="500" height="167">
+<img src="SWorkshop_2018.jpg" width="500" height="167">
 
 ## Background and References
 
