@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Gino Gulamhussene (University of Magdeburg)
 - Marko Rak (University of Magdeburg)
+- Christian Hansen (University of Magdeburg)
 
 # Project Description
 Creating a program to generate 4D MRI sequences applying the retrospectiv stacking method on 2D MR slices. 
@@ -42,8 +43,8 @@ Thus we find all corresponding data slices giving the 3D liver at the specific b
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-![Data aquisition](dataAquisition.PNG)
-![Data Sorting](dataSorting.PNG)
+![Data aquisition](./dataAquisition.PNG)
+![Data Sorting](./dataSorting.PNG)
 
 
 # Background and References
