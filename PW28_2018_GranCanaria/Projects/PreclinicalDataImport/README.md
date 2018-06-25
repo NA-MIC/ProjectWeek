@@ -40,7 +40,3 @@ Link to MRI data:
 https://www.dropbox.com/sh/aq3wwrazh42vafo/AADk_lUdfri6FDMcRxNixtI7a?dl=0
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
-
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
