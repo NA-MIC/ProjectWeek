@@ -21,6 +21,11 @@ Chest Imaging Platform migration to Python 3.
 1. Slicer nightly/last release compatibility of the new release
 1. Migrate the whole platform to Python 3 and check for tests issues
 
+# Illustrations
+
+<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+
+![Lung segmentation + DFV](CIPSS.png)
 
 ## Approach and Plan
 
