@@ -12,6 +12,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 The goal of this project is to create a new tool for SlicerCIP that allows the creation of a PDF report to summarize and illustrate quantitive analysis.
 
+SlicerCIP is an extension to Slicer that integrates:
+
+- CIP functionality as a Toolkit exposing of the CLIs.
+- Slicer specific modules to provide user-friendly chest CT quantitative solutions.
+- Visualization of scale-space particles and labelmaps
+- Integrated workflows to end-to-end clinical evaluation
+
+Slicer CIP has been conceived as a workstation for radiologists, but is also suitable for any kind of researchers working on lung, heart or vascular diseases.
+
 ## Objective
 
 1. Extend and generalize last year report tool to be used in all SlicerCIP modules. 
@@ -39,3 +48,4 @@ The goal of this project is to create a new tool for SlicerCIP that allows the c
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 - Source code: https://github.com/acil-bwh/SlicerCIP
+- Artery-Vein Classification using Deep-Learning: Nardelli P, Jimenez-Carretero D, Bermejo-Pelaez D, Washko GR, Rahaghi FN, Ledesma-Carbayo MJ, Estépar RS. Pulmonary Artery-Vein Classification in CT Images Using Deep Learning. IEEE Transactions on Medical Imaging.
