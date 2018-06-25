@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-Longitudinal analysis of white matter connectivity changes prompted by concussions 
+### Longitudinal analysis of white matter connectivity changes prompted by concussions 
 
 ## Key Investigators
 
