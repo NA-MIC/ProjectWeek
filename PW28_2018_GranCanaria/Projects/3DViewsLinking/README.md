@@ -37,6 +37,8 @@ The 3D view controller widget should have GUI for synchronizing the following pr
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
+![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/3Dviewlinking.png)
+
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
