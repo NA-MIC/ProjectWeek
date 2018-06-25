@@ -38,7 +38,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Illustrations
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-![jolley-us](matt-jolley-us.png)
+Philips 3D US             |  Chroma-depth in PRISM
+:-------------------------:|:-------------------------:
+![jolley-us](matt-jolley-us.png) | ![chroma-depth](chroma-depth-crop.png)
+Depth peeling in PRISM | Edge enhancement in PRISM
+![](depth-peeling-crop.png) | ![](edge-and-shading.png)
+Decluttering in PRISM | Volume carving in PRISM
+![](decluttered-crop.png) | ![](volume-carving-crop.png)
+Blood flow animation in PRISM | 
+![](flow-illustration-crop.png) | 
 
 # Background and References
 
