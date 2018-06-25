@@ -99,6 +99,7 @@ New Applications and Customizations of 3D Slicer
 1. [3DSlicer models for serious games](Projects/3DSlicerModelsForSeriousGames/README.md) (Sergi Bermudez i Badia, Yuri Almedia, Artemisa Moreno, Abián Hernández, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 1. [Implementing 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of broad metabolite spectrum in 3D Slicer](Projects/Implementing1HTimeResolvedFunctionalMagneticResonanceSpectroscopy/README.md) (Francisco-José Marcano-Serrano, José Luis González Mora, Juan Ruiz-Alzola)
 1. [4D MRI via retrospectiv stacking of 2D Slices](Projects/4D_MRI_via_retrospectiv_stacking/README.md)(Gino Gulamhussene, Marko Rak)
+1. [Documenting Slicer using readthedocs](Projects/DocumentingSlicerUsingReadTheDocs/README.md) (Jean-Christophe Fillion-Robin, Andras Lasso)
 
 
 ## Registrants
