@@ -53,6 +53,6 @@ Complement waveform parameters (motion, acceleration, k0 nulling with maxwell te
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
+- Source code analysis: https://github.com/filip-szczepankiewicz/md-dmri
+- Source code wavefrom optimization: https://github.com/filip-szczepankiewicz/NOW
+- Source code transform: https://github.com/ihnorton/mdmr_vec_block
