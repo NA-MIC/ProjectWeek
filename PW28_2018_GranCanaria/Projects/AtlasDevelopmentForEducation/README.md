@@ -52,15 +52,15 @@ Male pelvis segmentation made in 3D Slicer
 
 Lung - tuberculosis disease.
 
-<img src="Tuberculosis-x-ray.jpg" width="130" height="100">
+<img src="Tuberculosis-x-ray.jpg" width="80%">
 
 Anatomical Atlas - Open Anatomy Browser.
 
-<img src="oabrowser.jpg" width="300" height="170">
+<img src="oabrowser.jpg" width="80%">
 
 Web tool for assembling Anatomical Atlas
 
-<img src="tool.jpg" width="300" height="170">
+<img src="tool.jpg" width="80%">
 
 ## Background and References
 
