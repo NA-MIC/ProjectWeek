@@ -31,15 +31,13 @@ To improve and update the Slicer plug-ins we have developped for pyDBS and EpiLO
 
 PyDBS Intra Operative plug-in.
 
-<img src="pydbs-Ima2.png"  height="180">
+<img src="pydbs-Ima2.png"  height="230">
 
 Epiloc PostOperative Visualization plug-in.
 
-<img src="Epiloc-ima-1" width="130" height="100">
+<img src="Epiloc-ima-1.png" height="230">
 
-Anatomical Atlas - Open Anatomy Browser.
 
-<img src="oabrowser.jpg" width="300" height="170">
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
