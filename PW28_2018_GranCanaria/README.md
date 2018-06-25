@@ -83,6 +83,9 @@ Visualization and Interoperability
 1. Conversion of Matlab Bridge modules to integrated 3DSlicer modules (Sharon Peled, Andras Lasso)
 
 Application to Large Studies in Chest, Brain
+1. [SlicerCIP Quantitative Reports Tool](Projects/SlicerCIPQuantitativeReportsTool/README.md) (Pietro Nardelli, Jorge Onieva Onieva, Raúl San José Estépar)
+1. Longitudinal analysis of white matter connectivity changes prompted by concussions (Andrei Irimia, Lauren O'Donnell)
+1. [Stereotaxy PYDBS and EPILOC Toolboxes](Projects/STIM_ICM_Project/README.md) (Sara Fernandez Vidal, Jordan Cornillaut and Eric Bardinet)
 
 New Uses of 3D Slicer
 
@@ -90,9 +93,6 @@ New Uses of 3D Slicer
 1. [Medical Infrared Imaging with Slicer](Projects/MedicalInfraredImagingWithSlicer/README.md) (Yolanda Martin-Hernando, Abián Hernández, Jorge Quintero Nehrkorn, Enrique Villa, José-Carlos Ruiz-Luque, Natalia Arteaga-Marrero, Juan Ruiz-Alzola)
 1. [3DSlicer models for serious games](Projects/3DSlicerModelsForSeriousGames/README.md) (Sergi Bermudez i Badia, Yuri Almedia, Artemisa Moreno, Abián Hernández, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 1. [Implementing 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of broad metabolite spectrum in 3D Slicer](Projects/Implementing1HTimeResolvedFunctionalMagneticResonanceSpectroscopy/README.md) (Francisco-José Marcano-Serrano, José Luis González Mora, Juan Ruiz-Alzola)
-1. Longitudinal analysis of white matter connectivity changes prompted by concussions (Andrei Irimia, Lauren O'Donnell)
-1. [Stereotaxy PYDBS and EPILOC Toolboxes](Projects/STIM_ICM_Project/README.md) (Sara Fernandez Vidal, Jordan Cornillaut and Eric Bardinet)
-1. [SlicerCIP Quantitative Reports Tool](Projects/SlicerCIPQuantitativeReportsTool/README.md) (Pietro Nardelli, Jorge Onieva Onieva, Raúl San José Estépar)
 1. [Custom GUI for an US simulator training system](Projects/CustomGUIForUSSimulator/Readme.md) (José Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola)
 1. [4D MRI via retrospectiv stacking of 2D Slices](Projects/4D_MRI_via_retrospectiv_stacking/README.md)(Gino Gulamhussene, Marko Rak)
 1. [Evaluation of projects: simulator of bone sliding, augmented reality system to be used in surgeries, software for orthognatic planning](Projects/EvaluationOfProjects/README.md) (Donato Monopoli, Javier González, Juan Ruiz-Alzola)
