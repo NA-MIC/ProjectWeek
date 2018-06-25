@@ -22,7 +22,7 @@ Proposals:
 
   <img src="project01.png" width="600" height="220">
 
-+ Augmented reality for patient-specific implant surgery. AR - or VR - to quickly inspect a patient's CT or MRI scan, and confirm the right placement of implants in the course of surgery. It must provide an intuitive way to navigate a 3D model of both the patient's anatomy and implant, and it must be a setup that surgeons can bring into the operating theatre and be quicker to operate than existing commercial navigation systems. To be used in some very difficult custom made surgeries like vertebral body en-block resection with emphasis in sacrum replacement, acetabular reconstruction or some maxillofacial difficult surgeries.
++ Augmented reality for patient-specific implant surgery. AR - or VR - to quickly inspect a patient's CT or MRI scan, and confirm the right placement of implants in the course of surgery. It must provide an intuitive way to navigate a 3D model of both the patient's anatomy and implant, and it must be a setup that surgeons can bring into the operating theatre and must be faster to operate than existing commercial navigation systems. To be used in some very difficult custom made surgeries like vertebral body en-block resection with emphasis in sacrum replacement, acetabular reconstruction or some maxillofacial difficult surgeries.
 
   <img src="project02.png" width="600" height="220">
 
@@ -42,6 +42,9 @@ Proposals:
 2.2. Review 3DSlicers' support for AR and VR headsets in the market.
 
 ## Progress and Next Steps
+
+The project is in its incipient stages
+▓░░░░░░░░░░░░░░ 4%
 
 ## Illustrations
 
