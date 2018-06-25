@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Slicer documentation on ReadTheDocs
 
 ## Key Investigators
 
