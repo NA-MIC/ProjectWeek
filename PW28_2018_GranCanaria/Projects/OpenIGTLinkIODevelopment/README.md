@@ -34,8 +34,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 * Complete and improve refactoring of command messages.
 * Embed information about images in the image message itself (currently sent as string messages to CustusX, see [PlusDeviceSet_Server_BkProFocusOem.xml](https://github.com/PlusToolkit/PlusLibData/blob/d2dcc2d2b8ad84eea14bd6147dcf289da1e4f405/ConfigFiles/PlusDeviceSet_Server_BkProFocusOem.xml) ) 
-* Fix limited length device names (potential solution: troncate long names and put complete name in meta-data)
-* Add possibility to use external video compression codecs in OpenIGTLinkIO even if they are not supported by OpenIGTLink (Longquan)
+* Fix limited length device names. Troncate long names and put complete name in meta-data.
 * Create a command-line example in OpenIGTLinkIO that implements a simple but complete tracked US session:
   * launch a PlusServer with a config that simulates US and includes tracking data
   * Connect to the server
@@ -50,6 +49,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+## Future work
+* Define a standard for Plus to timestamp every data item send it in the metadata.
 
 # Illustrations
 
