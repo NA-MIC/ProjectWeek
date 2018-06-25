@@ -22,12 +22,12 @@ In doing so, we also need to store new kinds of experimental information to supp
 ## Objective
 
 1. Incorporate array-to-character conversion in pulse sequence (Prepared by IN)
-2. Subsample/rotate waveform and store in the WIP memory block
-3. Complete waveform parameterization (moments, concomitant fields, etc)
-4. Validate sequence functionallity in simulator
-5. Validate sequence functionallity on hardware (Boston)
-6. Write Matlab script to extract and validate waveform from DICOM header
-7. Validate waveform integrity (Boston)
+1. Subsample/rotate waveform and store in the WIP memory block
+1. Complete waveform parameterization (moments, concomitant fields, etc)
+1. Validate sequence functionallity in simulator
+1. Validate sequence functionallity on hardware (Boston)
+1. Write Matlab script to extract and validate waveform from DICOM header
+1. Validate waveform integrity (Boston)
 
 ## Approach and Plan
 
