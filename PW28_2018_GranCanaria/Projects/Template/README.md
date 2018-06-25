@@ -14,7 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). You'll write about HOW to achieve it in the "Approach and Plan" section. -->
+<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
 1. Objective B. ...
@@ -38,11 +38,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-
-<!--![Description of picture](Example2.jpg)-->
-
-<!--![Some more images](Example2.jpg)-->
+<!-- Add pictures and links to videos that demonstrate what has been accomplished.
+![Description of picture](Example2.jpg)
+![Some more images](Example2.jpg)
+-->
 
 # Background and References
 
