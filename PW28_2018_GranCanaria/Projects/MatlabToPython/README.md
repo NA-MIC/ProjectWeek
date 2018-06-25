@@ -38,6 +38,16 @@ Investigate freeware to convert Matlab code to Python. Document a pipeline for i
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 - Slicer programming tutorial: https://www.slicer.org/wiki/Documentation/Nightly/Training#Slicer4_Programming_Tutorial
+- Possible Matlab to Python converters:
+https://github.com/victorlei/smop
+http://ompc.juricap.com/
+https://github.com/awesomebytes/libermate
+
+- Learning Python for Matlab Users:
+https://bastibe.de/2013-01-20-a-python-primer-for-matlab-users.html
+https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html
+<!--
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
+-->
