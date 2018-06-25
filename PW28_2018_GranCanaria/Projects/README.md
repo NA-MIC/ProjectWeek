@@ -16,5 +16,4 @@ and copying contents of [project description template][project-description-templ
 Note: some steps above may require creating a [pull request](https://help.github.com/articles/creating-a-pull-request/) until your account is given write access.
 
 [forum]: https://github.com/orgs/NA-MIC/teams/pw28/discussions
-[project-description-template]: https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/Template/README.md
-
+[project-description-template]: https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW28_2018_GranCanaria/Projects/Template/README.md
