@@ -89,7 +89,7 @@ Application to Large Studies in Chest, Brain
 1. [Longitudinal analysis of white matter connectivity changes prompted by concussions](Projects/TBI/README.md) (Andrei Irimia, Lauren O'Donnell)
 1. [Stereotaxy PYDBS and EPILOC Toolboxes](Projects/STIM_ICM_Project/README.md) (Sara Fernandez Vidal, Jordan Cornillaut and Eric Bardinet)
 
-New Uses of 3D Slicer
+New Applications and Customizations of 3D Slicer
 
 1. [Evaluation of projects: simulator of bone sliding, augmented reality system to be used in surgeries, software for orthognatic planning](Projects/EvaluationOfProjects/README.md) (Donato Monopoli, Javier González, Juan Ruiz-Alzola)
 1. [Slicer Ecosystems Education for Newcomers & Developing Countries](Projects/3DSlicerTrainingPrograms/README.md) (GTMA Group, Juan Ruiz-Alzola)
