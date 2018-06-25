@@ -15,17 +15,19 @@ Ultimately, all modules would have their documentation managed along side the Sl
 
 ## Objective
 
-1. Finalize migration of Slicer user documentation from the wiki to ReadTheDocs. See https://github.com/Slicer/Slicer/pull/686 and http://slicer.readthedocs.io
-2. Document process to install Qt5 and build Slicer using it
-2. Discuss and work on migration of developer documentation.
-3. Setup documentation of [KitwareMedical/SlicerCustomAppTemplate](https://github.com/KitwareMedical/SlicerCustomAppTemplate) on readthedocs
-4. Create `sphinx-cmake` python package. A sphinx documentation framework plugin enabling project to easily document their build system. 
+1. Streamline maintenance of Slicer user and developer documentation
+1. Ensure Slicer documentation updates are reviewed along side feature integration
+1. Document [KitwareMedical/SlicerCustomAppTemplate](https://github.com/KitwareMedical/SlicerCustomAppTemplate)
 
 <!-- Add a short paragraph describing the project. -->
 
 ## Approach and Plan
 
-1. Review, discuss and implement proposed objectives
+1. Finalize migration of Slicer user documentation from the wiki to ReadTheDocs. See https://github.com/Slicer/Slicer/pull/686 and http://slicer.readthedocs.io
+2. Document process to install Qt5 and build Slicer using it
+2. Discuss and work on migration of developer documentation.
+3. Setup documentation of [KitwareMedical/SlicerCustomAppTemplate](https://github.com/KitwareMedical/SlicerCustomAppTemplate) on readthedocs
+4. Create `sphinx-cmake` python package. A sphinx documentation framework plugin enabling project to easily document their build system. 
 
 ## Progress and Next Steps
 
