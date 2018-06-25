@@ -19,14 +19,14 @@ It is also encouraged to implement secure communication routines to interact wit
 ## Objectives
 
 1. Define scope for module implementation.
-1. Study the possibiity of integration with previous spectroscopy slicer modules (SIVIC).
+1. Study the possibility of integration with previous spectroscopy slicer modules (SIVIC).
 1. Enhance signal quality of selected MRSI dataset reducing physiological artifacts and noise using the BSS approach.
 1. Study the implementation of a mechanism for data exchanging between BSS/time-resolve module and quantification service located in an external server.
 
 
 ## Approach and Plan
 
-1. Study the possibilities of 3DSlicer to implement the algorithms.
+1. Study the possibilities of 3DSlicer for implementing the algorithms.
 
 
 ## Progress and Next Steps
