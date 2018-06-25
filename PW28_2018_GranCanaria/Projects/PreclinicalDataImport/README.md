@@ -37,6 +37,5 @@ Correct Slicer dynamic MRI DICOM frame data and DTI gradient data loading for Br
 
 # Background and References
 Link to MRI data:
-https://www.dropbox.com/sh/aq3wwrazh42vafo/AADk_lUdfri6FDMcRxNixtI7a?dl=0
-
+https://www.dropbox.com/sh/0ijt66kej9y7uo5/AADUwatia0cI60SftswEq0O6a?dl=0
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
