@@ -35,7 +35,7 @@ PyDBS Intra Operative plug-in.
 
 Epiloc PostOperative Visualization plug-in.
 
-<img src="epiloc-ima-1" width="130" height="100">
+<img src="Epiloc-ima-1" width="130" height="100">
 
 Anatomical Atlas - Open Anatomy Browser.
 
