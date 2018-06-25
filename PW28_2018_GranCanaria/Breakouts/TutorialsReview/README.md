@@ -45,6 +45,7 @@
  * Should there be features built into Slicer to improve tutorials
    * Extend ScreenCapture to record clips from GUI?
    * Make it easy to paste or commit to repository <-- We should do this!
+   * Would need to be able to crop and add/delete gifs
  * No need to request permission to contribute (while still controlling for spam)
  * Make sure people learn about new material
    * discourse, WeChat, youtube channel, twitter?
