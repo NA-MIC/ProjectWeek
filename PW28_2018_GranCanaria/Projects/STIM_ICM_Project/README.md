@@ -31,7 +31,7 @@ To improve and update the Slicer plug-ins we have developped for pyDBS and EpiLO
 
 PyDBS Intra Operative plug-in.
 
-<img src="pydbs-ima-2.png"  height="180">
+<img src="pydbs-Ima2.png"  height="180">
 
 Epiloc PostOperative Visualization plug-in.
 
