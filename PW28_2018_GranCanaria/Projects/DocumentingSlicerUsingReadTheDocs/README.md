@@ -9,13 +9,16 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-We will continue work initiated during the [27th Project Week](https://github.com/NA-MIC/ProjectWeek/tree/master/PW27_2018_Boston/Projects/SlicerReadTheDocs)
+We will continue the work initiated during the [27th Project Week](https://github.com/NA-MIC/ProjectWeek/tree/master/PW27_2018_Boston/Projects/SlicerReadTheDocs).
+
+Ultimately, all modules would have their documentation managed along side the Slicer source code. For example, see [Segment Editor](http://slicer.readthedocs.io/en/latest/user_guide/module_segmenteditor.html) documentation.
 
 ## Objective
 
 1. Finalize migration of Slicer user documentation from the wiki to ReadTheDocs. See https://github.com/Slicer/Slicer/pull/686 and http://slicer.readthedocs.io
 2. Discuss and work on migration of developer documentation.
 3. Setup documentation of [KitwareMedical/SlicerCustomAppTemplate](https://github.com/KitwareMedical/SlicerCustomAppTemplate) on readthedocs
+4. Create `sphinx-cmake` python package. A sphinx documentation framework plugin enabling project to easily document their build system. 
 
 <!-- Add a short paragraph describing the project. -->
 
