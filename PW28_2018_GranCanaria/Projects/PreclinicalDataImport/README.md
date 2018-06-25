@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Improve multivolume preclinical MRI data import (DCE, DTI). 
+# Improve/Test multivolume preclinical MRI data import (DCE, DTI, ASL, T1 mapping). 
 
 ## Key Investigators
 
@@ -21,8 +21,10 @@ Correct Slicer dynamic MRI DICOM frame data and DTI gradient data loading for Br
 ## Approach and Plan
 
 1. Collect examples of preclinical data.
-1. The first correction for DCE is to make sure the frame time in DCE MRI is not merely copied from the 'RepetitionTime' field in the DICOM files. Instead, this should be multiplied by the number of phase encoding steps. Implement a Matlab Bridge module that correctly loads the multiframe Bruker DCE data.
-1. Identify the Slicer format of DTI data. Then, implement a Matlab Bridge module to load Bruker DTI DICOM data, with the correct gradient information.
+1. The first correction for DCE is to make sure the frame time in DCE MRI is not merely copied from the 'RepetitionTime' field in the DICOM files. Instead, this should be multiplied by the number of phase encoding steps. 
+1. Identify the Slicer format of DTI data.
+1. Implement a Matlab Bridge module "LoadBruker" that correctly loads all the various Bruker data sets: DCE, ASL, T1 mapping, DTI (with the correct gradient directions).
+1. Convert the Matlab Bridge module to Python/Slicer.
 
 ## Progress and Next Steps
 
