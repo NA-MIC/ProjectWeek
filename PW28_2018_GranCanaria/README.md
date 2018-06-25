@@ -74,22 +74,22 @@ Segmentation
 1. Multi-Label segmentation of anatomic prostate zones in MRI (Anneke Meyer, Marko Rak, Christian Hansen)
 
 Visualization and Interoperability
+1. [Programmable Multi Volume Rendering in Slicer](Projects/MultiVolumeRendering/README.md) (Simon Drouin, Csaba Pinter, Steve Pieper, Jean-Christophe Fillion-Robin)
+1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Simon Drouin, Csaba Pinter, Andras Lasso, Ole Vegard Solberg, Geir Arne Tangen)
+1. [Add 3D views linking capabilities](Projects/3DViewsLinking/README.md) (Davide Punzo, Andras Lasso, Steve Pieper, Jean-Christophe Fillion-Robin, Simon Drouin)
+1. [Integration of OHIFViewer with Siemens teamplay using secure DICOMweb](Projects/DICOMweb/README.md) (Michael Kelm, Steve Pieper, Erik Ziegler, Marco Nolden, Jonas Scherer, Tina Kapur)
+1. [Raw Image Read and Display](Projects/RawImageGuess/README.md) (Attila Nagy, Csaba Pinter) 
+1. Improve multivolume preclinical data import for MRI, PET (Sharon Peled, Andras Lasso)
+1. Conversion of Matlab Bridge modules to integrated 3DSlicer modules (Sharon Peled, Andras Lasso)
 
 Application to Large Studies in Chest, Brain
 
 New Uses of 3D Slicer
 
-1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Simon Drouin, Csaba Pinter, Andras Lasso, Ole Vegard Solberg, Geir Arne Tangen)
-1. [Programmable Multi Volume Rendering in Slicer](Projects/MultiVolumeRendering/README.md) (Simon Drouin, Csaba Pinter, Steve Pieper, Jean-Christophe Fillion-Robin)
-1. [Raw Image Read and Display](Projects/RawImageGuess/README.md) (Attila Nagy, Csaba Pinter) 
 1. [Atlas development for education](Projects/AtlasDevelopmentForEducation/README.md) (Babacar Diao, Ahmedou Moulaye Idriss, Mohamed Septy, Alexandra Fernandes Rodrigues, Cheick Tidiane, Nayra Pumar, Xerach Suárez, Juan Ruiz-Alzola)
 1. [Medical Infrared Imaging with Slicer](Projects/MedicalInfraredImagingWithSlicer/README.md) (Yolanda Martin-Hernando, Abián Hernández, Jorge Quintero Nehrkorn, Enrique Villa, José-Carlos Ruiz-Luque, Natalia Arteaga-Marrero, Juan Ruiz-Alzola)
 1. [3DSlicer models for serious games](Projects/3DSlicerModelsForSeriousGames/README.md) (Sergi Bermudez i Badia, Yuri Almedia, Artemisa Moreno, Abián Hernández, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 1. [Implementing 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of broad metabolite spectrum in 3D Slicer](Projects/Implementing1HTimeResolvedFunctionalMagneticResonanceSpectroscopy/README.md) (Francisco-José Marcano-Serrano, José Luis González Mora, Juan Ruiz-Alzola)
-1. [Add 3D views linking capabilities](Projects/3DViewsLinking/README.md) (Davide Punzo, Andras Lasso, Steve Pieper, Jean-Christophe Fillion-Robin, Simon Drouin)
-1. [Integration of OHIFViewer with Siemens teamplay using secure DICOMweb](Projects/DICOMweb/README.md) (Michael Kelm, Steve Pieper, Erik Ziegler, Marco Nolden, Jonas Scherer, Tina Kapur)
-1. Improve multivolume preclinical data import for MRI, PET. (Sharon Peled, Andras Lasso, ?).
-1. Conversion of Matlab Bridge modules to integrated 3DSlicer modules (Sharon Peled, Andras Lasso, ?).
 1. Longitudinal analysis of white matter connectivity changes prompted by concussions (Andrei Irimia, Lauren O'Donnell)
 1. [Stereotaxy PYDBS and EPILOC Toolboxes](Projects/STIM_ICM_Project/README.md) (Sara Fernandez Vidal, Jordan Cornillaut and Eric Bardinet)
 1. [SlicerCIP Quantitative Reports Tool](Projects/SlicerCIPQuantitativeReportsTool/README.md) (Pietro Nardelli, Jorge Onieva Onieva, Raúl San José Estépar)
