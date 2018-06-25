@@ -45,9 +45,9 @@ Complement waveform parameters (motion, acceleration, k0 nulling with maxwell te
 
 # Illustrations
 
-![Example waveform that compares a conventional Stejskal-Tanner experiment (gray) to freely modulated gradient waveforms that produce spherical tensor encoding.](seq.tif)
+![Example waveform that compares a conventional Stejskal-Tanner experiment (gray) to freely modulated gradient waveforms that produce spherical tensor encoding.](seq.png)
 
-![Parameters supported by tensor-valued diffusion encoding at multiple MRI systems](pars.tif)
+![Parameters supported by tensor-valued diffusion encoding at multiple MRI systems](pars.png)
 
 # Background and References
 
