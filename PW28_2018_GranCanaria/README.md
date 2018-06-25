@@ -1,4 +1,4 @@
-![PW28](PW28-500px.png)
+﻿![PW28](PW28-500px.png)
 ## Welcome to the web page for the 28th Project Week!
 The 28th NA-MIC Project Week will be held during the week of June 25-29, 2018 at [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es/).
 
@@ -101,6 +101,9 @@ New Applications and Customizations of 3D Slicer
 1. [4D MRI via retrospectiv stacking of 2D Slices](Projects/4D_MRI_via_retrospectiv_stacking/README.md)(Gino Gulamhussene, Marko Rak)
 1. [Documenting Slicer using readthedocs](Projects/DocumentingSlicerUsingReadTheDocs/README.md) (Jean-Christophe Fillion-Robin, Andras Lasso)
 
+Other
+
+1. [Integrating Free WaveForm sequence with DICOM](Projects/FWFintegration/README.md) (F. Szczepankiewicz, C-F. Westin)
 
 ## Registrants
 
