@@ -18,6 +18,11 @@ Two use cases: lung segmentation and pectoralise segmentation
 1. Integrate all the needed infrastructure components and required external libraries: Keras + tensorflow, etc.
 1. Creation of CLIs as a use case
 
+# Illustrations
+
+<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+
+![Lung segmentation + DFV](fig_25038K.png)
 
 ## Progress and Next Steps
 
