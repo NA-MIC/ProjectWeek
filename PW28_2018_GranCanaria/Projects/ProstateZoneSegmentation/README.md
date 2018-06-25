@@ -38,5 +38,5 @@ The goal of this project is to evaluate and extend variants of a volumetric CNN 
 
 
 # Background and References
-- Our paper about prostate segmentation: http://isgwww.cs.uni-magdeburg.de/cas/pub/2018_Meyer_ISBI_multi_plane_prostate_segmentation.pdf
-- PiRADs v2: https://www.acr.org/-/media/ACR/Files/RADS/Pi-RADS/PIRADS-V2.pdf
+- Our paper about prostate segmentation: [http://isgwww.cs.uni-magdeburg.de/cas/pub/2018_Meyer_ISBI_multi_plane_prostate_segmentation.pdf](http://isgwww.cs.uni-magdeburg.de/cas/pub/2018_Meyer_ISBI_multi_plane_prostate_segmentation.pdf)
+- PiRADs v2: [https://www.acr.org/-/media/ACR/Files/RADS/Pi-RADS/PIRADS-V2.pdf](https://www.acr.org/-/media/ACR/Files/RADS/Pi-RADS/PIRADS-V2.pdf)
