@@ -43,7 +43,7 @@ Proposals:
 
 ## Progress and Next Steps
 
-The project is in its incipient stages
+The project is still in its incipient stages
 ▓░░░░░░░░░░░░░░ 4%
 
 ## Illustrations
