@@ -17,6 +17,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
+![OHIFViewer can currently serialize/deserialize to DICOM SR for length measurements with unsecured dcm4chee back end.](OHIF+SR.png)
+
+
 ## Objective
 
 * Explore DICOMweb integration with various infrastructures and programming environments
