@@ -80,7 +80,7 @@ Visualization and Interoperability
 1. [DICOMweb related projects: OHIFViewer, Siemens teamplay, ctkDICOMweb, using secure DICOMweb](Projects/DICOMweb/README.md) (Michael Kelm, Steve Pieper, Erik Ziegler, Marco Nolden, Jonas Scherer, Tina Kapur)
 1. [Raw Image Read and Display](Projects/RawImageGuess/README.md) (Attila Nagy, Csaba Pinter) 
 1. [Improve multivolume preclinical data import for MRI](Projects/PreclinicalDataImport/README.md) (Sharon Peled, Andras Lasso)
-1. [Conversion of Matlab Bridge modules to integrated 3DSlicer modules] (Sharon Peled, Andras Lasso)(Projects/MatlabToPython/README.md)
+1. [Conversion of Matlab Bridge modules to integrated 3DSlicer modules](Sharon Peled, Andras Lasso)(Projects/MatlabToPython/README.md)
 
 Application to Large Studies in Chest, Brain
 1. [SlicerCIP Quantitative Reports Tool](Projects/SlicerCIPQuantitativeReportsTool/README.md) (Pietro Nardelli, Jorge Onieva Onieva,Raúl San José Estépar)
