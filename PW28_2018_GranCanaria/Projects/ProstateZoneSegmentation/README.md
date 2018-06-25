@@ -4,15 +4,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Anneke Meyer
-- Marko Rak
-- Christian Hansen
+- Anneke Meyer (University of Magdeburg, Germany)
+- Marko Rak (University of Magdeburg, Germany)
+- Andrey Fedorov (BWH, HMS)
+- Christian Hansen (University of Magdeburg, Germany)
 
 # Project Description
 
-The goal of this project is to evaluate and extend variants of a volumetric CNN for multi-label segmentation of prostate zones in MR images. 
-We already have results, but especially in one zone, results are not stable. The prostate zones are essential for lesion classification and therapy planning. After successful segmentation, a sector map could be extracted that is used for PI-RADS reporting. 
-This has the potential to automate and better standardize prostate lesion location reporting.
+The goal of this project is to evaluate and extend variants of a volumetric CNN for multi-label segmentation of prostate zones in MR images. The prostate zones are essential for lesion classification and therapy planning. After successful segmentation, a sector map could be extracted that is used for PI-RADS reporting. This has the potential to automate and better standardize prostate lesion location reporting. This project is a continuation of the project that we started in last Winter Project Week. We already have results, but especially in one zone, the algorithm does not work very well and is not stable.
 
 ## Objective
 
@@ -22,7 +21,7 @@ This has the potential to automate and better standardize prostate lesion locati
 
 1. Extend data augmentation (translation and scaling). 
 1. Explore network extensions (deeper network, more filters).
-1. Add more regulatrizers and evaluate their effect on the outcome.
+1. Add more regulatrizers to prevent overfitting and evaluate their effect on the outcome.
 1. Initialize a new approach: Generative Adverserial Network? 
 
 ## Progress and Next Steps
@@ -39,4 +38,5 @@ This has the potential to automate and better standardize prostate lesion locati
 
 
 # Background and References
-
+Our paper about prostate segmentation: http://isgwww.cs.uni-magdeburg.de/cas/pub/2018_Meyer_ISBI_multi_plane_prostate_segmentation.pdf
+PiRADs v2: https://www.acr.org/-/media/ACR/Files/RADS/Pi-RADS/PIRADS-V2.pdf
