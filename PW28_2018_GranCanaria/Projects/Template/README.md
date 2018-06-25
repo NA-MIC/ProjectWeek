@@ -1,4 +1,4 @@
-Back to [Projects List](../../README.md#ProjectsList)
+3Back to [Projects List](../../README.md#ProjectsList)
 
 # Write full project title here
 
@@ -14,19 +14,27 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-1. Objective A. Describe it in 1-2 sentences.
-1. Objective B. Describe it in 1-2 sentences.
-1. Objective C. Describe it in 1-2 sentences.
+<!-- Describe here WHAT you would like to achieve (what you will have as end result). You'll write about HOW to achieve it in the "Approach and Plan" section. -->
+
+1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
+1. Objective B. ...
+1. Objective C. ...
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
+<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+
+1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
 1. ...
 1. ...
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+
+1. Describe specific steps you **have actually done**.
+1. ...
+1. ...
 
 # Illustrations
 
@@ -37,3 +45,5 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!--![Some more images](Example2.jpg)-->
 
 # Background and References
+
+<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
