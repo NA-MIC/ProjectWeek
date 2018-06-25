@@ -26,9 +26,11 @@ Back to [Projects List](../../README.md#ProjectsList)
   * New VTK version and classes
   * New Slicer GUI
   * Other GLSL examples that we can draw from
-    * IBIS / PRISM : replicate the examples presented in the paper using the improved VTK mapper.
+    * IBIS / PRISM
     * STEP
 * Document existing functionality in the VTK wiki on [this page](https://www.vtk.org/Wiki/VTK/ProgrammableMultiVolumeRendering) and identify potential builtin variables and functions that could be added to facilitate the creation of new volumetric effects.
+* Replicate the examples presented in the PRISM paper using the improved VTK mapper.
+* Replicate the US heart rendering of Philips machine with data from Matt Joley.
 
 ## Progress and Next Steps
 
