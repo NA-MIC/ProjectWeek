@@ -16,12 +16,12 @@ This has the potential to automate and better standardize prostate lesion locati
 
 ## Objective
 
-1. Results have to become more stable to be reliable. 
+1. Results have to get better and become more stable to be reliable. 
 
 ## Approach and Plan
 
-1. Explore network extensions.
-1. Extend data augmentation. 
+1. Extend data augmentation (translation and scaling). 
+1. Explore network extensions (deeper network, more filters).
 1. Add more regulatrizers and evaluate their effect on the outcome.
 1. Initialize a new approach: Generative Adverserial Network? 
 
