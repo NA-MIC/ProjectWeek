@@ -20,7 +20,7 @@ Correct Slicer dynamic MRI DICOM frame data and DTI gradient data loading for Br
 
 ## Approach and Plan
 
-1.DCE: The first correction is to make sure the frame time in DCE MRI is not merely copied from the 'RepetitionTime' field in the DICOM files. Instead, this should be multiplied by the number of phase encoding steps. Test. 
+1. DCE: The first correction is to make sure the frame time in DCE MRI is not merely copied from the 'RepetitionTime' field in the DICOM files. Instead, this should be multiplied by the number of phase encoding steps. Test. 
 1. DTI: modify gradient data loading.
 
 ## Progress and Next Steps
