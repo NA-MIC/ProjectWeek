@@ -1,4 +1,4 @@
-3Back to [Projects List](../../README.md#ProjectsList)
+Back to [Projects List](../../README.md#ProjectsList)
 
 # Write full project title here
 
