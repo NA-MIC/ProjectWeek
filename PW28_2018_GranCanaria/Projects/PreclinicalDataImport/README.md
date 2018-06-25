@@ -20,10 +20,13 @@ Correct Slicer dynamic MRI DICOM frame data and DTI gradient data loading for Br
 
 ## Approach and Plan
 
-1. DCE: The first correction is to make sure the frame time in DCE MRI is not merely copied from the 'RepetitionTime' field in the DICOM files. Instead, this should be multiplied by the number of phase encoding steps. Test. 
-1. DTI: modify gradient data loading.
+1. Collect examples of preclinical data.
+1. The first correction for DCE is to make sure the frame time in DCE MRI is not merely copied from the 'RepetitionTime' field in the DICOM files. Instead, this should be multiplied by the number of phase encoding steps. Implement a Matlab Bridge module that correctly loads the multiframe Bruker DCE data.
+1. Identify the Slicer format of DTI data. Then, implement a Matlab Bridge module to load Bruker DTI DICOM data, with the correct gradient information.
 
 ## Progress and Next Steps
+
+1. Various preclinical data sets have been collected - see link below.
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
