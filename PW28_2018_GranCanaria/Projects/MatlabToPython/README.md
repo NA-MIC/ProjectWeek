@@ -22,6 +22,8 @@ Matlab Bridge provides is a very quick and convenient way to combine the display
 Investigate freeware to convert Matlab code to Python. Document a pipeline for incorporating the code in Slicer for non-developers with a tutorial.
 
 ## Progress and Next Steps
+1. A couple of Matlab Bridge modules are here:
+https://www.dropbox.com/sh/36vvhsi90z90arq/AACTInsRPBkQdhaH8jf_qml9a?dl=0
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
