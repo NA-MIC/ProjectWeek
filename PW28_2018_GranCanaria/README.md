@@ -66,8 +66,19 @@ How to add this calendar to your own?
 ## Projects [(How to add a new project?)](Projects/README.md)
 
 ## Projects
+
+Segmentation
+
 1. [Using 3D Slicer Segment Editor](Projects/SegmentEditor/README.md) (Csaba Pinter, Till Best, Nikos Makris, Filippo Cicali)
 1. [Gynecological Brachytherapy Needle Segmentation Deployment](Projects/NeedleSegmentationDeployment/README.md) (Paolo Zafino, Tina Kapur, Maria Francesca Spadea)
+1. Multi-Label segmentation of anatomic prostate zones in MRI (Anneke Meyer, Marko Rak, Christian Hansen)
+
+Visualization and Interoperability
+
+Application to Large Studies in Chest, Brain
+
+New Uses of 3D Slicer
+
 1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Simon Drouin, Csaba Pinter, Andras Lasso, Ole Vegard Solberg, Geir Arne Tangen)
 1. [Programmable Multi Volume Rendering in Slicer](Projects/MultiVolumeRendering/README.md) (Simon Drouin, Csaba Pinter, Steve Pieper, Jean-Christophe Fillion-Robin)
 1. [Raw Image Read and Display](Projects/RawImageGuess/README.md) (Attila Nagy, Csaba Pinter) 
@@ -81,7 +92,6 @@ How to add this calendar to your own?
 1. Conversion of Matlab Bridge modules to integrated 3DSlicer modules (Sharon Peled, Andras Lasso, ?).
 1. Longitudinal analysis of white matter connectivity changes prompted by concussions (Andrei Irimia, Lauren O'Donnell)
 1. [Stereotaxy PYDBS and EPILOC Toolboxes](Projects/STIM_ICM_Project/README.md) (Sara Fernandez Vidal, Jordan Cornillaut and Eric Bardinet)
-1. Multi-Label segmentation of anatomic prostate zones in MRI (Anneke Meyer, Marko Rak, Christian Hansen)
 1. [SlicerCIP Quantitative Reports Tool](Projects/SlicerCIPQuantitativeReportsTool/README.md) (Pietro Nardelli, Jorge Onieva Onieva, Raúl San José Estépar)
 1. [Custom GUI for an US simulator training system](Projects/CustomGUIForUSSimulator/Readme.md) (José Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola)
 1. [4D MRI via retrospectiv stacking of 2D Slices](Projects/4D_MRI_via_retrospectiv_stacking/README.md)(Gino Gulamhussene, Marko Rak)
