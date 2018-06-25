@@ -45,6 +45,7 @@ Proposals:
 
 The project is still in its incipient stages
 ▓░░░░░░░░░░░░░░ 4%
+however we are looking forward to gathering speed during the NA-MIC week!
 
 ## Illustrations
 
