@@ -36,6 +36,8 @@ Items to be discussed: (please add anything that you would like us to consider)
 - Mouse modes (make it easier to define new mouse modes and switch between them; e.g., put window width/level setting in a separate mouse mode, add more built-in mouse modes, ...)
 - Built-in 4D data support (Sequences extension)
 - Move towards LPS coordinate system (at least change default read/write format for all nodes)
+- Internationalization
+- Swith to unicode
 
 # Illustrations
 
