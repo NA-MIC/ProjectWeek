@@ -29,7 +29,7 @@ The 3D view controller widget should have GUI for synchronizing the following pr
 * Implement MRMLLogic
 
 ## Progress and Next Steps
-Things to discuss:
+Things to discuss to design the GUI:
 
 do we what a popup menu for some buttons (either old or new ones)? or show all of them? or put part of them in the adavnced control in the View Controller module?
 
