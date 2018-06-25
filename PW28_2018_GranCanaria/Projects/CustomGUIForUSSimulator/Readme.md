@@ -47,4 +47,5 @@ GUI sketch
 
 - [3D Slicer Tutorials](http://www.slicer.org/wiki/Documentation/4.8/Training)
 - [Slicelet documentation](https://www.slicer.org/wiki/Documentation/Nightly/Developers/Slicelets)
+- [Guidelet documentation](http://www.slicerigt.org/wp/developer-tutorial/)
 - [NA-MIC PW27 project: Affordable IGT Simulators with Slicer IGT + PLUS](https://na-mic.github.io/ProjectWeek/PW27_2018_Boston/Projects/AffordableIGTSimulatorsWithSlicerIGTAndPLUS/)
