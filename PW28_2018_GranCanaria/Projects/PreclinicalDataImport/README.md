@@ -26,7 +26,7 @@ Correct Slicer dynamic MRI DICOM frame data and DTI gradient data loading for Br
 
 ## Progress and Next Steps
 
-1. Various preclinical data sets have been collected - see link below.
+1. Various preclinical data sets were collected, including DCE, DTI, T1 mapping, and cASL - see link below.
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
@@ -40,5 +40,6 @@ Correct Slicer dynamic MRI DICOM frame data and DTI gradient data loading for Br
 
 # Background and References
 Link to MRI data:
-https://www.dropbox.com/sh/0ijt66kej9y7uo5/AADUwatia0cI60SftswEq0O6a?dl=0
+https://www.dropbox.com/sh/5qo2kay9w7bi92t/AADvQtsKR3SJBS2HlReN1q-Ma?dl=0
+
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
