@@ -71,7 +71,7 @@ Segmentation
 
 1. [Using 3D Slicer Segment Editor](Projects/SegmentEditor/README.md) (Csaba Pinter, Till Best, Nikos Makris, Filippo Cicali)
 1. [Gynecological Brachytherapy Needle Segmentation Deployment](Projects/NeedleSegmentationDeployment/README.md) (Paolo Zafino, Tina Kapur, Maria Francesca Spadea)
-1. Multi-Label segmentation of anatomic prostate zones in MRI (Anneke Meyer, Marko Rak, Christian Hansen)
+1. [Multi-Label segmentation of anatomic prostate zones in MRI](Projects/ProstateZoneSegmentation/README.md)(Anneke Meyer, Marko Rak, Christian Hansen)
 
 Visualization and Interoperability
 1. [Programmable Multi Volume Rendering in Slicer](Projects/MultiVolumeRendering/README.md) (Simon Drouin, Csaba Pinter, Steve Pieper, Jean-Christophe Fillion-Robin)
