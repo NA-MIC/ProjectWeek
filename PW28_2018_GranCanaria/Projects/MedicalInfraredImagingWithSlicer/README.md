@@ -16,24 +16,26 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Project Description
 
-This project is a next step in the one presented during [27thPW NA-MIC](https://na-mic.github.io/ProjectWeek/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/), a research collaboration between the public research [institute IACTEC](http://www.iac.es/) and the [University of Las Palmas de Gran Canarias(ULPGC)](http://www.ulpgc.es/) in order to use InfraRed (IR) sensors and advanced image processing techniques in 3D Slicer for medical diagnosis.
-It is intended mainly for foot ulcers detection in diabetic patients. The infrared cameras have been integrated and connected to 3D Slicer using the PLUS toolkit and a new medical thermal infrared extension is being developed.
+This project is a next step in the one presented during [27thPW NA-MIC](https://na-mic.github.io/ProjectWeek/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/), a research collaboration between the public research institute [IAC](http://www.iac.es/) and the [University of Las Palmas de Gran Canarias(ULPGC)](http://www.ulpgc.es/) in order to use InfraRed (IR) sensors and advanced image processing techniques in 3D Slicer for medical diagnosis.
+It is intended mainly for monitoring of foot ulcers in diabetic patients. The infrared cameras have been integrated and connected to 3D Slicer using the PLUS toolkit. In addition, a new medical thermal infrared extension is being developed.
 
 
 ## Objectives
 
 1. Implementation of a new extension for medical thermal infrared images.
-1. Development and testing of a new module for foot ulcer assessment based on thermal infrared images.
-1. Performance and efficiency improvements.
+2. Development and testing of a new module for foot ulcer assessment based on thermal infrared images.
+3. Study other processing approaches to improve efficiency and performance.
 
 ## Approach and Plan
 
-1. First steps in the development of the new extension.
+1. To improve and test the acquisition, segmentation and registration modules for foot ulcer assessment in Slicer 3D.
+2. To discuss and test other segmentation and registration approaches.
+3. To develop a new Slicer module for semi-automatic foot ulcer assessment using contralateral temperature comparison.
+4. Testing.
 
 
 ## Progress and Next Steps
 
-1. .
 
 
 ## Illustrations
