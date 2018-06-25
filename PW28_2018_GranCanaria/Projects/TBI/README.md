@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-Longitudinal analysis of white matter connectivity changes prompted by concussions 
+### Longitudinal analysis of white matter connectivity changes prompted by concussions 
 
 ## Key Investigators
 
@@ -9,7 +9,7 @@ Longitudinal analysis of white matter connectivity changes prompted by concussio
 
 # Project Description
 
-<!-- Concussions (also known as mild traumatic brain injuries, or mTBIs) have relatively high incidence in the elderly and increase the risk for neurodegenerative disorders. The effects of concussions upon the human connectome and upon local white matter are poorly understood. This project will explore the potential of Slicer tools to assist the study of white matter (WM) degradation after concussions using diffusion tensor imaging (DTI). -->
+Concussions (also known as mild traumatic brain injuries, or mTBIs) have relatively high incidence in the elderly and increase the risk for neurodegenerative disorders. The effects of concussions upon the human connectome and upon local white matter are poorly understood. This project will explore the potential of Slicer tools to assist the study of white matter (WM) degradation after concussions using diffusion tensor imaging (DTI).
 
 ## Objective
 
