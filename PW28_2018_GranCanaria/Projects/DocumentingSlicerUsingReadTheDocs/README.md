@@ -32,6 +32,7 @@ Ultimately, all modules would have their documentation managed along side the Sl
 
 # Illustrations
 
+![](Slicer-readthedocs.png)
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 <!--![Description of picture](Example2.jpg)-->
@@ -42,6 +43,5 @@ Ultimately, all modules would have their documentation managed along side the Sl
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
+- Source code: https://github.com/Slicer/Slicer/pull/686
+- 27th Project week page: https://github.com/NA-MIC/ProjectWeek/tree/master/PW27_2018_Boston/Projects/SlicerReadTheDocs
