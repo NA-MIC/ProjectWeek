@@ -48,7 +48,7 @@ tuberculosis disease, also for training purposes. (Data: pelvis -CT-, prostate -
 
 Male pelvis segmentation made in 3D Slicer
 
-<img src="PELVIS.png" width="150" height="150">
+<img src="PELVIS.png" width="80%">
 
 Lung - tuberculosis disease.
 
