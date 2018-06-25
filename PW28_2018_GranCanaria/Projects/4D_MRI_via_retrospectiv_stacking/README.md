@@ -43,6 +43,7 @@ Thus we find all corresponding data slices giving the 3D liver at the specific b
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 ![Data aquisition](dataAquisition.PNG)
+![Data Sorting](dataSorting.PNG)
 
 
 # Background and References
