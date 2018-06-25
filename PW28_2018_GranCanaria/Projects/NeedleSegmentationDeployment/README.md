@@ -37,11 +37,11 @@ Automatic segmentation example:
 
 ![GYN needles](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/NeedleSegmentationDeployment/GYN%20needles%20example.jpg)
 
-![Multislice view] (https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/NeedleSegmentationDeployment/all30_s.gif)
+![Multislice view](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/NeedleSegmentationDeployment/all30_s.gif)
 
 # Background and References
 
-- [Needle finder website] (http://needlefinder.org)
-- [Model-based Catheter Segmentation in MRI-images] (https://arxiv.org/abs/1705.06712)
-- [PW 25] (https://na-mic.org/wiki/Project_Week_25/NeedleSegmentation)
-- [2017 Winter PW] (https://na-mic.org/wiki/2017_Winter_Project_Week/Needle_Segmentation_from_MRI)
+- [Needle finder website](http://needlefinder.org)
+- [Model-based Catheter Segmentation in MRI-images](https://arxiv.org/abs/1705.06712)
+- [PW 25](https://na-mic.org/wiki/Project_Week_25/NeedleSegmentation)
+- [2017 Winter PW](https://na-mic.org/wiki/2017_Winter_Project_Week/Needle_Segmentation_from_MRI)
