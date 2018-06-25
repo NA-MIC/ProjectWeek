@@ -1,4 +1,4 @@
-![PW28](PW28-500px.png)
+﻿![PW28](PW28-500px.png)
 ## Welcome to the web page for the 28th Project Week!
 The 28th NA-MIC Project Week will be held during the week of June 25-29, 2018 at [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es/).
 
@@ -105,6 +105,9 @@ Infrastructure
 1. [Documenting Slicer using readthedocs](Projects/DocumentingSlicerUsingReadTheDocs/README.md) (Jean-Christophe Fillion-Robin, Andras Lasso)
 1. [Slicer 5 roadmap](Projects/Slicer5Roadmap/README.md) (Jean-Christophe Fillion-Robin, Andras Lasso, Steve Pieper, Csaba Pinter, Andrey Fedorov, Everyone)
 
+Other
+
+1. [Integrating Free WaveForm sequence with DICOM](Projects/FWFintegration/README.md) (F. Szczepankiewicz, C-F. Westin)
 
 ## Registrants
 
