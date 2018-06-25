@@ -36,6 +36,8 @@ Thus we find all corresponding data slices giving the 3D liver at the specific b
 
 **next steps**
 - finish the program
+- annotate 4D Data for ground truth
+- actually use the data 
 
 # Illustrations
 
