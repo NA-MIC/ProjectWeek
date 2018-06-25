@@ -73,3 +73,31 @@ Here's an example endpoint for testing:
 - [Example docker compose for OHIF + dcm4chee](https://github.com/OHIF/integration-examples/tree/master/ohif-dcm4chee-nginx)
 - [dcm4chee REST api endpoints](http://petstore.swagger.io/index.html?url=https://raw.githubusercontent.com/dcm4che/dcm4chee-arc-light/master/dcm4chee-arc-ui2/src/swagger/swagger-dicom.json)
 - [Example OHIF installation with dcm4chee back end](http://ohifviewer-staging.herokuapp.com/studylist)
+
+# Notes
+
+* [STOW of SR from OHIF in JavaScript](https://github.com/OHIF/Viewers/blob/b296602e8c5c1cfc48806ed33387a91f8f9a44fe/Packages/ohif-measurement-table/client/utils/stowSR.js)
+
+* STOW request bash script
+```
+#/bin/bash
+
+if [ "$#" -ne 2 ]; then
+    echo "Usage: stow.sh <endpointURL> <instance>"
+    exit -1
+fi
+
+echo $1 $2
+
+endpointURL=$1
+instance=$2
+
+temp=$(mktemp)
+
+echo Using temp dir $temp
+echo -ne "\r\n--EOF\r\nContent-Type: application/dicom\r\n\r\n" > $temp
+cat $instance >> $temp
+echo -ne "\r\n--EOF--" >> $temp
+
+curl -X POST -H "Content-Type: multipart/related; type=application/dicom; boundary=EOF" $endpointURL --data-binary @$temp
+```
