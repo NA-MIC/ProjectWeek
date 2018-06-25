@@ -103,6 +103,7 @@ New Applications and Customizations of 3D Slicer
 Infrastructure
 
 1. [Documenting Slicer using readthedocs](Projects/DocumentingSlicerUsingReadTheDocs/README.md) (Jean-Christophe Fillion-Robin, Andras Lasso)
+1. [Slicer 5 roadmap](Projects/Slicer5Roadmap/README.md) (Jean-Christophe Fillion-Robin, Andras Lasso, Steve Pieper, Csaba Pinter, Andrey Fedorov, Everyone)
 
 
 ## Registrants
