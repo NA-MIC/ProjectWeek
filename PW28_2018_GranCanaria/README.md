@@ -83,7 +83,9 @@ Visualization and Interoperability
 1. Conversion of Matlab Bridge modules to integrated 3DSlicer modules (Sharon Peled, Andras Lasso)
 
 Application to Large Studies in Chest, Brain
-1. [SlicerCIP Quantitative Reports Tool](Projects/SlicerCIPQuantitativeReportsTool/README.md) (Pietro Nardelli, Jorge Onieva Onieva, Raúl San José Estépar)
+1. [SlicerCIP Quantitative Reports Tool](Projects/SlicerCIPQuantitativeReportsTool/README.md) (Pietro Nardelli, Jorge Onieva Onieva,Raúl San José Estépar)
+1. [CIP Python3](Projects/CIP_Python3/README.md) (Jorge Onieva, Pietro Nardelli, Raúl San José Estépar)
+1. [CIP Deep Learning](Projects/CIP_DeepLearning/README.md) (Jorge Onieva, Pietro Nardelli, Raúl San José Estépar)
 1. Longitudinal analysis of white matter connectivity changes prompted by concussions (Andrei Irimia, Lauren O'Donnell)
 1. [Stereotaxy PYDBS and EPILOC Toolboxes](Projects/STIM_ICM_Project/README.md) (Sara Fernandez Vidal, Jordan Cornillaut and Eric Bardinet)
 
