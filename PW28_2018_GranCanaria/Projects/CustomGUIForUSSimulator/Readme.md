@@ -31,6 +31,14 @@ The main goal of this project is to develop a custom graphic user interface (GUI
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
+![Tools and a phantom](Instrumentosandphatom.jpg)
+
+Tools and a phantom
+
+![GUI sketch](SketchGUI.png)
+
+GUI sketch
+
 <!--![Description of picture](Example2.jpg)-->
 
 <!--![Some more images](Example2.jpg)-->
