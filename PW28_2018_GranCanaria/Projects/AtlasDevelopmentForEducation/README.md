@@ -28,7 +28,8 @@ tuberculosis disease, also for training purposes. (Data: pelvis -CT-, prostate -
 
 1. To segment the pelvis of the human body of a male subject (Images provided by the African countries).
 1. To segment lungs with tuberculosis disease (Images provided by the African countries).
-1. To create an anatomical atlas to be exported and use the Open Anatomy Atlas project to visualize the elements.
+1. To create an anatomical atlas to be exported and use the Open Anatomy Atlas project to visualize the elements. 
+1. To create a tool that helps putting all the files needed for the web atlas to work, toguether
 
 
 ## Approach and Plan
@@ -39,14 +40,15 @@ tuberculosis disease, also for training purposes. (Data: pelvis -CT-, prostate -
 
 ## Progress and Next Steps
 
-1. .
+1. Development of the web tool
+1. Pelvic and Thorax segmentations are in the works
 
 
 ## Illustrations
 
-Male pelvis.
+Male pelvis segmentation made in 3D Slicer
 
-<img src="PelvisMale.png" width="150" height="150">
+<img src="PELVIS.png" width="150" height="150">
 
 Lung - tuberculosis disease.
 
@@ -55,6 +57,10 @@ Lung - tuberculosis disease.
 Anatomical Atlas - Open Anatomy Browser.
 
 <img src="oabrowser.jpg" width="300" height="170">
+
+Web tool for assembling Anatomical Atlas
+
+<img src="tool.jpg" width="300" height="170">
 
 ## Background and References
 
