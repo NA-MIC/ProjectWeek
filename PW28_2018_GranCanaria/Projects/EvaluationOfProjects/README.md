@@ -13,7 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ### Evaluation of projects: augmented reality system to be used in surgeries, software for orthognatic planning, simulator of bone sliding.
 
-The Canary Islands Institute of Technology [ITC] (http://www.itccanarias.org/web/) is an applied research Institute belonging to the Regional Government of Canary Islands (Spain). The ITC is active in different research fields. In particular, the Biomedical Engineering Department focuses on 3D-printed, custom-made implants for bone loss reconstruction and regeneration. 
+The Canary Islands Institute of Technology (ITC) (http://www.itccanarias.org/web/) is an applied research Institute belonging to the Regional Government of Canary Islands (Spain). The ITC is active in different research fields. In particular, the Biomedical Engineering Department focuses on 3D-printed, custom-made implants for bone loss reconstruction and regeneration. 
 
 During this workshop we plan to explore, together with the GTMA (Group of Medical Thecnology and Audiovisuals), the possibilities of 3DSlicer and its evironment in three possible projects.
 
@@ -28,7 +28,7 @@ Proposals:
 
 + A simulator of the humerus and ulna sliding on their articular surfaces with collision and impingement detection.
 
-  <img src="project03.jpg" width="400" height="180">
+  <img src="project03.jpg" width="380" height="170">
 
 ## Objectives
 
@@ -50,7 +50,7 @@ The project is in its incipient stages
 
 Biomedical Engineering Department Workflow
 
-<img src="ITC_Presentation.png" width="400" height="400">
+<img src="ITC_Presentation.png" width="400" height="360">
 
 ## Background and References
 
