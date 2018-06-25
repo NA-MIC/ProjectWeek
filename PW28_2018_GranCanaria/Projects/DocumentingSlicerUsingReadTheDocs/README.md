@@ -18,6 +18,7 @@ Ultimately, all modules would have their documentation managed along side the Sl
 1. Streamline maintenance of Slicer user and developer documentation
 1. Ensure Slicer documentation updates are reviewed along side feature integration
 1. Document [KitwareMedical/SlicerCustomAppTemplate](https://github.com/KitwareMedical/SlicerCustomAppTemplate)
+1. Discuss strategy to manage translation files
 
 <!-- Add a short paragraph describing the project. -->
 
