@@ -10,13 +10,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Correct Slicer dynamic MRI DICOM frame data and DTI gradient data loading for Bruker preclinical MRI systems (Paravision version 6).
-
+Multivolume DICOM data from Bruker preclinical MRI scanners (Paravision version 6) has information in the DICOM header that is incorrectly read into Slicer. Specifically, dynamic MRI DICOM frame data and DTI gradient data needs to be fixed.
 
 ## Objective
 
-1. Modify the multivolume importer to correctly display and represent preclinical DCE MRI DICOM data.
-1. Modify the DTI loader.
+1. Modify the multivolume importer to correctly display and represent preclinical DCE MRI DICOM data, or make a new module.
+1. Modify the DTI loader, or make a new module.
+1. Test import of ASL and T1 mapping data - if there is a problem, fix it.
 
 ## Approach and Plan
 
@@ -28,7 +28,7 @@ Correct Slicer dynamic MRI DICOM frame data and DTI gradient data loading for Br
 
 ## Progress and Next Steps
 
-1. Various preclinical data sets were collected, including DCE, DTI, T1 mapping, and cASL:
+1. Various preclinical data sets were assembled, including DCE, DTI, T1 mapping, and cASL:
 
 https://www.dropbox.com/sh/5qo2kay9w7bi92t/AADvQtsKR3SJBS2HlReN1q-Ma?dl=0
 
