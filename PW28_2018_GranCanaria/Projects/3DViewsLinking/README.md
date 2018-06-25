@@ -30,8 +30,41 @@ The 3D view controller widget should have GUI for synchronizing the following pr
 * Implement MRMLLogic
 
 ## Progress and Next Steps
+Things to discuss:
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+do we what a popup menu for some buttons (either old or new ones)? or show all of them? or put part of them in the adavnced control in the View Controller module?
+
+1) 3Dview controllers buttons show/hide?
+AxesWidget
+CenterButton
+OrthoButton
+RulerButton
+StereoButton
+ZoomInButton
+ZoomOutButton
+SpinButton
+RockButton
+RulerButton
+OrientationMarkerButton
+VisibilityButton
+StereoButton
+deph peeling 
+FPS
+
+2) shall we add GUI for recent volume rendering varibales moved from the MRMLVolumeRendering to the MRMLView node (Csaba mod to volume rendering)? 
+GPUMemorySize
+VolumeRenderingQuality
+RaycastTechnique
+VolumeRenderingSurfaceSmoothing
+VolumeRenderingOversamplingFactor
+
+Adding also this will be confusing (i.e. duplication of GUI and sync with volume rendering GUI).
+
+3) Display content as in the 2D view? shall add models too? segmentation maust always be global (for 2d/3d etc...)??
+
+4) camera linking button
+
+5) angle difference camera linking?
 
 # Illustrations
 
