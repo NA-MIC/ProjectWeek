@@ -8,8 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Andras Lasso](http://perk.cs.queensu.ca/users/lasso) (Queen's University, Canada)
 - [Steve Pieper](https://lmi.med.harvard.edu/people/steve-pieper) (Isomics Inc., USA)
 - [Jean-Christophe Fillion-Robin](https://www.kitware.com/jean-christophe-fillion-robin/) (Kitware Inc., USA)
-
-## Participating
+- [Csaba Pinter](http://perk.cs.queensu.ca/users/pinter) (Queen's University, Canada)
 - [Simon Drouin](http://nist.mni.mcgill.ca/?page_id=369) (Montreal Neurological Institute, Canada)
 
 
