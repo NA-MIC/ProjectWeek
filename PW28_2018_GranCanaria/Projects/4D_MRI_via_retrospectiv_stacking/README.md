@@ -1,3 +1,4 @@
+
 Back to [Projects List](../../README.md#ProjectsList)
 
 # 4D MRI via retrospectiv stacking of 2D Slices
@@ -43,9 +44,16 @@ Thus we find all corresponding data slices giving the 3D liver at the specific b
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+Data Aquisition
 ![Data aquisition](dataAquisition.png)
+
+Data Sorting scheme
 ![Data Sorting](dataSorting.png) 
+
+vessle tracking
 ![vessle tracking](vessleTracking.png)
+
+Similarity measure
 ![similarity](similarity.png)
 
 
