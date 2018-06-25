@@ -35,9 +35,9 @@ Since, we want to make it usable from the 3D Slicer users in a simple and effici
 
 Automatic segmentation example:
 
-![GYN needles](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/NeedleSegmentationDeployment/GYN%20needles%20example.jpg)
+![GYN needles](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW28_2018_GranCanaria/Projects/NeedleSegmentationDeployment/GYN%20needles%20example.jpg)
 
-![Multislice view](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/NeedleSegmentationDeployment/all30_s.gif)
+![Multislice view](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/NeedleSegmentationDeployment/all30_s.gif?raw=true)
 
 # Background and References
 
