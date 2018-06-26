@@ -78,7 +78,8 @@ Here's an example endpoint for testing:
 
 * [STOW of SR from OHIF in JavaScript](https://github.com/OHIF/Viewers/blob/b296602e8c5c1cfc48806ed33387a91f8f9a44fe/Packages/ohif-measurement-table/client/utils/stowSR.js)
 
-* STOW request bash script
+* STOW request bash script "stow.sh"
+
 ```
 #/bin/bash
 
@@ -101,3 +102,7 @@ echo -ne "\r\n--EOF--" >> $temp
 
 curl -X POST -H "Content-Type: multipart/related; type=application/dicom; boundary=EOF" $endpointURL --data-binary @$temp
 ```
+
+For example use this script like this from a directory full of DICOM files:
+
+`find . -exec stow.sh http://quantome.org:8080/dcm4chee-arc/aets/DCM4CHEE/rs/studies \{\} \;`
