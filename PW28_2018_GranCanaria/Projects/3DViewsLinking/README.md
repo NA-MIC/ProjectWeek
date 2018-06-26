@@ -63,11 +63,13 @@ do we what a popup menu for some buttons (either old or new ones)? or show all o
 
 
 * camera linking button (difference between "normal" and "hot"?)
+
 no double mode, leave it very simple. Click linking and the cameras are all updated, GUI, etc..
 
 Implementation as the MRMLSliceLogic one.
 
-* angle differ? different camera motion, 
+* angle differ? different camera motion, etc... 
+
 specilized interface in the cameras module.
 
 * Display content as in the 2D view? shall add models too? segmentation maust always be global (for 2d/3d etc...)??
