@@ -38,7 +38,7 @@ Implement a method to accurately parcellate the anatomical structure of Insula o
 
 # Illustrations
 
-[Insula Circular Sulcus and Central Sulcus in the parcellation method of aINS and pINS](Insula_Project.png)
+![Insula Circular Sulcus and Central Sulcus in the parcellation method of aINS and pINS](Insula_Project.png)
 
 # Background and References
 
