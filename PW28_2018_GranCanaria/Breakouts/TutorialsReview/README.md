@@ -12,6 +12,7 @@
   * ReadTheDocs
   * WeChat (Chinese examples) or other blog posts [example](https://mp.weixin.qq.com/s?__biz=MzI3MDY4ODA5Mw==&mid=2247486079&idx=1&sn=9b926dc398a408e3441082b9e0ffde61&chksm=eacc004dddbb895bf9b60f5f1bc443513196e4cb90a6caf6f348a4da7b7fc22eb658661aeb49&mpshare=1&scene=24&srcid=0212AFtT2Wq7K7bvkMGTdyih#rd)
   * RevealJS (https://github.com/pieper/content, https://pieper.github.io/content/handson/)
+  * Word docs, google docs, etc
 * Videos
   * YouTube
   * PeerTube(?)
