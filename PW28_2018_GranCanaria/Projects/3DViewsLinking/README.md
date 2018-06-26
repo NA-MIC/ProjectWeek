@@ -49,6 +49,8 @@ do we what a popup menu for some buttons (either old or new ones)? or show all o
   * StereoButton
   * deph peeling 
   * FPS
+  
+  let's leave as it is
 
 * shall we add GUI for recent volume rendering varibales moved from the MRMLVolumeRendering to the MRMLView node (Csaba mod to volume rendering)? Probably adding also this will be confusing (i.e. duplication of GUI and sync with volume rendering GUI).
   * GPUMemorySize
@@ -56,12 +58,23 @@ do we what a popup menu for some buttons (either old or new ones)? or show all o
   * RaycastTechnique
   * VolumeRenderingSurfaceSmoothing
   * VolumeRenderingOversamplingFactor
+  
+  not necessary!
+
+
+* camera linking button (difference between "normal" and "hot"?)
+no double mode, leave it very simple. Click linking and the cameras are all updated, GUI, etc..
+
+Implementation as the MRMLSliceLogic one.
+
+* angle differ? different camera motion, 
+specilized interface in the cameras module.
 
 * Display content as in the 2D view? shall add models too? segmentation maust always be global (for 2d/3d etc...)??
 
-* camera linking button (difference between "normal" and "hot"?)
+add pick from 3d view when right click. It will show a menu with the edit action.
 
-* angle difference camera linking?
+
 
 # Illustrations
 
