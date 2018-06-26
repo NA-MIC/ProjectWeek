@@ -59,7 +59,7 @@ do we what a popup menu for some buttons (either old or new ones)? or show all o
 
 * Display content as in the 2D view? shall add models too? segmentation maust always be global (for 2d/3d etc...)??
 
-* camera linking button
+* camera linking button (difference between "normal" and "hot"?)
 
 * angle difference camera linking?
 
