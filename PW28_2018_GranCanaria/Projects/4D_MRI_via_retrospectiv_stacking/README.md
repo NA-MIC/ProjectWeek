@@ -1,3 +1,4 @@
+
 Back to [Projects List](../../README.md#ProjectsList)
 
 # 4D MRI via retrospectiv stacking of 2D Slices
@@ -24,6 +25,7 @@ Thus we find all corresponding data slices giving the 3D liver at the specific b
 ## Approach and Plan
 
 1. Using python
+2. Handling the Slice Data as one big 3D Data Array
 
 
 ## Progress and Next Steps
