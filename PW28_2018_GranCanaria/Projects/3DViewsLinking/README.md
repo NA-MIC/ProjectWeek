@@ -34,11 +34,11 @@ The 3D view controller widget should have GUI for synchronizing the following pr
 
    * do we what a popup menu for some buttons (either old or new ones)? or show all of them? or put part of them in the adavnced control in the View Controller module?
   
-   let's leave as it is
+      let's leave as it is
 
    * shall we add GUI for recent volume rendering varibales moved from the MRMLVolumeRendering to the MRMLView node (Csaba mod to volume rendering)? Probably adding also this will be confusing (i.e. duplication of GUI and sync with volume rendering GUI).
   
-    not necessary!
+      not necessary!
 
 
    * (a) camera linking button (difference between "normal" and "hot"?)
