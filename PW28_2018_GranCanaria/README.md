@@ -183,4 +183,4 @@ Do not add your name to this list - it is maintained by the organizers based on 
 
 Working in 27 joint projects from 6 different categories
 
-<img src="Projects.png" width="400" height="150">
+<img src="Projects.png" width="800" height="300">
