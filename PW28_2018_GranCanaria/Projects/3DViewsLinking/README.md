@@ -45,6 +45,7 @@ The 3D view controller widget should have GUI for synchronizing the following pr
 
       no double mode, leave it very simple. i.e., click linking and the cameras are all updated, GUI, etc.
       Implementation to do as the MRMLSliceLogic one.
+      
       ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/3Dviewlinking1.png)
 
    * (b) different angle of view for second (third, etc.) linked camera? different camera motion, etc... 
@@ -55,8 +56,8 @@ The 3D view controller widget should have GUI for synchronizing the following pr
 
       add pick from 3d view when right click. It will show a menu with the edit action.
 
-* Implementation: 
-   * (a) : implement MRMLLogic as the MRMLSliceLogic. 
+* Implementation (TO DO): 
+   * (a) :
    * (b) :
    * (c) :
 
