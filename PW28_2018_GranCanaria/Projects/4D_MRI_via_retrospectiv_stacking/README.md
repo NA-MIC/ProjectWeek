@@ -1,4 +1,3 @@
-
 Back to [Projects List](../../README.md#ProjectsList)
 
 # 4D MRI via retrospectiv stacking of 2D Slices
@@ -8,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Gino Gulamhussene (University of Magdeburg)
 - Marko Rak (University of Magdeburg)
 - Christian Hansen (University of Magdeburg)
+- Michael Halle (Brigham and Women’s Hospital and Harvard Medical School)
 
 # Project Description
 Creating a program to generate 4D MRI sequences applying the retrospectiv stacking method on 2D MR slices. 
