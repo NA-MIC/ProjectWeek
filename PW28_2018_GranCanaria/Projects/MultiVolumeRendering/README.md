@@ -34,9 +34,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+[YouTube video](https://youtu.be/yiEI_yBMu8k)
+[Prototyping Respository](https://github.com/pieper/VTKCustomShaders)
+
+[Proof of concept script to paste in python console](https://github.com/pieper/VTKCustomShaders/blob/master/SlicerShader.py)
+
 
 # Illustrations
+
+
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 Philips 3D US             |  Chroma-depth in PRISM | Depth peeling in PRISM
 :-------------------------:|:-------------------------:|:-------------------------:
