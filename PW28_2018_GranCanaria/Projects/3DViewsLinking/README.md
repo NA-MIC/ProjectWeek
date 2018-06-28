@@ -56,8 +56,8 @@ The 3D view controller widget should have GUI for synchronizing the following pr
 
       add pick from 3d view when right click. It will show a menu with the edit action.
 
-* Implementation (TO DO): 
-   * (a) :
+* Implementation: 
+   * (a) : Done! pull request at https://github.com/Slicer/Slicer/pull/980
    * (b) :
    * (c) :
 
