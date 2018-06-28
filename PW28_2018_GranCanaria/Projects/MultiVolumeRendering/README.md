@@ -34,10 +34,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
-[YouTube video](https://youtu.be/yiEI_yBMu8k)
 [Prototyping Respository](https://github.com/pieper/VTKCustomShaders)
 
-[Proof of concept script to paste in python console](https://github.com/pieper/VTKCustomShaders/blob/master/SlicerShader.py)
+### Proof of concept
+* [Proof of concept script to paste in python console](https://github.com/pieper/VTKCustomShaders/blob/master/SlicerShader.py)
+* [Works with this data](https://github.com/NA-MIC/ProjectWeek/releases/download/ThursdayEvening-2018-06-28/2018-06-28-Scene.mrb)
+
+### Result
+[YouTube video of SlicerPRISM in action](https://youtu.be/yiEI_yBMu8k)
 
 ![SlicerPRISM](SlicerPRISM-2018-06-28.png)
 
