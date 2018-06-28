@@ -50,7 +50,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-Philips 3D US             |  Chroma-depth in PRISM | Depth peeling in PRISM
+|Philips 3D US             |  Chroma-depth in PRISM | Depth peeling in PRISM|
 :-------------------------:|:-------------------------:|:-------------------------:
 ![jolley-us](matt-jolley-us.png) | ![chroma-depth](chroma-depth-crop.png) | ![](depth-peeling-crop.png)
 Edge enhancement in PRISM | Decluttering in PRISM | Volume carving in PRISM
