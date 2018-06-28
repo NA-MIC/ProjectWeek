@@ -49,6 +49,9 @@ as collaboation in other research projects.
 
 ## Progress and Next Steps
 
+1. Plan a new trainig program for Mauritania and Mozambique. Different programs for different profiles. 
+
+
 ## Illustrations
 
 February - March training sessions.

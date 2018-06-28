@@ -25,7 +25,13 @@ The goal of this project is to evaluate and extend variants of a volumetric CNN 
 1. Initialize a new approach: Generative Adverserial Network? 
 
 ## Progress and Next Steps
-...
+1. split up data into training and validation sets so that they have more equally distributed anatomy characteristics -> did not improve output much
+1. started on a data augmentation framework
+1. learned more about pelvic anatomy from Babacar
+
+Next Steps:
+1. Finish data augmentation framework
+1. Find a way to stabilize outcomes for AFS (more regularizer, data augmentation) and then start to make the network deeper
 
 # Illustrations
 ![Segmentation Example. Left: automatic, center: manual segmentation](example1.PNG)
