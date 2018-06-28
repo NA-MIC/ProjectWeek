@@ -44,6 +44,9 @@ Automatic segmentation example:
 
 ![Multislice view](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/NeedleSegmentationDeployment/all30_s.gif?raw=true)
 
+The docker exposed via DeepInfer extension
+![Exposed container](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/NeedleSegmentationDeployment/local%20docker%20GYN%20needles.png?raw=true)
+
 # Background and References
 
 - [Needle finder website](http://needlefinder.org)
