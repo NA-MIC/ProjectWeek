@@ -10,22 +10,37 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Matlab Bridge provides is a very quick and convenient way to combine the display features of 3DSlicer with Matlab analysis code. A straightforward way of exporting Matlab modules to C++ or python and incorporation of the code in Slicer may allow Matlab programmers to make their modules available to the Slicer community.
+Matlab Bridge is a very quick and convenient way to combine the display features of 3DSlicer with Matlab analysis code. A straightforward way of exporting Matlab modules to Python and incorporation of the code in 3DSlicer may allow Matlab programmers to make their modules available to the Slicer community.
 
 ## Objective
 
-1. Translate a (few) specific Matlab script to Slicer Python scripted modules
-1. Create tutorial about the process
+- Create tutorial about the process of translating a Matlab Bridge module to a Slicer Python scripted module.
 
 ## Approach and Plan
 
-Investigate freeware to convert Matlab code to Python. Document a pipeline for incorporating the code in Slicer for non-developers with a tutorial.
+1. Investigate freeware to convert Matlab code to Python. 
+1. Document a complete pipeline for Matlab-proficient non-developers on the process of creating a Python module.
 
 ## Progress and Next Steps
-1. A couple of Matlab Bridge modules are here:
+<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+Progress
+- A couple of examples of Matlab Bridge modules with all their dependent functions were collected here:
 https://www.dropbox.com/sh/36vvhsi90z90arq/AACTInsRPBkQdhaH8jf_qml9a?dl=0
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+- It was concluded that conversion needs to be done manually - Matlab to Python converters would not work well for this purpose. 
+- The tutorial “Programming in Slicer4” by Sonia Pujol and Steve Pieper (https://www.dropbox.com/s/wrhrvvmplosiis1/Slicer4_ProgrammingTutorial_SPujol-SPieper_Nightly.pdf?dl=0#)
+was worked through and summarized in the following document for quick reference: https://www.dropbox.com/s/0wukoaesndf3ug4/SlicerPython.pdf?dl=0
+
+Next steps: 
+- Add a summary of the tutorial “Developing and contributing extensions for 3D Slicer” by Andrey Fedorov, Jean-Christophe Fillion-Robin, and Steve Pieper (https://docs.google.com/presentation/d/1JXIfs0rAM7DwZAho57Jqz14MRn2BIMrjB17Uj_7Yztc/edit#slide=id.g420896289_0216) to the document.
+
+- Summarize essential Python for Matlab users and add to the document.
+
+https://bastibe.de/2013-01-20-a-python-primer-for-matlab-users.html
+
+https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html
+
+- Convert the example Matlab Bridge modules to Python and add a two column comparison of the Python code versus the Matlab code to the document.
 
 # Illustrations
 
@@ -39,22 +54,6 @@ https://www.dropbox.com/sh/36vvhsi90z90arq/AACTInsRPBkQdhaH8jf_qml9a?dl=0
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Slicer programming tutorial: 
-
-https://www.slicer.org/wiki/Documentation/Nightly/Training#Slicer4_Programming_Tutorial
-- Possible Matlab to Python converters:
-
-https://github.com/victorlei/smop
-
-http://ompc.juricap.com/
-
-https://github.com/awesomebytes/libermate
-
-- Learning Python for Matlab Users:
-
-https://bastibe.de/2013-01-20-a-python-primer-for-matlab-users.html
-
-https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html
 <!--
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
