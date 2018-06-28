@@ -19,8 +19,12 @@ This was achieved by defining the precise anatomy of the insula by identifying t
 
 
 1. To segment in each coronal slice the aINS and pINS ROIs in order to measure the number of voxels in each ROI per coronal slice.
+
 1. Select a color for the aINS and for pINS to apply in each coronal slice.
+
 1. 3D modelling.
+
+1. Volume measures.
 
 
 ## Approach and Plan
@@ -28,6 +32,7 @@ This was achieved by defining the precise anatomy of the insula by identifying t
 Interact with developers to investigate the existence of appropriate tools and figure out how to implement them.
 
 1. Document the procedure.
+
 1. Disseminate the procedure to beta testers.
 
 
@@ -43,7 +48,9 @@ Implement a method to accurately parcellate the anatomical structure Insula of R
 
 ![Parcellation of anterior an posterior Insula and volumetric measures](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/Insula_segmentation_with_3DSlicer/fullviews.png?raw=true)
 
-![Insula of Reil - aINS, pINS](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/Insula_segmentation_with_3DSlicer/aINS_pINS_1.gif?raw=true)
+<p align="center">
+ <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/Insula_segmentation_with_3DSlicer/aINS_pINS_1.gif?raw=true"/>
+ </p>
 
 # Background and References
 
