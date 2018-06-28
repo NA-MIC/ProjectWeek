@@ -15,6 +15,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 The Canary Islands Institute of Technology (ITC) (http://www.itccanarias.org/web/) is an applied research Institute belonging to the Regional Government of Canary Islands (Spain). The ITC is active in different research fields. In particular, the Biomedical Engineering Department focuses on 3D-printed, custom-made implants for bone loss reconstruction and regeneration. 
 
+
+  <img src="ITC_Presentation.png" width="400" height="360">
+Biomedical Engineering Department Workflow
+  
 During this workshop we plan to explore, together with the GTMA (Group of Medical Technology and Audiovisuals), the possibilities of 3DSlicer and its evironment in three possible projects.
 
 Proposals:
@@ -58,6 +62,9 @@ Slicer has proven to be very useful for "voxel printing" anatomical models, whic
 
 Slicer can perfom the required 3D interpolation and slicing that is required for this technique. 
 
+## Illustrations
+
+
    <img src="voxel_printing.png" width="700" height="250">
 
    <img src="voxel_printing2.png" width="700" height="250">
@@ -65,11 +72,6 @@ Slicer can perfom the required 3D interpolation and slicing that is required for
 C. Bader, D. Kolb, J. C. Weaver, S. Sharma, A. Hosny, J. Costa, N. Oxman, Making data matter: Voxel printing for the digital fabrication of data across scales and domains. Sci. Adv. 4, eaas8652 (30 May 2018).
 
 
-## Illustrations
-
-Biomedical Engineering Department Workflow
-
-  <img src="ITC_Presentation.png" width="400" height="360">
 
 ## Background and References
 
