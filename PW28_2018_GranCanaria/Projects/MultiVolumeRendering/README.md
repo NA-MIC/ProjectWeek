@@ -39,6 +39,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 [Proof of concept script to paste in python console](https://github.com/pieper/VTKCustomShaders/blob/master/SlicerShader.py)
 
+![SlicerPRISM](SlicerPRISM-2018-06-28.png)
 
 # Illustrations
 
