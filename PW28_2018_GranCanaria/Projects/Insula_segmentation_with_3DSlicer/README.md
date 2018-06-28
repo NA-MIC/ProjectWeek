@@ -42,11 +42,20 @@ Implement a method to accurately parcellate the anatomical structure Insula of R
 
 1. Improve the procedure with the new 3D Slicer Segment Editor.
 
+
 # Illustrations
+
+Circular Sulcus (white) and Central Sulcus (yellow) in the parcellation method of anterior and posterior Insula
 
 ![Insula Circular Sulcus and Central Sulcus in the parcellation method of aINS and pINS](Insula_Project.png)
 
+Parcellation of aINS and pINS - Volumetric measures
+
 ![Parcellation of anterior an posterior Insula and volumetric measures](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/Insula_segmentation_with_3DSlicer/fullviews.png?raw=true)
+
+<p align="center">
+3D model of the "Insula of Reil"
+</p>
 
 <p align="center">
  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/Insula_segmentation_with_3DSlicer/aINS_pINS_1.gif?raw=true"/>
