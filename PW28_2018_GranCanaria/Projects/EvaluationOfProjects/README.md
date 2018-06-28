@@ -58,6 +58,8 @@ Slicer has proven to be very useful for "voxel printing" anatomical models, whic
 
   <img src="voxel_printing.png" width="900" height="360">
 
+C. Bader, D. Kolb, J. C. Weaver, S. Sharma, A. Hosny, J. Costa, N. Oxman, Making data matter: Voxel printing for the digital fabrication of data across scales and domains. Sci. Adv. 4, eaas8652 (30 May 2018).
+
 Slicer can perfom the required 3D interpolation and slicing that is required for this technique. 
 
 ## Illustrations
