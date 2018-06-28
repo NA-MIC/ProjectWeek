@@ -43,14 +43,28 @@ Back to [Projects List](../../README.md#ProjectsList)
   * Capture more data
   * Export acquired images before shutting down
 * Improve Plus server launcher
-* Possible extension (This is an addition after the zoom meeting, so it needs to be discussed): Add functionality for combining streams in the client:
-  * Let's say the server streams positions for several tools, one of them being an ultrasound probe. In addition the ultrasound video is also being streamed. The client then have to combine the ultrasound video stream with the probe position stream. It may be possible to add this functionality to OpenIGTLinkIO, so that users of the library don't have to create their own solutions.
+* Possible extension: Add functionality for combining streams in the OpenIGTLinkIO client:
+  * Let's say you got one or more servers streaming several streams. Some of these streams may have to be combined in the client. It may be possible to add this functionality to OpenIGTLinkIO, so that users of the library don't have to create their own solutions. These combined tools may be similar to the combinations set up in the PLUS config file, but that may not be necssary, as the client may have other preferences, and OpenIGTLinkIO should not rely on the internal structures in PLUS. Examples: 
+    * PLUS streams ultrasound video, and some tracking hardware streams the positions of all the tools.
+    * The setup uses a tool that supplies several positions at the same time.
+    * Different hardware may all stream OpenIGTLink/OpenIGTLinkIO messages directly, and PLUS may not be used at all.
 
 ## Progress and Next Steps
+* Moved the ultrasound meta information tag names from PLUS to igtlio.
+* Made PLUS send the ultrasound sector information as meta information instead of string messages.
+  * This is currently only implemented in the BK interface. The BK interface can be configured in test mode (where it just sends a still image) to test this functionality.
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 ## Future work
 * Define a standard for Plus to timestamp every data item send it in the metadata.
+* Implement sending of ultrasound meta information in PLUS for more ultrasound scanners.
+* Create a handshaking protocol in OpenIGTLink that gives the users of the library information about the capabilities of both the client and the server. Like:
+  * Max OpenIGTLink version
+  * Max OpenIGTLink header version
+  * Any special dialects
+* Create a deviceNameLong field in the OpenIGTLink meta information field that provides the device name in a format that is not truncated.
+* Implement support in OpenIGTLinkIO for combining streams into tools. The information needed for this can be set as meta data information. This recreation of tools combining multiple streams don't necessarily have to mirror the structures in the PLUS config file, and it have to be possible to combine streams from several sources at the same time (also from sources outside PLUS).
+ 
 
 # Illustrations
 
