@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Improve/Test multivolume preclinical MRI data import (DCE, DTI, ASL, T1 mapping). 
+# Improve/Test multivolume preclinical MRI data import (DCE, DTI). 
 
 ## Key Investigators
 
@@ -10,30 +10,33 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Multivolume DICOM data from Bruker preclinical MRI scanners (Paravision version 6) has information in the DICOM header that is incorrectly read into Slicer. Specifically, dynamic MRI DICOM frame data and DTI gradient data needs to be fixed.
+Multivolume DICOM data from Bruker preclinical MRI scanners (Paravision version 6) is incorrectly read into Slicer. Specifically, dynamic MRI DICOM frametime data and DTI gradient data needs to be fixed.
 
 ## Objective
 
 1. Modify the multivolume importer to correctly display and represent preclinical DCE MRI DICOM data, or make a new module.
 1. Modify the DTI loader, or make a new module.
-1. Test import of ASL and T1 mapping data - if there is a problem, fix it.
+1. Test import of other multivolume data, e.g. ASL and T1 mapping data - if there is a problem, fix it.
 
 ## Approach and Plan
 
 1. Collect examples of preclinical data.
 1. The first correction for DCE is to make sure the frame time in DCE MRI is not merely copied from the 'RepetitionTime' field in the DICOM files. Instead, this should be multiplied by the number of phase encoding steps. 
-1. Identify the Slicer format of DTI data.
-1. Implement a Matlab Bridge module "LoadBruker" that correctly loads all the various Bruker data sets: DCE, ASL, T1 mapping, DTI (with the correct gradient directions).
-1. Convert the Matlab Bridge module to Python/Slicer.
+1. As a prototype, implement a Matlab Bridge module "LoadBruker" that correctly loads all the various Bruker data sets.
+1. Implement the fixes in Python, either as one module for Bruker MRI data, or within the existing data loading modules, multivolumeimporter and DWIconvert.
 
 ## Progress and Next Steps
-
-1. Various preclinical data sets were assembled, including DCE, DTI, T1 mapping, and cASL:
+<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+Progress
+- Various preclinical data sets were assembled:
 
 https://www.dropbox.com/sh/5qo2kay9w7bi92t/AADvQtsKR3SJBS2HlReN1q-Ma?dl=0
 
+- Matlab Bridge module 'Correct Bruker' was written and fixed DCE imported data  - see screenshots below.
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+Next Steps
+- Identify the Slicer format of DTI data and add the correction for DTI data to the Matlab Bridge 'Correct Bruker' module.
+- Convert the 'Correct Bruker' module to Python (see Project list) OR incorporate the corrections in existing modules.
 
 # Illustrations
 
