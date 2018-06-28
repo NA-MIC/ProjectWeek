@@ -31,7 +31,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
-* Widget implemented, (PR issued)[https://github.com/Slicer/Slicer/pull/975]
+* Widget implemented, [PR issued](https://github.com/Slicer/Slicer/pull/975)
 
 # Illustrations
 Geometry widget with volume type input:
