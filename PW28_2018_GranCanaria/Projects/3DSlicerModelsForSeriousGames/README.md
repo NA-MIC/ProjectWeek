@@ -44,7 +44,7 @@ These scenarios will be using models of images imported from 3DSlicer.
 ## Illustrations
 Pelvis Quiz.
 
-<img src="Chest.png" width="500" height="167">
+<img src="PelvisQuiz.jpg" width="500" height="300">
 
 Export / Import example.
 
