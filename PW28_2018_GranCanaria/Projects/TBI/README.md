@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Andrei Irimia (University of Southern California)
-- Lauren O'Donnell (BWH - HMS)
+- Lauren O'Donnell (Harvard Medical School)
 
 # Project Description
 
@@ -19,11 +19,11 @@ Concussions (also known as mild traumatic brain injuries, or mTBIs) have relativ
 
 ## Approach and Plan
 
-1. To be determined.
+The two PIs held preliminary discussions to identify Slicer modules and other software which can be used to automatically trace white matter fasciculi in dMRI volumes acquired from patients with concussions. It was agreed that the methodologies developed by the O'Donnell research group could have substantial potential for the longitudinal analysis being undertaken by the Irimia Laboratory at USC. One direction of particular interest involves the application of streamline analysis and atlas-based fiber labeling to identify perilesional fibers whose integrity could be affected by the breakdown of the blood-brain barrier (BBB). 
 
 ## Progress and Next Steps
 
-<!-- To be added. -->
+The PIs agreed to perform a feasibility assessment in order to determine the best strategies and data analysis workflows which can be employed to further our quantitative understanding of BBB breakdown after mTBI. In the future this may include cooperation on reproducibility studies spearheaded at HMS and translational/clinical inference studies on neurovascular pathology being conducted at USC. Conversations with C-F Westin and Tina Kapur were also helpful in identifying additional tools and analysis pipelines which are available in Slicer and which can be leveraged to improve our understanding of post-traumatic connectome changes associated with micro-hemorrhagic vasculopathies.
 
 # Illustrations
 
@@ -35,8 +35,6 @@ Concussions (also known as mild traumatic brain injuries, or mTBIs) have relativ
 
 # Background and References
 
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
+More information on research being conducted in the Irimia Laboratory at USC can be found at [www.andrei-irimia.com]. 
 
-- Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
