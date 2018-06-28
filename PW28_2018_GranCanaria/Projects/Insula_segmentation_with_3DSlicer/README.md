@@ -40,6 +40,7 @@ Implement a method to accurately parcellate the anatomical structure Insula of R
 # Illustrations
 
 ![Insula Circular Sulcus and Central Sulcus in the parcellation method of aINS and pINS](Insula_Project.png)
+
 ![Parcellation of anterior an posterior Insula and volumetric measures](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/Insula_segmentation_with_3DSlicer/fullviews.png?raw=true)
 
 # Background and References
