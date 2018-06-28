@@ -34,6 +34,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
+![SlicerPRISM](SlicerPRISM-2018-06-28.png)
+
 [Prototyping Respository](https://github.com/pieper/VTKCustomShaders)
 
 ### Proof of concept
@@ -43,7 +45,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 ### Result
 [YouTube video of SlicerPRISM in action](https://youtu.be/yiEI_yBMu8k)
 
-![SlicerPRISM](SlicerPRISM-2018-06-28.png)
 
 # Illustrations
 
