@@ -50,9 +50,19 @@ Back to [Projects List](../../README.md#ProjectsList)
     * Different hardware may all stream OpenIGTLink/OpenIGTLinkIO messages directly, and PLUS may not be used at all.
 
 ## Progress and Next Steps
-* Moved the ultrasound meta information tag names from PLUS to igtlio.
+* Moved the ultrasound meta information tag names from PLUS to igtlio: [igtlioUsSectorDefinitions.h](https://github.com/IGSIO/OpenIGTLinkIO/blob/174dc1da2064265d77093be4eaa3b172334e163b/Converter/igtlioUsSectorDefinitions.h#L5)
 * Made PLUS send the ultrasound sector information as meta information instead of string messages.
   * This is currently only implemented in the BK interface. The BK interface can be configured in test mode (where it just sends a still image) to test this functionality.
+* Identifyed that there is a bug in PLUS, making it not use OpenIGTLink header version 2: https://github.com/PlusToolkit/PlusLib/issues/374
+* Ultrasound meta information being sent by PLUS (When the above bug is fixed). All these values are needed for automatically recreating the ultrasound sector in the client. See [vtkPlusUsDevice.h](https://github.com/PlusToolkit/PlusLib/blob/018aad4b8687e7e8d49eecb62f7d1fae3ef3e7e5/src/PlusDataCollection/vtkPlusUsDevice.h#L88):
+  * ProbeType
+  * Origin
+  * Angles
+  * BoundingBox
+  * Depths
+  * LinearWidth
+  * SpacingX
+  * SpacingY
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 ## Future work
@@ -68,7 +78,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+Example image of CustusX using PLUS to receive ultrasound sector parameters as OpenIGTLink meta information from the BK interface in PLUS, by using OpenIGTLinkIO for the client in CustusX.
+![CustusX](CustusX_screendump.png)
 
 # Background and References
 
