@@ -43,6 +43,8 @@ Implement a method to accurately parcellate the anatomical structure Insula of R
 
 ![Parcellation of anterior an posterior Insula and volumetric measures](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/Insula_segmentation_with_3DSlicer/fullviews.png?raw=true)
 
+![Insula of Reil - aINS, pINS](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/Insula_segmentation_with_3DSlicer/aINS_pINS_1.gif?raw=true)
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
