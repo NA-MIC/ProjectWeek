@@ -37,6 +37,16 @@ These scenarios will be using models of images imported from 3DSlicer.
 
 ## Progress and Next Steps
 
+1. Implementation of a prototype developed in unity using a 3DSlicer segmentation.
+
+Pelvis Quiz.
+
+<img src="Chest.png" width="500" height="167">
+
+
+1. Study different interaction possibilities with the prototype.
+1. Plan the incremental approach to new scenarios with other game.
+
 ## Illustrations
 
 Export / Import example.
