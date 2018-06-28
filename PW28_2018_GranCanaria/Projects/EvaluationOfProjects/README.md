@@ -49,7 +49,7 @@ Project #2: SlicerVR was considered. Our roadmap:
   - Focus on spine surgery (worst case scenario).
   - Assess intraoperative ultrasound for spine surgery, and perform 3D reconstruction using trackers.
   - Build an ultrasound phantom to validate the setup. It should include the spine and surrouding main vessels (aorta!)
-  - Use VR to navigate the model and US-3D volume.
+  - Use VR to navigate the model and US-3D volume to locate blood vessels, muscle or cartilage during tumor resection
   
 Project #3: Postponed for reevaluation.
 
