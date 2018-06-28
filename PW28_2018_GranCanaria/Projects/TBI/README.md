@@ -29,12 +29,14 @@ The PIs agreed to perform a feasibility assessment in order to determine the bes
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-<!--![Description of picture](Example2.jpg)-->
+![Tracts apparently affected by TBI](Irimia-measurements.jpg)
 
-<!--![Some more images](Example2.jpg)-->
+![Tracts in atlas](AtlasAndClusters.jpg)
 
 # Background and References
 
 More information on research being conducted in the Irimia Laboratory at USC can be found at [www.andrei-irimia.com]. 
 
-- Documentation: https://link.to.docs
+More information about the white matter atlas and clustering from Dr. O'Donnell's group can be found at [http://dmri.slicer.org/atlases/]
+
+<!-- - Documentation: https://link.to.docs -->
