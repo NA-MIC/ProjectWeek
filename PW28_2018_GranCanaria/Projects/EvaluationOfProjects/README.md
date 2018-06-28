@@ -56,8 +56,7 @@ Project #3: Postponed for reevaluation.
 Bonus project: (!)
 Slicer has proven to be very useful for "voxel printing" anatomical models, which is a 3D-printing technique that can provide very realistic results - 3D in full color, various degrees of elasticity - and that does not require segmentation, nor the creation of an STL file. Other multi-colored 3D-printing techniques require one STL per color, and the colors are therfore "solid".
 
-  <img src="voxel_printing.png" width="900" height="360">
-
+  <img src="voxel_printing.png" width="950" height="350">
 C. Bader, D. Kolb, J. C. Weaver, S. Sharma, A. Hosny, J. Costa, N. Oxman, Making data matter: Voxel printing for the digital fabrication of data across scales and domains. Sci. Adv. 4, eaas8652 (30 May 2018).
 
 Slicer can perfom the required 3D interpolation and slicing that is required for this technique. 
