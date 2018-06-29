@@ -4,10 +4,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Tina Vajsbaher (University of Bremen) - Travel funding from Erasmus + Staff Mobility Grant
+- Tina Vajsbaher (University of Bremen, Germany) - Travel funding from Erasmus + Staff Mobility Grant
 - Csaba Pinter (Queen's University, Canada)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
-- Gino Gulamhussene (University of Magdeburg)
+- Gino Gulamhussene (University of Magdeburg, Germany)
+- Miguel Angel Rodriguez Florido (Laboratorio de Simulación y Formación basada en Tecnología, Las Palmas de Gran Canaria)
 
 ## External Investigators
 - Holger Schultheis (University of Bremen)
