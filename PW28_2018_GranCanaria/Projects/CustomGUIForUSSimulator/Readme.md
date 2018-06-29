@@ -25,17 +25,32 @@ The main goal of this project is to develop a custom graphic user interface (GUI
 
 ## Progress and Next Steps
 
+We defined several sketchs and chose the better sketch which satisfied the user requirements:
+   - US images in 2D viewer
+   - 3D scene for the training system (tools and phantom)
+   - IGT connection management (buttons and text) 
+
+
+
+In first proposal, we implemented the chosen user interface in slicelet module. The slicelet provides a simple way to customize the user interface but our real-time requirement is not fulfilled.    
+
+In second proposal, we developed the user interface in Guidelet module after the Perklab team's suggestion. This guidelet is better suited to real-time applications and, hence, we decided to implement this alternative solution. The user interface is based on the template provided by the Guidelet module.  
+
+
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Tools and a phantom](Instrumentosandphatom.jpg)
+<img src="Instrumentosandphatom.jpg" width="300" >
+<!-- ![Tools and a phantom](Instrumentosandphatom.jpg = 50x50) -->
 
 Tools and a phantom
 
-![GUI sketch](SketchGUI.png)
+<!-- ![GUI sketch](SketchGUI.png = 50x50) -->
+
+<img src="SketchGUI.png" width="500" >
 
 GUI sketch
 
