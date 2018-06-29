@@ -18,6 +18,6 @@
 
 - [Casa África](http://www.casafrica.es/agenda_europa_africa.jsp?DS318.PROID=903669)
 
-- [20180628 RTVC](http://www.rtvc.es/television/multimedia/Telenoticias%202-1937/28-06-18-1887.aspx#.WzYUrOFKg5k)
+- [20180628 RTVC - 20'58''](http://www.rtvc.es/television/multimedia/Telenoticias%202-1937/28-06-18-1887.aspx#.WzYUrOFKg5k)
 
 
