@@ -42,6 +42,8 @@ Notebook showing code and viewer content:
 
 ![Screenshot of a notebook 2](NotebookOnly.png)
 
+Complete notebook rendered on GitHub: https://github.com/lassoan/SlicerNotebooks/blob/master/My%20first%20Slicer%20notebook.ipynb
+
 # Background and References
 
 - [SlicerJupyter extension](https://github.com/Slicer/SlicerJupyter)
