@@ -52,6 +52,8 @@ Temperature Comparisons.
 + (b) Segmented feet in the IR image
 + (c) Result when comparing the temperature of the feet.
 
+![](https://gph.is/2KwjY1v)
+
 ## Background and References
 
 + [3D Slicer](https://www.slicer.org)
