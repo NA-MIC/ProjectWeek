@@ -53,8 +53,8 @@ as collaboation in other research projects.
   - Train the trainers
 1. Plan a new training program for Mozambique
   - Traiin the trainers 
-   -- Students at the university
-   -- Residents - profiles: General / Images / Surgeons
+    - Students at the university
+    - Residents - profiles: General / Images / Surgeons
 1. Continue working in the development of training contents - learning objects - in: [English, French, Portuguese, Arabic, Spanish](https://mt4sd.ulpgc.es/slicer-int/index.php/P%C3%A1gina_principal)
 
 <img src="Training_1.png" width="600" height="200">
