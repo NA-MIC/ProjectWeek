@@ -26,10 +26,9 @@ To improve and update the Slicer plug-ins we have developped for pyDBS and EpiLO
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
-Developments :
-- update of our plug-ins :
-  Jordan : updating and improving post-operative Slicer plug-in in pyDBS
-  Sara : planning of surgical iEEG exploration procedure for epilepsy
+Development of our plug-ins :
+  - Jordan : updating and improving post-operative Slicer plug-in in pyDBS
+  - Sara : planning of surgical iEEG exploration procedure for epilepsy
 
 Discussions about developments :
 - Csaba and Andras :  how to use  SegmetEditorLogicalEffect in python to intersect segments
