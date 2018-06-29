@@ -69,7 +69,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 ## Future work
 * Define a standard for Plus to timestamp every data item send it in the metadata.
-* Implement sending of ultrasound meta information in PLUS for more ultrasound scanners.
+* vtkPlusDevice should include a container for metadata to be send. This way, each device type can register data that it sends with every message. Currently, this is done with FrameFields in vtkPlusUSDevice, but it should be generalized to all device types. The list of available properties is now defined in the new OpenIGTLinkIO igtlioUsSectorDefinitions. This should be moved to a more generic file that contains properties for all device types. 
 * Create a handshaking protocol in OpenIGTLink that gives the users of the library information about the capabilities of both the client and the server. Like:
   * Max OpenIGTLink version
   * Max OpenIGTLink header version

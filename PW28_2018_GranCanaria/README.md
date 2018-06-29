@@ -6,7 +6,7 @@ Please read about our experience in running these events since 2005: [Increasing
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
 
 ## Photo Album
-The 28th NA-MIC PW [Event album](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing)
+The 28th NA-MIC PW [Event album](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing).
 
 ![Segment Editor in presentation in Casa África](CasaAfrica_SegmentEditor_Panorama.jpg)
 
@@ -118,7 +118,7 @@ Other
 
 1. [Integrating Free WaveForm sequence with DICOM](Projects/FWFintegration/README.md) (F. Szczepankiewicz, C-F. Westin)
 1. [Insula segmentation using 3D Slicer](Projects/Insula_segmentation_with_3DSlicer/README.md) (Filippo Cicali, Nikos Makris)
-1. [Intelligent and Adapative Minimally Invasive Surgery Simulation](Projects/AdaptiveMIS) (Tina Vajsbaher, Csaba Pinter, Juan Ruiz-Alzola, Gino Gulamhussene, Miguel Angel Rodriguez Florido)
+1. [Intelligent and Adapative Minimally Invasive Surgery Simulation](Projects/AdaptiveMIS) (Tina Vajsbaher, Csaba Pinter, Juan Ruiz-Alzola)
 1. [Uncertainty Estimation for Feature Based Registration](Projects/RegistrationUncertainty) (Sandy Wells)
 
 ## Registrants
@@ -174,7 +174,7 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Marko Rak (rak@isg.cs.ovgu.de) - University of Magdeburg - Germany
 1. Andrei Irimia (irimia@usc.edu) - University of Southern California - USA
 1. Anneke Meyer (anneke@isg.cs.uni-magdeburg.de) - University of Magdeburg - Germany
-1. Tina Vajsbaher (tina.vajsbaher@uni-bremen.de) - University of Bremen - Germany
+1. Tina Vajsbaher (tina.vajsbaher@gmail.com) - University of Bremen - Germany
 1. Gino Gulamhussene (gino@isg.cs.ovgu.de) - Institute for Simulation and Graphics OvGU University Magdeburg - Germany 
 1. Sara Fernández Vidal (sara.fdezvidal@gmail.com) - ICM Institute - France
 1. Eric Bardinet (eric.bardinet@upmc.fr) - ICM Institute - France
@@ -192,6 +192,6 @@ Do not add your name to this list - it is maintained by the organizers based on 
 
 <p><iframe src="//es.batchgeo.com/map/381b660baf8e3ccc6581a25cbf0a9bde" frameborder="0" width="100%" height="550" style="border:1px solid #aaa;"></iframe></p><p><small>View <a href="https://es.batchgeo.com/map/381b660baf8e3ccc6581a25cbf0a9bde">PW28 Registrants list</a> in a full screen map</small></p>
 
-Working in 27 joint projects from 6 different categories
+Working in 31 joint projects from 6 different categories
 
 <img src="Projects.png" width="800" height="300">
