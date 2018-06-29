@@ -1,14 +1,17 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Uncertainty estimation for feature based registration
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- William Wells
 
 # Project Description
+
+The overall goal is to use Gaussian process regression to estimate both deformations,
+as well as posterior distributions on deformations, from pairs of corresponding image
+features.  This week we focused on implementing a radial basis function spline using
+convolution and FFTs.
 
 <!-- Add a short paragraph describing the project. -->
 
