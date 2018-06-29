@@ -118,7 +118,7 @@ Other
 
 1. [Integrating Free WaveForm sequence with DICOM](Projects/FWFintegration/README.md) (F. Szczepankiewicz, C-F. Westin)
 1. [Insula segmentation using 3D Slicer](Projects/Insula_segmentation_with_3DSlicer/README.md) (Filippo Cicali, Nikos Makris)
-1. [Intelligent and Adapative Minimally Invasive Surgery Simulation](Projects/AdaptiveMIS) (Tina Vajsbaher, Csaba Pinter, Juan Ruiz-Alzola)
+1. [Intelligent and Adapative Minimally Invasive Surgery Simulation](Projects/AdaptiveMIS) (Tina Vajsbaher, Csaba Pinter, Andras Lasso, Gino Gulamhussene, Juan Ruiz-Alzola, Javier González Fernández, Donato Monopoli)
 1. [Uncertainty Estimation for Feature Based Registration](Projects/RegistrationUncertainty) (Sandy Wells)
 
 ## Registrants
