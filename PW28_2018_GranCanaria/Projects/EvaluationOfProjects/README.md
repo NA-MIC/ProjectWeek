@@ -49,11 +49,11 @@ Proposals:
 
 Project #1: 'Software for orthognathic surgical planning'
 
-SlicerCMF (CranioMaxiloFacial app) was preliminary evaluated, capabilities and examples look promising (Thanks JC!)
+  SlicerCMF (CranioMaxiloFacial app) was preliminary evaluated, capabilities and examples look promising (Thanks JC!)
 
 Project #2: 'Augmented reality for patient-specific implant surgery'
 
-SlicerVR was considered. Our roadmap: 
+  SlicerVR was considered. Our roadmap: 
   - Focus on spine surgery (worst-case scenario).
   - Assess intraoperative ultrasound for spine surgery, and perform 3D reconstruction using trackers.
   - Build an ultrasound phantom to validate the setup. It should include the spine and surrouding main vessels (aorta!)
