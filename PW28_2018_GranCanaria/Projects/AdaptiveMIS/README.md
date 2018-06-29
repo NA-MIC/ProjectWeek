@@ -7,11 +7,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Tina Vajsbaher (University of Bremen, Germany) - Travel funding from Erasmus + Staff Mobility Grant
 - Csaba Pinter (Queen's University, Canada)
 - Andras Lasso (Queen's University, Canada)
-- Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
+- Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi, Spain)
 - Gino Gulamhussene (University of Magdeburg, Germany)
-- Miguel Angel Rodriguez Florido (Laboratorio de Simulación y Formación basada en Tecnología, Las Palmas de Gran Canaria)
-- Javier González Fernández (Instituto Tecnológico de Canarias)
-- Donato Monopoli (Instituto Tecnológico de Canarias)
+- Miguel Angel Rodriguez Florido (Laboratorio de Simulación y Formación basada en Tecnología, Spain)
+- Javier González Fernández (Instituto Tecnológico de Canarias, Spain)
+- Donato Monopoli (Instituto Tecnológico de Canarias, Spain)
 
 ## External Investigators
 - Holger Schultheis (University of Bremen)
