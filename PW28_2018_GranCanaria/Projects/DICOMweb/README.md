@@ -59,9 +59,19 @@ Here's an example endpoint for testing:
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+* Learned a lot about web security implementations, single sign on, proxies, etc
+* Working dicom archive with access managed by keycloak
+* Updated docker compose [with archive and viewer](https://github.com/OHIF/integration-examples/tree/master/ohif-dcm4chee-secureUI)
+* Able to launch OHIF Viewer on selected studies from secured teamplay login
 
 # Illustrations
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+
+![Architecture](DICOMweb-arch.png)
+![Login](DICOMweb-login.png)
+![Query](DICOMweb-studylist.png)
+
+
 
 # Background and References
 
