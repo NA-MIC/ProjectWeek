@@ -37,9 +37,10 @@ It is also encouraged to implement secure communication routines to interact wit
 
 
 ## Illustrations
+<p>
 <img src="Imagen1.png" width="652" height="356">
 Voxel location and average spectrum.
-
+</p>
 
 <img src="Imagen2.gif" width="652" height="356">
 Simulation of the voxel value (molecule concentration) changing in time (sequence). 
@@ -50,6 +51,7 @@ Slightly improvement of frame quality
 
 
 <img src="Imagen4.gif" width="600" height="321">
+</p>
 Denoised spectrum sequence (Matlab) 
 
 
