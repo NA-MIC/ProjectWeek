@@ -83,7 +83,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 Example image of CustusX using PLUS to receive ultrasound sector parameters as OpenIGTLink meta information from the BK interface in PLUS, by using OpenIGTLinkIO for the client in CustusX.
 ![CustusX](CustusX_screendump.png)
 
-
+| ![](ibis-switching-config.png) | ![](ibis-after-switching-config.png) |
 
 # Background and References
 
