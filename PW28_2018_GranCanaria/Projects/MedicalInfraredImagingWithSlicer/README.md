@@ -54,6 +54,7 @@ Temperature Comparisons.
 
 ![](https://gph.is/2KwjY1v)
 
+<video src="registration.mp4" width="500" height="400" controls preload></video>
 ## Background and References
 
 + [3D Slicer](https://www.slicer.org)
