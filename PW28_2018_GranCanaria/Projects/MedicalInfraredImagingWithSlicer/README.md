@@ -50,7 +50,7 @@ It is intended mainly for monitoring of foot ulcers in diabetic patients. The in
 
 Segmentation Module.
 
-<img src="SegmentationModule.png" width="400" height="250">
+<!--<img src="SegmentationModule.png" width="400" height="250">-->
 
 Temperature Comparisons.
 
@@ -66,10 +66,17 @@ Temperature Comparisons.
 
 <img src="IMG_6630.jpg" width="450" height="320">
 
+<img src="netw.png" width="650" height="320">
+
 <video src="acquisition_module.mp4" width="700" height="600" controls preload></video>
 
 <video src="registration.mp4" width="700" height="600" controls preload></video>
 
+<!--<video src="ModuloSegmentacion.mp4" width="700" height="600" controls preload></video>-->
+
+<img src="https://media.giphy.com/media/7JsUW5opGG2Alb8U5C/giphy.gif" width="760" height="340">
+
+Demonstration of the segmentation module
 
 ## Background and References
 

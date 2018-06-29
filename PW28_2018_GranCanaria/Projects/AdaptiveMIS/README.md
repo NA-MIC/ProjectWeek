@@ -1,48 +1,49 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Adaptive MIS
+# Intelligent and Adapative Minimally Invasive Surgery Simulation 
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Tina Vajsbaher (University of Bremen) - Travel funding from Erasmus + Staff Mobility Grant
+- Csaba Pinter (Queen's University, Canada)
+- Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
+- Gino Gulamhussene (University of Magdeburg)
+
+## External Investigators
+- Holger Schultheis (University of Bremen)
+- Ron Kikinis (University of Bremen & Harvard Medical School)
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+This project focuses on designing and implementing an intelligent and adaptive MIS surgical training system, which would allow a user to obtain relevant cognitive, motoric and non-technical skills, within a game based environment. The goal is to design a simulation system, which would track, monitor and adapt to the overall performance of the user. 
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+The objective is to create a MIS simulation system, which would analyse and monitor the users performance and would adept to the complexity of the task accordingly.
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Objective A. Design MIS related, and game based, tasks
+1. Objective B. Simulate the movement of the physical instruments inside the game
+1. Objective C. Apply AI methods to make the simulator more intelligent and adapative
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Designing user-interface and Unity based games, to simulate MIS conditions
+1. Implimentation and use of the metrices from the PerkTutor and SlicerIGT 
+1. Synchronisation of the MIS instruments (optical tracker) with the Unity based game
+1. Visual modeling
+1. Exploration and implimentation of AI methods (Student modelling, intelligent tutoring system) for the game application
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Brainstorming the methods for the optimal instrument calibration of the optical tracker
+1. Liasing with the Simulation Lab at the University Complejo Hospital, for optimising the proposed simulation for clinical use
+1. Next step: Work closely with the PerkLab using PerkTutor and SlicerIGT for laparoscopy CBME training for the Unity-based application for simulation “games” using 3D-printed laparoscopy tools. 
+1. Find a way to accurately track the MIS instruments, using the metrics collected and calculated by the PerkTutor 
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
 
-# Background and References
+![bla](Screen Shot 2018-06-29 at 10.52.12.png)
+![bla2](Screen Shot 2018-06-29 at 10.52.22.png)
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+

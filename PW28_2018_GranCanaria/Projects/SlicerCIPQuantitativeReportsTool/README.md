@@ -41,8 +41,9 @@ Slicer CIP has been conceived as a workstation for radiologists, but is also sui
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![Report Example 1](PDFReportForEmphysema.png)
-![Report Example 2](PDFReportForAVRatioModule.png)
+<!--![Report Example 1](PDFReportForEmphysema.png)-->
+![Report Example 1](ReportPic.png)
+<!--![Report Example 2](PDFReportForAVRatioModule.png)-->
 
 <!--![Some more images](Example2.jpg)-->
 

@@ -49,7 +49,18 @@ as collaboation in other research projects.
 
 ## Progress and Next Steps
 
-1. Plan a new trainig program for Mauritania and Mozambique. Different programs for different profiles. 
+1. Plan a new training program for Mauritania. 
+  - Train the trainers
+1. Plan a new training program for Mozambique
+  - Students at the university
+  - Residents - profiles: General / Images / Surgeons
+1. Continue working in the development of training contents - learning objects - in: [English, French, Portuguese, Arabic, Spanish](https://mt4sd.ulpgc.es/slicer-int/index.php/P%C3%A1gina_principal)
+
+<img src="Training_1.png" width="600" height="250">
+
+[![Watch the video](Training_2.png)](https://www.youtube.com/watch?v=ey4Rpt-AUPs&t=65s)
+[![Watch the video](Training_3.png)](https://www.youtube.com/watch?v=XqaItC_Qkgs&t=167s)
+[![Watch the video](Training_4.png)](https://www.youtube.com/watch?v=Wy1PuALyeUE&t=242s)
 
 
 ## Illustrations

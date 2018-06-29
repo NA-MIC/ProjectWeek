@@ -6,7 +6,9 @@ Please read about our experience in running these events since 2005: [Increasing
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
 
 ## Photo Album
-The 28th NA-MIC PW [Event album](https://drive.google.com/open?id=1BnXnsKctonR-jr4SjI0_5eLl58rKSK_T)
+The 28th NA-MIC PW [Event album](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing)
+
+![Segment Editor in presentation in Casa África](CasaAfrica_SegmentEditor_Panorama.jpg)
 
 ## Logistics
 

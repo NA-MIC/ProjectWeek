@@ -35,6 +35,8 @@ Chest Imaging Platform migration to Python 3.
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. After some work during the week, integration seems very reasonable, and not many issues have come up so far.
+1. The next release will be only Python2 compatible, but next one will support both versions
 
 
 # Background and References
