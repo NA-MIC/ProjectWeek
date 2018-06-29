@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - ~~Till Best~~
 - [Nikos Makris](https://lmi.med.harvard.edu/people/nikos-makris) (Brigham and Women's Hospital and Harvard Medical School, USA)
 - Filippo Cicali (Massachusetts General Hospital and Harvard Medical School, USA)
+- Tina Kapur (Brigham and Women’s Hospital and Harvard Medical School, USA)
 
 ## Participating
 - [Marco Nolden](https://www.dkfz.de/en/mic/team/people/Marco_Nolden.html) (DKFZ, Germany)
@@ -35,6 +36,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 * Insula segmentation in MRI with Filippo Cicali and Nikos Makris
   * Possible solution: Use Grow from seeds iteratively, then use scissors and masked paint to cut
   * Consider speeding up segmentation by using a stylus instead of a mouse, and explore faster ways of slice navigation (3D mouse, webcam tracking, etc?)
+* Brachytherapy needle segmentation in MRI for training deep learning models
+  * Possible solution: Add "tube" mode from Markups to Models extension to Segment Editor, as an option to surface cut or a new effect in a new extension
+  * Deep learning training support: need cohort segmentation slicelet that allows configuring segment editor before segmenting first patient for simpler, less distracting user interface for easier usage and smoother and more reliable segmentation workflow  
 * Minor help to multiple projects involving segmentation
 
 # Illustrations
