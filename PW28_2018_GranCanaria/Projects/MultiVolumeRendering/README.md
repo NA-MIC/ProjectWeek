@@ -59,9 +59,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 | ![](edge-and-shading.png) | ![](decluttered-crop.png) | ![](volume-carving-crop.png) |
 
 
-| Blood flow animation in PRISM | a | a | 
+| Blood flow animation in PRISM |  |  | 
 | --- | --- | --- |
-| ![](flow-illustration-crop.png) | a | a |
+| ![](flow-illustration-crop.png) |  |  |
 
 
 # Background and References
