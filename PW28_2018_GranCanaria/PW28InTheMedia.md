@@ -14,7 +14,8 @@
 - [Azarplus](http://www.azarplus.com/2018-06-26/la-genetica-es-fundamental-en-el-desarrollo-de-la-ludopatia/16615/noticia/)
 
 
-- [RTVC](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.rtvc.es%2Ftelevision%2Fmultimedia%2FTelenoticias%25201-46%2F25-06-18-1876.aspx%23.WzH8jBL0mu4&h=AT3liQ28fkD4rOnrBv0s8AobwrCDVvXDJeyHU68mqwlELKi2mR9yrtMGTZ7JuU13hqBlXInzm06R3pJsnJgPvzpeSVvCrBMU0sSUHPIrhBLbmK1_LlBimMh_Z5d3oA4UyBd5caQKSw)
+- [RTVC - 21'10''](http://www.rtvc.es/television/multimedia/Telenoticias%201-46/25-06-18-1876.aspx#.WzYOONJKjIV) 
 
+- [Casa África](http://www.casafrica.es/agenda_europa_africa.jsp?DS318.PROID=903669)
 
 
