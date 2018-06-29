@@ -44,7 +44,7 @@ Implement a method to accurately parcellate the anatomical structure Insula of R
 
 Procedure:
 
-	To achieve the goal of obtain the best balance between accuracy and time consume we studied in deep the possible combinations of the tools available in the Segment Editor, interacting with the developers.
+To achieve the goal of obtain the best balance between accuracy and time consume we studied in deep the possible combinations of the tools available in the Segment Editor, interacting with the developers.
 After various trying with the Segment editor tools 'threshold painting', 'grow from seeds', 'watershed', 'fill between the slices', 'tracing level' the actual results are obtained with the following procedure:
 
 1) On a T1 MRI image, using the Segment Editor module, add 3 segments (the first for the background, the second for the whole Insula, the third will be used for the separation, becoming pINS). 
