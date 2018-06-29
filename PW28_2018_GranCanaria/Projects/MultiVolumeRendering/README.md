@@ -33,6 +33,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 * Replicate the US heart rendering of Philips machine with data from Matt Joley.
 
 ## Progress and Next Steps
+* Provided a proof of concept (python script) for dynamic shader editing in Slicer (see image, video and link to script below)
+* Started documenting the new volume rendering functionality of VTK [here](https://docs.google.com/document/d/1TBewDwBLdoAsl2Gm8ERcQXGhyLkr_zrqAtDiQYXRpdA/edit?usp=sharing)
+* Suggested improvements:
+  * VTK: expose interface for setting custom uniform variables in vtkGPUOpenGLRaycastMapper
+  * Slicer: Build an interface to interactively edit shader code, visualize the complete shader and display shader compilation errors.
 
 ![SlicerPRISM](SlicerPRISM-2018-06-28.png)
 
