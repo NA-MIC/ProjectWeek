@@ -58,6 +58,11 @@ as collaboation in other research projects.
 
 <img src="Training_1.png" width="600" height="250">
 
+[![Watch the video](Training_2.png)](https://www.youtube.com/watch?v=ey4Rpt-AUPs&t=65s)
+[![Watch the video](Training_3.png)](https://www.youtube.com/watch?v=XqaItC_Qkgs&t=167s)
+[![Watch the video](Training_4.png)](https://www.youtube.com/watch?v=Wy1PuALyeUE&t=242s)
+
+
 ## Illustrations
 
 February - March training sessions.
