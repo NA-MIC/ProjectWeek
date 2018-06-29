@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Tina Vajsbaher (University of Bremen) - Travel funding from Erasmus + 
+- Tina Vajsbaher (University of Bremen) - Travel funding from Erasmus + Staff Mobility Grant
 - Csaba Pinter (Queen's University, Canada)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 - Gino Gulamhussene (University of Magdeburg)
@@ -28,20 +28,21 @@ The objective is to create a MIS simulation system, which would analyse and moni
 ## Approach and Plan
 
 1. Designing user-interface and Unity based games, to simulate MIS conditions
-1. Implimentation of PerkTutor and SlicerIGT for CBME training.
-1. Synchronising MIS instruments (optical tracker) with the Unity based game
+1. Implimentation and use of the metrices from the PerkTutor and SlicerIGT 
+1. Synchronisation of the MIS instruments (optical tracker) with the Unity based game
 1. Visual modeling
 1. Exploration and implimentation of AI methods (Student modelling, intelligent tutoring system) for the game application
 
 ## Progress and Next Steps
 
 1. Brainstorming the methods for the optimal instrument calibration of the optical tracker
-1. ...
-1. ...
+1. Liasing with the Simulation Lab at the University Complejo Hospital, for optimising the proposed simulation for clinical use
+1. Next step: Work closely with the PerkLab using PerkTutor and SlicerIGT for laparoscopy CBME training for the Unity-based application for simulation “games” using 3D-printed laparoscopy tools. 
+1. Find a way to accurately track the MIS instruments, using the metrics collected and calculated by the PerkTutor 
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
+
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
