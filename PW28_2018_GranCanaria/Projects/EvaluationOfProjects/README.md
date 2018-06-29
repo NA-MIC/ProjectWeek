@@ -49,11 +49,11 @@ Proposals:
 
 Project #1: 'Software for orthognathic surgical planning'
 
-  SlicerCMF (CranioMaxiloFacial app) was preliminary evaluated, capabilities and examples look promising (Thanks JC!)
+SlicerCMF (CranioMaxiloFacial app) was preliminary evaluated, capabilities and examples look promising (Thanks JC!)
 
 Project #2: 'Augmented reality for patient-specific implant surgery'
 
-  SlicerVR was considered. Our roadmap: 
+SlicerVR was considered. Our roadmap: 
   - Focus on spine surgery (worst-case scenario).
   - Assess intraoperative ultrasound for spine surgery, and perform 3D reconstruction using trackers.
   - Build an ultrasound phantom to validate the setup. It should include the spine and surrouding main vessels (aorta!)
@@ -62,10 +62,10 @@ Project #2: 'Augmented reality for patient-specific implant surgery'
 Project #3: 'A simulator for the humerus and ulna articular surfaces'
 Postponed for reevaluation.
 
-Bonus project: (!)
+(Bonus) Project #4:
 Slicer has proven to be very useful for "voxel printing" anatomical models, which is a 3D-printing technique that can provide very realistic results - 3D in full color, transparency, various degrees of elasticity - and that does not require segmentation, nor the creation of an STL file. Other multi-color 3D-printing techniques require one STL per color, and the colors are therefore "solid".
 
-Slicer can perfom the required 3D interpolation and slicing that is required for this technique. 
+Slicer can effortlessly perfom the required 3D interpolation and slicing that is required for this technique. 
 
 ## Illustrations
 The following are real 3d-printed anatomical models - not renders - using 'voxel printing'
