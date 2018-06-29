@@ -56,7 +56,7 @@ as collaboation in other research projects.
   - Residents - profiles: General / Images / Surgeons
 1. Continue working in the development of training contents - learning objects - in: [English, French, Portuguese, Arabic, Spanish](https://mt4sd.ulpgc.es/slicer-int/index.php/P%C3%A1gina_principal)
 
-<img src="Training_1.png" width="600" height="250">
+<img src="Training_1.png" width="550" height="225">
 
 [![Watch the video](Training_2.png)](https://www.youtube.com/watch?v=ey4Rpt-AUPs&t=65s)
 [![Watch the video](Training_3.png)](https://www.youtube.com/watch?v=XqaItC_Qkgs&t=167s)
