@@ -38,11 +38,11 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 ## Upcoming Project Weeks
 
 - **[2018 July: Satellite Project Event 29](PW29_2018_London_Canada/README.md)** - The 29th Project Event will be held on July 16-20, 2018 at London, Ontario, Canada. This is a satellite event with a slight focus on new users and community expansion.
-- [2019 January: Project Event 30](PW30_2018_Boston/README.md) - The **30th Project Event** to be held on January 7-11, 2019 at MIT, Cambridge, MA.
+- **[2019 January: Core Project Event 30](PW30_2018_Boston/README.md)** - The **30th Project Event** to be held on January 7-11, 2019 at MIT, Cambridge, MA.
 
 ## Past Project Weeks
 
-- **[2018 June: Core Project Event 28](PW28_2018_GranCanaria/README.md)** - The 28th Project Event will be held on June 25-29, 2018 at Gran Canaria, Spain.
+- [2018 June: Core Project Event 28](PW28_2018_GranCanaria/README.md) - The 28th Project Event will be held on June 25-29, 2018 at Gran Canaria, Spain.
 - [2018 January: Project Event 27](PW27_2018_Boston/README.md) - The **27th Project Event** was held on January 8-12, 2018 at MIT, Cambridge, MA. It recorded 72 registered attendees, who worked on 52 projects and attended 5 breakout sessions.
 - [2017 July: Project Event 26](PW26_2017_London_Canada/README.md) - The **26th Project Event** was held on July 17-21, 2017, Robarts Research Institute, London, ON, Canada.
 - [2017 June: Project Event 25](https://www.na-mic.org/wiki/2017_Summer_Project_Week) - The **25th Project Event** was held on June 26-30, 2017, Catanzaro Lido, Calabria, Italy. It recorded 51 registered attendees, who worked on 29 projects.
