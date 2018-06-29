@@ -91,4 +91,5 @@ Parcellation of aINS and pINS - Volumetric measures
 
 # Background and References
 
+Makris, N., Goldstein, J. M., Kennedy, D., Hodge, S. M., Caviness, V. S., Faraone, S. V., ... & Seidman, L. J. (2006). Decreased volume of left and total anterior insular lobule in schizophrenia. Schizophrenia research, 83(2), 155-171.
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
