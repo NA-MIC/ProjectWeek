@@ -21,12 +21,14 @@ Two use cases: lung segmentation and pectoralise segmentation
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-
-![Lung segmentation + DFV](fig_25038K.png)
+![Lung segmentation](Lung_Segmentation.png)
 
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. The integration of Keras and Tensorflow had some issues in some platforms.
+1. Nevertheless, we are fixing the last issues and it should be ready next week.
+1. We are also working in speeding up the lung segmentation algorithm in order that CPU running is feasible
 
 
 # Background and References
