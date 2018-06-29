@@ -32,6 +32,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
+* Insula segmentation in MRI with Filippo Cicali and Nikos Makris
+  * Possible solution: Use Grow from seeds iteratively, then use scissors and masked paint to cut
+  * Consider speeding up segmentation by using a stylus instead of a mouse, and explore faster ways of slice navigation (3D mouse, webcam tracking, etc?)
+* Minor help to multiple projects involving segmentation
+
 # Illustrations
 Whole heart segmentation:
 
@@ -42,7 +47,8 @@ Spine phantom 3D printing:
 ![Spine phantom 3D printing](https://www.slicer.org/w/images/4/47/20180612_SegmentEditor_SpinePhantomMontage.png)
 
 Segment Editor in presentation in Casa África:
-![Segment Editor in presentation in Casa África](../../2018-06-28 16.26.03.jpg)
+
+![Segment Editor in presentation in Casa África](../../CasaAfrica_SegmentEditor_Panorama.jpg)
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
