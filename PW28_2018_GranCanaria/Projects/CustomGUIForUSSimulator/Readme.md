@@ -36,6 +36,8 @@ In first proposal, we implemented the chosen user interface in slicelet module. 
 
 In second proposal, we developed the user interface in Guidelet module after the Perklab team's suggestion. This guidelet is better suited to real-time applications and, hence, we decided to implement this alternative solution. The user interface is based on the template provided by the Guidelet module.  
 
+In this week, we developed a fully operational interface that can be used as GUI for our US simulator training system instead of the standard 3D Slicer one. We consider that the new, simpler interface is more suitable to include the simulator in training course for students.  Moreover, we learnt the way to modify sensitive aspects such as viewer layout, buttons, check boxes and other widgets, in anticipation of the changes that clinicians and users may request or suggest in the future.
+
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
@@ -53,6 +55,16 @@ Tools and a phantom
 <img src="SketchGUI.png" width="500" >
 
 GUI sketch
+
+<img src="Slicelet.png" width="500" >
+
+GUI in Slicelet version
+
+<img src="Guidelet.png" width="500" >
+
+GUI in Guidelet version
+
+  
 
 <!--![Description of picture](Example2.jpg)-->
 
