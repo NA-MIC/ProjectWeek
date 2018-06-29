@@ -28,7 +28,7 @@ It is intended mainly for monitoring of foot ulcers in diabetic patients. The in
 
 ## Approach and Plan
 
-1. To improve and test the acquisition, segmentation and registration modules for foot ulcer assessment in Slicer 3D.
+1. To finish the initial acquisition, segmentation & registration modules for foot ulcer assessment in Slicer 3D.
 2. To discuss and test other segmentation and registration approaches.
 3. To develop a new Slicer module for semi-automatic foot ulcer assessment using contralateral temperature comparison.
 4. Testing.
@@ -36,7 +36,15 @@ It is intended mainly for monitoring of foot ulcers in diabetic patients. The in
 
 ## Progress and Next Steps
 
+1. Progress
+- Acquisition module has been finished
+- Initial version of the segmentation & registration modules have been developed
+- The new Slicer module for semi-automatic foot ulcer assessment is in progress
 
+2. Next steps
+- To finish the module for semi-automatic foot ulcer assessment
+- To improve the camera calibration procedure
+- To test machine learning approaches for feet segmentation
 
 ## Illustrations
 
