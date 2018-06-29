@@ -34,7 +34,11 @@ Future plans:
 
 # Illustrations
 
+Side-by-side view of a Notebook and 3D Slicer:
+
 ![Screenshot of a notebook](NotebookSideBySide.png )
+
+Notebook showing code and viewer content:
 
 ![Screenshot of a notebook 2](NotebookOnly.png)
 
