@@ -26,6 +26,15 @@ To improve and update the Slicer plug-ins we have developped for pyDBS and EpiLO
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+Discussions about Developpements :
+- Csaba
+Discussions about dissemination of our modules:
+- Jean-Christophe Fillon-Robin, about Girder, that could be used to develop a web server
+- Csaba Pinter, about the development of a Slicer solution dedicated to Stereotaxy (build and custom options)
+- Steve Pieper, about dissemination of our stereotaxy modules, as an extension or a Slicer solution, about QMenta
+Discussions about our projects:
+- Lauren O'Donnell, about DMRI and how to use her atlas to map fiber tracts inside the basal ganglia in parkinsonian patients, and use this for anatomo-functional studies
+
 
 # Illustrations
 
