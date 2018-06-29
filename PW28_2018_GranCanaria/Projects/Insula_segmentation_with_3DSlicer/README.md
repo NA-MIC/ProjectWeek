@@ -70,6 +70,7 @@ SEPARATION OF ANTERIOR, POSTERIOR INSULA AND VOLUMETRIC MEASURES
 
 7) Finally, we used the 'Quantification' module, 'Label Statistics' to obtain volumetric measures of each label (aINS, pINS).
 
+The entire procedure lasted 6 hours.
 
 # Illustrations
 
