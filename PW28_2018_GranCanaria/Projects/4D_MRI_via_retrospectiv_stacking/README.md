@@ -44,7 +44,7 @@ Thus we find all corresponding data slices giving the 3D liver at the specific b
 - made huge progress on the code front
   - data packing for faster processing
   - config for proband to remember user clicked ROIs, ref. index etc.
-  - similarity, ROI management, file Management, slice binning
+  - similarity measure, ROI management, file Management, slice binning
   - bug bashing
 - found out, that the MRI did chang the acquisition order of the slices which changes some assumtions and has to be accounted for
 
