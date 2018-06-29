@@ -66,11 +66,19 @@ Temperature Comparisons.
 
 <img src="IMG_6630.jpg" width="450" height="320">
 
+Acquisition set-up
+
 <img src="netw.png" width="650" height="320">
+
+Interconnection
 
 <video src="acquisition_module.mp4" width="700" height="600" controls preload></video>
 
+Acquisition module
+
 <video src="registration.mp4" width="700" height="600" controls preload></video>
+
+Registration module
 
 <!--<video src="ModuloSegmentacion.mp4" width="700" height="600" controls preload></video>-->
 

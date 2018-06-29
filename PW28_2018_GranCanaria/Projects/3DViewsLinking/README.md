@@ -59,7 +59,7 @@ The 3D view controller widget should have GUI for synchronizing the following pr
 * Implementation: 
    * (a) : Done! pull request at https://github.com/Slicer/Slicer/pull/980
    
-   ![](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/3DViewsLinking/myimage.gif?raw=true)
+   ![](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/3DViewsLinking/myimage.gif)
    
    * (b) :
    * (c) :
