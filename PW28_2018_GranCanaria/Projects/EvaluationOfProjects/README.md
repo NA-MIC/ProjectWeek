@@ -40,18 +40,18 @@ Proposals:
 
 ## Approach and Plan
 
-1. Acquire proficiency in 3DSlicer environment.
-2. Evaluate AR o VR for project #2.
-2.1. Assess the perfomance of trackers and/or markers.
-2.2. Review 3DSlicers' support for AR and VR headsets in the market.
+- [x] Acquire proficiency in 3DSlicer environment.
+- [x] Evaluate AR o VR for project #2.
+- [x] Assess the perfomance of trackers and/or markers.
+- [x] Review 3DSlicers' support for AR and VR headsets in the market.
 
 ## Progress and Next Steps
 
-###### Project #1: 'Software for orthognathic surgical planning'
+## Project #1: 'Software for orthognathic surgical planning'
 
 SlicerCMF (CranioMaxiloFacial app) was preliminary evaluated, capabilities and examples look promising (Thanks JC!)
 
-###### Project #2: 'Augmented reality for patient-specific implant surgery'
+## Project #2: 'Augmented reality for patient-specific implant surgery'
 
 SlicerVR was considered. Our roadmap: 
   - Focus on spine surgery (worst-case scenario).
@@ -59,7 +59,7 @@ SlicerVR was considered. Our roadmap:
   - Build an ultrasound phantom to validate the setup. It should include the spine and surrouding main vessels (aorta!)
   - Use VR to navigate the model and US-3D volume to locate blood vessels, muscle or cartilage during tumor resection
   
-###### Project #3: 'A simulator for the humerus and ulna articular surfaces'
+## Project #3: 'A simulator for the humerus and ulna articular surfaces'
 Postponed for reevaluation.
 
 ###### (Bonus) Project #4:
