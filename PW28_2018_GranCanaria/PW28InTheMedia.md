@@ -20,4 +20,4 @@
 
 - [20180628 RTVC - 20'58''](http://www.rtvc.es/television/multimedia/Telenoticias%202-1937/28-06-18-1887.aspx#.WzYUrOFKg5k)
 
-
+- [A3TV - 13'24''](http://www.antena3.com/canarias/noticias/informativos/noticiasregional/junio-2018_2018062500157.html)
