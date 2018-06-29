@@ -72,6 +72,7 @@ Here's an example endpoint for testing:
 ![Architecture](DICOMweb-arch.png)
 ![Login](DICOMweb-login.png)
 ![Query](DICOMweb-studylist.png)
+![teamplay+OHIF](teamplay+OHIF-2018-06-28.png)
 
 
 
