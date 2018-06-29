@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Filippo Cicali (Mass General Hospital and Harvard Medical School - USA)
-- Nikolaos Makris (Brigham and Women's Hospital and Harvard Medical School - USA)
+- Nikolaos Makris (Mass General Hospital, Brigham and Women's Hospital and Harvard Medical School - USA)
 
 
 # Project Description
