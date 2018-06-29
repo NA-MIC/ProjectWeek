@@ -36,11 +36,15 @@ Future plans:
 
 Side-by-side view of a Notebook and 3D Slicer:
 
-![Screenshot of a notebook](NotebookSideBySide.png )
+![Screenshot of a notebook and Slicer](NotebookSideBySide.png )
 
 Notebook showing code and viewer content:
 
-![Screenshot of a notebook 2](NotebookOnly.png)
+![Screenshot of a notebook](NotebookOnly.png)
+
+Notebook showing code and viewer content:
+
+![Screenshot of a notebook in JupyterLab](JupyterLab.png)
 
 Complete notebook rendered on GitHub: https://github.com/lassoan/SlicerNotebooks/blob/master/My%20first%20Slicer%20notebook.ipynb
 
