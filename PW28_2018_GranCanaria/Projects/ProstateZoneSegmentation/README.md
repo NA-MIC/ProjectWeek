@@ -26,7 +26,7 @@ The goal of this project is to evaluate and extend variants of a volumetric CNN 
 
 ## Progress and Next Steps
 1. split up data into training and validation sets so that they have more equally distributed anatomy characteristics -> did not improve output much
-1. started on a data augmentation framework
+1. almost finished data augmentation framework
 1. learned more about pelvic anatomy from Babacar
 
 Next Steps:
