@@ -70,7 +70,7 @@ Temperature Comparisons.
 
 <video src="registration.mp4" width="700" height="600" controls preload></video>
 
-<img src="https://media.giphy.com/media/7JsUW5opGG2Alb8U5C/giphy.gif" width="900" height="600">
+<img src="https://media.giphy.com/media/7JsUW5opGG2Alb8U5C/giphy.gif" width="960" height="540">
 
 
 ## Background and References
