@@ -64,7 +64,7 @@ Temperature Comparisons.
 
 ## Acquisition and automatic registration & segmentation modules 
 
-<img src="IMG_6630.jpg" width="450" height="181">
+<img src="IMG_6630.jpg" width="450" height="381">
 
 <video src="acquisition_module.mp4" width="700" height="600" controls preload></video>
 
