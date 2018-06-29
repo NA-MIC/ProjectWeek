@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - [Csaba Pinter](http://perk.cs.queensu.ca/users/pinter) (Queen's University, Canada)
-- Till Best
+- ~~Till Best~~
 - [Nikos Makris](https://lmi.med.harvard.edu/people/nikos-makris) (Brigham and Women's Hospital and Harvard Medical School, USA)
 - Filippo Cicali (Massachusetts General Hospital and Harvard Medical School, USA)
 
@@ -34,9 +34,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Illustrations
 Whole heart segmentation:
+
 ![Whole heart segmentation](https://www.slicer.org/w/images/c/c1/20180612_SegmentEditor_WholeHeartScreenshot.PNG)
+
 Spine phantom 3D printing:
+
 ![Spine phantom 3D printing](https://www.slicer.org/w/images/4/47/20180612_SegmentEditor_SpinePhantomMontage.png)
+
+Segment Editor in presentation in Casa África:
+![Segment Editor in presentation in Casa África](../../2018-06-28 16.26.03.jpg)
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
