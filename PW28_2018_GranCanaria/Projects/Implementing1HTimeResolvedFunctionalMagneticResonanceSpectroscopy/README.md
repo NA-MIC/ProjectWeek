@@ -46,12 +46,8 @@ Voxel location and average spectrum.
 
 
 Simulation of the voxel value (molecule concentration) changing in time (sequence). 
-<img src="Imagen2.gif" width="652" height="356">
+<img src="Imagen5.gif" width="652" height="356">
 
-
-Slightly improvement of frame quality
-
-<img src="Imagen3.gif" width="652" height="356">
 
 
 Denoised spectrum sequence (Matlab) 
