@@ -8,6 +8,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Guillermo Valentín Socorro-Marrero (ULPGC - GTMA - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
+## Participating
+
+- [Csaba Pinter](http://perk.cs.queensu.ca/users/pinter) (Queen's University, Canada)
+
 # Project Description
 
 The main goal of this project is to develop a custom graphic user interface (GUI) for an US simulation training system. The GUI should be friendly and attractive for clinicians, trainers and students. The US simulation system was proposed in NA-MIC 27th Project Week and developed in collaboration with the Perklab team.
