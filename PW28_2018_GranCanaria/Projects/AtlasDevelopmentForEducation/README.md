@@ -40,8 +40,22 @@ tuberculosis disease, also for training purposes. (Data: pelvis -CT-, prostate -
 
 ## Progress and Next Steps
 
-1. Development of the web tool
-1. Pelvic and Thorax segmentations are in the works
+1. Male pelvis atlas is already finished, and ready to be uploaded online for public access
+1. Abdominal atlas is in the way: lung and liver are already segmented
+1. Biloma case segmentation is also in the way: the pre and post intervention state
+1. Web tool for atlas assembly is also ready and clinicians will soon get the training to use it so they will be able to create and compile their own atlas by themselves
+
+* Segmentations for the biloma case:
+
+ <img src="spleen_biloma.png" height="200">  <img src="biloma.png" height="200">
+
+* Segmentations for the Male Pelvis Atlas
+
+<img src="pelvis-segmentation.png" height="200">   [<img src="pelvis-video.jpg" height="200">](https://www.youtube.com/watch?v=lkSY_Km5JF0 "Male Pelvis Video")
+
+* Atlas assembly web tool
+
+<img src="tool0.jpg" height="200">   <img src="tool1.jpg" height="200"> 
 
 
 ## Illustrations
