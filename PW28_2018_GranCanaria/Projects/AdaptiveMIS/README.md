@@ -10,6 +10,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 - Gino Gulamhussene (University of Magdeburg, Germany)
 - Miguel Angel Rodriguez Florido (Laboratorio de Simulación y Formación basada en Tecnología, Las Palmas de Gran Canaria)
+- Javier González Fernández (Instituto Tecnológico de Canarias)
+- Donato Monopoli (Instituto Tecnológico de Canarias)
 
 ## External Investigators
 - Holger Schultheis (University of Bremen)
