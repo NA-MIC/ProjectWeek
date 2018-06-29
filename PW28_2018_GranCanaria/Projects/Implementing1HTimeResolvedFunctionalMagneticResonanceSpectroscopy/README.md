@@ -30,6 +30,11 @@ It is also encouraged to implement secure communication routines to interact wit
 
 
 ## Progress and Next Steps
+1. Have been implemented algorithms for reading, parsing, spectrum reconstruction and visualization for single voxel GE PFiles
+1. Study for supporting other input formats, still in progress
+1. Voxel color map under development, as sequence of models. Multivoxel, CSI not supported yet.
+1. Studying the possibility of implementing signal processing algorithms as external modules (CLI), and remote processing through SCP QProcess / SCP mechanisms.
+
 
 ## Illustrations
 
