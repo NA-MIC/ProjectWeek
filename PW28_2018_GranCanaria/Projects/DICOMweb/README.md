@@ -64,6 +64,7 @@ Here's an example endpoint for testing:
 * Updated docker compose [with archive and viewer](https://github.com/OHIF/integration-examples/tree/master/ohif-dcm4chee-secureUI)
 * Able to launch OHIF Viewer on selected studies from secured [Siemens teamplay](https://usa.healthcare.siemens.com/medical-imaging-it/teamplay) login
 * Began work on [Kubernetes deployment structure based on docker-compose setup](https://bitbucket.org/Jonaven/namic/src/master/)
+* Began work on DICOM QIDO support for ctkDICOMQuery. Query building works, feeding results to ctkDICOMDatabase is work in progress: https://github.com/nolden/CTK/commit/b782abc0ab2e5c5c92d357c08a1d6d65b3d542ed#diff-94efc3e8a15a899452fa2a8b27520d3bR424 
 
 # Illustrations
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
