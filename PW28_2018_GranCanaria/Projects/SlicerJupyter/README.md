@@ -25,6 +25,7 @@ Notebook user interface (frontend) is separated from the code execution engine (
 ## Progress and Next Steps
 
 1. Created [SlicerJupyter](https://github.com/Slicer/SlicerJupyter) extension, which uses [xeus](https://github.com/QuantStack/xeus) as Jupyter kernel implementation
+1. Contributed changes to dependent projects. See our `QuantStack/xeus` [pull requests](https://github.com/QuantStack/xeus/pulls?q=is%3Apr+is%3Aclosed+author%3Ajcfr), [our xeus issue report](https://github.com/QuantStack/xeus/issues/67) discussing best strategy to update xeus for supporting event-loop integration, and also our [branch](https://github.com/noloader/cryptopp-cmake/compare/master...jcfr:miscellaneous-tweaks) improving CMake support for `CryptoPP`.
 1. Implemented command execution
 1. Implemented preliminary version of ``display()`` function to show viewer content in the notebook.
 1. Publish extension on extension manager.
