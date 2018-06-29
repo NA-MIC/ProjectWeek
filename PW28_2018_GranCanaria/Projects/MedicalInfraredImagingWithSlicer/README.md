@@ -68,7 +68,7 @@ Temperature Comparisons.
 
 Acquisition set-up
 
-<img src="netw.png" width="650" height="320">
+<img src="netw.png" width="750" height="420">
 
 Interconnection
 
