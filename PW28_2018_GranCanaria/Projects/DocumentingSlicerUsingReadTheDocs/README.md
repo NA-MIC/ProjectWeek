@@ -32,6 +32,7 @@ Ultimately, all modules would have their documentation managed along side the Sl
 
 ## Progress and Next Steps
 
+* [Slicer wiki](https://www.slicer.org/wiki/Documentation/Nightly/Developers/Build_Instructions) updated to explain how to install Qt5 and build slicer
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
