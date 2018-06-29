@@ -39,6 +39,7 @@ It is also encouraged to implement secure communication routines to interact wit
 ## Illustrations
 <img src="Imagen1.png" width="652" height="356">
 <img src="Imagen2.gif" width="652" height="356">
+<img src="Imagen3.gif" width="652" height="356">
 
 ## Background and References
 
