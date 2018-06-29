@@ -66,6 +66,8 @@ Temperature Comparisons.
 
 <img src="IMG_6630.jpg" width="450" height="320">
 
+<img src="netw.png" width="450" height="320">
+
 <video src="acquisition_module.mp4" width="700" height="600" controls preload></video>
 
 <video src="registration.mp4" width="700" height="600" controls preload></video>
