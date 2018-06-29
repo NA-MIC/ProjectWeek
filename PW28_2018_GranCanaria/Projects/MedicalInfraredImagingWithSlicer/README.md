@@ -54,6 +54,10 @@ Temperature Comparisons.
 
 ![](https://gph.is/2KwjY1v)
 
+## Acquisition and automatic registration & segmentation modules 
+
+<img src="IMG_6630.png" width="450" height="181">
+
 <video src="acquisition_module.mp4" width="700" height="600" controls preload></video>
 
 <video src="registration.mp4" width="700" height="600" controls preload></video>
