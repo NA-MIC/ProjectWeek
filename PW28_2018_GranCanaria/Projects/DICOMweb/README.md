@@ -60,9 +60,10 @@ Here's an example endpoint for testing:
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 * Learned a lot about web security implementations, single sign on, proxies, etc
-* Working dicom archive with access managed by keycloak
+* Working DICOM archive with access managed by [Keycloak](https://www.keycloak.org/), a standalone identity and access management tool
 * Updated docker compose [with archive and viewer](https://github.com/OHIF/integration-examples/tree/master/ohif-dcm4chee-secureUI)
-* Able to launch OHIF Viewer on selected studies from secured teamplay login
+* Able to launch OHIF Viewer on selected studies from secured [Siemens teamplay](https://usa.healthcare.siemens.com/medical-imaging-it/teamplay) login
+* Began work on [Kubernetes deployment structure based on docker-compose setup](https://bitbucket.org/Jonaven/namic/src/master/)
 
 # Illustrations
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
