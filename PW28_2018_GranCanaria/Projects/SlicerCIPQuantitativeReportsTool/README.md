@@ -34,6 +34,8 @@ Slicer CIP has been conceived as a workstation for radiologists, but is also sui
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. General HTML template generated
+2. Each SlicerCIP module have now a link to create the quantitative analysis report
 
 # Illustrations
 
