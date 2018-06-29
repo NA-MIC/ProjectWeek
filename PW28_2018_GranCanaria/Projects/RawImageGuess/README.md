@@ -30,6 +30,8 @@ Sometimes it occurs that unknown file formats are encountered. There are free to
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
+![The GUI at this stage...](2018-06-29.png)
+
 <!--![Description of picture](Example2.jpg)-->
 
 <!--![Some more images](Example2.jpg)-->
