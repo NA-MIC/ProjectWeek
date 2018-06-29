@@ -44,5 +44,8 @@ The objective is to create a MIS simulation system, which would analyse and moni
 
 ![The 2D Unity Based Game](MIS1.jpn.png)
 ![The 3D Unity Based Game, using the Polhemus Tracker](MIS2.jpn.png)
+![The 3D Unity Based Game, using the Polhemus Tracker](IMG_2713.JPG)
+![The 3D Unity Based Game, using the Polhemus Tracker](IMG_2716.JPG)
+![The 3D Unity Based Game, using the Polhemus Tracker](IMG_2760.JPG)
 
 
