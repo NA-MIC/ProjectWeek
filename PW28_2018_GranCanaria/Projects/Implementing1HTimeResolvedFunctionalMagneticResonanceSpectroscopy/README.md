@@ -37,7 +37,7 @@ It is also encouraged to implement secure communication routines to interact wit
 
 
 ## Illustrations
-
+<img src="Imagen1.png" width="652" height="356">
 
 ## Background and References
 
