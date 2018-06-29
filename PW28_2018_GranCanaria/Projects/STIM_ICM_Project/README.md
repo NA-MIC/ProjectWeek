@@ -39,7 +39,7 @@ Discussions about dissemination of our modules:
 - Csaba Pinter, about the development of a Slicer solution dedicated to Stereotaxy (build and custom options)
 - Steve Pieper, about dissemination of our stereotaxy modules, as an extension or a Slicer solution, about QMenta
 Discussions about our projects:
-- Lauren O'Donnell, about DMRI and how to use her atlas to map fiber tracts inside the basal ganglia in parkinsonian patients, and use this for anatomo-functional studies
+- Lauren O'Donnell, about Slicer DMRI and how to use her atlas to map fiber tracts inside the basal ganglia in parkinsonian patients, and use this for anatomo-functional studies
 
 
 # Illustrations
@@ -52,7 +52,7 @@ Epiloc PostOperative Visualization plug-in.
 
 <img src="Epiloc-ima-1.png" height="360">
 
-Epiloc  last implant planning.
+Epiloc  last implant planning schema exported to ROSA planning workstation .
 
 <img src="dh.png" height="460">
 # Background and References
