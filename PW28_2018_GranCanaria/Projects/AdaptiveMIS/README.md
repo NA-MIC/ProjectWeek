@@ -19,11 +19,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-This project focuses on designing and implementing an intelligent and adaptive MIS surgical training system, which would allow a user to obtain relevant cognitive, motoric and non-technical skills, within a game based environment. The goal is to design a simulation system, which would track, monitor and adapt to the overall performance of the user. 
+This project focuses on designing and implementing an intelligent and adaptive MIS surgical training system, which would allow a user to obtain relevant cognitive, motoric and non-technical skills, within a game based environment. The goal is to design a simulation system, which would for tracking, monitoring the overall performance of the user (in relation to specific operative metrics), whilst allowing the system to intelligently adapt the complexity of the task.
 
 ## Objective
 
-The objective is to create a MIS simulation system, which would analyse and monitor the users performance and would adept to the complexity of the task accordingly.
+The objective is to create a MIS training simulation system, allowing an individual to gain relavent MIS operative skills based on his/her own abilities and capabilities.
 
 1. Objective A. Design MIS related, and game based, tasks
 1. Objective B. Simulate the movement of the physical instruments inside the game
@@ -31,7 +31,7 @@ The objective is to create a MIS simulation system, which would analyse and moni
 
 ## Approach and Plan
 
-1. Designing user-interface and Unity based games, to simulate MIS conditions (e.g. lack of visual cues for 3D perception)
+1. Designing user-interface and Unity based games, to simulate MIS conditions 
 1. Implimentation and use of the metrices from the PerkTutor and SlicerIGT 
 1. Synchronisation of the MIS instruments (optical tracker) with the Unity based game
 1. Exploration and implimentation of AI methods (Student modelling, intelligent tutoring system) for the game application
