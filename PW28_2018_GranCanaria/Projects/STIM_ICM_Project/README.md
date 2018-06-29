@@ -26,8 +26,15 @@ To improve and update the Slicer plug-ins we have developped for pyDBS and EpiLO
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+Developpements :
+- update of our plug-ins :
+  Jordan : updating and improving post-operative Slicer plug-in in pyDBS
+  Sara : Planning of Surgical iEEG exploration procedure for Epilepsy
+
 Discussions about Developpements :
-- Csaba
+- Csaba and Andras :  how to use  SegmetEditorLogicalEffect in python to intersect segments
+- Steve : markups and Reformat problems
+
 Discussions about dissemination of our modules:
 - Jean-Christophe Fillon-Robin, about Girder, that could be used to develop a web server
 - Csaba Pinter, about the development of a Slicer solution dedicated to Stereotaxy (build and custom options)
