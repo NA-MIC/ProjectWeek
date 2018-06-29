@@ -53,9 +53,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 | Philips 3D US | Chroma-depth in PRISM | Depth peeling in PRISM |
 | --- | --- | --- |
 | ![](matt-jolley-us.png) | ![](chroma-depth-crop.png) | ![](depth-peeling-crop.png) |
+
 | Edge enhancement in PRISM | Decluttering in PRISM | Volume carving in PRISM |
+| --- | --- | --- |
 | ![](edge-and-shading.png) | ![](decluttered-crop.png) | ![](volume-carving-crop.png) |
+
 | Blood flow animation in PRISM | a | a | 
+| --- | --- | --- |
 | ![](flow-illustration-crop.png) | a | a |
 
 # Background and References
