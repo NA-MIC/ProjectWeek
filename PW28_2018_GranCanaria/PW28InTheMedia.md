@@ -1,9 +1,9 @@
 ## 28th Summer Project Week in the Media
 
 
-<img src="Media_1.jpg" width="100" height="50">
-<img src="Media_2.jpg" width="100" height="50">
-<img src="Media_3.jpg" width="100" height="50">
+<img src="Media_1.jpg" width="200" height="100">
+<img src="Media_2.jpg" width="200" height="100">
+<img src="Media_3.jpg" width="200" height="100">
 
 
 
