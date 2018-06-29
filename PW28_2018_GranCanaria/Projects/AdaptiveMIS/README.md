@@ -43,7 +43,7 @@ The objective is to create a MIS simulation system, which would analyse and moni
 # Illustrations
 
 
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![bla](Screen Shot 2018-06-29 at 10.52.12.png)
+![bla2](Screen Shot 2018-06-29 at 10.52.22.png)
+
 
