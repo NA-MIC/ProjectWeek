@@ -74,7 +74,8 @@ Temperature Comparisons.
 
 <!--<video src="ModuloSegmentacion.mp4" width="700" height="600" controls preload></video>-->
 
-<img src="https://media.giphy.com/media/7JsUW5opGG2Alb8U5C/giphy.gif" width="760" height="340"> 
+<img src="https://media.giphy.com/media/7JsUW5opGG2Alb8U5C/giphy.gif" width="760" height="340">
+
 Demonstration of the segmentation module
 
 ## Background and References
