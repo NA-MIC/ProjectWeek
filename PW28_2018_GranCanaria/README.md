@@ -118,7 +118,7 @@ Other
 
 1. [Integrating Free WaveForm sequence with DICOM](Projects/FWFintegration/README.md) (F. Szczepankiewicz, C-F. Westin)
 1. [Insula segmentation using 3D Slicer](Projects/Insula_segmentation_with_3DSlicer/README.md) (Filippo Cicali, Nikos Makris)
-1. [Intelligent and Adapative Minimally Invasive Surgery Simulation](Projects/AdaptiveMIS) (Tina Vajsbaher, Csaba Pinter, Juan Ruiz-Alzola)
+1. [Intelligent and Adapative Minimally Invasive Surgery Simulation](Projects/AdaptiveMIS) (Tina Vajsbaher, Csaba Pinter, Juan Ruiz-Alzola, Gino Gulamhussene, Miguel Angel Rodriguez Florido)
 1. [Uncertainty Estimation for Feature Based Registration](Projects/RegistrationUncertainty) (Sandy Wells)
 
 ## Registrants
@@ -174,7 +174,7 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Marko Rak (rak@isg.cs.ovgu.de) - University of Magdeburg - Germany
 1. Andrei Irimia (irimia@usc.edu) - University of Southern California - USA
 1. Anneke Meyer (anneke@isg.cs.uni-magdeburg.de) - University of Magdeburg - Germany
-1. Tina Vajsbaher (tina.vajsbaher@gmail.com) - University of Bremen - Germany
+1. Tina Vajsbaher (tina.vajsbaher@uni-bremen.de) - University of Bremen - Germany
 1. Gino Gulamhussene (gino@isg.cs.ovgu.de) - Institute for Simulation and Graphics OvGU University Magdeburg - Germany 
 1. Sara Fernández Vidal (sara.fdezvidal@gmail.com) - ICM Institute - France
 1. Eric Bardinet (eric.bardinet@upmc.fr) - ICM Institute - France
