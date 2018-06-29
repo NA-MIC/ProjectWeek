@@ -50,6 +50,7 @@ Back to [Projects List](../../README.md#ProjectsList)
     * Different hardware may all stream OpenIGTLink/OpenIGTLinkIO messages directly, and PLUS may not be used at all.
 
 ## Progress and Next Steps
+* Tested the new implementation of command messages (provided remotely by Kyle Sunderland) in both Ibis Neuronav and CustusX.
 * Moved the ultrasound meta information tag names from PLUS to igtlio: [igtlioUsSectorDefinitions.h](https://github.com/IGSIO/OpenIGTLinkIO/blob/174dc1da2064265d77093be4eaa3b172334e163b/Converter/igtlioUsSectorDefinitions.h#L5)
 * Made PLUS send the ultrasound sector information as meta information instead of string messages.
   * This is currently only implemented in the BK interface. The BK interface can be configured in test mode (where it just sends a still image) to test this functionality.
@@ -63,6 +64,7 @@ Back to [Projects List](../../README.md#ProjectsList)
   * LinearWidth
   * SpacingX
   * SpacingY
+* Implemented a proof of concept system (Only in Ibis Neuronav for now) to automatically start and connect to an arbitrary number of Plus servers with the goal to simplify operation in the OR.
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 ## Future work
@@ -80,6 +82,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 Example image of CustusX using PLUS to receive ultrasound sector parameters as OpenIGTLink meta information from the BK interface in PLUS, by using OpenIGTLinkIO for the client in CustusX.
 ![CustusX](CustusX_screendump.png)
+
+
 
 # Background and References
 
