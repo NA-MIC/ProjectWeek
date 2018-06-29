@@ -37,7 +37,9 @@ Epiloc PostOperative Visualization plug-in.
 
 <img src="Epiloc-ima-1.png" height="360">
 
+Epiloc  last implant planning.
 
+<img src="dh.png" height="460">
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
