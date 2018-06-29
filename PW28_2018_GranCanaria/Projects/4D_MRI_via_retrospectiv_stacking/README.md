@@ -11,7 +11,7 @@
 - Steve Pieper (Isomics, Inc.)
 - Tina Vajsbaher (University of Bremen)
 
-## External Investigators
+## Remote Investigators
 - Christian Hansen (University of Magdeburg)
 
 # Project Description
