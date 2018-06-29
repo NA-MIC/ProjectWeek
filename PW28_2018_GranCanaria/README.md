@@ -8,6 +8,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ## Photo Album
 The 28th NA-MIC PW [Event album](https://drive.google.com/open?id=1BnXnsKctonR-jr4SjI0_5eLl58rKSK_T)
 
+![Segment Editor in presentation in Casa África](CasaAfrica_SegmentEditor_Panorama.jpg)
+
 ## Logistics
 
 To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (for questions dedicated to this event).
