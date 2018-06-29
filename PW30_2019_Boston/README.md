@@ -62,6 +62,4 @@ TBD
 
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
 
-<!-- ORGANIZERS: please edit REGISTRANTS.md -->
 
-{% include_relative REGISTRANTS.md %}
