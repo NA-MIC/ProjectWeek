@@ -30,7 +30,7 @@ Proposals:
 
   <img src="project02.png" width="600" height="220">
 
-+ #3 A simulator of the humerus and ulna sliding on their articular surfaces with collision and impingement detection.
++ #3 A simulator for the humerus and ulna sliding on their articular surfaces with collision and impingement detection.
 
   <img src="project03.jpg" width="380" height="170">
 
@@ -47,15 +47,18 @@ Proposals:
 
 ## Progress and Next Steps
 
-Project #1: SlicerCMF (CranioMaxiloFacial app) was preliminary evaluated, capabilities and examples look promising (Thanks Jean-Christophe!)
+Project #1: 'Software for orthognathic surgical planning'
+SlicerCMF (CranioMaxiloFacial app) was preliminary evaluated, capabilities and examples look promising (Thanks JC!)
 
-Project #2: SlicerVR was considered. Our roadmap: 
-  - Focus on spine surgery (worst case scenario).
+Project #2: 'Augmented reality for patient-specific implant surgery'
+SlicerVR was considered. Our roadmap: 
+  - Focus on spine surgery (worst-case scenario).
   - Assess intraoperative ultrasound for spine surgery, and perform 3D reconstruction using trackers.
   - Build an ultrasound phantom to validate the setup. It should include the spine and surrouding main vessels (aorta!)
   - Use VR to navigate the model and US-3D volume to locate blood vessels, muscle or cartilage during tumor resection
   
-Project #3: Postponed for reevaluation.
+Project #3: 'A simulator for the humerus and ulna articular surfaces'
+Postponed for reevaluation.
 
 Bonus project: (!)
 Slicer has proven to be very useful for "voxel printing" anatomical models, which is a 3D-printing technique that can provide very realistic results - 3D in full color, transparency, various degrees of elasticity - and that does not require segmentation, nor the creation of an STL file. Other multi-color 3D-printing techniques require one STL per color, and the colors are therefore "solid".
@@ -63,13 +66,13 @@ Slicer has proven to be very useful for "voxel printing" anatomical models, whic
 Slicer can perfom the required 3D interpolation and slicing that is required for this technique. 
 
 ## Illustrations
-
+The following are real 3d-printed anatomical models - not renders - using 'voxel printing'
 
    <img src="voxel_printing.png" width="700" height="250">
 
    <img src="voxel_printing2.png" width="700" height="250">
 
-C. Bader, D. Kolb, J. C. Weaver, S. Sharma, A. Hosny, J. Costa, N. Oxman, Making data matter: Voxel printing for the digital fabrication of data across scales and domains. Sci. Adv. 4, eaas8652 (30 May 2018).
+Credit: C. Bader, D. Kolb, J. C. Weaver, S. Sharma, A. Hosny, J. Costa, N. Oxman, Making data matter: Voxel printing for the digital fabrication of data across scales and domains. Sci. Adv. 4, eaas8652 (30 May 2018).
 
 
 
