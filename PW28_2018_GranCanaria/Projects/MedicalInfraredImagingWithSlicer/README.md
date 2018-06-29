@@ -36,7 +36,7 @@ It is intended mainly for monitoring of foot ulcers in diabetic patients. The in
 
 ## Progress and Next Steps
 
- 1. Progress 
+<b> 1. Progress </b> 
 - Acquisition module has been finished
 - Initial version of the segmentation & registration modules have been developed
 - The new Slicer module for semi-automatic foot ulcer assessment is in progress
