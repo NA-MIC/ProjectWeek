@@ -26,12 +26,9 @@ Multivolume DICOM data from Bruker preclinical MRI scanners (Paravision version 
 1. Implement the fixes in Python, either as one module for Bruker MRI data, or within the existing data loading modules, multivolumeimporter and DWIconvert.
 
 ## Progress and Next Steps
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+
 Progress
-- Various preclinical data sets were assembled:
-
-https://www.dropbox.com/sh/5qo2kay9w7bi92t/AADvQtsKR3SJBS2HlReN1q-Ma?dl=0
-
+- Various preclinical data sets were assembled: [download](https://www.dropbox.com/sh/5qo2kay9w7bi92t/AADvQtsKR3SJBS2HlReN1q-Ma?dl=0)
 - Matlab Bridge module 'Correct Bruker' was written and fixed DCE imported data  - see screenshots below.
 
 Next Steps
@@ -40,12 +37,12 @@ Next Steps
 
 # Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+![Original (incorrect) image](OriginalSequence.png)
 
-<!--![Description of picture](Example2.jpg)-->
+![Bruker image correction module](CorrectBrukerMultiVolume.png)
 
-<!--![Some more images](Example2.jpg)-->
+![Corrected image](CorrectedSequence.png)
 
-# Background and References
+<!-- # Background and References -->
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
