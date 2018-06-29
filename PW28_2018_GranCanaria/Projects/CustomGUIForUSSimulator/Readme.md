@@ -30,8 +30,6 @@ We defined several sketchs and chose the better sketch which satisfied the user 
    - 3D scene for the training system (tools and phantom)
    - IGT connection management (buttons and text) 
 
-
-
 In first proposal, we implemented the chosen user interface in slicelet module. The slicelet provides a simple way to customize the user interface but our real-time requirement is not fulfilled.    
 
 In second proposal, we developed the user interface in Guidelet module after the Perklab team's suggestion. This guidelet is better suited to real-time applications and, hence, we decided to implement this alternative solution. The user interface is based on the template provided by the Guidelet module.  
