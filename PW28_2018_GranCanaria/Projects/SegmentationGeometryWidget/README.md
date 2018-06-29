@@ -40,7 +40,11 @@ Geometry widget with volume type input:
 
 Geometry widget witn non-volume type input:
 
-![Geometry widget witn non-volume type input](https://user-images.githubusercontent.com/1325980/41688352-c1e9b7ac-74b9-11e8-89cc-5b1c16f84bdc.png)
+![Geometry widget with non-volume type input](https://user-images.githubusercontent.com/1325980/41688352-c1e9b7ac-74b9-11e8-89cc-5b1c16f84bdc.png)
+
+MRHead threshold resampled with oblique ROI into low resolution:
+
+![MRHead threshold resampled with oblique ROI into low resolution](20180629_SegGeomWid_MRHeadObliqueROI.PNG)
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
