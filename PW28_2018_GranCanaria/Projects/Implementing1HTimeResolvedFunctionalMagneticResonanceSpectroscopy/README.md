@@ -46,7 +46,7 @@ Voxel location and average spectrum.
 
 
 Simulation of the voxel value (molecule concentration) changing in time (sequence). 
-<img src="Imagen5.gif" width="652" height="356">
+<img src="Imagen6.gif" width="652" height="356">
 
 
 
