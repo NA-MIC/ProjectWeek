@@ -63,9 +63,7 @@ SlicerVR was considered. Our roadmap:
 Postponed for reevaluation.
 
 + Project #4 (Bonus!):
-Slicer has proven to be very useful for "voxel printing" anatomical models, which is a 3D-printing technique that can provide very realistic results - 3D in full color, transparency, various degrees of elasticity - and that does not require segmentation, nor the creation of an STL file. Other multi-color 3D-printing techniques require one STL per color, and the colors are therefore "solid".
-
-Slicer can *effortlessly* perfom the required 3D interpolation and slicing that is required for this technique. 
+Slicer has proven to be very useful for "voxel printing" anatomical models, which is a 3D-printing technique that can provide very realistic results - 3D in full color, transparency, various degrees of elasticity - and that does not require segmentation, nor the creation of an STL file. Other multi-color 3D-printing techniques require one STL per color, and the colors are therefore "solid". Slicer can *effortlessly* perfom the required 3D interpolation and slicing that is required for this technique. 
 
 ## Illustrations
 The following are real 3d-printed anatomical models - not renders - using "voxel printing"
