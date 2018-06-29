@@ -1,4 +1,4 @@
-Back to [Projects List](../../README.md#ProjectsList)
+ Back to [Projects List](../../README.md#ProjectsList)
 
 # 4D MRI via retrospectiv stacking of 2D Slices
 
@@ -46,11 +46,11 @@ Thus we find all corresponding data slices giving the 3D liver at the specific b
   - config for proband to remember user clicked ROIs, ref. index etc.
   - similarity, ROI management, file Management, slice binning
   - bug bashing
-- found out, that the MRI did chang the acquisition order of the slices which changes some assumtions and has now to be accounted for
+- found out, that the MRI did chang the acquisition order of the slices which changes some assumtions and has to be accounted for
 
 **next steps**
 - finish the program
-- annotate 4D Data for ground truth
+- annotate 3D samples of the 4D Data for ground truth using 3D Slicer
 - actually use the data 
 
 # Illustrations

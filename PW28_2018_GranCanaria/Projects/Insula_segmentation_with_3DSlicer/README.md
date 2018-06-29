@@ -15,7 +15,7 @@ To parcellate accurately the Insula into each principal anatomic units. Specific
 ## Objective
 
 Using a T1 MRI dataset of the Human Connectome Project (HCP) we volumetrically measured the aINS and pINS.
-This was achieved by defining the precise anatomy of the insula by identifying the morphology of the insular sulci which are visible using the T1 MRI and the Slicer 3D software.
+This was achieved using the T1 MRI and the Slicer 3D software in two steps. First, by defining the precise anatomy of the insula by identifying the morphology of the insular sulci which are visible and second, by parcellating the two subunits of the insula, labeling and measuring their volumes them. 
 
 
 1. To segment in each coronal slice the aINS and pINS ROIs in order to measure the number of voxels in each ROI per coronal slice.
@@ -44,31 +44,31 @@ Implement a method to accurately parcellate the anatomical structure Insula of R
 
 Procedure:
 
-To achieve the goal of obtain the best balance between accuracy and time consume we studied in deep the possible combinations of the tools available in the Segment Editor, interacting with the developers.
-After various trying with the Segment editor tools 'threshold painting', 'grow from seeds', 'watershed', 'fill between the slices', 'tracing level' the actual results are obtained with the following procedure:
+To optimize accuracy, reliability and overall time needed, we studied several combinations of the tools available in the Segment Editor, interacting with the developers. 
+After several attempts using Segment editor tools 'threshold painting', 'grow from seeds', 'watershed', 'fill between the slices', 'tracing level' the actual results were obtained as follows:
 
-1) On a T1 MRI image, using the Segment Editor module, add 3 segments (the first for the background, the second for the whole Insula, the third will be used for the separation, becoming pINS). 
-In order to establish accurately the boarders we drawn the Circular sulcus and the Central sulcus of the Insula on sagittal images where this anatomical structure is well visually detectable.
-Then on coronal view it will appear a series of dots, in correspondence of the sulci, that are the landmarks for the segmentation. The Central sulcus (cesi) signs the landmark for the separation of anterior and posterior Insula (coronal view).
+1) On a T1 MRI image, using the Segment Editor module, we used 3 segments (via "add" icon). The first segment was for the background, the second for the whole Insula and the third for the separation between the two subunits of the insula, i.e., aINS and pINS. 
+To establish accurately the borders of aINS and pINS we traced the Circular sulcus and the Central sulcus of the Insula as follows. First, we used three sagittal images where these sulci were visually well-identifiable.
+Consequently, these sulci were detected on coronal sections as a series of dots, which served as our key anatomical landmarks for the segmentation of aINS and pINS. More specifically, the circular sulcus of the insula determined the outer boarder of the insula in its entirety and the the Central sulcus (cesi) determined the for border between anterior and posterior Insula (coronal view).
 
-2) Using "Tracing level" tool find the best separation boarder between white and grey matter in order to obtain the external part of the insular cortex ribbon. Important: the part segmented in this step, with the first segment selected, will be the background of the insular cortex, first delineated as a "negative" (unfilled area).
+2) Using the "Tracing level" tool, we identified the optimal separation border between white and grey matter to obtain the external insular cortex ribbon (i.e., between insula and subarachnoid space). Please note that the part segmented in this step, with the first segment selected, will be the background of the insular cortex, first delineated as a "negative" (unfilled area).
 
-3) Using the "Paint" tool continue the draw of the outside part with respect of insular cortex, establishing the "negative" of our target structure.
+3) Using the "Paint" tool we traced the areas outside of the insular cortex, establishing the "negative" of our target structure.
 
-4) Now select the second segment, "Paint" tool, masking editable area on "Outside all segments". Then draw inside the before obtained negative of the insular cortex, filling the area.
-Repeat this on each coronal slice where Insula is visible (on average 85 slices with MRI slice thickness 0.7mm).
+4) Subsequently, we selected the second segment using "Paint" tool, masking editable area on "Outside all segments". Then we filled the area by drawing inside the previously obtained negative of the insular cortex.
+We Repeated this process on each coronal slice where Insula was visible (on average 85 slices with MRI slice thickness 0.7mm).
 
-5) After manual completion visually check the 3D model.
+5) After manual completion we created the 3D model clicking the "3D model" icon  and checked it visually.
 
-(SEPARATION OF ANTERIOR, POSTERIOR INSULA AND VOLUMETRIC MEASURES)
+SEPARATION OF ANTERIOR, POSTERIOR INSULA AND VOLUMETRIC MEASURES
 
-6) Select the third segment added before.
+6) We selected the third segment added before.
 
-5) On the 3D model of the parcellated Insula, in the 3D view, use 'Scissors' tool, drawing on the Central sulcus and comprehending the posterior lobule of the Insula. After this check the precision of the boarder of aINS and pINS with respect of the before drawn central sulcus.
+5) On the 3D model of the parcellated Insula (in 3D view), we then used the 'Scissors' tool using the Central sulcus as the guideline to separate the aINS from the pINS. Subsequently, we checked the precision of the border of aINS and pINS as informed by the central sulcus.
 
-6) In order to calculate the volume measures of the parcellated anatomical structure representations, in Segment Editor, 'Segmentations', export the segments converting them in labels 
+6) To calculate the volumes of aNS and pINS, we first exported the segments converting them in labels using in Segment Editor the 'Segmentations' function.
 
-7) Use 'Quantification' module, 'Label Statistics' to obtain volumetric measures of each label (aINS, pINS).
+7) Finally, we used the 'Quantification' module, 'Label Statistics' to obtain volumetric measures of each label (aINS, pINS).
 
 
 # Illustrations
@@ -91,4 +91,5 @@ Parcellation of aINS and pINS - Volumetric measures
 
 # Background and References
 
+Makris, N., Goldstein, J. M., Kennedy, D., Hodge, S. M., Caviness, V. S., Faraone, S. V., ... & Seidman, L. J. (2006). Decreased volume of left and total anterior insular lobule in schizophrenia. Schizophrenia research, 83(2), 155-171.
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
