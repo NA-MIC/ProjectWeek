@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Tina Vajsbaher (University of Bremen, Germany) - Travel funding from Erasmus + Staff Mobility Grant
 - Csaba Pinter (Queen's University, Canada)
+- Andras Lasso (Queen's University, Canada)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 - Gino Gulamhussene (University of Magdeburg, Germany)
 - Miguel Angel Rodriguez Florido (Laboratorio de Simulación y Formación basada en Tecnología, Las Palmas de Gran Canaria)
@@ -44,5 +45,8 @@ The objective is to create a MIS simulation system, which would analyse and moni
 
 ![The 2D Unity Based Game](MIS1.jpn.png)
 ![The 3D Unity Based Game, using the Polhemus Tracker](MIS2.jpn.png)
+![The 3D Unity Based Game, using the Polhemus Tracker](IMG_2713.JPG)
+![The 3D Unity Based Game, using the Polhemus Tracker](IMG_2716.JPG)
+![The 3D Unity Based Game, using the Polhemus Tracker](IMG_2760.JPG)
 
 
