@@ -31,7 +31,7 @@ The objective is to create a MIS simulation system, which would analyse and moni
 
 ## Approach and Plan
 
-1. Designing user-interface and Unity based games, to simulate MIS conditions 
+1. Designing user-interface and Unity based games, to simulate MIS conditions (e.g. lack of visual cues for 3D perception)
 1. Implimentation and use of the metrices from the PerkTutor and SlicerIGT 
 1. Synchronisation of the MIS instruments (optical tracker) with the Unity based game
 1. Exploration and implimentation of AI methods (Student modelling, intelligent tutoring system) for the game application
