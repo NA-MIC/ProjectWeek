@@ -10,6 +10,8 @@ The 28th NA-MIC PW [Event album](https://drive.google.com/drive/folders/1Gh2L26K
 
 ![Segment Editor in presentation in Casa África](CasaAfrica_SegmentEditor_Panorama.jpg)
 
+## 28 PW Summer NA-MIC in [the media](PW28InTheMedia.md)
+
 ## Logistics
 
 To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (for questions dedicated to this event).
