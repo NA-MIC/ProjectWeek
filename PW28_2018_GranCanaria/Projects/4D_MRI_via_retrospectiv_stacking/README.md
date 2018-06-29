@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Michael Halle (Brigham and Women’s Hospital and Harvard Medical School)
 - Michael Kelm (Siemens Healthcare GmbH)
 - Anneke Meyer (University of Magdeburg)
+- Steve Pieper (Isomics, Inc.)
 - Tina Vajsbaher (University of Bremen)
 
 ## External Investigators
