@@ -74,7 +74,8 @@ Back to [Projects List](../../README.md#ProjectsList)
   * Max OpenIGTLink version
   * Max OpenIGTLink header version
   * Any special dialects
-* Create a deviceNameLong field in the OpenIGTLink meta information field that provides the device name in a format that is not truncated.
+* Initial suggestion: Create a deviceNameLong field in the OpenIGTLink meta information field that provides the device name in a format that is not truncated. This is really a hack to fix a bug introduced by Plus. At the moment Plus don't follow the OpenIGTLink standard by not making sure that the deviceName is unique?
+  * A better solution would probably be that Plus makes sure that deviceName is unique. Additional information should be added as meta data instead (transform pipeline etc.).
 * Implement support in OpenIGTLinkIO for combining streams into tools. The information needed for this can be set as meta data information. This recreation of tools combining multiple streams don't necessarily have to mirror the structures in the PLUS config file, and it have to be possible to combine streams from several sources at the same time (also from sources outside PLUS).
  
 
