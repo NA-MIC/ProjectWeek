@@ -7,7 +7,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Logistics
 
-To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Slack group](https://join.slack.com/t/spww/shared_invite/enQtMzEwMjA0MDc3ODc5LTc1NDg0MzdlZjE1NmExNzgyNmY5ZmJhZTZkYjc1MmMzMjgxZDdhMjU2ZDIyMTZhODc4YjFmYWNiZjQyNDYwMjU) (for questions dedicated to this event).
+To receive information and announcments about the events please join the [Slack group](https://join.slack.com/t/spww/shared_invite/enQtMzk4MDQyMDI1NjU0LTIwZDU2MGY4N2MzYTdmMzE1ZTlmNzA2NmNhYjE5MTA0NWMyY2RhMDQyMWYwMjkzYmU3MTczZmE0NTM0ZDZjNDQ) (for questions dedicated to this event).
 
 + **Dates:** July 16-20, 2018.
 + **Location:** [Robarts Research Institute](https://www.google.ca/maps/@43.0113638,-81.2738561,3a,75y,340.63h,93.84t/data=!3m6!1e1!3m4!1sqB04BofO2fkNxgxlzynSRA!2e0!7i13312!8i6656)
@@ -67,28 +67,40 @@ Please fork and add your project page, then make a pull request.
 + 
 
 ## Registrants
-1. Golafsoun Ameri (VASST Lab, Robarts Research Institute)
-1. Dr. Udunna Anazodo (Lawson Health Research Institute)
-1. Patrick Carnahan (VASST Lab, Robarts Research Institute)
-1. Elvis Chen (VASST Lab, Robarts Research Institute)
-1. Mamadou Diop (Western University)
-1. Mitchell Doughty (Sunnybrook Research Institute)
-1. Estee Goldberg (Western University )
-1. Leah Groves (Robarts Research Institute)
-1. Hassan	Haddad (Western University)
-1. Ikhlas Hashi (Western University)
-1. Mason Kadem (Brain and Mind Institute)
-1. Denis Kikinov (Western University)
-1. Johanne Langford (Robarts Research Institute)
-1. Jonathan Lau (Western University)
-1. YingLi Lu (VASST Lab, Robarts Research Institute)
-1. Pankhuri Malik (Western University)
-1. Lyla Mu (VASST Lab, Robarts Research Institute)
-1. Hareem Nisar (Robarts Research Institute)
-1. Daiana Pur (Western University)
-1. Adam Rankin (VASST Lab, Robarts Research Institute)
-1. Michael Schumaker (Sunnybrook Research Institute)
-1. Reid Vassallo (Robarts Research Institute)
-1. Yiming Xiao (Robarts Research Institute)
++ Daniel Allen (Robarts Research Institute)
++ Golafsoun Ameri (Robarts Research Institute)
++ Udunna Anazodo (LHRI)
++ Eman Arnout (LHSC)
++ Patrick Carnahan (Robarts Research Institute, Western University)
++ Elvis Chen (Robarts Research)
++ Mamadou Diop (Western)
++ Mitchell Doughty (Sunnybrook Research Institute)
++ Mena  Gaed (Robarts Research Institute)
++ Estee Goldberg (Western University )
++ Leah Groves (Robarts Research Institute)
++ Houssem Gueziri (MNI)
++ Hassan Haddad (Western University)
++ Ikhlas Hashi (Western University)
++ Nobuhiko Hata (Brigham and Women's Hospital)
++ Dimuthu Henadeerage Don (Robarts Research Institute)
++ Mason Kadem (Brain and mind)
++ Denis Kikinov (Western University)
++ Franklin King (Brigham and Women's Hospital)
++ Andras Lasso (PerkLab, Queen's University)
++ Jonathan Lau (Western University)
++ YingLi Lu (Robarts Research Institute)
++ Ahmed Mahran (Brigham and Women's Hospital)
++ Pankhuri Malik (Western University)
++ Lyla Mu (Western University)
++ Hareem Nisar (Student)
++ Daiana Pur (Western University)
++ Adam Rankin (Robarts Research Institute)
++ Michael Schumaker (Sunnybrook Research Institute)
++ Tamas Ungi (Queen's University)
++ Reid Vassallo (Robarts)
++ Tristan Watts-Willis (Verdure Imaging Inc.)
++ Wenyao Xia (Western University)
++ Yiming Xiao (Robarts Research Institute, Western University)
++ Yaojie Zhou (Robarts Imaging)
 
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
