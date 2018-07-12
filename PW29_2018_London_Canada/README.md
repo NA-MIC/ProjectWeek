@@ -40,8 +40,8 @@ To receive information and announcments about the events please join the [Slack 
 |9:00    |               |                 |                   |                  |
 |10:00   |               |                 |                   |                  |
 |11:00   |               |                 |                   |                  |
-|12:00   |    *Lunch*    |    *Lunch*      |    *Lunch*        |     *Lunch*      |    *Lunch*
-|13:00   |    Kick-off and projects   |    |                   |   Non-developer  |    --- Fin ---
+|12:00   |Arrival and *Lunch*|  *Lunch*    |    *Lunch*        |     *Lunch*      |    *Lunch*
+|13:00   |Kick-off and projects|           |                   |   Non-developer  |    --- Fin ---
 |14:00   |               |                 |                   |   presentations  |
 |15:00   |               |                 |                   |                  |
 |16:00   |               |                 |                   |                  |
