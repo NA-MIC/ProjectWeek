@@ -53,8 +53,7 @@ To receive information and announcments about the events please join the [Slack 
 |22:00   |               |                 |                   |                  |
 
 ## Projects <a name="ProjectsList"/>
-Please fork and add your project page, then make a pull request.
-[Project Template](./Projects/Template/README.md)
+Please fork and add your project page, then make a pull request. You can start from the blank template here: [Project Template](./Projects/Template/README.md). For those new to Git who are daunted by this, you can email your project details to [Adam Rankin](mailto:arankin@robarts.ca) and he will add a project page for you.
 
 + [SlicerAR](./Projects/SlicerAR.md) (Adam Rankin)
 + 
