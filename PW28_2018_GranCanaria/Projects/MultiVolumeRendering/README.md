@@ -50,6 +50,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ### Result
 [YouTube video of SlicerPRISM in action](https://youtu.be/yiEI_yBMu8k)
 
+[Another video example, with DTI data](https://youtu.be/-LODgIh5W6k)
+
 
 # Illustrations
 
