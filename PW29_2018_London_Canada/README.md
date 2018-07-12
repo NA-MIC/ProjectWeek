@@ -41,7 +41,7 @@ To receive information and announcments about the events please join the [Slack 
 |10:00   |               |                 |                   |                  |
 |11:00   |               |                 |                   |                  |
 |12:00   |    *Lunch*    |    *Lunch*      |    *Lunch*        |     *Lunch*      |    *Lunch*
-|13:00   |               |                 |                   |   Non-developer  |    --- Fin ---
+|13:00   |    Kick-off and projects   |    |                   |   Non-developer  |    --- Fin ---
 |14:00   |               |                 |                   |   presentations  |
 |15:00   |               |                 |                   |                  |
 |16:00   |               |                 |                   |                  |
@@ -51,11 +51,6 @@ To receive information and announcments about the events please join the [Slack 
 |20:00   |               |                 |                   |                  |
 |21:00   |               |                 |                   |                  |
 |22:00   |               |                 |                   |                  |
-
-
-## Themes
-These will be decided based on the discussions in the preparatory videoconferences
-
 
 ## Projects <a name="ProjectsList"/>
 Please fork and add your project page, then make a pull request.
