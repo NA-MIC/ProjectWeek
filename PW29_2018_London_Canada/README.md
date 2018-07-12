@@ -16,6 +16,7 @@ To receive information and announcments about the events please join the [Slack 
   + Close, $, wide range of room styles: [http://guesthouseonthemount.ca/](http://guesthouseonthemount.ca/)
   + Close, $$, balanced offering: [https://windermeremanor.com/](https://windermeremanor.com/)
   + Downtown, $$/$$$, nice character, good location to explore London, [http://www.deltahotellondon.com/](http://www.deltahotellondon.com/)
++ **Parking:** Visitor parking is available at $12/day (sorry!) in the nearby [hospital visitor parking garage](https://www.google.ca/maps/@43.0142363,-81.2750746,3a,75y,186.07h,100.01t/data=!3m5!1e1!3m3!1sVo_3mg5ibFW_kPnYjVOrPQ!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DVo_3mg5ibFW_kPnYjVOrPQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D62.77921%26pitch%3D0%26thumbfov%3D100). University of Western Ontario parking information is available [here](https://www.uwo.ca/parking/find/visitor/index.html)
 
 ## Local Organizing Committee
  
@@ -27,38 +28,44 @@ To receive information and announcments about the events please join the [Slack 
 ## Frequently Asked Questions
 
 + [What?](../README.md#what)
-+ [When, where, how much?](../README.md#when-where-how-much)
++ [When, where, how much?](./README.md#logistics)
 + [How does it work?](../README.md#how-does-it-work)
 + [Who can attend?](../README.md#who-can-attend)
 + [Who should attend?](../README.md#who-should-attend)
 + [What else?](../README.md#what-else)
-+ [Who to contact?](../README.md#who-to-contact)
++ [Who to contact?](./README.md#local-organizing-committee)
 
 ## Program
 |   =    |Monday July 16 | Tuesday July 17 | Wednesday July 18 | Thursday July 19 | Friday July 20
 |:---:   |     :---:     |     :---:       |     :---:         |     :---:        |     :---:    
 |9:00    |               |                 |                   |                  |
 |10:00   |               |                 |                   |                  |
-|11:00   |               |                 |                   |                  |
-|12:00   |Arrival and *Lunch*|  *Lunch*    |    *Lunch*        |     *Lunch*      |    *Lunch*
-|13:00   |Kick-off and projects|           |                   |   Non-developer  |    --- Fin ---
-|14:00   |               |                 |                   |   presentations  |
+|11:00   |               |                 |                   |                  |   Project reviews
+|12:00   |Arrival and *Lunch*|  *Lunch*    |    *Lunch*        |     *Lunch*      |    --- Fin ---
+|13:00   |Kick-off and projects|           |                   |                  |
+|14:00   |               |                 |                   |                  |
 |15:00   |               |                 |                   |                  |
-|16:00   |               |                 |                   |                  |
-|17:00   |               |                 |                   |     Organized    |
-|18:00   |               |                 |                   |     off-site     |
-|19:00   |               |                 |                   |    social event  |
-|20:00   |               |                 |                   |                  |
+|16:00   |               |                 |                   |    Clinical interaction session |
+|17:00   |               |                 |                   |                  |
+|18:00   |               |                 |                   |     Organized    |
+|19:00   |    End of day |  End of day     |  End of day       |    off-site      |
+|20:00   |               |                 |                   |    social event  |
 |21:00   |               |                 |                   |                  |
 |22:00   |               |                 |                   |                  |
 
 ## Projects <a name="ProjectsList"/>
 Please fork and add your project page, then make a pull request. You can start from the blank template here: [Project Template](./Projects/Template/README.md). For those new to Git who are daunted by this, you can email your project details to [Adam Rankin](mailto:arankin@robarts.ca) and he will add a project page for you.
 
+### Virtual/Augmented Reality ###
 + [SlicerAR](./Projects/SlicerAR.md) (Adam Rankin)
+
+### (TBD) ###
 + 
 + 
 + 
+
+## Clinical Interaction Session
+We have invited a number of clinicians from a variety of specialties to visit, present, discuss, or just generally engage with the community in order to faciliate meaningful and useful progress.
 
 ## Registrants
 + Daniel Allen (Robarts Research Institute)
