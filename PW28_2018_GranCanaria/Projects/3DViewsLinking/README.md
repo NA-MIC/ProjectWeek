@@ -63,8 +63,12 @@ The 3D view controller widget should have GUI for synchronizing the following pr
    
    next step: for Slicer 4.10 (no backward compatibility): merge vtkMRMLCameraNode into vtkMRMLViewNode
    
-   * (b) : it will be implememnted in the coming weeks
-   * (c) : it will be implememnted in the coming weeks
+   * (b) : Done! added commit https://github.com/Slicer/Slicer/pull/980/commits/295d4cd7f5ff2a3c25a33c4017b15c78d89ccced
+          in pull request https://github.com/Slicer/Slicer/pull/980 
+          videos:
+          https://www.dropbox.com/s/dgjg8raozt851m6/3dviewlink.mp4?dl=0
+          https://www.dropbox.com/s/dgjg8raozt851m6/3dviewlink.mp4?dl=0
+   * (c) : future work!
 
 # Illustrations
 
