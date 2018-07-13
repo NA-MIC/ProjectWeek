@@ -1,27 +1,27 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Navigating Vascular Centerlines
 
 ## Key Investigators
 
-- Investigator 1 (Sunnybrook Research Institute)
+- Michael Schumaker (Sunnybrook Research Institute)
 <!--- Investigator 2 (Affiliation)-->
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+We're developing a Slicer application that uses the Slicer VMTK extension to find the centerlines of segmented arteries, and uses these centerlines to reformat medical images. This allows a user to navigate through an artery to find regions of stenosis and occlusions.
 
 ## Objective
 
-1. Objective A. Describe it in 1-2 sentences.
-1. Objective B. Describe it in 1-2 sentences.
-1. Objective C. Describe it in 1-2 sentences.
+1. Compile SlicerExtension-VMTK with VTK9 and Qt5. Fix problems compiling VMTK with the most recent VTK.
+2. Create a glyph or marker to follow the 2D slice position on a straightened artery view.
+3. Using SlicerExtension-VMTK effectively. Extract centerlines using ComputeCenterlines module, rather than ExtractNetwork.
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. With experts, examine changes that caused VMTK to stop compiling.
+2. Understand options to add glyphs to slice views.
+3. Understand use of ComputeCenterlines, and see if new tools would be useful.
 
 ## Progress and Next Steps
 
@@ -39,7 +39,5 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
+- Source code: https://github.com/mschumak
 
