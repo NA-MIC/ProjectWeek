@@ -60,6 +60,10 @@ Please fork and add your project page, then make a pull request. You can start f
 + [SlicerAR](./Projects/SlicerAR.md) (Adam Rankin)
 + [Slicer Custom App](./Projects/SlicerCustomApp.md) (Tristan Watts-Willis)
 
+
+### Applications  ###
++ [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/CenterlinesVMTK.md) (Michael Schumaker)
+
 ### (TBD) ###
 + 
 + 
