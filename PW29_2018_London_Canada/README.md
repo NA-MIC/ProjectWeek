@@ -59,6 +59,10 @@ Please fork and add your project page, then make a pull request. You can start f
 ### Virtual/Augmented Reality ###
 + [SlicerAR](./Projects/SlicerAR.md) (Adam Rankin)
 
+
+### Applications  ###
++ [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/CenterlinesVMTK.md) (Michael Schumaker)
+
 ### (TBD) ###
 + 
 + 
