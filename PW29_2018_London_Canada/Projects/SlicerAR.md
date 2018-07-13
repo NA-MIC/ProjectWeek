@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Adam Rankin (Robarts Research Institute)
+- Mitchell Doughty (Sunnybrook)
 
 # Project Description
 
