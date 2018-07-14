@@ -40,6 +40,7 @@ SlicerCustomAppTemplate is a starting point for creating a custom 3D Slicer-base
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 - Existing project to create custom Slicer apps: https://github.com/KitwareMedical/SlicerCustomAppTemplate
+
 <!--
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
