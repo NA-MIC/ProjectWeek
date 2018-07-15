@@ -1,6 +1,6 @@
 
 ## 3D Slicer Hackathon
-## The [29th Project Week](https://na-mic.github.io/ProjectWeek/PW29_2018_London) takes place on July 16-20, 2018 in London, ON, Canada.
+## The [29th Project Week](https://na-mic.github.io/ProjectWeek/PW29_2018_London_Canada) takes place on July 16-20, 2018 in London, ON, Canada.
 
 ## Introduction
 
