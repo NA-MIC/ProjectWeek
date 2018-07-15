@@ -57,11 +57,11 @@ To receive information and announcments about the events please join the [Slack 
 Please fork and add your project page, then make a pull request. You can start from the blank template here: [Project Template](./Projects/Template/README.md). For those new to Git who are daunted by this, you can email your project details to [Adam Rankin](mailto:arankin@robarts.ca) and he will add a project page for you.
 
 ### Virtual/Augmented Reality
-+ [SlicerAR](./Projects/SlicerAR.md) (Adam Rankin)
-+ [Slicer Custom App](./Projects/SlicerCustomApp.md) (Tristan Watts-Willis)
++ [SlicerAR](./Projects/SlicerAR/README.md) (Adam Rankin)
++ [Slicer Custom App](./Projects/SlicerCustomApp/README.md) (Tristan Watts-Willis)
 
 ### Applications
-+ [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/CenterlinesVMTK.md) (Michael Schumaker)
++ [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker)
 
 ### Core infrastructure
 
