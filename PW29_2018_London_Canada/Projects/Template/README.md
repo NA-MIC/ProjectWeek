@@ -1,25 +1,19 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-TEE Calibration Module 
+## Write full project title here
 
 ## Key Investigators
-
-- Leah Groves (Robarts)
-- Goli (Robarts)
-
+- Investigator 1 (Affiliation) 
+- Investigator 2 (Affiliation) 
+- Investigator 3 (Affiliation)
 
 # Project Description
-1. Develop a slicer module for TEE probe calibration 
-2. Present and get feedback on IGT module development blog
-## Objective
-Project 1: 
-1. Stream real time ultrasound images from the TEE probe into slicer 
-2. Stream tracking data into slicer 
-3. Apply point to line registration algorithm to bi-plane images 
-4. Develop a working module 
+<!-- Add a short paragraph describing the project. --> 
 
-Project 2:
-1. Objective A.Present and finalize the blog.
+## Objective
+1. Objective A. Describe it in 1-2 sentences. 
+1. Objective B. Describe it in 1-2 sentences. 
+1. Objective C. Describe it in 1-2 sentences. 
 
 ## Approach and Plan
 
