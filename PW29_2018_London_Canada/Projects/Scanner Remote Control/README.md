@@ -1,6 +1,6 @@
-#MRI Scanner Remote Control
+# MRI Scanner Remote Control
 
-#Key Investigators
+# Key Investigators
 - Ahmed Mahran (Brigham and Women's Hospital)
 - Junichi Tokuda (Brigham and Women's Hospital)
 - Nobuhiko Hata  (Brigham and Women's Hospital) 
