@@ -66,6 +66,9 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [TEE Probe Calibration](./Projects/TEECalibrations/README.md) (Leah Groves and Golafsoun Ameri)
 + [Slicer Mitral Valve)(./Projects/SlicerMitralValve/README.md) (Patrick Carnahan)
 
+### Segmentation
++ [Brain Tumour Segmentation](./Projects/Brain_Tumour_Segment.md) (Daiana Pur)
+
 ### Core infrastructure
 + [Jupyter notebook integration](./Projects/SlicerJupyter/README.md) (Andras Lasso, Jean-Christophe Fillion-Robin)
 + [Deformable transfoms performance test](./Projects/DeformableTransformTest/README.md) (Tamas Ungi, Tristan Watts-Willis, Andras Lasso)
@@ -74,10 +77,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 ### Personal Development
 + [Using Extensions](./Projects/UsingExtensions/README.md) (Derek Gillies)
 
-### (TBD) ###
-+ 
-+ 
-+ 
+
 
 ## Breakout sessions
 
