@@ -58,7 +58,7 @@ To receive information and announcments about the events please join the [Slack 
 Please [follow these instructions](./Projects/README.md) to create a project page. For those new to Git who are daunted by this, you can email your project details to [Adam Rankin](mailto:arankin@robarts.ca) and he will add a project page for you.
 
 ### Virtual/Augmented Reality
-+ [SlicerAR](./Projects/SlicerAR/README.md) (Adam Rankin)
++ [SlicerAR](./Projects/SlicerAR/README.md) (Adam Rankin, Mitchell Doughty)
 + [Slicer Custom App](./Projects/SlicerCustomApp/README.md) (Tristan Watts-Willis, Tamas Ungi, Andras Lasso, Jean-Christophe Fillion-Robin)
 
 ### Applications
