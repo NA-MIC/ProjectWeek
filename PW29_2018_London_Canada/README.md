@@ -77,7 +77,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [Add curve tool to Markups](./Projects/CurveTool/README.md) (Andras Lasso)
 + [Slicer Custom App](./Projects/SlicerCustomApp/README.md) (Tristan Watts-Willis, Tamas Ungi, Andras Lasso, Jean-Christophe Fillion-Robin)
 
-### Application
+### Quantification
 + [Endoscope View Quantification](./Projects/EndoscopeViewQuantification/README.md) (Franklin King)
 
 ### Personal Development
