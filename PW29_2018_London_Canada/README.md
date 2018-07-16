@@ -63,7 +63,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 ### Applications
 + [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker)
 + [Slicer Custom App](./Projects/SlicerCustomApp/README.md) (Tristan Watts-Willis, Tamas Ungi, Andras Lasso, Jean-Christophe Fillion-Robin)
-+[TEE Probe Calibration](./Projects/TEECalibrations/README.md)(Leah Groves and Goli)
++ [TEE Probe Calibration](./Projects/TEECalibrations/README.md)(Leah Groves and Goli)
 
 ### Core infrastructure
 + [Jupyter notebook integration](./Projects/SlicerJupyter/README.md) (Andras Lasso, Jean-Christophe Fillion-Robin)
