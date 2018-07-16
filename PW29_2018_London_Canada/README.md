@@ -65,7 +65,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Vascular/Cardiac
 + [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker)
-+ [Slicer Mitral Valve)(./Projects/SlicerMitralValve/README.md) (Patrick Carnahan)
++ [Slicer Mitral Valve](./Projects/SlicerMitralValve/README.md) (Patrick Carnahan)
 
 ### Segmentation
 + [Brain Tumour Segmentation](./Projects/Brain_Tumour_Segment.md) (Daiana Pur)
