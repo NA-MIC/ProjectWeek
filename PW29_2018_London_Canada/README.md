@@ -72,6 +72,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [Brain Tumour Segmentation](./Projects/Brain_Tumour_Segment.md) (Daiana Pur)
 + [Fetal Brain Segmentation and Volumization](./Projects/FetalBrainSegmentationAndVolumization/README.md) (Estee Goldberg and Denis Kikinov)
 + [Interactive Segmentatin Using SegmentEditor](./Projects/InteractiveSegmentation/README.md) (Houssem Gueziri)
++ [Brain Ventricle Segmentation](./Projects/BrainVentricleSegment/README.md) (Hassan Haddad)
 
 ### Core infrastructure
 + [Jupyter notebook integration](./Projects/SlicerJupyter/README.md) (Andras Lasso, Jean-Christophe Fillion-Robin)
