@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-I am still new to creating modules in Slicer and would like to learn how to use existing extensions.
+Supervised machine learning methods require an input image with a corresponding mask for training a network. Currently, the Volume Clip extension is used with the Scene Views module to create these masks, but it is a multi-step process. This project will focus on automating these steps to create masks for applicators in 2D ultrasound liver images.
 
 ## Objective
 
