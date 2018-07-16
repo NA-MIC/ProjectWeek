@@ -33,7 +33,7 @@ We're developing a Slicer application that uses the Slicer VMTK extension to fin
 
 <!--![Description of picture](Example2.jpg)-->
 
-<!--![Some more images](Example2.jpg)-->
+[Navigating Vascular Centerlines](PADPlanner-Jul13-2018)
 
 # Background and References
 
