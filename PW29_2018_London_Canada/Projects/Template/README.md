@@ -4,19 +4,22 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Leah Groves (Robarts)
+- Goli (Robarts)
+
 
 # Project Description
-
-<!-- Add a short paragraph describing the project. -->
-
+1. Develop a slicer module for TEE probe calibration 
+2. Present and get feedback on IGT module development blog
 ## Objective
+Project 1: 
+1. Stream real time ultrasound images from the TEE probe into slicer 
+2. Stream tracking data into slicer 
+3. Apply point to line registration algorithm to bi-plane images 
+4. Develop a working module 
 
-1. Objective A. Describe it in 1-2 sentences.
-1. Objective B. Describe it in 1-2 sentences.
-1. Objective C. Describe it in 1-2 sentences.
+Project 2:
+1. Objective A.Present and finalize the blog.
 
 ## Approach and Plan
 
