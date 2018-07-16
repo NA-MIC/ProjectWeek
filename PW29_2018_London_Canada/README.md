@@ -39,7 +39,7 @@ To receive information and announcments about the events please join the [Slack 
 |   =    |Monday July 16 | Tuesday July 17 | Wednesday July 18 | Thursday July 19 | Friday July 20
 |:---:   |     :---:     |     :---:       |     :---:         |     :---:        |     :---:    
 |9:00    |               |                 |                   |                  |
-|10:00   |               | Segmentation tutorial/breakout  |   |                  |
+|10:00   |               | Segmentation tutorial/breakout  | Augmented/virtual reality demo/breakout  |                  |
 |11:00   |               |                 |                   |                  |   Project reviews
 |12:00   |Arrival and *Lunch*|  *Lunch*    |    *Lunch*        |     *Lunch*      |    --- Fin ---
 |13:00   |Kick-off and projects|Registration tutorial/breakout||                  |
@@ -87,13 +87,14 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 ### Application
 + [Scanner Remote Control](./Projects/Scanner%20Remote%20Control/README.md) (Ahmed Mahran, Franklin King)
 
+<a name="BreakoutSessions"/>
+
 ## Breakout sessions
 
-List of potential topics for breakout sessions - they will be scheduled if interest of enough people is confirmed. Feel free to add any topic that you would be interested to learn about or discuss.
-
-+ Augmented/Virtual reality: AR/VR demos, discuss about potential applications
++ [Segmentation](./BreakoutSessions/Segmentation.md)
++ [Registration](./BreakoutSessions/Registration.md)
++ [Augmented/Virtual reality](./BreakoutSessions/AR-VR.md)
 + SlicerIGT: presentation about how to build Slicer-based real-time image-guidance and navigation systems
-+ Segmentation: tutorial about Segment Editor tools, Q&A
 
 ## Clinical Interaction Session
 We have invited a number of clinicians from a variety of specialties to visit, present, discuss, or just generally engage with the community in order to faciliate meaningful and useful progress.
