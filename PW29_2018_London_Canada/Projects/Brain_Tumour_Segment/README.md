@@ -1,19 +1,17 @@
-Back to [Projects List](../../README.md#ProjectsList)
 
-## Write full project title here
+## Brain Tumor Segmentation & DTI 
 
-## Key Investigators
-- Investigator 1 (Affiliation) 
-- Investigator 2 (Affiliation) 
-- Investigator 3 (Affiliation)
+# Key Investigators
+- Daiana Pur (Biomedical Engineering, Western University) 
 
 # Project Description
-<!-- Add a short paragraph describing the project. --> 
+Learn how segment, visualize DTI fibers around tumor, and measure brain tumours in pediatric subjects
+Automated Tool
 
 ## Objective
-1. Objective A. Describe it in 1-2 sentences. 
-1. Objective B. Describe it in 1-2 sentences. 
-1. Objective C. Describe it in 1-2 sentences. 
+1. Visualize the tumor and on Volumes  
+1. Make a label for the tumor 
+ 
 
 ## Approach and Plan
 
@@ -35,9 +33,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Background and References
 
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
+https://sites.duke.edu/pcqiba/2018/05/13/new-protocol-for-tumor-segmentation-using-3d-slicer/
+http://www2.imm.dtu.dk/projects/BRATS2012/Jakab_TumorSegmentation_Manual.pdf
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3991434/
 
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
-

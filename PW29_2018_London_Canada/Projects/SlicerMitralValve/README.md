@@ -1,19 +1,17 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-## Write full project title here
+## SlicerMitralValve
 
 ## Key Investigators
-- Investigator 1 (Affiliation) 
-- Investigator 2 (Affiliation) 
-- Investigator 3 (Affiliation)
+- Patrick Carnahan (Robarts) 
 
 # Project Description
-<!-- Add a short paragraph describing the project. --> 
+This extension contains a collection of tools for aiding in patient-specific mitral valve modelling. 
 
 ## Objective
-1. Objective A. Describe it in 1-2 sentences. 
-1. Objective B. Describe it in 1-2 sentences. 
-1. Objective C. Describe it in 1-2 sentences. 
+1. Improve module for registering 2d and 2d bi-plane colour ultrasound into 3D space. 
+1. Improve usability of interactive-automatic mitral valve segmentation module.
+1. Integrate custom mold generation from segmentation.
 
 ## Approach and Plan
 
@@ -37,7 +35,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/YourUser/YourRepository
+- Source code: https://github.com/pcarnah/SlicerMitralValve
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
 

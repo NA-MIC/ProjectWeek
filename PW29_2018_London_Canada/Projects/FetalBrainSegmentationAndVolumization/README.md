@@ -1,19 +1,21 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-## Write full project title here
+## Fetal Brain Segmentation and Volumization    
 
 ## Key Investigators
-- Investigator 1 (Affiliation) 
-- Investigator 2 (Affiliation) 
-- Investigator 3 (Affiliation)
+- Estee Goldberg (Biomedical Engineering, Western University)
+- Denis Kikinov (Software Engineering, Western University) 
+
 
 # Project Description
 <!-- Add a short paragraph describing the project. --> 
+This will be a tool to segment the fetal brain from the a fetal MRI. Afterwards the fetal brain will be compiled into a brain volume for later comparisons
+
 
 ## Objective
-1. Objective A. Describe it in 1-2 sentences. 
-1. Objective B. Describe it in 1-2 sentences. 
-1. Objective C. Describe it in 1-2 sentences. 
+1. Take any fetal MRI image
+1. Autonomously segment the fetal brain
+1. Autonomously produce a brain volume for the segmented brain 
 
 ## Approach and Plan
 
@@ -40,4 +42,3 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
-

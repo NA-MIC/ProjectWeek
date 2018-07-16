@@ -1,25 +1,23 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-## Write full project title here
+# Using Extensions
 
 ## Key Investigators
-- Investigator 1 (Affiliation) 
-- Investigator 2 (Affiliation) 
-- Investigator 3 (Affiliation)
+
+- Derek Gillies (Robarts Research Institute)
 
 # Project Description
-<!-- Add a short paragraph describing the project. --> 
+
+I am still new to creating modules in Slicer and would like to learn how to use existing extensions.
 
 ## Objective
-1. Objective A. Describe it in 1-2 sentences. 
-1. Objective B. Describe it in 1-2 sentences. 
-1. Objective C. Describe it in 1-2 sentences. 
+
+1. Create a module that outputs masks for machine learning applications
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Dedicate time to learning
+2. Talking to more knowledgable people
 
 ## Progress and Next Steps
 
@@ -37,7 +35,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
+- Existing project to create custom Slicer apps: https://github.com/KitwareMedical/SlicerCustomAppTemplate
+
+<!--
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
-
+-->

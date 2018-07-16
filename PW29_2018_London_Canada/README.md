@@ -23,7 +23,7 @@ To receive information and announcments about the events please join the [Slack 
 - Host: [Terry Peters](http://www.robarts.ca/terry-peters), Robarts Scientist; Professor Medical Imaging; Medical Biophysics; Biomedical Engineering
 
 - Email Local Organizing Committee:
-  - [Adam Rankin, Terry Peters, Jackie Williams](mailto:arankin@robarts.ca,tpeters@robarts.ca,jwilliams@robarts.ca?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28)
+  - [Adam Rankin, Terry Peters, Jackie Williams](mailto:arankin@robarts.ca,tpeters@robarts.ca,jwilliams@robarts.ca?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek29)
 
 ## Frequently Asked Questions
 
@@ -54,20 +54,39 @@ To receive information and announcments about the events please join the [Slack 
 |22:00   |               |                 |                   |                  |
 
 ## Projects <a name="ProjectsList"/>
-Please fork and add your project page, then make a pull request. You can start from the blank template here: [Project Template](./Projects/Template/README.md). For those new to Git who are daunted by this, you can email your project details to [Adam Rankin](mailto:arankin@robarts.ca) and he will add a project page for you.
 
-### Virtual/Augmented Reality ###
-+ [SlicerAR](./Projects/SlicerAR.md) (Adam Rankin)
-+ [Slicer Custom App](./Projects/SlicerCustomApp.md) (Tristan Watts-Willis)
+Please [follow these instructions](./Projects/README.md) to create a project page. For those new to Git who are daunted by this, you can email your project details to [Adam Rankin](mailto:arankin@robarts.ca) and he will add a project page for you.
 
+### Virtual/Augmented Reality
++ [SlicerAR](./Projects/SlicerAR/README.md) (Adam Rankin, Mitchell Doughty)
 
-### Applications  ###
-+ [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/CenterlinesVMTK.md) (Michael Schumaker)
+### Image Guided Therapy
++ [TEE Probe Calibration](./Projects/TEECalibrations/README.md) (Leah Groves and Golafsoun Ameri)
 
-### (TBD) ###
-+ 
-+ 
-+ 
+### Vascular/Cardiac
++ [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker)
++ [Slicer Mitral Valve](./Projects/SlicerMitralValve/README.md) (Patrick Carnahan)
+
+### Segmentation
++ [Brain Tumour Segmentation](./Projects/Brain_Tumour_Segment.md) (Daiana Pur)
++ [Fetal Brain Segmentation and Volumization](.Projects/FetalBrainSegmentationAndVolumization/README.md) (Estee Goldberg and Denis Kikinov)
+
+### Core infrastructure
++ [Jupyter notebook integration](./Projects/SlicerJupyter/README.md) (Andras Lasso, Jean-Christophe Fillion-Robin)
++ [Deformable transfoms performance test](./Projects/DeformableTransformTest/README.md) (Tamas Ungi, Tristan Watts-Willis, Andras Lasso)
++ [Add curve tool to Markups](./Projects/CurveTool/README.md) (Andras Lasso)
++ [Slicer Custom App](./Projects/SlicerCustomApp/README.md) (Tristan Watts-Willis, Tamas Ungi, Andras Lasso, Jean-Christophe Fillion-Robin)
+
+### Personal Development
++ [Using Extensions](./Projects/UsingExtensions/README.md) (Derek Gillies)
+
+## Breakout sessions
+
+List of potential topics for breakout sessions - they will be scheduled if interest of enough people is confirmed. Feel free to add any topic that you would be interested to learn about or discuss.
+
++ Augmented/Virtual reality: AR/VR demos, discuss about potential applications
++ SlicerIGT: presentation about how to build Slicer-based real-time image-guidance and navigation systems
++ Segmentation: tutorial about Segment Editor tools, Q&A
 
 ## Clinical Interaction Session
 We have invited a number of clinicians from a variety of specialties to visit, present, discuss, or just generally engage with the community in order to faciliate meaningful and useful progress.
@@ -77,11 +96,11 @@ We have invited a number of clinicians from a variety of specialties to visit, p
 + Golafsoun Ameri (Robarts Research Institute)
 + Udunna Anazodo (LHRI)
 + Eman Arnout (LHSC)
-+ Patrick Carnahan (Robarts Research Institute, Western University)
++ Patrick Carnahan (Robarts Research Institute, Western University) @pcarnah
 + Elvis Chen (Robarts Research)
 + Mamadou Diop (Western)
 + Mitchell Doughty (Sunnybrook Research Institute)
-+ Mena  Gaed (Robarts Research Institute)
++ Mena Gaed (Robarts Research Institute)
 + Estee Goldberg (Western University )
 + Leah Groves (Robarts Research Institute)
 + Houssem Gueziri (MNI)
@@ -90,21 +109,21 @@ We have invited a number of clinicians from a variety of specialties to visit, p
 + Nobuhiko Hata (Brigham and Women's Hospital)
 + Dimuthu Henadeerage Don (Robarts Research Institute)
 + Mason Kadem (Brain and mind)
-+ Denis Kikinov (Western University)
++ Denis Kikinov (Western University) @dkikinov
 + Franklin King (Brigham and Women's Hospital)
-+ Andras Lasso (PerkLab, Queen's University)
++ Andras Lasso (PerkLab, Queen's University) @lassoan
 + Jonathan Lau (Western University)
 + YingLi Lu (Robarts Research Institute)
 + Ahmed Mahran (Brigham and Women's Hospital)
 + Pankhuri Malik (Western University)
 + Lyla Mu (Western University)
 + Hareem Nisar (Student)
-+ Daiana Pur (Western University)
-+ Adam Rankin (Robarts Research Institute)
++ Daiana Pur (Western University) @dpuruwo
++ Adam Rankin (Robarts Research Institute) @adamrankin
 + Michael Schumaker (Sunnybrook Research Institute)
-+ Tamas Ungi (Queen's University)
++ Tamas Ungi (Queen's University) @ungi
 + Reid Vassallo (Robarts)
-+ Tristan Watts-Willis (Verdure Imaging Inc.)
++ Tristan Watts-Willis (Verdure Imaging Inc.) @xTdub
 + Wenyao Xia (Western University)
 + Yiming Xiao (Robarts Research Institute, Western University)
 + Yaojie Zhou (Robarts Imaging)
