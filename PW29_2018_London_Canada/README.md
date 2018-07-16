@@ -77,6 +77,14 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + 
 + 
 
+## Breakout sessions
+
+List of potential topics for breakout sessions - they will be scheduled if interest of enough people is confirmed. Feel free to add any topic that you would be interested to learn about or discuss.
+
++ Augmented/Virtual reality: AR/VR demos, discuss about potential applications
++ SlicerIGT: presentation about how to build Slicer-based real-time image-guidance and navigation systems
++ Segmentation: tutorial about Segment Editor tools, Q&A
+
 ## Clinical Interaction Session
 We have invited a number of clinicians from a variety of specialties to visit, present, discuss, or just generally engage with the community in order to faciliate meaningful and useful progress.
 
