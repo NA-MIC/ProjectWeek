@@ -96,7 +96,7 @@ We have invited a number of clinicians from a variety of specialties to visit, p
 + Golafsoun Ameri (Robarts Research Institute)
 + Udunna Anazodo (LHRI)
 + Eman Arnout (LHSC)
-+ Patrick Carnahan (Robarts Research Institute, Western University)
++ Patrick Carnahan (Robarts Research Institute, Western University) @pcarnah
 + Elvis Chen (Robarts Research)
 + Mamadou Diop (Western)
 + Mitchell Doughty (Sunnybrook Research Institute)
@@ -109,7 +109,7 @@ We have invited a number of clinicians from a variety of specialties to visit, p
 + Nobuhiko Hata (Brigham and Women's Hospital)
 + Dimuthu Henadeerage Don (Robarts Research Institute)
 + Mason Kadem (Brain and mind)
-+ Denis Kikinov (Western University)
++ Denis Kikinov (Western University) @dkikinov
 + Franklin King (Brigham and Women's Hospital)
 + Andras Lasso (PerkLab, Queen's University) @lassoan
 + Jonathan Lau (Western University)
@@ -118,7 +118,7 @@ We have invited a number of clinicians from a variety of specialties to visit, p
 + Pankhuri Malik (Western University)
 + Lyla Mu (Western University)
 + Hareem Nisar (Student)
-+ Daiana Pur (Western University)
++ Daiana Pur (Western University) @dpuruwo
 + Adam Rankin (Robarts Research Institute) @adamrankin
 + Michael Schumaker (Sunnybrook Research Institute)
 + Tamas Ungi (Queen's University) @ungi
