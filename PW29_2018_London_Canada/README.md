@@ -23,7 +23,7 @@ To receive information and announcments about the events please join the [Slack 
 - Host: [Terry Peters](http://www.robarts.ca/terry-peters), Robarts Scientist; Professor Medical Imaging; Medical Biophysics; Biomedical Engineering
 
 - Email Local Organizing Committee:
-  - [Adam Rankin, Terry Peters, Jackie Williams](mailto:arankin@robarts.ca,tpeters@robarts.ca,jwilliams@robarts.ca?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28)
+  - [Adam Rankin, Terry Peters, Jackie Williams](mailto:arankin@robarts.ca,tpeters@robarts.ca,jwilliams@robarts.ca?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek29)
 
 ## Frequently Asked Questions
 
@@ -60,24 +60,25 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 ### Virtual/Augmented Reality
 + [SlicerAR](./Projects/SlicerAR/README.md) (Adam Rankin, Mitchell Doughty)
 
-### Applications
-+ [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker)
-+ [Slicer Custom App](./Projects/SlicerCustomApp/README.md) (Tristan Watts-Willis, Tamas Ungi, Andras Lasso, Jean-Christophe Fillion-Robin)
+### Image Guided Therapy
 + [TEE Probe Calibration](./Projects/TEECalibrations/README.md) (Leah Groves and Golafsoun Ameri)
+
+### Vascular/Cardiac
++ [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker)
 + [Slicer Mitral Valve)(./Projects/SlicerMitralValve/README.md) (Patrick Carnahan)
 
 ### Segmentation
 + [Brain Tumour Segmentation](./Projects/Brain_Tumour_Segment.md) (Daiana Pur)
++ [Fetal Brain Segmentation and Volumization](.Projects/FetalBrainSegmentationAndVolumization/README.md) (Estee Goldberg and Denis Kikinov)
 
 ### Core infrastructure
 + [Jupyter notebook integration](./Projects/SlicerJupyter/README.md) (Andras Lasso, Jean-Christophe Fillion-Robin)
 + [Deformable transfoms performance test](./Projects/DeformableTransformTest/README.md) (Tamas Ungi, Tristan Watts-Willis, Andras Lasso)
 + [Add curve tool to Markups](./Projects/CurveTool/README.md) (Andras Lasso)
++ [Slicer Custom App](./Projects/SlicerCustomApp/README.md) (Tristan Watts-Willis, Tamas Ungi, Andras Lasso, Jean-Christophe Fillion-Robin)
 
 ### Personal Development
 + [Using Extensions](./Projects/UsingExtensions/README.md) (Derek Gillies)
-
-
 
 ## Breakout sessions
 
