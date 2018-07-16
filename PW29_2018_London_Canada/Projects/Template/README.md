@@ -1,28 +1,23 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Interfacing With Current Modules
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Derek Gillies (Robarts Research Institute)
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+I'm still new to creating modules for Slicer and would like to learn how to combine and use existing extensions.
 
 ## Objective
 
-1. Objective A. Describe it in 1-2 sentences.
-1. Objective B. Describe it in 1-2 sentences.
-1. Objective C. Describe it in 1-2 sentences.
+1.  My goal for the week is to learn how to use and combine existing modules in my own Python project.
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Dedicating uninterrupted time to learn
+2. Talking to people more knowledgable than myself
 
 ## Progress and Next Steps
 
