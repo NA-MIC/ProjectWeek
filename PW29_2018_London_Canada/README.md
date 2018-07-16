@@ -68,6 +68,9 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 + [Jupyter notebook integration](./Projects/SlicerJupyter/README.md) (Andras Lasso, Jean-Christophe Fillion-Robin)
 
+### Personal Development
++ [Using Extensions](./Projects/UsingExtensions/README.md) (Derek Gillies)
+
 ### (TBD) ###
 + 
 + 
