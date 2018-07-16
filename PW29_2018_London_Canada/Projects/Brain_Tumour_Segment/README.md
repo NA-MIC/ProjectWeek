@@ -1,8 +1,7 @@
-Back to [Projects List](../../README.md#ProjectsList)
 
-Brain Tumor Segmentation & DTI 
+## Brain Tumor Segmentation & DTI 
 
-#Key Investigators
+# Key Investigators
 - Daiana Pur (Biomedical Engineering, Western University) 
 
 # Project Description
@@ -12,7 +11,7 @@ Automated Tool
 ## Objective
 1. Visualize the tumor and on Volumes  
 1. Make a label for the tumor 
-1. Objective C. Describe it in 1-2 sentences. 
+ 
 
 ## Approach and Plan
 
