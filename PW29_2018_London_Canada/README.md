@@ -39,12 +39,12 @@ To receive information and announcments about the events please join the [Slack 
 |   =    |Monday July 16 | Tuesday July 17 | Wednesday July 18 | Thursday July 19 | Friday July 20
 |:---:   |     :---:     |     :---:       |     :---:         |     :---:        |     :---:    
 |9:00    |               |                 |                   |                  |
-|10:00   |               |                 |                   |                  |
+|10:00   |               | Segmentation tutorial/breakout  | Augmented/virtual reality demo/breakout  |                  |
 |11:00   |               |                 |                   |                  |   Project reviews
 |12:00   |Arrival and *Lunch*|  *Lunch*    |    *Lunch*        |     *Lunch*      |    --- Fin ---
-|13:00   |Kick-off and projects|           |                   |                  |
+|13:00   |Kick-off and projects|Registration tutorial/breakout||                  |
 |14:00   |               |                 |                   |                  |
-|15:00   |               |                 |                   |                  |
+|15:00   |               |Image-guided therapy tutorial/breakout|  |              |
 |16:00   |               |                 |                   |    Clinical interaction session |
 |17:00   |               |                 |                   |                  |
 |18:00   |               |                 |                   |     Organized    |
@@ -61,15 +61,19 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [SlicerAR](./Projects/SlicerAR/README.md) (Adam Rankin, Mitchell Doughty)
 
 ### Image Guided Therapy
-+ [TEE Probe Calibration](./Projects/TEECalibrations/README.md) (Leah Groves and Golafsoun Ameri)
++ [TEE Probe Calibration](./Projects/TEECalibration/README.md) (Leah Groves and Golafsoun Ameri)
++ [Ultrasound-guided kidney needle simulator](./Projects/UltrasoundKidneySimulator/README.md) (Lyla Mu)
++ [Real-time segmentation using machine learning](./Projects/UsingExtensions/README.md) (Derek Gillies)
 
 ### Vascular/Cardiac
-+ [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker)
++ [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker, Eman Arnout)
 + [Slicer Mitral Valve](./Projects/SlicerMitralValve/README.md) (Patrick Carnahan)
 
 ### Segmentation
-+ [Brain Tumour Segmentation](./Projects/Brain_Tumour_Segment.md) (Daiana Pur)
-+ [Fetal Brain Segmentation and Volumization](.Projects/FetalBrainSegmentationAndVolumization/README.md) (Estee Goldberg and Denis Kikinov)
++ [Brain Tumour Segmentation](./Projects/Brain_Tumour_Segment/README.md) (Daiana Pur)
++ [Fetal Brain Segmentation and Volumization](./Projects/FetalBrainSegmentationAndVolumization/README.md) (Estee Goldberg and Denis Kikinov)
++ [Interactive Segmentatin Using SegmentEditor](./Projects/InteractiveSegmentation/README.md) (Houssem Gueziri)
++ [Brain Ventricle Segmentation](./Projects/BrainVentricleSegment/README.md) (Hassan Haddad)
 
 ### Core infrastructure
 + [Jupyter notebook integration](./Projects/SlicerJupyter/README.md) (Andras Lasso, Jean-Christophe Fillion-Robin)
@@ -80,16 +84,17 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 ### Quantification
 + [Endoscope View Quantification](./Projects/EndoscopeViewQuantification/README.md) (Franklin King)
 
-### Personal Development
-+ [Using Extensions](./Projects/UsingExtensions/README.md) (Derek Gillies)
+### Application
++ [Scanner Remote Control](./Projects/Scanner%20Remote%20Control/README.md) (Ahmed Mahran, Franklin King)
+
+<a name="BreakoutSessions"/>
 
 ## Breakout sessions
 
-List of potential topics for breakout sessions - they will be scheduled if interest of enough people is confirmed. Feel free to add any topic that you would be interested to learn about or discuss.
-
-+ Augmented/Virtual reality: AR/VR demos, discuss about potential applications
++ [Segmentation](./BreakoutSessions/Segmentation.md)
++ [Registration](./BreakoutSessions/Registration.md)
++ [Augmented/Virtual reality](./BreakoutSessions/AR-VR.md)
 + SlicerIGT: presentation about how to build Slicer-based real-time image-guidance and navigation systems
-+ Segmentation: tutorial about Segment Editor tools, Q&A
 
 ## Clinical Interaction Session
 We have invited a number of clinicians from a variety of specialties to visit, present, discuss, or just generally engage with the community in order to faciliate meaningful and useful progress.

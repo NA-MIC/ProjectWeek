@@ -10,7 +10,9 @@ Automated Tool
 
 ## Objective
 1. Visualize the tumor and on Volumes  
-1. Make a label for the tumor 
+2. Make a label for the tumor 
+3. Introduce it into existing scripted extension
+4. Troubleshoot
  
 
 ## Approach and Plan

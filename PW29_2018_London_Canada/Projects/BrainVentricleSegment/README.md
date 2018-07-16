@@ -1,23 +1,22 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Using Extensions
+## Segmentations of the sub-regions of the brain ventricles
 
-## Key Investigators
-
-- Derek Gillies (Robarts Research Institute)
+## Hassan Haddad (Robarts)
 
 # Project Description
-
-Supervised machine learning methods require an input image with a corresponding mask for training a network. Currently, the Volume Clip extension is used with the Scene Views module to create these masks, but it is a multi-step process. This project will focus on automating these steps to create masks for applicators in 2D ultrasound liver images.
+* To divide the brain ventricles into a number of sub-reions and segment them by drawing a number of planes based on the known anatomical structures in the brain
 
 ## Objective
-
-1. Create a module that outputs masks for machine learning applications
+1. Objective A. Describe it in 1-2 sentences. 
+1. Objective B. Describe it in 1-2 sentences. 
+1. Objective C. Describe it in 1-2 sentences. 
 
 ## Approach and Plan
 
-1. Dedicate time to learning
-2. Talking to more knowledgable people
+1. Describe planned approach to reach objectives.
+1. ...
+1. ...
 
 ## Progress and Next Steps
 
@@ -35,10 +34,6 @@ Supervised machine learning methods require an input image with a corresponding 
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Existing project to create custom Slicer apps: https://github.com/KitwareMedical/SlicerCustomAppTemplate
-
-<!--
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
--->
