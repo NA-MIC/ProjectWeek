@@ -86,6 +86,9 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 ### Personal Development
 + [Using Extensions](./Projects/UsingExtensions/README.md) (Derek Gillies)
 
+### Application
++ [Scanner Remote Control](./Projects/Scanner%20Remote%20Control/README.md) (Ahmed Mahran, Franklin King)
+
 ## Breakout sessions
 
 List of potential topics for breakout sessions - they will be scheduled if interest of enough people is confirmed. Feel free to add any topic that you would be interested to learn about or discuss.
