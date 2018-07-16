@@ -59,7 +59,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Virtual/Augmented Reality
 + [SlicerAR](./Projects/SlicerAR/README.md) (Adam Rankin)
-+ [Slicer Custom App](./Projects/SlicerCustomApp/README.md) (Tristan Watts-Willis)
++ [Slicer Custom App](./Projects/SlicerCustomApp/README.md) (Tristan Watts-Willis, Tamas Ungi, Andras Lasso, Jean-Christophe Fillion-Robin)
 
 ### Applications
 + [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker)
