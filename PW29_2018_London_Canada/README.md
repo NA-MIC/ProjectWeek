@@ -62,6 +62,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Image Guided Therapy
 + [TEE Probe Calibration](./Projects/TEECalibrations/README.md) (Leah Groves and Golafsoun Ameri)
++ [Ultrasound-guided kidney needle simulator](./Projects/UltrasoundKidneySimulator/README.md) (Lyla Mu)
 
 ### Vascular/Cardiac
 + [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker)
