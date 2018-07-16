@@ -85,7 +85,7 @@ We have invited a number of clinicians from a variety of specialties to visit, p
 + Elvis Chen (Robarts Research)
 + Mamadou Diop (Western)
 + Mitchell Doughty (Sunnybrook Research Institute)
-+ Mena  Gaed (Robarts Research Institute)
++ Mena Gaed (Robarts Research Institute)
 + Estee Goldberg (Western University )
 + Leah Groves (Robarts Research Institute)
 + Houssem Gueziri (MNI)
@@ -96,7 +96,7 @@ We have invited a number of clinicians from a variety of specialties to visit, p
 + Mason Kadem (Brain and mind)
 + Denis Kikinov (Western University)
 + Franklin King (Brigham and Women's Hospital)
-+ Andras Lasso (PerkLab, Queen's University)
++ Andras Lasso (PerkLab, Queen's University) @lassoan
 + Jonathan Lau (Western University)
 + YingLi Lu (Robarts Research Institute)
 + Ahmed Mahran (Brigham and Women's Hospital)
@@ -104,11 +104,11 @@ We have invited a number of clinicians from a variety of specialties to visit, p
 + Lyla Mu (Western University)
 + Hareem Nisar (Student)
 + Daiana Pur (Western University)
-+ Adam Rankin (Robarts Research Institute)
++ Adam Rankin (Robarts Research Institute) @adamrankin
 + Michael Schumaker (Sunnybrook Research Institute)
-+ Tamas Ungi (Queen's University)
++ Tamas Ungi (Queen's University) @ungi
 + Reid Vassallo (Robarts)
-+ Tristan Watts-Willis (Verdure Imaging Inc.)
++ Tristan Watts-Willis (Verdure Imaging Inc.) @xTdub
 + Wenyao Xia (Western University)
 + Yiming Xiao (Robarts Research Institute, Western University)
 + Yaojie Zhou (Robarts Imaging)
