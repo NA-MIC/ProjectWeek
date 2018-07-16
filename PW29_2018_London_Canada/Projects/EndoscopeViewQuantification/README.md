@@ -32,6 +32,7 @@ With experiments with bronchoscope continuum robots, we've found a need to visua
 # Illustrations
 
 <!--![Description of picture](Example2.jpg)-->
+(Figure1.png)
 [Results of test script using vtkHardwareSelector](https://youtu.be/rH_XCgG9sds)
 
 # Background and References
