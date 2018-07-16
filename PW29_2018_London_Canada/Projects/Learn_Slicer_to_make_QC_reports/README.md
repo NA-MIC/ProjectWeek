@@ -6,7 +6,7 @@ Learn 3d Slicer to make QC reports
 - Investigator 1 Dimuthu Hemachandra 
 
 # Project Description
-My goal of the workshop to learn 3D slicer and use it to make a Quality Control (QC) report for image registration in BidsApps.
+My goal of the workshop to learn 3D slicer and use it to make a Quality Control (QC) reports for image registration used in BidsApps.
 
 ## Objective
 1. Objective A. To learn 3D Slicer. 
