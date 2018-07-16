@@ -30,6 +30,9 @@ This extension contains a collection of tools for aiding in patient-specific mit
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 <!--![Description of picture](Example2.jpg)-->
+![BiPlaneRegistration Module screenshot](https://raw.githubusercontent.com/pcarnah/SlicerMitralValve/master/BiPlaneRegistration.png)
+
+![Mitral Valve Segmenter Module screenshot](https://raw.githubusercontent.com/pcarnah/SlicerMitralValve/master/MitralValveSegmenter-Screenshot.png)
 
 <!--![Some more images](Example2.jpg)-->
 
