@@ -1,31 +1,34 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Navigating Vascular Centerlines
+# Working with the Slicer VMTK Extension
 
 ## Key Investigators
 
 - Michael Schumaker (Sunnybrook Research Institute)
-<!--- Investigator 2 (Affiliation)-->
+- Eman Arnout (LHSC)
+- Olga Trichtchenko (Western)
 
 # Project Description
 
-I'm developing a Slicer application that uses the Slicer VMTK extension to find the centerlines of segmented arteries, and uses these centerlines to reformat medical images. This allows a user to navigate through an artery to find regions of stenosis and occlusions.
+Our interest is in using and enhancing Slicer's Vascular Modelling Toolkit (VMTK) extension. We plan to look at how to use VMTK capabilities, and whether they can be used more effectively in applications. We may see if there are capabilities of the VMTK package that can be added to the Slicer extension.
 
 ## Objective
 
 1. Compile SlicerExtension-VMTK with VTK9 and Qt5. Fix problems compiling VMTK with the most recent VTK.
-2. Create a glyph or marker to follow the 2D slice position on a straightened artery view.
-3. Using SlicerExtension-VMTK effectively. Extract centerlines using ComputeCenterlines module, rather than ExtractNetwork.
-4. Create a loadable module to work with the VTK remote module "Spline Driven Image Slicer", with additional features. 
+2. Use VMTK in Slicer effectively. Extract centerlines using start and end points, rather than using extractNetwork.
+3. Explore other VMTK features, and whether they can be added as Slicer modules.
 
 ## Approach and Plan
 
-1. With experts, examine changes that caused VMTK to stop compiling.
-2. Understand options to add glyphs to slice views, try them out.
-3. Understand use of ComputeCenterlines, and see if new tools would be useful.
-4. Create a loadable module from the template, and set it up to compile with Spline Driven Image Slicer.
+1. Ask for help to compile VMTK with VTK9.
+2. Try different approaches to using VMTK’s centreline computation features.
+4. Look at VMTK tutorials, understand what else is available in the package, and try to use them from Slicer.
 
 ## Progress and Next Steps
+
+1. Done! JCFR was very helpful.
+2. - 
+3. -
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
@@ -35,11 +38,11 @@ I'm developing a Slicer application that uses the Slicer VMTK extension to find 
 
 <!--![Description of picture](Example2.jpg)-->
 
-[Navigating Vascular Centerlines](PADPlanner-Jul13-2018.png)
+[Software for Navigating Vascular Centerlines](PADPlanner-Jul13-2018.png)
 
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/mschumak
+- Source code: https://github.com/SunnybrookAngio/ProjectWeek2018.git
 

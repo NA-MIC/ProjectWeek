@@ -66,7 +66,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [Real-time segmentation using machine learning](./Projects/UsingExtensions/README.md) (Derek Gillies)
 
 ### Vascular/Cardiac
-+ [Navigating Vascular Centerlines](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker, Eman Arnout)
++ [Working with the Slicer VMTK Extension](./Projects/CenterlinesVMTK/README.md) (Michael Schumaker, Eman Arnout, Olga Trichtchenko)
 + [Slicer Mitral Valve](./Projects/SlicerMitralValve/README.md) (Patrick Carnahan)
 
 ### Segmentation
