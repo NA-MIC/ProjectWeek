@@ -7,6 +7,7 @@ Tutorial about Segment Editor tools, questions&answers.
 # Use cases
 
 * Tumor segmentation in brain MRI for tumor resection planning (Andras Lasso)
+* Segmentation of lungs in co-registered anatomical and functional MRI (Alex Matheson, Andrew Westcott)
 * ...
 * ...
 
