@@ -9,8 +9,9 @@ Adding a Brain Tumour Segmentation feature to an existing Neurosurgical Planning
 ## Objective
 1. Visualize Tumour   
 2. Learn the features of SegmentEditor
-3. Introduce SegmentEditor features into existing scripted extension
-4. Troubleshoot
+3. Learn features of module_segment_statistics 
+4. Introduce SegmentEditor features into existing scripted extension
+5. Troubleshoot
  
 
 ## Approach and Plan
@@ -20,8 +21,11 @@ Adding a Brain Tumour Segmentation feature to an existing Neurosurgical Planning
 
 
 ## Progress and Next Steps
-Obtained Sample Data, tried different settings for creating mask over tumors 
-Troubleshooting existing extension
+1.Obtained Sample Data, tried different settings for creating mask over tumors 
+- module_segment_statistics module computes volume, surface, mean intensity, and various other metrics for each segment.
+- SlicerDMRI to obtain tracts around tumour 
+
+2. Troubleshooting existing extension
 
 # Illustrations
 
