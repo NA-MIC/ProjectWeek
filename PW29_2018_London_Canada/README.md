@@ -130,7 +130,7 @@ We have invited a number of clinicians from a variety of specialties to visit, p
 + Hareem Nisar (Student)
 + Daiana Pur (Western University) @dpuruwo
 + Adam Rankin (Robarts Research Institute) @adamrankin
-+ Michael Schumaker (Sunnybrook Research Institute)
++ Michael Schumaker (Sunnybrook Research Institute) @mschumak
 + Tamas Ungi (Queen's University) @ungi
 + Reid Vassallo (Robarts)
 + Tristan Watts-Willis (Verdure Imaging Inc.) @xTdub
