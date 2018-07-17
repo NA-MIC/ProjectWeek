@@ -121,6 +121,7 @@ We have invited a number of clinicians from a variety of specialties to visit, p
 + Franklin King (Brigham and Women's Hospital)
 + Andras Lasso (PerkLab, Queen's University) @lassoan
 + Jonathan Lau (Western University)
++ Derek	Gillies (Robarts Research Institute) @gilliesd
 + YingLi Lu (Robarts Research Institute)
 + Ahmed Mahran (Brigham and Women's Hospital)
 + Pankhuri Malik (Western University)
@@ -135,5 +136,7 @@ We have invited a number of clinicians from a variety of specialties to visit, p
 + Wenyao Xia (Western University)
 + Yiming Xiao (Robarts Research Institute, Western University)
 + Yaojie Zhou (Robarts Imaging)
++ Jean-Christophe Fillion-Robin (Kitware, Inc.) @jcfr
++ 
 
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
