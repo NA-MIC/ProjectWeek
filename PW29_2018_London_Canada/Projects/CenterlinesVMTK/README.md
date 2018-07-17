@@ -15,7 +15,7 @@ Our interest is in using and enhancing Slicer's Vascular Modelling Toolkit (VMTK
 ## Objective
 
 1. Compile SlicerExtension-VMTK with VTK9 and Qt5. Fix problems compiling VMTK with the most recent VTK.
-2. Using VMTK in Slicer effectively. Extract centerlines using start and end points, rather than using extractNetwork.
+2. Use VMTK in Slicer effectively. Extract centerlines using start and end points, rather than using extractNetwork.
 3. Explore other VMTK features, and whether they can be added as Slicer modules.
 
 ## Approach and Plan
