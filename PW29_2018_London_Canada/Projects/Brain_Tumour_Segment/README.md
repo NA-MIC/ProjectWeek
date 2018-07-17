@@ -1,29 +1,27 @@
 
-## Brain Tumor Segmentation & DTI 
-
+## Brain Tumour Segmentation 
 # Key Investigators
 - Daiana Pur (Biomedical Engineering, Western University) 
 
 # Project Description
-Learn how segment, visualize DTI fibers around tumor, and measure brain tumours in pediatric subjects
-Automated Tool
+Adding a Brain Tumour Segmentation feature to an existing Neurosurgical Planning tool
 
 ## Objective
-1. Visualize the tumor and on Volumes  
-2. Make a label for the tumor 
-3. Introduce it into existing scripted extension
+1. Visualize Tumour   
+2. Learn the features of SegmentEditor
+3. Introduce SegmentEditor features into existing scripted extension
 4. Troubleshoot
  
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Visualize different types of Tumours (high grade glioma vs low grade glioma etc) by obtaining sample data
+2. Different types of tumours require different approaches depending on size, visiblility of contrast 
+
 
 ## Progress and Next Steps
-
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+Obtained Sample Data, tried different settings for creating mask over tumors 
+Troubleshooting existing extension
 
 # Illustrations
 
@@ -38,6 +36,7 @@ Automated Tool
 https://sites.duke.edu/pcqiba/2018/05/13/new-protocol-for-tumor-segmentation-using-3d-slicer/
 http://www2.imm.dtu.dk/projects/BRATS2012/Jakab_TumorSegmentation_Manual.pdf
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3991434/
+http://slicer.readthedocs.io/en/latest/user_guide/module_segmenteditor.html
 
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
