@@ -14,8 +14,8 @@ This will be a tool to segment the fetal brain from the a fetal MRI. Afterwards 
 
 ## Objective
 1. Take any fetal MRI image
-1. Autonomously segment the fetal brain
-1. Autonomously produce a brain volume for the segmented brain 
+1. Semiautomatically segment the fetal brain
+1. Semiautomatically produce a brain volume for the segmented brain 
 
 ## Approach and Plan
 
