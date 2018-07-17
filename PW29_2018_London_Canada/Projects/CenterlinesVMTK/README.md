@@ -27,7 +27,7 @@ Our interest is in using and enhancing Slicer's Vascular Modelling Toolkit (VMTK
 ## Progress and Next Steps
 
 1. Done! JCFR was very helpful.
-2. - 
+2. Found that VMTK centreline extraction does not automatically force starting and ending at the defined source and endpoints. A flag must be set to make that happen. See tutorial at http://www.vmtk.org/tutorials/Centerlines.html
 3. -
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
