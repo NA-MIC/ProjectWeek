@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 - Estee Goldberg (Biomedical Engineering, Western University)
 - Denis Kikinov (Software Engineering, Western University) 
-- Wenyao Xia (Robarts Research Institute) 
+- Wenyao Xia (Medical Biophysics, Robarts Research Institute) 
 
 
 # Project Description
@@ -46,5 +46,6 @@ Either get the Matlab code working in Slicer using the Matlab bridge, or replica
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 - Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
+<!--- Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
+-->
