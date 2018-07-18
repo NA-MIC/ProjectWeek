@@ -46,6 +46,7 @@ Either get the Matlab code working in Slicer using the Matlab bridge, or replica
 
 # Illustrations
 
+<!--Due to the secrecy of the fetal MRI images, the following artistic representations have been created.-->
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 <!--![Description of picture](Example2.jpg)-->
@@ -55,7 +56,7 @@ Either get the Matlab code working in Slicer using the Matlab bridge, or replica
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/YourUser/YourRepository
-<!--- Documentation: https://link.to.docs
+<!-- - Source code: https://github.com/YourUser/YourRepository-->
+<!-- - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
 -->
