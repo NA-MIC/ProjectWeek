@@ -71,7 +71,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Segmentation
 + [Brain Tumour Segmentation](./Projects/Brain_Tumour_Segment/README.md) (Daiana Pur)
-+ [Fetal Brain Segmentation and Volumization](./Projects/FetalBrainSegmentationAndVolumization/README.md) (Estee Goldberg and Denis Kikinov)
++ [Fetal Brain Segmentation and Volumization](./Projects/FetalBrainSegmentationAndVolumization/README.md) (Estee Goldberg, Denis Kikinov and Wenyao Xia)
 + [Interactive Segmentatin Using SegmentEditor](./Projects/InteractiveSegmentation/README.md) (Houssem Gueziri)
 + [Brain Ventricle Segmentation](./Projects/BrainVentricleSegment/README.md) (Hassan Haddad)
 
