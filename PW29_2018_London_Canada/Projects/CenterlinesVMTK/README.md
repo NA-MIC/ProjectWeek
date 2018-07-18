@@ -45,5 +45,5 @@ Our interest is in using and enhancing Slicer's Vascular Modelling Toolkit (VMTK
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/SunnybrookAngio/ProjectWeek2018.git
+- Source code: [https://github.com/SunnybrookAngio/ProjectWeek2018.git](https://github.com/SunnybrookAngio/ProjectWeek2018.git)
 
