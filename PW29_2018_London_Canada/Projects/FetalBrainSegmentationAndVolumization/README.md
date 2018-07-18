@@ -38,7 +38,7 @@ Either get the Matlab code working in Slicer using the Matlab bridge, or replica
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 <!--![Description of picture](Example2.jpg)-->
-[Registration of Axial and Coronal Views](RegistrationAx-Cor.png)
+![Registration of Axial and Coronal Views](RegistrationAx-Cor.png)
 <!--![Some more images](Example2.jpg)-->
 
 # Background and References
