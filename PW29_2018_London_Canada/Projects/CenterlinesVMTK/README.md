@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Michael Schumaker (Sunnybrook Research Institute)
 - Eman Arnout (LHSC)
 - Olga Trichtchenko (Western)
+- Jean-Christophe Fillion-Robin (Kitware) 
 
 # Project Description
 
@@ -26,7 +27,7 @@ Our interest is in using and enhancing Slicer's Vascular Modelling Toolkit (VMTK
 
 ## Progress and Next Steps
 
-1. Done! JCFR was very helpful.
+1. Done! [@jcfr](https://github.com/jcfr) was very helpful.
 2. Found that VMTK centreline extraction does not automatically force starting and ending at the defined source and endpoints. A flag must be set to make that happen. See tutorial at http://www.vmtk.org/tutorials/Centerlines.html
 3. -
 
