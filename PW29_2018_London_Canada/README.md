@@ -50,10 +50,10 @@ To receive information and announcments about the events please join the [Slack 
 |15:00   |               |Image-guided therapy tutorial/breakout|  |              |
 |16:00   |               |                 |                   |    Clinical interaction session |
 |17:00   |               |                 |                   |                  |
-|18:00   |               |                 |                   |     Organized    |
-|19:00   |    End of day |  End of day     |  End of day       |    off-site      |
-|20:00   |               |                 |                   |    social event  |
-|21:00   |               |                 |                   |                  |
+|18:00   |               |                 |                   |                  |
+|19:00   |    End of day |  End of day     |  End of day       |    [Organized](https://www.therecroom.com/?location=london-masonville)      |
+|20:00   |               |                 |                   |    [off-site](https://www.therecroom.com/?location=london-masonville)  |
+|21:00   |               |                 |                   |    [social event](https://www.therecroom.com/?location=london-masonville)              |
 |22:00   |               |                 |                   |                  |
 
 ## Projects <a name="ProjectsList"/>
