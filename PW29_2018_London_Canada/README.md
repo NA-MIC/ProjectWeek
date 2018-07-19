@@ -5,6 +5,9 @@ The 29th NA-MIC Project Week will be held during the week of July 16-20, 2018 at
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
 
+## Photo Album
+The 29th NA-MIC PW [Event album](http://bit.ly/slicer-29pw-photos).
+
 ## Logistics
 
 To receive information and announcments about the events please join the [Slack group](https://join.slack.com/t/spww/shared_invite/enQtMzk4MDQyMDI1NjU0LTIwZDU2MGY4N2MzYTdmMzE1ZTlmNzA2NmNhYjE5MTA0NWMyY2RhMDQyMWYwMjkzYmU3MTczZmE0NTM0ZDZjNDQ) (for questions dedicated to this event).
