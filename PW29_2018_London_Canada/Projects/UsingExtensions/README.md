@@ -36,6 +36,7 @@ Supervised machine learning methods require an input image with a corresponding 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 - Existing project to create custom Slicer apps: https://github.com/KitwareMedical/SlicerCustomAppTemplate
+- This website was helpful for getting Python module code: http://slicer.readthedocs.io/en/latest/developer_guide/slicer.html
 
 <!--
 - Source code: https://github.com/YourUser/YourRepository
