@@ -28,6 +28,8 @@ With experiments with bronchoscope continuum robots, we've found a need to visua
 1. Made and tried test Python script
 2. Script works but is still unstable and results in some unexpected behaviour and crashing
 3. Reimplementing as loadable module
+4. Narrowed down a bug causing unexpected behaviour to an issue with QVTKOpenGLWidget and vtkHardware Selector: https://public.kitware.com/pipermail/vtkusers/2018-July/102288.html
+5. Made some progress reimplementing as a loadable module (temporarily using VTK7 and QVTKWidget)
 
 # Illustrations
 
