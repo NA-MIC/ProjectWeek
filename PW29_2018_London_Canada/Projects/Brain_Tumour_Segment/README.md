@@ -42,5 +42,5 @@ http://www2.imm.dtu.dk/projects/BRATS2012/Jakab_TumorSegmentation_Manual.pdf
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3991434/
 http://slicer.readthedocs.io/en/latest/user_guide/module_segmenteditor.html
 
-- Source code: https://github.com/dpuruwo/NeuroPath
+
 
