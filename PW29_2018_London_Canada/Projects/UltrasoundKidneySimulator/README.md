@@ -27,15 +27,15 @@ Create a low-cost simulator for ultraosund-guided needle insertions with simulat
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-<!--![Description of picture](Example2.jpg)-->
+![Description of picture](Kidney-and-Needle.PNG)
 
-<!--![Some more images](Example2.jpg)-->
+![Some more images](setup.jpeg)
 
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
+- Source code: https://github.com/Lyla-M/SlicerWeek
+- Documentation: https://uwoca-my.sharepoint.com/:p:/g/personal/ymu2_uwo_ca/EXJa9eaoqh1KicOWnQV8bWsBKeiZLQC7Th-wl4dSaBbBJw?e=4BBl4O
 - Test data: https://link.to.test.data
 

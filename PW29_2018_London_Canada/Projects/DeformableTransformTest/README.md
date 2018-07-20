@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Tamas Ungi (Queen's University)
 - Tristan Watts-Willis (Verdure Imaging)
 - Andras Lasso (Queen's University)
+- Jean-Christophe Fillion-Robin (Kitware)
 
 # Project Description
 
@@ -24,13 +25,14 @@ We have noticed in one application that registration using deformable transforms
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. Created a short test that runs from an empty scene and outputs profiling information
+1. Found out that the total time Slicer is irresponsive is the same, but rendering output is faster on 4.8
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-<!--![Description of picture](Example2.jpg)-->
+![Output of the performance test, a deformed sphere](2018-07-20_11-00-57.png)
 
 <!--![Some more images](Example2.jpg)-->
 

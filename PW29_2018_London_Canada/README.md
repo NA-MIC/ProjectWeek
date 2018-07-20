@@ -61,11 +61,11 @@ To receive information and announcments about the events please join the [Slack 
 Please [follow these instructions](./Projects/README.md) to create a project page. For those new to Git who are daunted by this, you can email your project details to [Adam Rankin](mailto:arankin@robarts.ca) and he will add a project page for you.
 
 ### Virtual/Augmented Reality
-+ [SlicerAR](./Projects/SlicerAR/README.md) (Adam Rankin, Mitchell Doughty)
+
 
 ### Image Guided Therapy
 + [TEE Probe Calibration](./Projects/TEECalibration/README.md) (Leah Groves and Golafsoun Ameri)
-+ [Ultrasound-guided kidney needle simulator](./Projects/UltrasoundKidneySimulator/README.md) (Lyla Mu)
++ [Ultrasound-guided kidney needle simulator](./Projects/UltrasoundKidneySimulator/README.md) (Lyla Mu, Tamas Ungi)
 + [Real-time segmentation using machine learning](./Projects/UsingExtensions/README.md) (Derek Gillies)
 
 ### Vascular/Cardiac
@@ -80,10 +80,9 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Core infrastructure
 + [Jupyter notebook integration](./Projects/SlicerJupyter/README.md) (Andras Lasso, Jean-Christophe Fillion-Robin)
-+ [Deformable transfoms performance test](./Projects/DeformableTransformTest/README.md) (Tamas Ungi, Tristan Watts-Willis, Andras Lasso)
++ [Deformable transfoms performance test](./Projects/DeformableTransformTest/README.md) (Tamas Ungi, Tristan Watts-Willis, Andras Lasso, Jean-Christophe Fillion-Robin)
 + [Add curve tool to Markups](./Projects/CurveTool/README.md) (Andras Lasso)
 + [Slicer Custom App](./Projects/SlicerCustomApp/README.md) (Tristan Watts-Willis, Tamas Ungi, Andras Lasso, Jean-Christophe Fillion-Robin)
-+ [Webcams in Slicer](./Projects/SlicerCamera/README.md) (Adam Rankin, Elvis Chen)
 
 ### Quantification
 + [Endoscope View Quantification](./Projects/EndoscopeViewQuantification/README.md) (Franklin King)
