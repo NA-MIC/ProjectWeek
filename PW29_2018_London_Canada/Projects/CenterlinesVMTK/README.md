@@ -29,12 +29,12 @@ Our interest is in using and enhancing Slicer's Vascular Modelling Toolkit (VMTK
 
 ## Progress and Next Steps
 
-1. Done! [@jcfr](https://github.com/jcfr) was very helpful.
-2. Found that VMTK centreline extraction does not automatically force starting and ending at the defined source and endpoints. A flag must be set to make that happen. See tutorial at http://www.vmtk.org/tutorials/Centerlines.html
-3. One option for computing fluid flow, is to export an STL file in OpenFOAM. This can be done simply by using segmentation and creating the appropriate surface. 
-4. Second option for fluid flow is to use the meshing algorithm in VMTK  http://www.vmtk.org/tutorials/MeshGeneration.html which has more specific features for blood vessels. This has not yet been implemented in Slicer. For obtaining a finer mesh, this algirthm relies on accurate computation of centerlines that include endpoints. 
-
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+1. Done! Thanks [@jcfr](https://github.com/jcfr). The initial fix was quick, but getting it to pass the integration checks took effort, and a bug fix to conda.
+2. Made a testing module to try different centerline calculation options, though there's still a lot of things to try.
+3. Found that VMTK centreline extraction does not automatically force starting and ending at the defined source and endpoints.  See tutorial at [http://www.vmtk.org/tutorials/Centerlines.html](http://www.vmtk.org/tutorials/Centerlines.html)
+4. Found Slicer VMTK code from 2007-2010 project weeks, started looking at differences with current module.
+5. One option for computing fluid flow, is to export an STL file in OpenFOAM. This can be done simply by using segmentation and creating the appropriate surface. 
+6. Second option for fluid flow is to use the meshing algorithm in VMTK [http://www.vmtk.org/tutorials/MeshGeneration.html](http://www.vmtk.org/tutorials/MeshGeneration.html) which has more specific features for blood vessels. This has not yet been implemented in Slicer. For obtaining a finer mesh, this algorithm relies on accurate computation of centerlines that include endpoints. 
 
 # Illustrations
 
