@@ -37,11 +37,11 @@ This extension contains a collection of tools for aiding in patient-specific mit
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 <!--![Description of picture](Example2.jpg)-->
-![Mitral Valve Segmenter Module screenshot](https://raw.githubusercontent.com/pcarnah/SlicerMitralValve/master/MitralValveSegmenter-Screenshot.png)
+![Mitral Valve Segmenter Module screenshot](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW29_2018_London_Canada/Projects/SlicerMitralValve/MitralValveSegmenter-Screenshot.png)
 
-![Mitral Valve Segmenter Mold](https://raw.githubusercontent.com/pcarnah/SlicerMitralValve/master/MitralValveSegmenter-MoldBottom.png)
+![Mitral Valve Segmenter Mold](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW29_2018_London_Canada/Projects/SlicerMitralValve/MitralValveSegmenter-MoldBottom.png)
 
-![BiPlaneRegistration Module screenshot](https://raw.githubusercontent.com/pcarnah/SlicerMitralValve/master/BiPlaneRegistration.png)
+![BiPlaneRegistration Module screenshot](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW29_2018_London_Canada/Projects/SlicerMitralValve/BiPlaneRegistration.png)
 
 <!--![Some more images](Example2.jpg)-->
 
