@@ -12,6 +12,7 @@
 Establish network communication between SRC and 3D Slicer to control MR's scan plane, and reterieve real-time images from the scanner remotely over the local area network.
 Python script running a JSON-based proprietary is used to communicate between the MR scanner and 3Dslicer.
 
+<!--
 ## Objective
 1. Objective A. Describe it in 1-2 sentences. 
 1. Objective B. Describe it in 1-2 sentences. 
@@ -22,6 +23,8 @@ Python script running a JSON-based proprietary is used to communicate between th
 1. Describe planned approach to reach objectives.
 1. ...
 1. ...
+
+-->
 
 ## Progress and Next Steps
 
