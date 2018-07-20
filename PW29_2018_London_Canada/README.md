@@ -81,7 +81,6 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 ### Core infrastructure
 + [Improve Python support](./Projects/SlicerPython/README.md) (Andras Lasso, Jean-Christophe Fillion-Robin)
 + [Deformable transfoms performance test](./Projects/DeformableTransformTest/README.md) (Tamas Ungi, Tristan Watts-Willis, Andras Lasso, Jean-Christophe Fillion-Robin)
-+ [Add curve tool to Markups](./Projects/CurveTool/README.md) (Andras Lasso)
 + [Slicer Custom App](./Projects/SlicerCustomApp/README.md) (Tristan Watts-Willis, Tamas Ungi, Andras Lasso, Jean-Christophe Fillion-Robin)
 
 ### Quantification
