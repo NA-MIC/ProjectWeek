@@ -34,7 +34,7 @@ a 3D slicer tool. As the old pipeline has not been updated in 7 years, we will a
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-[Full Segmentation](Screenshot.jpg)
+[Full Segmentation](Screenshot.png)
 
 <!--![Some more images](Example2.jpg)-->
 
