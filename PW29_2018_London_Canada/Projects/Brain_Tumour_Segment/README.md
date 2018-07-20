@@ -18,13 +18,13 @@
 
 ## Approach and Plan
 
-1. Work through different versions of NeuroPath extension
+1. Work through different versions of NeuroPath extension (Adam Rankin)
 2. Visualize different types of Tumours (high grade glioma vs low grade glioma etc) by obtaining sample data
 3. Different types of tumours require different approaches depending on size, visiblility of contrast 
 
 
 ## Progress and Next Steps
-1. Troubleshooting existing extension
+1. Troubleshooting existing extension 
 
 2. Obtained Sample Data, tried different settings for creating mask over tumors 
 
