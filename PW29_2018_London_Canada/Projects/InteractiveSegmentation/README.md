@@ -28,14 +28,16 @@ This project aims at implementing a plugin in the SegmentEditor to perform FastD
 5. Add GUI to select active label
 
 ## TODO
-1. Clean code and group source files in single folder
-2. Learn how to make downladable extension
+1. Currently, the segmentation does not update when a non-target label is beeing modified
+2. Clean code and group source files in single folder
+3. Learn how to make downladable extension
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 ![Screenshot](screenshot.png)
+![Screenshot2](screenshot2.png)
 
 <!--![Some more images](Example2.jpg)-->
 
