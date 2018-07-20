@@ -32,7 +32,7 @@ Adding a Brain Tumour Segmentation feature to an existing Neurosurgical Planning
 
 # Illustrations
 
-![Title of Picture](link)
+![NeuroPath Sample](download.jpeg)
 
 # Background and References
 
