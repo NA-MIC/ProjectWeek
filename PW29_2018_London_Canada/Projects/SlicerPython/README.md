@@ -26,8 +26,10 @@ Improve Python IDE, debugging, and Jupyter support.
 
 - Updated Slicer's Python interpreter to be usable from PyCharm (https://github.com/Slicer/Slicer/pull/993)
   - Debugging of standalone Python scripts work (runs in the debugger same way as in Slicer)
-  - Slicer's Python console can be used as a regular Python console (tested on linux only, pull request WIP)
+  - Slicer's Python console can be used as a regular Python console (tested on linux only)
+    - Improved applauncher to support interactive mode: https://github.com/commontk/AppLauncher/pull/100
   - Auto-completion in editor (without debugging) does not work yet
+
 - SlicerJupyter: decided to fix build errors and auto-complete for now and leave more advanced features for later. Probably will not switch to IPython, but it is an option after Slicer switched to Python3.
 
 # Illustrations
