@@ -20,7 +20,7 @@ With experiments with bronchoscope continuum robots, we've found a need to visua
 1. Use [vtkHardwareSelector](https://www.vtk.org/doc/nightly/html/classvtkHardwareSelector.html) for the job - Testing done, works on basic level
 2. Convert into quantified metrics
 3. Optimization and stability
-4. Add ability to retopologize meshes within Slicer itself?
+4. Add ability to retopologize meshes within Slicer itself - vtk Subdivision filters
 
 ## Progress and Next Steps
 
@@ -28,8 +28,8 @@ With experiments with bronchoscope continuum robots, we've found a need to visua
 1. Made and tried test Python script
 2. Script works but is still unstable and results in some unexpected behaviour and crashing
 3. Reimplementing as loadable module
-4. Narrowed down a bug causing unexpected behaviour to an issue with QVTKOpenGLWidget and vtkHardware Selector: https://public.kitware.com/pipermail/vtkusers/2018-July/102288.html
-5. Made some progress reimplementing as a loadable module (temporarily using VTK7 and QVTKWidget)
+4. Narrowed down a bug (with some help from Andras) causing unexpected behaviour to an issue with QVTKOpenGLWidget and vtkHardware Selector: https://public.kitware.com/pipermail/vtkusers/2018-July/102288.html
+5. Made some progress reimplementing as a loadable module (temporarily using VTK7, QVTKWidget, and Slicer 4.8 in the meantime)
 
 # Illustrations
 
@@ -41,4 +41,4 @@ With experiments with bronchoscope continuum robots, we've found a need to visua
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: 
+- Source code: https://github.com/franklinwk/Slicer-EndoscopeViewingArea/
