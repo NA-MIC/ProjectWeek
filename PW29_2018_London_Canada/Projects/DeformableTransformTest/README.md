@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Tamas Ungi (Queen's University)
 - Tristan Watts-Willis (Verdure Imaging)
 - Andras Lasso (Queen's University)
+- Jean-Christophe Fillion-Robin (Kitware)
 
 # Project Description
 
