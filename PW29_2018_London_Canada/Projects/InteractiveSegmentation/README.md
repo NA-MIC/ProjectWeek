@@ -24,11 +24,12 @@ This project aims at implementing a plugin in the SegmentEditor to perform FastD
 1. Added FastDRaWEffect extension to the SegmentEditor
 2. Added merged python implementation of fastDRaW
 3. Get segmentation from numpy array and convert it to vtkImageData to display preview
+4. Add GUI to set parameters (beta parameter)
+5. Add GUI to select active label
 
 ## TODO
-1. Add GUI to set parameters
-2. Manage multiple labels
-3. clean code and group in single folder
+1. Clean code and group in single folder
+2. Make downladable extension
 
 # Illustrations
 
