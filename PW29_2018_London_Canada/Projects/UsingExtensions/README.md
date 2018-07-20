@@ -28,10 +28,15 @@ Supervised machine learning methods require an input image with a corresponding 
 
 - TODO: The Volume Clip to Model does not always fill the inside of the model, but the cause is unknown since it is an inconsistent issue
 - TODO: Deleting a node with slicer.mrmlScene.RemoveNode() does not restart the naming convention (i.e. creating the variable again will still add "Model_1" instead of just "Model")
+- TODO: The needle model extends outside the ultrasound filed of view. The mask should be cropped to be present only where there is image data
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
+
+[Inputs to the module are an ultrasound image with a point on the shaft and a point on the tip](Inputs.jpg)
+[Outputs to the module are a mask that can be used for supervised machine learning](Outputs.jpg)
+[TODO: Occasionally the VolumeClip does not fill the entire model](ClipError.jpg)
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
