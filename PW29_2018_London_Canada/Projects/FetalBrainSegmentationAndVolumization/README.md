@@ -42,7 +42,7 @@ Implement program as a module in 3D Slicer.
 
 <!--Due to the secrecy of the fetal MRI images, the following artistic representations have been created.-->
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-
+![Segmented Baby Brain](SegmentedBabyBrain.png)
 <!--![Description of picture](Example2.jpg)-->
 <!--![Some more images](Example2.jpg)-->
 
