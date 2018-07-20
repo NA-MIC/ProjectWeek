@@ -35,6 +35,7 @@ Our interest is in using and enhancing Slicer's Vascular Modelling Toolkit (VMTK
 4. Found Slicer VMTK code from 2007-2010 project weeks, started looking at differences with current module.
 5. One option for computing fluid flow, is to export an STL file in OpenFOAM. This can be done simply by using segmentation and creating the appropriate surface. 
 6. Second option for fluid flow is to use the meshing algorithm in VMTK [http://www.vmtk.org/tutorials/MeshGeneration.html](http://www.vmtk.org/tutorials/MeshGeneration.html) which has more specific features for blood vessels. This has not yet been implemented in Slicer. For obtaining a finer mesh, this algorithm relies on accurate computation of centerlines that include endpoints. 
+7. In future, investigate [TubeTK](https://github.com/KitwareMedical/ITKTubeTK)
 
 # Illustrations
 
@@ -43,6 +44,8 @@ Our interest is in using and enhancing Slicer's Vascular Modelling Toolkit (VMTK
 <!--![Description of picture](Example2.jpg)-->
 
 [Software for Navigating Vascular Centerlines](PADPlanner-Jul13-2018.png)
+[Multi-branch with dropped trunk](dropped-trunk.png)
+[Single vessel no centerline](single-vessel.png)
 
 # Background and References
 
