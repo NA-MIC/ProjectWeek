@@ -44,7 +44,9 @@ Our interest is in using and enhancing Slicer's Vascular Modelling Toolkit (VMTK
 <!--![Description of picture](Example2.jpg)-->
 
 [Software for Navigating Vascular Centerlines](PADPlanner-Jul13-2018.png)
+
 [Multi-branch with dropped trunk](dropped-trunk.png)
+
 [Single vessel no centerline](single-vessel.png)
 
 # Background and References
