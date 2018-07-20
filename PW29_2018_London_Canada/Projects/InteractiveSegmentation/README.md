@@ -24,17 +24,21 @@ This project aims at implementing a plugin in the SegmentEditor to perform FastD
 1. Added FastDRaWEffect extension to the SegmentEditor
 2. Added merged python implementation of fastDRaW
 3. Get segmentation from numpy array and convert it to vtkImageData to display preview
+4. Add GUI to set parameters (beta parameter)
+5. Add GUI to select active label
 
 ## TODO
-1. Add GUI to set parameters
-2. Manage multiple labels
-3. clean code and group in single folder
+1. Currently, the segmentation does not update when a non-target label is beeing modified
+2. Updating the graph costs when the beta parameter is modified (building the graph is time consuming, maybe create a dedicated button to rebuild the graph when beta changes?)
+3. Clean code and group source files in single folder
+4. Learn how to make downladable extension
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 ![Screenshot](screenshot.png)
+![Screenshot2](screenshot2.png)
 
 <!--![Some more images](Example2.jpg)-->
 
