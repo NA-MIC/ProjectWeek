@@ -9,8 +9,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 This extension contains a collection of tools for aiding in patient-specific mitral valve modelling. Currently consists of components for registering bi-plane colour ultrasound into 3D, and semi-automatically segmenting the mitral valve from 3D TEE data.
 
 ## Objective
-1. Add Segmentation node support to leaflet old extraction
-1. Integrate custom mold generation from segmentation.
+1. Add Segmentation node support for mold generation.
+1. Integrate custom mold base plate to generated leaflet mold from segmentation.
 
 ## Approach and Plan
 
@@ -22,18 +22,22 @@ This extension contains a collection of tools for aiding in patient-specific mit
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
-1. Working prototype of segmentation and registration modules already developed
+1. Working prototype of segmentation and registration modules already developed.
 1. Completed segmentation node support
 1. Added alignment of loaded base plate model
+1. Added base plate filling to close bottom of mold
+1. Still need to work on making bottom filling more robust
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 <!--![Description of picture](Example2.jpg)-->
-![BiPlaneRegistration Module screenshot](https://raw.githubusercontent.com/pcarnah/SlicerMitralValve/master/BiPlaneRegistration.png)
-
 ![Mitral Valve Segmenter Module screenshot](https://raw.githubusercontent.com/pcarnah/SlicerMitralValve/master/MitralValveSegmenter-Screenshot.png)
+
+![Mitral Valve Segmenter Mold](https://raw.githubusercontent.com/pcarnah/SlicerMitralValve/master/MitralValveSegmenter-MoldBottom.png)
+
+![BiPlaneRegistration Module screenshot](https://raw.githubusercontent.com/pcarnah/SlicerMitralValve/master/BiPlaneRegistration.png)
 
 <!--![Some more images](Example2.jpg)-->
 
