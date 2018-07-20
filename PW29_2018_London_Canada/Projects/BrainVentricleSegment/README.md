@@ -25,8 +25,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-[Segmentation of brain ventricle](Untitled.jpg)
-[Segmentation of brain ventricle](Untitled2.jpg)
+[Segmentation of brain ventricle](Untitled.png)
+[mask in the standard space](Untitled2.png)
 
 <!--![Some more images](Example2.jpg)-->
 
