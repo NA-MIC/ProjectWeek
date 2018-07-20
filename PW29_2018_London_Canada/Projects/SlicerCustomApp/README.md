@@ -41,7 +41,7 @@ SlicerCustomAppTemplate is a starting point for creating a custom 3D Slicer-base
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-<!--![Description of picture](Example2.jpg)-->
+![Improved cookiecutter settings](cookiecutter.jpg)
 
 <!--![Some more images](Example2.jpg)-->
 
