@@ -4,8 +4,9 @@
 - Daiana Pur (Biomedical Engineering, Western University) 
 
 # Project Description
-Learn and improve existing code for extension
-Adding a Brain Tumour Segmentation feature to an existing Neurosurgical Planning tool
+1. Learn and improve existing code for extension
+
+2. Adding a Brain Tumour Segmentation feature to an existing Neurosurgical Planning tool
 
 ## Objective
 1. Visualize Tumour   
