@@ -29,7 +29,7 @@ Create a low-cost simulator for ultraosund-guided needle insertions with simulat
 
 ![Description of picture](Kidney-and-Needle.PNG)
 
-<!--![Some more images](Example2.jpg)-->
+![Some more images](setup.jpeg)
 
 # Background and References
 
