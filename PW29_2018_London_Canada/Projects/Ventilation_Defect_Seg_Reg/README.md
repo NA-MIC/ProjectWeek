@@ -34,7 +34,9 @@ a 3D slicer tool. As the old pipeline has not been updated in 7 years, we will a
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-<!--![Description of picture](Example2.jpg)-->
+1. ![Full Segmentation](Screenshot.png)
+2. ![3D Defect Map](Screenshot_2.png)
+3. ![Lung Cluster Map](Screenshot_4.png)
 
 <!--![Some more images](Example2.jpg)-->
 
