@@ -21,6 +21,14 @@ Supervised machine learning methods require an input image with a corresponding 
 
 ## Progress and Next Steps
 
+- 3D images were loaded in as a Vector Volume, 2 points were used as inputs for tip and trajectory computation, then a needle model was created
+- The Volume Clip to Model module was used on the needle model to change the image to be white inside and black outside 
+- Since 2D images were loaded into Slicer as a Vector Volume, the Vector to Scalar Volume module was used to convert the images to use with 3D logic
+- 2D images do not have pixel spacing encoded, so a few "ctk.ctkDoubleSpinBox()" entry fields were added to accept user input
+
+- TODO: The Volume Clip to Model does not always fill the inside of the model, but the cause is unknown since it is an inconsistent issue
+- TODO: Deleting a node with slicer.mrmlScene.RemoveNode() does not restart the naming convention (i.e. creating the variable again will still add "Model_1" instead of just "Model")
+
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
@@ -36,6 +44,8 @@ Supervised machine learning methods require an input image with a corresponding 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 - Existing project to create custom Slicer apps: https://github.com/KitwareMedical/SlicerCustomAppTemplate
+- VolumeClipWithModel.VolumeClipWithModelLogic().showInSliceViewers(outputVolume2, ["Red", "Yellow", "Green"]) was used to update the scene with the newly created image
+- slicer.util.resetSliceViews() can be used if you rescale images and want to adjust the slicer viewer's field of view
 - This website was helpful for getting Python module code: http://slicer.readthedocs.io/en/latest/developer_guide/slicer.html
 
 <!--
