@@ -34,9 +34,11 @@ Supervised machine learning methods require an input image with a corresponding 
 
 # Illustrations
 
-[Inputs to the module are an ultrasound image with a point on the shaft and a point on the tip](Inputs.jpg)
-[Outputs to the module are a mask that can be used for supervised machine learning](Outputs.jpg)
-[TODO: Occasionally the VolumeClip does not fill the entire model](ClipError.jpg)
+![Inputs to the module are an ultrasound image with a point on the shaft and a point on the tip](Inputs.jpg)
+
+![Outputs to the module are a mask that can be used for supervised machine learning](Outputs.jpg)
+
+![TODO: Occasionally the VolumeClip does not fill the entire model](ClipError.jpg)
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
