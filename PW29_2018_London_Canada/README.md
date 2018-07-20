@@ -65,7 +65,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Image Guided Therapy
 + [TEE Probe Calibration](./Projects/TEECalibration/README.md) (Leah Groves and Golafsoun Ameri)
-+ [Ultrasound-guided kidney needle simulator](./Projects/UltrasoundKidneySimulator/README.md) (Lyla Mu)
++ [Ultrasound-guided kidney needle simulator](./Projects/UltrasoundKidneySimulator/README.md) (Lyla Mu, Tamas Ungi)
 + [Real-time segmentation using machine learning](./Projects/UsingExtensions/README.md) (Derek Gillies)
 
 ### Vascular/Cardiac
