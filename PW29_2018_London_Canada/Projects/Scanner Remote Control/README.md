@@ -7,22 +7,21 @@
 - Franklin King (Brigham and Women's Hospital)
 - Jean-Christophe Fillion-Robin (Kitware Inc.)
 
-
 # Project Description
 Establish network communication between SRC and 3D Slicer to control MR's scan plane, and reterieve real-time images from the scanner remotely over the local area network.
 Python script running a JSON-based proprietary is used to communicate between the MR scanner and 3Dslicer.
 
 <!--
 ## Objective
-1. Objective A. Describe it in 1-2 sentences. 
-1. Objective B. Describe it in 1-2 sentences. 
-1. Objective C. Describe it in 1-2 sentences. 
+1. Establish Communication between MRI simulator and 3Dslicer 
+2. Use volume reslice driver to Set a new scan position and orientation
+3. Reterieve DICOM images from simulator to 3Dslicer
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Define coordinate sytem of scanner
+2. Apply transform to convert from RAS To Scanner Coordinates (LPS)
+3. create needle model and use Volume Reslice Driver module to define a new orientation. Send coordinates to simulator
 
 -->
 
@@ -42,11 +41,9 @@ Python script running a JSON-based proprietary is used to communicate between th
 
 # Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+https://github.com/mahrana/ProjectWeek/blob/master/Screenshot%20(6).png
 
-<!--![Description of picture](Example2.jpg)-->
-
-<!--![Some more images](Example2.jpg)-->
+https://github.com/mahrana/ProjectWeek/blob/master/Screenshot%20(7).png
 
 # Background and References
 
