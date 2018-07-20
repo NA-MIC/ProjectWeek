@@ -87,7 +87,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [Endoscope View Quantification](./Projects/EndoscopeViewQuantification/README.md) (Franklin King)
 
 ### Application
-+ [Scanner Remote Control](./Projects/Scanner%20Remote%20Control/README.md) (Ahmed Mahran, Franklin King)
++ [Scanner Remote Control](./Projects/Scanner%20Remote%20Control/README.md) (Ahmed Mahran, Franklin King, Jean-Christophe Fillion-Robin)
 
 <a name="BreakoutSessions"/>
 
