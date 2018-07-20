@@ -80,7 +80,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Core infrastructure
 + [Jupyter notebook integration](./Projects/SlicerJupyter/README.md) (Andras Lasso, Jean-Christophe Fillion-Robin)
-+ [Deformable transfoms performance test](./Projects/DeformableTransformTest/README.md) (Tamas Ungi, Tristan Watts-Willis, Andras Lasso)
++ [Deformable transfoms performance test](./Projects/DeformableTransformTest/README.md) (Tamas Ungi, Tristan Watts-Willis, Andras Lasso, Jean-Christophe Fillion-Robin)
 + [Add curve tool to Markups](./Projects/CurveTool/README.md) (Andras Lasso)
 + [Slicer Custom App](./Projects/SlicerCustomApp/README.md) (Tristan Watts-Willis, Tamas Ungi, Andras Lasso, Jean-Christophe Fillion-Robin)
 + [Webcams in Slicer](./Projects/SlicerCamera/README.md) (Adam Rankin, Elvis Chen)
