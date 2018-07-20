@@ -8,15 +8,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 * To divide the brain ventricles into a number of sub-reions and segment them by drawing a number of planes based on the known anatomical structures in the brain
 
 ## Objective
-1. Objective A. Describe it in 1-2 sentences. 
-1. Objective B. Describe it in 1-2 sentences. 
-1. Objective C. Describe it in 1-2 sentences. 
+1. Segmentation of the brain lateral ventricles. 
+2. Segemenation of the sub-regions within laterla ventricles.
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Segmentation of the lateral ventricles of the brain using watershed module of the 3D Slicer.
+2. Transfering the atlas and standard masks from the lobes to the subject space.
+3. Finding the boundary voxels of the mask obtained from atlases and registration to the subject space, and match them with the partial voumes of the lateral ventricles that lie within the mask.
 
 ## Progress and Next Steps
 
@@ -26,7 +25,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-<!--![Description of picture](Example2.jpg)-->
+[Segmentation of brain ventricle](Untitled.jpg)
+[Segmentation of brain ventricle](Untitled2.jpg)
 
 <!--![Some more images](Example2.jpg)-->
 
