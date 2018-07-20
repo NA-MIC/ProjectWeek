@@ -32,11 +32,7 @@ Adding a Brain Tumour Segmentation feature to an existing Neurosurgical Planning
 
 # Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-
-<!--![Description of picture](Example2.jpg)-->
-
-<!--![Some more images](Example2.jpg)-->
+![Title of Picture](link)
 
 # Background and References
 
