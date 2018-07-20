@@ -25,17 +25,24 @@ SlicerCustomAppTemplate is a starting point for creating a custom 3D Slicer-base
 
 ## Progress and Next Steps
 
-* Identified issue related to CustomApp versioning
+* Identified issue related to CustomApp versioning and working on a fix
+
 * Finalizing topic to improve both [KitwareMedical/SlicerCustomAppTemplate](https://github.com/KitwareMedical/SlicerCustomAppTemplate) and [Slicer/Slicer](https://github.com/Slicer/Slicer)
   * cookiecutter learned new parameters: `app_name`, `app_version_major`, `app_version_minor`, `app_version_patch` and `app_description_summary`
   * introduced file `slicer-application-properties.cmake` now required in each application. For example:
     * `Slicer/Application/SlicerApp/slicer-application-properties.cmake`
     * `CustomApp/App1/slicer-application-properties.cmake`
     * `CustomApp/App2/slicer-application-properties.cmake`
+
+* Improved applauncher to support interactive mode: https://github.com/commontk/AppLauncher/pull/100
+
+* Improved `SlicerCustomAppTemplate` to support packaging of Superbuild based extension
+
+* Fixed [openigtlink/SlicerOpenIGTLink](https://github.com/openigtlink/SlicerOpenIGTLink) to support integration in Custom application. 
+
 * Next steps:
   * Move `qSlicerMainWindow`, `qSlicerAboutDialog` into `Slicer/Base/QtApp` for easier re-use
-
-* Improve applauncher to support interactive mode: https://github.com/commontk/AppLauncher/pull/100
+  * Submit pull request to fix [openigtlink/SlicerOpenIGTLink](https://github.com/openigtlink/SlicerOpenIGTLink)
 
 # Illustrations
 
