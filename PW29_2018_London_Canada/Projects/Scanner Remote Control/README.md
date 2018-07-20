@@ -35,7 +35,7 @@ Python script running a JSON-based proprietary is used to communicate between th
     * execute test using pytest, start/stop scanner simulator automatically
     
 * Discussed approach to integrate the package with Slicer. Few options:
-  * Switch the implementation to use [websocket-client](https://github.com/websocket-client/websocket-client) instead of [websockets](https://pypi.org/project/websockets/) so that it work with Python 2
+  * Switch the implementation to use [websocket-client](https://github.com/websocket-client/websocket-client) instead of [websockets](https://pypi.org/project/websockets/) so that it works with Python 2
   * Leverage OpenIGTLink to send data to Slicer
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
