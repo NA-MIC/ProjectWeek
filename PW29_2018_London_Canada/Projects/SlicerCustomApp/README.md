@@ -34,8 +34,6 @@ SlicerCustomAppTemplate is a starting point for creating a custom 3D Slicer-base
     * `CustomApp/App1/slicer-application-properties.cmake`
     * `CustomApp/App2/slicer-application-properties.cmake`
 
-* Improved applauncher to support interactive mode: https://github.com/commontk/AppLauncher/pull/100
-
 * Improved `SlicerCustomAppTemplate` to support packaging of Superbuild based extension
 
 * Fixed [openigtlink/SlicerOpenIGTLink](https://github.com/openigtlink/SlicerOpenIGTLink) to support integration in Custom application. 
