@@ -29,8 +29,9 @@ This project aims at implementing a plugin in the SegmentEditor to perform FastD
 
 ## TODO
 1. Currently, the segmentation does not update when a non-target label is beeing modified
-2. Clean code and group source files in single folder
-3. Learn how to make downladable extension
+2. Updating the graph costs when the beta parameter is modified (building the graph is time consuming, maybe create a dedicated button to rebuild the graph when beta changes?)
+3. Clean code and group source files in single folder
+4. Learn how to make downladable extension
 
 # Illustrations
 
