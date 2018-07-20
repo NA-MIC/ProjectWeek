@@ -28,8 +28,8 @@ This project aims at implementing a plugin in the SegmentEditor to perform FastD
 5. Add GUI to select active label
 
 ## TODO
-1. Clean code and group in single folder
-2. Make downladable extension
+1. Clean code and group source files in single folder
+2. Learn how to make downladable extension
 
 # Illustrations
 
