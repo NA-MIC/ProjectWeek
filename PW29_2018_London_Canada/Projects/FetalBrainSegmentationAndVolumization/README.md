@@ -23,6 +23,7 @@ This will be a tool to segment the fetal brain from the a fetal MRI. Afterwards 
 
 1. Take fetal MRI images.
 1. Segment the brain.
+1. Create a model from the segmentation.
 1. Compute the volume of the brain.
 
 ## Progress and Next Steps
@@ -30,7 +31,7 @@ This will be a tool to segment the fetal brain from the a fetal MRI. Afterwards 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 ### Progress
 
-After some search we found no automatic modules or extensions that work for fetal MRIs. As such we have experimented with ways to manually segment and get a volume. We have tried using Slicer Segment Editor. 
+After some search we found no automatic modules or extensions that work for fetal MRIs. As such we have experimented with ways to manually segment and get a volume. We had some success with segment editor's semiautomatic segmentation, just a lot of corrections were required. 
 
 
 ### Next Steps
@@ -41,7 +42,7 @@ Implement program as a module in 3D Slicer.
 
 <!--Due to the secrecy of the fetal MRI images, the following artistic representations have been created.-->
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-
+![Segmented Baby Brain](SegmentedBabyBrain.png)
 <!--![Description of picture](Example2.jpg)-->
 <!--![Some more images](Example2.jpg)-->
 
