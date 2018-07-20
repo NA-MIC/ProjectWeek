@@ -2,16 +2,14 @@
 
 # Key Investigators
 - Ahmed Mahran (Brigham and Women's Hospital)
-- Junichi Tokuda (Brigham and Women's Hospital)
-- Nobuhiko Hata  (Brigham and Women's Hospital) 
-- Franklin King (Brigham and Women's Hospital)
+- Franklin King (Brigham and Women's Hospital) 
+- Nobuhiko Hata  (Brigham and Women's Hospital)
 - Jean-Christophe Fillion-Robin (Kitware Inc.)
 
 # Project Description
 Establish network communication between SRC and 3D Slicer to control MR's scan plane, and reterieve real-time images from the scanner remotely over the local area network.
 Python script running a JSON-based proprietary is used to communicate between the MR scanner and 3Dslicer.
 
-<!--
 ## Objective
 1. Establish Communication between MRI simulator and 3Dslicer 
 2. Use volume reslice driver to Set a new scan position and orientation
@@ -22,8 +20,6 @@ Python script running a JSON-based proprietary is used to communicate between th
 1. Define coordinate sytem of scanner
 2. Apply transform to convert from RAS To Scanner Coordinates (LPS)
 3. create needle model and use Volume Reslice Driver module to define a new orientation. Send coordinates to simulator
-
--->
 
 ## Progress and Next Steps
 
@@ -37,13 +33,11 @@ Python script running a JSON-based proprietary is used to communicate between th
   * Switch the implementation to use [websocket-client](https://github.com/websocket-client/websocket-client) instead of [websockets](https://pypi.org/project/websockets/) so that it works with Python 2
   * Leverage OpenIGTLink to send data to Slicer
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
-
 # Illustrations
 
-https://github.com/mahrana/ProjectWeek/blob/master/Screenshot%20(6).png
+![](https://github.com/mahrana/ProjectWeek/blob/master/Screenshot%20(6).png)
 
-https://github.com/mahrana/ProjectWeek/blob/master/Screenshot%20(7).png
+![](https://github.com/mahrana/ProjectWeek/blob/master/Screenshot%20(7).png)
 
 # Background and References
 
