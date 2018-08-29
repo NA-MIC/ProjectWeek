@@ -1,0 +1,85 @@
+﻿![PW28](PW28-500px.png)
+## Welcome to the web page for the 30th Project Week!
+The 30th NA-MIC Project Week will be held during the week of January 28 - February 1, 2019 at [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es/).
+
+Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
+Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
+
+### Information about the 2018 meeting
+This is our second Project Week in Las Palmas.  To get an idea of what it was like last time, have a look at the [project week page](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/), the 28th NA-MIC PW [Event album](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing), and how it was covered in [the local media](PW28InTheMedia.md).
+
+![Segment Editor in presentation in Casa África | width=200](CasaAfrica_SegmentEditor_Panorama.jpg)
+
+
+## Logistics
+
+To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (for questions dedicated to this event).
+
+- **Dates:** January 28 - February 1, 2019.
+- **Location:**
+  - Hosted by: [Universidad de Las Palmas de Gran Canaria](https://www.google.com/maps/place/University+of+Las+Palmas+de+Gran+Canaria/@28.0990225,-16.5409312,8z/data=!4m5!3m4!1s0xc409514173e77eb:0xbda0edfa5e221aaa!8m2!3d28.0990178!4d-15.4203257)  
+  - [3D View/Map of venue location](https://bit.ly/2Hkm6Mi)
+- **REGISTRATION:** TBD
+- **Hotel:** TBD
+
+
+- Transports from the airport to the city (Las Palmas de Gran Canaria):
+  - Taxi (line at the airport)
+  - [Bus -line 60-](https://www.guaguasglobal.com/en/lineas-horarios/linea/)
+    - [Airport-San Telmo bus station](https://www.google.es/maps/dir/Aeropuerto+de+Gran+Canaria,+Autopista+GC-1,+s%2Fn,+35230,+Las+Palmas/Estacion+De+Guaguas+SAN+TELMO,+Av.+Rafael+Cabrera,+30,+35002+Las+Palmas+de+Gran+Canaria,+Las+Palmas/@28.0183155,-15.5470931,11z/data=!4m17!4m16!1m5!1m1!1s0xc40a266c3662d1d:0x824bcf7e159f85d4!2m2!1d-15.3877066!2d27.9331848!1m5!1m1!1s0xc4095850670520b:0x5eef5b2e4c79e9e3!2m2!1d-15.415777!2d28.1092527!2m2!7e2!8j1529431200!3e3)
+    - [Paths-distances: San Telmo bus station - Hotels](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW28_2018_GranCanaria/Station-Hotels.png) 
+        
+
+## Local Organizing Committee
+ 
+- Host: Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es), Director of Medical and Audiovisual Technology Group (GTMA for Grupo de Tecnología Médica y Audiovisual), Research Institute in Biomedical and Health Sciences (IUIBS for Instituto Universitario de Investigación Biomédica y Sanitaria), Research Affiliate at the Canary Islands Instiute of Astrophysics.
+
+- Email Local Organzing Committee: [Juan Ruiz Alzola](mailto:juan.ruiz@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28)
+
+
+- [Information about the Venue](https://medtec4susdev.github.io/ProjectDemoProgressing/)
+
+## **VENUE LOCATION** 
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)    [3D View/Map of venue location 25th June](https://www.google.com/maps/place/AC+Hotel+Iberia+Las+Palmas/@28.1112024,-15.4139154,240a,35y,279.49h,55.22t/data=!3m1!1e3!4m7!3m6!1s0x0:0xd874c662b7a1c59a!5m1!1s2018-06-30!8m2!3d28.1120498!4d-15.4172581)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)    [3D View/Map of venue location 26th-29th June](https://bit.ly/2Hkm6Mi)
+
+## INFOPACK
+
+- [Infopack](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Infopack%20-%20NAMIC%20SUMMER%20EVENT%202018.pdf)  
+
+## Frequently Asked Questions
+
+* [What?](../README.md#what)
+* [When, where, how much?](../README.md#when-where-how-much)
+
+* [How does it work?](../README.md#how-does-it-work)
+* [Who can attend?](../README.md#who-can-attend)
+* [Who should attend?](../README.md#who-should-attend)
+* [What else?](../README.md#what-else)
+* [Who to contact?](../README.md#who-to-contact)
+
+## Preparatory Videoconferences
+
+- Zoom video conference: To join the videoconference, TBD
+- Conference call notes: To access these, click [here](PreparatoryMeetingsNotes.md).
+
+## Program
+<iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic%2FCanary&dates=20180625%2F20180629&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+How to add this calendar to your own?
+
+## Projects [(How to add a new project?)](Projects/README.md)
+
+## Projects
+
+## Registrants
+
+Do not add your name to this list - it is maintained by the organizers based on your paid registration.  Registration link TBD
+
+<!-- ORGANIZERS: please edit REGISTRANTS.md -->
+1. You could be the first to register!
+
+## Statistics
+
+TBD
