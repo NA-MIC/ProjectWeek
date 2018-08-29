@@ -8,11 +8,6 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ### Information about the 2018 meeting
 This is our second Project Week in Las Palmas.  To get an idea of what it was like last time, have a look at the [project week page](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/), the 28th NA-MIC PW [Event album](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing), and how it was covered in [the local media](PW28InTheMedia.md).
 
-<img src="https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/CasaAfrica_SegmentEditor_Panorama.jpg" width=250><img>
-
-Segment Editor in presentation in Casa África</img>
-
-
 ## Logistics
 
 To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (for questions dedicated to this event).
