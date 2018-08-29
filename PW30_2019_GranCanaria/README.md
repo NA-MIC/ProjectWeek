@@ -1,4 +1,4 @@
-﻿![PW28](PW28-500px.png)
+﻿![PW30](PW30-500px.png)
 ## Welcome to the web page for the 30th Project Week!
 The 30th NA-MIC Project Week will be held during the week of January 28 - February 1, 2019 at [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es/).
 
@@ -8,7 +8,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ### Information about the 2018 meeting
 This is our second Project Week in Las Palmas.  To get an idea of what it was like last time, have a look at the [project week page](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/), the 28th NA-MIC PW [Event album](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing), and how it was covered in [the local media](PW28InTheMedia.md).
 
-![Segment Editor in presentation in Casa África | width=200](CasaAfrica_SegmentEditor_Panorama.jpg)
+![Segment Editor in presentation in Casa África | width=200](../PW28_2018_GranCanaria/CasaAfrica_SegmentEditor_Panorama.jpg)
 
 
 ## Logistics
