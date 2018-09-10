@@ -6,7 +6,7 @@
 and copying contents of [project description template][project-description-template] file into it. Step-by-step instructions for this are:
 
 1. Open [project description template][project-description-template] and copy its full content to the clipboard
-1. Go back to [Projects](https://github.com/NA-MIC/ProjectWeek/tree/master/PW30_2018_GranCanaria/Projects) folder on GitHub
+1. Go back to [Projects](../Projects) folder on GitHub
 1. Click on "Create new file" button
 1. Type `YourProjectName/README.md`
 1. Paste the previously copied content of project template page into your new `README.md`
