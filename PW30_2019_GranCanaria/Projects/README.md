@@ -2,8 +2,7 @@
 
 
 - Post questions about the project idea and team on the [Project Week forum][forum], our communication mechanism as of PW28.
-- When you are ready, add a new entry in the list of **Projects** by creating a new `README.md` file in subfolder in `Projects` folder,
-and copying contents of [project description template][project-description-template] file into it. Step-by-step instructions for this are:
+- When you are ready, add a new entry in the list of **Projects** by creating a new `README.md` file in subfolder in `Projects` folder, and copying contents of [project description template][project-description-template] file into it. Step-by-step instructions for this are:
 
 1. Open [project description template][project-description-template] and copy its full content to the clipboard
 1. Go back to [Projects](../Projects) folder on GitHub
