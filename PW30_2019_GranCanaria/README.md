@@ -10,7 +10,7 @@ This is our second Project Week in Las Palmas.  To get an idea of what it was li
 
 ## Logistics
 
-To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (for questions dedicated to this event).
+To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw30/discussions) (for questions dedicated to this event).
 
 - **Dates:** January 28 - February 1, 2019.
 - **Location:**
