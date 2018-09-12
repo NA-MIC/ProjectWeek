@@ -33,7 +33,7 @@ To receive information about this and future events please join the [Project Wee
 - Email Local Organzing Committee: [Juan Ruiz Alzola](mailto:juan.ruiz@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28)
 
 
-- [Information about the Venue](https://medtec4susdev.github.io/ProjectDemoProgressing/)
+- [Information about the Venue](https://medtec4susdev.github.io/30PW_NA-MIC_Venue/)
 
 ## **VENUE LOCATION** 
 
