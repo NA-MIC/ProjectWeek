@@ -12,7 +12,7 @@ The Project Week is a week-long hands on activity in which medical image computi
 
 #### When, where, how much?
 
-Twice a year - June in Europe, and January at MIT. Ad-hoc meetings are added occasionally. The registration fee is approximately 350 (USD or Euro), and is used to cover coffee and food.
+Twice a year - January in Europe, and June at MIT. Ad-hoc meetings are added occasionally. The registration fee is approximately 350 (USD or Euro), and is used to cover coffee and food.
 
 #### How does it work?
 
