@@ -1,4 +1,3 @@
-
 ## The [30th Project Week](https://na-mic.github.io/ProjectWeek/PW30_2019_GranCanaria) will take place January 28 through February 1, 2019 in Las Palmas, Gran Canaria, Spain.
 
 ## Introduction
@@ -38,17 +37,41 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 - [30th Project Week](https://na-mic.github.io/ProjectWeek/PW30_2019_GranCanaria) will take place January 28 through February 1, 2019 in Las Palmas, Gran Canaria, Spain.
 
 **Plan ahead:** 
-* A Core Project Week is scheduled for June 24-28, 2019 at MIT, Cambridge, MA.
-* Satellite events may be scheduled as needed.  Please contact the organizers if you have interest in hosting or attending such events.
+* A Project Week is scheduled for June 24-28, 2019 at MIT, Cambridge, MA.
+* Please contact the organizers if you have interest in hosting a Project Week event.
 
 ## Past Project Weeks
 
-- [2018 July: Satellite Project Event 29](PW29_2018_London_Canada/README.md) - The 29th Project Event was held on July 16-20, 2018 at London, Ontario, Canada. This was a satellite event with a slight focus on new users and community expansion.
-- [2018 June: Core Project Event 28](PW28_2018_GranCanaria/README.md) - The **28th Project Event** was held on June 25-29, 2018 at Gran Canaria, Spain.
-- [2018 January: Project Event 27](PW27_2018_Boston/README.md) - The **27th Project Event** was held on January 8-12, 2018 at MIT, Cambridge, MA. It recorded 72 registered attendees, who worked on 52 projects and attended 5 breakout sessions.
-- [2017 July: Project Event 26](PW26_2017_London_Canada/README.md) - The **26th Project Event** was held on July 17-21, 2017, Robarts Research Institute, London, ON, Canada.
-- [2017 June: Project Event 25](https://www.na-mic.org/wiki/2017_Summer_Project_Week) - The **25th Project Event** was held on June 26-30, 2017, Catanzaro Lido, Calabria, Italy. It recorded 51 registered attendees, who worked on 29 projects.
-- [2017 January: Project Event 24](https://www.na-mic.org/wiki/2017_Winter_Project_Week) - The **24th Project Event** was held on January 9-13, 2017, MIT, Cambridge, MA. It recorded 99 registered attendees, who worked on 55 projects.
+- [2018 July 16-20: Project Week 29](PW29_2018_London_Canada/README.md) - Robarts Research Institute, London, Ontario, Canada. This was a satellite event with a slight focus on new users and community expansion.
+- [2018 June 25-29: Project Week 28](PW28_2018_GranCanaria/README.md) - Gran Canaria, Spain.
+- [2018 January 8-12: Project Week 27](PW27_2018_Boston/README.md) - MIT, Cambridge, MA, USA. It recorded 72 registered attendees, who worked on 52 projects and attended 5 breakout sessions.
+- [2017 July 17-21 : Project Week 26](PW26_2017_London_Canada/README.md) - Robarts Research Institute, London, ON, Canada.
+- [2017 June 26-30: Project Week 25](https://www.na-mic.org/wiki/2017_Summer_Project_Week) - Catanzaro Lido, Calabria, Italy. It recorded 51 registered attendees, who worked on 29 projects.
+- [2017 January 9-13: Project Week 24](https://www.na-mic.org/wiki/2017_Winter_Project_Week) - MIT, Cambridge, MA, USA. It recorded 99 registered attendees, who worked on 55 projects.
+- [2016 June 20-25: Project Week 23](https://na-mic.org/wiki/2016_Summer_Project_Week) - DKFZ, Heidelberg, Germany.
+- [2016 January 4-8: Project Week 22](https://na-mic.org/wiki/2016_Winter_Project_Week) - MIT, Cambridge, MA, USA.
+- [2015 June 21-24: Project Week 21](https://na-mic.org/wiki/2015_Summer_Project_Week) - Barcelona, Spain.
+- [2015 January 5-9: Winter Project Week](https://na-mic.org/wiki/2015_Winter_Project_Week) - Salt Lake City, UT, USA.
+- [2014 June 23-27: Summer Project Week](https://na-mic.org/wiki/2014_Summer_Project_Week) - MIT, Cambridge, MA, USA.
+- [2014 January 6-10: Winter Project Week](https://na-mic.org/wiki/2014_Winter_Project_Week) - Salt Lake City, UT, USA.
+- [2013 June 17-21: Summer Project Week](https://na-mic.org/wiki/2013_Summer_Project_Week) - MIT, Cambridge, MA, USA.
+- [2013 January 7-11: Winter Project Week](https://na-mic.org/wiki/2013_Winter_Project_Week) - Salt Lake City, UT, USA.
+- [2012 June 18-22: Summer Project Week](https://na-mic.org/wiki/2012_Summer_Project_Week) - MIT, Cambridge, MA, USA.
+- [2012 January 9-13: Winter Project Week](https://na-mic.org/wiki/2012_Winter_Project_Week) - Salt Lake City, UT, USA.
+- [2011 June 20-24: Summer Project Week](https://na-mic.org/wiki/2011_Summer_Project_Week) - MIT, Cambridge, MA, USA.
+- [2011 January 10-14: Winter Project Week](https://na-mic.org/wiki/2011_Winter_Project_Week) - Salt Lake City, UT, USA.
+- [2010 June 21-25: Summer Project Week](https://na-mic.org/wiki/2010_Summer_Project_Week) - MIT, Cambridge, MA, USA.
+- [2010 January 4-8: Winter Project Week](https://na-mic.org/wiki/2010_Winter_Project_Week) - Salt Lake City, UT, USA.
+- [2009 June 22-26: Summer Project Week](https://na-mic.org/wiki/2009_Summer_Project_Week) - MIT, Cambridge, MA, USA.
+- [2009 January 5-9: Winter Project Week](https://na-mic.org/wiki/2009_Winter_Project_Week) - Salt Lake City, UT, USA.
+- [2008 June 23-27: Summer Project Week](https://na-mic.org/wiki/2008_Summer_Project_Week) - MIT, Cambridge, MA, USA.
+- [2008 January 7-11: Winter Project Week](https://na-mic.org/wiki/2008_Winter_Project_Week) - Salt Lake City, UT, USA.
+- [2007 June 25-29: Summer Project Week](https://na-mic.org/wiki/2007_Programming/Project_Week_MIT) - MIT, Cambridge, MA, USA.
+- [2007 January 10-12: Winter Project Week](https://na-mic.org/wiki/AHM_2007) - Salt Lake City, UT, USA.
+- [2006 June 26-30: Summer Project Week](https://na-mic.org/wiki/2006_Programming/Project_Week_MIT) - MIT, Cambridge, MA, USA.
+- [2006 January 8-13: Winter Project Week](https://na-mic.org/wiki/AHM_2006:AHM_2006) - Salt Lake City, UT, USA.
+- [2005 June 27-July 1: Summer Project Week](https://na-mic.org/wiki/Engineering:Programmers_Week_Summer_2005) - MIT, Cambridge, MA, USA.
+- [2005 February 20-22: The First All-Hands-Meeting and Programming Event](https://na-mic.org/wiki/AHM_2005:Main) - Salt Lake City, UT, USA.
 
 ---
 This page is hosted [from the NA-MIC organization's ProjectWeek repository on github.com](https://github.com/NA-MIC/ProjectWeek) and is published at [https://na-mic.github.io/ProjectWeek](https://na-mic.github.io/ProjectWeek)
