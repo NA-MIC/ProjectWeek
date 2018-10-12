@@ -1,5 +1,4 @@
 
-## 
 ## The [30th Project Week](https://na-mic.github.io/ProjectWeek/PW30_2019_GranCanaria) will take place January 28 through February 1, 2019 in Las Palmas, Gran Canaria, Spain.
 
 ## Introduction
