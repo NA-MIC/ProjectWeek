@@ -41,7 +41,7 @@ To receive information about this and future events please join the [Project Wee
 
 ## INFOPACK
 
-- [Infopack] TDB
+- [Infopack](https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/INFOPACK_NAMICWINTEREVENT2019.pdf)  
 
 ## Frequently Asked Questions
 
