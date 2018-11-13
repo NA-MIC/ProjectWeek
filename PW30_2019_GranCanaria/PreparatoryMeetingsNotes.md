@@ -14,5 +14,3 @@ It could be interesting during the next preparatory meetings to have a brainstor
 
 
 ## Meeting #2: Nov 20th, 2018.
-
-- 
