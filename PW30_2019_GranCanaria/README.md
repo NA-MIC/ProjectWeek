@@ -56,7 +56,7 @@ To receive information about this and future events please join the [Project Wee
 
 ## Preparatory Videoconferences
 
-- Zoom video conference: To join the videoconference, TBD
+- Zoom video conference: To join the videoconference, use https://zoom.us/j/112427205  
 - Conference call notes: To access these, click [here](PreparatoryMeetingsNotes.md).
 
 ## Program
