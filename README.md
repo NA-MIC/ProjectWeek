@@ -43,7 +43,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 ## Past Project Weeks
 
 - [2018 July 16-20: Project Week 29](PW29_2018_London_Canada/README.md) - Robarts Research Institute, London, Ontario, Canada. This was a satellite event with a slight focus on new users and community expansion.
-- [2018 June 25-29: Project Week 28](PW28_2018_GranCanaria/README.md) - Gran Canaria, Spain.
+- [2018 June 25-29: Project Week 28](PW28_2018_GranCanaria/README.md) - Gran Canaria, Spain. It recorded 58 Registrants, who worked on 31 projects.
 - [2018 January 8-12: Project Week 27](PW27_2018_Boston/README.md) - MIT, Cambridge, MA, USA. It recorded 72 registered attendees, who worked on 52 projects and attended 5 breakout sessions.
 - [2017 July 17-21 : Project Week 26](PW26_2017_London_Canada/README.md) - Robarts Research Institute, London, ON, Canada.
 - [2017 June 26-30: Project Week 25](https://www.na-mic.org/wiki/2017_Summer_Project_Week) - Catanzaro Lido, Calabria, Italy. It recorded 51 registered attendees, who worked on 29 projects.
