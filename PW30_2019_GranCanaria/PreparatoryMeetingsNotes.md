@@ -1,7 +1,16 @@
 These are notes from the Project Week Preparation Meetings.
 
+## No December 4, 2018 -- RSNA
+Additional project areas of interest in the group:
+- web viewing
+- data servers
+- DICOM servers
+- atlases
 
-## Meeting #1: Nov 13th, 2018.
+
+## No MeetingNov 27th, 2018 -- RSNA
+
+## Nov 13th, 2018.
 
 Proposal about the areas to establish in order to organize the projects:
 - Voume Rendering
@@ -13,4 +22,3 @@ Proposal about the areas to establish in order to organize the projects:
 It could be interesting during the next preparatory meetings to have a brainstorming on breakout sessions topics
 
 
-## Meeting #2: Nov 20th, 2018.
