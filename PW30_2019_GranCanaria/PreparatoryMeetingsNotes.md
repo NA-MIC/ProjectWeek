@@ -5,7 +5,7 @@ Additional project areas of interest in the group:
 - web viewing
 - data servers
 - DICOM servers
-- atlases
+- atlases -- at least three anatomists will be present
 
 
 ## No MeetingNov 27th, 2018 -- RSNA
