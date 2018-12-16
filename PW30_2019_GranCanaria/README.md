@@ -24,10 +24,10 @@ To receive information about this and future events please join the [Project Wee
   - Taxi (line at the airport)
   - [Bus -line 60-](https://www.guaguasglobal.com/en/lineas-horarios/linea/)
     - [Airport-San Telmo bus station](https://www.google.es/maps/dir/Aeropuerto+de+Gran+Canaria,+Autopista+GC-1,+s%2Fn,+35230,+Las+Palmas/Estacion+De+Guaguas+SAN+TELMO,+Av.+Rafael+Cabrera,+30,+35002+Las+Palmas+de+Gran+Canaria,+Las+Palmas/@28.0183155,-15.5470931,11z/data=!4m17!4m16!1m5!1m1!1s0xc40a266c3662d1d:0x824bcf7e159f85d4!2m2!1d-15.3877066!2d27.9331848!1m5!1m1!1s0xc4095850670520b:0x5eef5b2e4c79e9e3!2m2!1d-15.415777!2d28.1092527!2m2!7e2!8j1529431200!3e3)
-            
+
 
 ## Local Organizing Committee
- 
+
 - Host: Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es), Director of Medical and Audiovisual Technology Group (GTMA for Grupo de Tecnología Médica y Audiovisual), Research Institute in Biomedical and Health Sciences (IUIBS for Instituto Universitario de Investigación Biomédica y Sanitaria), Research Affiliate at the Canary Islands Instiute of Astrophysics.
 
 - Email Local Organzing Committee: [Juan Ruiz Alzola](mailto:juan.ruiz@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28)
@@ -35,7 +35,7 @@ To receive information about this and future events please join the [Project Wee
 
 - [Information about the Venue](https://medtec4susdev.github.io/30PW_NA-MIC_Venue/)
 
-## **VENUE LOCATION** 
+## **VENUE LOCATION**
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)    [3D View/Map of venue location 28th January - 1st February](https://bit.ly/2Hkm6Mi)
 
@@ -64,6 +64,12 @@ To receive information about this and future events please join the [Project Wee
 How to add this calendar to your own?
 
 ## Projects [(How to add a new project?)](Projects/README.md)
+
+DICOM
+
+1. [Roundtrip conversion between DICOM SR and FHIR representations for imaging measurements](Projects/DICOMSRTID1500toFHIRandBack/README.md) (Hans Meine, Peter Oppermann, Andrey Fedorov)
+1. [Implementation and evaluation of DICOM SEG support in tools](Projects/DICOMSEG/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper)
+1. [Implementation and evaluation of DICOM SR TID1500 "Measurement report" support in tools](Projects/DICOMSEG/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper)
 
 ## Projects
 
