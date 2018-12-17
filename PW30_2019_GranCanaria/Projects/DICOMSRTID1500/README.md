@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Hans Meine (Fraunhofer MEVIS)
 - Markus Herrmann (BWH/MGH CCDS)
 - Steve Pieper (Isomics)
+- James A. Petts (ICR)
 
 # Project Description
 
