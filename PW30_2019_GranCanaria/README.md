@@ -68,8 +68,9 @@ How to add this calendar to your own?
 DICOM
 
 1. [Roundtrip conversion between DICOM SR and FHIR representations for imaging measurements](Projects/DICOMSRTID1500toFHIRandBack/README.md) (Hans Meine, Peter Oppermann, Andrey Fedorov)
-1. [Implementation and evaluation of DICOM SEG support in tools](Projects/DICOMSEG/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper, James A. Petts)
-1. [Implementation and evaluation of DICOM SR TID1500 "Measurement report" support in tools](Projects/DICOMSEG/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper)
+2. [Implementation and evaluation of DICOM SEG support in tools](Projects/DICOMSEG/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper, James A. Petts)
+3. [Implementation and evaluation of DICOM SR TID1500 "Measurement report" support in tools](Projects/DICOMSRTID1500/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper)
+4. [Interoperability of DICOM SEG between cornerstonejs/vtkjs/dcmjs](Projects/DICOMSEG_CORNERSTONE_VTKJS/README.md) (James A. Petts, Erik Ziegler, Steve Pieper)
 
 ## Projects
 
