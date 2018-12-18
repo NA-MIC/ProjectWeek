@@ -17,7 +17,7 @@ To receive information about this and future events please join the [Project Wee
   - Hosted by: [Universidad de Las Palmas de Gran Canaria](https://www.google.com/maps/place/University+of+Las+Palmas+de+Gran+Canaria/@28.0990225,-16.5409312,8z/data=!4m5!3m4!1s0xc409514173e77eb:0xbda0edfa5e221aaa!8m2!3d28.0990178!4d-15.4203257)  
   - [3D View/Map of venue location](https://bit.ly/2Hkm6Mi)
 - **REGISTRATION:** TBD
-- **Hotel:** These hotels worked well last year if you want to try: Marriott Iberia, Parque. 
+- **Hotel:** These hotels worked well last year if you want to try: Marriott Iberia, Parque.
 
 
 - Transports from the airport to the city (Las Palmas de Gran Canaria):
@@ -67,10 +67,9 @@ How to add this calendar to your own?
 
 DICOM
 
-1. [Roundtrip conversion between DICOM SR and FHIR representations for imaging measurements](Projects/DICOMSRTID1500toFHIRandBack/README.md) (Hans Meine, Peter Oppermann, Andrey Fedorov)
-2. [Implementation and evaluation of DICOM SEG support in tools](Projects/DICOMSEG/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper, James A. Petts)
-3. [Implementation and evaluation of DICOM SR TID1500 "Measurement report" support in tools](Projects/DICOMSRTID1500/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper)
-4. [Interoperability of DICOM SEG between cornerstonejs/vtkjs/dcmjs](Projects/DICOMSEG_CORNERSTONE_VTKJS/README.md) (James A. Petts, Erik Ziegler, Steve Pieper)
+1. [DICOM for quantitative imaging](Projects/DICOMSEG/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper, James A. Petts)
+2. [Roundtrip conversion between DICOM SR and FHIR representations for imaging measurements](Projects/DICOMSRTID1500toFHIRandBack/README.md) (Hans Meine, Peter Oppermann, Andrey Fedorov)
+3. [Interoperability of DICOM SEG between cornerstonejs/vtkjs/dcmjs](Projects/DICOMSEG_CORNERSTONE_VTKJS/README.md) (James A. Petts, Erik Ziegler, Steve Pieper)
 
 ## Projects
 
