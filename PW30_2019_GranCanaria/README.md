@@ -16,7 +16,7 @@ To receive information about this and future events please join the [Project Wee
 - **Location:**
   - Hosted by: [Universidad de Las Palmas de Gran Canaria](https://www.google.com/maps/place/University+of+Las+Palmas+de+Gran+Canaria/@28.0990225,-16.5409312,8z/data=!4m5!3m4!1s0xc409514173e77eb:0xbda0edfa5e221aaa!8m2!3d28.0990178!4d-15.4203257)  
   - [3D View/Map of venue location](https://bit.ly/2Hkm6Mi)
-- **REGISTRATION:** TBD
+- **REGISTRATION:** [Register here](https://www.fulp.es/na-mic-event-2019). Registration Fee: €300.
 - **Hotel:** These hotels worked well last year if you want to try: Marriott Iberia, Parque.
 
 
