@@ -59,3 +59,6 @@ Relevant FHIR resources for the diagnostic report and reported observations:
 * result: https://www.hl7.org/fhir/diagnosticreport-definitions.html#DiagnosticReport.result
 * image: https://www.hl7.org/fhir/diagnosticreport-definitions.html#DiagnosticReport.image
 * observartion resource: https://www.hl7.org/fhir/observation.html
+
+Other FHIR-related pointers:
+* [#FHIR and confusion about the 80/20 rule](http://www.healthintersections.com.au/?p=1924) by Grahame Grieve
