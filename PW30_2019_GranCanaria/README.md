@@ -14,7 +14,7 @@ To receive information about this and future events please join the [Project Wee
 
 - **Dates:** January 28 - February 1, 2019.
 - **Location:**
-  - Hosted by: [Universidad de Las Palmas de Gran Canaria](https://www.google.com/maps/place/University+of+Las+Palmas+de+Gran+Canaria/@28.0990225,-16.5409312,8z/data=!4m5!3m4!1s0xc409514173e77eb:0xbda0edfa5e221aaa!8m2!3d28.0990178!4d-15.4203257)  
+  - Hosted by: [Universidad de Las Palmas de Gran Canaria](https://www.google.com/maps/place/University+of+Las+Palmas+de+Gran+Canaria/@28.0990225,-16.5409312,8z/data=!4m5!3m4!1s0xc409514173e77eb:0xbda0edfa5e221aaa!8m2!3d28.0990178!4d-15.4203257)
   - [3D View/Map of venue location](https://bit.ly/2Hkm6Mi)
 - **REGISTRATION:** [Register here](https://www.fulp.es/na-mic-event-2019). Registration Fee: €300.
 - **Hotel:** These hotels worked well last year if you want to try: Marriott Iberia, Parque.
@@ -41,7 +41,7 @@ To receive information about this and future events please join the [Project Wee
 
 ## INFOPACK
 
-- [Infopack](https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/INFOPACK_NAMICWINTEREVENT2019.pdf)  
+- [Infopack](https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/INFOPACK_NAMICWINTEREVENT2019.pdf)
 
 ## Frequently Asked Questions
 
@@ -56,7 +56,7 @@ To receive information about this and future events please join the [Project Wee
 
 ## Preparatory Videoconferences
 
-- Zoom video conference: To join the videoconference, use https://zoom.us/j/112427205  
+- Zoom video conference: To join the videoconference, use https://zoom.us/j/112427205
 - Conference call notes: To access these, click [here](PreparatoryMeetingsNotes.md).
 
 ## Program
@@ -75,7 +75,12 @@ DICOM
 
 ## Registrants
 
-Do not add your name to this list - it is maintained by the organizers based on your paid registration.  Registration link TBD
+Do not add your name to this list - it is maintained by the organizers based on your paid registration.
+
+**Registration:** https://www.fulp.es/na-mic-event-2019
+
+* Registration Fee: €300 (pay by credit card in euros or US dollars, approximately $350)
+* Fill in contact info, passport number, and travel plans and then you will be taken to the payment page.
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 1. You could be the first to register!
