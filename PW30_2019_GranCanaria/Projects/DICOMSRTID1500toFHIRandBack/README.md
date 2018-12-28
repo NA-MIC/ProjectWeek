@@ -61,4 +61,4 @@ Relevant FHIR resources for the diagnostic report and reported observations:
 * observartion resource: https://www.hl7.org/fhir/observation.html
 
 Other FHIR-related pointers:
-* [#FHIR and confusion about the 80/20 rule](http://www.healthintersections.com.au/?p=1924) by Grahame Grieve
+* [#FHIR and confusion about the 80/20 rule](http://www.healthintersections.com.au/?p=1924), and interesting discussion on this rule in the context of DICOM: [FHIR Extensions, the 80/20 rule, DICOM and the LONG tail](http://www.healthintersections.com.au/?cat=39), by Grahame Grieve
