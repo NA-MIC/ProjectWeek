@@ -7,6 +7,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - James A. Petts (ICR)
 - Erik Ziegler (Radical Imaging)
 - Steve Pieper (Isomics)
+- Mete Akdogan (Stanford)
+- Emel Alkim (Stanford)
 
 # Project Description
 
@@ -17,7 +19,7 @@ utilizing dcmjs for IO. This project is the logical continuation of [a previous 
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Visualization of DICOM SEG segmentation data in both cornerstonejs and vtkjs frameworks.
+1. Visualization of DICOM SEG segmentation data in both cornerstonejs and vtkjs frameworks. This will also facilitate cornerstone integration with ePAD.
 2. Provide easy interoperability between segmentations visualized using both libraries.
 3. Provide an example implementation as plugins to the OHIF viewer, utilizing both cornerstonejs and vtkjs.
 
