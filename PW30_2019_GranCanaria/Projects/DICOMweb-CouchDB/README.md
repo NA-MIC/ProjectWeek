@@ -22,9 +22,13 @@ This project aims to work on a prototype lightweight DICOM server that will supp
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
+1. Review and define project ideas
+    1. Define a reasonable subset of DICOMweb that can be supported easily (at least basic QIDO/WADO/STOW RS)
+    1. Pick a nice web server infastructure that can easily implement rest api proxies
+    1. Find an easy way to host the service for development, testing, and demos
 1. Implement an example translation of a DICOMweb query to CouchDB map/reduce statements
-2. Implement translation of the CouchDB response to DICOMweb response
-3. Build a bridge between SlicerChronicle and dcmjs to host the DICOM files as JSON files and support CSTORE
+1. Implement translation of the CouchDB response to DICOMweb response
+1. Build a bridge between SlicerChronicle and dcmjs to host the DICOM files as JSON files and support CSTORE
 
 ## Progress and Next Steps
 
@@ -44,5 +48,6 @@ This project aims to work on a prototype lightweight DICOM server that will supp
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-SlicerChronicle: https://github.com/pieper/SlicerChronicle/tree/master/SlicerChronicle
-dcmjs: https://github.com/dcmjs-org/dcmjs
+- SlicerChronicle: https://github.com/pieper/Chronicle
+- SlicerChronicle: https://github.com/pieper/SlicerChronicle
+- dcmjs: https://github.com/dcmjs-org/dcmjs
