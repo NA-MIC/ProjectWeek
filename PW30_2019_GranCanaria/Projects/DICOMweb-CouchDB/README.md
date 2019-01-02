@@ -44,6 +44,7 @@ This project aims to work on a prototype lightweight DICOM server that will supp
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![Example sequence diagrams](DICOMweb%2BChronicle.png)
 
 # Background and References
 
