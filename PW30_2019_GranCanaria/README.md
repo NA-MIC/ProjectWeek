@@ -22,8 +22,7 @@ To receive information about this and future events please join the [Project Wee
 
 - Host: Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es)
 
-- Email Local Organzing Committee:[Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek30)
-
+- Email Local Organzing Committee: [Technical Topics: Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30), [Administrative Topics: Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30)
 
 
 ## Venue Information
