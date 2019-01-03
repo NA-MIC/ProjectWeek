@@ -1,4 +1,4 @@
-Back to [Projects List](../../README.md#ProjectsList)
+Back to [Projects List](../README.md#ProjectsList)
 
 # Microscopy 3DSlicer Module
 
