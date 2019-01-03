@@ -1,4 +1,3 @@
-|   |   |
 |---|---|
 | ![PW30](PW30-500px.png)  | **Local Organizing Committee Host:** Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es)  Email Local Organizing Committee: [Technical Topics: Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30) [Administrative Topics: Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30)  | 
 
