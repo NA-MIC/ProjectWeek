@@ -59,7 +59,7 @@ Figure 4. Angle between probe and needle
 
 <img src="Figure5.jpg" width="150" height="190" >
 
-Figure 5. 5 Probe marker in green
+Figure 5. Probe marker in green
 
 
 # Background and References
