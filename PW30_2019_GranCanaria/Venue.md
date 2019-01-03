@@ -4,7 +4,7 @@
     - Hotels that worked well last year: [Marriott Iberia](http://achotels.marriott.com/hotels/ac-hotel-iberia-las-palmas), [Parque](http://hotelparqueenlaspalmas.com/en/). (We have not reserved rooms at hotels this year.)
     - [3D View/Map of venue location 28th January - 1st February](https://bit.ly/2Hkm6Mi)
     - [Information about the Venue](https://medtec4susdev.github.io/30PW_NA-MIC_Venue/)
-    - [Infopack](https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/INFOPACK_NAMICWINTEREVENT2019.pdf)
+    - [Infopack](https://github.com/NA-MIC/ProjectWeek/raw/master/PW30_2019_GranCanaria/INFOPACK_NAMICWINTEREVENT2019.pdf)
 - **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
     - Taxi (line at the airport)
     - [Bus -line 60-](https://www.guaguasglobal.com/en/lineas-horarios/linea/)
