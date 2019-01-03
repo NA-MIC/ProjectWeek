@@ -37,7 +37,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 - [30th Project Week](https://na-mic.github.io/ProjectWeek/PW30_2019_GranCanaria) will take place January 28 through February 1, 2019 in Las Palmas, Gran Canaria, Spain.
 
 **Plan ahead:** 
-* A Project Week is scheduled for June 24-28, 2019 at MIT, Cambridge, MA.
+* The 31st Project Week is scheduled for June 24-28, 2019 at MIT, Cambridge, MA.
 * Please contact the organizers if you have interest in hosting a Project Week event.
 
 ## Past Project Weeks
