@@ -99,7 +99,14 @@ How to add this calendar to your own?
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
-1. (Registration is open - please register and this list will be updated soon.  We already have several dozen people planning to attend!)
+1. Ron Kikinis
+1. Steve Pieper
+1. Mike Halle
+1. Juan Ruiz
+1. Andras Lasso
+1. JC Fillion-Robin
+1. Andrey Fedorov
+1. Marco Nolden
 
 ## Statistics
 
