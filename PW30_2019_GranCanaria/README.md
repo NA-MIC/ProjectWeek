@@ -33,8 +33,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 How to add this calendar to your own?
 
 ## Projects [(How to add a new project?)](Projects/README.md)
-
-## Projects
+#ProjectsList
 
 ### DICOM
 
