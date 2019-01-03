@@ -29,7 +29,6 @@ This project main aim is the development of a new extension/module for 3DSlicer 
 1. To be completed.
 
 ## Illustrations
-Prototype from PW28th.
 
 <img src="Figure1.png" width="242" height="144">
 
