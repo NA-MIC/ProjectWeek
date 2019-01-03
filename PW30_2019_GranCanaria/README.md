@@ -99,6 +99,7 @@ How to add this calendar to your own?
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
+- The people listed below have plans to attend
 1. Ron Kikinis
 1. Steve Pieper
 1. Mike Halle
@@ -107,6 +108,18 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. JC Fillion-Robin
 1. Andrey Fedorov
 1. Marco Nolden
+1. Gabor Fichtinger
+1. Kyle Sunderland
+1. Hans Meine
+1. Andre Fedorov
+1. Markus Hermann
+1. Erik Ziegler
+1. Kevin Cleary
+1. Sara Rolfe
+1. Emel Akim
+1. Eleni Siampli
+1. James Petts
+
 
 ## Statistics
 
