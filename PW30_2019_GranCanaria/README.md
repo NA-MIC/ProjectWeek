@@ -26,7 +26,7 @@ To receive information about this and future events please join the [Project Wee
 
 
 
-## VENUE INFORMATION
+## Venue Information
 - **Hotels and Maps**
     - Hotels that worked well last year: [Marriott Iberia](http://achotels.marriott.com/hotels/ac-hotel-iberia-las-palmas), [Parque](http://hotelparqueenlaspalmas.com/en/). (We have not reserved rooms at hotels this year.)
     - [3D View/Map of venue location 28th January - 1st February](https://bit.ly/2Hkm6Mi)
