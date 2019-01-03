@@ -53,16 +53,16 @@ How to add this calendar to your own?
 ### Segmentation
 
 1. [Segment Editor use cases](Projects/SegmentEditor/README.md) (Andras Lasso)
-1. [Refining automatic segmentations from FreeSurfer in 3D Slicer] (Projects/AutomSegmentFreeSurfer/README.md) (Nikos Makris, Juan-Andrés Ramírez-González, Yogesh Rathi, Nayra Pumar Carreras, Juan Ruiz Alzola)
+1. [Refining automatic segmentations from FreeSurfer in 3D Slicer](Projects/AutomSegmentFreeSurfer/README.md) (Nikos Makris, Juan-Andrés Ramírez-González, Yogesh Rathi, Nayra Pumar Carreras, Juan Ruiz Alzola)
 1. [Microscopy 3DSlicer Module](Projects/MICROSCOPY/README.md) (Aziza Elmahjoub, Abián Hernández-Guedes, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 
 ### Education
 
 1. [Improve OpenAnatomy support in Slicer](Projects/OpenAnatomy/README.md) (Andras Lasso, Mike Halle)
 1. [Pelvic Anatomy Atlases (male and female)](Projects/PelvicAnatomyAtlases/README.md) (Babacar Diao, Nayra Pumar, Xerach Suárez, Cheick Tidiane, Juan Ruiz-Alzola)
-1. [New features for an US simulator training system](Projects/US_SimulatorTrainingSystem/README.md)(Jose Carlos Ruiz-Luque,  Guillermo Valentín Socorro-Marrero, Samba Diaw, Oumar Kane, Joseane Ferreira, Juan Ruiz-Alzola)
+1. [New features for an US simulator training system](Projects/US_SimulatorTrainingSystem/README.md) (Jose Carlos Ruiz-Luque,  Guillermo Valentín Socorro-Marrero, Samba Diaw, Oumar Kane, Joseane Ferreira, Juan Ruiz-Alzola)
 1. [3DSlicer Training Programs](Projects/TrainingPrograms/README.md) (GTMA group, Alexandra Fernandes Rodrigues, Ahmedou Moulaye Idriss, Yahya Tfeil, Mohamed Septy, Joseanne Alexandra Da Rosa De Pina Ferreira, Sonia Pujol)
-1. [3DSlicer Models for Brain Quiz](Projects/3DSlicerModelsforBrainQuiz/README.md)(Sergi Bermudez i Badia, Yuri Almeida, Abián Hernández-Guedes, Artemisa Moreno, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
+1. [3DSlicer Models for Brain Quiz](Projects/3DSlicerModelsforBrainQuiz/README.md) (Sergi Bermudez i Badia, Yuri Almeida, Abián Hernández-Guedes, Artemisa Moreno, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 
 
 ## Registrants
