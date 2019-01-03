@@ -1,6 +1,9 @@
-|   |   |
-|---|---|
-| ![PW30](PW30-500px.png)  | **Local Organizing Committee Host:** Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es)  Email Local Organizing Committee: [Technical Topics: Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30) [Administrative Topics: Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30)  | 
+<table>
+<tr>
+    <td> <img src="PW30-500px.png"> </td>
+  <td> <b>Local Organizing Committee Host:</b> <ul><li>Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at <a href="http://www.ulpgc.es">Universidad de Las Palmas de Gran Canaria</a> </li> <li> Email Local Organizing Committee: <a href="mailto:marilola.afonso@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30">Technical Topics: Maria Dolores Afonso Suarez</a> <a href="mailto:asmaa.skareb@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30">Administrative Topics: Asmaa Skareb</a> </li></td>
+</tr>
+</table>
 
 
 ## Welcome to the web page for the 30th Project Week!
