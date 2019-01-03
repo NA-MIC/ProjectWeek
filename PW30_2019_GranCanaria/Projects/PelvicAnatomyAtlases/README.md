@@ -29,7 +29,7 @@ This project focuses on the development of anatomical atlases of the pelvic area
 
 1.	Training using the 3D Slicer segment editor
 1.	Image study and selection
-1.	Use of the export tools in 3D Slicer
+1.	Use the export tools in 3D Slicer
 
 
 ## Progress and Next Steps
