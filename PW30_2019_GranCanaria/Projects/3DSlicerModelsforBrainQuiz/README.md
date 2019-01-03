@@ -37,11 +37,11 @@ This proposal is a joint collaboration work: M-ITI(https://www.m-iti.org/) and U
 ## Illustrations
 Prototype from PW28th.
 
-<img src="PelvisQuiz.jpg" width="500" height="300">
+<img src="PelvisQuiz.jpg" width="400" height="280">
 
 3D Model for 30PW.
 
-<img src="BrainModel.jpg" width="500" height="300">
+<img src="BrainModel.jpg" width="400" height="280">
 
 Unity Scenario video examples.
 
