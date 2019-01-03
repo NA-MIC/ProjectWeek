@@ -5,7 +5,7 @@
 <table>
 <tr>
     <td> <img src="PW30-500px.png"> </td>
-  <td> <b>Local Organizing Committee Host:</b> <ul><li>Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at <a href="http://www.ulpgc.es">Universidad de Las Palmas de Gran Canaria</a> </li> <li> Email Local Organizing Committee: <a href="mailto:marilola.afonso@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30">Technical Topics: Maria Dolores Afonso Suarez</a> <a href="mailto:asmaa.skareb@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30">Administrative Topics: Asmaa Skareb</a> </li></td>
+  <td> <b>Local Organizing Committee Host:</b> <ul><li>Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at <a href="http://www.ulpgc.es">Universidad de Las Palmas de Gran Canaria</a> </li> <li> Email Local Organizing Committee: <a href="mailto:marilola.afonso@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30">Technical Topics: Maria Dolores Afonso Suarez</a> <a href="mailto:asmaa.skareb@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30">Administrative Topics: Asmaa Skareb</a> </li></ul></td>
 </tr>
 </table>
 
