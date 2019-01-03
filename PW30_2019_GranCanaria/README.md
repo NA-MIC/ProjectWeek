@@ -99,27 +99,31 @@ How to add this calendar to your own?
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
-- The people listed below have plans to attend
-1. Ron Kikinis
-1. Steve Pieper
-1. Mike Halle
-1. Juan Ruiz
-1. Andras Lasso
-1. JC Fillion-Robin
-1. Andrey Fedorov
-1. Marco Nolden
-1. Gabor Fichtinger
-1. Kyle Sunderland
-1. Hans Meine
-1. Andre Fedorov
-1. Markus Hermann
-1. Erik Ziegler
-1. Kevin Cleary
-1. Sara Rolfe
-1. Emel Akim
-1. Eleni Siampli
-1. James Petts
-
+1. Ron Kikinis - Brigham and Women's Hospital and Harvard Medical School - USA 
+1. Steven Pieper (@pieper)(pieper@isomics.com) - Isomics, Inc. - USA
+1. Michael Halle (@mhalle)(mhalle@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA 
+1. Juan Ruiz Alzola (@jruizalz)(juan.ruiz@ulpgc.es) - University of Las Palmas de Gran Canaria / Instituto de Astrofísica de Canarias - Spain
+1. Andras Lasso (@lassoan)(lasso@queensu.ca) - Queen’s University - Canada
+1. Gabor Fichtinger (gabor@cs.queensu.ca) - Queen’s University - Canada
+1. Kyle Sunderland (1krs1@queensu.ca) - Queen’s University - Canada
+1. Jean-Christophe Fillion-Robin (@jcfr)(jchris.fillionr@kitware.com) - Kitware Inc. - USA
+1. Andrey Fedorov (andrey.fedorov@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - USA 
+1. Marco Nolden (M.Nolden@Dkfz-Heidelberg.de) - German Cancer Research Center (DKFZ) - Germany
+1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
+1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
+1. M Alexandra Fernandes Rodrigues (malexa.rodrigues@gmail.com) - Faculdade de Medicina da Universidade Eduardo Mondlane - Mozambique
+1. Joseane Alexandre Da Rosa de Pina Ferreira (joseane.ferreira@han.gov.cv) - Hospital Agostinho Neto de Praia - Cabo Verde
+1. Artemisa Mendes Moreno (artemisa.moreno@docente.unicv.edu.cv) - Faculdade de Ciências e Tecnologia, Universidade de Cabo Verde - Cabo Verde
+1. Cheikh Tidiane Diop (chtdiop81@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal
+1. Oumar Kane (droumarkane@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal 
+1. Babacar Diao (babacardiao104uro@yahoo.fr) - Ecole Militaire de Santé Dakar - Senegal
+1. Jose Carlos Ruiz Luque (carlos.luque@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Nayra Pumar Carreras (nayra.pumar@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Guillermo Valentín Socorro Marrero (@gvsocorro)(guillermo.socorro@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Abián Hernández Guedes (@SolidusAbi)(abian.hernandez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Xerach Suárez Moreno (xerach.suarez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Maria Dolores Afonso Suárez (@MarilolaMACbioIDi)(marilola.afonso@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Yuri Ameida (yuri.almeida@m-iti.org) Madeira Madeira Interactive Technologies Institute - Portugal
 
 ## Statistics
 
