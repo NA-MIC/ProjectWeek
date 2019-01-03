@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Emel Alkim (Stanford)
 - Steve Pieper (Isomics)
+- Andrey Fedorov (BWH) - interested to deploy and test the resulting platform
 
 # Project Description
 
