@@ -76,6 +76,23 @@ How to add this calendar to your own?
 1. [Interoperability of DICOM SEG between cornerstonejs/vtkjs/dcmjs](Projects/DICOMSEG_CORNERSTONE_VTKJS/README.md) (James A. Petts, Erik Ziegler, Steve Pieper)
 1. [DICOMweb server and custom database](Projects/DICOMweb-CouchDB/README.md) (Emil Alkim, Steve Pieper)
 
+### GPU-accelerated processing
+
+1. [GLSL shaders for custom volume rendering and image processing](Projects/GLSLShaders/README.md) (Simon Drouin, Kyle Sunderland, Steve Pieper, Andras Lasso)
+
+### Image-guided therapy
+
+1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Simon Drouin, Kyle Sunderland, Andras Lasso)
+
+### Segmentation
+
+1. [Segment Editor use cases](Projects/SegmentEditor/README.md) (Andras Lasso)
+
+### Education
+
+1. [Improve OpenAnatomy support in Slicer](Projects/OpenAnatomy/README.md) (Andras Lasso, Mike Halle)
+
+
 ## Registrants
 
 
