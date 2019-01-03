@@ -5,7 +5,7 @@ The 30th NA-MIC Project Week will be held during the week of January 28 - Februa
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
 
-This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/) was held in this location as well, and captured in ([photos](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing), and [coverage by the local media](../PW28_2018_GranCanaria/PW28InTheMedia.md).
+This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/) was held in this location as well, and captured in [photos](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing), and [coverage by the local media](../PW28_2018_GranCanaria/PW28InTheMedia.md).
 
 ## Logistics
 
