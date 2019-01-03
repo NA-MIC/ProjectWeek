@@ -41,23 +41,23 @@ This project is a next step in the one presented during 28th PW NA-MIC and it ai
 
 Guidelet muli-language interface:
 
-<img src="Figure1.jpg" width="250" height="130" >
+<img src="Figure1.png" width="250" height="130" >
 
 Figure1. Language selection 
 
-<img src="Figure2.jpg" width="250" height="130" >
+<img src="Figure2.png" width="250" height="130" >
 
 Figure 2. Guidelet interface in Arabic 
 
-<img src="Figure3.jpg" width="250" height="130" >
+<img src="Figure3.png" width="250" height="130" >
 
 Figure 3. Guidelet interface in Spanish
 
-<img src="Figure4.jpg" width="150" height="110" >
+<img src="Figure4.png" width="150" height="110" >
 
 Figure 4. Angle between probe and needle
 
-<img src="Figure5.jpg" width="150" height="190" >
+<img src="Figure5.png" width="150" height="190" >
 
 Figure 5. Probe marker in green
 
