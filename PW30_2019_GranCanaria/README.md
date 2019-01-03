@@ -1,3 +1,7 @@
+
+
+## Welcome to the web page for the 30th Project Week!
+
 <table>
 <tr>
     <td> <img src="PW30-500px.png"> </td>
@@ -5,8 +9,6 @@
 </tr>
 </table>
 
-
-## Welcome to the web page for the 30th Project Week!
 The 30th NA-MIC Project Week will be held during the week of January 28 - February 1, 2019 at [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es/).
 
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
