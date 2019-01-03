@@ -88,7 +88,7 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Gabor Fichtinger (gabor@cs.queensu.ca) - Queen’s University - Canada
 1. Kyle Sunderland (1krs1@queensu.ca) - Queen’s University - Canada
 1. Jean-Christophe Fillion-Robin (@jcfr)(jchris.fillionr@kitware.com) - Kitware Inc. - USA
-1. Andrey Fedorov (andrey.fedorov@gmail.com) (@fedorov) - Brigham and Women's Hospital and Harvard Medical School - USA 
+1. Andrey Fedorov ([@fedorov](https://github.com/fedorov)) (andrey.fedorov@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - USA 
 1. Marco Nolden (M.Nolden@Dkfz-Heidelberg.de) - German Cancer Research Center (DKFZ) - Germany
 1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
 1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
