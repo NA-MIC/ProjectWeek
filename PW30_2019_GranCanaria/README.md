@@ -1,4 +1,8 @@
-![PW30](PW30-500px.png)
+|   |   |
+|---|---|
+| ![PW30](PW30-500px.png)  | **Local Organizing Committee Host:** Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es)  Email Local Organizing Committee: [Technical Topics: Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30) [Administrative Topics: Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30)  | 
+
+
 ## Welcome to the web page for the 30th Project Week!
 The 30th NA-MIC Project Week will be held during the week of January 28 - February 1, 2019 at [Universidad de Las Palmas de Gran Canaria](https://www.ulpgc.es/).
 
@@ -7,36 +11,12 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/) was held in this location as well, and captured in [photos](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing), and [coverage by the local media](../PW28_2018_GranCanaria/PW28InTheMedia.md).
 
-## Logistics
-
-To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) and the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw30/discussions).
-
+## [Logistics](Logistics.md)
 - **Dates:** January 28 - February 1, 2019.
-- **Location:**
-  - Hosted by: [Universidad de Las Palmas de Gran Canaria](https://www.google.com/maps/place/University+of+Las+Palmas+de+Gran+Canaria/@28.0990225,-16.5409312,8z/data=!4m5!3m4!1s0xc409514173e77eb:0xbda0edfa5e221aaa!8m2!3d28.0990178!4d-15.4203257)
-  - [3D View/Map of venue location](https://bit.ly/2Hkm6Mi)
-- **REGISTRATION:** [Register here](https://www.fulp.es/na-mic-event-2019). Registration Fee: €300.
-- **Hotel:** See Venue Information for suggestions and map of the area.
-
-## Local Organizing Committee
-- Host: Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es)
-
-- Email Local Organzing Committee: 
-  - [Technical Topics: Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30)
-  - [Administrative Topics: Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30)
-
 
 ## [Venue Information](Venue.md)
 
-## Frequently Asked Questions
-
-* [What?](../README.md#what)
-* [When, where, how much?](../README.md#when-where-how-much)
-* [How does it work?](../README.md#how-does-it-work)
-* [Who can attend?](../README.md#who-can-attend)
-* [Who should attend?](../README.md#who-should-attend)
-* [What else?](../README.md#what-else)
-* [Who to contact?](../README.md#who-to-contact)
+## [Frequently Asked Questions](FAQ.md)
 
 ## Preparatory Videoconferences
 
