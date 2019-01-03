@@ -25,7 +25,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 ## Preparatory Videoconferences
 
-- Zoom video conference: To join the videoconference, use https://zoom.us/j/112427205
+- Zoom video conference: To join the videoconference, use [https://zoom.us/j/112427205](https://zoom.us/j/112427205)
 - Conference call notes: To access these, click [here](PreparatoryMeetingsNotes.md).
 
 ## Program Calendar
