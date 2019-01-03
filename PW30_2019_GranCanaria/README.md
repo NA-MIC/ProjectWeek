@@ -99,7 +99,7 @@ How to add this calendar to your own?
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
-1. You could be the first to register!
+1. (Registration is open - please register and this list will be updated soon.  We already have several dozen people planning to attend!)
 
 ## Statistics
 
