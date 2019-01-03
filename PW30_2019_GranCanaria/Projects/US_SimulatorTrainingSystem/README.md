@@ -41,15 +41,15 @@ This project is a next step in the one presented during 28th PW NA-MIC and it ai
 
 Guidelet muli-language interface:
 
-<img src="Figure1.png" width="250" height="130" >
+<img src="Figure1.png" width="300" height="180" >
 
 Figure1. Language selection 
 
-<img src="Figure2.png" width="250" height="130" >
+<img src="Figure2.png" width="300" height="180" >
 
 Figure 2. Guidelet interface in Arabic 
 
-<img src="Figure3.png" width="250" height="130" >
+<img src="Figure3.png" width="300" height="180" >
 
 Figure 3. Guidelet interface in Spanish
 
