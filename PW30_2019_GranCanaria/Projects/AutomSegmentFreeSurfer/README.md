@@ -1,4 +1,4 @@
-Back to [Projects List](../../README.md#ProjectsList)
+Back to [Projects List](../README.md#ProjectsList)
 
 # Refining automatic segmentations from FreeSurfer in 3D Slicer
 
