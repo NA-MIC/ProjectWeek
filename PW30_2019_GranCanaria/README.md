@@ -34,6 +34,8 @@ How to add this calendar to your own?
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 
+<a name="ProjectsList"/>
+
 ### DICOM
 
 1. [DICOM for quantitative imaging](Projects/DICOMSEG/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper, James A. Petts)
