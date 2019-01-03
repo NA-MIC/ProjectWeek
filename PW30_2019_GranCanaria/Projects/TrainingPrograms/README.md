@@ -1,4 +1,4 @@
-Back to [Projects List](../../README.md#ProjectsList)
+Back to [Projects List](../README.md#ProjectsList)
 
 # 3DSlicer Training Programs
 
