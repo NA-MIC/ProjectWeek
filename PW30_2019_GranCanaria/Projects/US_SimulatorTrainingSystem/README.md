@@ -46,21 +46,21 @@ Guidelet muli-language interface:
 
 Figure1. Language selection for the Guidelet-based GUI 
 
-<img src="Figure2.png"  >
+<img src="MultilanguageArabic.png"  >
 
 Figure 2. Guidelet-based GUI in Arabic 
 
-<img src="Figure3.png" >
+<img src="MultilanguageSpanish.png" >
 
 Figure 3. Guidelet-based GUI in Spanish
 
 Sketches:
 
-<img src="Figure4.png"  >
+<img src="SketchAngle.png" width="150" height="110" >
 
 Figure 4.  An angle between a plane of the US image and a needle
 
-<img src="Figure5.png"  >
+<img src="ImageOrientationMarkerSymbol.png" width="150" height="190" >
 
 Figure 5. An image orientation marker symbol (in blue color)
 
