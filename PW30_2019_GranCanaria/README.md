@@ -92,13 +92,15 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Marco Nolden (M.Nolden@Dkfz-Heidelberg.de) - German Cancer Research Center (DKFZ) - Germany
 1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
 1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
+1. Yayha Ould Tfeil (tefeil2000@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
 1. M Alexandra Fernandes Rodrigues (malexa.rodrigues@gmail.com) - Faculdade de Medicina da Universidade Eduardo Mondlane - Mozambique
 1. Joseane Alexandre Da Rosa de Pina Ferreira (joseane.ferreira@han.gov.cv) - Hospital Agostinho Neto de Praia - Cabo Verde
 1. Artemisa Mendes Moreno (artemisa.moreno@docente.unicv.edu.cv) - Faculdade de Ciências e Tecnologia, Universidade de Cabo Verde - Cabo Verde
+1. Babacar Diao (babacardiao104uro@yahoo.fr) - Ecole Militaire de Santé Dakar -Senegal 
 1. Cheikh Tidiane Diop (chtdiop81@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal
 1. Oumar Kane (droumarkane@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal 
-1. Babacar Diao (babacardiao104uro@yahoo.fr) - Ecole Militaire de Santé Dakar - Senegal
-1. Jose Carlos Ruiz Luque (carlos.luque@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Samba Diao (samba.diaw@esp.sn) - Université Cheikh Anta Diop - Senegal
+1. José-Carlos Ruiz-Luque (@carlos-luque)(carlos.luque@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Nayra Pumar Carreras (nayra.pumar@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Guillermo Valentín Socorro Marrero (@gvsocorro)(guillermo.socorro@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Abián Hernández Guedes (@SolidusAbi)(abian.hernandez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
