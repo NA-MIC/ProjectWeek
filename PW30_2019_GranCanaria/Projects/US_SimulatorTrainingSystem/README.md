@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# New features for an US simulator training system
+# New features for an ultrasound training system
 
 ## Key Investigators
 
@@ -42,7 +42,7 @@ This project is a next step in the one presented during 28th PW NA-MIC and it ai
 
 Guidelet muli-language interface:
 
-<img src="Figure1.png" width="300" height="180" >
+<img src="MultilanguageGUI.png" width="300" height="180" >
 
 Figure1. Language selection for the Guidelet-based GUI 
 
