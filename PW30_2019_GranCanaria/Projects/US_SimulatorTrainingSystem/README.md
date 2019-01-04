@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Jose Carlos Ruiz-Luque (ULPGC - GTMA - MACbioIDi)
+- José-Carlos Ruiz-Luque (ULPGC - GTMA - MACbioIDi)
 - Guillermo Valentín Socorro-Marrero (ULPGC - GTMA - MACbioIDi)
 - Samba Diaw (Université Cheikh Anta DIOP)
 - Oumar Kane (Centre Hospitalier National Fann Dakar)
@@ -22,17 +22,18 @@ This project is a next step in the one presented during 28th PW NA-MIC and it ai
 ## Objectives
 
 1. Supporting the multi-language (Spanish, French, English, Portuguese, and Arabic). 
-1. Registering several custom layouts. 
-1. Calculating the angle between a plane of the US image and a needle and it will be shown in a 3D scene or a 2D viewer.
-1. Visualizing the image orientation marker symbol in an US image.
-1. Selection of various clinical procedures for training. 
+2. Registering several custom layouts. 
+3. Calculating the angle between a plane of the US image and a needle and it will be shown in a 3D scene or a 2D viewer.
+4. Visualizing the image orientation marker symbol in an US image.
+5. Selection of various clinical procedures for training. 
 
 
 ## Approach and Plan
 
-1. Analysing the GUI functionalities.
-2. Sketching the user interface.
-3. Implementing the GUI proposal.
+1. A multi-language proposal was implemented in a Guidelet-based GUI for Slicer 4.8 using to the module “gettext” in Python. We would like to implement this proposal in SlicerIGT for Slicer 4.10.
+2. The design of new custom layouts in Guidelet-based GUIs was implemented in collaboration with the Perklab team.
+3. Designing a proposal for the angle between a plane of the US image and a needle. At first, we will study the VTK if there is a filter for this objective or other 3D Slicer modules.
+4. Studying the MicrUs SDK to visualize the image orientation marker symbol and it will be implemented in the Plus Toolkit or 3D Slicer. 
 
 ## Progress and Next Steps
 
@@ -43,28 +44,30 @@ Guidelet muli-language interface:
 
 <img src="Figure1.png" width="300" height="180" >
 
-Figure1. Language selection 
+Figure1. Language selection for the Guidelet-based GUI 
 
 <img src="Figure2.png" width="300" height="180" >
 
-Figure 2. Guidelet interface in Arabic 
+Figure 2. Guidelet-based GUI in Arabic 
 
 <img src="Figure3.png" width="300" height="180" >
 
-Figure 3. Guidelet interface in Spanish
+Figure 3. Guidelet-based GUI in Spanish
+
+Sketches:
 
 <img src="Figure4.png" width="150" height="110" >
 
-Figure 4. Angle between probe and needle
+Figure 4.  An angle between a plane of the US image and a needle
 
 <img src="Figure5.png" width="150" height="190" >
 
-Figure 5. Probe marker in green
+Figure 5. An image orientation marker symbol (in blue color)
 
 
 # Background and References
 
 -	[Slicelet documentation](https://www.slicer.org/wiki/Documentation/Nightly/Developers/Slicelets)
 -	[Guidelet documentation](http://www.slicerigt.org/wp/developer-tutorial/)
--	[Multi-language interface](https://github.com/mt4sd/UltrasoundTrainingSystem/tree/i18n_l10n)
+-	[Multi-language GUI](https://github.com/mt4sd/UltrasoundTrainingSystem/tree/i18n_l10n)
 -	[Guidelet-based GUI](https://github.com/mt4sd/UltrasoundTrainingSystem/tree/master)
