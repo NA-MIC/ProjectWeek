@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - [Andras Lasso](http://perk.cs.queensu.ca/users/lasso) (Queen's University, Canada)
 - Michael Halle (Brigham and Women’s Hospital and Harvard Medical School)
+- Steve Pieper (Isomics)
 
 ## Project Description
 
@@ -46,3 +47,4 @@ Web tool for assembling Anatomical Atlas
 ## Background and References
 
 + [Open Antomy Browser](https://www.openanatomy.org/)
++ [SlicerWeb glTF v1.0 exporter implementation](https://github.com/pieper/SlicerWeb/blob/0952659e38dd6b0a7511242235f3919ee7e09048/WebServer/WebServer.py#L37-L533)
