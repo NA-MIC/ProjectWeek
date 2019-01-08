@@ -139,6 +139,5 @@ We have invited a number of clinicians from a variety of specialties to visit, p
 + Yiming Xiao (Robarts Research Institute, Western University)
 + Yaojie Zhou (Robarts Imaging)
 + Jean-Christophe Fillion-Robin (Kitware, Inc.) @jcfr
-+ 
 
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
