@@ -21,7 +21,6 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 - **Location:** Las Palmas, Gran Canaria, Spain
 - [Venue and Hotel Information](Logistics.md#Venue)
 - [Registration](Logistics.md#Registration)
-- [Ask questions and get latest updates](Logistics.md#Updates)
 - [Frequently Asked Questions](Logistics.md#Faq)
 - [ERASMUS mobility information](Logistics.md#Erasmus)
 
@@ -107,8 +106,8 @@ List of registered participants so far (names will be added here after processin
 1. Yuri Ameida (yuri.almeida@m-iti.org) Madeira Madeira Interactive Technologies Institute - Portugal
 1. Erik Ziegler (erik@radicalimaging.com) - Open Health Imaging Foundation- France
 1. Sara Rolfe (smrolfe@uw.edu) - University of Washington - USA
-1. James Petts (james.petts@icr.ac.uk) - UK
-1. Marius Herrmann (mariusherrmann@hotmail.com) 
+1. James Petts (james.petts@icr.ac.uk) - Istitute of Cancer Research - UK
+1. Marius Herrmann (mariusherrmann@hotmail.com) - Universität Bremen - Germany
 1. Joost van Griethuysen (@maastrichtuniversity.nl) - Netherlands 
 
 <!-- 
