@@ -104,6 +104,11 @@ List of registered participants so far (names will be added here after processin
 1. Xerach Suárez Moreno (xerach.suarez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Maria Dolores Afonso Suárez (@MarilolaMACbioIDi)(marilola.afonso@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Yuri Ameida (yuri.almeida@m-iti.org) Madeira Madeira Interactive Technologies Institute - Portugal
+1. Erik Ziegler (erik@radicalimaging.com) - Open Health Imaging Foundation- France
+1. Sara Rolfe (smrolfe@uw.edu) - University of Washington - USA
+1. James Petts (james.petts@icr.ac.uk) - UK
+1. Marius Herrmann (mariusherrmann@hotmail.com) 
+1. Joost van Griethuysen (@maastrichtuniversity.nl) - Netherlands 
 
 <!-- 
 
