@@ -1,6 +1,10 @@
 # Logistics
 
-To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) and the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw30/discussions).
+<a name="Updates"/>
+
+## Updates and questions
+
+Visit [project-week](https://discourse.slicer.org/c/community/project-week) community on Slicer Forum to get latest updates on the event or ask any questions from organizers or other project week participants. To get notifications about new posts automatically, click on "Sign up" and then click on the circle button (next to "New Topic" button in the top-right) and choose "Watching".
 
 <a name="Venue"/>
 
@@ -36,11 +40,8 @@ Notes:
 ## ERASMUS mobility information
 
 1. Please, contact your ERASMUS Office at your home institution to check how to prepare an application. At the same time, please, 
-let us know that you're willing to apply and what project you'd like to work on and your motivation to come.
-Email: <a href="mailto:juan.ruiz@ulpgc.es?cc=marilola.afonso@ulpgc.es, asmaa.skareb@ulpgc.es&subject=ProjectWeek30_ErasmusMobility">
-Juan Ruiz Alzola, </a> <a href="mailto:marilola.afonso@ulpgc.es?cc=juan.ruiz@ulpgc.es, asmaa.skareb@ulpgc.es&subject=ProjectWeek30">
-Maria Dolores Afonso Suarez, </a> <a href="mailto:asmaa.skareb@ulpgc.es?cc=marilola.afonso@ulpgc.es, juan.ruiz@ulpgc.es&subject=ProjectWeek30_ErasmusMobility">
-Asmaa Skareb.</a> 
+let us know that you're willing to apply and what project you'd like to work on and your motivation to come in an email to <a href="mailto:juan.ruiz@ulpgc.es?cc=marilola.afonso@ulpgc.es, asmaa.skareb@ulpgc.es&subject=ProjectWeek30_ErasmusMobility">
+Juan Ruiz Alzola, Maria Dolores Afonso Suarez, Asmaa Skareb.</a>
 
 2. In order to prepare the application:
 
