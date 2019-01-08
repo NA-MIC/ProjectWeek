@@ -4,7 +4,9 @@
 
 ## Updates and questions
 
-Visit [project-week](https://discourse.slicer.org/c/community/project-week) community on Slicer Forum to get latest updates on the event or ask any questions from organizers or other project week participants. To get notifications about new posts automatically, click on "Sign up" and then click on the circle button (next to "New Topic" button in the top-right) and choose "Watching".
+Visit [project-week](https://discourse.slicer.org/c/community/project-week) community on Slicer Forum to get latest updates on the event or ask any questions from organizers or other project week participants.
+
+To get notifications about new posts automatically, [sign in with Google, GitHub, Facebook, or email](https://discourse.slicer.org/login), go to [project-week](https://discourse.slicer.org/c/community/project-week) category page, click on the circle button near the top-right corner (next to "New Topic" button), and choose "Watching".
 
 <a name="Venue"/>
 
