@@ -21,6 +21,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 - **Location:** Las Palmas, Gran Canaria, Spain
 - [Venue and Hotel Information](Logistics.md#Venue)
 - [Registration](Logistics.md#Registration)
+- [Ask questions and get latest updates](Logistics.md#Updates)
 - [Frequently Asked Questions](Logistics.md#Faq)
 - [ERASMUS mobility information](Logistics.md#Erasmus)
 
