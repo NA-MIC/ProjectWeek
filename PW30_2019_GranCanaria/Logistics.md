@@ -1,13 +1,5 @@
 # Logistics
 
-<a name="Updates"/>
-
-## Updates and questions
-
-Visit [project-week](https://discourse.slicer.org/c/community/project-week) community on Slicer Forum to get latest updates on the event or ask any questions from organizers or other project week participants.
-
-To get notifications about new posts automatically, [sign in with Google, GitHub, Facebook, or email](https://discourse.slicer.org/login), go to [project-week](https://discourse.slicer.org/c/community/project-week) category page, click on the circle button near the top-right corner (next to "New Topic" button), and choose "Watching".
-
 <a name="Venue"/>
 
 ## Venue
@@ -38,6 +30,14 @@ Notes:
   - VAT: only needed if invoice for the institution is requested
 
 <a name="Erasmus"/>
+
+<a name="Updates"/>
+
+## Ask questions and get latest updates
+
+Visit [project-week](https://discourse.slicer.org/c/community/project-week) community on Slicer Forum to get latest updates on the event or ask any questions from organizers or other project week participants.
+
+To get notifications about new posts automatically, [sign in with Google, GitHub, Facebook, or email](https://discourse.slicer.org/login), go to [project-week](https://discourse.slicer.org/c/community/project-week) category page, click on the circle button near the top-right corner (next to "New Topic" button), and choose "Watching".
 
 ## ERASMUS mobility information
 
