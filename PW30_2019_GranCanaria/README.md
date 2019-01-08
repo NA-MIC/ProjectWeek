@@ -18,24 +18,14 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 ## [Logistics](Logistics.md)
 - **Dates:** January 28 - February 1, 2019.
-
 ## [Venue Information](Venue.md)
-
-## Registration 
-[https://www.fulp.es/na-mic-event-2019](https://www.fulp.es/na-mic-event-2019)
-
-- Registration Fee: €300 (pay by credit card in euros or US dollars, approximately $350)
-- Fill in contact info, passport number, and travel plans and then you will be taken to the payment page.
-
 ## [Frequently Asked Questions](FAQ.md)
 
 ## Preparatory Videoconferences
-
 - Zoom video conference: To join the videoconference, use [https://zoom.us/j/112427205](https://zoom.us/j/112427205)
 - Conference call notes: To access these, click [here](PreparatoryMeetingsNotes.md).
 
 ## Projects [(How to add a new project?)](Projects/README.md)
-
 <a name="ProjectsList"/>
 
 ### DICOM
