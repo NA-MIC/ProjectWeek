@@ -28,10 +28,6 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 - Zoom video conference: To join the videoconference, use [https://zoom.us/j/112427205](https://zoom.us/j/112427205)
 - Conference call notes: To access these, click [here](PreparatoryMeetingsNotes.md).
 
-## Program Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic%2FCanary&dates=20190128%2F20190201&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-How to add this calendar to your own?
-
 ## Projects [(How to add a new project?)](Projects/README.md)
 
 <a name="ProjectsList"/>
@@ -116,3 +112,8 @@ Do not add your name to this list - it is maintained by the organizers based on 
 ## Statistics
 
 (To be added during/after the event)
+
+## Program Calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic%2FCanary&dates=20190128%2F20190201&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+How to add this calendar to your own?
+
