@@ -19,7 +19,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 ## Logistics
 - **Dates:** January 28 - February 1, 2019.
 - **Location:** Las Palmas, Gran Canaria, Spain
-- [Venue andd Hotel Information](Logistics.md#Venue)
+- [Venue and Hotel Information](Logistics.md#Venue)
 - [Registration](Logistics.md#Registration)
 - [Frequently Asked Questions](Logistics.md#Faq)
 - [ERASMUS mobility information](Logistics.md#Erasmus)
