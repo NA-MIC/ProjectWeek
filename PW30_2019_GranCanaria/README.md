@@ -16,10 +16,13 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/) was held in this location as well, and captured in [photos](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing), and [coverage by the local media](../PW28_2018_GranCanaria/PW28InTheMedia.md).
 
-## [Logistics](Logistics.md)
+## Logistics
 - **Dates:** January 28 - February 1, 2019.
-## [Venue Information](Venue.md)
-## [Frequently Asked Questions](FAQ.md)
+- **Location:** Las Palmas, Gran Canaria, Spain
+- [Venue andd Hotel Information](Logistics.md#Venue)
+- [Registration](Logistics.md#Registration)
+- [Frequently Asked Questions](Logistics.md#Faq)
+- [ERASMUS mobility information](Logistics.md#Erasmus)
 
 ## Preparatory Videoconferences
 - Zoom video conference: To join the videoconference, use [https://zoom.us/j/112427205](https://zoom.us/j/112427205)
@@ -67,8 +70,9 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 ## Registrants
 
-### Registration so far (names will be added here after processing at the link above)
-Do not add your name to this list - it is maintained by the organizers based on your paid registration.
+Do not add your name to this list below. It is maintained by the organizers based on your paid registration. **[Click here to register.](Logistics.md#Registration)**
+
+List of registered participants so far (names will be added here after processing registrations):
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 1. Ron Kikinis - Brigham and Women's Hospital and Harvard Medical School - USA 
@@ -101,9 +105,13 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Maria Dolores Afonso Suárez (@MarilolaMACbioIDi)(marilola.afonso@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Yuri Ameida (yuri.almeida@m-iti.org) Madeira Madeira Interactive Technologies Institute - Portugal
 
+<!-- 
+
 ## Statistics
 
 (To be added during/after the event)
+
+-->
 
 ## Program Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic%2FCanary&dates=20190128%2F20190201&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
