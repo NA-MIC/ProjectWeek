@@ -21,6 +21,12 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 ## [Venue Information](Venue.md)
 
+## Registration 
+[https://www.fulp.es/na-mic-event-2019](https://www.fulp.es/na-mic-event-2019)
+
+- Registration Fee: €300 (pay by credit card in euros or US dollars, approximately $350)
+- Fill in contact info, passport number, and travel plans and then you will be taken to the payment page.
+
 ## [Frequently Asked Questions](FAQ.md)
 
 ## Preparatory Videoconferences
@@ -70,11 +76,6 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. New open atlas development (Mike Halle, Karl-Heinz Hoehne, others)
 
 ## Registrants
-
-**Registration:** [https://www.fulp.es/na-mic-event-2019](https://www.fulp.es/na-mic-event-2019)
-
-- Registration Fee: €300 (pay by credit card in euros or US dollars, approximately $350)
-- Fill in contact info, passport number, and travel plans and then you will be taken to the payment page.
 
 ### Registration so far (names will be added here after processing at the link above)
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
