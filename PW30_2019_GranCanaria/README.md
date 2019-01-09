@@ -36,7 +36,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. [DICOM for quantitative imaging](Projects/DICOMSEG/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper, James A. Petts)
 1. [Roundtrip conversion between DICOM SR and FHIR representations for imaging measurements](Projects/DICOMSRTID1500toFHIRandBack/README.md) (Hans Meine, Peter Oppermann, Andrey Fedorov)
 1. [Interoperability of DICOM SEG between cornerstonejs/vtkjs/dcmjs](Projects/DICOMSEG_CORNERSTONE_VTKJS/README.md) (James A. Petts, Erik Ziegler, Steve Pieper, Mete Akdogan, Emel Alkim)
-1. [DICOMweb server and custom database](Projects/DICOMweb-CouchDB/README.md) (Emel Alkim, Steve Pieper, Andrey Fedorov)
+1. [DICOMweb server and custom database](Projects/DICOMweb-CouchDB/README.md) (Emel Alkim, Steve Pieper, Andrey Fedorov, Markus Herrmann)
 
 ### GPU-accelerated processing
 
