@@ -40,11 +40,11 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 ### GPU-accelerated processing
 
-1. [GLSL shaders for custom volume rendering and image processing](Projects/GLSLShaders/README.md) (Simon Drouin, Kyle Sunderland, Steve Pieper, Andras Lasso)
+1. [GLSL shaders for custom volume rendering and image processing](Projects/GLSLShaders/README.md) (Kyle Sunderland, Steve Pieper, Andras Lasso)
 
 ### Image-guided therapy
 
-1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Simon Drouin, Kyle Sunderland, Andras Lasso)
+1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Kyle Sunderland, Andras Lasso)
 
 
 ### Segmentation
