@@ -64,7 +64,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 ### Open Anatomy
 
 1. Internationalizing TAViewer anatomy term viewer  (Mike Halle, others)
-1. NeuroNames brain nomenclature for the Slicer community (Mike Halle, Doug Bowden, Nikos Makris)
+1. NeuroNames and the Harvard Oxford Atlas (Mike Halle, Doug Bowden, Nikos Makris)
 1. [Pelvic Anatomy Atlases (male and female)](Projects/PelvicAnatomyAtlases/README.md) (Babacar Diao, Nayra Pumar, Xerach Suárez, Cheick Tidiane, Juan Ruiz-Alzola)
 1. New open atlas development (Mike Halle, Karl-Heinz Hoehne, others)
 
