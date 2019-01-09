@@ -109,7 +109,7 @@ List of registered participants so far (names will be added here after processin
 1. Sara Rolfe (smrolfe@uw.edu) - University of Washington - USA
 1. James Petts (james.petts@icr.ac.uk) - Istitute of Cancer Research - UK
 1. Marius Herrmann (mariusherrmann@hotmail.com) - Universität Bremen - Germany
-1. Joost van Griethuysen (@maastrichtuniversity.nl) - Netherlands
+1. Joost van Griethuysen (@maastrichtuniversity.nl) - Maastricht University - Netherlands
 1. Kevin Cleary (kcleary@childrensnational.org) - Sheikh Zayed Institute for Pediatric Surgical Innovation - Children's National - USA
 1. Emel Alkim (ealkim@stanford.edu) - Stanford University Department of Biomedical Data Science - Stanford University - USA
 
