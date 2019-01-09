@@ -79,6 +79,7 @@ List of registered participants so far (names will be added here after processin
 1. Steven Pieper (@pieper)(pieper@isomics.com) - Isomics, Inc. - USA
 1. Michael Halle (@mhalle)(mhalle@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA 
 1. Juan Ruiz Alzola (@jruizalz)(juan.ruiz@ulpgc.es) - University of Las Palmas de Gran Canaria / Instituto de Astrofísica de Canarias - Spain
+1. Juan Andrés Ramírez González (juanandres.ramirez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Nikolaos Makris (nikos@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Zora Kikinis (zora@bwh.harvard.edu) - Brigham and Women's Hospital - USA 
 1. Andras Lasso (@lassoan)(lasso@queensu.ca) - Queen’s University - Canada
