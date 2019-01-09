@@ -4,7 +4,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- [Simon Drouin](http://nist.mni.mcgill.ca/?page_id=369) (Montreal Neurological Institute, Canada)
 - [Andras Lasso](http://perk.cs.queensu.ca/users/lasso) (Queen's University, Canada)
 - [Kyle Sunderland](http://perk.cs.queensu.ca/users/sunderland) (Queen's University, Canada)
 
