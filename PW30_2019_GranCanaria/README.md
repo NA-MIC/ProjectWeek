@@ -111,6 +111,10 @@ List of registered participants so far (names will be added here after processin
 1. Joost van Griethuysen (@maastrichtuniversity.nl) - Maastricht University - Netherlands
 1. Kevin Cleary (kcleary@childrensnational.org) - Sheikh Zayed Institute for Pediatric Surgical Innovation - Children's National - USA
 1. Emel Alkim (ealkim@stanford.edu) - Stanford University Department of Biomedical Data Science - Stanford University - USA
+1. Hans Meine (meine@uni-bremen.de) - University of Bremen - Germany
+1. Kitti Farkas (fakuabt@gmail.com) - University of Szeged - Hungary
+1. Bence Horvath (horviratus@gmail.com) - University of Szeged - Hungary
+1. Endre Vecsernyés (vecsernyesendre@gmail.com) - University of Szeged - Hungary
 
 <!-- 
 
