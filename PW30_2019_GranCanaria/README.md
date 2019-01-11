@@ -115,6 +115,8 @@ List of registered participants so far (names will be added here after processin
 1. Kitti Farkas (fakuabt@gmail.com) - University of Szeged - Hungary
 1. Bence Horvath (horviratus@gmail.com) - University of Szeged - Hungary
 1. Endre Vecsernyés (vecsernyesendre@gmail.com) - University of Szeged - Hungary
+1. Jean-Jacques Lemaire (jjlemaire@chu-clermontferrand.fr) - Université Clermont Auvergne - France
+
 
 <!-- 
 
