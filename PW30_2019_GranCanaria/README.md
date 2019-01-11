@@ -34,13 +34,13 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 ### DICOM
 
 1. [DICOM for quantitative imaging](Projects/DICOMSEG/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper, James A. Petts)
-1. [Roundtrip conversion between DICOM SR and FHIR representations for imaging measurements](Projects/DICOMSRTID1500toFHIRandBack/README.md) (Hans Meine, Peter Oppermann, Andrey Fedorov)
-1. [Interoperability of DICOM SEG between cornerstonejs/vtkjs/dcmjs](Projects/DICOMSEG_CORNERSTONE_VTKJS/README.md) (James A. Petts, Erik Ziegler, Steve Pieper, Mete Akdogan, Emel Alkim)
+1. [Roundtrip conversion between DICOM SR and FHIR representations for imaging measurements](Projects/DICOMSRTID1500-FHIR/README.md) (Hans Meine, Peter Oppermann, Andrey Fedorov)
+1. [Interoperability of DICOM SEG between cornerstonejs/vtkjs/dcmjs](Projects/DICOMSEG-Cornerstone-VTKJS/README.md) (James A. Petts, Erik Ziegler, Steve Pieper, Mete Akdogan, Emel Alkim)
 1. [DICOMweb server and custom database](Projects/DICOMweb-CouchDB/README.md) (Emel Alkim, Steve Pieper, Andrey Fedorov, Markus Herrmann)
 
 ### Infrastrucure
 
-1. [Markups redesign and new markups for curve, line, and angle measurement]](Projects/MarkupsRedesign/README.md) (Andras Lasso, Sara Rolfe, Kyle Sunderland, Steve Pieper, Jean-Christophe Fillion-Robin)
+1. [Markups redesign and new markups for curve, line, and angle measurement](Projects/MarkupsRedesign/README.md) (Andras Lasso, Sara Rolfe, Kyle Sunderland, Steve Pieper, Jean-Christophe Fillion-Robin)
 1. [GLSL shaders for custom volume rendering and image processing](Projects/GLSLShaders/README.md) (Kyle Sunderland, Steve Pieper, Andras Lasso, Jean-Christophe Fillion-Robin)
 
 ### Image-guided therapy
@@ -51,20 +51,20 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 1. [Segment Editor use cases](Projects/SegmentEditor/README.md) (Andras Lasso)
 1. [Refining automatic segmentations from FreeSurfer in 3D Slicer](Projects/AutomSegmentFreeSurfer/README.md) (Nikos Makris, Juan-Andrés Ramírez-González, Yogesh Rathi, Nayra Pumar Carreras, Juan Ruiz Alzola)
-1. [Microscopy 3DSlicer Module](Projects/MICROSCOPY/README.md) (Aziza Elmahjoub, Abián Hernández-Guedes, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
+1. [Microscopy 3DSlicer Module](Projects/Microscopy/README.md) (Aziza Elmahjoub, Abián Hernández-Guedes, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 
 ### Education
 
 1. [Improve OpenAnatomy support in Slicer](Projects/OpenAnatomy/README.md) (Andras Lasso, Mike Halle, Steve Pieper)
 
-1. [New features for an ultrasound training system](Projects/US_SimulatorTrainingSystem/README.md) (José-Carlos Ruiz-Luque,  Guillermo Valentín Socorro-Marrero, Samba Diaw, Oumar Kane, Joseane Ferreira, Juan Ruiz-Alzola)
+1. [New features for an ultrasound training system](Projects/UltrasoundSimulatorTraining/README.md) (José-Carlos Ruiz-Luque,  Guillermo Valentín Socorro-Marrero, Samba Diaw, Oumar Kane, Joseane Ferreira, Juan Ruiz-Alzola)
 1. [3DSlicer Training Programs](Projects/TrainingPrograms/README.md) (GTMA group, Alexandra Fernandes Rodrigues, Ahmedou Moulaye Idriss, Yahya Tfeil, Mohamed Septy, Joseanne Alexandra Da Rosa De Pina Ferreira, Sonia Pujol)
 1. [3DSlicer Models for Brain Quiz](Projects/3DSlicerModelsforBrainQuiz/README.md) (Sergi Bermudez i Badia, Yuri Almeida, Abián Hernández-Guedes, Artemisa Moreno, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 
 ### Open Anatomy
 
 1. Internationalizing TAViewer anatomy term viewer  (Mike Halle, others)
-1. [NeuroNames and the Harvard Oxford Atlas](Projects/NeuroNamesandHOA/README.md)  (Mike Halle, Doug Bowden, Nikos Makris)
+1. [NeuroNames and the Harvard Oxford Atlas](Projects/NeuroNames-HOA/README.md)  (Mike Halle, Doug Bowden, Nikos Makris)
 1. [Pelvic Anatomy Atlases (male and female)](Projects/PelvicAnatomyAtlases/README.md) (Babacar Diao, Nayra Pumar, Xerach Suárez, Cheick Tidiane, Juan Ruiz-Alzola)
 1. New open atlas development (Mike Halle, Karl-Heinz Hoehne, others)
 
