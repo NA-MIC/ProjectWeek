@@ -6,13 +6,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Murat Maga (Seattle Children's Research Institute & University of Washington Dept. of Pediatrics)
 - Sara Rolfe (University of Washington Friday Harbor Laboratories)
+- Steve Pieper (Isomics)
 
 
 # Project Description
 This project aims to produce a flexible toolset for analysis of shape and form from image data using landmark-based Geometric Morphometric Methods (GMM). This toolset will be capable of handling a broad range of data and file types and will provide support for the full analysis workflow within 3D Slicer.
 
 ## Objective
-
 
 1. Develop a Slicer extension with modules to support each task in the shape analysis workflow from image import through visualization of statistical output.
 
@@ -49,3 +49,4 @@ This project aims to produce a flexible toolset for analysis of shape and form f
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+- Coordinate with [SlicerSALT](http://salt.slicer.org/)
