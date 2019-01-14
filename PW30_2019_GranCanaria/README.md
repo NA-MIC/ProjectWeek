@@ -119,6 +119,8 @@ List of registered participants so far (names will be added here after processin
 1. Attila Nagy (nagy.attila@med.u-szeged.hu) - Faculty of Medicine, University of Szeged - Hungary
 1. Jean-Jacques Lemaire (jjlemaire@chu-clermontferrand.fr) - Université Clermont Auvergne - France
 1. Markus Herrmann (mdherrmann@partners.org) - MGH & BWH Center for Clinical Data Science - USA
+1. Sandra Siegel (sandra.siegel@mevis.fraunhofer.de) - Fraunhofer MEVIS - Germany
+1. Peter Oppermann (peter.oppermann@mevis.fraunhofer.de) - Fraunhofer MEVIS - Germany
 
 <!-- 
 
