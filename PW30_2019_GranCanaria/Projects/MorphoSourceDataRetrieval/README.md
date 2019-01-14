@@ -38,10 +38,10 @@ MorphoSource (M/S) is a publicly available repository for 3D media representing 
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
+<!-- Add pictures and links to videos that demonstrate what has been accomplished.-->
 ![Screenshot of M/S volume and CSV metadata spreadsheet imported into Slicer](MSI.png)
 
--->
+
 
 # Background and References
 
