@@ -36,11 +36,11 @@ Microscopy image. Histological sections of regenerated skin after injury.
 
 <img src="Figure2.png" width="242" height="144">
 
-Thresholding method.
+Thresholding method
 
 <img src="Figure3.png" width="242" height="144">
 
-Watershed transformation.
+Watershed transformation
 
 ## Background and References
 
