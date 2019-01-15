@@ -121,6 +121,7 @@ List of registered participants so far (names will be added here after processin
 1. Markus Herrmann (mdherrmann@partners.org) - MGH & BWH Center for Clinical Data Science - USA
 1. Sandra Siegel (sandra.siegel@mevis.fraunhofer.de) - Fraunhofer MEVIS - Germany
 1. Peter Oppermann (peter.oppermann@mevis.fraunhofer.de) - Fraunhofer MEVIS - Germany
+1. Houssem Gueziri (houssem.gueziri@mcgill.ca) - Montreal Neurological Institute - Canada
 
 <!-- 
 
