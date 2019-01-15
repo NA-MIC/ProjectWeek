@@ -41,5 +41,5 @@ We are planning to collect information about best practices to use different too
 + [SliceTracker](https://slicerprostate.gitbooks.io/slicetracker/)
 + [SlicerIGT](http://www.slicerigt.org/wp/)
 + [OpenIGTLink](http://openigtlink.org/)
-+ [SlicerDevelopmentToolbox](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/SlicerDevelopmentToolbox)
++ [SlicerDevelopmentToolbox](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/SlicerDevelopmentToolbox), and [Documentation](https://sdt.readthedocs.io/en/latest/index.html)
 
