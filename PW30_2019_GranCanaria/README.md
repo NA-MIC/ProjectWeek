@@ -124,6 +124,7 @@ List of registered participants so far (names will be added here after processin
 1. Peter Oppermann (peter.oppermann@mevis.fraunhofer.de) - Fraunhofer MEVIS - Germany
 1. Houssem Gueziri (houssem.gueziri@mcgill.ca) - Montreal Neurological Institute - Canada
 1. Jasmin Metzger (jasmin.metzger@dkfz-heidelberg.de) - German Cancer Research Center - Germany
+1. Francisco José Marcano Serrano (fmarcano@ull.edu.es) - Universidad de la Laguna - Spain
 
 
 <!-- 
