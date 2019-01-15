@@ -9,6 +9,7 @@ Back to [Projects List](../README.md#ProjectsList)
 - Nayra Pumar (ULPGC – GTMA - MACbioIDi)
 -	Xerach Suárez (ULPGC – GTMA - MACbioIDi)
 -	Cheick Tidiane (Centre Hospitalier National Fann Dakar)
+- Abdulaye Ndiaye (Université Cheikh Anta Diop)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
 
