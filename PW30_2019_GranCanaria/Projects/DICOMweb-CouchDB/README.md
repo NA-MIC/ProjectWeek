@@ -25,6 +25,7 @@ This project aims to work on a prototype lightweight DICOM server that will supp
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Review and define project ideas
+    1. Consider how to encapsulate DICOMweb logic so that it facilitates use in servers, but also in testing and other scenarios
     1. Define a reasonable subset of DICOMweb that can be supported easily (at least basic QIDO/WADO/STOW RS)
     1. Pick a nice web server infastructure that can easily implement rest api proxies 
         1. maybe build on [express/pouchdb-server](https://github.com/pouchdb/pouchdb-server)
