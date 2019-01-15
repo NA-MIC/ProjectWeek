@@ -58,7 +58,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 ### Education
 
 1. [Improve OpenAnatomy support in Slicer](Projects/OpenAnatomy/README.md) (Andras Lasso, Mike Halle, Steve Pieper)
-1. [New features for an ultrasound training system](Projects/UltrasoundSimulatorTraining/README.md) (José-Carlos Ruiz-Luque,  Guillermo Valentín Socorro-Marrero, Samba Diaw, Oumar Kane, Joseane Ferreira, Juan Ruiz-Alzola)
+1. [New features for an ultrasound training system](Projects/UltrasoundSimulatorTraining/README.md) (José-Carlos Ruiz-Luque,  Guillermo Valentín Socorro-Marrero, Sambaw Diaw, Oumar Kane, Joseane Ferreira, Juan Ruiz-Alzola)
 1. [3DSlicer Training Programs](Projects/TrainingPrograms/README.md) (GTMA group, Alexandra Fernandes Rodrigues, Ahmedou Moulaye Idriss, Yahya Tfeil, Mohamed Septy, Joseanne Alexandra Da Rosa De Pina Ferreira, Sonia Pujol)
 1. [3DSlicer Models for Brain Quiz](Projects/3DSlicerModelsforBrainQuiz/README.md) (Sergi Bermudez i Badia, Yuri Almeida, Abián Hernández-Guedes, Artemisa Moreno, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 
@@ -98,7 +98,8 @@ List of registered participants so far (names will be added here after processin
 1. Babacar Diao (babacardiao104uro@yahoo.fr) - Ecole Militaire de Santé Dakar -Senegal 
 1. Cheikh Tidiane Diop (chtdiop81@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal
 1. Oumar Kane (droumarkane@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal 
-1. Samba Diao (samba.diaw@esp.sn) - Université Cheikh Anta Diop - Senegal
+1. Samba Diaw (samba.diaw@esp.sn) - Université Cheikh Anta Diop - Senegal
+1. Abdulaye Ndiaye () - Université Cheikh Anta Diop - Senegal
 1. José-Carlos Ruiz-Luque (@carlos-luque)(carlos.luque@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Nayra Pumar Carreras (nayra.pumar@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Guillermo Valentín Socorro Marrero (@gvsocorro)(guillermo.socorro@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
