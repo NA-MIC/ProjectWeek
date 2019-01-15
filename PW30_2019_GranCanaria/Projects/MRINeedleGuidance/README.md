@@ -12,19 +12,20 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-<!-- MRI guided devices have been designed for biopsies or other interventions. 
-The aim is to adapt Slicer for MR-guided needle placement procedures using MRI compatible robots. -->
+MRI guided devices have been designed for biopsies or other interventions. 
+The aim is to adapt Slicer for MR-guided needle placement procedures using MRI compatible robots.
 
 ## Objective
 
-<!-- we are planning to collect information about best practices to use different toolboxes or modules at Slicer. -->
+We are planning to collect information about best practices to use different toolboxes or modules at Slicer.
 
-1. Understand how SlicerIGT, OpenIGTLink, SlicerDevelopementToolbox works
-2. Make Implementation decisions based on these
+1. Understand how SliceTracker, SlicerIGT, OpenIGTLink, SlicerDevelopementToolbox works
+1. Make Implementation decisions based on these
 
 ## Approach and Plan
 
-<!--  -->
+1. Meet with developers with relevant experience
+1. Collect list of potential issues and solutions, best practices, and pointers to reusable code.
 
 
 ## Progress and Next Steps
@@ -37,5 +38,8 @@ The aim is to adapt Slicer for MR-guided needle placement procedures using MRI c
 -->
 
 # Background and References
++ [SliceTracker](https://slicerprostate.gitbooks.io/slicetracker/)
++ [SlicerIGT](http://www.slicerigt.org/wp/)
++ [OpenIGTLink](http://openigtlink.org/)
++ [SlicerDevelopmentToolbox](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/SlicerDevelopmentToolbox)
 
-<!--  -->
