@@ -76,7 +76,7 @@ Do not add your name to this list below. It is maintained by the organizers base
 List of registered participants so far (names will be added here after processing registrations):
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
-1. Ron Kikinis - Brigham and Women's Hospital and Harvard Medical School - USA 
+1. Ron Kikinis (@rkikinis) - Brigham and Women's Hospital and Harvard Medical School - USA 
 1. Steven Pieper (@pieper)(pieper@isomics.com) - Isomics, Inc. - USA
 1. Michael Halle (@mhalle)(mhalle@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA 
 1. Juan Ruiz Alzola (@jruizalz)(juan.ruiz@ulpgc.es) - University of Las Palmas de Gran Canaria / Instituto de Astrofísica de Canarias - Spain
@@ -123,7 +123,7 @@ List of registered participants so far (names will be added here after processin
 1. Sandra Siegel (sandra.siegel@mevis.fraunhofer.de) - Fraunhofer MEVIS - Germany
 1. Peter Oppermann (peter.oppermann@mevis.fraunhofer.de) - Fraunhofer MEVIS - Germany
 1. Houssem Gueziri (houssem.gueziri@mcgill.ca) - Montreal Neurological Institute - Canada
-1. Jasmis Metzger (jasmin.metzger@dkfz-heidelberg.de) - German Cancer Research Center - Germany
+1. Jasmin Metzger (jasmin.metzger@dkfz-heidelberg.de) - German Cancer Research Center - Germany
 
 
 <!-- 
