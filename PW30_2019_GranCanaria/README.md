@@ -46,7 +46,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 ### Image-guided therapy
 
-1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Kyle Sunderland, Andras Lasso)
+1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Kyle Sunderland, Andras Lasso, Houssem Gueziri)
 
 ### Segmentation and Quantification
 
