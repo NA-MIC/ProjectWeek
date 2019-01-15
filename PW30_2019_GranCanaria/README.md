@@ -47,6 +47,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 ### Image-guided therapy
 
 1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Kyle Sunderland, Andras Lasso, Houssem Gueziri)
+1. [MR Robot Needle Guidance](Projects/MRINeedleGuidance/README.md) (Eleni Siampli, Steve Pieper, Kevin Cleary)
 
 ### Segmentation and Quantification
 
