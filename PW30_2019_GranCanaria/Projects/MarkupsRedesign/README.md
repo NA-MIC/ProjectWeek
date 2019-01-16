@@ -51,6 +51,6 @@ Plan is to integrate the reworked markups infrastructure and new markups during 
 
 # Background and References
 
-- Labs page: https://slicer.org/wiki/Documentation/Labs/Improving_Markups
-- Previous discussions: https://discourse.slicer.org/t/markups-for-angle-line-and-closed-open-spline/4729
-- Draft implementation from vovythevov: https://github.com/Slicer/Slicer/pull/1010
+- [Labs page](https://slicer.org/wiki/Documentation/Labs/Improving_Markups)
+- [Previous discussions](https://discourse.slicer.org/t/markups-for-angle-line-and-closed-open-spline/4729)
+- [Draft implementation from vovythevov](https://github.com/Slicer/Slicer/pull/1010)
