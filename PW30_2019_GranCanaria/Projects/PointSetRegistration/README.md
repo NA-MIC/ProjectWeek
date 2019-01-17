@@ -45,7 +45,7 @@ you could not complete then you can describe them here, too. -->
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-![Point set registration example](https://en.wikipedia.org/wiki/Point_set_registration#/media/File:Cpd_fish_nonrigid.gif)
+![Point set registration example from a blue point set M to the red point set S](https://upload.wikimedia.org/wikipedia/commons/b/b2/Cpd_fish_nonrigid.gif)
 
 # Background and References
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data,
