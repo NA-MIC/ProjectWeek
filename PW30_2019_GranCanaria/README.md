@@ -48,6 +48,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Kyle Sunderland, Andras Lasso, Houssem Gueziri)
 1. [MR Needle Guidance Software](Projects/MRINeedleGuidance/README.md) (Eleni Siampli, Steve Pieper, Kevin Cleary, Andras Lasso, Andrey Fedorov)
+1. [Data-glove for virtual operations](Projects/Data-glove_for_virtual_operations/README.md) (Endre Vecsernyés, Attila Nagy, ...)
 
 ### Segmentation and Quantification
 
