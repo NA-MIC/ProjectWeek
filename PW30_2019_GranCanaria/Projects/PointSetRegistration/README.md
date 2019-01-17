@@ -37,7 +37,7 @@ as a point cloud.
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that 
 you could not complete then you can describe them here, too. -->
 
-1. TODO
+* TODO
 
 # Illustrations
 
@@ -45,8 +45,11 @@ you could not complete then you can describe them here, too. -->
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+Point set registration example from a blue point set M to the red point set S:
 ![Point set registration example from a blue point set M to the red point set S](https://upload.wikimedia.org/wikipedia/commons/b/b2/Cpd_fish_nonrigid.gif)
 
 # Background and References
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data,
 and to any relevant publications. -->
+
+* TODO
