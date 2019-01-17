@@ -6,7 +6,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - María Armas López-de-Vergara (MACbioIDi)
 - Abián Hernández-Guedes (ULPGC - GTMA - MACbioIDi)
-- Guillermo Valentín Socorro-Marrero (ULPGC - GTMA - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
 # Project Description
