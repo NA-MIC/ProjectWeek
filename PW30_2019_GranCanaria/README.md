@@ -48,6 +48,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Kyle Sunderland, Andras Lasso, Houssem Gueziri)
 1. [MR Needle Guidance Software](Projects/MRINeedleGuidance/README.md) (Eleni Siampli, Steve Pieper, Kevin Cleary, Andras Lasso, Andrey Fedorov)
+1. [Automatic segmentation using neuronal networks](Projects/Automatic segmentation using neuronal networks/README.md)(Bence Horvath, Attila Nagy, Kitti Farkas, Endre Vecsernyes)
 
 ### Segmentation and Quantification
 
