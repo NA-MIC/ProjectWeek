@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Davide Punzo (remotely)
+- [Davide Punzo](http://www.davidepunzo.com/) (remotely)
 - [Andras Lasso](http://perk.cs.queensu.ca/users/lasso) (Queen's University, Canada)
 - Sara Rolfe (University of Washington, USA)
 - [Kyle Sunderland](http://perk.cs.queensu.ca/users/sunderland) (Queen's University, Canada)
@@ -31,7 +31,11 @@ Plan is to integrate the reworked markups infrastructure and new markups during 
 
 ## Progress and Next Steps
 
-- Davide Punzo has reworked markup point list widget and added angle, line, and curve widgets
+- Davide Punzo has reworked markup point list widget:
+  https://github.com/Slicer/Slicer/pull/1079 
+  https://www.dropbox.com/s/p8v1m7mgopsnrp4/Widget-rework.mkv?dl=0
+  
+  and added angle, line, and curve widgets.
 
 ### Result
 
