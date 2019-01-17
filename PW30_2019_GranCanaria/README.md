@@ -48,7 +48,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Kyle Sunderland, Andras Lasso, Houssem Gueziri)
 1. [MR Needle Guidance Software](Projects/MRINeedleGuidance/README.md) (Eleni Siampli, Steve Pieper, Kevin Cleary, Andras Lasso, Andrey Fedorov)
-
+1. [Upper airway segmentation and airflow simulation](Projects/Upper airway segmentation and airflow simulation/README.md) (Kitti Farkas, Attila Nagy, Bence Horváth, Endre Vecsernyés, Andras Lasso)
 ### Segmentation and Quantification
 
 1. [Segment Editor use cases](Projects/SegmentEditor/README.md) (Andras Lasso)
