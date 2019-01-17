@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Sometimes unknown file formats are encountered. There are free tools to handle these (eg. try to guess the bit depth, X and Y resolution, etc) but it is currently not possible from within Slicer.
+Sometimes unknown file formats are encountered that contain images. There are free tools to handle these (eg. try to guess the bit depth, X and Y resolution, etc) but it is currently not possible from within Slicer.
 
 ## Objective
 
