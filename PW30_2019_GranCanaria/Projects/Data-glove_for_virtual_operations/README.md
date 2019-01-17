@@ -6,7 +6,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Endre Vecsernyés (University of Szeged)
 - Attila Nagy (University of Szeged)
-- TBA...
+- Kitti Farkas (University of Szeged)
+- Bence Horvath (University of Szeged)
+- ...
 
 # Project Description
 
