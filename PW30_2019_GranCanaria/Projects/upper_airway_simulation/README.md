@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Bence Horváth (University of Szeged)
 - Endre Vecsernyés (University of Szeged)
 - Andras Lasso (Queen’s University, Canada)
+- Jean-Christophe Fillion-Robin (Kitware Inc.)
  
 # Project Description
 
