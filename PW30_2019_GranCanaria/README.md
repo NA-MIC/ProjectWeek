@@ -71,6 +71,9 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. [Pelvic Anatomy Atlases (male and female)](Projects/PelvicAnatomyAtlases/README.md) (Babacar Diao, Nayra Pumar, Xerach Suárez, Cheick Tidiane, Abdulaye Ndiaye, Juan Ruiz-Alzola)
 1. New open atlas development (Mike Halle, Karl-Heinz Hoehne, others)
 
+### Registration
+
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your paid registration. **[Click here to register.](Logistics.md#Registration)**
