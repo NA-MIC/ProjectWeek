@@ -32,7 +32,9 @@ Plan is to integrate the reworked markups infrastructure and new markups during 
 ## Progress and Next Steps
 
 - Davide Punzo has reworked markup point list widget:
+
   https://github.com/Slicer/Slicer/pull/1079 
+
   https://www.dropbox.com/s/p8v1m7mgopsnrp4/Widget-rework.mkv?dl=0
   
   and added angle, line, and curve widgets.
