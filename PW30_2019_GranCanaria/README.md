@@ -40,7 +40,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 ### Infrastructure
 
-1. [Markups redesign and new markups for curve, line, and angle measurement](Projects/MarkupsRedesign/README.md) (Andras Lasso, Sara Rolfe, Kyle Sunderland, Steve Pieper, Jean-Christophe Fillion-Robin)
+1. [Markups redesign and new markups for curve, line, and angle measurement](Projects/MarkupsRedesign/README.md) (DAvide Punzo, Andras Lasso, Sara Rolfe, Kyle Sunderland, Steve Pieper, Jean-Christophe Fillion-Robin)
 1. [GLSL shaders for custom volume rendering and image processing](Projects/GLSLShaders/README.md) (Kyle Sunderland, Steve Pieper, Andras Lasso, Jean-Christophe Fillion-Robin)
 1. [MorphoSource and Data Retrieval](Projects/MorphoSourceDataRetrieval/README.md) (Sara Rolfe, Steve Pieper, Murat Maga (remote), Doug Boyer (remote), Julie Winchester (remote))
 
