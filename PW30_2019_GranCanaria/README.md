@@ -72,6 +72,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. New open atlas development (Mike Halle, Karl-Heinz Hoehne, others)
 
 ### Registration
+1. [Point set registration](Projects/PointSetRegistration/README.md) (María Armas López-de-Vergara, Abián Hernández-Guedes, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola)
 
 
 ## Registrants
