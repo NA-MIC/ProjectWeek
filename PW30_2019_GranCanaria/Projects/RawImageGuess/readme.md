@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - [Attila Nagy](http://www.klinikaikozpont.u-szeged.hu/orl/index.php/hu/munkatarsak) (SZTE Medical School, Hungary)
 - [Csaba Pinter](http://perk.cs.queensu.ca/users/pinter) (Queen's University, Canada)
-- [Steve Pieper] (Isomics Inc.)
+- [Steve Pieper] (http://isomics.com) (Isomics Inc.)
 - whoever wants to join/has ideas/has some time... :)
 
 # Project Description
