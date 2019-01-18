@@ -96,6 +96,7 @@ List of registered participants so far (names will be added here after processin
 1. Sonia Pujol (spujol@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Gabor Fichtinger (gabor@cs.queensu.ca) - Queen’s University - Canada
 1. Andrey Fedorov ([@fedorov](https://github.com/fedorov)) (andrey.fedorov@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - USA 
+1. Jean-Christophe Fillion-Robin (@jcfr)(jchris.fillionr@kitware.com) - Kitware Inc. - USA
 1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
 1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
 1. Yayha Ould Tfeil (tefeil2000@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
