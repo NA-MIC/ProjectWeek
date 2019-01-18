@@ -46,5 +46,5 @@ MorphoSource (M/S) is a publicly available repository for 3D media representing 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-https://github.com/Slicer/Slicer/pull/1071
-A video demo of the current state is here: https://youtu.be/t8Dj3rOmt78
++ WebWidget enhancement source code https://github.com/Slicer/Slicer/pull/1071
++ A video demo of the current state is here: https://youtu.be/t8Dj3rOmt78
