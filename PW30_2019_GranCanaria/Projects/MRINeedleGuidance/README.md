@@ -42,8 +42,11 @@ Body mounted robot - stydy for respiratory motion study
 
 GUI for MR-needle guidance
 ![image1](img3.PNG)
-<!-- 
--->
+
+# Publications
+Development of a shoulder-mounted robot for MRI-guided needle placement
+
+(https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/MRINeedleGuidance/Monfaredi2018_Article_DevelopmentOfAShoulder-mounted.pdf)
 
 # Background and References
 + [SliceTracker](https://slicerprostate.gitbooks.io/slicetracker/)
