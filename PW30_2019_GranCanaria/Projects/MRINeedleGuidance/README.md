@@ -4,8 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Eleni Siampli (SZI - Children's National)
 - Kevin Cleary (SZI - Children's National)
+- Eleni Siampli (SZI - Children's National)
 - Steve Pieper (Isomics)
 - Andras Lasso (Queen's University, Canada)
 - Andrey Fedorov (BWH)
