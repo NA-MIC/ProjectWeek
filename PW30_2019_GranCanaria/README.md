@@ -135,6 +135,7 @@ List of registered participants so far (names will be added here after processin
 1. Jonas Scherer (jonas.scherer@dkfz.de) - Deutsches Krebsforschungszentrum (DKFZ) - Germany
 1. Eleni Siampli (esiampli@childrensnational.org) - Sheikh Zayed Institute for Pediatric Surgical Innovation - Children's National 
 1. Scheherazade Kraß (krass@uni-bremen.de) - University of Bremen - Germany
+1. Marco Nolden (M.Nolden@Dkfz-Heidelberg.de) - German Cancer Research Center (DKFZ) - Germany
 
 <!-- 
 
