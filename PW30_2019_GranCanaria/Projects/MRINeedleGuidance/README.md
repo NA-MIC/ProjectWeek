@@ -34,6 +34,14 @@ We are planning to collect information about best practices to use different too
 
 # Illustrations
 
+Prototype of the robot
+![image1](img1.PNG)
+
+Body mounted robot - stydy for respiratory motion study
+![image1](img2.PNG)
+
+GUI for MR-needle guidance
+![image1](img3.PNG)
 <!-- 
 -->
 
