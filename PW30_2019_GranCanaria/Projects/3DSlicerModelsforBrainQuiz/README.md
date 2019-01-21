@@ -28,7 +28,7 @@ This proposal is a joint collaboration work: [M-ITI](https://www.m-iti.org/) and
 
 1. To consult with an anatomist the design of the quiz.
 1. To design the quiz with different difficulty levels.
-1. To study the use of the Intel RealSense as set to interact with.
+1. To study the use of the Intel RealSense and digital tablets as tools to interact with.
 
 ## Progress and Next Steps
 
