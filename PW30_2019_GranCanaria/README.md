@@ -139,7 +139,7 @@ List of registered participants so far (names will be added here after processin
 1. Scheherazade Kraß (krass@uni-bremen.de) - University of Bremen - Germany
 1. Marco Nolden (M.Nolden@Dkfz-Heidelberg.de) - German Cancer Research Center (DKFZ) - Germany
 1. Douglas Bowden (dmbowden@uw.edu) - University of Washington School of Medicine - USA
-l. Tobias Stein (t.stein@dkfz-heidelberg.de) - Deutsches Krebsforschungszentrum (DKFZ) - Germany
+1. Tobias Stein (t.stein@dkfz-heidelberg.de) - Deutsches Krebsforschungszentrum (DKFZ) - Germany
 
 <!-- 
 
