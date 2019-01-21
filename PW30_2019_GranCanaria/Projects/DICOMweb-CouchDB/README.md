@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Steve Pieper (Isomics)
 - Andrey Fedorov (BWH) - interested to deploy and test the resulting platform
 - Markus Herrmann (CCDS)
+- Tobias Stein (DKFZ)
 
 # Project Description
 

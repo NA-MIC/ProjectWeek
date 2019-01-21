@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Hans Meine (Fraunhofer MEVIS)
 - Peter Oppermann (Fraunhofer MEVIS)
 - Andrey Fedorov (BWH)
+- Tobias Stein (DKFZ)
 
 # Project Description
 
