@@ -190,8 +190,6 @@ Do not add your name to this list - it is maintained by the organizers based on 
 
 58 Registrants, from around 20 different nationalities, from 25 institutions, from 14 countries, from 3 continents  :-)
 
-<p><iframe src="//es.batchgeo.com/map/381b660baf8e3ccc6581a25cbf0a9bde" frameborder="0" width="100%" height="550" style="border:1px solid #aaa;"></iframe></p><p><small>View <a href="https://es.batchgeo.com/map/381b660baf8e3ccc6581a25cbf0a9bde">PW28 Registrants list</a> in a full screen map</small></p>
-
 Working in 31 joint projects from 6 different categories
 
 <img src="Projects.png" width="800" height="300">
