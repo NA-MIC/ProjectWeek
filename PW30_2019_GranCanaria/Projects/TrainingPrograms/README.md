@@ -20,7 +20,7 @@ The training project is, in this 30PW, in its third edition. New clinician profe
 ## Objectives
 
 1. To create new contents.
-1. To study the development of a template to create new applications.
+1. To study how to implement these contents in the training progams of each country, adapting them to the students' profile.
 
 
 ## Approach and Plan
