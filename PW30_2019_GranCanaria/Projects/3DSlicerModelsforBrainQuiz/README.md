@@ -1,6 +1,6 @@
 Back to [Projects List](../README.md#ProjectsList)
 
-# 3DSlicer Models for Brain Quiz
+# 3DSlicer Models for Brain Quiz - Serious Games
 
 ## Key Investigators
 
