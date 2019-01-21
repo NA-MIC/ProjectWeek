@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Automatic Segmentation Using Neuronal Networks
+# Automatic Segmentation Using Neural Networks
 
 ## Key Investigators
 
@@ -13,7 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-We want to implement an automatic segmentation program to get the upper region of arways in CT images. We have approximately 40 CT image of the neck in Dicom files, that we have to segmented for the training. For medical or biological imagages is  very usefull solution the U-net, that is a special type of neuronal networks. It has a big advantge, that it needs not to much images (~30-50 piece).
+We want to implement an automatic segmentation program to get the upper region of airways in CT images. We have approximately 40 CT images of the neck in DICOM files, that we have to segmented for the training. For medical or biological images is  very useful solution the U-net, that is a special type of neural networks. It has a big advantge, that it doesn't need too much images (~30-50 piece).
 
 ## Objective
 
@@ -33,10 +33,10 @@ We want to implement an automatic segmentation program to get the upper region o
 
 # Illustrations
 Keras, a neural network package in python:
-https://keras.io/
+https://keras.io/ 
 
 The U-net:
-https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 <!--![Description of picture](Example2.jpg)-->
