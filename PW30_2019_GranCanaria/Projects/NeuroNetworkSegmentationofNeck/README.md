@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Automatic Segmentation Using Neuronal Networks
+# Automatic Segmentation Using Neural Network
 
 ## Key Investigators
 
@@ -13,12 +13,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-We want to implement an automatic segmentation program to get the upper region of arways in CT images. We have approximately 40 CT image of the neck in Dicom files, that we have to segmented for the training. For medical or biological imagages is  very usefull solution the U-net, that is a special type of neuronal networks. It has a big advantge, that it needs not to much images (~30-50 piece).
+We want to implement a neural network based algorithm to segment automatically the upper region of airways in CT images. We have approximately non segmented 40 CT images of the neck in DICOM files, from them we have to segment the airways for the training. For medical or biological images is  a great solution the U-net, that is a special type of neural networks. To compare with other neural nethwork based algorithms, U-net doesn't need a large dataset (~30-40 images enough).
 
 ## Objective
 
 1. Objective A. Making a training data set (~30-40 images). Find a quickly and precise way to segment the upper airways in 3D Slicer.
-1. Objective B. Make a baseline U-net, in python programing langauge whit this dataset.
+1. Objective B. Make a baseline U-net, in Python whit this dataset.
 1. Objective C. Testing the program.
 
 ## Approach and Plan
