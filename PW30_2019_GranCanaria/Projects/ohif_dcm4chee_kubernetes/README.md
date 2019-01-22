@@ -30,9 +30,73 @@ The aim of this project is to provide a simple environment in which a PACS (Dcm4
 
 ## Progress and Next Steps
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Andrey attempted to reproduce the minikube based setup from Erik, unsuccessfully:
+
+I've been working on this on and off, but so far with limited
+success. It seems like the minikube thing is not quite stable. The
+first time I went through the steps, I was able to get all the way to
+the step to start "minikube dashboard", and indeed could see "pods
+going live" slowly, but at some point dashboard stopped responding,
+and attempts to restart it didn't work (nothing happening when trying
+"minikube dashboard" from the console).
+
+Then I tried to restart minikube, and got error:
+
+```shell
+Machine exists, restarting cluster components...
+E0111 17:27:45.646056    4826 start.go:349] Error restarting cluster:
+restarting kube-proxy: updating configmap: Put
+https://192.168.99.100:8443/api/v1/namespaces/kube-system/configmaps/kube-proxy:
+http2: server sent GOAWAY and closed the connection; LastStreamID=5,
+ErrCode=NO_ERROR, debug=""; some request body already written
+================================================================================
+An error has occurred. Would you like to opt in to sending anonymized crash
+information to minikube to help prevent future errors?
+To opt out of these messages, run the command:
+minikube config set WantReportErrorPrompt false
+================================================================================
+```
+
+I then tried to restart it the next day, and restart worked, but when
+I did "kubectl apply", I got a bunch of those below:
+
+```shell
+$ kubectl apply -f ./
+service "crowds-cure-cancer-service" unchanged
+deployment.apps "crowds-cure-cancer" unchanged
+service "dcm4chee-service" unchanged
+deployment.apps "dcm4chee" unchanged
+deployment.extensions "default-http-backend" created
+service "default-http-backend" created
+service "elasticsearch-service" unchanged
+deployment.apps "elasticsearch" unchanged
+namespace "ingress-nginx" configured
+service "ingress-nginx" unchanged
+service "keycloak-proxy-kibana-service" unchanged
+Error from server (Timeout): error when retrieving current configuration of:
+&{0xc420193080 0xc4202d5340 default keycloak-proxy-kibana
+keycloak-proxy-kibana.yaml 0xc4200983c0  false}
+from server for: "keycloak-proxy-kibana.yaml": the server was unable
+to return a response in the time allotted, but may still be processing
+the request (get deployments.apps keycloak-proxy-kibana)
+Error from server (Timeout): error when retrieving current configuration of:
+&{0xc420090840 0xc420354fc0 default keycloak-service keycloak.yaml
+0xc420bb0668  false}
+from server for: "keycloak.yaml": the server was unable to return a
+response in the time allotted, but may still be processing the request
+(get services keycloak-service)
+error when retrieving current configuration of:
+&{0xc420090300 0xc420415dc0 default keycloak keycloak.yaml 0xc420bb0038  false}
+from server for: "keycloak.yaml": Get
+https://192.168.99.100:8443/apis/apps/v1beta1/namespaces/default/deployments/keycloak:
+dial tcp 192.168.99.100:8443: getsockopt: connection refused
+```
+
+and again "minikube dashboard" has no effect. Does this mean minikube died?
+
+Am I missing something basic in the setup or steps, or is minikube an
+experimental thing that is not really intended to run on a mac? What
+platform did you use to test those steps? I am on macOS 10.14.2.
 
 # Illustrations
 
