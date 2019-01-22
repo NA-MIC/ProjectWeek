@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - [Andras Lasso](http://perk.cs.queensu.ca/users/lasso) (Queen's University, Canada)
+- [Scheherazade Kraß](http://www.mic.uni-bremen.de/cmt-management-team/scheherazade-kras/) (University of Bremen, Germany)
 - Anybody with questions and suggestions for image segmentation
 
 # Project Description
