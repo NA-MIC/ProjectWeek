@@ -35,7 +35,9 @@ We built a data-glove that tracks hand movements. Our goal is to connect it to S
 
 ![The glove](glove.jpg)
 
-![Arduino and the IMU](hardware.jpg)
+![Arduino and the IMU](hardware1.jpg)
+
+![The IMU's other side](hardware2.jpg)
 
 # Background and References
 
