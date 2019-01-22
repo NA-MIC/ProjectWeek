@@ -25,8 +25,15 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 - [ERASMUS mobility information](Logistics.md#Erasmus)
 
 ## Preparatory Videoconferences
+<table><tr>
+    <td>
+        <img src=zoom-photo.png>
+    </td>
+    <td>
 - Zoom video conference: To join the videoconference, use [https://zoom.us/j/112427205](https://zoom.us/j/112427205)
 - Conference call notes: To access these, click [here](PreparatoryMeetingsNotes.md).
+    </td>
+</tr></table>
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 <a name="ProjectsList"/>
