@@ -59,6 +59,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. [MorphoSource and Data Retrieval](Projects/MorphoSourceDataRetrieval/README.md) (Sara Rolfe, Steve Pieper, Murat Maga (remote), Doug Boyer (remote), Julie Winchester (remote))
 1. [Raw Image Read and Display](Projects/RawImageGuess/README.md) (Attila Nagy, Csaba Pintér (remote), Steve Pieper)
 1. [OHIF and DCM4CHEe within Kubernetes](Projects/ohif_dcm4chee_kubernetes/README.md) (Jonas Scherer, Andrey Fedorov, Erik Ziegler)
+1. [OHIF Web Components](Projects/ohif_web_components/README.md) (Erik Ziegler, Steve Pieper, Sandra Siegel, Forrest Li, James Petts,Peter Oppermann, Hans Meine)
 
 ### Image-guided therapy
 
