@@ -82,7 +82,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. [3DSlicer Training Programs](Projects/TrainingPrograms/README.md) (GTMA group, Alexandra Fernandes Rodrigues, Ahmedou Moulaye Idriss, Yahya Tfeil, Mohamed Septy, Joseanne Alexandra Da Rosa De Pina Ferreira, Sonia Pujol)
 1. [3DSlicer Models for Brain Quiz](Projects/3DSlicerModelsforBrainQuiz/README.md) (Sergi Bermudez i Badia, Yuri Almeida, Abián Hernández-Guedes, Artemisa Moreno, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 1. Looking Glass 3D display support (Mike Halle, others) [See display here](https://lookingglassfactory.com/)
-1. Use of 3D Slicer in training programs (Gabor Fichtinger, Andras Lasso, Kevin Cleary, Attila Nagy, Juan Ruiz-Alzola)(Projects/Useof3DSlicerinTrainig/README.md)
+1. [Use of 3D Slicer in training programs](Projects/Useof3DSlicerinTrainig/README.md) (Gabor Fichtinger, Andras Lasso, Kevin Cleary, Attila Nagy, Juan Ruiz-Alzola)
 
 ### Open Anatomy
 
