@@ -33,10 +33,10 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
     <td>
         <ul>
             <li>
-Zoom video conference: To join the videoconference, use [https://zoom.us/j/112427205](https://zoom.us/j/112427205)
+                Zoom video conference: <a href="https://zoom.us/j/112427205">To join the videoconference</a>
             </li>
             <li>
-Conference call notes: To access these, click [here](PreparatoryMeetingsNotes.md).
+<a href="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/PreparatoryMeetingsNotes.md">Conference call notes</a>
             </li>
         </ul>
     </td>
