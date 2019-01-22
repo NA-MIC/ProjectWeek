@@ -14,18 +14,18 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-The aim of this project is to collaborate on web components (using [react()https://reactjs.org]) to implement parts of web applications.
+The aim of this project is to collaborate on web components (using [react](https://reactjs.org)) to implement parts of web applications.
 Specifically to make the [OHIFViewer](https://github.com/OHIF/Viewers) project less monolithic and moving from meteor to react.  This should make it easier to
 create plugins for OHIF, and also to create custom projects like [prostatecancer.ai](http://prostatecancer.ai).
 
 ## Objective
-1. Build on existing codebase
-1. Improve the [vtkjs component](https://github.com/OHIF/react-vtkjs-viewport)
+1. Build on existing codebase https://github.com/OHIF/react-viewerbase ([live demo](https://react.ohif.org))
+1. Improve the vtkjs component https://github.com/OHIF/react-vtkjs-viewport ([live demo](https://react-vtkjs-viewport.netlify.com/))
 
 
 ## Approach and Plan
 
-1. Bring everyone up to speed on the current react components at [https://react.ohif.org/](https://react.ohif.org/)
+1. Bring everyone up to speed on the current react components
 1. Identify any missing components and decide who wants to work on them
 1. Develop (plans for) additional demos, tutorials, and documentation to help build the community
 
@@ -46,5 +46,5 @@ create plugins for OHIF, and also to create custom projects like [prostatecancer
 
 Info websites:
 
-[OHIF Dicom Viwer](https://docs.ohif.org/)
-
+- [OHIF Dicom Viwer](https://docs.ohif.org/)
+- [CTK Widgets](http://www.commontk.org/index.php/Documentation/ImageGallery)
