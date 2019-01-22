@@ -32,11 +32,11 @@ We want to implement a neural network based automatic segmentation algorithm to 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
-# Keras, a neural network package in python:
-https://keras.io/ 
+ Keras, a neural network package in python:
+- https://keras.io/ 
 
-# The U-net:
-https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ 
+The U-net:
+- https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 <!--![Description of picture](Example2.jpg)-->
