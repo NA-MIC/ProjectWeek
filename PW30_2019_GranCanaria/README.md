@@ -73,7 +73,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 1. Internationalizing TAViewer anatomy term viewer  (Mike Halle, others)
 1. [NeuroNames and the Harvard Oxford Atlas](Projects/NeuroNames-HOA/README.md)  (Mike Halle, Doug Bowden, Nikos Makris)
-1. [Pelvic Anatomy Atlases (male and female)](Projects/PelvicAnatomyAtlases/README.md) (Babacar Diao, Nayra Pumar, Xerach Suárez, Cheick Tidiane, Abdulaye Ndiaye, Juan Ruiz-Alzola)
+1. [Pelvic Anatomy Atlases (male and female)](Projects/PelvicAnatomyAtlases/README.md) (Babacar Diao, Nayra Pumar, Xerach Suárez, Cheick Tidiane, Abdoulaye Ndiaye, Juan Ruiz-Alzola)
 1. New open atlas development (Mike Halle, Karl-Heinz Hoehne, others)
 
 ### Registration
@@ -108,7 +108,7 @@ List of registered participants so far (names will be added here after processin
 1. Cheikh Tidiane Diop (chtdiop81@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal
 1. Oumar Kane (droumarkane@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal 
 1. Samba Diaw (samba.diaw@esp.sn) - Université Cheikh Anta Diop - Senegal
-1. Abdulaye Ndiaye () - Université Cheikh Anta Diop - Senegal
+1. Abdoulaye Ndiaye (layyendiaye@yahooo.fr) - Université Cheikh Anta Diop - Senegal
 1. José-Carlos Ruiz-Luque (@carlos-luque)(carlos.luque@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Nayra Pumar Carreras (nayra.pumar@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Guillermo Valentín Socorro Marrero (@gvsocorro)(guillermo.socorro@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
