@@ -28,7 +28,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 <table><tr>
     <td>
-        <img src=zoom-photo.png>
+        <img src="zoom-photo.png">
     </td>
     <td>
         <ul>
