@@ -155,6 +155,8 @@ List of registered participants so far (names will be added here after processin
 1. Marco Nolden (M.Nolden@Dkfz-Heidelberg.de) - German Cancer Research Center (DKFZ) - Germany
 1. Douglas Bowden (dmbowden@uw.edu) - University of Washington School of Medicine - USA
 1. Tobias Stein (t.stein@dkfz-heidelberg.de) - Deutsches Krebsforschungszentrum (DKFZ) - Germany
+1. Aziza Elmahjoub (isselmou.aziza@gmail.com) - Sorbone Université -  University of Las Palmas de Gran Canaria - Spain
+1. María Armas López-de-Vergara (mariarmaslv@gmail.com) - University of Las Palmas de Gran Canaria - Spain
 
 <!-- 
 
