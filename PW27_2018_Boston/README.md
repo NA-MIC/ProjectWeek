@@ -44,7 +44,7 @@ To receive information about this and future events please join the [Project Wee
 
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America%2FNew_York&dates=20180108%2F20180112&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-[How to add this calendar to your own?](Calendar/README.md)
+[How to add this calendar to your own?](../common/Calendar.md)
 
 
 ## Projects [(How to add a new project?)](Projects/README.md)
