@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Attila Nagy (University of Szeged)
 - Kitti Farkas (University of Szeged)
 - Bence Horvath (University of Szeged)
+- Kyle Sunderland (Queen's University)
 - ...
 
 # Project Description
