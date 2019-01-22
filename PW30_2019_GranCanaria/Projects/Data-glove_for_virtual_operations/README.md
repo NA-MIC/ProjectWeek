@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-We built a data-glove that tracks hand movements. Our goal is to connect it to Slicer with OpenIGTLink or with the Plus toolkit. 
+We built a data-glove that tracks hand movements. Our goal is to connect it to Slicer with OpenIGTLink or with the Plus toolkit. The glove has a simple IMU (with 3-axis gyroscope and 3-axis accelerometer /MPU9250/) and a processing unit (Arduino Uno).
 
 
 ## Objective
@@ -33,14 +33,16 @@ We built a data-glove that tracks hand movements. Our goal is to connect it to S
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-<!--![Description of picture](Example2.jpg)-->
+![The glove](glove.jpg)
 
-<!--![Some more images](Example2.jpg)-->
+![Arduino and the IMU](hardware.jpg)
 
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
-
+- MPU9250 Datasheet: https://cdn.sparkfun.com/assets/learn_tutorials/5/5/0/MPU9250REV1.0.pdf
+- Arduino Uno website: https://store.arduino.cc/arduino-uno-rev3
+- MPU9250-Arduino library: https://github.com/bolderflight/MPU9250
 <!--- Source code: https://github.com/YourUser/YourRepository  -->
 <!--- Documentation: https://link.to.docs  -->
 <!--- Test data: https://link.to.test.data  -->
