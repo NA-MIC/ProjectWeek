@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Markus Herrmann (BWH/MGH CCDS)
 - Steve Pieper (Isomics)
 - James A. Petts
+- Jasmin Metzger (DKFZ)
 
 # Project Description
 
