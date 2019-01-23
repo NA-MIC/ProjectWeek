@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Attila Nagy (Faculty of Medicine, University of Szeged)
 - Kitti Farkas (University of Szeged)
 - Endre Vecsernyes (University of Szeged)
-- Deepak Chittajallu (Kitware) *available remotely* (deepak.chittajallu [at] kitware [dot] com, @cdeepakroy)
+- Deepak Chittajallu (Kitware) *available remotely* (deepak.chittajallu@kitware.com, [@cdeepakroy](https://github.com/cdeepakroy))
 
 
 # Project Description
