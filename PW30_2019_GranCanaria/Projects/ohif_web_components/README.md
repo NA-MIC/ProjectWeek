@@ -23,7 +23,7 @@ create plugins for OHIF, and also to create custom projects like [prostatecancer
   - [itkjs](http://insightsoftwareconsortium.github.io/itk-js/)
   - OpenLayers ([prototype plugin](https://github.com/OHIF/OpenLayersPlugin))
   - pdf viewer
-  - BioImageSuite web (e.g. tensorflowjs-based [deep learning segmentation models](https://bioimagesuiteweb.github.io/unstableapp/tfjsexample.html))
+  - BioImageSuite web (e.g. tensorflowjs-based [deep learning segmentation models](https://bioimagesuiteweb.github.io/unstableapp/tfjsexample.html) - click the red "Run 2D" button)
 
 ## Objective
 1. Build on existing codebase https://github.com/OHIF/react-viewerbase ([live demo](https://react.ohif.org))
