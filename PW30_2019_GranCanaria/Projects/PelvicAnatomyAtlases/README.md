@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 -	Xerach Suárez (ULPGC – GTMA - MACbioIDi)
 -	Cheick Tidiane (Centre Hospitalier National Fann Dakar)
 - Abdulaye Ndiaye (Université Cheikh Anta Diop)
+- Mike Halle (BWH)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
 
