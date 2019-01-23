@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Kitti Farkas (University of Szeged)
 - Bence Horvath (University of Szeged)
 - Kyle Sunderland (Queen's University)
+- Eleni Siampli (Children's National)
 - ...
 
 # Project Description
