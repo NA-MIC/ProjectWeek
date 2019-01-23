@@ -18,6 +18,13 @@ The aim of this project is to collaborate on web components (using [react](https
 Specifically to make the [OHIFViewer](https://github.com/OHIF/Viewers) project less monolithic and moving from meteor to react.  This should make it easier to
 create plugins for OHIF, and also to create custom projects like [prostatecancer.ai](http://prostatecancer.ai).
 
+- Plugin examples / wishlist
+  - [vtkjs](https://kitware.github.io/vtk-js/index.html), [prototype plugin](https://github.com/OHIF/VTKPlugin)
+  - [itkjs](http://insightsoftwareconsortium.github.io/itk-js/)
+  - OpenLayers ([prototype plugin](https://github.com/OHIF/OpenLayersPlugin))
+  - pdf viewer
+  - BioImageSuite web (e.g. tensorflowjs-based [deep learning segmentation models](https://bioimagesuiteweb.github.io/unstableapp/tfjsexample.html))
+
 ## Objective
 1. Build on existing codebase https://github.com/OHIF/react-viewerbase ([live demo](https://react.ohif.org))
 1. Improve the vtkjs component https://github.com/OHIF/react-vtkjs-viewport ([live demo](https://react-vtkjs-viewport.netlify.com/))
