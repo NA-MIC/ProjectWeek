@@ -4,6 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
+- Ron Kikinis (Brigham and Women’s Hospital and Harvard Medical School, USA)
 - Gabor Fichtinger (Queen’s University, Canada)
 - Andras Lasso (Queen’s University, Canada)
 - Kevin Cleary (SZI - Children’s National)
