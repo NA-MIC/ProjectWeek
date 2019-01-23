@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mete Akdogan (Stanford)
 - Emel Alkim (Stanford)
 - Tobias Stein (DKFZ)
+- Jasmin Metzger (DKFZ)
 
 # Project Description
 
