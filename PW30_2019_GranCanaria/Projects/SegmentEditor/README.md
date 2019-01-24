@@ -26,7 +26,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
-* To be completed
+* Liver Data-set: Segmentation of lesion and vessels (as prerequesite for robotic intervention support)
 
 # Illustrations
 Whole heart segmentation:
