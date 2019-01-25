@@ -2,17 +2,24 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 
 # Machine learning best practices
 
+We will share with each other how machine learning is implemented by various groups, see if we can find common patterns and way of leveraging similar efforts.
+
+Anybody who is interested in using machine learning for medical image computing is welcome.
+
 ## Agenda
 * Presenting current approaches for
   * training data generation
   * deployment of trained models for end-users
 * Discuss possibilities for creating common software infrastructure (in CTK or similar toolkits)
 
-## Presenters
-- Andras Lasso (PerkLab, Queen's University)
-- Steve Pieper (Isomics)
-- Marco Nolden (DKFZ)
-- (add your name here if you participate at the session and you already use machine learning)
+## Participants
+- Andras Lasso (PerkLab, Queen's University) - with presentation
+- Steve Pieper (Isomics) - with presentation?
+- Marco Nolden (DKFZ) - with presentation?
+
+Please add your name above if you plan to attend.
+
+Those who already have machine learning projects are encouraged to prepare with a short presentation (maximum 5 minutes; slides are optional) about how they do it now. Please add "with presentation" next to your name.
 
 ## Meeting minutes
 
