@@ -19,6 +19,7 @@ Lookup day and time on the [calendar](../README.md#program-calendar).
 - Andras Lasso (PerkLab, Queen's University) - with presentation
 - Steve Pieper (Isomics) - with presentation?
 - Marco Nolden (DKFZ) - with presentation?
+- Deepak Roy Chittajallu (Kitware) - with presentation
 
 Please add your name above if you plan to attend.
 
