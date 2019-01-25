@@ -96,6 +96,14 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 ### Registration
 1. [Point set registration](Projects/PointSetRegistration/README.md) (María Armas López-de-Vergara, Abián Hernández-Guedes, Juan Ruiz-Alzola)
 
+## Breakout sessions
+
+- Anatomy segmentation
+- Use of 3D Slicer in educational programs
+- Slicer core update and plans
+- OHIF, vtkjs, and related web technologies
+- Neuroanatomy
+- [Machine learning](BreakoutSessions/MachineLearning.md)
 
 ## Registrants
 
