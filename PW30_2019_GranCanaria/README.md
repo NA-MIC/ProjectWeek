@@ -75,7 +75,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. [Refining automatic segmentations from FreeSurfer in 3D Slicer](Projects/AutomSegmentFreeSurfer/README.md) (Nikos Makris, Juan-Andrés Ramírez-González, Yogesh Rathi, Nayra Pumar Carreras, Juan Ruiz Alzola)
 1. [SlicerMorph](Projects/SlicerMorphGeometricMorphometricToolset) (Sara Rolfe, Murat Maga (remote), Steve Pieper)
 1. [Microscopy Module for 3D Slicer](Projects/Microscopy/README.md) (Aziza Elmahjoub, Abián Hernández-Guedes, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
-1. [OHIF.AI](Projects/OHIF.AI/README.md) (Steve Pieper, Erik Ziegler, Srikrishna Prasad)
+1. [OHIF.AI](Projects/OHIF.AI/README.md) (Srikrishna Prasad, Steve Pieper, Erik Ziegler)
 
 ### Education
 
