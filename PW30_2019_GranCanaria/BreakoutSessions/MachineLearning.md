@@ -7,6 +7,9 @@ We will share with each other how machine learning is implemented by various gro
 Anybody who is interested in using machine learning for medical image computing is welcome.
 
 ## Agenda
+
+Lookup day and time on the [calendar](../README.md#program-calendar).
+
 * Presenting current approaches for
   * training data generation
   * deployment of trained models for end-users
