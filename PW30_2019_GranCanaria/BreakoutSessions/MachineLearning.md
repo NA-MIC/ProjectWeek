@@ -1,4 +1,4 @@
-Back to [Breakout Sessions List](../README.md#BreakoutSessions)
+Back to [Breakout Sessions List](../README.md#breakout-sessions)
 
 # Machine learning best practices
 
