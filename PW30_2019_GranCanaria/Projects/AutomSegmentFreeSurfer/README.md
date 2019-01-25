@@ -10,6 +10,7 @@ Back to [Projects List](../README.md#ProjectsList)
 - Yogesh Rathi (Laboratory for Mathematics in Imaging - Harvard Medical School)
 -	Nayra Pumar Carreras (ULPGS – GTMA – MACbioIDi)
 -	Juan Ruiz Alzola (ULPGS – GTMA – MACbioIDi)
+- Zora Kikinis (Psychiatry Neuroimaging Laboratory, Harvard Medical School)
 
 
 ## Project Description
