@@ -41,3 +41,4 @@ Machine learning solutions used in Slicer:
 Related efforts:
 - [NiftyNet](https://github.com/NifTK/NiftyNet)
 - [MITK-Diffusion](http://mitk.org/wiki/MitkDiffusion#Requirements): contains deep learning based tractography module (requires manual python installation and only works on Linux)
+- [DLTK](https://github.com/DLTK/DLTK): directly implemented on top of TensorFlow (not on top of Keras or pytorch)
