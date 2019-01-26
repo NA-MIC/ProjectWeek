@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andrey Fedorov (BWH) - interested to deploy and test the resulting platform
 - Markus Herrmann (CCDS)
 - Tobias Stein (DKFZ)
+- Marco Nolden (DKFZ) - optional CTK/C++ based client side testing 
 
 # Project Description
 
