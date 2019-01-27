@@ -47,10 +47,10 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 ### DICOM
 
-1. [DICOM for quantitative imaging](Projects/DICOM4QI/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper, James A. Petts, Jasmin Metzger)
-1. [Roundtrip conversion between DICOM SR and FHIR representations for imaging measurements](Projects/DICOMSRTID1500-FHIR/README.md) (Hans Meine, Peter Oppermann, Andrey Fedorov, Tobias Stein, Jasmin Metzger)
+1. [DICOM for quantitative imaging](Projects/DICOM4QI/README.md) (Andrey Fedorov, Hans Meine, Markus Herrmann, Steve Pieper, James A. Petts, Jasmin Metzger, Marco Nolden)
+1. [Roundtrip conversion between DICOM SR and FHIR representations for imaging measurements](Projects/DICOMSRTID1500-FHIR/README.md) (Hans Meine, Peter Oppermann, Andrey Fedorov, Tobias Stein, Jasmin Metzger, Marco Nolden)
 1. [Interoperability of DICOM SEG between cornerstonejs/vtkjs/dcmjs](Projects/DICOMSEG-Cornerstone-VTKJS/README.md) (James A. Petts, Erik Ziegler, Steve Pieper, Mete Akdogan, Emel Alkim, Tobias Stein, Forrest Li, Jasmin Metzger)
-1. [DICOMweb server and custom database](Projects/DICOMweb-CouchDB/README.md) (Emel Alkim, Steve Pieper, Andrey Fedorov, Markus Herrmann, Tobias Stein)
+1. [DICOMweb server and custom database](Projects/DICOMweb-CouchDB/README.md) (Emel Alkim, Steve Pieper, Andrey Fedorov, Markus Herrmann, Tobias Stein, Marco Nolden)
 
 ### Infrastructure
 
@@ -76,6 +76,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. [SlicerMorph](Projects/SlicerMorphGeometricMorphometricToolset) (Sara Rolfe, Murat Maga (remote), Steve Pieper)
 1. [Microscopy Module for 3D Slicer](Projects/Microscopy/README.md) (Aziza Elmahjoub, Abián Hernández-Guedes, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 1. [OHIF.AI](Projects/OHIF.AI/README.md) (Srikrishna Prasad, Steve Pieper, Erik Ziegler)
+1. [PyRadiomics](Projects/PyRadiomics/README.md) (Joost van Griethuysen, Steve Pieper, Andrey Fedorov, Hugo Aerts)
 1. [SlicerCaseIterator](Projects/SlicerCaseIterator/README.md) (Joost van Griethuysen, Steve Pieper)
 
 ### Education
