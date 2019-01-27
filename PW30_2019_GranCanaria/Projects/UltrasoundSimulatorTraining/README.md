@@ -56,9 +56,9 @@ Figure 3. Guidelet-based GUI in Spanish
 
 Sketches:
 
-<img src="SketchAngle.png" width="450" height="338" >
+<img src="SketchAngleandNeedleOverlayUSimage.png" > 
 
-Figure 4.  An angle between a plane of the US image and a needle
+Figure 4.  An angle between a plane of the US image and a needle or a needle model overlays the US image
 
 <img src="ImageOrientationMarkerSymbol.png" width="430" height="422" >
 
