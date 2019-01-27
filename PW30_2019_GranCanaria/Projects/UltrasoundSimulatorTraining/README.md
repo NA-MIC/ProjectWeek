@@ -56,11 +56,11 @@ Figure 3. Guidelet-based GUI in Spanish
 
 Sketches:
 
-<img src="SketchAngle.png" width="150" height="110" >
+<img src="SketchAngle.png" width="450" height="338" >
 
 Figure 4.  An angle between a plane of the US image and a needle
 
-<img src="ImageOrientationMarkerSymbol.png" width="150" height="190" >
+<img src="ImageOrientationMarkerSymbol.png" width="430" height="422" >
 
 Figure 5. An image orientation marker symbol (in blue color)
 
