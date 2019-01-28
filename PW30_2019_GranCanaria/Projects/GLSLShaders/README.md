@@ -21,6 +21,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Improve recently added GLSL uniforms class
 - Add GLSL code and variables to MRML nodes and displayable managers (use case: depth-encoded rendering)
 - Make GPU-based filters work that have been developed for fractional labelmap processing
+- Investigate existing implementation of GLSL shaders for image processing ([vtkOpenGLFilters](https://github.com/Punzo/SlicerAstro/tree/master/vtkOpenGLFilters), [vtkOpenGLTexture](https://vtk.org/doc/nightly/html/classvtkOpenGLTexture.html))
 
 ## Progress and Next Steps
 
