@@ -179,6 +179,10 @@ List of registered participants so far (names will be added here after processin
 
 (To be added during/after the event)
 
+## Parallel Event - Casa Africa
+
+[Casa Africa Agend](https://github.com/NA-MIC/ProjectWeek/raw/master/PW30_2019_GranCanaria/Casa_Africa-Final_Agenda.pdf)
+
 -->
 
 ## Program Calendar
