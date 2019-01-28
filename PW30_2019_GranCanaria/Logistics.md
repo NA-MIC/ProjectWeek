@@ -11,7 +11,7 @@
     - [3D View/Map of venue location 28th January - 1st February](https://bit.ly/2Hkm6Mi)
     - [From ULPGC to Casa África](https://www.google.com/maps/dir/Casa+%C3%81frica,+Calle+Alfonso+XIII,+5,+35003+Las+Palmas+de+Gran+Canaria,+Las+Palmas/Instituto+Universitario+de+An%C3%A1lisis+y+Aplicaciones+Textuales+(IATEXT),+35002+Las+Palmas+de+Gran+Canaria,+Las+Palmas/@28.1120427,-15.4234614,307m/data=!3m1!1e3!4m14!4m13!1m5!1m1!1s0xc40959c6900c97d:0x7c5f9f2a61bd45ab!2m2!1d-15.4223911!2d28.1127348!1m5!1m1!1s0xc40959c00173423:0xa66b06b7c8687d7b!2m2!1d-15.4242431!2d28.1114473!3e2)
     - [Information about the Venue](https://medtec4susdev.github.io/30PW_NA-MIC_Venue/)
-    - [Infopack](https://github.com/NA-MIC/ProjectWeek/raw/master/PW30_2019_GranCanaria/INFOPACK_NAMICWINTEREVENT2019.pdf)
+    - [Infopack](INFOPACK_NAMICWINTEREVENT2019.pdf)
 - **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
     - Taxi (line at the airport)
     - [Bus -line 60-](https://www.guaguasglobal.com/en/lineas-horarios/linea/)
