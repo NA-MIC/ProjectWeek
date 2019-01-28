@@ -9,7 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Interface Slicer to the Looking Glass glasses-free 3D Display (see [Looking Glass web site](https://lookingglassfactory.com)
+Interface Slicer to the Looking Glass glasses-free 3D Display (see [Looking Glass web site](https://lookingglassfactory.com) )
 
 ## Objective
 
