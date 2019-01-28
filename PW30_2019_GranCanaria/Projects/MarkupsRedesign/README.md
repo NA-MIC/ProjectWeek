@@ -33,12 +33,19 @@ Plan is to integrate the reworked markups infrastructure and new markups during 
 
 - Davide Punzo has reworked markup point list widget:
 
-  https://github.com/Slicer/Slicer/pull/1079 
-
-  https://www.dropbox.com/s/p8v1m7mgopsnrp4/Widget-rework.mkv?dl=0
+  [Pull request](https://github.com/Slicer/Slicer/pull/1079) 
+  
+  [Points video](https://www.dropbox.com/s/p8v1m7mgopsnrp4/Widget-rework.mkv?dl=0)
   
   and added angle, line, and curve widgets.
-
+  
+  ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/Line.png)
+  ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/Angle.png)
+  ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/OpenCurve.png)
+  ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/ClosedCurve.png)
+  
+  [Open Curve video](https://www.dropbox.com/s/ap67lmxo0xh77h0/OpenCurve.mkv?dl=0)
+ 
 ### Result
 
 - To be completed
