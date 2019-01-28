@@ -18,8 +18,9 @@ This project aims to develop and maintain the open source software PyRadiomics, 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Update the C-Extensions to allow for N-dimensional input (image/mask). Together with updates to the python code, this is to make PyRadiomics more suitable to work with e.g. 2D input (instead of forced 3D input)
-1. Investigate possibility of integration with ITK. 
+1. Investigate possibility of integration with ITK.
 1. Update documentation and command line interface for voxel-based extraction. Though already part of the PyRadiomics code, voxel based extraction can currently only be used via Python scripts.
+1. Investigate the possibility of reproducing features extracted used by a top PROSTATEx entry using pyradiomics (collaboration with Radka Stoyanova, U. South Florida (USF))
 
 ## Approach and Plan
 
@@ -28,6 +29,7 @@ This project aims to develop and maintain the open source software PyRadiomics, 
 1. Replace nested loop per dimension by a dimension less single iterator over voxels. Update input checks to allow N-dimensional input.
 1. Talk to developers who have worked with ITK. Review the overlap between PyRadiomics and [ITK Texture Features](https://github.com/InsightSoftwareConsortium/ITKTextureFeatures)
 1. Write a command line interface similar to the interface for segment-based extraction. Use output folder instead of file to store results (each feature will be a image file (e.g. .nrrd or .nii.gz))
+1. Configure extraction parameters to achieve feature values similar to those obtained by the USF group. This task is supported by a sample dataset and accompanying features provided by the USF collaborators.
 
 ## Progress and Next Steps
 
