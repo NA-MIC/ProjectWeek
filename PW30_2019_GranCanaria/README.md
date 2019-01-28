@@ -86,7 +86,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. [New features for an ultrasound training system](Projects/UltrasoundSimulatorTraining/README.md) (José-Carlos Ruiz-Luque,  Guillermo Valentín Socorro-Marrero, Samba Diaw, Oumar Kane, Joseane Ferreira, Juan Ruiz-Alzola)
 1. [3DSlicer Training Programs](Projects/TrainingPrograms/README.md) (GTMA group, Alexandra Fernandes Rodrigues, Ahmedou Moulaye Idriss, Yahya Tfeil, Mohamed Septy, Joseanne Alexandra Da Rosa De Pina Ferreira, Sonia Pujol)
 1. [3DSlicer Models for Brain Quiz](Projects/3DSlicerModelsforBrainQuiz/README.md) (Sergi Bermudez i Badia, Yuri Almeida, Abián Hernández-Guedes, Artemisa Moreno, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
-1. [Use of 3D Slicer in training programs](Projects/Useof3DSlicerinTrainig/README.md) (Gabor Fichtinger, Andras Lasso, Kevin Cleary, Attila Nagy, Juan Ruiz-Alzola)
+1. [Use of 3D Slicer in training programs](Projects/Useof3DSlicerinTrainig/README.md) (Ron Kikinis, Gabor Fichtinger, Andras Lasso, Kevin Cleary, Attila Nagy, Juan Ruiz-Alzola)
 1. [Looking Glass 3D Display](Projects/LookingGlass/README.md) (Mike Halle, Andras Lasso)
 
 ### Open Anatomy
