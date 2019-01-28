@@ -31,7 +31,7 @@ Sometimes unknown file formats are encountered that contain images. There are fr
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-![The GUI looks currently like this](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/RawImageGuess/2018-06-29.png)
+![The GUI looks currently like this](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW28_2018_GranCanaria/Projects/RawImageGuess/2018-06-29.png)
 
 <!--![Description of picture](Example2.jpg)-->
 
@@ -44,4 +44,6 @@ Sometimes unknown file formats are encountered that contain images. There are fr
 
 - Source code: https://github.com/acetylsalicyl/SlicerRawImageGuess
 - Documentation: In progress
-- Test data: Available in the github repository
+- Test data:
+  - Available in the github repository
+  - 3D ultrasound from [Slicer forum](https://discourse.slicer.org/t/could-not-load-ultrasound-from-mvl-medison-file-format/3928/6?u=lassoan): [download from dropbox](https://www.dropbox.com/sh/azdck7h9e7b71dq/AACiHg-m-XPOhj2vs2_CFGK5a?dl=0) 
