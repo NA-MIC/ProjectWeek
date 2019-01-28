@@ -171,6 +171,8 @@ List of registered participants so far (names will be added here after processin
 1. María Armas López-de-Vergara (mariarmaslv@gmail.com) - University of Las Palmas de Gran Canaria - Spain
 1. Andras Lasso (@lassoan)(lasso@queensu.ca) - Queen’s University - Canada
 1. Kyle Sunderland (1krs1@queensu.ca) - Queen’s University - Canada
+1. Srikrishna Prasad (srikrishna.prasad@siemens-healthineers.com) - Siemens Healthineers GmBH - Germany
+
 
 
 <!--
