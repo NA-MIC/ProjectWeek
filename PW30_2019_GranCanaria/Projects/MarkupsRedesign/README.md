@@ -39,11 +39,6 @@ Plan is to integrate the reworked markups infrastructure and new markups during 
   
   and added angle, line, and curve widgets.
   
-  ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/Line.png)
-  ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/Angle.png)
-  ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/OpenCurve.png)
-  ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/ClosedCurve.png)
-  
   [Open Curve video](https://www.dropbox.com/s/ap67lmxo0xh77h0/OpenCurve.mkv?dl=0)
  
 ### Result
@@ -52,7 +47,10 @@ Plan is to integrate the reworked markups infrastructure and new markups during 
 
 # Illustrations
 
-- To be completed
+  ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/Line.png)
+  ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/Angle.png)
+  ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/OpenCurve.png)
+  ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/ClosedCurve.png)
 
 <!--
 
