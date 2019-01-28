@@ -12,6 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Tobias Stein (DKFZ)
 - Jasmin Metzger (DKFZ)
 - Forrest Li (Kitware)
+- Markus Herrmann (MGH & BWH CCDS)
 
 # Project Description
 
