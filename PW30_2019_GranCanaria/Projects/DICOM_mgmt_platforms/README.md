@@ -1,32 +1,38 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# DICOM management platforms
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Andrey Fedorov (BWH)
+- James Petts (Institute of Cancer Research, UK)
+- Erik Ziegler (Radical Imaging)
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+Evaluate existing/emerging platforms for managing DICOM data.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+We need a platform to support management of the DICOM data within a lab. Required features include:
+* user authentication
+* storage of the variety of DICOM objects (should not be limited to DICOM images)
+* integrated viewer for visualization of the images, and ideally annotations
+* API for data access (read and write)
+* integration of batch processing tools (e.g., automatically calculate radiomics features for an image when segmentation of that is submitted)
+* should be possible to install on an "on-premises" server to allow handling of PHI data (i.e., cannot be a cloud-only solution)
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
+Install and test the following solutions:
+* XNAT (with James Petts)
+* CCC? (with Erik Ziegler)
+* Girder? (with JC)
+* ...
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
 
 ## Progress and Next Steps
 

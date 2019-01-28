@@ -51,7 +51,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. [Roundtrip conversion between DICOM SR and FHIR representations for imaging measurements](Projects/DICOMSRTID1500-FHIR/README.md) (Hans Meine, Peter Oppermann, Andrey Fedorov, Tobias Stein, Jasmin Metzger, Marco Nolden)
 1. [Interoperability of DICOM SEG between cornerstonejs/vtkjs/dcmjs](Projects/DICOMSEG-Cornerstone-VTKJS/README.md) (James A. Petts, Erik Ziegler, Steve Pieper, Mete Akdogan, Emel Alkim, Tobias Stein, Forrest Li, Jasmin Metzger)
 1. [DICOMweb server and custom database](Projects/DICOMweb-CouchDB/README.md) (Emel Alkim, Steve Pieper, Andrey Fedorov, Markus Herrmann, Tobias Stein, Marco Nolden)
-1. [DICOM data management platforms](Projects/DICOM_mgmg_platforms/README.md) (Andrey Fedorov, James A. Petts, Erik Ziegler, Jasmin Metzger)
+1. [DICOM data management platforms](Projects/DICOM_mgmt_platforms/README.md) (Andrey Fedorov, James A. Petts, Erik Ziegler, Jasmin Metzger)
 
 ### Infrastructure
 
@@ -87,7 +87,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. [3DSlicer Training Programs](Projects/TrainingPrograms/README.md) (GTMA group, Alexandra Fernandes Rodrigues, Ahmedou Moulaye Idriss, Yahya Tfeil, Mohamed Septy, Joseanne Alexandra Da Rosa De Pina Ferreira, Sonia Pujol)
 1. [3DSlicer Models for Brain Quiz](Projects/3DSlicerModelsforBrainQuiz/README.md) (Sergi Bermudez i Badia, Yuri Almeida, Abián Hernández-Guedes, Artemisa Moreno, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 1. [Use of 3D Slicer in training programs](Projects/Useof3DSlicerinTrainig/README.md) (Gabor Fichtinger, Andras Lasso, Kevin Cleary, Attila Nagy, Juan Ruiz-Alzola)
-1. [Looking Glass 3D Display](Projects/LookingGlass/README.md) (Mike Halle, Andras Lasso, ...)
+1. [Looking Glass 3D Display](Projects/LookingGlass/README.md) (Mike Halle, Andras Lasso)
 
 ### Open Anatomy
 
