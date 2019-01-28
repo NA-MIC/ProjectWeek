@@ -51,6 +51,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. [Roundtrip conversion between DICOM SR and FHIR representations for imaging measurements](Projects/DICOMSRTID1500-FHIR/README.md) (Hans Meine, Peter Oppermann, Andrey Fedorov, Tobias Stein, Jasmin Metzger, Marco Nolden)
 1. [Interoperability of DICOM SEG between cornerstonejs/vtkjs/dcmjs](Projects/DICOMSEG-Cornerstone-VTKJS/README.md) (James A. Petts, Erik Ziegler, Steve Pieper, Mete Akdogan, Emel Alkim, Tobias Stein, Forrest Li, Jasmin Metzger)
 1. [DICOMweb server and custom database](Projects/DICOMweb-CouchDB/README.md) (Emel Alkim, Steve Pieper, Andrey Fedorov, Markus Herrmann, Tobias Stein, Marco Nolden)
+1. [DICOM data management platforms](Projects/DICOM_mgmg_platforms/README.md) (Andrey Fedorov, James A. Petts, Erik Ziegler)
 
 ### Infrastructure
 
@@ -111,16 +112,16 @@ Do not add your name to this list below. It is maintained by the organizers base
 List of registered participants so far (names will be added here after processing registrations):
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
-1. Ron Kikinis (@rkikinis) - Brigham and Women's Hospital and Harvard Medical School - USA 
+1. Ron Kikinis (@rkikinis) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Steven Pieper (@pieper)(pieper@isomics.com) - Isomics, Inc. - USA
-1. Michael Halle (@mhalle)(mhalle@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA 
+1. Michael Halle (@mhalle)(mhalle@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Juan Ruiz Alzola (@jruizalz)(juan.ruiz@ulpgc.es) - University of Las Palmas de Gran Canaria / Instituto de Astrofísica de Canarias - Spain
-1. Zora Kikinis (zora@bwh.harvard.edu) - Brigham and Women's Hospital - USA 
+1. Zora Kikinis (zora@bwh.harvard.edu) - Brigham and Women's Hospital - USA
 1. Juan Andrés Ramírez González (juanandres.ramirez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Nikolaos Makris (nikos@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Sonia Pujol (spujol@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Gabor Fichtinger (gabor@cs.queensu.ca) - Queen’s University - Canada
-1. Andrey Fedorov ([@fedorov](https://github.com/fedorov)) (andrey.fedorov@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - USA 
+1. Andrey Fedorov ([@fedorov](https://github.com/fedorov)) (andrey.fedorov@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Jean-Christophe Fillion-Robin (@jcfr)(jchris.fillionr@kitware.com) - Kitware Inc. - USA
 1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
 1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
@@ -128,9 +129,9 @@ List of registered participants so far (names will be added here after processin
 1. M Alexandra Fernandes Rodrigues (malexa.rodrigues@gmail.com) - Faculdade de Medicina da Universidade Eduardo Mondlane - Mozambique
 1. Joseane Alexandre Da Rosa de Pina Ferreira (joseane.ferreira@han.gov.cv) - Hospital Agostinho Neto de Praia - Cabo Verde
 1. Artemisa Mendes Moreno (artemisa.moreno@docente.unicv.edu.cv) - Faculdade de Ciências e Tecnologia, Universidade de Cabo Verde - Cabo Verde
-1. Babacar Diao (babacardiao104uro@yahoo.fr) - Ecole Militaire de Santé Dakar -Senegal 
+1. Babacar Diao (babacardiao104uro@yahoo.fr) - Ecole Militaire de Santé Dakar -Senegal
 1. Cheikh Tidiane Diop (chtdiop81@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal
-1. Oumar Kane (droumarkane@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal 
+1. Oumar Kane (droumarkane@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal
 1. Samba Diaw (samba.diaw@esp.sn) - Université Cheikh Anta Diop - Senegal
 1. Abdoulaye Ndiaye (layyendiaye@yahooo.fr) - Université Cheikh Anta Diop - Senegal
 1. José-Carlos Ruiz-Luque (@carlos-luque)(carlos.luque@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
@@ -142,7 +143,7 @@ List of registered participants so far (names will be added here after processin
 1. Yuri Ameida (yuri.almeida@m-iti.org) - Madeira Interactive Technologies Institute - Madeira - Portugal
 1. Erik Ziegler (erik@radicalimaging.com) - Open Health Imaging Foundation- France
 1. Sara Rolfe (smrolfe@uw.edu) - University of Washington - USA
-1. James Petts (james.petts@icr.ac.uk) - Istitute of Cancer Research - UK
+1. James Petts (james.petts@icr.ac.uk) - Institute of Cancer Research - UK
 1. Joost van Griethuysen (@maastrichtuniversity.nl) - Maastricht University - Netherlands
 1. Kevin Cleary (kcleary@childrensnational.org) - Sheikh Zayed Institute for Pediatric Surgical Innovation - Children's National - USA
 1. Emel Alkim (ealkim@stanford.edu) - Stanford University Department of Biomedical Data Science - Stanford University - USA
@@ -159,7 +160,7 @@ List of registered participants so far (names will be added here after processin
 1. Jasmin Metzger (jasmin.metzger@dkfz-heidelberg.de) - German Cancer Research Center - Germany
 1. Francisco José Marcano Serrano (fmarcano@ull.edu.es) - Universidad de la Laguna - Spain
 1. Jonas Scherer (jonas.scherer@dkfz.de) - Deutsches Krebsforschungszentrum (DKFZ) - Germany
-1. Eleni Siampli (esiampli@childrensnational.org) - Sheikh Zayed Institute for Pediatric Surgical Innovation - Children's National 
+1. Eleni Siampli (esiampli@childrensnational.org) - Sheikh Zayed Institute for Pediatric Surgical Innovation - Children's National
 1. Scheherazade Kraß (krass@uni-bremen.de) - University of Bremen - Germany
 1. Marco Nolden (M.Nolden@Dkfz-Heidelberg.de) - German Cancer Research Center (DKFZ) - Germany
 1. Douglas Bowden (dmbowden@uw.edu) - University of Washington School of Medicine - USA
@@ -170,7 +171,7 @@ List of registered participants so far (names will be added here after processin
 1. Kyle Sunderland (1krs1@queensu.ca) - Queen’s University - Canada
 
 
-<!-- 
+<!--
 
 ## Statistics
 
