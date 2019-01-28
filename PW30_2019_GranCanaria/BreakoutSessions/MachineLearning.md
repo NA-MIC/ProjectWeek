@@ -42,3 +42,9 @@ Related efforts:
 - [NiftyNet](https://github.com/NifTK/NiftyNet)
 - [MITK-Diffusion](http://mitk.org/wiki/MitkDiffusion#Requirements): contains deep learning based tractography module (requires manual python installation and only works on Linux)
 - [DLTK](https://github.com/DLTK/DLTK): directly implemented on top of TensorFlow (not on top of Keras or pytorch)
+- [netharn](https://github.com/Erotemic/netharn): Parameterized fit and prediction harnesses for pytorch.
+ * This project focuses on deploying pytorch models.
+ * It was initially developed at Kitware.
+ * Instead of simply introspecting a single file to extract code for your model, it is able to recursively pull code from external modules in order to ensure that the exported model topology is truly standalone and not dependent on whatever tool was used to train it.
+ * Note that the current internal version (0.1.5: pending public release) contains a more powerful version of the existing public (0.1.1) export and deploy code.
+
