@@ -47,5 +47,12 @@ Related efforts:
   * It was initially developed at Kitware.
   * Instead of simply introspecting a single file to extract code for your model, it is able to recursively pull code from external modules in order to ensure that the exported model topology is truly standalone and not dependent on whatever tool was used to train it.
   * Note that the current internal version (0.1.5: pending public release) contains a more powerful version of the existing public (0.1.1) export and deploy code.
-- [Girder](http://girder.readthedocs.io/): Girder is both a standalone application and a platform for building new web services and could be leveraged to support sharing of both data and deployed models.
+  * For questions, jon.crall@kitware.com, jcfr@kitware.com
+- [Girder](http://girder.readthedocs.io/)
+  * Girder is both a standalone application and a platform for building new web services and could be leveraged to support sharing of both data and deployed models.
+  * For questions, michael.grauer@kitware.com, jcfr@kitware.com
+- Diva: Platform for Annotating Activities and Objects in Video
+  * For questions, michael.grauer@kitware.com, jcfr@kitware.com
+  * Poster available [here](https://data.kitware.com/api/v1/file/5c4ef2628d777f072b1a5324/download).
+  * This is along the lines of annotation creation, display, inter annotator agreement, spatiotemporal clustering, audits, workflows, crowdsourcing, cloud hosting with scalability and availability.
 
