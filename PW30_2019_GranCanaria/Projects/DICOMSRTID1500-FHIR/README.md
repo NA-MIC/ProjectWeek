@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Tobias Stein (DKFZ)
 - Jasmin Metzger (DKFZ)
 - Marco Nolden (DKFZ)
+- Markus Herrmann (MGH & BWH CCDS)
 
 # Project Description
 

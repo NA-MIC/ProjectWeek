@@ -11,6 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - James Petts (ICR)
 - Peter Oppermann (Mevis)
 - Hans Meine (University of Bremen)
+- Markus Herrmann (MGH & BWH CCDS)
 
 # Project Description
 

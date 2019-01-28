@@ -11,6 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Emel Alkim (Stanford)
 - Tobias Stein (DKFZ)
 - Jasmin Metzger (DKFZ)
+- Forrest Li (Kitware)
 
 # Project Description
 
