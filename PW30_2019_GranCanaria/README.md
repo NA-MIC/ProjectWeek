@@ -93,6 +93,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 1. [NeuroNames and the Harvard Oxford Atlas](Projects/NeuroNames-HOA/README.md)  (Mike Halle, Doug Bowden, Nikos Makris)
 1. [Pelvic Anatomy Atlases (male and female)](Projects/PelvicAnatomyAtlases/README.md) (Babacar Diao, Nayra Pumar, Xerach Suárez, Cheick Tidiane, Abdoulaye Ndiaye, Juan Ruiz-Alzola)
+1. [Opening up the Visible Human](Projects/VisibleHuman/README.md) (Mike Halle, Ron Kikinis, Andras Lasso)
 
 ### Registration
 1. [Point set registration](Projects/PointSetRegistration/README.md) (María Armas López-de-Vergara, Abián Hernández-Guedes, Juan Ruiz-Alzola)
