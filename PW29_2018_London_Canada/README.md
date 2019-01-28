@@ -102,42 +102,42 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 We have invited a number of clinicians from a variety of specialties to visit, present, discuss, or just generally engage with the community in order to faciliate meaningful and useful progress.
 
 ## Registrants
-+ Daniel Allen (Robarts Research Institute)
-+ Golafsoun Ameri (Robarts Research Institute)
-+ Udunna Anazodo (LHRI)
-+ Eman Arnout (LHSC)
-+ Patrick Carnahan (Robarts Research Institute, Western University) @pcarnah
-+ Elvis Chen (Robarts Research)
-+ Mamadou Diop (Western)
-+ Mitchell Doughty (Sunnybrook Research Institute)
-+ Mena Gaed (Robarts Research Institute)
-+ Estee Goldberg (Western University )
-+ Leah Groves (Robarts Research Institute)
-+ Houssem Gueziri (MNI)
-+ Hassan Haddad (Western University)
-+ Ikhlas Hashi (Western University)
-+ Nobuhiko Hata (Brigham and Women's Hospital)
-+ Dimuthu Henadeerage Don (Robarts Research Institute)
-+ Mason Kadem (Brain and mind)
-+ Denis Kikinov (Western University) @dkikinov
-+ Franklin King (Brigham and Women's Hospital)
-+ Andras Lasso (PerkLab, Queen's University) @lassoan
-+ Jonathan Lau (Western University)
-+ Derek	Gillies (Robarts Research Institute) @gilliesd
-+ YingLi Lu (Robarts Research Institute)
-+ Ahmed Mahran (Brigham and Women's Hospital)
-+ Pankhuri Malik (Western University)
-+ Lyla Mu (Western University)
-+ Hareem Nisar (Student)
-+ Daiana Pur (Western University) @dpuruwo
-+ Adam Rankin (Robarts Research Institute) @adamrankin
-+ Michael Schumaker (Sunnybrook Research Institute) @mschumak
-+ Tamas Ungi (Queen's University) @ungi
-+ Reid Vassallo (Robarts)
-+ Tristan Watts-Willis (Verdure Imaging Inc.) @xTdub
-+ Wenyao Xia (Western University)
-+ Yiming Xiao (Robarts Research Institute, Western University)
-+ Yaojie Zhou (Robarts Imaging)
-+ Jean-Christophe Fillion-Robin (Kitware, Inc.) @jcfr
+1. Daniel Allen (Robarts Research Institute)
+1. Golafsoun Ameri (Robarts Research Institute)
+1. Udunna Anazodo (LHRI)
+1. Eman Arnout (LHSC)
+1. Patrick Carnahan (Robarts Research Institute, Western University) @pcarnah
+1. Elvis Chen (Robarts Research)
+1. Mamadou Diop (Western)
+1. Mitchell Doughty (Sunnybrook Research Institute)
+1. Mena Gaed (Robarts Research Institute)
+1. Estee Goldberg (Western University )
+1. Leah Groves (Robarts Research Institute)
+1. Houssem Gueziri (MNI)
+1. Hassan Haddad (Western University)
+1. Ikhlas Hashi (Western University)
+1. Nobuhiko Hata (Brigham and Women's Hospital)
+1. Dimuthu Henadeerage Don (Robarts Research Institute)
+1. Mason Kadem (Brain and mind)
+1. Denis Kikinov (Western University) @dkikinov
+1. Franklin King (Brigham and Women's Hospital)
+1. Andras Lasso (PerkLab, Queen's University) @lassoan
+1. Jonathan Lau (Western University)
+1. Derek	Gillies (Robarts Research Institute) @gilliesd
+1. YingLi Lu (Robarts Research Institute)
+1. Ahmed Mahran (Brigham and Women's Hospital)
+1. Pankhuri Malik (Western University)
+1. Lyla Mu (Western University)
+1. Hareem Nisar (Student)
+1. Daiana Pur (Western University) @dpuruwo
+1. Adam Rankin (Robarts Research Institute) @adamrankin
+1. Michael Schumaker (Sunnybrook Research Institute) @mschumak
+1. Tamas Ungi (Queen's University) @ungi
+1. Reid Vassallo (Robarts)
+1. Tristan Watts-Willis (Verdure Imaging Inc.) @xTdub
+1. Wenyao Xia (Western University)
+1. Yiming Xiao (Robarts Research Institute, Western University)
+1. Yaojie Zhou (Robarts Imaging)
+1. Jean-Christophe Fillion-Robin (Kitware, Inc.) @jcfr
 
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
