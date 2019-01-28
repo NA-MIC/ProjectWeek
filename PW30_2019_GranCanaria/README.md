@@ -178,12 +178,13 @@ List of registered participants so far (names will be added here after processin
 ## Statistics
 
 (To be added during/after the event)
+-->
 
 ## Parallel Event - Casa Africa
 
-[Casa Africa Agend](https://github.com/NA-MIC/ProjectWeek/raw/master/PW30_2019_GranCanaria/Casa_Africa-Final_Agenda.pdf)
+[Casa Africa Agenda](https://github.com/NA-MIC/ProjectWeek/raw/master/PW30_2019_GranCanaria/Casa_Africa-Final_Agenda.pdf)
 
--->
+
 
 ## Program Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic%2FCanary&dates=20190128%2F20190201&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
