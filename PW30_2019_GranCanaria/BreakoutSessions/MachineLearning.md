@@ -51,7 +51,7 @@ Related efforts:
 - [Girder](http://girder.readthedocs.io/)
   * Girder is both a standalone application and a platform for building new web services and could be leveraged to support sharing of both data and deployed models.
   * For questions, michael.grauer@kitware.com, jcfr@kitware.com
-- Diva: Platform for Annotating Activities and Objects in Video
+- Platform for Annotating Activities and Objects in Video
   * For questions, michael.grauer@kitware.com, jcfr@kitware.com
   * Poster available [here](https://data.kitware.com/api/v1/file/5c4ef2628d777f072b1a5324/download).
   * This is along the lines of annotation creation, display, inter annotator agreement, spatiotemporal clustering, audits, workflows, crowdsourcing, cloud hosting with scalability and availability.
