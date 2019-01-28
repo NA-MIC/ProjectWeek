@@ -20,3 +20,7 @@ This project main aim is the discussion about the use of 3D Slicer in Training P
 
 1. To share the experience in the use of 3D Slicer in training programs for students with different profiles.
 
+## Approach and Plan
+
+1. To draft a [first proposal to be discussed](Subjects_First_Proposal.pdf)
+
