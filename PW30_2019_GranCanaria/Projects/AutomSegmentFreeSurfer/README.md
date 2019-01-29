@@ -8,8 +8,8 @@ Back to [Projects List](../README.md#ProjectsList)
 -	Nikos Makris (Brigham and Women’s Hospital and Harvard Medical School)
 -	Juan Andrés Ramírez González (ULPGC – IUIBS)
 - Yogesh Rathi (Laboratory for Mathematics in Imaging - Harvard Medical School)
--	Nayra Pumar Carreras (ULPGS – GTMA – MACbioIDi)
--	Juan Ruiz Alzola (ULPGS – GTMA – MACbioIDi)
+-	Nayra Pumar Carreras (ULPGC – GTMA-IUIBS – MACbioIDi)
+-	Juan Ruiz Alzola (ULPGS – GTMA-IUIBS – MACbioIDi)
 - Zora Kikinis (Psychiatry Neuroimaging Laboratory, Harvard Medical School)
 
 
