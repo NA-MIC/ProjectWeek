@@ -6,14 +6,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - José-Carlos Ruiz-Luque (ULPGC - GTMA-IUIBS - MACbioIDi)
 - Guillermo Valentín Socorro-Marrero (ULPGC - GTMA-IUIBS - MACbioIDi)
+- [Csaba Pinter](http://perk.cs.queensu.ca/users/pinter) (Queen's University, Canada)
 - Samba Diaw (Université Cheikh Anta DIOP)
 - Oumar Kane (Centre Hospitalier National Fann Dakar)
 - Joseane Ferreira (Hospital Agostinho Neto de Praia)
 - Juan Ruiz-Alzola (ULPGC - GTMA-IUIBS - MACbioIDi)
-
-## Participating
-
-- [Csaba Pinter](http://perk.cs.queensu.ca/users/pinter) (Queen's University, Canada)
 
 # Project Description
 
