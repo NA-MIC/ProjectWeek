@@ -5,8 +5,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - María Armas López-de-Vergara (MACbioIDi)
-- Abián Hernández-Guedes (ULPGC - GTMA - MACbioIDi)
-- Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
+- Abián Hernández-Guedes (ULPGC - GTMA-IUIBS - MACbioIDi)
+- Juan Ruiz-Alzola (ULPGC - GTMA-IUIBS - MACbioIDi)
 
 # Project Description
 
