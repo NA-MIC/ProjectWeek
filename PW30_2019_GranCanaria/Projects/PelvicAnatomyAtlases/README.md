@@ -6,12 +6,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Babacar Diao (Ecole Militaire de Santé Dakar)
-- Nayra Pumar (ULPGC – GTMA - MACbioIDi)
--	Xerach Suárez (ULPGC – GTMA - MACbioIDi)
+- Nayra Pumar (ULPGC – GTMA-IUIBS - MACbioIDi)
+-	Xerach Suárez (ULPGC – GTMA-IUIBS - MACbioIDi)
 -	Cheick Tidiane (Centre Hospitalier National Fann Dakar)
 - Abdulaye Ndiaye (Université Cheikh Anta Diop)
 - Mike Halle (BWH)
-- Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
+- Juan Ruiz-Alzola (ULPGC - GTMA-IUIBS - MACbioIDi)
 
 
 ## Project Description
