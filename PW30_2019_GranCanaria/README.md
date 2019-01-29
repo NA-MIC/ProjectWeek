@@ -123,7 +123,7 @@ List of registered participants so far (names will be added here after processin
 1. Nikolaos Makris (nikos@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Sonia Pujol (spujol@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Gabor Fichtinger (gabor@cs.queensu.ca) - Queen’s University - Canada
-1. Andrey Fedorov ([@fedorov](https://github.com/fedorov)) (andrey.fedorov@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - USA
+1. Andrey Fedorov (@fedorov) (andrey.fedorov@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Jean-Christophe Fillion-Robin (@jcfr)(jchris.fillionr@kitware.com) - Kitware Inc. - USA
 1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
 1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
@@ -149,7 +149,7 @@ List of registered participants so far (names will be added here after processin
 1. Joost van Griethuysen (@maastrichtuniversity.nl) - Maastricht University - Netherlands
 1. Kevin Cleary (kcleary@childrensnational.org) - Sheikh Zayed Institute for Pediatric Surgical Innovation - Children's National - USA
 1. Emel Alkim (ealkim@stanford.edu) - Stanford University Department of Biomedical Data Science - Stanford University - USA
-1. Hans Meine (meine@uni-bremen.de) - University of Bremen - Germany
+1. Hans Meine (@hmeine) (meine@uni-bremen.de) - University of Bremen - Germany
 1. Kitti Farkas (fakuabt@gmail.com) - University of Szeged - Hungary
 1. Bence Horvath (horviratus@gmail.com) - University of Szeged - Hungary
 1. Endre Vecsernyés (vecsernyesendre@gmail.com) - University of Szeged - Hungary
