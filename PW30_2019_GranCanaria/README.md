@@ -102,7 +102,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 
 - Anatomy segmentation
 - Use of 3D Slicer in educational programs
-- Slicer core update and plans
+- [Slicer core update and plans](BreakoutSessions/SlicerCoreUpdateAndPlans.md)
 - OHIF, vtkjs, and related web technologies
 - Neuroanatomy
 - [Machine learning](BreakoutSessions/MachineLearning.md)
