@@ -50,6 +50,10 @@ utilizing dcmjs for IO. This project is the logical continuation of [a previous 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+* Segmentation Review System (Tobias Stein @DKFZ)
+https://drive.google.com/file/d/1NXiu18mCFXrIaEgQ1WdzBbmq9igIyZNN/view?usp=sharing
+This is showing an examplary application using DICOM SEG in two cornerstone viewers and DICOM Parametric Map overlay above standard DICOM image data using dcmjs and cornerstoneTools. At the end also DICOM SR data is used to show calculated metrics of the segmentation evaluation.
+At the moment the upcoming React components are not used, but this would be a great use case.
 
 # Background and References
 
