@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Kevin Cleary (SZI - Children’s National, USA)
 - Attila Nagy (SZTE Medical School, Hungary)
 - Mike Halle (BWH, USA)
-- Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
+- Juan Ruiz-Alzola (ULPGC - GTMA-IUIBS - MACbioIDi)
 
 ## Project Description
 
