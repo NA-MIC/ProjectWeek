@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 -	Yahya Tfeil (Université de Nouakchott Al Aasriya - Faculté de Médecine)
 -	Mohamed Septy (Université de Nouakchott Al Aasriya - Faculté de Médecine)
 -	Joseanne Alexandra Da Rosa De Pina Ferreira (Hospital Agostinho Neto)
--	GTMA group
+-	GTMA group - IUIBS
 
 
 ## Project Description
