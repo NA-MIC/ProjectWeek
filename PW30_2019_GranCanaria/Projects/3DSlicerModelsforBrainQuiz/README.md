@@ -6,10 +6,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Sergi Bermudez i Badia (M-ITI - MACbioIDi)
 - Yuri Almeida (M-ITI - MACbioIDi)
-- Abián Hernández-Guedes (ULPGC - GTMA - MACbioIDi)
+- Abián Hernández-Guedes (ULPGC - GTMA-IUIBS - MACbioIDi)
 - Artemisa Moreno (UniCV - MACbioIDi)
-- María Dolores Afonso-Suárez (ULPGC - GTMA - MACbioIDi)
-- Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
+- María Dolores Afonso-Suárez (ULPGC - GTMA-IUIBS - MACbioIDi)
+- Juan Ruiz-Alzola (ULPGC - GTMA-IUIBS - MACbioIDi)
 
 ## Project Description
 
