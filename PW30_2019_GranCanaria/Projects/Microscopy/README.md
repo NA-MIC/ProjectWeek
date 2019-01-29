@@ -4,10 +4,10 @@ Back to [Projects List](../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Aziza Elmahjoub (MACbioIDi - Sorbone Université)
-- Abián Hernández-Guedes (ULPGC - GTMA - MACbioIDi)
-- María Dolores Afonso-Suárez (ULPGC - GTMA - MACbioIDi)
-- Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
+- Aziza Elmahjoub (MACbioIDi-IUIBS - Sorbone Université)
+- Abián Hernández-Guedes (ULPGC - GTMA-IUIBS - MACbioIDi)
+- María Dolores Afonso-Suárez (ULPGC - GTMA-IUIBS - MACbioIDi)
+- Juan Ruiz-Alzola (ULPGC - GTMA-IUIBS - MACbioIDi)
 
 ## Project Description
 
