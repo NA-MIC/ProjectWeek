@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Use of 3DSlicer in Training Programs
+# Using 3D Slicer in University Biomedical Engineering Degrees 
 
 ## Key Investigators
 
