@@ -106,6 +106,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 - OHIF, vtkjs, and related web technologies
 - Neuroanatomy
 - [Machine learning](BreakoutSessions/MachineLearning.md)
+- [Training of Specialists in Mozambique](BreakoutSessions/CatedraEdMed.pdf)
 
 ## Registrants
 
