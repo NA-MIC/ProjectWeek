@@ -127,7 +127,7 @@ List of registered participants so far (names will be added here after processin
 1. Jean-Christophe Fillion-Robin (@jcfr)(jchris.fillionr@kitware.com) - Kitware Inc. - USA
 1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
 1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
-1. Yayha Ould Tfeil (tefeil2000@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
+1. Yahya Ould Tfeil (tefeil2000@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
 1. M Alexandra Fernandes Rodrigues (malexa.rodrigues@gmail.com) - Faculdade de Medicina da Universidade Eduardo Mondlane - Mozambique
 1. Joseane Alexandre Da Rosa de Pina Ferreira (joseane.ferreira@han.gov.cv) - Hospital Agostinho Neto de Praia - Cabo Verde
 1. Artemisa Mendes Moreno (artemisa.moreno@docente.unicv.edu.cv) - Faculdade de Ciências e Tecnologia, Universidade de Cabo Verde - Cabo Verde
