@@ -20,14 +20,18 @@ We built a data-glove that tracks hand movements. Our goal is to connect it to S
 ## Objective
 
 1. Stable connections between the glove and the Slicer
-1. Calibrate movements
+1. ...
 
 ## Approach and Plan
 
-1. TBA
-
+1. Making connection between the glove and Slicer with Plus toolkit
+1. ...
 
 ## Progress and Next Steps
+
+1. The glove can be used as an orientation sensor.
+1. For virtual operations we need a different approach and decvice. (For example Leap Motion)
+
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
@@ -48,6 +52,9 @@ We built a data-glove that tracks hand movements. Our goal is to connect it to S
 - MPU9250 Datasheet: https://cdn.sparkfun.com/assets/learn_tutorials/5/5/0/MPU9250REV1.0.pdf
 - Arduino Uno website: https://store.arduino.cc/arduino-uno-rev3
 - MPU9250-Arduino library: https://github.com/bolderflight/MPU9250
+- Leap Motion website: https://www.leapmotion.com/
+
+
 <!--- Source code: https://github.com/YourUser/YourRepository  -->
 <!--- Documentation: https://link.to.docs  -->
 <!--- Test data: https://link.to.test.data  -->
