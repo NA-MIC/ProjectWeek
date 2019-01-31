@@ -10,7 +10,7 @@ Anybody who is interested in using machine learning for medical image computing 
 
 Lookup day and time on the [calendar](../README.md#program-calendar).
 
-Hangout link is https://meet.google.com/xkf-ymeb-rqs
+Hangout link is [https://meet.google.com/xkf-ymeb-rqs](https://meet.google.com/xkf-ymeb-rqs)
 
 * Presenting current approaches for
   * training data generation
@@ -30,7 +30,7 @@ Those who already have machine learning projects are encouraged to prepare with 
 
 ## Meeting minutes
 
-Meeting minutes will be added here.
+Meeting minutes will be added [here](https://docs.google.com/document/d/1LeSxafO3YzgRHRDnjyA-aQSkcKlbk__QLiJLNQi615o/edit).
 
 ## Background and References
 
