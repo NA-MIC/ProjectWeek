@@ -27,6 +27,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - [Progress made at last project week](../../../PW28_2018_GranCanaria/Projects/MultiVolumeRendering/README.md)
 - [Get methods for uniforms](https://github.com/lassoan/VTK/tree/opengl-uniforms-get-methods)
+- PLan:
+  - Fork develop VTK based classes for GLSL image processing algorithms (see [vtkOpenGLImageAlgorithmHelper]( https://vtk.org/doc/nightly/html/classvtkOpenGLImageAlgorithmHelper.html))
+  - Support for multipass algorithms wihtout writing back to memory
 
 ### Result
 
