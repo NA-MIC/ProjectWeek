@@ -33,7 +33,25 @@ This project aims to improve the automatic segmentation results generated from t
 
 ## Progress and Next Steps
 
-1. To be completed
+1. The image used on this project is the MIR of the brain labelled 103414.  
+1. The two structures that have been segmented are:
+* Subcallosal area SC (from slices A31.900mm to A15.116mm)
+- Medial border: hemispheric margin
+- Lateral border: grey-white matter border 
+- Superior border: corpus callosum
+- Inferior border: inferior hemispheric curvature (45º line)
+- Anterior border:
+- Posterior border: 
+* Orbito Frontal Cortex OFC (from slices A55.800mm F3 to A8.200mm F5 on the right hemisphere, from slices A56.500mm to A7.500mm on the left hemisphere).
+- Medial border: olfatory surcus
+- Lateral border: orbital surcus
+- Superior border: grey-white matter border
+- Inferior border: hemispheric margin
+- Anterior border:
+- Posterior border: 
+In the OFC segment the medial and two lateral segments have been merged into a single segment.
+1. The segmentation has been done manually, tracing the countours of the desired segments between the defined anterior and posterior boundaries on the coronal view.
+We have taken, for the OFC, the traditional approach, following the olfatory surcus
 
 
 ## Illustrations
