@@ -38,6 +38,11 @@ Machine learning solutions used in Slicer:
 - [DeepInfer](http://www.deepinfer.org/): store models on cloud and run locally in docker container
 - [TOMAAT](https://github.com/faustomilletari/TOMAAT-Slicer): store and run models on cloud
 - [SlicerIGT](https://github.com/SlicerIGT/UsAnnotationExport): real-time segmentation of 2D ultrasound image streams, train and run models locally
+  - Classify images and seperate into training, validation and testing datasets using Jupyter Notebook
+  - First approach saved images local machine. Image was detected and the prediction was written to a file to be read by Slicer.
+  - Second approach streams data to Keras using OpenIGTLink and return classification along the same connection
+  
+
 - [Chest imaging platform](https://na-mic.github.io/ProjectWeek/PW27_2018_Boston/Projects/CIPDeepLearningLungSegmentation/): work in progress? does not seem to be integrated in the public repository yet
 
 Related efforts:
