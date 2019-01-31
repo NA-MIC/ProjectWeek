@@ -32,8 +32,8 @@ We want to implement a neural network based automatic segmentation algorithm to 
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 We made some segmentation mask in Slicer, using Segment editor's fill between slices tool. 
-![The original CT image](Test.jpg)
-![The segmentation mask](mask.jpg)
+![The original CT image](Test.JPG)
+![The segmentation mask](mask.JPG)
 
 # Illustrations
  Keras, a neural network package in python:
