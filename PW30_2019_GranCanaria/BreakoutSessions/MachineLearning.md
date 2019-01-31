@@ -10,6 +10,8 @@ Anybody who is interested in using machine learning for medical image computing 
 
 Lookup day and time on the [calendar](../README.md#program-calendar).
 
+Hangout link is https://meet.google.com/xkf-ymeb-rqs
+
 * Presenting current approaches for
   * training data generation
   * deployment of trained models for end-users
