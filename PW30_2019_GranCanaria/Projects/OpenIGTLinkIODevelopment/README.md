@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - [Andras Lasso](http://perk.cs.queensu.ca/users/lasso) (Queen's University, Canada)
 - [Kyle Sunderland](http://perk.cs.queensu.ca/users/sunderland) (Queen's University, Canada)
+- Houssem Gueziri
 
 # Project Description
 
@@ -24,13 +25,19 @@ Back to [Projects List](../../README.md#ProjectsList)
 * Improve support for ultrasound image acquisition from BK ultrasound systems
 
 ## Progress and Next Steps
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
-* To be completed
+* Worked on the implementation of a Python based OpenIGTLink implementation for sending and receiving OpenIGTLink messages ([pyIGTLink](https://github.com/Sunderlandkyl/pyIGTLink/tree/pyIGTLink_client))
+* Investigate issues with missing tool status metadata for transforms received from Plus
+* Coordinated with other projects regarding the implementation and utilization of Plus and OpenIGTLink for image guided applications
+  - [MRINeedleGuidance](https://github.com/NA-MIC/ProjectWeek/tree/master/PW30_2019_GranCanaria/Projects/MRINeedleGuidance)
+  - [DataGlove](https://github.com/NA-MIC/ProjectWeek/tree/master/PW30_2019_GranCanaria/Projects/Data-glove_for_virtual_operations)
+
 
 ## Future work
 
-* To be completed 
+* Improve robustness of pyIGTLink implementation and ensure support for both Python 2 and 3 
+* Continue to maintain and develop Plus and OpenIGTLinkIO
+* If you have any questions or issues, feel free to submit an issue on [GitHub](https://github.com/PlusToolkit/PlusLib/issues)
 
 # Illustrations
 
