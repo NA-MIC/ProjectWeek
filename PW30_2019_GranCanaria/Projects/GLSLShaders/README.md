@@ -29,7 +29,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Get methods for uniforms](https://github.com/lassoan/VTK/tree/opengl-uniforms-get-methods)
 
 - Plan going forward:
-  - Fork develop VTK based classes for GLSL image processing algorithms (see [vtkOpenGLImageAlgorithmHelper]( https://vtk.org/doc/nightly/html/classvtkOpenGLImageAlgorithmHelper.html))
+  - Fork SlicerVTK and develop VTK based classes for GLSL image processing algorithms (see [vtkOpenGLImageAlgorithmHelper]( https://vtk.org/doc/nightly/html/classvtkOpenGLImageAlgorithmHelper.html))
   - Support for multipass algorithms wihtout writing back to memory
 
 ### Result
