@@ -44,6 +44,7 @@ We built a data-glove that tracks hand movements. Our goal is to connect it to S
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
+- Previous work in Slicer using PhidgetSpatial 3/3/3 sensor: http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kotwicz2014.pdf
 - MPU9250 Datasheet: https://cdn.sparkfun.com/assets/learn_tutorials/5/5/0/MPU9250REV1.0.pdf
 - Arduino Uno website: https://store.arduino.cc/arduino-uno-rev3
 - MPU9250-Arduino library: https://github.com/bolderflight/MPU9250
