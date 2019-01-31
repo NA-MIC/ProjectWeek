@@ -18,7 +18,7 @@ Lookup day and time on the [calendar](../README.md#program-calendar).
 ## Participants
 - Andras Lasso (PerkLab, Queen's University) - with presentation
 - Steve Pieper (Isomics) - with presentation?
-- Marco Nolden (DKFZ) - with presentation?
+- Marco Nolden (DKFZ), Jonas Scherer (DKFZ) - with presentation
 - Deepak Roy Chittajallu (Kitware) - with presentation
 - Bence Horvath (Unirversity of Szeged) - with presentation?
 
