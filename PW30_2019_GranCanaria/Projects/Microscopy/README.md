@@ -39,6 +39,12 @@ Microscopy images. Histological sections of regenerated skin after injury.
 | ------------------------------------------|----------------------------------------|----------------------------------------|
 | <img src="Figure1.png" width="242" height="144"> | <img src="Figure2.png" width="242" height="144"> | <img src="Figure3.png" width="242" height="144">	|
 
+Microscopy module.
+
+|                Thresholding               |                 Watershed              |                                        |
+| ------------------------------------------|----------------------------------------|----------------------------------------|
+| <img src="Figure1.1..png" width="242" height="144"> | <img src="Figure3.3.png" width="242" height="144"> | <img src="Figure2.2.png" width="242" height="144">	|
+
 ## Background and References
 
 + [Previous work in 3DSlicer](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/IASEM)
