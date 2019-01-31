@@ -35,8 +35,8 @@ This project main aim is the development of a new extension/module for 3DSlicer 
 
 Microscopy images. Histological sections of regenerated skin after injury.
 
-|              Microscopy image             |            Thresholding method         |         Watershed transformation       |
-| ------------------------------------------|----------------------------------------|----------------------------------------|
+| Microscopy image | Thresholding method | Watershed transformation |
+| -----------------|---------------------|--------------------------|
 | <img src="Figure1.png" width="290" height="165"> | <img src="Figure2.png" width="290" height="165"> | <img src="Figure3.png" width="290" height="165"> |
 
 
@@ -44,8 +44,8 @@ Microscopy images. Histological sections of regenerated skin after injury.
 
 Microscopy module.
 
-|                      Thresholding                            |                              Watershed                       |
-|--------------------------------------------------------------|--------------------------------------------------------------|
+| Thresholding | Watershed |
+| -------------|-----------|
 | <img src="Figure1.1..png" width="400" height="250"> | <img src="Figure3.3.png" width="400" height="250"> | 
 
 
@@ -53,8 +53,8 @@ Microscopy module.
 
 The other. 
 
-|                                                            Text                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------|
+| Text |
+| -----|
 |<img src="Figure2.2.png" width="700" height="350">|
 
 
