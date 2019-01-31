@@ -33,8 +33,9 @@ This project is a next step in the one presented during 28th PW NA-MIC and it ai
 4. Studying the MicrUs SDK to visualize the image orientation marker symbol and it will be implemented in the Plus Toolkit or 3D Slicer. 
 
 ## Progress and Next Steps
-
-
+1. We discussed the image orientation marker symbol with PerkLab team and we developed a prototype (see Figure 6)
+     - The symbol (ours is M) is a new actor in a viewport
+     
 # Illustrations
 
 Guidelet muli-language interface:
@@ -60,6 +61,12 @@ Figure 4.  An angle between a plane of the US image and a needle or a needle mod
 <img src="ImageOrientationMarkerSymbol.png" width="430" height="422" >
 
 Figure 5. An image orientation marker symbol (in blue color)
+
+**Outcome:**
+
+<img src="ImageOrientationMarkerSymbol_Result.png" > 
+
+Figure 6. A prototype for the image orientation marker symbol (M) and the depth (green rectangles)
 
 
 # Background and References
