@@ -32,8 +32,8 @@ The training project is, in this 30PW, in its third edition. New clinician profe
 
 ## Progress and Next Steps
 
-1. We have gathered information to work on each country to introduce the use of 3D Slicer as a tool for clinicians in their official plans.
-1. Since African countries have different needs and their students different profiles, different programs will be proposed 
+1. We have gathered information to work on each country in order to introduce the use of 3D Slicer as a tool for clinicians in their official plans.
+1. Since African countries have different needs and their students different profiles, different programs will be proposed. 
 1. We will develop reports for these different proposals and will study the impact of the whole process. 
 
 ## Illustrations
