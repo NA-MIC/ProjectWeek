@@ -26,11 +26,10 @@ This project main aim is the development of a new extension/module for 3DSlicer 
 
 ## Progress and Next Steps
 
-1. We have developed a module to segment microscopic images.
-<!-- 1. Its been implemented using threshold segmentation and the watershed algorithm. -->
+1. We have developed a module to segment microscopic images.<!-- 1. implemented using threshold segmentation and the watershed algorithm. -->
 1. We have tested the module with images from an optical microscope.
 1. We will continue working with images from electronic microscope and a confocal one. We started with the confocal images
-and we would like to be able to create volumes from these images.
+and we would like to be able to create volumes from these images, trying to deveolp also more functionalities.
 
 ## Illustrations
 
