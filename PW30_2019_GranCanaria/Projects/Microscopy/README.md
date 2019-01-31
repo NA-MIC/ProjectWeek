@@ -28,22 +28,16 @@ This project main aim is the development of a new extension/module for 3DSlicer 
 
 1. We have developed a module to segment microscopic images.<!-- 1. implemented using threshold segmentation and the watershed algorithm. -->
 1. We have tested the module with images from an optical microscope.
-1. We will continue working with images from electronic microscope and a confocal one. We started with the confocal images
-and we would like to be able to create volumes from these images, trying to deveolp also more functionalities.
+1. We will continue working with images from electronic microscope and confocal microscope.
+1. We have started with the confocal images and we would like to be able to create volumes from these images, trying to deveolp also more functionalities.
 
 ## Illustrations
 
-<img src="Figure1.png" width="242" height="144">
+Microscopy images. Histological sections of regenerated skin after injury.
 
-Microscopy image. Histological sections of regenerated skin after injury.
-
-<img src="Figure2.png" width="242" height="144">
-
-Thresholding method
-
-<img src="Figure3.png" width="242" height="144">
-
-Watershed transformation
+|              Microscopy image             |            Thresholding method         |         Watershed transformation       |
+| ------------------------------------------|----------------------------------------|----------------------------------------|
+| <img src="Figure1.png" width="242" height="144"> | <img src="Figure2.png" width="242" height="144"> | <img src="Figure3.png" width="242" height="144">	|
 
 ## Background and References
 
