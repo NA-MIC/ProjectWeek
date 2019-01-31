@@ -32,21 +32,38 @@ This proposal is a joint collaboration work: [M-ITI](https://www.m-iti.org/) and
 
 ## Progress and Next Steps
 
-1. To be completed.
+1. We have created a template to build quizzes.
+1. Document on how to create more questions.
+1. Refine some interface issues.
+1. Allow rotation of all models at the same time.
+1. Add and test interaction with touch on android.
+
+
 
 ## Illustrations
-Prototype from PW28th.
 
-<img src="PelvisQuiz.png" width="256" height="153">
+| Prototype from PW28th| 3D Model for 30PW| 
+| ---------------------|------------------|
+| <img src="PelvisQuiz.png" width="256" height="153"> | <img src="BrainModel.jpg" width="180" height="180"> |
 
-3D Model for 30PW.
-
-<img src="BrainModel.jpg" width="180" height="180">
 
 Unity Scenario video examples.
 
 [![Watch the video](CaveUnity_1.png)](https://www.youtube.com/watch?v=wXCQJktzXis&list=PLr1mTM03DyQ_8DbbGY4pfbsgm6zHjQfzY&index=19)
 [![Watch the video](CaveUnity_2.png)](https://www.youtube.com/watch?v=eQMNyAurvVo)
+
+Implementation.
+
+| Main menu| Highscore| 
+| ---------|----------|
+| <img src="F1.png" width="500" height="250"> | <img src="F2.png" width="500" height="250"> |
+
+| Question example | End game + New High Score Entry | 
+| -----------------|---------------------|
+| <img src="F3.png" width="500" height="250"> | <img src="F4.png" width="500" height="250"> |
+
+
+
 
 
 ## Background and References
