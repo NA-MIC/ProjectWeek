@@ -20,12 +20,11 @@ We built a data-glove that tracks hand movements. Our goal is to connect it to S
 ## Objective
 
 1. Stable connections between the glove and the Slicer
-1. ...
 
 ## Approach and Plan
 
 1. Making connection between the glove and Slicer with Plus toolkit
-1. ...
+1. Plans for the future
 
 ## Progress and Next Steps
 
@@ -44,6 +43,10 @@ We built a data-glove that tracks hand movements. Our goal is to connect it to S
 ![Arduino and the IMU](hardware1.jpg)
 
 ![The IMU's other side](hardware2.jpg)
+
+Result:
+
+![Result](20190201_095221.gif)
 
 # Background and References
 
