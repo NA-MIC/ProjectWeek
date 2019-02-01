@@ -48,7 +48,7 @@ Should we also consider [TID2000 Basic Diagnostic Imaging Report](http://dicom.n
    storing the most important results (with references to the
    underlying DICOM objects), in order to make them available together
    with other EHR data!
-1. Put up code at [https://github.com/hmeine/tid1500-fhir]
+1. Put up code at [https://github.com/hmeine/tid1500-fhir](https://github.com/hmeine/tid1500-fhir)
 1. Prepared Typescript-based expected FHIR results (autocompletion!) + conversion scripts to JSON
 1. Created a script that uses dsr2xml (from dcmtk), parses the resulting XML, and creates FHIR resources
 1. Created a second script uploads the result to a FHIR server (first checking for existing duplicates)
@@ -65,11 +65,11 @@ Should we also consider [TID2000 Basic Diagnostic Imaging Report](http://dicom.n
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
 Relevant FHIR resources for the diagnostic report and reported observations:
-* DiagnosticReport resource: [https://www.hl7.org/fhir/diagnosticreport.html]
-* codedDiagnosis: [https://www.hl7.org/fhir/diagnosticreport-definitions.html#DiagnosticReport.codedDiagnosis]
-* result: [https://www.hl7.org/fhir/diagnosticreport-definitions.html#DiagnosticReport.result]
-* image:[ https://www.hl7.org/fhir/diagnosticreport-definitions.html#DiagnosticReport.image]
-* observartion resource: [https://www.hl7.org/fhir/observation.html]
+* DiagnosticReport resource: [https://www.hl7.org/fhir/diagnosticreport.html](https://www.hl7.org/fhir/diagnosticreport.html)
+* codedDiagnosis: [https://www.hl7.org/fhir/diagnosticreport-definitions.html#DiagnosticReport.codedDiagnosis](https://www.hl7.org/fhir/diagnosticreport-definitions.html#DiagnosticReport.codedDiagnosis)
+* result: [https://www.hl7.org/fhir/diagnosticreport-definitions.html#DiagnosticReport.result](https://www.hl7.org/fhir/diagnosticreport-definitions.html#DiagnosticReport.result)
+* image:[https://www.hl7.org/fhir/diagnosticreport-definitions.html#DiagnosticReport.image](https://www.hl7.org/fhir/diagnosticreport-definitions.html#DiagnosticReport.image)
+* observartion resource: [https://www.hl7.org/fhir/observation.html](https://www.hl7.org/fhir/observation.html)
 
 Other FHIR-related pointers:
 * [#FHIR and confusion about the 80/20 rule](http://www.healthintersections.com.au/?p=1924), and interesting discussion on this rule in the context of DICOM: [FHIR Extensions, the 80/20 rule, DICOM and the LONG tail](http://www.healthintersections.com.au/?cat=39), by Grahame Grieve
