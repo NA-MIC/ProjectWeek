@@ -83,4 +83,5 @@ Point set registration example from a blue point set M to the red point set S:
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data,
 and to any relevant publications. -->
 
-* TODO
+* [MedChIPSRegis: Project code](https://github.com/SolidusAbi/MedChIPSRegis)
+* [PyCPD: CPD Python Implementation](https://github.com/siavashk/pycpd/tree/fd702d5c7e9dc5b83527aee6d43049e47af58d54)
