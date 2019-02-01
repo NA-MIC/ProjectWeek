@@ -37,6 +37,7 @@ This project focuses on the development of anatomical atlases of the pelvic area
 ## Progress and Next Steps
 
 1. Female pelvic anatomy atlas is already finished
+1. Translation to english-french-spanish is already finished and revised
 1. Male pelvic anatomy atlas is in the process of refinement
 1. Lung, with a case of tuberculosis, in on the way
 1. A mauritanian team is creating another male pelvic anatomy atlas
