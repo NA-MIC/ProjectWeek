@@ -28,6 +28,8 @@ Please add your name above if you plan to attend.
 
 Those who already have machine learning projects are encouraged to prepare with a short presentation (maximum 5 minutes; slides are optional) about how they do it now. Please add "with presentation" next to your name.
 
+![](./MachineLearning_BreakoutSession.jpg)
+
 ## Meeting minutes
 
 Meeting minutes are available [here](https://docs.google.com/document/d/1LeSxafO3YzgRHRDnjyA-aQSkcKlbk__QLiJLNQi615o/edit).
