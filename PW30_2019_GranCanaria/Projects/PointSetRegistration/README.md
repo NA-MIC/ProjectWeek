@@ -71,8 +71,8 @@ Point set registration example from a blue point set M to the red point set S:
 
 ## Hand example
 ### Input images:
-![fixed](hand_0.png)
-![moving](hand_1.png)
+![fixed](hand_1.png)
+![moving](hand_0.png)
  
 ![Hand example](https://media.giphy.com/media/3BMs85RdITDXTQ6icq/giphy.gif)
 
