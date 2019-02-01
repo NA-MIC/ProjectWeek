@@ -35,7 +35,7 @@ We made some segmentation mask in Slicer, using Segment editor's fill between sl
 - An Segmented Image
 ![The original CT image](minta.PNG)
 - Few non-segmented image
-![Non-seg](image_00008.png)(image_00009.png)(image_00010.png)
+![Non-seg](image_00008.png) ![](image_00009.png)![](image_00010.png)
 
 # Illustrations
  Keras, a neural network package in python:
