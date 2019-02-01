@@ -41,6 +41,7 @@ This project focuses on the development of anatomical atlases of the pelvic area
 1. Male pelvic anatomy atlas is in the process of refinement
 1. Lung, with a case of tuberculosis, in on the way
 1. A mauritanian team is creating another male pelvic anatomy atlas
+1. Exportation to VR of the female pelvic atlas (the male version has been already exported)
 
 
 ## Illustrations
