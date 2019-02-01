@@ -30,7 +30,7 @@ Those who already have machine learning projects are encouraged to prepare with 
 
 ## Meeting minutes
 
-Meeting minutes will be added [here](https://docs.google.com/document/d/1LeSxafO3YzgRHRDnjyA-aQSkcKlbk__QLiJLNQi615o/edit).
+Meeting minutes are available [here](https://docs.google.com/document/d/1LeSxafO3YzgRHRDnjyA-aQSkcKlbk__QLiJLNQi615o/edit).
 
 ## Background and References
 
