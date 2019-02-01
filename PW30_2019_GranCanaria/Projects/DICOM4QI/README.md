@@ -11,6 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - James A. Petts
 - Jasmin Metzger (DKFZ)
 - Marco Nolden (DKFZ)
+- Peter Stein (DKFZ)
 
 # Project Description
 
@@ -76,9 +77,9 @@ Markus has been working on defining/implementing the API, helped by the discussi
 
 ### Other DICOM related topics discussed
 1. **Converting non-DICOM images into DICOM** Raised by Tobias Stein and Maro: In imaging research groups, there is frequently an abundance of the images in non-DICOM format. There is a practical question of how to harmonize those with the DICOM data, and maintain them in the same database. It would be helpful to be able to convert those representations into some DICOM format. Slicer has a [CreateDICOMSeries](https://github.com/Slicer/Slicer/tree/master/Modules/CLI/CreateDICOMSeries) module, but it can only create a non-enhanced CT series, and has limitations. It will also be, in the general case, impossible to meaningfully populate modality-specific attributes, if a modality-specific object is created. Discussed possible suitable containers for such representation:
-* [Raw Data IOD](http://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_A.37.html) - does not have `PixelData`, may be "too raw"?
-* Various types of [Secondary Capture IODs](http://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_A.8.html)
-* Does it make sense to suggest a new IOD to cover an image of a known modality, but where acquisition details are not known?
+   * [Raw Data IOD](http://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_A.37.html) - does not have `PixelData`, may be "too raw"?
+   * Various types of [Secondary Capture IODs](http://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_A.8.html)
+   * Does it make sense to suggest a new IOD to cover an image of a known modality, but where acquisition details are not known?
 1. **Harmonization of DICOM infrastructure between Slicer and MITK** (or rather, lack of such!). Both MITK and Slicer (need to) implement various strategies for parsing DICOM data into volumetric reconstructions. Both do this independently, as many other tools and converters do. It might be interesting to investigate how those developments could be coordinated. Andras, Marco and Andrey discussed this and are planning to follow up with a further discussion to go over details. Will also invite Ralf Floca from the MITK team.
 
 # Illustrations
