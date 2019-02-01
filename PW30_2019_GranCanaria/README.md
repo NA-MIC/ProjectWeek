@@ -4,8 +4,8 @@
 
 <table>
 <tr>
-    <td> <img src="NA-MIC3.jpg" width="450" height="263"> </td>
-    <td> <img src="NA-MIC4.jpg" width="450" height="263"> </td>
+    <td> <img src="NA-MIC3.jpg"> </td>
+    <td> <img src="NA-MIC4.jpg"> </td>
 </tr>    
 <tr>
     <td> <img src="NA-MIC1.jpg" width="450" height="225"> </td>
