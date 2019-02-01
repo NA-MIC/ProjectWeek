@@ -4,8 +4,8 @@
 
 <table>
 <tr>
-    <td> <img src="NA-MIC3.jpg"> </td>
-    <td> <img src="NA-MIC4.jpg"> </td>
+    <td> <img src="NA-MIC3.jpg" width="450" height="225"> </td>
+    <td> <img src="NA-MIC4.jpg" width="450" height="225"> </td>
 </tr>    
 <tr>
     <td> <img src="NA-MIC1.jpg" width="450" height="225"> </td>
@@ -15,7 +15,7 @@
 
 <table>
 <tr>
-    <td> <img src="PW30-500px.png"> </td>
+    <td> <img src="PW30-500px.png"></td>
   <td> <b>Local Organizing Committee Host:</b> <ul><li>Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies, director of the Grupo de Tecnología Médica y Audiovisual (GTMA), <a href="http://www.iuibs.ulpgc.es/">Instituto Universitario de Investigaciones Biomédicas y Sanitarias</a> (IUIBS), <a href="http://www.ulpgc.es">Universidad de Las Palmas de Gran Canaria</a> (ULPGC) </li> <li> Email Local Organizing Committee: <a href="mailto:marilola.afonso@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30">Technical Topics: Maria Dolores Afonso Suarez</a> <a href="mailto:asmaa.skareb@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30">Administrative Topics: Asmaa Skareb</a> </li></ul></td>
 </tr>
 </table>
