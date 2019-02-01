@@ -30,23 +30,11 @@ Improve 3D Slicer’s existing features to support glTF file format export/impor
 
 1. Evaluated multiple gltf toolkits. Found that tinygltf library seems to be small but capable enough to fulfill our needs.
 1. Converted [Voxel-man](https://www.voxel-man.com/) models to Slicer segmentation object
-  - VoxelMan abdominal atlas cannot be saved as segmentation (running out of memory). Potential solutions: 1. use advanced nrrd streamed reading/writing, 2. allow writing of non-overlapping regions into single labelmap. (or maybe allow defining groups that are non-overlapping)
-  - It seems that some images are corrupted:
-    - head/CT: frozenCT1005 .. frozenCT1013
-    - head/labels: labels1125
-  - Segmentation is not clear (e.g., there are many holes and fractured contours)
-  - What to do with multi-value labels? Merge them or assign different names (add suffix)?
 
 Segmentation developments needed to better support atlases (with hundreds of segments):
 - Reduce memory need of saving (we cannot save segmentations with many labels)
 - Many operations are very slow
 - Segment search/filter option needed
-
-## Illustrations
-
-![Voxel-man head atlas](Head.jpg)
-
-![Voxel-man abdominal atlas](InnerOrgans.jpg)
 
 ## Background and References
 

@@ -38,15 +38,20 @@ Convert the Visible Human Project data into Slicer scenes and evaluate.
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-
 1. Initial VHP Slicer scenes are complete.
-
+2. Lessons learned:
+  - VoxelMan abdominal atlas cannot be saved as segmentation (running out of memory). Potential solutions: 1. use advanced nrrd streamed reading/writing, 2. allow writing of non-overlapping regions into single labelmap. (or maybe allow defining groups that are non-overlapping)
+  - It seems that some images are corrupted:
+    - head/CT: frozenCT1005 .. frozenCT1013
+    - head/labels: labels1125
+  - Segmentation is not clear (e.g., there are many holes and fractured contours)
+  - What to do with multi-value labels? Merge them or assign different names (add suffix)?
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
--->
+![Voxel-man head atlas](Head.jpg)
+
+![Voxel-man abdominal atlas](InnerOrgans.jpg)
 
 # Background and References
 
