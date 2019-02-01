@@ -45,6 +45,11 @@ This project aims to expand the usage of Slicer Case Iterator to work with DICOM
 ![Some more images](Example2.jpg)
 -->
 
+![Screenshot 1 (CSV Table: local files)](CaseIteratorScreenShot1.png)
+
+![Screenshot 1 (DICOM Table: Slicer Dicom browser)](CaseIteratorScreenShot2.png)
+
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
