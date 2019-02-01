@@ -24,19 +24,16 @@ The Looking Glass 3D display offers a new way to look at complex 3D data.  We ho
 * Look at the Looking Glass 3D display API and web API
 * Understand interface options.  Fallback is viewing exported 3D models on the display.
 
-
-
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Got the 3D display to Las Palmas, and set up demo showing 3D model of Visible Human pelvis.
-
+2. Exported segmentation as a single combined .obj file (Segmentation/File export) and successfully visualized on the looking glass.
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
--->
+![Looking glass hardware](https://c.slashgear.com/wp-content/uploads/2018/07/looking-glass-3.jpg)
 
 # Background and References
 
