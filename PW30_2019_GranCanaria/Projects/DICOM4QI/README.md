@@ -8,12 +8,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Hans Meine (Fraunhofer MEVIS)
 - Markus Herrmann (BWH/MGH CCDS)
 - Steve Pieper (Isomics)
-- James A. Petts
+- James A. Petts (Institute of Cancer Research UK)
 - Jasmin Metzger (DKFZ)
 - Marco Nolden (DKFZ)
 - Peter Stein (DKFZ)
 - Srikrishna Prasad (Siemens)
-- James A. Petts (Institute of Cancer Research UK)
 
 # Project Description
 
