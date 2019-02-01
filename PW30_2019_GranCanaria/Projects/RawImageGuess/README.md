@@ -28,7 +28,11 @@ Sometimes unknown file formats are encountered that contain images. There are fr
 ## Progress 
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
-- all basic image parameters can be set: header to skip, endianness, X, Y and Z dimensions and image bitdepth
+- all basic image parameters can be set:
+- header to skip
+- endianness
+- X, Y and Z dimensions
+- image bit depth/pixel type
 
 ## Next Steps:
 - set automaic thresholding
