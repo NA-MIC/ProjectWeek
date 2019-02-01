@@ -76,6 +76,8 @@ This project aims to work on a prototype lightweight DICOM server that will supp
 ![Some more images](Example2.jpg)
 -->
 ![Example sequence diagrams](DICOMweb%2BChronicle.png)
+![STOW and WADO-URI example](dicomweb_stow_wadouri_v.png)
+![WADO metadata example](dicomweb_metadata.png)
 
 # Background and References
 
