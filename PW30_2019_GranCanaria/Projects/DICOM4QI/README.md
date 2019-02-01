@@ -66,8 +66,8 @@ Markus has been working on defining/implementing the API, helped by the discussi
 * This stuff is hard! (more from Markus)
 * Located XML template definitions in David Clunie [Pixelmed library](http://www.dclunie.com/pixelmed/software/20181018_current/index.html), see `com/pixelmed/validate/DicomSRDescriptionsSource.xml` (not clear what version of the standard that file corresponds to, i.e., how old it is)
 * Discussed the possibility of wrapping DCMTK in python automatically, or at least a portion of the API. Related efforts mentioned by Jörg Riesmeier on DCMTK wrapping:
-** [https://pypi.org/project/pypx/](https://pypi.org/project/pypx/) (networking only)
-** [https://launchpad.net/pydcmtk](https://launchpad.net/pydcmtk) (does not seem to be a maintained project)
+ * [https://pypi.org/project/pypx/](https://pypi.org/project/pypx/) (networking only)
+ * [https://launchpad.net/pydcmtk](https://launchpad.net/pydcmtk) (does not seem to be a maintained project)
 * Work is in progress!
 
 ### Infrastructure improvements
