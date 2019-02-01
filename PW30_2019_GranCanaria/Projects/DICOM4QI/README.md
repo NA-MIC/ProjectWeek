@@ -41,9 +41,45 @@ implementation in various tools being developed at the Project week.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+
+### DICOM Breakout
+Several relevant projects were presented during the DICOM breakout session on Wednesday:
+* Andrey: Imaging Data Standardization for AI and Big Data applications [slides](http://bit.ly/2Wt9AxX)
+* Steve: Demonstrations of OHIF DICOM interoperability
+* Srikrishna Prasad: Use of DICOM in Siemens Teamplay
+* Markus Herrmann: DICOM for Digital Pathology
+* Peter Oppermann and Hans Meine: DICOM on FIHR [notes](https://docs.google.com/document/d/1INqLOu4xOQN59_ifdMc7P8qhqb08SiY5LRs59kgCCRw), see [this project page](https://na-mic.github.io/ProjectWeek/PW30_2019_GranCanaria/Projects/DICOMSRTID1500-FHIR/) for more info
+Both Markus and "DICOM on FIHR" use the [DICOM4QI](https://dicom4qi.readthedocs.io) datasets as reference for development.
+
+Resources:
+* RSNA demonstration/connectathon materials (with sample datasets): https://dicom4qi.readthedocs.io
+* Relevant open source tools: https://dicom4qi.readthedocs.io/en/latest/resources/software/
+* Public datasets: https://dicom4qi.readthedocs.io/en/latest/resources/datasets/
+* LIDC dataset: https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI 
+*LIDC annotations in DICOM: https://wiki.cancerimagingarchive.net/display/DOI/Standardized+representation+of+the+TCIA+LIDC-IDRI+annotations+using+DICOM 
+* Conversion library (C++) we use in Slicer and MITK: https://github.com/qiicr/dcmqi 
+* DICOM tutorial at MICCAI (2017 and 2018, archived): http://qiicr.org/dicom4miccai/ 
+
+### DICOM SR TID1500 support in pydicom
+
+Markus has been working on defining/implementing the API, helped by the discussions/pointers from Andrey and Steve
+* This stuff is hard! (more from Markus)
+* Located XML template definitions in David Clunie [Pixelmed library](http://www.dclunie.com/pixelmed/software/20181018_current/index.html), see `com/pixelmed/validate/DicomSRDescriptionsSource.xml` (not clear what version of the standard that file corresponds to, i.e., how old it is)
+* Discussed the possibility of wrapping DCMTK in python automatically, or at least a portion of the API. Related efforts mentioned by Jörg Riesmeier on DCMTK wrapping:
+** https://pypi.org/project/pypx/ (networking only)
+** https://launchpad.net/pydcmtk (does not seem to be a maintained project)
+* Work is in progress!
+
+### Infrastructure improvements
+1. Until recently, MITK was using a patched version of dcmqi for DICOM SEG/SR1500 support due to the issues in dcmqi superbuild that prevented its use without SlicerExecutionModel. This was resolved (jsoncpp updated to a version more suitable for C++11) with the joint efforts of JC, Andrey and Marco, and now we can expect MITK to use the main dcmqi repository.
+1. JC fixed packaging of dcmqi on Linux, and improved the CI script for CircleCI. Thanks for the magic, JC!
+
+### Other DICOM related topics discussed
+1. **Converting non-DICOM images into DICOM** Raised by Tobias Stein and Maro: In imaging research groups, there is frequently an abundance of the images in non-DICOM format. There is a practical question of how to harmonize those with the DICOM data, and maintain them in the same database. It would be helpful to be able to convert those representations into some DICOM format. Slicer has a [CreateDICOMSeries](https://github.com/Slicer/Slicer/tree/master/Modules/CLI/CreateDICOMSeries) module, but it can only create a non-enhanced CT series, and has limitations. It will also be, in the general case, impossible to meaningfully populate modality-specific attributes, if a modality-specific object is created. Discussed possible suitable containers for such representation:
+* [Raw Data IOD](http://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_A.37.html) - does not have `PixelData`, may be "too raw"?
+* Various types of [Secondary Capture IODs](http://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_A.8.html)
+* Does it make sense to suggest a new IOD to cover an image of a known modality, but where acquisition details are not known?
+1. **Harmonization of DICOM infrastructure between Slicer and MITK** (or rather, lack of such!). Both MITK and Slicer (need to) implement various strategies for parsing DICOM data into volumetric reconstructions. Both do this independently, as many other tools and converters do. It might be interesting to investigate how those developments could be coordinated. Andras, Marco and Andrey discussed this and are planning to follow up with a further discussion to go over details. Will also invite Ralf Floca from the MITK team.
 
 # Illustrations
 
