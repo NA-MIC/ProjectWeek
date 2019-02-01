@@ -47,6 +47,10 @@ you could not complete then you can describe them here, too. -->
 Point set registration example from a blue point set M to the red point set S:
 ![Point set registration example from a blue point set M to the red point set S](https://upload.wikimedia.org/wikipedia/commons/b/b2/Cpd_fish_nonrigid.gif)
 
+![Simple example using CPD](https://media.giphy.com/media/7zSQiDigIrBlTH89tO/giphy.gif)
+
+![Hand example](https://media.giphy.com/media/3BMs85RdITDXTQ6icq/giphy.gif)
+
 # Background and References
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data,
 and to any relevant publications. -->
