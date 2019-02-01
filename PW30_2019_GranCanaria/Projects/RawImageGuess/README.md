@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Csaba Pinter](http://perk.cs.queensu.ca/users/pinter) (Queen's University, Canada)
 - [András Lassó](http://perk.cs.queensu.ca/users/lasso) (Queen's University, Canada)
 - [Steve Pieper](http://isomics.com) (Isomics Inc., Cambridge, MA, USA)
-- Jean-Christophe Fillion-Robin (https://www.kitware.com/jean-christophe-fillion-robin/) (KitWare Inc., Chapel Hill, North Carolina, USA)
+- [Jean-Christophe Fillion-Robin](https://www.kitware.com/jean-christophe-fillion-robin/) (KitWare Inc., Chapel Hill, North Carolina, USA)
 - whoever wants to join/has ideas/has some time... :)
 
 # Project Description
