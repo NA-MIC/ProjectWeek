@@ -107,7 +107,7 @@ platform did you use to test those steps? I am on macOS 10.14.2.
 - We changed plans to change the "old" OHIF viewer to the newer react-based implementation
 - Work in progress to dockerize the viewer and get it runnung with a url- prefix
 
-### Project Repo and information
+### Project repo and information
 
 You can find the project deployment in a GitHub repo:
 
@@ -137,14 +137,14 @@ username: **admin**
 password: **admin**
 
 You can change all passwords with the Keycloak management:
-https://192.168.99.100:30443/auth
+https://192.168.99.100:30033/auth
 
 ### How to use?
 
 The components have the the following urls:
 1) OHIF: https://192.168.99.100:30443/ (root)
 2) DCM4CHe https://192.168.99.100:30443/dcm4chee-arc/ui2
-3) Keycloak: https://192.168.99.100:30443/auth
+3) Keycloak: https://192.168.99.100:30033/auth
 4) Dicom receiver port is ```192.168.99.100:31112```
 5) All data is stored inside the minikube vm (**/data_deployment**)
 
