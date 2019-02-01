@@ -43,6 +43,28 @@ Body mounted robot - stydy for respiratory motion study
 GUI for MR-needle guidance
 ![image1](img3.PNG)
 
+Create MRI Robots extension
+![image1](image1.PNG)
+
+
+
+Robot Controller Modules
+
+![image1](module2.PNG)
+
+
+
+Registration module
+
+![image1](module3.PNG)
+
+
+
+MR Robot Module
+
+![image1](module4.PNG)
+
+
 # Publications
 Development of a shoulder-mounted robot for MRI-guided needle placement
 
