@@ -42,7 +42,7 @@ We made some segmentation mask in Slicer, using Segment editor's fill between sl
 </p>
 - Few segmentation mask
 <p float="left">
-  <(Projects/NeuroNetworkSegmentationofNeck/seg_00008.png"? raw=true "Optional Title"width="350") />
+  (Projects/NeuroNetworkSegmentationofNeck/seg_00008.png"? raw=true "Optional Title"width="350")
   <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/seg_00009.png" width="350" /> 
   <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/seg_00010.png" width="350" />
 </p>
