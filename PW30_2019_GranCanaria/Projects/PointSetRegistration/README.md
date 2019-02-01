@@ -70,7 +70,14 @@ Point set registration example from a blue point set M to the red point set S:
 ![result](final_triangle_Screenshot_20190201_012800.png)
 
 ## Hand example
+### Input images:
+![fixed](hand_0.png)
+![moving](hand_1.png)
+ 
 ![Hand example](https://media.giphy.com/media/3BMs85RdITDXTQ6icq/giphy.gif)
+
+### Result:
+![result](final_hand_Screenshot_20190201_095919.png)
 
 # Background and References
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data,
