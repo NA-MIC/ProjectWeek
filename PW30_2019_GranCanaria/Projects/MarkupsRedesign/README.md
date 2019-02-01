@@ -37,13 +37,17 @@ Plan is to integrate the reworked markups infrastructure and new markups during 
   
   [Points video](https://www.dropbox.com/s/p8v1m7mgopsnrp4/Widget-rework.mkv?dl=0)
   
-  and added angle, line, and curve widgets.
+  and added angle, line, open curve, and closed curve widgets.
   
   [Open Curve video](https://www.dropbox.com/s/ap67lmxo0xh77h0/OpenCurve.mkv?dl=0)
  
 ### Result
 
-- To be completed
+- Andras and Sara tested and reported errors Davide fixed them
+- 17 of 27 known issues have been fixed. Open issues are mostly enhancements or problems in new features (not regressions in existing features).
+- Remaining issues with point picking: slow when using cell picker, screen flickers when using prop picker. We'll use one picking manager for all markups in a view. Maybe we can later implement one picking manager for all objects in a view.
+- Next steps: merge VTK updates, merge Slicer updates.
+- Many things depend on this (we don't want to switch to git, deprecate old VTK/ITK versions, move to git ... until this is completed).
 
 # Illustrations
 
@@ -51,14 +55,6 @@ Plan is to integrate the reworked markups infrastructure and new markups during 
   ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/Angle.png)
   ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/OpenCurve.png)
   ![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/ClosedCurve.png)
-
-<!--
-
-| Philips 3D US | Chroma-depth in PRISM | Depth peeling in PRISM |
-| --- | --- | --- |
-| ![](../../../PW28_2018_GranCanaria/Projects/MultiVolumeRendering/matt-jolley-us.png) | ![](../../../PW28_2018_GranCanaria/Projects/MultiVolumeRendering/chroma-depth-crop.png) | ![](../../../PW28_2018_GranCanaria/Projects/MultiVolumeRendering/depth-peeling-crop.png) |
-
--->
 
 # Background and References
 
