@@ -11,6 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Attila Nagy (SZTE Medical School, Hungary)
 - Mike Halle (BWH, USA)
 - Juan Ruiz-Alzola (ULPGC - GTMA-IUIBS - MACbioIDi)
+- Sonia Pujol (BWH, USA)
 
 ## Project Description
 
