@@ -45,10 +45,10 @@ create plugins for OHIF, and also to create custom projects like [prostatecancer
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![Current state of the React version](ohif_viewer.JPG)
+![Microscopy Extension](microscopy_extension.JPG)
+![PDF Extension](pdf_extension.JPG)
+
 
 # Background and References
 
