@@ -12,6 +12,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Jasmin Metzger (DKFZ)
 - Marco Nolden (DKFZ)
 - Peter Stein (DKFZ)
+- Srikrishna Prasad (Siemens)
+- James A. Petts (Institute of Cancer Research UK)
 
 # Project Description
 
@@ -74,6 +76,10 @@ Markus has been working on defining/implementing the API, helped by the discussi
 ### Infrastructure improvements
 1. Until recently, MITK was using a patched version of dcmqi for DICOM SEG/SR1500 support due to the issues in dcmqi superbuild that prevented its use without SlicerExecutionModel. This was resolved (jsoncpp updated to a version more suitable for C++11) with the joint efforts of JC, Andrey and Marco, and now we can expect MITK to use the main dcmqi repository.
 1. JC fixed packaging of dcmqi on Linux, and improved the CI script for CircleCI. Thanks for the magic, JC!
+
+### New tools supporting DICOM for derived data
+1. Srikrishna is working to use DICOM SEG for communicating analysis results within the Siemens Teamplay project. Functional demo is available. Sample dataset to be shared to DICOM4QI.
+1. James has a functional implementation of DICOM SEG read/write in XNAT, scheduled to become available in the next release in April 2019.
 
 ### Other DICOM related topics discussed
 1. **Converting non-DICOM images into DICOM** Raised by Tobias Stein and Maro: In imaging research groups, there is frequently an abundance of the images in non-DICOM format. There is a practical question of how to harmonize those with the DICOM data, and maintain them in the same database. It would be helpful to be able to convert those representations into some DICOM format. Slicer has a [CreateDICOMSeries](https://github.com/Slicer/Slicer/tree/master/Modules/CLI/CreateDICOMSeries) module, but it can only create a non-enhanced CT series, and has limitations. It will also be, in the general case, impossible to meaningfully populate modality-specific attributes, if a modality-specific object is created. Discussed possible suitable containers for such representation:
