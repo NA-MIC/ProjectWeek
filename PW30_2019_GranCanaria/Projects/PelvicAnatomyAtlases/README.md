@@ -44,12 +44,12 @@ This project focuses on the development of anatomical atlases of the pelvic area
 
 ## Illustrations
 <table border=0 width=100%>
-  <tr>
+  <tr valign=top>
     <td><b>Overview of the female pelvic atlas</b><br><img src="pelvis_fm.png" width="250"></td>
     <td><b>Overview of the female pelvic atlas</b><br><img src="pelvis_fm2.png" width="250"></td>
     <td><b>English navigation menu</b><br><img src="pelvis_fm-menuEN.png" width="100"></td>
   </tr>
-    <tr>
+    <tr valign=top>
     <td><b>Lung atlas (in progress)</b><br><img src="lung.png" width="250"></td>
     <td><b>Male pelvic atlas (in progress)</b><br><img src="pelvis-mau.png" width="250"></td>
   </tr>
