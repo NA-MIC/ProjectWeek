@@ -66,6 +66,21 @@ It supports airflow analysis and fluid-structure interactions. See [overview](ht
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+I managed to smooth the models whith surface toolbox and succesfully imported this to the finite element software.
+
+![SurfaceToolbox](surfacetoolbox.PNG)
+
+There were some incorrect elements in the model so i used Meshlab and Meshmixer to inspect them.
+
+![MeshLab](meshlab.PNG)
+
+![MeshMixer](meshmixer.PNG)
+
+Finally i managed to do some airflow simulations in Comsol.
+
+![Velocity](velocity.PNG)
+
+![Pressure](pressure.PNG)
 
 # Background and References
 

@@ -7,12 +7,21 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andrey Fedorov (BWH)
 - Hans Meine (Fraunhofer MEVIS)
 - Markus Herrmann (BWH/MGH CCDS)
+- Jean-Christophe Fillion-Robin (Kitware)
 - Steve Pieper (Isomics)
 - James A. Petts (Institute of Cancer Research UK)
 - Jasmin Metzger (DKFZ)
 - Marco Nolden (DKFZ)
-- Peter Stein (DKFZ)
+- Tobias Stein (DKFZ)
 - Srikrishna Prasad (Siemens)
+- Peter Oppermann (Fraunhofer MEVIS)
+- Jonas Scherer (DKFZ)
+- Emel Alkim (Stanford)
+- Mete Akdogan (Stanford)
+- Andras Lasso (Queen's)
+- Erik Ziegler (Radical Imaging)
+- David Clunie (Pixelmed Publishing)
+- Ron Kikinis (BWH)
 
 # Project Description
 
@@ -49,6 +58,7 @@ Several relevant projects were presented during the DICOM breakout session on We
 * Andrey: Imaging Data Standardization for AI and Big Data applications [slides](http://bit.ly/2Wt9AxX)
 * Steve: Demonstrations of OHIF DICOM interoperability
 * Srikrishna Prasad: Use of DICOM in Siemens Teamplay
+* Marco Nolden, Tobias Stein: Use of DICOM in the *DKTK Joint Imaging Platform* and the [Segmentation Review System](https://drive.google.com/file/d/1NXiu18mCFXrIaEgQ1WdzBbmq9igIyZNN/view?usp=sharing) 
 * Markus Herrmann: DICOM for Digital Pathology
 * Peter Oppermann and Hans Meine: DICOM on FIHR [notes](https://docs.google.com/document/d/1INqLOu4xOQN59_ifdMc7P8qhqb08SiY5LRs59kgCCRw), see [this project page](https://na-mic.github.io/ProjectWeek/PW30_2019_GranCanaria/Projects/DICOMSRTID1500-FHIR/) for more info
 Both Markus and "DICOM on FIHR" use the [DICOM4QI](https://dicom4qi.readthedocs.io) datasets as reference for development.
@@ -65,12 +75,14 @@ Resources:
 ### DICOM SR TID1500 support in pydicom
 
 Markus has been working on defining/implementing the API, helped by the discussions/pointers from Andrey and Steve
-* This stuff is hard! (more from Markus)
+* This stuff is hard!
 * Located XML template definitions in David Clunie [Pixelmed library](http://www.dclunie.com/pixelmed/software/20181018_current/index.html), see `com/pixelmed/validate/DicomSRDescriptionsSource.xml` (not clear what version of the standard that file corresponds to, i.e., how old it is)
 * Discussed the possibility of wrapping DCMTK in python automatically, or at least a portion of the API. Related efforts mentioned by Jörg Riesmeier on DCMTK wrapping:
   * [https://pypi.org/project/pypx/](https://pypi.org/project/pypx/) (networking only)
   * [https://launchpad.net/pydcmtk](https://launchpad.net/pydcmtk) (does not seem to be a maintained project)
-* Work is in progress!
+* We ultimately decided to not auto-generate Python code from XML template definitions for now but rather manually implement TID 1500 Measurement Report and other templates that can be included (e.g., TID 300 Measurement). While code auto-generation from template or schema definitions would generally be a good idea, we realized that this task is challenging due to the complexity of SR templates (highly nested document trees, conditionally required content items, etc.). Further, we decided, on the one hand, to not implement all optional content items (some information can be included at multiple locations within an SR document and may thus be duplicated) and, on the other hand, to require some optional content items that we felt are crucial (e.g., Device Observer).
+* Markus has implemented all templates relevant for TID 1500 Measurement Report in *pydicom*. The API is primarily intended for construction of DICOM Comprehensive SR documents and provides high-level abstractions and sanity checks to facilitate the generation of document content. Markus is adding tests and will create a pull request to public *pydicom* (https://github.com/pydicom) repository once all tests pass.
+
 
 ### Infrastructure improvements
 1. Until recently, MITK was using a patched version of dcmqi for DICOM SEG/SR1500 support due to the issues in dcmqi superbuild that prevented its use without SlicerExecutionModel. This was resolved (jsoncpp updated to a version more suitable for C++11) with the joint efforts of JC, Andrey and Marco, and now we can expect MITK to use the main dcmqi repository.

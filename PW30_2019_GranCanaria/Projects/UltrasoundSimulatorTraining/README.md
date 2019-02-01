@@ -41,8 +41,13 @@ This project is a next step in the one presented during 28th PW NA-MIC and it ai
 1. MultiLangauge
      - We worked with Jean-Christophe Fillion-Robin (@jcfr) to improve the current implementation in 3D Slicer
            - We fixed a bug in CMake file
-           - Creating a Spanish version in a part of the 3D Slicer GUI (see Figure )
+           - Creating a Spanish version in a part of the 3D Slicer GUI (see [Figure](SpanishVersion3DSlicerGUI.png) )
      - We are working the multilanguage in the python support 
+1. Angle
+     - We evaluated several strategies:
+           - Module: angle measurement by Andras Lasso
+           - Defining various vectors of the needle and image axes from the MRML
+     - A selected proposal will be developed in outgoing
      
      
 # Illustrations

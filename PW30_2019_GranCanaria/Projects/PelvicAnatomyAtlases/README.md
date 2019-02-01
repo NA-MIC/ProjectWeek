@@ -36,10 +36,24 @@ This project focuses on the development of anatomical atlases of the pelvic area
 
 ## Progress and Next Steps
 
-1. To be completed
+1. Female pelvic anatomy atlas is already finished
+1. Male pelvic anatomy atlas is in the process of refinement
+1. Lung, with a case of tuberculosis, in on the way
+1. A mauritanian team is creating another male pelvic anatomy atlas
 
 
 ## Illustrations
+<table border=0 width=100%>
+  <tr valign=top align=center>
+    <td><b>Overview of the female pelvic atlas</b><br><img src="pelvis_fm.png" width="250"></td>
+    <td><b>Overview of the female pelvic atlas</b><br><img src="pelvis_fm2.png" width="250"></td>
+    <td><b>English navigation menu</b><br><img src="pelvis_fm-menuEN.png" width="100"></td>
+  </tr>
+    <tr valign=top align=center>
+    <td><b>Lung atlas (in progress)</b><br><img src="lung.png" width="250"></td>
+    <td><b>Male pelvic atlas (in progress)</b><br><img src="pelvis-mau.png" width="250"></td>
+  </tr>
+  </table>
 
 
 ## Background and References

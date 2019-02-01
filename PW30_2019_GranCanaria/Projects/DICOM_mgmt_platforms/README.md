@@ -52,6 +52,11 @@ Install and test the following solutions:
 
 ![XNAT with OHIF Viewer](2019-02-01_06-55-07.png)
 
+[Interpolation for contours in XNAT (Soon to be packaged as freely available `Cornerstone`/`OHIF` plugins)](https://gfycat.com/NervousPointlessJunebug)
+
+[RTSTRUCT fetch/view in XNAT](https://gfycat.com/DevotedMarvelousBirdofparadise)
+
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->

@@ -33,6 +33,9 @@ We are planning to collect information about best practices to use different too
 <!--  -->
 
 # Illustrations
+Workflow
+
+![image1](workflow.png)
 
 Prototype of the robot
 ![image1](img1.PNG)
@@ -55,14 +58,14 @@ Robot Controller Modules
 
 
 Registration module
+![image1](2.PNG)
 
-![image1](module3.PNG)
 
 
 
 MR Robot Module
+![image1](3.PNG)
 
-![image1](module4.PNG)
 
 
 # Publications

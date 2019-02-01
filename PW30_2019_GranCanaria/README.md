@@ -4,6 +4,13 @@
 
 <table>
 <tr>
+    <td> <img src="NA-MIC1.jpg"> </td>
+    <td> <img src="NA-MIC2.jpg"> </td>
+</tr>
+</table>
+
+<table>
+<tr>
     <td> <img src="PW30-500px.png"> </td>
   <td> <b>Local Organizing Committee Host:</b> <ul><li>Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies, director of the Grupo de Tecnología Médica y Audiovisual (GTMA), <a href="http://www.iuibs.ulpgc.es/">Instituto Universitario de Investigaciones Biomédicas y Sanitarias</a> (IUIBS), <a href="http://www.ulpgc.es">Universidad de Las Palmas de Gran Canaria</a> (ULPGC) </li> <li> Email Local Organizing Committee: <a href="mailto:marilola.afonso@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30">Technical Topics: Maria Dolores Afonso Suarez</a> <a href="mailto:asmaa.skareb@ulpgc.es?cc=juan.ruiz@ulpgc.es&subject=ProjectWeek30">Administrative Topics: Asmaa Skareb</a> </li></ul></td>
 </tr>
@@ -58,7 +65,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. [Markups redesign and new markups for curve, line, and angle measurement](Projects/MarkupsRedesign/README.md) (Davide Punzo, Andras Lasso, Sara Rolfe, Kyle Sunderland, Steve Pieper, Jean-Christophe Fillion-Robin)
 1. [GLSL shaders for custom volume rendering and image processing](Projects/GLSLShaders/README.md) (Kyle Sunderland, Steve Pieper, Andras Lasso, Jean-Christophe Fillion-Robin)
 1. [MorphoSource and Data Retrieval](Projects/MorphoSourceDataRetrieval/README.md) (Sara Rolfe, Steve Pieper, Murat Maga (remote), Doug Boyer (remote), Julie Winchester (remote))
-1. [Raw Image Read and Display](Projects/RawImageGuess/README.md) (Attila Nagy, Csaba Pintér (remote), Steve Pieper)
+1. [Raw Image Read and Display](Projects/RawImageGuess/README.md) (Attila Nagy, Csaba Pintér (remote), Steve Pieper, András Lassó, Jean-Christophe Fillion-Robin)
 1. [OHIF and DCM4CHEe within Kubernetes](Projects/ohif_dcm4chee_kubernetes/README.md) (Jonas Scherer, Andrey Fedorov, Erik Ziegler)
 1. [OHIF Web Components](Projects/ohif_web_components/README.md) (Erik Ziegler, Steve Pieper, Sandra Siegel, Forrest Li, James Petts,Peter Oppermann, Hans Meine, Markus Herrmann)
 
@@ -86,7 +93,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. [New features for an ultrasound training system](Projects/UltrasoundSimulatorTraining/README.md) (José-Carlos Ruiz-Luque,  Guillermo Valentín Socorro-Marrero, Csaba Pinter, Samba Diaw, Oumar Kane, Joseane Ferreira, Juan Ruiz-Alzola)
 1. [3DSlicer Training Programs](Projects/TrainingPrograms/README.md) (GTMA group, Alexandra Fernandes Rodrigues, Ahmedou Moulaye Idriss, Yahya Tfeil, Mohamed Septy, Joseanne Alexandra Da Rosa De Pina Ferreira, Sonia Pujol)
 1. [3DSlicer Models for Brain Quiz](Projects/3DSlicerModelsforBrainQuiz/README.md) (Sergi Bermudez i Badia, Yuri Almeida, Abián Hernández-Guedes, Artemisa Moreno, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
-1. [Using 3D Slicer in University Biomedical Engineering Degrees](Projects/Useof3DSlicerinTrainig/README.md) (Ron Kikinis, Gabor Fichtinger, Andras Lasso, Kevin Cleary, Attila Nagy, Juan Ruiz-Alzola)
+1. [Using 3D Slicer in University Biomedical Engineering Degrees](Projects/Useof3DSlicerinTrainig/README.md) (Ron Kikinis, Gabor Fichtinger, Andras Lasso, Kevin Cleary, Attila Nagy, Sonia Pujol, Juan Ruiz-Alzola)
 1. [Looking Glass 3D Display](Projects/LookingGlass/README.md) (Mike Halle, Andras Lasso)
 
 ### Open Anatomy
@@ -176,13 +183,15 @@ List of registered participants so far (names will be added here after processin
 1. Srikrishna Prasad (srikrishna.prasad@siemens-healthineers.com) - Siemens Healthineers GmBH - Germany
 
 
-
-<!--
-
 ## Statistics
 
-(To be added during/after the event)
--->
+1. 7 Topics
+1. 33 projects
+1. 59 registrants
+1. 28 institutions
+1. 13 countries
+1. 3 continents
+
 
 ## Parallel Event - Casa Africa
 

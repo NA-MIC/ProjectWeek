@@ -26,7 +26,6 @@ Hangout link is [https://meet.google.com/xkf-ymeb-rqs](https://meet.google.com/x
 - Steve Pieper (Isomics) - with presentation?
 - Marco Nolden (DKFZ), Jonas Scherer (DKFZ) - with presentation
 - Deepak Roy Chittajallu (Kitware) - with presentation
-- Bence Horvath (Unirversity of Szeged) - with presentation?
 - Jean-Christophe Fillion-Robin (Kitware)
 
 Please add your name above if you plan to attend.

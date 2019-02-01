@@ -54,7 +54,8 @@ This project aims to work on a prototype lightweight DICOM server that will supp
  
 1. JSON schemas defined for QIDO query responses for studies, series and instances level
 
-    
+*Side project C++* : this made some progress in parsing the JSON query results in C++, next steps will be to refactor some methods inside CTK to use JSON objects instead of relying on DcmDataset for internal storage and passing around of DICOM meta information. [experiment code](https://github.com/nolden/CTK/tree/wip-dicomweb)
+
 
 # Illustrations
 

@@ -33,7 +33,10 @@ This project aims to expand the usage of Slicer Case Iterator to work with DICOM
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Nothing yet
+1. Done, merged with master in [PR #7](https://github.com/JoostJM/SlicerCaseIterator/pull/7)
+1. Using SeriesUID, it is now possible to load series using the Slicers DICOM database. Not yet merged with the master [PR #8](https://github.com/JoostJM/SlicerCaseIterator/pull/8)
+1. In DICOM input, series is first checked for loadables using MultiVolumeImporterPlugin and if necessary, by DICOMScalarVolumePlugin. Not yet possible to do this using a type of prefetch, or parallel processing.
+1. ToDo...
 
 # Illustrations
 

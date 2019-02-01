@@ -28,7 +28,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Progress made at last project week](../../../PW28_2018_GranCanaria/Projects/MultiVolumeRendering/README.md)
 - [Get methods for uniforms](https://github.com/lassoan/VTK/tree/opengl-uniforms-get-methods)
 
-- Plan going forward:
+- Discussed options for implementing and decided that it would be best to utilize and modify the classes in VTK
+- Existing implementation can render from vtkImageData back to vtkImageData
+- Need to implement a class that be used for multi-pass image processing algorithms to be run through GLSL shaders, without returning the intermediate result to memory
+
+- Next steps:
   - Fork SlicerVTK and develop VTK based classes for GLSL image processing algorithms (see [vtkOpenGLImageAlgorithmHelper]( https://vtk.org/doc/nightly/html/classvtkOpenGLImageAlgorithmHelper.html))
   - Support for multipass algorithms wihtout writing back to memory
 

@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Steve Pieper (Isomics (OHIF))
 - Sandra Siegel (Mevis)
 - Forrest Li (Kitware)
-- James Petts (ICR)
+- James A. Petts (ICR)
 - Peter Oppermann (Mevis)
 - Hans Meine (University of Bremen)
 - Markus Herrmann (MGH & BWH CCDS)
@@ -37,18 +37,31 @@ create plugins for OHIF, and also to create custom projects like [prostatecancer
 1. Identify any missing components and decide who wants to work on them
 1. Develop (plans for) additional demos, tutorials, and documentation to help build the community
 
-## Progress and Next Steps
+## Progress
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Discussing use cases for extensions in OHIF
+1. Defining a common interface for extensions
+1. Updated the react version to support plugins
+1. Extracted two extensions: Dicom PDF and Dicom Microscopy Extension
+1. Updated the react version to support development and packaging in one project and added initial documentation
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![Current state of the React version](ohif_viewer.JPG)
+![Microscopy Extension](microscopy_extension.JPG)
+![PDF Extension](pdf_extension.JPG)
+![Extension Definition Class](extension_definition.JPG)
+[Live Link (may not work)](https://deploy-preview-344--ohif.netlify.com/)
+
+## Next Steps
+
+1. Redefining extension submodule interfaces (for SOPClassHandler, ViewportModule, ToolbarModule, PanelModule)
+1. Define how extensions interact with the common app state and their internal app state
+1. Create a HelloWorld Extension with all types of modules and documentation
+1. Improve testing and continuous integration
+1. DICOM SR HTML Display Extension
+1. DICOM TID1500 Measurement Report Table extension 
+1. Extract cornerstone plugin and add VTK extension
 
 # Background and References
 

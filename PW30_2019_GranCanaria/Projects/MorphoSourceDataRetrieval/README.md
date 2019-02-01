@@ -36,10 +36,20 @@ MorphoSource (M/S) is a publicly available repository for 3D media representing 
 2. CSV metadata spreadsheet included with all M/S downloads updated to add fields with more information about data type to support import.
 3. Enhancements made to Slicer web view, adding options for data downloads.
 
+## Results
+1. Tested prototype design
+
+2. Identified an issue with the unpackaging of zip files that contains image sequence: When importing into Slicer, each image in the sequence is treated as an individual file. This can be changed using the load options, but getting to this step is very slow when the number of files is large. 
+
+3. Next steps: Resolve zip file import issue and refine display of metadata.
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.-->
+![M/S Data checkout](MS3.png)
+![Screenshot of M/S button in WebEngine module](MS2.png)
 ![Screenshot of M/S volume and CSV metadata spreadsheet imported into Slicer](MSI.png)
+
 
 
 

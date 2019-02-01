@@ -33,9 +33,35 @@ Specifically,
 
 ## Progress and Next Steps
 
-(ToDo) ... cheers !! 
+1. Integrate OHIF with DicomWeb Wado Server (Siemens Healthineers teamplay) - completed
+- provisioned light weight wrapper to api to integrate with dicom web server
+2. Provision call backs to run algorithms - completed
+- Algorithm runs automatically to generate Dicom SR report and Measurements.
+3. Subscribe to results from DicomWeb Server - completed
+- Webhook implemented to subscribe for results (new series availablity)
+4. Publish corrected results, if any back to DicomWeb Server - next steps
+- Editing of segmentation results and uploading back to dicom web server
+- Logging for corrections applied is needed
+- Dicom SR plugin to visualise and Edit SR report results is needed
+- 3D volume rendering of Dicom SEG object and editing
+5. Render generated encapsulated pdf for results - completed
+- New Ohif Pdf plugin is created
+- Visualisation of smart report in OHIF is accomplished by OHIF Pdf Plugin
+
+-
+6. Visualise the pdf in OHIF Viewer - completed
+
 
 # Illustrations
+
+[Brain Morphometry](BrainMorphometry_OHIF.mp4)
+
+Snapshot
+<img src="IMG-4919.JPG">
+
+Team
+<img src="IMG-4921.JPG">
+
 
 # Background and References
 
