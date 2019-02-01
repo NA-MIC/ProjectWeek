@@ -31,7 +31,7 @@ Specifically,
 5. Render generated encapsulated pdf for results
 6. Visualise the pdf in OHIF Viewer
 
-## Progress and Next Steps
+## Progress
 
 1. Integrate OHIF with DicomWeb Wado Server (Siemens Healthineers teamplay) - completed
 - provisioned light weight wrapper to api to integrate with dicom web server
@@ -39,18 +39,27 @@ Specifically,
 - Algorithm runs automatically to generate Dicom SR report and Measurements.
 3. Subscribe to results from DicomWeb Server - completed
 - Webhook implemented to subscribe for results (new series availablity)
+
+OHIF Segmentation Plugin
 4. Publish corrected results, if any back to DicomWeb Server - next steps
 - Editing of segmentation results and uploading back to dicom web server
-- Logging for corrections applied is needed
-- Dicom SR plugin to visualise and Edit SR report results is needed
-- 3D volume rendering of Dicom SEG object and editing
+
+OHIF Pdf Plugin:
 5. Render generated encapsulated pdf for results - completed
 - New Ohif Pdf plugin is created
 - Visualisation of smart report in OHIF is accomplished by OHIF Pdf Plugin
-
--
 6. Visualise the pdf in OHIF Viewer - completed
 
+## Next Steps
+OHIF SR Report Plugin 
+- Dicom SR plugin to visualise and Edit SR report results is needed
+- 3D volume rendering of Dicom SEG object and editing
+
+OHIF 3D Volume Rendering Integration
+- We need to intergrate 3D volume rendering and editing in OHIF
+
+Logging
+- Logging for applied corrections to result
 
 # Illustrations
 
