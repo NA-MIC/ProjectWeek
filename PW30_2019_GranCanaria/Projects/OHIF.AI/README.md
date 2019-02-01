@@ -55,8 +55,13 @@ Specifically,
 # Illustrations
 
 [Brain Morphometry](BrainMorphometry_OHIF.mp4)
-[Snapshot](IMG-4919.JPG)
-[Team](IMG-4921.JPG)
+
+Snapshot
+<img src="IMG-4919.JPG">
+
+Team
+<img src="IMG-4921.JPG">
+
 
 # Background and References
 
