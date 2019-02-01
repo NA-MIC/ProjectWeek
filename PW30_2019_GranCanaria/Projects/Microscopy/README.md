@@ -53,7 +53,7 @@ Microscopy module.
 
 The other. 
 
-| Text |
+| Watershed with markers for the different regions |
 | -----|
 |<img src="Figure2.2.png" width="700" height="350">|
 
