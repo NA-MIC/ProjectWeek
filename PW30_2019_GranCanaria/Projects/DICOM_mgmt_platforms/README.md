@@ -49,7 +49,7 @@ Install and test the following solutions:
 
 # Illustrations
 
-![XNAT with OHIF Viewer](xnat-ohif.png)
+![XNAT with OHIF Viewer](2019-02-01_06-55-07.png)
 
 # Background and References
 
