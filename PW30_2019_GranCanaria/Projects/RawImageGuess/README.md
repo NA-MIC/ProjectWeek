@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Csaba Pinter](http://perk.cs.queensu.ca/users/pinter) (Queen's University, Canada)
 - [András Lassó](http://perk.cs.queensu.ca/users/lasso) (Queen's University, Canada)
 - [Steve Pieper](http://isomics.com) (Isomics Inc., Cambridge, MA, USA)
-- Jean-Christophe Fillion-Robin (https://www.kitware.com/jean-christophe-fillion-robin/) (KitWare Inc., Chapel Hill, North Carolina, USA)
+- [Jean-Christophe Fillion-Robin](https://www.kitware.com/jean-christophe-fillion-robin/) (KitWare Inc., Chapel Hill, North Carolina, USA)
 - whoever wants to join/has ideas/has some time... :)
 
 # Project Description
@@ -25,14 +25,20 @@ Sometimes unknown file formats are encountered that contain images. There are fr
 1. Add some more functionality.
 2. Add ideas so they can be implemented later.
 
-## Progress and Next Steps
+## Progress 
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
-Progress:
-- all basic image parameters can be set: header to skip, endianness, X, Y and Z dimensions and image bitdepth
+All basic image parameters can be set:
+- header to skip
+- endianness
+- X, Y and Z dimensions
+- image bit depth/pixel type
 
-Plans:
-. set automaic thresholding, automatically update the image, display it in the 3D viewer
+## Next Steps:
+- set automaic thresholding
+- automatically update the image in the viewer
+- display it in the 3D viewer
+- calculate cross-correlation between lines of image to make the guessing easier
 
 # Illustrations
 

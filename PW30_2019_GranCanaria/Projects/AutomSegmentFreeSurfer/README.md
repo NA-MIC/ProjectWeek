@@ -52,10 +52,14 @@ This project aims to improve the automatic segmentation results generated from t
 1. In the OFC segment the medial and two lateral segments have been merged into a single segment. The segmentation has been done manually, tracing the countours of the desired segments between the defined anterior and posterior boundaries on the coronal view.
 We have taken, for the OFC, the traditional approach, following the olfatory surcus. Fiducial points were placed on the slices for guidance.
 
+## Procedure
+The Slicer module used was the Segment Editor. Once the fiducial points were placed, marking the boundaries, slice by slice, the draw/paint and erase tools (with an 1 to 3% diameter) were used to manually trace and fill the corresponding areas for each segment. No other segmentation tools were used, as the work was done in an entirely manual way. 
+To ensure the correct overlap of the segment boundaries, when using the paint or draw tool, the setting for masking was set to editable area: outside all segments.
+
 ## Illustrations
 <table border=0 width=100%>
   <tr><td colspan=3><b>Placement of the fiducial boundaries</b></td></tr>
-  <tr valign=top align=center>
+  <tr valign=top align=center/
     <td><img src="2019-01-31_110937.png" width="250"></td>
     <td><img src="2019-01-31_111007.png" width="250"></td>
     <td><img src="2019-01-31_111037.png" width="250"></td>

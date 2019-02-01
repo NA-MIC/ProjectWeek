@@ -35,6 +35,11 @@ This project aims to produce a flexible toolset for analysis of shape and form f
 5. Module to load large images, crop blank space, and saving ROI. 
 6. Module to perform GPA, PCA, and visualize statistical output
 
+## Results
+1. Added custom layout and display refinements
+2. Tested GPA module and fixed bugs
+3. Discussed method for comparing original volume to PCA warped volume. Each will be shown in one of the 3D volume viewers and a button will be added to toggle view.
+4. Discussed improving 2D vector plots. Plan to implement in VTK and add functionality to Slicer.
 
 # Illustrations
 
@@ -45,6 +50,8 @@ This project aims to produce a flexible toolset for analysis of shape and form f
 ![Point cloud plot of total landmark variance](pointCloud.png)
 ![Ellipse plot of total landmark variance](ellipse.png)
 -->
+![SlicerMorph GPA Screenshot](SM_screen.png)
+![SlicerMorph GPA Screenshot2](SM2.png)
 
 # Background and References
 

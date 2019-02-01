@@ -31,17 +31,18 @@ We want to implement a neural network based automatic segmentation algorithm to 
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
-We made some segmentation mask in Slicer, using Segment editor's fill between slices tool. We made a python peogram, that import .nrrd files from a directory and store them in a list. ![Program](Program.ipynb)
+We made some segmentation mask in Slicer, using Segment editor's fill between slices tool. 
 - Few manually segmented image
-<img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/minta.PNG" width="350" />
+
 <p float="left">
-  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/image_00008.png" width="350" />
-  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/image_00009.png" width="350" /> 
-  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/image_00010.png" width="350" />
+  <img align="left" width="100" height="100"  src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/minta.PNG">
+  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/image_00008.png" width="200" />
+  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/image_00009.png" width="200" /> 
+  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/image_00010.png" width="200" />
 </p>
 - Few segmentation mask
 <p float="left">
-  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/seg_00008.png" width="350" />
+  ![align="left"](Projects/NeuroNetworkSegmentationofNeck/seg_00008.png)
   <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/seg_00009.png" width="350" /> 
   <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/seg_00010.png" width="350" />
 </p>

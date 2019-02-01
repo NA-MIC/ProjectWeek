@@ -35,13 +35,13 @@ This project is a next step in the one presented during 28th PW NA-MIC and it ai
 ## Progress and Next Steps
 1. The image orientation marker symbol
      - We discussed the image orientation marker symbol with PerkLab team 
-     - We developed a prototype (see Figure 6)
+     - We developed a prototype (see [Figure 6](ImageOrientationMarkerSymbol_Result.png))
            - The symbol is a new actor in a viewport (2D scene)
            - We´ll integrate a stable version in our system
 1. MultiLangauge
      - We worked with Jean-Christophe Fillion-Robin (@jcfr) to improve the current implementation in 3D Slicer
            - We fixed a bug in CMake file
-           - Creating a Spanish version in a part of the 3D Slicer GUI (see [Figure](SpanishVersion3DSlicerGUI.png) )
+           - Creating a Spanish version in a part of the 3D Slicer GUI (see [Figure 7](SpanishVersion3DSlicerGUI.png) )
      - We are working the multilanguage in the python support 
 1. Angle
      - We evaluated several strategies:
