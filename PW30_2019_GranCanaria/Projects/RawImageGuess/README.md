@@ -25,14 +25,16 @@ Sometimes unknown file formats are encountered that contain images. There are fr
 1. Add some more functionality.
 2. Add ideas so they can be implemented later.
 
-## Progress and Next Steps
+## Progress 
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
-Progress:
 - all basic image parameters can be set: header to skip, endianness, X, Y and Z dimensions and image bitdepth
 
-Plans:
-. set automaic thresholding, automatically update the image, display it in the 3D viewer
+## Next Steps:
+- set automaic thresholding
+- automatically update the image in the viewer
+- display it in the 3D viewer
+- calculate cross-correlation between lines of image to make the guessing easier
 
 # Illustrations
 
