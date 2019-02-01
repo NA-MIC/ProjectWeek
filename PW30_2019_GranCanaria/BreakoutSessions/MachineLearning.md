@@ -6,6 +6,10 @@ We will share with each other how machine learning is implemented by various gro
 
 Anybody who is interested in using machine learning for medical image computing is welcome.
 
+## Meeting minutes
+
+Meeting minutes are available [here](https://docs.google.com/document/d/1LeSxafO3YzgRHRDnjyA-aQSkcKlbk__QLiJLNQi615o/edit).
+
 ## Agenda
 
 Lookup day and time on the [calendar](../README.md#program-calendar).
@@ -23,16 +27,13 @@ Hangout link is [https://meet.google.com/xkf-ymeb-rqs](https://meet.google.com/x
 - Marco Nolden (DKFZ), Jonas Scherer (DKFZ) - with presentation
 - Deepak Roy Chittajallu (Kitware) - with presentation
 - Bence Horvath (Unirversity of Szeged) - with presentation?
+- Jean-Christophe Fillion-Robin (Kitware)
 
 Please add your name above if you plan to attend.
 
 Those who already have machine learning projects are encouraged to prepare with a short presentation (maximum 5 minutes; slides are optional) about how they do it now. Please add "with presentation" next to your name.
 
 ![](./MachineLearning_BreakoutSession.jpg)
-
-## Meeting minutes
-
-Meeting minutes are available [here](https://docs.google.com/document/d/1LeSxafO3YzgRHRDnjyA-aQSkcKlbk__QLiJLNQi615o/edit).
 
 ## Background and References
 
