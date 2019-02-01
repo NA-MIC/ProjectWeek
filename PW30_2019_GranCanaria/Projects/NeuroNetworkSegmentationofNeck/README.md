@@ -31,7 +31,7 @@ We want to implement a neural network based automatic segmentation algorithm to 
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
-We made some segmentation mask in Slicer, using Segment editor's fill between slices tool. We made a python peogram, that import .nrrd files from a directory and store them in a list. ![Program](Program.ipynb)
+We made some segmentation mask in Slicer, using Segment editor's fill between slices tool. 
 - Few manually segmented image
 <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/minta.PNG" width="350" />
 <p float="left">
