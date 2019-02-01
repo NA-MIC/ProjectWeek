@@ -35,7 +35,7 @@ We made some segmentation mask in Slicer, using Segment editor's fill between sl
 - Few manually segmented image
 
 <p float="left">
-  <img align="left" width="100" height="100"  src="https://raw.github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/minta.PNG">
+  <img align="left" width="100" height="100"  src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/minta.PNG">
   <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/image_00008.png" width="200" />
   <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/image_00009.png" width="200" /> 
   <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/image_00010.png" width="200" />
