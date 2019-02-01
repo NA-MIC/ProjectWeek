@@ -58,7 +58,7 @@ This is our second Project Week in Las Palmas.   [Project Week 28](https://na-mi
 1. [Markups redesign and new markups for curve, line, and angle measurement](Projects/MarkupsRedesign/README.md) (Davide Punzo, Andras Lasso, Sara Rolfe, Kyle Sunderland, Steve Pieper, Jean-Christophe Fillion-Robin)
 1. [GLSL shaders for custom volume rendering and image processing](Projects/GLSLShaders/README.md) (Kyle Sunderland, Steve Pieper, Andras Lasso, Jean-Christophe Fillion-Robin)
 1. [MorphoSource and Data Retrieval](Projects/MorphoSourceDataRetrieval/README.md) (Sara Rolfe, Steve Pieper, Murat Maga (remote), Doug Boyer (remote), Julie Winchester (remote))
-1. [Raw Image Read and Display](Projects/RawImageGuess/README.md) (Attila Nagy, Csaba Pintér (remote), Steve Pieper)
+1. [Raw Image Read and Display](Projects/RawImageGuess/README.md) (Attila Nagy, Csaba Pintér (remote), Steve Pieper, ANdrás Lassó, Jean-Christophe Fillion-Robin)
 1. [OHIF and DCM4CHEe within Kubernetes](Projects/ohif_dcm4chee_kubernetes/README.md) (Jonas Scherer, Andrey Fedorov, Erik Ziegler)
 1. [OHIF Web Components](Projects/ohif_web_components/README.md) (Erik Ziegler, Steve Pieper, Sandra Siegel, Forrest Li, James Petts,Peter Oppermann, Hans Meine, Markus Herrmann)
 
