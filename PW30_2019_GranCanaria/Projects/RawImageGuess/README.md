@@ -38,7 +38,7 @@ Plans:
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 This is how the moddule looks as of 2019. 02. 01.
-[![This is how the moddule looks as of 2019. 02. 01. (rawimageguess.v0.1.jpg)](https://youtu.be/IoBsmtqtmqo "Raw Image Guess tool for 3D Slicer")
+[![This is how the moddule looks as of 2019. 02. 01.](rawimageguess.v0.1.jpg)](https://youtu.be/IoBsmtqtmqo "Raw Image Guess tool for 3D Slicer")
 
 <!--![Description of picture](Example2.jpg)-->
 
