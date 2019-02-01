@@ -7,6 +7,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andrey Fedorov (BWH)
 - James Petts (Institute of Cancer Research, UK)
 - Erik Ziegler (Radical Imaging)
+- Marco Nolden (DKFZ)
+- Jonas Scherer (DKFZ)
 
 # Project Description
 
@@ -38,16 +40,16 @@ Install and test the following solutions:
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Discussed the capabilities and planned release timeline of the platform being developed at DKFZ (Marco and Jonas). Looking forward to try it!
+1. Installed XNAT with the OHIF plugin (very easy and "just works"!):
+* [xnat-docker-compose](https://github.com/NrgXnat/xnat-docker-compose)
+* [ohif-viewer-XNAT-plugi](https://github.com/JamesAPetts/ohif-viewer-XNAT-plugin)
+* learned that [xnatpy](https://xnat.readthedocs.io/en/latest/) exists, and is preferred over [pyxnat](https://pythonhosted.org/pyxnat/) (but neither is officially supported by the XNAT team :-( ...)
+1. Did not get to try an improved version of the CCC infrastructure (OHIF + dcm4chee + keyckloak) - Jonas is working on it.
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![XNAT with OHIF Viewer](xnat-ohif.png)
 
 # Background and References
 
