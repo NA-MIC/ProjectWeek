@@ -34,7 +34,11 @@ We want to implement a neural network based automatic segmentation algorithm to 
 We made some segmentation mask in Slicer, using Segment editor's fill between slices tool. We made a python peogram, that import .nrrd files from a directory and store them in a list. ![Program](Program.ipynb)
 - Few manually segmented image
 ![alt-text-1](image_00008.png) ![alt-text-2](image_00009.png) ![alt-text-2](image_00010.png)
-
+<p float="left">
+  <img src="/image_00008.png" width="100" />
+  <img src="/image_00009.png" width="100" /> 
+  <img src="/image_00010.png" width="100" />
+</p>
 - Few segmentation mask
 ![](seg_00008.png) ![](seg_00009.png) ![](seg_00010.png)
 # Illustrations
