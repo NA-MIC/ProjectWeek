@@ -109,13 +109,11 @@ platform did you use to test those steps? I am on macOS 10.14.2.
 
 ### Project repo and information
 
-You can find the project deployment in a GitHub repo:
-
-**https://github.com/jonasscherer/namic_project_week_30**
+You can find the project deployment in a **[GitHub Repo](https://github.com/jonasscherer/namic_project_week_30)**
 
 ### Basic steps of installation:
 
-1) Get **Minikube** and all dependencies running: https://kubernetes.io/docs/setup/minikube/
+1) Get **Minikube** and all dependencies running: <https://kubernetes.io/docs/setup/minikube/>
 
 2) Go in the repository
 ```cd /deployment```
@@ -125,7 +123,7 @@ You can find the project deployment in a GitHub repo:
 -> all pods should be in the "running" state.
 This could take some time - don't worry if something is crashing - it will be restarted automatically..
 
-4) Go to https://192.168.99.100:30443/
+4) Go to <https://192.168.99.100:30443/>
 You should see the the login-page. 
 The default credentials are:
 - For the normal login:
@@ -137,14 +135,14 @@ username: **admin**
 password: **admin**
 
 You can change all passwords with the Keycloak management:
-https://192.168.99.100:30033/auth
+<https://192.168.99.100:30033/auth>
 
 ### How to use?
 
 The components have the the following urls:
-1) OHIF: https://192.168.99.100:30443/ (root)
-2) DCM4CHe https://192.168.99.100:30443/dcm4chee-arc/ui2
-3) Keycloak: https://192.168.99.100:30033/auth
+1) OHIF: <https://192.168.99.100:30443/> (root)
+2) DCM4CHe <https://192.168.99.100:30443/dcm4chee-arc/ui2>
+3) Keycloak: <https://192.168.99.100:30033/auth>
 4) Dicom receiver port is ```192.168.99.100:31112```
 5) All data is stored inside the minikube vm (**/data_deployment**)
 
@@ -159,6 +157,7 @@ To push an example image to DCM4CHE with the **dcm4che-tools docker container**:
  We should make this compatible with any Kubernetes setup
 - OHIF viewer will be updated 
 - Instructions how to add a tls certificate
+
 
 
 # Background and References
