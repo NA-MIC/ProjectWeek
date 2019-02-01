@@ -42,9 +42,16 @@ Should we also consider [TID2000 Basic Diagnostic Imaging Report](http://dicom.n
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Investigated, discussed, learned a lot, concluded that roundtrip
+   conversion is not a good goal: DICOM should stay the primary
+   storage of all details, FHIR should serve only as a medium for
+   storing the most important results (with references to the
+   underlying DICOM objects), in order to make them available together
+   with other EHR data!
+1. Put up code at https://github.com/hmeine/tid1500-fhir
+1. Prepared Typescript-based expected FHIR results (autocompletion!) + conversion scripts to JSON
+1. Created a script that uses dsr2xml (from dcmtk), parses the resulting XML, and creates FHIR resources
+1. Created a second script uploads the result to a FHIR server (first checking for existing duplicates)
 
 # Illustrations
 
