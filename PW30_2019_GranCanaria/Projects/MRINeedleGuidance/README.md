@@ -33,6 +33,9 @@ We are planning to collect information about best practices to use different too
 <!--  -->
 
 # Illustrations
+Workflow
+
+![image1](workflow.png)
 
 Prototype of the robot
 ![image1](img1.PNG)
