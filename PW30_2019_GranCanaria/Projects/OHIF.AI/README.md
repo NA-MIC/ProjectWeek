@@ -40,11 +40,11 @@ Specifically,
 3. Subscribe to results from DicomWeb Server - completed
 - Webhook implemented to subscribe for results (new series availablity)
 
-OHIF Segmentation Plugin
+### OHIF Segmentation Plugin
 4. Publish corrected results, if any back to DicomWeb Server - next steps
 - Editing of segmentation results and uploading back to dicom web server
 
-OHIF Pdf Plugin:
+### OHIF Pdf Plugin:
 5. Render generated encapsulated pdf for results - completed
 - New Ohif Pdf plugin is created
 - Visualisation of smart report in OHIF is accomplished by OHIF Pdf Plugin
