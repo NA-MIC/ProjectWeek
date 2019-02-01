@@ -32,10 +32,10 @@ We want to implement a neural network based automatic segmentation algorithm to 
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 We made some segmentation mask in Slicer, using Segment editor's fill between slices tool. We made a python peogram, that import .nrrd files from a directory and store them in a list. ![Program](Program.ipynb)
-- An original CT image
-![The original CT image](Test.JPG)
-- A segmentaion mask
-![The segmentation mask](mask.JPG)
+- An Segmented Image
+![The original CT image](minta.PNG)
+- Few non-segmented image
+![Non-seg](image_00008.png)(image_00009.png)(image_00010.png)
 
 # Illustrations
  Keras, a neural network package in python:
