@@ -46,6 +46,7 @@ Install and test the following solutions:
 * [ohif-viewer-XNAT-plugi](https://github.com/JamesAPetts/ohif-viewer-XNAT-plugin)
 * learned that [xnatpy](https://xnat.readthedocs.io/en/latest/) exists, and is preferred over [pyxnat](https://pythonhosted.org/pyxnat/) (but neither is officially supported by the XNAT team :-( ...)
 1. Did not get to try an improved version of the CCC infrastructure (OHIF + dcm4chee + keyckloak) - Jonas is working on it.
+1. Did not get to Girder ...
 
 # Illustrations
 
