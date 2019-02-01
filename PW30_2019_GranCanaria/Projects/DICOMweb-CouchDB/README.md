@@ -42,8 +42,19 @@ This project aims to work on a prototype lightweight DICOM server that will supp
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. SlicerChronicle stores DICOM object instances as documents in CouchDB
-2. ...
-3. ...
+1. Repository created in https://github.com/emelalkim/dicomweb-server-js using fastify node.js framework
+1. DICOMweb queries and CouchDB views created for:
+    1. QIDO
+        1. {s}/studies endpoint: Query for studies
+        1. {s}/studies/{study}/series endpoint: Query for series
+        1. {s}/studies/{study}/series/{series}/instances endpoint: Query for instances
+    1. WADO
+        1. {s}/studies/{study}/series/{series}/instances/{instance} endpoint : WADO-URI Retrieve Instance 
+        1. {s}/studies/{study}/metadata endpoint: Retrieve study metadata
+ 
+1. JSON schemas defined for QIDO query responses for studies, series and instances level
+
+    
 
 # Illustrations
 
