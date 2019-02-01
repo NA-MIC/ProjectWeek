@@ -51,6 +51,7 @@ This project aims to produce a flexible toolset for analysis of shape and form f
 ![Ellipse plot of total landmark variance](ellipse.png)
 -->
 ![SlicerMorph GPA Screenshot](SM_screen.png)
+![SlicerMorph GPA Screenshot2](SM2.png)
 
 # Background and References
 
