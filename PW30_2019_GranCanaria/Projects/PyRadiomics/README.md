@@ -35,16 +35,14 @@ This project aims to develop and maintain the open source software PyRadiomics, 
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. ToDo...
-1. ToDo...
 1. Done, voxel-wise extraction now available from the command line by setting switch `--mode` (`-m`) to `voxel`, stores feature maps as NRRD images. Merged into PyRadiomics in [PR #457](https://github.com/Radiomics/pyradiomics/pull/457)
+1. Developed a Jupyter Notebook for comparing USF radiomics results with pyradiomics. Observed good agreement in one case, but very poor in another, where volume of the structure is very small (see fig. below). We think this is due to the different approaches to rasterizing RTSTRUCT contours. Comparison of texture features underway.
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![Comparison of USF features with pyradiomics results](usf-vs-pyradiomics.png)
+![Comparison of USF features with pyradiomics results, numeric](usf-vs-pyradiomics-numbers.png)
+
 
 # Background and References
 
