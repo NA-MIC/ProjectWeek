@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Bence Horvath (University of Szeged)
 - Kyle Sunderland (Queen's University)
 - Eleni Siampli (Children's National)
-- ...
+- Andras Lasso (Queen's University)
 
 # Project Description
 
