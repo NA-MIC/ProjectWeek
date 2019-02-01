@@ -35,9 +35,9 @@ We made some segmentation mask in Slicer, using Segment editor's fill between sl
 - Few manually segmented image
 ![alt-text-1](image_00008.png) ![alt-text-2](image_00009.png) ![alt-text-2](image_00010.png)
 <p float="left">
-  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/seg_00008.png" width="100" />
-  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/seg_00009.png" width="100" /> 
-  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/seg_00010.png" width="100" />
+  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/seg_00008.png" width="200" />
+  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/seg_00009.png" width="200" /> 
+  <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/Projects/NeuroNetworkSegmentationofNeck/seg_00010.png" width="200" />
 </p>
 - Few segmentation mask
 ![](seg_00008.png) ![](seg_00009.png) ![](seg_00010.png)
