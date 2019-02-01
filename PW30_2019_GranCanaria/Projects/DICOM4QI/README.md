@@ -52,13 +52,13 @@ Several relevant projects were presented during the DICOM breakout session on We
 Both Markus and "DICOM on FIHR" use the [DICOM4QI](https://dicom4qi.readthedocs.io) datasets as reference for development.
 
 Resources:
-* RSNA demonstration/connectathon materials (with sample datasets): https://dicom4qi.readthedocs.io
-* Relevant open source tools: https://dicom4qi.readthedocs.io/en/latest/resources/software/
-* Public datasets: https://dicom4qi.readthedocs.io/en/latest/resources/datasets/
-* LIDC dataset: https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI 
-*LIDC annotations in DICOM: https://wiki.cancerimagingarchive.net/display/DOI/Standardized+representation+of+the+TCIA+LIDC-IDRI+annotations+using+DICOM 
-* Conversion library (C++) we use in Slicer and MITK: https://github.com/qiicr/dcmqi 
-* DICOM tutorial at MICCAI (2017 and 2018, archived): http://qiicr.org/dicom4miccai/ 
+* RSNA demonstration/connectathon materials (with sample datasets): [https://dicom4qi.readthedocs.io](https://dicom4qi.readthedocs.io)
+* Relevant open source tools list [here](https://dicom4qi.readthedocs.io/en/latest/resources/software/)
+* Public datasets list [here](https://dicom4qi.readthedocs.io/en/latest/resources/datasets/)
+* LIDC dataset [https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI)
+* LIDC annotations in DICOM [on TCIA here](https://wiki.cancerimagingarchive.net/display/DOI/Standardized+representation+of+the+TCIA+LIDC-IDRI+annotations+using+DICOM)
+* Conversion library (C++) we use in Slicer and MITK: [https://github.com/qiicr/dcmqi](https://github.com/qiicr/dcmqi)
+* DICOM tutorial at MICCAI (2017 and 2018, archived): [http://qiicr.org/dicom4miccai/](http://qiicr.org/dicom4miccai)
 
 ### DICOM SR TID1500 support in pydicom
 
@@ -66,8 +66,8 @@ Markus has been working on defining/implementing the API, helped by the discussi
 * This stuff is hard! (more from Markus)
 * Located XML template definitions in David Clunie [Pixelmed library](http://www.dclunie.com/pixelmed/software/20181018_current/index.html), see `com/pixelmed/validate/DicomSRDescriptionsSource.xml` (not clear what version of the standard that file corresponds to, i.e., how old it is)
 * Discussed the possibility of wrapping DCMTK in python automatically, or at least a portion of the API. Related efforts mentioned by Jörg Riesmeier on DCMTK wrapping:
-** https://pypi.org/project/pypx/ (networking only)
-** https://launchpad.net/pydcmtk (does not seem to be a maintained project)
+** [https://pypi.org/project/pypx/](https://pypi.org/project/pypx/) (networking only)
+** [https://launchpad.net/pydcmtk](https://launchpad.net/pydcmtk) (does not seem to be a maintained project)
 * Work is in progress!
 
 ### Infrastructure improvements
