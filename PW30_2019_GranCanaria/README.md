@@ -29,7 +29,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 This is our second Project Week in Las Palmas. [Photos Project Week 30](https://drive.google.com/drive/folders/19nuPjpcHGNKOfJZozDwPeHQaYxmU3Mjq?usp=sharing) 
 
-<!--## 30 PW NA-MIC in [the media](PW30InTheMedia.md) -->
+30 PW NA-MIC in [the media](PW30InTheMedia.md) 
 
 First project wek in Las Palmas. [Project Week 28](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/) was held in this location as well, and captured in [Photos Project Week 28](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing), and [coverage by the local media](../PW28_2018_GranCanaria/PW28InTheMedia.md).
 
