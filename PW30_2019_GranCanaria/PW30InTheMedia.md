@@ -1,7 +1,7 @@
 ## 28th Summer Project Week in the Media.
 
 - [La Provincia](https://mt4sd.ulpgc.es/es/diario-la-provincia-tecnologia-medica-para-todos/) 
-<img src="LaProvincia.jpg">
+<img src="LaProvincia.jpg" width="200" height="250">
 
 - [Noticanarias](https://www.noticanarias.com/expertos-de-todo-el-mundo-comparten-en-canarias-avances-tecnologicos-sostenibles-para-la-investigacion-biomedica/)
 
