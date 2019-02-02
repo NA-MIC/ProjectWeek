@@ -14,8 +14,8 @@
 1. [Interviews](https://twitter.com/medtec4susdev/status/1091314493735518208)
 1. [Elder Museum](https://twitter.com/medtec4susdev/status/1091110227498463233)
 1. [Elder Museum African Dance](https://twitter.com/medtec4susdev/status/1091045023502819328)
-1. [Morning Session. Luis Serra](https://twitter.com/medtec4susdev/status/1090634151919788032)
-1. [Morning Session. Luis López](https://twitter.com/medtec4susdev/status/1090632688095121409) 
+1. [Morning Session. Prof. Luis Serra](https://twitter.com/medtec4susdev/status/1090634151919788032)
+1. [Morning Session. Prof. Luis López](https://twitter.com/medtec4susdev/status/1090632688095121409) 
 
 # Instagram:
 1. [Work Session](https://www.instagram.com/p/BtV3XR3DCls/?utm_source=ig_web_copy_link)
