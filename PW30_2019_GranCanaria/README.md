@@ -191,13 +191,14 @@ List of registered participants so far (names will be added here after processin
 1. Andras Lasso (@lassoan)(lasso@queensu.ca) - Queen’s University - Canada
 1. Kyle Sunderland (1krs1@queensu.ca) - Queen’s University - Canada
 1. Srikrishna Prasad (srikrishna.prasad@siemens-healthineers.com) - Siemens Healthineers GmBH - Germany
+1. Forrest Li (forrest.li@kitware.com) -  Kitware Inc. - USA
 
 
 ## Statistics
 
 1. 7 Topics
 1. 33 projects
-1. 59 registrants
+1. 60 registrants
 1. 28 institutions
 1. 13 countries
 1. 3 continents
