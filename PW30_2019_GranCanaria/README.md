@@ -27,7 +27,9 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Photo Album
 
-This is our second Project Week in Las Palmas. [Photos Project Week 30](https://drive.google.com/drive/folders/19nuPjpcHGNKOfJZozDwPeHQaYxmU3Mjq?usp=sharing) 
+This is our second Project Week in Las Palmas. [Photos Project Week 30 in a Google Drive folder](https://drive.google.com/drive/folders/19nuPjpcHGNKOfJZozDwPeHQaYxmU3Mjq?usp=sharing) 
+
+[Google Photos album](https://photos.app.goo.gl/qv1mgzwbugnhf1iw8)
 
 30 PW NA-MIC in [the media](PW30InTheMedia.md) 
 
