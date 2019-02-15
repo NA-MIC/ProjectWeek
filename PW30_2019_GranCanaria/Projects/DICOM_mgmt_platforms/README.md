@@ -43,7 +43,7 @@ Install and test the following solutions:
 1. Discussed the capabilities and planned release timeline of the platform being developed at DKFZ (Marco and Jonas). Looking forward to try it!
 1. Installed XNAT with the OHIF plugin (very easy and "just works"!):
 * [xnat-docker-compose](https://github.com/NrgXnat/xnat-docker-compose)
-* [ohif-viewer-XNAT-plugi](https://github.com/JamesAPetts/ohif-viewer-XNAT-plugin)
+* [ohif-viewer-XNAT-plugi](https://github.com/JamesAPetts/ohif-viewer-XNAT-plugin) (the more recent packages are in non-master branches, e.g., see [https://github.com/JamesAPetts/ohif-viewer-XNAT-plugin/tree/xnatRoi-beta-1.10](https://github.com/JamesAPetts/ohif-viewer-XNAT-plugin/tree/xnatRoi-beta-1.10))
 * learned that [xnatpy](https://xnat.readthedocs.io/en/latest/) exists, and is preferred over [pyxnat](https://pythonhosted.org/pyxnat/) (but neither is officially supported by the XNAT team :-( ...)
 1. Did not get to try an improved version of the CCC infrastructure (OHIF + dcm4chee + keyckloak) - Jonas is working on it.
 1. Did not get to Girder ...
