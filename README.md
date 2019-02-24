@@ -1,4 +1,8 @@
+
+Welcome to the main page for the Project Week events!
+
 ## The [31st Project Week](PW31_2019_Boston/README.md) will take place June 24-28, 2019 at MIT, Boston, USA.
+
 
 ## Frequently Asked Quesions
 
@@ -34,10 +38,12 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 
 ## Upcoming Project Weeks
 
-- [30th Project Week](PW30_2019_GranCanaria/README.md) will take place January 28 through February 1, 2019 in Las Palmas, Gran Canaria, Spain.
+- The [31st Project Week](https://na-mic.github.io/ProjectWeek/PW31_2019_Boston/) is scheduled for June 24-28, 2019 at MIT, Cambridge, MA.
+
 
 **Plan ahead:** 
-* The [31st Project Week](https://na-mic.github.io/ProjectWeek/PW31_2019_Boston/) is scheduled for June 24-28, 2019 at MIT, Cambridge, MA.
+* [32nd Project Week](PW32_2020_GranCanaria/README.md) will take place January 20-24, 2020 in Las Palmas, Gran Canaria, Spain.
+
 * Please contact the organizers if you have interest in hosting a Project Week event.
 
 ## Past Project Weeks
