@@ -1,6 +1,6 @@
-## The [30th Project Week](PW30_2019_GranCanaria/README.md) will take place January 28 through February 1, 2019 in Las Palmas, Gran Canaria, Spain.
+## The [31st Project Week](PW31_2019_Boston/README.md) will take place June 24-28, 2019 at MIT, Boston, USA.
 
-## Introduction
+## Frequently Asked Quesions
 
 ![2016 Winter Project Week Final Day](https://www.na-mic.org/w/images/thumb/2/25/2016_Winter_Project_Week_Final_Day.JPG/800px-2016_Winter_Project_Week_Final_Day.JPG)
 
