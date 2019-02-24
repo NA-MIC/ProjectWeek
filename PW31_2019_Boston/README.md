@@ -14,7 +14,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Location:** [MIT CSAIL](https://www.csail.mit.edu/about/visit-csail), 32 Vassar Avenue, Cambridge, MA, USA
 - **Hotels:** No rooms are reserved.  Please ask on [discourse forum](https://discourse.slicer.org/c/community/project-week) if you have questions.
 - **Registration**: Fee is USD 350.  Form will appear here in May.
-- [Frequently Asked Questions](Logistics.md#Faq)
+- [Frequently Asked Questions](https://na-mic.github.io/ProjectWeek)
 
 ## Preparatory Videoconferences
 
