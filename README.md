@@ -47,7 +47,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 * Please contact the organizers if you have interest in hosting a Project Week event.
 
 ## Past Project Weeks
-- [2019 January 28-February 1](https://na-mic.github.io/ProjectWeek/PW30_2019_GranCanaria/) - Gran Canaria, Spain. It recorded 60 Registrants (from 13 countries) who worked on 33 projects.
+- [2019 January 28-February 1: Project Week 30](PW30_2019_GranCanaria/README.md) - Gran Canaria, Spain. It recorded 60 Registrants (from 13 countries) who worked on 33 projects.
 - [2018 July 16-20: Project Week 29](PW29_2018_London_Canada/README.md) - Robarts Research Institute, London, Ontario, Canada. It recorded 37 Registrants. This was a satellite event with a slight focus on new users and community expansion.
 - [2018 June 25-29: Project Week 28](PW28_2018_GranCanaria/README.md) - Gran Canaria, Spain. It recorded 58 Registrants, who worked on 31 projects.
 - [2018 January 8-12: Project Week 27](PW27_2018_Boston/README.md) - MIT, Cambridge, MA, USA. It recorded 72 registered attendees, who worked on 52 projects and attended 5 breakout sessions.
