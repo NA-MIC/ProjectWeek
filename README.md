@@ -1,7 +1,7 @@
 
-Welcome to the main page for the Project Week events!
+## Welcome to the main page for the Project Week events!
 
-## The [31st Project Week](PW31_2019_Boston/README.md) will take place June 24-28, 2019 at MIT, Boston, USA.
+### The [31st Project Week](PW31_2019_Boston/README.md) will take place June 24-28, 2019 at MIT, Boston, USA.
 
 
 ## Frequently Asked Quesions
