@@ -2,7 +2,7 @@
 
 ## Welcome to the web page for the 32nd Project Week!
 
-The 32nd NA-MIC Project Week will be held during the week of January 20-24, 2020 in Las Palmas (exact location will be defined later in 2019).
+The 33rd NA-MIC Project Week will be held during the week of January 20-24, 2020 in Las Palmas (exact location will be defined later in 2019).
 
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
@@ -26,7 +26,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
                 Zoom video conference: <a href="https://zoom.us/j/112427205">To join the videoconference</a>
             </li>
             <li>
-<a href="https://github.com/NA-MIC/ProjectWeek/blob/master/PW30_2019_GranCanaria/PreparatoryMeetingsNotes.md">Conference call notes</a>
+<a href="https://github.com/NA-MIC/ProjectWeek/blob/master/PW33_2020_GranCanaria/PreparatoryMeetingsNotes.md">Conference call notes</a>
             </li>
         </ul>
     </td>
