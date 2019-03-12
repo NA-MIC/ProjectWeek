@@ -1,6 +1,6 @@
 
 
-## Welcome to the web page for the 32nd Project Week!
+## Welcome to the web page for the 33rd Project Week!
 
 The 33rd NA-MIC Project Week will be held during the week of January 20-24, 2020 in Las Palmas (exact location will be defined later in 2019).
 
