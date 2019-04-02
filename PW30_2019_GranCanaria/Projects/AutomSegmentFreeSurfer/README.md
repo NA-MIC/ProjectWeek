@@ -57,33 +57,33 @@ The Slicer module used was the Segment Editor. Once the fiducial points were pla
 To ensure the correct overlap of the segment boundaries, when using the paint or draw tool, the setting for masking was set to editable area: outside all segments.
 
 ## Illustrations
-<table border=0 width=100%>
-  <tr><td colspan=3><b>Placement of the fiducial boundaries</b></td></tr>
-  <tr valign=top align=center/
+<table border="0" width="100%">
+  <tr><td colspan="3"><b>Placement of the fiducial boundaries</b></td></tr>
+  <tr valign="top" align="center">
     <td><img src="2019-01-31_110937.png" width="250"></td>
     <td><img src="2019-01-31_111007.png" width="250"></td>
     <td><img src="2019-01-31_111037.png" width="250"></td>
   </tr>
-  <tr valign=top align=center>
+  <tr valign="top" align="center">
     <td><i>Manual segmentation</i></td>
     <td><i>FreeSurfer result</i></td>
     <td><i>Overlap</i></td>
   </tr>
-  <tr><td colspan=3><b>Anterior view</b></td></tr>
-  <tr valign=top align=center>
+  <tr><td colspan="3"><b>Anterior view</b></td></tr>
+  <tr valign="top" align="center">
     <td><img src="segmentA.png" width="250"></td>
     <td><img src="segmentB.png" width="250"></td>
     <td><img src="segmentC.png" width="250"></td>
   </tr>
   
-  <tr><td colspan=3><b>Superior view</b></td></tr>
-  <tr valign=top align=center>
+  <tr><td colspan="3"><b>Superior view</b></td></tr>
+  <tr valign="top" align="center">
     <td><img src="secmentA.png" width="250"></td>
     <td><img src="secmentB.png" width="250"></td>
     <td><img src="secmentC.png" width="250"></td>
   </tr>
-  <tr><td colspan=3><b>Left view</b></td></tr>
-  <tr valign=top align=center>
+  <tr><td colspan="3"><b>Left view</b></td></tr>
+  <tr valign="top" align="center">
     <td><img src="sekmentA.png" width="250"></td>
     <td><img src="sekmentB.png" width="250"></td>
     <td><img src="sekmentC.png" width="250"></td>
