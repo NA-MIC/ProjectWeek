@@ -55,7 +55,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Registrants
 
-Do not add your name to this list below. It is maintained by the organizers based on your paid registration. [Click here to register.](https://www.regonline.com/registration/Checkin.aspx?EventID=2555870).)
+Do not add your name to this list below. It is maintained by the organizers based on your paid registration. [Click here to register.](https://www.regonline.com/registration/Checkin.aspx?EventID=2555870))
 
 List of registered participants so far (names will be added here after processing registrations):
 
