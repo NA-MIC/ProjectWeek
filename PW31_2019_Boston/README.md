@@ -13,7 +13,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Dates:** June 24-28, 2019
 - **Location:** [MIT CSAIL](https://www.csail.mit.edu/about/visit-csail), 32 Vassar Avenue, Cambridge, MA, USA
 - **Hotels:** No rooms are reserved.  Please ask on [discourse forum](https://discourse.slicer.org/c/community/project-week) if you have questions.
-- **Registration**: Fee is USD 350.  Form will appear here in May.
+- **Registration**: Fee is USD 350.  Register using [this link](https://www.regonline.com/registration/Checkin.aspx?EventID=2555870).
 - [Frequently Asked Questions](ProjectWeek)
 
 ## Preparatory Videoconferences
@@ -55,7 +55,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Registrants
 
-Do not add your name to this list below. It is maintained by the organizers based on your paid registration. **[Click here to register.](TBA)**
+Do not add your name to this list below. It is maintained by the organizers based on your paid registration. [Click here to register.](https://www.regonline.com/registration/Checkin.aspx?EventID=2555870).)
 
 List of registered participants so far (names will be added here after processing registrations):
 
