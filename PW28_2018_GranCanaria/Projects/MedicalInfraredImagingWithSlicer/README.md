@@ -16,7 +16,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Project Description
 
-This project is a next step in the one presented during [27thPW NA-MIC](https://na-mic.github.io/ProjectWeek/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/), a research collaboration between the public research institute [IAC](http://www.iac.es/) and the [University of Las Palmas de Gran Canarias(ULPGC)](http://www.ulpgc.es/) in order to use InfraRed (IR) sensors and advanced image processing techniques in 3D Slicer for medical diagnosis.
+This project is a next step in the one presented during [27thPW NA-MIC](https://projectweek.na-mic.org/PW27_2018_Boston/Projects/MedicalInfraredImagingwithSlicer/), a research collaboration between the public research institute [IAC](http://www.iac.es/) and the [University of Las Palmas de Gran Canarias(ULPGC)](http://www.ulpgc.es/) in order to use InfraRed (IR) sensors and advanced image processing techniques in 3D Slicer for medical diagnosis.
 It is intended mainly for monitoring of foot ulcers in diabetic patients. The infrared cameras have been integrated and connected to 3D Slicer using the PLUS toolkit. In addition, a new medical thermal infrared extension is being developed.
 
 

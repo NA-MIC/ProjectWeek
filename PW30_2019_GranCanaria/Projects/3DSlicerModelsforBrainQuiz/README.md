@@ -15,7 +15,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ### Designing training and divulgative tools from 3DSlicer models.
 
-This proposal is a joint collaboration work: [M-ITI](https://www.m-iti.org/) and [ULPGC-IUIBS MACbioIDi](https://mt4sd.ulpgc.es/w/index.php/Proyecto_MACbioIDi). It is a proposal for the areas of education, scientific and medical projects. The objective of this project is to create a complete brain quiz application within the concept of Serious Game, by using scenarios developed in Unity -the cross platform game engine-. These scenarios will use models of images imported from 3DSlicer. This project is the continuation of the prototype developed during [PW28th NA-MIC](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/Projects/3DSlicerModelsForSeriousGames/)
+This proposal is a joint collaboration work: [M-ITI](https://www.m-iti.org/) and [ULPGC-IUIBS MACbioIDi](https://mt4sd.ulpgc.es/w/index.php/Proyecto_MACbioIDi). It is a proposal for the areas of education, scientific and medical projects. The objective of this project is to create a complete brain quiz application within the concept of Serious Game, by using scenarios developed in Unity -the cross platform game engine-. These scenarios will use models of images imported from 3DSlicer. This project is the continuation of the prototype developed during [PW28th NA-MIC](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/3DSlicerModelsForSeriousGames/)
 
 
 ## Objectives
@@ -68,7 +68,7 @@ Unity Scenario video examples.
 
 ## Background and References
 
-+ [First prototype](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/Projects/3DSlicerModelsForSeriousGames/)
++ [First prototype](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/3DSlicerModelsForSeriousGames/)
 + [Virtual Reality with Customized Positive Stimuli in a Cognitive-Motor Rehabilitation Task: A feasibility study with subacute stroke patients with mild cognitive impairment
 Mónica S. Cameirão, Fábio Pereira, Sergi Bermúdez i Badia](https://neurorehabilitation.m-iti.org/lab/wp-content/plugins/zotpress/lib/request/request.dl.php?api_user_id=161215&key=4ZQMQFB3&content_type=application/pdf)
 

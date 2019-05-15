@@ -52,4 +52,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 
-- [Work at the previous Project Week](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/Projects/MultiVolumeRendering/)
+- [Work at the previous Project Week](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/MultiVolumeRendering/)

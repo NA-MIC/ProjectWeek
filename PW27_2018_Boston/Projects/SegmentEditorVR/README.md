@@ -56,4 +56,4 @@ Details:
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Breakout session: https://na-mic.github.io/ProjectWeek/PW27_2018_Boston/BreakoutSessions/AR-VR.html
+- Breakout session: https://projectweek.na-mic.org/PW27_2018_Boston/BreakoutSessions/AR-VR.html

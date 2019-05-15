@@ -17,7 +17,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 This project aims to work on interoperability of DICOM SEG within the cornerstonejs and vtkjs frameworks,
-utilizing dcmjs for IO. This project is the logical continuation of [a previous Project Week project](https://na-mic.github.io/ProjectWeek/PW27_2018_Boston/Projects/dcmjs-cornerstone/)
+utilizing dcmjs for IO. This project is the logical continuation of [a previous Project Week project](https://projectweek.na-mic.org/PW27_2018_Boston/Projects/dcmjs-cornerstone/)
 
 ## Objective
 

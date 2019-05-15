@@ -113,7 +113,7 @@ Machine learning solutions used in Slicer:
 - [TOMAAT](https://github.com/faustomilletari/TOMAAT-Slicer): store and run models on cloud
 - [SlicerIGT](https://github.com/SlicerIGT/UsAnnotationExport): real-time segmentation of 2D ultrasound image streams, train and run models locally
 
-- [Chest imaging platform](https://na-mic.github.io/ProjectWeek/PW27_2018_Boston/Projects/CIPDeepLearningLungSegmentation/): work in progress? does not seem to be integrated in the public repository yet
+- [Chest imaging platform](https://projectweek.na-mic.org/PW27_2018_Boston/Projects/CIPDeepLearningLungSegmentation/): work in progress? does not seem to be integrated in the public repository yet
 
 Related efforts:
 - [NiftyNet](https://github.com/NifTK/NiftyNet)

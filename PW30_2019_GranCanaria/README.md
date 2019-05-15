@@ -33,7 +33,7 @@ This is our second Project Week in Las Palmas. [Photos Project Week 30 in a Goog
 
 30 PW NA-MIC in [the media](PW30InTheMedia.md) 
 
-First project wek in Las Palmas. [Project Week 28](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/) was held in this location as well, and captured in [Photos Project Week 28](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing), and [coverage by the local media](../PW28_2018_GranCanaria/PW28InTheMedia.md).
+First project wek in Las Palmas. [Project Week 28](https://projectweek.na-mic.org/PW28_2018_GranCanaria/) was held in this location as well, and captured in [Photos Project Week 28](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing), and [coverage by the local media](../PW28_2018_GranCanaria/PW28InTheMedia.md).
 
 ## Logistics
 - **Dates:** January 28 - February 1, 2019.

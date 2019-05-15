@@ -45,5 +45,5 @@ Training contents developed within the framework of the MACbioIDi project.
 
 ## Background and References
 
-+ [Project previous edition](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/Projects/3DSlicerTrainingPrograms/)
++ [Project previous edition](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/3DSlicerTrainingPrograms/)
 + [A Medical Imaging Computing Learning Program: Transitioning Towards The Medical Technology In Africa](https://library.iated.org/view/AFONSOSUAREZ2018AME)

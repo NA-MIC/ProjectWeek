@@ -15,7 +15,7 @@ These are notes from PW#27 Preparation Hangouts held weekly on Tuesdays at 10am 
 
 * Discussion and work session on github for project week organization
   * General goal is to replace the wiki with something more "standard"
-  * Published site: https://na-mic.github.io/ProjectWeek/
+  * Published site: https://projectweek.na-mic.org/
   * Repository: https://github.com/NA-MIC/ProjectWeek
   * Overall github is not really easier than mediawiki but generally it's agreed that git has become an essential tool that all Project Week attendees will benefit from learning.
 * Usage

@@ -139,7 +139,7 @@ To receive information about this and future events please join the [Project Wee
 
 
 ### Next Project Week
-[ProjectWeek 28, June 25-29, 2018, Gran Canaria](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/) (Juan Ruiz-Alzola)
+[ProjectWeek 28, June 25-29, 2018, Gran Canaria](https://projectweek.na-mic.org/PW28_2018_GranCanaria/) (Juan Ruiz-Alzola)
 
 <a name="BreakoutSessions"/>
 
