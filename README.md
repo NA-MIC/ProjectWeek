@@ -81,5 +81,5 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 - [2005 February 20-22: The First All-Hands-Meeting and Programming Event](https://na-mic.org/wiki/AHM_2005:Main) - Salt Lake City, UT, USA.
 
 ---
-This page is hosted [from the NA-MIC organization's ProjectWeek repository on github.com](https://github.com/NA-MIC/ProjectWeek) and is published at [https://na-mic.github.io/ProjectWeek](https://na-mic.github.io/ProjectWeek)
+This page is hosted [from the NA-MIC organization's ProjectWeek repository on github.com](https://github.com/NA-MIC/ProjectWeek) and is published at [https://projectweek.na-mic.org](https://projectweek.na-mic.org)
 
