@@ -40,17 +40,37 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 
 ### Segmentation
+- Touch and pen interactions (Kyle Sunderland, Jarett Rushmore)
+- Cross-compiling VTK+PolySeg to webassemble/emscripten (Eric, Jc, Csaba Pinter)
+- Neuro segmentation (Sylvain, Jarett Rushmore, Kyle Sunderland, Andras Lasso)
+- WebGL / GLSL tools for segmentation in the browser (e.g. scissors) (Erik, Steve, anyone else?)
+- Fleshed out plugin architecture for OHIF Viewer 2.0 + example plugin in the form of contour/segmentation support. (Danny, Eric)
+- Multi time point cardiac sequence segmentation (Sarv, Andras)
+- 3D Printing Using Slicer for creating clubfoot casts (Hadi Fooladi, Pooneh Roshanitabrizi, Steve Pieper, Kevin Cleary)
+- Segmentation based statistics/visualization of 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites (Francisco Marcano)
+
+
+### Simulation
+- Interactive medical simulation toolkit (IMSTK) integration (Sam, Andras, Tina)
+- Cardiac device placement/deformation simulation (Sarv, Andras)
+- Virtual reality interface improvements (clipping plane positioning, sharing virtual reality view between multiple headsets, etc.)
+(Sarv, Csaba) 
 
 ### Registration
 
 ### Classification
 
 ### DICOM
+- Improve DICOM import for 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites (Francisco Marcano)
 
 ### Infrastructure
+- VTK filters running on GPU (Kyle Sunderland, Steve Pieper)
+- Improved volume rendering (Simon Drouin)
+- Internationalization in scripted modules and OHIF (Carlos Luque, Jc, Eric)
+- Data repository integration (Girder, XNAT, ...)
 
 ### Open Anatomy
-
+- Export from Slicer (Andras, Csaba, Mike)
 
 
 ## Registrants
