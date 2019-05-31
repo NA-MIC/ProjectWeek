@@ -28,7 +28,7 @@ Back to [Projects List](../../README.md#ProjectsList)
   1. Connect the two points with a line at the bottom of the sulcus (i.e., a minimum value)
   1. Assign the line to a specific sulcal identity (with it's associated ontology, and related reference files)
 
-- Implement a constraint option for markups (force to be on a surface (model node, segmentation, or another markup))
+- Implement a constraint option for markups to force them to be on a surface (i.e. model node, segmentation, or another markup)
 
 ## Progress and Next Steps
 
