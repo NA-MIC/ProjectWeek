@@ -40,7 +40,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 
 ### Segmentation
-- Touch and pen interactions (Kyle Sunderland, Jarett Rushmore)
+- [Touch and pen interactions](Projects/TouchAndPenInteractions/README.md) (Kyle Sunderland, Jarett Rushmore)
 - Cross-compiling VTK+PolySeg to webassemble/emscripten (Eric, Jc, Csaba Pinter)
 - Neuro segmentation (Sylvain, Jarett Rushmore, Kyle Sunderland, Andras Lasso)
 - WebGL / GLSL tools for segmentation in the browser (e.g. scissors) (Erik, Steve, anyone else?)
