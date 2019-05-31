@@ -16,10 +16,19 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+1. Design and create a dedicated neuroanatomy segmentation module 
+1. Adopt an approach for sulcal definition
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
+- Sulcal definition
+  1. Load freesurfer surfaces into Slicer
+  1. Using the white matter surfaces, draw two points in Slicer, each at the base of a sulcus
+  1. Connect the two points with a line at the bottom of the sulcus (i.e., a minimum value)
+  1. Assign the line to a specific sulcal identity (with it's associated ontology, and related reference files)
+
+- Implement a constraint option for markups (force to be on a surface (model node, segmentation, or another markup))
 
 ## Progress and Next Steps
 
