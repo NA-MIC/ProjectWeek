@@ -26,6 +26,7 @@ Implement and integrate robust interactions using both touchscreen gestures and 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+- [Pull request for adding touchscreen gestures](https://github.com/Slicer/Slicer/pull/1122)
 
 # Illustrations
 
