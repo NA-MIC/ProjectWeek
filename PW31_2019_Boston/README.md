@@ -41,10 +41,11 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Segmentation
 - [Touch and pen interactions](Projects/TouchAndPenInteractions/README.md) (Kyle Sunderland, Jarett Rushmore)
-- Cross-compiling VTK+PolySeg to webassemble/emscripten (Erik, Jc, Csaba Pinter)
+- [PolySeg in the browser](Projects/PolySeg4Web/README.md) (Erik, Jc, Csaba Pinter)
 - [Neuroanatomical segmentation](Projects/NeuroSegmentation/README.md) (Sylvain Bouix, Jarett Rushmore, Kyle Sunderland, Andras Lasso)
+- [Sulci Tracing on a Surface](Projects/SurfaceSulciTracing/README.md)
 - WebGL / GLSL tools for segmentation in the browser (e.g. scissors, GrowCut) (Erik, Steve, James, Danny)
-- [Fleshed out plugin architecture for OHIF Viewer 2.0 + example plugin in the form of contour/segmentation support](Projects/OHIFPluginArchitecture/README.md) (Danny, James, Erik)
+- Fleshed out plugin architecture for OHIF Viewer 2.0 + example plugin in the form of contour/segmentation support. (Danny, James, Erik)
 - Multi time point cardiac sequence segmentation (Sarv, Andras)
 - 3D Printing Using Slicer for creating clubfoot casts (Hadi Fooladi, Pooneh Roshanitabrizi, Steve Pieper, Kevin Cleary)
 - Segmentation based statistics/visualization of 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites (Francisco Marcano)
@@ -52,7 +53,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Simulation
 - Interactive medical simulation toolkit (IMSTK) integration (Sam, Andras, Tina)
-- Cardiac device placement/deformation simulation (Sarv, Andras)
+- Cardiac device placement/deformation simulation (Sarv, Andras, Sam, Christian)
 - Virtual reality interface improvements (clipping plane positioning, sharing virtual reality view between multiple headsets, etc.)
 (Sarv, Csaba) 
 
@@ -65,9 +66,11 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Infrastructure
 - VTK filters running on GPU (Kyle Sunderland, Steve Pieper)
-- Improved volume rendering (Simon Drouin, Steve Pieper)
+- Improved volume rendering (Kyle, Steve, Andras, Matt, Christian)
 - Internationalization in scripted modules and OHIF (Carlos Luque, Jc, Eric)
+- [Connect SPINE and XNAT](Projects/Connect_SPINE_and_XNAT/README.md) (Alfredo, Andrzej, Charles)
 - Data repository integration (Girder, XNAT, ...)
+- Python Package Management (Sam, Jc , Steve, Andras)
 
 ### Open Anatomy
 - Export from Slicer (Andras, Csaba, Mike)

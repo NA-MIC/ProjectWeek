@@ -16,8 +16,8 @@ The [OHIF Viewer][ohif-viewer] is a zero-footprint medical image viewer provided
 
 Some amount of extensibility is available via OHIF [existing extensions][ohif-extensions]. Our objective is specific to our overarching goal of integrating [James A Petts][james] existing Segmentation tools and UI, currently maintained [here][james-magic]. For example, we would like it to be possible to add the following via plugins:
 
-```
-INSERT COOL IMAGES OF JAMES'S STUFF HERE
+```bash
+# INSERT COOL IMAGES OF JAMES'S STUFF HERE
 ```
 
 1. Support for custom Commands, Hotkeys, and User Preferences
@@ -42,6 +42,8 @@ INSERT COOL IMAGES OF JAMES'S STUFF HERE
 1. ...
 
 # Illustrations
+
+![Example of seg/contour plugin in 1.0](https://github.com/NA-MIC/ProjectWeek/raw/master/PW31_2019_Boston/Projects/OHIFPluginArchitecture/Screen%20Shot%202019-06-03%20at%2016.17.19.png)
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
