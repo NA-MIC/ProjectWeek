@@ -68,6 +68,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - VTK filters running on GPU (Kyle Sunderland, Steve Pieper)
 - Improved volume rendering (Kyle, Steve, Andras, Matt, Christian)
 - Internationalization in scripted modules and OHIF (Carlos Luque, Jc, Eric)
+- [Connect SPINE and XNAT](Projects/Connect_SPINE_and_XNAT/README.md) (Alfredo, Andrzej, Charles)
 - Data repository integration (Girder, XNAT, ...)
 - Python Package Management (Sam, Jc , Steve, Andras)
 
