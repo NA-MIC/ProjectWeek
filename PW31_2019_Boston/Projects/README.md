@@ -13,6 +13,8 @@
    - Open [main project list][projects-list]
    - Scroll down to the project list section and add a line to one of the project groups: `[Full title of your project](Projects/YourProjectName/README.md) (your name, followed by name of other contributors)`
 
+If you have any questions or need help with creating your project, post your request to [Project Week forum](https://discourse.slicer.org/c/community/project-week).
+
 [project-description-template]: https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW31_2019_Boston/Projects/Template/README.md
 [projects-folder]: https://github.com/NA-MIC/ProjectWeek/tree/master/PW31_2019_Boston/Projects
 [projects-list]: https://github.com/NA-MIC/ProjectWeek/edit/master/PW31_2019_Boston/README.md
