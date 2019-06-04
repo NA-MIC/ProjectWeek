@@ -12,8 +12,10 @@
 1. Add a link to your project to the project list
    - Open [main project list][projects-list]
    - Scroll down to the project list section and add a line like this to one of the project groups:
-   
-    [Full title of your project](Projects/YourProjectName/README.md) (your name, followed by name of other contributors)
+
+```
+- [Full title of your project](Projects/YourProjectName/README.md) (your name, followed by name of other contributors)
+```
 
 If you have any questions or need help with creating your project, post your request to [Project Week forum](https://discourse.slicer.org/c/community/project-week).
 
