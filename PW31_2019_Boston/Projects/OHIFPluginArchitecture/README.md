@@ -4,9 +4,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Investigator 1 (Danny)
-- Investigator 2 (James)
-- Investigator 3 (Erik)
+- Danny (Radical Imaging)
+- James (The Institute for Cancer Research, London)
+- Erik (Radical Imaging)
 
 # A nice description
 
