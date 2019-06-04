@@ -38,6 +38,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Illustrations
 
+[Example of seg/contour plugin in 1.0](Screen Shot 2019-06-03 at 16.17.19.png)
+
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
