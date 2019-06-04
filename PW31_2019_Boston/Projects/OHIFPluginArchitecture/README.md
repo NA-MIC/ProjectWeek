@@ -4,9 +4,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Investigator 1 (Danny)
-- Investigator 2 (James)
-- Investigator 3 (Erik)
+- [Danny Brown][danny] ([Radical Imaging][radical])
+- [James A Petts][james] ([Institute for Cancer Research, London][itcr-london]
+- [Erik Ziegler][erik] ([Radical Imaging][radical])
 
 # A nice description
 
@@ -46,3 +46,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+<!--
+    Links
+-->
+
+[radical]: http://radicalimaging.com/
+[icr-london]: https://www.icr.ac.uk/
+[danny]: https://github.com/dannyrb
+[james]: https://github.com/jamesapetts
+[erik]: https://github.com/swederik
