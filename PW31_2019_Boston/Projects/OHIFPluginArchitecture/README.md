@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Fleshed out plugin architecture for OHIF Viewer 2.0 + example plugin in the form of contour/segmentation support. 
 
 ## Key Investigators
 
@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Investigator 2 (James)
 - Investigator 3 (Erik)
 
-# Fleshed out plugin architecture for OHIF Viewer 2.0 + example plugin in the form of contour/segmentation support. 
+# A nice description
 
 // TODO!
 
