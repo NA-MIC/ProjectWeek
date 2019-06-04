@@ -41,7 +41,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Segmentation
 - [Touch and pen interactions](Projects/TouchAndPenInteractions/README.md) (Kyle Sunderland, Jarett Rushmore)
-- Cross-compiling VTK+PolySeg to webassemble/emscripten (Erik, Jc, Csaba Pinter)
+- [PolySeg in the browser](Projects/PolySeg4Web/README.md) (Erik, Jc, Csaba Pinter)
 - [Neuroanatomical segmentation](Projects/NeuroSegmentation/README.md) (Sylvain Bouix, Jarett Rushmore, Kyle Sunderland, Andras Lasso)
 - WebGL / GLSL tools for segmentation in the browser (e.g. scissors, GrowCut) (Erik, Steve, James, Danny)
 - Fleshed out plugin architecture for OHIF Viewer 2.0 + example plugin in the form of contour/segmentation support. (Danny, James, Erik)
