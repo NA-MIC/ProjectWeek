@@ -17,7 +17,7 @@
 - [Full title of your project](Projects/YourProjectName/README.md) (your name, followed by name of other contributors)
 ```
 
-If you have any questions or need help with creating your project, post your request to [Project Week forum](https://discourse.slicer.org/c/community/project-week).
+If you have any questions or need help with creating your project, write it as a "New Topic" on [Project Week forum](https://discourse.slicer.org/c/community/project-week).
 
 [project-description-template]: https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW31_2019_Boston/Projects/Template/README.md
 [projects-folder]: https://github.com/NA-MIC/ProjectWeek/tree/master/PW31_2019_Boston/Projects
