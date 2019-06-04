@@ -38,7 +38,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Illustrations
 
-[Example of seg/contour plugin in 1.0](Screen Shot 2019-06-03 at 16.17.19.png)
+[Example of seg/contour plugin in 1.0](https://github.com/NA-MIC/ProjectWeek/blob/master/PW31_2019_Boston/Projects/OHIFPluginArchitecture/Screen%20Shot%202019-06-03%20at%2016.17.19.png)
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
