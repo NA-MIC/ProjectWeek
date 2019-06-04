@@ -1,24 +1,24 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Fleshed out plugin architecture for OHIF Viewer 2.0 + example plugin in the form of contour/segmentation support. 
+# OHIF Viewer Plugin Architecture
 
 ## Key Investigators
 
 - [Danny Brown][danny] ([Radical Imaging][radical])
-- [James A Petts][james] ([Institute for Cancer Research, London][itcr-london]
+- [James A Petts][james] ([Institute for Cancer Research, London][icr-london])
 - [Erik Ziegler][erik] ([Radical Imaging][radical])
 
-# A nice description
+## Description
 
-// TODO!
+The [OHIF Viewer][ohif-viewer] is a zero-footprint medical image viewer provided by the [Open Health Imaging Foundation][ohif] (OHIF). It is a configurable and extensible progressive web application with out-of-the-box support for image archives which support DICOMweb. We would like to make the OHIF Viewer easier to extend and customize in order to better support the workflow and feature needs of end users.
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+Some amount of extensibility is available via OHIF [existing extensions][ohif-extensions].
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Support for custom Commands, Hotkeys, and User Preferences
+2. Support for custom Side Panels
+3. Support for custom Toolbar Buttons
 
 ## Approach and Plan
 
@@ -56,3 +56,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 [danny]: https://github.com/dannyrb
 [james]: https://github.com/jamesapetts
 [erik]: https://github.com/swederik
+[ohif-viewer]: https://github.com/OHIF/Viewers
+[ohif-extensions]: https://docs.ohif.org/advanced/extensions.html
+[ohif]: http://ohif.org/
