@@ -1,18 +1,18 @@
 # How to create a new project
 
+1. Discuss your project idea and who would be interested in joining the project at the project week preparation teleconferences or on [Project Week forum](https://discourse.slicer.org/c/community/project-week).
+1. Create a new project page based on the project description template
+  - Open [project description template][project-description-template] and the full content of the page to the clipboard
+  - Go to [Projects][projects-folder] folder on GitHub
+  - Click on "Create new file" button
+  - Type `YourProjectName/README.md`
+  - Paste the previously copied content of project template page into your new `README.md`
+  - Update at least your project's __title, key investigators, project description sections__
+  - Click "Commit new file" button at the near the bottom of the page. Accept to fork the repository or create a pull request, if asked (it means that your github account has not given direct write access to the repository yet; you will get write access once your pull request has been reviewed).
+1. Add a link to your project to the project list
+  - Open [main project list][projects-list]
+  - Scroll down to the project list section and add a line to one of the project groups: `[Full title of your project](Projects/YourProjectName/README.md) (your name and name of other contributors)`
 
-- Post questions about the project idea and team on the [Project Week forum][forum], our communication mechanism as of PW28.
-- When you are ready, add a new entry in the list of **Projects** by creating a new `README.md` file in subfolder in `Projects` folder, and copying contents of [project description template][project-description-template] file into it. Step-by-step instructions for this are:
-
-1. Open [project description template][project-description-template] and copy its full content to the clipboard
-1. Go back to [Projects](https://github.com/NA-MIC/ProjectWeek/tree/master/PW30_2019_GranCanaria/Projects) folder on GitHub
-1. Click on "Create new file" button
-1. Type `YourProjectName/README.md`
-1. Paste the previously copied content of project template page into your new `README.md`
-1. Update at least your project's __title, key investigators, project description sections__
-1. Add a link to your project to the [main project list](../README.md#ProjectsList)
-
-Note: some steps above may require creating a [pull request](https://help.github.com/articles/creating-a-pull-request/) until your account is given write access.
-
-[forum]: https://github.com/orgs/NA-MIC/teams/pw30/discussions
-[project-description-template]: https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW30_2019_GranCanaria/Projects/Template/README.md
+[project-description-template]: https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW31_2019_Boston/Projects/Template/README.md
+[projects-folder]: https://github.com/NA-MIC/ProjectWeek/tree/master/PW31_2019_Boston/Projects
+[projects-list]: https://github.com/NA-MIC/ProjectWeek/edit/master/PW31_2019_Boston/README.md
