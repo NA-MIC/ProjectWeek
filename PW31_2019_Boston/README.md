@@ -65,7 +65,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Infrastructure
 - VTK filters running on GPU (Kyle Sunderland, Steve Pieper)
-- Improved volume rendering (Simon Drouin, Steve Pieper)
+- Improved volume rendering (Kyle, Steve, Andras, Matt, Christian)
 - Internationalization in scripted modules and OHIF (Carlos Luque, Jc, Eric)
 - Data repository integration (Girder, XNAT, ...)
 - Python Package Management (Sam, Jc , Steve, Andras)
