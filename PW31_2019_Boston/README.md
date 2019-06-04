@@ -41,10 +41,10 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Segmentation
 - [Touch and pen interactions](Projects/TouchAndPenInteractions/README.md) (Kyle Sunderland, Jarett Rushmore)
-- Cross-compiling VTK+PolySeg to webassemble/emscripten (Eric, Jc, Csaba Pinter)
+- Cross-compiling VTK+PolySeg to webassemble/emscripten (Erik, Jc, Csaba Pinter)
 - [Neuroanatomical segmentation](Projects/NeuroSegmentation/README.md) (Sylvain Bouix, Jarett Rushmore, Kyle Sunderland, Andras Lasso)
-- WebGL / GLSL tools for segmentation in the browser (e.g. scissors) (Erik, Steve, anyone else?)
-- Fleshed out plugin architecture for OHIF Viewer 2.0 + example plugin in the form of contour/segmentation support. (Danny, Eric)
+- WebGL / GLSL tools for segmentation in the browser (e.g. scissors) (Erik, Steve, James, Danny)
+- Fleshed out plugin architecture for OHIF Viewer 2.0 + example plugin in the form of contour/segmentation support. (Danny, James, Erik)
 - Multi time point cardiac sequence segmentation (Sarv, Andras)
 - 3D Printing Using Slicer for creating clubfoot casts (Hadi Fooladi, Pooneh Roshanitabrizi, Steve Pieper, Kevin Cleary)
 - Segmentation based statistics/visualization of 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites (Francisco Marcano)
