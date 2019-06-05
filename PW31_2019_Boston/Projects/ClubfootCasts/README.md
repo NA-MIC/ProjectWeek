@@ -46,6 +46,7 @@ daily living for families with plastic instead of plaster casts.
 
 # Illustrations
 
+![BabySteps vision](babysteps.png)
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
