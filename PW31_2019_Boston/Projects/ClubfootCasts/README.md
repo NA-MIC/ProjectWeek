@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# 3D Printing Using Slicer for creating clubfoot casts
+# BabySteps: 3D Printing Using Slicer for creating clubfoot casts
 
 ## Key Investigators
 
@@ -8,10 +8,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Pooneh Roshanitabrizi, Children's National
 - Steve Pieper, Isomics, Inc.
 - Kevin Cleary, Children's National
+- Anuradha Dayal, Children's National
 
 # Project Description
 
-About 1 in every 1000-2000 babies are born with what's called clubfoot, the most common skeletal deformity in children.
+About 1-2 in every 1000 babies are born with what's called clubfoot, the most common skeletal deformity in children.
 
 Clubfoot is well treated using a plaster casting method developed in the 1960s, but there is a potential to use
 3D scanning and printing techniques to make the process more efficient and cost-effective.  Also easier activities of 
