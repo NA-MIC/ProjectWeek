@@ -14,7 +14,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Logistics
 
-To receive information about this and future events please join the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Project Week forum on GitHub](https://github.com/orgs/NA-MIC/teams/pw27/discussions), our new dissemination mechanism as of PW27 (for questions dedicated to this event).
+To receive information about this and future events please join the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Project Week forum](https://discourse.slicer.org/c/community/project-week), our new dissemination mechanism as of PW27 (for questions dedicated to this event).
 
 - **Dates:** January 8-12, 2018.
 - **Location:** [MIT CSAIL, Stata Center, 32 Vassar St, Cambridge, MA](https://www.google.com/maps/place/MIT:+Computer+Science+and+Artificial+Intelligence+Laboratory/@42.361864,-71.090563,16z/data=!4m2!3m1!1s0x0:0x303ada1e9664dfed?hl=en), 4th Floor, R&D Lounge.

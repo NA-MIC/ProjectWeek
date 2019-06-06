@@ -10,9 +10,3 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 * RSNA CrowdsCureCancer, [code repo](https://github.com/QTIM-Lab/rsnaCrowdQuant) Steve Pieper (Isomics), Erik Ziegler (Radical Imaging)
 * [CHRIS and RedHat Cloud, Rudolph Pienaar](http://slides.com/debio/deck-6-7-8-12-13-19-22) (Children's Hospital Boston)
 * Rt106, Jim Miller (GE)
-
-## Background and References
-
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
-
-- [Planning Discussions](https://github.com/orgs/NA-MIC/teams/pw27/discussions/8)

@@ -14,7 +14,7 @@ The 28th NA-MIC PW [Event album](https://drive.google.com/drive/folders/1Gh2L26K
 
 ## Logistics
 
-To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Project Week forum on github](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (for questions dedicated to this event).
+To receive information about this and future events please join the [Project Week Mailing List](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity and permanence across Project Weeks) AND participate in the [Project Week forum](https://discourse.slicer.org/c/community/project-week).
 
 - **Dates:** June 25-29, 2018.
 - **Location:**

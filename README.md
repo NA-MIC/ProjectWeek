@@ -23,7 +23,7 @@ Weekly videoconferences for preparation begin 8-12 weeks before an event. Potent
 
 #### Who can attend?
 
-Project Weeks are open to all and publicly advertised. One-day participation is permitted for first-time attendees, but rest stay for the entire event. Email announcements are sent to the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) and posted on the [Project Week forum](https://github.com/orgs/NA-MIC/teams/pw27/discussions) (new dissemination mechanism as of PW27).
+Project Weeks are open to all and publicly advertised. One-day participation is permitted for first-time attendees, but rest stay for the entire event. Email announcements are sent to the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) and posted on the [Project Week forum](https://discourse.slicer.org/c/community/project-week).
 
 #### Who should attend?
 

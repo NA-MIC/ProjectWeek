@@ -15,6 +15,6 @@
 
 Note: some steps above may require creating a [pull request](https://help.github.com/articles/creating-a-pull-request/) until your account is given write access.
 
-[forum]: https://github.com/orgs/NA-MIC/teams/pw27/discussions
+[forum]: https://discourse.slicer.org/c/community/project-week
 [project-description-template]: https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW27_2018_Boston/Projects/Template/README.md
 
