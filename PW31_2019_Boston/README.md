@@ -71,6 +71,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [Connect SPINE and XNAT](Projects/Connect_SPINE_and_XNAT/README.md) (Alfredo, Andrzej, Charles)
 - Data repository integration (Girder, XNAT, ...)
 - Python Package Management (Sam, Jc , Steve, Andras)
+- OpenIGTLinkIO Development (Ole Vegard, Janne)
+- Running trained Deep Learning networks, focus on CustusX (Ole Vegard, Janne)
 
 ### Open Anatomy
 - Export from Slicer (Andras, Csaba, Mike)
