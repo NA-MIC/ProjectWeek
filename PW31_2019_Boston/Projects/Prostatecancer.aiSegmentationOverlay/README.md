@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Erik Ziegler][erik] ([Radical Imaging][radical])
 - [Anneke Meyer][anneke] 
 - [Alireza Sedghi][alireza] ([Medical Informatics Lab][med-i-lab])
+- [Parvin Mousavi][parvin] ([Medical Informatics Lab][med-i-lab])
 
 # Project Description
 
@@ -37,3 +38,4 @@ Advances in machine learning and deep learning have made it possible to embed th
 [Isomics]: http://isomics.com
 [anneke]: https://github.com/AnnekeMeyer
 [prostatecancer.ai-github]: https://github.com/Tesseract-MI/prostatecancer.ai
+[parvin]: http://medi.cs.queensu.ca/users/parvin-mousavi
