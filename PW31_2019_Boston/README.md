@@ -49,7 +49,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - Multi time point cardiac sequence segmentation (Sarv, Andras)
 - [BabySteps: 3D Printing Using Slicer for creating clubfoot casts](Projects/ClubfootCasts/README.md) (Hadi Fooladi, Pooneh Roshanitabrizi, Steve Pieper, Kevin Cleary)
 - Segmentation based statistics/visualization of 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites (Francisco Marcano)
-- [Segmentation overlay for prostatecancer.ai](Projects/Prostatecancer.aiSegmentationOverlay/README.md) (Omar, James, Steve, Erik, Anneke, Alireza)
+- [Segmentation overlay for prostatecancer.ai](Projects/SegOverlay_ProstateCancerAI/README.md) (Omar, James, Steve, Erik, Anneke, Alireza)
 
 
 ### Simulation
