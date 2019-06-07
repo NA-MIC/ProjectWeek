@@ -21,6 +21,9 @@ Advances in machine learning and deep learning have made it possible to embed th
 1. Integrate James A Petts’s segmentation tools and cornerstone’s overlay tool
 2. Develop a feature that would allow end users to upload their own DICOM images
 
+# Illustrations
+![Screenshot of ProstateCancer.ai](https://github.com/NA-MIC/ProjectWeek/blob/master/PW31_2019_Boston/Projects/SegOverlay_ProstateCancerAI/Screenshot_ProstateCancerAI.PNG)
+Using prostatecancer.ai’s AI Probe feature, end users can instantly know whether a patient has prostate cancer or not.
 
 # Background and References
 
