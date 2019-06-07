@@ -14,7 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Advances in machine learning and deep learning have made it possible to embed the knowledge of experienced physician/radiologist into computational models and have shown state-of-the art performance in various image analysis tasks including computer-assisted detection, diagnosis, and prognosis of several forms of cancers including prostate cancer. However, models are not fully integrated with the current standard of care in clinic. We have developed prostatecancer.ai which enables deployment of AI models in a web-browser while simultaneously providing standard image viewing and reporting schemes.
+Advances in machine learning and deep learning have made it possible to embed the knowledge of experienced physician/radiologist into computational models and have shown state-of-the art performance in various image analysis tasks including computer-assisted detection, diagnosis, and prognosis of several forms of cancers including prostate cancer. However, models are not fully integrated with the current standard of care in clinic. We have developed prostatecancer.ai, an [OHIF-based][ohif] medical image viewer which enables deployment of AI models in a web-browser while simultaneously providing standard image viewing and reporting schemes.
 
 ## Objective
 
@@ -23,7 +23,7 @@ Advances in machine learning and deep learning have made it possible to embed th
 
 # Illustrations
 ![Screenshot of ProstateCancer.ai](https://github.com/NA-MIC/ProjectWeek/blob/master/PW31_2019_Boston/Projects/SegOverlay_ProstateCancerAI/Screenshot_ProstateCancerAI.PNG)
-Using prostatecancer.ai’s AI Probe feature, end users can instantly know whether a patient has prostate cancer or not.
+Illustrates the use of the AI Probe feature on prostatecancer.ai.
 
 # Background and References
 
@@ -42,3 +42,4 @@ Using prostatecancer.ai’s AI Probe feature, end users can instantly know wheth
 [anneke]: https://github.com/AnnekeMeyer
 [prostatecancer.ai-github]: https://github.com/Tesseract-MI/prostatecancer.ai
 [parvin]: http://medi.cs.queensu.ca/users/parvin-mousavi
+[ohif]: http://ohif.org/
