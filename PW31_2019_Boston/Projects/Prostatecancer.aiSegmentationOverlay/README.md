@@ -5,7 +5,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - [Omar Toutounji][omar] ([Medical Informatics Lab][med-i-lab])
-- [Steve Pieper][steve] ([Institute for Cancer Research, London][icr-london])
+- [James Petts][james] ([Institute for Cancer Research, London][icr-london])
+- [Steve Pieper][steve] ([Isomics, Inc.][Isomics])
 - [Erik Ziegler][erik] ([Radical Imaging][radical])
 - [Anneke Meyer][anneke] 
 - [Alireza Sedghi][alireza] ([Medical Informatics Lab][med-i-lab])
@@ -33,5 +34,6 @@ Advances in machine learning and deep learning have made it possible to embed th
 [med-i-lab]: http://medi.cs.queensu.ca/
 [alireza]: https://github.com/sedghi
 [steve]: https://github.com/pieper
+[Isomics]: http://isomics.com
 [anneke]: https://github.com/AnnekeMeyer
 [prostatecancer.ai-github]: https://github.com/Tesseract-MI/prostatecancer.ai
