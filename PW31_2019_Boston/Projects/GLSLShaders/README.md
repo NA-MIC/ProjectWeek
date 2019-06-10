@@ -18,23 +18,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-- Improve recently added GLSL uniforms class
-- Add GLSL code and variables to MRML nodes and displayable managers (use case: depth-encoded rendering)
-- Make GPU-based filters work that have been developed for fractional labelmap processing
-- Investigate existing implementation of GLSL shaders for image processing ([vtkOpenGLFilters](https://github.com/Punzo/SlicerAstro/tree/master/vtkOpenGLFilters), [vtkOpenGLTexture](https://vtk.org/doc/nightly/html/classvtkOpenGLTexture.html))
+- Evaluate new GLSL vtkGPUImageData filters ([Source](https://github.com/Sunderlandkyl/Slicer/tree/gpu_fractional_2))
 
 ## Progress and Next Steps
 
-- [Progress made at last project week](../../../PW28_2018_GranCanaria/Projects/MultiVolumeRendering/README.md)
-- [Get methods for uniforms](https://github.com/lassoan/VTK/tree/opengl-uniforms-get-methods)
-
-- Discussed options for implementing and decided that it would be best to utilize and modify the classes in VTK
-- Existing implementation can render from vtkImageData back to vtkImageData
-- Need to implement a class that be used for multi-pass image processing algorithms to be run through GLSL shaders, without returning the intermediate result to memory
-
-- Next steps:
-  - Fork SlicerVTK and develop VTK based classes for GLSL image processing algorithms (see [vtkOpenGLImageAlgorithmHelper]( https://vtk.org/doc/nightly/html/classvtkOpenGLImageAlgorithmHelper.html))
-  - Support for multipass algorithms wihtout writing back to memory
+- [Progress made at last project week](../../../PW28_2018_GranCanaria/Projects/GLSLShaders/README.md)
 
 ### Result
 
@@ -50,6 +38,5 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
-
-
+- [Source code](https://github.com/Sunderlandkyl/Slicer/tree/gpu_fractional_2)
 - [Work at the previous Project Week](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/MultiVolumeRendering/)
