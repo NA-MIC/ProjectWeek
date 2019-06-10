@@ -66,7 +66,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - Improve DICOM import for 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites (Francisco Marcano)
 
 ### Infrastructure
-- VTK filters running on GPU (Kyle Sunderland, Steve Pieper)
+- [VTK filters running on GPU](Projects/GLSLShaders/README.md) (Kyle Sunderland, Steve Pieper)
 - Improved volume rendering (Kyle, Steve, Andras, Matt, Christian)
 - [Globalization in 3D Slicer and OHIF](ProjectWeek/blob/master/PW31_2019_Boston/Projects/Globalization3DSlicer_OHIF/README.md) (Carlos Luque, Jc, Erik)
 - [Connect SPINE and XNAT](Projects/Connect_SPINE_and_XNAT/README.md) (Alfredo, Andrzej, Charles)
