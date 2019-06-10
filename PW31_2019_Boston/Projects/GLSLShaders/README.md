@@ -12,13 +12,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-- Make custom GLSL shaders available in Slicer for:
-  - custom volume rendering effects
+- Make custom GLSL shader pipelines available in Slicer for:
+  - Custom volume rendering effects
   - GPU-accelerated image processing
 
 ## Approach and Plan
 
-- Evaluate new GLSL vtkGPUImageData filters ([Source](https://github.com/Sunderlandkyl/Slicer/tree/gpu_fractional_2))
+- Evaluate vtkGPUImageData based filters ([Source](https://github.com/Sunderlandkyl/Slicer/tree/gpu_fractional_2))
 
 ## Progress and Next Steps
 
