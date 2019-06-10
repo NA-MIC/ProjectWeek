@@ -90,64 +90,6 @@ Automated Segmentation of the human skull, face and airways from MRI dicom image
   + PerkLab videos
 
 ## Registrants
-- Isabella Morgan (Robarts Research Institute)
-- Golafsoun Ameri (Robarts Research Institute)
-- Uditha Jayarathne (Robarts Research Institute)
-- Adam Rankin (Robarts Research Institute)
-- Jonathan Lau (Robarts Research Institute)
-- Saeed Bakhshmand (CSTAR)
-- Serene Abu-Sardanah (Robarts Research Institute)
-- Greydon Gilmore (University Hospital)
-- John Drozd (Western University)
-- Feng Su (Robarts Research Institute)
-- Daniel Allen (University of Western Ontario)
-- Hossein Rejali (Robarts Research Institute)
-- Geetika Gupta (Robarts Research Institute)
-- Kristin Ikeda (Western University)
-- Kayla Ferko (Western University)
-- Jason Kai (Western University)
-- Claire Vannelli (Robarts Research Institute)
-- Andrew Westcott (Western University)
-- Brian Wang (Khan Lab)
-- Clara Tam (Western University)
-- Loxlan Kasa (Robarts Research Institute)
-- Carol Johnson (Baines Imaging Laboratory)
-- Benjamin Wilk (Lawson Imaging)
-- Andrei Mouraviev (University of Toronto)
-- Ali Khan (Western University)
-- Colin McCurdy (Western University)
-- Reid Vassallo (Robarts Research Institute)
-- John Demarco (Robarts Research Institute)
-- Michael Schumaker (Sunnybrook Research Institute)
-- Erin Iredale (Western University)
-- Nobuhiko Hata (Brigham and Women's Hospital and Harvard Medical School)
-- Nicole Aucoin (Harmonus Inc)
-- Brian Ninni (Surgical Planning Lab)
-- Andras Lasso (Queen's PerkLab)
-- Franklin King (Brigham and Women's Hospital)
-- Brad Gare (Western University)
-- Steven Lewis (University at Buffalo)
-- YingLi Lu (Robarts Research Institute)
-- Nuwan Nanayakkara (Robarts Research Institute)
-- Hassan Haddad (The University of Western Ontario)
-- Junichi Tokuda (Brigham and Women's Hospital)
-- Jordan DeKraker (University of Western Ontario)
-- Khalid Abdalla (University of Western Ontario)
-- Deepak Toor (Robarts Research Institute)
-- Justin Michael (Robarts Research Institute)
-- Jessica Rodgers (Robarts Research Institute)
-- Terry Peters (Robarts Research Institute)
-- Mohamed Moselhy Email (McKenzie Lab)
-- Nadeem Naim (Mckenzie Lab)
-- Edward Ntiri (Sunnybrook Research Institute)
-- Helium Mak (Western University)
-- Qi Qi (Lawson Imaging)
-- Arefin Shamsil (CSTAR)
-- Stewart McLachlin (University of Waterloo)
-- Michael Hardisty (Sunnybrook Research Institute)
-- Wenyao Xia (Western University)
-- John Baxter (Robarts Research Institute)
-- Jean-Christophe Fillion-Robin (Kitware Inc.)
 
  1 Isabella Morgan (Robarts Research Institute)
 
@@ -250,11 +192,19 @@ Automated Segmentation of the human skull, face and airways from MRI dicom image
 50 Edward Ntiri (Sunnybrook Research Institute)
 
 51 Helium Mak (Western University)
+
 52 Qi Qi (Lawson Imaging)
+
 53 Arefin Shamsil (CSTAR)
+
 54 Stewart McLachlin (University of Waterloo)
+
 55 Michael Hardisty (Sunnybrook Research Institute)
+
 56 Wenyao Xia (Western University)
+
 57 John Baxter (Robarts Research Institute)
+
 58 Jean-Christophe Fillion-Robin (Kitware, Inc.)
+
 
