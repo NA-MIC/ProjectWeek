@@ -149,61 +149,118 @@ Automated Segmentation of the human skull, face and airways from MRI dicom image
 - John Baxter (Robarts Research Institute)
 - Jean-Christophe Fillion-Robin (Kitware Inc.)
 
-1 Isabella Morgan (Robarts Research Institute)
+ 1 Isabella Morgan (Robarts Research Institute)
+
  2 Golafsoun Ameri (Robarts Research Institute)
+
  3 Uditha Jayarathne (Robarts Research Institute)
+
  4 Adam Rankin (Robarts Research Institute)
+
  5 Jonathan Lau (Robarts Research Institute)
+
  6 Saeed Bakhshmand (CSTAR)
+
  7 Serene Abu-Sardanah (Robarts Research Institute)
+
  8 Greydon Gilmore (University Hospital)
+
  9 John Drozd (Western University)
+
 10 Feng Su (Robarts Research Institute)
+
 11 Daniel Allen (University of Western Ontario)
+
 12 Hossein Rejali (Robarts Research Institute)
+
 13 Geetika Gupta (Robarts Research Institute)
+
 14 Kristin Ikeda (Western University)
+
 15 Kayla Ferko (Western University)
+
 16 Jason Kai (Western University)
+
 17 Claire Vannelli (Robarts Research Institute)
+
 18 Andrew Westcott (Western University)
+
 19 Brian Wang (Khan Lab)
+
 20 Clara Tam (Western University)
+
 21 Loxlan Kasa (Robarts Research Institute)
+
 22 Carol Johnson (Baines Imaging Laboratory)
+
 23 Benjamin Wilk (Lawson Imaging)
+
 24 Andrei Mouraviev (University of Toronto)
+
 25 Ali Khan (Western University)
+
 26 Colin McCurdy (Western University)
+
 27 Reid Vassallo (Robarts Research Institute)
+
 28 John Demarco (Robarts Research Institute)
+
 29 Michael Schumaker (Sunnybrook Research Institute)
+
 30 Erin Iredale (Western University)
+
 31 Nobuhiko Hata (Brigham and Women's Hospital and Harvard Medical School)
+
 32 Nicole Aucoin (Harmonus Inc)
+
 33 Brian Ninni (Surgical Planning Lab)
+
 34 Andras Lasso (Queen's PerkLab)
+
 35 Franklin King (Brigham and Women's Hospital)
+
 36 Brad Gare (Western University)
+
 37 Steven Lewis (University at Buffalo)
+
 38 YingLi Lu (Robarts Research Institute)
+
 39 Nuwan Nanayakkara (Robarts Research Institute)
+
 40 Hassan Haddad (The University of Western Ontario)
+
 41 Junichi Tokuda (Brigham and Women's Hospital)
+
 42 Jordan DeKraker (University of Western Ontario)
+
 43 Khalid Abdalla (University of Western Ontario)
+
 44 Deepak Toor (Robarts Research Institute)
+
 45 Justin Michael (Robarts Research Institute)
+
 46 Jessica Rodgers (Robarts Research Institute)
+
 47 Terry Peters (Robarts Research Institute)
+
 48 Mohamed Moselhy Email (McKenzie Lab)
+
 49 Nadeem Naim (Mckenzie Lab)
+
 50 Edward Ntiri (Sunnybrook Research Institute)
+
 51 Helium Mak (Western University)
+
 52 Qi Qi (Lawson Imaging)
+
 53 Arefin Shamsil (CSTAR)
+
 54 Stewart McLachlin (University of Waterloo)
+
 55 Michael Hardisty (Sunnybrook Research Institute)
+
 56 Wenyao Xia (Western University)
+
 57 John Baxter (Robarts Research Institute)
+
 58 Jean-Christophe Fillion-Robin (Kitware Inc.)
