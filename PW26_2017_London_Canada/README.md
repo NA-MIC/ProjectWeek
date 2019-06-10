@@ -149,7 +149,7 @@ Automated Segmentation of the human skull, face and airways from MRI dicom image
 - John Baxter (Robarts Research Institute)
 - Jean-Christophe Fillion-Robin (Kitware Inc.)
 
- 1 Isabella Morgan (Robarts Research Institute)
+  1 Isabella Morgan (Robarts Research Institute)
 
  2 Golafsoun Ameri (Robarts Research Institute)
 
@@ -263,4 +263,4 @@ Automated Segmentation of the human skull, face and airways from MRI dicom image
 
 57 John Baxter (Robarts Research Institute)
 
-58 Jean-Christophe Fillion-Robin (Kitware Inc.)
+58 Jean-Christophe Fillion-Robin (Kitware, Inc.)
