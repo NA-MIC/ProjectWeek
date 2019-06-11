@@ -60,7 +60,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Registration
 
-- Placenta flattening and visualization in Slicer (Maz, Steve, Polina)
+- [Placenta flattening and visualization in Slicer](Projects/Placenta-Flattening/README.md) (Maz, Steve, Polina)
 
 ### Classification
 
