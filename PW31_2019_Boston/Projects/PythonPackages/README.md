@@ -46,3 +46,8 @@ The objective is to have a consistent interface / process for installing patyhon
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+### Discourse Dicussions
+  * [Automatic Install of Python Packages](https://discourse.slicer.org/t/automatic-install-of-python-packages/7078)
+  * [Python3 Switch and Package Install](https://discourse.slicer.org/t/python3-switch-and-python-package-install/6534)
+  * [Proper way to install Pyton Packages](https://discourse.slicer.org/t/proper-way-to-automatically-install-external-python-modules/2559)
