@@ -48,7 +48,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [Fleshed out plugin architecture for OHIF Viewer 2.0 + example plugin in the form of contour/segmentation support](Projects/OHIFPluginArchitecture/README.md) (Danny, James, Erik)
 - [Multi time point cardiac sequence segmentation](Projects/Multitimepointcardiacsegmentation/README.md) (Sarv, Andras)
 - [BabySteps: 3D Printing Using Slicer for creating clubfoot casts](Projects/ClubfootCasts/README.md) (Hadi Fooladi, Pooneh Roshanitabrizi, Steve Pieper, Kevin Cleary)
-- [Segmentation based statistics/visualization of 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/SegmentationStatisticsSpectroscopy/README.md) (Francisco Marcano)
+- [Segmentation based statistics/visualization of 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/SegmentationStatisticsSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola)
 - [Segmentation overlay for prostatecancer.ai](Projects/SegOverlay_ProstateCancerAI/README.md) (Omar, James, Steve, Erik, Anneke, Alireza)
 
 
@@ -65,12 +65,12 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ### Classification
 
 ### DICOM
-- [Improve DICOM import for 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/DICOMImportSpectroscopy/README.md) (Francisco Marcano)
+- [Improve DICOM import for 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/DICOMImportSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola)
 
 ### Infrastructure
 - [VTK filters running on GPU](Projects/GLSLShaders/README.md) (Kyle Sunderland, Steve Pieper)
 - Improved volume rendering (Kyle, Steve, Andras, Matt, Christian)
-- [Globalization in 3D Slicer and OHIF](ProjectWeek/blob/master/PW31_2019_Boston/Projects/Globalization3DSlicer_OHIF/README.md) (Carlos Luque, Jc, Erik)
+- [Globalization in 3D Slicer and OHIF](ProjectWeek/blob/master/PW31_2019_Boston/Projects/Globalization3DSlicer_OHIF/README.md) (José-Carlos Ruiz-Luque, Jc, Erik, Juan Ruiz-Alzola)
 - [Connect SPINE and XNAT](Projects/Connect_SPINE_and_XNAT/README.md) (Alfredo, Andrzej, Charles)
 - Data repository integration (Girder, XNAT, ...)
 - Python Package Management (Sam, Jc , Steve, Andras)
