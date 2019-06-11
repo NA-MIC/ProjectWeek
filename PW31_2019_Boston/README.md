@@ -60,6 +60,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Registration
 
+- Placenta flattening and visualization in Slicer (Maz, Steve, Polina)
+
 ### Classification
 
 ### DICOM
