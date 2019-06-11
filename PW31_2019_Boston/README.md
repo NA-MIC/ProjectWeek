@@ -53,10 +53,10 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 
 ### Simulation
-- Interactive medical simulation toolkit (IMSTK) integration (Sam, Andras, Tina)
 - [Cardiac device placement/deformation simulation](Projects/cardiacdeviceplacementsimulation/README.md) (Sarv, Andras, Sam, Christian)
+- [Interactive medical simulation toolkit (IMSTK) integration](Projects/SlicerIMSTK/README.md) (Sam Horvath, Andras Lasso, Tina Kapur)
 - Virtual reality interface improvements (clipping plane positioning, sharing virtual reality view between multiple headsets, etc.)
-(Sarv, Csaba) 
+(Sarv, Csaba)
 
 ### Registration
 
@@ -73,7 +73,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [Globalization in 3D Slicer and OHIF](ProjectWeek/blob/master/PW31_2019_Boston/Projects/Globalization3DSlicer_OHIF/README.md) (José-Carlos Ruiz-Luque, Jc, Erik, Juan Ruiz-Alzola)
 - [Connect SPINE and XNAT](Projects/Connect_SPINE_and_XNAT/README.md) (Alfredo, Andrzej, Charles)
 - Data repository integration (Girder, XNAT, ...)
-- Python Package Management (Sam, Jc , Steve, Andras)
+- [Python Package Management](Projects/PythonPackages/README.md) (Sam Horvath, Jc F-R , Steve Pieper, Andras Lasso)
 - OpenIGTLinkIO Development (Ole Vegard, Janne)
 - Running trained Deep Learning networks, focus on CustusX (Ole Vegard, Janne)
 
@@ -94,4 +94,4 @@ List of registered participants so far (names will be added here after processin
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 [How to add this calendar to your own?](../common/Calendar.md)
- 
+
