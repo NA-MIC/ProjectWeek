@@ -54,7 +54,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Simulation
 - Interactive medical simulation toolkit (IMSTK) integration (Sam, Andras, Tina)
-- Cardiac device placement/deformation simulation (Sarv, Andras, Sam, Christian)
+- [Cardiac device placement/deformation simulation](Projects/cardiacdeviceplacementsimulation/README.md) (Sarv, Andras, Sam, Christian)
 - Virtual reality interface improvements (clipping plane positioning, sharing virtual reality view between multiple headsets, etc.)
 (Sarv, Csaba) 
 
