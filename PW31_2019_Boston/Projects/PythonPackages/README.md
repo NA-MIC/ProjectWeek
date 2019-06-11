@@ -17,15 +17,18 @@ This project will focus on improving the python package management in Slicer (i.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Create a slicer.util.pip function (or equivalent architecture) for accessing pip install
-1. Bundling of python packages with extensions
-1. Extensions packages can be post-installed using a requirements.txt architecture
+The objective is to have a consistent interface / process for installing patyhon packages across Slicer (extensions and in the pyton interactor)
+
+
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-
+1. Create a slicer.util.pip function (or equivalent architecture) for accessing pip install from scripts or the interactor
+  * Investigate use of vitual environments in Slicer
+2. Extension python package automatic install
+  * Post-install packages using a hook for requirements.txt
+ 
 
 ## Progress and Next Steps
 
