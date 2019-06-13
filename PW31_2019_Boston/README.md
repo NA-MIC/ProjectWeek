@@ -43,7 +43,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [Touch and pen interactions](Projects/TouchAndPenInteractions/README.md) (Kyle Sunderland, Jarett Rushmore)
 - [PolySeg in the browser](Projects/PolySeg4Web/README.md) (Erik, Jc, Csaba Pinter)
 - [Neuroanatomical segmentation](Projects/NeuroSegmentation/README.md) (Sylvain Bouix, Jarett Rushmore, Kyle Sunderland, Andras Lasso)
-- [Sulci Tracing on a Surface](Projects/SurfaceSulciTracing/README.md)
+- [Sulci Tracing on a Surface](Projects/SurfaceSulciTracing/README.md) (Sylvain Bouix, ...)
 - WebGL / GLSL tools for segmentation in the browser (e.g. scissors, GrowCut) (Erik, Steve, James, Danny)
 - [Fleshed out plugin architecture for OHIF Viewer 2.0 + example plugin in the form of contour/segmentation support](Projects/OHIFPluginArchitecture/README.md) (Danny, James, Erik)
 - [Multi time point cardiac sequence segmentation](Projects/Multitimepointcardiacsegmentation/README.md) (Sarv, Andras)
