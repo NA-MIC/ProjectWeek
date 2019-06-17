@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# SlicerCIP migration
 SlicerCIP migration to Slicer 4.10 / Slicer 5.0?
 
 ## Key Investigators
@@ -33,10 +33,8 @@ Migrate the SlicerCIP extension to the last Slicer stable release, and "pave the
 
 
 # Illustrations
+![Chest Imaging Platform website](SlicerCIP.png)
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Chest Imaging Platform website](CIP.jpg)
--->
 
 # Background and References
 
