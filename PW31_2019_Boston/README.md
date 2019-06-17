@@ -57,7 +57,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [Interactive medical simulation toolkit (IMSTK) integration](Projects/SlicerIMSTK/README.md) (Sam Horvath, Andras Lasso, Tina Kapur)
 - Virtual reality interface improvements (clipping plane positioning, sharing virtual reality view between multiple headsets, etc.)
 (Sarv, Csaba)
-- [Virtual reality interactions](Projects/VirtualRealityInteractions/README.md) (Csaba Pinter, ?)
+- [Virtual reality interactions](Projects/VirtualRealityInteractions/README.md) (Csaba Pinter, Nayra Pumar, ?)
 
 ### Registration
 
