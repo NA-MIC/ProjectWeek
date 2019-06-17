@@ -77,6 +77,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [Python Package Management](Projects/PythonPackages/README.md) (Sam Horvath, Jc F-R , Steve Pieper, Andras Lasso)
 - OpenIGTLinkIO Development (Ole Vegard, Janne)
 - Running trained Deep Learning networks, focus on CustusX (Ole Vegard, Janne)
+- [SlicerCIP migration](Projects/SlicerCIP/README.md) (Jorge Onieva, Pietro Nardelli, Raúl San José)
 
 ### Open Anatomy
 - Export from Slicer (Andras, Csaba, Mike)
