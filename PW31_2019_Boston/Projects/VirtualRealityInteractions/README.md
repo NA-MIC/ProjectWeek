@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Csaba Pinter (Queen's University)
-- ?
+- Nayra Pumar Carreras (Universidad de Las Palmas de Gran Canaria)
 - ?
 
 # Project Description
