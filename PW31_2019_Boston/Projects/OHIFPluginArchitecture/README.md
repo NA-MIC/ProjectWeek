@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Danny Brown][danny] ([Radical Imaging][radical])
 - [James A Petts][james] ([Institute for Cancer Research, London][icr-london])
 - [Erik Ziegler][erik] ([Radical Imaging][radical])
+- [Steve Pieper][steve] ([Isomics][isomics])
 
 ## Description
 
@@ -61,8 +62,10 @@ Some amount of extensibility is available via OHIF [existing extensions][ohif-ex
 [radical]: http://radicalimaging.com/
 [icr-london]: https://www.icr.ac.uk/
 [danny]: https://github.com/dannyrb
+[isomics]: http://isomics.com/
 [james]: https://github.com/jamesapetts
 [erik]: https://github.com/swederik
+[steve]: https://github.com/pieper
 [ohif-viewer]: https://github.com/OHIF/Viewers
 [ohif-extensions]: https://docs.ohif.org/advanced/extensions.html
 [ohif]: http://ohif.org/
