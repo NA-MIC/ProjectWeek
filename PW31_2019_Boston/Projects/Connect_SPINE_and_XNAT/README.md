@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-The SPINE virtual laboratory allows the actors involved int the research enterprise to work around Scientific Questions. Data can be directly imported into SPINE but it can also be imported from other data management systems. So far SPINE has the capability to import data stored in LORIS (A longitudinal study data management tool) and the next target is XNAT.
+The SPINE virtual laboratory allows the actors involved int the research enterprise to work around Scientific Questions. Data can be directly imported into SPINE but it can also be imported from other data management systems. So far SPINE has the capability to import data stored in LORIS (A longitudinal study data management tool). In this project week we would like to connect SPINE to XNAT.
 
 ## Objective
 Connect SPINE with XNAT.
