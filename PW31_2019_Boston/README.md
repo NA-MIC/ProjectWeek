@@ -136,7 +136,7 @@ List of registered participants so far (names will be added here after processin
 
 ## Program Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?mode=WEEK&dates=20190624%2F20190628&src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 [How to add this calendar to your own?](../common/Calendar.md)
 
