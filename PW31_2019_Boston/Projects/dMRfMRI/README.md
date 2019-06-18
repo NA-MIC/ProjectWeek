@@ -11,22 +11,27 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
+Curate data for future machine learning and data analysis projects.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. ...
-1. Objective B. ...
-1. Objective C. ...
+1. A curated dataset with expert-thresholded and labled fMRI tasks.
+1. Instructions on how to curate this data to add to the dataset in the future.
+
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Get the data
+1. Work with Laura on thresholding
+1. Make a curation plan and instructions
+1. Process fMRI data
+1. Label fMRI activations
+1. Curate files in designated file organization
+
 
 ## Progress and Next Steps
 
