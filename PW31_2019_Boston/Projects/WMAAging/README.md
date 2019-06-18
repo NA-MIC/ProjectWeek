@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Andrei Irimia (University of Southern California)
+- Di Fan (University of Southern California)
 - Fan Zhang (Brigham and Women's Hospital)
 - Lauren J O'Donnell (Brigham and Women's Hospital)
 
