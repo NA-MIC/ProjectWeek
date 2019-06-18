@@ -1,8 +1,4 @@
-
-## Welcome to the web page for the 31st Project Week!
-
-
-
+# Welcome to the web page for the 31st Project Week!
 
 The 31st NA-MIC Project Week will be held during the week of June 24-28, 2019 at MIT, Boston USA.
 
@@ -40,11 +36,12 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 
 ### Segmentation
+
 - [Touch and pen interactions](Projects/TouchAndPenInteractions/README.md) (Kyle Sunderland, Jarett Rushmore)
 - [PolySeg in the browser](Projects/PolySeg4Web/README.md) (Erik, Jc, Csaba Pinter)
 - [Neuroanatomical segmentation](Projects/NeuroSegmentation/README.md) (Sylvain Bouix, Jarett Rushmore, Kyle Sunderland, Andras Lasso)
 - [Sulci Tracing on a Surface](Projects/SurfaceSulciTracing/README.md) (Sylvain Bouix, ...)
-- [Fleshed out plugin architecture for OHIF Viewer 2.0 + example plugin in the form of contour/segmentation support](Projects/OHIFPluginArchitecture/README.md) (Danny, James, Erik, Steve)
+- [OHIF Viewer: Extension and module support, with example contour/segmentation extension](Projects/OHIFPluginArchitecture/README.md) (Danny, James, Erik, Steve)
 - [OHIF GLSL Plugins](Projects/OHIFGLSLPlugins/README.md) using WebGL / GLSL shaders to make tools for segmentation in the browser (GrowCut)) (Steve, James, Danny, Erik)
 - [Multi time point cardiac sequence segmentation](Projects/Multitimepointcardiacsegmentation/README.md) (Sarv, Andras)
 - [BabySteps: 3D Printing Using Slicer for creating clubfoot casts](Projects/ClubfootCasts/README.md) (Hadi Fooladi, Pooneh Roshanitabrizi, Steve Pieper, Kevin Cleary)
@@ -53,6 +50,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 
 ### Simulation
+
 - [Cardiac device placement/deformation simulation](Projects/cardiacdeviceplacementsimulation/README.md) (Sarv, Andras, Sam, Christian)
 - [Interactive medical simulation toolkit (IMSTK) integration](Projects/SlicerIMSTK/README.md) (Sam Horvath, Andras Lasso, Tina Kapur)
 - [Virtual reality interface improvements](Projects/Virtualrealityinterfaceimprovement/README.md) (Sarv, Csaba)
@@ -69,15 +67,18 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [Quantitative Analysis of Human Orbitofrontal-subgenual Circuitry](Projects/QuantitativeAnalysisofHumanOrbitofrontal-subgenualCircuitry/README.md) (Nayra Pumar Carreras, Juan Ruiz-Alzola, Juan Andres Ramirez Gonzalez, Peter Wilson-Braun, Senthil Palanivelu, Lipeng Ning, Yogesh Rathi, Nikos Makris)
 
 ### DICOM
+
 - [Improve DICOM import for 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/DICOMImportSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola)
 
 ### Diffusion MRI
+
 - [SlicerDMRI: Coding and Documentation](Projects/SlicerDMRI/README.md) (Fan Zhang, Mengying Zhang, Laura Leung, Lauren J O'Donnell)
 - [WMA: fiber clustering pipeline documentation](Projects/WMA/README.md) (Fan Zhang, Mengying Zhang, Banu Ahtam, Parikshit Juvekar, Lauren J O'Donnell)
 - [Joint dMRI and fMRI analysis: fMRI data curation](Projects/dMRfMRI/README.md) (Laura Leung, Fan Zhang, Lauren J O'Donnell)
 - [White Matter Analysis in the Aging Human Brain](Projects/WMAAging/README.md) (Andrei Irimia, Fan Zhang, Lauren J O'Donnell)
 
 ### Infrastructure
+
 - [VTK filters running on GPU](Projects/GLSLShaders/README.md) (Kyle Sunderland, Steve Pieper)
 - Improved volume rendering (Andras, Kyle, Steve, Matt, Christian)
 - [Globalization in 3D Slicer and OHIF](ProjectWeek/blob/master/PW31_2019_Boston/Projects/Globalization3DSlicer_OHIF/README.md) (José-Carlos Ruiz-Luque, Jc, Erik, Juan Ruiz-Alzola)
@@ -88,13 +89,15 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [SlicerCIP migration](Projects/SlicerCIP/README.md) (Jorge Onieva, Pietro Nardelli, Raúl San José)
 
 ### Open Anatomy
+
 - Export from Slicer (Andras, Csaba, Mike)
 - [Kidney and male pelvis atlas](Projects/kidneyAtlas/README.md) (Babacar Diao, Nayra Pumar)
 
 ### Breakout Sessions
+
 - Python usage in modern Slicer (Jc, Sam Horvath, Andras Lasso)
 - Infrastructure Brainstorming: Large Volume Support, Key frame animation (Steve Pieper, Andras Lasso, Jc)
-- OHIF (Danny Brown)
+- OHIF (Danny Brown, accompanied by James A Petts gesticulations)
 - Segmentation for high resolution atlas (Sylvain)
 - Data Management: Girder, XNAT (Andras Lasso)
 
@@ -111,7 +114,7 @@ List of registered participants so far (names will be added here after processin
 1. POLINA GOLLAND	,	MIT 
 1. MAZDAK ABULNAGA	,	MIT 
 1. RUIZHI LIAO	,	MIT 
-1. DANIEL BROWN	,	RADICAL IMAGING, Germany
+1. DANIEL BROWN	,	RADICAL IMAGING
 1. JAMES PETTS	,	THE INSTITUTE OF CANCER  RESEARCH, LONDON
 1. GREGORY SHARP	,	MASSACHUSETTS GENERAL HOSPITAL
 1. ANDREI IRIMIA	,	UNIVERSITY OF SOUTHERN CALIFORNIA
