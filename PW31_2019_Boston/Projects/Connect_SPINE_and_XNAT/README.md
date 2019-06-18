@@ -7,27 +7,28 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Alfredo Morales Pinzón (BWH & Harvard)
 - Andrzej Marciniak (BWH & Harvard)
 - Charles Guttmann (BWH & Harvard)
+- Andras Lasso (Queen's Univeristy)
 
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
+The SPINE virtual laboratory allows the actors involved int the research enterprise to work around Scientific Questions. Data can be directly imported into SPINE but it can also be imported from other data management systems. So far SPINE has the capability to import data stored in LORIS (A longitudinal study data management tool) and the next target is XNAT.
 
 ## Objective
 Connect SPINE with XNAT.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Objective A. Understand the API and data structured exposed by XNAT 
+1. Objective B. Define configuration parameters to be used when connecting/replicating data from XNAT to SPINE
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Understand the API and data structured exposed by XNAT in order to get access and extract data 
+1. Test the API exposed by XNAT in a real scenario
+1. Implement a replication protocol to import data from XNAT
 
 ## Progress and Next Steps
 
