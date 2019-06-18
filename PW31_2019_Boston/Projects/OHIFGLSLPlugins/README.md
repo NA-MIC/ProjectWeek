@@ -17,10 +17,6 @@ Integrate integrated GLSL based algorithmd into OHIF segmentation infrastructure
 
 Make use of the OHIF plugin infrstructure.
 
-```bash
-# INSERT COOL IMAGES OF JAMES'S STUFF HERE
-```
-
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
