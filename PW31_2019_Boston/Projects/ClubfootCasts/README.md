@@ -32,16 +32,18 @@ daily living for families with plastic instead of plaster casts.
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Review and document requirements for casts
-1. Look at features of Slicer that could be used to generate custom cast designs
-1. Sketch out / mock up user interface
-1. Consider any testing or other steps to confirm any proposed solution will work well
+1. 3D Scaning of the clubfoot cast
+1. Loading the 3D model into Slicer
+1. Selecting anatomical landmark points on the 3D model
+1. Deforming the clubfoot 3D model through provided controls and widgets for printing next cast
+1. 3D printing the deformed clubfoot model
+1. Repeating the process until printing the normal cast
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
+1. 3D Scan of normal and clubfoot phantoms
 1. ...
 1. ...
 
