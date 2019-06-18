@@ -28,11 +28,17 @@ Some amount of extensibility is available via OHIF [existing extensions][ohif-ex
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+The OHIF Viewer Platform is currently coupled to it's various components' dependencies and implementations. The goal is to refactor the Viewer to add it's features and functionality via it's own extension/module system. Then, migrate each of the existing components to do the same. Key concepts:
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Create a unit tested `ExtensionManager` responsible for extension and module registration
+    - Enforces consistent module types/interfaces
+2. At the application level, indicate "active contexts" that modules can scope their behavior/availability to
+    - Cornerstone Extension's command can only run if "ACTIVE_VIEWPORT::CORNERSTONE" is an active context
+3. Command definitions are registered to a CommandsManager that other modules have access to
+4. Modules have the ability to register custom React Components
+5. Side Panels, Toolbar Buttons, and Hotkeys are primarily driven by configuration; but can specify already registered React Components for advanced customization.
+6. Utilize Extension/Module system to convert each of Jame's segmentation features to the appropriate module.
+    - Update implementation as necessary to accomodate his functionality's needs.
 
 ## Progress and Next Steps
 
@@ -45,6 +51,15 @@ Some amount of extensibility is available via OHIF [existing extensions][ohif-ex
 # Illustrations
 
 ![Example of seg/contour plugin in 1.0](https://github.com/NA-MIC/ProjectWeek/raw/master/PW31_2019_Boston/Projects/OHIFPluginArchitecture/Screen%20Shot%202019-06-03%20at%2016.17.19.png)
+
+### Features Visible in Example Image:
+
+- Four new toolbar buttons, capable of expanding to show additional options
+- Two custom sidepanels that can be toggled using a segmented button group
+    - Contours and Segments
+- SidePanel form and table components that update tool options/configuration and display stored measurements
+- Custom tools (Either Cornerstone "Core" tools, or 3rd party drop-ins)
+- Addition of alternative display set thumbnail list (See XNAT Nav)
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
