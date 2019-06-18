@@ -1,10 +1,10 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Create DICOM object for 3D volume to represent clinical target volume
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
+- Nadya Shusharina (Massachusetts General Hospital)
 - Investigator 2 (Affiliation)
 - Investigator 3 (Affiliation)
 
