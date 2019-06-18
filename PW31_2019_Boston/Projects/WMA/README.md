@@ -8,19 +8,23 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mengying Zhang (BWH)
 - Banu Ahtam (BCH)
 - Parikshit (Paxy) Juvekar (BWH)
-- Lauren J O'Donnell (BWH)
+- Lauren J. O'Donnell (BWH)
 
 # Project Description
 
+software for data-driven white matter parcellation
 <!-- Add a short paragraph describing the project. -->
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. ...
-1. Objective B. ...
-1. Objective C. ...
+1. Improve user documentation and results checking documentation based on user feedback.
+1. Investigate alternatives for documentation.
+1. Create batch script to run entire pipeline.
+1. Update all versions of documentation; remove unused. 
+1. http://dmri.slicer.org/whitematteranalysis/ 
+1. https://projects.iq.harvard.edu/whitematteranalysis/publications
 
 ## Approach and Plan
 
