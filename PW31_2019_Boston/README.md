@@ -71,7 +71,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ### DICOM
 - [Improve DICOM import for 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/DICOMImportSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola)
 
-### Diffuion MRI
+### Diffusion MRI
 - [SlicerDMRI: Coding and Documentation](Projects/SlicerDMRI/README.md) (Fan Zhang, Mengying Zhang, Laura Leung, Lauren J O'Donnell)
 - [WMA: fiber clustering pipeline documentation](Projects/WMA/README.md) (Fan Zhang, Mengying Zhang, Banu Ahtam, Parikshit Juvekar, Lauren J O'Donnell)
 - [Joint dMRI and fMRI analysis: fMRI data curation](Projects/dMRfMRI/README.md) (Laura Leung, Fan Zhang, Lauren J O'Donnell)
