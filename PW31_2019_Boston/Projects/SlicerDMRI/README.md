@@ -7,19 +7,20 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Fan Zhang (BWH)
 - Mengying Zhang (BWH)
 - Laura Leung (BWH)
-- Lauren J O'Donnell (BWH)
+- Lauren J. O'Donnell (BWH)
 
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
+SlicerDMRI is an open-source project to improve and extend diffusion magnetic resonance imaging software in 3D Slicer.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. ...
-1. Objective B. ...
-1. Objective C. ...
+1. Improve testing results in nightly builds
+1. Update SlicerDMRI website with new citations and tutorials
+1. Improve wiki-based documentation for SlicerDMRI new modules (and look at readthedocs as an option if time permits)
 
 ## Approach and Plan
 
