@@ -91,7 +91,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Open Anatomy
 - Export from Slicer (Andras, Csaba, Mike)
-- [Kidney and male pelvis atlas] (Babacar Diao, Nayra Pumar)
+- [Kidney and male pelvis atlas](Projects/kidneyAtlas/README.md) (Babacar Diao, Nayra Pumar)
 
 
 ## Registrants
