@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Fan Zhang (BWH)
 - Mengying Zhang (BWH)
 - Banu Ahtam (BCH)
+- Di Fan (University of Southern California)
 - Parikshit (Paxy) Juvekar (BWH)
 - Lauren J. O'Donnell (BWH)
 
