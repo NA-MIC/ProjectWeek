@@ -42,7 +42,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [Neuroanatomical segmentation](Projects/NeuroSegmentation/README.md) (Sylvain Bouix, Jarett Rushmore, Kyle Sunderland, Andras Lasso)
 - [Sulci Tracing on a Surface](Projects/SurfaceSulciTracing/README.md) (Sylvain Bouix, ...)
 - [OHIF Viewer: Extension and module support, with example contour/segmentation extension](Projects/OHIFPluginArchitecture/README.md) (Danny, James, Erik, Steve)
-- [OHIF GLSL Plugins](Projects/OHIFGLSLPlugins/README.md) using WebGL / GLSL shaders to make tools for segmentation in the browser (GrowCut)) (Steve, James, Danny, Erik)
+- [OHIF GLSL Plugins](Projects/OHIFGLSLPlugins/README.md) using WebGL / GLSL shaders to make tools for segmentation in the browser (GrowCut) (Steve, James, Danny, Erik)
 - [Multi time point cardiac sequence segmentation](Projects/Multitimepointcardiacsegmentation/README.md) (Sarv, Andras)
 - [BabySteps: 3D Printing Using Slicer for creating clubfoot casts](Projects/ClubfootCasts/README.md) (Hadi Fooladi, Pooneh Roshanitabrizi, Steve Pieper, Kevin Cleary)
 - [Segmentation based statistics/visualization of 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/SegmentationStatisticsSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola)
