@@ -39,12 +39,8 @@ Make use of the OHIF plugin infrstructure.
 
 # Illustrations
 
-![Example of seg/contour plugin in 1.0](https://github.com/NA-MIC/ProjectWeek/raw/master/PW31_2019_Boston/Projects/OHIFPluginArchitecture/Screen%20Shot%202019-06-03%20at%2016.17.19.png)
+![Example of GLSL GrowCut](GLSLGrowCut.png)
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
 
 # Background and References
 
