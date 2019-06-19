@@ -95,11 +95,11 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Breakout Sessions
 
-- Python usage in modern Slicer (Jc, Sam Horvath, Andras Lasso)
-- Infrastructure Brainstorming: Large Volume Support, Key frame animation (Steve Pieper, Andras Lasso, Jc)
-- OHIF (Danny Brown, accompanied by James A Petts gesticulations)
-- Segmentation for high resolution atlas (Sylvain)
-- Data Management: Girder, XNAT (Andras Lasso)
+- Breakout Session 1: An introduction to OHIF 2.0, a plugable framework for web based imaging viewing and annotation (Danny, James)
+- Breakout Session 2: High resolution, comprehensive atlases of the human brain morphology (Sylvain Bouix)
+- Breakout Session 3: Python usage in modern Slicer (Jc, Sam Horvath, Andras Lasso)
+- Breakout Session 4: Infrastructure Brainstorming: Large Volume Support, Key frame animation (Steve Pieper, Andras Lasso, Jc)
+- Breakout Session 5: Data Management: Girder, XNAT (Andras Lasso)
 
 ## Registrants
 
