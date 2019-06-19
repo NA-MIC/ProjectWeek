@@ -41,6 +41,7 @@ Also, we will discuss about the globalization in OHIF.
 
 
 ## Background and References
+- [Translated Files](https://mt4sd.github.io/3DSlicerTranslatedFiles/)
 - [3D Slicer I18n support](https://www.slicer.org/wiki/Documentation/Labs/I18N)
 - [Enabling I18n support ](https://discourse.slicer.org/t/slicer-internationalization/579)  
 - [Globalization source code](https://github.com/mt4sd/Slicer/tree/support_i18n_l10n)
