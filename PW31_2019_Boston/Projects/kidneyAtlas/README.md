@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Babacar Diao (Ecole Militaire de Santé Dakar)
+- Michael Halle (brigham and women's hospital) 
 - Nayra Pumar (ULPGC – GTMA-IUIBS - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA-IUIBS - MACbioIDi)
 
