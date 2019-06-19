@@ -53,6 +53,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 - [Placenta flattening and visualization in Slicer](Projects/Placenta-Flattening/README.md) (Maz, Steve, Polina)
 - [Registration of Intel RealSense depth camera image to CT + marker based tracking](Projects/RealSensePatientRegistration/README.md) (Colton Barr, Andras Lasso, Steve Pieper)
+- [Establishing Feature Correspondences between ultrasound images acquired at different time points during brain tumor resection](Projects/UltrasoundFeatureCorrespondence/README.md) (Nick Jowkar, Clement Mirabel, Sarah Frisken, Tina Kapur)
 
 
 ### Simulation
