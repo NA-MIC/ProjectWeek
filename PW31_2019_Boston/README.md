@@ -60,6 +60,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ### Registration
 
 - [Placenta flattening and visualization in Slicer](Projects/Placenta-Flattening/README.md) (Maz, Steve, Polina)
+- [Registration of Intel RealSense depth camera image to CT + marker based tracking](Projects/RealSensePatientRegistration/README.md) (Colton Barr, Andras Lasso, Steve Pieper)
 
 ### Classification
 
