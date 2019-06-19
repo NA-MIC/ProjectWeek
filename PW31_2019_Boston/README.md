@@ -49,6 +49,11 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [Segmentation based statistics/visualization of 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/SegmentationStatisticsSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola)
 - [Segmentation overlay for prostatecancer.ai](Projects/SegOverlay_ProstateCancerAI/README.md) (Omar, James, Steve, Erik, Anneke, Alireza)
 
+### Registration
+
+- [Placenta flattening and visualization in Slicer](Projects/Placenta-Flattening/README.md) (Maz, Steve, Polina)
+- [Registration of Intel RealSense depth camera image to CT + marker based tracking](Projects/RealSensePatientRegistration/README.md) (Colton Barr, Andras Lasso, Steve Pieper)
+
 
 ### Simulation
 
@@ -57,12 +62,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [Virtual reality interface improvements](Projects/Virtualrealityinterfaceimprovement/README.md) (Sarv, Csaba)
 - [Virtual reality interactions](Projects/VirtualRealityInteractions/README.md) (Csaba Pinter, Nayra Pumar, ?)
 
-### Registration
 
-- [Placenta flattening and visualization in Slicer](Projects/Placenta-Flattening/README.md) (Maz, Steve, Polina)
-- [Registration of Intel RealSense depth camera image to CT + marker based tracking](Projects/RealSensePatientRegistration/README.md) (Colton Barr, Andras Lasso, Steve Pieper)
-
-### Classification
 
 ### Analysis
 
