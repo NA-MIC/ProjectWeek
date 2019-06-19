@@ -11,6 +11,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Hotels:** No rooms are reserved.  Please ask on [discourse forum](https://discourse.slicer.org/c/community/project-week) if you have questions.
 - **Registration**: Fee is USD 350.  Register using [this link](https://www.regonline.com/registration/Checkin.aspx?EventID=2555870).
 - [Frequently Asked Questions](https://projectweek.na-mic.org/#frequently-asked-quesions)
+- **Slack Channel:** [Invite Link](https://join.slack.com/t/namic-projectweek/shared_invite/enQtNjY5MDEwMDMxMDcyLTkyNjA4MmQxMjFkZWNmMTMwNjliYzk5ZGExZTdiNmJlZWFjNzE0MWRiMmYzMTIzNzk0NDVkNWM3MGIzMDlkMTU) 
 
 ## Preparatory Videoconferences
 
