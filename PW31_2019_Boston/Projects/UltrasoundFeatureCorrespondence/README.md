@@ -12,6 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
+The overarching goal of this project is to use pre- and intra-operative imaging to help neurosurgeons determine whether gross total resection has been achieved.  The goal for this week is to use 3D Slicer to manually select 10-15 corresponding features in ultrasound images obtained from 10 patients.
 
 ## Objective
 
@@ -25,9 +26,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. To identify corresponding landmarks or features in 3 sets of 3D ultrasound images acquired during brain tumor resection - one prior to opening of the dura, second after the opening of the dura but prior to resection, and the third during resection.
+2. We are using 3D Slicer to visualize, explore, and annotate these landmarks in ultrasound images.
+3. All images were acquired using a BK Ultrasound 5000 scanner in the AMIGO suite at BWH. 
+
 
 ## Progress and Next Steps
 
