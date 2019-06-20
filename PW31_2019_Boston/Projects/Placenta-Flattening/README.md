@@ -41,7 +41,7 @@ a flattened canonical template. The goal is to use the transformation tensor to 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-
+[Illustration of flattening](placenta_flowchart.png)
 
 # Background and References
 
