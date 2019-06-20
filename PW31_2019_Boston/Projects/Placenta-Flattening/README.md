@@ -12,14 +12,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 The project aims to develop a module in Slicer to visualize placenta shapes embedded in MR images. We will use the transformations described in
 ["Placental Flattening via Volumetric Parameterization" by Abulnaga et al.](https://arxiv.org/pdf/1903.05044.pdf) to map placentae shapes embedded in in-utero MRI to
-a flattened canonical template. The goal is to use the transformation tensor to be able to easily map between the original image space and the canonical space.
+a flattened canonical template. The goal is to use Slicer's GUI to easily map between the original and the flattened image.
 
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Develop a module to load the transformation field, the original MRI image, and the flattened image. Given the three inputs, allow the user to "click" a location in the flattened image then have Slicer automatically map to the corresponding location in the original image space.
+1. Objective A. Develop a module to load the transformation field, the original MR image, and the flattened image. Given the three inputs, allow the user to "click" a location in the flattened image then visualize the corresponding location in the original image space.
 
 ## Approach and Plan
 
