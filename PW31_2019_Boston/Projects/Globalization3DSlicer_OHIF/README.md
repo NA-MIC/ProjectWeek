@@ -38,7 +38,11 @@ Also, we will discuss about the globalization in OHIF.
 ## Progress and Next Steps
 
 ## Illustrations
+Fig. 1: Spanish Slicer GUI
+<img src="SpanishGUISlicer.png" width="652" height="356"> 
 
+Fig. 2: French Slicer GUI
+<img src="FrenchGUISlicer.png" width="652" height="356"> 
 
 ## Background and References
 - [Translated Files](https://mt4sd.github.io/3DSlicerTranslatedFiles/)
