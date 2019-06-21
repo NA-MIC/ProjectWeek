@@ -87,8 +87,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [Globalization in 3D Slicer and OHIF](Projects/Globalization3DSlicer_OHIF/README.md) (José-Carlos Ruiz-Luque, Jc, Erik, Juan Ruiz-Alzola)
 - [Connect SPINE and XNAT](Projects/Connect_SPINE_and_XNAT/README.md) (Alfredo, Andrzej, Andras, Charles)
 - [Python Package Management](Projects/PythonPackages/README.md) (Sam Horvath, Jc F-R , Steve Pieper, Andras Lasso)
-- OpenIGTLinkIO Development (Ole Vegard, Janne)
-- Running trained Deep Learning networks, focus on CustusX (Ole Vegard, Janne)
+- [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Ole Vegard, Janne)
+- [Implementing support for running inference engines in CustusX](Projects/InferenceEnginesInCustusX/README.md) (Ole Vegard, Janne)
 - [SlicerCIP migration](Projects/SlicerCIP/README.md) (Jorge Onieva, Pietro Nardelli, Raúl San José)
 
 ### Open Anatomy
