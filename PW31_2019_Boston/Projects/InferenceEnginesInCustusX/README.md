@@ -1,0 +1,42 @@
+Back to [Projects List](../../README.md#ProjectsList)
+
+# Implementing support for running inference engines in CustusX
+
+## Key Investigators
+
+- Ole Vegard Solberg (SINTEF, Trondheim, Norway)
+- Janne Beate Bakeng (SINTEF, Trondheim, Norway)
+
+# Project Description
+
+<!-- Add a short paragraph describing the project. -->
+Running trained Deep Learning networks with inference engines. The focus will be on implementing this in CustusX.
+
+## Objective
+
+<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+
+1. Implement C++ support for running one pre-trained model.
+
+## Approach and Plan
+
+<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+
+1. Integrate with the [FAST](https://github.com/smistad/FAST) library for inference engine support.
+
+## Progress and Next Steps
+
+<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+
+
+# Illustrations
+
+<!-- Add pictures and links to videos that demonstrate what has been accomplished.
+![Description of picture](Example2.jpg)
+![Some more images](Example2.jpg)
+-->
+
+# Background and References
+
+<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+- [CustusX](https://www.custusx.org)
