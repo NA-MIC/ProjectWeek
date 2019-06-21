@@ -37,6 +37,10 @@ Make use of the OHIF plugin infrstructure.
 
 ![Example of GLSL GrowCut](GLSLGrowCut.png)
 
+* Prototype implementation: 
+
+[![GrowCut prototype](http://img.youtube.com/vi/xmvVyftgNjY/0.jpg)](http://www.youtube.com/watch?v=xmvVyftgNjY "GrowCut prototype")
+
 
 # Background and References
 
