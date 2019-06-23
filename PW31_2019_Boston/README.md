@@ -5,6 +5,8 @@ The 31st NA-MIC Project Week will be held during the week of June 24-28, 2019 at
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
 
+View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://projectweek.na-mic.org/PW31_2019_Boston/)
+
 ## Logistics
 - **Dates:** June 24-28, 2019
 - **Location:** MIT Bldg. 34, room numbers 401A&B (Grier conference room), 50 Vassar Street, Cambridge MA 
