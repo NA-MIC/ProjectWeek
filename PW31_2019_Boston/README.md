@@ -92,6 +92,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Ole Vegard, Janne)
 - [Implementing support for running inference engines in CustusX](Projects/InferenceEnginesInCustusX/README.md) (Ole Vegard, Janne)
 - [SlicerCIP migration](Projects/SlicerCIP/README.md) (Jorge Onieva, Pietro Nardelli, Raúl San José)
+- [Conversations with attendees](Projects/PetesConversationsWithAttendees/README.md) (Peter Traneus Anderson)
 
 ### Open Anatomy
 
