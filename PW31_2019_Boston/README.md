@@ -106,7 +106,7 @@ Use [template](Breakouts/Template.md):
 - Breakout Session 2: High resolution, comprehensive atlases of the human brain morphology (Sylvain Bouix)
 - Breakout Session 3: Python usage in modern Slicer (Jc, Sam Horvath, Andras Lasso)
 - Breakout Session 4: [Infrastructure Brainstorming](Breakouts/Infrastructure): Large Volume Support, Key frame animation (Steve Pieper, Andras Lasso, Jc)
-- Breakout Session 5: Data Management: Girder, XNAT (Andras Lasso)
+- Breakout Session 5: [Data Management](Breakouts/DataManagement): Girder, XNAT, DICOMweb (Andras Lasso)
 
 ## Registrants
 
