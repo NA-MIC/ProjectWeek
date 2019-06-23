@@ -70,6 +70,8 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 ### Analysis
 
 - [Quantitative Analysis of Human Orbitofrontal-subgenual Circuitry](Projects/QuantitativeAnalysisofHumanOrbitofrontal-subgenualCircuitry/README.md) (Nayra Pumar Carreras, Juan Ruiz-Alzola, Juan Andres Ramirez Gonzalez, Peter Wilson-Braun, Senthil Palanivelu, Lipeng Ning, Yogesh Rathi, Nikos Makris)
+- Clinical trajectory visualization from edema quantification in chest x-ray (Ray Liao, Steve Pieper, Polina Golland)
+
 
 ### DICOM
 
