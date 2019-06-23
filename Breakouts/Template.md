@@ -24,3 +24,9 @@ Back to [Project Week](../../README.md)
 # Background and References
 
 <!-- Anything people should review to prepare for the discussion -->
+
+
+# Results of Discussion
+
+<!-- To be filled out after the event. -->
+
