@@ -17,7 +17,7 @@ This project will focus on improving the python package management in Slicer (i.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-The objective is to have a consistent interface / process for installing patyhon packages across Slicer (extensions and in the pyton interactor)
+The objective is to have a consistent interface / process for installing patyhon packages across Slicer (extensions and in the python interactor)
 
 
 
@@ -28,6 +28,9 @@ The objective is to have a consistent interface / process for installing patyhon
   * Investigate use of vitual environments in Slicer
 2. Extension python package automatic install
   * Post-install packages using a hook for requirements.txt
+3. Document experience installing and using various python packages in Slicer
+  * which ones work well with no problems
+  * what properties of some packages lead to problems (e.g. conflicting dependencies)
  
 
 ## Progress and Next Steps
