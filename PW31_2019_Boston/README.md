@@ -49,6 +49,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [Segmentation based statistics/visualization of 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/SegmentationStatisticsSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola)
 - [Segmentation overlay for prostatecancer.ai](Projects/SegOverlay_ProstateCancerAI/README.md) (Omar, James, Steve, Erik, Anneke, Alireza)
 - [BabySteps: 3D Printing Using Slicer for creating clubfoot casts](Projects/ClubfootCasts/README.md) (Hadi Fooladi, Pooneh Roshanitabrizi, Steve Pieper, Kevin Cleary)
+- [Whole heart segmentation for congenital heart disease](Projects/chdseg/README.md) (Danielle Pace)
 
 ### Registration
 
