@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# ROS-MED: Platfrom for Medical Robotics Research Based on ROS and 3D Slicer
+# ROS-MED: Platform for Medical Robotics Research Based on ROS and 3D Slicer
 
 ## Key Investigators
 
