@@ -20,9 +20,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 1. Adopt an approach for sulcal definition
 
 ## Approach and Plan
-
-![](Segmentation1.png)
-
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 - Sulcal definition
   1. Load freesurfer surfaces into Slicer
@@ -37,11 +34,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 # Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![](Segmentation1.png)
 
 # Background and References
 
