@@ -40,6 +40,8 @@ Connect SPINE with XNAT.
 
 # Illustrations
 
+
+![Screenshot](https://github.com/NA-MIC/ProjectWeek/blob/master/PW31_2019_Boston/Projects/Connect_SPINE_and_XNAT/Screen%20Shot%202019-06-24%20at%201.22.57%20PM.png)
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
