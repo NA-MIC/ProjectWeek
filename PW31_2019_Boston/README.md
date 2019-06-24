@@ -87,7 +87,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 ### Infrastructure
 
 - [VTK filters running on GPU](Projects/GLSLShaders/README.md) (Kyle Sunderland, Steve Pieper)
-- Improved volume rendering (Andras, Kyle, Steve, Matt, Christian)
+- [Improved volume rendering](Projects/VolumeRenderingImprovements/README.md) (Andras, Kyle, Steve, Matt, Christian)
 - [Globalization in 3D Slicer and OHIF](Projects/Globalization3DSlicer_OHIF/README.md) (José-Carlos Ruiz-Luque, Jc, Erik, Juan Ruiz-Alzola)
 - [Connect SPINE and XNAT](Projects/Connect_SPINE_and_XNAT/README.md) (Alfredo, Andrzej, Andras, Charles)
 - [Python Package Management](Projects/PythonPackages/README.md) (Sam Horvath, Jc F-R , Steve Pieper, Andras Lasso)
