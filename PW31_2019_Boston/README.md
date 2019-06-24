@@ -102,7 +102,7 @@ Use [template](Breakouts/Template.md):
   - High resolution, comprehensive atlases of the human brain morphology (Sylvain Bouix)
   - Tuesday 25th, 9am to 12pm
 - Breakout Session 3:
-  - Python usage in modern Slicer (Jc, Sam Horvath, Andras Lasso)
+  - Python usage in modern Slicer (Sam Horvath, Jc, Andras Lasso)
   - Wednesday 26th, 3pm to 4pm
 - Breakout Session 4:
   - [Infrastructure Brainstorming](Breakouts/Infrastructure): Large Volume Support, Key frame animation (Steve Pieper, Andras Lasso, Jc)
