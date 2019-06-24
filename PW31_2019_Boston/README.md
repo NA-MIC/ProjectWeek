@@ -106,11 +106,21 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 ### Breakout Sessions
 
 Use [template](Breakouts/Template.md):
-- Breakout Session 1: An introduction to OHIF 2.0, a plugable framework for web based imaging viewing and annotation (Danny, James)
-- Breakout Session 2: High resolution, comprehensive atlases of the human brain morphology (Sylvain Bouix)
-- Breakout Session 3: Python usage in modern Slicer (Jc, Sam Horvath, Andras Lasso)
-- Breakout Session 4: [Infrastructure Brainstorming](Breakouts/Infrastructure): Large Volume Support, Key frame animation (Steve Pieper, Andras Lasso, Jc)
-- Breakout Session 5: [Data Management](Breakouts/DataManagement): Girder, XNAT, DICOMweb (Andras Lasso)
+- Breakout Session 1:
+  - An introduction to OHIF 2.0, a plugable framework for web based imaging viewing and annotation (Danny, James)
+  - Monday 24th, 3pm to 4pm
+- Breakout Session 2:
+  - High resolution, comprehensive atlases of the human brain morphology (Sylvain Bouix)
+  - Tuesday 25th, 9am to 12pm
+- Breakout Session 3:
+  - Python usage in modern Slicer (Jc, Sam Horvath, Andras Lasso)
+  - Wednesday 26th, 3pm to 4pm
+- Breakout Session 4:
+  - [Infrastructure Brainstorming](Breakouts/Infrastructure): Large Volume Support, Key frame animation (Steve Pieper, Andras Lasso, Jc)
+  - Wednesday 26th, 4pm to 5pm
+- Breakout Session 5:
+  - [Data Management](Breakouts/DataManagement): Girder, XNAT, DICOMweb (Andras Lasso)
+  - Thursday 27th, 10:30am to 11:30am
 
 ## Registrants
 
