@@ -99,7 +99,7 @@ Use [template](Breakouts/Template.md):
   - An introduction to OHIF 2.0, a pluggable framework for web based imaging viewing and annotation (Danny, James)
   - Monday 24th, 3pm to 4pm
 - Breakout Session 2:
-  - High resolution, comprehensive atlases of the human brain morphology (Sylvain Bouix)
+  - [High resolution, comprehensive atlases of the human brain morphology](Breakouts/HumanBrainAtlas) (Sylvain Bouix)
   - Tuesday 25th, 9am to 12pm
 - Breakout Session 3:
   - Python usage in modern Slicer (Sam Horvath, Jc, Andras Lasso)
