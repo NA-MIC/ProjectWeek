@@ -21,6 +21,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
+![](Segmentation1.png)
+
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 - Sulcal definition
   1. Load freesurfer surfaces into Slicer
