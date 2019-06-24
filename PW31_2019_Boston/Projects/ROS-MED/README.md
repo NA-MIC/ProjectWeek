@@ -16,16 +16,14 @@ Detailes of ROS-MED can be found in [our recent workshop at International Sympos
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-1. Convert the CAD files for Smart Tempalte to the ROS model (URDF and XACRO).
-1. Test controlling and visualizing the robot on 3D Slicer.
+1. Streamline the development of software for image-guided robot-assisted interventions
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Convert the CAD files for Smart Tempalte to the ROS model (URDF and XACRO).
+1. Test controlling and visualizing the robot on 3D Slicer.
 
 ## Progress and Next Steps
 
