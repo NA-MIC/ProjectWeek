@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andrzej Marciniak (BWH & Harvard)
 - Charles Guttmann (BWH & Harvard)
 - Andras Lasso (Queen's Univeristy)
+- James Petts (The Institute of Cancer Research, London)
 
 # Project Description
 
