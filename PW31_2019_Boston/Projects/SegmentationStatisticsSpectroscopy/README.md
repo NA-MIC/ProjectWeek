@@ -30,7 +30,7 @@ Algorithms have previous been coded in Matlab, and it is proposed their translat
 
 ## Illustrations
 Fig. 1: FMRSI interface
-<img src="Diapositiva1.png" width="652" height="356"> 
+<img src="Diapositiva1.PNG" width="652" height="356"> 
 
 Fig. 2: Open Dialog
-<img src="Diapositiva2.png" width="652" height="356"> 
+<img src="Diapositiva2.PNG" width="652" height="356"> 
