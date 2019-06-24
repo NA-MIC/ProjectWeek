@@ -59,10 +59,10 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 
 ### Simulation
 
-- [Cardiac device placement/deformation simulation](Projects/cardiacdeviceplacementsimulation/README.md) (Sarv, Andras, Sam, Christian)
 - [Interactive medical simulation toolkit (IMSTK) integration](Projects/SlicerIMSTK/README.md) (Sam Horvath, Andras Lasso, Tina Kapur)
-- [Virtual reality interface improvements](Projects/Virtualrealityinterfaceimprovement/README.md) (Sarv, Csaba)
 - [Virtual reality interactions](Projects/VirtualRealityInteractions/README.md) (Csaba Pinter, Nayra Pumar)
+- [Cardiac device placement/deformation simulation](Projects/cardiacdeviceplacementsimulation/README.md) (Sarv, Andras, Sam, Christian)
+- [Virtual reality interface improvements](Projects/Virtualrealityinterfaceimprovement/README.md) (Sarv, Csaba)
 
 
 
