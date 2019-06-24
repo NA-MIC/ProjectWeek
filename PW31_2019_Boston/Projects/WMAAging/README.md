@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Post-Traumatic Cerebral Microhemorrhages and Their Effects Upon White Matter Connectivity in the Aging Human Brain
+# Fiber Clustering Analysis to Quantify White Matter Connectivity in the Aging Human Brain
 
 ## Key Investigators
 
@@ -17,25 +17,23 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. ... ...
-1. Objective B. ... ...
-1. Objective C. ... ...
+1. Design and streamline workflow for the analysis of dMRI data from geriatric patients.
+1. Identify existing and novel functionality to cluster white matter fiber streamlines.
+1. Troubleshot existing problems in the analysis workflow.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Exchage expertise and information to identify optimal strategies for white matter analysis.
+1. Implement and adapt workflows to improve the robustness of the existing approaches.
+1. Test and validate the functionality and results obtained.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. TBD
 
 # Illustrations
 
