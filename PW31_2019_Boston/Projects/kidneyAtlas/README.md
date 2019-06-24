@@ -1,19 +1,19 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Kidney and male pelvis atlas
+# Abdomen and male pelvis atlas
 
 
 ## Key Investigators
 
-- Babacar Diao (Ecole Militaire de Santé Dakar)
-- Michael Halle (brigham and women's hospital) 
+- Babacar Diao (Ecole Militaire de Santé Dakar - Senegal)
+- Michael Halle (Brigham and Women's Hospital) 
 - Nayra Pumar (ULPGC – GTMA-IUIBS - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA-IUIBS - MACbioIDi)
 
 
 ## Project Description
 
-This project focuses on the development of an anatomical atlas of the kidney and male urinary system, along with an improved version of the male pelvic atlas.
+This project focuses on the development of an anatomical atlas of the abdomen and male urinary system, along with an improved version of the male pelvic atlas.
 
 
 ## Objectives
