@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Clinical trajectory visualization based on edema quantification from chest x-ray
 
 ## Key Investigators
 
