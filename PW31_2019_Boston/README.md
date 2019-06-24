@@ -1,5 +1,7 @@
 # Welcome to the web page for the 31st Project Week!
 
+![](IntroPanorama.jpg)
+
 The 31st NA-MIC Project Week will be held during the week of June 24-28, 2019 at MIT, Boston USA.
 
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
@@ -15,24 +17,6 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [Frequently Asked Questions](https://projectweek.na-mic.org/#frequently-asked-quesions)
 - **Slack Channel:** [Invite Link](https://join.slack.com/t/namic-projectweek/shared_invite/enQtNjY5MDEwMDMxMDcyLTkyNjA4MmQxMjFkZWNmMTMwNjliYzk5ZGExZTdiNmJlZWFjNzE0MWRiMmYzMTIzNzk0NDVkNWM3MGIzMDlkMTU) 
 
-## Preparatory Videoconferences
-
-
-<table><tr>
-    <td>
-        <img src="zoom-photo-2019-05-07.png">
-    </td>
-    <td>
-        <ul>
-            <li>
-                Zoom video conference: <a href="https://zoom.us/j/692997791">To join the videoconference</a>
-            </li>
-            <li>
-<a href="https://github.com/NA-MIC/ProjectWeek/blob/master/PW31_2019_Boston/PreparatoryMeetingsNotes.md">Conference call notes</a>
-            </li>
-        </ul>
-    </td>
-</tr></table>
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 <a name="ProjectsList"/>
