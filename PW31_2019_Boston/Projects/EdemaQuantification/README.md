@@ -17,10 +17,11 @@ ML algorithms for quantifying pulmonary edema in chest x-ray: https://www.csail.
 Example x-ray images:
 ![Example x-ray images: ](banner.png)
 
-## Objective
+## Approach
 
 1. Look into Crossfilter: http://square.github.io/crossfilter/
 2. Look into Vega-lite: https://vega.github.io/vega-lite/
+3. ...
 
 # Background and References
 
