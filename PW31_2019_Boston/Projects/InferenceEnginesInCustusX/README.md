@@ -22,7 +22,7 @@ Running trained Deep Learning networks with inference engines. The focus will be
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Use the [FAST](https://github.com/smistad/FAST) library for inference engine support.
+1. Use the [FAST](https://github.com/smistad/FAST) library for inference engine support. 
 
 ## Progress and Next Steps
 
@@ -39,4 +39,11 @@ Running trained Deep Learning networks with inference engines. The focus will be
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-- [CustusX](https://www.custusx.org)
+[CustusX](https://www.custusx.org) is the toolbox we bring to the OR. It's our tool for reusing results from old reserch projects.
+
+Currently we got several research projects where deep learning networks are created: [Examples from FAST](https://www.eriksmistad.no/)
+
+We want to be able to run these networks from inside CustusX to allow a more seamless integration in the OR. Some projects require the deep learning networks to run in real time, and in these cases they will need to run them on inference engines.
+
+[Video: Highlighting nerves and blood vessels on ultrasound images](https://youtu.be/06HTxmmu0mg)
+
