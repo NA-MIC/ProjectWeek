@@ -23,14 +23,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Progress and Next Steps
 
 - [Progress made at last project week](../../../PW28_2018_GranCanaria/Projects/GLSLShaders/README.md)
-- Example of vtkGPUShaderAlgorithm pipline ([ShaderAlgorithm](https://github.com/Sunderlandkyl/VTK/blob/vtkGPUImageFilter2/Examples/ShaderAlgorithm/Cxx/ShaderAlgorithm.cxx))
- <img src="ShaderAlgorithm1.png" alt="ShaderAlgorithm" width="500"/>
 
 ### Result
 
 - To be completed
 
 # Illustrations
+
+- Example of vtkGPUShaderAlgorithm pipline ([ShaderAlgorithm](https://github.com/Sunderlandkyl/VTK/blob/vtkGPUImageFilter2/Examples/ShaderAlgorithm/Cxx/ShaderAlgorithm.cxx))
+ <img src="ShaderAlgorithm1.png" alt="ShaderAlgorithm" width="500"/>
 
 | Philips 3D US | Chroma-depth in PRISM | Depth peeling in PRISM |
 | --- | --- | --- |
