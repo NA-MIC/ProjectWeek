@@ -125,6 +125,14 @@ Use [template](Breakouts/Template.md):
   - [Data Management](Breakouts/DataManagement): Girder, XNAT, DICOMweb (Andras Lasso)
   - Thursday 27th, 10:30am to 11:30am
 
+
+## Program Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?mode=WEEK&dates=20190624%2F20190628&src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+[How to add this calendar to your own?](../common/Calendar.md)
+
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your paid registration. [Click here to register.](https://www.regonline.com/registration/Checkin.aspx?EventID=2555870))
@@ -206,10 +214,4 @@ List of registered participants so far (names will be added here after processin
 1. RUDOLPH PIENAAR	BOSTON CHILDREN'S HOSPITAL
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
-
-## Program Calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?mode=WEEK&dates=20190624%2F20190628&src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-[How to add this calendar to your own?](../common/Calendar.md)
 
