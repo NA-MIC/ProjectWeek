@@ -39,9 +39,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
-[Description of picture](map_slicer.png)
+![Description of picture]
 ![Some more images](Example2.jpg)
 -->
+<img src="map_slicer.png">
 
 # Background and References
 
