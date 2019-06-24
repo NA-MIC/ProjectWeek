@@ -8,14 +8,16 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+We are working on segmenting the cardiac chambers and great vessels from 3D MRI, for patients with congenital heart disease. The aim is to enhance surgical planning via rendered or 3D-printed heart models.
+
+We have previously developed a recurrent neural network (RNN) model that evolves a segmentation of each structure over time, and shown that it is more generalizable to severe CHD defects than conventional models that segment the image in one step.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
+1. Objective A. Use data augmentation for inference.
+1. Objective B. Finish data augmentation during training that mimics stents and 'distractor' vessels.
 1. Objective C. ...
 
 ## Approach and Plan
@@ -36,8 +38,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Illustrations
 
-[RNN-based segmentation](progressionFig.png)
+![RNN-based segmentation of cardiac structures](progressionFig.png)
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+[Iterative segmentation from limited training data: Applications to congenital heart disease](http://dx.doi.org/10.1007/978-3-030-00889-5_38)
+
+D.F. Pace, A.V. Dalca, T. Brosch, T. Geva, A.J. Powell, J. Weese, M.H. Moghari, P. Golland
+MICCAI Workshop on Deep Learning in Medical Image Analysis, 2018
