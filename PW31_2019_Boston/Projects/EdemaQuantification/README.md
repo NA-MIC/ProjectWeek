@@ -21,7 +21,8 @@ Example x-ray images:
 
 1. Look into Crossfilter: http://square.github.io/crossfilter/
 2. Look into Vega-lite: https://vega.github.io/vega-lite/
-3. ...
+3. Look into i2b2: https://www.i2b2.org/
+4. ...
 
 # Background and References
 
