@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Csaba Pinter (Queen's University)
 - Sarv Priya (University of Iowa)
-- Investigator 3 (Affiliation)
+
 
 # Project Description
 

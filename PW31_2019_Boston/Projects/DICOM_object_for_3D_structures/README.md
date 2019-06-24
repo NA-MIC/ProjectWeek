@@ -16,9 +16,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Create and vizualise in DICOM module 3D distance map as a part of structure set.  
+2. Additionally have iso-distance levels as structure labelmaps.
+1. GUI to select iso-distance levels. 
 
 ## Approach and Plan
 
@@ -39,10 +39,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
+[Description of picture](map_slicer.png)
 ![Some more images](Example2.jpg)
 -->
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+N. Shusharina, D. Craft, Y.-L. Chen, H. Shih, T. Bortfeld.  The clinical target distribution: a probabilistic approach to the clinical target volume. Phys Med Biol 2018; 63:155001.
