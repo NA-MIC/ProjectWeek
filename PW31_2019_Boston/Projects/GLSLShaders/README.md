@@ -18,11 +18,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-- Evaluate vtkGPUImageData based filters ([Source](https://github.com/Sunderlandkyl/Slicer/tree/gpu_fractional_2))
+- Evaluate vtkGPUImageData based filters ([Source](https://github.com/Sunderlandkyl/VTK/tree/vtkGPUImageFilter2))
 
 ## Progress and Next Steps
 
 - [Progress made at last project week](../../../PW28_2018_GranCanaria/Projects/GLSLShaders/README.md)
+- Example of vtkGPUShaderAlgorithm pipline ([ShaderAlgorithm](https://github.com/Sunderlandkyl/VTK/blob/vtkGPUImageFilter2/Examples/ShaderAlgorithm/Cxx/ShaderAlgorithm.cxx))
+  ![](ShaderAlgorithm1.png)
 
 ### Result
 
