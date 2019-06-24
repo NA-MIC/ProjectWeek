@@ -72,10 +72,6 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - Clinical trajectory visualization based on edema quantification from chest x-ray (Ray Liao, Steve Pieper, Polina Golland)
 
 
-### DICOM
-
-- [Improve DICOM import for 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/DICOMImportSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola)
-- [Create DICOM object for 3D volume to represent clinical target volume](Projects/DICOM_object_for_3D_structures/README.md) (Nadya Shusharina)
 
 ### Diffusion MRI
 
@@ -83,6 +79,11 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [WMA: fiber clustering pipeline documentation](Projects/WMA/README.md) (Fan Zhang, Mengying Zhang, Banu Ahtam, Parikshit Juvekar, Lauren J O'Donnell)
 - [Joint dMRI and fMRI analysis: fMRI data curation](Projects/dMRfMRI/README.md) (Laura Leung, Fan Zhang, Lauren J O'Donnell)
 - [White Matter Analysis in the Aging Human Brain](Projects/WMAAging/README.md) (Andrei Irimia, Fan Zhang, Lauren J O'Donnell)
+
+### DICOM
+
+- [Improve DICOM import for 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/DICOMImportSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola)
+- [Create DICOM object for 3D volume to represent clinical target volume](Projects/DICOM_object_for_3D_structures/README.md) (Nadya Shusharina)
 
 ### Infrastructure
 
