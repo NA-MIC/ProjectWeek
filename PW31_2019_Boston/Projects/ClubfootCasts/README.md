@@ -39,6 +39,8 @@ daily living for families with plastic instead of plaster casts.
 1. 3D printing the deformed clubfoot model
 1. Repeating the process until printing the normal cast
 
+![Approach](Approach.png) 
+
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
