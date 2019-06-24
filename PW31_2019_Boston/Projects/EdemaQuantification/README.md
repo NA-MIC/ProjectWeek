@@ -14,7 +14,7 @@ We have developed machine learning algorithms to automatically quantify the seve
 
 ML algorithms for quantifying pulmonary edema in chest x-ray: https://www.csail.mit.edu/research/chest-x-ray-analysis
 
-[Example x-ray images: ]banner.png
+![Example x-ray images: ](banner.png)
 
 ## Objective
 
