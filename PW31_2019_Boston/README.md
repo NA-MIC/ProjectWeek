@@ -56,6 +56,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [Placenta flattening and visualization in Slicer](Projects/Placenta-Flattening/README.md) (Maz, Steve, Polina)
 - [Registration of Intel RealSense depth camera image to CT + marker based tracking](Projects/RealSensePatientRegistration/README.md) (Colton Barr, Andras Lasso, Steve Pieper)
 - [Establishing Feature Correspondences between ultrasound images acquired at different time points during brain tumor resection](Projects/UltrasoundFeatureCorrespondence/README.md) (Nick Jowkar, Clement Mirabel, Sarah Frisken, Tina Kapur)
+- [Bronchoscope Localization From Depth Map](Projects/BronchoscopeLocalizationFromDepthMaps/README.md) (Shelly Liu (Concord Academy), Jonah Berg (The Rivers School), Franklin King (Brigham and Women's Hospital))
 
 ### Open Anatomy
 
