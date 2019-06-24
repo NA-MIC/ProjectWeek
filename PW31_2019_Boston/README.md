@@ -56,6 +56,10 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [Registration of Intel RealSense depth camera image to CT + marker based tracking](Projects/RealSensePatientRegistration/README.md) (Colton Barr, Andras Lasso, Steve Pieper)
 - [Establishing Feature Correspondences between ultrasound images acquired at different time points during brain tumor resection](Projects/UltrasoundFeatureCorrespondence/README.md) (Nick Jowkar, Clement Mirabel, Sarah Frisken, Tina Kapur)
 
+### Open Anatomy
+
+- [Export models to glTF file](Projects/glTFExport/README.md) (Andras Lasso, Csaba Pinter, Mike Halle)
+- [Kidney and male pelvis atlas](Projects/kidneyAtlas/README.md) (Babacar Diao, Nayra Pumar)
 
 ### Simulation
 
@@ -97,10 +101,6 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [SlicerCIP migration](Projects/SlicerCIP/README.md) (Jorge Onieva, Pietro Nardelli, Raúl San José)
 - [Conversations with attendees](Projects/PetesConversationsWithAttendees/README.md) (Peter Traneus Anderson)
 
-### Open Anatomy
-
-- [Export models to glTF file](Projects/glTFExport/README.md) (Andras Lasso, Csaba Pinter, Mike Halle)
-- [Kidney and male pelvis atlas](Projects/kidneyAtlas/README.md) (Babacar Diao, Nayra Pumar)
 
 ### Breakout Sessions
 
