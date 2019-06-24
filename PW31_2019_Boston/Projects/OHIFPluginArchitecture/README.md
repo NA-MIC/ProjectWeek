@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [James A Petts][james] ([Institute for Cancer Research, London][icr-london])
 - [Erik Ziegler][erik] ([Radical Imaging][radical])
 - [Steve Pieper][steve] ([Isomics][isomics])
+- [Mete Akdogan][mete] ([Stanford University, Rubin Lab][rubin-lab])
 
 ## Description
 
@@ -85,3 +86,5 @@ The OHIF Viewer Platform is currently coupled to it's various components' depend
 [ohif-extensions]: https://docs.ohif.org/advanced/extensions.html
 [ohif]: http://ohif.org/
 [james-magic]: https://github.com/JamesAPetts/OHIF-Viewer-XNAT/tree/xnatRoi-dev-vNext/Packages/icr-peppermint-tools
+[mete]: https://github.com/muakdogan
+[rubin-lab]: https://rubinlab.stanford.edu/
