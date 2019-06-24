@@ -13,7 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 The Video streaming saving module Sequence. [Video Streaming in Sequence](https://drive.google.com/open?id=1gCdVS6aRlg__4KuaoDLK4HqSbAFGoZ4d)
 
-A 5 minutes HD video without compression will be around 10GB. VP9, H264, HEVC codecs are availabe for video compression and video streaming.
+A 5 minutes HD video without compression will be around 10GB. VP9, H264, HEVC codecs are available for video compression and video streaming.
 
 ## Objective
 

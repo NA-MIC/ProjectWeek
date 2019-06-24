@@ -17,7 +17,7 @@ Python script running a JSON-based proprietary is used to communicate between th
 
 ## Approach and Plan
 
-1. Define coordinate sytem of scanner
+1. Define coordinate system of scanner
 2. Apply transform to convert from RAS To Scanner Coordinates (LPS)
 3. create needle model and use Volume Reslice Driver module to define a new orientation. Send coordinates to simulator
 

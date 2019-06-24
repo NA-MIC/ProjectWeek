@@ -53,7 +53,7 @@ SlicerSALT will be used to:
 - Shape Regression Extension: 
   - Fixing of some bugs on the shape regression computation
   - Adding of some tests
-  - Test of the slicer extension package on Windows and Mac (Issue on Linux) -> Almost ready to be intergrated in SlicerSALT
+  - Test of the slicer extension package on Windows and Mac (Issue on Linux) -> Almost ready to be integrated in SlicerSALT
 - Estimation of shape correspondence for population of objects with complex topology: 
   - Comparison of the three methods already existing
   - Abandon of the ThinShellDemon method due to the generated results not enough accurate

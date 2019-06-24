@@ -37,7 +37,7 @@ Items to be discussed: (please add anything that you would like us to consider)
 - Built-in 4D data support (Sequences extension)
 - Move towards LPS coordinate system (at least change default read/write format for all nodes)
 - Internationalization
-- Swith to unicode
+- Switch to unicode
 - Scene views rework: make simpler and more robust
 - Lightbox view: can we remove?
 - Make Slicer core smaller: are there still components that can be moved out to extensions?

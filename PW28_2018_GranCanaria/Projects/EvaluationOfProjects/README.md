@@ -19,7 +19,7 @@ The Canary Islands Institute of Technology (ITC) (http://www.itccanarias.org/web
   <img src="ITC_Presentation.png" width="400" height="360">
 Biomedical Engineering Department Workflow
   
-During this workshop we plan to explore, together with the GTMA (Group of Medical Technology and Audiovisuals), the possibilities of 3DSlicer and its evironment in three possible projects.
+During this workshop we plan to explore, together with the GTMA (Group of Medical Technology and Audiovisuals), the possibilities of 3DSlicer and its environment in three possible projects.
 
 Proposals:
 + #1 Software for orthognathic surgical planning. A piece of software that simulates temporomandibular joint rotation after computer-simulated osteotomies.
@@ -42,7 +42,7 @@ Assess the feasibility of the aforementioned projects.
 
 - [x] Acquire proficiency in 3DSlicer environment.
 - [x] Evaluate AR o VR for project #2.
-- [x] Assess the perfomance of trackers and/or markers.
+- [x] Assess the performance of trackers and/or markers.
 - [x] Review 3DSlicers' support for AR and VR headsets in the market.
 
 ## Progress and Next Steps
@@ -56,14 +56,14 @@ SlicerCMF (CranioMaxiloFacial app) was preliminary evaluated, capabilities and e
 SlicerVR was considered. Our roadmap: 
 - [x] Focus on spine surgery (worst-case scenario).
 - [ ] Assess intraoperative ultrasound for spine surgery, and perform 3D reconstruction using trackers.
-- [ ] Build an ultrasound phantom to validate the setup. It should include the spine and surrouding main vessels (aorta!)
+- [ ] Build an ultrasound phantom to validate the setup. It should include the spine and surrounding main vessels (aorta!)
 - [ ] Use VR to navigate the model and US-3D volume to locate blood vessels, muscle or cartilage during tumor resection
   
 + Project #3: 'A simulator for the humerus and ulna articular surfaces'
 Postponed for reevaluation.
 
 + Project #4 (Bonus!):
-Slicer has proven to be very useful for "voxel printing" anatomical models, which is a 3D-printing technique that can provide very realistic results - 3D in full color, transparency, various degrees of elasticity - and that does not require segmentation, nor the creation of an STL file. Other multi-color 3D-printing techniques require one STL per color, and the colors are therefore "solid". Slicer can *effortlessly* perfom the required 3D interpolation and slicing that is required for this technique. 
+Slicer has proven to be very useful for "voxel printing" anatomical models, which is a 3D-printing technique that can provide very realistic results - 3D in full color, transparency, various degrees of elasticity - and that does not require segmentation, nor the creation of an STL file. Other multi-color 3D-printing techniques require one STL per color, and the colors are therefore "solid". Slicer can *effortlessly* perform the required 3D interpolation and slicing that is required for this technique. 
 
 ## Illustrations
 The following are real 3d-printed anatomical models - not renders - using "voxel printing"

@@ -32,7 +32,7 @@ Volume rendering capabilities in VTK and Slicer have been significantly improved
 
 1. Clinical needs/use cases:
 - 3D ultrasound rendering: Quality of ultrasound images is very poor compared to most other 3D imaging modalities. Depth-modulated coloring is used by all commercial systems to make it easier to distinguish surfaces.
-- On-the-fly processing: filtering (e.g., Guassian or median filter) would improve rendering of noisy images. It would be preferable to not modify the original input images and apply these filters dynamically, on the GPU.
+- On-the-fly processing: filtering (e.g., Gaussian or median filter) would improve rendering of noisy images. It would be preferable to not modify the original input images and apply these filters dynamically, on the GPU.
 - Multi-volume rendering
 - 4D image (3D time sequence) rendering
 - Large volume rendering (up to 4-6k per axis)

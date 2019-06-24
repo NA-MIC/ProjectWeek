@@ -6,8 +6,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Sylvain Bouix (BWH)
 - Jarett Rushmore (Boston University)
-- Kyle Sunderland (Queen's Univeristy)
-- Andras Lasso (Queen's Univeristy)
+- Kyle Sunderland (Queen's University)
+- Andras Lasso (Queen's University)
 
 # Project Description
 

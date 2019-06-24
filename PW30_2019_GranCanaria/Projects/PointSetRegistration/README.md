@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 This project focuses on applying a point set registration in 2D multichannel images and integrating it in a new 3D Slicer 
-module. In order to use this kind of registration, it is necesary to obtain spatial features from the image and represent them
+module. In order to use this kind of registration, it is necessary to obtain spatial features from the image and represent them
 as a point cloud.
 
 ## Objective

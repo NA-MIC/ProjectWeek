@@ -22,7 +22,7 @@ Details of ROS-MED can be found in [our recent workshop at International Symposi
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Convert the CAD files for Smart Tempalte to the ROS model (URDF and XACRO).
+1. Convert the CAD files for Smart Template to the ROS model (URDF and XACRO).
 1. Test controlling and visualizing the robot on 3D Slicer.
 
 ## Progress and Next Steps

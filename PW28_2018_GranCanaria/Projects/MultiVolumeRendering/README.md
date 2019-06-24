@@ -41,7 +41,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ![SlicerPRISM](SlicerPRISM-2018-06-28.png)
 
-[Prototyping Respository](https://github.com/pieper/VTKCustomShaders)
+[Prototyping Repository](https://github.com/pieper/VTKCustomShaders)
 
 ### Proof of concept
 * [Proof of concept script to paste in python console](https://github.com/pieper/VTKCustomShaders/blob/master/SlicerShader.py)
@@ -77,4 +77,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - [PRISM Paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193636)
 - [STEP multivolume deformable rendering (in WebGL)](https://www.youtube.com/watch?v=8dputUoKBTA)
-- [Mulitple volume rendering in Slicer 3.6](https://www.slicer.org/wiki/Modules:VolumeRendering-Documentation-3.6)
+- [Multiple volume rendering in Slicer 3.6](https://www.slicer.org/wiki/Modules:VolumeRendering-Documentation-3.6)

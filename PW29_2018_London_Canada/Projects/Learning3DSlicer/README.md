@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-- Objective A. Understand how to include jupyter notebook and pyhton libraries in 3D Slicer.
+- Objective A. Understand how to include jupyter notebook and python libraries in 3D Slicer.
 - Objective B. Segment a shape in a volume and define a similar ROI
 - Objective C. Define a calibration method for a virtual cone shaped image using magnetic tracking
 - Objective D. Making custom Slicer apps, gui, etc. (if time permits)

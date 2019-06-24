@@ -32,7 +32,7 @@ daily living for families with plastic instead of plaster casts.
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. 3D Scaning of the clubfoot cast
+1. 3D Scanning of the clubfoot cast
 1. Loading the 3D model into Slicer
 1. Selecting anatomical landmark points on the 3D model
 1. Deforming the clubfoot 3D model through provided controls and widgets for printing next cast

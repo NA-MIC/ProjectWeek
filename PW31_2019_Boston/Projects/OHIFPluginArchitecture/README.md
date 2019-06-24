@@ -39,7 +39,7 @@ The OHIF Viewer Platform is currently coupled to it's various components' depend
 4. Modules have the ability to register custom React Components
 5. Side Panels, Toolbar Buttons, and Hotkeys are primarily driven by configuration; but can specify already registered React Components for advanced customization.
 6. Utilize Extension/Module system to convert each of Jame's segmentation features to the appropriate module.
-    - Update implementation as necessary to accomodate his functionality's needs.
+    - Update implementation as necessary to accommodate his functionality's needs.
 
 ## Progress and Next Steps
 

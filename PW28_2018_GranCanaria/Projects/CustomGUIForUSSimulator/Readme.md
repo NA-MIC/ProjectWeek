@@ -29,7 +29,7 @@ The main goal of this project is to develop a custom graphic user interface (GUI
 
 ## Progress and Next Steps
 
-We defined several sketchs and chose the better sketch which satisfied the user requirements:
+We defined several sketches and chose the better sketch which satisfied the user requirements:
    - US images in 2D viewer
    - 3D scene for the training system (tools and phantom)
    - IGT connection management (buttons and text) 

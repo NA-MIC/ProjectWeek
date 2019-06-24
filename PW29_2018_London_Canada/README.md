@@ -10,7 +10,7 @@ The 29th NA-MIC PW [Event album](http://bit.ly/slicer-29pw-photos).
 
 ## Logistics
 
-To receive information and announcments about the events please join the [Slack group](https://join.slack.com/t/spww/shared_invite/enQtMzk4MDQyMDI1NjU0LTIwZDU2MGY4N2MzYTdmMzE1ZTlmNzA2NmNhYjE5MTA0NWMyY2RhMDQyMWYwMjkzYmU3MTczZmE0NTM0ZDZjNDQ) (for questions dedicated to this event).
+To receive information and announcements about the events please join the [Slack group](https://join.slack.com/t/spww/shared_invite/enQtMzk4MDQyMDI1NjU0LTIwZDU2MGY4N2MzYTdmMzE1ZTlmNzA2NmNhYjE5MTA0NWMyY2RhMDQyMWYwMjkzYmU3MTczZmE0NTM0ZDZjNDQ) (for questions dedicated to this event).
 
 + **Dates:** July 16-20, 2018.
 + **Location:** [Robarts Research Institute](https://www.google.ca/maps/@43.0113638,-81.2738561,3a,75y,340.63h,93.84t/data=!3m6!1e1!3m4!1sqB04BofO2fkNxgxlzynSRA!2e0!7i13312!8i6656)
@@ -99,7 +99,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + SlicerIGT: presentation about how to build Slicer-based real-time image-guidance and navigation systems
 
 ## Clinical Interaction Session
-We have invited a number of clinicians from a variety of specialties to visit, present, discuss, or just generally engage with the community in order to faciliate meaningful and useful progress.
+We have invited a number of clinicians from a variety of specialties to visit, present, discuss, or just generally engage with the community in order to facilitate meaningful and useful progress.
 
 ## Registrants
 1. Daniel Allen (Robarts Research Institute)
@@ -115,7 +115,7 @@ We have invited a number of clinicians from a variety of specialties to visit, p
 1. Leah Groves (Robarts Research Institute)
 1. Houssem Gueziri (MNI)
 1. Hassan Haddad (Western University)
-1. Ikhlas Hashi (Western University)
+1. Ikhlas Hash (Western University)
 1. Nobuhiko Hata (Brigham and Women's Hospital)
 1. Dimuthu Henadeerage Don (Robarts Research Institute)
 1. Mason Kadem (Brain and mind)

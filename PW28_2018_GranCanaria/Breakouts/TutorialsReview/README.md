@@ -36,7 +36,7 @@
  * Findability from google search
    * Find the best tutorial for the topic of interest (jump to the content)
    * Stackoverflow-like model
- * Is there a way to encourage people end-users to contribute to the documentaion
+ * Is there a way to encourage people end-users to contribute to the documentation
  * Use case libraries
    * Registration Use Case Library on wiki
    * Segmentation Recipe github page

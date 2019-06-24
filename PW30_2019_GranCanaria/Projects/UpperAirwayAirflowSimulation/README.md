@@ -22,7 +22,7 @@ We want to do some airflow simulations in a finite element software but we didn'
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Smooth the 3D models
-2. Import the models succesfully to the finite element software and mesh them
+2. Import the models successfully to the finite element software and mesh them
 3. Do some airflow simulations
 
 ## Approach and Plan
@@ -66,7 +66,7 @@ It supports airflow analysis and fluid-structure interactions. See [overview](ht
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-I managed to smooth the models whith surface toolbox and succesfully imported this to the finite element software.
+I managed to smooth the models with surface toolbox and successfully imported this to the finite element software.
 
 ![SurfaceToolbox](surfacetoolbox.PNG)
 

@@ -17,15 +17,15 @@ In doing so, we also need to store new kinds of experimental information to supp
 - The project will assume software version VE11C
 - no access to ICE
 - no access to the standard DICOM header
-- limited acess to the CSA header (WIP memory)
+- limited access to the CSA header (WIP memory)
 
 ## Objective
 
 1. Incorporate array-to-character conversion in pulse sequence (Prepared by IN)
 1. Subsample/rotate waveform and store in the WIP memory block
 1. Complete waveform parameterization (moments, concomitant fields, etc)
-1. Validate sequence functionallity in simulator
-1. Validate sequence functionallity on hardware (Boston)
+1. Validate sequence functionality in simulator
+1. Validate sequence functionality on hardware (Boston)
 1. Write Matlab script to extract and validate waveform from DICOM header
 1. Validate waveform integrity (Boston)
 

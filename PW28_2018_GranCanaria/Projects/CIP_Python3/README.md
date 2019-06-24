@@ -17,7 +17,7 @@ Chest Imaging Platform migration to Python 3.
 
 ## Objective
 
-1. Relese an updated version of the Chest Imaging Platform (probably the last one that will support Python 2)
+1. Release an updated version of the Chest Imaging Platform (probably the last one that will support Python 2)
 1. Slicer nightly/last release compatibility of the new release
 1. Migrate the whole platform to Python 3 and check for tests issues
 

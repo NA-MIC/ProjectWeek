@@ -66,7 +66,7 @@ SEPARATION OF ANTERIOR, POSTERIOR INSULA AND VOLUMETRIC MEASURES
 
 5) On the 3D model of the parcellated Insula (in 3D view), we then used the 'Scissors' tool using the Central sulcus as the guideline to separate the aINS from the pINS. Subsequently, we checked the precision of the border of aINS and pINS as informed by the central sulcus.
 
-6) To calculate the volumes of aNS and pINS, we first exported the segments converting them in labels using in Segment Editor the 'Segmentations' function.
+6) To calculate the volumes of and and pINS, we first exported the segments converting them in labels using in Segment Editor the 'Segmentations' function.
 
 7) Finally, we used the 'Quantification' module, 'Label Statistics' to obtain volumetric measures of each label (aINS, pINS).
 

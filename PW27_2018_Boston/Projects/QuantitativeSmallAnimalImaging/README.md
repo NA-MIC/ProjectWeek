@@ -35,7 +35,7 @@ to clinical scanners.
 - Follow excellent QIICR tutorial instructions
 - DCMQI conversion to DICOM segmentation object failed during the first attempt. Consulted Andrey.
 - One of slices from the Phillips small animal scanner was identified with inconsistent header contents compared to other slices.
-- Change made to DCMQI to accomodate this dataset. 
+- Change made to DCMQI to accommodate this dataset. 
 - Reprocessed successfully and measured DICOM segmentation object using Quantitative Reporting module
 - Build and trained a CNN using Keras. Consulted with Alireza about how to connect with DeepInfer. 
 - Planning to complete DeepInfer integration of our new model over the coming weeks.
