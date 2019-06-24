@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Ole Vegard Solberg (SINTEF, Trondheim, Norway)
 - Janne Beate Bakeng (SINTEF, Trondheim, Norway)
+- Kyle Sunderland (Queen's University, Canada)
 
 # Project Description
 
