@@ -104,6 +104,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [SlicerCIP migration](Projects/SlicerCIP/README.md) (Jorge Onieva, Pietro Nardelli, Raúl San José)
 - [Conversations with attendees](Projects/PetesConversationsWithAttendees/README.md) (Peter Traneus Anderson)
 - [Platform for Medical Robotics Research Based on ROS and 3D Slicer](Projects/ROS-MED/README.md) (Junichi Tokuda)
+- [Slicer extensions with CUDA](Projects/ExtensionsWithCUDA/README.md) (Greg Sharp, Jc)
 
 
 ### Breakout Sessions
