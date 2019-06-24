@@ -4,8 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Csaba Pinter (Queen's University)
 - Sarv Priya (University of Iowa)
+- Csaba Pinter (Queen's University)
 
 
 # Project Description
