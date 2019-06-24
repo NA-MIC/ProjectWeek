@@ -17,15 +17,14 @@ We have previously developed a recurrent neural network (RNN) model that evolves
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Objective A. Use data augmentation for inference.
-1. Objective B. Finish data augmentation during training that mimics stents and 'distractor' vessels.
+1. Objective B. Finish data augmentation (during training) that mimics stents and 'distractor' vessels.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Implement and test various data augmentation schemes during inference for a growing segmentation.
+1. Debug NaN bug for data augmentation that mimics stents and 'distractor' vessels.
 
 ## Progress and Next Steps
 
