@@ -45,7 +45,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [PolySeg in the browser](Projects/PolySeg4Web/README.md) (Steve, Erik, Jc, Csaba Pinter)
 - [OHIF Viewer: Extension and module support, with example contour/segmentation extension](Projects/OHIFPluginArchitecture/README.md) (Danny, James, Erik, Steve)
 - [OHIF GLSL Plugins](Projects/OHIFGLSLPlugins/README.md) using WebGL / GLSL shaders to make tools for segmentation in the browser (GrowCut) (Steve, James, Danny, Erik)
-- [Multi time point cardiac sequence segmentation](Projects/Multitimepointcardiacsegmentation/README.md) (Sarv, Andras)
+- [Multi time point cardiac sequence segmentation](Projects/MultiTimePointCardiacSegmentation/README.md) (Sarv, Andras)
 - [Segmentation based statistics/visualization of 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/SegmentationStatisticsSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola)
 - [Segmentation overlay for prostatecancer.ai](Projects/SegOverlay_ProstateCancerAI/README.md) (Omar, James, Steve, Erik, Anneke, Alireza)
 - [BabySteps: 3D Printing Using Slicer for creating clubfoot casts](Projects/ClubfootCasts/README.md) (Hadi Fooladi, Pooneh Roshanitabrizi, Steve Pieper, Kevin Cleary)
