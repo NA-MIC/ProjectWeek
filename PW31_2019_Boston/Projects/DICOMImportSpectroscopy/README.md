@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Francisco Marcano Serrano (ULL - MACbioIDi)
 - José Luis González Mora (ULL - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
+- Steve Pieper (Isomics)
 
 ## Project Description
 
