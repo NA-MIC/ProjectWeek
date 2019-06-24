@@ -5,8 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Nadya Shusharina (Massachusetts General Hospital)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+
 
 # Project Description
 
