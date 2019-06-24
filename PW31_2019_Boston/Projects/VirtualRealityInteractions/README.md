@@ -6,7 +6,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Csaba Pinter (Queen's University)
 - Nayra Pumar Carreras (Universidad de Las Palmas de Gran Canaria)
-- ?
 
 # Project Description
 
