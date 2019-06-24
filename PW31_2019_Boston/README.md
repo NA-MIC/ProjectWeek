@@ -108,7 +108,7 @@ Use [template](Breakouts/Template.md):
   - [Infrastructure Brainstorming](Breakouts/Infrastructure): Large Volume Support, Key frame animation (Steve Pieper, Andras Lasso, Jc)
   - Wednesday 26th, 4pm to 5pm
 - Breakout Session 5:
-  - [Data Management](Breakouts/DataManagement): Girder, XNAT, DICOMweb (Andras Lasso)
+  - [Data Management](Breakouts/DataManagement): Girder, XNAT, DICOMweb (Andras Lasso, Steve Pieper)
   - Thursday 27th, 10:30am to 11:30am
 
 
