@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andrzej Marciniak (BWH & Harvard)
 - Alfredo Morales Pinzón (BWH & Harvard)
 - Charles Guttmann (BWH & Harvard)
+- Forrest Li (Kitware)
 
 # Project Description
 
