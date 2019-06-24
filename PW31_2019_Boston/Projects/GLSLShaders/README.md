@@ -24,7 +24,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - [Progress made at last project week](../../../PW28_2018_GranCanaria/Projects/GLSLShaders/README.md)
 - Example of vtkGPUShaderAlgorithm pipline ([ShaderAlgorithm](https://github.com/Sunderlandkyl/VTK/blob/vtkGPUImageFilter2/Examples/ShaderAlgorithm/Cxx/ShaderAlgorithm.cxx))
-  ![](ShaderAlgorithm1.png)
+ <img src="ShaderAlgorithm1.png" alt="ShaderAlgorithm" width="500"/>
 
 ### Result
 
