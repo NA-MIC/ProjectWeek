@@ -35,6 +35,7 @@ Volume rendering capabilities in VTK and Slicer have been significantly improved
 - On-the-fly processing: filtering (e.g., Guassian or median filter) would improve rendering of noisy images. It would be preferable to not modify the original input images and apply these filters dynamically, on the GPU.
 - Multi-volume rendering
 - 4D image (3D time sequence) rendering
+- Large volume rendering (up to 4-6k per axis)
 - Photorealistic rendering ("cinematic rendering"): clinical significance is unclear, but definitely useful for patient communication and training
 
 2. Solutions
