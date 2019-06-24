@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Nadya Shusharina (Massachusetts General Hospital)
-
+- Csaba Pinter (Queen's University)
 
 # Project Description
 
