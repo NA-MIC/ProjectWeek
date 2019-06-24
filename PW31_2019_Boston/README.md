@@ -105,6 +105,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [Conversations with attendees](Projects/PetesConversationsWithAttendees/README.md) (Peter Traneus Anderson)
 - [Platform for Medical Robotics Research Based on ROS and 3D Slicer](Projects/ROS-MED/README.md) (Junichi Tokuda)
 - [Slicer extensions with CUDA](Projects/ExtensionsWithCUDA/README.md) (Greg Sharp, Jc)
+- [Transition to GitHub as authoritative version control system](Projects/GithubAsAuthoritativeVersionControlSystem/README.md) (Jc F-R, Andras, Steve)
 
 
 ### Breakout Sessions
