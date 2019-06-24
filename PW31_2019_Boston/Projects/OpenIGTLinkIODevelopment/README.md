@@ -37,7 +37,7 @@ Publish an online standard for sending ultrasound sector information with OpenIG
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. This project week we should formalize the "standards" for ultrasound sector information from earlier project weeks. Support for this has been built into PLUS, CustusX and Ibis Neuronav, but a specification should be made and published on [Source code](https://github.com/IGSIO/OpenIGTLinkIO) / [IGSIO web page](http://igsio.github.io/).
+1. This project week we should formalize the "standards" for ultrasound sector information from earlier project weeks. Support for this has been built into PLUS, CustusX and Ibis Neuronav, but a specification should be made and published on [OpenIGTLinkIO](https://github.com/IGSIO/OpenIGTLinkIO) / [IGSIO web page](http://igsio.github.io/).
 
 ## Progress and Next Steps
 
@@ -55,5 +55,5 @@ Publish an online standard for sending ultrasound sector information with OpenIG
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
-- [Source code](https://github.com/IGSIO/OpenIGTLinkIO)
+- [OpenIGTLinkIO](https://github.com/IGSIO/OpenIGTLinkIO)
 - [IGSIO web page](http://igsio.github.io/)
