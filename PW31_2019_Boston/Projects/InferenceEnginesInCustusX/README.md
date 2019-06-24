@@ -10,19 +10,19 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-Running trained Deep Learning networks with inference engines. The focus will be on implementing this in CustusX.
+Running trained Deep Learning networks with inference engines. The focus will be on implementing this in [CustusX](https://www.custusx.org).
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Implement C++ support for running one pre-trained model.
+1. Start with implementing C++ support for running one pre-trained model.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Integrate with the [FAST](https://github.com/smistad/FAST) library for inference engine support.
+1. Use the [FAST](https://github.com/smistad/FAST) library for inference engine support.
 
 ## Progress and Next Steps
 
