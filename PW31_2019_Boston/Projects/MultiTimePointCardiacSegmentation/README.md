@@ -4,8 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Sarv Priya 1 (University of Iowa)
-- Andras Lasso 2 (Queen's University)
+- Sarv Priya (University of Iowa)
+- Andras Lasso (Queen's University)
 
 # Project Description
 
