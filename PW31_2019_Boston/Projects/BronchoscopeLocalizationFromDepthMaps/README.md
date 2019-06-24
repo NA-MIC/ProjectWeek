@@ -10,7 +10,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-<!-- The goal is to localize a bronchoscope through the use of depth maps generated from bronchoscopy images using neural networks.   -->
+<!--   -->
+The goal is to localize a bronchoscope through the use of depth maps generated from bronchoscopy images using neural networks. 
 
 ## Objective
 
@@ -24,7 +25,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. We will use data from a bronchoscopy on a phantom lung.
-2. We will generate depth maps using a technique by Marco Visentini-Scarzanella
+2. We will generate depth maps using a technique by Marco Visentini-Scarzanella[1]
 3. We will then convert depth maps into point clouds
 4. Finally, we plan to use slicer to register point clouds to the CT scan.
 
@@ -34,3 +35,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 1. The steps we have already completed is the training and testing of the neural networks used to generate depth maps.
 2. Our next step is to convert depth maps into point clouds, and to use slicer to register the point cloud. 
+
+# Background and References
+
+1. https://drive.google.com/file/d/0B0x0v_kN6YuMa0dscEpLUjNnemM/view
