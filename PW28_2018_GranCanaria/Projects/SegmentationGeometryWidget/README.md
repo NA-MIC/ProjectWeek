@@ -38,7 +38,7 @@ Geometry widget with volume type input:
 
 ![Geometry widget with volume type input](https://user-images.githubusercontent.com/1325980/41688333-adf31e64-74b9-11e8-80ea-f97dff996393.png)
 
-Geometry widget witn non-volume type input:
+Geometry widget with non-volume type input:
 
 ![Geometry widget with non-volume type input](https://user-images.githubusercontent.com/1325980/41688352-c1e9b7ac-74b9-11e8-89cc-5b1c16f84bdc.png)
 

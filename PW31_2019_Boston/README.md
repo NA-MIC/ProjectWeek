@@ -96,7 +96,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 
 Use [template](Breakouts/Template.md):
 - Breakout Session 1:
-  - An introduction to OHIF 2.0, a plugable framework for web based imaging viewing and annotation (Danny, James)
+  - An introduction to OHIF 2.0, a pluggable framework for web based imaging viewing and annotation (Danny, James)
   - Monday 24th, 3pm to 4pm
 - Breakout Session 2:
   - High resolution, comprehensive atlases of the human brain morphology (Sylvain Bouix)

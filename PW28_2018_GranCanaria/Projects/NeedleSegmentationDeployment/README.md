@@ -30,7 +30,7 @@ Since, we want to make it usable from the 3D Slicer users in a simple and effici
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
-1. A docker container contaning the code and the models has been created for a GPU based prediction.
+1. A docker container containing the code and the models has been created for a GPU based prediction.
 1. The docker has been exposed via DeepInfer Slicer extension
 1. We are evaluating the possibility to expose the service also via Tomaat extension
 

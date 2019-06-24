@@ -6,7 +6,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
 * AR/VR use cases
 * VR demo stations
 * Slicer VR interactions
-* SlicerOpenVR sofware design discussion
+* SlicerOpenVR software design discussion
 
 ## Presenters
 - Sam Jang (Medical Augmented Intelligence): Clinical use cases

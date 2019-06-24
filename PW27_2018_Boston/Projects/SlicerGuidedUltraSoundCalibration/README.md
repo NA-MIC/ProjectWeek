@@ -25,7 +25,7 @@ The main purpose of this project is to create a module that integrates an alread
 ## Progress and Next Steps
 1. Added a model node to show a sphere within the image on slicer
 2. Added a cross hair fiducial to collect the image coordinate from the center of the straw 
-3. Created a loable extention to connect the python module to the C++ code 
+3. Created a loable extension to connect the python module to the C++ code 
 4. Built slicer on my computer 
 5. Built openCV 3.3 
 6. Made the view Red view only

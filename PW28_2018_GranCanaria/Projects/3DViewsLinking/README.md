@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- [Davide Punzo](https://punzo.github.io/) (Kapteyn Astronomical Institue, Netherlands)
+- [Davide Punzo](https://punzo.github.io/) (Kapteyn Astronomical Institute, Netherlands)
 - [Andras Lasso](http://perk.cs.queensu.ca/users/lasso) (Queen's University, Canada)
 - [Steve Pieper](https://lmi.med.harvard.edu/people/steve-pieper) (Isomics Inc., USA)
 - [Jean-Christophe Fillion-Robin](https://www.kitware.com/jean-christophe-fillion-robin/) (Kitware Inc., USA)
@@ -36,7 +36,7 @@ The 3D view controller widget should have GUI for synchronizing the following pr
   
       let's leave as it is
 
-   * shall we add GUI for recent volume rendering varibales moved from the MRMLVolumeRendering to the MRMLView node (Csaba mod to volume rendering)? Probably adding also this will be confusing (i.e. duplication of GUI and sync with volume rendering GUI).
+   * shall we add GUI for recent volume rendering variables moved from the MRMLVolumeRendering to the MRMLView node (Csaba mod to volume rendering)? Probably adding also this will be confusing (i.e. duplication of GUI and sync with volume rendering GUI).
   
       not necessary!
 
@@ -50,7 +50,7 @@ The 3D view controller widget should have GUI for synchronizing the following pr
 
    * (b) different angle of view for second (third, etc.) linked camera? different camera motion, etc... 
 
-      specilized interface in the cameras module. It will be designed and implemented later on
+      specialized interface in the cameras module. It will be designed and implemented later on
 
    * (c) Display content as in the 2D view? shall add models too? segmentation maust always be global (for 2d/3d etc...)??
 

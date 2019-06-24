@@ -19,7 +19,7 @@ We want to implement a neural network based automatic segmentation algorithm to 
 ## Objective
 
 1. Objective A. Making a training data set (~30-40 images). Find a quickly and precise way to segment the upper airways in 3D Slicer.
-1. Objective B. Make a baseline U-net, in python programing langauge whit this dataset.
+1. Objective B. Make a baseline U-net, in python programming language whit this dataset.
 1. Objective C. Testing the program.
 
 ## Approach and Plan

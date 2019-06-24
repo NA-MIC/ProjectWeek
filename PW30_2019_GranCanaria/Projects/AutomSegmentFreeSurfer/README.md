@@ -49,7 +49,7 @@ This project aims to improve the automatic segmentation results generated from t
      - Inferior border: hemispheric margin
      - Anterior border: right hemisphere A 55.800mm, left hemisphere A 56.500mm
      - Posterior border: right hemisphere A 8.200mm, left hemisphere A 7.500mm
-1. In the OFC segment the medial and two lateral segments have been merged into a single segment. The segmentation has been done manually, tracing the countours of the desired segments between the defined anterior and posterior boundaries on the coronal view.
+1. In the OFC segment the medial and two lateral segments have been merged into a single segment. The segmentation has been done manually, tracing the contours of the desired segments between the defined anterior and posterior boundaries on the coronal view.
 We have taken, for the OFC, the traditional approach, following the olfatory surcus. Fiducial points were placed on the slices for guidance.
 
 ## Procedure

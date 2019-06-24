@@ -15,7 +15,7 @@ IGT module tutorial blog development
 
 ## Approach and Plan
 
-1. Describe the general architecture of Slicer and bring together all the required resources for developing a Slicer IGT module. This inlcudes providing video tutorial examples, skeleton code, and clear written descriptions. 
+1. Describe the general architecture of Slicer and bring together all the required resources for developing a Slicer IGT module. This includes providing video tutorial examples, skeleton code, and clear written descriptions. 
 2. Develop an easy to navigate blog. 
 
 ## Progress and Next Steps
