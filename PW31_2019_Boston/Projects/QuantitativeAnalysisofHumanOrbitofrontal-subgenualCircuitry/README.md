@@ -11,6 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Senthil Palanivelu (Massachusetts General Hospital)
 - Lipeng Ning (Brigham and Women’s Hospital)
 - Yogesh Rathi (Brigham and Women’s Hospital)
+- Jarrett Rushmore (Boston University)
 - Nikos Makris (Massachusetts General Hospital)
 
 # Project Description
