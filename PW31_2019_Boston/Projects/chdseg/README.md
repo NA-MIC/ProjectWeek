@@ -18,7 +18,6 @@ We have previously developed a recurrent neural network (RNN) model that evolves
 
 1. Objective A. Use data augmentation for inference.
 1. Objective B. Finish data augmentation during training that mimics stents and 'distractor' vessels.
-1. Objective C. ...
 
 ## Approach and Plan
 
