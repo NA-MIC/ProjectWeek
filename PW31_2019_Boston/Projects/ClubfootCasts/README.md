@@ -57,6 +57,12 @@ daily living for families with plastic instead of plaster casts.
 ![Some more images](Example2.jpg)
 -->
 
+# Files
+
+3D Models:
+- [Stage 0](Models/stage0.vtk) 
+- [Stage 3](Models/stage3.vtk) 
+
 # Background and References
 
 
