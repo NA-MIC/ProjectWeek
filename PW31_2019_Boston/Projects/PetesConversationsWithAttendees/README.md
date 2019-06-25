@@ -10,8 +10,8 @@ Peter Traneus Anderson looks forward to conversations with, and to learn from, a
 <br>Sonia Pujol
 <br>Rick Sharp
 <br>Nadya Shusharina
-<br>Samantha Hovarth
+<br>Samantha Horvath
 <br>Nick Jowkar
 <br>Hadi Fooladi Talari
 <br>Pooneh Roshanitabrizi
-<br>Ron San_Jose Estepar
+<br>Raul San Jose Estepar
