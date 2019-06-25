@@ -51,7 +51,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 ### Simulation
 
 - [Interactive medical simulation toolkit (IMSTK) integration](Projects/SlicerIMSTK/README.md) (Sam Horvath, Andras Lasso, Tina Kapur)
-- [Virtual reality interactions](Projects/VirtualRealityInteractions/README.md) (Csaba Pinter, Nayra Pumar)
+- [Virtual reality interactions](Projects/VirtualRealityInteractions/README.md) (Csaba Pinter, Nayra Pumar, Clement Mirabel)
 - [Cardiac device placement/deformation simulation](Projects/cardiacdeviceplacementsimulation/README.md) (Sarv, Andras, Sam, Christian)
 - [Virtual reality interface improvements](Projects/Virtualrealityinterfaceimprovement/README.md) (Sarv, Csaba)
 
@@ -99,7 +99,7 @@ Use [template](Breakouts/Template.md):
   - An introduction to OHIF 2.0, a pluggable framework for web based imaging viewing and annotation (Danny, James)
   - Monday 24th, 3pm to 4pm
 - Breakout Session 2:
-  - High resolution, comprehensive atlases of the human brain morphology (Sylvain Bouix)
+  - [High resolution, comprehensive atlases of the human brain morphology](Breakouts/HumanBrainAtlas) (Sylvain Bouix)
   - Tuesday 25th, 9am to 12pm
 - Breakout Session 3:
   - Python usage in modern Slicer (Sam Horvath, Jc, Andras Lasso)
@@ -195,9 +195,11 @@ List of registered participants so far (names will be added here after processin
 1. Randy Gollub, MASSACHUSETTS GENERAL HOSPITAL
 1. Mike Levine, MASSACHUSETTS GENERAL HOSPITAL
 1. Jan Iyer, MASSACHUSETTS GENERAL HOSPITAL
-1. SONIA PUJOL	BRIGHAM AND WOMEN'S HOSPITAL
-1. MATT JOLLEY	CHILDREN'S HOSPITAL OF PHILADELPHIA
-1. RUDOLPH PIENAAR	BOSTON CHILDREN'S HOSPITAL
-
+1. SONIA PUJOL,	BRIGHAM AND WOMEN'S HOSPITAL
+1. MATT JOLLEY,	CHILDREN'S HOSPITAL OF PHILADELPHIA
+1. RUDOLPH PIENAAR,	BOSTON CHILDREN'S HOSPITAL
+1. JUNICHI TOKUDA, BRIGHAM AND WOMEN'S HOSPITAL
+1. TIANYI ZHOU,	NORTHEASTERN UNIVERSITY
+1. LIAM TIMMS,	NORTHEASTERN UNIVERSITY
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 

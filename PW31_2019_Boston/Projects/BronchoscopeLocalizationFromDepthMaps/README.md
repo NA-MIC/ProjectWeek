@@ -34,7 +34,8 @@ The goal is to localize a bronchoscope through the use of depth maps generated f
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. The steps we have already completed is the training and testing of the neural networks used to generate depth maps.
-2. Our next step is to convert depth maps into point clouds, and to use slicer to register the point cloud. 
+2. We have converted a depth map into a point cloud. 
+3. Our next step is to fix the issue we are having regarding the size and location of the point cloud relative to its theoretical position in the phantom lung and to use slicer to register the point cloud. 
 
 # Background and References
 
