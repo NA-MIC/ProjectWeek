@@ -2,6 +2,9 @@ Back to [Project Week](../../README.md)
 
 # Slicer Infrastructure Brainstorming
 
+* 4-5 pm Wednesday Jun 26, 2019
+* Room 32D-407 
+
 ## Organizers
 
 - Steve Pieper (Isomics)
