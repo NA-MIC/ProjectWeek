@@ -25,6 +25,10 @@ to address new use cases and user communities.
   * Goals:
     * data too big for GPU memory
     * data too big for CPU memory
+    * better rendering
+      * multiple volumes
+      * nonlinear transforms
+      * photorealistic effects
   * Possible solutions:
     * paging data to GPU
     * virtual memory
