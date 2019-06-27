@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-The goal of the project is to make progress towards having an in-VR interaction widget that the user can use to drive Slicer features. A home widget gives access to typical VR settings, and provides access to modules (VR'ized version of much used modules from Slicer). The user uses the controller as a laser pointer, which acts as a mouse on the Qt widget shown on the VTK actor that appears in the VR scene. See full description ![here](https://github.com/KitwareMedical/SlicerVirtualReality/issues/43).
+The goal of the project is to make progress towards having an in-VR interaction widget that the user can use to drive Slicer features. A home widget gives access to typical VR settings, and provides access to modules (VR'ized version of much used modules from Slicer). The user uses the controller as a laser pointer, which acts as a mouse on the Qt widget shown on the VTK actor that appears in the VR scene. See full description [here](https://github.com/KitwareMedical/SlicerVirtualReality/issues/43).
 
 ## Objective
 
