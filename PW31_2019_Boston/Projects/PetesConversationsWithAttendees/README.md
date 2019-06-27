@@ -24,4 +24,4 @@ Peter Traneus Anderson looks forward to conversations with, and to learn from, a
 <br>Sheila Sharbetian
 <br>Clement Mirabel
 <br>Steve Pieper
-<br>Daniel Haen
+<br>Daniel Haehn
