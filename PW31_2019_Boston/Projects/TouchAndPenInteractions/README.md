@@ -31,6 +31,9 @@ Implement and integrate robust interactions using both touchscreen gestures and 
 - [Slicer Pull request for adding touchscreen gestures](https://github.com/Slicer/Slicer/pull/1122)
 - Added tablet mode to segment editor
   - Tablet mode rejects regular mouse events and instead only acknowledges tablet events within the segment editor
+  
+- Feedback
+  - Useful to have a button on the tablet that increments/deincrements through the slices
 
 # Illustrations
 
