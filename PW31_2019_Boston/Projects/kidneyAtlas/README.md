@@ -38,5 +38,6 @@ This project focuses on the development of an anatomical atlas of the abdomen an
 3. In the coming days the atlas, in the three languages, will be uploaded to the server
 
 ## Illustrations
+<img src="abdomen.png" width="652" height="356"> 
 
 ## Background and References
