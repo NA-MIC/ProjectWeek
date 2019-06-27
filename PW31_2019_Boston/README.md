@@ -55,8 +55,6 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [Cardiac device placement/deformation simulation](Projects/cardiacdeviceplacementsimulation/README.md) (Sarv, Andras, Sam, Christian)
 - [Virtual reality interface improvements](Projects/Virtualrealityinterfaceimprovement/README.md) (Sarv, Csaba)
 
-
-
 ### Analysis
 
 - [Quantitative Analysis of Human Orbitofrontal-subgenual Circuitry](Projects/QuantitativeAnalysisofHumanOrbitofrontal-subgenualCircuitry/README.md) (Peter Wilson-Braun, Senthil Palanivelu, Lipeng Ning, Yogesh Rathi, Nikos Makris, Nayra Pumar Carreras, Juan Ruiz-Alzola, Juan Andres Ramirez Gonzalez)
@@ -90,6 +88,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [Platform for Medical Robotics Research Based on ROS and 3D Slicer](Projects/ROS-MED/README.md) (Junichi Tokuda)
 - [Slicer extensions with CUDA](Projects/ExtensionsWithCUDA/README.md) (Greg Sharp, Jc)
 - [Transition to GitHub as authoritative version control system](Projects/GithubAsAuthoritativeVersionControlSystem/README.md) (Jc F-R, Andras, Steve)
+- [Slicer on GCP](Projects/SlicerGCP/README.md) (Steve, Christian)
 
 
 ### Breakout Sessions
@@ -138,7 +137,7 @@ List of registered participants so far (names will be added here after processin
 1. ANDREI IRIMIA	,	UNIVERSITY OF SOUTHERN CALIFORNIA
 1. SAMANTHA HORVATH	,	KITWARE INC.
 1. SARV PRIYA	,	UNIVERSITY OF IOWA HOSPITALS & CLINICS
-1. MR. CHRISTIAN HERZ	,	CHILDREN'S HOSPITAL OF PHILADELPHIA
+1. CHRISTIAN HERZ	,	CHILDREN'S HOSPITAL OF PHILADELPHIA
 1. STEVE PIEPER	,	ISOMICS, INC.
 1. OMAR TOUTOUNJI	,	MED-I-LAB, Queens, Canada
 1. SYLVAIN BOUIX	,	BRIGHAM AND WOMEN'S HOSPITAL
