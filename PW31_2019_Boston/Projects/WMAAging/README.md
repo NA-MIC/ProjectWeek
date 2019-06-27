@@ -33,7 +33,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. TBD
+1. The team has made substantial progress on integration UKF tractography and WM labeling tools (BWH team) with existing functionality to identify cerebral microbleeds (USC team). 
+2. An approach to identify, analyze and quantify changes in FA along major WM fasciculi of the brain was agreed upon and prototyped. 
+3. Testing and validation of integrated workflows was performed and the two teams made progress on identifying goals for future collaboration. 
 
 # Illustrations
 
