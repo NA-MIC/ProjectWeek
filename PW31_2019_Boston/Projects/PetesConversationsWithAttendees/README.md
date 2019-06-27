@@ -5,7 +5,7 @@ Peter Traneus Anderson looks forward to conversations with, and to learn from, a
 <br>Ray Liao
 <br>Tina Kapur
 <br>Colton Barr
-<br>Ole Vegard, who told me about anser.io open-source EM tracker project
+<br>Ole Vegard, who told me about https://anser.io open-source EM tracker project
 <br>Katie Mastrogiacomo
 <br>Sonia Pujol
 <br>Rick Sharp
