@@ -22,3 +22,6 @@ Peter Traneus Anderson looks forward to conversations with, and to learn from, a
 <br>Zach Saltzman
 <br>Csaba Pinter
 <br>Sheila Sharbetian
+<br>Clement Mirabel
+<br>Steve Pieper
+<br>Daniel Haen
