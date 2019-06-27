@@ -33,7 +33,9 @@ This project focuses on the development of an anatomical atlas of the abdomen an
 
 ## Progress and Next Steps
 
-1. 
+1. Abdomen segmentation has been already completed, covering from pelvis to diaphragm
+2. Element names have been translated to english, french and spanish
+3. In the coming days the atlas, in the three languages, will be uploaded to the server
 
 ## Illustrations
 
