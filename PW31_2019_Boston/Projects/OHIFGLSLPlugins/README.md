@@ -29,9 +29,9 @@ Make use of the OHIF plugin infrstructure.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Working example of GLSL grow cut implemented before project week used as topic for discussion
+1. Developed plans for further integration with OHIF plugin architecture
+1. Explored sharing of GLSL code between OHIF and Slicer (via VTK GPU classes with Kyle)
 
 # Illustrations
 
