@@ -43,7 +43,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-
+<img src="FrenchGUISlicer.png" width="652" height="356"> 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
