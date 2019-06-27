@@ -47,3 +47,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+1.
+2.Isaiah Norton, Ibn Essayed, Fan Zhang, Sonia Pujol, Alex Yarmarkovich, Alexandra Golby, Gordon Kindlmann, Demian Wasserman, Raul San José Estepar, Yogesh Rathi, Steve Pieper, Ron Kikinis, Hans Johnson, Carl-Fredrik Westin, and Lauren J. O'Donnell. 2017. “SlicerDMRI: Open Source Diffusion MRI Software for Brain Cancer Research.” Cancer Research, 77, 21, Pp. e101–103.
+3.Fan Zhang, Ye Wu, Isaiah Norton, Laura Rigolo, Yogesh Rathi, Nikos Makris, and Lauren J. O'Donnell. 2018. “An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan.” NeuroImage, 179, Pp. 429-447.
+
+
