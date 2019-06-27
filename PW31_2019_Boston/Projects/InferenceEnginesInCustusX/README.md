@@ -37,7 +37,7 @@ We ended up using the [OpenVINO Toolkit](https://docs.openvinotoolkit.org/) dire
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-[Processed example image](namic_inference.jpg)
+![Processed example image](namic_inference.jpg)
 
 # Background and References
 
