@@ -28,7 +28,7 @@ Running trained Deep Learning networks with inference engines. The focus will be
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 The task of implementing support for multiple inference engines proved too large for Project Week. 
-We ended up using only the [OpenVINO Toolkit](https://docs.openvinotoolkit.org/) directly. The OpenVINO inference engine allows us to run the trained networks on the various Intel devices (CPU, GPU, FPFA, Movidius Stick, ...), so this choice still provides us with a decent multi-platform solution.
+We ended up using the [OpenVINO Toolkit](https://docs.openvinotoolkit.org/) directly. The OpenVINO inference engine allows us to run the trained networks on the various Intel devices (CPU, GPU, FPFA, Movidius Stick, ...), so this choice still provides us with a decent multi-platform solution.
 
 
 # Illustrations
@@ -37,6 +37,7 @@ We ended up using only the [OpenVINO Toolkit](https://docs.openvinotoolkit.org/)
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+[Processed example image](namic_inference.jpg)
 
 # Background and References
 
