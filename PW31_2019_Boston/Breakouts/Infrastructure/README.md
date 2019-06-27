@@ -53,4 +53,17 @@ to address new use cases and user communities.
 
 <!-- To be filled out after the event. -->
 
+###Volume Rendering
+* Need to fix GPU use cases first
+  - better error / warning messages
+  - on-the-fly resampling to fit in memory
+* Sweet spot seems to be looking at pyramid encoding options
+  - file formats like HDF 5 
+  - servers like dicomweb for larger data
+  - there's some precedent but nothing completely standard at the moment
+  
+###Keyframing
+* Good to build on ScreenCapture and Sequences
+* See if we can build something 'simple' something like powerpoint build effects in ScreenCapture
+* Longer term project to build a nice keyframe/timeline slider (Kitware will follow up with Murat on that)
 
