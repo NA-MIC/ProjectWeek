@@ -67,5 +67,5 @@ create plugins for OHIF, and also to create custom projects like [prostatecancer
 
 Info websites:
 
-- [OHIF Dicom Viwer](https://docs.ohif.org/)
+- [OHIF Dicom Viewer](https://docs.ohif.org/)
 - [CTK Widgets](http://www.commontk.org/index.php/Documentation/ImageGallery)

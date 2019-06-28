@@ -19,7 +19,7 @@ My expertise is in Girder and scalable cloud based processing. I will give a ~15
 
 ### General thoughts
 
-Commercial cloud services are good for experimentation without long term committment, and are useful when you need to have dynamic and elastic scaling. The providers are constantly rolling out new services, and there is a large amount of expertise encoded into these services (e.g. compare the cost of using AWS Elastic Load Balancer versus the time to gain the expertise of knowing how to run a load balancer), but the accounting model may have a mismatch with grant funded research (e.g. it may be easier to pay for an hour of someone's time to build a service versus paying for an hour of a cloud based service, even though the cloud based service is much cheaper in this comparison).
+Commercial cloud services are good for experimentation without long term commitment, and are useful when you need to have dynamic and elastic scaling. The providers are constantly rolling out new services, and there is a large amount of expertise encoded into these services (e.g. compare the cost of using AWS Elastic Load Balancer versus the time to gain the expertise of knowing how to run a load balancer), but the accounting model may have a mismatch with grant funded research (e.g. it may be easier to pay for an hour of someone's time to build a service versus paying for an hour of a cloud based service, even though the cloud based service is much cheaper in this comparison).
 
 To realize the full power of the cloud, a different mindset is in order compared to purchased hardware and software. Think about using extremely powerful and expensive cloud resources for a very short period of time, or using many more resources in the short term than you would otherwise. 
 
@@ -70,7 +70,7 @@ Kitware has had good luck with
 * [Terraform](https://www.packer.io/intro/index.html) - creates infrastructure, can target AWS, GCP, OpenStack
 * [Ansible](https://www.ansible.com/) - configures and provisions software, as long as you have SSH and root access
 * [Packer](https://www.packer.io/intro/index.html) - package provisioned compute resources into VMs, Vagrant files, Docker images, AMIs
-* [Docker](https://www.docker.com/) - package executables and dependecies into a self-contained and portable container
+* [Docker](https://www.docker.com/) - package executables and dependencies into a self-contained and portable container
 
 We use these technologies for our project deployments, and have built reusable tooling on top of them for Girder and Resonant tools.
 

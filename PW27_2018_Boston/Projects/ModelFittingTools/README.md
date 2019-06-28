@@ -36,7 +36,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Progress and Next Steps
 
-1. Identified main components in processing pipline to be seperated and made open for extension.
+1. Identified main components in processing pipline to be separated and made open for extension.
 1. Discussed refactoring options/software architecture.
 1. Identified errors in current computations.
 1. Refactored main component.

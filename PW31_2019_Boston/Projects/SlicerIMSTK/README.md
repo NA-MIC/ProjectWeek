@@ -14,7 +14,7 @@ For this project, we are working on integrating the Interactive Medical Simulati
 
 ## Objective
 
-Our goal for poject week is to have a working extension that demos an iMSTK simulation
+Our goal for project week is to have a working extension that demos an iMSTK simulation
 
 ## Approach and Plan
 

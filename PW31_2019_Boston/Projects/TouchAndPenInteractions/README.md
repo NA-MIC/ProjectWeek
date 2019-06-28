@@ -27,7 +27,13 @@ Implement and integrate robust interactions using both touchscreen gestures and 
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 - [VTK pull request for fixing touchscreen gestures](https://gitlab.kitware.com/vtk/vtk/merge_requests/5679)
+  - [Video of touch interactions in VTK](https://youtu.be/fpnqsDmJ0Y8)
 - [Slicer Pull request for adding touchscreen gestures](https://github.com/Slicer/Slicer/pull/1122)
+- Added tablet mode to segment editor
+  - Tablet mode rejects regular mouse events and instead only acknowledges tablet events within the segment editor
+  
+- Feedback
+  - Useful to have a button on the tablet that increments/deincrements through the slices
 
 # Illustrations
 
@@ -38,4 +44,5 @@ Implement and integrate robust interactions using both touchscreen gestures and 
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+- [WIP Slicer branch](https://github.com/Sunderlandkyl/Slicer/tree/gesture_interaction4) 
+- [WIP VTK branch](https://github.com/Sunderlandkyl/VTK/tree/slicer_qt_gestures2)

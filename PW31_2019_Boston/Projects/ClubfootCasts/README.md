@@ -32,20 +32,39 @@ daily living for families with plastic instead of plaster casts.
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. 3D Scaning of the clubfoot cast
+1. 3D Scanning of the clubfoot cast
 1. Loading the 3D model into Slicer
 1. Selecting anatomical landmark points on the 3D model
 1. Deforming the clubfoot 3D model through provided controls and widgets for printing next cast
 1. 3D printing the deformed clubfoot model
 1. Repeating the process until printing the normal cast
 
+![Approach](Approach.png) 
+
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. 3D Scan of normal and clubfoot phantoms
-1. ...
-1. ...
+- **3D Scan**
+  - Using off the shelf 3D scanners
+  - Molding the foot and using CT scan 
+  - Using motion capture cameras/techniques
+  - Using a parametrized generic 3D model (No need to scan)
+
+- **Measurement**
+
+- **Deformation**
+  - Using skeletal animation available in 3D modeling applications
+  - Using sumulation applications like **OpenSim**
+  - Using **OsteotomyPlanner** slicer extension
+
+| Before | After|
+|--------|------|
+| <img src="Before.png" alt="Before" width="300"/> | <img src="After.png" alt="After" width="300"/> |
+
+- **3D Print** 
+  - Cost Effectiveness
+  - Easy to apply/remove
 
 # Illustrations
 
@@ -54,6 +73,12 @@ daily living for families with plastic instead of plaster casts.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+
+# Files
+
+3D Models:
+- [Stage 0](Models/stage0.vtk) 
+- [Stage 3](Models/stage3.vtk) 
 
 # Background and References
 

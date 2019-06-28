@@ -1,9 +1,13 @@
 # Welcome to the web page for the 31st Project Week!
 
+![](IntroPanorama.jpg)
+
 The 31st NA-MIC Project Week will be held during the week of June 24-28, 2019 at MIT, Boston USA.
 
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
+
+View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://projectweek.na-mic.org/PW31_2019_Boston/)
 
 ## Logistics
 - **Dates:** June 24-28, 2019
@@ -13,24 +17,6 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [Frequently Asked Questions](https://projectweek.na-mic.org/#frequently-asked-quesions)
 - **Slack Channel:** [Invite Link](https://join.slack.com/t/namic-projectweek/shared_invite/enQtNjY5MDEwMDMxMDcyLTkyNjA4MmQxMjFkZWNmMTMwNjliYzk5ZGExZTdiNmJlZWFjNzE0MWRiMmYzMTIzNzk0NDVkNWM3MGIzMDlkMTU) 
 
-## Preparatory Videoconferences
-
-
-<table><tr>
-    <td>
-        <img src="zoom-photo-2019-05-07.png">
-    </td>
-    <td>
-        <ul>
-            <li>
-                Zoom video conference: <a href="https://zoom.us/j/692997791">To join the videoconference</a>
-            </li>
-            <li>
-<a href="https://github.com/NA-MIC/ProjectWeek/blob/master/PW31_2019_Boston/PreparatoryMeetingsNotes.md">Conference call notes</a>
-            </li>
-        </ul>
-    </td>
-</tr></table>
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 <a name="ProjectsList"/>
@@ -38,40 +24,44 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Segmentation
 
-- [Touch and pen interactions](Projects/TouchAndPenInteractions/README.md) (Kyle Sunderland, Jarett Rushmore)
-- [PolySeg in the browser](Projects/PolySeg4Web/README.md) (Erik, Jc, Csaba Pinter)
 - [Neuroanatomical segmentation](Projects/NeuroSegmentation/README.md) (Sylvain Bouix, Jarett Rushmore, Kyle Sunderland, Andras Lasso)
-- [Sulci Tracing on a Surface](Projects/SurfaceSulciTracing/README.md) (Sylvain Bouix, ...)
-- [OHIF Viewer: Extension and module support, with example contour/segmentation extension](Projects/OHIFPluginArchitecture/README.md) (Danny, James, Erik, Steve)
-- [OHIF GLSL Plugins](Projects/OHIFGLSLPlugins/README.md) using WebGL / GLSL shaders to make tools for segmentation in the browser (GrowCut) (Steve, James, Danny, Erik)
-- [Multi time point cardiac sequence segmentation](Projects/Multitimepointcardiacsegmentation/README.md) (Sarv, Andras)
-- [BabySteps: 3D Printing Using Slicer for creating clubfoot casts](Projects/ClubfootCasts/README.md) (Hadi Fooladi, Pooneh Roshanitabrizi, Steve Pieper, Kevin Cleary)
+- [Touch and pen interactions](Projects/TouchAndPenInteractions/README.md) (Kyle Sunderland, Jarett Rushmore)
+- [PolySeg in the browser](Projects/PolySeg4Web/README.md) (Steve, Erik, Jc, Csaba Pinter)
+- [OHIF Viewer: Extension and module support, with example contour/segmentation extension](Projects/OHIFPluginArchitecture/README.md) (Danny, James, Erik, Steve, Mete)
+- [OHIF GLSL Plugins](Projects/OHIFGLSLPlugins/README.md) using WebGL / GLSL shaders to make tools for segmentation in the browser (GrowCut) (Steve, James, Danny, Erik, Mete)
+- [Whole heart segmentation for congenital heart disease](Projects/chdseg/README.md) (Danielle Pace)
+- [Multi time point cardiac sequence segmentation](Projects/MultiTimePointCardiacSegmentation/README.md) (Sarv, Andras)
 - [Segmentation based statistics/visualization of 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/SegmentationStatisticsSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola)
 - [Segmentation overlay for prostatecancer.ai](Projects/SegOverlay_ProstateCancerAI/README.md) (Omar, James, Steve, Erik, Anneke, Alireza)
+- [BabySteps: 3D Printing Using Slicer for creating clubfoot casts](Projects/ClubfootCasts/README.md) (Hadi Fooladi, Pooneh Roshanitabrizi, Steve Pieper, Kevin Cleary)
+- [Outlining and level-tracing filters for VTK.js](Projects/VTK_Js_OutlineFilter/README.md) (Andrzej, Alfredo, Charles)
 
 ### Registration
 
-- [Placenta flattening and visualization in Slicer](Projects/Placenta-Flattening/README.md) (Maz, Steve, Polina)
+- [Placenta flattening and visualization in Slicer](Projects/Placenta-Flattening/README.md) (Maz Abulnaga, Steve Pieper, Polina Golland)
 - [Registration of Intel RealSense depth camera image to CT + marker based tracking](Projects/RealSensePatientRegistration/README.md) (Colton Barr, Andras Lasso, Steve Pieper)
 - [Establishing Feature Correspondences between ultrasound images acquired at different time points during brain tumor resection](Projects/UltrasoundFeatureCorrespondence/README.md) (Nick Jowkar, Clement Mirabel, Sarah Frisken, Tina Kapur)
+- [Bronchoscope Localization From Depth Map](Projects/BronchoscopeLocalizationFromDepthMaps/README.md) (Shelly Liu, Jonah Berg, Franklin King)
 
+### Open Anatomy
+
+- [Export models to glTF file](Projects/glTFExport/README.md) (Andras Lasso, Csaba Pinter, Mike Halle)
+- [Abdomen and male pelvis atlas](Projects/kidneyAtlas/README.md) (Babacar Diao, Nayra Pumar, Mike Halle)
 
 ### Simulation
 
-- [Cardiac device placement/deformation simulation](Projects/cardiacdeviceplacementsimulation/README.md) (Sarv, Andras, Sam, Christian)
 - [Interactive medical simulation toolkit (IMSTK) integration](Projects/SlicerIMSTK/README.md) (Sam Horvath, Andras Lasso, Tina Kapur)
+- [Virtual reality interactions](Projects/VirtualRealityInteractions/README.md) (Csaba Pinter, Nayra Pumar, Clement Mirabel)
+- [Cardiac device placement/deformation simulation](Projects/cardiacdeviceplacementsimulation/README.md) (Sarv, Andras, Sam, Christian)
 - [Virtual reality interface improvements](Projects/Virtualrealityinterfaceimprovement/README.md) (Sarv, Csaba)
-- [Virtual reality interactions](Projects/VirtualRealityInteractions/README.md) (Csaba Pinter, Nayra Pumar, ?)
-
-
+- [FEniCS integration](Projects/SlicerFEniCS/README.md) (Ben Zwick, Sam Horvath, Jc, Andras Lasso)
 
 ### Analysis
 
-- [Quantitative Analysis of Human Orbitofrontal-subgenual Circuitry](Projects/QuantitativeAnalysisofHumanOrbitofrontal-subgenualCircuitry/README.md) (Nayra Pumar Carreras, Juan Ruiz-Alzola, Juan Andres Ramirez Gonzalez, Peter Wilson-Braun, Senthil Palanivelu, Lipeng Ning, Yogesh Rathi, Nikos Makris)
+- [Quantitative Analysis of Human Orbitofrontal-subgenual Circuitry](Projects/QuantitativeAnalysisofHumanOrbitofrontal-subgenualCircuitry/README.md) (Peter Wilson-Braun, Senthil Palanivelu, Lipeng Ning, Yogesh Rathi, Nikos Makris, Nayra Pumar Carreras, Juan Ruiz-Alzola, Juan Andres Ramirez Gonzalez)
+- [Clinical trajectory visualization based on edema quantification from chest x-ray](Projects/EdemaQuantification/README.md) )(Not around on Friday) (Ray Liao, Steve Pieper, Polina Golland)
 
-### DICOM
 
-- [Improve DICOM import for 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/DICOMImportSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola)
 
 ### Diffusion MRI
 
@@ -80,29 +70,54 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - [Joint dMRI and fMRI analysis: fMRI data curation](Projects/dMRfMRI/README.md) (Laura Leung, Fan Zhang, Lauren J O'Donnell)
 - [White Matter Analysis in the Aging Human Brain](Projects/WMAAging/README.md) (Andrei Irimia, Fan Zhang, Lauren J O'Donnell)
 
+### DICOM
+
+- [Improve DICOM import for 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of metabolites](Projects/DICOMImportSpectroscopy/README.md) (Francisco Marcano, José Luis González Mora, Juan Ruiz-Alzola, Steve Pieper)
+- [Create DICOM object for 3D volume to represent clinical target volume](Projects/DICOM_object_for_3D_structures/README.md) (Nadya Shusharina, Csaba Pinter)
+
 ### Infrastructure
 
 - [VTK filters running on GPU](Projects/GLSLShaders/README.md) (Kyle Sunderland, Steve Pieper)
-- Improved volume rendering (Andras, Kyle, Steve, Matt, Christian)
+- [Improved volume rendering](Projects/VolumeRenderingImprovements/README.md) (Andras, Kyle, Steve, Matt, Christian)
 - [Globalization in 3D Slicer and OHIF](Projects/Globalization3DSlicer_OHIF/README.md) (José-Carlos Ruiz-Luque, Jc, Erik, Juan Ruiz-Alzola)
 - [Connect SPINE and XNAT](Projects/Connect_SPINE_and_XNAT/README.md) (Alfredo, Andrzej, Andras, Charles)
 - [Python Package Management](Projects/PythonPackages/README.md) (Sam Horvath, Jc F-R , Steve Pieper, Andras Lasso)
-- OpenIGTLinkIO Development (Ole Vegard, Janne)
-- Running trained Deep Learning networks, focus on CustusX (Ole Vegard, Janne)
+- [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Ole Vegard, Janne, Kyle Sunderland)
+- [Implementing support for running inference engines in CustusX](Projects/InferenceEnginesInCustusX/README.md) (Ole Vegard, Janne)
 - [SlicerCIP migration](Projects/SlicerCIP/README.md) (Jorge Onieva, Pietro Nardelli, Raúl San José)
+- [Conversations with attendees](Projects/PetesConversationsWithAttendees/README.md) (Peter Traneus Anderson)
+- [Platform for Medical Robotics Research Based on ROS and 3D Slicer](Projects/ROS-MED/README.md) (Junichi Tokuda)
+- [Slicer extensions with CUDA](Projects/ExtensionsWithCUDA/README.md) (Greg Sharp, Jc)
+- [Transition to GitHub as authoritative version control system](Projects/GithubAsAuthoritativeVersionControlSystem/README.md) (Jc F-R, Andras, Steve)
+- [Slicer on GCP](Projects/SlicerGCP/README.md) (Steve, Christian)
 
-### Open Anatomy
-
-- Export from Slicer (Andras, Csaba, Mike)
-- [Kidney and male pelvis atlas](Projects/kidneyAtlas/README.md) (Babacar Diao, Nayra Pumar)
 
 ### Breakout Sessions
 
-- Breakout Session 1: An introduction to OHIF 2.0, a plugable framework for web based imaging viewing and annotation (Danny, James)
-- Breakout Session 2: High resolution, comprehensive atlases of the human brain morphology (Sylvain Bouix)
-- Breakout Session 3: Python usage in modern Slicer (Jc, Sam Horvath, Andras Lasso)
-- Breakout Session 4: Infrastructure Brainstorming: Large Volume Support, Key frame animation (Steve Pieper, Andras Lasso, Jc)
-- Breakout Session 5: Data Management: Girder, XNAT (Andras Lasso)
+Use [template](Breakouts/Template.md):
+- Breakout Session 1:
+  - An introduction to OHIF 2.0, a pluggable framework for web based imaging viewing and annotation (Danny, James)
+  - Monday 24th, 3pm to 4pm
+- Breakout Session 2:
+  - [High resolution, comprehensive atlases of the human brain morphology](Breakouts/HumanBrainAtlas) (Sylvain Bouix)
+  - Tuesday 25th, 9am to 12pm
+- Breakout Session 3:
+  - Python usage in modern Slicer (Sam Horvath, Jc, Andras Lasso)
+  - Wednesday 26th, 3pm to 4pm
+- Breakout Session 4:
+  - [Infrastructure Brainstorming](Breakouts/Infrastructure): Large Volume Support, Key frame animation (Steve Pieper, Andras Lasso, Jc)
+  - Wednesday 26th, 4pm to 5pm
+- Breakout Session 5:
+  - [Data Management](Breakouts/DataManagement): Girder, XNAT, DICOMweb (Andras Lasso, Steve Pieper)
+  - Thursday 27th, 10:30am to 11:30am
+
+
+## Program Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?mode=WEEK&dates=20190624%2F20190628&src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+[How to add this calendar to your own?](../common/Calendar.md)
+
 
 ## Registrants
 
@@ -123,7 +138,7 @@ List of registered participants so far (names will be added here after processin
 1. ANDREI IRIMIA	,	UNIVERSITY OF SOUTHERN CALIFORNIA
 1. SAMANTHA HORVATH	,	KITWARE INC.
 1. SARV PRIYA	,	UNIVERSITY OF IOWA HOSPITALS & CLINICS
-1. MR. CHRISTIAN HERZ	,	CHILDREN'S HOSPITAL OF PHILADELPHIA
+1. CHRISTIAN HERZ	,	CHILDREN'S HOSPITAL OF PHILADELPHIA
 1. STEVE PIEPER	,	ISOMICS, INC.
 1. OMAR TOUTOUNJI	,	MED-I-LAB, Queens, Canada
 1. SYLVAIN BOUIX	,	BRIGHAM AND WOMEN'S HOSPITAL
@@ -165,12 +180,28 @@ List of registered participants so far (names will be added here after processin
 1.	ANDRZEJ MARCINIAK	,	BRIGHAM AND WOMEN'S HOSPITAL
 1.	GHULAM MUBASHAR HASSAN	,	UNIVERSITY OF WESTERN AUSTRALIA
 1.	BABACAR DIAO	,	UNIVERSITY CHEIKH ANTA DIOP AND THE MEDICINE MILITARY SCHOOL
-
+1.	MAREK KUBICKI	,	BRIGHAM AND WOMEN'S HOSPITAL
+1.	YOGESH RATHI	,	BRIGHAM AND WOMEN'S HOSPITAL
+1.	LAUREN O'DONNELL	,	BRIGHAM AND WOMEN'S HOSPITAL
+1.	FAN ZHANG	,	BRIGHAM AND WOMEN'S HOSPITAL
+1.	MENGYING ZHANG	,	BRIGHAM AND WOMEN'S HOSPITAL
+1.	LAURA LEUNG	,	BRIGHAM AND WOMEN'S HOSPITAL
+1.	RAUL SAN JOSE ESTEPAR	,	BRIGHAM AND WOMEN'S HOSPITAL
+1.	JORGE ONIEVA ONIEVA	,	BRIGHAM AND WOMEN'S HOSPITAL
+1.	SENTHIL PALANIVELU	,	MASSACHUSETTS GENERAL HOSPITAL
+1.	DI FAN	,	UNIVERSITY OF SOUTHERN CALIFORNIA
+1. JONAH BERG,	BRIGHAM AND WOMEN'S HOSPITAL
+1. SHELLY LIU,	BRIGHAM AND WOMEN'S HOSPITAL
+1. Randy Gollub, MASSACHUSETTS GENERAL HOSPITAL
+1. Mike Levine, MASSACHUSETTS GENERAL HOSPITAL
+1. Jan Iyer, MASSACHUSETTS GENERAL HOSPITAL
+1. SONIA PUJOL,	BRIGHAM AND WOMEN'S HOSPITAL
+1. MATT JOLLEY,	CHILDREN'S HOSPITAL OF PHILADELPHIA
+1. RUDOLPH PIENAAR,	BOSTON CHILDREN'S HOSPITAL
+1. JUNICHI TOKUDA, BRIGHAM AND WOMEN'S HOSPITAL
+1. TIANYI ZHOU,	NORTHEASTERN UNIVERSITY
+1. LIAM TIMMS,	NORTHEASTERN UNIVERSITY
+1. SARAH FRISKEN,	BRIGHAM AND WOMEN'S HOSPITAL
+1. SRINIVAS SRIDHAR,	NORTHEASTERN UNIVERSITY
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
-
-## Program Calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?mode=WEEK&dates=20190624%2F20190628&src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-[How to add this calendar to your own?](../common/Calendar.md)
 

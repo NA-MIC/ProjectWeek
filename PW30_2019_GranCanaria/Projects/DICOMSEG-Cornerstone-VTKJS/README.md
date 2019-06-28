@@ -40,7 +40,7 @@ utilizing dcmjs for IO. This project is the logical continuation of [a previous 
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Added adapters to `dcmjs` that wrap the `Segmentation` class for easy IO in `Cornerstone`. These adapters switch between `cornerstoneTools` formated data and DICOM SEG, without adding `Cornerstone` as a dependency for `dcmjs`. Only binary SEGs for now.
+1. Added adapters to `dcmjs` that wrap the `Segmentation` class for easy IO in `Cornerstone`. These adapters switch between `cornerstoneTools` formatted data and DICOM SEG, without adding `Cornerstone` as a dependency for `dcmjs`. Only binary SEGs for now.
 2. Built a bridge in a simple example viewer that shares a common buffer for segmentation data between `Cornerstone` and `vtkjs` viewports.
 3. Synced interactive painting of segmentation data (labelmap) between `Cornerstone` and `vtkjs`.
 4. We have 3D visualisation of the the SEG leveraging `vtkjs`, rendering the shared `vtkjs`/`Cornerstone` seg buffer.

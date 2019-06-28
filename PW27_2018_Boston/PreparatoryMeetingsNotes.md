@@ -67,7 +67,7 @@ These are notes from PW#27 Preparation Hangouts held weekly on Tuesdays at 10am 
   * Registration page to be done
   * Andras agreed to provide segmentation help
     * Tina wants to organize it
-    * Participants will be asked to provide sharable test data and to post results / tutorial on discourse site
+    * Participants will be asked to provide shareable test data and to post results / tutorial on discourse site
 
 ## Hangout #1: November 7th, 2017
 

@@ -4,14 +4,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Sarv Priya 1 (University of Iowa)
-- Andras Lasso 2 (Queens University)
-- Sam 3 (Affiliation)
-- Christian 4 (Affiliation)
+- Sarv Priya (University of Iowa)
+- Andras Lasso (Queens University)
+- Sam Horvath (Kitware)
+- Christian Hertz (Children's Hospital Philadelphia)
 
 # Project Description
 
-<Pre-operative device placement holds a potential to characterize the anatomical relationship of cardiac device (valve/catheter) to the surrounding structures before actual surgery. The deformation and displacement of the device across the cardia cycle can also be assesed pre-operatively. 
+Pre-operative device placement holds a potential to characterize the anatomical relationship of cardiac device (valve/catheter) to the surrounding structures before actual surgery. The deformation and displacement of the device across the cardia cycle can also be assesed pre-operatively. 
 
 ## Objective
 

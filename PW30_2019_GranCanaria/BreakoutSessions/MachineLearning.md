@@ -21,7 +21,7 @@ Interventional applications (Andras Lasso):
 - Use cases: continuous ultrasound segmentation, object detection in video or ultrasound stream
 - Low latency is important, processing must happen locally
 - Platform: Windows, anaconda, TensorFlow, Keras
-- Classify images and seperate into training, validation and testing datasets using Jupyter Notebook
+- Classify images and separate into training, validation and testing datasets using Jupyter Notebook
 - First approach saved images local machine. Image was detected and the prediction was written to a file to be read by Slicer. Significant delay due to file reading/writing/change detection (turnaround time is about a second).
 - Second approach streams image data to Keras using OpenIGTLink and return classification along the same connection.
 - OpenIGTLink implementation for Python: https://github.com/SlicerIGT/pyIGTLink

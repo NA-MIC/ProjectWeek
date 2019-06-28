@@ -39,7 +39,7 @@ The FDA provides Guidance documents online. These are guidelines to help you pre
 
 ### Documentation Requirements
 
-A quality system needs to be in place that includes a software standard operating procedure document. It will detail your software release procedures that will have to be followed to release a vesion for the application.
+A quality system needs to be in place that includes a software standard operating procedure document. It will detail your software release procedures that will have to be followed to release a version for the application.
 
 In the Software section of the 510(k) application you have to provide:
 * Risk Analysis
@@ -50,7 +50,7 @@ In the Software section of the 510(k) application you have to provide:
 
 | Name    | Description | How Used in the Software |
 | ------- | ----------- | ------------------------ |
-| 3D Slicer 4.6.2 | url, description from web page | ... uses the visualization and data struture of 3D Slicer. ... uses the following modules from 3D Slicer: DICOM database, 2D and 3D image data structures, loading, and visualization modules( list). It also contains the VTK, ITK and Slicer Execution Model libraries that are used. |
+| 3D Slicer 4.6.2 | url, description from web page | ... uses the visualization and data structure of 3D Slicer. ... uses the following modules from 3D Slicer: DICOM database, 2D and 3D image data structures, loading, and visualization modules( list). It also contains the VTK, ITK and Slicer Execution Model libraries that are used. |
 | CTK # | |
 | Qt # | |
 | etc | |

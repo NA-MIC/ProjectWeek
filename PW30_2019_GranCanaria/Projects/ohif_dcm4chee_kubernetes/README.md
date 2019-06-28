@@ -105,7 +105,7 @@ platform did you use to test those steps? I am on macOS 10.14.2.
 - Keycloak running
 - Basic user authentication running
 - We changed plans to change the "old" OHIF viewer to the newer react-based implementation
-- Work in progress to dockerize the viewer and get it runnung with a url- prefix
+- Work in progress to dockerize the viewer and get it running with a url- prefix
 
 ### Project repo and information
 
@@ -164,7 +164,7 @@ To push an example image to DCM4CHE with the **dcm4che-tools docker container**:
 
 Info websites:
 
-[OHIF Dicom Viwer](https://docs.ohif.org/)
+[OHIF Dicom Viewer](https://docs.ohif.org/)
 [DCM4Chee](https://github.com/dcm4che/dcm4chee-arc-light)
 [Keycloak](https://www.keycloak.org/about.html)
 [Security Proxy](https://www.keycloak.org/docs/3.3/server_installation/topics/proxy.html)

@@ -19,7 +19,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-1. Brainstorming the usefull utilities for mpMRI reading of prostate
+1. Brainstorming the useful utilities for mpMRI reading of prostate
 1. Exploring dcmjs library
 
 

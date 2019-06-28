@@ -17,7 +17,7 @@ This project will focus on improving the python package management in Slicer (i.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-The objective is to have a consistent interface / process for installing patyhon packages across Slicer (extensions and in the pyton interactor)
+The objective is to have a consistent interface / process for installing patyhon packages across Slicer (extensions and in the python interactor)
 
 
 
@@ -25,9 +25,12 @@ The objective is to have a consistent interface / process for installing patyhon
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 1. Create a slicer.util.pip function (or equivalent architecture) for accessing pip install from scripts or the interactor
-  * Investigate use of vitual environments in Slicer
+  * Investigate use of virtual environments in Slicer
 2. Extension python package automatic install
   * Post-install packages using a hook for requirements.txt
+3. Document experience installing and using various python packages in Slicer
+  * which ones work well with no problems
+  * what properties of some packages lead to problems (e.g. conflicting dependencies)
  
 
 ## Progress and Next Steps
@@ -50,4 +53,4 @@ The objective is to have a consistent interface / process for installing patyhon
 ### Discourse Dicussions
   * [Automatic Install of Python Packages](https://discourse.slicer.org/t/automatic-install-of-python-packages/7078)
   * [Python3 Switch and Package Install](https://discourse.slicer.org/t/python3-switch-and-python-package-install/6534)
-  * [Proper way to install Pyton Packages](https://discourse.slicer.org/t/proper-way-to-automatically-install-external-python-modules/2559)
+  * [Proper way to install Python Packages](https://discourse.slicer.org/t/proper-way-to-automatically-install-external-python-modules/2559)

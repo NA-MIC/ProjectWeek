@@ -18,17 +18,24 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-- Evaluate vtkGPUImageData based filters ([Source](https://github.com/Sunderlandkyl/Slicer/tree/gpu_fractional_2))
+- [Progress made at last project week](../../../PW28_2018_GranCanaria/Projects/GLSLShaders/README.md)
+- Evaluate vtkGPUImageData based filters ([Source](https://github.com/Sunderlandkyl/VTK/tree/vtkGPUImageFilter2))
 
 ## Progress and Next Steps
 
-- [Progress made at last project week](../../../PW28_2018_GranCanaria/Projects/GLSLShaders/README.md)
+- Implemented GLSL based bilateral filter
+- Started implementing infrastructure required for rendering to multiple targets in order to support GPU growcut algorithm 
 
 ### Result
 
-- To be completed
+- SimpleITK bilateral filter: 8 min 36 seconds
+- GLSL bilateral filter: 1.5 seconds 
+ <img src="Bilateral1.png" alt="BilateralFilterExample" width="500"/>
 
 # Illustrations
+
+- Example of vtkGPUShaderAlgorithm pipline ([ShaderAlgorithm](https://github.com/Sunderlandkyl/VTK/blob/vtkGPUImageFilter2/Examples/ShaderAlgorithm/Cxx/ShaderAlgorithm.cxx))
+ <img src="ShaderAlgorithm1.png" alt="ShaderAlgorithm" width="500"/>
 
 | Philips 3D US | Chroma-depth in PRISM | Depth peeling in PRISM |
 | --- | --- | --- |
@@ -38,5 +45,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
-- [Source code](https://github.com/Sunderlandkyl/Slicer/tree/gpu_fractional_2)
-- [Work at the previous Project Week](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/MultiVolumeRendering/)
+- [Slicer source code](https://github.com/Sunderlandkyl/Slicer/tree/gpu_fractional_3)
+- [VTK source code](https://github.com/Sunderlandkyl/VTK/tree/vtkGPUImageFilter3)
+- [Bilateral filter extension](https://github.com/Sunderlandkyl/SlicerSandbox/tree/master/GPUTest)

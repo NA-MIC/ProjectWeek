@@ -14,7 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Approach and Plan
 
 1. Segmentation of the lateral ventricles of the brain using watershed module of the 3D Slicer.
-2. Transfering the atlas and standard masks from the lobes to the subject space.
+2. Transferring the atlas and standard masks from the lobes to the subject space.
 3. Finding the boundary voxels of the mask obtained from atlases and registration to the subject space, and match them with the partial voumes of the lateral ventricles that lie within the mask.
 
 ## Progress and Next Steps

@@ -23,7 +23,7 @@ This project focuses on designing and implementing an intelligent and adaptive M
 
 ## Objective
 
-The objective is to create a MIS training simulation system, allowing an individual to gain relavent MIS operative skills based on his/her own abilities and capabilities.
+The objective is to create a MIS training simulation system, allowing an individual to gain relevant MIS operative skills based on his/her own abilities and capabilities.
 
 1. Objective A. Design MIS related, and game based, tasks
 1. Objective B. Simulate the movement of the physical instruments inside the game
@@ -32,9 +32,9 @@ The objective is to create a MIS training simulation system, allowing an individ
 ## Approach and Plan
 
 1. Designing user-interface and Unity based games, to simulate MIS conditions 
-1. Implimentation and use of the metrices from the PerkTutor and SlicerIGT 
+1. Implementation and use of the metrices from the PerkTutor and SlicerIGT 
 1. Synchronisation of the MIS instruments (optical tracker) with the Unity based game
-1. Exploration and implimentation of AI methods (Student modelling, intelligent tutoring system) for the game application
+1. Exploration and implementation of AI methods (Student modelling, intelligent tutoring system) for the game application
 
 ## Progress and Next Steps
 

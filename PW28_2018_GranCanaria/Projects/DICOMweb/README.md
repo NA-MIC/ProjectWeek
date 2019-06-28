@@ -80,7 +80,7 @@ Here's an example endpoint for testing:
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- [DICOMweb offical site](https://www.dicomstandard.org/dicomweb/)
+- [DICOMweb official site](https://www.dicomstandard.org/dicomweb/)
 - [OHIF](ohif.org)
 - [CTK](commontk.org)
 - [Example docker compose for OHIF + dcm4chee](https://github.com/OHIF/integration-examples/tree/master/ohif-dcm4chee-nginx)

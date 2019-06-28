@@ -4,6 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
+- Steve Pieper (Isomics)
 - Erik Ziegler (Radical Imaging / Open Health Imaging Foundation)
 - Jean-Christophe Fillion-Robin (Kitware)
 - Csaba Pinter (PerkLab)

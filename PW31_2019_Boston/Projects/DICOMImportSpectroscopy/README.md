@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Francisco Marcano Serrano (ULL - MACbioIDi)
 - José Luis González Mora (ULL - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
+- Steve Pieper (Isomics)
 
 ## Project Description
 
@@ -29,3 +30,8 @@ Algorithms have previous been coded in Matlab, and it is proposed their translat
 
 
 ## Illustrations
+Fig. 1: FMRSI interface
+<img src="Diapositiva1.PNG" width="652" height="356"> 
+
+Fig. 2: Open Dialog
+<img src="Diapositiva2.PNG" width="652" height="356"> 

@@ -42,6 +42,16 @@ The overarching goal of this project is to use pre- and intra-operative imaging 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+1. Picture of the fiducial on the T2 pre-operative MRI image located on a sulcus 
+![Picture of the fiducial on the T2 pre-operative MRI image located on a sulcus](ultrasound1.png)
+2. Picture of the pre-dura Ultrasound scan on top of the MRI scan showing the same fiducial on the sulcus 
+![Picture of the pre-dura Ultrasound scan on top of the MRI scan showing the same fiducial on the sulcus](ultrasound2.png)
+3. Screenshot of the pre-dura ultrasound with the fiducial on the sulcus
+![Screenshot of the pre-dura ultrasound with the fiducial on the sulcus](ultrasound3.png)
+4. Screenshot of the post-dura ultrasound fiducial located on the sulcus
+![Screenshot of the post-dura ultrasound fiducial located on the sulcus](ultrasound4.png)
+5. Screenshot of the pre-iMRI of the fiducial located on the sulcus
+![Screenshot of the pre-iMRI of the fiducial located on the sulcus ](ultrasound5.png)
 
 # Background and References
 

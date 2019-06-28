@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Jean-Christophe Fillion-Robin (Kitware)
-- Tristan Watts-Willis (Verdure Imagin)
+- Tristan Watts-Willis (Verdure Imagine)
 - Tamas Ungi (Queen's University)
 - Andras Lasso (Queen's University)
 
