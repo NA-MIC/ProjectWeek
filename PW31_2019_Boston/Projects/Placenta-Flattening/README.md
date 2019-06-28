@@ -46,7 +46,11 @@ a flattened canonical template. The goal is to use Slicer's GUI to easily map be
 -->
 ![Illustration of flattening](placenta_flowchart.png)
 
-!(placenta_1.png)
+![transformation field overlaid](field_1.png)
+
+![transformation field overlaid with target volume](both_seg_overlaid.png)
+
+![transformation field applied](applied_field.png)
 
 # Background and References
 
