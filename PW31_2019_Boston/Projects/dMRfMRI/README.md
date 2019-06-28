@@ -26,7 +26,7 @@ Curate data for future machine learning and data analysis projects.
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Get the data
-1. Work with Laura on thresholding
+1. Work with Laura R. on thresholding
 1. Make a curation plan and instructions
 1. Process fMRI data
 1. Label fMRI activations
@@ -37,9 +37,9 @@ Curate data for future machine learning and data analysis projects.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Created plan for data curation.
+1. Curated as much data as possible including fMRI processing and expert thresholding, radiology report information extraction, and anonymized data organization.
+1. Made plan for ongoing curation.
 
 # Illustrations
 
