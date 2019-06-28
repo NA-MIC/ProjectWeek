@@ -169,6 +169,54 @@ getToolbarModule() {
   },
 ```
 
+#### Commands Module
+
+```js
+/**
+* Registers one or more named commands scoped to a context. Commands are
+* the primary means for toolbar actions and actions that can be bound to hotkeys.
+*/
+getCommandsModule() {
+  actions: {
+    nextSegmentForActiveViewport: ({ viewports }) => {
+      // Command implementation.
+    },
+    previousSegmentForActiveViewport: ({ viewports }) => {
+      // Command implementations.
+    },
+    increaseBrushSize: () => {
+      // Command implementations.
+    },
+    decreaseBrushSize: () => {
+      // Command implementations.
+    }
+  }
+
+  definitions: {
+    nextSegmentForActiveViewport: {
+      commandFn: actions.nextSegmentForActiveViewport,
+      storeContexts: ['viewports']
+    },
+    previousSegmentForActiveViewport: {
+      commandFn: actions.previousSegmentForActiveViewport,
+      storeContexts: ['viewports']
+    },
+    increaseBrushSize: {
+      commandFn: actions.increaseBrushSize
+    },
+    decreaseBrushSize: {
+      commandFn: actions.decreaseBrushSize
+    }
+  }
+  defaultContext: 'ACTIVE_VIEWPORT::CORNERSTONE'
+};
+
+
+
+
+
+```
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
