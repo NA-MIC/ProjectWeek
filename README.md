@@ -3,7 +3,7 @@
 
 ### The [31st Project Week](PW31_2019_Boston/README.md) will take place June 24-28, 2019 at MIT, Boston, USA.
 ### The [32nd Project Week](PW32_2019_London_Canada/README.md) will take place July 15-19, 2019 at Robarts Research, London, Canada.
-### [33rd Project Week](PW33_2020_GranCanaria/README.md) will take place January 20-24, 2020 in Las Palmas, Gran Canaria, Spain.
+### The [33rd Project Week](PW33_2020_GranCanaria/README.md) will take place January 20-24, 2020 in Las Palmas, Gran Canaria, Spain.
 
 
 ## Frequently Asked Quesions
