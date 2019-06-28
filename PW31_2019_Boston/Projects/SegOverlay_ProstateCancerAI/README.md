@@ -30,7 +30,11 @@ Illustrates the use of the AI Probe feature on prostatecancer.ai before project 
 
 ## After project week
 ![Screenshot of ProstateCancer.ai](https://github.com/NA-MIC/ProjectWeek/blob/master/PW31_2019_Boston/Projects/SegOverlay_ProstateCancerAI/Screenshot_AfterProjectWeek.png)
-Illustrates the use of the AI Probe feature on prostatecancer.ai after project week
+Illustrates the use of the AI Probe feature on the completely re-written prostatecancer.ai v2 with seg support after project week
+
+## Next steps
+
+ProstateCancer.ai v2 is in its very early steps and will need a lot of refinement and improvement.
 
 
 # Background and References
