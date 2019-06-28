@@ -38,8 +38,10 @@ The goal of the project is to make progress towards having an in-VR interaction 
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Per-device event handling in markups event handling mechanism done (??? TODO)
-1. Clement made good progress with adding laser pointer in SlicerVR
+1. Per-device event handling in markups event handling mechanism done
+1. VR widget
+  1. Clement added working laser pointer in SlicerVR
+  1. Csaba looked into vtkQWidgetWidget
 1. Discussed anthropology VR project needs with Nayra:
     * Main need is more realistic volume rendering of the mummies (OSPray integration into Slicer)
 
@@ -49,9 +51,9 @@ The goal of the project is to make progress towards having an in-VR interaction 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-![VR home widget prototype](https://user-images.githubusercontent.com/46090514/59448974-2bdd0900-8dd4-11e9-9191-610cfb5253dd.gif)
-
 ![VR laser display](VRLaser.png)
+
+![VR home widget prototype](https://user-images.githubusercontent.com/46090514/59448974-2bdd0900-8dd4-11e9-9191-610cfb5253dd.gif)
 
 # Background and References
 
