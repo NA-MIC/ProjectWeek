@@ -36,10 +36,10 @@ Our goal for project week is to have a working extension that demos an iMSTK sim
 Demo using data from the Placeta flattening project
 
 ![Placenta before collapse](Placenta-0.png)
-Placenta before collision
+Placenta before collision.
 
 ![Placenta during collapse](Placenta-1.png)
-Placenta during collision
+Placenta during collision.
 
 
 # Background and References
