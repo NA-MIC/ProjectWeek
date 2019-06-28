@@ -27,11 +27,17 @@ Improve 3D Slicer’s existing features to support glTF file format export/impor
 
 ## Progress and Next Steps
 
-1. Make available recent VTK glTF import/export methods in Slicer - [done](https://github.com/PerkLab/SlicerOpenAnatomy/commit/5592d3e783dc5ffb529f898814001ad003823607)
-2. Implement module to export a subject hierarchy branch to glTF
+1. Made available recent VTK glTF import/export methods in Slicer
+1. Implemented module for one-click export of segmentation to glTF
+1. Made available these modules in OpenAnatomy extension for preview releases.
+
+![Open Anatomy glTF export module](OpenAnatomyExportModule.png)
+![Exported glTF file in a web browser (rendered using babylon.js)](glTFWebViewer.png)
+
+Next step is implementing metadata export: writing terminology and links to gltf file to json file.
 
 ## Background and References
 
 - [SLicer OpenAnatomy extension](https://github.com/PerkLab/SlicerOpenAnatomy)
-- [Open Antomy Browser](https://www.openanatomy.org/)
+- [Open Anatomy Browser](https://www.openanatomy.org/)
 - [SlicerWeb glTF v1.0 exporter implementation](https://github.com/pieper/SlicerWeb/blob/0952659e38dd6b0a7511242235f3919ee7e09048/WebServer/WebServer.py#L37-L533)
