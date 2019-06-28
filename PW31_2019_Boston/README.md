@@ -90,7 +90,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [Slicer extensions with CUDA](Projects/ExtensionsWithCUDA/README.md) (Greg Sharp, Jc)
 - [Transition to GitHub as authoritative version control system](Projects/GithubAsAuthoritativeVersionControlSystem/README.md) (Jc F-R, Andras, Steve)
 - [Slicer on GCP](Projects/SlicerGCP/README.md) (Steve, Christian)
-
+- [OpenJPEG-js cross compilation](Projects/OpenJPEG-JS/README.md) (Forrest, Erik, Danny, James, Steve)
 
 ### Breakout Sessions
 
