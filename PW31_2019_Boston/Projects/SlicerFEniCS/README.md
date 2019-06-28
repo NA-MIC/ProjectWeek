@@ -31,7 +31,7 @@ is to integrate FEniCS into a Slicer extension.
 
 1. Install FEniCS Python packages inside Slicer.
 1. Run FEniCS demo inside Slicer.
-1.
+1. Create Slicer FEniCS extension. 
 
 ## Approach and Plan
 
@@ -46,8 +46,7 @@ is to integrate FEniCS into a Slicer extension.
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Installed FEniCS Python packages inside Slicer (see [Slicer FEniCS Installation](slicer-fenics-install.md)).
-1. ...
-1. ...
+1. Created Slicer extension to run FEniCS demo inside Slicer.
 
 # Illustrations
 
@@ -60,5 +59,5 @@ is to integrate FEniCS into a Slicer extension.
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
-- https://fenicsproject.org
-- https://fenics.readthedocs.io/en/latest/installation.html#development-version
+- <https://fenicsproject.org>
+- <https://fenics.readthedocs.io/en/latest/installation.html#development-version>
