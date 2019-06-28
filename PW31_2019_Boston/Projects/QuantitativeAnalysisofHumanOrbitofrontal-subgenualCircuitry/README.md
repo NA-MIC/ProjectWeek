@@ -24,7 +24,10 @@ The orbitofrontal-subgenual circuitry is important for the treatment of major de
 2. We will connect these two cortical regions using the tractographic white matter query language (WMQL) software on diffusion MRI data of the same subject.
 
 ## Approach and Plan
-
+1.  Segment orbitofrontal cortex on T1w MRI
+2.  Segment subcallosal area on T1w MRI
+3.  Perform whole brain diffusion tractography on b3000 file
+4.  Perform WMQL to isolate pathways between orbitofrontal region and subcallosal area.
 
 ## Progress and Next Steps
 1.  Segmentation of orbitofrontal cortex and subcallosal area successfully performed on T1 data.
