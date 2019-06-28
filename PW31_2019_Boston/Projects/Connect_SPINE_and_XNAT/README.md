@@ -35,9 +35,15 @@ Connect SPINE with XNAT.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+### Progress
+1. Set up testing XNAT and SPINE instances
+1. Created connection between SPINE and XNAT (authentication)
+1. Created conceptual mapping (schema mapping) between XNAT and SPINE main concepts
+1. Started implementation to transfer metadata from XNAT to SPINE
+
+### Next Steps
+1. Finish the transference of metadata
+1. Test in a real scenario
 
 # Illustrations
 
