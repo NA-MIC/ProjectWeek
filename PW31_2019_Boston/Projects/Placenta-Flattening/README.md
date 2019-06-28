@@ -32,7 +32,10 @@ a flattened canonical template. The goal is to use Slicer's GUI to easily map be
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. 
+1. Loaded transformation fields and applied transforms to volumes.
+2. Used the segeditor to transform regions of interest
+3. Next step: Fix the "jaggedness" of the transformation
+4. Correct NIFTI header for the transformation field
 
 
 # Illustrations
@@ -42,6 +45,8 @@ a flattened canonical template. The goal is to use Slicer's GUI to easily map be
 ![Some more images](Example2.jpg)
 -->
 ![Illustration of flattening](placenta_flowchart.png)
+
+!(placenta_1.png)
 
 # Background and References
 
