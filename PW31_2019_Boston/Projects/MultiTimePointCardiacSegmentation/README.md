@@ -34,6 +34,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 1. Using resequece registration, a transform sequence was created and then segmentation from fixed frame was applied to other segments to create multitime point segmentation.
 2. Next step will be to automate some of the steps (smoothening, hollowing etc.)
+3. Will upload the demo video soon!
 
 
 # Illustrations
