@@ -1,6 +1,6 @@
 Back to [Project Week](../../README.md)
 
-# Write breakout title here
+# High resolution, comprehensive atlases of the human brain morphology
 
 ## Organizers
 
