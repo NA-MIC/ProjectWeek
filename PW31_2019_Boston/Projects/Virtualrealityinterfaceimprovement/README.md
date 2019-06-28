@@ -32,9 +32,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Adding a clip plane in virtual reality to segmented model (cliiping using volume reslice driver).
+2. Sharing of virtual reality scene was tested using IGTlink
+3. Next step is testing the virtual reality scene sharing and streamlining the required workflow
 
 # Illustrations
 
