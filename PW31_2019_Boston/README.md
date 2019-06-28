@@ -54,6 +54,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [Virtual reality interactions](Projects/VirtualRealityInteractions/README.md) (Csaba Pinter, Nayra Pumar, Clement Mirabel)
 - [Cardiac device placement/deformation simulation](Projects/cardiacdeviceplacementsimulation/README.md) (Sarv, Andras, Sam, Christian)
 - [Virtual reality interface improvements](Projects/Virtualrealityinterfaceimprovement/README.md) (Sarv, Csaba)
+- [FEniCS integration](Projects/SlicerFEniCS/README.md) (Ben Zwick, Sam Horvath, Jc, Andras Lasso)
 
 ### Analysis
 
