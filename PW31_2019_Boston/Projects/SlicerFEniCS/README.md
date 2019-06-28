@@ -45,7 +45,7 @@ is to integrate FEniCS into a Slicer extension.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Installed FEniCS Python packages inside Slicer.
+1. Installed FEniCS Python packages inside Slicer (see [Slicer FEniCS Installation](slicer-fenics-install.md)).
 1. ...
 1. ...
 
