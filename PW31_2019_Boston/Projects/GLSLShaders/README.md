@@ -32,7 +32,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 - GLSL bilateral filter: 1.5 seconds 
  <img src="Bilateral1.png" alt="BilateralFilterExample" width="500"/>
 
-
 # Illustrations
 
 - Example of vtkGPUShaderAlgorithm pipline ([ShaderAlgorithm](https://github.com/Sunderlandkyl/VTK/blob/vtkGPUImageFilter2/Examples/ShaderAlgorithm/Cxx/ShaderAlgorithm.cxx))
@@ -46,5 +45,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
-- [Source code](https://github.com/Sunderlandkyl/Slicer/tree/gpu_fractional_2)
+- [Slicer source code](https://github.com/Sunderlandkyl/Slicer/tree/gpu_fractional_3)
+- [VTK source code](https://github.com/Sunderlandkyl/VTK/tree/vtkGPUImageFilter3)
 - [Bilateral filter extension](https://github.com/Sunderlandkyl/SlicerSandbox/tree/master/GPUTest)
