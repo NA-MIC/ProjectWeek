@@ -35,12 +35,9 @@ Implement and integrate robust interactions using both touchscreen gestures and 
 - Feedback
   - Useful to have a button on the tablet that increments/deincrements through the slices
 
-# Illustrations
+### Result
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+ [Segmentation using Surface Pen](https://youtu.be/ZE16nNRxEjw)
 
 # Background and References
 
