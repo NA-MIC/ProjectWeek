@@ -31,7 +31,7 @@ We have previously developed a recurrent neural network (RNN) model that evolves
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Describe specific steps you **have actually done**.
-1. ...
+1. Made good progress towards objective A: fixed bugs and implemented data augmentation during inference for a growing segmentation.
 1. ...
 
 # Illustrations
