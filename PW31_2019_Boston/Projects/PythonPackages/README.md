@@ -37,6 +37,10 @@ The objective is to have a consistent interface / process for installing patyhon
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
+1.  Andras has already implemented the slicer.util.pip_install()
+2.  Discussed plans for python package management during a dedicated breakout session
+3.  We will be continuing with the plan to pip install packages after extension install, not during the build process
+4.  We need to look into blacklisting packages though pip
 
 
 # Illustrations
