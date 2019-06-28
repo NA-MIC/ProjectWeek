@@ -55,9 +55,10 @@ Objective B: Maintain patient registration after face is no longer visible using
 <img src="StreamingDemo.gif" width = "700">
 
 #### Examples of acquired surface mesh registered to model
-|  | |
-|--------|------|
-| <img src="RegistrationDemo1.png" width="500"> | <img src="RegistrationDemo2.png" width="500"> |
+
+<img src="RegistrationDemo1.png" width="400">
+
+<img src="RegistrationDemo2.png" width="400">
 
 #### Basic workflow of the project
 
