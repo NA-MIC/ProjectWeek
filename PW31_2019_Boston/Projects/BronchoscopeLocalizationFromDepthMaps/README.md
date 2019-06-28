@@ -41,6 +41,7 @@ The goal is to localize a bronchoscope through the use of depth maps generated f
 
 ## Images
 ![4](Example4.png)
+From left to right: True RGB, True rendered RGB, True depth map, Predicted rendered RGB, Predicted depth map from predicted RGB, Predicted depth map from true RGB
 
 ![1](Example1.png)
 
