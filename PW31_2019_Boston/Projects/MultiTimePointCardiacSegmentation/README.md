@@ -32,9 +32,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. Single time point segmentation only 
-1. 
+1. Using resequece registration, a transform sequence was created and then segmentation from fixed frame was applied to other segments to create multitime point segmentation.
+2. Next step will be to automate some of the steps (smoothening, hollowing etc.)
+
 
 # Illustrations
 
