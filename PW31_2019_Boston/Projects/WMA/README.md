@@ -49,6 +49,8 @@ Software for data-driven white matter parcellation
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![Batch script: wm_apply_ORG_atlas_to_subject.sh](Batch-ORG.png)
+![Documentation: ](Doc.png)
 
 # Background and References
 
