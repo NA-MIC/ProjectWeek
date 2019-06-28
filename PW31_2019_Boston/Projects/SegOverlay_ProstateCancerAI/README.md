@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [James Petts][james] ([Institute for Cancer Research, London][icr-london])
 - [Steve Pieper][steve] ([Isomics, Inc.][Isomics])
 - [Erik Ziegler][erik] ([Radical Imaging][radical])
+- [Danny Brown][danny] ([Radical Imaging][radical])
 - [Anneke Meyer][anneke] 
 - [Alireza Sedghi][alireza] ([Medical Informatics Lab][med-i-lab])
 - [Parvin Mousavi][parvin] ([Medical Informatics Lab][med-i-lab])
@@ -35,6 +36,7 @@ Illustrates the use of the AI Probe feature on prostatecancer.ai.
 [omar]: https://github.com/omartoutounji
 [james]: https://github.com/jamesapetts
 [erik]: https://github.com/swederik
+[danny]: https://github.com/dannyrb
 [med-i-lab]: http://medi.cs.queensu.ca/
 [alireza]: https://github.com/sedghi
 [steve]: https://github.com/pieper
