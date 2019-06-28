@@ -48,6 +48,8 @@ From left to right: True RGB, True rendered RGB, True depth map, Predicted rende
 ![2](Example2.png)
 
 ![3](Example3.png)
+Red: Original model
+Green: Reconstructed from depth map
 
 # Background and References
 
