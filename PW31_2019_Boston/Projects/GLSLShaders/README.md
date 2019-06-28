@@ -27,9 +27,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Started implementing infrastructure required for rendering to multiple targets in order to support GPU growcut algorithm 
 
 ### Result
+| Approach | Result |
+| --- | --- |
+| SimpleITK bilateral filter: | 8 min 36 seconds |
+| GLSL bilateral filter: | 1.5 seconds |
+| Speedup: | 344x |
 
-- SimpleITK bilateral filter: 8 min 36 seconds
-- GLSL bilateral filter: 1.5 seconds 
  <img src="Bilateral1.png" alt="BilateralFilterExample" width="500"/>
 
 # Illustrations
