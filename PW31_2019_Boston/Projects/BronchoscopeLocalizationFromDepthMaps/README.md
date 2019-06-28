@@ -40,14 +40,13 @@ The goal is to localize a bronchoscope through the use of depth maps generated f
 5. The next step is to improve training so the predicted depth maps are more accurate.
 
 ## Images
+![4](Example4.png)
 
-<img src="Example4.PNG">
+![1](Example1.png)
 
-<img src="Example1.PNG" width="400">
+![2](Example2.png)
 
-<img src="Example2.PNG" width="400">
-
-<img src="Example3.PNG" width="400">
+![3](Example3.png)
 
 # Background and References
 
