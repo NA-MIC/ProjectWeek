@@ -42,7 +42,7 @@ Fig. 3: Quantification of average spectrum
 Fig. 4: Time-resolved quantification 
 <img src="Imagen10.png" width="652" height="356"> 
 
-Fig. 5: Time-resolved quantification 
+Fig. 5: Selected metabolite time serie
 <img src="Imagen30.png" width="652" height="356"> 
 
 
