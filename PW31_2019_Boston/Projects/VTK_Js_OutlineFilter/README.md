@@ -24,25 +24,18 @@ Apply Widget Manager and improve interactor of SPINE Viewer
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Understand the API and data structured exposed by XNAT in order to get access and extract data 
-1. Test the API exposed by XNAT in a real scenario
-1. Implement a replication protocol to import data from XNAT
+1. Understand the VTK.js development environment
+1. Design and implementation of Outline Filter
+1. Design and implementation of Level Tracing Filter and Widget
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
-
+1. Discussed solutions for Outline Filter and Level tracing widget.
+1. Implemented Outline filter.
+1. Implemented demo (ready to publish)
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![Vtk demo of Outline Filter](ezgif-1-f171f27a73cb.gif)
 
 # Background and References
-
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+https://github.com/SPINEProject/vtk-js/tree/master/Sources/Filters/General/ImageOutlineFilter

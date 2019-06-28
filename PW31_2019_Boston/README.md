@@ -54,12 +54,13 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [Virtual reality interactions](Projects/VirtualRealityInteractions/README.md) (Csaba Pinter, Nayra Pumar, Clement Mirabel)
 - [Cardiac device placement/deformation simulation](Projects/cardiacdeviceplacementsimulation/README.md) (Sarv, Andras, Sam, Christian)
 - [Virtual reality interface improvements](Projects/Virtualrealityinterfaceimprovement/README.md) (Sarv, Csaba)
+- [FEniCS integration](Projects/SlicerFEniCS/README.md) (Ben Zwick, Sam Horvath, Jc, Andras Lasso)
 
 ### Analysis
 
 - [Quantitative Analysis of Human Orbitofrontal-subgenual Circuitry](Projects/QuantitativeAnalysisofHumanOrbitofrontal-subgenualCircuitry/README.md) (Peter Wilson-Braun, Senthil Palanivelu, Lipeng Ning, Yogesh Rathi, Nikos Makris, Nayra Pumar Carreras, Juan Ruiz-Alzola, Juan Andres Ramirez Gonzalez)
 - [Clinical trajectory visualization based on edema quantification from chest x-ray](Projects/EdemaQuantification/README.md) )(Not around on Friday) (Ray Liao, Steve Pieper, Polina Golland)
-
+- [Quantitative Analysis of QUTE-CE-MRI cerebrovascular data](Projects/QUTE-CE-MRI/README.md) )(Liam Timms, Tianyi Zhou, Srinivas Sridhar)
 
 
 ### Diffusion MRI
