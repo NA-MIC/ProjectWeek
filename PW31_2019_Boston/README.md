@@ -91,6 +91,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 - [Transition to GitHub as authoritative version control system](Projects/GithubAsAuthoritativeVersionControlSystem/README.md) (Jc F-R, Andras, Steve)
 - [Slicer on GCP](Projects/SlicerGCP/README.md) (Steve, Christian)
 - [OpenJPEG-js cross compilation](Projects/OpenJPEG-JS/README.md) (Forrest, Erik, Danny, James, Steve)
+- [Confocal Microscopy in Slicer](Projects/ConfocalMicroscopy/README.md) (Steve, Brad)
 
 ### Breakout Sessions
 
