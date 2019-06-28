@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Confocal Microscopy n Slicer
+# Confocal Microscopy in Slicer
 
 ## Key Investigators
 
