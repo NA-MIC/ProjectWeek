@@ -60,7 +60,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 
 - [Quantitative Analysis of Human Orbitofrontal-subgenual Circuitry](Projects/QuantitativeAnalysisofHumanOrbitofrontal-subgenualCircuitry/README.md) (Peter Wilson-Braun, Senthil Palanivelu, Lipeng Ning, Yogesh Rathi, Nikos Makris, Nayra Pumar Carreras, Juan Ruiz-Alzola, Juan Andres Ramirez Gonzalez)
 - [Clinical trajectory visualization based on edema quantification from chest x-ray](Projects/EdemaQuantification/README.md) )(Not around on Friday) (Ray Liao, Steve Pieper, Polina Golland)
-
+- [Quantitative Analysis of QUTE-CE-MRI cerebrovascular data](Projects/QUTE-CE-MRI/README.md) )(Liam Timms, Tianyi Zhou, Srinivas Sridhar)
 
 
 ### Diffusion MRI
