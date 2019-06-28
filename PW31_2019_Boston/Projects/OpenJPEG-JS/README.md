@@ -30,7 +30,7 @@ This project didn't exist before this Project Week.
 
 ### At Project Week:
 
-OpenJPEG was finally cross-compiled! You can find the repo here: [](https://github.com/floryst/openjpeg-js)
+OpenJPEG was finally cross-compiled! You can find the repo here: [https://github.com/floryst/openjpeg-js](https://github.com/floryst/openjpeg-js)
 
 #### Next Steps
 
