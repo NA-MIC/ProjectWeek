@@ -44,7 +44,7 @@ Publish an online standard for sending ultrasound sector information with OpenIG
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-
+Updated the [IGSIO web page](http://igsio.github.io/) with a short description of the current standard for sending ultrasound sector information as meta data in OpenIGTLink image messages.
 
 # Illustrations
 
