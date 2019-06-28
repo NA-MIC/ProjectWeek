@@ -25,7 +25,8 @@ Algorithms have previous been coded in Matlab, and it is proposed their translat
 1. Display time-resolved metabolite concentrations on a plot chart 
 
 ## Progress and Next Steps
-
+1. Assessment of different options to implement graphic charts, including importing matplotlib library to generate complex graphics
+1. Implemented simple graphic viewer of concentration time series.
 
 
 ## Illustrations
