@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Transition to GitHub as authoritative version control system (
+# Transition to GitHub as authoritative version control system
 
 ## Key Investigators
 
