@@ -9,6 +9,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Erik Ziegler][erik] ([Radical Imaging][radical])
 - [Steve Pieper][steve] ([Isomics][isomics])
 - [Mete Akdogan][mete] ([Stanford University, Rubin Lab][rubin-lab])
+- [Zach Saltzaman][zach] ([Yale School of Medicine][yale])
+- [Omar Toutounji][omar] ([Medical Informatics Lab][med-i-lab])
 
 ## Description
 
@@ -77,14 +79,20 @@ The OHIF Viewer Platform is currently coupled to it's various components' depend
 
 [radical]: http://radicalimaging.com/
 [icr-london]: https://www.icr.ac.uk/
-[danny]: https://github.com/dannyrb
+[rubin-lab]: https://rubinlab.stanford.edu/
 [isomics]: http://isomics.com/
+[med-i-lab]: http://medi.cs.queensu.ca/
+[yale]: https://medicine.yale.edu/
+
+[danny]: https://github.com/dannyrb
 [james]: https://github.com/jamesapetts
 [erik]: https://github.com/swederik
 [steve]: https://github.com/pieper
+[mete]: https://github.com/muakdogan
+[zach]: https://github.com/zsaltzman
+[omar]: https://github.com/omartoutounji
+
 [ohif-viewer]: https://github.com/OHIF/Viewers
 [ohif-extensions]: https://docs.ohif.org/advanced/extensions.html
 [ohif]: http://ohif.org/
 [james-magic]: https://github.com/JamesAPetts/OHIF-Viewer-XNAT/tree/xnatRoi-dev-vNext/Packages/icr-peppermint-tools
-[mete]: https://github.com/muakdogan
-[rubin-lab]: https://rubinlab.stanford.edu/
