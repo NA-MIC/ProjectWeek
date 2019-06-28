@@ -30,7 +30,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - SimpleITK bilateral filter: 8 min 36 seconds
 - GLSL bilateral filter: 1.5 seconds 
-
+ <img src="Bilateral1.png" alt="BilateralFilterExample" width="500"/>
 
 
 # Illustrations
