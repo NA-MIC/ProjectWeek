@@ -27,6 +27,11 @@ The orbitofrontal-subgenual circuitry is important for the treatment of major de
 
 
 ## Progress and Next Steps
+1.  Segmentation of orbitofrontal cortex and subcallosal area successfully performed on T1 data.
+2.  Whole brain DMRI tractography successfully performed.
+3.  Diffusion and Structural data registered.
+4.  WMQL query performed.
+
 
 
 # Illustrations
