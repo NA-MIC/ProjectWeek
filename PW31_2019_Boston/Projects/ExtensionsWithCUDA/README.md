@@ -23,8 +23,14 @@ Provide an easy path for distributing extensions that use CUDA.
 
 ## Progress and Next Steps
 
-1. ...
-1. ...
+1. Review compatibility of CUDA versions with respect to build machines
+    - https://discourse.slicer.org/t/cuda-version-for-build-machines/7298
+1. Sample extension updated and pull request created
+    - https://github.com/Slicer/ExtensionsIndex/pull/1648
+1. Add CUDA install recommendations to factory build page
+    - https://www.slicer.org/wiki/Documentation/Nightly/Developers/Factory
+1. Update linux docker instructions to download and install CUDA
+    - https://github.com/Slicer/SlicerBuildEnvironment/pull/12/commits/4ec466f0cd78a2775dddc4818372b786e3819e24
 
 # Illustrations
 
