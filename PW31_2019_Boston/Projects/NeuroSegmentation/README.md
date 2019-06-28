@@ -45,7 +45,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Illustrations
 ![](Segmentation1.png)
 Sulci identification
-![](https://www.dropbox.com/s/jolgfuswscm7eb3/brainsuite_demo.wmv?dl=0)
+![Video of Sulci Tracing](https://www.dropbox.com/s/jolgfuswscm7eb3/brainsuite_demo.wmv?dl=0)
 
 # Background and References
 
