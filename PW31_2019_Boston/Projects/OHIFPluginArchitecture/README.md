@@ -20,10 +20,6 @@ The [OHIF Viewer][ohif-viewer] is a zero-footprint medical image viewer provided
 
 Some amount of extensibility is available via OHIF [existing extensions][ohif-extensions]. Our objective is specific to our overarching goal of integrating [James A Petts][james] existing Segmentation tools and UI, currently maintained [here][james-magic]. For example, we would like it to be possible to add the following via plugins:
 
-```bash
-# INSERT COOL IMAGES OF JAMES'S STUFF HERE
-```
-
 1. Support for custom Commands, Hotkeys, and User Preferences
 2. Support for custom Side Panels
 3. Support for custom Toolbar Buttons
@@ -45,13 +41,39 @@ The OHIF Viewer Platform is currently coupled to it's various components' depend
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+### Before Project Week:
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+- An initial implementation of the Extension Manager
+- Basic support for Commands
+- Basic support for Toolbar Buttons
+- Basic support for Hotkeys
 
-# Illustrations
+### At Project Week:
+
+1. The `ExtensionManager` was updated to support Panel Extensions
+1. The `ExtensionManager` was updated to support a `preRegistration` hook
+    - Also allows for configuration to be passed to extension at Application level
+1. The `ToolbarDefinition` schema was updated to support nested menu items
+1. Form components were added to `react-viewerbase` to assist Extension Authors
+1. The existing `MeasurementsTable` was converted to a `PanelModule`
+1. Authored Segmentation functionality as an `extension`
+
+
+- [`react-viewerbase`](https://github.com/OHIF/react-viewerbase)
+- [`ohif-segmentation-plugin`](https://github.com/JamesAPetts/ohif-segmentation-plugin)
+- [`extensions-pr`](https://github.com/OHIF/Viewers/pull/593)
+
+
+#### Next Steps
+
+- Add unit tests for, and then simplify how ExtensionManager surfaces its registered modules
+- Introduce new UI patterns to improve UX as the number of available tools/panels grows
+- Iterate on styles of the Segmentation Extension's custom React Panels
+- Add custom SVG Icon support for Toolbar Buttons
+- Update `docs.ohif.org` with latest extension information
+
+
+## Illustrations
 
 ![Example of seg/contour plugin in 1.0](https://github.com/NA-MIC/ProjectWeek/raw/master/PW31_2019_Boston/Projects/OHIFPluginArchitecture/Screen%20Shot%202019-06-03%20at%2016.17.19.png)
 
@@ -64,10 +86,88 @@ The OHIF Viewer Platform is currently coupled to it's various components' depend
 - Custom tools (Either Cornerstone "Core" tools, or 3rd party drop-ins)
 - Addition of alternative display set thumbnail list (See XNAT Nav)
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+### Extension Schema
+
+An OHIF extension is a POJO (plain old JavasSript object) that has properties and methods that provide information to OHIF's extension manager.
+
+#### PreRegistration
+
+```js
+  preRegistration(configuration = {}) {
+  },
+```
+
+#### Panel Module
+
+```js
+getPanelModule() {
+    return {
+      menuOptions: [
+        {
+          icon: 'th-list',
+          label: 'Segments',
+          target: 'segment-panel'
+        },
+        {
+          icon: 'th',
+          label: 'Contours',
+          target: 'contour-panel'
+        }
+      ],
+      components: [
+        {
+          id: 'segment-panel',
+          from: 'right',
+          width: '500px',
+          component: SegmentationMenu // React Component
+        },
+        {
+          id: 'contour-panel',
+          from: 'right',
+          width: '500px',
+          component: RoiContourMenu // React Component
+        }
+      ],
+      defaultContext: ['VIEWER']
+    };
+  }
+```
+
+#### Toolbar Module
+
+```js
+getToolbarModule() {
+    return {
+      definitions: [
+        {
+          id: 'freehandRoiTools',
+          label: 'ROI',
+          icon: 'level',
+          buttons: [
+            {
+              id: 'FreehandRoi',
+              label: 'Draw',
+              icon: 'level',
+              type: TOOLBAR_BUTTON_TYPES.SET_TOOL_ACTIVE,
+              commandName: 'setToolActive',
+              commandOptions: { toolName: TOOL_NAMES.FREEHAND_ROI_3D_TOOL }
+            },
+            {
+              id: 'FreehandRoiSculptor',
+              label: 'Sculpt',
+              icon: 'level',
+              type: TOOLBAR_BUTTON_TYPES.SET_TOOL_ACTIVE,
+              commandName: 'setToolActive',
+              commandOptions: { toolName: TOOL_NAMES.FREEHAND_ROI_3D_SCULPTOR_TOOL }
+            }
+          ]
+        },
+        ...
+      ],
+      defaultContext: 'ACTIVE_VIEWPORT::CORNERSTONE'
+    };
+  },
+```
 
 # Background and References
 
