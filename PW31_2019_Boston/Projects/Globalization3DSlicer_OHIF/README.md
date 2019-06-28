@@ -37,10 +37,28 @@ Also, we will discuss about the globalization in OHIF.
 
 ## Progress and Next Steps
 
-1. Developing the I18n supporting in srcipted modules. 
-1. Discussing several proposals to define the infrastructures for the translation in 3D Slicer
-1. The number formats is postponed several months
-1. Integrating the nightly infrastructure in our lab in Canary Islands 
+1. The following fixes have been integrated into Slicer source:
+   * [r28338](http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=28338): STYLE: i18n: Remove unneeded translation of empty strings
+   * [r28339](http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=28339): BUG: i18n: Fix use of tr() function in pimpl of Base and MRML Qt classes
+   * [r28340](http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=28340): BUG: i18n: Fix buildsystem to fix generation of .ts files for loadable module
+   * [r28341](http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=28341): BUG: i18n: Fix use of tr() function in loadable module classes
+   * [r28342](http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=28342): ENH: i18n: Update buildsystem to support generation of .ts files for ModuleWidgets
+   * [r28343](http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=28343): BUG: i18n: Fix use of tr() function in loadable module Qt widget classes
+   * [r28344](http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=28344): ENH: i18n: Add support for node combox, 3d view controller and qSlicerApp
+   * [r28345](http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=28345): STYLE: Remove translation files with old-style suffix
+1. Support for i18n was improved. See the following [improve-i18n-support](https://github.com/Slicer/Slicer/compare/master...jcfr:improve-i18n-support) topic
+   * Support for translating scripted modules (`slicer.i18n.tr()`)
+   * Generation of `<ModuleName>_untranslated.ts` files
+   * Add targets `GenerateSlicerTranslationTemplates` and `GenerateSlicerTranslationQMFiles`
+   * Support for generating and updating translation files in extension.
+1. Discussed several proposals to define the infrastructures for the translation in 3D Slicer
+   * Created project https://github.com/Slicer/SlicerTranslations
+   * Proposed plan:
+      * create a `SlicerTranslations` extension to install languages files for Slicer core
+      * Still need to refine and document the approach for maintaining and distributing translation files for extensions
+1. Support for localization:
+   * Displaying numbers with correct local format) is postponed for several months
+   * A nightly build of Slicer will be setup in our lab in Canary Islands on system with different language and local.
 
 ## Illustrations
 Fig. 1: Spanish Slicer GUI
