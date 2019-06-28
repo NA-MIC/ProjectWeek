@@ -34,7 +34,9 @@ The overarching goal of this project is to use pre- and intra-operative imaging 
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. This section will be completed during project week
+1. Annotated intra-operative ultrasound for 4 patients.
+1. Next step - measure intra-operator and inter-operator variability in these landmarks
+
 
 # Illustrations
 
