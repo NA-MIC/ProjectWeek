@@ -25,24 +25,44 @@ Objective B: Maintain patient registration after face is no longer visible using
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Acquire depth images from the RealSense in Slicer and use them to generate a point cloud 
+2. Determine how to stream these depth images and calculate the point cloud in real time
+3. Use a captured point cloud to verify the accuracy of the registration to a model
+4. Use Slicer to track an optical marker defined rigidly relative to the real time point cloud
+5. Perform registration on the point cloud with the marker and maintain the registration without visibility of the facial anatomy
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Created Slicer module for generating a point cloud from a depth image
+2. Demonstrated streaming of real-time point clouds from depth images captured by the RealSense
+3. Investigated accuracy of Model Registration module for registering captured point clouds to dense models
+4. Explored RealSense parameters to find settings best suited to close range facial scanning
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+#### User interface of DepthImageToPointCloud module
+
+<img src="DepthImageToPointCloudUI.PNG" width="400">
+
+#### Example of point cloud generated from depth image
+
+<img src="PointCloudExample.png" width="400">
+
+#### Demonstration of streamed point cloud generated using RealSense depth data
+
+<img src="StreamingDemo.gif" width = "700">
+
+#### Examples of acquired surface mesh registered to model
+|  | |
+|--------|------|
+| <img src="RegistrationDemo1.png" width="500"> | <img src="RegistrationDemo2.png" width="500"> |
+
+#### Basic workflow of the project
+
+<img src="RealSenseRegistrationConcept.PNG" width="700">
+
 
 # Background and References
 
