@@ -41,4 +41,6 @@ The orbitofrontal-subgenual circuitry is important for the treatment of major de
 # Illustrations
 
 ![](seg.png)
+
+![](fiber.png)
 # Background and References
