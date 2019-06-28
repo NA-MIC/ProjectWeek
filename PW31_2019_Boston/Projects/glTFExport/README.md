@@ -31,8 +31,14 @@ Improve 3D Slicer’s existing features to support glTF file format export/impor
 1. Implemented module for one-click export of segmentation to glTF
 1. Made available these modules in OpenAnatomy extension for preview releases.
 
+Segmentation in Slicer:
 ![Open Anatomy glTF export module](OpenAnatomyExportModule.png)
+
+Segmentation in a web viewer:
 ![Exported glTF file in a web browser (rendered using babylon.js)](glTFWebViewer.png)
+
+Available in extension manager!
+![Available in extension manager)](SlicerOpenAnatomyInExtensionIndex.jpg)
 
 Next step is implementing metadata export: writing terminology and links to gltf file to json file.
 
