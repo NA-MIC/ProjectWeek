@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Transition to GitHub as authoritative version control system (
 
 ## Key Investigators
 
