@@ -26,7 +26,7 @@ Algorithms have previous been coded in Matlab, and it is proposed their translat
 
 ## Progress and Next Steps
 1. Assessment of different options to implement graphic charts, including importing matplotlib library to generate complex graphics
-1. Implemented simple graphic viewer of concentration time series.
+1. Implemented simple graphic viewer of concentration time series for selected metabolites.
 
 
 ## Illustrations
@@ -41,4 +41,8 @@ Fig. 3: Quantification of average spectrum
 
 Fig. 4: Time-resolved quantification 
 <img src="Imagen10.png" width="652" height="356"> 
+
+Fig. 5: Time-resolved quantification 
+<img src="Imagen30.png" width="652" height="356"> 
+
 
