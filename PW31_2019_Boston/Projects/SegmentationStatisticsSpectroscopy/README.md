@@ -37,8 +37,8 @@ Fig. 2: Open Dialog
 <img src="Diapositiva2.PNG" width="652" height="356"> 
 
 Fig. 3: Quantification of average spectrum
-<img src="Imagen10.PNG" width="652" height="356"> 
+<img src="Imagen10.png" width="652" height="356"> 
 
 Fig. 4: Time-resolved quantification 
-<img src="Imagen20.PNG" width="652" height="356"> 
+<img src="Imagen20.png" width="652" height="356"> 
 
