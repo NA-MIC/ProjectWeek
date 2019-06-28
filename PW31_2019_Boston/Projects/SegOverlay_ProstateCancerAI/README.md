@@ -26,16 +26,12 @@ Advances in machine learning and deep learning have made it possible to embed th
 
 ## Before project week
 ![Screenshot of ProstateCancer.ai](https://github.com/NA-MIC/ProjectWeek/blob/master/PW31_2019_Boston/Projects/SegOverlay_ProstateCancerAI/Screenshot_ProstateCancerAI.PNG)
-Illustrates the use of the AI Probe feature on prostatecancer.ai.
+Illustrates the use of the AI Probe feature on prostatecancer.ai before project week
 
 ## After project week
+![Screenshot of ProstateCancer.ai](https://github.com/NA-MIC/ProjectWeek/blob/master/PW31_2019_Boston/Projects/SegOverlay_ProstateCancerAI/Screenshot_AfterProjectWeek.png)
+Illustrates the use of the AI Probe feature on prostatecancer.ai after project week
 
-
-
-
-# Illustrations
-![Screenshot of ProstateCancer.ai](https://github.com/NA-MIC/ProjectWeek/blob/master/PW31_2019_Boston/Projects/SegOverlay_ProstateCancerAI/Screenshot_ProstateCancerAI.PNG)
-Illustrates the use of the AI Probe feature on prostatecancer.ai.
 
 # Background and References
 
