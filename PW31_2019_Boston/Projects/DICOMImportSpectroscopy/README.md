@@ -26,7 +26,8 @@ Algorithms have previous been coded in Matlab, and it is proposed their translat
 
 
 ## Progress and Next Steps
-
+1. Encapsulation of raw spectroscopy data into a DICOM file structure, to import this data as a new serie in existing patient/study record.
+2. In progress: defining a new DICOM plugin to handle encapsulated data properly.
 
 
 ## Illustrations
