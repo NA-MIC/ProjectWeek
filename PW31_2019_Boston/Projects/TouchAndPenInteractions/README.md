@@ -31,11 +31,16 @@ Implement and integrate robust interactions using both touchscreen gestures and 
 - [Slicer Pull request for adding touchscreen gestures](https://github.com/Slicer/Slicer/pull/1122)
 - Added tablet mode to segment editor
   - Tablet mode rejects regular mouse events and instead only acknowledges tablet events within the segment editor
-  
-- Feedback
-  - Useful to have a button on the tablet that increments/deincrements through the slices
+- Added interaction with button on surface pen to switch between the last active segment editor effect
 
-### Result
+### Feedback
+  - Would be useful to have a button on the tablet that increments/deincrements through the slices
+
+### Issues
+  - For Microsoft Surface Pen, pen button events are sent as "Windows Key" + F18-F20, however Slicer is only currently detectinbg the "Windows Key" (Qt::Key_Meta)
+  - Improvements have been added to Qt, starting with the currently Slicer incompatible version of 5.12 (https://bugreports.qt.io/browse/QTBUG-53739)
+
+## Result
 
  [Segmentation using Surface Pen](https://youtu.be/ZE16nNRxEjw)
 
