@@ -37,6 +37,11 @@ Also, we will discuss about the globalization in OHIF.
 
 ## Progress and Next Steps
 
+1. Developing the I18n supporting in srcipted modules. 
+1. Discussing several proposals to define the infrastructures for the translation in 3D Slicer
+1. The number formats is postponed several months
+1. Integrating the nightly infrastructure in our lab in Canary Islands 
+
 ## Illustrations
 Fig. 1: Spanish Slicer GUI
 <img src="SpanishGUISlicer.png" width="652" height="356"> 
