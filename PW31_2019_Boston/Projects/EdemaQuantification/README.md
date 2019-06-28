@@ -24,6 +24,14 @@ Example x-ray images:
 3. Look into i2b2: https://www.i2b2.org/
 4. ...
 
+## Progress
+1. Collected visualization ideas and option from several investigators
+1. Developed a prototyping plan
+
+## Next steps
+1. Implement some visualization ideas using a few patient datasets
+1. Iterate with clinical colleagues on best implementation options
+
 # Background and References
 
 ML algorithms for quantifying pulmonary edema in chest x-ray: https://www.csail.mit.edu/research/chest-x-ray-analysis
