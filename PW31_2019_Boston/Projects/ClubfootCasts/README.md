@@ -46,25 +46,31 @@ daily living for families with plastic instead of plaster casts.
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 - **3D Scan**
-  - Using off the shelf 3D scanners
-  - Molding the foot and using CT scan 
-  - Using motion capture cameras/techniques
-  - Using a parametrized generic 3D model (No need to scan)
+  - Challenge:
+    - Baby's foot is moving
+  - Ideas:
+    - Using off the shelf 3D scanners
+      - Currently we are using this approach but the result is not good
+    - Molding the foot and CT scan the mold 
+    - Using motion capture cameras/techniques
+    - Using a parametrized generic 3D model (No need to scan)
 
 - **Measurement**
 
+![Measurements](Measurements.png)
+
 - **Deformation**
   - Using skeletal animation available in 3D modeling applications
-  - Using sumulation applications like **OpenSim**
+  - Using anatomically/physics based sumulation applications like **OpenSim**
   - Using **OsteotomyPlanner** slicer extension
 
 | Before | After|
 |--------|------|
-| <img src="Before.png" alt="Before" width="300"/> | <img src="After.png" alt="After" width="300"/> |
+| <img src="Before.png" alt="Before" width="400"/> | <img src="After.png" alt="After" width="400"/> |
 
 - **3D Print** 
   - Cost Effectiveness
-  - Easy to apply/remove
+  - Easy to apply/clean/remove
 
 # Illustrations
 
