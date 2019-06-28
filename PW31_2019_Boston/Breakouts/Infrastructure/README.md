@@ -33,7 +33,7 @@ to address new use cases and user communities.
     * paging data to GPU
     * virtual memory
     * remote rendering / clusters
-1. Generating animations
+2. Generating animations
   * Goals:
     * illustrate complex volume data by changing camera, cropping, transfer functions
     * visualize processes (time series, procedure plans, etc)
@@ -41,7 +41,7 @@ to address new use cases and user communities.
     * generalize sequences with interpolation
     * create 'canned' scripts like rock and rotate modes
     * create keyframe animation system and GUI
-1. Other topics as they come up
+3. Other topics as they come up
 
 
 # Background and References
@@ -53,7 +53,8 @@ to address new use cases and user communities.
 
 <!-- To be filled out after the event. -->
 
-###Volume Rendering
+##Volume Rendering
+
 * Need to fix GPU use cases first
   - better error / warning messages
   - on-the-fly resampling to fit in memory
@@ -62,7 +63,8 @@ to address new use cases and user communities.
   - servers like dicomweb for larger data
   - there's some precedent but nothing completely standard at the moment
   
-###Keyframing
+##Keyframing
+
 * Good to build on ScreenCapture and Sequences
 * See if we can build something 'simple' something like powerpoint build effects in ScreenCapture
 * Longer term project to build a nice keyframe/timeline slider (Kitware will follow up with Murat on that)
