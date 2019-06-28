@@ -25,7 +25,11 @@ Our goal for project week is to have a working extension that demos an iMSTK sim
 
 ## Progress and Next Steps
 
-
+1. iMSTK Superbuild extension:  90% functioning, some remaining issues wth tbb linking
+2. CollisionSimulation Module: Can load two arbitrary volumetic meshes for a gravity based collision,  allows for setting key parameters through GUI
+3. Initial work on connecting Slicer transforms to iMSTK devices
+4. Next step:  finish CMake changes to allow building on factory
+5. Next step: add a tool interaction demo
 
 # Illustrations
 
