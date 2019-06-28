@@ -34,10 +34,15 @@ This project focuses on the development of an anatomical atlas of the abdomen an
 ## Progress and Next Steps
 
 1. Abdomen segmentation has been already completed, covering from pelvis to diaphragm
-2. Element names have been translated to english, french and spanish
+2. Element names have been translated to english, french and spanish. Added the anatomical term ID for each
 3. In the coming days the atlas, in the three languages, will be uploaded to the server
+4. VR version is already exported in gltf format
 
 ## Illustrations
-<img src="abdomen.png" width="700"> 
+<img src="abdomen.png" width="700">
+Final version of the segmentation
+
+<img src="idiomas.png" width="700"> 
+Language trasnlation and TA termn
 
 ## Background and References
