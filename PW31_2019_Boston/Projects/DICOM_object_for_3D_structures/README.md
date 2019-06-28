@@ -41,8 +41,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ![Description of picture]
 ![Some more images](Example2.jpg)
 -->
-<img src="slicer_view.png">
-<img src="panel.png">
+<img src="slicer_view.PNG">
+<img src="panel.PNG">
 
 # Background and References
 
