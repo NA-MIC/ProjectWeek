@@ -45,7 +45,7 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 
 ### Open Anatomy
 
-- [Export models to glTF file](Projects/glTFExport/README.md) (Andras Lasso, Csaba Pinter, Mike Halle)
+- [Export OpenAnatomy models to glTF file](Projects/glTFExport/README.md) (Andras Lasso, Csaba Pinter, Mike Halle)
 - [Abdomen and male pelvis atlas](Projects/kidneyAtlas/README.md) (Babacar Diao, Nayra Pumar, Mike Halle)
 
 ### Simulation
