@@ -18,6 +18,13 @@ Running Slicer on Google Cloud Platform with GPU support WITHOUT using dockerize
 
 Replicate Slicer running GCP machine with instructions and write them down for the public
 
+Important notes:
+
+* The instructions don't account for security concerns so *don't put any data or passwords on the virtual machine* if you want to keep it secret.
+* The Google Cloud Platform costs real money once your free trial is over.  _Be sure to shut down anything you aren't using_ or your credit card will eventually be charged.
+* Be careful with your login information.  If someone takes over your account they _can run up a huge bill that you will be responsible for paying_.
+
+
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
@@ -120,3 +127,11 @@ while true; do x11vnc -forever; sleep 1; done
 cd Slicer-4.10.2-linux-amd64
 ./Slicer
 ```
+
+# TODO
+If anyone works on these issues please write them up and let us know:
+* Add instructions for setting up TLS / HTTP (e.g. with [letsencrypt.org](https://letsencrypt.org/)
+* Add instructions for setting up reverse proxy with OAuth
+* Add a window manager and other utilities to the X environment, (e.g. with [OpenBox](http://openbox.org), as is [done here](https://github.com/pieper/SlicerDockers/tree/master/x11)
+* Describe other VNC options
+* Come up with similar instructions for AWS and Azure (and other computer rental providers).
