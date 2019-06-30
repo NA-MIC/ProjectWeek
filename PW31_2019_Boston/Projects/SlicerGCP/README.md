@@ -136,12 +136,13 @@ cd Slicer-4.10.2-linux-amd64
 ./Slicer
 ```
 
+Note: this is a very raw linux machine and you are running as root.  There is also a user account under your name that is automatically created by the google VM boot process.  Pretty much anything from the last few decades of linux development should run the same here as it does on a local workstation.
 
 # TODO
 If anyone works on these issues please write them up and let us know:
 * Add instructions for setting up TLS / HTTP (e.g. with [letsencrypt.org](https://letsencrypt.org/)
 * Add instructions for setting up reverse proxy with OAuth
 * Add a window manager and other utilities to the X environment, (e.g. with [OpenBox](http://openbox.org), as is [done here](https://github.com/pieper/SlicerDockers/tree/master/x11))
-  * running `sudo apt-get install openbox && openbox-session` in the terminal window is one way to start.
+  * running `sudo apt-get install openbox && openbox-session` in the terminal window is one way to start.  A lot of things won't work out of the box but you can configure the files in `/opt/xdg/openbox`.  Also you can access the NVidia X server settings to change the screen resolution.
 * Describe other VNC options
 * Come up with similar instructions for AWS and Azure (and other computer rental providers).
