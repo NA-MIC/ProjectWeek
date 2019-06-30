@@ -53,7 +53,7 @@ to address new use cases and user communities.
 
 <!-- To be filled out after the event. -->
 
-##Volume Rendering
+## Volume Rendering
 
 * Need to fix GPU use cases first
   - better error / warning messages
@@ -63,7 +63,7 @@ to address new use cases and user communities.
   - servers like dicomweb for larger data
   - there's some precedent but nothing completely standard at the moment
   
-##Keyframing
+## Keyframing
 
 * Good to build on ScreenCapture and Sequences
 * See if we can build something 'simple' something like powerpoint build effects in ScreenCapture
