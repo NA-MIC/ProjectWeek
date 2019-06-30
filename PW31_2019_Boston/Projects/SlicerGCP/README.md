@@ -157,3 +157,5 @@ You can replace with a patched version like this (as root):
 curl "https://drive.google.com/uc?id=1FCTxYPAPf58AqchST0SLYfZFZoVANCfL&export=download" -o x11vnc -L
 cp x11vnc /usr/bin/x11vnc
 ```
+
+* For key repeat: `sudo apt-get install x11-xserver-utils` and then `xset r rate 300 10`
