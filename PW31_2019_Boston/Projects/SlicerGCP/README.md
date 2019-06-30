@@ -18,11 +18,11 @@ Running Slicer on Google Cloud Platform with GPU support WITHOUT using dockerize
 
 Replicate Slicer running GCP machine with instructions and write them down for the public
 
-Important notes:
+**Important notes:**
 
-* The instructions don't account for security concerns so *don't put any data or passwords on the virtual machine* if you want to keep it secret.
-* The Google Cloud Platform costs real money once your free trial is over.  _Be sure to shut down anything you aren't using_ or your credit card will eventually be charged.
-* Be careful with your login information.  If someone takes over your account they _can run up a huge bill that you will be responsible for paying_.
+* The instructions don't account for security concerns so **don't put any data or passwords on the virtual machine** if you need to keep them secret.
+* The Google Cloud Platform costs real money once your free trial is over.  **Be sure to shut down anything you aren't using** or your credit card will eventually be charged.
+* Be careful with your login information.  If someone takes over your account they **could run up a huge bill that you will be responsible for paying**.
 
 
 ## Approach and Plan
@@ -146,3 +146,14 @@ If anyone works on these issues please write them up and let us know:
   * running `sudo apt-get install openbox && openbox-session` in the terminal window is one way to start.  A lot of things won't work out of the box but you can configure the files in `/opt/xdg/openbox`.  Also you can access the NVidia X server settings to change the screen resolution.
 * Describe other VNC options
 * Come up with similar instructions for AWS and Azure (and other computer rental providers).
+
+
+## Troubleshooting
+
+If you have trouble with the x11 server disconnecting when openning menus or resizing files, you are probably hitting [this bug](https://github.com/LibVNC/x11vnc/issues/61) which is not yet fixed in ubuntu.
+
+You can replace with a patched version like this (as root):
+```
+curl "https://drive.google.com/uc?id=1FCTxYPAPf58AqchST0SLYfZFZoVANCfL&export=download" -o x11vnc -L
+cp x11vnc /usr/bin/x11vnc
+```
