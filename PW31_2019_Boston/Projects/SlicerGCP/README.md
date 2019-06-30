@@ -100,6 +100,25 @@ Section "Device"
 EndSection
 ```
 
+
+### Start noVNC server
+
+Do this install once
+```
+sudo apt-get install python
+git clone https://github.com/novnc/noVNC
+```
+
+Note that once you have done these configs the machine is set up and you can shut it down when you aren't using it.
+
+
+Each reboot (e.g. after doing 'start' on the google cloud console).  The commands below are set up so you can cut and paste them into the ssh terminal from the google interface, but if you want to debug more easily them you might want to paste each in its own terminal. 
+```
+sudo xinit -- +extension GLX &
+./noVNC/utils/launch.sh --vnc localhost:5900 &
+while true; do x11vnc -forever; sleep 1; done
+```
+
 ### Download and unpack Slicer for linux
 
 Here using a specific revision, but any version should work
@@ -108,17 +127,6 @@ Here using a specific revision, but any version should work
 wget http://slicer.kitware.com/midas3/download/item/435293/Slicer-4.10.2-linux-amd64.tar.gz
 tar xvzf Slicer-4.10.2-linux-amd64.tar.gz
 ```
-
-### Start noVNC server
-
-```
-sudo apt-get install python
-git clone https://github.com/novnc/noVNC
-./noVNC/utils/launch.sh --vnc localhost:5900
-sudo xinit -- +extension GLX &
-while true; do x11vnc -forever; sleep 1; done
-```
-
 ### Connect VNC
 
 1. Connect to http://{VM_External_IP}:6080/vnc.html
@@ -128,10 +136,12 @@ cd Slicer-4.10.2-linux-amd64
 ./Slicer
 ```
 
+
 # TODO
 If anyone works on these issues please write them up and let us know:
 * Add instructions for setting up TLS / HTTP (e.g. with [letsencrypt.org](https://letsencrypt.org/)
 * Add instructions for setting up reverse proxy with OAuth
-* Add a window manager and other utilities to the X environment, (e.g. with [OpenBox](http://openbox.org), as is [done here](https://github.com/pieper/SlicerDockers/tree/master/x11)
+* Add a window manager and other utilities to the X environment, (e.g. with [OpenBox](http://openbox.org), as is [done here](https://github.com/pieper/SlicerDockers/tree/master/x11))
+  * running `sudo apt-get install openbox && openbox-session` in the terminal window is one way to start.
 * Describe other VNC options
 * Come up with similar instructions for AWS and Azure (and other computer rental providers).
