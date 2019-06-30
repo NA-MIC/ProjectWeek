@@ -1,5 +1,12 @@
 # Slicer FEniCS Installation
 
+The following instructions assume that the FEniCS C++ components have been installed in
+`${MY_FENICS_DIR}`.
+For FEniCS installation instructions see:
+- <https://gitlab.com/benzwick/fenics-debian>
+- <https://fenicsproject.org/download>
+- <https://fenics.readthedocs.io/en/latest/installation.html>
+
 ## Variables
 
 Set paths to Slicer and FEniCS
@@ -22,9 +29,6 @@ Download and install Python header files
 
 ## Install FEniCS in Slicer
 
-The following instructions assume that FEniCS has been installed in
-`${MY_FENICS_DIR}`.
-
 Set DOLFIN environment variables
 
     source ${MY_FENICS_DIR}/share/dolfin/dolfin.conf
@@ -40,4 +44,5 @@ Install FEniCS Python components from source
 
 ## Run Slicer
 
+    source ${MY_FENICS_DIR}/share/dolfin/dolfin.conf
     ${MY_SLICER_DIR}/Slicer
