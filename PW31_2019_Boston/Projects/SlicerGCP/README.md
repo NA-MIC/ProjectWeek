@@ -158,4 +158,4 @@ curl "https://drive.google.com/uc?id=1FCTxYPAPf58AqchST0SLYfZFZoVANCfL&export=do
 cp x11vnc /usr/bin/x11vnc
 ```
 
-* For key repeat: `sudo apt-get install x11-xserver-utils` and then `xset r rate 300 10`
+* For key repeat: `sudo apt-get install x11-xserver-utils` and then `xset r rate 300 10` (you also need run `xset r on` twice to override the [-norepeat](http://www.karlrunge.com/x11vnc/x11vnc_opts.html) option of x11vnc)
