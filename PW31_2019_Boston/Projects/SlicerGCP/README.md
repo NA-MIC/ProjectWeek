@@ -146,6 +146,7 @@ If anyone works on these issues please write them up and let us know:
   * running `sudo apt-get install openbox && openbox-session` in the terminal window is one way to start.  A lot of things won't work out of the box but you can configure the files in `/opt/xdg/openbox`.  Also you can access the NVidia X server settings to change the screen resolution.
 * Describe other VNC options
 * Come up with similar instructions for AWS and Azure (and other computer rental providers).
+* Consider setting up a multi-user system with multiple logins to be used in 'time sharing' for collaboration and resource sharing.
 
 
 ## Troubleshooting
