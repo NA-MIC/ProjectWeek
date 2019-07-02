@@ -9,27 +9,24 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 The 32nd NA-MIC PW [Event album]().
 
 ## Logistics
-
-To receive information and announcements about the events please join the [Slack group](https://join.slack.com/t/spww/shared_invite/enQtMzk4MDQyMDI1NjU0LTIwZDU2MGY4N2MzYTdmMzE1ZTlmNzA2NmNhYjE5MTA0NWMyY2RhMDQyMWYwMjkzYmU3MTczZmE0NTM0ZDZjNDQ) (for questions dedicated to this event).
+To receive information and announcements about the events please join the [Slack group](https://join.slack.com/t/spww/shared_invite/enQtNjcxMTc3MTQyMjU5LTlhZDJmODVmMDgyNWNiZjQ5MDU2OWM5OWE3NTFiZGRlZDRiYzdiNzU2YTQwZjk5NDI2NzNiYjc5Zjc3M2U2MmU) (for questions dedicated to this event).
 
 + **Dates:** July 15-19, 2019.
 + **Location:** [Robarts Research Institute](https://www.google.ca/maps/@43.0113638,-81.2738561,3a,75y,340.63h,93.84t/data=!3m6!1e1!3m4!1sqB04BofO2fkNxgxlzynSRA!2e0!7i13312!8i6656)
 + **REGISTRATION:** [https://event-wizard.com/Slicer2019/0/register/](https://event-wizard.com/Slicer2019/0/register/)
 + **Hotel:** No formal arrangement has been made, but some options are:
-  + Close, $, wide range of room styles: [http://guesthouseonthemount.ca/](http://guesthouseonthemount.ca/)
-  + Close, $$, balanced offering: [https://windermeremanor.com/](https://windermeremanor.com/)
-  + Downtown, $$/$$$, nice character, good location to explore London, [http://www.deltahotellondon.com/](http://www.deltahotellondon.com/)
+  + Close, \$, wide range of room styles: [http://guesthouseonthemount.ca/](http://guesthouseonthemount.ca/)
+  + Close, \$\$, balanced offering: [https://windermeremanor.com/](https://windermeremanor.com/)
+  + Downtown, \$\$/\$\$\$, nice character, good location to explore London, [http://www.deltahotellondon.com/](http://www.deltahotellondon.com/)
 + **Parking:** Visitor parking is available at $12/day (sorry!) in the nearby [hospital visitor parking garage](https://www.google.ca/maps/@43.0142363,-81.2750746,3a,75y,186.07h,100.01t/data=!3m5!1e1!3m3!1sVo_3mg5ibFW_kPnYjVOrPQ!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DVo_3mg5ibFW_kPnYjVOrPQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D62.77921%26pitch%3D0%26thumbfov%3D100). University of Western Ontario parking information is available [here](https://www.uwo.ca/parking/find/visitor/index.html)
 
 ## Local Organizing Committee
- 
 - Host: [Terry Peters](http://www.robarts.ca/terry-peters), Robarts Scientist; Professor Medical Imaging; Medical Biophysics; Biomedical Engineering
 
 - Email Local Organizing Committee:
   - [Adam Rankin, Terry Peters, Jackie Williams](mailto:arankin@robarts.ca,tpeters@robarts.ca,jwilliams@robarts.ca?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek29)
 
 ## Frequently Asked Questions
-
 + [What?](../README.md#what)
 + [When, where, how much?](./README.md#logistics)
 + [How does it work?](../README.md#how-does-it-work)
@@ -52,9 +49,13 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + 
 
 ### Core infrastructure
-+ 
++ [Slicer for ARM64](./Projects/Slicer_ARM64/README.md)
 
 ## Registrants
-1. 
+1. Carol Johnson (Baines Imaging Research Laboratory)
+1. Geoff Klein (University of Toronto)
+1. Adam Rankin (Robarts Research Institute)
+1. Puneet Ranota (Western University of Ontario)
+
 
 Do not add your name to this list - it is maintained by the organizers based on your paid registration.
