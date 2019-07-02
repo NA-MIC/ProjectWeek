@@ -147,7 +147,8 @@ If anyone works on these issues please write them up and let us know:
 * Describe other VNC options
 * Come up with similar instructions for AWS and Azure (and other computer rental providers).
 * Consider setting up a multi-user system with multiple logins to be used in 'time sharing' for collaboration and resource sharing.
-
+* Explore reliability (sometime instances reboot unexpectedly)
+* Explore the most cost-effective options (e.g. preemptable instances and GCP vs AWS and others for running tasks)
 
 ## Troubleshooting
 
