@@ -75,7 +75,7 @@ sudo ubuntu-drivers autoinstall
 sudo apt install xinit
 sudo apt-get install x11vnc
 sudo apt-get install xterm
-sudo xinit
+sudo xinit &
 sudo nvidia-xconfig
 ```
 
