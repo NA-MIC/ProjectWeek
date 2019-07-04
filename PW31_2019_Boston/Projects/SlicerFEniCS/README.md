@@ -47,6 +47,8 @@ is to integrate FEniCS into a Slicer extension.
 ![Some more images](Example2.jpg)
 -->
 
+![Slicer FEniCS demo](https://github.com/benzwick/slicer-fenics/blob/v0.1.0/demo.gif)
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
