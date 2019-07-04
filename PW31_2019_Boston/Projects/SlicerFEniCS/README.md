@@ -33,20 +33,12 @@ is to integrate FEniCS into a Slicer extension.
 1. Run FEniCS demo inside Slicer.
 1. Create Slicer FEniCS extension. 
 
-## Approach and Plan
-
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
-
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Installed FEniCS Python packages inside Slicer (see [Slicer FEniCS Installation](slicer-fenics-install.md)).
-1. Created Slicer extension to run FEniCS demo inside Slicer.
+1. Created [Slicer FEniCS](https://github.com/benzwick/slicer-fenics) extension to run FEniCS demo inside Slicer.
 
 # Illustrations
 
