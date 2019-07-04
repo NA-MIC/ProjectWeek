@@ -14,6 +14,12 @@ Set paths to Slicer and FEniCS
     MY_SLICER_DIR=/opt/slicer/Slicer-4.11.0-2019-06-24-linux-amd64/
     MY_FENICS_SRC=~/projects/fenics/fenics-2019.1.0/
     MY_FENICS_DIR=/opt/fenics/fenics-2019.1.0/
+    
+Set Python dependency versions
+
+    MPI4PY_VERSION="==3.0.1"
+    PETSC4PY_VERSION="==3.11.0"
+    SLEPC4PY_VERSION="==3.11.0"
 
 ## Install Python header files
 
@@ -32,6 +38,12 @@ Download and install Python header files
 Set DOLFIN environment variables
 
     source ${MY_FENICS_DIR}/share/dolfin/dolfin.conf
+    
+Install Python dependencies
+
+    ${MY_SLICER_DIR}/bin/PythonSlicer -m pip install mpi4py${MPI4PY_VERSION}
+    ${MY_SLICER_DIR}/bin/PythonSlicer -m pip install petsc4py${PETSC4PY_VERSION}
+    ${MY_SLICER_DIR}/bin/PythonSlicer -m pip install slepc4py${SLEPC4PY_VERSION}
 
 Install FEniCS Python components from source
 
