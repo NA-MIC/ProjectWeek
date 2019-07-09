@@ -1,5 +1,10 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
+**NOTE: This content is being maintained at [this new location](https://github.com/QIICR/SlicerGCPSetup). Please create issues/pull requests in that repository.**
+
+
+
+
 # Slicer in Google Cloud Platform (GCP) with GPU support
 
 ## Key Investigators
