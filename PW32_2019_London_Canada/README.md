@@ -43,7 +43,7 @@ To receive information and announcements about the events please join the [Slack
 Please [follow these instructions](./Projects/README.md) to create a project page. For those new to Git who are daunted by this, you can email your project details to [Adam Rankin](mailto:arankin@robarts.ca) and he will add a project page for you.
 
 ### Deep Learning
-+
++[NiftyNet Alive Demo](./Projects/NiftyNet-Alive-demo/README.MD)
 
 ### Image Guided Surgery/Therapy
 + 
