@@ -45,6 +45,9 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 ### Deep Learning
 +[NiftyNet Alive Demo](./Projects/NiftyNet-Alive-demo/README.MD)
 
+### Registration
++ [Bronchoscope Localization from Depth Maps](./Projects/BronchoscopeLocalizationFromDepthMaps/README.md)
+
 ### Image Guided Surgery/Therapy
 + 
 
