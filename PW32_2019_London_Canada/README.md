@@ -56,6 +56,9 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 ### IGT
 + [OpenIGTLink connection between Slicer and Hololens Unity applications](./Projects/HololensOpenIGTLink/README.md)
 
+### Simulation
++ [Interactive medical simulation toolkit (IMSTK) integration](../PW31_2019_Boston/Projects/SlicerIMSTK/README.md)
+
 ### Core infrastructure
 + [Slicer for ARM64](./Projects/Slicer_ARM64/README.md)
 
