@@ -44,6 +44,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Clinical
 + [Image Quizzer Project](./Projects/ImageQuizzerProject/README.md)
++ [Spine Model](./Projects/Spinemodel/README.md)
 
 ### Deep Learning
 + [NiftyNet Alive Demo](./Projects/NiftyNet-Alive-demo/README.md)
