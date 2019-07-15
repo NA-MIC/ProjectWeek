@@ -1,4 +1,4 @@
-Back to [Projects List](../../README.md#ProjectsList)
+Back to [Projects List](../../../PW32_2019_London_Canada/README.md#ProjectsList)
 
 # Interactive medical simulation toolkit (IMSTK) integration
 
