@@ -47,6 +47,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Deep Learning
 + [NiftyNet Alive Demo](./Projects/NiftyNet-Alive-demo/README.md)
++ [Vertebral Segmentation 3D U-Net](./VertebralSegmentation3DUNet/README.md)
 
 ### Registration
 + [Bronchoscope Localization from Depth Maps](./Projects/BronchoscopeLocalizationFromDepthMaps/README.md)
