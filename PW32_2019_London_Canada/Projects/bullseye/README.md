@@ -32,13 +32,14 @@ Positioning of the glenoid component in total shoulder arthroplasty is a challen
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
+Created simple data flow diagram for the first module. Next is to sketchup module design and implement in Slicer.
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 <!--![Description of picture](Example2.jpg)-->
-
+[Data Flow Diagram for Module 1: Prealign optical image of tracker and tracker model](Bullseye_Data_Flow_Module_1.png)
 <!--![Some more images](Example2.jpg)-->
 
 # Background and References
