@@ -1,17 +1,18 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-## Kidney Segmentation
+## Kidney Segmentation for ultrasound simulation
 
 ## Key Investigators
 - Lyla Mu (Western University) 
 
 
 # Project Description
-<!-- Segment kidney, calyx, pyramid, blood vessels and other abdominal organs. Create 3D mesh models --> 
+<!-- Segment kidney, calyx, pyramid, blood vessels and other abdominal organs. Create 3D mesh models for ultrasound simulation using PLUS --> 
 
 ## Objective
 1. Segment kidney, calyx, pyramid and blood vessels.
 2. Create 3D mesh models
+3. Assign acoustic properties for ultrasound simulation using PLUS
 
 
 ## Approach and Plan
@@ -39,4 +40,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
 
-https://github.com/NA-MIC/ProjectWeek/tree/master/PW32_2019_London_Canada/Projects
+
