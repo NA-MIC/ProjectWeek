@@ -44,16 +44,19 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Clinical
 + [Image Quizzer Project](./Projects/ImageQuizzerProject/README.md)
++ [Prostate Registration/Analysis](./Projects/ProstateRegAnalysis/README.md)
 + [Spine Model](./Projects/Spinemodel/README.md)
 
 ### Deep Learning
 + [NiftyNet Alive Demo](./Projects/NiftyNet-Alive-demo/README.md)
 + [Vertebral Segmentation 3D U-Net](./Projects/VertebralSegmentation3DUNet/README.md)
++ [Segementation of diaphragm](./Projects/DiaphragmSegmentation/README.md)
 
 ### Registration
 + [Bronchoscope Localization from Depth Maps](./Projects/BronchoscopeLocalizationFromDepthMaps/README.md)
 + [Principal Axis Transformation for Orientation Mismatch Correction](./Projects/PAxisTransform/README.md)
 + [Bullseye - Computer Vision for Intraoperative Validation of Glenoid Component Placement in Total Shoulder Arthroplasty](./Projects/bullseye/README.md)
++ [Registration for cochlear modeling](./Projects/RegistrationCochlearModeling/README.md)
 
 ### IGT
 + [OpenIGTLink connection between Slicer and Hololens Unity applications](./Projects/HololensOpenIGTLink/README.md)
