@@ -7,7 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 
 # Project Description
-<!-- Segment kidney, calyx, pyramid and blood vessels. Create 3D mesh models --> 
+<!-- Segment kidney, calyx, pyramid, blood vessels and other abdominal organs. Create 3D mesh models --> 
 
 ## Objective
 1. Segment kidney, calyx, pyramid and blood vessels.
