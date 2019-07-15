@@ -9,18 +9,20 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 Manual diaphragm segmentation requires 2 hours per left hemi-diaphragm for a trained rater. 
+
 Previous automated methods of CT diaphragm segmentation, have relied on using a priori anatomical 
 knowledge (i.e. the lower surface of the lungs as a diaphragmatic landmark), mathematical models, and other 
 assumptions in order to segment the diaphragm, which was then compared to the gold standard manual 
 segmentation performed by expert radiologists. This method outputed measures of diaphragm distances, 
 surface area, and curvature.
+
 Our method would be the first to use the gold standard method of over 300 manual and direct diaphragmatic 
 segmentations to train an artificial intelligence and neural network that would  create a three-dimensional model 
 of the left hemi-diaphragm with measures of density, volume, and dome height.
 
 ## Objective
-1. Objective A. To automate diaphragm muscle segmentation from chest CT images using an artificial neural 
-network approach.
+1. Objective A. To automate diaphragm muscle segmentation from chest CT images using 300 manually segmented diaphragms
+along with an artificial neural network approach.
 
 ## Approach and Plan
 
