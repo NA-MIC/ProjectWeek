@@ -57,9 +57,11 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [Principal Axis Transformation for Orientation Mismatch Correction](./Projects/PAxisTransform/README.md)
 + [Bullseye - Computer Vision for Intraoperative Validation of Glenoid Component Placement in Total Shoulder Arthroplasty](./Projects/bullseye/README.md)
 + [Registration for cochlear modeling](./Projects/RegistrationCochlearModeling/README.md)
++ [SimpleElastix for Slicer](./Projects/Slicer_SimpleElastix/README.md)
 
 ### IGT
 + [OpenIGTLink connection between Slicer and Hololens Unity applications](./Projects/HololensOpenIGTLink/README.md)
++ [Slicer Hands for VR](./Projects/slicerHands/README.md)
 
 ### Simulation
 + [Interactive medical simulation toolkit (IMSTK) integration](../PW31_2019_Boston/Projects/SlicerIMSTK/README.md)
