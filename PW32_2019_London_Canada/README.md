@@ -49,9 +49,6 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [Bronchoscope Localization from Depth Maps](./Projects/BronchoscopeLocalizationFromDepthMaps/README.md)
 + [Principal Axis Transformation for Orientation Mismatch Correction](./Projects/PAxisTransform/README.md)
 
-### Image Guided Surgery/Therapy
-+ 
-
 ### Core infrastructure
 + [Slicer for ARM64](./Projects/Slicer_ARM64/README.md)
 
