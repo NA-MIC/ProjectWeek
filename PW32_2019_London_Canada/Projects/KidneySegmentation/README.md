@@ -38,6 +38,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
+- Test data: Kidney CT https://github.com/neheller/kits19/tree/master/data/case_00000
 
 
