@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 - Andras Lasso (PerkLab, Queen's)
 - Adam Rankin (Robarts)
+- Franklin King (BWH)
 
 # Project Description
 
