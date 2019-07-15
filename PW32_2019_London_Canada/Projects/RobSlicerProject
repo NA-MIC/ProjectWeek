@@ -1,0 +1,42 @@
+## Write full project title here
+
+## Key Investigators
+- Roberta Piazza, Visiting Graduate Student at Robarts Research Institute 
+
+
+# Project Description
+<!-- I am working on the electromagnetic sensorization strategy for a Conavi probe. This is an Ultrasound catheter used for
+intracardiac procedure. The idea is to use electromagnetic sensor on Conavi catheter, needle and guidewire to track them without
+using fluoroscopy. The sensors I use (NDI Aurora) cannot be bent, otherwise the signal they give is affected by errors. I want to
+verify if it is possible quantify this error and correct it--> 
+
+## Objective
+1. Objective A. Create a module to calibrate sensorized tool (for example conavi probe). 
+1. Objective B. . 
+1. Objective C. Describe it in 1-2 sentences. 
+
+## Approach and Plan
+
+1. Describe planned approach to reach objectives.
+1. ...
+1. ...
+
+## Progress and Next Steps
+
+<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+
+# Illustrations
+
+<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+
+<!--![Description of picture](Example2.jpg)-->
+
+<!--![Some more images](Example2.jpg)-->
+
+# Background and References
+
+<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
+
+- Source code: https://github.com/YourUser/YourRepository
+- Documentation: https://link.to.docs
+- Test data: https://link.to.test.data
