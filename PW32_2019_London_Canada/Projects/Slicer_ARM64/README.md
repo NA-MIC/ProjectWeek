@@ -22,7 +22,7 @@ Compile and run Slicer on a [NanoPC-T4 SBC](http://wiki.friendlyarm.com/wiki/ind
 
 # Illustrations
 
-- No illustrations
+![NanoPC-T4 board](./T4_02-900x630.jpg)
 
 # Background and References
 
