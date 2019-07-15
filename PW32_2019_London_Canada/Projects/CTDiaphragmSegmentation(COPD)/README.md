@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 - Adamo Donovan (McGill University) 
-- Investigator 2 (Affiliation) 
+- Dr. Benjamin McDonald Smith (McGill University) 
 - Investigator 3 (Affiliation)
 
 # Project Description
