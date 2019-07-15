@@ -43,31 +43,31 @@ To receive information and announcements about the events please join the [Slack
 Please [follow these instructions](./Projects/README.md) to create a project page. For those new to Git who are daunted by this, you can email your project details to [Adam Rankin](mailto:arankin@robarts.ca) and he will add a project page for you.
 
 ### Clinical
-+ [Image Quizzer Project](./Projects/ImageQuizzerProject/README.md)
++ [Image Quizzer Project](./Projects/ImageQuizzerProject/README.md) (Carol Johnson)
 + [Prostate Registration/Analysis](./Projects/ProstateRegAnalysis/README.md)
-+ [Spine Model](./Projects/Spinemodel/README.md)
++ [Spine Model](./Projects/Spinemodels/README.md) (Andrew Kanawati, Parham Rasoulinejad)
 
 ### Deep Learning
-+ [NiftyNet Alive Demo](./Projects/NiftyNet-Alive-demo/README.md)
-+ [Vertebral Segmentation 3D U-Net](./Projects/VertebralSegmentation3DUNet/README.md)
-+ [Segementation of diaphragm](./Projects/DiaphragmSegmentation/README.md)
++ [NiftyNet Alive Demo](./Projects/NiftyNet-Alive-demo/README.md) (YingLi Lu)
++ [Vertebral Segmentation 3D U-Net](./Projects/VertebralSegmentation3DUNet/README.md) (Geoff Klein)
++ [Segmentation of diaphragm](./Projects/CTDiaphragmSegmentation(COPD)/README.md) (Adamo Donovan, Dr. Benjamin McDonald Smith)
 
 ### Registration
-+ [Bronchoscope Localization from Depth Maps](./Projects/BronchoscopeLocalizationFromDepthMaps/README.md)
-+ [Principal Axis Transformation for Orientation Mismatch Correction](./Projects/PAxisTransform/README.md)
-+ [Bullseye - Computer Vision for Intraoperative Validation of Glenoid Component Placement in Total Shoulder Arthroplasty](./Projects/bullseye/README.md)
++ [Bronchoscope Localization from Depth Maps](./Projects/BronchoscopeLocalizationFromDepthMaps/README.md) (Franklin King, Shelly Liu, Jonah Berg)
++ [Principal Axis Transformation for Orientation Mismatch Correction](./Projects/PAxisTransform/README.md) (Tina Wu)
++ [Bullseye - Computer Vision for Intraoperative Validation of Glenoid Component Placement in Total Shoulder Arthroplasty](./Projects/bullseye/README.md)(David M. Burns, Samuel C.P. Newhook, Cari Whyne)
 + [Registration for cochlear modeling](./Projects/RegistrationCochlearModeling/README.md)
 + [SimpleElastix for Slicer](./Projects/Slicer_SimpleElastix/README.md)
 
 ### IGT
-+ [OpenIGTLink connection between Slicer and Hololens Unity applications](./Projects/HololensOpenIGTLink/README.md)
-+ [Slicer Hands for VR](./Projects/slicerHands/README.md)
++ [OpenIGTLink connection between Slicer and Hololens Unity applications](./Projects/HololensOpenIGTLink/README.md) (Andras Lasso)
++ [Slicer Hands for VR](./Projects/slicerHands/README.md) (Leah Groves, Adam Rankin)
 
 ### Simulation
-+ [Interactive medical simulation toolkit (IMSTK) integration](../PW31_2019_Boston/Projects/SlicerIMSTK/README.md)
++ [Interactive medical simulation toolkit (IMSTK) integration](../PW31_2019_Boston/Projects/SlicerIMSTK/README.md) (Samantha Horvath, Andras Lasso)
 
 ### Core infrastructure
-+ [Slicer for ARM64](./Projects/Slicer_ARM64/README.md)
++ [Slicer for ARM64](./Projects/Slicer_ARM64/README.md) (Adam Rankin)
 
 ## Registrants
 1. Daniel Allen (Robarts Research Institute)
