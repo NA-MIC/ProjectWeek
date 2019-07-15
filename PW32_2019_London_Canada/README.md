@@ -51,6 +51,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 ### Registration
 + [Bronchoscope Localization from Depth Maps](./Projects/BronchoscopeLocalizationFromDepthMaps/README.md)
 + [Principal Axis Transformation for Orientation Mismatch Correction](./Projects/PAxisTransform/README.md)
++ [Bullseye - Computer Vision for Intraoperative Validation of Glenoid Component in Total Shoulder Arthroplasty](./Projects/bullseye/README.md)
 
 ### Core infrastructure
 + [Slicer for ARM64](./Projects/Slicer_ARM64/README.md)
