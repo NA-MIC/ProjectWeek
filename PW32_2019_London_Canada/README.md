@@ -65,7 +65,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Simulation
 + [Interactive medical simulation toolkit (IMSTK) integration](../PW31_2019_Boston/Projects/SlicerIMSTK/README.md) (Samantha Horvath, Andras Lasso)
-
++ [Plus ultrasound simulation using kidney models](./Projects/KidneySegmentation/README.md) (Lyla Mu)
 ### Core infrastructure
 + [Slicer for ARM64](./Projects/Slicer_ARM64/README.md) (Adam Rankin)
 
