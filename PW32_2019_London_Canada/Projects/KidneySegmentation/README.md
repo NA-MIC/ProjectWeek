@@ -17,7 +17,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-1. Search for a semi automatic method to segment kidney 
+1. 
 
 
 ## Progress and Next Steps
