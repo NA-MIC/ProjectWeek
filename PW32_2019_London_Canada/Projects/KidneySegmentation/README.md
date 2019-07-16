@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-## Kidney Segmentation for ultrasound simulation
+## Plus ultrasound simulation using kidney models
 
 ## Key Investigators
 - Lyla Mu (Western University) 
