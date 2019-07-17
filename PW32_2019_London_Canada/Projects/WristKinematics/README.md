@@ -26,9 +26,10 @@ We are looking to investigate the distance between bones in the wrist from CT im
 
 # Illustrations
 
-<!--![Description of picture](Example2.jpg)-->
-
-<!--![Some more images](Example2.jpg)-->
+* [Extension and flexion of the wrist, volume rendered using bone preset](Media/ExtensionFlexion_CTBone.mp4)
+* [Extension and flexion of the wrist, volume rendered using tissue preset](Media/ExtensionFlexion_CTTissue.mp4)
+* [Extension and flexion of the wrist, volume rendered with slice views](Media/ExtensionFlexion_CTTissue_4up.mp4)
+* [Extension and flexion of the wrist, volume rendered with slice views, looped](Media/ExtensionFlexion_CTTissue_4up_loop.mp4)
 
 # Background and References
 
