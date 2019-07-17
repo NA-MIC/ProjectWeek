@@ -47,6 +47,9 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [Prostate Registration/Analysis](./Projects/ProstateRegAnalysis/README.md)
 + [Spine Model](./Projects/Spinemodels/README.md) (Andrew Kanawati, Parham Rasoulinejad)
 
+### Segmentation
++ [Wrist Kinematics](./Projects/WristKinematics/README.md)
+
 ### Deep Learning
 + [NiftyNet Alive Demo](./Projects/NiftyNet-Alive-demo/README.md) (YingLi Lu)
 + [Vertebral Segmentation 3D U-Net](./Projects/VertebralSegmentation3DUNet/README.md) (Geoff Klein)
