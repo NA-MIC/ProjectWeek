@@ -34,6 +34,9 @@ Positioning of the glenoid component in total shoulder arthroplasty is a challen
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 Created simple data flow diagram for the first module. Next is to sketchup module design and implement in Slicer.
 
+### Notes
+Fully constraining the optical tracker when performing surface registration from the optical image to the model is important. Some issues with the shape of the tracker were discussed incuding the need for at least two clear faces to be visible when taking the optical images. Sharp angles subtended between the faces are important for constraining, however, with sharp edges and a single fixed scan it is difficult to image both faces clearly.
+
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
