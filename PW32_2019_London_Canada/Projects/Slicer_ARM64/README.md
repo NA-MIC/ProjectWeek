@@ -18,7 +18,8 @@ Compile and run Slicer on a [NanoPC-T4 SBC](http://wiki.friendlyarm.com/wiki/ind
 
 ## Progress and Next Steps
 
-- Progress is described here: [https://discourse.slicer.org/t/slicer-for-ubuntu-arm64/](https://discourse.slicer.org/t/slicer-for-ubuntu-arm64/)
+- CTKAPPLAUNCHER binary format issue resolved, new repo for aarch64 releases [here](https://github.com/Slicer/AppLauncher)
+- Thead from workaround attempt is described [here](https://discourse.slicer.org/t/slicer-for-ubuntu-arm64/)
 
 # Illustrations
 
@@ -26,3 +27,4 @@ Compile and run Slicer on a [NanoPC-T4 SBC](http://wiki.friendlyarm.com/wiki/ind
 
 # Background and References
 
+- 
