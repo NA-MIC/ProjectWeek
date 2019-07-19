@@ -35,9 +35,8 @@ Future work:
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-(hand.png)
+![Current status of hands](hand.png)
 
-<!--![Some more images](Example2.jpg)-->
 
 # Background and References
 
