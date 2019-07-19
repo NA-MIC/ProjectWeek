@@ -37,6 +37,19 @@ To learn the concepts that are needed to develop the three components of the pro
 
 ## Progress and Next Steps
 
++ THE PLAN CHANGED:
+   - instead of using a .ui file to load a quiz I am using a markdown file which is much more readable and easier to work with
+   - instead of using slicelets, the Slicer main window will be used, but unnecessary modules will be hidden
+
++ PROGRESS:
+   - I have created a .md quiz file which has been loaded as a module in Slicer
+      - Qt groups boxes and radio buttons were created dynamically from the coded md file
+   - I can load images for the quiz from the study browser .md file.
+   - Python code to coordinate moving through the assigned images still to be coded
+   
+
+
+
 + Image Quizzer Designer
    - A skeleton program has been developed that allows a user to add group boxes to a table.
    - A function has been added to create a mock quiz using PythonQT widgets, which can be previewed in an independant window.
