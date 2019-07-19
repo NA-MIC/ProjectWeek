@@ -29,4 +29,5 @@ Compile and run Slicer on a [NanoPC-T4 SBC](http://wiki.friendlyarm.com/wiki/ind
 
 # Background and References
 
-- 
+- Linux graphic stack [overview](https://studiopixl.com/2017-05-13/linux-graphic-stack-an-overview)
+- Linux graphic stack [lecture](https://www.youtube.com/watch?v=k9mobviOpFQ)
