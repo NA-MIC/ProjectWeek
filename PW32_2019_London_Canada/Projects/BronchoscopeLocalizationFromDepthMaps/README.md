@@ -48,9 +48,6 @@ Tested in Windows:
 3. Just "import bpy" within Slicer
 4. Example script for performing a Boolean operation using Blender: https://github.com/SNRLab/Slicer-DepthMapTracking/blob/master/Models/BlenderBooleanExample.py
 
-## Images
-![Point cloud of airway generated from depth map](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW31_2019_Boston/Projects/BronchoscopeLocalizationFromDepthMaps/Example1.png)
-
 # Background and References
 
 1. https://github.com/NA-MIC/ProjectWeek/tree/master/PW31_2019_Boston/Projects/BronchoscopeLocalizationFromDepthMaps
