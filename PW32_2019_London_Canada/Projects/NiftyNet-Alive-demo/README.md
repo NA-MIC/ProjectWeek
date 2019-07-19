@@ -19,4 +19,4 @@ Some (almost all) of NiftyNet's offical demo at https://github.com/NifTK/NiftyNe
 
 # Background and References
 
-- Source code: https://github.com/yinglilu/niftynet_alive_demo
+yinglilu@gmail.com
