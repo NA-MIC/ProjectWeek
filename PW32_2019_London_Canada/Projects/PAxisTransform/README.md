@@ -50,6 +50,9 @@ At the beginning of the week, the volumes look like this:
 After the project week, the same volumes in the image above look like this:
 ![Result by the end of the week.](slicer-result.png)
 
+Progress on analysis:
+![spherical approximation.](spheres.png)
+
 # Background and References
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
