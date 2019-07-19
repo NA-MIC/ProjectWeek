@@ -4,8 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Write full project title here
 
 ## Key Investigators
--Hanif Ladak
--Sumit Agrawal
+- Hanif Ladak
+- Sumit Agrawal
 
 # Project Description
 Model and measure the helicotrema (tip) of the human cochlea using 3D Slicer
@@ -26,7 +26,7 @@ Had preliminary work completed coming in to Slicer week. Measuremnts were comple
 
 # Illustrations
 
-[Cropped volume rendering of the human helicotrema. BM annotates the cochlear soft tissue, and the bony shell is visible. Fiducials are placed to measure this region](Figure2Noannotation.PNG)
+![Cropped volume rendering of the human helicotrema. BM annotates the cochlear soft tissue, and the bony shell is visible. Fiducials are placed to measure this region](Figure2Noannotation.PNG)
 
-[Smoothed 3D Model of the cochlea with fiducials placed in helicotrema region. Cross-sectional slices are visualized in (B) and (C)](HelicoFidOnSmoothedModel.PNG)
+![Smoothed 3D Model of the cochlea with fiducials placed in helicotrema region. Cross-sectional slices are visualized in (B) and (C)](HelicoFidOnSmoothedModel.PNG)
 

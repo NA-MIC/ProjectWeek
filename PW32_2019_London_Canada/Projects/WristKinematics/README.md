@@ -4,6 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 - Puneet Kaur Ranota (Western University) 
+- Adam Rankin
+- Andras Lasso (PerkLab, Queen's)
 
 # Project Description
 We are looking to investigate the distance between bones in the wrist from CT images.
@@ -11,31 +13,22 @@ We are looking to investigate the distance between bones in the wrist from CT im
 ## Objective
 1. Load static CT into Slicer
 1. Load 4D cine CT into Slicer
-1. ...
+1. Segment bones
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Use multivolume importer plugin to load 4D kinematic CT into volume sequence
+1. Experiment with Segment Editor module for segmentation
 
 ## Progress and Next Steps
 
-1. MultiVolumeImporter patched to recognize GE Revolution 4D Cine sequence separator field
+1. MultiVolumeImporter patched to recognize GE Revolution 4D Cine sequence separator field (available in latest Slicer Preview version)
 1. Segment editor tutorial for bone segmentation
 
 # Illustrations
 
-* [Extension and flexion of the wrist, volume rendered using bone preset](Media/ExtensionFlexion_CTBone.mp4)
-* [Extension and flexion of the wrist, volume rendered using tissue preset](Media/ExtensionFlexion_CTTissue.mp4)
-* [Extension and flexion of the wrist, volume rendered with slice views](Media/ExtensionFlexion_CTTissue_4up.mp4)
-* [Extension and flexion of the wrist, volume rendered with slice views, looped](Media/ExtensionFlexion_CTTissue_4up_loop.mp4)
-
-# Background and References
-
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.
-
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
--->
+Videos of Extension and flexion of the wrist:
+* [Volume rendered using bone preset](Media/ExtensionFlexion_CTBone.mp4)
+* [Volume rendered using tissue preset](Media/ExtensionFlexion_CTTissue.mp4)
+* [Volume rendered with slice views](Media/ExtensionFlexion_CTTissue_4up.mp4)
+* [Volume rendered with slice views, looped](Media/ExtensionFlexion_CTTissue_4up_loop.mp4)
