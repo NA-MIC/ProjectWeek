@@ -33,6 +33,7 @@ The approach listed above was implemented but there are a few bugs, potentially 
 End results:
 - the volumes now align for small rotations; for large rotations, the principal axes might still be pointing in the opposite directions
 - optimization
+- spherical approximation integration
 
 Future improvements:
 - did not get a chance to implement visualization
@@ -51,6 +52,7 @@ After the project week, the same volumes in the image above look like this:
 ![Result by the end of the week.](slicer-result.png)
 
 Progress on analysis:
+
 ![spherical approximation.](spheres.png)
 
 # Background and References
