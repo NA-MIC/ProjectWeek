@@ -5,6 +5,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 - Tina Wu (Sunnybrook Health Science Centre)
 
+# Acknowledgement 
+- Michael Hardisty (Sunnybrook Health Science Centre)
+- Andras Lasso (Perk Lab)
+- Andrew Yang
+
 # Project Description
 <!-- Add a short paragraph describing the project. --> 
 Current slicer modules for general registration (BRAINs or Elastix) are unable to handle large initial mismatch between the two objects of interest. The purpose of this project is to create a slicer module that would allow registering two volumes with large initial mismatches (>15-20 degs) based on their principal axes. The module would also come with the capability for allowing users to visualize the volumes (as a model) and the direction of the principal vectors.
