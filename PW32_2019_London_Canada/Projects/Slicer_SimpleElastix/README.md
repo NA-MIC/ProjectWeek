@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 Modify the SimpleElastix project to seperate it from the SimpleITK build and instead use SimpleITK as a SuperBuild dependency.
-SimpleElastix could then be integrated into the SlicerElastix module to allow direct use of the Elastix registration filters from python.
+SimpleElastix could then potentially be integrated into the SlicerElastix module to allow direct use of the Elastix registration filters from python.
 
 ## Objective
 1. Complete build configuration work to enable standalone python wrapping of elastix filters 
@@ -20,15 +20,8 @@ SimpleElastix could then be integrated into the SlicerElastix module to allow di
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 - Removed all SimpleITK duplicate code from SimpleElastix
 - Modified Swig configurations to allow dependency on SimpleITK
-- Need to finish CMake clean up to fully seperate SimpleElastix and remove leftover SimpleITK configuration info
-
-# Illustrations
-
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
-
-<!--![Description of picture](Example2.jpg)-->
-
-<!--![Some more images](Example2.jpg)-->
+- SimpleElastix imported into Slicer and useable for registration
+- Next steps are to work with core SimpleElastix developer on upstreaming the changes
 
 # Background and References
 
