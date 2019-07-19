@@ -26,7 +26,7 @@ Had preliminary work completed coming in to Slicer week. Measuremnts were comple
 
 # Illustrations
 
-[Cropped volume rendering of the human helicotrema. BM annotates the cochlear soft tissue, and the bony shell is visible. Fiducials are placed to measure this region](figure2_1637L.png)
+[Cropped volume rendering of the human helicotrema. BM annotates the cochlear soft tissue, and the bony shell is visible. Fiducials are placed to measure this region](Figure2Noannotation.PNG)
 
 [Smoothed 3D Model of the cochlea with fiducials placed in helicotrema region. Cross-sectional slices are visualized in (B) and (C)](Figure3Combined.png)
 
