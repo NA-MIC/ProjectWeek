@@ -21,7 +21,13 @@ Module to integrate hand models into Slicer that are paired with tracking from L
 1. Make module adpatable to width and length of digits 
 
 ## Progress and Next Steps
+1. Transforms representing joints are streamed into 3D Slicer 
+1. On connecting sphere models are generated and paired with appropriate transforms 
 
+Future work: 
+1. Positions cylinders according to joints 
+1. Stream in finger dimensions and have model sizes adapt to user 
+1. Check update rate when calibrated into the VIVE 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 
 # Illustrations
