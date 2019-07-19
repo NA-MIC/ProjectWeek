@@ -59,7 +59,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [Bronchoscope Localization from Depth Maps](./Projects/BronchoscopeLocalizationFromDepthMaps/README.md) (Franklin King, Shelly Liu, Jonah Berg)
 + [Principal Axis Transformation for Orientation Mismatch Correction](./Projects/PAxisTransform/README.md) (Tina Wu)
 + [Bullseye - Computer Vision for Intraoperative Validation of Glenoid Component Placement in Total Shoulder Arthroplasty](./Projects/bullseye/README.md)(David M. Burns, Samuel C.P. Newhook, Cari Whyne)
-+ [Registration for cochlear modeling](./Projects/RegistrationCochlearModeling/README.md) (Luke Helpard)
++ [Cochlear modeling of the helicotrema](./Projects/RegistrationCochlearModeling/README.md) (Luke Helpard)
 + [SimpleElastix for Slicer](./Projects/Slicer_SimpleElastix/README.md) (Patrick Carnahan)
 
 ### IGT
