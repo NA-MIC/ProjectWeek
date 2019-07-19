@@ -31,7 +31,7 @@ Current slicer modules for general registration (BRAINs or Elastix) are unable t
 The approach listed above was implemented but there are a few bugs, potentially due to the coordinate system mismatch between slicer/numpy/vtk. The goal during this week is to fix these and optimize the module.
 
 End results:
-- the volumes now align
+- the volumes now align for small rotations; for large rotations, the principal axes might still be pointing in the opposite directions
 - optimization
 
 Future improvements:
@@ -48,7 +48,7 @@ At the beginning of the week, the volumes look like this:
 ![In this picture, the color green is associated with the fixed volume and yellow is associated with the moving volume. The goal is to match the position and orientation of the moving to the fixed volume. The green lines represent the principal directions of the volume and as you can see, they don't look like they are pointing in the right directions.](slicer-descript.png)
 
 After the project week, the same volumes in the image above look like this:
-!(slicer-result.png)
+![Result by the end of the week.](slicer-result.png)
 
 # Background and References
 
