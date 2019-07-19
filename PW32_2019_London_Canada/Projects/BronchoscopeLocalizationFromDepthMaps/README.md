@@ -35,10 +35,10 @@ The goal is to localize a bronchoscope through the use of depth maps generated f
 4. Boolean operations to limit ICP registration to target area (with boolean operations performed using an instance of Blender imported into Slicer as a Python module)
 5. Module created in Slicer
 6. Boolean operations turned out to not be necessary and former issues were caused by a bug
-7. Depth map tracking:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kM40rWXsx_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-8. Faster and more reliable Boolean operations within Slicer:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HDNilepxJLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+7. Video of depth map tracking:  
+[![ ](http://img.youtube.com/vi/kM40rWXsx_k/0.jpg)](http://www.youtube.com/watch?v=kM40rWXsx_k)
+8. Video of Blender Boolean operations within Slicer:  
+[![ ](http://img.youtube.com/vi/HDNilepxJLI/0.jpg)](http://www.youtube.com/watch?v=HDNilepxJLI)
 
 ## Installing and Importing Blender within Slicer
 
