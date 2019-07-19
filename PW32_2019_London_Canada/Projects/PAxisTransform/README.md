@@ -33,20 +33,22 @@ The approach listed above was implemented but there are a few bugs, potentially 
 End results:
 - the volumes now align
 - optimization
+
+Future improvements:
 - did not get a chance to implement visualization
 - did not test it out on actual data
 - did not implement proper logic class, so the module is not accessible through other modules
-- did not investigate further why the crude axis correction mechanism did not work
+- did not investigate further why the crude axis correction mechanism did not work; did not implement the manual correction features
 
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 At the beginning of the week, the volumes look like this:
-[In this picture, the color green is associated with the fixed volume and yellow is associated with the moving volume. The goal is to match the position and orientation of the moving to the fixed volume. The green lines represent the principal directions of the volume and as you can see, they don't look like they are pointing in the right directions.](slicer-descript.png)
+![In this picture, the color green is associated with the fixed volume and yellow is associated with the moving volume. The goal is to match the position and orientation of the moving to the fixed volume. The green lines represent the principal directions of the volume and as you can see, they don't look like they are pointing in the right directions.](slicer-descript.png)
 
 After the project week, the same volumes in the image above look like this:
-(slicer-result.png)
+!(slicer-result.png)
 
 # Background and References
 
