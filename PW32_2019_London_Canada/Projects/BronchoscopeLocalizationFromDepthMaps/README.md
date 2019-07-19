@@ -32,8 +32,13 @@ The goal is to localize a bronchoscope through the use of depth maps generated f
 1. Depth map general via neural networks: https://github.com/NA-MIC/ProjectWeek/tree/master/PW31_2019_Boston/Projects/BronchoscopeLocalizationFromDepthMaps
 2. Ground truth depth maps specifically for the realtime registration testing generated using Unity.
 3. Registration done using ICP registration (Surface Registration module from CMFreg)
-4. Boolean operations to limit ICP registration to target area (plane cuts would probably be more reliable, but the boolean operations were performed using an instance of Blender imported into Slicer as a Python module)
-5. Module created in Slicer 
+4. Boolean operations to limit ICP registration to target area (with boolean operations performed using an instance of Blender imported into Slicer as a Python module)
+5. Module created in Slicer
+6. Boolean operations turned out to not be necessary and former issues were caused by a bug
+7. Depth map tracking:  
+[![ ](http://img.youtube.com/vi/kM40rWXsx_k/0.jpg)](http://www.youtube.com/watch?v=kM40rWXsx_k)
+8. Faster and more reliable Boolean operations within Slicer:  
+[![ ](http://img.youtube.com/vi/HDNilepxJLI/0.jpg)](http://www.youtube.com/watch?v=HDNilepxJLI)
 
 ## Installing and Importing Blender within Slicer
 
@@ -45,8 +50,6 @@ Tested in Windows:
 
 ## Images
 ![Point cloud of airway generated from depth map](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW31_2019_Boston/Projects/BronchoscopeLocalizationFromDepthMaps/Example1.png)
-
-![Registration to segment of airway model](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW31_2019_Boston/Projects/BronchoscopeLocalizationFromDepthMaps/Example3.png)
 
 # Background and References
 
