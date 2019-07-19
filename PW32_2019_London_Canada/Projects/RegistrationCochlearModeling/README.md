@@ -4,41 +4,29 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Write full project title here
 
 ## Key Investigators
-- Investigator 1 (Affiliation) 
-- Investigator 2 (Affiliation) 
-- Investigator 3 (Affiliation)
+-Hanif Ladak
+-Sumit Agrawal
 
 # Project Description
-<!-- Add a short paragraph describing the project. --> 
+Model and measure the helicotrema (tip) of the human cochlea using 3D Slicer
 
 ## Objective
-1. Objective A. Describe it in 1-2 sentences. 
-1. Objective B. Describe it in 1-2 sentences. 
-1. Objective C. Describe it in 1-2 sentences. 
+Measure the helicotrema region of the cochlea using 3D Slicer.
 
 ## Approach and Plan
 
-1. Describe planned approach to reach objectives.
-1. ...
-1. ...
+1. Visualize synchtron radiation phase-contrast imaging volume in 3D Slicer
+2. Place fiducials tracing helicotrema region
+3. Volume render to visualize both both and soft-tissue simultaneously
+4. Export Slicer .mrb file to share volume, fiducials, and renderings with collaborators
 
 ## Progress and Next Steps
 
-<!--Describe progress and next steps in a few bullet points as you are making progress.-->
+Had preliminary work completed coming in to Slicer week. Measuremnts were completed, and volume renderings were improved significantly. Files were exported succesfully for seamless sharing.
 
 # Illustrations
 
-<!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+[Cropped volume rendering of the human helicotrema. BM annotates the cochlear soft tissue, and the bony shell is visible. Fiducials are placed to measure this region](figure2_1637L.png)
 
-<!--![Description of picture](Example2.jpg)-->
-
-<!--![Some more images](Example2.jpg)-->
-
-# Background and References
-
-<!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
-
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
-- Test data: https://link.to.test.data
+[Smoothed 3D Model of the cochlea with fiducials placed in helicotrema region. Cross-sectional slices are visualized in (B) and (C)](Figure3Combined.png)
 
