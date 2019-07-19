@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 - Tina Wu (Sunnybrook Health Science Centre)
 
-# Acknowledgement 
+## Acknowledgement 
 - Michael Hardisty (Sunnybrook Health Science Centre)
 - Andras Lasso (Perk Lab)
 - Andrew Yang
