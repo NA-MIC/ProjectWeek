@@ -63,7 +63,6 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [SimpleElastix for Slicer](./Projects/Slicer_SimpleElastix/README.md)
 
 ### IGT
-+ [OpenIGTLink connection between Slicer and Hololens Unity applications](./Projects/HololensOpenIGTLink/README.md) (Andras Lasso)
 + [Slicer Hands for VR](./Projects/slicerHands/README.md) (Leah Groves, Adam Rankin)
 
 ### Simulation
