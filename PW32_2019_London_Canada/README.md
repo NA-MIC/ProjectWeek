@@ -44,11 +44,11 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Clinical
 + [Image Quizzer Project](./Projects/ImageQuizzerProject/README.md) (Carol Johnson)
-+ [Prostate Registration/Analysis](./Projects/ProstateRegAnalysis/README.md)
++ [Prostate Registration/Analysis](./Projects/ProstateRegAnalysis/README.md) (Danny Yang)
 + [Spine Model](./Projects/Spinemodels/README.md) (Andrew Kanawati, Parham Rasoulinejad)
 
 ### Segmentation
-+ [Wrist Kinematics](./Projects/WristKinematics/README.md)
++ [Wrist Kinematics](./Projects/WristKinematics/README.md) (Puneet Kaur Ranota)
 
 ### Deep Learning
 + [NiftyNet Alive Demo](./Projects/NiftyNet-Alive-demo/README.md) (YingLi Lu)
@@ -59,8 +59,8 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 + [Bronchoscope Localization from Depth Maps](./Projects/BronchoscopeLocalizationFromDepthMaps/README.md) (Franklin King, Shelly Liu, Jonah Berg)
 + [Principal Axis Transformation for Orientation Mismatch Correction](./Projects/PAxisTransform/README.md) (Tina Wu)
 + [Bullseye - Computer Vision for Intraoperative Validation of Glenoid Component Placement in Total Shoulder Arthroplasty](./Projects/bullseye/README.md)(David M. Burns, Samuel C.P. Newhook, Cari Whyne)
-+ [Registration for cochlear modeling](./Projects/RegistrationCochlearModeling/README.md)
-+ [SimpleElastix for Slicer](./Projects/Slicer_SimpleElastix/README.md)
++ [Registration for cochlear modeling](./Projects/RegistrationCochlearModeling/README.md) (Luke Helpard)
++ [SimpleElastix for Slicer](./Projects/Slicer_SimpleElastix/README.md) (Patrick Carnahan)
 
 ### IGT
 + [Slicer Hands for VR](./Projects/slicerHands/README.md) (Leah Groves, Adam Rankin)
@@ -68,6 +68,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 ### Simulation
 + [Interactive medical simulation toolkit (IMSTK) integration](../PW31_2019_Boston/Projects/SlicerIMSTK/README.md) (Samantha Horvath, Andras Lasso)
 + [Plus ultrasound simulation using kidney models](./Projects/KidneySegmentation/README.md) (Lyla Mu)
+
 ### Core infrastructure
 + [Slicer for ARM64](./Projects/Slicer_ARM64/README.md) (Adam Rankin)
 
