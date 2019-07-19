@@ -35,7 +35,7 @@ Future work:
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
-<!--![Description of picture](Example2.jpg)-->
+[Current status of Slicer hands](hand.png)
 
 <!--![Some more images](Example2.jpg)-->
 
