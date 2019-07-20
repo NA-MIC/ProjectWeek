@@ -49,6 +49,7 @@ Please [follow these instructions](./Projects/README.md) to create a project pag
 
 ### Segmentation
 + [Wrist Kinematics](./Projects/WristKinematics/README.md) (Puneet Kaur Ranota)
++ [Intracranial Volume](./Projects/CranialReconstructionICV/README.md) (Jielin Lu)
 
 ### Deep Learning
 + [NiftyNet Alive Demo](./Projects/NiftyNet-Alive-demo/README.md) (YingLi Lu)
