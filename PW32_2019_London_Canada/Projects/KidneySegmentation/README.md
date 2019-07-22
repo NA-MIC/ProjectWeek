@@ -31,8 +31,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Source code: https://github.com/YourUser/YourRepository
-- Documentation: https://link.to.docs
+- Source code: https://github.com/Lyla-M/UnityOpenIGTLink
 - Test data: Kidney CT https://github.com/neheller/kits19/tree/master/data/case_00000
 
 
