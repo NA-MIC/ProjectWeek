@@ -47,6 +47,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 * Please contact the organizers if you have interest in hosting a Project Week event.
 
 ## Past Project Weeks
+
 -[2019 July 15-29: Project Week 32](PW32_2019_London_Canada/README.md) - Robarts Research, London, Canada.
 - [2019 June 24-28: Project Week 31](PW31_2019_Boston/README.md) - MIT, Cambridge, MA, USA. It recorded 78 attendees, who worked on 47 projects and attended 5 breakout sessions.
 - [2019 January 28-February 1: Project Week 30](PW30_2019_GranCanaria/README.md) - Gran Canaria, Spain. It recorded 60 Registrants (from 13 countries) who worked on 33 projects.
