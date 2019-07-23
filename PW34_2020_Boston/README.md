@@ -4,7 +4,7 @@
 
 The 34th NA-MIC Project Week will be held during the week of June 22-26, 2020 at MIT, Boston USA.
 
-Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
+Please read about our experience in running these events: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
 
 
