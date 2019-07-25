@@ -43,7 +43,7 @@ The goal is to localize a bronchoscope through the use of depth maps generated f
 ## Installing and Importing Blender within Slicer
 
 Tested in Windows:
-1. "/(SlicerInstallPath)/bin/SlicerPython.exe -m pip install future-fstrings, bpy"
+1. "/(SlicerInstallPath)/bin/SlicerPython.exe -m pip install future-fstrings bpy"
 2. Move "/(SlicerInstallPath)/lib/Python/Scripts/2.79/" to "/(SlicerInstallPath)/bin/2.79/"
 3. Just "import bpy" within Slicer
 4. Example script for performing a Boolean operation using Blender: https://github.com/SNRLab/Slicer-DepthMapTracking/blob/master/Models/BlenderBooleanExample.py
