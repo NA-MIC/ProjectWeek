@@ -82,6 +82,9 @@ To learn the concepts that are needed to develop the three components of the pro
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+![ImageQuizzerInSlicer](ImageQuizzer_Slicer.png)
+
+![ImageQuizzerDesigner](ImageQuizzerAdmin.png)
 
 ![QuizWithImage](ObserverStudyWithImage.png)
 
