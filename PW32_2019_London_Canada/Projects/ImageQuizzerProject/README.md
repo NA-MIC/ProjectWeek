@@ -27,13 +27,28 @@ To learn the concepts that are needed to develop the three components of the pro
    - Allow user to add group boxes to a list and within each group box, quiz items can be added (radio buttons, toggle switches, edit lines etc.)
    - Present the designed quiz in a preview button.
    - A Save button will create a basic xml document (.ui file) which can be ported to the Image Quizzer application.
+   - TODO:
+      - Fix the preview window to remain in scope until the user closes it.
+      - Confirm the correct library to import to allow for creation of the xml file (.ui).
+      - Flesh out the code to coordinate adding quiz items to the previously added group boxes (a table of quiz items connected to the group box table item.)
+
 + Image Quizzer
    - Import a .ui file created by the Designer module.
    - Load a group of images that can be displayed one at a time, allowing the user access to some basic viewing tools.
    - Control the display of the series of patient images with Next and Back buttons.
    - Capture the user responses to the quiz in an excel formatted file.
+   - TODO:
+      - Learn how to capture quiz resposnes, updating the user's xml file.
+      - Work with the study to load the next series for the patient or the next patient.
+      - Learn how to add image viewer functionality to the application.
+      - Learn how to capture contours or fiducial points, for future projects.
+
 + Image Quizzer Study Browser
    - To develop an application that will organize the patient images to be used by the Image Quizzer and maintain the status of the study progress.
+   - TODO:
+      - Learn how to work with the Slicer data module to organize and group patient images.
+      - Design how to coordinate this for a user study, showing progress of completed or partially completed patients, potentially using an xml file to manage this.
+      - Learn how to call one slicelet from another (a possible solution to coordinating the study browser with the Image Quizzer components)
 
 ## Progress and Next Steps
 
@@ -49,36 +64,6 @@ To learn the concepts that are needed to develop the three components of the pro
    
 
 
-
-+ Image Quizzer Designer
-   - A skeleton program has been developed that allows a user to add group boxes to a table.
-   - A function has been added to create a mock quiz using PythonQT widgets, which can be previewed in an independant window.
-   - TODO:
-      - Fix the preview window to remain in scope until the user closes it.
-      - Confirm the correct library to import to allow for creation of the xml file (.ui).
-      - Flesh out the code to coordinate adding quiz items to the previously added group boxes (a table of quiz items connected to the group box table item.)
-   
-+ Image Quizzer
-   - A skeleton program has been developed that can load a .ui file for the quiz.
-   - The slicelet can present the images from a list to the image viewer.
-   - TODO:
-      - Learn how to capture quiz resposnes, updating the user's xml file.
-      - Work with the study to load the next series for the patient or the next patient.
-      - Learn how to add image viewer functionality to the application.
-      - Learn how to capture contours or fiducial points, for future projects.
-
-+ Image Quizzer Study Browser
-   - TODO:
-      - Learn how to work with the Slicer data module to organize and group patient images.
-      - Design how to coordinate this for a user study, showing progress of completed or partially completed patients, potentially using an xml file to manage this.
-      
-+ Other
-   - TODO:
-      - Learn how to call one slicelet from another (a possible solution to coordinating the study browser with the Image Quizzer components)
-      
-
-
-
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
@@ -86,11 +71,9 @@ To learn the concepts that are needed to develop the three components of the pro
 
 ![ImageQuizzerDesigner](ImageQuizzerAdmin.png)
 
-![QuizWithImage](ObserverStudyWithImage.png)
+![ClearCanvasQuizWithImage](ObserverStudyWithImage.png)
 
-![QuizDesign](ObserverStudyQuiz.png)
-
-![QuizStudyBrowser](ObserverStudyBrowserStatus.png)
+![ClearCanvasQuizStudyBrowser](ObserverStudyBrowserStatus.png)
 
 
 # Background and References
