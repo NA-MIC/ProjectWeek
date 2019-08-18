@@ -2,7 +2,7 @@
 ## Welcome to the main page for the Project Week events!
 
 ### The [33rd Project Week](PW33_2020_GranCanaria/README.md) will take place January 20-24, 2020 in Las Palmas, Gran Canaria, Spain.
-### The [34th Project Week](PW33_2020_GranCanaria/README.md) will take place June 22-26 at MIT in Boston, USA
+### The [34th Project Week](PW33_2020_GranCanaria/README.md) will take place June 22-26,2020 at MIT in Boston, USA
 
 
 ## Frequently Asked Quesions
