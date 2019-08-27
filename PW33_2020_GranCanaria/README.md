@@ -10,9 +10,13 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ## Logistics
 - **Dates:** January 20-24, 2020.
 - **Location:** Las Palmas, Gran Canaria, Spain
-- **Hotels:** Hotel NH Imperial Playa, and Hotel NH Las Palmas Playa.  Please ask on [discourse forum](https://discourse.slicer.org/c/community/project-week) if you have questions.
-- **Registration**: Fee is expected to be Euro 300.  Form will appear here 6 weeks before the event.
-- [Frequently Asked Questions](ProjectWeek)
+- **Discourse Forum:** Please ask on [discourse forum](https://discourse.slicer.org/c/community/project-week) if you have questions.
+- [Venue and Hotel Information](Logistics.md#Venue)
+- [Registration](Logistics.md#Registration)
+- [Frequently Asked Questions](Logistics.md#Faq)
+- [ERASMUS mobility information](Logistics.md#Erasmus)
+
+
 
 ## Preparatory Videoconferences
 
