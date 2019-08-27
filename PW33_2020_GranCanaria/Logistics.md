@@ -8,7 +8,7 @@
 
 | NH Imperial Playa |
 | -----|
-|<img src="NHImperial.jpg" width="700" height="350">|
+|<img src="NHImperial.png" width="700" height="350">|
 
 - **Recommended hotels (special rates) and maps**
     - Booking: [NH Imperial Playa](https://www.nh-hoteles.es/event/na-mic-workshop) Link available until: 19-12-2019
