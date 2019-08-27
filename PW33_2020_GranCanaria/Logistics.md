@@ -9,7 +9,7 @@
 - **Hotels and Maps**
     - Booking at: [NH Imperial Playa](https://www.nh-hoteles.es/event/na-mic-workshop) Link available until: 19-12-2019
     - Booking at: [NH Las Palmas Playa Las Canteras](https://www.nh-hoteles.es/event/na-mic-workshop-2020) Link available until: 19-12-2019
-    - Booking after 19-12-2019 by email to: <a href="mailto:o.martinez@nh-hotels.com&subject=ProjectWeek33_NHBooking">ProjectWeek33 NHBooking</a>
+    - Booking after 19-12-2019 by email to: <a href="mailto:o.martinez@nh-hotels.com&subject=ProjectWeek33_NHBooking"> ProjectWeek33 NHBooking</a>
    
 - **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
     - Taxi (line at the airport)
@@ -41,8 +41,7 @@ To get notifications about new posts automatically, [sign in with Google, GitHub
 
 ## ERASMUS mobility information
 
-1. Please, contact your ERASMUS Office at your home institution to check how to prepare an application. At the same time, please, 
-let us know that you're willing to apply and what project you'd like to work on and your motivation to come in an email to <a href="mailto:juan.ruiz@ulpgc.es?cc=marilola.afonso@ulpgc.es, asmaa.skareb@ulpgc.es&subject=ProjectWeek30_ErasmusMobility">
+1. Please, contact your ERASMUS Office at your home institution to check how to prepare an application. At the same time, please, let us know that you're willing to apply and what project you'd like to work on and your motivation to come in an email to <a href="mailto:juan.ruiz@ulpgc.es?cc=marilola.afonso@ulpgc.es, asmaa.skareb@ulpgc.es&subject=ProjectWeek30_ErasmusMobility">
 Juan Ruiz Alzola, Maria Dolores Afonso Suarez, Asmaa Skareb.</a>
 
 2. In order to prepare the application:
