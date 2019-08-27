@@ -13,9 +13,9 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Discourse Forum:** Please ask on [discourse forum](https://discourse.slicer.org/c/community/project-week) if you have questions.
 - [Venue and Hotel Information](Logistics.md#Venue)
 - [Registration](Logistics.md#Registration)
-- [Frequently Asked Questions](Logistics.md#Faq)
+- [Updates](Logistics.md#Updates)
 - [ERASMUS mobility information](Logistics.md#Erasmus)
-
+- [Frequently Asked Questions](Logistics.md#Faq)
 
 
 ## Preparatory Videoconferences
