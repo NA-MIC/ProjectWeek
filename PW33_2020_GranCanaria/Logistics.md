@@ -9,7 +9,7 @@
 - **Hotels and Maps**
     - Booking at: [NH Imperial Playa](https://www.nh-hoteles.es/event/na-mic-workshop) Link available until: 19-12-2019
     - Booking at: [NH Las Palmas Playa Las Canteras](https://www.nh-hoteles.es/event/na-mic-workshop-2020) Link available until: 19-12-2019
-    - Booking after 19-12-2019 by email to:<a href="mailto:o.martinez@nh-hotels.com&subject=ProjectWeek33_NHBooking">ProjectWeek33 NHBooking</a>
+    - Booking after 19-12-2019 by email to: <a href="mailto:o.martinez@nh-hotels.com&subject=ProjectWeek33_NHBooking">ProjectWeek33 NHBooking</a>
    
 - **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
     - Taxi (line at the airport)
@@ -29,8 +29,6 @@ Notes:
   - ID Card and Passport Number: only needed if personal receipt is requested
   - VAT: only needed if invoice for the institution is requested
 
-<a name="Erasmus"/>
-
 <a name="Updates"/>
 
 ## Ask questions and get latest updates
@@ -38,6 +36,8 @@ Notes:
 Visit [project-week](https://discourse.slicer.org/c/community/project-week) community on Slicer Forum to get latest updates on the event or ask any questions from organizers or other project week participants.
 
 To get notifications about new posts automatically, [sign in with Google, GitHub, Facebook, or email](https://discourse.slicer.org/login), go to [project-week](https://discourse.slicer.org/c/community/project-week) category page, click on the circle button near the top-right corner (next to "New Topic" button), and choose "Watching".
+
+<a name="Erasmus"/>
 
 ## ERASMUS mobility information
 
