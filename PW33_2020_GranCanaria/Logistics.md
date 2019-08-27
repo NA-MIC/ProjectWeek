@@ -11,7 +11,6 @@
     - [NH Imperial Playa Map](https://cutt.ly/twjO0PO)
     - Booking: [NH Las Palmas Playa Las Canteras](https://www.nh-hoteles.es/event/na-mic-workshop-2020) Link available until: 19-12-2019
     - [NH Las Palmas Playa Las Canteras Map](https://cutt.ly/vwkkTDE)
-        
     - Booking after 19-12-2019 by email to: <a href="mailto:o.martinez@nh-hotels.com&subject=ProjectWeek33_NHBooking"> ProjectWeek33 NHBooking</a>
    
 - **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
