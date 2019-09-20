@@ -25,9 +25,7 @@
 
 ## Registration
 
-Registration Fee: €350.
-
-*Soon available*.
+[Register here](https://www.fulp.es/na-mic-event-2020). Registration Fee: €350.
 
 Notes:
   - ID Card and Passport Number: only needed if personal receipt is requested
