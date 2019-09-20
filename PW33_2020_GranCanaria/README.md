@@ -12,11 +12,11 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Location:** Las Palmas, Gran Canaria, Spain
 - **Discourse Forum:** Please ask on [discourse forum](https://discourse.slicer.org/c/community/project-week) if you have questions.
 - [Venue and Hotel Information](Logistics.md#Venue)
-- [Registration](Logistics.md#Registration)
 - [Updates](Logistics.md#Updates)
 - [ERASMUS mobility information](Logistics.md#Erasmus)
 - [Frequently Asked Questions](Logistics.md#Faq)
 
+- **REGISTRATION:** [Register here](https://www.fulp.es/na-mic-event-2020). Registration Fee: €350.
 
 ## Preparatory Videoconferences
 
