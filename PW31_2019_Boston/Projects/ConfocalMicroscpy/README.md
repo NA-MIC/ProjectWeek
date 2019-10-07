@@ -35,6 +35,7 @@ See how Slicer can be used for microscopy images.
 
 # Illustrations
 
+Click image to see movie:
 
 [![Confocal images in Slicer](http://img.youtube.com/vi/JJJVzvVtwtw/0.jpg)](https://youtu.be/JJJVzvVtwtw "Confocal volume rendering")
 
