@@ -27,7 +27,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
     <td>
         <ul>
             <li>
-                Zoom video conference: <a href="https://zoom.us/j/112427205">To join the videoconference</a>
+                Zoom video conference: <a href="https://zoom.us/j/692997791">To join the videoconference</a>
             </li>
             <li>
 <a href="https://github.com/NA-MIC/ProjectWeek/blob/master/PW33_2020_GranCanaria/PreparatoryMeetingsNotes.md">Conference call notes</a>
