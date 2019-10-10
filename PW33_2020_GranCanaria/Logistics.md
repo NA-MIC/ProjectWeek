@@ -48,7 +48,7 @@ Juan Ruiz Alzola, Maria Dolores Afonso Suarez, Asmaa Skareb.</a>
 
 2. In order to prepare the application:
 
-  * Mention *30th  NAMIC Project Week* as the event motivating the mobility.
+  * Mention *33rd  NAMIC Project Week* as the event motivating the mobility.
   * The host center is *Escuela de Ingeniería de Telecomunicaciones y Electrónica (EITE)* at the *Universidad de Las Palmas de Gran Canaria (ULPGC)*.
   * The supervisor at the host center is *Prof. Ruiz-Alzola, Professor of Imaging Technologies*.
   * The academic authority signing on behalf the host center is *Prof. Félix Tobajas, Subdirector de Estudiantes, Movilidad y Prácticas Externas,
