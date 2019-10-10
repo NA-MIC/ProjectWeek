@@ -50,7 +50,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Registrants
 
-Do not add your name to this list below. It is maintained by the organizers based on your paid registration. **[Click here to register.](TBA))**
+Do not add your name to this list below. It is maintained by the organizers based on your paid registration. **[Click here to register.](https://www.fulp.es/na-mic-event-2020)**
 
 List of registered participants so far (names will be added here after processing registrations):
 
@@ -58,6 +58,6 @@ List of registered participants so far (names will be added here after processin
 
 
 ## Program Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic%2FCanary&dates=20190128%2F20190201&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic%2FCanary&dates=20191012%2F20190201&hours=0800%2F2000&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 [How to add this calendar to your own?](../common/Calendar.md)
