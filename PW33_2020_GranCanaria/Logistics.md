@@ -4,7 +4,7 @@
 
 ## Venue
 
-| [Hotel NH Imperial Playa](https://cutt.ly/7wkj0KF) |
+| [Hotel NH Imperial Playa] |
 | -----|
 |<img src="NHImperial.png" width="700" height="350">|
 
