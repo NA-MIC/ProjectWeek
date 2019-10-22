@@ -4,7 +4,7 @@
 
 ## Venue
 
-| [Hotel NH Imperial Playa] |
+| Hotel NH Imperial Playa |
 | -----|
 |<img src="NHImperial.png" width="700" height="350">|
 
