@@ -53,6 +53,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 Do not add your name to this list below. It is maintained by the organizers based on your paid registration. **[Click here to register.](https://www.fulp.es/na-mic-event-2020)**
 
 List of registered participants so far (names will be added here after processing registrations):
+<!-- [List](REGISTRANTS.md) -->
 
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 
