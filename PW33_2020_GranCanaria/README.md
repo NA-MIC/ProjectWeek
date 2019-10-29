@@ -54,8 +54,11 @@ Do not add your name to this list below. It is maintained by the organizers base
 
 List of registered participants so far (names will be added here after processing registrations):
 <!-- [List](REGISTRANTS.md) -->
-
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
+
+1. Tina Kapur, (@tkapur)(tkapur@bwh.harvard.edu) - Brigham and Women’s Hospital and Harvard Medical School - USA
+1. Marco Nolden (M.Nolden@Dkfz-Heidelberg.de) - German Cancer Research Center (DKFZ) - Germany
+
 
 
 ## Program Calendar
