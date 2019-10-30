@@ -58,6 +58,8 @@ List of registered participants so far (names will be added here after processin
 
 1. Tina Kapur, (@tkapur)(tkapur@bwh.harvard.edu) - Brigham and Women’s Hospital and Harvard Medical School - USA
 1. Marco Nolden (M.Nolden@Dkfz-Heidelberg.de) - German Cancer Research Center (DKFZ) - Germany
+1. Hadi Fooladi Talari (hfooladit@cnmc.org) - Children's National Hospital - USA
+
 
 
 
