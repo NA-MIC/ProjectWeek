@@ -62,6 +62,8 @@ List of registered participants so far (names will be added here after processin
 1. Pooneh Roshanitabrizi (proshnani2@cnmc.org) - Children's National Hospital - USA
 1. Ron Kikinis (@rkikinis) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Zora Kikinis (zora@bwh.harvard.edu) - Brigham and Women's Hospital - USA
+1. Sylvain Bouix (sylvain@bwh.harvard.edu) - Brigham and Women's Hospital - USA
+1. Richard Rushmore (jrushmore@bwh.harvard.edu) - Brigham and Women's Hospital - USA
 
 
 ## Program Calendar
