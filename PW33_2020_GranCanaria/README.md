@@ -66,6 +66,7 @@ List of registered participants so far (names will be added here after processin
 1. Richard Rushmore (jrushmore@bwh.harvard.edu) - Brigham and Women's Hospital - USA
 
 
+
 ## Program Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic%2FCanary&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
