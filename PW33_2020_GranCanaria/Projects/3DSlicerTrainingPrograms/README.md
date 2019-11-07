@@ -4,13 +4,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Babacar Diao (Ecole Militaire de Santé Dakar)
+- Nayra Pumar (ULPGC – GTMA-IUIBS - MACbioIDi)
+-	Sonia Pujol (BWH/HMS)
+- María Dolores Afonso (ULPGC – GTMA-IUIBS - MACbioIDi)
+- Juan Ruiz Alzola (ULPGC – GTMA-IUIBS - MACbioIDi)
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+In this edition of the training project, new professionals will work in order to develop new training material and study how to enhance and improve the use of 3DSlicer as a training tool. We intend to create new training tools as new atlases and study its use in the African countries of Senegal and Mauritania.  
 
 ## Objective
 
