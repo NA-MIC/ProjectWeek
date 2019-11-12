@@ -1,16 +1,17 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Integration of Diabetic Foot Segmentation Algorithm based on Deep Learning
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Abián Hernández Guedes (Affiliation)
+- ...
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+This project is the follow-up of the development of a module to use InfraRed (IR) sensors in 3D Slicer for medical diagnosis, intended to use for monitoring of foot ulcers in diabetic patients, presented on the 28thPW NA-MIC. This project is proposed as a new stage in the diabetic foot assessment previously worked.
+
+The aim is to integrate an algorithm, which is based on Deep Learning, for foot segmentation using multimodal images (visible and depth-map images). The resulting mask will be applied on thermal images in order to analyze the temperature pattern and detect possible foot ulcers.
 
 ## Objective
 
