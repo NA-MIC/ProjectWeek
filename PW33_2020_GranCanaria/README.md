@@ -65,7 +65,7 @@ List of registered participants so far (names will be added here after processin
 1. Sylvain Bouix (sylvain@bwh.harvard.edu) - Brigham and Women's Hospital - USA
 1. Richard Rushmore (jrushmore@bwh.harvard.edu) - Brigham and Women's Hospital - USA
 1. Juan Ruiz Alzola (@jruizalz)(juan.ruiz@ulpgc.es) - University of Las Palmas de Gran Canaria / Instituto de Astrofísica de Canarias - Spain
-1. José-Carlos Ruiz-Luque (@carlos-luque)(carlos.luque@ulpgc.es) - Instituto de Astrofísica de Canarias - Spain
+1. José-Carlos Ruiz-Luque (@carlos-luque)(carlos.luque@iac.es) - Instituto de Astrofísica de Canarias - Spain
 1. Guillermo Valentín Socorro Marrero (@gvsocorro)(guillermo.socorro@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Abián Hernández Guedes (@SolidusAbi)(abian.hernandez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Nayra Pumar Carreras (nayra.pumar@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
