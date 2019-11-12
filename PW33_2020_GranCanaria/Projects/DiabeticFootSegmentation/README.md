@@ -17,33 +17,23 @@ The aim is to integrate an algorithm, which is based on Deep Learning, for foot 
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Update the "Diabetic Foot" extension created on the 28thPW NA-MIC.
+1. Integrate the foot segmentation algorithm presented on the paper [1].
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Include required library
+1. TODO
 
 ## Progress and Next Steps
-
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+TODO
 
 # Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+TODO
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+[1] Hernández, A., Arteaga-Marrero, N., Villa, E., Fabelo, H., Callicó, G. M., & Ruiz-Alzola, J. (2019, September). Automatic Segmentation Based on Deep Learning Techniques for Diabetic Foot Monitoring Through Multimodal Images. In International Conference on Image Analysis and Processing (pp. 414-424). Springer, Cham. Avalible from: [https://link.springer.com/chapter/10.1007%2F978-3-030-30645-8_38](https://link.springer.com/chapter/10.1007%2F978-3-030-30645-8_38)
+
