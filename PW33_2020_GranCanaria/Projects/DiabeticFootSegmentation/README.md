@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Abián Hernández Guedes (Affiliation)
+- Abián Hernández Guedes (ULPGC - GTMA)
 - ...
 
 # Project Description
