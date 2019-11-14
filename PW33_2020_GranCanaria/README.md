@@ -69,6 +69,8 @@ List of registered participants so far (names will be added here after processin
 1. Guillermo Valentín Socorro Marrero (@gvsocorro)(guillermo.socorro@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Abián Hernández Guedes (@SolidusAbi)(abian.hernandez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Nayra Pumar Carreras (nayra.pumar@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Gabor Fichtinger (gabor@cs.queensu.ca) - Queen’s University - Canada
+
 
 
 ## Program Calendar
