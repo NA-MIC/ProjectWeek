@@ -45,6 +45,9 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ## Projects [(How to add a new project?)](Projects/README.md)
 <a name="ProjectsList"/>
 
+#### dicomweb-server (Emel Alkim, Steve Pieper)
+
+#### BabySteps club foot treatment (Pooneh Roshanitabrizi, Hadi Fooladi Talari, Steve Pieper)
 
 ### Education
 
