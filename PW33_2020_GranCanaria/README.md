@@ -51,7 +51,13 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Something something OHIF with SEG. (James A. Petts et al)
 
-* OHIF / Slicer StudyBuddies 
+* OHIF / Slicer StudyBuddies (Steve Pieper, ?)
+
+* Neurosurgical Ultrasound annotation (Tina Kapur, Jarret Rushmore, Sarah Frisken)
+
+* High Resolution Brain Segmentation (Sylvain Bouix, Jarret Rushmore, Nikos Makris)
+
+* Subject Hierarchy context menus (Csaba Pinter)
 
 ### Education
 
