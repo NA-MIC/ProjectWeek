@@ -49,6 +49,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * BabySteps club foot treatment (Pooneh Roshanitabrizi, Hadi Fooladi Talari, Steve Pieper)
 
+* Something something OHIF with SEG. (James A. Petts et al)
+
 * OHIF / Slicer StudyBuddies 
 
 ### Education
