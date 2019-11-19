@@ -59,6 +59,10 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Subject Hierarchy context menus (Csaba Pinter)
 
+* glTF topics (anatomy atlas, diffusion, etc) (Andras Lasso, Mike Halle, Steve Pieper)
+
+* OHIF and IDC, cancer images in the cloud (Steve Pieper, Ron Kikinis, Erik Ziegler, James A. Petts)
+
 ### Education
 
 ### Open Anatomy
