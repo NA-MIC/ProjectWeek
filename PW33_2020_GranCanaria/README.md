@@ -71,6 +71,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Interfaces and Devices Integration (Guillermo Socorro, Carlos Luque, Nayra Pumar, Juan Ruiz, ...)
 
+* SlicerAstro Update (Davide Punzo)
+
 ### Education
 
 * 3DSlicer Training programs (GTMA group, Babacar Diao, ...)
