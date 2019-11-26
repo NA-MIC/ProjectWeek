@@ -67,6 +67,9 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Education
 
+* 3DSlicer Training programs (GTMA group)
+
+
 ### Open Anatomy
 
 ## Breakout sessions
