@@ -67,7 +67,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Diabetic foot (Abián Hernández, Juan Ruiz...)
 
-* IGT Systems
+* IGT Systems (Guillermo Socorro, Carlos Luque, Juan Ruiz, ...)
 
 * Interfaces and Devices Integration (Guillermo Socorro, Carlos Luque, Nayra Pumar, Juan Ruiz, ...)
 
