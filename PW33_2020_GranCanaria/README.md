@@ -65,10 +65,15 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Slicer5 Implementation (Andras, Jc, Steve...)
 
+* Diabetic foot (Abián Hernández, Juan Ruiz...)
+
+* IGT Systems
+
+* Interfaces and Devices Integration (Guillermo Socorro, Carlos Luque, Nayra Pumar, Juan Ruiz, ...)
+
 ### Education
 
-* 3DSlicer Training programs (GTMA group)
-
+* 3DSlicer Training programs (GTMA group, Babacar Diao, ...)
 
 ### Open Anatomy
 
