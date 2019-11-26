@@ -63,6 +63,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * OHIF and IDC, cancer images in the cloud (Steve Pieper, Ron Kikinis, Erik Ziegler, James A. Petts)
 
+* Slicer5 Implementation (Andras, Jc, Steve...)
+
 ### Education
 
 ### Open Anatomy
