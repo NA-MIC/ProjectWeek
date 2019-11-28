@@ -105,7 +105,7 @@ List of registered participants so far (names will be added here after processin
 1. Abián Hernández Guedes (@SolidusAbi)(abian.hernandez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Nayra Pumar Carreras (nayra.pumar@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Gabor Fichtinger (gabor@cs.queensu.ca) - Queen’s University - Canada
-1. Davide Punzo, (@punzo)(punzodavide@hotmail.it) - Kapteyn Astronomical Institute, University of Groningen - Netherlands
+1. Davide Punzo, (@punzo)(punzodavide@hotmail.it) - Freelancer - France
 1. Jean-Christophe Fillion-Robin (@jcfr)(jchris.fillionr@kitware.com) - Kitware Inc. - USA
 
 
