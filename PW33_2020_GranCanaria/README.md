@@ -107,6 +107,7 @@ List of registered participants so far (names will be added here after processin
 1. Gabor Fichtinger (gabor@cs.queensu.ca) - Queen’s University - Canada
 1. Davide Punzo, (@punzo)(punzodavide@hotmail.it) - Freelancer - France
 1. Jean-Christophe Fillion-Robin (@jcfr)(jchris.fillionr@kitware.com) - Kitware Inc. - USA
+1. Bret Mann (piranhaindojtu@hengethefmust.xyz) - Isomics Inc. - USA
 
 
 
