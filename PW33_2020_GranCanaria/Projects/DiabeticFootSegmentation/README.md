@@ -4,8 +4,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Abián Hernández Guedes (ULPGC - GTMA)
-- ...
+- Abián Hernández Guedes(University of Las Palmas de Gran Canaria, Spain)
+- José-Carlos Ruiz-Luque (Instituto Astrofísico de Canarias, Spain)
+- Natalia Arteaga-Marrero (Instituto Astrofísico de Canarias, Spain)
+- Enrique Villa (Instituto Astrofísico de Canarias, Spain)
+- Ignacio Sidrach-Cardona Martinez (Instituto Astrofísico de Canarias, Spain)
+- Juan Ruiz-Alzola (University of Las Palmas de Gran Canaria, Spain)
+
 
 # Project Description
 
@@ -24,8 +29,10 @@ The aim is to integrate an algorithm, which is based on Deep Learning, for foot 
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Include required library
-1. TODO
+1. Integrate TorchScript models, an intermediate representation of a PyTorch model
+1. Include a point cloud processing library
+1. Implementing the foot segmentation algorithm
+1. *(Optional)* Visualization of point cloud using VTK
 
 ## Progress and Next Steps
 TODO
