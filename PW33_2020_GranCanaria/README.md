@@ -67,6 +67,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Slicer iMSTK Integration (Sam Horvath)
 
+* Extensions Manager Refresh (JC)
+
 ### Education
 
 * 3DSlicer Training programs (GTMA group, Babacar Diao, ...)
