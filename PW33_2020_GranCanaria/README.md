@@ -51,6 +51,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Something something OHIF with SEG. (James A. Petts et al)
 
+* [VTK.js Multi-volume Volume Rendering](Projects/VTKjsMultiVolumeRendering/README.md)
+
 * OHIF / Slicer StudyBuddies (Steve Pieper, ?)
 
 * Neurosurgical Ultrasound annotation (Tina Kapur, Jarret Rushmore, Sarah Frisken)
