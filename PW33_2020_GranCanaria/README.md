@@ -63,6 +63,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Diabetic foot (Abián Hernández, Juan Ruiz...)
 
+* Custom interface for diabetic foot (Jose-Carlos Ruiz-Luque, Sara González, Juan Ruiz....)
+
 * Software for Annotation and Anatomy (AEVA) (Sam Horvath)
 
 * Slicer iMSTK Integration (Sam Horvath)
