@@ -57,27 +57,35 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * High Resolution Brain Segmentation (Sylvain Bouix, Jarret Rushmore, Nikos Makris)
 
-* Subject Hierarchy context menus (Csaba Pinter)
-
 * glTF topics (anatomy atlas, diffusion, etc) (Andras Lasso, Mike Halle, Steve Pieper)
 
 * OHIF and IDC, cancer images in the cloud (Steve Pieper, Ron Kikinis, Erik Ziegler, James A. Petts)
 
-* [Slicer5](https://www.slicer.org/wiki/Documentation/Labs/Slicer5-roadmap) Implementation (Andras, Jc, Steve...)
-
 * Diabetic foot (Abián Hernández, Juan Ruiz...)
-
-* IGT Systems (Guillermo Socorro, Carlos Luque, Juan Ruiz, ...)
-
-* Interfaces and Devices Integration (Guillermo Socorro, Carlos Luque, Nayra Pumar, Juan Ruiz, ...)
-
-* SlicerAstro Update (Davide Punzo)
 
 ### Education
 
 * 3DSlicer Training programs (GTMA group, Babacar Diao, ...)
 
 ### Open Anatomy
+
+### Astronomy (Yep!)
+
+* SlicerAstro Update (Davide Punzo)
+
+### IGT
+
+* IGT Systems (Guillermo Socorro, Carlos Luque, Juan Ruiz, ...)
+
+* Interfaces and Devices Integration (Guillermo Socorro, Carlos Luque, Nayra Pumar, Juan Ruiz, ...)
+
+### Infrastructure
+
+* [Slicer5](https://www.slicer.org/wiki/Documentation/Labs/Slicer5-roadmap) Implementation (Andras, Jc, Steve...)
+
+* Subject Hierarchy context menus (Csaba Pinter)
+
+* VR in Slicer: support, interaction, and functionality (Adam Rankin, Terry Peters, Andras, JC, Csaba, Gabor, all welcome)
 
 ## Breakout sessions
 
