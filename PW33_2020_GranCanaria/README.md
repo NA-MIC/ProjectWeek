@@ -63,6 +63,10 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Diabetic foot (Abián Hernández, Juan Ruiz...)
 
+* Software for Annotation and Anatomy (AEVA) (Sam Horvath)
+
+* Slicer iMSTK Integration (Sam Horvath)
+
 ### Education
 
 * 3DSlicer Training programs (GTMA group, Babacar Diao, ...)
