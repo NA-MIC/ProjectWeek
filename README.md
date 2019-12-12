@@ -7,7 +7,7 @@
 
 ## Frequently Asked Quesions
 
-![2016 Winter Project Week Final Day](https://www.na-mic.org/w/images/thumb/2/25/2016_Winter_Project_Week_Final_Day.JPG/800px-2016_Winter_Project_Week_Final_Day.JPG)
+![2016 Winter Project Week Final Day](assets/800px-2016_Winter_Project_Week_Final_Day.JPG)
 
 #### What?
 
