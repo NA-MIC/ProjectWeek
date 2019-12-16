@@ -49,7 +49,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * BabySteps club foot treatment (Pooneh Roshanitabrizi, Hadi Fooladi Talari, Steve Pieper)
 
-* Something something OHIF with SEG. (James A. Petts et al)
+* [Tool framework for react-vtkjs-viewport?](Projects/ReactVtkjsTooling/README.md) (James A. Petts, Danny Brown, Erik Ziegler)
 
 * [VTK.js Multi-volume Volume Rendering](Projects/VTKjsMultiVolumeRendering/README.md)
 
