@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Someone from Kitware? JC? Ken? Forrest?
 - [Steve Pieper][steve] ([Isomics][isomics])
-- [James A Petts][james] ([Radical Imaging][radical])
+- [James A Petts][james] ([Radical Imaging][radical], [Ovela Solutions][OvelaSolutions])
 - [Danny Brown][danny] ([Radical Imaging][radical])
 - [Erik Ziegler][erik] ([Radical Imaging][radical])
 
@@ -50,6 +50,7 @@ Our goal is to add proper support for multi-volume volume rendering to VTK.js.
 [danny]: https://github.com/dannyrb
 [isomics]: http://isomics.com/
 [james]: https://github.com/jamesapetts
+[OvelaSolutions]: https://www.linkedin.com/company/ovela-solutions-ltd
 [erik]: https://github.com/swederik
 [steve]: https://github.com/pieper
 [ohif-viewer]: https://github.com/OHIF/Viewers
