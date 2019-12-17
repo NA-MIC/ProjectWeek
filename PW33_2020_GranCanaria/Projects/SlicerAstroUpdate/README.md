@@ -4,9 +4,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 <img src="https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/SlicerAstroIcon.png" width="150" height="150">
 
 ## Key Investigators
-
-- [Davide Punzo][punzo] ([Freelancer][punzodavide])
 <img src="https://www.davidepunzo.com/assets/images/DPLogo.png" width="150" height="150">
+- [Davide Punzo][punzo] ([Freelancer][punzodavide])
+
 
 ## Description
 
