@@ -89,6 +89,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Interfaces and Devices Integration (Guillermo Socorro, Carlos Luque, Nayra Pumar, Juan Ruiz, ...)
 
+* [Arduino Slicer](Projects/ArduinoSlicer/README.md) (Paolo Zaffino, ...)
+
 ### Infrastructure
 
 * [Slicer5](https://www.slicer.org/wiki/Documentation/Labs/Slicer5-roadmap) Implementation (Andras, Jc, Steve...)
