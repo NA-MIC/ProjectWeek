@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# SlicerAstro Update
+# [SlicerAstro](https://github.com/Punzo/SlicerAstro) Update
 <img src="https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/SlicerAstroIcon.png" width="150" height="150">
 
 ## Key Investigators
@@ -30,10 +30,8 @@ Address SlicerAstro issue [106][slicerastroissue]
 SlicerAstro extends 3DSlicer to provide a 2D/3D interactive viewer for astronomical datasets with 3D interaction features,
 based on traditional 2D input/output hardware, and visual analytics capabilities.
 
-https://github.com/Punzo/SlicerAstro
 
-
-https://github.com/Punzo/SlicerAstro/wiki#slicerastro-publications
+For more informations refer to this [link](https://github.com/Punzo/SlicerAstro/wiki#slicerastro-publications).
 
 
 [punzo]: https://github.com/Punzo
