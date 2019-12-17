@@ -31,6 +31,8 @@ SlicerAstro extends 3DSlicer to provide a 2D/3D interactive viewer for astronomi
 based on traditional 2D input/output hardware, and visual analytics capabilities.
 
 https://github.com/Punzo/SlicerAstro
+
+
 https://github.com/Punzo/SlicerAstro/wiki#slicerastro-publications
 
 
