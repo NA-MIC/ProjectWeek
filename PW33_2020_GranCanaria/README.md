@@ -99,6 +99,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * C++ / Python integration options (Steve Pieper)
 
+* CTK DICOM database and browser improvements (Marco Nolden)
+
 ## Breakout sessions
 
 
