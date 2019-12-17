@@ -1,12 +1,12 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
 # SlicerAstro Update
-![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/SlicerAstroIcon.png =200x200)
+![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/SlicerAstroIcon.png)
 
 ## Key Investigators
 
 - [Davide Punzo][punzo] ([Freelancer][punzodavide])
-![](https://www.davidepunzo.com/assets/images/DPLogo.png =250x250)
+![](https://www.davidepunzo.com/assets/images/DPLogo.png)
 
 ## Description
 
