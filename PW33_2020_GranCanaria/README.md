@@ -73,7 +73,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Extensions Manager Refresh (JC)
 
-* [Synthetic CT evaluation](Projects/syntheticCT_evaluation/README.md) (Paolo Zaffino, ...)
+* [Synthetic CT evaluation](Projects/syntheticCT_evaluation/README.md) (Paolo Zaffino)
 
 ### Education
 
