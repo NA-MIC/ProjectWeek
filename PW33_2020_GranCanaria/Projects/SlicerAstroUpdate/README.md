@@ -1,12 +1,12 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
 # SlicerAstro Update
-![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/SlicerAstroIcon.png)
+<img src="https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/SlicerAstroIcon.png" width="150" height="150">
 
 ## Key Investigators
 
 - [Davide Punzo][punzo] ([Freelancer][punzodavide])
-![](https://www.davidepunzo.com/assets/images/DPLogo.png)
+<img src="https://www.davidepunzo.com/assets/images/DPLogo.png" width="150" height="150">
 
 ## Description
 
@@ -33,10 +33,8 @@ based on traditional 2D input/output hardware, and visual analytics capabilities
 https://github.com/Punzo/SlicerAstro
 https://github.com/Punzo/SlicerAstro/wiki#slicerastro-publications
 
-<!--
-    Links
--->
 
+[punzo]: https://github.com/Punzo
 [punzodavide]: https://www.davidepunzo.com/
 [slicerastroissue]: https://github.com/Punzo/SlicerAstro/issues/106
 
