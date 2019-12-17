@@ -5,8 +5,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Paolo Zaffino (Magna Graecia University of Catanzaro, Italy)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Andras Lasso (Queen's, Canada)
+- Mike Halle (Brigham and Women’s Hospital and Harvard Medical School, USA)
+- James Petts (Institute of Cancer Research, UK)
+- Steve Pieper (Isomics, USA)
 
 # Project Description
 
