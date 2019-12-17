@@ -133,6 +133,7 @@ List of registered participants so far (names will be added here after processin
 1. Asmaa Skareb (asmaa.skareb@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Anke Verena Reinschluessel (areinsch@uni-bremen.de) - University of Bremen, Digital Media Lab - Germany
 1. Thomas Muender (thom@uni-bremen.de) - University of Bremen - Germany
+1. Paolo Zaffino (@pzaffino)(p.zaffino@unicz.it) - Magna Graecia University - Italy
 
 
 
