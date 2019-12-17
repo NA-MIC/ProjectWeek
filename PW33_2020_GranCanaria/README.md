@@ -91,7 +91,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Interfaces and Devices Integration (Guillermo Socorro, Carlos Luque, Nayra Pumar, Juan Ruiz, ...)
 
-* [Arduino Slicer](Projects/ArduinoSlicer/README.md) (Paolo Zaffino, ...)
+* [Arduino Slicer](Projects/ArduinoSlicer/README.md) (Paolo Zaffino, Andras Lasso, Mike Halle, James Petts, Steve Pieper)
 
 ### Infrastructure
 
