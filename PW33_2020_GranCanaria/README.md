@@ -81,7 +81,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Astronomy (Yep!)
 
-* SlicerAstro Update (Davide Punzo)
+* [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md) (Davide Punzo)
 
 ### IGT
 
