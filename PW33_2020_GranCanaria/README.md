@@ -117,7 +117,7 @@ List of registered participants so far (names will be added here after processin
 <!-- [List](REGISTRANTS.md) -->
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
 
-1. Tina Kapur, (@tkapur)(tkapur@bwh.harvard.edu) - Brigham and Women’s Hospital and Harvard Medical School - USA
+1. Tina Kapur (@tkapur)(tkapur@bwh.harvard.edu) - Brigham and Women’s Hospital and Harvard Medical School - USA
 1. Marco Nolden (M.Nolden@Dkfz-Heidelberg.de) - German Cancer Research Center (DKFZ) - Germany
 1. Hadi Fooladi Talari (hfooladit@cnmc.org) - Children's National Hospital - USA
 1. Pooneh Roshanitabrizi (proshnani2@cnmc.org) - Children's National Hospital - USA
@@ -138,7 +138,8 @@ List of registered participants so far (names will be added here after processin
 1. Anke Verena Reinschluessel (areinsch@uni-bremen.de) - University of Bremen, Digital Media Lab - Germany
 1. Thomas Muender (thom@uni-bremen.de) - University of Bremen - Germany
 1. Paolo Zaffino (@pzaffino)(p.zaffino@unicz.it) - Magna Graecia University - Italy
-
+1. Alexandra Golby (agolby@bwh.harvard.edu) - Brigham and Women’s Hospital and Harvard Medical School - USA
+1. Sara González (csara.gonzalez@iac.es) - Instituto de Astrofísica de Canarias - Spain
 
 
 ## Program Calendar
