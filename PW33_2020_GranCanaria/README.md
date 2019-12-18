@@ -139,7 +139,7 @@ List of registered participants so far (names will be added here after processin
 1. Thomas Muender (thom@uni-bremen.de) - University of Bremen - Germany
 1. Paolo Zaffino (@pzaffino)(p.zaffino@unicz.it) - Magna Graecia University - Italy
 1. Alexandra Golby (agolby@bwh.harvard.edu) - Brigham and Women’s Hospital and Harvard Medical School - USA
-1. Sara González (csara.gonzalez@iac.es) - Instituto de Astrofísica de Canarias - Spain
+1. Sara González (sara.gonzalez@iac.es) - Instituto de Astrofísica de Canarias - Spain
 
 
 ## Program Calendar
