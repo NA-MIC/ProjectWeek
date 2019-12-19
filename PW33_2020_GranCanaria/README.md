@@ -75,6 +75,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Synthetic CT evaluation](Projects/syntheticCT_evaluation/README.md) (Paolo Zaffino)
 
+* [Slicer to Unity Connection](Projects/SlicerToUnity/README.md) (Thomas Muender, Anke Reinschluessel)
+
 ### Education
 
 * 3DSlicer Training programs (GTMA group, Babacar Diao, ...)
