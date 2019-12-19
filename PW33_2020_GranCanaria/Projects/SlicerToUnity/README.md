@@ -6,26 +6,26 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Thomas Muender (Uni Bremen)
 - Anke Reinschluessel (Uni Bremen)
+- 
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+Developing a real time viewer showing image date (e.g., segmentations, 3D models, ...) from 3D slicer in unity 
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Objective A. Establish a streaming connection between unity and 3D slicer 
+
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Get an overview about pre-existing solutions
+2. developing a slicer plug-in
+3. developing the unity application
 
 ## Progress and Next Steps
 
