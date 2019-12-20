@@ -142,6 +142,9 @@ List of registered participants so far (names will be added here after processin
 1. Paolo Zaffino (@pzaffino)(p.zaffino@unicz.it) - Magna Graecia University - Italy
 1. Alexandra Golby (agolby@bwh.harvard.edu) - Brigham and Women’s Hospital and Harvard Medical School - USA
 1. Sara González (sara.gonzalez@iac.es) - Instituto de Astrofísica de Canarias - Spain
+1. Mark Asselin (mark.asselin@queensu.ca) - ACMIT Gmbh / Queen’s University - Canada
+1. Csaba Pintér (pinter.csaba@gmail.com) - Ebatin S.L. - Spain
+
 
 
 ## Program Calendar
