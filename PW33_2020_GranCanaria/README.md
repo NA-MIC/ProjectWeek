@@ -45,59 +45,63 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ## Projects [(How to add a new project?)](Projects/README.md)
 <a name="ProjectsList"/>
 
-* dicomweb-server (Emel Alkim, Steve Pieper)
-
-* BabySteps club foot treatment (Pooneh Roshanitabrizi, Hadi Fooladi Talari, Steve Pieper)
-
-* [Tool framework for react-vtkjs-viewport?](Projects/ReactVtkjsTooling/README.md) (James A. Petts, Danny Brown, Erik Ziegler)
-
-* [VTK.js Multi-volume Volume Rendering](Projects/VTKjsMultiVolumeRendering/README.md)
-
-* OHIF / Slicer Bridge (Steve Pieper, Andras Lasso, James Petts, Mark Asselin)
-
-* Neurosurgical Ultrasound annotation (Tina Kapur, Jarret Rushmore, Sarah Frisken)
+### Segmentation
 
 * High Resolution Brain Segmentation (Sylvain Bouix, Jarret Rushmore, Nikos Makris)
 
-* glTF topics (anatomy atlas, diffusion, etc) (Andras Lasso, Mike Halle, Steve Pieper)
-
-* OHIF and IDC, cancer images in the cloud (Steve Pieper, Ron Kikinis, Erik Ziegler, James A. Petts)
-
-* Diabetic foot (Abián Hernández, Juan Ruiz...)
-
-* Customized interface for diabetic foot extension (Jose-Carlos Ruiz-Luque, Sara González, Juan Ruiz....)
+* Open Anatomy: glTF topics (anatomy atlas, diffusion, etc) (Andras Lasso, Mike Halle, Steve Pieper)
 
 * Software for Annotation and Anatomy (AEVA) (Sam Horvath)
 
-* Slicer iMSTK Integration (Sam Horvath)
+### Web and cloud
 
-* Extensions Manager Refresh (JC)
+* OHIF / Slicer Bridge (Steve Pieper, Andras Lasso, James Petts, Mark Asselin)
 
-* [Synthetic CT evaluation](Projects/syntheticCT_evaluation/README.md) (Paolo Zaffino)
+* [VTK.js Multi-volume Volume Rendering](Projects/VTKjsMultiVolumeRendering/README.md)
 
-* [Slicer to Unity Connection](Projects/SlicerToUnity/README.md) (Thomas Muender, Anke Reinschluessel)
+* [Tool framework for react-vtkjs-viewport?](Projects/ReactVtkjsTooling/README.md) (James A. Petts, Danny Brown, Erik Ziegler)
 
-### Education
+* dicomweb-server (Emel Alkim, Steve Pieper)
 
-* 3DSlicer Training programs (GTMA group, Babacar Diao, ...)
-
-### Open Anatomy
-
-### Astronomy (Yep!)
-
-* [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md) (Davide Punzo)
+* OHIF and IDC, cancer images in the cloud (Steve Pieper, Ron Kikinis, Erik Ziegler, James A. Petts)
 
 ### IGT
 
 * IGT Systems (Guillermo Socorro, Carlos Luque, Juan Ruiz, ...)
 
+* [Slicer to Unity Connection](Projects/SlicerToUnity/README.md) (Thomas Muender, Anke Reinschluessel)
+
+* Neurosurgical Ultrasound annotation (Tina Kapur, Jarret Rushmore, Sarah Frisken)
+
+* Slicer iMSTK Integration (Sam Horvath)
+
 * Interfaces and Devices Integration (Guillermo Socorro, Carlos Luque, Nayra Pumar, Juan Ruiz, ...)
 
 * [Arduino Slicer](Projects/ArduinoSlicer/README.md) (Paolo Zaffino, Andras Lasso, Mike Halle, James Petts, Steve Pieper)
 
+### Clinical applications
+
+* BabySteps club foot treatment (Pooneh Roshanitabrizi, Hadi Fooladi Talari, Steve Pieper)
+
+* Diabetic foot (Abián Hernández, Juan Ruiz...)
+
+* Customized interface for diabetic foot extension (Jose-Carlos Ruiz-Luque, Sara González, Juan Ruiz....)
+
+* [Synthetic CT evaluation](Projects/syntheticCT_evaluation/README.md) (Paolo Zaffino)
+
+### Education
+
+* 3DSlicer Training programs (GTMA group, Babacar Diao, ...)
+
+### Astronomy (Yep!)
+
+* [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md) (Davide Punzo)
+
 ### Infrastructure
 
 * [Slicer5](https://www.slicer.org/wiki/Documentation/Labs/Slicer5-roadmap) Implementation (Andras, Jc, Steve...)
+
+* Extensions Manager Refresh (JC)
 
 * Subject Hierarchy context menus (Csaba Pinter)
 
