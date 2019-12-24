@@ -148,6 +148,7 @@ List of registered participants so far (names will be added here after processin
 1. Sara González (sara.gonzalez@iac.es) - Instituto de Astrofísica de Canarias - Spain
 1. Mark Asselin (mark.asselin@queensu.ca) - ACMIT Gmbh / Queen’s University - Canada
 1. Csaba Pintér (pinter.csaba@gmail.com) - Ebatin S.L. - Spain
+1. Andras Lasso (@lassoan)(lasso@queensu.ca) - Queen’s University - Canada
 
 
 
