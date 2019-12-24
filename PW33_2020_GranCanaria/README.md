@@ -89,6 +89,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Synthetic CT evaluation](Projects/syntheticCT_evaluation/README.md) (Paolo Zaffino)
 
+* [NorMIT-Plan](Projects/NorMIT-Plan/README.md "Liver resection
+  planning software") (Rafael Palomar)
 ### Education
 
 * 3DSlicer Training programs (GTMA group, Babacar Diao, ...)
