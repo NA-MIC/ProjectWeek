@@ -61,7 +61,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Tool framework for react-vtkjs-viewport?](Projects/ReactVtkjsTooling/README.md) (James A. Petts, Danny Brown, Erik Ziegler)
 
-* dicomweb-server (Emel Alkim, Steve Pieper)
+* dicomweb-server (Emel Alkim, Steve Pieper, Hans Meine)
 
 * OHIF and IDC, cancer images in the cloud (Steve Pieper, Ron Kikinis, Erik Ziegler, James A. Petts)
 
