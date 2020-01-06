@@ -81,7 +81,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Clinical applications
 
-* BabySteps club foot treatment (Pooneh Roshanitabrizi, Hadi Fooladi Talari, Steve Pieper)
+* [BabySteps club foot treatment](Projects/ClubFoot/README.md) (Pooneh Roshanitabrizi, Hadi Fooladi Talari, Steve Pieper)
 
 * Diabetic foot (Abián Hernández, Juan Ruiz...)
 
