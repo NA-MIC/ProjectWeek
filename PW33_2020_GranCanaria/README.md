@@ -47,15 +47,15 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Segmentation
 
-* High Resolution Brain Segmentation (Sylvain Bouix, Jarret Rushmore, Nikos Makris)
+* High Resolution Brain Segmentation (Sylvain Bouix, Jarret Rushmore, Nikos Makris, Kyle Sunderland)
 
-* [Open Anatomy: glTF and metadata export](Projects/OpenAnatomy/README.md) (anatomy atlas, diffusion, etc) (Andras Lasso, Mike Halle, Steve Pieper)
+* [Open Anatomy: glTF and metadata export](Projects/OpenAnatomy/README.md) (anatomy atlas, diffusion, etc) (Andras Lasso, Mike Halle, Steve Pieper, Kyle Sunderland)
 
 * Software for Annotation and Anatomy (AEVA) (Sam Horvath)
 
 ### Web and cloud
 
-* OHIF / Slicer Bridge (Steve Pieper, Andras Lasso, James Petts, Mark Asselin)
+* OHIF / Slicer Bridge (Steve Pieper, Andras Lasso, James Petts, Mark Asselin, Kyle Sunderland)
 
 * [VTK.js Multi-volume Volume Rendering](Projects/VTKjsMultiVolumeRendering/README.md)
 
