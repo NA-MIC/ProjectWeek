@@ -63,7 +63,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * dicomweb-server (Emel Alkim, Steve Pieper, Hans Meine)
 
-* OHIF and IDC, cancer images in the cloud (Steve Pieper, Ron Kikinis, Erik Ziegler, James A. Petts)
+* [OHIF and IDC](Projects/OHIF+IDC/README.md), cancer images in the cloud (Steve Pieper, Ron Kikinis, Erik Ziegler, James A. Petts)
 
 ### IGT
 
