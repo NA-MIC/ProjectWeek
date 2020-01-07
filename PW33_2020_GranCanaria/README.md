@@ -158,6 +158,9 @@ List of registered participants so far (names will be added here after processin
 1. Thomas Mildner (thomas.s.mildner@gmail.com) - University of Bremen - Germany
 1. James Petts (ovelasolutions@gmail.com) - Ovela Solutions LTD - UK
 1. Sara Fernández Vidal (sara.fernandezvidal@icm-institute.org) - ICM BRain & Spine Institute - France
+1. Sonia Pujol (spujol@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
+1. Michael Halle (@mhalle)(mhalle@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
+
 
 
 ## Program Calendar
