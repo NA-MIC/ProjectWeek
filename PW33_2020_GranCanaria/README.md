@@ -160,7 +160,13 @@ List of registered participants so far (names will be added here after processin
 1. Sara Fernández Vidal (sara.fernandezvidal@icm-institute.org) - ICM BRain & Spine Institute - France
 1. Sonia Pujol (spujol@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Michael Halle (@mhalle)(mhalle@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
-
+1. Babacar Diao (babacardiao104uro@yahoo.fr) - Ecole Militaire de Santé Dakar -Senegal
+1. Samba Diaw (samba.diaw@esp.sn) - Université Cheikh Anta Diop - Senegal
+1. Ainina Ndiaye () - Université Cheikh Anta Diop - Senegal
+1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
+1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
+1. Yahya Ould Tfeil (tefeil2000@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
+1. Artemisa Mendes Moreno (artemisa.moreno@docente.unicv.edu.cv) - Faculdade de Ciências e Tecnologia, Universidade de Cabo Verde - Cabo Verde
 
 
 ## Program Calendar
