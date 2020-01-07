@@ -153,7 +153,11 @@ List of registered participants so far (names will be added here after processin
 1. Mark Asselin (mark.asselin@queensu.ca) - ACMIT Gmbh / Queen’s University - Canada
 1. Csaba Pintér (pinter.csaba@gmail.com) - Ebatin S.L. - Spain
 1. Andras Lasso (@lassoan)(lasso@queensu.ca) - Queen’s University - Canada
-
+1. Hans Meine (@hmeine) (meine@uni-bremen.de) - University of Bremen - Germany
+1. Rafael Palomar (rafael.palomar@rr-research.no) - Oslo University Hospital - Norway
+1. Thomas Mildner (thomas.s.mildner@gmail.com) - University of Bremen - Germany
+1. James Petts (ovelasolutions@gmail.com) - Ovela Solutions LTD - UK
+1. Sara Fernández Vidal (sara.fernandezvidal@icm-institute.org) - ICM BRain & Spine Institute - France
 
 
 ## Program Calendar
