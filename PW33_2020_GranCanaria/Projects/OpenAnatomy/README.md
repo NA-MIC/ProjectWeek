@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Andras Lasso](http://perk.cs.queensu.ca/users/lasso) (Queen's University, Canada)
 - Michael Halle (Brigham and Women’s Hospital and Harvard Medical School)
 - Steve Pieper (Isomics)
+- [Kyle Sunderland](http://perk.cs.queensu.ca/users/sunderland) (Queen's University, Canada)
 
 ## Project Description
 
