@@ -10,9 +10,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-The current infrastructure is on ["life-support"](https://www.slicer.org/wiki/Documentation/Labs/ExtensionsServer#status), during the past two years, we have been working toward phasing out the aging Midas based server used to host, serve and manage Slicer application and extension packages. 
+The current infrastructure is on ["life-support"](https://www.slicer.org/wiki/Documentation/Labs/ExtensionsServer#status), during the past two years, Kitware has been working toward phasing out the aging Midas based server used to host, serve and manage Slicer application and extension packages. 
 
-We now have a Girder plugin for the backend (meaning API endpoints and database interaction). See https://slicer-package-manager.readthedocs.io. We also experimented with few prototype regarding the extension manager but have nothing production ready.
+Kitware now has a Girder plugin for the backend (meaning API endpoints and database interaction). See https://slicer-package-manager.readthedocs.io. We also experimented with few prototype regarding the extension manager but have nothing production ready.
 
 The goal of this project is to resume work on an updated frontend implementation.
 
