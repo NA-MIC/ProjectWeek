@@ -42,7 +42,7 @@ Developing a real time viewer showing image data (e.g., segmentations, 3D models
 
 1. Look at pre-existing solutions (Web server Http streaming, OpenITGLink)
   * OpenITGLink seems a bit too much for our goals
-  * http streaming looks promising
+  * http streaming looks promising (https://github.com/pieper/SlicerWeb) 
 2. ...
 
 # Illustrations
