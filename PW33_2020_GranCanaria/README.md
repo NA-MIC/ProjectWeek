@@ -104,7 +104,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Slicer5](https://www.slicer.org/wiki/Documentation/Labs/Slicer5-roadmap) Implementation (Andras, Jc, Steve...)
 
-* Extensions Manager Refresh (JC)
+* [Extensions Manager Refresh](Projects/ExtensionsManagerRefresh/README.md) (JC, Andras, Steve)
 
 * Subject Hierarchy context menus (Csaba Pinter)
 

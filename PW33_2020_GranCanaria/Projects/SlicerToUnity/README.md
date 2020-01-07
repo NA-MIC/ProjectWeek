@@ -6,35 +6,42 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Thomas Muender (Uni Bremen)
 - Anke Reinschluessel (Uni Bremen)
-- Thomas Mildner 
-- ... ?
+- Thomas Mildner (Uni Bremen)
 
 # Project Description
 
-Developing a real time viewer showing image date (e.g., segmentations, 3D models, ...) from 3D slicer in unity 
+Developing a real time viewer showing image data (e.g., segmentations, 3D models, ...) from 3D Slicer in Unity 
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Establish a streaming connection between unity and 3D slicer 
-
+1. Establish a streaming connection between unity and 3D slicer 
+2. Select Data that should be streamable (Meta data, dicom images, 3d models)
+3. Integrate the streamed data into Unity application
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Get an overview about pre-existing solutions
-2. developing a slicer plug-in
-3. developing the unity application
+1. Get an overview about pre-existing solutions (Http streaming, ...)
+2. Developing a slicer plug-in
+* create new plugin 
+* integrate streaming technology
+* select data to be streamed
+* put data into streamable format
+3. Developing the unity application
+* integrate streaming technology
+* transform data into unity data formats
+4. Integrate data in the Unity application
+* Build Unity viewer
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Look at pre-existing solutions
+2. ...
 
 # Illustrations
 
