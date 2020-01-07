@@ -6,6 +6,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Guillermo Valentín Socorro-Marrero (University of Las Palmas de Gran Canaria)
 - José-Carlos Ruiz-Luque (Instituto de Astrofísica de Canarias)
+- Andras Lasso (Queen’s University, Canada)
+- MD Nurul Karim
 - Juan Ruiz-Alzola (University of Las Palmas de Gran Canaria and Instituto de Astrofísica de Canarias)
 
 # Project Description
