@@ -14,7 +14,7 @@ The current infrastructure is on ["life-support"](https://www.slicer.org/wiki/Do
 
 Kitware now has a Girder plugin for the backend (meaning API endpoints and database interaction). See https://slicer-package-manager.readthedocs.io. We also experimented with few prototype regarding the extension manager but have nothing production ready.
 
-The goal of this project is to resume work on an updated frontend implementation.
+The goal of this project is to prototype on updated frontend.
 
 <!-- Add a short paragraph describing the project. -->
 
