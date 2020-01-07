@@ -67,15 +67,13 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### IGT
 
-* IGT Systems (Guillermo Socorro, Carlos Luque, Juan Ruiz, ...)
+* [Ultrasound navigation training system for breast biopsy](Projects/UltrasoundNavigationTrainingSystemForBreastBiopsy/README.md) (Guillermo Valentín Socorro-Marrero, José-Carlos Ruiz-Luque, Juan Ruiz-Alzola)
 
 * [Slicer to Unity Connection](Projects/SlicerToUnity/README.md) (Thomas Muender, Anke Reinschluessel)
 
 * Neurosurgical Ultrasound annotation (Tina Kapur, Jarret Rushmore, Sarah Frisken)
 
 * Slicer iMSTK Integration (Sam Horvath)
-
-* Interfaces and Devices Integration (Guillermo Socorro, Carlos Luque, Nayra Pumar, Juan Ruiz, ...)
 
 * [Arduino Slicer](Projects/ArduinoSlicer/README.md) (Paolo Zaffino, Andras Lasso, Mike Halle, James Petts, Steve Pieper)
 
@@ -91,9 +89,12 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [NorMIT-Plan](Projects/NorMIT-Plan/README.md "Liver resection
   planning software") (Rafael Palomar)
+  
 ### Education
 
 * 3DSlicer Training programs (GTMA group, Babacar Diao, ...)
+
+* [Customization of user interfaces for dissemination applications based on 3D Slicer](Projects/CustomizationOfUserInterfacesForDissemination/README.md) (Guillermo Valentín Socorro-Marrero, Nayra Pumar Carreras, José-Carlos Ruiz-Luque, Abián Hernández-Guedes, Juan Ruiz-Alzola)
 
 ### Astronomy (Yep!)
 
@@ -137,7 +138,7 @@ List of registered participants so far (names will be added here after processin
 1. Richard Rushmore (jrushmore@bwh.harvard.edu) - Brigham and Women's Hospital - USA
 1. Juan Ruiz Alzola (@jruizalz)(juan.ruiz@ulpgc.es) - University of Las Palmas de Gran Canaria / Instituto de Astrofísica de Canarias - Spain
 1. José-Carlos Ruiz-Luque (@carlos-luque)(carlos.luque@iac.es) - Instituto de Astrofísica de Canarias - Spain
-1. Guillermo Valentín Socorro Marrero (@gvsocorro)(guillermo.socorro@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Guillermo Valentín Socorro-Marrero (@gvsocorro)(guillermo.socorro@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Abián Hernández Guedes (@SolidusAbi)(abian.hernandez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Nayra Pumar Carreras (nayra.pumar@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Gabor Fichtinger (gabor@cs.queensu.ca) - Queen’s University - Canada
