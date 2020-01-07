@@ -24,23 +24,25 @@ Developing a real time viewer showing image data (e.g., segmentations, 3D models
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Get an overview about pre-existing solutions (Http streaming, ...)
+1. Get an overview about pre-existing solutions (Web server Http streaming, OpenITGLink)
 2. Developing a slicer plug-in
-* create new plugin 
-* integrate streaming technology
-* select data to be streamed
-* put data into streamable format
+  * create new plugin 
+  * integrate streaming technology
+  * select data to be streamed
+  * put data into streamable format
 3. Developing the unity application
-* integrate streaming technology
-* transform data into unity data formats
+  * integrate streaming technology
+  * transform data into unity data formats
 4. Integrate data in the Unity application
-* Build Unity viewer
+  * Build Unity viewer
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Look at pre-existing solutions
+1. Look at pre-existing solutions (Web server Http streaming, OpenITGLink)
+  * OpenITGLink seems a bit too much for our goals
+  * http streaming looks promising
 2. ...
 
 # Illustrations
