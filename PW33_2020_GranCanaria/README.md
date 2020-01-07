@@ -113,6 +113,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * CTK DICOM database and browser improvements (Marco Nolden)
 
+* [Slicer on Android](Projects/SlicerOnAndroid/readme.md) (Attila Nagy and whoever is interested)
+
 ## Breakout sessions
 
 
