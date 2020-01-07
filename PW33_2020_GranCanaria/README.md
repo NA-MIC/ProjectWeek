@@ -49,7 +49,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * High Resolution Brain Segmentation (Sylvain Bouix, Jarret Rushmore, Nikos Makris)
 
-* Open Anatomy: glTF topics (anatomy atlas, diffusion, etc) (Andras Lasso, Mike Halle, Steve Pieper)
+* [Open Anatomy: glTF and metadata export](Projects/OpenAnatomy/README.md) (anatomy atlas, diffusion, etc) (Andras Lasso, Mike Halle, Steve Pieper)
 
 * Software for Annotation and Anatomy (AEVA) (Sam Horvath)
 
@@ -89,7 +89,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [NorMIT-Plan](Projects/NorMIT-Plan/README.md "Liver resection
   planning software") (Rafael Palomar)
-  
+
 ### Education
 
 * 3DSlicer Training programs (GTMA group, Babacar Diao, ...)
