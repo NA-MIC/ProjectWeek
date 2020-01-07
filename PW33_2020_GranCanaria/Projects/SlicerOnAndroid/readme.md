@@ -1,16 +1,17 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Slicer on Android
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
+- Attila Nagy  (University of Szeged)
 - Investigator 2 (Affiliation)
 - Investigator 3 (Affiliation)
 
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
+Investigate the possibilities of portig Slicer to Android, to be used in a Desktop-like Android environment.
 
 ## Objective
 
