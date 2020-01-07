@@ -26,15 +26,15 @@ Developing a real time viewer showing image data (e.g., segmentations, 3D models
 
 1. Get an overview about pre-existing solutions (Http streaming, ...)
 2. Developing a slicer plug-in
-  2.1 create new plugin 
-  2.2 integrate streaming technology
-  2.3 select data to be streamed
-  2.4 put data into streamable format
+* create new plugin 
+* integrate streaming technology
+* select data to be streamed
+* put data into streamable format
 3. Developing the unity application
-  3.1 integrate streaming technology
-  3.2 transform data into unity data formats
+* integrate streaming technology
+* transform data into unity data formats
 4. Integrate data in the Unity application
-  4.1 Build Unity viewer
+* Build Unity viewer
 
 ## Progress and Next Steps
 
