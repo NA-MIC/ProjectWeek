@@ -1,14 +1,20 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Extensions Manager Refresh
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Jean-Christophe Fillion-Robin (Kitware)
+- Andras Lasso (Queen's University)
+- Steve Pieper (Isomics)
 
 # Project Description
+
+The current infrastructure is on ["life-support"](https://www.slicer.org/wiki/Documentation/Labs/ExtensionsServer#status), during the past two years, we have been working toward phasing out the aging Midas based server used to host, serve and manage Slicer application and extension packages. 
+
+We now have a Girder plugin for the backend (meaning API endpoints and database interaction). See https://slicer-package-manager.readthedocs.io. We also experimented with few prototype regarding the extension manager but have nothing production ready.
+
+The goal of this project is to resume work on an updated frontend implementation.
 
 <!-- Add a short paragraph describing the project. -->
 
@@ -44,5 +50,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 -->
 
 # Background and References
-
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+* https://www.slicer.org/wiki/Documentation/Labs/ExtensionsServer
