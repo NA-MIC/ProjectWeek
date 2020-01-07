@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Thomas Muender (Uni Bremen)
 - Anke Reinschluessel (Uni Bremen)
-- 
+- Thomas Mildner 
 
 # Project Description
 
