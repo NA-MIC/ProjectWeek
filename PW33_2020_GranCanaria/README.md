@@ -69,7 +69,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Ultrasound navigation training system for breast biopsy](Projects/UltrasoundNavigationTrainingSystemForBreastBiopsy/README.md) (Guillermo Valentín Socorro-Marrero, José-Carlos Ruiz-Luque, Juan Ruiz-Alzola)
 
-* [Slicer to Unity Connection](Projects/SlicerToUnity/README.md) (Thomas Muender, Anke Reinschluessel)
+* [Slicer to Unity Connection](Projects/SlicerToUnity/README.md) (Thomas Muender, Anke Reinschluessel, Thomas Mildner)
 
 * Neurosurgical Ultrasound annotation (Tina Kapur, Jarret Rushmore, Sarah Frisken)
 
