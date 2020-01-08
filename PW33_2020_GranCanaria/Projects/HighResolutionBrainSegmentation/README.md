@@ -26,16 +26,16 @@ Integration of a BIDS-based cased management system would aid organization and s
 ## Approach and Plan
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 1. Freesurfer integration
-- Load freesurfer surfaces into Slicer
+    - Load freesurfer surfaces into Slicer
 
 2.  Sulcal Drawing
-- Using the white matter surfaces, draw two points in Slicer, each at the base of a sulcus
-- Connect the two points with a line at the bottom of the sulcus (i.e., a minimum value)
-- Assign the line to a specific sulcal identity.
-- Implement a constraint option for markups to force them to be on a surface (i.e. model node, segmentation, or another markup)
+    - Using the white matter surfaces, draw two points in Slicer, each at the base of a sulcus
+    - Connect the two points with a line at the bottom of the sulcus (i.e., a minimum value)
+    - Assign the line to a specific sulcal identity.
+    - Implement a constraint option for markups to force them to be on a surface (i.e. model node, segmentation, or another markup)
 
 3. Case Management
--Pilot organziation
+    - Pilot organziation
 
 ## Progress and Next Steps
 
