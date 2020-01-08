@@ -47,7 +47,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Segmentation
 
-* High Resolution Brain Segmentation (Sylvain Bouix, Jarret Rushmore, Nikos Makris, Kyle Sunderland)
+* [High Resolution Brain Segmentation](Projects/HighResolutionBrainSegmentation/README.md) (Sylvain Bouix, Jarret Rushmore, Nikos Makris, Kyle Sunderland, Andras Lasso)
 
 * [Open Anatomy: glTF and metadata export](Projects/OpenAnatomy/README.md) (anatomy atlas, diffusion, etc) (Andras Lasso, Mike Halle, Steve Pieper, Kyle Sunderland)
 
