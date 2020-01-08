@@ -35,3 +35,4 @@ Improve 3D Slicer's existing features to support glTF file format export/import 
 
 + [Open Antomy Browser](https://www.openanatomy.org/)
 + [Slicer Open Anatomy extension](https://github.com/PerkLab/SlicerOpenAnatomy)
++ https://github.com/KhronosGroup/glTF/tree/master/extensions#extensions-vs-extras
