@@ -168,6 +168,10 @@ List of registered participants so far (names will be added here after processin
 1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
 1. Yahya Ould Tfeil (tefeil2000@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
 1. Artemisa Mendes Moreno (artemisa.moreno@docente.unicv.edu.cv) - Faculdade de Ciências e Tecnologia, Universidade de Cabo Verde - Cabo Verde
+1. Samantha Horvath (sam.horvath@kitware.com) - Kitware Inc. - USA
+1. Kyle Sunderland (1krs1@queensu.ca) - Queen’s University - Canada
+1. Emel Alkim (ealkim@stanford.edu) - Stanford University Department of Biomedical Data Science - Stanford University - USA
+
 
 
 ## Program Calendar
