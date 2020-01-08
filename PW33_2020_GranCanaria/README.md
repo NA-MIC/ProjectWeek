@@ -175,6 +175,7 @@ List of registered participants so far (names will be added here after processin
 1. Mouhcine Madani (mouhcinemadani@gmail.com) - University Abdelmalek Essaâdi - Morocco
 1. Otman Aghzout (oaghzout@uae.ac.ma) - University Abdelmalek Essaâdi - Morocco
 1. Badiaa Ait Ahmed (aitahmedbadiaa@gmail.com) - University Abdelmalek Essaâdi - Morocco
+1. Attila Nagy (@acetylsalicyl)(nagy.attila@med.u-szeged.hu) - Faculty of Medicine, University of Szeged - Hungary
 
 
 ## Program Calendar
