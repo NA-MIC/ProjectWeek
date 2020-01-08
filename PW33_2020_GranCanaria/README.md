@@ -57,11 +57,11 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * OHIF / Slicer Bridge (Steve Pieper, Andras Lasso, James Petts, Mark Asselin, Kyle Sunderland)
 
-* [VTK.js Multi-volume Volume Rendering](Projects/VTKjsMultiVolumeRendering/README.md)
+* [VTK.js Multi-volume Volume Rendering](Projects/VTKjsMultiVolumeRendering/README.md) (Erik Ziegler, James Petts, Jean-Christophe Fillion-Robin, Steve Pieper, Ken Martin (remote))
 
 * [Tool framework for react-vtkjs-viewport?](Projects/ReactVtkjsTooling/README.md) (James A. Petts, Danny Brown, Erik Ziegler)
 
-* dicomweb-server (Emel Alkim, Steve Pieper, Hans Meine)
+* [dicomweb-server](Projects/dicomweb-server/README.md) (Emel Alkim, Steve Pieper, Hans Meine, Erik Ziegler)
 
 * [OHIF and IDC](Projects/OHIF+IDC/README.md), cancer images in the cloud (Steve Pieper, Ron Kikinis, Erik Ziegler, James A. Petts)
 
