@@ -177,6 +177,8 @@ List of registered participants so far (names will be added here after processin
 1. Badiaa Ait Ahmed (aitahmedbadiaa@gmail.com) - University Abdelmalek Essaâdi - Morocco
 1. Attila Nagy (@acetylsalicyl)(nagy.attila@med.u-szeged.hu) - Faculty of Medicine, University of Szeged - Hungary
 1. Juan Andrés Ramírez González (juanandres.ramirez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. Katie Mastrogiacomo (kmast@bwh.harvard.edu) - Surgical Planning Laboratory - USA
+1. Carl-Fredrik Westin (westin@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 
 
 ## Program Calendar
