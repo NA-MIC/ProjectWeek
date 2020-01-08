@@ -43,6 +43,8 @@ Developing a real time viewer showing image data (e.g., segmentations, 3D models
 1. Look at pre-existing solutions (Web server Http streaming, OpenITGLink)
   * OpenITGLink seems a bit too much for our goals
   * http streaming looks promising (https://github.com/pieper/SlicerWeb) 
+  * https://projectweek.na-mic.org/PW32_2019_London_Canada/Projects/KidneySegmentation/
+  * AR/VR solutions with slicer: https://www.slicer.org/wiki/Documentation/Labs/Augmented_Reality_and_Virtual_Reality_support#Current_approaches
 2. ...
 
 # Illustrations
