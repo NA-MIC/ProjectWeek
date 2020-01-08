@@ -163,7 +163,7 @@ List of registered participants so far (names will be added here after processin
 1. Michael Halle (@mhalle)(mhalle@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Babacar Diao (babacardiao104uro@yahoo.fr) - Ecole Militaire de Santé Dakar -Senegal
 1. Samba Diaw (samba.diaw@esp.sn) - Université Cheikh Anta Diop - Senegal
-1. Ainina Ndiaye () - Université Cheikh Anta Diop - Senegal
+1. Ainina Ndiaye (aninandiaye@yahoo.fr) - Université Cheikh Anta Diop - Senegal
 1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
 1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
 1. Yahya Ould Tfeil (tefeil2000@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
@@ -171,7 +171,10 @@ List of registered participants so far (names will be added here after processin
 1. Samantha Horvath (sam.horvath@kitware.com) - Kitware Inc. - USA
 1. Kyle Sunderland (1krs1@queensu.ca) - Queen’s University - Canada
 1. Emel Alkim (ealkim@stanford.edu) - Stanford University Department of Biomedical Data Science - Stanford University - USA
-
+1. Siham Alaoui (siham39@hotmail.com) - University Abdelmalek Essaâdi - Morocco
+1. Mouhcine Madani (mouhcinemadani@gmail.com) - University Abdelmalek Essaâdi - Morocco
+1. Otman Aghzout (oaghzout@uae.ac.ma) - University Abdelmalek Essaâdi - Morocco
+1. Badiaa Ait Ahmed (aitahmedbadiaa@gmail.com) - University Abdelmalek Essaâdi - Morocco
 
 
 ## Program Calendar
