@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Abián Hernández Guedes(University of Las Palmas de Gran Canaria, Spain)
+- Alexandru Dorobanțiu (Lucian Blaga University of Sibiu, Romania)
 - José-Carlos Ruiz-Luque (Instituto Astrofísico de Canarias, Spain)
 - Natalia Arteaga-Marrero (Instituto Astrofísico de Canarias, Spain)
 - Enrique Villa (Instituto Astrofísico de Canarias, Spain)
@@ -20,14 +21,10 @@ The aim is to integrate an algorithm, which is based on Deep Learning, for foot 
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
 1. Update the "Diabetic Foot" extension created on the 28thPW NA-MIC.
 1. Integrate the foot segmentation algorithm presented on the paper [1].
 
 ## Approach and Plan
-
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Integrate TorchScript models, an intermediate representation of a PyTorch model
 1. Include a point cloud processing library
@@ -38,7 +35,11 @@ The aim is to integrate an algorithm, which is based on Deep Learning, for foot 
 TODO
 
 # Illustrations
-TODO
+![Workflow](images/Workflow.png "Proposed workflow")
+Proposed workflow for feet segmentation where the images are represented as squares
+and the operations as rectangles.The network prediction is used to set the ROI on the depth
+image, the point cloud, and then a second segmentation was applied to extract geometry models,
+specifically planes.
 
 # Background and References
 
