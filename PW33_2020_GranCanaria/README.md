@@ -81,7 +81,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [BabySteps club foot treatment](Projects/ClubFoot/README.md) (Pooneh Roshanitabrizi, Hadi Fooladi Talari, Steve Pieper)
 
-* Diabetic foot (Abián Hernández, Juan Ruiz...)
+* [Integration of Diabetic Foot Segmentation Algorithm based on Deep Learning](Projects/DiabeticFootSegmentation/README.md) (Abián Hernández, Juan Ruiz...)
 
 * Customized interface for diabetic foot extension (Jose-Carlos Ruiz-Luque, Sara González, Juan Ruiz....)
 
