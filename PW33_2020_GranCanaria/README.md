@@ -179,7 +179,7 @@ List of registered participants so far (names will be added here after processin
 1. Juan Andrés Ramírez González (juanandres.ramirez@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
 1. Katie Mastrogiacomo (kmast@bwh.harvard.edu) - Surgical Planning Laboratory - USA
 1. Carl-Fredrik Westin (westin@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
-
+1. Adam Rankin (@adamrankin)(arankin@robarts.ca) - Robarts Research Institute - Canada
 
 ## Program Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic%2FCanary&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
