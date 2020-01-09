@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Developing a real time viewer showing image data (e.g., segmentations, 3D models, ...) from 3D Slicer in Unity 
+Developing a real time viewer showing image data (e.g., segmentations, 3D models, ...) from 3D Slicer in Unity, if possible allowing also for interaction in unity updating the slicer data (as a 2nd step)
 
 ## Objective
 
@@ -45,6 +45,7 @@ Developing a real time viewer showing image data (e.g., segmentations, 3D models
   * http streaming looks promising (https://github.com/pieper/SlicerWeb) 
   * https://projectweek.na-mic.org/PW32_2019_London_Canada/Projects/KidneySegmentation/
   * AR/VR solutions with slicer: https://www.slicer.org/wiki/Documentation/Labs/Augmented_Reality_and_Virtual_Reality_support#Current_approaches
+  * https://github.com/Lyla-M/UnityOpenIGTLink
 2. ...
 
 # Illustrations
