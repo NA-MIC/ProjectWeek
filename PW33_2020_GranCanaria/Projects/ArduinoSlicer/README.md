@@ -7,7 +7,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Paolo Zaffino (Magna Graecia University of Catanzaro, Italy)
 - Andras Lasso (Queen's, Canada)
 - Mike Halle (Brigham and Women’s Hospital and Harvard Medical School, USA)
-- James Petts (Institute of Cancer Research, UK)
 - Steve Pieper (Isomics, USA)
 
 # Project Description
