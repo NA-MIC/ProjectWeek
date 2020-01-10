@@ -28,7 +28,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 <table><tr>
     <td>
-        <img src="zoom-photo.png">
+        <img src="PW33-planning-zoom.png">
     </td>
     <td>
         <ul>
