@@ -181,6 +181,7 @@ List of registered participants so far (names will be added here after processin
 1. Carl-Fredrik Westin (westin@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Adam Rankin (@adamrankin)(arankin@robarts.ca) - Robarts Research Institute - Canada
 1. Joël Spaltenstein (spalte@naturalimage.ch) - OsiriX Foundation - Switzerland
+1. Nicolas van Dooren (vandooren.nicolas@gmail.com) - OsiriX Foundation - Switzerland
 
 
 ## Program Calendar
