@@ -89,6 +89,9 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [NorMIT-Plan](Projects/NorMIT-Plan/README.md "Liver resection
   planning software") (Rafael Palomar)
+  
+* Brain white matter of social cognition in schizophrenia and healthy (Zora Kikinis, Nikos Makris)
+
 
 ### Education
 
