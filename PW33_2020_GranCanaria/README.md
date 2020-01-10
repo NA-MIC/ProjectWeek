@@ -110,8 +110,6 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * VR in Slicer: support, interaction, and functionality (Adam Rankin, Terry Peters, Andras, JC, Csaba, Gabor, all welcome)
 
-* C++ / Python integration options (Steve Pieper, Marco Nolden)
-
 * CTK DICOM database and browser improvements (Marco Nolden)
 
 * [Slicer on Android](Projects/SlicerOnAndroid/readme.md) (Attila Nagy and whoever is interested)
