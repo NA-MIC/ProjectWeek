@@ -65,6 +65,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [OHIF and IDC](Projects/OHIF+IDC/README.md), cancer images in the cloud (Steve Pieper, Ron Kikinis, Erik Ziegler, James A. Petts)
 
+* [KHEOPS and OHIF](Projects/KHEOPS+OHIF/README.md), secure interface between KHEOPS and OHIF (Joël Spaltenstein, Nicolas van Dooren)
+
 ### IGT
 
 * [Ultrasound navigation training system for breast biopsy](Projects/UltrasoundNavigationTrainingSystemForBreastBiopsy/README.md) (Guillermo Valentín Socorro-Marrero, José-Carlos Ruiz-Luque, Andras Lasso, Md. Nurul Karim, Juan Ruiz-Alzola)
