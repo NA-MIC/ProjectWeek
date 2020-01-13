@@ -186,6 +186,7 @@ List of registered participants so far (names will be added here after processin
 1. Joël Spaltenstein (spalte@naturalimage.ch) - OsiriX Foundation - Switzerland
 1. Nicolas van Dooren (vandooren.nicolas@gmail.com) - OsiriX Foundation - Switzerland
 1. Erik Ziegler (erik@radicalimaging.com) - Open Health Imaging Foundation- France
+1. William Wells (sw@bwh.harvard.edu) - Harvard Medical School - USA
 
 
 
