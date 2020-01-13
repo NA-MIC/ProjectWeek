@@ -55,7 +55,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Web and cloud
 
-* OHIF / Slicer Bridge (Steve Pieper, Andras Lasso, James Petts, Mark Asselin, Kyle Sunderland)
+* OHIF / Slicer Bridge (Steve Pieper, Andras Lasso, James Petts, Mark Asselin, Kyle Sunderland, Csaba Pinter)
 
 * [VTK.js Multi-volume Volume Rendering](Projects/VTKjsMultiVolumeRendering/README.md) (Erik Ziegler, James Petts, Jean-Christophe Fillion-Robin, Steve Pieper, Ken Martin (remote))
 
@@ -107,11 +107,9 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Infrastructure
 
-* [Slicer5](https://www.slicer.org/wiki/Documentation/Labs/Slicer5-roadmap) Implementation (Andras, Jc, Steve...)
+* [Slicer5](https://www.slicer.org/wiki/Documentation/Labs/Slicer5-roadmap) Implementation (Andras, Jc, Steve, Csaba, ...)
 
 * [Extensions Manager Refresh](Projects/ExtensionsManagerRefresh/README.md) (JC, Andras, Steve)
-
-* Subject Hierarchy context menus (Csaba Pinter)
 
 * VR in Slicer: support, interaction, and functionality (Adam Rankin, Terry Peters, Andras, JC, Csaba, Gabor, all welcome)
 
@@ -155,7 +153,7 @@ List of registered participants so far (names will be added here after processin
 1. Alexandra Golby (agolby@bwh.harvard.edu) - Brigham and Women’s Hospital and Harvard Medical School - USA
 1. Sara González (sara.gonzalez@iac.es) - Instituto de Astrofísica de Canarias - Spain
 1. Mark Asselin (mark.asselin@queensu.ca) - ACMIT Gmbh / Queen’s University - Canada
-1. Csaba Pintér (pinter.csaba@gmail.com) - Ebatin S.L. - Spain
+1. Csaba Pintér (@cpinter)(pinter.csaba@gmail.com) - Ebatin S.L. - Spain
 1. Andras Lasso (@lassoan)(lasso@queensu.ca) - Queen’s University - Canada
 1. Hans Meine (@hmeine) (meine@uni-bremen.de) - University of Bremen - Germany
 1. Rafael Palomar (rafael.palomar@rr-research.no) - Oslo University Hospital - Norway
