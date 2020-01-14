@@ -48,7 +48,7 @@ The aim is to create a friendly customized interface for monitoring the foot ulc
 ![Some more images](Example2.jpg)
 -->
 
-<img src="CurrentUI.png" width="400"/>
+<img src="CurrentUI.png" width="800"/>
 Figure 1. The current Silelet-based GUI
 
 # Background and References
