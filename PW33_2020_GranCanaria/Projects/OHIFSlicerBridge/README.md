@@ -35,6 +35,11 @@ Possible implementation plan:
   * passes in path to study, slocer downloads and loads the data ready to segment
   * opens new tab to slicer vnc
   * user can push segmentation results back to same study via dicomweb
+  
+List other requirements:
+* reasonable performance launching and using cloud slicer for segmentation
+* secured connection to Slicer
+* lossless data transfer (especially about segmentation semantics)
 
 ## Approach and Plan
 
