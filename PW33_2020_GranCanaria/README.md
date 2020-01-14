@@ -51,7 +51,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Open Anatomy: glTF and metadata export](Projects/OpenAnatomy/README.md) (anatomy atlas, diffusion, etc) (Andras Lasso, Mike Halle, Steve Pieper, Kyle Sunderland)
 
-* Software for Annotation and Anatomy (AEVA) (Sam Horvath)
+* [Software for Annotation and Anatomy](Projects/AEVA/README.md) (AEVA) (Sam Horvath)
 
 ### Web and cloud
 
@@ -75,7 +75,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Neurosurgical Ultrasound annotation (Tina Kapur, Jarret Rushmore, Sarah Frisken)
 
-* Slicer iMSTK Integration (Sam Horvath)
+* [Slicer iMSTK Integration](Projects/SlicerIMSTK/README.md) (Sam Horvath)
 
 * [Arduino Slicer](Projects/ArduinoSlicer/README.md) (Paolo Zaffino, Andras Lasso, Mike Halle, James Petts, Steve Pieper)
 
