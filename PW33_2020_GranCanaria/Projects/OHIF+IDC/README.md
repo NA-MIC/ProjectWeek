@@ -5,8 +5,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Ron Kikinis
-- Erik Ziegler
-- James Petts
+- [Erik Ziegler][erik] ([Radical Imaging][radical])
+- [James A Petts][james] ([Radical Imaging][radical], [Ovela Solutions][OvelaSolutions])
 - Steve Pieper
 
 # Project Description
@@ -47,3 +47,12 @@ Planning work for Imaging Data Commons work with OHIF Viewer technologies
 
 * [OHIF](ohif.org)
 * [IDC](https://imagingdatacommons.github.io/)
+
+<!--
+    Links
+-->
+
+[radical]: http://radicalimaging.com/
+[james]: https://github.com/jamesapetts
+[erik]: https://github.com/swederik
+[OvelaSolutions]: https://www.ovelasolutions.com
