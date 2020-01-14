@@ -21,6 +21,11 @@ OpenAnatomy project needs an authoring tool and 3D Slicer almost fulfills all th
 
 Improve 3D Slicer's existing features to support glTF file format export/import and allow defining hierarchies and standard terminology for segmented structures. Tasks are shared between experienced Slicer core developers and junior software developers, and directed by OpenAnatomy experts.
 
+Data to represent and describe:
+* segmentations (binary masks)
+* polygonal surface models
+* white matter tracts
+
 ## Approach and Plan
 
 1. Define what metadata should be saved into exported atlases (hierarchies, terminologies, etc.) and how (json sidecar, ...)
