@@ -61,7 +61,7 @@ Open questions:
 [james]: https://github.com/jamesapetts
 [erik]: https://github.com/swederik
 [steve]: https://github.com/pieper
-[OvelaSolutions]: https://www.linkedin.com/company/ovela-solutions-ltd
+[OvelaSolutions]: https://www.ovelasolutions.com
 [ohif-viewer]: https://github.com/OHIF/Viewers
 [ohif-extensions]: https://docs.ohif.org/advanced/extensions.html
 [ohif]: http://ohif.org/
