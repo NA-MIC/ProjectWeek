@@ -50,7 +50,7 @@ Our goal is to add proper support for multi-volume volume rendering to VTK.js.
 [danny]: https://github.com/dannyrb
 [isomics]: http://isomics.com/
 [james]: https://github.com/jamesapetts
-[OvelaSolutions]: https://www.linkedin.com/company/ovela-solutions-ltd
+[OvelaSolutions]: https://www.ovelasolutions.com
 [erik]: https://github.com/swederik
 [steve]: https://github.com/pieper
 [ohif-viewer]: https://github.com/OHIF/Viewers
