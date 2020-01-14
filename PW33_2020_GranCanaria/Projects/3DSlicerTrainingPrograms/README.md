@@ -20,20 +20,16 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-In this edition of the training project, new professionals will work in order to develop new training material and study how to enhance and improve the use of 3DSlicer as a training tool. We intend to create new training tools as new atlases and study its use in the African countries of Senegal and Mauritania. It will also be included the proposal of a training program for Universities in Morocco  
+In this edition of the training project, new professionals will work in order to develop new training material and study how to enhance and improve the use of 3DSlicer as a training tool. We intend to create new training tools as new atlases and study its use in the African countries of Senegal and Mauritania. It will also be included the proposal of a training program for Universities in Morocco and other projects that could arise. 
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. To discuss and plan the introduccion of 3D Slicer training material in the universities of the new African countries.
+1. To study the impact of previous training programs.
 
 ## Approach and Plan
 
 1. 3D Slicer introduction.
-1. Training using the 3D Slicer segment editor.
 1. Discussion of experiences in other African universities.
 
 ## Progress and Next Steps
@@ -51,4 +47,5 @@ In this edition of the training project, new professionals will work in order to
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+- [30PW NA-MIC training programs project](https://projectweek.na-mic.org/PW30_2019_GranCanaria/Projects/TrainingPrograms/)
+- [28PW NA-MIC training progrmas project](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/3DSlicerTrainingPrograms/)
