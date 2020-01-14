@@ -17,6 +17,13 @@ This project aims to build on prototype [lightweight DICOM server that was devel
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
+* Develop easy to install and test recipes / scripts
+* Compare functionality and performance with other DICOMweb implementations
+* Brainstorm about non-standard extensions of utility to the community
+  * search by reference (e.g. find all segmentations of this image)
+  * extract cohorts by tag (e.g. find all CTs with .5mm pixel spacing)
+  * represent workflow state (e.g. give list of all studies that do not have manual segmentations)
+
 
 ## Approach and Plan
 
