@@ -7,7 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Joël Spaltenstein][spalte] ([OsiriX Foundation][OsiriXFoundation] / [Swiss Institute of Bioinformatics][sib])
 - [Nicolas van Dooren][nicolas] ([OsiriX Foundation][OsiriXFoundation] / [University of Geneva][unige])
 - [Erik Ziegler][erik] ([Radical Imaging][radical])
-- [James A Petts][james] ([Radical Imaging][radical], [Ovela Solutions][OvelaSolutions])
+- [James A Petts][james] ([Radical Imaging][radical], [Ovela Solutions LTD][OvelaSolutions])
 
 # Project Description
 
@@ -57,7 +57,7 @@ to make it possible to securly launch OHIF from KHEOPS using the Report Provider
 [radical]: http://radicalimaging.com/
 [erik]: https://github.com/swederik
 [james]: https://github.com/jamesapetts
-[OvelaSolutions]: https://www.linkedin.com/company/ovela-solutions-ltd
+[OvelaSolutions]: https://www.ovelasolutions.com
 [spalte]: https://github.com/spalte
 [nicolas]: https://github.com/nicolasvandooren
 [OsiriXFoundation]: https://github.com/OsiriX-Foundation
