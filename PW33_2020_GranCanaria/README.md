@@ -85,7 +85,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Integration of Diabetic Foot Segmentation Algorithm based on Deep Learning](Projects/DiabeticFootSegmentation/README.md) (Abián Hernández, Juan Ruiz...)
 
-* Customized interface for diabetic foot extension (Jose-Carlos Ruiz-Luque, Sara González, Juan Ruiz....)
+* [Customized interface for diabetic foot extension](Projects/CustomizedGUIDiabeticFoot/README.md) (Jose-Carlos Ruiz-Luque, Sara González, Juan Ruiz)
 
 * [Synthetic CT evaluation](Projects/syntheticCT_evaluation/README.md) (Paolo Zaffino)
 
