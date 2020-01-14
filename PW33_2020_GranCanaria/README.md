@@ -97,9 +97,13 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Education
 
-* 3DSlicer Training programs (GTMA group, Babacar Diao, ...)
+* [3DSlicer Training programs](Projects/3DSlicerTrainingPrograms/README.md) (Babacar Diao, Ahmedou Moulaye Idriss, Yahya Tfeil, 
+Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badiaa Ait Ahmed, GTMA group)
 
 * [Customization of user interfaces for dissemination applications based on 3D Slicer](Projects/CustomizationOfUserInterfacesForDissemination/README.md) (Guillermo Valentín Socorro-Marrero, Nayra Pumar Carreras, José-Carlos Ruiz-Luque, Abián Hernández-Guedes, Juan Ruiz-Alzola)
+
+* [Anatomical Atlases](Projects/AnatomicalAtlases/README.md) (Babacar Diao, Ahmedou Moulaye Idriss, Yahya Tfeil, 
+Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badiaa Ait Ahmed, GTMA group)
 
 ### Astronomy (Yep!)
 
