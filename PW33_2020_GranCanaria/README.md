@@ -55,7 +55,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ### Web and cloud
 
-* OHIF / Slicer Bridge (Steve Pieper, Andras Lasso, James Petts, Mark Asselin, Kyle Sunderland, Csaba Pinter)
+* [OHIF / Slicer Bridge](Projects/OHIFSlicerBridge/README.md) (Steve Pieper, Andras Lasso, James Petts, Mark Asselin, Kyle Sunderland, Csaba Pinter)
 
 * [VTK.js Multi-volume Volume Rendering](Projects/VTKjsMultiVolumeRendering/README.md) (Erik Ziegler, James Petts, Jean-Christophe Fillion-Robin, Steve Pieper, Ken Martin (remote))
 
@@ -119,7 +119,7 @@ Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badi
 
 * CTK DICOM database and browser improvements (Marco Nolden, Andras Lasso, Steve Pieper, Jc)
 
-* [Slicer on Android](Projects/SlicerOnAndroid/readme.md) (Attila Nagy and whoever is interested)
+* [Slicer on Android](Projects/SlicerOnAndroid/readme.md) (Attila Nagy, Steve Pieper and whoever is interested)
 
 ## Breakout sessions
 
