@@ -19,11 +19,11 @@ Planning work for Imaging Data Commons work with OHIF Viewer technologies
 
 1. Review current features and plans for OHIF
 1. Review IDC plans/requirements in the near and long term
-  1. IDC MVP requirements
-  1. Interaction among IDC participants with other OHIF groups
-    1. ISB for integration with web app
-    1. GDIT for testing
-    1. Transparency of priorities and allocation of shared acknowledgement
+    1. IDC MVP requirements
+    1. Interaction among IDC participants with other OHIF groups such as
+        1. ISB for integration with web app
+        1. GDIT for testing
+        1. Transparency of priorities and allocation of shared acknowledgement
 1. Review open issues
 1. Interact with the community of people with a possible interest in IDC
 
