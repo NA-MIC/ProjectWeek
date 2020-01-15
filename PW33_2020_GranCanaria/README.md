@@ -187,7 +187,8 @@ List of registered participants so far (names will be added here after processin
 1. Nicolas van Dooren (vandooren.nicolas@gmail.com) - OsiriX Foundation - Switzerland
 1. Erik Ziegler (erik@radicalimaging.com) - Open Health Imaging Foundation- France
 1. William Wells (sw@bwh.harvard.edu) - Harvard Medical School - USA
-
+1. Thomas Noh (tnoh@bwh.harvard.edu) - Brigham and Women's Hospital - USA
+1. Hans Knutsson (hans.knutsson@liu.se) - Linköpingd University, Dept of Biomedical Engineering - Sweden 
 
 
 ## Program Calendar
