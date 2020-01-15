@@ -106,7 +106,7 @@ Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badi
 
 * [Slicer on Android](Projects/SlicerOnAndroid/readme.md) (Attila Nagy, Steve Pieper and whoever is interested)
 
-* [Location Sensitive Hashing for web-scale image indexing](Projects/LHSindexing/README.md) (Sandy Wells, Steve Pieper)
+* [Location Sensitive Hashing for web-scale image indexing](Projects/LSHindexing/README.md) (Sandy Wells, Steve Pieper)
 
 ## Breakout sessions
 
