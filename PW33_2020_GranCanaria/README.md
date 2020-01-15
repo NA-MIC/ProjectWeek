@@ -66,6 +66,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Arduino Slicer](Projects/ArduinoSlicer/README.md) (Paolo Zaffino, Andras Lasso, Mike Halle, James Petts, Steve Pieper)
 
+* [NIRS device OpenIGTLink interface](Projects/NIRSOpenIGTLink/README.md) (David Díaz Martín, Francisco Marcano Serrano, José Luis González Mora, Juan Ruiz-Alzola)
+
 ### Clinical applications
 
 * [BabySteps club foot treatment](Projects/ClubFoot/README.md) (Pooneh Roshanitabrizi, Hadi Fooladi Talari, Steve Pieper)
