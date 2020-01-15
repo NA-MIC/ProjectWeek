@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Location Sensitive Hashing for Web-Scale Image Indexing
+# Location Sensitive Hashing for Web-Scale Medical Image Indexing
 
 ## Key Investigators
 
@@ -27,12 +27,13 @@ We will test this on large public data sets.
 1. Develop hashing scheme based on SIFT-RANK features
 1. Apply technique to sample datasets from [TCIA](cancerimagearchive.org)
 1. Test ability to predict labels based on feature based hashes
+1. Evaluate approach in the context of content based image retrieval
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Write python code to implement LSC-SIFT-RANK
+1. Write python code to implement LSH-SIFT-RANK
 1. Test on subset of labeled TCIA datasets from 5 collections (Anti-PD-1_Lung, CPTAC-PDA, CPTAC-UCEC, NSCLC Radiogenomics, TCGA-UCEC)
 1. Develop plans for larger TCIA dataset (17,000+ volumes from 78 labeled collections)
 1. Explore other variables that could be correlated with these hashes
