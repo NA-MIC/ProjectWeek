@@ -24,23 +24,10 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 </tr>
 </table>
 
-## Preparatory Videoconferences
+## Program Calendar
+<iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic%2FCanary&mode=WEEK&dates=20200120%2f20200124" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-<table><tr>
-    <td>
-        <img src="PW33-planning-zoom.png">
-    </td>
-    <td>
-        <ul>
-            <li>
-                Zoom video conference: <a href="https://zoom.us/j/692997791">To join the videoconference</a>
-            </li>
-            <li>
-<a href="https://github.com/NA-MIC/ProjectWeek/blob/master/PW33_2020_GranCanaria/PreparatoryMeetingsNotes.md">Conference call notes</a>
-            </li>
-        </ul>
-    </td>
-</tr></table>
+[How to add this calendar to your own?](../common/Calendar.md)
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 <a name="ProjectsList"/>
@@ -189,9 +176,3 @@ List of registered participants so far (names will be added here after processin
 1. William Wells (sw@bwh.harvard.edu) - Harvard Medical School - USA
 1. Thomas Noh (tnoh@bwh.harvard.edu) - Brigham and Women's Hospital - USA
 1. Hans Knutsson (hans.knutsson@liu.se) - Linköpingd University, Dept of Biomedical Engineering - Sweden 
-
-
-## Program Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic%2FCanary&mode=WEEK&dates=20200120%2f20200124" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-[How to add this calendar to your own?](../common/Calendar.md)
