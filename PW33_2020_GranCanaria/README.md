@@ -179,4 +179,7 @@ List of registered participants so far (names will be added here after processin
 1. Erik Ziegler (erik@radicalimaging.com) - Open Health Imaging Foundation- France
 1. William Wells (sw@bwh.harvard.edu) - Harvard Medical School - USA
 1. Thomas Noh (tnoh@bwh.harvard.edu) - Brigham and Women's Hospital - USA
-1. Hans Knutsson (hans.knutsson@liu.se) - Linköpingd University, Dept of Biomedical Engineering - Sweden 
+1. Hans Knutsson (hans.knutsson@liu.se) - Linköpingd University, Dept of Biomedical Engineering - Sweden
+1. Nikolaos Makris (nikos@bwh.harvard.edu) - Brigham and Women’s Hospital and Harvard Medical School - USA
+1. María Dolores Afonso Suárez (marilola.afonso@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+
