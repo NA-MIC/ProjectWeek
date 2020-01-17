@@ -30,6 +30,8 @@ Our goal is to add proper support for multi-volume volume rendering to VTK.js.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
+* Held a preparation tcon with the Kitware team to review status and goals.
+
 # Illustrations
 
 
