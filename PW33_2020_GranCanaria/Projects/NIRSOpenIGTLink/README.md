@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - David Díaz Martín (ULL - MACbioIDi)
 - Francisco Marcano Serrano (ULL - MACbioIDi)
+- Kyle Sunderland (PerkLab, Queen's University)
 - José Luis González Mora (ULL - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
