@@ -4,19 +4,19 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-Scott Lill (Univestiy of Sydney, Harvard Medical School)
-Steve Pieper (Harvard Medical School)
-Sandy Wells (Harvard Medical School)
-Yang Song (University of New South Wales)
-Tom Cai (University of Sydney)
-Fan Zhang (Harvard Medical School)
-Lauren O'Donnell (Harvard Medical School)
+* Scott Lill (Univestiy of Sydney, Harvard Medical School)
+* Steve Pieper (Harvard Medical School)
+* Sandy Wells (Harvard Medical School)
+* Yang Song (University of New South Wales)
+* Tom Cai (University of Sydney)
+* Fan Zhang (Harvard Medical School)
+* Lauren O'Donnell (Harvard Medical School)
 
 # Project Description
 
 Whitematteranalysis is a python pipeline for peforming fibre processing and clustering. The project aims to upgrade this package,
 porting it to python3, adding a comprehensive suite of regression tests and porting it into 3D Slicer. This will make the pipeline
-easier to use, maintain and extend, all of white are beneficial for applicaple dMRI workflows.
+easier to use, maintain and extend, all of which are beneficial for applicaple dMRI workflows.
 
 ## Objective
 
@@ -26,7 +26,7 @@ easier to use, maintain and extend, all of white are beneficial for applicaple d
 
 ## Approach and Plan
 
-1. Testing and iterate the python version conversion
+1. Test and iterate the python version conversion
 1. Explore options for running python externally to 3D slicer to allow the porting of required dependenceis.
 1. Document functionality to ensure coverage for the testing suite
 
