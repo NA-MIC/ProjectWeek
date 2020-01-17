@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-Scott Lill (Univestiy of Sydney)
+Scott Lill (Univestiy of Sydney, Harvard Medical School)
 Steve Pieper (Harvard Medical School)
 Sandy Wells (Harvard Medical School)
 Yang Song (University of New South Wales)
