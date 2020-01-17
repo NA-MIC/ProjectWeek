@@ -36,6 +36,8 @@ In this project, we will explore the possibility of communicating a proprietary 
 
 
 # Illustrations
+Fig. 1: FMRSI interface
+<img src="Diagram.png" width="652" height="356"> 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
