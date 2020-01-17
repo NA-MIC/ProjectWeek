@@ -29,8 +29,9 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 [How to add this calendar to your own?](../common/Calendar.md)
 
-## Projects [(How to add a new project?)](Projects/README.md)
 <a name="ProjectsList"/>
+## Projects [(How to add a new project?)](Projects/README.md)
+
 
 ### Segmentation
 
