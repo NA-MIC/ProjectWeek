@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Nayra Pumar (ULPGC – GTMA-IUIBS - MACbioIDi)
+- Juan Andrés Ramírez (ULPGC)
 - Babacar Diao (Ecole Militaire de Santé Dakar)
 -	Ahmedou Moulaye Idriss (Université de Nouakchott Al Aasriya - Faculté de Médecine)
 -	Yahya Tfeil (Université de Nouakchott Al Aasriya - Faculté de Médecine)
