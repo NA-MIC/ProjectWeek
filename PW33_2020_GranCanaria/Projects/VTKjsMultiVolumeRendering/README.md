@@ -26,6 +26,8 @@ Our goal is to add proper support for multi-volume volume rendering to VTK.js.
 2. Make similar changes to the VTK.js JavaScript / WebGL implementation
 3. Clean up [terminology in VTK.js' RenderWindow](https://github.com/Kitware/vtk-js/pull/1264#issuecomment-561653542)
 
+Notes here: https://docs.google.com/document/d/1160z3fKJB6JfmT_EAlPRbqA5dD9B5iNfe08JctMUWOE/edit?usp=sharing
+
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
