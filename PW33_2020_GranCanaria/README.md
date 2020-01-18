@@ -158,8 +158,8 @@ List of registered participants so far (names will be added here after processin
 1. Sonia Pujol (spujol@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Michael Halle (@mhalle)(mhalle@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Babacar Diao (babacardiao104uro@yahoo.fr) - Ecole Militaire de Santé Dakar -Senegal
-1. Samba Diaw (samba.diaw@esp.sn) - Université Cheikh Anta Diop - Senegal
 1. Ainina Ndiaye (aninandiaye@yahoo.fr) - Université Cheikh Anta Diop - Senegal
+1. Dada Lebchir (lebchirdada@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
 1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
 1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
 1. Yahya Ould Tfeil (tefeil2000@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
@@ -187,4 +187,4 @@ List of registered participants so far (names will be added here after processin
 1. José Luis González Mora (jlgonzal@ull.edu.es) - Universidad de la Laguna - Spain
 1. Francisco José Marcano Serrano (fmarcano@ull.edu.es) - Universidad de la Laguna - Spain
 1. David Díaz Martín (ddiazmar@ull.es) - Universidad de la Laguna - Spain
-
+1. Larisa Akrofie (@LarisaAkrofie) - Levers in Heels - Ghana
