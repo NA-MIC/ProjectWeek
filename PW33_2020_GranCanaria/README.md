@@ -62,8 +62,6 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Slicer to Unity Connection](Projects/SlicerToUnity/README.md) (Thomas Muender, Anke Reinschluessel, Thomas Mildner)
 
-* Neurosurgical Ultrasound annotation (Tina Kapur, Thomas Noh, Alexandra Golby, Jarret Rushmore, Sarah Frisken)
-
 * [Slicer iMSTK Integration](Projects/SlicerIMSTK/README.md) (Sam Horvath)
 
 * [Arduino Slicer](Projects/ArduinoSlicer/README.md) (Paolo Zaffino, Andras Lasso, Mike Halle, James Petts, Steve Pieper)
