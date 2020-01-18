@@ -11,6 +11,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Dates:** January 20-24, 2020.
 - **Location:** Las Palmas, Gran Canaria, Spain
 - **Discourse Forum:** Please ask on [discourse forum](https://discourse.slicer.org/c/community/project-week) if you have questions.
+- **Slack Channel:** [Invite Link](https://join.slack.com/t/namic-projectweek/shared_invite/enQtOTExOTIzMTY5MDc2LWNkNjkxNjM5NWY5MmE3OTk1Mzg3NTc1Njg2YWUyNzYzMzZiMzhmOTYzNWIxMWVmMjMyYWMyZjM0MmNmMzFiYmU)
 - [Venue and Hotel Information](Logistics.md#Venue)
 - [Updates](Logistics.md#Updates)
 - [ERASMUS mobility information](Logistics.md#Erasmus)
