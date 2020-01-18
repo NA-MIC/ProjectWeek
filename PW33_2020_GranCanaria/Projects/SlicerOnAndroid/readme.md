@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Attila Nagy  (University of Szeged)
-- Investigator 2 (Affiliation)
+- Steve Pieper (Isomics)
 - Investigator 3 (Affiliation)
 
 # Project Description
@@ -47,3 +47,5 @@ Investigate the possibilities of portig Slicer to Android, to be used in a Deskt
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+* https://www.androidauthority.com/android-q-desktop-mode-965704/
