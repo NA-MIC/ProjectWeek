@@ -44,6 +44,12 @@ Our goal is to add proper support for multi-volume volume rendering to VTK.js.
 * https://github.com/Kitware/vtk-js
 * https://github.com/Kitware/vtk-js/pull/1264
 
+* https://github.com/pieper/step STEP multivolume rendering webgl2 examples
+    * https://www.youtube.com/watch?v=8dputUoKBTA
+    * https://www.youtube.com/watch?v=ML9_JWAz1kY
+    * https://www.youtube.com/watch?v=_0K9vxgdwUU
+* Previous project week experiments
+    * https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/MultiVolumeRendering/
 <!--
     Links
 -->
