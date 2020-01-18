@@ -184,4 +184,7 @@ List of registered participants so far (names will be added here after processin
 1. Hans Knutsson (hans.knutsson@liu.se) - Linköpingd University, Dept of Biomedical Engineering - Sweden
 1. Nikolaos Makris (nikos@bwh.harvard.edu) - Brigham and Women’s Hospital and Harvard Medical School - USA
 1. María Dolores Afonso Suárez (marilola.afonso@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
+1. José Luis González Mora (jlgonzal@ull.edu.es) - Universidad de la Laguna - Spain
+1. Francisco José Marcano Serrano (fmarcano@ull.edu.es) - Universidad de la Laguna - Spain
+1. David Díaz Martín (ddiazmar@ull.es) - Universidad de la Laguna - Spain
 
