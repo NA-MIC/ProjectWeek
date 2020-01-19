@@ -36,9 +36,6 @@ In this edition of the training project, new professionals will work in order to
 
 ## Progress and Next Steps
 
-1. ...
-1. ...
-1. ...
 
 # Illustrations
 
