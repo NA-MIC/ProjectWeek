@@ -14,7 +14,7 @@ In our center, since the end of 2017, surgery is conducted with the Rosa robot. 
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. To put the Module in Slicer 11 and Python 3D.
+1. To put the Module in Slicer 4.11 and Python 3.
 2. To improuve the Module by adding new features and specifics imaging sequences (Vasular at PET Scan)
 
 ## Approach and Plan
