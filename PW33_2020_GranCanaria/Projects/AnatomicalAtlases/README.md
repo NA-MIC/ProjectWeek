@@ -15,6 +15,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mouhcine Madani (University Abdelmalek Essaâdi)
 - Otman Aghzout (University Abdelmalek Essaâdi)
 - Badiaa Ait Ahmed (University Abdelmalek Essaâdi)
+- Larisa Akrofie (Levers in Heels)
+
 
 
 # Project Description
