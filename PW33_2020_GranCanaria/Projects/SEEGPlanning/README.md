@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+Improuving StereoPlan STIM Slicer module for SEEG Procedures
 
 ## Key Investigators
 
@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-<!-- In our center, since the end of 2017, surgery is conducted with the Rosa robot. Clinicians have to use the Rosa planning software because it drives the robot. But a high-quality segmentation of the cortex (gyral and sulcal surfaces, to create relevant cortical mappings) is lacking, as well as easy managing of multiple trajectories. This new toolbox, Stereo-plan, was presented at WSSFN 2019 meeting. It consists of an image-processing pipeline (coregistration of preoperative images, computation of patient-specific models, detection of the Leksell frame), whose results are integrated in a dedicated 3D Slicer plugin (Fig1). Stereo-Plan communicates with the Rosa robot through importation of AC, PC and IH points and exportation of computed trajectories -->
+In our center, since the end of 2017, surgery is conducted with the Rosa robot. Clinicians have to use the Rosa planning software because it drives the robot. But a high-quality segmentation of the cortex (gyral and sulcal surfaces, to create relevant cortical mappings) is lacking, as well as easy managing of multiple trajectories. This new toolbox, Stereo-plan, was presented at WSSFN 2019 meeting. It consists of an image-processing pipeline (coregistration of preoperative images, computation of patient-specific models, detection of the Leksell frame), whose results are integrated in a dedicated 3D Slicer plugin (Fig1). Stereo-Plan communicates with the Rosa robot through importation of AC, PC and IH points and exportation of computed trajectories.
 
 ## Objective
 
