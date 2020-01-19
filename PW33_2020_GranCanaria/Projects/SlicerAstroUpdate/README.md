@@ -17,17 +17,27 @@ to the current version of 3DSlicer is reported in SlicerAstro issue [106][slicer
 
 Address SlicerAstro issue [106][slicerastroissue]:
 
--[] Fix packing of astropy and scipy
--[] Fix Contours (in binary segmentation) in the modules AstroVolume, AstroSmoothing and AstroModeling.
--[] Fix Histogram in Astrovolume when changing plot proprieties.
--[] AstroModeling crash when estimating parameters.
--[] AstroModeling linking between plots and points annotations is broken.
--[] Consider updating BBarolo from 1.4 to 1.5
--[] AstroMasking crash when doing a Crop operation on a Region of Interest.
--[] Replace old wigets with new annotation widgets (e.g.: Ruler with the new line widget in the AstroPVSlice module)
--[] Fix compilation of wcslib for windows for having SlicerAstro binaries for windows too.
--[] Consider updating wcslib from 5.18 to 6.4
--[] Consider updating cfitio from 3.450 to 3.470
+- Fix packing of astropy and scipy
+
+- Fix Contours (in binary segmentation) in the modules AstroVolume, AstroSmoothing and AstroModeling.
+
+- Fix Histogram in Astrovolume when changing plot proprieties.
+
+- AstroModeling crash when estimating parameters.
+
+- AstroModeling linking between plots and points annotations is broken.
+
+- Consider updating BBarolo from 1.4 to 1.5
+
+- AstroMasking crash when doing a Crop operation on a Region of Interest.
+
+- Replace old wigets with new annotation widgets (e.g.: Ruler with the new line widget in the AstroPVSlice module)
+
+- Fix compilation of wcslib for windows for having SlicerAstro binaries for windows too.
+
+- Consider updating wcslib from 5.18 to 6.4
+
+- Consider updating cfitio from 3.450 to 3.470
 
 ## Approach and Plan
 Prioritize items in the to do list and implement them.
