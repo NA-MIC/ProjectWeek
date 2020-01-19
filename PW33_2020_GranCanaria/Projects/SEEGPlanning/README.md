@@ -42,4 +42,7 @@ In our center, since the end of 2017, surgery is conducted with the Rosa robot. 
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+Modular stereotactic planning toolbox for SEEG procedures.
+S. Fernandez Vidal, V. Frazzini, V. Lambrecq, V. Navarro,D. Dormont, B. Mathon, C. Adam,
+E. Bardinet and  D. Hasboun. WSSFN 2019.
+
