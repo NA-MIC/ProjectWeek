@@ -23,6 +23,13 @@ The aim is to create a friendly customized interface for monitoring the foot ulc
 1. Refactoring some modules in the Medical infrared imaging extension.
 1. Customized interface based on Slicelet.
 1. Integration of the cameras in Plus toolkit or 3d Slicer module.
+1. Face some challenges:
+   1. Performance relation with 3D Slicer and Plus toolkit in real time
+   1. Running and stoping Plus server from 3D Slicer
+   1. The image definition is not adjustable
+   1. The error when the Slicelet-based aplication is closed
+   1. Saving the images (orientation) in several format files (PNG, TIFF, DICOM)
+   1. Combined images in different layers and using sliders to change layer transparency
 
 
 ## Approach and Plan
