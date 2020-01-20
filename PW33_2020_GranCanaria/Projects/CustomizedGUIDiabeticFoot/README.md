@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-This project is a next step in the project [Medical Infrared Imaging with 3DSlicer](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/MedicalInfraredImagingWithSlicer/) presented during 28th PW NA-MIC. The previous project generated several modules for using the InfraRed (IR) sensors and advanced image processing techniques in 3D Slicer for medical diagnosis, foot ulcers in diabetic patients.
+This project is the next step  in the project [Medical Infrared Imaging with 3DSlicer](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/MedicalInfraredImagingWithSlicer/) presented during 28th PW NA-MIC. This research is the result of a collaboration between the IAC and the University of Las Palmas de Gran Canaria. The main objective is to develop a multichannel sensor prototype that runs in Slicer through PLUS Toolkit. This sensor is being designed to be used by the clinic staff in particular for medical diagnosis (at this time we are focused on foot ulcers in diabetic patients).
 
 The aim is to create a friendly customized interface for monitoring the foot ulcers in diabetic patients. 
  <!-- Moreover, the interface invokes the different steps for the diagnosis Thinking more lines-->
