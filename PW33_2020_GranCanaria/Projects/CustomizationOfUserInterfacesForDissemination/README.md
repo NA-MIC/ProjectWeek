@@ -44,11 +44,11 @@ This project aims at creating a minimal user interface oriented to museological 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-<img src=./interfaceSketch.png width="480"/>
+![Some more images](interfaceSketch.png)
 Sketch of the interface.
 <br/>
 <br/>  
-<img src=./arduinoBoard.jpg width="480"/>
+![Some more images](arduinoBoard.jpg)
 Arduino board with push buttons and trackballs.
 
 # Background and References
