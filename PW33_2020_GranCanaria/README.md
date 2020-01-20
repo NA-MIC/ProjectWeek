@@ -165,8 +165,8 @@ List of registered participants so far (names will be added here after processin
 1. Ainina Ndiaye (aninandiaye@yahoo.fr) - Université Cheikh Anta Diop - Senegal
 1. Dada Lebchir (lebchirdada@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
 1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
-1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
-1. Yahya Ould Tfeil (tefeil2000@gmail.com) - Centre Hospitalier National Nouackchott - Mauritania
+1. Ahmedou Moulaye Idriss (amdriss6@gmail.com) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
+1. Yahya Ould Tfeil (tefeil2000@gmail.com) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
 1. Artemisa Mendes Moreno (artemisa.moreno@docente.unicv.edu.cv) - Universidade de Cabo Verde - Cabo Verde
 1. Samantha Horvath (sam.horvath@kitware.com) - Kitware Inc. - USA
 1. Kyle Sunderland (1krs1@queensu.ca) - Queen’s University - Canada
