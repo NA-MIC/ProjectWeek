@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 - Michael Halle (BWH)
-- my smart and experienced colleagues worldwide (various)
+- my smart, experienced, and generous colleagues from across the globe (various)
 
 # Project Description
 The Open Anatomy Browser (http://openanatomy.org) is a useful tool for visualizing anatomy atlases and Slicer output. However, the current browser was only intended as a prototype and cannot display many current Slicer scenes. This project will create a new browser prototype based on vtkjs, with ITK image readers.
