@@ -13,6 +13,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 The goal of this project is to provide a tool for finding optimal weigths for extracting Spherical Harmonics components from a spherical distribution. The set of coordinades on the sphere can be given as input or chosen from one of a number of precomputed sets.
 
+One good example where this approach is useful is restoring rotation invariance of diffusion MRI estimators in the presence of missing or corrupted measurements 
+
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
