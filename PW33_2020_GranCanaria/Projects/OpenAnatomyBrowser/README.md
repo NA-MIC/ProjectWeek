@@ -25,7 +25,7 @@ Make the Open Anatomy atlas browser more user friendly and more compatible with 
 1. Preliminary reading, parsing, and loading existing atlases into vtkjs.
 
 # Illustrations
-
+<img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW33_2020_GranCanaria/Projects/OpenAnatomyBrowser/oa-vtkjs-prostate.jpg" />
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
