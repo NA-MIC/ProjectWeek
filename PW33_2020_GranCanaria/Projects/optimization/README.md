@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Add a short paragraph describing the project. -->
 
-THe goal of this project is to provide a tool for finding optimal weigths for extracting Spherical Harmonics components from spherical distribution. The set of coordinades on the sphere can be given as input or chosen from one of a number of precomputed sets.
+The goal of this project is to provide a tool for finding optimal weigths for extracting Spherical Harmonics components from a spherical distribution. The set of coordinades on the sphere can be given as input or chosen from one of a number of precomputed sets.
 
 ## Objective
 
@@ -41,7 +41,8 @@ THe goal of this project is to provide a tool for finding optimal weigths for ex
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-[Wiegths for Spheical Harmonics] https://www.dropbox.com/s/fan3n6hist17j1d/Picture1.jpg?dl=0
+Color coded optimal wiegths for Spherical Harmonics
+https://www.dropbox.com/s/c3wrujj3mggao4y/Opt_SPH_fig1.jpg?dl=0
 
 # Background and References
 
