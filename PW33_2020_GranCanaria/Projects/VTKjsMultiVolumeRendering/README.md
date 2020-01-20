@@ -4,11 +4,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Someone from Kitware? JC? Ken? Forrest?
+- [Erik Ziegler][erik] ([Radical Imaging][radical])
 - [Steve Pieper][steve] ([Isomics][isomics])
 - [James A Petts][james] ([Radical Imaging][radical], [Ovela Solutions][OvelaSolutions])
-- [Danny Brown][danny] ([Radical Imaging][radical])
-- [Erik Ziegler][erik] ([Radical Imaging][radical])
+- [Danny Brown][danny] ([Radical Imaging - Remote][radical])
+- Ken Martin (Kitware - Remote)
+- Jean-Christophe Fillion-Robin (Kitware)
 
 ## Description
 
@@ -27,6 +28,20 @@ Our goal is to add proper support for multi-volume volume rendering to VTK.js.
 3. Clean up [terminology in VTK.js' RenderWindow](https://github.com/Kitware/vtk-js/pull/1264#issuecomment-561653542)
 
 Notes here: https://docs.google.com/document/d/1160z3fKJB6JfmT_EAlPRbqA5dD9B5iNfe08JctMUWOE/edit?usp=sharing
+
+- Current VolumeMapper will remain in place, we will add a separate optional path that enables the MultiVolumeMapper class
+- Targeting WebGL2 Only
+- Colour and Opacity lookup tables for each volume will be stacked into 2D textures (num volumes * width of largest LUT)
+- Since we include a jitter texture, this means we could have up to 13 volumes, since Chrome WebGL has a maximum of 16 textures.
+- Blend Modes other than Composite (e.g. MIP) will not be available in the multi-volume VolumeMapper
+- Labelmap outline rendering will not be available in the multi-volume VolumeMapper
+- Sampling distance will be computed from the minimum sample distance across the provided volumes.
+- Vertex shader will need to be provided a bounding box of the union of all volumes in space. For now it can use the entire canvas.
+- Work in progress branch is here: https://github.com/Kitware/vtk-js/compare/master...swederik:multivolume
+
+#### Current state
+This is what rendering two cubes currently looks like in VTK.js. It _should_ turn purple at the intersection of the cubes if they were both being sampled and mixed along each step of the ray.
+![SingleVolumeMapperCubes](SingleVolumeMapperCubes.png)
 
 ## Progress and Next Steps
 
