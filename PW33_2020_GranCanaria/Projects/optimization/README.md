@@ -38,7 +38,7 @@ THe goal of this project is to provide a tool for finding optimal weigths for ex
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
-[.](Picture1.jpg)
+https://www.dropbox.com/s/fan3n6hist17j1d/Picture1.jpg?dl=0
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
