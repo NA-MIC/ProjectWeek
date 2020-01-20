@@ -1,7 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Software for finding optimal weigths for extracting Spherical Harmonics components from spherical distribution.
-# The set of coordinades on the sphere can be given as input or chosen from one of a number of precomputed sets.
+# Software for finding optimal weigths for extracting Spherical Harmonics components from a spherical distribution.
 
 ## Key Investigators
 
@@ -18,8 +17,8 @@ THe goal of this project is to provide a tool for finding optimal weigths for ex
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Introduce the 3D Slicer community to the possible usefulness of CMB
-2. Implement image data reading, display, and basic segmentation (thresholding, etc)
+1. Introduce a tool for analysis of signal distributions on a sphere to the diffusion MRI community.
+2. Provide tool for visualization of 3D point distributions.
 
 ## Approach and Plan
 
