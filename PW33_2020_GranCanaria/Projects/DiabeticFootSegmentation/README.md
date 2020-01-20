@@ -5,11 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Abián Hernández Guedes(University of Las Palmas de Gran Canaria, Spain)
-- Alexandru Dorobanțiu (Lucian Blaga University of Sibiu, Romania)
 - José-Carlos Ruiz-Luque (Instituto Astrofísico de Canarias, Spain)
-- Natalia Arteaga-Marrero (Instituto Astrofísico de Canarias, Spain)
-- Enrique Villa (Instituto Astrofísico de Canarias, Spain)
-- Ignacio Sidrach-Cardona Martinez (Instituto Astrofísico de Canarias, Spain)
 - Juan Ruiz-Alzola (University of Las Palmas de Gran Canaria, Spain)
 
 
