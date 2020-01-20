@@ -13,6 +13,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 The ctkDICOMDatabase is a component used both in 3D Slicer as well as the MITK Workbench to manage local DICOM files and offer a UI for browsing these files as well as getting data from a PACS using DICOM C-FIND, C-MOVE and C-GET. Recently the UI has been improved thanks to Andras Lasso ([1](https://github.com/Slicer/Slicer/commit/4d3ce7eb280806e91c0ce41124d0efb64b3b5f55), [2](https://github.com/commontk/CTK/commit/7f2f24a051fd58118e9d6ddb464eaf085ec05853)), and on previous project weeks there were first experiments on adding DICOM-Web support.
 
+Current Slicer nightly:
+
+![DICOM Browser](Slicer-DICOM-Browser.png)
+
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
