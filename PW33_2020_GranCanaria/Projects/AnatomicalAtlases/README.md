@@ -1,11 +1,9 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Anatomical Atlases. 
+# Anatomical Atlases Senegal. 
 
 ## Key Investigators
 
-- Nayra Pumar (ULPGC – GTMA-IUIBS - MACbioIDi)
-- Juan Andrés Ramírez (ULPGC)
 - Babacar Diao (Ecole Militaire de Santé Dakar)
 -	Ahmedou Moulaye Idriss (Université de Nouakchott Al Aasriya - Faculté de Médecine)
 -	Yahya Tfeil (Université de Nouakchott Al Aasriya - Faculté de Médecine)
@@ -15,8 +13,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mouhcine Madani (University Abdelmalek Essaâdi)
 - Otman Aghzout (University Abdelmalek Essaâdi)
 - Badiaa Ait Ahmed (University Abdelmalek Essaâdi)
-- Larisa Akrofie (Levers in Heels)
-
+- Nayra Pumar (ULPGC – GTMA-IUIBS - MACbioIDi)
+- Juan Ruiz Alzola (ULPGC – GTMA-IUIBS - MACbioIDi)
 
 
 # Project Description
