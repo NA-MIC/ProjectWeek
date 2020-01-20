@@ -13,7 +13,7 @@
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. 
+1. to identify tracts that are involved in social cognition 
 
 ## Approach and Plan
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
