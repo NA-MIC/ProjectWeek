@@ -89,6 +89,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * Brain white matter of social cognition in schizophrenia and healthy (Zora Kikinis, Nikos Makris)
 
+* Improuving StereoPlan STIM Slicer module for SEEG Procedures. Sara Fernandez Vidal, ICM)
 
 ### Education
 
