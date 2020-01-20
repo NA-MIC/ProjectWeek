@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - José-Carlos Ruiz-Luque (Instituto de Astrofísica de Canarias)
 - Andras Lasso (Queen’s University, Canada)
 - Md. Nurul Karim (University of Bremen)
+- Miguel Angel Rodriguez-Florido (Laboratory of Technology for Education in Health)
 - Juan Ruiz-Alzola (University of Las Palmas de Gran Canaria and Instituto de Astrofísica de Canarias)
 
 # Project Description
