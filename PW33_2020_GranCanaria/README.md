@@ -57,6 +57,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [KHEOPS and OHIF](Projects/KHEOPS+OHIF/README.md), secure interface between KHEOPS and OHIF (Joël Spaltenstein, Nicolas van Dooren, Erik Ziegler, James A. Petts)
 
+* [Open Anatomy Browser in vtkjs](Projects/OpenAnatomyBrowser/README.md), a reimplementation of the Open Anatomy Browser (Mike Halle and friends)
+
 ### IGT
 
 * [Ultrasound navigation training system for breast biopsy](Projects/UltrasoundNavigationTrainingSystemForBreastBiopsy/README.md) (Guillermo Valentín Socorro-Marrero, José-Carlos Ruiz-Luque, Andras Lasso, Md. Nurul Karim, Juan Ruiz-Alzola)
