@@ -24,7 +24,7 @@ Current Slicer nightly:
 
 1. Objective A. Integrate the recent UI improvements into the MITK Workbench
 1. Objective B. Make the ctkDICOM executables work again as a development testbed and simple C++-based DICOM client.
-1. Objective C. Investigate different options for DICOM-Web support: qRestSDK, cpprestsdk, using JavaScript within C++
+1. Objective C. Investigate different options for DICOM-Web support: qRestSDK, cpprestsdk, using JavaScript within C++ ; show a prototype for a simple QIDO and WADO example
 
 ## Approach and Plan
 
