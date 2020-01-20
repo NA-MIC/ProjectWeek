@@ -36,7 +36,15 @@ The use of 3D tools to draw and delimit brain sulci depends on freesurfer input 
     - Implement a constraint option for markups to force them to be on a surface (i.e. model node, segmentation, or another markup)
 
 3. Case Management
-    - Pilot organziation
+    - Pilot organization
+    - Add git PR management tools to Slicer module.
+      - While editing, save and commit changes to local branch
+      - Push changes to branch on Git
+      - When completed, create PR for review
+    - Segment diff tool
+    - Review by interating through the slices and adding comments to a table
+    - Keep last two segmentation versions (reviewer + author) for comparison.
+      
 
 ## Progress and Next Steps
 
