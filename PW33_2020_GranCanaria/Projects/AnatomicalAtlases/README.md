@@ -5,14 +5,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Babacar Diao (Ecole Militaire de Santé Dakar)
--	Ahmedou Moulaye Idriss (Université de Nouakchott Al Aasriya - Faculté de Médecine)
--	Yahya Tfeil (Université de Nouakchott Al Aasriya - Faculté de Médecine)
--	Mohamed Septy (Université de Nouakchott Al Aasriya - Faculté de Médecine)
 - Ainina Ndiaye (Université Cheikh Anta Diop)
+MOROCCO
 - Siham Alaoui (University Abdelmalek Essaâdi)
 - Mouhcine Madani (University Abdelmalek Essaâdi)
 - Otman Aghzout (University Abdelmalek Essaâdi)
 - Badiaa Ait Ahmed (University Abdelmalek Essaâdi)
+SPAIN
 - Nayra Pumar (ULPGC – GTMA-IUIBS - MACbioIDi)
 - Juan Ruiz Alzola (ULPGC – GTMA-IUIBS - MACbioIDi)
 
