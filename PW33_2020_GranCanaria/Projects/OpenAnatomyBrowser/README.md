@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 The Open Anatomy Browser (http://openanatomy.org) is a useful tool for visualizing anatomy atlases and Slicer output. However, the current browser was only intended as a prototype and cannot display many current Slicer scenes. This project will create a new browser prototype based on vtkjs, with ITK image readers.
 
 ## Objective
-
+Make the Open Anatomy atlas browser more user friendly and more compatible with the Slicer data and software ecosystem.
 
 ## Approach and Plan
 1. Display an Open Anatomy atlas in vtkjs.
