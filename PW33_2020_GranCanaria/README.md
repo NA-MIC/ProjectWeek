@@ -95,8 +95,9 @@ Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badi
 
 * [Customization of user interfaces for dissemination applications based on 3D Slicer](Projects/CustomizationOfUserInterfacesForDissemination/README.md) (Guillermo Valentín Socorro-Marrero, Nayra Pumar Carreras, José-Carlos Ruiz-Luque, Abián Hernández-Guedes, Juan Ruiz-Alzola)
 
-* [Anatomical Atlases](Projects/AnatomicalAtlases/README.md) (Nayra Pumar Carreras, Babacar Diao, Ahmedou Moulaye Idriss, Yahya Tfeil, 
-Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badiaa Ait Ahmed)
+* [Anatomical Atlases Senegal](Projects/AnatomicalAtlases/README.md) (Nayra Pumar Carreras, Babacar Diao, Ahmedou Moulaye Idriss, Yahya Tfeil, Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badiaa Ait Ahmed)
+
+* [Anatomical Atlases Mauritania](Projects/AnatomicalAtlasesMauritania/README.md) (Dada Lebchir, Ahmedou Moulaye Idriss, Yahya Tfeil, Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badiaa Ait Ahmed, )
 
 ### Astronomy (Yep!)
 
