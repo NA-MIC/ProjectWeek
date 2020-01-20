@@ -122,6 +122,8 @@ Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badi
 
 * [Optimal Spherical Harmonics filter weights](Projects/optimization/README.md) (Hans Knutsson, Carl-Fredrik Westin)
 
+* [SlicerAIGT](Projects/SlicerAIGT/README.md) (Gabor Fichtinger, Andras Lasso, Kyle Sunderland)
+
 ## Breakout sessions
 
 * [Slicer VR](Breakouts/SlicerVR/README.md) (Adam Rankin, Csaba Pinter, JC, Andras Lasso, all welcome)
