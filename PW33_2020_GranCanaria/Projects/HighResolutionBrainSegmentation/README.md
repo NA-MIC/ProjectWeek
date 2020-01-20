@@ -21,7 +21,8 @@
 2. Sulcal Drawing
 The use of 3D tools to draw and delimit brain sulci depends on freesurfer input (number 1) and an algorithm to draw on sulci and extract the lines in coordinate space.  The goal is to troubleshoot this process.
 3. Case Management
-Integration of a BIDS-based cased management system would aid organization and segmentation.
+    - Integration of a BIDS-based cased management system would aid organization and segmentation.
+    - Version Control for segmentation
 
 ## Approach and Plan
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
