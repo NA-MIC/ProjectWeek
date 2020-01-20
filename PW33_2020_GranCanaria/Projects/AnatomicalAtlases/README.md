@@ -6,12 +6,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Babacar Diao (Ecole Militaire de Santé Dakar)
 - Ainina Ndiaye (Université Cheikh Anta Diop)
-MOROCCO
+- MOROCCO
 - Siham Alaoui (University Abdelmalek Essaâdi)
 - Mouhcine Madani (University Abdelmalek Essaâdi)
 - Otman Aghzout (University Abdelmalek Essaâdi)
 - Badiaa Ait Ahmed (University Abdelmalek Essaâdi)
-SPAIN
+- SPAIN
 - Nayra Pumar (ULPGC – GTMA-IUIBS - MACbioIDi)
 - Juan Ruiz Alzola (ULPGC – GTMA-IUIBS - MACbioIDi)
 
