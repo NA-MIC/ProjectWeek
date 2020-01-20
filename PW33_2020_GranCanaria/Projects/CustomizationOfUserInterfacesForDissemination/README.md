@@ -44,11 +44,11 @@ This project aims at creating a minimal user interface oriented to museological 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-<img src=PW33_2020_GranCanaria/Projects/CustomizationOfUserInterfacesForDissemination/interfaceSketch.png width="480"/>
+<img src=./interfaceSketch.png width="480"/>
 Sketch of the interface.
 <br/>
 <br/>  
-<img src=PW33_2020_GranCanaria/Projects/CustomizationOfUserInterfacesForDissemination/arduinoBoard.jpg width="480"/>
+<img src=./arduinoBoard.jpg width="480"/>
 Arduino board with push buttons and trackballs.
 
 # Background and References
