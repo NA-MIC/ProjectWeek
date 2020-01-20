@@ -107,7 +107,7 @@ Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badi
 
 * [Extensions Manager Refresh](Projects/ExtensionsManagerRefresh/README.md) (JC, Andras, Steve)
 
-* CTK DICOM database and browser improvements (Marco Nolden, Andras Lasso, Steve Pieper, Jc)
+* [CTK DICOM database and browser improvements](Projects/ctkDICOMDatabase) (Marco Nolden, Andras Lasso, Steve Pieper, Jc)
 
 * [Slicer on Android](Projects/SlicerOnAndroid/readme.md) (Attila Nagy, Steve Pieper and whoever is interested)
 
