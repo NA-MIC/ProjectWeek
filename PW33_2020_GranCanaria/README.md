@@ -116,6 +116,8 @@ Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badi
 
 * [Whitematteranalysis To Python3](Projects/WMAUpgradeTooling/README.md) (Scott Lill, Steve Pieper, Sandy Wells, Yang Song, Tom Cai, Fan Zhang, Lauren O'Donnell)
 
+* [Optimal Spherical Harmonics filter weights](Projects/optimization/README.md) (Hans Knutsson, Carl-Fredrik Westin)
+
 ## Breakout sessions
 
 * [Slicer VR](Breakouts/SlicerVR/README.md) (Adam Rankin, Csaba Pinter, JC, Andras Lasso, all welcome)
