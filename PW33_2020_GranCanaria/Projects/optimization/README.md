@@ -29,7 +29,7 @@ The goal of this project is to provide a tool for finding optimal weigths for ex
 3. Integrate display of oriented image data in VTK
 4. Basic thresholding 
 
-## Progress and Next Steps
+<!--## Progress and Next Steps-->
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
