@@ -34,7 +34,7 @@ In our center, since the end of 2017, surgery is conducted with the Rosa robot. 
 1. ...
 
 # Illustrations
-[StereoPlan](exPlanning.jpg)
+[StereoPlan](exPlanning2.png)
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
