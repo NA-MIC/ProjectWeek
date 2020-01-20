@@ -15,12 +15,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Yahya Abatna (undergraduate, FM- UNA)
 - Mariem Isselmou (undergraduate, FM- UNA)
 - Mohamed Aly Dedew (undergraduate, FM- UNA) 
-MOROCCO
+- MOROCCO
 - Siham Alaoui (University Abdelmalek Essaâdi)
 - Mouhcine Madani (University Abdelmalek Essaâdi)
 - Otman Aghzout (University Abdelmalek Essaâdi)
 - Badiaa Ait Ahmed (University Abdelmalek Essaâdi)
-SPAIN
+- SPAIN
 - Marilola Afonso (ULPGC – GTMA-IUIBS - MACbioIDi)
 - Juan Ruiz Alzola (ULPGC – GTMA-IUIBS - MACbioIDi)
 
