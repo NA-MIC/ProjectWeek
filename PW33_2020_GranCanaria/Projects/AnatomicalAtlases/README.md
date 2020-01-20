@@ -33,7 +33,7 @@ These atlases and their creation process will be used as training material in th
 ## Approach and Plan
 
 1. Training using the 3D Slicer segment editor
-1. Image study and selection
+1. Image study and selection: Thorax, Abdomen, Head (adult & infant models), pelvis, upper and lower limbs
 
 ## Progress and Next Steps
 
