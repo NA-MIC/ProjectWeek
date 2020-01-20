@@ -27,10 +27,10 @@ One good example where this approach is useful is restoring rotation invariance 
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Discuss / demo the CMB platform
+<!-- 1. Discuss / demo the CMB platform
 2. Integrate ITK into the CMB plaform
 3. Integrate display of oriented image data in VTK
-4. Basic thresholding 
+4. Basic thresholding -->
 
 <!--## Progress and Next Steps-->
 
