@@ -7,6 +7,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Thomas Muender (Uni Bremen)
 - Anke Reinschluessel (Uni Bremen)
 - Thomas Mildner (Uni Bremen)
+- Adam Rankin
+- Steve Pieper
+- Andras Lasso
 
 # Project Description
 
