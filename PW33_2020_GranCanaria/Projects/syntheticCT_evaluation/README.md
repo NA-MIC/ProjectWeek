@@ -5,10 +5,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Paolo Zaffino (Magna Graecia University of Catanzaro, Italy)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Maria Francesca Spadea (Magna Graecia University of Catanzaro, Italy)
+- Everyone else wants to join
 
 # Project Description
+
+Several algorithms for MRI to synthetic CT have been proposed.
+Each group quantify convversion accuracy in different ways, making difficult to compare algorithms.
+We want to create a Slicer module for unified conversion accuracy assessment.
 
 <!-- Add a short paragraph describing the project. -->
 
@@ -16,17 +20,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Implement in 3D Slicer the validation workflow proposed in Spadea, M.F., Pileggi, G., Zaffino, P., Salome, P., Catana, C., Izquierdo-Garcia, D., Amato, F. and Seco, J., 2019. Deep Convolution Neural Network (DCNN) Multiplane Approach to Synthetic CT Generation From MR images—Application in Brain Proton Therapy. International Journal of Radiation Oncology* Biology* Physics, 105(3), pp.495-503.
+
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Write an extension that will quantify conversion accuracy. The code will be written in python. 
 
 ## Progress and Next Steps
 
