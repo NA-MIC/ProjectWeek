@@ -73,6 +73,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [NIRS device OpenIGTLink interface](Projects/NIRSOpenIGTLink/README.md) (David Díaz Martín, Francisco Marcano Serrano, José Luis González Mora, Juan Ruiz-Alzola)
 
+* [Slicer Sense-Act Framework](Projects/SenseActFramework/README.md) (Mark Asselin, Gernot Kronreif, Andras Lasso)
+
 ### Clinical applications
 
 * [BabySteps club foot treatment](Projects/ClubFoot/README.md) (Pooneh Roshanitabrizi, Hadi Fooladi Talari, Steve Pieper)
@@ -84,13 +86,13 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 * [Synthetic CT evaluation](Projects/syntheticCT_evaluation/README.md) (Paolo Zaffino)
 
 * [NorMIT-Plan](Projects/NorMIT-Plan/README.md) (Rafael Palomar)
-  
+
 * Brain white matter of social cognition in schizophrenia and healthy (Zora Kikinis, Nikos Makris)
 
 
 ### Education
 
-* [3DSlicer Training programs](Projects/3DSlicerTrainingPrograms/README.md) (Babacar Diao, Ahmedou Moulaye Idriss, Yahya Tfeil, 
+* [3DSlicer Training programs](Projects/3DSlicerTrainingPrograms/README.md) (Babacar Diao, Ahmedou Moulaye Idriss, Yahya Tfeil,
 Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badiaa Ait Ahmed, GTMA group)
 
 * [Customization of user interfaces for dissemination applications based on 3D Slicer](Projects/CustomizationOfUserInterfacesForDissemination/README.md) (Guillermo Valentín Socorro-Marrero, Nayra Pumar Carreras, José-Carlos Ruiz-Luque, Abián Hernández-Guedes, Juan Ruiz-Alzola)
