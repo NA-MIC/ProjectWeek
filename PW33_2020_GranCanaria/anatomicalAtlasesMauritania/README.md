@@ -14,7 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Otman Aghzout (University Abdelmalek Essaâdi)
 - Badiaa Ait Ahmed (University Abdelmalek Essaâdi)
 - Marilola Afonso (ULPGC – GTMA-IUIBS - MACbioIDi)
-
+- Juan Ruiz Alzola (ULPGC – GTMA-IUIBS - MACbioIDi)
 
 
 
