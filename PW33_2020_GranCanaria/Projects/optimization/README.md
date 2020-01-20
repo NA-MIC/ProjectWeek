@@ -41,7 +41,7 @@ THe goal of this project is to provide a tool for finding optimal weigths for ex
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-https://www.dropbox.com/s/fan3n6hist17j1d/Picture1.jpg?dl=0
+[Wiegths for Spheical Harmonics] https://www.dropbox.com/s/fan3n6hist17j1d/Picture1.jpg?dl=0
 
 # Background and References
 
