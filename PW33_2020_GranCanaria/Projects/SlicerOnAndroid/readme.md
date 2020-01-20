@@ -17,7 +17,7 @@ Investigate the possibilities of portig Slicer to Android, to be used in a Deskt
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Put together an software environment with all the needed tools for cross-compilation and document it. 
+1. Put together a software environment with all the needed tools for cross-compilation and document it. 
 1. Once there, try to actually compile.
 
 ## Approach and Plan
@@ -49,3 +49,4 @@ Investigate the possibilities of portig Slicer to Android, to be used in a Deskt
 
 * https://www.androidauthority.com/android-q-desktop-mode-965704/
 * https://www.samsung.com/us/explore/dex/
+* https://en.wikipedia.org/wiki/Samsung_DeX
