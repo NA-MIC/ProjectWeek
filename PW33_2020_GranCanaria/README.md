@@ -59,6 +59,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Open Anatomy Browser in vtkjs](Projects/OpenAnatomyBrowser/README.md), a reimplementation of the Open Anatomy Browser (Mike Halle and friends)
 
+* [ePad / Slicer Bridge and Segmentation Plugin](Projects/ePadSlicer/README.md) (Emel Alkim, Steve Pieper)
+
 ### IGT
 
 * [Ultrasound navigation training system for breast biopsy](Projects/UltrasoundNavigationTrainingSystemForBreastBiopsy/README.md) (Guillermo Valentín Socorro-Marrero, José-Carlos Ruiz-Luque, Andras Lasso, Md. Nurul Karim, Juan Ruiz-Alzola)
