@@ -59,6 +59,10 @@ The aim is to create a friendly customized interface for monitoring the foot ulc
 
 Figure 1. The current Silelet-based GUI
 
+<img src="thermalVisbleVolumen.png" width="800"/>
+
+Figure2. Thermal and visible volumen
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
