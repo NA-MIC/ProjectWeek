@@ -8,26 +8,27 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andras Lasso (Queen's, Canada)
 - Mike Halle (Brigham and Women’s Hospital and Harvard Medical School, USA)
 - Steve Pieper (Isomics, USA)
+- Everyone else is interested in
 
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
+Arduino is a well know and widely used open source microcontroller. Is is extremely cheap (10-20 €/$) and a plenty of sensors and actuators have been desined for this platform.
+The idea is to implement a link between 3D Slicer and Arudino.
+Slicer IGT offers an outstanding solution for connecting hardware, but for some entry-level users/students can be difficult to use. We want to develop a thin layer of code to connect cheap hardware (Arduino and its sensor/actuators). In this way the user will have a simple way for linking hardaware, being aware that is a solution that does not offer the full options available in SlicerIGT.
+It can be useful for students and for not complex data/instruction stream.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. The main aim right now is to colled ideas/comments/suggestions for experts.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Discuss with people that are already using/developing Arduino stuff.
 
 ## Progress and Next Steps
 
