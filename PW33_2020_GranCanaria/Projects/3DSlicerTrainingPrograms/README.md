@@ -49,4 +49,4 @@ In this edition of the training project, new professionals will work in order to
 # Background and References
 
 - [30PW NA-MIC training programs project](https://projectweek.na-mic.org/PW30_2019_GranCanaria/Projects/TrainingPrograms/)
-- [28PW NA-MIC training progrmas project](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/3DSlicerTrainingPrograms/)
+- [28PW NA-MIC training programs project](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/3DSlicerTrainingPrograms/)
