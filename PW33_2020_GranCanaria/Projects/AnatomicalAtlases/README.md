@@ -37,9 +37,6 @@ These atlases and their creation process will be used as training material in th
 
 ## Progress and Next Steps
 
-1. ...
-1. ...
-1. ...
 
 # Illustrations
 
