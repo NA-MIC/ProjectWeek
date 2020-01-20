@@ -11,8 +11,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 Several algorithms for MRI to synthetic CT have been proposed.
-Each group quantify convversion accuracy in different ways, making difficult to compare algorithms.
-We want to create a Slicer module for unified conversion accuracy assessment.
+Each group quantifies conversion accuracy in different ways, making difficult to compare algorithms.
+We want to create a Slicer module for stardazied conversion accuracy assessment.
 
 <!-- Add a short paragraph describing the project. -->
 
