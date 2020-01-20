@@ -18,6 +18,8 @@ therapies. NorMIT-Plan is a software package developed as a set of 3D Slicer
 modules which will provide tools for segmentation, 3D modeling and
 surgical plannig for liver resection procedures.
 
+[NorMIT-Plan Planning Module](https://youtu.be/7M3DULQp81k)
+
 In this project we will update the software to the latest 3D Slicer
 version, fix known bugs and create a 3D Slicer extension.
 
