@@ -83,8 +83,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Synthetic CT evaluation](Projects/syntheticCT_evaluation/README.md) (Paolo Zaffino)
 
-* [NorMIT-Plan](Projects/NorMIT-Plan/README.md "Liver resection
-  planning software") (Rafael Palomar)
+* [NorMIT-Plan](Projects/NorMIT-Plan/README.md) (Rafael Palomar)
   
 * Brain white matter of social cognition in schizophrenia and healthy (Zora Kikinis, Nikos Makris)
 
