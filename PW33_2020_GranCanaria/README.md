@@ -200,3 +200,6 @@ List of registered participants so far (names will be added here after processin
 1. Francisco José Marcano Serrano (fmarcano@ull.edu.es) - Universidad de la Laguna - Spain
 1. David Díaz Martín (ddiazmar@ull.es) - Universidad de la Laguna - Spain
 1. Larisa Akrofie (@LarisaAkrofie)(info@leversinheels.com) - Levers in Heels - Ghana
+1. Md Nurul Karim (mdnkarim@uni-bremen.de) - University of Bremen - Germany
+
+
