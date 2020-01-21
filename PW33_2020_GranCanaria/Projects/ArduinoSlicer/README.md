@@ -22,7 +22,7 @@ It can be useful for students and for not complex data/instruction stream.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. The main aim right now is to colled ideas/comments/suggestions for experts.
+1. The main aim right now is to colled ideas/comments/suggestions from experts.
 
 ## Approach and Plan
 
