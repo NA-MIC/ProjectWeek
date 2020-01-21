@@ -21,8 +21,6 @@ Address SlicerAstro issue [106][slicerastroissue]:
 
 - Fix Contours (in binary segmentation) in the modules AstroVolume, AstroSmoothing and AstroModeling.
 
-- Fix Histogram in Astrovolume when changing plot proprieties.
-
 - AstroModeling crash when estimating parameters.
 
 - AstroModeling linking between plots and points annotations is broken.
