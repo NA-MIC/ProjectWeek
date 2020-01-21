@@ -21,8 +21,6 @@ Address SlicerAstro issue [106][slicerastroissue]:
 
 - Fix Contours (in binary segmentation) in the modules AstroVolume, AstroSmoothing and AstroModeling.
 
-- AstroModeling crash when estimating parameters.
-
 - AstroModeling linking between plots and points annotations is broken.
 
 - Consider updating BBarolo from 1.4 to 1.5
