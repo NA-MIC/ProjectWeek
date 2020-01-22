@@ -126,8 +126,12 @@ Ideas:
 * every tutorial could have a discourse thread to post comment but on youtube video there is a comment section but there are no comments
 * generation of PDF from PPT slides could be automated
 
-Action items (Jc):
-* experiment: create shared Google drive to collect all powerpoints
+Action items:
+* create shared Google drive to collect all powerpoints (Jc): **DONE**
+  * Shared Drive: While non-kitware member can be added, the team drive can not be publicly visible. See https://support.google.com/a/thread/13540273?hl=en
+  * Shared Folder: This can be visible by anyone with the link and non-kitware member can be added. Click [here](https://drive.google.com/drive/folders/1aU77cEqkEBl8764-IL-hdX067YYjZUE1?usp=sharing) to access the folder
+* update power point slides into shared folder. Create one folder per Slicer version (e.g 3.6, 4.0, 4.1, ...) (Sonia)
+  
 
 ### Default Theme
 
