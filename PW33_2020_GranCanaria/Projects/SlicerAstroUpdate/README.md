@@ -17,29 +17,22 @@ to the current version of 3DSlicer is reported in SlicerAstro issue [106][slicer
 
 Address SlicerAstro issue [106][slicerastroissue]:
 
-- Fix packing of astropy and scipy
-
-- Fix Contours (in binary segmentation) in the modules AstroVolume, AstroSmoothing and AstroModeling.
-
-- AstroModeling linking between plots and points annotations is broken.
-
-- Consider updating BBarolo from 1.4 to 1.5
-
-- AstroMasking crash when doing a Crop operation on a Region of Interest.
-
-- Replace old wigets with new annotation widgets (e.g.: Ruler with the new line widget in the AstroPVSlice module)
-
-- Fix compilation of wcslib for windows for having SlicerAstro binaries for windows too.
-
-- Consider updating wcslib from 5.18 to 6.4
-
-- Consider updating cfitio from 3.450 to 3.470
-
 ## Approach and Plan
 Prioritize items in the to do list and implement them.
 
 ## Progress and Next Steps
+High priority:
+* [x] 1) Fix packing of astropy and scipy
+* [x] 2) Fix Contours (in binary segmentation) in the modules AstroVolume, AstroSmoothing and AstroModeling.
+* [x] 3) AstroModeling linking between plots and points annotations is broken.
+* [ ] 4) AstroMasking crash when doing a Crop operation on a Region of Interest.
+* [ ] 5) Replace old wigets with new annotation widgets (e.g.: Ruler with the new line widget in the AstroPVSlice module)
 
+Low priority:
+* [ ] 6) Fix compilation of wcslib for windows for having SlicerAstro binaries for windows too.
+* [ ] 7) Consider updating BBarolo from 1.4 to 1.5
+* [ ] 8) Consider updating wcslib from 5.18 to 6.4
+* [ ] 9) Consider updating cfitio from 3.450 to 3.470
 
 # Illustrations
 [![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/Screenshot-SlicerAstro-ProjectWeek2020.png)](http://www.youtube.com/watch?v=D-4G9lKVjaY "Wein069")
