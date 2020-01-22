@@ -14,6 +14,7 @@ Back to [Project Week](../../README.md)
 - Jean-Christophe Fillion-Robin (Kitware Inc.)
 - Kyle Sunderland (Queen's University) 
 - Steve Pieper (Isomics Inc.)
+- Sonia Pujol (Brigham and Women’s Hospital and Harvard Medical School)
 
 # Breakout Description
 
