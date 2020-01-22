@@ -38,8 +38,10 @@ This breakout aims to plan the next major version of Slicer and assigns action i
 
 ###  Release planning
 
-Action items:
-* Review list of issues and re-target them to 5.1 (Jc)
+Action items (Jc):
+* Review list of issues and re-target them to 5.1
+* Add missing issues
+* Update Slicer [roadmap page](https://www.slicer.org/wiki/Documentation/Labs/Slicer5-roadmap).
 
 ### Coordinate System in Files: RAS to LPS
 
