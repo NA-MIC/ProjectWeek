@@ -91,7 +91,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Improuving StereoPlan STIM Slicer module for SEEG Procedures](Projects/SEEGPlanning/README.md). Sara Fernandez Vidal, ICM)
 
-* [Adapt an already existing workflow in maxillofacial reconstructive surgery to Slicer](Projects/WorkflowForMaxillofacial/readme.md) (Attila Nagy, András Lasso, and whoever is interested)
+* [Adapt an already existing workflow in maxillofacial reconstructive surgery to Slicer](Projects/WorkflowForMaxillo/readme.md) (Attila Nagy, András Lasso, and whoever is interested)
 
 ### Education
 
