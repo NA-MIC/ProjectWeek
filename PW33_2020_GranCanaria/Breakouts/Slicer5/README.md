@@ -36,6 +36,11 @@ This breakout aims to plan the next major version of Slicer and assigns action i
 
 <!-- To be filled out after the event. -->
 
+###  Release planning
+
+Action items:
+* Review list of issues and re-target them to 5.1 (Jc)
+
 ### Coordinate System in Files: RAS to LPS
 
 Notes:
