@@ -10,11 +10,6 @@ VR is currently available in Slicer out-of-the-box via the [SlicerVirtualReality
 
 Preliminary work for AR support in Slicer is functional at [SlicerAugmentedReality](https://github.com/VASST/SlicerAugmentedReality) but needs improvements. Video passthrough infrastructure is available in VTK (last tested 8.2).
 
-Tested OpenVR headsets include:
-* HTC Vive
-* HTC Vive Pro
-* Samsung WMR Headset
-
 ### Extensions
 * [SlicerVirtualReality](https://github.com/KitwareMedical/SlicerVirtualReality) - stable
 * [SlicerAugmentedReality](https://github.com/VASST/SlicerAugmentedReality) - preview
@@ -26,23 +21,38 @@ Tested OpenVR headsets include:
 Tracking data is available for all OpenVR devices including headset, controllers, and generic trackers. Input from the controllers is available and the default interactor provides navigation, zoom, and selection capabilities.
 
 ### Visualization
-
+The 3D view in Slicer can be rendered in compatible OpenVR headsets. Other views including 2D Slice, Chart, etc... view are not currently rendered to the headset.
 
 The Leap Motion hand tracking device can be streamed into Slicer and visualized using the SlicerLeapMotion extension.
 
 ### Hardware
 
+Tested OpenVR headsets include:
+* HTC Vive
+* HTC Vive Pro
+* Samsung WMR Headset
+
 ### Infrastructure/Algorithms
+The SlicerVideoCameras extension provides a wrapper to OpenCV's camera calibration techniques.
 
 ## Areas of Improvement
+We have identified the following major categories as areas that need improvement in the current Slicer ecosystem.
 
 ### Interaction
+* Different interaction models
+ * Input methods
+* Implementation of models
 
 ### Visualization
+* Other views necessary/wanted?
 
 ### Hardware
 * Input devices
-* Headsets
-  * Oculus support
+* Visualization devices
+  * MagicLeap - LuminOS, Nvidia Tegra SoC
+  * Phone/tablet - Android, arm
 
 ### Infrastructure/Algorithms
+* ?
+
+## Minutes
