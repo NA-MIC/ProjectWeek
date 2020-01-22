@@ -44,7 +44,7 @@ One good example where this approach is useful is restoring rotation invariance 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-
+Opt_SPH_fig1.jpg
 https://www.dropbox.com/s/c3wrujj3mggao4y/Opt_SPH_fig1.jpg?dl=0
 
 This figure shows the result of the weight optimization for the case of 120 uniformly distributed orientations with 12 missing measurements. The rows show results for spherical harmonic degrees 0, 2 and 4. Colors indicate filter weight values, blue is most positive and red is most negative. The missing measurement locations are shown in white. 
