@@ -39,9 +39,16 @@ The SlicerVideoCameras extension provides a wrapper to OpenCV's camera calibrati
 We have identified the following major categories as areas that need improvement in the current Slicer ecosystem.
 
 ### Interaction
-* Different interaction models
- * Input methods
-* Implementation of models
+It is still unclear which input methods will provide the easiest navigation and action capabilities in VR, but is most likely a combination of input methods.
+
+* Controllers provide a high accuracy method for localization/selection, but are potentially bulky
+* Voice provides a contact-free method for input, but can be a potentially complicated implementation
+* Hands provide an intuitive input method, but depending on the implementation can suffer from accuracy and field-of-view limitations
+  * Gesture recognition complexity is highly dependent on the implementation
+* Eye tracking offers an intuitive input method, but interaction guidelines are not yet commonly defined (gaze linger, gaze select, etc...?)
+  * Hardware availability is still limited or expensive
+
+Even once input methods have been decided, interaction guidelines for input are still a shifting target in VR. Using controllers, for example, does one use the point of the device as a selection point, or use the direction of the controller as a laser pointer? There are many such questions/decisions to be settled.
 
 ### Visualization
 * Other views necessary/wanted?
