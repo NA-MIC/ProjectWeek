@@ -48,10 +48,11 @@ The use of 3D tools to draw and delimit brain sulci depends on freesurfer input 
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Freesurfer integration
+  - Implemented an extension (https://github.com/PerkLab/SlicerFreeSurferImporter) that can import surfaces from FreeSurfer in the correct coordinate system)
 
 # Illustrations
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+https://github.com/PerkLab/SlicerFreeSurferImporter
