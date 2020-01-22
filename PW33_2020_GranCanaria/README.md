@@ -129,7 +129,6 @@ Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badi
 ## Breakout sessions
 
 * [Slicer VR](Breakouts/SlicerVR/README.md) (Adam Rankin, Csaba Pinter, JC, Andras Lasso, all welcome)
-* [Slicer 5](Breakouts/Slicer5/README.md) (Sam Horvath, Andras Lasso, JC, Csaba Pinter, ...)
 
 ## Registrants
 
