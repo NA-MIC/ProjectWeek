@@ -49,11 +49,11 @@ The use of 3D tools to draw and delimit brain sulci depends on freesurfer input 
 ## Progress and Next Steps
 
 1. Freesurfer integration
-  - Implemented an extension ([SlicerFreeSurferImporter](https://github.com/PerkLab/SlicerFreeSurferImporter)) that can import surfaces from FreeSurfer in the correct coordinate system)
+    - Implemented an extension ([SlicerFreeSurferImporter](https://github.com/PerkLab/SlicerFreeSurferImporter)) that can import surfaces from FreeSurfer in the correct coordinate system)
 2.
 3.
 4. Segment Diff Module
-  - Implement a module that can calculate and display differences between segments
+    - Implement a module that can calculate and display differences between segments
 
 # Illustrations
 
