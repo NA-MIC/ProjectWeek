@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Attila Nagy  (University of Szeged)
-- Steve Pieper (Isomics)
+- Andras Lasso (Isomics)
 - Investigator 3 (Affiliation)
 
 # Project Description
