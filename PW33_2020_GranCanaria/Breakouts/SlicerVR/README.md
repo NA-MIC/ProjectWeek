@@ -51,6 +51,8 @@ It is still unclear which input methods will provide the easiest navigation and 
 Even once input methods have been decided, interaction guidelines for input are still a shifting target in VR. Using controllers, for example, does one use the point of the device as a selection point, or use the direction of the controller as a laser pointer? There are many such questions/decisions to be settled.
 
 ### Visualization
+* UI library
+  * Collection of VR widgets to provide input events (buttons, sliders, etc...)
 * Other views necessary/wanted?
 
 ### Hardware
