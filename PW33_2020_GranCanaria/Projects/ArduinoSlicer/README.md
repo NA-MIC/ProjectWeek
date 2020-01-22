@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andras Lasso (Queen's, Canada)
 - Mike Halle (Brigham and Women’s Hospital and Harvard Medical School, USA)
 - Steve Pieper (Isomics, USA)
+- Attila Nagy (University of Szeged, Szeged, Hungary)
 - Everyone else is interested in
 
 # Project Description
