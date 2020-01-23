@@ -59,7 +59,7 @@ This figure shows the result of the weight optimization for the case of 120 unif
 ## Background 
 I developed the upploaded code as tools in my research towards finding optimal sets of waveforms for analysis of microstructural tissue features using diffusion weighted MRI (dMRI). The code can be used for optimization and visualisation of a number of aspects in dMRI.
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->#
+<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
 ## References
 
