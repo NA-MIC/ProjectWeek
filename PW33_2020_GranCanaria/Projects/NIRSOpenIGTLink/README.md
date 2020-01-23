@@ -67,7 +67,8 @@ Fig. 3: Operation example. ImagerClient is running in the red window. TrackerCli
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-
+<!--
 # Background and References
+-->
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
