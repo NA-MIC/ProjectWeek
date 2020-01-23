@@ -4,8 +4,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Hans Knutsson, Linkoping University, Sweden
-- Carl-Fredrik Westin, Harvard Medical School, Boston, USA
+Hans Knutsson, Carl-Fredrik Westin
+
+Linkoping University, Sweden
+Radiology, Brigham and Women’s Hospital, Boston, MA, US
+Harvard Medical School, Boston, MA, US
+
+*Corresponding author:
+Hans Knutsson (hans.knutsson@liu.se )
 
 # Project Description
 
