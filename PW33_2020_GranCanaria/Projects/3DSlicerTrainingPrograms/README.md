@@ -38,6 +38,11 @@ In this edition of the training project, new professionals will work in order to
 
 ## Progress and Next Steps
 
+1. Initial training have been delivered for the African collaborators, including newcomers from Morocco 
+1. In these training sessions the African collaborators experienced have been advised
+1. Information to draft the introduction of the development of 3D Slicer modules for engineers
+1. The creation of multidisciplinary workgroups, with medicine and engineer degree students have been planned
+1. A new way to deliver the educative content for these groups has been planned
 
 # Illustrations
 
