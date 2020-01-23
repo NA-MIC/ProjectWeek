@@ -28,7 +28,7 @@ One good example where this approach is useful is restoring rotation invariance 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Introduce a tool for analysis of signal distributions on a sphere to the diffusion MRI community.
-2. Provide tool for visualization of 3D point distributions.
+2. Provide a tool for visualization of 3D point distributions.
 
 ## Approach and Plan
 
