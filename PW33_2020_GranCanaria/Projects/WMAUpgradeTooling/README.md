@@ -56,7 +56,7 @@ Clustering done under python3
 
 ## Next Steps
 
-Integrate into the master brunch.
+Integrate into the master branch of the WMA repo.
 
 # Background and References
 
