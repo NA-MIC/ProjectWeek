@@ -47,4 +47,6 @@ easier to use, maintain and extend, all of which are beneficial for applicaple d
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+Upgrade to python3 branch - https://github.com/ScLill/whitematteranalysis/tree/2to3
+Testing branch - https://github.com/ScLill/whitematteranalysis/tree/2test
+Documentation for original project - https://github.com/SlicerDMRI/whitematteranalysis/blob/master/doc/subject-specific-tractography-parcellation.md
