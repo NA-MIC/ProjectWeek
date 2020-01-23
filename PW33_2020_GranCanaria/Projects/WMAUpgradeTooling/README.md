@@ -46,7 +46,10 @@ Sanity testing of entire pipeline - running through with both python 2 and 3 for
 ![Some more images](Example2.jpg)
 -->
 
-[Clustering done under python3](view_left.jpg)
+Clustering done under python3
+[View 1](view_left.jpg)
+[View 2](view_ant.jpg)
+[View 3](view_inf.jpg)
 
 # Background and References
 
