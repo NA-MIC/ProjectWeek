@@ -30,8 +30,8 @@ High priority:
 * [x]  (6) Replace old wigets with new annotation widgets: Ruler with the new line widget in the AstroPVSlice module.
 
 Low priority:
-* [ ]  (7) Consider updating wcslib from 5.18 to 7.1.
-* [ ]  (8) Consider updating cfitio from 3.450 to 3.470.
+* [x]  (7) Consider updating cfitio from 3.450 to 3.470.
+* [ ]  (8) Consider updating wcslib from 5.18 to 7.1.
 * [ ]  (9) Fix compilation of wcslib for windows for having SlicerAstro binaries for windows too.
 * [ ]  (10) Consider updating BBarolo from 1.4 to 1.5.
 
