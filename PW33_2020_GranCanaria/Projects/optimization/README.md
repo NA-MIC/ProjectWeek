@@ -56,6 +56,13 @@ https://www.dropbox.com/s/c3wrujj3mggao4y/Opt_SPH_fig1.jpg?dl=0
 
 This figure shows the result of the weight optimization for the case of 120 uniformly distributed orientations with 12 missing measurements. The rows show results for spherical harmonic degrees 0, 2 and 4. Colors indicate filter weight values, blue is most positive and red is most negative. The missing measurement locations are shown in white. 
 
-# Background and References
+# Code  
+I developed the upploaded code as tools in my research towards finding optimal sets of waveforms for analysis of microstructural tissue features using diffusion weighted MRI (dMRI). The code can be used for optimization and visualisation of a number of aspects in dMRI.
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->#
+
+# References
+
+https://www.dropbox.com/s/ijnjnoeqw127zhn/ISMRM_poster_2019.pdf?dl=0
+
+
