@@ -32,9 +32,9 @@ We held discussions and refined our hypothesis of which white matter tracts to f
 
 Next steps are to run correlations on data from ~20 people with schizophrenia and matched controls.
 
-# Illustrations
+## Illustrations
 
-# Background and References
+## Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
