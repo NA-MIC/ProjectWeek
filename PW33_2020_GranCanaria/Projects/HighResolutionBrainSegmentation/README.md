@@ -37,7 +37,7 @@ The use of 3D tools to draw and delimit brain sulci depends on freesurfer input 
 
 3. Case Management
     - Pilot organization
-    - Add git PR management tools to Slicer module.
+    - Add Git PR management tools to Slicer module.
       - While editing, save and commit changes to local branch
       - Push changes to branch on Git
       - When completed, create PR for review
@@ -48,12 +48,17 @@ The use of 3D tools to draw and delimit brain sulci depends on freesurfer input 
 
 ## Progress and Next Steps
 
+### Progress
 1. Freesurfer integration
     - Implemented an extension ([SlicerFreeSurferImporter](https://github.com/PerkLab/SlicerFreeSurferImporter)) that can import surfaces from FreeSurfer in the correct coordinate system)
 2.
-3.
-4. Segment Diff Module
-    - Implement a module that can calculate and display differences between segments
+3. Case Management
+    - Create initial implementation of version control for segmentations [NeuroSegmentation](https://github.com/PerkLab/NeuroSegmentation)
+    - Commit and upload segmentations to a git repository during editing
+
+### Next Steps
+1. Case Management
+    - Segment diff: Implement a module that can calculate and display differences between segments
 
 # Illustrations
 
