@@ -38,6 +38,7 @@ In this project, we will explore the possibility of communicating a proprietary 
 Fig. 1: Slicer - device communication.
 <img src="Diagrama2.png" width="652" height="356"> 
 
+
 Fig. 2: System architecture.
 <img src="Diagrama3.png" width="652" height="356"> 
 
