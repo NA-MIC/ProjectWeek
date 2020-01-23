@@ -4,8 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- David Díaz Martín (ULL - MACbioIDi)
 - Francisco Marcano Serrano (ULL - MACbioIDi)
+- David Díaz Martín (ULL - MACbioIDi)
 - José Luis González Mora (ULL - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA - MACbioIDi)
 
