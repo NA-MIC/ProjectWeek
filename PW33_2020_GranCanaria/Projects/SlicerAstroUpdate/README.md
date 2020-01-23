@@ -31,7 +31,7 @@ High priority:
 
 Low priority:
 * [x]  (7) Consider updating cfitio from 3.450 to 3.470.
-* [ ]  (8) Consider updating wcslib from 5.18 to 7.1.
+* [x]  (8) Consider updating wcslib from 5.18 to 7.1.
 * [ ]  (9) Fix compilation of wcslib for windows for having SlicerAstro binaries for windows too.
 * [ ]  (10) Consider updating BBarolo from 1.4 to 1.5.
 
