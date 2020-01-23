@@ -28,7 +28,7 @@ Whitematteranalysis is a python pipeline for performing fiber processing and clu
 1. Explore options for running python externally to 3D slicer to allow the porting of required dependancies.
 1. Document functionality to ensure coverage for the testing suite
 
-## Progress and Next Steps
+## Progress
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
@@ -45,17 +45,20 @@ Sanity testing of entire pipeline - running through with both python 2 and 3 for
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Some more images](Example2.jpg)
 -->
+Github links of the updated repos:
+* Python3 branch: https://github.com/ScLill/whitematteranalysis/tree/2to3
+* Testing branch：https://github.com/ScLill/whitematteranalysis/tree/2test
 
 Clustering done under python3
 [View 1](view_left.jpg)
 [View 2](view_ant.jpg)
 [View 3](view_inf.jpg)
 
-# Background and References
+## Next Steps
 
-Github Links
-* Upgrade to python3 branch - https://github.com/ScLill/whitematteranalysis/tree/2to3
-* Testing branch - https://github.com/ScLill/whitematteranalysis/tree/2test
+Integrate into the master brunch.
+
+# Background and References
 
 Reference
 Documentation for original project - https://github.com/SlicerDMRI/whitematteranalysis/blob/master/doc/subject-specific-tractography-parcellation.md
