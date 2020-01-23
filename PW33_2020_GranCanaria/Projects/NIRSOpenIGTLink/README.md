@@ -54,7 +54,7 @@ Fig. 2: System architecture.
 
 Fig. 3: Operation example. Microcontroller is turned on and off by sending TCP/IP commands.
 </p>
-<img src="3D-Slicer-4.11.0-2019-06-24-2020-01-23-18-32-24.gif" width="800" height="600"> 
+<img src="3D-Slicer-4.11.0-2019-06-24-2020-01-23-18-32-24.gif" width="800" height="480"> 
 
 
 
