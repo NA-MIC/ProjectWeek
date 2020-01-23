@@ -44,13 +44,15 @@ These atlases and their creation process will be used as training material in th
 
 ## Progress and Next Steps
 
+1. Atlases created for testing are already finished
+1. The Mauritanian team is creating new atlases 
+1. Files to be uploaded to our server with the open anatomy browser are to be created
+1. It is a challenge to gather quality images to be segmented, so a main interest point for us is to gather these images for different parts of the body normal and with some kind of pathology to be segmented
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+<!-- [![Watch the video](Osteology.jpg)](https://www.youtube.com/watch?v=eQMNyAurvVo).
+<!-- [![Watch the video](Volumetry.jpg)](https://www.youtube.com/watch?v=eQMNyAurvVo).
 
 # Background and References
 
