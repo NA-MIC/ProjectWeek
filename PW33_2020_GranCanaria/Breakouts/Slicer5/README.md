@@ -4,7 +4,7 @@ Back to [Project Week](../../README.md)
 
 ## Organizers
 
-- Sam Hovarth (Kitware Inc.)
+- Sam Horvath (Kitware Inc.)
 
 ## Attendees
 
