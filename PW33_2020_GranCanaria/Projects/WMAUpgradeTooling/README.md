@@ -36,7 +36,7 @@ Whitematteranalysis is a python pipeline for peforming fibre processing and clus
 2. Manual review of codebase to fix error in the automatic review
 3. Sanity testing of entire pipeline - running through with both python 2 and 3 for consistancy within a certain tolerance, due to stochasitic functionality.
 4. Fixing errors caused by library changes, revealed by sanity testing.
-4. Testing with controlled stochasticity via a python testing environment. Changes also applied to python2, to comparisions.
+4. Testing with controlled stochasticity via a python testing environment. Changes also applied to python2, to allow comparisions.
 5. Ensuring protability in serilization format. Settled on providing backwards compatability of files serialized under python2
 by making the python3 code able to read python2 or python3 objects, but only support writing python3. This will shift serilaised objects towards python3 standards and facilitate eventually dropping python2 support.
 6. Wrote a script for bundling whitematteranalysis (WMA) in it's own python environment, seperate from the system python or Slicer python. This is necessary for porting WMA to Slicer, as it uses dependancies unsupported by Slicer's python and the system python not under the control of Slicer and therefore unreliable. The next step of writing a GUI extension in Slicer was not completed.
@@ -52,8 +52,8 @@ by making the python3 code able to read python2 or python3 objects, but only sup
 # Background and References
 
 Github Links
-Upgrade to python3 branch - https://github.com/ScLill/whitematteranalysis/tree/2to3
-Testing branch - https://github.com/ScLill/whitematteranalysis/tree/2test
+* Upgrade to python3 branch - https://github.com/ScLill/whitematteranalysis/tree/2to3
+* Testing branch - https://github.com/ScLill/whitematteranalysis/tree/2test
 
 Reference
 Documentation for original project - https://github.com/SlicerDMRI/whitematteranalysis/blob/master/doc/subject-specific-tractography-parcellation.md
