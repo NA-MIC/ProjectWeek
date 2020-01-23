@@ -65,4 +65,4 @@ I developed the upploaded code as tools in my research towards finding optimal s
 
 https://www.dropbox.com/s/ijnjnoeqw127zhn/ISMRM_poster_2019.pdf?dl=0
 
-Related resources can be found at https://github.com/hansknutsson/HK_library_test
+## Related resources can be found at https://github.com/hansknutsson/HK_library_test
