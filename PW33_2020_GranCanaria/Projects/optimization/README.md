@@ -10,7 +10,8 @@ Linkoping University, Sweden
 Radiology, Brigham and Women’s Hospital, Boston, MA, US
 Harvard Medical School, Boston, MA, US
 
-*Corresponding author:
+## Corresponding author:
+
 Hans Knutsson (hans.knutsson@liu.se )
 
 # Project Description
