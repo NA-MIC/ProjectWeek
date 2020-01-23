@@ -35,7 +35,7 @@ Low priority:
 * [ ]  (9) Fix compilation of wcslib for windows for having SlicerAstro binaries for windows too.
 * [ ]  (10) Consider updating BBarolo from 1.4 to 1.5.
 
-Last two points will be addressed later on (tickets: https://github.com/Punzo/SlicerAstro/issues/107 and https://github.com/Punzo/SlicerAstro/issues/108)
+Last two points will be addressed later on (tickets: [107][slicerastroissue107] and [108][slicerastroissue108]).
 
 # Illustrations
 [![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/Screenshot-SlicerAstro-ProjectWeek2020.png)](http://www.youtube.com/watch?v=D-4G9lKVjaY "Wein069")
@@ -51,4 +51,6 @@ For more informations refer to this [link](https://github.com/Punzo/SlicerAstro/
 [punzo]: https://github.com/Punzo
 [punzodavide]: https://www.davidepunzo.com/
 [slicerastroissue]: https://github.com/Punzo/SlicerAstro/issues/106
+[slicerastroissue107]: https://github.com/Punzo/SlicerAstro/issues/107
+[slicerastroissue108]: https://github.com/Punzo/SlicerAstro/issues/108
 
