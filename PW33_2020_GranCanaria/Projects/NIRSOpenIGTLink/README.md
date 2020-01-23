@@ -49,7 +49,7 @@ Fig. 1: Architecture (original figure at the beginning of workshop) .
 <br>  
 
 <img src="Diagrama3.png" width="782" height="427"> 
-Fig. 2: System architecture (detail).
+Fig. 2: System architecture (detail). NIR light sensors/sources modules were not installed in the hardware setup used in this workshop.
 </p>
 <br>  
 <br>  
