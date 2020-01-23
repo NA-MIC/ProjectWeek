@@ -27,7 +27,7 @@ High priority:
 * [x]  (3) AstroModeling linking between plots and points annotations is broken.
 * [x]  (4) AstroMasking crash when doing a Crop operation on a Region of Interest.
 * [x]  (5) AstroStatistics crash when calculating the median.
-* [ ]  (6) Replace old wigets with new annotation widgets (e.g.: Ruler with the new line widget in the AstroPVSlice module)
+* [x]  (6) Replace old wigets with new annotation widgets (e.g.: Ruler with the new line widget in the AstroPVSlice module)
 
 Low priority:
 * [ ]  (7) Fix compilation of wcslib for windows for having SlicerAstro binaries for windows too.
