@@ -42,7 +42,7 @@ Fig. 1: Slicer - device communication.
 
 Fig. 2: System architecture.
 </p>
-<img src="Diagrama3.png" width="652" height="356"> 
+<img src="Diagrama3.png" width="782" height="427"> 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
