@@ -11,7 +11,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Attila Nagy (University of Szeged, Szeged, Hungary)
 - Badiaa Ait Ahmed (University Abdelmalek Essaâdi, Morocco)
 - Nayra Pumar Carreras (University of Las Palmas de Gran Canaria, Spain)
-- Attila Nagy (Faculty of Medicine, University of Szeged, Hungary)
 - Everyone else is interested in
 
 # Project Description
