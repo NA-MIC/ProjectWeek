@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div id="root" style="min-height: 700px;"></div>""
+
+	<!-- Load React. -->
+	<script crossorigin src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
+	<script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+	<script>
+		// Workaround to deal with react-router-dom complaining
+    // if process.env is not defined. Must be run before
+    // ohif-viewer package is included.
+    "use strict";
+
+    var process = {
+      env: {
+        NODE_ENV: "production"
+      }
+    };
+
+    window.process = process;
+    window.config = {
+      // default: '/'
+      routerBasename: window.location.pathname || '/',
+      // default: ''
+      relativeWebWorkerScriptsPath: '',
+      servers: {
+        dicomWeb: [
+          {
+            name: 'local dicomweb-server-js',
+            
+            wadoUriRoot: 'http://localhost:5985',
+            qidoRoot: 'http://localhost:5985',
+            wadoRoot: 'http://localhost:5985',
+            qidoSupportsIncludeField: true,
+            imageRendering: 'wadors',
+            thumbnailRendering: 'wadors',
+          },
+        ],
+      },
+    }
+	</script>
+
+<!--	<script src="https://unpkg.com/ohif-viewer@0.1.17/dist/index.umd.js" crossorigin></script> -->
+  	<script src="https://unpkg.com/ohif-viewer/dist/index.umd.js" crossorigin></script>
+	<script>
+		var Viewer = window.OHIFStandaloneViewer.App;
+    var app = React.createElement(Viewer, window.config, null);
+
+    ReactDOM.render(app, document.getElementById("root"));
+    </script>
+    </body></html>

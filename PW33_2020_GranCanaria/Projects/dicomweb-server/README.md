@@ -32,8 +32,23 @@ This project aims to build on prototype [lightweight DICOM server that was devel
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+Hans tested the server successfully, in order to try out DICOMWeb and get a feel for what's possible and how to integrate with other tools. Here's one quick guide on how to possibly reproduce:
 
+* Hans used CouchDB via Docker (Steve & Emel recommended running [PouchDB](https://pouchdb.com/guides/setup-pouchdb.html) via NodeJS):
+
+      docker run --rm -d --name couchdb -p 5984:5984 apache/couchdb
+
+  (This is for one-off experiments; one should really mount a DB directory.)
+
+* The [dicomweb-server-js README](https://github.com/dcmjs-org/dicomweb-server/blob/master/README.md) contains instructions on how to start the server and index DICOM files via the Python [dicomweb_client](https://github.com/clindatsci/dicomweb-client).
+
+* Subsequently, one may test the Rest API directly (e.g. via [httpie](https://httpie.org) on the default port 5985), look at the underlying CouchDB (UI at http://localhost:5984/_utils), or try the OHIFViewer.
+
+  * [test_ohifviewer.html](test_ohifviewer.html) is a standalone file with the necessary JS snippet to configure an OHIFViewer. Adapt the URLs to your server if necessary.
+  * Use a HTTP server to serve that file and show it in a browser:
+
+        python -m http.server 9000
+        xdg-open http://localhost:9000/test_ohifviewer.html
 
 
 # Illustrations
