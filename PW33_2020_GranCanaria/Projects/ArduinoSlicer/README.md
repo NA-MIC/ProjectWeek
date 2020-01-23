@@ -9,6 +9,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mike Halle (Brigham and Women’s Hospital and Harvard Medical School, USA)
 - Steve Pieper (Isomics, USA)
 - Attila Nagy (University of Szeged, Szeged, Hungary)
+- Badiaa Ait Ahmed (University Abdelmalek Essaâdi, Morocco)
+- Nayra Pumar Carreras (University of Las Palmas de Gran Canaria, Spain)
+- Attila Nagy (Faculty of Medicine, University of Szeged, Hungary)
 - Everyone else is interested in
 
 # Project Description
@@ -35,9 +38,9 @@ It can be useful for students and for not complex data/instruction stream.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Interesting discussion with people interested in/expert
+2. Decided to not use SlicerIGT
+1. Wrote the first layer of code (thanks to Andras!)
 
 # Illustrations
 
