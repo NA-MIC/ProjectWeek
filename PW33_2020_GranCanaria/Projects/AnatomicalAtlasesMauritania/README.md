@@ -52,7 +52,7 @@ These atlases and their creation process will be used as training material in th
 # Illustrations
 
 <!-- [![Watch the video](Osteology.jpg)](https://www.youtube.com/watch?v=eQMNyAurvVo).
-<!-- [![Watch the video](Volumetry.jpg)](https://www.youtube.com/watch?v=eQMNyAurvVo).
+!-- [![Watch the video](Volumetry.jpg)](https://www.youtube.com/watch?v=eQMNyAurvVo).
 
 # Background and References
 
