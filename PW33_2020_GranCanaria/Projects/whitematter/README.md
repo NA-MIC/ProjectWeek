@@ -34,7 +34,7 @@ Next steps are to run correlations on data from ~20 people with schizophrenia an
 
 ## Illustrations
 ![Test Caption](dMRI_PW33.png)
-Example image
+Potential white matter tracts of emotional awareness.
 
 ## Background and References
 
