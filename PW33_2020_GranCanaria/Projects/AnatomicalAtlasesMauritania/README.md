@@ -49,7 +49,7 @@ These atlases and their creation process will be used as training material in th
 1. Files to be uploaded to our server with the open anatomy browser are to be created
 1. It is a challenge to gather quality images to be segmented, so a main interest point for us is to gather these images for different parts of the body normal and with some kind of pathology to be segmented
 
-# Illustrations
+# Illustrations / Videos
 
 [![Watch the video](Osteology.png)](https://youtu.be/ebq-JGSpQFQ)
 [![Watch the video](Volumetry.png)](https://youtu.be/doHPfGZoqow)
