@@ -40,7 +40,8 @@ It can be useful for students and for not complex data/instruction stream.
 
 1. Interesting discussion with people interested in/expert
 2. Decided to not use SlicerIGT
-1. Wrote the first layer of code (thanks to Andras!)
+3. Wrote the first layer of code (thanks to Andras!)
+   https://github.com/pzaffino/SlicerArduinoController
 
 # Illustrations
 
