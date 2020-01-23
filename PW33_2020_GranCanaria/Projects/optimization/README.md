@@ -30,9 +30,8 @@ One good example where this approach is useful is restoring rotation invariance 
 1. Introduce a tool for analysis of signal distributions on a sphere to the diffusion MRI community.
 2. Provide a tool for visualization of 3D point distributions.
 
-## Approach and Plan
-
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+<!-- ## Approach and Plan  
+Describe here HOW you would like to achieve the objectives stated above. -->
 
 <!-- 1. Discuss / demo the CMB platform
 2. Integrate ITK into the CMB plaform
