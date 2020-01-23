@@ -43,23 +43,17 @@ Next steps:
 
 # Illustrations
 <img src="Diagrama2.png" width="652" height="356"> 
-<br>
 Fig. 1: Architecture (original figure at the beginning of workshop) .
-</p>
 </p>
   
 
 <img src="Diagrama3.png" width="782" height="427"> 
-<br>
 Fig. 2: System architecture (detail).
-</p>
 </p>
 
 
 <img src="3D-Slicer-4.11.0-2019-06-24-2020-01-23-18-32-24.gif" > 
-<br>
 Fig. 3: Operation example. Microcontroller is turned on and off by sending TCP/IP commands.
-</p>
 </p>
 
 
