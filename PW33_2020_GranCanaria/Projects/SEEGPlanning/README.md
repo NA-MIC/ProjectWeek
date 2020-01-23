@@ -29,12 +29,12 @@ In our center, since the end of 2017, surgery is conducted with the Rosa robot. 
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Two modules dedicated to SEEG procedures (preOp :epi-Plan and postOp : epiloc-view) are now in 3D Slicer 4.11
+2. new feature : Spin around un axe avaiable from the widget epi-Plan 
+3. Much remains to be done.  SEEG procedure : add new features to fuse new modalities. DBS modules still in 3D Slicer 4.8 ...
 
 # Illustrations
-[StereoPlan](exPlanning2.png)
+[StereoPlan in 3D Slicer 4.11 - 1](epiPlanMarkups720.mov)
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
