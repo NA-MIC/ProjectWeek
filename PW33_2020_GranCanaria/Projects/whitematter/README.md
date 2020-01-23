@@ -33,8 +33,10 @@ We held discussions and refined our hypothesis of which white matter tracts to f
 Next steps are to run correlations on data from ~20 people with schizophrenia and matched controls.
 
 ## Illustrations
-![Test Caption](dMRI_PW33.png)
+
 Potential white matter tracts of emotional awareness.
+![Test Caption](dMRI_PW33.png)
+
 
 ## Background and References
 
