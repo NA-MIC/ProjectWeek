@@ -42,9 +42,12 @@ We will test this on large public data sets.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. SIFT RANK descriptors: 64 dimensions, same length, positive orthant
+1. Strategy: use Euclidean LSH in subspace orthogonal to : [1,1,1.....]
+1. Initial Python implementation of Euclidean LSH [1] for 3D SIFT RANK
+1. Initial evaluation on 400K features from 250 3D Scans from TCIA
+1. Approximate Nearest Neighhbor working, retrieved .2% percentile closest (0 would be perfect)
+1. [1] Datar M, Immorlica N, Indyk P, Mirrokni VS. Locality-sensitive hashing scheme based on p-stable distributions. InProceedings of the twentieth annual symposium on Computational geometry 2004 Jun 8 (pp. 253-262)
 
 # Illustrations
 
