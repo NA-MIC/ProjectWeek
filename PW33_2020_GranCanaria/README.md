@@ -69,7 +69,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Slicer iMSTK Integration](Projects/SlicerIMSTK/README.md) (Sam Horvath)
 
-* [Arduino Slicer](Projects/ArduinoSlicer/README.md) (Paolo Zaffino, Andras Lasso, Mike Halle, James Petts, Steve Pieper, Attila Nagy)
+* [Arduino Slicer](Projects/ArduinoSlicer/README.md) (Paolo Zaffino, Andras Lasso, Mike Halle, Steve Pieper, Attila Nagy, Badiaa Ait Ahmed, Nayra Pumar Carreras, Attila Nagy)
 
 * [NIRS device OpenIGTLink interface](Projects/NIRSOpenIGTLink/README.md) (David Díaz Martín, Francisco Marcano Serrano, José Luis González Mora, Juan Ruiz-Alzola)
 
