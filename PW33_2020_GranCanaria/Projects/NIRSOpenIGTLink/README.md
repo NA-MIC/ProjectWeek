@@ -56,7 +56,7 @@ Fig. 2: System architecture (detail). NIR light sensors/sources modules were not
 
 
 <img src="3D-Slicer-4.11.0-2019-06-24-2020-01-23-18-32-24.gif" > 
-Fig. 3: Operation example. Microcontroller is turned on and off by sending TCP/IP commands.
+Fig. 3: Operation example.  In ImagerClient is running in the red window. TrackerClient is running in 3D window. Microcontroller is turned on ("operationmode" command) and off ("commandmode") by sending TCP/IP commands. TrackerClient receive position data when microcontroller is on.  
 </p>
 <br>  
 <br>  
