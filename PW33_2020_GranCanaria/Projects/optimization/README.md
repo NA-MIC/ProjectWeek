@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 Hans Knutsson, Carl-Fredrik Westin
 
-Linkoping University, Sweden
+Linkoping University, Sweden\\
 Radiology, Brigham and Women’s Hospital, Boston, MA, US
 Harvard Medical School, Boston, MA, US
 
