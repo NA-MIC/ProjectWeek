@@ -35,6 +35,10 @@ In our center, since the end of 2017, surgery is conducted with the Rosa robot. 
 
 # Illustrations
 [StereoPlan in 3D Slicer 4.11 - 1](https://youtu.be/wsMNNrVeMs8)
+
+[StereoPlan in 3D Slicer 4.11 - 2](https://youtu.be/ybS1HfrOWRE)
+
+
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
