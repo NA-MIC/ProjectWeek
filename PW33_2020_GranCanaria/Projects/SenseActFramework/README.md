@@ -60,17 +60,9 @@ ideas, and to hopefully add some more things to this project which will be usefu
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
-
-# Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+1. Many great conversations were had with stakeholders and interested community members.
+2. A priority list has been created for the features which will go into SenseAct. Once the framework is made public we will place the link below!
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+Check back for a link to the source code once it is made public!
