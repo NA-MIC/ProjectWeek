@@ -61,21 +61,28 @@ specifically planes.
 
 ## Progress
 ![Premasked](images/preMaskedPCD.png)
-Original depth map. This point cloud is dense populated and contains several noisy points.
+***Original depth map. This point cloud is dense populated and contains several noisy points.***
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 ![ROI](images/maskedPCD.png)
-Region of interest obtained from the segmentation of Deep Learning in the RGB image. The number of points has been reduced, but still contains noise points.
+***Region of interest obtained from the segmentation of Deep Learning in the RGB image. The number of points has been reduced, but still contains noise points.***
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 ![Compare](images/comparativeUnmasked&Masked.png)
-Comparison between the two images mentioned above.
+***Comparison between the two images mentioned above.***
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+![ResultPCD](images/resultPCD.png)
+***Feet Segmentation module result. The point cloud visualization is just representative and that result has to be represented as image*** (Work in Progress) ***to be used as a mask in the thermal image.***
 
 
 # Background and References
