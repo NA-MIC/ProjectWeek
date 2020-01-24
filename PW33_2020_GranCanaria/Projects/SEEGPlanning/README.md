@@ -57,6 +57,7 @@ S. Fernandez Vidal, V. Frazzini, V. Lambrecq, V. Navarro,D. Dormont, B. Mathon, 
 E. Bardinet and  D. Hasboun. WSSFN 2019.
 
 
-![Very  helpfull : migration doc](https://www.slicer.org/wiki/Documentation/Nightly/Developers/Tutorials/MigrationGuide/Slicer#Markups)
+Very  helpfull : migration doc
+ ==>>  [migration doc]  (https://www.slicer.org/wiki/Documentation/Nightly/Developers/Tutorials/MigrationGuide/Slicer#Markups)
 
 
