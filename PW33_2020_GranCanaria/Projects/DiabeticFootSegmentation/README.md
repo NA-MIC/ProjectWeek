@@ -91,3 +91,5 @@ specifically planes.
 
 [2] [TorchScript tutorial](https://pytorch.org/tutorials/beginner/Intro_to_TorchScript_tutorial.html)
 
+[3] [Diabetic Foot Extension](https://github.com/SolidusAbi/DiabeticFootExtension). Repository with the extension that includes the "SuperBuild" option and the developed module.
+
