@@ -49,7 +49,8 @@ List other requirements:
 
 ## Progress and Next Steps
 
-1.
+1. Implemented downloading of DICOM data to local Slicer from browser using dicomweb
+https://youtu.be/FMIdAzQlKw8 
 
 ## Background and References
 
