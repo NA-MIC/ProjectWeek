@@ -39,9 +39,12 @@ It can be useful for students and for not complex data/instruction stream.
 
 1. Interesting a breakout session, discussing with experts and people interested in
 2. We decided to not use SlicerIGT to keep it as simple as possible
-3. The first layer of code was written (thanks to Andras!)
+3. We decided to create an extension with multiple modules inside
+4. The first layer of code was written (thanks to Andras!)
 
    https://github.com/pzaffino/SlicerArduinoController
+   
+5. The next step will be to refine the link module and to start writing more modules (one for each possible application).
 
 # Illustrations
 
