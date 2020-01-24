@@ -45,12 +45,17 @@ We aiming at developing an affordable ultrasound navigation system for breast bi
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 -->
-![Some more images](breastPhantom.png)
+![Phantom](breastPhantom.png)
 Custom breast phantom.
 <br/>
 <br/>  
-![Some more images](positionTracking.jpg)
+![Tracking](positionTracking.jpg)
 OptiTrack V120:Duo position tracking system.
+<br/>
+<br/>  
+![System](systemAndPhantoms.jpg)
+US Nav system. Test of position-tracking of tools and phantom ecogenicity.
+
 
 
 # Background and References
