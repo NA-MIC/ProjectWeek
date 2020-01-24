@@ -80,5 +80,8 @@ The use of 3D tools to draw and delimit brain sulci depends on freesurfer input 
 # Background and References
 
 https://github.com/PerkLab/SlicerFreeSurferImporter
+
 http://www.freesurfer.net/pub/docs/wiki/mris_pmake.help.xml.html
+
+https://github.com/PerkLab/NeuroSegmentation/tree/version_control
 
