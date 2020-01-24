@@ -41,8 +41,9 @@ Investigate the possibilities of portig Slicer to Android, to be used in a Deskt
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
+![The configure stage](example_arm64_conf.PNG)
+![The build](example_arm64_build.PNG)
+![The app on the phone screen](Screenshot_20200124-110002.jpg)
 -->
 
 # Background and References
