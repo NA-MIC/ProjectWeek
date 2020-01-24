@@ -49,6 +49,10 @@ List other requirements:
 
 ## Progress and Next Steps
 
+1. Significant discussion to build on [previous project week work](https://projectweek.na-mic.org/PW31_2019_Boston/Projects/OHIFPluginArchitecture/) with additional use cases:
+    1. Generalized from OHIF to other launch options (see Kheops, Mevis, and ePad projects).
+    1. Generalized to running local Slicer in addition to option of launching cloud instances
+    1. Performed testing with dicomweb-server DICOMweb interfaces
 1. Implemented downloading of DICOM data to local Slicer from browser using dicomweb
 [![https://youtu.be/FMIdAzQlKw8](SlicerDICOMURLYoutube.png "3D Slicer: Downloading DICOM datasets from browser")](https://youtu.be/FMIdAzQlKw8)
 1. Implemented OHIF extension to start google VM running Slicer container ([WIP implementation](https://gist.github.com/pieper/658731a7ef77231711c651ec622a6432)) for presentation at [NAC meeting](http://nac.spl.harvard.edu)
