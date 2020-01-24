@@ -44,6 +44,8 @@ These atlases and their creation process will be used as training material in th
 ![Overview of the segmentation](git1.png)
 ![Detail of the male abdomen segmentation](git2.png)
 
+![Male abdomen segmentation WIP](SlicerCapture.mp4)
+
 
 # Background and References
 
