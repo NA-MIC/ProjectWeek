@@ -48,6 +48,7 @@ We will test this on large public data sets.
 1. Initial evaluation on 400K features from 250 3D Scans from TCIA
 1. Approximate Nearest Neighhbor working, retrieved .2% percentile closest (0 would be perfect)
 1. [1] Datar M, Immorlica N, Indyk P, Mirrokni VS. Locality-sensitive hashing scheme based on p-stable distributions. InProceedings of the twentieth annual symposium on Computational geometry 2004 Jun 8 (pp. 253-262)
+1. Features extracted for 17k TCIA volumes (~1TB volumes => 20GB features (98% data reduction)
 
 # Illustrations
 
