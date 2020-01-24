@@ -8,7 +8,7 @@ Back to [Projects List](../../../PW32_2019_London_Canada/README.md#ProjectsList)
 
 # Project Description
 
-For this project, we are working on improving the 3D Slicer integration with IMSTK  
+For this project, we are working on improving the 3D Slicer integration with IMSTK
 
 ## Objective
 
@@ -16,14 +16,19 @@ Our goal for project week is to improve the current extensions focusing on makin
 
 ## Approach and Plan
 
-1. Rrfactor existing code to make all functions available for python wrapping
+1. Refactor existing code to make all functions available for python wrapping
 2. Improve support for mesh insteractions
 3. Design demo based on probing a mesh with a tool
 
 ## Progress and Next Steps
 
+1.  Python wrapping currently not possible with existing code structure - needs more work
+2. Worked on updating the old needle insertion code to newer imstk versions
+
 
 # Illustrations
+
+[Progress!!](Capture1.png)
 
 
 # Background and References
