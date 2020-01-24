@@ -25,7 +25,7 @@ The aim is to create a friendly customized interface for monitoring the foot ulc
 1. Integration of the cameras in Plus toolkit or 3d Slicer module.
 1. Face some challenges:
    1. Performance relation with 3D Slicer and Plus toolkit in real time
-   1. Running and stoping Plus server from 3D Slicer
+   1. Running and stopping Plus server from 3D Slicer
    1. The image definition is not adjustable
    1. The error when the Slicelet-based aplication is closed
    1. Saving the images (orientation) in several format files (PNG, TIFF, DICOM)
@@ -46,6 +46,14 @@ The aim is to create a friendly customized interface for monitoring the foot ulc
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+
+We addressed our challenges with 3D Slicer and Plus community. The collaboration with the community, along this week has been quite succesfull and our project has achieve several goals.
+1. We have resolved our running and stopping problem with the Plus server thanks to Kyle.
+1. The leak issue when the customized application is closed was disccussed with Jean. He recommended following the current slicelet web page because the current implentation is old-fashion.
+1. We talked with several colleages about the image orientation when the image is serializated in 3D slicer. Finally, we resolved this issue taking into account the image orientation generated in Plus toolkit.  
+1. The perfomannce was analyzed with the community but the final solution need further discution so it will be a goal for the next project week. During that, a solution is that using low frame rate. 
+1. We need to evaluate the solution (combined images in different layers) that we found in the slicer script repository.
+1. The window/level volumen should be analyzed to performance automatically in real-time volumen. We discussed several solution with the community. 
 
 
 # Illustrations
