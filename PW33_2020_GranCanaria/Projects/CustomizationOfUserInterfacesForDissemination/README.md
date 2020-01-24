@@ -35,8 +35,10 @@ This project aims at creating a minimal user interface oriented to museological 
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 <!-- Describe specific steps you **have actually done**. -->
-1. Graphical adaptation of the interface: insertion of the museum logos, spanish translation of the interface and use of the museum corporate colors
-1. ...
+1. A very simple tailor-made GUI for the dissemination of aboriginal mummies in museums has been created, including spanish translation and the insertion of the museum logos and corporate colors
+1. The implementation of the graphic interface was complete creating a new custom application using the Slicer template. The whole interface has been designed to be easy to use and user-proof
+1. Performance issues were resolved from the first Slicelet based approach. Improvements include the avoidance of the redundant canvas of the Slicer instance running in the background and the loading of unnecessary modules and extensions
+1. A first strategy to connect Arduino platform to Slicer via PLUS Generic serial device was tested. The sending of commands from the Slicer to check the status of the actuators connected to Arduino was completed, while a robust and appropriate reception for the reception of the Arduino response has not yet been implemented.
 
 # Illustrations
 
