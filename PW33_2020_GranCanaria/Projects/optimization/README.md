@@ -2,31 +2,23 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Software for finding optimal weigths for extracting Spherical Harmonics components from a spherical distribution.
 
-## Key Investigators
-
-### Hans Knutsson, Carl-Fredrik Westin
-
+## Key Investigators  
+## Hans Knutsson, Carl-Fredrik Westin  
 Linkoping University, Sweden  
 Radiology, Brigham and Women’s Hospital, Boston, MA, US  
 Harvard Medical School, Boston, MA, US
 
-## Corresponding author:
-
+## Corresponding author:  
 Hans Knutsson (hans.knutsson@liu.se )
 
-# Project Description
-
-<!-- Add a short paragraph describing the project. -->
-
+# Project Description  
 The goal of this project is to provide a tool for finding optimal weigths for extracting Spherical Harmonics components from a spherical distribution. The set of coordinades on the sphere can be given as input or chosen from one of a number of precomputed sets.
 
 One good example where this approach is useful is restoring rotation invariance of diffusion MRI estimators in the presence of missing or corrupted measurements 
 
 
-## Objective
-
+## Objective  
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
 1. Introduce a tool for analysis of signal distributions on a sphere to the diffusion MRI community.
 2. Provide a tool for visualization of 3D point distributions.
 
