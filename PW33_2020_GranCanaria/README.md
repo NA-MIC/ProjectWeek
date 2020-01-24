@@ -75,7 +75,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [NIRS device OpenIGTLink interface](Projects/NIRSOpenIGTLink/README.md) (David Díaz Martín, Francisco Marcano Serrano, José Luis González Mora, Juan Ruiz-Alzola)
 
-* [Slicer Sense-Act Framework](Projects/SenseActFramework/README.md) (Mark Asselin, Gernot Kronreif, Andras Lasso)
+<!--* [Slicer Sense-Act Framework](Projects/SenseActFramework/README.md) (Mark Asselin, Gernot Kronreif, Andras Lasso)-->
 
 ### Clinical applications
 
