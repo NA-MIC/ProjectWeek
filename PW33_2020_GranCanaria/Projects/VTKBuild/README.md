@@ -23,7 +23,7 @@ Slicer is currently stuck on an old version of VTK (2018/10), which prevents us 
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Start from Andras' work-in-progress [branch](https://github.com/Slicer/Slicer/pull/1252)
+1. Start from Andras' [work-in-progress](https://github.com/Slicer/Slicer/pull/1252) [branch](https://github.com/lassoan/Slicer/tree/build-with-vtk89)
 1. Continue from there...
 
 ## Progress and Next Steps
