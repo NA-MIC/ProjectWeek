@@ -29,7 +29,7 @@ In our center, since the end of 2017, surgery is conducted with the Rosa robot. 
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Two modules dedicated to SEEG procedures (preOp :epi-Plan and postOp : epiloc-View) are now in 3D Slicer 4.11
+1. Migration : Two modules dedicated to SEEG procedures (preOp :epi-Plan and postOp : epiloc-View) are now in 3D Slicer 4.11
 2. new feature : Spin around un axe avaiable from the widget epi-Plan (reformat Slice2RASMAtrix) == !! keyword shortcut (mac: command+option+drag)
 3. Much remains to be done.  SEEG procedure : add new features to fuse new modalities. DBS modules still in 3D Slicer 4.8 ...
 
