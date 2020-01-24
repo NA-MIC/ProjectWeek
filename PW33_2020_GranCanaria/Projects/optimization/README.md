@@ -30,7 +30,7 @@ Describe here HOW you would like to achieve the objectives stated above. -->
 4. Basic thresholding -->
 
 <!--## Progress and Next Steps-->
-## Progress  (w 33)  
+## Progress  (pw 33)  
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 1. Made project page nicer.  
 2. Added link to hansknutsson GitHub.  
