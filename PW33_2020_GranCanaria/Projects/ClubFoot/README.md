@@ -37,11 +37,48 @@ daily living for families with plastic instead of plaster casts.
 
 ## Method (SSM)
 
-![Method (SSM)](SSM.png) 
+![Method (SSM)](SSM.png)
 
 ## Evaluation
 
 ![Measurements](Measurements.png)
+
+## Progress and Next Steps
+
+### Approach #1: SSM
+
+- #### Task #1: Model Building  
+  - Using SlicerSALT 'ShapeVariationAnalyzer' module
+
+- #### Task #2: Model Fitting
+  - Implementing a new module to change shape modes
+
+![PCA](PCA.gif)
+
+- #### Task #3: Evaluation
+
+![Evaluation](Evaluation.png)
+
+<p style='background-color:black;height:1px' />
+
+### Approach #2: Trajectory of foot correction
+
+- #### Normalizing cast models in respect to shin
+- #### Cropping the foot section
+- #### Finding oriented bounding box and transformation matrix
+  - Using 'vtkOBBTree.ComputeOBB'
+
+<center>
+
+| Stage 0 | Stage 1 | Stage 2 | Stage 3 | Stage 4 | Stage 5 |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| <img src='0.png' width="150" /> | <img src='1.png' width="150" /> | <img src='2.png' width="150" /> | <img src='3.png' width="150" /> | <img src='4.png' width="150" /> | <img src='5.png' width="150" /> |
+
+</center>
+
+- #### Transformation interpolation to get new models
+  
+![Transform-Interpolation](Transform-Interpolation.gif)
 
 # Illustrations
 
