@@ -27,25 +27,24 @@ version, fix known bugs and create a 3D Slicer extension.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objeoctive A. Update modules to work on the latest Slicer.
-2. Objective B. Fix known bugs.
-3. Objective C. Create 3D Slicer extension.
+1. Objective A. Design a new module layout.
+2. Objective B. Refactor old module elements using modern 3D Slicer infrastructure (Terminologies, Markups,...).
+3. Objective C. Make a plan to integrate generic tools into 3D Slicer infrastructure.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Update modules to Qt5 and test against latest 3D Slicer released
-2. Review and check of DisplayableManager for the planning module 
-3. Create and register a 3D Slicer extension 
+1. Creation of a 3D Bezier Markup.
+2. Meetings to decide on an integration strategy. 
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. A prototype of a new Markup (3D Bezier surface) has been developed.
+2. Plan to extend 3D Slicer infrastructure to allow third-party modules to register markups.
+3. Plan to develop a module and extend 3D Slicer with the generic tools (3D deformable surface markup).
 
 # Illustrations
 
