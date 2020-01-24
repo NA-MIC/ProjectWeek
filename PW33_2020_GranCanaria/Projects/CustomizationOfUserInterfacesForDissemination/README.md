@@ -5,9 +5,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Guillermo Valentín Socorro-Marrero (University of Las Palmas de Gran Canaria)
+- Abián Hernández-Guedes (University of Las Palmas de Gran Canaria)
 - Nayra Pumar Carreras (University of Las Palmas de Gran Canaria)
 - José-Carlos Ruiz-Luque (Instituto de Astrofísica de Canarias)
-- Abián Hernández-Guedes (University of Las Palmas de Gran Canaria)
 - Juan Ruiz-Alzola (University of Las Palmas de Gran Canaria and Instituto de Astrofísica de Canarias)
 
 # Project Description
