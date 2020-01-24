@@ -25,8 +25,8 @@ Open dockerized Slicer from ePad, open segmentation plugin and save the segmetat
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Leverage the work done in Boston hackfest 2016 and update it to align with new dicomweb server
-1. ...
-1. ...
+1. Trigger Slicer CIP plugin
+1. Get the segmentations back
 
 ## Progress and Next Steps
 
@@ -36,6 +36,8 @@ Open dockerized Slicer from ePad, open segmentation plugin and save the segmetat
 1. Generalize plan to work with locally running Slicer with Chronicle enabled (same code will work with cloud Slicer with or without docker container)
 1. Update json job request file format
 1. Test with local dicomweb-server
+1. Add a button to ePad to trigger Slicer using Slicer Chronicle
+1. Generate Slicer Chronicle JSON to trigger CIP and send to segmentation-server
 
 # Illustrations
 
@@ -43,6 +45,7 @@ Open dockerized Slicer from ePad, open segmentation plugin and save the segmetat
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+[Slicer button in ePad](ePadSlicer.jpg)
 
 # Background and References
 
