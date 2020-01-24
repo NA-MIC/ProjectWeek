@@ -32,7 +32,8 @@ Slicer is currently stuck on an old version of VTK (2018/10), which prevents us 
 
 1. Rebase to latest Slicer
 1. [Fix](https://github.com/cpinter/CTK/tree/build-with-vtk89) CTK errors
-1. Fix some of the errors in Slicer
+1. [Fix](https://github.com/cpinter/MultiVolumeExplorer/tree/build-with-vtk89) MultiVolumeExplorer errors
+1. [Fix](https://github.com/cpinter/Slicer/tree/build-with-vtk89) some of the errors in Slicer
 
 # Illustrations
 
