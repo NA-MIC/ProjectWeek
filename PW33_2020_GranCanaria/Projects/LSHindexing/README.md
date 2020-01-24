@@ -55,6 +55,7 @@ We will test this on large public data sets.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![LSH Concept image](LSH-diagram.jpg)
 
 # Background and References
 
