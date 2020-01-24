@@ -4,6 +4,14 @@ This breakout aims to identify the current state of VR capabilities in Slicer, i
 
 ## Attendees
 1. Adam Rankin (Robarts Research Institute)
+1. Andras Lasso (Queen's University)
+1. Sam Horvath (Kitware, Inc.)
+1. JCFR (Kitware, Inc.)
+1. Csaba Pinter (Ebatin S.L.)
+1. Steve Pieper (Isomics Inc.)
+1. Thomas Muender (University of Bremen)
+1. Verena Reinschluessel (University of Bremen)
+1. Thomas Mildner (University of Bremen)
 
 ## Current State
 VR is currently available in Slicer out-of-the-box via the [SlicerVirtualReality](https://github.com/KitwareMedical/SlicerVirtualReality) extension. This extension uses the VTK OpenVR interface that provides input, tracking, and visualization capabilities. To use this, [Steam](https://store.steampowered.com/) and [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) must be installed and running (SteamVR installed from within Steam).
@@ -65,3 +73,31 @@ Even once input methods have been decided, interaction guidelines for input are 
 * ?
 
 ## Minutes
+* Introduction and meeting motivation - Adam Rankin
+* Adam initiates a discussion on the current state of VR in Slicer
+  * Csaba Pinter discussing his latest work in VR UI
+    * Implementation able to render Qt widgets directly in VR
+      * Custom patches required to update VTK version used by Slicer
+      * Branch available at https://github.com/cpinter/SlicerVirtualReality/tree/virtual-widget/VirtualReality
+  * Steve inquires as to the state of text renderering in VR
+    * Ensuing discussion regarding different approaches of rendering text
+    * Slicer currently using 2D actor for fiducial markup label
+  * Adam inquires Csaba as to progress regarding input into VR rendered QWidget - see work by Ken Martin (Kitware Inc.)
+* Adam initiates discussion regarding development of VR widget library
+  * Csaba explains the state of his SlicerVR widgets
+  * Control panel type widget, with a few different views
+    * Home view
+    * Subject hierarchy view
+    * App view
+* Steve inquires to UBremen attendees as to the state of their Slicer<->Unity VR project
+  * Demonstration and discussion follow
+  * HTC Vive, Steam Index HMD used by UBremen group
+* Adam initiates discussion on input methods
+  * Gaze tracking - generally agreed to be a good direction to pursue - An example by David Garcia - https://github.com/PerkLab/EyeTracking
+  * Voice input - Andras explains their poor success in OR environment, multiple people comment on detection accuracy with accents, Andras comments that an XBox controller in a sterile bag was much more effective than both voice and gesture input
+  * Hand gestures - Andras explains that gesture input is also not intuitive, hard to remember/learn for participating clinicians
+* Adam puts out a call for recommended development directions
+  * Generally agreed that a library of widgets in VR is most needed
+  * Andras thinks that AR is promising, but more accurate object tracking needed (possibly develop a new image analysis method of depth cameras)
+  * Hand tracking of value, but high accuracy finger tracking required
+  * Eye tracking - good for multi-user interaction and realistic collaboration environments
