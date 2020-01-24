@@ -40,7 +40,7 @@ Describe here HOW you would like to achieve the objectives stated above. -->
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-https://github.com/hansknutsson/HK_library_test/blob/master/Complementary_material/Opt_SPH_fig1.jpg
+![alt text](https://github.com/hansknutsson/HK_library_test/blob/master/Complementary_material/Opt_SPH_fig1.jpg)
 
 This figure shows the result of the weight optimization for the case of 120 uniformly distributed orientations with 12 missing measurements. The rows show results for spherical harmonic degrees 0, 2 and 4. Colors indicate filter weight values, blue is most positive and red is most negative. The missing measurement locations are shown in white. 
 
