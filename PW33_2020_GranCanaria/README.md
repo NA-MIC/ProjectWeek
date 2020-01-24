@@ -61,7 +61,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [ePad / Slicer Bridge and Segmentation Plugin](Projects/ePadSlicer/README.md) (Emel Alkim, Steve Pieper)
 
-* [Evaluation of ModelHub.ai](Projects/modelhub-ai/README.md)
+* [Evaluation of ModelHub.ai](Projects/modelhub-ai/README.md) (Hans Meine)
 
 ### IGT
 

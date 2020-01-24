@@ -45,6 +45,9 @@ project seems to be very well thought-through and documented, and recently got i
 * Evaluation of *deep-prognosis*
   * takes a 150x150x150 numpy array file in .npy format (again as form-encoded POST request)
   * the linked paper mentioned a 50x50x50 ROI, so there was a discrepancy, but the API gave clear requirements *before* running the model and a clear error message when feeding input of the wrong size
+* Conclusions on http://modelhub.ai
+  * was really not much work to get running
+  * not many models available today, but nice open platform
 
 # Illustrations
 
