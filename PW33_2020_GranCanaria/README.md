@@ -128,6 +128,8 @@ Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badi
 
 * [SlicerAIGT](Projects/SlicerAIGT/README.md) (Gabor Fichtinger, Andras Lasso, Kyle Sunderland)
 
+* [Annotation and Interoperability with DICOM SEG and MeVisLab](Projects/MEVISDraw/README.md) (Hans Meine, Steve, Erik, James, Marco)
+
 ## Breakout sessions
 
 * [Slicer 5](Breakouts/Slicer5/README.md) (Sam Horvath, Andras Lasso, JC, Csaba Pinter, Stebe Pieper, all welcome)
