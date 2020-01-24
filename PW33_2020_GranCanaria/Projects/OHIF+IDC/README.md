@@ -39,7 +39,9 @@ Planning work for Imaging Data Commons work with OHIF Viewer technologies
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. ...
+1. Demo of current OHIF implementation
+1. Discussion of priorities and development paths
+1. General agreement that things are developing well and no changes in plan are needed (just more hard work!)
 
 # Illustrations
 
