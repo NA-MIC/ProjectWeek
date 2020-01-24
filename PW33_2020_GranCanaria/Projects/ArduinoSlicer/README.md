@@ -11,6 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Attila Nagy (University of Szeged, Szeged, Hungary)
 - Badiaa Ait Ahmed (University Abdelmalek Essaâdi, Morocco)
 - Nayra Pumar Carreras (University of Las Palmas de Gran Canaria, Spain)
+- Mark Asselin (ACMIT Gmbh / Queen’s University, Canada)
 - Everyone else is interested in
 
 # Project Description
