@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - [James A Petts][james] ([Radical Imaging][radical], [Ovela Solutions][OvelaSolutions])
-- [Danny Brown][danny] ([Radical Imaging][radical])
+- [Danny Brown][danny] ([Radical Imaging][radical]) - Remote
 - [Erik Ziegler][erik] ([Radical Imaging][radical])
 
 ## Description
@@ -48,6 +48,8 @@ Progress:
   - vtkjsToolsMPRZoomManipulator
 4. Make appropriate events fire to an eventWindow on the viewport. The eventWindow can be interacted with internally or accessed through the react-vtkjs-viewport's API, allowing a parent application to consume and react to these events.
 5. Most importantly an imageRendered event is fired when the viewport changes in a way that means the theoretical annotation layer (TBC) knows when to trigger an update.
+
+6. Also fixed a texture generation issue on painting segmentations in 3D in apps sharing data between cornerstone and vtkjs. https://github.com/cornerstonejs/cornerstoneTools/pull/1167
 
 Next Steps:
 
