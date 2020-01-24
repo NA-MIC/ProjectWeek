@@ -71,6 +71,12 @@ Figure 1. The current Silelet-based GUI
 
 Figure2. Thermal and visible volumen
 
+<img src="NewInterface.png" width="800"/>
+
+Figure 3. The new GUI
+
+
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
