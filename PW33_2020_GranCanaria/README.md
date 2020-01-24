@@ -95,6 +95,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 * [Adapt an already existing workflow in maxillofacial reconstructive surgery to Slicer](Projects/WorkflowForMaxillo/readme.md) (Attila Nagy, András Lasso, Steve Pieper and whoever is interested)
 
+* [Sarcopenia Quantification in Abdominal MR Images](Projects/SarcopeniaQuantification/README.md) (Hans Meine, Mike Halle, Ron Kikinis)
+
 ### Education
 
 * [3DSlicer Training programs](Projects/3DSlicerTrainingPrograms/README.md) (Babacar Diao, Ahmedou Moulaye Idriss, Yahya Tfeil,
