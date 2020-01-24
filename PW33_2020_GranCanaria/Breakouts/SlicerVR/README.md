@@ -105,7 +105,7 @@ Even once input methods have been decided, interaction guidelines for input are 
     * Home view
     * Subject hierarchy view
     * App view
-* Steve inquires to UBremen attendees as to the state of their Slicer<->Unity VR project
+* Steve inquires to UBremen attendees as to the state of their [Slicer<->Unity VR](https://github.com/NA-MIC/ProjectWeek/blob/master/PW33_2020_GranCanaria/Projects/SlicerToUnity/README.md) project
   * Demonstration and discussion follow
   * HTC Vive, Steam Index HMD used by UBremen group
 * Adam initiates discussion on input methods
