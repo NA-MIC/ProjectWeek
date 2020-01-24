@@ -56,13 +56,6 @@ Current orienation state - incorrect
 ![Current orienation state - incorrect](cmb-no-overlap.png)
 
 
-Example of what correct orientation would look like
-![Example of what correct orientation would look like](cmb-overlap-0.png)
-
-
-Example of what correct orientation would look like
-![Example of what correct orientation would look like](cmb-overlap-1.png)
-
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
