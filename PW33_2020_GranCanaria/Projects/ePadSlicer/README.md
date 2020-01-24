@@ -45,7 +45,7 @@ Open dockerized Slicer from ePad, open segmentation plugin and save the segmetat
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-[Slicer button in ePad](ePadSlicer.jpg)
+[Slicer button in ePad](ePadSlicer.png)
 
 # Background and References
 
