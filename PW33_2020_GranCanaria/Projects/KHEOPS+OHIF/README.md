@@ -42,6 +42,7 @@ to make it possible to securly launch OHIF from KHEOPS using the Report Provider
 
 ## Progress and Next Steps
 
+(Project Week Demo)[https://demo.kheops.online/view/Ez4otjNCUgcgSIyMaeGlLs]
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 # Illustrations
