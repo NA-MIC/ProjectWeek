@@ -55,6 +55,10 @@ OptiTrack V120:Duo position tracking system.
 <br/>  
 ![System](systemAndPhantoms.jpg)
 US Nav system. Test of position-tracking of tools and phantom ecogenicity.
+<br/>
+<br/>  
+![detail](interfaceDetail.png)
+Detail of the user interface.
 
 
 
