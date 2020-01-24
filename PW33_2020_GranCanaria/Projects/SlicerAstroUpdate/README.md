@@ -41,8 +41,7 @@ Last two points will be addressed later on (tickets: [107][slicerastroissue107] 
 
 # Illustrations
 [![](https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/Screenshot-SlicerAstro-ProjectWeek2020.png)](http://www.youtube.com/watch?v=D-4G9lKVjaY "Wein069")
-
-![](https://https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/Screenshot-PVSLICE.png)
+<img src="https://https://raw.githubusercontent.com/Punzo/SlicerAstroWikiImages/master/Screenshot-PVSLICE.png" width="1920" height="1080">
 
 # Background and References
 SlicerAstro extends 3DSlicer to provide a 2D/3D interactive viewer for astronomical datasets with 3D interaction features,
