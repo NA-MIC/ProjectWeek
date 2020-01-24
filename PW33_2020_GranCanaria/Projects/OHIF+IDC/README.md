@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Erik Ziegler][erik] ([Radical Imaging][radical])
 - [James A Petts][james] ([Radical Imaging][radical], [Ovela Solutions][OvelaSolutions])
 - Steve Pieper
+- [Igor Octaviano][igor]([Radical Imaging][radical]) - Remote
 
 # Project Description
 
@@ -40,8 +41,9 @@ Planning work for Imaging Data Commons work with OHIF Viewer technologies
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Demo of current OHIF implementation
-1. Discussion of priorities and development paths
-1. General agreement that things are developing well and no changes in plan are needed (just more hard work!)
+2. Discussion of priorities and development paths
+3. General agreement that things are developing well and no changes in plan are needed (just more hard work!)
+4. Igor updated the UI so we can get on with segmentation development on the master branch of OHIF soon!
 
 # Illustrations
 
@@ -49,6 +51,9 @@ Planning work for Imaging Data Commons work with OHIF Viewer technologies
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+
+![SEG](https://i.imgur.com/xHgtYxC.png)
+![SEG2](https://i.imgur.com/6Lh8nic.png)
 
 # Background and References
 
@@ -62,4 +67,5 @@ Planning work for Imaging Data Commons work with OHIF Viewer technologies
 [radical]: http://radicalimaging.com/
 [james]: https://github.com/jamesapetts
 [erik]: https://github.com/swederik
+[igor]: https://github.com/igoroctaviano
 [OvelaSolutions]: https://www.ovelasolutions.com
