@@ -30,11 +30,15 @@ CMB is an open source platform for creating and running simulations based on 3D 
 1. Discuss / demo the CMB platform
 2. Integrate ITK into the CMB plaform
 3. Integrate display of oriented image data in VTK
-4. Basic thresholding 
+4. Basic thresholding
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+
+1. Integrated ITK image reader
+2. Integrated 3D Slicer display - no orientation yet
+3. Some productive discussion about Paraview vs. Slicer
 
 
 
@@ -44,6 +48,10 @@ CMB is an open source platform for creating and running simulations based on 3D 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+[Slices displayed in cmb](cmb-slices.png)
+[Current orienation state - incorrect](cmb-no-overlap.png)
+[Example of what correct orientation would look like](cmb-overlap-0.png)
+[Example of what correct orientation would look like](cmb-overlap-1.png)
 
 # Background and References
 
