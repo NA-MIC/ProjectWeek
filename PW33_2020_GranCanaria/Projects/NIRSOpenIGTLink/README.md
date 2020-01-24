@@ -61,7 +61,7 @@ Fig. 3: Operation example. ImagerClient is running in the red window. TrackerCli
 <br>  
 
 <img src="PICRASPIPROTO.jpg" width="800" height="600"> 
-Fig. 4: Hardware Setup used in the workshop.  
+Fig. 4: Hardware Setup used during the workshop.  
 </p>
 <br>  
 <br>  
