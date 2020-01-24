@@ -1,3 +1,19 @@
+- [Slicer VR](#slicer-vr)
+  * [Attendees](#attendees)
+  * [Current State](#current-state)
+    + [Extensions](#extensions)
+    + [Interaction](#interaction)
+    + [Visualization](#visualization)
+    + [Hardware](#hardware)
+    + [Infrastructure/Algorithms](#infrastructure-algorithms)
+  * [Areas of Improvement](#areas-of-improvement)
+    + [Interaction](#interaction-1)
+    + [Visualization](#visualization-1)
+    + [Hardware](#hardware-1)
+    + [Infrastructure/Algorithms](#infrastructure-algorithms-1)
+  * [Minutes](#minutes)
+  * [Other References](#other-references)
+
 # Slicer VR
 
 This breakout aims to identify the current state of VR capabilities in Slicer, identify areas of most need for improvement, and brainstorm about future potential applications of VR in Slicer.
@@ -101,3 +117,6 @@ Even once input methods have been decided, interaction guidelines for input are 
   * Andras thinks that AR is promising, but more accurate object tracking needed (possibly develop a new image analysis method of depth cameras)
   * Hand tracking of value, but high accuracy finger tracking required
   * Eye tracking - good for multi-user interaction and realistic collaboration environments
+
+## Other References
+  * https://gitlab.kitware.com/vtk/vtk/merge_requests/6326#note_671975
