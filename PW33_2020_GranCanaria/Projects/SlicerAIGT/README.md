@@ -4,9 +4,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
+- Gabor Fichtinger (PerkLab, Queen's)
 - Andras Lasso (PerkLab, Queen's)
 - Kyle Sunderland (PerkLab, Queen's)
-- Gabor Fichtinger (PerkLab, Queen's)
 
 # Project Description
 
