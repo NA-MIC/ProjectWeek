@@ -46,7 +46,7 @@ This project aims at creating a minimal user interface oriented to museological 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-![Some more images](interfaceSketch.png)
+![Some more images](interfaceSketch.png)<br/>
 Sketch of the interface.
 <br/>
 <br/>  
