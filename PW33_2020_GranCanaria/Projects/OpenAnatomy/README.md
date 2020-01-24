@@ -34,7 +34,70 @@ Data to represent and describe:
 
 ## Progress and Next Steps
 
-1.
+1. Mapping between standard DICOM terminologies and TA2 (new generation of terminologia antomica)- plan ready: convert TA2 json to dcmqi json, create translation csv table
+
+2. OpenAnatomy export proposed metadata schema:
+
+```json
+{
+formatVersion: "0.01",
+segments:[ {
+	annotation: [{
+		schema:
+		label / code / modifier / modifierCode / whatever ...
+	} ] // and if we can have multiple annotations in the future, then this is a list
+
+	style: {
+		color:
+		opacity:
+		visibility:
+		other shading parameters ...
+		materialUrl: (if model files are obj, point to the material)
+	}
+
+	shape {
+		geometry {   /// can be a list if you want to provide information about the DICOM set
+			type:
+			url:
+			orientation: LPS / RAS ...
+			node: (if glTF, provide the node number of the geometry
+		}
+		labelMap {
+			url:
+			labelValue:
+		}
+	}
+	....
+]
+volumes: [{
+	type:
+	url:  // or more complicated for DICOM, I guess, maybe a list of URLs
+
+	annotation: {
+		label:
+	}
+	style: {
+		window:
+		level:
+		visibility:
+		slicePosition: [r, a, s] // can be null if off
+	}
+}]
+		
+annotation: {
+	label: "name of atlas"
+	author: // list, do we have this?
+	about: // URL, do we have this?
+}
+style: {   // for the atlas.  We'll add more later for scene views
+	camera: {
+		position:
+		lookAt:
+		viewAngle:
+	}
+}
+}
+```
 
 ## Background and References
 
