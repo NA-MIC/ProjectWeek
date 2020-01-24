@@ -28,7 +28,28 @@ The aim is to integrate an algorithm, which is based on Deep Learning, for foot 
 1. *(Optional)* Visualization of point cloud using VTK
 
 ## Progress and Next Steps
-TODO
+* [x]  **Integrate dependencies**
+  * [x] Libtorch (Pytorch C++ API)
+  * [x] PCL (Point Cloud Library) 
+  * [x] SuperBuild option
+* [x]  **PyTorch modules to TorchScript**
+  * [x] Convert PyTorch modules to TorchScript
+  * [x] Load a TorchScript model in the extension 
+* [ ]  **Feet segmentation algorithm**
+  * [x] Deep Learning segmentation
+    * [x]  *Convert VTK images to tensor*
+    * [x]  *Prepare Torch dataset*
+    * [x]  *Apply segmentation and get mask result*
+  * [x] Point Cloud processing
+    * [x]  *Statistical Noise Filter*
+    * [x]  *Geometry plane segmentation*
+    * [x]  *Improve Deep Learning results*
+  * [ ] Apply the resulting mask
+  
+  
+  ### To do:
+  *  Fixes an error when returning the point cloud data to a VTK Image
+  *  Include Windows support in SuperBuild option
 
 # Illustrations
 ![Workflow](images/Workflow.png "Proposed workflow")
