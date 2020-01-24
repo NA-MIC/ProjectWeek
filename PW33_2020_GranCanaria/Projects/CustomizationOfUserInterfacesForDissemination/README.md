@@ -35,7 +35,7 @@ This project aims at creating a minimal user interface oriented to museological 
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 <!-- Describe specific steps you **have actually done**. -->
-1. ...
+1. Graphical adaptation of the interface: insertion of the museum logos, spanish translation of the interface and use of the museum corporate colors
 1. ...
 
 # Illustrations
@@ -51,6 +51,10 @@ Sketch of the interface.
 ![Some more images](arduinoBoard.jpg)
 Arduino board with push buttons and trackballs.
 
+[Interface prototype with translated texts and corporate image](Example2.jpg)
+Interface prototype with translated texts and corporate image
+<br/>
+<br/>  
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
