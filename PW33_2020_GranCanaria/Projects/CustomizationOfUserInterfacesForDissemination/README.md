@@ -50,18 +50,17 @@ Sketch of the interface.
 <br/>  
 ![Some more images](arduinoBoard.jpg)
 Arduino board with push buttons and trackballs.
+<br/>
+<br/> 
 
 ![Interface prototype with translated texts and corporate image](interf.png)<br/>
 Interface prototype with translated texts and corporate image
 <br/>
 <br/>  
-<br/> 
-
 ![Museum logo](logo.png)<br/>
 Museum logo
 <br/>
 <br/> 
-
 ![Detail of the custom buttons](botonera.png)<br/>
 Detail of the custom buttons
 <br/>
