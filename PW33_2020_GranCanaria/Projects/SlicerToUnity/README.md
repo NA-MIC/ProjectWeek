@@ -49,7 +49,18 @@ Developing a real time viewer showing image data (e.g., segmentations, 3D models
   * https://projectweek.na-mic.org/PW32_2019_London_Canada/Projects/KidneySegmentation/
   * AR/VR solutions with slicer: https://www.slicer.org/wiki/Documentation/Labs/Augmented_Reality_and_Virtual_Reality_support#Current_approaches
   * https://github.com/Lyla-M/UnityOpenIGTLink
-2. ...
+2. Familiarize ourselfs with zmq
+3. Set-up a Connector-class between Unity and 3D Slicer setting up three connections:
+* one connection Unity -> Slicer for continuous data exchange
+* one connection Slicer -> Unity for continuous data exchange
+* one connection Unity -> Slicer using request to get volume data
+4. wrote several data gathering functions
+* getting mesh data
+* getting volume data
+* getting annotation data (fiducials, ROI, ruler)
+5. implemented a automtic request on slicer data change
+6. set up a Unity camera position visualizer in slicer 3D view
+
 
 # Illustrations
 
@@ -57,7 +68,9 @@ Developing a real time viewer showing image data (e.g., segmentations, 3D models
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+https://youtu.be/jXaJ5jVDjyg (Demonstration of the functionality)
 
 # Background and References
-
+* https://zeromq.org/get-started/
+* https://github.com/thomasMuender/SlicerToUnity
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
