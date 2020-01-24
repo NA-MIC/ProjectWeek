@@ -22,7 +22,7 @@ In our center, since the end of 2017, surgery is conducted with the Rosa robot. 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. To put de code on python3 (2to3)
-2. To modify markups interaction behavieur (migration doc)
+2. To modify markups interaction behavior (migration doc)
 1. To add new features 
 
 ## Progress and Next Steps
