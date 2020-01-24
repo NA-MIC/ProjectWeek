@@ -27,6 +27,19 @@ Our goal is to add proper support for multi-volume volume rendering to VTK.js.
 2. Make similar changes to the VTK.js JavaScript / WebGL implementation
 3. Clean up [terminology in VTK.js' RenderWindow](https://github.com/Kitware/vtk-js/pull/1264#issuecomment-561653542)
 
+## Progress and Next Steps
+
+* Held a preparation tcon with the Kitware team to review status and goals.
+* We built a multi-volume mapper class which uses a dynamically created shader based on the number of volumes, and alpha blends across volumes along the ray.
+* Next steps:
+	* Fix clipping range computation from bounds around actors and test with real data
+	* Fix alpha blending, opacity is not correct
+	* Fix gradient opacity shading
+	* Test / fix multi-component rendering per volume
+	* Document all the variables and the approach
+	* Stack opacity and color textures across volumes. This would allow us to get to 12 volumes instead of 4.
+
+#### Plans from early meetings
 Notes here: https://docs.google.com/document/d/1160z3fKJB6JfmT_EAlPRbqA5dD9B5iNfe08JctMUWOE/edit?usp=sharing
 
 - Current VolumeMapper will remain in place, we will add a separate optional path that enables the MultiVolumeMapper class
@@ -39,18 +52,15 @@ Notes here: https://docs.google.com/document/d/1160z3fKJB6JfmT_EAlPRbqA5dD9B5iNf
 - Vertex shader will need to be provided a bounding box of the union of all volumes in space. For now it can use the entire canvas.
 - Work in progress branch is here: https://github.com/Kitware/vtk-js/compare/master...swederik:multivolume
 
+# Illustrations
+
 #### Current state
 This is what rendering two cubes currently looks like in VTK.js. It _should_ turn purple at the intersection of the cubes if they were both being sampled and mixed along each step of the ray.
 ![SingleVolumeMapperCubes](SingleVolumeMapperCubes.png)
 
-## Progress and Next Steps
-
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-
-* Held a preparation tcon with the Kitware team to review status and goals.
-
-# Illustrations
-
+### Work-in progress Multi-volume Renderer
+![MultiVolumeMapperCubes](MultiVolumeMapperCubes.png)
+![VolumeMapperComparisons](VolumeMapperComparisons.png)
 
 # Background and References
 
