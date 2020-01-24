@@ -25,5 +25,5 @@ Get information from project week attendees about their current AI workflows, sh
 - [SlicerAIGT](https://github.com/SlicerIGT/aigt) repository contains collection of scripts, Jupyter notebooks, and Slicer utility modules: to be cleaned up and generalized
 - Discussed medical image computing AI frameworks that may be considered to be supported:
   - [NVidia Clara](https://github.com/NVIDIA/ai-assisted-annotation-client): already integrated with Slicer's Segment Editor, NVidia-developed models are available on Nvidia Cloud
-  - [modelhub.ai](http://modelhub.ai/)
+  - [modelhub.ai](http://modelhub.ai/): [evaluated during this week](../modelhub-ai/README.md)
   - [niftynet](https://niftynet.readthedocs.io/): [model zoo](https://niftynet.readthedocs.io/en/dev/model_zoo.html) contains pre-trained models
