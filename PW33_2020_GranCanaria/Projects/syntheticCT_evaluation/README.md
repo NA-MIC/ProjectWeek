@@ -33,9 +33,10 @@ We want to create a Slicer module for stardazied conversion accuracy assessment.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. The extension "ImageCompare" was created. For the moment is contains just a module for synthetic CT evaluation.
+   More modules could be add later.
+   
+2. The extension in already available in the nigthly build (thanks JC and Andras!)
 
 # Illustrations
 
@@ -45,5 +46,9 @@ We want to create a Slicer module for stardazied conversion accuracy assessment.
 -->
 
 # Background and References
+
+1. Spadea, M.F., Pileggi, G., Zaffino, P., Salome, P., Catana, C., Izquierdo-Garcia, D., Amato, F. and Seco, J., 2019. Deep Convolution Neural Network (DCNN) Multiplane Approach to Synthetic CT Generation From MR images—Application in Brain Proton Therapy. International Journal of Radiation Oncology* Biology* Physics, 105(3), pp.495-503.
+
+2. https://github.com/pzaffino/SlicerImageCompare
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
