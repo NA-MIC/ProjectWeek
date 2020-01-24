@@ -34,6 +34,9 @@ These atlases and their creation process will be used as training material in th
 
 ## Progress and Next Steps
 
+1.Two sets of training sessions during the week: Slicer101 (an introduction to 3DSlicer from the user point of view) and Advanced Segmentation (Where questions about special segmentation needs where answered)
+1. Refined segmentation of the male abdomen atlas: includes the muscles and tendons
+
 
 # Illustrations
 
