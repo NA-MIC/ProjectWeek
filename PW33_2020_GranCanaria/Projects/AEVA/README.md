@@ -48,10 +48,20 @@ CMB is an open source platform for creating and running simulations based on 3D 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-[Slices displayed in cmb](cmb-slices.png)
-[Current orienation state - incorrect](cmb-no-overlap.png)
-[Example of what correct orientation would look like](cmb-overlap-0.png)
-[Example of what correct orientation would look like](cmb-overlap-1.png)
+Slices displayed in cmb
+![Slices displayed in cmb](cmb-slices.png)
+
+
+Current orienation state - incorrect
+![Current orienation state - incorrect](cmb-no-overlap.png)
+
+
+Example of what correct orientation would look like
+![Example of what correct orientation would look like](cmb-overlap-0.png)
+
+
+Example of what correct orientation would look like
+![Example of what correct orientation would look like](cmb-overlap-1.png)
 
 # Background and References
 
