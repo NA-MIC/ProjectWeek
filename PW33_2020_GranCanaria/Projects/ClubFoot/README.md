@@ -33,27 +33,15 @@ daily living for families with plastic instead of plaster casts.
 1. 3D printing the deformed clubfoot model
 1. Repeating the process until printing the normal cast
 
-<center>
-
 ![Approach](Approach.png) 
-
-</center>
 
 ## Method (SSM)
 
-<center>
-
 ![Method (SSM)](SSM.png)
-
-</center>
 
 ## Evaluation
 
-<center>
-
 ![Measurements](Measurements.png)
-
-</center>
 
 ## Progress and Next Steps
 
@@ -65,19 +53,11 @@ daily living for families with plastic instead of plaster casts.
 - #### Task #2: Model Fitting
   - Implementing a new module to change shape modes
 
-<center>
-
 ![PCA](PCA.gif)
-
-</center>
 
 - #### Task #3: Evaluation
 
-<center>
-
 ![Evaluation](Evaluation.png)
-
-</center>
 
 <p style='background-color:black;height:1px' />
 
@@ -88,11 +68,7 @@ daily living for families with plastic instead of plaster casts.
 - #### Finding oriented bounding box and transformation matrix
   - Using 'vtkOBBTree.ComputeOBB'
 
-<center>
-
 ![OBB](OBB.png)
-
-</center>
 
 - #### Transformation interpolation of clubfoot correction
 
@@ -102,10 +78,6 @@ daily living for families with plastic instead of plaster casts.
 
 # Illustrations
 
-<center>
-
 ![BabySteps vision](babysteps.png)
-
-</center>
 
 # Background and References
