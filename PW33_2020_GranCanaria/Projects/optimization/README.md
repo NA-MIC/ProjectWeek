@@ -40,11 +40,11 @@ Describe here HOW you would like to achieve the objectives stated above. -->
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-![alt text](https://github.com/hansknutsson/HK_library_test/blob/master/Complementary_material/Opt_SPH_fig1.jpg)
+![Opt_SPH_fig1](https://github.com/hansknutsson/HK_library_test/blob/master/Complementary_material/Opt_SPH_fig1.jpg)
 
 This figure shows the result of the weight optimization for the case of 120 uniformly distributed orientations with 12 missing measurements. The rows show results for spherical harmonic (SPH) degrees 0, 2 and 4. Colors indicate filter weight values, blue is most positive and red is most negative. The missing measurement locations are shown in white. 
 
-![alt text](https://github.com/hansknutsson/HK_library_test/blob/master/Complementary_material/SPHerrors_120_12missing.png)
+![SPHerrors_120_12missing](https://github.com/hansknutsson/HK_library_test/blob/master/Complementary_material/SPHerrors_120_12missing.png)
 
 The figure shows the estimated error distribution for the case of 120 uniformly distributed orientations with 12 missing measurements. The error is given as a function of the maximum SPH degree of the measured signal and the degree of the measurement filter. The left plot shows the result for a signal with equal energy for all SPH's up to the degree indicated on the x-axis. The right plot shows the result using the much more realistic case where the energy decreases for higher SPH degrees. The dashed lines show the errors using SPH function values as weights. The continuous lines show the result using the optimized weights.
 
@@ -54,6 +54,6 @@ I developed the upploaded code as tools in my research towards finding optimal s
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
 ## References  
-https://github.com/hansknutsson/HK_library_test/blob/master/Complementary_material/ISMRM_poster_2019.pdf
+[ISMRM_poster_2019](https://github.com/hansknutsson/HK_library_test/blob/master/Complementary_material/ISMRM_poster_2019.pdf)
 
-## Related resources can be found at https://github.com/hansknutsson/HK_library_test
+## Related resources can be found at [HK_library_test](https://github.com/hansknutsson/HK_library_test)
