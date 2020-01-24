@@ -34,11 +34,10 @@ In this project, we will explore the possibility of communicating a proprietary 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 - OpenIGTLink library was installed in NIRS device uProcessor (Raspberry Pi Zero) 
 - TrackerServer example code was changed (myTrackerServer) to receive simulated position parameters from uController.
-- myTrackerServer and ImageServer example code were implemented as services in the Raspberry Pi Zero to have a simple tracking and image server. 
+- myTrackerServer and ImageServer example code were implemented as services in the Raspberry Pi Zero to have a simple tracking and image servers. 
 - SlicerOpenIGTLink module was installed in 3DSlicer to define connectors and visualize tracking and image data. 
 - A minimum mechanism was successfully implemented in the NIRS device to communicate with 3D Slicer through OpenIGTLink protocol.
-
-Next steps:
+- Raspberry pi Zero W + microcontroller combined system is an powerful and cheap option for making OpenIGTLink-compatible hardware and interacting with Slicer.   
 
 
 # Illustrations
