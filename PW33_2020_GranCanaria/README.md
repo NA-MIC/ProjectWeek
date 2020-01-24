@@ -116,6 +116,8 @@ Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badi
 
 * [Slicer5](https://www.slicer.org/wiki/Documentation/Labs/Slicer5-roadmap) Implementation (Andras, Jc, Steve, Csaba, ...)
 
+* [Transition to GitHub as authoritative version control system](Projects/GitHubAsAuthoritativeVersionControlSystem/README.md) (JC, Andras, Steve)
+
 <!--
 * [Extensions Manager Refresh](Projects/ExtensionsManagerRefresh/README.md) (JC, Andras, Steve)
 -->
