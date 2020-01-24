@@ -40,10 +40,10 @@ These atlases and their creation process will be used as training material in th
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+
+![Overview of the segmentation](git1.png)
+![Detail of the male abdomen segmentation](git2.png)
+
 
 # Background and References
 
