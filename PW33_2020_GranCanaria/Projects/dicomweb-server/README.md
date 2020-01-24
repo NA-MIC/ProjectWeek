@@ -23,6 +23,7 @@ This project aims to build on prototype [lightweight DICOM server that was devel
   * search by reference (e.g. find all segmentations of this image)
   * extract cohorts by tag (e.g. find all CTs with .5mm pixel spacing)
   * represent workflow state (e.g. give list of all studies that do not have manual segmentations)
+* Work on improving performance 
 
 
 ## Approach and Plan
@@ -50,6 +51,8 @@ Hans tested the server successfully, in order to try out DICOMWeb and get a feel
         python -m http.server 9000
         xdg-open http://localhost:9000/test_ohifviewer.html
 
+Performance Improvements:
+* Extended the dicomweb codebase with parallel execution for database processes which lets us limit the number of concurrent database calls and manage workload
 
 # Illustrations
 
