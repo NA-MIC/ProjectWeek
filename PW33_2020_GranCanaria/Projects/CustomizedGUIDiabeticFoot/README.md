@@ -51,9 +51,9 @@ We addressed our challenges with 3D Slicer and Plus community. The collaboration
 1. We have resolved our running and stopping problem with the Plus server thanks to Kyle.
 1. The leak issue when the customized application is closed was disccussed with Jean. He recommended following the current slicelet web page because the current implentation is old-fashion.
 1. We talked with several colleages about the image orientation when the image is serializated in 3D slicer. Finally, we resolved this issue taking into account the image orientation generated in Plus toolkit.  
-1. The perfomannce was analyzed with the community but the final solution need further discution so it will be a goal for the next project week. During that, a solution is that using low frame rate. 
+1. The perfomannce was analyzed with the community but the final solution need further discution so it will be a goal for the next project week. We decided to use low frame rate to reduce the CPU utilization. 
 1. We need to evaluate the solution (combined images in different layers) that we found in the slicer script repository.
-1. The window/level volumen should be analyzed to performance automatically in real-time volumen. We discussed several solution with the community. 
+1. The window/level volume is not updated in real-time, so it should be analyzed. We discussed several solutions with the community. 
 
 
 # Illustrations
