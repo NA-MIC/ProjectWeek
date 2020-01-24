@@ -49,7 +49,7 @@ The aim is to create a friendly customized interface for monitoring the foot ulc
 
 We addressed our challenges with 3D Slicer and Plus community. The collaboration with the community, along this week has been quite succesfull and our project has achieve several goals.
 1. We have resolved our running and stopping problem with the Plus server thanks to Kyle.
-1. The leak issue when the customized application is closed was disccussed with Jean. He recommended following the current slicelet web page because the current implentation is old-fashion.
+1. The leak issue when the customized application is closed was disccussed with Jean. He recommended following the current slicelet web page because the current implentation is old-fashion. (Figure 3)
 1. We talked with several colleages about the image orientation when the image is serializated in 3D slicer. Finally, we resolved this issue taking into account the image orientation generated in Plus toolkit.  
 1. The perfomannce was analyzed with the community but the final solution need further discution so it will be a goal for the next project week. We decided to use low frame rate to reduce the CPU utilization. 
 1. We need to evaluate the solution (combined images in different layers) that we found in the slicer script repository.
