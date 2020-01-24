@@ -34,6 +34,7 @@ Slicer is currently stuck on an old version of VTK (2018/10), which prevents us 
 1. [Fix](https://github.com/cpinter/CTK/tree/build-with-vtk89) CTK errors
 1. [Fix](https://github.com/cpinter/MultiVolumeExplorer/tree/build-with-vtk89) MultiVolumeExplorer errors
 1. [Fix](https://github.com/cpinter/Slicer/tree/build-with-vtk89) errors in Slicer
+    1. Debug build specific issues
 1. Next (hopefully last step): Generate and pass hard-coded paths from VTK to Slicer
 
 # Illustrations
