@@ -16,7 +16,6 @@ The goal of this project is to provide a tool for finding optimal weigths for ex
 
 One good example where this approach is useful is restoring rotation invariance of diffusion MRI estimators in the presence of missing or corrupted measurements 
 
-
 ## Objective  
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 1. Introduce a tool for analysis of signal distributions on a sphere to the diffusion MRI community.
