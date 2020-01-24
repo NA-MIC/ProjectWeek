@@ -45,6 +45,8 @@ We want to create a Slicer module for stardazied conversion accuracy assessment.
 ![Some more images](Example2.jpg)
 -->
 
+[Screenshot] (https://raw.githubusercontent.com/pzaffino/SlicerImageCompare/master/ImageCompare_screenshot.png)
+
 # Background and References
 
 1. Spadea, M.F., Pileggi, G., Zaffino, P., Salome, P., Catana, C., Izquierdo-Garcia, D., Amato, F. and Seco, J., 2019. Deep Convolution Neural Network (DCNN) Multiplane Approach to Synthetic CT Generation From MR images—Application in Brain Proton Therapy. International Journal of Radiation Oncology* Biology* Physics, 105(3), pp.495-503.
