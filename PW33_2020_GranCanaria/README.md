@@ -134,9 +134,11 @@ Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badi
 
 * [MEVIS Draw Tests & DICOM SEG Interoperability](Projects/MEVISDraw/README.md) (Hans Meine, Steve, Erik, James, Marco)
 
+* [Build latest VTK with Slicer](Projects/VTKBuild/README.md) (Csaba, Jc, Andras)
+
 ## Breakout sessions
 
-* [Slicer 5](Breakouts/Slicer5/README.md) (Sam Horvath, Andras Lasso, JC, Csaba Pinter, Stebe Pieper, all welcome)
+* [Slicer 5](Breakouts/Slicer5/README.md) (Sam Horvath, Andras Lasso, JC, Csaba Pinter, Steve Pieper, all welcome)
 
 * [Slicer VR](Breakouts/SlicerVR/README.md) (Adam Rankin, Csaba Pinter, JC, Andras Lasso, all welcome)
 
