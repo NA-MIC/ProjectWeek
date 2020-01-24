@@ -33,15 +33,27 @@ daily living for families with plastic instead of plaster casts.
 1. 3D printing the deformed clubfoot model
 1. Repeating the process until printing the normal cast
 
+<center>
+
 ![Approach](Approach.png) 
+
+</center>
 
 ## Method (SSM)
 
+<center>
+
 ![Method (SSM)](SSM.png)
+
+</center>
 
 ## Evaluation
 
+<center>
+
 ![Measurements](Measurements.png)
+
+</center>
 
 ## Progress and Next Steps
 
@@ -53,11 +65,19 @@ daily living for families with plastic instead of plaster casts.
 - #### Task #2: Model Fitting
   - Implementing a new module to change shape modes
 
+<center>
+
 ![PCA](PCA.gif)
+
+</center>
 
 - #### Task #3: Evaluation
 
+<center>
+
 ![Evaluation](Evaluation.png)
+
+</center>
 
 <p style='background-color:black;height:1px' />
 
@@ -70,18 +90,22 @@ daily living for families with plastic instead of plaster casts.
 
 <center>
 
-| Stage 0 | Stage 1 | Stage 2 | Stage 3 | Stage 4 | Stage 5 |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| <img src='0.png' width="150" /> | <img src='1.png' width="150" /> | <img src='2.png' width="150" /> | <img src='3.png' width="150" /> | <img src='4.png' width="150" /> | <img src='5.png' width="150" /> |
+![OBB](OBB.png)
 
 </center>
 
-- #### Transformation interpolation to get new models
-  
-![Transform-Interpolation](Transform-Interpolation.gif)
+- #### Transformation interpolation of clubfoot correction
+
+<center>
+    <img src='Transform-Interpolation.gif' width='500' />
+</center>
 
 # Illustrations
 
+<center>
+
 ![BabySteps vision](babysteps.png)
+
+</center>
 
 # Background and References
