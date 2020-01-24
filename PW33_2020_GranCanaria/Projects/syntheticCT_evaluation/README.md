@@ -44,8 +44,7 @@ We want to create a Slicer module for stardazied conversion accuracy assessment.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-
-[Screenshot] (https://raw.githubusercontent.com/pzaffino/SlicerImageCompare/master/ImageCompare_screenshot.png)
+[![](https://raw.githubusercontent.com/pzaffino/SlicerImageCompare/master/ImageCompare_screenshot.png]
 
 # Background and References
 
