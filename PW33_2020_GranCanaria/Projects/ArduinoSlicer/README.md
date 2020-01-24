@@ -37,9 +37,10 @@ It can be useful for students and for not complex data/instruction stream.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Interesting discussion with people interested in/expert
-2. Decided to not use SlicerIGT
-3. Wrote the first layer of code (thanks to Andras!)
+1. Interesting a breakout session, discussing with experts and people interested in
+2. We decided to not use SlicerIGT to keep it as simple as possible
+3. The first layer of code was written (thanks to Andras!)
+
    https://github.com/pzaffino/SlicerArduinoController
 
 # Illustrations
