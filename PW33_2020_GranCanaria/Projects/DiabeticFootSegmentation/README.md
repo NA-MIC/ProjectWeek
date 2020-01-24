@@ -50,6 +50,7 @@ The aim is to integrate an algorithm, which is based on Deep Learning, for foot 
   ### To do:
   *  Fixes an error when returning the point cloud data to a VTK Image
   *  Include Windows support in SuperBuild option
+  *  Test strategies based on point cloud processing in VTK in order to remove PCL dependency 
 
 # Illustrations
 ![Workflow](images/Workflow.png "Proposed workflow")
@@ -58,7 +59,28 @@ and the operations as rectangles.The network prediction is used to set the ROI o
 image, the point cloud, and then a second segmentation was applied to extract geometry models,
 specifically planes.
 
+## Progress
+![Premasked](images/preMaskedPCD.png)
+Original depth map. This point cloud is dense populated and contains several noisy points.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+![ROI](images/maskedPCD.png)
+Region of interest obtained from the segmentation of Deep Learning in the RGB image. The number of points has been reduced, but still contains noise points.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+![Compare](images/comparativeUnmasked&Masked.png)
+Comparison between the two images mentioned above.
+
+
 # Background and References
 
 [1] Hernández, A., Arteaga-Marrero, N., Villa, E., Fabelo, H., Callicó, G. M., & Ruiz-Alzola, J. (2019, September). Automatic Segmentation Based on Deep Learning Techniques for Diabetic Foot Monitoring Through Multimodal Images. In International Conference on Image Analysis and Processing (pp. 414-424). Springer, Cham. Avalible from: [https://link.springer.com/chapter/10.1007%2F978-3-030-30645-8_38](https://link.springer.com/chapter/10.1007%2F978-3-030-30645-8_38)
+
+[2] [TorchScript tutorial](https://pytorch.org/tutorials/beginner/Intro_to_TorchScript_tutorial.html)
 
