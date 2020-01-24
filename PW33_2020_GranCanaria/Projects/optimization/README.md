@@ -44,6 +44,10 @@ Describe here HOW you would like to achieve the objectives stated above. -->
 
 This figure shows the result of the weight optimization for the case of 120 uniformly distributed orientations with 12 missing measurements. The rows show results for spherical harmonic degrees 0, 2 and 4. Colors indicate filter weight values, blue is most positive and red is most negative. The missing measurement locations are shown in white. 
 
+![alt text](https://github.com/hansknutsson/HK_library_test/blob/master/Complementary_material/SPHerrors_120_12missing.png)
+
+The figure shows the estimated error distribution for the case of 120 uniformly distributed orientations with 12 missing measurements. The error is given as a function of the maximum spherical harmonic degree of the measured signal and the degree of the measurement filter. The left plot shows the result for a signal with equal energy for all spherical harmonics up to the degree indicated on the x-axis. The right plot shows the result using the much more realistic case where the energy decreases as specified by W . The dashed lines show the errors using unaltered spherical harmonic function values. The continuous lines show the result using the optimized weights.
+
 ## Background 
 I developed the upploaded code as tools in my research towards finding optimal sets of waveforms for analysis of microstructural tissue features using diffusion weighted MRI (dMRI). The code can be used for optimization and visualisation of a number of aspects in dMRI.
 
