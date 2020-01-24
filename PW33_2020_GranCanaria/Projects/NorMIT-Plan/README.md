@@ -6,6 +6,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Rafael Palomar (The Intervention Centre, Oslo University Hospital
   and NTNU).
+- Andras Lasso (Laboratory for Percutaneous Surgery, Queen's University)
+- Jean-Christophe Fillion-Robin (Kitware Inc.)
 
 # Project Description
 
