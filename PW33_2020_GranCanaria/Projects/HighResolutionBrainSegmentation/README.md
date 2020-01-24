@@ -52,6 +52,8 @@ The use of 3D tools to draw and delimit brain sulci depends on freesurfer input 
 1. Freesurfer Integration
     - Implemented an extension ([SlicerFreeSurferImporter](https://github.com/PerkLab/SlicerFreeSurferImporter)) that can import surfaces from FreeSurfer in the correct coordinate system)
     ![FreeSurfer](SlicerFreesurfer.png)
+1. Documentation
+    - Standard Operating Procedures for Segmentation now integrated with NeuroSegmentation repository
 1. Case Management
     - Create initial implementation of version control for segmentations [NeuroSegmentation](https://github.com/PerkLab/NeuroSegmentation)
     - Commit and push segmentations to a git repository from NeuroSegmentation UI
@@ -62,16 +64,21 @@ The use of 3D tools to draw and delimit brain sulci depends on freesurfer input 
     - Allow selection of image volume to use as reference for the FreeSurfer coordinate system
     - Submit extension to extensions index
     - Remove FreeSurfer classes from Slicer core
+1. Documentation
+    - Integrate labeling manuals with the Neurosegmentation module as dockable panels for each structure 
 1. Case Management
     - Implement mechanisms for editing/reviewer feedback
     - Allow repository selection
     - Create pull requests when ready for review
     - Implement a module that can calculate and display diff between segments
-1. Sulci Drawing
-    - Adjust resampling parameters of curve markup to follow sulci using sulcal height scalar overlay from FreeSurfer
+1. Landmark annotations and sulci drawing
+    - Adapt/create landmark types/markups (points, planes, curves)
+    - Implement sulci drawing as weighted Djikstra shortest path on surface using FreeSurfer scalar surface overlays (e.g. curvature, sulci height)
 
 # Illustrations
 
 # Background and References
 
 https://github.com/PerkLab/SlicerFreeSurferImporter
+http://www.freesurfer.net/pub/docs/wiki/mris_pmake.help.xml.html
+
