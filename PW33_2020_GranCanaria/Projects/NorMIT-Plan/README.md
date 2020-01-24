@@ -53,6 +53,7 @@ version, fix known bugs and create a 3D Slicer extension.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![3D Bezier Surface Markup](screenshot.png)
 
 # Background and References
 
