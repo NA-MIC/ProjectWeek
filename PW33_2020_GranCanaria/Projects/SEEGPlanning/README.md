@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-Improuving StereoPlan STIM Slicer module for SEEG Procedures
+Improuving StereoPlan STIM Slicer module for SEEG Procedures. 2
 
 ## Key Investigators
 
@@ -21,9 +21,9 @@ In our center, since the end of 2017, surgery is conducted with the Rosa robot. 
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. To put de code on python3 (2to3)
+2. To modify markups interaction behavieur (migration doc)
+1. To add new features
 
 ## Progress and Next Steps
 
@@ -38,7 +38,8 @@ In our center, since the end of 2017, surgery is conducted with the Rosa robot. 
 
 [StereoPlan in 3D Slicer 4.11 - 2](https://youtu.be/ybS1HfrOWRE)
 
-
+[EpiLoc-View in 3D Slicer 4.11 - 1](epiloc-View-1.png)
+[EpiLoc-View in 3D Slicer 4.11 - 2](epiloc-View-2.png)
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
@@ -49,4 +50,8 @@ In our center, since the end of 2017, surgery is conducted with the Rosa robot. 
 Modular stereotactic planning toolbox for SEEG procedures.
 S. Fernandez Vidal, V. Frazzini, V. Lambrecq, V. Navarro,D. Dormont, B. Mathon, C. Adam,
 E. Bardinet and  D. Hasboun. WSSFN 2019.
+
+
+[Very  helpfull : migration doc](https://www.slicer.org/wiki/Documentation/Nightly/Developers/Tutorials/MigrationGuide/Slicer#Markups)
+
 
