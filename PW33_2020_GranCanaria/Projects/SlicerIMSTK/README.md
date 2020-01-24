@@ -28,7 +28,8 @@ Our goal for project week is to improve the current extensions focusing on makin
 
 # Illustrations
 
-[Progress!!](Capture1.png)
+Progress!!
+![Progress!!](Capture1.png)
 
 
 # Background and References
