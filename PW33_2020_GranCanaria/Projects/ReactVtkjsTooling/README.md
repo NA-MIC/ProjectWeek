@@ -36,10 +36,87 @@ Open questions:
 3. Work on any objectives derived from (1.).
 
 ## Progress and Next Steps
+Progress:
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Prior to this week we had one interactor style called `vtkInteractorStyleMPRSlice` with hard-coded key bindings. Two classes inherited from this class and overrode some functionality: `vtkInteractorStyleMPRRotate` and `vtkInteractorStyleMPRCrosshairs`. These classes were non extensible.
+2. Refactor all common private functionality to a base class `vtkjsToolsBaseInteractorStyle`.
+3. Refactor each seperate "tool" into a manipulator that can easily be registered to any binding of the interactorStyle.
+  - vtkjsToolsMPRPanManipulator
+  - vtkjsToolsMPRRotateManipulator
+  - vtkjsToolsMPRScrollManipulator
+  - vtkjsToolsMPRWindowLevelManipulator
+  - vtkjsToolsMPRZoomManipulator
+4. Make appropriate events fire to an eventWindow on the viewport. The eventWindow can be interacted with internally or accessed through the react-vtkjs-viewport's API, allowing a parent application to consume and react to these events.
+5. Most importantly an imageRendered event is fired when the viewport changes in a way that means the theoretical annotation layer (TBC) knows when to trigger an update.
+
+Next Steps:
+
+1. Build an event dispatcher to call re-render events on any SVG annotations introduced by widgets.
+2. Tie svg widgets to specific manipualtors, building an analog to `BaseAnnotationTool` from `cornerstoneTools`.
+3. Reimplement crosshairs as a manipulator + svgWidget pair as the first example of the above.
 
 # Illustrations
+
+![img](https://media.giphy.com/media/cJTAGV1mupeFS1VZft/giphy.gif)
+
+The tool loadouts can be switched by instantiating an interactorStyle with a new loadout, in the example:
+
+
+```js
+// Layout 1:
+const istyle = vtkjsToolsInteractorStyleManipulator.newInstance({
+  manipulators: [
+    {
+      vtkManipulatorMixin: vtkMPRWindowLevelManipulatorMixin,
+      type: INTERACTION_TYPES.MOUSE,
+      configuration: { button: 1 },
+    },
+    {
+      vtkManipulatorMixin: vtkMPRPanManipulatorMixin,
+      type: INTERACTION_TYPES.MOUSE,
+      configuration: { button: 2 },
+    },
+    {
+      vtkManipulatorMixin: vtkMPRZoomManipulatorMixin,
+      type: INTERACTION_TYPES.MOUSE,
+      configuration: { button: 3 },
+    },
+    {
+      vtkManipulatorMixin: vtkMPRScrollManipulatorMixin,
+      type: INTERACTION_TYPES.MOUSE,
+      configuration: {
+        scrollEnabled: true,
+        dragEnabled: false,
+      },
+    },
+  ],
+});
+
+api.setInteractorStyle({ istyle });
+```
+
+```js
+// Layout 2
+const istyle = vtkjsToolsInteractorStyleManipulator.newInstance({
+  manipulators: [
+    {
+      vtkManipulatorMixin: vtkMPRRotateManipulatorMixin,
+      type: INTERACTION_TYPES.MOUSE,
+      configuration: { button: 1 },
+    },
+    {
+      vtkManipulatorMixin: vtkMPRScrollManipulatorMixin,
+      type: INTERACTION_TYPES.MOUSE,
+      configuration: {
+        scrollEnabled: true,
+        dragEnabled: false,
+      },
+    },
+  ],
+});
+
+api.setInteractorStyle({ istyle });
+```
 
 
 # Background and References
