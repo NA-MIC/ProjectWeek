@@ -39,16 +39,14 @@ Current Slicer nightly:
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Updated the CTK version used in MITK, fixed some small interface changes
+1. Debugged the changed behaviour when using in-memory databases and changing the MITK integration
+1. Verified the ctkDICOM and ctkDICOM2 executables, ctkDICOM2 is the way to go, ctkDICOM would need some work to make it useful again
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![MITK Workbench showing the updated CTK DICOM Browser](MITK-DICOM-Browser.png)
+
 
 # Background and References
 
