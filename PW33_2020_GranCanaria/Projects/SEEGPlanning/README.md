@@ -34,9 +34,9 @@ In our center, since the end of 2017, surgery is conducted with the Rosa robot. 
 3. Much remains to be done.  SEEG procedure : add new features to fuse new modalities. DBS modules still in 3D Slicer 4.8 ...
 
 # Illustrations
-!![StereoPlan in 3D Slicer 4.11 - 1](https://youtu.be/wsMNNrVeMs8)
+[StereoPlan in 3D Slicer 4.11 - 1, youtube](https://youtu.be/wsMNNrVeMs8)
 
-![StereoPlan in 3D Slicer 4.11 - 2](https://youtu.be/ybS1HfrOWRE)
+[StereoPlan in 3D Slicer 4.11 - 2, youtube](https://youtu.be/ybS1HfrOWRE)
 
 ![EpiLoc-View in 3D Slicer 4.11 - 1](epiloc-View-1.png)
 ![EpiLoc-View in 3D Slicer 4.11 - 2](epiloc-View-2.png)
