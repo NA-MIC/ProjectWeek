@@ -52,4 +52,6 @@ We want to create a Slicer module for stardazied conversion accuracy assessment.
 
 2. https://github.com/pzaffino/SlicerImageCompare
 
+3. https://www.slicer.org/wiki/Documentation/Nightly/Extensions/ImageCompare
+
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
