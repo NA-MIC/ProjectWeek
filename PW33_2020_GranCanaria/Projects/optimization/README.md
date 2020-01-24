@@ -35,8 +35,8 @@ Describe here HOW you would like to achieve the objectives stated above. -->
 1. Made project page nicer.  
 2. Added link to hansknutsson GitHub.  
 3. Added explanations of paremeters used.  
-4. Impoved code comments.
-
+4. Impoved code comments.  
+5 Added ISMRM reference.
 
 ## Illustrations  
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
