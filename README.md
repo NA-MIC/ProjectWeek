@@ -40,10 +40,8 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 
 ## Upcoming Project Weeks
 
-- The [32nd Project Week](PW32_2019_London_Canada/README.md) is scheduled for July 15-19, 2019 at Robarts Research, London, Canada.
-
-**Plan ahead:** 
-* [33rd Project Week](PW33_2020_GranCanaria/README.md) will take place January 20-24, 2020 in Las Palmas, Gran Canaria, Spain.
+- [34th Project Week](PW33_2020_GranCanaria/README.md) will take place June 22-26,2020 at MIT in Boston, USA
+- The 2021 Project Week in Las Palmas de Gran Canaria will take place January 18-22, 2021.  Details will be provided by July 2020.
 
 * Please contact the organizers if you have interest in hosting a Project Week event.
 
