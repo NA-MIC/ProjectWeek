@@ -1,7 +1,6 @@
 
 ## Welcome to the main page for the Project Week events!
 
-### The [33rd Project Week](PW33_2020_GranCanaria/README.md) is taking place January 20-24, 2020 in Las Palmas, Gran Canaria, Spain.
 ### The [34th Project Week](PW33_2020_GranCanaria/README.md) will take place June 22-26,2020 at MIT in Boston, USA
 
 ### The 2021 Project Week in Las Palmas de Gran Canaria will take place January 18-22, 2021.  Details will be provided by July 2020.
@@ -50,6 +49,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 
 ## Past Project Weeks
 
+- [2020 January 20-24: Project Week 33](PW33_2020_GranCanaria/README.md) - Gran Canaria, Spain. It recorded 66 Registrants (from 16 countries) who worked on 43 projects.
 - [2019 July 15-29: Project Week 32](PW32_2019_London_Canada/README.md) - Robarts Research, London, Canada.
 - [2019 June 24-28: Project Week 31](PW31_2019_Boston/README.md) - MIT, Cambridge, MA, USA. It recorded 78 attendees, who worked on 47 projects and attended 5 breakout sessions.
 - [2019 January 28-February 1: Project Week 30](PW30_2019_GranCanaria/README.md) - Gran Canaria, Spain. It recorded 60 Registrants (from 13 countries) who worked on 33 projects.
