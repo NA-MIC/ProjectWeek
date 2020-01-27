@@ -7,6 +7,11 @@ The 33rd NA-MIC Project Week will be held during the week of January 20-24, 2020
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://www.spl.harvard.edu/publications/item/view/3004).
 
+## Photo Album
+
+This is our third Project Week in Las Palmas.
+[Google Photos album](https://photos.app.goo.gl/4ATjz5HoUY7mS6WYA)
+
 ## Logistics
 - **Dates:** January 20-24, 2020.
 - **Location:** Las Palmas, Gran Canaria, Spain
@@ -219,4 +224,11 @@ List of registered participants so far (names will be added here after processin
 1. Md Nurul Karim (mdnkarim@uni-bremen.de) - University of Bremen - Germany
 1. Anuradha Dayal (adayal@cnmc.org) - Children's National Hospital - USA
 
+## Statistics
 
+1. 7 Topics
+1. 41 projects
+1. 66 registrants
+1. 31 institutions
+1. 15 countries
+1. 3 continents
