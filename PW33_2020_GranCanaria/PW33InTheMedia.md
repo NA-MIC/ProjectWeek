@@ -1,7 +1,7 @@
 ## 33rd Winter Project Week in the Media
 
 
-<img src="Media1.png" width="250" height="150"> <img src="Media_2.jpg" width="250" height="150"> <img src="Media_3.jpg" width="250" height="150">
+<img src="Media1.png" width="250" height="150"> <img src="Media2.png" width="250" height="150"> <img src="Media3.png" width="250" height="150">
 
 
 
