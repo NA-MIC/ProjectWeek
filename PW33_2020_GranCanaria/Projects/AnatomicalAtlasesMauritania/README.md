@@ -22,6 +22,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Badiaa Ait Ahmed (University Abdelmalek Essaâdi)
 - SPAIN
 - Marilola Afonso (ULPGC – GTMA-IUIBS - MACbioIDi)
+- Asmaa Skareb (ULPGC – GTMA-IUIBS - MACbioIDi)
 - Juan Ruiz Alzola (ULPGC – GTMA-IUIBS - MACbioIDi)
 
 
