@@ -12,6 +12,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 This is our third Project Week in Las Palmas.
 [Google Photos album](https://photos.app.goo.gl/4ATjz5HoUY7mS6WYA)
 
+## 33 PW Winter NA-MIC in [the media](PW33InTheMedia.md)
+
 ## Logistics
 - **Dates:** January 20-24, 2020.
 - **Location:** Las Palmas, Gran Canaria, Spain
