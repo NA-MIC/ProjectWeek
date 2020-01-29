@@ -33,48 +33,11 @@ daily living for families with plastic instead of plaster casts.
 1. 3D printing the deformed clubfoot model
 1. Repeating the process until printing the normal cast
 
-![Approach](Approach.png) 
-
-## Method (SSM)
-
-![Method (SSM)](SSM.png)
+![Approach](Approach.png)
 
 ## Evaluation
 
 ![Measurements](Measurements.png)
-
-## Progress and Next Steps
-
-### Approach #1: SSM
-
-- #### Task #1: Model Building  
-  - Using SlicerSALT 'ShapeVariationAnalyzer' module
-
-- #### Task #2: Model Fitting
-  - Implementing a new module to change shape modes
-
-![PCA](PCA.gif)
-
-- #### Task #3: Evaluation
-
-![Evaluation](Evaluation.png)
-
-<p style='background-color:black;height:1px' />
-
-### Approach #2: Trajectory of foot correction
-
-- #### Normalizing cast models in respect to shin
-- #### Cropping the foot section
-- #### Finding oriented bounding box and transformation matrix
-  - Using 'vtkOBBTree.ComputeOBB'
-
-![OBB](OBB.png)
-
-- #### Transformation interpolation of clubfoot correction
-
-<center>
-    <img src='Transform-Interpolation.gif' width='500' />
-</center>
 
 # Illustrations
 
