@@ -54,6 +54,27 @@ List other requirements:
     1. Generalized to running local Slicer in addition to option of launching cloud instances
     1. Performed testing with dicomweb-server DICOMweb interfaces
 1. Implemented downloading of DICOM data to local Slicer from browser using dicomweb from a url: ```slicer://viewer/?studyUID=%202.16.840.1.113669.632.20.121711.10000158860&access_token=token_here&dicomweb_endpoint=http%3A%2F%2Fdemo.kheops.online%2Fapi&dicomweb_uri_endpoint=%20http%3A%2F%2Fdemo.kheops.online%2Fapi%2Fwado```
+<details>
+ <summary>Required registry key</summary>
+ 
+ ````
+ Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Slicer]
+@="URL:Slicer Slicer Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\Slicer\DefaultIcon]
+@="Slicer.exe,1"
+
+[HKEY_CLASSES_ROOT\Slicer\shell]
+[HKEY_CLASSES_ROOT\Slicer\shell\open]
+[HKEY_CLASSES_ROOT\Slicer\shell\open\command]
+@="\"C:\\D\\S\\SNW\\Slicer-build\\Slicer.exe\" \"%1\""
+
+````
+ </details>
+ 
 [![https://youtu.be/FMIdAzQlKw8](SlicerDICOMURLYoutube.png "3D Slicer: Downloading DICOM datasets from browser")](https://youtu.be/FMIdAzQlKw8)
 1. Implemented OHIF extension to start google VM running Slicer container ([WIP implementation](https://gist.github.com/pieper/658731a7ef77231711c651ec622a6432)) for presentation at [NAC meeting](http://nac.spl.harvard.edu)
 ![SlicerInOHIF](Untitled.png)
