@@ -76,7 +76,7 @@ List other requirements:
  </details>
  
 [![https://youtu.be/FMIdAzQlKw8](SlicerDICOMURLYoutube.png "3D Slicer: Downloading DICOM datasets from browser")](https://youtu.be/FMIdAzQlKw8)
-1. Implemented OHIF extension to start google VM running Slicer container ([WIP implementation](https://gist.github.com/pieper/658731a7ef77231711c651ec622a6432)) for presentation at [NAC meeting](http://nac.spl.harvard.edu)
+3. Implemented OHIF extension to start google VM running Slicer container ([WIP implementation](https://gist.github.com/pieper/658731a7ef77231711c651ec622a6432)) for presentation at [NAC meeting](http://nac.spl.harvard.edu)
 ![SlicerInOHIF](Untitled.png)
 
 ## Background and References
