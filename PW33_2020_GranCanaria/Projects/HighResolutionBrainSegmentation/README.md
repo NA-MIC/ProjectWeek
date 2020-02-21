@@ -71,11 +71,14 @@ The use of 3D tools to draw and delimit brain sulci depends on freesurfer input 
     - Allow repository selection
     - Create pull requests when ready for review
     - Implement a module that can calculate and display diff between segments
+        - Bill Lorensen implemented labelmap diff visualization tool that looks quite promising: [tools](https://github.com/lorensen/OpenAtlas/tree/master/Tools), [paper](https://github.com/lorensen/OpenAtlas/tree/master/Tools), [Slicer forum post](https://discourse.slicer.org/t/open-atlas-followup/7286), [project page](https://www.na-mic.org/wiki/2015_Winter_Project_Week:OpenAtlas)
 1. Landmark annotations and sulci drawing
     - Adapt/create landmark types/markups (points, planes, curves)
     - Implement sulci drawing as weighted Djikstra shortest path on surface using FreeSurfer scalar surface overlays (e.g. curvature, sulci height)
 
 # Illustrations
+
+![Output of labelmap diff tool by Bill Lorensen](https://raw.githubusercontent.com/lorensen/SPLBrainAtlas/master/Changes/left_masseter_diff.png)
 
 # Background and References
 
