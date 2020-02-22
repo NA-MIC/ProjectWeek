@@ -69,4 +69,5 @@ Objective B: Maintain patient registration after face is no longer visible using
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
-[realsense]: https://www.intelrealsense.com/stereo-depth/
+- [DepthImageToPointCloud](https://github.com/PerkLab/DepthImageToPointCloud): Slicer extension to display point cloud data streamed from IntelRealsense camera
+- [Intel RealSense](https://www.intelrealsense.com/stereo-depth)
