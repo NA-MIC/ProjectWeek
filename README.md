@@ -1,7 +1,7 @@
 
 ## Welcome to the main page for the Project Week events!
 
-### The [34th Project Week](PW34_2020_Boston/README.md) will take place June 22-26,2020 at MIT in Boston, USA
+### The [34th Project Week](PW34_2020_Boston/README.md) previously scheduled to take place June 22-26,2020 at MIT in Boston, USA has been cancelled.
 
 ### The 35th Project Week is planned for July 27-31, 2020 at Robarts Institute, London, Ontario.  
 
