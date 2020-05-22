@@ -47,40 +47,43 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 
 ## Past Project Weeks
 
-- [2020 January 20-24: Project Week 33](PW33_2020_GranCanaria/README.md) - Gran Canaria, Spain. It recorded 66 Registrants (from 16 countries) who worked on 43 projects.
-- [2019 July 15-29: Project Week 32](PW32_2019_London_Canada/README.md) - Robarts Research, London, Canada.
-- [2019 June 24-28: Project Week 31](PW31_2019_Boston/README.md) - MIT, Cambridge, MA, USA. It recorded 78 attendees, who worked on 47 projects and attended 5 breakout sessions.
-- [2019 January 28-February 1: Project Week 30](PW30_2019_GranCanaria/README.md) - Gran Canaria, Spain. It recorded 60 Registrants (from 13 countries) who worked on 33 projects.
-- [2018 July 16-20: Project Week 29](PW29_2018_London_Canada/README.md) - Robarts Research Institute, London, Ontario, Canada. It recorded 37 Registrants. This was a satellite event with a slight focus on new users and community expansion.
-- [2018 June 25-29: Project Week 28](PW28_2018_GranCanaria/README.md) - Gran Canaria, Spain. It recorded 58 Registrants, who worked on 31 projects.
-- [2018 January 8-12: Project Week 27](PW27_2018_Boston/README.md) - MIT, Cambridge, MA, USA. It recorded 72 registered attendees, who worked on 52 projects and attended 5 breakout sessions.
-- [2017 July 17-21 : Project Week 26](PW26_2017_London_Canada/README.md) - Robarts Research Institute, London, ON, Canada.
-- [2017 June 26-30: Project Week 25](https://www.na-mic.org/wiki/2017_Summer_Project_Week) - Catanzaro Lido, Calabria, Italy. It recorded 51 registered attendees, who worked on 29 projects.
-- [2017 January 9-13: Project Week 24](https://www.na-mic.org/wiki/2017_Winter_Project_Week) - MIT, Cambridge, MA, USA. It recorded 99 registered attendees, who worked on 55 projects.
-- [2016 June 20-25: Project Week 23](https://na-mic.org/wiki/2016_Summer_Project_Week) - DKFZ, Heidelberg, Germany.
-- [2016 January 4-8: Project Week 22](https://na-mic.org/wiki/2016_Winter_Project_Week) - MIT, Cambridge, MA, USA.
-- [2015 June 21-24: Project Week 21](https://na-mic.org/wiki/2015_Summer_Project_Week) - Barcelona, Spain.
-- [2015 January 5-9: Winter Project Week](https://na-mic.org/wiki/2015_Winter_Project_Week) - Salt Lake City, UT, USA.
-- [2014 June 23-27: Summer Project Week](https://na-mic.org/wiki/2014_Summer_Project_Week) - MIT, Cambridge, MA, USA.
-- [2014 January 6-10: Winter Project Week](https://na-mic.org/wiki/2014_Winter_Project_Week) - Salt Lake City, UT, USA.
-- [2013 June 17-21: Summer Project Week](https://na-mic.org/wiki/2013_Summer_Project_Week) - MIT, Cambridge, MA, USA.
-- [2013 January 7-11: Winter Project Week](https://na-mic.org/wiki/2013_Winter_Project_Week) - Salt Lake City, UT, USA.
-- [2012 June 18-22: Summer Project Week](https://na-mic.org/wiki/2012_Summer_Project_Week) - MIT, Cambridge, MA, USA.
-- [2012 January 9-13: Winter Project Week](https://na-mic.org/wiki/2012_Winter_Project_Week) - Salt Lake City, UT, USA.
-- [2011 June 20-24: Summer Project Week](https://na-mic.org/wiki/2011_Summer_Project_Week) - MIT, Cambridge, MA, USA.
-- [2011 January 10-14: Winter Project Week](https://na-mic.org/wiki/2011_Winter_Project_Week) - Salt Lake City, UT, USA.
-- [2010 June 21-25: Summer Project Week](https://na-mic.org/wiki/2010_Summer_Project_Week) - MIT, Cambridge, MA, USA.
-- [2010 January 4-8: Winter Project Week](https://na-mic.org/wiki/2010_Winter_Project_Week) - Salt Lake City, UT, USA.
-- [2009 June 22-26: Summer Project Week](https://na-mic.org/wiki/2009_Summer_Project_Week) - MIT, Cambridge, MA, USA.
-- [2009 January 5-9: Winter Project Week](https://na-mic.org/wiki/2009_Winter_Project_Week) - Salt Lake City, UT, USA.
-- [2008 June 23-27: Summer Project Week](https://na-mic.org/wiki/2008_Summer_Project_Week) - MIT, Cambridge, MA, USA.
-- [2008 January 7-11: Winter Project Week](https://na-mic.org/wiki/2008_Winter_Project_Week) - Salt Lake City, UT, USA.
-- [2007 June 25-29: Summer Project Week](https://na-mic.org/wiki/2007_Programming/Project_Week_MIT) - MIT, Cambridge, MA, USA.
-- [2007 January 10-12: Winter Project Week](https://na-mic.org/wiki/AHM_2007) - Salt Lake City, UT, USA.
-- [2006 June 26-30: Summer Project Week](https://na-mic.org/wiki/2006_Programming/Project_Week_MIT) - MIT, Cambridge, MA, USA.
-- [2006 January 8-13: Winter Project Week](https://na-mic.org/wiki/AHM_2006:AHM_2006) - Salt Lake City, UT, USA.
-- [2005 June 27-July 1: Summer Project Week](https://na-mic.org/wiki/Engineering:Programmers_Week_Summer_2005) - MIT, Cambridge, MA, USA.
-- [2005 February 20-22: The First All-Hands-Meeting and Programming Event](https://na-mic.org/wiki/AHM_2005:Main) - Salt Lake City, UT, USA.
+| Events | Registrants |
+|----|----|
+| [2020 January 20-24: Project Week 33](PW33_2020_GranCanaria/README.md) - Gran Canaria, Spain. <br>It recorded 66 Registrants (from 16 countries) who worked on 43 projects. | 66 |
+| [2019 July 15-29: Project Week 32](PW32_2019_London_Canada/README.md) - Robarts Research, London, Canada. | 38 |
+| [2019 June 24-28 :Project Week 31](PW31_2019_Boston/README.md) - MIT, Cambridge, MA, USA. <br>It recorded 78 attendees, who worked on 47 projects and attended 5 breakout sessions. | 78 |
+| [2019 January 28-February 1: Project Week 30](PW30_2019_GranCanaria/README.md) - Gran Canaria, Spain. <br>It recorded 60 Registrants (from 13 countries) who worked on 33 projects. | 60 |
+| [2018 July 16-20: Project Week 29](PW29_2018_London_Canada/README.md) - Robarts Research Institute, London, Ontario, Canada. <br>It recorded 37 Registrants. This was a satellite event with a slight focus on new users and community expansion. | 37 |
+| [2018 June 25-29: Project Week 28](PW28_2018_GranCanaria/README.md) - Gran Canaria, Spain. <br>It recorded 58 Registrants, who worked on 31 projects.| 58 |
+| [2018 January 8-12: Project Week 27](PW27_2018_Boston/README.md) - MIT, Cambridge, MA, USA. <br>It recorded 72 registered attendees, who worked on 52 projects and attended 5 breakout sessions. | 72 |
+| [2017 July 17-21: Project Week 26](PW26_2017_London_Canada/README.md) - Robarts Research Institute, London, ON, Canada. | 58 |
+| [2017 June 26-30: Project Week 25](https://www.na-mic.org/wiki/2017_Summer_Project_Week) - Catanzaro Lido, Calabria, Italy. <br>It recorded 51 registered attendees, who worked on 29 projects. | 51 |
+| [2017 January 9-13: Project Week 24](https://www.na-mic.org/wiki/2017_Winter_Project_Week) - MIT, Cambridge, MA, USA. <br>It recorded 99 registered attendees, who worked on 55 projects. | 99 |
+| [2016 June 20-25: Project Week 23](https://na-mic.org/wiki/2016_Summer_Project_Week) - DKFZ, Heidelberg, Germany. | 58 |
+| [2016 January 4-8: Project Week 22](https://na-mic.org/wiki/2016_Winter_Project_Week) - MIT, Cambridge, MA, USA. | 77 |
+| [2015 June 21-24: Project Week 21](https://na-mic.org/wiki/2015_Summer_Project_Week) - Barcelona, Spain. | 55 |
+| [2015 January 5-9: Winter Project Week](https://na-mic.org/wiki/2015_Winter_Project_Week) - Salt Lake City, UT, USA. | 44 |
+| [2014 June 23-27: Summer Project Week](https://na-mic.org/wiki/2014_Summer_Project_Week) - MIT, Cambridge, MA, USA. | 81 |
+| [2014 January 6-10: Winter Project Week](https://na-mic.org/wiki/2014_Winter_Project_Week) - Salt Lake City, UT, USA. | 70 |
+| [2013 June 17-21: Summer Project Week](https://na-mic.org/wiki/2013_Summer_Project_Week) - MIT, Cambridge, MA, USA. | 104 |
+| [2013 January 7-11: Winter Project Week](https://na-mic.org/wiki/2013_Winter_Project_Week) - Salt Lake City, UT, USA. | 80 |
+| [2012 June 18-22: Summer Project Week](https://na-mic.org/wiki/2012_Summer_Project_Week) - MIT, Cambridge, MA, USA. | 88 |
+| [2012 January 9-13: Winter Project Week](https://na-mic.org/wiki/2012_Winter_Project_Week) - Salt Lake City, UT, USA. | 103 |
+| [2011 June 20-24: Summer Project Week](https://na-mic.org/wiki/2011_Summer_Project_Week) - MIT, Cambridge, MA, USA. | 101 |
+| [2011 January 10-14: Winter Project Week](https://na-mic.org/wiki/2011_Winter_Project_Week) - Salt Lake City, UT, USA. | 106 |
+| [2010 June 21-25: Summer Project Week](https://na-mic.org/wiki/2010_Summer_Project_Week) - MIT, Cambridge, MA, USA. | 126 |
+| [2010 January 4-8: Winter Project Week](https://na-mic.org/wiki/2010_Winter_Project_Week) - Salt Lake City, UT, USA. | 107 |
+| [2009 June 22-26: Summer Project Week](https://na-mic.org/wiki/2009_Summer_Project_Week) - MIT, Cambridge, MA, USA. | 134 |
+| [2009 January 5-9: Winter Project Week](https://na-mic.org/wiki/2009_Winter_Project_Week) - Salt Lake City, UT, USA. | 98 |
+| [2008 June 23-27: Summer Project Week](https://na-mic.org/wiki/2008_Summer_Project_Week) - MIT, Cambridge, MA, USA. | 113 |
+| [2008 January 7-11: Winter Project Week](https://na-mic.org/wiki/2008_Winter_Project_Week) - Salt Lake City, UT, USA. | 87 |
+| [2007 June 25-29: Summer Project Week](https://na-mic.org/wiki/2007_Programming/Project_Week_MIT) - MIT, Cambridge, MA, USA. | 85 |
+| [2007 January 10-12: Winter Project Week](https://na-mic.org/wiki/AHM_2007) - Salt Lake City, UT, USA. | 96 |
+| [2006 June 26-30: Summer Project Week](https://na-mic.org/wiki/2006_Programming/Project_Week_MIT) - MIT, Cambridge, MA, USA. | 56 |
+| [2006 January 8-13: Winter Project Week](https://na-mic.org/wiki/AHM_2006:AHM_2006) - Salt Lake City, UT, USA. | 80 |
+| [2005 June 27-July 1: Summer Project Week](https://na-mic.org/wiki/Engineering:Programmers_Week_Summer_2005) - MIT, Cambridge, MA, USA. | 44 |
+| [2005 February 20-22: The First All-Hands-Meeting and Programming Event](https://na-mic.org/wiki/AHM_2005:Main) - Salt Lake City, UT, USA. | 58 |
+
 
 ---
 This page is hosted [from the NA-MIC organization's ProjectWeek repository on github.com](https://github.com/NA-MIC/ProjectWeek) and is published at [https://projectweek.na-mic.org](https://projectweek.na-mic.org)
