@@ -7,7 +7,7 @@
 
 ### The 36th Project Week is planned for January 18-22, 2021 in Las Palmas de Gran Canaria, Spain.  
 
-## Frequently Asked Quesions
+## Frequently Asked Questions
 
 ![2016 Winter Project Week Final Day](assets/800px-2016_Winter_Project_Week_Final_Day.JPG)
 
