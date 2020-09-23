@@ -1,11 +1,7 @@
 
 ## Welcome to the main page for the Project Week events!
 
-### The [34th Project Week](PW34_2020_Boston/README.md) previously scheduled to take place June 22-26,2020 at MIT in Boston, USA has been cancelled.
-
-### The 35th Project Week is planned for July 27-31, 2020 at Robarts Institute, London, Ontario.  
-
-### The 36th Project Week is planned for January 18-22, 2021 in Las Palmas de Gran Canaria, Spain.  
+### The [34th Project Week](PW34_2020_Virtual/README.md) will be held virtually December 14-18, 2020.
 
 ## Frequently Asked Questions
 
@@ -41,7 +37,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 
 ## Upcoming Project Weeks
 
-- The 2021 Project Week in Las Palmas de Gran Canaria will take place January 18-22, 2021.  Details will be provided by July 2020.
+- The 2020 Project Week will be held virtually and will take place December 14-18, 2020.
 
 * Please contact the organizers if you have interest in hosting a Project Week event.
 
