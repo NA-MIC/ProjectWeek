@@ -9,14 +9,25 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Format
 
-For the virtual Project Week the community will be focusing on demos and dissemination of Slicer based projects
+For the virtual Project Week the community will be focusing on demos and dissemination of Slicer based projects.
+
+### Preliminary Agenda
+- Monday: | 12pm-2pm | Short Demos of all Projects
+
+- Tuesday | 12pm-2pm | Demos and Discussion on Topic 1
+
+- Wednesday | 11am-2pm | African Partners Workshop (Day could be moved pending participant schedules)
+
+- Thursday | 11am-2pm | Demos and Discussion on Topic 2
+
+- Friday | Demos and Discussion on Topic 3
 
 ## Logistics
 - **Dates:** December 14-18, 2020.
 - **Location:** THE INTERNET
 - **Discourse Forum:** Please ask on [discourse forum](https://discourse.slicer.org/c/community/project-week) if you have questions.
+- **Mailing List:** [Link](https://public.kitware.com/mailman/listinfo/na-mic-project-week)
 - **Slack Channel:** Invite Link - tbd
-
 - **REGISTRATION:** Registration info tbd.
 
 <table>
