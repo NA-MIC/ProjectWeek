@@ -16,11 +16,11 @@ For the virtual Project Week the community will be focusing on demos and dissemi
 
 - Tuesday | 12pm-2pm | Demos and Discussion on Topic 1
 
-- Wednesday | 11am-2pm | African Partners Workshop (Day could be moved pending participant schedules)
+- Wednesday | 12pm-2pm | Demos and Discussion on Topic 2
 
-- Thursday | 11am-2pm | Demos and Discussion on Topic 2
+- Thursday | 11am-2pm | Demos and Discussion on Topic 3
 
-- Friday | Demos and Discussion on Topic 3
+- Friday | 11am-2pm | African Partners Workshop 
 
 ## Logistics
 - **Dates:** December 14-18, 2020.
