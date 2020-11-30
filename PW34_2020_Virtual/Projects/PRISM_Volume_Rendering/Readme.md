@@ -34,3 +34,4 @@ Short demo highlighting the features of the PRISM Rendering module in Slicer.
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+PRISM Module [GitHub repository](https://github.com/ETS-vis-interactive/SlicerPRISMRendering).
