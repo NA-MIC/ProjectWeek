@@ -45,6 +45,12 @@ For the virtual Project Week the community will be focusing on demos and dissemi
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 
+### Short demos
+[PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
+
+### Long demos
+
+### Topic discussion
 
 ## Breakout sessions
 
