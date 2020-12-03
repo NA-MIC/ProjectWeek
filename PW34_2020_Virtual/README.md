@@ -9,9 +9,9 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Format
 
-For the virtual Project Week the community will be focusing on demos and dissemination of Slicer based projects.
+The format of this virtual event will be different from the in-person ones.  We will meet daily for 2 hours instead of full days.  On the first day, each project will be presented using a 5-minute demo or talk.  All demos will be pre-recorded for efficiency.  The second day will be a discussion about features in 3D Slicer that are new since the last Project Week, and also on design considerations that are relevant for end-to-end solutions (or customizable Slicer apps).  
 
-### Preliminary Agenda
+### Agenda
 - Monday: | 12pm-2pm | 5-Minute Demos of All Projects (Moderator Simon Drouin)
 
 - Tuesday | 12pm-2pm | New Features in 3D Slicer; Focus on End to End Solutions (Moderator Beatriz Paniagua)
@@ -28,7 +28,7 @@ For the virtual Project Week the community will be focusing on demos and dissemi
 - **Discourse Forum:** Please ask on [discourse forum](https://discourse.slicer.org/c/community/project-week) if you have questions.
 - **Mailing List:** [Link](https://public.kitware.com/mailman/listinfo/na-mic-project-week)
 - **Slack Channel:** Invite Link - tbd
-- **REGISTRATION:** Registration info tbd.
+- **REGISTRATION:** [Link](https://forms.gle/VFTNfKRNsgj6YSLB9)
 
 <table>
 <tr>
