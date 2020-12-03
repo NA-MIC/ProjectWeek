@@ -45,16 +45,36 @@ For the virtual Project Week the community will be focusing on demos and dissemi
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 
-### Short demos
-[PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
+### Monday Presentations
 
-[Scalable Quality Assurance for Neuroimaging (SQAN)](Projects/SQAN/Readme.md) (Arvind Gopu)
+Demos:
+1. [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
 
-### Long demos
+1. [Scalable Quality Assurance for Neuroimaging (SQAN)](Projects/SQAN/Readme.md) (Arvind Gopu)
 
-### Topic discussion
+1. SlicerMorph: Registration, segmentation, surface manipulation of 3D biological datasets (Sara Rolfe)
+1. SlicerSALT: Shape analysis (Beatriz Paniagua, Kitware)
+SlicerCMF: Craniofacial image processing (David Allemang)
+SlicerHeart (Matthew Jolley)
+SlicerIGT and SlicerAIGT (Tamas Ungi)
+SlicerDMRI: diffusion imaging in Slicer (Lauren O’Donnell )
+Virtual reality (Csaba Pinter)
+SlicerArduido (Paolo Zaffino)
+OHIF web applications  (Erik Ziegler)
+PRISM Rendering: Customizable volume rendering (Simon Drouin)
+aevaSlicer volumetric mesh generation from segmentations (Sam Horvath)
+Slicer Segmentation Editor (Andras)
+RadOncSegmentor Segmentation for Radiation Treatment Planning (Aditya Apte, Eve LoCastro, Harini Veeraraghavan, MSKCC)
+Landmark Curves for Brain Images (Jarrett Rushmore, BWH/MGH/BU, Sylvain Bouix, BWH/HMS,  Nikos Makris, BWH/MGH/HMS)
+NCI Imaging Data Commons (Andrey Fedorov,Steve Pieper)
 
-## Breakout sessions
+Lightnight Talk:
+Train the Trainers formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Nayra Pumar)
+SlicerWeb and Slicer in Cloud environments (Steve Pieper)
+Abdominal Aortic Aneurysm 4D CT registration (Farah Alkhatib, Adam Wittek, Karol Miller, Toby Richards, Hozan Mufty)
+Liver Resection Planning (Rafael Palomar, Ole Vegard Solberg, Geir Arne Tangen)
+
+
 
 
 
