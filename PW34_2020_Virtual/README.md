@@ -74,7 +74,7 @@ The format of this virtual event will be different from the in-person ones.  We 
 
 ## Registrants
 
-Do not add your name to this list below. It is maintained by the organizers based on your paid registration. **[Click here to register.](https://www.fulp.es/na-mic-event-2020)**
+Do not add your name to this list below. It is maintained by the organizers based on your registration.
 
 List of registered participants so far (names will be added here after processing registrations):
 <!-- [List](REGISTRANTS.md) -->
