@@ -7,12 +7,14 @@
 
 # Project Description
 
-Overview of existing techniques of using 3D Slicer over an internet connection.
+This project is aimed to provide an updated overview of existing techniques of using 3D Slicer over an internet connection.
 
 ## Objective
 
+During this project week we would like to:
+
 1. Categorize existing data regarding using slicer over the internet
-2. Create a set of easy to use manuals/tutorials/boilerplates that explain basic setup options and use cases
+2. Test and create/link a set of easy-to-use manuals/tutorials/boilerplates that explain basic setup options and use cases
 
 ## Approach and Plan
 
