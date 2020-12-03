@@ -47,6 +47,7 @@ For the virtual Project Week the community will be focusing on demos and dissemi
 
 ### Short demos
 [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
+[Slicer in cloud environments](Projects/Slicer_in_cloud_environments/Readme.md) (Steve Pieper, Theodore Aptekarev)
 
 ### Long demos
 
