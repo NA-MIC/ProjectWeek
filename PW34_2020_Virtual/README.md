@@ -54,25 +54,25 @@ Demos:
 
 1. SlicerMorph: Registration, segmentation, surface manipulation of 3D biological datasets (Sara Rolfe)
 1. SlicerSALT: Shape analysis (Beatriz Paniagua, Kitware)
-SlicerCMF: Craniofacial image processing (David Allemang)
-SlicerHeart (Matthew Jolley)
-SlicerIGT and SlicerAIGT (Tamas Ungi)
-SlicerDMRI: diffusion imaging in Slicer (Lauren O’Donnell )
-Virtual reality (Csaba Pinter)
-SlicerArduido (Paolo Zaffino)
-OHIF web applications  (Erik Ziegler)
-PRISM Rendering: Customizable volume rendering (Simon Drouin)
-aevaSlicer volumetric mesh generation from segmentations (Sam Horvath)
-Slicer Segmentation Editor (Andras)
-RadOncSegmentor Segmentation for Radiation Treatment Planning (Aditya Apte, Eve LoCastro, Harini Veeraraghavan, MSKCC)
-Landmark Curves for Brain Images (Jarrett Rushmore, BWH/MGH/BU, Sylvain Bouix, BWH/HMS,  Nikos Makris, BWH/MGH/HMS)
-NCI Imaging Data Commons (Andrey Fedorov,Steve Pieper)
+1. SlicerCMF: Craniofacial image processing (David Allemang)
+1. SlicerHeart (Matthew Jolley)
+1. SlicerIGT and SlicerAIGT (Tamas Ungi)
+1. SlicerDMRI: diffusion imaging in Slicer (Lauren O’Donnell )
+1. Virtual reality (Csaba Pinter)
+1. SlicerArduido (Paolo Zaffino)
+1. OHIF web applications  (Erik Ziegler)
+1. aevaSlicer volumetric mesh generation from segmentations (Sam Horvath)
+1. Slicer Segmentation Editor (Andras)
+1. RadOncSegmentor Segmentation for Radiation Treatment Planning (Aditya Apte, Eve LoCastro, Harini Veeraraghavan, MSKCC)
+1. Landmark Curves for Brain Images (Jarrett Rushmore, BWH/MGH/BU, Sylvain Bouix, BWH/HMS,  Nikos Makris, BWH/MGH/HMS)
+1. NCI Imaging Data Commons (Andrey Fedorov,Steve Pieper)
 
 Lightnight Talk:
-Train the Trainers formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Nayra Pumar)
-SlicerWeb and Slicer in Cloud environments (Steve Pieper)
-Abdominal Aortic Aneurysm 4D CT registration (Farah Alkhatib, Adam Wittek, Karol Miller, Toby Richards, Hozan Mufty)
-Liver Resection Planning (Rafael Palomar, Ole Vegard Solberg, Geir Arne Tangen)
+
+1. Train the Trainers formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Nayra Pumar)
+1. SlicerWeb and Slicer in Cloud environments (Steve Pieper)
+1. Abdominal Aortic Aneurysm 4D CT registration (Farah Alkhatib, Adam Wittek, Karol Miller, Toby Richards, Hozan Mufty)
+1. Liver Resection Planning (Rafael Palomar, Ole Vegard Solberg, Geir Arne Tangen)
 
 
 
