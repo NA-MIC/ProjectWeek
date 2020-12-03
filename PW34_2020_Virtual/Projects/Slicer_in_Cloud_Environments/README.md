@@ -2,7 +2,7 @@
 
 ## Key Investigators
 
-- Steve Piper
+- Steve Pieper
 - Theodore Aptekarev
 
 # Project Description
@@ -40,3 +40,6 @@ This section will be updated with the summary during the Project week.
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+* [SlicerDockers](https://github.com/pieper/SlicerDockers) can run in cloud machines with a container optimized OS on a VM or a regular OS with docker installed.  You can access the desktop by exposing the port or by tunneling the port through ssh.  [SlicerDocker](https://github.com/Slicer/SlicerDocker) should also work in this way.
+* https://github.com/pieper/SlicerMachines
