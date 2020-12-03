@@ -47,6 +47,7 @@ For the virtual Project Week the community will be focusing on demos and dissemi
 
 ### Short demos
 [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
+[Scalable Quality Assurance for Neuroimaging (SQAN)](Projects/SQAN/Readme.md) (Arvind Gopu)
 
 ### Long demos
 
