@@ -64,7 +64,7 @@ The format of this virtual event will be different from the in-person ones.  We 
 1. Landmark Curves for Brain Images (Jarrett Rushmore, BWH/MGH/BU, Sylvain Bouix, BWH/HMS,  Nikos Makris, BWH/MGH/HMS)
 1. NCI Imaging Data Commons (Andrey Fedorov,Steve Pieper)
 1. Train the Trainers formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Nayra Pumar)
-1. [SlicerWeb and Slicer in Cloud environments](Projects/Slicer_in_cloud_environments/README.md) (Steve Pieper, Theodore Aptekarev)
+1. [SlicerWeb and Slicer in Cloud environments](Projects/Slicer_in_Cloud_Environments/README.md) (Steve Pieper, Theodore Aptekarev)
 1. Abdominal Aortic Aneurysm 4D CT registration (Farah Alkhatib, Adam Wittek, Karol Miller, Toby Richards, Hozan Mufty)
 1. Liver Resection Planning (Rafael Palomar, Ole Vegard Solberg, Geir Arne Tangen)
 
