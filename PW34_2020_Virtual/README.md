@@ -4,6 +4,8 @@
 
 The [34th NA-MIC Project Week](https://projectweek.na-mic.org/PW34_2020_Virtual/) will be held virtually December 14-18, 2020.
 
+The event is free and connection details will be provided after [registering](https://forms.gle/VFTNfKRNsgj6YSLB9).
+
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
 
@@ -12,7 +14,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 The format of this virtual event will be different from the in-person ones.  We will meet daily for 2 hours instead of full days.  Monday's session will include short project presentations in the form of 5-minute demos or talks.  All demos will be pre-recorded for efficiency.  Tuesday's session will be a discussion about features in 3D Slicer that are new since the last Project Week, and also on design considerations that are relevant for end-to-end solutions (or customizable Slicer apps). Wednesday's session will be a question and answer session about 3D Slicer, a "live" version of what takes place asynchronously on the Slicer discourse forum, and will include demostrations of how to use the Segmentation Editor in 3D Slicer.  Thursday's session will be a discussion on recent advancing in the web and cloud technologies that are being used to create browser based visualization applications and large open databases.  Friday's session will be a training workshop focused on fostering partnerships with researchers and clinicians in Western Africa. 
 
 ### Agenda
-- Monday: | 12pm-2pm | 5-Minute Demos of All Projects (Moderator Simon Drouin)
+- Monday: | 12pm-2pm | 5-Minute Demos ofhttps://github.com/NA-MIC/ProjectWeek/pull/256 All Projects (Moderator Simon Drouin)
 
 - Tuesday | 12pm-2pm | New Features in 3D Slicer; Focus on End to End Solutions (Moderator Beatriz Paniagua)
 
