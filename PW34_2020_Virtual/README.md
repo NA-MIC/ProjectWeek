@@ -4,6 +4,8 @@
 
 The [34th NA-MIC Project Week](https://projectweek.na-mic.org/PW34_2020_Virtual/) will be held virtually December 14-18, 2020.
 
+The event is free and connection details will be provided after [registering](https://forms.gle/VFTNfKRNsgj6YSLB9).
+
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
 
