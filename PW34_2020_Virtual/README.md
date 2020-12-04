@@ -36,12 +36,6 @@ The format of this virtual event will be different from the in-person ones.  We 
 - **Mailing List:** [Link](https://public.kitware.com/mailman/listinfo/na-mic-project-week)
 - **REGISTRATION:** [Link](https://forms.gle/VFTNfKRNsgj6YSLB9)
 
-<table>
-<tr>
-<td> <b>Non-Local Organizing Committee Host:</b> </td>
-</tr>
-</table>
-
 ## Program Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic&mode=WEEK&dates=20201214%2f20201218" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
