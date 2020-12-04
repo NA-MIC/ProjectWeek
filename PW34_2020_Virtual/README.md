@@ -9,7 +9,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Format
 
-The format of this virtual event will be different from the in-person ones.  We will meet daily for 2 hours instead of full days.  On the first day, each project will be presented using a 5-minute demo or talk.  All demos will be pre-recorded for efficiency.  The second day will be a discussion about features in 3D Slicer that are new since the last Project Week, and also on design considerations that are relevant for end-to-end solutions (or customizable Slicer apps).  
+The format of this virtual event will be different from the in-person ones.  We will meet daily for 2 hours instead of full days.  Monday's session will include short project presentations in the form of 5-minute demos or talks.  All demos will be pre-recorded for efficiency.  Tuesday's session will be a discussion about features in 3D Slicer that are new since the last Project Week, and also on design considerations that are relevant for end-to-end solutions (or customizable Slicer apps). Wednesday's session will be a question and answer session about 3D Slicer, a "live" version of what takes place asynchronously on the Slicer discourse forum, and will include demostrations of how to use the Segmentation Editor in 3D Slicer.  Thursday's session will be a discussion on recent advancing in the web and cloud technologies that are being used to create browser based visualization applications and large open databases.  Friday's session will be a training workshop focused on fostering partnerships with researchers and clinicians in Western Africa. 
 
 ### Agenda
 - Monday: | 12pm-2pm | 5-Minute Demos of All Projects (Moderator Simon Drouin)
