@@ -55,7 +55,7 @@ The format of this virtual event will be different from the in-person ones.  We 
 1. SlicerHeart (Matthew Jolley)
 1. SlicerIGT and SlicerAIGT (Tamas Ungi)
 1. SlicerDMRI: diffusion imaging in Slicer (Lauren O’Donnell )
-1. Virtual reality (Csaba Pinter)
+1. [Virtual reality](Projects/SlicerVR/README.md) (Csaba Pinter)
 1. SlicerArduido (Paolo Zaffino)
 1. OHIF web applications  (Erik Ziegler)
 1. aevaSlicer volumetric mesh generation from segmentations (Sam Horvath)
