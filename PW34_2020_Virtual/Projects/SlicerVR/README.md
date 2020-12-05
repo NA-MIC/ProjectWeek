@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# SlicerVR: interactive UI panel in the VR environment
 
 ## Key Investigators
 
