@@ -56,7 +56,7 @@ The format of this virtual event will be different from the in-person ones.  We 
 1. SlicerIGT and SlicerAIGT (Tamas Ungi)
 1. SlicerDMRI: diffusion imaging in Slicer (Lauren O’Donnell )
 1. [Virtual reality](Projects/SlicerVR/README.md) (Csaba Pinter)
-1. SlicerArduido (Paolo Zaffino)
+1. SlicerArduino (Paolo Zaffino)
 1. OHIF web applications  (Erik Ziegler)
 1. aevaSlicer volumetric mesh generation from segmentations (Sam Horvath)
 1. Slicer Segmentation Editor (Andras)
@@ -67,7 +67,7 @@ The format of this virtual event will be different from the in-person ones.  We 
 1. [SlicerWeb and Slicer in Cloud environments](Projects/Slicer_in_Cloud_Environments/README.md) (Steve Pieper, Theodore Aptekarev)
 1. Abdominal Aortic Aneurysm 4D CT registration (Farah Alkhatib, Adam Wittek, Karol Miller, Toby Richards, Hozan Mufty)
 1. Liver Resection Planning (Rafael Palomar, Ole Vegard Solberg, Geir Arne Tangen)
-
+1. [Subject hierarchy: Drag&drop folders in views](Projects/SubjectHierarchyFolders/README.md) (Csaba Pinter, Steve Pieper)
 
 
 
