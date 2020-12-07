@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 SlicerArduino is a Slicer Extension for connecting Arduino (and Arduino-like) boards to Slicer.
-In this way is it possible to easily acquire/send data from/to the external environment.
+In this way it is possible to easily acquire/send data from/to the external environment.
 
 A [journal paper](https://www.mdpi.com/2306-5354/7/3/109) about SlicerArduino has been already publised
 
@@ -29,7 +29,7 @@ A [journal paper](https://www.mdpi.com/2306-5354/7/3/109) about SlicerArduino ha
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Explain desing of the extension.
+1. Explain the desing of the extension.
 1. Show two different use cases.
 
 ## Progress and Next Steps
@@ -53,5 +53,6 @@ A [journal paper](https://www.mdpi.com/2306-5354/7/3/109) about SlicerArduino ha
 
 1. [Journal paper](https://www.mdpi.com/2306-5354/7/3/109)
 1. [Project webpage](https://pzaffino.github.io/SlicerArduinoController/)
+1. [Source code](https://github.com/pzaffino/SlicerArduinoController)
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
