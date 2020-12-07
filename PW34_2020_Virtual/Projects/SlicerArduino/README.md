@@ -34,9 +34,11 @@ A [journal paper](https://www.mdpi.com/2306-5354/7/3/109) about SlicerArduino ha
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Collect as mush as possible suggestions and comments.
+1. Collect as much as possible suggestions and comments.
 
 # Illustrations
+
+![SlicerArduino main window](https://www.mdpi.com/bioengineering/bioengineering-07-00109/article_deploy/html/images/bioengineering-07-00109-g002.png)
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
