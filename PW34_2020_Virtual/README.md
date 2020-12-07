@@ -64,7 +64,7 @@ The format of this virtual event will be different from the in-person ones.  We 
 1. RadOncSegmentor Segmentation for Radiation Treatment Planning (Aditya Apte, Eve LoCastro, Harini Veeraraghavan, MSKCC)
 1. Landmark Curves for Brain Images (Jarrett Rushmore, BWH/MGH/BU, Sylvain Bouix, BWH/HMS,  Nikos Makris, BWH/MGH/HMS)
 1. [Scalable Quality Assurance for Neuroimaging (SQAN)](Projects/SQAN/README.md) (Arvind Gopu)
-1. NCI Imaging Data Commons (Andrey Fedorov,Steve Pieper)
+1. [NCI Imaging Data Commons](Projects/ImagingDataCommons/README.md) (Andrey Fedorov,Steve Pieper)
 1. Train the Trainers formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Nayra Pumar)
 1. Abdominal Aortic Aneurysm 4D CT registration (Farah Alkhatib, Adam Wittek, Karol Miller, Toby Richards, Hozan Mufty)
 1. Liver Resection Planning (Rafael Palomar, Ole Vegard Solberg, Geir Arne Tangen)
