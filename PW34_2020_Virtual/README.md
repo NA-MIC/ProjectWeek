@@ -25,9 +25,9 @@ The format of this virtual event will be different from the in-person ones.  We 
 
 - Wednesday | 12pm-2pm | Live Discourse - Questions and Answers from Users and Developers; Focus on Segmentation in 3D Slicer (Moderator Andras Lasso)
 
-- Thursday | 11am-2pm | Advances in Web/Cloud Technologies  (Moderator Steve Pieper)
+- Thursday | 12pm-2pm | Advances in Web/Cloud Technologies  (Moderator Steve Pieper)
 
-- Friday | 11am-2pm | West African Partnerships (Moderator Juan Ruiz Alzola)
+- Friday | 9.40am-12pm | West African Partnerships (Moderator Juan Ruiz Alzola)
 
 ## Logistics
 - **Dates:** December 14-18, 2020.
