@@ -47,7 +47,6 @@ The format of this virtual event will be different from the in-person ones.  We 
 
 
 
-1. [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
 1. [Scalable Quality Assurance for Neuroimaging (SQAN)](Projects/SQAN/README.md) (Arvind Gopu)
 1. SlicerMorph: Registration, segmentation, surface manipulation of 3D biological datasets (Sara Rolfe)
 1. SlicerSALT: Shape analysis (Beatriz Paniagua, Kitware)
@@ -55,7 +54,9 @@ The format of this virtual event will be different from the in-person ones.  We 
 1. SlicerHeart (Matthew Jolley)
 1. SlicerIGT and SlicerAIGT (Tamas Ungi)
 1. SlicerDMRI: diffusion imaging in Slicer (Lauren O’Donnell )
+1. [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
 1. [Virtual reality](Projects/SlicerVR/README.md) (Csaba Pinter)
+1. [Collaborative VR discussion]() (Csaba Pinter and Simon Drouin)
 1. [SlicerArduino](Projects/SlicerArduino/README.md) (Paolo Zaffino, Maria Francesca Spadea)
 1. OHIF web applications  (Erik Ziegler)
 1. aevaSlicer volumetric mesh generation from segmentations (Sam Horvath)
