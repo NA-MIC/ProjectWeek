@@ -47,12 +47,12 @@ The format of this virtual event will be different from the in-person ones.  We 
 
 
 
-1. SlicerMorph: Registration, segmentation, surface manipulation of 3D biological datasets (Sara Rolfe)
 1. SlicerSALT: Shape analysis (Beatriz Paniagua, Kitware)
-1. SlicerCMF: Craniofacial image processing (David Allemang)
 1. SlicerHeart (Matthew Jolley)
-1. SlicerIGT and SlicerAIGT (Tamas Ungi)
 1. SlicerDMRI: diffusion imaging in Slicer (Lauren O’Donnell )
+1. SlicerIGT and SlicerAIGT (Tamas Ungi)
+1. SlicerMorph: Registration, segmentation, surface manipulation of 3D biological datasets (Sara Rolfe)
+1. SlicerCMF: Craniofacial image processing (David Allemang)
 1. [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
 1. [Virtual reality](Projects/SlicerVR/README.md) (Csaba Pinter)
 1. [Collaborative VR discussion]() (Csaba Pinter and Simon Drouin)
