@@ -47,11 +47,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Background and References
 
-* Portal: https://portal.imaging.datacommons.cancer.gov
-* Discourse (Forum): https://discourse.canceridc.dev/
-* Documentation: https://learn.canceridc.dev/
-* GitHub organization: https://github.com/ImagingDataCommons
-* Twitter: https://twitter.com/CancerIDC
-* YouTube channel: https://www.youtube.com/channel/UCQxuVp3_3aTJZBA4zZLMQtQ
+* Portal: [https://portal.imaging.datacommons.cancer.gov](https://portal.imaging.datacommons.cancer.gov)
+* Discourse (Forum): [https://discourse.canceridc.dev/](https://discourse.canceridc.dev/)
+* Documentation: [https://learn.canceridc.dev/](https://learn.canceridc.dev/)
+* GitHub organization: [https://github.com/ImagingDataCommons](https://github.com/ImagingDataCommons)
+* Twitter: [@CancerIDC](https://twitter.com/CancerIDC)
+* [IDC YouTube channel](https://www.youtube.com/channel/UCQxuVp3_3aTJZBA4zZLMQtQ)
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
