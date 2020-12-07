@@ -47,7 +47,6 @@ The format of this virtual event will be different from the in-person ones.  We 
 
 
 
-1. [Scalable Quality Assurance for Neuroimaging (SQAN)](Projects/SQAN/README.md) (Arvind Gopu)
 1. SlicerMorph: Registration, segmentation, surface manipulation of 3D biological datasets (Sara Rolfe)
 1. SlicerSALT: Shape analysis (Beatriz Paniagua, Kitware)
 1. SlicerCMF: Craniofacial image processing (David Allemang)
@@ -58,14 +57,15 @@ The format of this virtual event will be different from the in-person ones.  We 
 1. [Virtual reality](Projects/SlicerVR/README.md) (Csaba Pinter)
 1. [Collaborative VR discussion]() (Csaba Pinter and Simon Drouin)
 1. [SlicerArduino](Projects/SlicerArduino/README.md) (Paolo Zaffino, Maria Francesca Spadea)
+1. [SlicerWeb and Slicer in Cloud environments](Projects/Slicer_in_Cloud_Environments/README.md) (Steve Pieper, Theodore Aptekarev)
 1. OHIF web applications  (Erik Ziegler)
 1. aevaSlicer volumetric mesh generation from segmentations (Sam Horvath)
 1. Slicer Segmentation Editor (Andras)
 1. RadOncSegmentor Segmentation for Radiation Treatment Planning (Aditya Apte, Eve LoCastro, Harini Veeraraghavan, MSKCC)
 1. Landmark Curves for Brain Images (Jarrett Rushmore, BWH/MGH/BU, Sylvain Bouix, BWH/HMS,  Nikos Makris, BWH/MGH/HMS)
+1. [Scalable Quality Assurance for Neuroimaging (SQAN)](Projects/SQAN/README.md) (Arvind Gopu)
 1. NCI Imaging Data Commons (Andrey Fedorov,Steve Pieper)
 1. Train the Trainers formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Nayra Pumar)
-1. [SlicerWeb and Slicer in Cloud environments](Projects/Slicer_in_Cloud_Environments/README.md) (Steve Pieper, Theodore Aptekarev)
 1. Abdominal Aortic Aneurysm 4D CT registration (Farah Alkhatib, Adam Wittek, Karol Miller, Toby Richards, Hozan Mufty)
 1. Liver Resection Planning (Rafael Palomar, Ole Vegard Solberg, Geir Arne Tangen)
 1. [Subject hierarchy: Drag&drop folders in views](Projects/SubjectHierarchyFolders/README.md) (Csaba Pinter, Steve Pieper)
