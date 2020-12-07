@@ -54,7 +54,7 @@ The format of this virtual event will be different from the in-person ones.  We 
 1. SlicerCMF: Craniofacial image processing (David Allemang)
 1. [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
 1. [Virtual reality](Projects/SlicerVR/README.md) (Csaba Pinter)
-1. [Collaborative VR discussion]() (Csaba Pinter and Simon Drouin)
+1. [Collaborative VR discussion](Projects/CollaborativeVR/Readme.md) (Csaba Pinter and Simon Drouin)
 1. [SlicerArduino](Projects/SlicerArduino/README.md) (Paolo Zaffino, Maria Francesca Spadea)
 1. [SlicerWeb and Slicer in Cloud environments](Projects/Slicer_in_Cloud_Environments/README.md) (Steve Pieper, Theodore Aptekarev)
 1. OHIF web applications  (Erik Ziegler)
