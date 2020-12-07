@@ -79,6 +79,28 @@ Do not add your name to this list below. It is maintained by the organizers base
 List of registered participants so far (names will be added here after processing registrations):
 <!-- [List](REGISTRANTS.md) -->
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
+1. Simon Drouin
+1. Tina Kapur
+1. Nadya Shusharina
+1. Salim Kanoun
+1. Hans Johnson
+1. Steve Pieper
+1. Csaba Pintér
+1. Saima Safdar
+1. Alexandra Golby
+1. Randy Gollub
+1. Simon Oxenford
+1. Sonia Pujol
+1. Sylvain Bouix
+1. Khalid Al Orabi
+1. Andrey Fedorov
+1. Farah Alkhatib
+1. Dhruv Kool Rajamani
+1. Adam Wittek
+1. Matthew Toews
+1. Vivian Monezi Tetzner
+1. Samantha Horvath
+1. Rafael Palomar
 
 
 
