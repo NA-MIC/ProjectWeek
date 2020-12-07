@@ -2,6 +2,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # SlicerArduino
 
+![SlicerArduino graphical abstract](https://www.mdpi.com/bioengineering/bioengineering-07-00109/article_deploy/html/images/bioengineering-07-00109-ag.png)
+
 ## Key Investigators
 
 - Paolo Zaffino (Magna Graecia University of Catanzaro, Italy)
@@ -38,6 +40,8 @@ A [journal paper](https://www.mdpi.com/2306-5354/7/3/109) about SlicerArduino ha
 
 # Illustrations
 
+### SlicerArduino main window
+
 ![SlicerArduino main window](https://www.mdpi.com/bioengineering/bioengineering-07-00109/article_deploy/html/images/bioengineering-07-00109-g002.png)
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
@@ -46,5 +50,8 @@ A [journal paper](https://www.mdpi.com/2306-5354/7/3/109) about SlicerArduino ha
 -->
 
 # Background and References
+
+1. [Journal paper](https://www.mdpi.com/2306-5354/7/3/109)
+1. [Project webpage](https://pzaffino.github.io/SlicerArduinoController/)
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
