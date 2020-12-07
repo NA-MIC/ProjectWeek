@@ -32,8 +32,7 @@ The format of this virtual event will be different from the in-person ones.  We 
 ## Logistics
 - **Dates:** December 14-18, 2020.
 - **Location:** THE INTERNET
-- **Discourse Forum:** Please ask on [discourse forum](https://discourse.slicer.org/c/community/project-week) if you have questions.
-- **Mailing List:** [Link](https://public.kitware.com/mailman/listinfo/na-mic-project-week)
+- **Discourse Forum:** Please sign-up on the [discourse forum](https://discourse.slicer.org/c/community/project-week) to get updates and ask questions.
 - **REGISTRATION:** [Link](https://forms.gle/VFTNfKRNsgj6YSLB9)
 
 ## Program Calendar
