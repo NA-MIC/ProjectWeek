@@ -19,15 +19,14 @@ The format of this virtual event will be different from the in-person ones.  We 
 * Friday's session will be a training workshop focused on fostering partnerships with researchers and clinicians in Western Africa. 
 
 ### Agenda
-- Monday: | 12pm-2pm | 5-Minute Demos of All Projects (Moderator Simon Drouin)
 
-- Tuesday | 12pm-2pm | New Features in 3D Slicer; Focus on End to End Solutions (Moderator Beatriz Paniagua)
-
-- Wednesday | 12pm-2pm | Live Discourse - Questions and Answers from Users and Developers; Focus on Segmentation in 3D Slicer (Moderator Andras Lasso)
-
-- Thursday | 12pm-2pm | Advances in Web/Cloud Technologies  (Moderator Steve Pieper)
-
-- Friday | 9.40am-12pm | West African Partnerships (Moderator Juan Ruiz Alzola)
+| Day       | Time (ET)   | Description                                                                                          | Moderator        |
+|-----------|-------------|------------------------------------------------------------------------------------------------------|------------------|
+| Monday    | 12pm-2pm    | 5-Minute Demos of All Projects                                                                       | Simon Drouin     |
+| Tuesday   | 12pm-2pm    | New Features in 3D Slicer; Focus on End to End Solutions                                             | Beatriz Paniagua |
+| Wednesday | 12pm-2pm    | Live Discourse - Questions and Answers from Users and Developers; Focus on Segmentation in 3D Slicer | Andras Lasso     |
+| Thursday  | 12pm-2pm    | Advances in Web/Cloud Technologies                                                                   | Steve Pieper     |
+| Friday    | 9.40am-12pm | West African Partnerships                                                                            | Juan Ruiz Alzola |
 
 ## Logistics
 - **Dates:** December 14-18, 2020.
