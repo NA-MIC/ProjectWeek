@@ -23,7 +23,7 @@ Recently the feature [has been added to Slicer by Andras Lasso](https://github.c
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
+1. Consider how the feature would generalize from the BabySteps use case to work for other longitudinal applications where collections of reference and derived data must be managed (also should we consider Sequences in the design somehow?)
 1. ...
 1. ...
 
