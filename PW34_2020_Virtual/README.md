@@ -79,42 +79,42 @@ Do not add your name to this list below. It is maintained by the organizers base
 List of registered participants so far (names will be added here after processing registrations):
 <!-- [List](REGISTRANTS.md) -->
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
-1. Simon Drouin
-1. Tina Kapur
-1. Nadya Shusharina
-1. Salim Kanoun
-1. Hans Johnson
-1. Steve Pieper
-1. Csaba Pintér
-1. Saima Safdar
-1. Alexandra Golby
-1. Randy Gollub
-1. Simon Oxenford
-1. Sonia Pujol
-1. Sylvain Bouix
-1. Khalid Al Orabi
-1. Andrey Fedorov
-1. Farah Alkhatib
-1. Dhruv Kool Rajamani
-1. Adam Wittek
-1. Matthew Toews
-1. Vivian Monezi Tetzner
-1. Samantha Horvath
-1. Rafael Palomar
-1. Paolo Zaffino
-1. Michael Young
-1. Arvind Gopu
-1. Attila Nagy
-1. Curtis Lisle
-1. Vinicius Pavanelli Vianna
-1. NIKOLAOS MAKRIS
-1. Tamas Ungi
-1. Eve LoCastro
-1. Ole Vegard Solberg
-1. Mehran Azimbagirad
-1. Sara Rolfe
-1. Junichi Tokuda
-1. Harini Veeraraghavan
+1.	Simon Drouin	,	École de technologie supérieure (ETS Montreal)	,	QC	,	Canada
+1.	Tina Kapur	,	Brigham and Women's Hospital and Harvard Medical School	,	MA	,	USA
+1.	Nadya Shusharina	,	Massachusetts General Hospital	,	MA	,	USA
+1.	Salim Kanoun	,	Institut Claudius Regaud - Toulouse	,	Occitanie	,	France
+1.	Hans Johnson	,	University of Iowa	,	IA	,	USA
+1.	Steve Pieper	,	Isomics, Inc.	,	MA	,	USA
+1.	Csaba Pintér	,	Ebatinca S.L., Pixel Medical Inc.	,	Las Palmas	,	Spain
+1.	Saima Safdar	,	University of western australia	,	WA	,	Australia
+1.	Alexandra Golby	,	Brigham and Women’s hospital and Harvard Medical School 	,	MA	,	United States 
+1.	Randy Gollub	,	MGH	,	MA	,	USA
+1.	Simon Oxenford	,	Charité – Universitätsmedizin Berlin	,	Berlin	,	Germany
+1.	Sonia Pujol	,	Brigham and Women's Hospital, Harvard Medical School	,	MA	,	USA
+1.	Sylvain Bouic	,	Brigham and Women's Hospital	,	MA	,	USA
+1.	Khalid Al Orabi	,	King abdullah medical city 	,	Makkah	,	Saudi Arabia
+1.	Andrey Fedorov	,	Brigham and Women's Hospital	,	MA	,	USA
+1.	Farah Alkhatib	,	University of Western Australia 	,	Western Australia 	,	Australia
+1.	Dhruv Kool Rajamani	,	Worcester Polytechnic Institute	,	MA	,	USA
+1.	Adam Wittek	,	Intelligent Systems for Medicine Laboratory, The University of Western Australia	,	Western Australia	,	Australia
+1.	Matthew Toews	,	École de Technologie Supérieure	,	QC	,	Canada
+1.	Vivian Monezi Tetzner	,	USP-FFCLRP	,	SP	,	Brazil
+1.	Samantha Horvath	,	Kitware	,	North Carolina	,	USA
+1.	Rafael Palomar	,	Oslo University Hospital	,	Norway	,	Norway
+1.	Paolo Zaffino	,	Magna Graecia University of Catanzaro	,	Catanzaro	,	Italy
+1.	Michael Young	,	Indiana University	,	IN	,	USA
+1.	Arvind Gopu	,	Indiana University	,	Indiana	,	USA
+1.	Attila Nagy	,	University of Szeged	,	Szeged	,	Hungary
+1.	Curtis Lisle	,	KnowledgeVis, LLC	,	FL	,	USA
+1.	Vinicius Pavanelli Vianna	,	USP - University of Sao Paulo	,	Sao Paolo	,	Brazil
+1.	NIKOLAOS MAKRIS	,	MASSACHUSETTS GENERAL HOSPITAL	,	MA	,	USA
+1.	Tamas Ungi	,	Queen's University	,	Ontario	,	Canada
+1.	Eve LoCastro	,	Memorial Sloan Kettering Cancer Center	,	NY	,	USA
+1.	Ole Vegard Solberg	,	SINTEF	,	Trøndelag	,	Norway
+1.	Mehran Azimbagirad	,	University of Sao Paulo	,	SP	,	Brazil
+1.	Sara Rolfe	,	University of Washington	,	WA	,	USA
+1.	Junichi Tokuda	,	Brigham and Women's Hospital	,	MA	,	USA
+1.	Harini Veeraraghavan	,	Memorial Sloan Kettering Cancer Center	,	NY	,	USA
 
 ## Statistics
 
