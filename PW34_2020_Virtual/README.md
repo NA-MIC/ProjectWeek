@@ -104,7 +104,11 @@ List of registered participants so far (names will be added here after processin
 1. Paolo Zaffino
 1. Michael Young
 1. Arvind Gopu
-
+1. Attila Nagy
+1. Curtis Lisle
+1. Vinicius Pavanelli Vianna
+1. NIKOLAOS MAKRIS
+1. Tamas Ungi
 
 
 ## Statistics
