@@ -27,7 +27,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 1. Present a brief demo of IDC.
 2. Summarize main pointers related to IDC.
-3. Be available for one-on-one discussions with the interested project week.
+3. Be available for one-on-one discussions with the interested participants during project week.
 4. Summarize collected feedback, if any.
 
 ## Progress and Next Steps
@@ -53,6 +53,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 * GitHub organization: [https://github.com/ImagingDataCommons](https://github.com/ImagingDataCommons)
 * Twitter: [@CancerIDC](https://twitter.com/CancerIDC)
 * [IDC YouTube channel](https://www.youtube.com/channel/UCQxuVp3_3aTJZBA4zZLMQtQ)
-* [NCI Data Commons](https://datacommons.cancer.gov/)=
+* [NCI Data Commons](https://datacommons.cancer.gov/)
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
