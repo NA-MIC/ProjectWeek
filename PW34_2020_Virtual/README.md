@@ -64,7 +64,6 @@ The format of this virtual event will be different from the in-person ones.  We 
 1. [Scalable Quality Assurance for Neuroimaging (SQAN)](Projects/SQAN/README.md) (Arvind Gopu)
 1. [NCI Imaging Data Commons](Projects/ImagingDataCommons/README.md) (Andrey Fedorov,Steve Pieper, Ron Kikinis)
 1. Train the Trainers formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Nayra Pumar)
-1. Abdominal Aortic Aneurysm 4D CT registration (Farah Alkhatib, Adam Wittek, Karol Miller, Toby Richards, Hozan Mufty)
 1. [SlicerLiverAnalysis](Projects/SlicerLiverAnalysis/README.md) (Rafael Palomar OUS,NTNU. Ole Vegard Solberg, SINTEF)
 1. [Subject hierarchy: Drag&drop folders in views](Projects/SubjectHierarchyFolders/README.md) (Csaba Pinter, Steve Pieper)
 1. [MICUDA - Generalized Entropy MI Registration](Projects/MICUDA/README.md) (Luiz Otavio Murta, Vinicius Pavanelli Vianna)
