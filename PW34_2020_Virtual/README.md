@@ -49,7 +49,7 @@ The format of this virtual event will be different from the in-person ones.  We 
 1. [SlicerHeart](Projects/SlicerHeart/README.md) (Andras Lasso)
 1. SlicerDMRI: diffusion imaging in Slicer (Lauren O’Donnell )
 1. [SlicerIGT and AIGT](Projects/SlicerIGT/README.md) (Tamas Ungi)
-1. SlicerMorph: Registration, segmentation, surface manipulation of 3D biological datasets (Sara Rolfe)
+1. [SlicerMorph: An open and extensible platform to retrieve, visualize and analyze 3D morphology](Projects/SlicerMorph/README.md) (Sara Rolfe)
 1. [SlicerCMF: Craniofacial image processing](Projects/SlicerCMF/README.md) (David Allemang)
 1. [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
 1. [Virtual reality](Projects/SlicerVR/README.md) (Csaba Pinter)
