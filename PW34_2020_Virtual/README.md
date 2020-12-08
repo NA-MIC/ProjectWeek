@@ -23,7 +23,7 @@ The format of this virtual event will be different from the in-person ones.  We 
 | Day       | Time (ET)   | Description                                                                                          | Moderator        |
 |-----------|-------------|------------------------------------------------------------------------------------------------------|------------------|
 | Monday    | 12pm-2pm    | 5-Minute Demos of All Projects                                                                       | Simon Drouin     |
-| Tuesday   | 12pm-2pm    | New Features in 3D Slicer; Focus on End to End Solutions                                             | Beatriz Paniagua |
+| Tuesday   | 12pm-2pm    | [New Features in 3D Slicer; Focus on End to End Solutions](https://docs.google.com/document/d/1Gh_xwt3pZuvXGPEa_Ex8w_mDF42iOKhz1eldMjxNV00/edit)                                             | Beatriz Paniagua |
 | Wednesday | 12pm-2pm    | Live Discourse - Questions and Answers from Users and Developers; Focus on Segmentation in 3D Slicer | Andras Lasso     |
 | Thursday  | 12pm-2pm    | [Advances in Web/Cloud Technologies](https://docs.google.com/document/d/19-mm6yRuMsBiPTJ3v8hcINlNr33mVOQ3OnxaqSYcMFY/edit)                                                                   | Steve Pieper     |
 | Friday    | 9.40am-12pm | West African Partnerships                                                                            | Juan Ruiz Alzola |
