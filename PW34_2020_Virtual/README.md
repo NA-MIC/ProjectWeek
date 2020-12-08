@@ -109,7 +109,12 @@ List of registered participants so far (names will be added here after processin
 1. Vinicius Pavanelli Vianna
 1. NIKOLAOS MAKRIS
 1. Tamas Ungi
-
+1. Eve LoCastro
+1. Ole Vegard Solberg
+1. Mehran Azimbagirad
+1. Sara Rolfe
+1. Junichi Tokuda
+1. Harini Veeraraghavan
 
 ## Statistics
 
