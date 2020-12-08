@@ -4,9 +4,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Tamas Ungi (Queen's University)
-- Andras Lasso (Queen's University)
-- Kyle Sunderland (Queen's University)
+- Tamas Ungi (Queen's University, Canada)
+- Tina Kapur (Brigham and Women's Hospital, USA)
+- Simon Drouin (École de Technologie Supérieure, Canada)
+- Steve Pieper (Isomics, USA)
+- Andras Lasso (Queen's University, Canada)
+- Kyle Sunderland (Queen's University, Canada)
 
 # Project Description
 
