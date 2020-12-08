@@ -67,6 +67,7 @@ The format of this virtual event will be different from the in-person ones.  We 
 1. Abdominal Aortic Aneurysm 4D CT registration (Farah Alkhatib, Adam Wittek, Karol Miller, Toby Richards, Hozan Mufty)
 1. Liver Resection Planning (Rafael Palomar, Ole Vegard Solberg, Geir Arne Tangen)
 1. [Subject hierarchy: Drag&drop folders in views](Projects/SubjectHierarchyFolders/README.md) (Csaba Pinter, Steve Pieper)
+1. [MICUDA - Generalized Entropy MI Registration](Projects/MICUDA/README.md) (Luiz Otavio Murta, Vinicius Pavanelli Vianna)
 
 
 
