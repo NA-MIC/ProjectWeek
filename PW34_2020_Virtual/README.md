@@ -114,6 +114,11 @@ List of registered participants so far (names will be added here after processin
 1.	Sara Rolfe	,	University of Washington	,	WA	,	USA
 1.	Junichi Tokuda	,	Brigham and Women's Hospital	,	MA	,	USA
 1.	Harini Veeraraghavan	,	Memorial Sloan Kettering Cancer Center	,	NY	,	USA
+1.	Renzo Phellan Aro	,	McGill University	,	QC	,	Canada
+1.	Beatriz Paniagua	,	Kitware Inc	,	NC	,	USA
+1.	Theodore Aptekarev	,	-	,	-	,	Russia/Israel
+1.	Eleni Siampli	,	Childrens National Medical Center	,	DC	,	USA
+1.	Ron Kikinis	,	Harvard Medical School	,	Massachusetts	,	USA
 
 ## Statistics
 
