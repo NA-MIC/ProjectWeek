@@ -116,6 +116,13 @@ List of registered participants so far (names will be added here after processin
 1.	Carl-Fredrik Westin	,	Harvard Medical School	,	MA	,	United States
 1.	Lauren J ODonnell	,	BWH	,	MA	,	United States
 1.	Raul San Jose	,	Brigham and Women's Hospital	,	MA	,	USA
+1.	Julien Finet	,	Kitware	,	Rhône-Alpes	,	France
+1.	David Allemang	,	Kitware Inc	,	NC	,	USA
+1.	Forrest Li	,	Kitware, Inc.	,	NC	,	USA
+1.	Matt McCormick	,	Kitware	,	North Carolina	,	USA
+1.	Sarah Frisken	,	Brigham and Women's Hospital	,	MA	,	USA
+1.	Jean-Christophe Fillion-Robin	,	Kitware	,	North Carolina	,	USA
+1.	Nick Jowkar	,	Brigham and Women's Hospital 	,	MA	,	USA
 
 ## Statistics
 
