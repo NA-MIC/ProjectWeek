@@ -9,6 +9,12 @@ The event is free and connection details will be provided after [registering](ht
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
 
+## Logistics
+- **Dates:** December 14-18, 2020.
+- **Location:** THE INTERNET
+- **Discourse Forum:** Please sign-up on the [discourse forum](https://discourse.slicer.org/c/community/project-week) to get updates and ask questions.
+- **REGISTRATION:** [Link](https://forms.gle/VFTNfKRNsgj6YSLB9)
+
 ## Format
 
 The format of this virtual event will be different from the in-person ones.
@@ -20,15 +26,6 @@ The format of this virtual event will be different from the in-person ones.
 
 ### Agenda
 
-See [Program Calendar](https://projectweek.na-mic.org/PW34_2020_Virtual/#program-calendar) below.
-
-## Logistics
-- **Dates:** December 14-18, 2020.
-- **Location:** THE INTERNET
-- **Discourse Forum:** Please sign-up on the [discourse forum](https://discourse.slicer.org/c/community/project-week) to get updates and ask questions.
-- **REGISTRATION:** [Link](https://forms.gle/VFTNfKRNsgj6YSLB9)
-
-## Program Calendar
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic&mode=WEEK&dates=20201214%2f20201218" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 [How to add this calendar to your own?](../common/Calendar.md)
