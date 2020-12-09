@@ -20,29 +20,7 @@ The format of this virtual event will be different from the in-person ones.
 
 ### Agenda
 
-Monday
-* 11am EST (GMT-5): Meeting "Venue" (Zoom rooms) will open for getting ready, testing internet connectivity, informal conversations
-* 12pm: Welcome (Ron Kikinis, Tina Kapur)
-* 12:05pm: Introduction and Review of Agenda (Simon Drouin)
-* 12:15pm-1:55pm: 5-minute Presentations of all Projects (Moderator Simon Drouin)
-* 1:55 pm: Closing Remarks for the day (Simon Drouin)
-* 2:05-3pm: Optional Breakout Session on Ultrasound Image Guided Therapy  (Breakout Room 1)
-
-Tuesday
-* 11am EST (GMT-5): Meeting "Venue" (Zoom rooms) will open for getting ready, testing internet connectivity, informal conversations
-* 12-2pm:[New Features in 3D Slicer; Focus on End to End Solutions](https://docs.google.com/document/d/1Gh_xwt3pZuvXGPEa_Ex8w_mDF42iOKhz1eldMjxNV00/edit) (Moderator Beatriz Paniagua)
-
-Wednesday
-* 11am EST (GMT-5): Meeting "Venue" (Zoom rooms) will open for getting ready, testing internet connectivity, informal conversations
-* 12-2pm: Live Discourse - Questions and Answers from Users and Developers (Moderator Andras Lasso)
-
-Thursday
-* 11am EST (GMT-5): Meeting "Venue" (Zoom rooms) will open for getting ready, testing internet connectivity, informal conversations
-* 12-2pm: [Advances in Web/Cloud Technologies](https://docs.google.com/document/d/19-mm6yRuMsBiPTJ3v8hcINlNr33mVOQ3OnxaqSYcMFY/edit) (Moderator Steve Pieper)
-
-Friday
-* 9.40am EST/14h40 GMT [West African Partnerships](https://docs.google.com/document/d/18KeN5E3HDOEKoJt6Adx4RPFF2syzydjnxEgi8WOCg6Y/edit) (Moderator Juan Ruiz Alzola)
-
+See https://projectweek.na-mic.org/PW34_2020_Virtual/#program-calendar
 
 ## Logistics
 - **Dates:** December 14-18, 2020.
