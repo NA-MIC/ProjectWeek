@@ -20,7 +20,7 @@ The format of this virtual event will be different from the in-person ones.
 
 ### Agenda
 
-See https://projectweek.na-mic.org/PW34_2020_Virtual/#program-calendar
+See [Program Calendar](https://projectweek.na-mic.org/PW34_2020_Virtual/#program-calendar) below.
 
 ## Logistics
 - **Dates:** December 14-18, 2020.
