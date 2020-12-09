@@ -113,6 +113,9 @@ List of registered participants so far (names will be added here after processin
 1.	Theodore Aptekarev	,	-	,	-	,	Russia/Israel
 1.	Eleni Siampli	,	Childrens National Medical Center	,	DC	,	USA
 1.	Ron Kikinis	,	Harvard Medical School	,	Massachusetts	,	USA
+1.	Carl-Fredrik Westin	,	Harvard Medical School	,	MA	,	United States
+1.	Lauren J ODonnell	,	BWH	,	MA	,	United States
+1.	Raul San Jose	,	Brigham and Women's Hospital	,	MA	,	USA
 
 ## Statistics
 
