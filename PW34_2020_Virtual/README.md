@@ -19,13 +19,13 @@ The format of this virtual event will be different from the in-person ones.  We 
 * Friday's session will be a training workshop focused on fostering partnerships with researchers and clinicians in Western Africa. 
 
 ### Agenda
-Monday
-11am: Meeting "Venue" (Zoom rooms) will open for getting ready, testing internet connectivity, informal conversations
-12pm: Welcome (Ron Kikinis, Tina Kapur)
-12:05pm: Introduction and Review of Agenda (Simon Drouin)
-12:15pm-2pm: 5-minute Presentations of all Projects (Moderator Simon Drouin)
-2pm: Closing Remarks for the day (Simon Drouin)
-2:05-3pm: Optional Breakout Session on Ultrasound Image Guided Therapy  (Breakout Room 1)
+*Monday
+** 11am: Meeting "Venue" (Zoom rooms) will open for getting ready, testing internet connectivity, informal conversations
+** 12pm: Welcome (Ron Kikinis, Tina Kapur)
+** 12:05pm: Introduction and Review of Agenda (Simon Drouin)
+** 12:15pm-1:55pm: 5-minute Presentations of all Projects (Moderator Simon Drouin)
+** 1:55 pm: Closing Remarks for the day (Simon Drouin)
+** 2:05-3pm: Optional Breakout Session on Ultrasound Image Guided Therapy  (Breakout Room 1)
 
 Tuesday
 12-2pm:[New Features in 3D Slicer; Focus on End to End Solutions](https://docs.google.com/document/d/1Gh_xwt3pZuvXGPEa_Ex8w_mDF42iOKhz1eldMjxNV00/edit) (Moderator Beatriz Paniagua)
