@@ -54,7 +54,7 @@ The format of this virtual event will be different from the in-person ones.
 1. Landmark Curves for Brain Images (Jarrett Rushmore, BWH/MGH/BU, Sylvain Bouix, BWH/HMS,  Nikos Makris, BWH/MGH/HMS)
 1. [Scalable Quality Assurance for Neuroimaging (SQAN)](Projects/SQAN/README.md) (Arvind Gopu)
 1. [NCI Imaging Data Commons](Projects/ImagingDataCommons/README.md) (Andrey Fedorov,Steve Pieper, Ron Kikinis)
-1. [Train the Trainers] (Projects/TrainTheTrainers/README.md)  formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Nayra Pumar)
+1. [Train the Trainers](Projects/TrainTheTrainers/README.md)  formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Nayra Pumar)
 1. [SlicerLiverAnalysis](Projects/SlicerLiverAnalysis/README.md) (Rafael Palomar OUS,NTNU. Ole Vegard Solberg, SINTEF)
 1. [Subject hierarchy: Drag&drop folders in views](Projects/SubjectHierarchyFolders/README.md) (Csaba Pinter, Steve Pieper)
 1. [MICUDA - Generalized Entropy MI Registration](Projects/MICUDA/README.md) (Luiz Otavio Murta, Vinicius Pavanelli Vianna)
