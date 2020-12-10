@@ -1,7 +1,7 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
-Train the Trainers: formation program with African countries
+# Train the Trainers: formation program with African countries
+
 
 ## Key Investigators
 
