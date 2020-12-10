@@ -121,7 +121,19 @@ List of registered participants so far (names will be added here after processin
 1.	Sarah Frisken	,	Brigham and Women's Hospital	,	MA	,	USA
 1.	Jean-Christophe Fillion-Robin	,	Kitware	,	North Carolina	,	USA
 1.	Nick Jowkar	,	Brigham and Women's Hospital 	,	MA	,	USA
-
+1.	Luiz Murta	,	University of São Paulo	,	SP	,	Brasil
+1.	Murat Maga	,	Seattle Children's Research Institute / University of Washington	,	WA	,	USA
+1.	Marco Nolden	,	German Cancer Research Center (DKFZ)	,	N/A	,	Germany
+1.	Nayra Pumar Carreras	,	Universidad de Las Palmas de Gran Canaria	,	Las Palmas	,	Spain
+1.	khalid Elamin Awad	,	University of Khartoum, Faculty of Medicine	,	Khartoum	,	Sudan 
+1.	Marie Ndiaye	,	Université Assane Seck de Ziguinchor	,	Sénégal	,	Sénégal
+1.	Gregory C. Sharp	,	Massachusetts General Hospital	,	MA	,	USA
+1.	David García-Mato	,	Universidad Carlos III de Madrid	,	Madrid	,	Spain
+1.	Samba NDIAYE	,	CHEIKH ANTA DIOP UNIVERSITY	,	SENEGAL	,	SENEGAL
+1.	Ahmed Temtam	,	Old Dominion University 	,	VA	,	USA
+1.	Jared Vicory	,	Kitware	,	NC	,	USA
+1.	Daniel Haehn	,	University of Massachusetts Boston	,	MA	,	USA
+1.	Jarrett Rushmore	,	Boston University, Brigham and Women's Hospital, MGH	,	MA	,	USA
 ## Statistics
 
 
