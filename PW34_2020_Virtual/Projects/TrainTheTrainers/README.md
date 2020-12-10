@@ -26,9 +26,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Provide training in 3D Slicer for university teachers, so they can start implementing the use of this software in their lectures
-1. Objective B. Familiarize participants with a collaborative open source sofware environment
-1. Objective C. Introduction to IGT
+Objective A. Provide training in 3D Slicer for university teachers, so they can start implementing the use of this software in their lectures
+Objective B. Familiarize participants with a collaborative open source sofware environment
+Objective C. Introduction to IGT
 
 ## Approach and Plan
 
