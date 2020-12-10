@@ -43,6 +43,7 @@ The format of this virtual event will be different from the in-person ones.
 1. [SlicerMorph: An open and extensible platform to retrieve, visualize and analyze 3D morphology](Projects/SlicerMorph/README.md) (Sara Rolfe)
 1. [SlicerCMF: Craniofacial image processing](Projects/SlicerCMF/README.md) (David Allemang)
 1. [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
+1. [MONAI: PyTorch-based, open-source framework for deep learning in healthcare imaging](Projects/MONAI/README.md) (Stephen Aylward)
 1. [Napari: multi-dimensional image viewer for python](Projects/Napari/README.md) (Nicholas Sofroniew)
 1. [Virtual reality](Projects/SlicerVR/README.md) (Csaba Pinter)
 1. [Collaborative VR discussion](Projects/CollaborativeVR/Readme.md) (Csaba Pinter and Simon Drouin)
