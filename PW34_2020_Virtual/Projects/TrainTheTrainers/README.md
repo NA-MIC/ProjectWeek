@@ -7,18 +7,19 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Juan Ruiz Alzola (Universidad de Las Palmas de Gran Canaria)
 - Asmaa Skareb (Instituto Tecnológico de Canarias)
+- Marilola Afonso (Universidad de Las Palmas de Gran Canaria)
 - Nayra Pumar Carreras (Instituto Tecnológico de Canarias)
 
 # Project Description
 
 3D Slicer course and introductory sessions for IGT. This training program has been developed in colaboration with universities from
-*Senegal
-*Mauritania
-*Morocco
-*Sudan
-*Syria
-*Mozambique
-*Ghana
+* Senegal
+* Mauritania
+* Morocco
+* Sudan
+* Syria
+* Mozambique
+* Ghana
 
 <!-- Add a short paragraph describing the project. -->
 
