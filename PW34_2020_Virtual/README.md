@@ -28,6 +28,8 @@ In addition to the scheduled presentations, each project will likely create sepa
 
 ### Agenda
 
+**Note: All times listed in the calendar below are given in EST timezone.**
+
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic&mode=WEEK&dates=20201214%2f20201218" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 [How to add this calendar to your own?](../common/Calendar.md)
@@ -173,5 +175,4 @@ List of registered participants so far (names will be added here after processin
 1.	Tim Olsen	,	Radiologics	,	IL	,	USA
 
 ## Statistics
-
 
