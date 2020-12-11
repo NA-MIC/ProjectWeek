@@ -66,6 +66,7 @@ In addition to the scheduled presentations, each project will likely create sepa
 1. [Subject hierarchy: Drag&drop folders in views](Projects/SubjectHierarchyFolders/README.md) (Csaba Pinter, Steve Pieper)
 1. [MICUDA - Generalized Entropy MI Registration](Projects/MICUDA/README.md) (Luiz Otavio Murta, Vinicius Pavanelli Vianna)
 1. [Plastimatch](Projects/Plastimatch/README.md) (Greg Sharp)
+1. [XNAT-OHIF](Projects/XNAT-OHIF/README.md) (Greg Sharp)
 
 
 ## Registrants
