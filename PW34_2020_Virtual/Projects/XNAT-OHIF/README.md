@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# XNAT - OHIF
+# XNAT: OHIF 2.0 and annotation workflows
 
 ## Key Investigators
 
@@ -11,37 +11,33 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
+XNAT 1.8 will be released December 21 with an upgraded viewer built on OHIF 2.0 (woohoo!). There's still plenty of room for improvement, in particular to support more complex image annotation workflows.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Objective A. Identify and implement performance improvements, particularly in transferring content between XNAT and the viewer.
+1. Objective B. Identify and implement format for capturing broader range of image annotations.
+1. Objective C. Identify and implement storage of image annotations in XNAT.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Get input on stroage formats from others in the community. What are the right DICOM and/or non-DICOM formats for capturing text, lines, boxes, etc.
+1. Dig in.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
+1. TBD
 1. ...
 1. ...
 
 # Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![4-up view with 3D objects](xnatohif4up.jpg)
 
 # Background and References
 
