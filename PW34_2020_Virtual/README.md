@@ -135,6 +135,41 @@ List of registered participants so far (names will be added here after processin
 1.	Jared Vicory	,	Kitware	,	NC	,	USA
 1.	Daniel Haehn	,	University of Massachusetts Boston	,	MA	,	USA
 1.	Jarrett Rushmore	,	Boston University, Brigham and Women's Hospital, MGH	,	MA	,	USA
+1.	Tagwa Idris	,	Massachusetts General Hospital 	,	MA	,	USA
+1.	Fathelrahman Idris Gasmelseed Ali	,	University of Khartoum, Faculty of medicine 	,	Khartoum 	,	Sudan 
+1.	EL Tahir Ahmed EL Tahir	,	University of Alfashir	,	North Darfur	,	Sudan
+1.	Abdelmajed Manna 	,	Department of Anatomy, university of Alfashir 	,	North Darfur 	,	Sudan 
+1.	Noureldeen abaker	,	Uorolgy resident	,	South Darfur	,	Sudan
+1.	Mahil Mohamed Sharief Abdalla	,	Department of Anatomy, Faculty of Medicine, University of Khartoum 	,	Khartoum 	,	Sudan
+1.	Haythem Mohammed Gorshi Ahmed 	,	University of Khartoum 	,	Khartoum 	,	Sudan 
+1.	Abuzar Mubarak Omer Osman	,	Ondokuz mayıs üniversity OMÜ	,	black sea	,	Turkey
+1.	Ehab Mohammed Rabie Abd Allah	,	Cairo University school of medicine	,	Khartoum	,	Sudan 
+1.	Nicholas Sofroniew	,	Chan Zuckerberg Initiative	,	CA	,	USA
+1.	Osama Mohammed Ahmed Mohammed ELNOUR 	,	Faculty of medicine and health scince 	,	North Darfur State 	,	Sudan 
+1.	Mustafa Bahar	,	Soba University Hospital 	,	Khartoum	,	Sudan
+1.	Dr.anatomy83@yahoo.com	,	Prince Sattam bin Abdulaziz University 	,	Riyadh 	,	Saudi Arabia 
+1.	 Abubaker Elssidig Elhaj Bakhit Farg	,	University of Ha'il. KSA	,	Ha'il Prevalence 	,	Saudia Arabia 
+1.	Pape Mady THIAO 	,	École militaire de santé de Dakar 	,	SÉNÉGAL 	,	Sénégal 
+1.	Elsadig Suleiman Adam 	,	Nyala Specialized Hospital 	,	South Darfur 	,	Sudan 
+1.	Juan Ruiz-Alzola	,	University of Las Palmas de Gran Canaria	,	Canarias	,	Spain
+1.	Idafen Santana	,	Las Palmas de Gran Canaria University	,	Canary Islands	,	Spain
+1.	NORALDAIM AHMED FADOL MOHAMMED 	,	Ministry of health 	,	Darfor	,	Sudan 
+1.	Leila omer adam Ahmed	,	University of al fashir	,	North Darfur	,	Sudan
+1.	Babacar DIAO	,	Cheikh Anta DIOP University	,	Senegal	,	Senegal
+1.	Khaly / TALL	,	Ecole Supérieure Polytechnique de Dakar	,	Sénégal	,	Sénégal
+1.	Idy	,	École Supérieure Polytechnique	,	Senegal	,	Senegal
+1.	Stephen Aylward	,	Kitware	,	NC	,	USA
+1.	Salah Osman	,	Rick	,	Sudan	,	Sudan
+1.	Selly Suzuki	,	São Leopoldo Mandic 	,	Sao Paulo	,	Brazil
+1.	Haythem Guermazi	,	Faculté de Médecine de L'université de Nouakchott Al Aasriya Mauritania	,	Nouakchott	,	Mauritania
+1.	William Wells	,	BWH	,	MA	,	USA
+1.	Christian Herz	,	Children's Hospital of Philadelphia	,	PA	,	USA
+1.	Mamadou Samba CAMARA	,	Ecole Supérieure Polytechnique / University of Dakar	,	Senegal	,	Senegal
+1.	Michal Brzus	,	University of Iowa	,	IA	,	USA
+1.	Wafa Nour	,	Khartoum breast care center	,	Khartoum	,	Sudan
+1.	Izabel Rubira-Bullen	,	University Sao Paulo	,	Sao Paulo	,	Brazil
+1.	Tim Olsen	,	Radiologics	,	IL	,	USA
+
 ## Statistics
 
 
