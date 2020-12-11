@@ -32,8 +32,7 @@ Notes on the agenda:
 * Wednesday's session will be a question and answer session about 3D Slicer for users and developers, a "live" version of what takes place asynchronously on the Slicer discourse forum.
 * Thursday's session will be a discussion on recent advancing in the web and cloud technologies that are being used to create browser based visualization applications and large open databases.
 * Friday's will be a training workshop focused on fostering partnerships with researchers and clinicians in Western Africa. 
-
-In addition to the scheduled presentations, each project will likely create separate breakout sessions to work in small groups.  Please coordinate with your project team members to identify communication channels.
+* In addition to the scheduled presentations, projects many create separate breakout sessions to work in small groups.  Please coordinate with your project team members to identify communication channels.
 
 
 <a name="ProjectsList"/>
