@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Stephen Kitware (Kitware)
 - Matt McCormick (Kitware)
 - Hans Johnson (The University of Iowa)
+- Michal Brzus (The University of Iowa)
 
 # Project Description
 
