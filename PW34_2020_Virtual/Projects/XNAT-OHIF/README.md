@@ -37,7 +37,7 @@ XNAT 1.8 will be released December 21 with an upgraded viewer built on OHIF 2.0 
 1. ...
 
 # Illustrations
-![4-up view with 3D objects](xnatohif4up.jpg)
+![4-up view with 3D objects](xnatohif4up.png)
 
 # Background and References
 
