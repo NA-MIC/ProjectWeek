@@ -26,7 +26,9 @@ The format of this virtual event will be different from the in-person ones.
 
 In addition to the scheduled presentations, each project will likely create separate breakout sessions to work in small groups.  Please coordinate with your project team members to identify communication channels.
 
-### Agenda (All times listed in caldendar below are given in EST timezone)
+### Agenda
+
+**Note: All times listed in the calendar below are given in EST timezone.**
 
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic&mode=WEEK&dates=20201214%2f20201218" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -173,5 +175,4 @@ List of registered participants so far (names will be added here after processin
 1.	Tim Olsen	,	Radiologics	,	IL	,	USA
 
 ## Statistics
-
 
