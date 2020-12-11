@@ -24,6 +24,8 @@ The format of this virtual event will be different from the in-person ones.
 * Thursday's session will be a discussion on recent advancing in the web and cloud technologies that are being used to create browser based visualization applications and large open databases.
 * Friday's will be a training workshop focused on fostering partnerships with researchers and clinicians in Western Africa. 
 
+In addition to the scheduled presentations, each project will likely create separate breakout sessions to work in small groups.  Please coordinate with your project team members to identify communication channels.
+
 ### Agenda
 
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic&mode=WEEK&dates=20201214%2f20201218" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
