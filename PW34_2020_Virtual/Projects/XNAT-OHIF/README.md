@@ -1,13 +1,12 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
-XNAT - OHIF
+# XNAT - OHIF
 
 ## Key Investigators
 
 - Dan Marcus (Washington University)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Kate Alpert (Radiologics)
+- Tim Olsen (Radiologics)
 
 # Project Description
 
