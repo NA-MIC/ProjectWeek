@@ -50,6 +50,7 @@ The format of this virtual event will be different from the in-person ones.
 1. [SlicerArduino](Projects/SlicerArduino/README.md) (Paolo Zaffino, Maria Francesca Spadea)
 1. [SlicerWeb and Slicer in Cloud environments](Projects/Slicer_in_Cloud_Environments/README.md) (Steve Pieper, Theodore Aptekarev)
 1. OHIF web applications  (Erik Ziegler)
+1. XNAT: OHIF 2.0, NVIDIA AI assisted annotations (Dan Marcus)
 1. [aevaSlicer volumetric mesh generation from segmentations](Projects/aevaSlicer/Readme.md) (Sam Horvath)
 1. Slicer Segmentation Editor (Andras)
 1. RadOncSegmentor Segmentation for Radiation Treatment Planning (Aditya Apte, Eve LoCastro, Harini Veeraraghavan, MSKCC)
