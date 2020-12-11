@@ -60,8 +60,7 @@ The format of this virtual event will be different from the in-person ones.
 1. [SlicerLiverAnalysis](Projects/SlicerLiverAnalysis/README.md) (Rafael Palomar OUS,NTNU. Ole Vegard Solberg, SINTEF)
 1. [Subject hierarchy: Drag&drop folders in views](Projects/SubjectHierarchyFolders/README.md) (Csaba Pinter, Steve Pieper)
 1. [MICUDA - Generalized Entropy MI Registration](Projects/MICUDA/README.md) (Luiz Otavio Murta, Vinicius Pavanelli Vianna)
-
-
+1. [Plastimatch](Projects/Plastimatch/README.md) (Greg Sharp)
 
 
 ## Registrants
