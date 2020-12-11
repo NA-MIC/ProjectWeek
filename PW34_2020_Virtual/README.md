@@ -11,13 +11,22 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Logistics
 - **Dates:** December 14-18, 2020.
-- **Location:** THE INTERNET
+- **Location:** THE INTERNET (A zoom link will be emailed to all registered attendees by December 13, 2020)
 - **Discourse Forum:** Please sign-up on the [discourse forum](https://discourse.slicer.org/c/community/project-week) to get updates and ask questions.
 - **REGISTRATION:** [Link](https://forms.gle/VFTNfKRNsgj6YSLB9)
 
-## Format
 
-The format of this virtual event will be different from the in-person ones.
+## Agenda
+
+**Note: All times listed in the calendar below are given in EST timezone.**
+
+<iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic&mode=WEEK&dates=20201214%2f20201218" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+[How to add this calendar to your own?](../common/Calendar.md)
+
+Notes on the agenda:
+
+* The format of this virtual event will be different from the in-person ones.
 * Monday's session will include 5-minute project presentations that include demos.  
 * Tuesday's session will be a discussion about features in 3D Slicer that are new since the last Project Week, and also on design considerations that are relevant for end-to-end solutions (or customizable Slicer apps).  
 * Wednesday's session will be a question and answer session about 3D Slicer for users and developers, a "live" version of what takes place asynchronously on the Slicer discourse forum.
@@ -26,13 +35,6 @@ The format of this virtual event will be different from the in-person ones.
 
 In addition to the scheduled presentations, each project will likely create separate breakout sessions to work in small groups.  Please coordinate with your project team members to identify communication channels.
 
-### Agenda
-
-**Note: All times listed in the calendar below are given in EST timezone.**
-
-<iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic&mode=WEEK&dates=20201214%2f20201218" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-[How to add this calendar to your own?](../common/Calendar.md)
 
 <a name="ProjectsList"/>
 
