@@ -48,7 +48,7 @@ Notes on the agenda:
 1. [SlicerMorph: An open and extensible platform to retrieve, visualize and analyze 3D morphology](Projects/SlicerMorph/README.md) (Sara Rolfe)
 1. [SlicerCMF: Craniofacial image processing](Projects/SlicerCMF/README.md) (David Allemang)
 1. [Plastimatch](Projects/Plastimatch/README.md) (Greg Sharp)
-1. [SlicerArduino](Projects/SlicerArduino/README.md) (Paolo Zaffino, Maria Francesca Spadea)
+1. [SlicerArduino](Projects/SlicerArduino/README.md) [(video)](https://youtu.be/8R6LfBqHNPY) (Paolo Zaffino, Maria Francesca Spadea)
 1. [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
 1. [Virtual reality](Projects/SlicerVR/README.md) (Csaba Pinter)
 1. [SlicerWeb and Slicer in Cloud environments](Projects/Slicer_in_Cloud_Environments/README.md) (Steve Pieper, Theodore Aptekarev)
