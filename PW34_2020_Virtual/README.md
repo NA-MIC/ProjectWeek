@@ -43,7 +43,6 @@ Notes on the agenda:
 
 1. [SlicerSALT: Shape analysis](Projects/SlicerSALT/README.md) (Beatriz Paniagua, Kitware)
 1. [SlicerHeart](Projects/SlicerHeart/README.md) (Andras Lasso)
-1. [SlicerDMRI: diffusion imaging in Slicer](http://dmri.slicer.org) (Lauren O’Donnell )
 1. [SlicerIGT and AIGT](Projects/SlicerIGT/README.md) (Tamas Ungi)
 1. [SlicerMorph: An open and extensible platform to retrieve, visualize and analyze 3D morphology](Projects/SlicerMorph/README.md) (Sara Rolfe)
 1. [SlicerCMF: Craniofacial image processing](Projects/SlicerCMF/README.md) (David Allemang)
@@ -156,7 +155,7 @@ List of registered participants so far (names will be added here after processin
 1.	Osama Mohammed Ahmed Mohammed ELNOUR 	,	Faculty of medicine and health scince 	,	North Darfur State 	,	Sudan 
 1.	Mustafa Bahar	,	Soba University Hospital 	,	Khartoum	,	Sudan
 1.	Dr.anatomy83@yahoo.com	,	Prince Sattam bin Abdulaziz University 	,	Riyadh 	,	Saudi Arabia 
-1.	 Abubaker Elssidig Elhaj Bakhit Farg	,	University of Ha'il. KSA	,	Ha'il Prevalence 	,	Saudia Arabia 
+1.	Abubaker Elssidig Elhaj Bakhit Farg	,	University of Ha'il. KSA	,	Ha'il Prevalence 	,	Saudia Arabia 
 1.	Pape Mady THIAO 	,	École militaire de santé de Dakar 	,	SÉNÉGAL 	,	Sénégal 
 1.	Elsadig Suleiman Adam 	,	Nyala Specialized Hospital 	,	South Darfur 	,	Sudan 
 1.	Juan Ruiz-Alzola	,	University of Las Palmas de Gran Canaria	,	Canarias	,	Spain
