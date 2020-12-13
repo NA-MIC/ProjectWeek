@@ -22,7 +22,9 @@ We want to make it possible to read and write TRAKO (.TKO) files using 3D Slicer
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
+1. Start with the pip-installable `trako` package to make an importer and exporter
 1. Integrate TRAKO with the MRML scene architecture.
+1. Consider architecture and options for a C++ implementation
 
 ## Progress and Next Steps
 
