@@ -2,14 +2,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # MONAI
 
-[MONAI Logo](MONAI-Logo.jpg)
+[](MONAI-logo.png)
 
 ## Key Investigators
 
 - Stephen Kitware (Kitware)
 - Matt McCormick (Kitware)
 - Hans Johnson (The University of Iowa)
-- Michal Brzus (The University of Iowa)
 
 # Project Description
 
@@ -41,13 +40,12 @@ Its ambitions are:
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. 5-minute presentation on Monday
+1. [YouTube: 5-minute presentation on Monday](https://youtu.be/tBrMVTlzb8s)
 1. 1 hours presentation on Wednesday
 
 # Illustrations
 
-1. [MONAI Presentation Title Slide](MONAI-Aylward-TitleSlide.jpg)
-1. [MONAI Course Presentation](MONAI-Aylward-BMEPresentation.pptx)
+1. [](MONAI-end_to_end.png)
 
 # Background and References
 
