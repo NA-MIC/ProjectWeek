@@ -198,5 +198,9 @@ List of registered participants so far (names will be added here after processin
 1.	Dan Marcus	,	Washington Universituy	,	MO	,	USA
 
 ## Statistics
+As of Sun December 13th:
+* 120 registered attendees
+* More than 50 institutions
+* 18 countries
 
 <img src="pw-registrants-country-stats.png" width="600" />
