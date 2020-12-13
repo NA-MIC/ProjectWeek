@@ -27,12 +27,20 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 Notes on the agenda:
 
 * The format of this virtual event will be different from the in-person ones.
-* Monday's session will include 5-minute project presentations that include demos.  
-* Tuesday's session will be a discussion about features in 3D Slicer that are new since the last Project Week, and also on design considerations that are relevant for end-to-end solutions (or customizable Slicer apps).  
-* Wednesday's session will be a question and answer session about 3D Slicer for users and developers, a "live" version of what takes place asynchronously on the Slicer discourse forum.
-* Thursday's session will be a discussion on recent advancing in the web and cloud technologies that are being used to create browser based visualization applications and large open databases.
-* Friday's will be a training workshop focused on fostering partnerships with researchers and clinicians in Western Africa. 
-* In addition to the scheduled presentations, projects many create separate breakout sessions to work in small groups.  Please coordinate with your project team members to identify communication channels.
+* **Monday's session** will include:
+  * 5-minute project presentations that include demos (for each of the projects listed below)
+  * Approximately 1:45 of presentations with a 10 min break after the 10th presentation
+  * An optional breakout session
+* **Tuesday's session** will be a discussion about
+  * Features in 3D Slicer that are new since the last Project Week
+  * Design considerations that are relevant for end-to-end solutions (or customizable Slicer apps).  
+* **Wednesday's session** will be a question and answer session about 3D Slicer for users and developers, a "live" version of what takes place asynchronously on the Slicer discourse forum.
+* **Thursday's session** will be a discussion on recent advancing in the web and cloud technologies that are being used to create browser based visualization applications and large open databases.
+* **Friday's session** will be a training workshop focused on fostering partnerships with researchers and clinicians in Western Africa. 
+* The detailed program for each session is available from the link in the embedded Google Calendar above. 
+* In addition to the scheduled presentations, projects may create separate breakout sessions to work in small groups after the end of the main session
+  * Presenters and participants may use the chat function during the main session to request a breakout session with the designated person
+  * A few breakout sessions have already been planned (see Breakout Sessions section below)
 
 
 <a name="ProjectsList"/>
@@ -69,6 +77,7 @@ Breakout Sessions:
 1. [Collaborative VR discussion](Projects/CollaborativeVR/Readme.md) (Csaba Pinter and Simon Drouin)
 1. [Subject hierarchy: Drag&drop folders in views](Projects/SubjectHierarchyFolders/README.md) (Csaba Pinter, Steve Pieper)
 1. Slicer Segmentation (Andras Lasso)
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. [Register here](https://forms.gle/VFTNfKRNsgj6YSLB9).
