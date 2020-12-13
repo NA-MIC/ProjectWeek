@@ -176,6 +176,28 @@ List of registered participants so far (names will be added here after processin
 1.	Wafa Nour	,	Khartoum breast care center	,	Khartoum	,	Sudan
 1.	Izabel Rubira-Bullen	,	University Sao Paulo	,	Sao Paulo	,	Brazil
 1.	Tim Olsen	,	Radiologics	,	IL	,	USA
+1.	Rabab SEDRATI	,	ABDELMALEK ESAADI UNIVERSITY	,	Single	,	Morocco
+1.	IDRIS AHMED ABAKER IBRAHIM	,	Alfasher university	,	NORTH DARFUR	,	Sudan
+1.	Idris Ahmed Abaker Ibrahim	,	Alfasher university	,	NORTH DARFUR	,	Sudan
+1.	ASSANE NDIAYE	,	Assane Seck University	,	Sénégal	,	Sénégal
+1.	Asmaa Skareb	,	Canary Islands Institute of Technology 	,	Gran Canaria 	,	Spain
+1.	Souleymane Diatta	,	chu fann	,	Dakar	,	Sénégal
+1.	Aya Zakareya Noor Hamid 	,	Haj Al Safi Hospital	,	Khartoum	,	Sudan 
+1.	Michela Destito	,	Magna Graecia University of Catanzaro	,	Catanzaro	,	Italy
+1.	Manjula	,	Malmö University	,	Skane	,	Sweden
+1.	armin	,	medken	,	WA	,	USA
+1.	EL FARAZE Mohammed	,	National School of Applied Sciences	,	célibataire	,	Morocco
+1.	Blake Griggs	,	Radiologics, Inc	,	CA	,	USA
+1.	Salah osman salah	,	Rick	,	Khartoum	,	Sudan 
+1.	SOW NDEYE FATOU	,	Université Cheikh Anta Diop 	,	Dakar	,	Sénégal
+1.	PAPA SALMANE BA	,	Université Cheikh Anta Diop 	,	Dakar	,	Sénégal
+1.	Assane Ndiaye	,	Université Assane Seck de Ziguinchor	,	ZIGUINCHOR	,	Sénégal
+1.	Momar Sokhna Diop 	,	Université Cheikh Anta Diop 	,	Dakar	,	Sénégal 
+1.	Amadou Gabriel Ciss	,	Université Cheikh Anta Diop 	,	Dakar	,	Sénégal
+1.	Souleymane Diao	,	Université Cheikh Anta Diop 	,	Sénégal	,	Sénégal
+1.	Kamal Eldeen Mohammed Ibrahim Dahab	,	University of Khartoum	,	Khartoum	,	Sudan
+1.	Shiraz Yousif	,	University of khartoum 	,	Sidney	,	Australia
+1.	Dan Marcus	,	Washington Universituy	,	MO	,	USA
 
 ## Statistics
 
