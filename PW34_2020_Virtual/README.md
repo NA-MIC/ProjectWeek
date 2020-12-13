@@ -199,3 +199,4 @@ List of registered participants so far (names will be added here after processin
 
 ## Statistics
 
+<img src="pw-registrants-country-stats.png" width="600" />
