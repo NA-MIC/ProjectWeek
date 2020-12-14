@@ -15,6 +15,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 SlicerIGT has been developed since 2012 as an extension for 3D Slicer to support navigated medical interventions. For more information, visit the [SlicerIGT website](http://www.slicerigt.org/wp/).
 
+Breakout room #3 at 2pm today (Dec 14)
+
 ## Objective
 
 We will add a step-by-step tutorial on how to use recent modules for collecting tracked ultrasound data for AI training, and how to deploy trained AI models in ultrasound-guided interventions.
