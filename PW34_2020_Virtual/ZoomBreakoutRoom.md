@@ -1,9 +1,10 @@
-# List of breakout rooms
 
-![](pw34-breakroom-list.png)
+# Display list of breakout rooms
+![](pw34-breakroom-button.png)
 
 # Leaving a breakout room
+![](pw34-breakroom-leave.png)
 
-![](./pw34-breakroom-button.png)
+# List of breakout rooms
+![](pw34-breakroom-list.png)
 
-![](./pw34-breakroom-leave.png)
