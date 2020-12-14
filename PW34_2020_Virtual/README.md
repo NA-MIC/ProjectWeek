@@ -59,7 +59,9 @@ Notes on the agenda:
 1. [Virtual reality](Projects/SlicerVR/README.md) (Csaba Pinter)
 1. [SlicerWeb and Slicer in Cloud environments](Projects/Slicer_in_Cloud_Environments/README.md) (Steve Pieper, Theodore Aptekarev)
 1. [Napari: multi-dimensional image viewer for python](Projects/Napari/README.md) (Nicholas Sofroniew)
+
 10-minute BREAK
+
 1. [XNAT - OHIF](Projects/XNAT-OHIF/README.md)  (Dan Marcus)
 1. [MONAI: PyTorch-based, open-source framework for deep learning in healthcare imaging](Projects/MONAI/README.md) (Tina Kapur for Stephen Aylward)
 1. [NCI Imaging Data Commons](Projects/ImagingDataCommons/README.md) (Andrey Fedorov,Steve Pieper, Ron Kikinis)
