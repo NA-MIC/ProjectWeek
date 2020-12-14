@@ -7,7 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Stephen Aylward (Kitware)
-- Jean-Christophe (Kitware)
+- Jean-Christophe Fillion-Robin (Kitware)
 
 # Project Description
 
@@ -38,19 +38,19 @@ Kitware has partnered with Looking Glass Factory (LGF) to add support for LGF’
 # Background and References
 
 Looking Glass Factory
-* https://lookingglassfactory.com/
+* [https://lookingglassfactory.com/](https://lookingglassfactory.com/)
 
 Looking Glass Factory SDK (HoloPlayCore):
-* https://lookingglassfactory.com/software
+* [https://lookingglassfactory.com/software](https://lookingglassfactory.com/software)
 
 Initial release of VTK + Looking Glass Factory:
-* https://blog.kitware.com/vtk-holographic-display/
+* [https://blog.kitware.com/vtk-holographic-display/](https://blog.kitware.com/vtk-holographic-display/)
 
 How-to video for ParaView + Looking Glass Factory:
-* https://vimeo.com/460590350/74a0a8f1c7
+* [https://vimeo.com/460590350/74a0a8f1c7](https://vimeo.com/460590350/74a0a8f1c7)
 
 Github for VTK extension:
-* https://github.com/Kitware/LookingGlassVTKModule
+* [https://github.com/Kitware/LookingGlassVTKModule](https://github.com/Kitware/LookingGlassVTKModule)
 
 Github for Slicer extension:
-* https://github.com/KitwareMedical/SlicerLookingGlass
+* [https://github.com/KitwareMedical/SlicerLookingGlass](https://github.com/KitwareMedical/SlicerLookingGlass)
