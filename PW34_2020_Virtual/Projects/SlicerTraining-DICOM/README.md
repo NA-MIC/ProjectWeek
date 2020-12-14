@@ -5,6 +5,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Sonia Pujol, Ph.D., Director of 3D Slicer Training & Education, BWH
+- Steve Pieper, PhD, Isomics Inc
+- Ron Kikinis, MD, BWH
 
 # Project Description
 
