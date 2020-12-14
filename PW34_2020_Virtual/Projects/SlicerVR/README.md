@@ -16,13 +16,15 @@ A key infrastructural element that is still missing from SlicerVR is the ability
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
+1. Build SlicerVR against VTK9
 1. Add interactive Qt panel to VR scene [SlicerVR#43](https://github.com/KitwareMedical/SlicerVirtualReality/issues/43)
-2. Make use of the in-VR widget via laser pointer and VR-optimized widgets
+1. Make use of the in-VR widget via laser pointer and VR-optimized widgets
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
+1. Update SlicerVR CMake files to build with VTK9
 1. Try [vtkQWidgetWidget](https://vtk.org/doc/nightly/html/classvtkQWidgetWidget.html) in SlicerVR, confirm that it now works
 1. Explore existing possibilities for using a laser pointer emanating from the controllers to control the Qt-based widget (press, click, drag&drop, etc)
 1. Add the already implemented but dormant VR-optimized widgets in the SlicerVR user interface
