@@ -13,6 +13,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 SlicerCMF is an extension of 3D Slicer, a free, open source software for visualization and image analysis. SlicerCMF can be installed from the 3D Slicer Extension Manager on Windows, Mac, and Linux to leverage the advanced features of 3D Slicer in dental image analysis.
 SlicerCMF provides registration, segmentation and quantification modules for dental images analysis that may support patient-specific decision making and assessment in the context of disease progression.
 
+[Presentation slides](https://docs.google.com/presentation/d/1ukWRZckPlEXcHIK-D6YMEttRbRlV8IyAEDw0-QbTs8M/edit?usp=sharing)
+[YouTube tutorials](https://www.youtube.com/user/DCBIA/videos)
+
 ## Objective
 
 During this project week we would like to present the latest work done in SlicerCMF.
