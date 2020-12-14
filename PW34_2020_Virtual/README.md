@@ -167,7 +167,7 @@ List of registered participants so far (names will be added here after processin
 1.	Nicholas Sofroniew	,	Chan Zuckerberg Initiative	,	CA	,	USA
 1.	Osama Mohammed Ahmed Mohammed ELNOUR 	,	Faculty of medicine and health scince 	,	North Darfur State 	,	Sudan 
 1.	Mustafa Bahar	,	Soba University Hospital 	,	Khartoum	,	Sudan
-1.	Dr.anatomy83@yahoo.com	,	Prince Sattam bin Abdulaziz University 	,	Riyadh 	,	Saudi Arabia 
+1.	Dr.anatomy83	,	Prince Sattam bin Abdulaziz University 	,	Riyadh 	,	Saudi Arabia 
 1.	Abubaker Elssidig Elhaj Bakhit Farg	,	University of Ha'il. KSA	,	Ha'il Prevalence 	,	Saudia Arabia 
 1.	Pape Mady THIAO 	,	École militaire de santé de Dakar 	,	SÉNÉGAL 	,	Sénégal 
 1.	Elsadig Suleiman Adam 	,	Nyala Specialized Hospital 	,	South Darfur 	,	Sudan 
@@ -190,9 +190,7 @@ List of registered participants so far (names will be added here after processin
 1.	Izabel Rubira-Bullen	,	University Sao Paulo	,	Sao Paulo	,	Brazil
 1.	Tim Olsen	,	Radiologics	,	IL	,	USA
 1.	Rabab SEDRATI	,	ABDELMALEK ESAADI UNIVERSITY	,	Single	,	Morocco
-1.	IDRIS AHMED ABAKER IBRAHIM	,	Alfasher university	,	NORTH DARFUR	,	Sudan
 1.	Idris Ahmed Abaker Ibrahim	,	Alfasher university	,	NORTH DARFUR	,	Sudan
-1.	ASSANE NDIAYE	,	Assane Seck University	,	Sénégal	,	Sénégal
 1.	Asmaa Skareb	,	Canary Islands Institute of Technology 	,	Gran Canaria 	,	Spain
 1.	Souleymane Diatta	,	chu fann	,	Dakar	,	Sénégal
 1.	Aya Zakareya Noor Hamid 	,	Haj Al Safi Hospital	,	Khartoum	,	Sudan 
