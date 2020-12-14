@@ -18,6 +18,7 @@ Three-dimensional (3D) shape lies at the core of understanding the physical obje
 [Project slides](https://docs.google.com/presentation/d/11B34-A8uU-kVc8-uI7G7OrUQf84ouHXE1Q9WAZtUWnY/edit?usp=sharing)
 
 Vimeo Video Tutorial 2020
+
 [Module 1](https://vimeo.com/412300712)
 [Module 2](https://vimeo.com/412356243)
 [Module 3](https://vimeo.com/412373481)
