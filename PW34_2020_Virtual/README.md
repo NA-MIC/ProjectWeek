@@ -84,7 +84,7 @@ As of Sun December 13th:
 1. [MICUDA - Generalized Entropy MI Registration](Projects/MICUDA/README.md) (Luiz Otavio Murta, Vinicius Pavanelli Vianna)
 1. [TRAKO](Projects/TRAKO/README.md) (Daniel Haehn, Steve Pieper, Lauren O'Donnell, Yogesh Rathi))
 1. [Slicer Training - DICOM](Projects/SlicerTraining-DICOM/README.md) (Sonia Pujol)
-1. [Slicer + Looking Glass Factory's Holographic Display](Projects/SlicerLookingGlass/README.md) (JC, Stephen Aylward)
+1. [Slicer + Looking Glass Factory's Holographic Display](Projects/SlicerLookingGlass/README.md) (Jean-Christophe Fillion-Robin, Stephen Aylward)
 1. [Open Anatomy](Projects/OpenAnatomy/README.md) (Mike Halle et. al.)
 
 ## Breakout Sessions:
