@@ -24,6 +24,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 SlicerHeart extension contains tools for cardiac image import (3D/4D ultrasound, CT, MRI), quantification, and implant placement planning and assessment.
 
+![](SlicerHeartOverview.png)
+
 ## Objective
 
 The goal for SlicerHeart project for this project week is to let people interested in cardiac applications know about what SlicerHeart can be used for now and what are the features that will be released publicly soon.
@@ -31,12 +33,12 @@ The goal for SlicerHeart project for this project week is to let people interest
 ## Approach and Plan
 
 1. Create project page that provides good overview of the project
-1. 5-minute presentation on Monday
-1. Longer presentation (if PI is available and there is confirmed interest/available time slow)
+1. Overview presentation on Monday
+1. Presentation/discussion of any details depending on interest
 
 ## Progress and Next Steps
 
-1. Create project page (WIP)
+1. Create project page
 2. Confirm presentation/demo schedule
 
 # Illustrations
@@ -48,4 +50,4 @@ The goal for SlicerHeart project for this project week is to let people interest
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+- [SlicerHeart public repository](https://github.com/SlicerHeart/SlicerHeart)
