@@ -64,7 +64,7 @@ Notes on the agenda:
 1. [Napari: multi-dimensional image viewer for python](Projects/Napari/README.md) (Nicholas Sofroniew)
 1. [NCI Imaging Data Commons](Projects/ImagingDataCommons/README.md) (Andrey Fedorov,Steve Pieper, Ron Kikinis)
 1. [aevaSlicer volumetric mesh generation from segmentations](Projects/aevaSlicer/Readme.md) (Sam Horvath)
-1. [Landmark Curves for Brain Images](Projects/Landmark%20Curves%20for%20Brain%20Images/README.md) (Jarrett Rushmore, BWH/MGH/BU, Sylvain Bouix, BWH/HMS,  Nikos Makris, BWH/MGH/HMS)
+1. [Landmark Curves for Brain Images](Projects/Landmark%20Curves%20for%20Brain%20Images/README.md) (Jarrett Rushmore, BWH/MGH/BU, Sylvain Bouix, BWH/HMS,  Nikos Makris, BWH/MGH/HMS, Kyle Sunderland, Queen's University, Andras Lasso, Queen's University)
 1. [RadOncSegmentor](Projects/RadOncSegmentor/Readme.md) Segmentation for Radiation Treatment Planning (Aditya Apte, Eve LoCastro, Harini Veeraraghavan, MSKCC)
 1. [Scalable Quality Assurance for Neuroimaging (SQAN)](Projects/SQAN/README.md) (Arvind Gopu)
 1. [Train the Trainers](Projects/TrainTheTrainers/README.md)  formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Marilola Afonso, Badiaa Ait Ahmed, Nayra Pumar)
