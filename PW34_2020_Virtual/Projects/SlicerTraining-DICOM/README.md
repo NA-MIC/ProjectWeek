@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Sonia Pujol, Ph.D., Director of 3D Slicer Training & Education, BWH
+- Sonia Pujol, PhD, Director of 3D Slicer Training & Education, BWH
 - Steve Pieper, PhD, Isomics Inc
 - Ron Kikinis, MD, BWH
 
@@ -17,7 +17,7 @@ We want to provide the Slicer community with an introduction to the DICOM standa
 
 ## Objective
 
-This project is aimed to provide training resources on DICOM & Slicer 5
+This project aims to provide training resources on DICOM & Slicer 5
 
 ## Approach and Plan
 
@@ -25,7 +25,7 @@ This project is aimed to provide training resources on DICOM & Slicer 5
 
 1. Introduce the history and purpose of DICOM
 1. Describe the main characteristics of the DICOM standard
-1. Provide step-by-step guidance on how to load DICOM data in Slicer
+1. Provide step-by-step guidance on how to load DICOM data in Slicer 5.0
 
 ## Progress and Next Steps
 
