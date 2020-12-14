@@ -287,4 +287,21 @@ List of registered participants so far (names will be added here after processin
 1.	Arthur Porto	,	Louisiana state university	,	LA	,	Usa
 1.	Lucia Cevidanes	,	University of Michigan	,	MI	,	United States
 1.	Lucas Lo Vercio	,	University of Calgary	,	Alberta	,	Canada
+1.	Erik Ziegler	,	Radical Imaging	,	Rhone-Alpes	,	France
+1.	Étienne Léger	,	Concordia University	,	Québec	,	Canada
+1.	Benedict Kingsford Andam	,	Kwame Nkrumah University of Science and Technology	,	Ayeduase 	,	Ghana
+1.	Mohammad Alsad	,	Imperial College London	,	Cambs	,	United Kingdom
+1.	YAHYA TFEIL	,	faculty of medicine alassriya university mauritaniaania	,	nouakchott	,	Mauritania
+1.	jonas bianchi	,	University of the Pacific	,	California	,	USA
+1.	MOHAMED SABAN	,	UNIVERSIDAD DE VALENCIA	,	VALENCIA	,	SPAIN
+1.	Amdaouch Ibtisam	,	University of Abdelmalek Essaadi	,	Tanger-Tetouan	,	Morocco
+1.	Mariela Peralta-Mamani	,	Bauru School of Dentistry-University of Sao Paulo	,	SP	,	Brazil
+1.	Ángel Terrero Pérez	,	Bauru School of Dentistry, University of Sao Paulo	,	Sao Paulo	,	Brazil
+1.	David Orlando Grajales Lopera	,	Polytechnique Montreal	,	Québec	,	Canada
+1.	Alexis Girault	,	Kitware	,	NC	,	USA
+1.	Leonardo F Machado	,	University of São Paulo até Ribeirão Preto	,	SP	,	Brazil
+1.	Manuel Gustavo Chávez Sevillano 	,	Rio de Janeiro State University	,	Rio de Janeiro	,	Brazil
+1.	Gabor Fichtinger	,	Queen's Univ	,	ON	,	Canada
+1.	Charles Johnson	,	University of Iowa	,	Iowa	,	USA
+
 
