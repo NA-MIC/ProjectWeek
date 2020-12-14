@@ -5,10 +5,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Juan Ruiz Alzola (Universidad de Las Palmas de Gran Canaria)
-- Asmaa Skareb (Instituto Tecnológico de Canarias)
-- Marilola Afonso (Universidad de Las Palmas de Gran Canaria)
-- Nayra Pumar Carreras (Instituto Tecnológico de Canarias)
+- Juan Ruiz Alzola (Universidad de Las Palmas de Gran Canaria, Spain)
+- Asmaa Skareb (Instituto Tecnológico de Canarias, Spain)
+- Marilola Afonso (Universidad de Las Palmas de Gran Canaria, Spain)
+- Badiaa AIT AHMED (University Abdelmalek Essaâdi , Tétouan , Morocco)
+- Nayra Pumar Carreras (Instituto Tecnológico de Canarias, Spain)
 
 # Project Description
 
