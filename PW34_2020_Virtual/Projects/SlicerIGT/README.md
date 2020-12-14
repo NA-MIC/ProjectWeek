@@ -15,7 +15,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 SlicerIGT has been developed since 2012 as an extension for 3D Slicer to support navigated medical interventions. For more information, visit the [SlicerIGT website](http://www.slicerigt.org/wp/).
 
-Breakout room #3 at 3 pm today (Dec 14)
+Breakout room at 3 pm today (Dec 14)
 
 ## Objective
 
