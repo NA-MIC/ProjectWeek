@@ -45,7 +45,7 @@ Notes on the agenda:
 
 <a name="ProjectsList"/>
 
-## Projects [(How to add a new project?)](Projects/README.md)
+## Project Presentations for Monday [(How to add a new project?)](Projects/README.md)
 
 
 
@@ -62,7 +62,7 @@ Notes on the agenda:
 
 10-minute BREAK
 
-1. [XNAT - OHIF](Projects/XNAT-OHIF/README.md)  (Dan Marcus)
+11. [XNAT - OHIF](Projects/XNAT-OHIF/README.md)  (Dan Marcus)
 1. [MONAI: PyTorch-based, open-source framework for deep learning in healthcare imaging](Projects/MONAI/README.md) (Tina Kapur for Stephen Aylward)
 1. [NCI Imaging Data Commons](Projects/ImagingDataCommons/README.md) (Andrey Fedorov,Steve Pieper, Ron Kikinis)
 1. [aevaSlicer volumetric mesh generation from segmentations](Projects/aevaSlicer/Readme.md) (Sam Horvath)
@@ -76,10 +76,10 @@ Notes on the agenda:
 1. [Slicer Training - DICOM](Projects/SlicerTraining-DICOM/README.md) (Sonia Pujol)
 1. [Slicer + Looking Glass Factory's Holographic Display](Projects/SlicerLookingGlass/README.md) (JC, Stephen Aylward)
 
-Breakout Sessions:
+## Breakout Sessions:
 1. [Ultrasound Image Guided Therapy](https://docs.google.com/document/d/1laFD-GSYOq-mN0tLomYqcqLwrYXuwiMDU46AVToLcKE/edit) (Tamas Ungi, Tina Kapur, Simon Drouin) 
 1. [Collaborative VR discussion](Projects/CollaborativeVR/Readme.md) (Csaba Pinter and Simon Drouin)
-1. [Subject hierarchy: Drag&drop folders in views](Projects/SubjectHierarchyFolders/README.md) (Csaba Pinter, Steve Pieper, Lauren O'Donnell, Yogesh Rathi)
+1. [Subject hierarchy: Drag&drop folders in views](Projects/SubjectHierarchyFolders/README.md) (Csaba Pinter, Steve Pieper)
 1. Slicer Segmentation (Andras Lasso)
 1. [MONAI Tutorial](https://www.youtube.com/watch?v=tBrMVTlzb8s&t=6s)(Stephen Aylward)
 
