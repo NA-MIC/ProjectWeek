@@ -89,6 +89,8 @@ As of Sun December 13th:
 
 ## Breakout Sessions:
 
+To learn how to join, leave or display list of breakout rooms. See [here](./ZoomBreakoutRoom.md)
+
 Monday:
 
 1. 20-minutes after end of presentations [Ultrasound Image Guided Therapy](https://docs.google.com/document/d/1laFD-GSYOq-mN0tLomYqcqLwrYXuwiMDU46AVToLcKE/edit) (Tamas Ungi, Tina Kapur, Simon Drouin) 
