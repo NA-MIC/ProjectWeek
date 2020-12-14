@@ -221,11 +221,43 @@ List of registered participants so far (names will be added here after processin
 1.	Otman AGHZOUT	,	University Abdelmalek Essaedi	,	Tétouan 	,	Morocco
 1.	Kyle Sunderland	,	Queen's University	,	Kingston	,	Canada
 1.	EL GUERI Jaouad 	,	ENSA Tétouan 		Tétouan 	,	Morocco 
-1. Michael Halle, Brigham and Women's Hospital, Boston, United States
+1.	Andras Lasso	,	PerkLab, Queen's University	,	ON	,	Canada
+1.	Pedro Moreira	,	Brigham and Women's Hospital	,	MA	,	USA
+1.	Dr. Gargi Jani	,	National forensic sciences university	,	Gujarat	,	India
+1.	Anita Carolina Ribeiro	,	FOUSP 	,	São Paulo 	,	Brazil
+1.	Daniele Piccolo	,	Nucleode SRL, University of Padua	,	UD	,	Italy
+1.	David Manso Arcediano	,	Cella Medical Solutions 	,	Murcia	,	España
+1.	Mohamed aly Dedew	,	Faculty of medecine of Nouakchott 	,	Nouakchott 	,	Mauritania 
+1.	Miguel Xochicale	,	King's College London	,	London	,	United Kingdom
+1.	Mahomed Sidique Abdul Cadar Dada 	,	Uem 	,	Maputo 	,	Moçambique 
+1.	Tasos Raptis	,	National Technical University of Athens	,	Attiki	,	Greece
+1.	María Dolores Afonso Suárez	,	Universidad de Las Palmas de Gran Canaria	,	Canary Islands	,	Spain
+1.	Simon Doran	,	Institute of Cancer Research	,	Surrey	,	UK
+1.	antonietta del bove	,	UNIVERSITAT ROVIRA I VIRGILI	,	SPAIN	,	SPAIN
+1.	Elameen Adam	,	University of Bahri	,	Khartoum	,	Sudan
+1.	Fatima Elnagieb Adam Gamereldien 	,	Nyala Teaching hospital 	,	South Darfour 	,	Sudan 
+1.	Rafael Pineda Reyes	,	University of Cordoba	,	Cordoba	,	Spain
+1.	Blanca Zufiria Gerbolés	,	Vicomtech	,	guipuzkoa	,	Spain
+1.	Mounia Chakkour	,	Abdelmalek Essaâdi University (ENSA Tetuan) 	,	Married	,	Morocco 
+1.	Mohammed Eltahir	,	University of Bahri 	,	Khartoum 	,	Sudan 
+1.	Godwin Wunpiini Yiddi	,	Kwame Nkrumah University of Science and Technology	,	Ashanti Region	,	Ghana
+1.	Kate Alpert	,	Radiologics	,	CO	,	USA
+1.	Gordon Harris	,	Massachusetts General Hospital	,	MA	,	United States
+1.	Supriya Somarouthu	,	Massachusetts General Hospital	,	Massachusetts	,	United States
+1.	Awa NDIAYE SY	,	Université Cheikh Anta Diop de Dakar - Faculté de Médecine, de Pharmacie et d'Odontologie	,	SENEGAL	,	SENEGAL
+1.	Aditya Apte	,	Memorial Sloan Kettering Cancer Center	,	New York	,	United States
+1.	Andrea Avena-Koenigsberger	,	Indiana University	,	INDIANA	,	USA
+1.	Juan Carlos Prieto	,	UNC	,	North Carolina	,	United States
+1.	Michael Halle	,	Brigham and Women's Hospital	,	Massachusetts	,	United States
+1.	Marta Vidal-Garcia	,	University of Calgary	,	Alberta	,	Canada
+1.	Terrie Simmons-Ehrhardt 	,	Virginia Commonwealth University 	,	VA	,	USA
+1.	Arthur Porto	,	Louisiana state university	,	LA	,	Usa
+1.	Lucia Cevidanes	,	University of Michigan	,	MI	,	United States
+1.	Lucas Lo Vercio	,	University of Calgary	,	Alberta	,	Canada
 
 ## Statistics
 As of Sun December 13th:
-* 120 registered attendees
+* 159 registered attendees
 * More than 50 institutions
 * 18 countries
 
