@@ -78,6 +78,7 @@ Breakout Sessions:
 1. [Collaborative VR discussion](Projects/CollaborativeVR/Readme.md) (Csaba Pinter and Simon Drouin)
 1. [Subject hierarchy: Drag&drop folders in views](Projects/SubjectHierarchyFolders/README.md) (Csaba Pinter, Steve Pieper)
 1. Slicer Segmentation (Andras Lasso)
+1. [MONAI Tutorial](https://www.youtube.com/watch?v=tBrMVTlzb8s&t=6s)(Stephen Aylward)
 
 ## Registrants
 
