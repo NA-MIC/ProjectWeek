@@ -16,3 +16,9 @@ The overaching goal of this project is to facilitate the assignment of cerebral 
 ## Objective
 
 The overall objective today is to demonstrate a tool and technique to produce curves on a surface representation of the cerebral cortex.  
+
+
+## References
+
+Link to Neurosegmental Parcellation Module
+https://github.com/PerkLab/NeuroSegmentation
