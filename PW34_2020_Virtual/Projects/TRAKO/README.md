@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Daniel Haehn (University of Massachusetts Boston)
 - Steve Pieper (Isomics)
+- Lauren O'Donnell, Yogesh Rathi (BWH)
 
 # Project Description
 
