@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Stephen Kitware (Kitware)
+- Stephen Aylward (Kitware)
 - Matt McCormick (Kitware)
 - Hans Johnson (The University of Iowa)
 

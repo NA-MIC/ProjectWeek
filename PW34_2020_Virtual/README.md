@@ -72,6 +72,7 @@ Notes on the agenda:
 1. [MICUDA - Generalized Entropy MI Registration](Projects/MICUDA/README.md) (Luiz Otavio Murta, Vinicius Pavanelli Vianna)
 1. [TRAKO](Projects/TRAKO/README.md) (Daniel Haehn, Steve Pieper)
 1. [Slicer Training - DICOM](Projects/SlicerTraining-DICOM/README.md) (Sonia Pujol)
+1. [Slicer + Looking Glass Factory's Holographic Display](Projects/SlicerLookingGlass/README.md) (JC, Stephen Aylward)
 
 Breakout Sessions:
 1. [Ultrasound Image Guided Therapy](https://docs.google.com/document/d/1laFD-GSYOq-mN0tLomYqcqLwrYXuwiMDU46AVToLcKE/edit) (Tamas Ungi, Tina Kapur, Simon Drouin) 
