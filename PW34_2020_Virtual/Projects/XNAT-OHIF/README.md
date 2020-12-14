@@ -17,16 +17,19 @@ XNAT 1.8 will be released December 21 with an upgraded viewer built on OHIF 2.0 
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Identify and implement performance improvements, particularly in transferring content between XNAT and the viewer.
-1. Objective B. Identify and implement format for capturing broader range of image annotations.
-1. Objective C. Identify and implement storage of image annotations in XNAT.
+1. Identify and implement performance improvements, particularly in transferring content between XNAT and the viewer.
+1. Identify and implement format for capturing broader range of image annotations.
+1. Identify and implement storage of image annotations in XNAT.
+
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Get input on stroage formats from others in the community. What are the right DICOM and/or non-DICOM formats for capturing text, lines, boxes, etc.
-1. Dig in.
+1. Performance improvements: Transfer DICOM series as a single request.
+1. Minimize hard coded views: Implement “hanging protocol”. Any bright ideas?
+1. Uniform storage of image annotations: Any bright ideas? Must support contours, segments, lines, boxes, text, templatized reports.
+
 
 ## Progress and Next Steps
 
@@ -38,6 +41,11 @@ XNAT 1.8 will be released December 21 with an upgraded viewer built on OHIF 2.0 
 
 # Illustrations
 ![4-up view with 3D objects](xnatohif4up.png)
+![Contours](Viewer.jpg)
+![Clara AI-Assisted Annotation](AIAA.jpg)
+![MPR](MPR.jpg)
+![Templatized reporting w/ radreport.org](Templates.jpg)
+
 
 # Background and References
 
