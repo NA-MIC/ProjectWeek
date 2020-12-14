@@ -79,7 +79,7 @@ Notes on the agenda:
 Breakout Sessions:
 1. [Ultrasound Image Guided Therapy](https://docs.google.com/document/d/1laFD-GSYOq-mN0tLomYqcqLwrYXuwiMDU46AVToLcKE/edit) (Tamas Ungi, Tina Kapur, Simon Drouin) 
 1. [Collaborative VR discussion](Projects/CollaborativeVR/Readme.md) (Csaba Pinter and Simon Drouin)
-1. [Subject hierarchy: Drag&drop folders in views](Projects/SubjectHierarchyFolders/README.md) (Csaba Pinter, Steve Pieper)
+1. [Subject hierarchy: Drag&drop folders in views](Projects/SubjectHierarchyFolders/README.md) (Csaba Pinter, Steve Pieper, Lauren O'Donnell, Yogesh Rathi)
 1. Slicer Segmentation (Andras Lasso)
 1. [MONAI Tutorial](https://www.youtube.com/watch?v=tBrMVTlzb8s&t=6s)(Stephen Aylward)
 
