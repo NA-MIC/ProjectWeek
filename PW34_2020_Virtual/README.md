@@ -89,34 +89,16 @@ As of Sun December 13th:
 
 ## Breakout Sessions:
 
-To learn how to join, leave or display list of breakout rooms. See [here](./ZoomBreakoutRoom.md)
+To learn how to join, leave or display list of breakout rooms. See [here](./ZoomBreakoutRoom.md). 
 
-Monday:
-
-1. 20-minutes after end of presentations [Ultrasound Image Guided Therapy](https://docs.google.com/document/d/1laFD-GSYOq-mN0tLomYqcqLwrYXuwiMDU46AVToLcKE/edit) (Tamas Ungi, Tina Kapur, Simon Drouin) 
-
-Tuesday:
-
-1. 11am [Collaborative VR discussion](Projects/CollaborativeVR/Readme.md) (Csaba Pinter and Simon Drouin)
-
-Wednesday 
-
-1. 11am EST Project/Room 10 & 11: Dan Marcus, XNAT + OHIF 
-
-1. 11am: Project 15 Landmark Curves for Brain Images  ( Jarrett Rushmore, Kyle Sunderland)
-
-1. 2pm. Project 12 MONAI: PyTorch-based, open-source framework for deep learning in healthcare imaging (Stephen Aylward)
-
-Thursday
-
-1. 11am Project 2 Slicer Heart and Segmentation (Andras Lasso)
+1. Monday @ 3pm [Ultrasound Image Guided Therapy](https://docs.google.com/document/d/1laFD-GSYOq-mN0tLomYqcqLwrYXuwiMDU46AVToLcKE/edit) (Tamas Ungi, Tina Kapur, Simon Drouin) 
+1. Tuesday @11am [Collaborative VR discussion](Projects/CollaborativeVR/Readme.md) (Csaba Pinter and Simon Drouin)
+1. Wednesday @11am EST Project/Room 10 & 11: Dan Marcus, XNAT + OHIF 
+1. Wednesday @11am: Project 15 Landmark Curves for Brain Images  ( Jarrett Rushmore, Kyle Sunderland)
+1. Wednesday @2pm. Project 12 MONAI: PyTorch-based, open-source framework for deep learning in healthcare imaging (Stephen Aylward)
+1. Thursday @11am Project 2 Slicer Heart and Segmentation (Andras Lasso)
 
 
-Friday 
-
-after the African Partners Workshop — social tools. 
-	https://gather.town/
-	https://gather.town/
 
 
 ## Registrants
