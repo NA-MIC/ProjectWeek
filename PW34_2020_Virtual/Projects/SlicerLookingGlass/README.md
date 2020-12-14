@@ -2,7 +2,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Slicer Looking Glass
 
-[](SlicerLGF.png)
+![](SlicerLGF.png)
 
 ## Key Investigators
 
@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Kitware has partnered with Looking Glass Factory (LGF) to add support for LGF’s holographic displays from any VTK-based application including ParaView, 3D Slicer, and any custom application you create.
+Kitware has partnered with Looking Glass Factory (LGF) to add support for LGFâ€™s holographic displays from any VTK-based application including ParaView, 3D Slicer, and any custom application you create.
 
 ## Objective
 
