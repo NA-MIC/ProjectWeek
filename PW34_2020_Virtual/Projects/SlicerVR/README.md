@@ -37,6 +37,8 @@ A key infrastructural element that is still missing from SlicerVR is the ability
 
 # Illustrations
 
+![In-VR user interface](https://spie.org/Images/Graphics/Newsroom/2019articles/Crime-920.jpg)
+
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
