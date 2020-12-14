@@ -206,6 +206,16 @@ List of registered participants so far (names will be added here after processin
 1.	Kamal Eldeen Mohammed Ibrahim Dahab	,	University of Khartoum	,	Khartoum	,	Sudan
 1.	Shiraz Yousif	,	University of khartoum 	,	Sidney	,	Australia
 1.	Dan Marcus	,	Washington Universituy	,	MO	,	USA
+1.	Geir Arne Tangen	,	SINTEF	,	Trondheim	,	Norway
+1.	Mohammed Nimir	,	University Hospital Coventry and Warwickshire	,	West Midlands	,	United Kingdom
+1.	Marwan Ahmed	,	St. George’s University 	,	Saint George’s 	,	Grenada
+1.	Elimam Elghazali Siddig Mohamed Mustafa	,	University of Khartoum	,	Khartoum 	,	Sudan
+1.	Badiaa AIT AHMED	,	University Abdelmalek Essaâdi	,	Tétouan 	,	Morocco
+1.	Ahmedou Moulaye IDRISS	,	Faculty of Medicine University of Nouakchott Al Aasriya	,	Nouakchott	,	Mauritania
+1.	Mohamed bamba hbedy	,	Faculté médecine Nouakchott 	,	Nouakchott 	,	Mauritania 
+1.	Otman AGHZOUT	,	University Abdelmalek Essaedi	,	Tétouan 	,	Morocco
+1.	Kyle Sunderland	,	Queen's University	,	Kingston	,	Canada
+1.	EL GUERI Jaouad 	,	ENSA Tétouan 		Tétouan 	,	Morocco 
 
 ## Statistics
 As of Sun December 13th:
