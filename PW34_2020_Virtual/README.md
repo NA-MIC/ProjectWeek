@@ -218,6 +218,7 @@ List of registered participants so far (names will be added here after processin
 1.	Otman AGHZOUT	,	University Abdelmalek Essaedi	,	Tétouan 	,	Morocco
 1.	Kyle Sunderland	,	Queen's University	,	Kingston	,	Canada
 1.	EL GUERI Jaouad 	,	ENSA Tétouan 		Tétouan 	,	Morocco 
+1. Michael Halle, Brigham and Women's Hospital, Boston, United States
 
 ## Statistics
 As of Sun December 13th:
