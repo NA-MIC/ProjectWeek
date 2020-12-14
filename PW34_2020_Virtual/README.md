@@ -47,9 +47,9 @@ Notes on the agenda:
 
 ## Statistics
 As of Sun December 13th:
-* 159 registered attendees
+* 179 registered attendees
 * More than 50 institutions
-* 18 countries
+* 24 countries
 
 <img src="pw-registrants-country-stats.png" width="600" />
 
