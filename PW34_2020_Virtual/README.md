@@ -13,6 +13,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Dates:** December 14-18, 2020.
 - **Location:** THE INTERNET (A zoom link will be emailed to all registered attendees by December 13, 2020)
 - **Discourse Forum:** Please sign-up on the [discourse forum](https://discourse.slicer.org/c/community/project-week) to get updates and ask questions.
+  - [Project week discourse topic](https://discourse.slicer.org/t/project-week-starts-tomorrow/15040) for less real-time conversation
 - **REGISTRATION:** [Link](https://forms.gle/VFTNfKRNsgj6YSLB9)
 
 
