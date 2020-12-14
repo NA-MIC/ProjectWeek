@@ -43,10 +43,28 @@ The goal for SlicerHeart project for this project week is to let people interest
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+_[Valve segmentation](https://link.springer.com/article/10.1007/s00246-017-1785-4)_
+
+![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00246-017-1785-4/MediaObjects/246_2017_1785_Fig2_HTML.gif?as=webp)
+
+_[Valve quantification](https://www.sciencedirect.com/science/article/pii/S0894731719300021)_
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0894731719300021-gr3.jpg)
+
+
+_[Virtual reality](https://www.onlinejase.com/article/S0894-7317(18)30343-2/fulltext)_
+
+![](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/d9f61ddd-819b-4ff1-9a5f-ed19077a87d5/gr2.jpg)
+
+_[Phsyical modeling](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10135/1013516/Patient-specific-pediatric-silicone-heart-valve-models-based-on-3D/10.1117/12.2255849.full?SSO=1)_
+
+![](https://www.spiedigitallibrary.org/ContentImages/Proceedings/10135/1013516/FigureImages/00355_PSISDG10135_1013516_page_4_2.jpg)
+
+![](https://www.spiedigitallibrary.org/ContentImages/Proceedings/10135/1013516/FigureImages/00355_PSISDG10135_1013516_page_4_3.jpg)
+
+_[Valve repair simulation](https://link.springer.com/article/10.1007/s00246-017-1785-4)_
+
+![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00246-017-1785-4/MediaObjects/246_2017_1785_Fig5_HTML.jpg?as=webp)
 
 # Background and References
 
