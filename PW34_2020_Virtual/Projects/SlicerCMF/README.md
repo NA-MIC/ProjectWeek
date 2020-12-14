@@ -14,6 +14,7 @@ SlicerCMF is an extension of 3D Slicer, a free, open source software for visuali
 SlicerCMF provides registration, segmentation and quantification modules for dental images analysis that may support patient-specific decision making and assessment in the context of disease progression.
 
 [Presentation slides](https://docs.google.com/presentation/d/1ukWRZckPlEXcHIK-D6YMEttRbRlV8IyAEDw0-QbTs8M/edit?usp=sharing)
+
 [YouTube tutorials](https://www.youtube.com/user/DCBIA/videos)
 
 ## Objective
