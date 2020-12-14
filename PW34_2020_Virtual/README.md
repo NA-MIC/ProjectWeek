@@ -72,7 +72,7 @@ Notes on the agenda:
 1. [Train the Trainers](Projects/TrainTheTrainers/README.md)  formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Marilola Afonso, Badiaa Ait Ahmed, Nayra Pumar)
 1. [SlicerLiverAnalysis](Projects/SlicerLiverAnalysis/README.md) (Rafael Palomar OUS,NTNU. Ole Vegard Solberg, SINTEF)
 1. [MICUDA - Generalized Entropy MI Registration](Projects/MICUDA/README.md) (Luiz Otavio Murta, Vinicius Pavanelli Vianna)
-1. [TRAKO](Projects/TRAKO/README.md) (Daniel Haehn, Steve Pieper)
+1. [TRAKO](Projects/TRAKO/README.md) (Daniel Haehn, Steve Pieper, Lauren O'Donnell, Yogesh Rathi))
 1. [Slicer Training - DICOM](Projects/SlicerTraining-DICOM/README.md) (Sonia Pujol)
 1. [Slicer + Looking Glass Factory's Holographic Display](Projects/SlicerLookingGlass/README.md) (JC, Stephen Aylward)
 
