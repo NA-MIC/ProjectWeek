@@ -18,7 +18,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Introduce the use cases addressed by napari
-1. Identify outlet for potential collaboration
+1. Identify and discuss areas for potential napari/ Slicer collaboration, including
+    - Using napari io plugins to read data into slicer, see [napari plugin docs](https://napari.org/docs/dev/plugins/index.html)
+    - Using Slicer [SimpleFilters](https://www.slicer.org/wiki/Documentation/4.10/Modules/SimpleFilters) on napari layers, and possibly generating gui elements for them using [magicgui](https://magicgui.readthedocs.io/en/latest/examples/napari_parameter_sweep/)
 
 ## Approach and Plan
 
