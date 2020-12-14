@@ -37,6 +37,12 @@ Kitware has partnered with Looking Glass Factory (LGF) to add support for LGF’
 
 # Background and References
 
+Looking Glass Factory
+* https://lookingglassfactory.com/
+
+Looking Glass Factory SDK (HoloPlayCore):
+* https://lookingglassfactory.com/software
+
 Initial release of VTK + Looking Glass Factory:
 * https://blog.kitware.com/vtk-holographic-display/
 
