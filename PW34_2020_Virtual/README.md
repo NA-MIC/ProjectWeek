@@ -13,6 +13,8 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Dates:** December 14-18, 2020.
 - **Location:** THE INTERNET (A zoom link will be emailed to all registered attendees by December 13, 2020)
   - [Project week Slack workspace](https://join.slack.com/t/namic-projectweek/shared_invite/zt-bmxjicl0-zWkWOV~Sp5lTh1dWhq4nYw)
+- **Zoom Meeting (main room)**:
+  - https://etsmtl.zoom.us/j/86140790592?pwd=U3ExVk9sV1NHV2dubytnMVp4K0M4Zz09
 - **Discourse Forum:** Please sign-up on the [discourse forum](https://discourse.slicer.org/c/community/project-week) to get updates and ask questions.
   - [Project week discourse topic](https://discourse.slicer.org/t/project-week-starts-tomorrow/15040) for less real-time conversation
 - **Slack:** [Invite Link](https://join.slack.com/t/namic-projectweek/shared_invite/zt-bmxjicl0-zWkWOV~Sp5lTh1dWhq4nYw)
