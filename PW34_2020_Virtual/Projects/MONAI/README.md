@@ -2,7 +2,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # MONAI
 
-[](MONAI-logo.png)
+![](MONAI-logo.png)
 
 ## Key Investigators
 
@@ -45,7 +45,7 @@ Its ambitions are:
 
 # Illustrations
 
-1. [](MONAI-end_to_end.png)
+1. ![](MONAI-end_to_end.png)
 
 # Background and References
 
