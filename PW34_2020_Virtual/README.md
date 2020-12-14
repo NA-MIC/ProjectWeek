@@ -42,6 +42,13 @@ Notes on the agenda:
   * Presenters and participants may use the chat function during the main session to request a breakout session with the designated person
   * A few breakout sessions have already been planned (see Breakout Sessions section below)
 
+## Statistics
+As of Sun December 13th:
+* 159 registered attendees
+* More than 50 institutions
+* 18 countries
+
+<img src="pw-registrants-country-stats.png" width="600" />
 
 <a name="ProjectsList"/>
 
@@ -253,10 +260,3 @@ List of registered participants so far (names will be added here after processin
 1.	Lucia Cevidanes	,	University of Michigan	,	MI	,	United States
 1.	Lucas Lo Vercio	,	University of Calgary	,	Alberta	,	Canada
 
-## Statistics
-As of Sun December 13th:
-* 159 registered attendees
-* More than 50 institutions
-* 18 countries
-
-<img src="pw-registrants-country-stats.png" width="600" />
