@@ -4,6 +4,7 @@ In this breakout session we try to come up with a consensus on how to best store
 
 ## Attendees
 1. Andras Lasso (Queen's University)
+1. Steve Pieper (Isomics)
 1. _add your name and affiliation here_
 
 ## Current State
