@@ -22,7 +22,12 @@ The Goal of this discussion is to coordinate future development of the above mod
 
 1. Review the current functionality of SlicerVR and PRISM Rendering
 1. Discuss planned near future developments in those modules 
-1. Lay out a vision for the future of interactive VR in Slicer.
+1. Lay out a vision for the future of interactive VR in Slicer
+1. Establish a protocol for Collaborative VR
+1. Points for discussion:
+   1. Future possibilities for interacting in VR: hand tracking, tool tracking
+   1. Need to support different types of tracking in collaborative VR protocols
+   1. Should SlicerVR have a fixed set of functionality and interaction paradigm or let users and/or developers choose.
 
 ## Progress and Next Steps
 
