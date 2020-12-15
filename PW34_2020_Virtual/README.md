@@ -93,12 +93,10 @@ To learn how to join, leave or display list of breakout rooms. See [here](./Zoom
 1. Monday @ 3pm [Ultrasound Image Guided Therapy](https://docs.google.com/document/d/1laFD-GSYOq-mN0tLomYqcqLwrYXuwiMDU46AVToLcKE/edit) (Tamas Ungi, Tina Kapur, Simon Drouin) 
 1. Tuesday @11am [Collaborative VR discussion](Projects/CollaborativeVR/Readme.md) (Csaba Pinter and Simon Drouin)
 1. Wednesday @11am EST Project/Room 10 & 11: Dan Marcus, XNAT + OHIF 
-1. Wednesday @11am: Project 15 Landmark Curves for Brain Images  ( Jarrett Rushmore, Kyle Sunderland)
+1. Wednesday @11am: Project 15 Landmark Curves for Brain Images  (Jarrett Rushmore, Kyle Sunderland)
 1. Wednesday @2pm. Project 12 MONAI: PyTorch-based, open-source framework for deep learning in healthcare imaging (Stephen Aylward)
-1. Thursday @11am Project 2 Slicer Heart and Segmentation (Andras Lasso)
-
-
-
+1. Thursday @11am. [Segmentation import/export/storage](Breakouts/SegmentationStorageFormat/README.md) (Andras Lasso)
+1. Thursday @2pm Project 2 Slicer Heart and Segmentation (Andras Lasso)
 
 ## Registrants
 
