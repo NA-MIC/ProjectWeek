@@ -18,8 +18,6 @@ The Goal of this discussion is to coordinate future development of the above mod
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
 1. Review the current functionality of SlicerVR and PRISM Rendering
 1. Discuss planned near future developments in those modules 
 1. Lay out a vision for the future of interactive VR in Slicer
@@ -31,11 +29,19 @@ The Goal of this discussion is to coordinate future development of the above mod
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Potential application of SlicerVR: Learn dental anatomy (Sebastian Erckelbout)
+1. Short term changes:
+   1. Implement spatial references (e.g. a Floor)
+   1. Improve object selection
+1. Interaction
+   1. Is it worth sharing a code base with Slicer Looking glass?
+   1. For developpers: need for more control over interaction: disable existing interaction and change behavior
+   1. Long term: support for more complex VR controllers and hand tracking
+   1. Have interaction settings for different scenarios (inside-out vs outside-in visualization)
+1. Collaboration
+   1. Currently, collaboration is setup using OpenIGTLinkIF and carefully setting up scenes on both ends. Transforms have to be setup for controllers and HMD
+   1. We need to facilitate (automate) connection and scene setup for collaboration
+   1. It might be necessary to use a server technology to hold common state (Steve Halle suggested [FireBase](https://firebase.google.com/) previously used)
 
 # Illustrations
 
@@ -46,4 +52,8 @@ The Goal of this discussion is to coordinate future development of the above mod
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+[SlicerVR](https://github.com/KitwareMedical/SlicerVirtualReality)
+
+[PRISMRendering](https://github.com/ETS-vis-interactive/SlicerPRISMRendering)
+
+[PRISMRendering doc](https://githubcomets-vis-interactiveslicerprismrendering.readthedocs.io/en/latest/)
