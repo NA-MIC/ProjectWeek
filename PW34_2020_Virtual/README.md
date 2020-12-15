@@ -78,7 +78,7 @@ As of Sun December 13th:
 1. [Landmark Curves for Brain Images](Projects/Landmark%20Curves%20for%20Brain%20Images/README.md) (Jarrett Rushmore, BWH/MGH/BU, Sylvain Bouix, BWH/HMS,  Nikos Makris, BWH/MGH/HMS, Kyle Sunderland, Queen's University, Andras Lasso, Queen's University)
 1. [RadOncSegmentor](Projects/RadOncSegmentor/Readme.md) Segmentation for Radiation Treatment Planning (Aditya Apte, Eve LoCastro, Harini Veeraraghavan, MSKCC)
 1. [Scalable Quality Assurance for Neuroimaging (SQAN)](Projects/SQAN/README.md) (Arvind Gopu)
-1. [Train the Trainers](Projects/TrainTheTrainers/README.md)  formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Marilola Afonso, Badiaa Ait Ahmed, Nayra Pumar)
+1. [Train the Trainers](Projects/TrainTheTrainers/README.md)  formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Marilola Afonso, Nasara Cabrera Abu, Badiaa Ait Ahmed, Nayra Pumar)
 1. [SlicerLiverAnalysis](Projects/SlicerLiverAnalysis/README.md) (Rafael Palomar OUS,NTNU. Ole Vegard Solberg, SINTEF)
 1. [MICUDA - Generalized Entropy MI Registration](Projects/MICUDA/README.md) (Luiz Otavio Murta, Vinicius Pavanelli Vianna)
 1. [TRAKO](Projects/TRAKO/README.md) (Daniel Haehn, Steve Pieper, Lauren O'Donnell, Yogesh Rathi))
