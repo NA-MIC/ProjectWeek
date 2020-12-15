@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Juan Ruiz Alzola (Universidad de Las Palmas de Gran Canaria, Spain)
 - Asmaa Skareb (Instituto Tecnológico de Canarias, Spain)
 - Marilola Afonso (Universidad de Las Palmas de Gran Canaria, Spain)
+- Nasara Cabrera Abu (Gobierno de Canarias, Spain)
 - Badiaa AIT AHMED (University Abdelmalek Essaâdi , Tétouan , Morocco)
 - Nayra Pumar Carreras (Instituto Tecnológico de Canarias, Spain)
 
