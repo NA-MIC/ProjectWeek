@@ -37,7 +37,7 @@ Notes on the agenda:
 * **Tuesday's session** will be a discussion about
   * Features in 3D Slicer that are new since the last Project Week
   * Design considerations that are relevant for end-to-end solutions (or customizable Slicer apps).  
-* **Wednesday's session** will be a question and answer session about 3D Slicer for users and developers, a "live" version of what takes place asynchronously on the Slicer discourse forum.
+* **Wednesday's session** question and answer session about 3D Slicer for users and developers, a "live" version of what takes place asynchronously on the Slicer discourse forum. See discussed questions and answers [here](Breakouts/LiveDiscourse/README.md).
 * **Thursday's session** will be a discussion on recent advancing in the web and cloud technologies that are being used to create browser based visualization applications and large open databases.
 * **Friday's session** will be a training workshop focused on fostering partnerships with researchers and clinicians in Western Africa. 
 * The detailed program for each session is available from the link in the embedded Google Calendar above. 
@@ -56,8 +56,6 @@ As of Sun December 13th:
 <a name="ProjectsList"/>
 
 ## Project Presentations for Monday [(How to add a new project?)](Projects/README.md)
-
-
 
 1. [SlicerSALT: Shape analysis](Projects/SlicerSALT/README.md) (Beatriz Paniagua, Kitware)
 1. [SlicerHeart](Projects/SlicerHeart/README.md) (Andras Lasso)
