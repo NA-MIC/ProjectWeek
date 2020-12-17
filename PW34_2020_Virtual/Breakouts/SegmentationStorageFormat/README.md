@@ -5,7 +5,7 @@ In this breakout session we try to come up with a consensus on how to best store
 ## Attendees
 1. Andras Lasso (Queen's University)
 1. Steve Pieper (Isomics)
-1. _add your name and affiliation here_
+1. Matt McCormick (Kitware)
 
 ## Current State
 
@@ -23,4 +23,4 @@ Commonly used formats:
 ## Suggested solutions
 
 - NRRD with single json object in a custom field
-- _add your suggestions here_
+- Label JSON compatible with or using the [OME-NGFF `image-label` metadata](https://ngff.openmicroscopy.org/latest/#label-md)
