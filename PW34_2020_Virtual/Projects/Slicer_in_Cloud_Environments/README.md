@@ -91,8 +91,7 @@ After analyzing the content and grouping the links tha data leads us to the 4 ma
     | 16 | [Sphinx-Gallery](https://sphinx-gallery.github.io) | Web based image viewer and gallery |
     | 17 | [SliceDrop](http://slicedrop.com/) | Simple browser based image viewer |
     | -- | [OHIF](https://github.com/OHIF/Viewers/) | A zero-footprint medical image viewer |
-    | -- | [Cornerstone.js](https://github.com/OHIF/Viewers/) | A zero-footprint medical image viewer |
-    | -- | [Cornerstone.js](https://github.com/OHIF/Viewers/) | A zero-footprint medical image viewer |
+    | -- | [Cornerstone.js](https://github.com/cornerstonejs) | A JS library to display interactive medical images |
 
     Cloud providers:
 
