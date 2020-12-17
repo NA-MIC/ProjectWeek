@@ -95,7 +95,7 @@ To learn how to join, leave or display list of breakout rooms. See [here](./Zoom
 1. Wednesday @ 11am: Project 15 Landmark Curves for Brain Images  (Jarrett Rushmore, Kyle Sunderland)
 1. Wednesday @ 2pm. Project 12 MONAI: PyTorch-based, open-source framework for deep learning in healthcare imaging (Stephen Aylward)
 1. Thursday @ 11am. [Segmentation import/export/storage](Breakouts/SegmentationStorageFormat/README.md) (Andras Lasso)
-1. Thursday @ 2pm Project 2 Slicer Heart and Segmentation (Andras Lasso)
+1. Thursday @ 2pm [Image segmentation clinic](Breakouts/Segmentation/README.md)Bring your own segmentation problem or learn from how we solve others'(Andras Lasso)
 
 ## Registrants
 
@@ -281,5 +281,27 @@ List of registered participants so far (names will be added here after processin
 1.	Manuel Gustavo Chávez Sevillano 	,	Rio de Janeiro State University	,	Rio de Janeiro	,	Brazil
 1.	Gabor Fichtinger	,	Queen's Univ	,	ON	,	Canada
 1.	Charles Johnson	,	University of Iowa	,	Iowa	,	USA
-
+1.	Morgan Hough	,	Center17 	,	CA	,	USA
+1.	Aron Aliaga Del Castillo	,	Bauru Dental School, University of São Paulo	,	São Paulo	,	Brazil
+1.	Camila Massaro	,	University of São Paulo 	,	São Paulo	,	Brazil
+1.	Wilson Komla	,	Kwame Nkrumah University of Science and Technology	,	Ashanti Region	,	Ghana
+1.	Victor Elikem Akpaloo	,	Kwame Nkrumah University of Science and Technology 	,	Greater Accra Region	,	Ghana
+1.	ABOAGYE, Gifty Takyiwaa	,	Kwame Nkrumah University of Science and Technology 	,	Ashanti	,	Ghana
+1.	omar sow	,	université assane seck de ziguinchor	,	ziguinchor	,	senegal
+1.	Rudolf Bumm	,	Department of Surgery, Kantonsspital Graubünden	,	Graubünden	,	Switzerland
+1.	Kelly Diamond	,	Seattle Children's Research Institute	,	WA	,	USA
+1.	Autumn Kulaga	,	CCDC Data & Analysis Center	,	MD	,	USA
+1.	DELEAT-BESSON	,	University of Michigan	,	Michigan	,	USA
+1.	Celia LE	,	University of Michigan	,	Michigan	,	USA
+1.	Deise Caldas	,	Malta 	,	Saint Julians 	,	Malta
+1.	Steve Moore	,	Washington University	,	MO	,	USA
+1.	Cseh Martin	,	University of Szeged 3D Center	,	Csongrad	,	Hungary
+1.	Nasara Cabrera Abu 	,	Canary Islands Government 	,	Canary Islands 	,	Spain 
+1.	Sokhna Astou Gawane Thiam	,	Université Cheikh Anta Diop  	,	Sénégal	,	Sénégal
+1.	Jasmin Metzger	,	German Cancer Research Center	,	BW	,	Germany
+1.	Aron Helser	,	Kitware	,	NC	,	USA
+1.	Marcela Gurgel	,	Federal University of Ceara	,	Ceara	,	Brazil
+1.	Jason Haider	,	Xenco Medical	,	California	,	USA
+1.	Jordan Karten	,	Massachusetts General Hospital	,	MA	,	USA
+1.	Ron Alkalay	,	Beth Israel Deaconess Medical Center	,	MA	,	USA
 

@@ -23,7 +23,7 @@ NA-MIC Project Week 2020-12-16, 12-2pm EST
         * Is there a way to get help if I don't speak English well?
             * Many Slicer team members are non-native English speakers, just mention what your native language is and we’ll try to find someone who could help out
             * There are some [Chinese resources](https://www.google.com/url?q=https://spujol.github.io/SlicerTutorialsInChinese/&sa=D&ust=1608152866182000&usg=AOvVaw09IFKcwb2Dn_B5lvluSjNg) for example
-            * (Sonia Pujol spujol@bwh.harvard.edu) I was born in France and I am always happy to help with Slicer questions in French.
+            * (Sonia Pujol spujol@bwh.harvard.edu) I am always happy to help with Slicer questions in French
             * (Andrey, @fedorov in Discourse) I am a native Russian speaker, and fluent in Ukrainian - happy to help
 * Volume rendering seems to delineate structures quite nicely. Can I use it for quantification?
     * Short answer: No. You would need to perform a segmentation or place markups fiducials on the visible surface to measure.

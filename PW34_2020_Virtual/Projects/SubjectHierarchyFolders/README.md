@@ -24,16 +24,12 @@ Recently the feature [has been added to Slicer by Andras Lasso](https://github.c
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Consider how the feature would generalize from the BabySteps use case to work for other longitudinal applications where collections of reference and derived data must be managed (also should we consider Sequences in the design somehow?)
-1. ...
-1. ...
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Support for dropping subject hierarchy folders into views has been added, see this [pull request](https://github.com/Slicer/Slicer/pull/5350)
 
 # Illustrations
 
