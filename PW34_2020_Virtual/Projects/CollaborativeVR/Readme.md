@@ -29,19 +29,20 @@ The Goal of this discussion is to coordinate future development of the above mod
 
 ## Progress and Next Steps
 
-1. Potential application of SlicerVR: Learn dental anatomy (Sebastian Erckelbout)
+1. Potential application of SlicerVR: Learn dental anatomy (Sébastien Erckelbout)
 1. Short term changes:
    1. Implement spatial references (e.g. a Floor)
    1. Improve object selection
 1. Interaction
    1. Is it worth sharing a code base with Slicer Looking glass?
-   1. For developpers: need for more control over interaction: disable existing interaction and change behavior
+   1. For developers: need for more control over interaction: disable existing interaction and change behavior
    1. Long term: support for more complex VR controllers and hand tracking
    1. Have interaction settings for different scenarios (inside-out vs outside-in visualization)
 1. Collaboration
    1. Currently, collaboration is setup using OpenIGTLinkIF and carefully setting up scenes on both ends. Transforms have to be setup for controllers and HMD
    1. We need to facilitate (automate) connection and scene setup for collaboration
-   1. It might be necessary to use a server technology to hold common state (Steve Halle suggested [FireBase](https://firebase.google.com/) previously used)
+   1. It might be necessary to use a server technology to hold common state (Mike Halle suggested [FireBase](https://firebase.google.com/) previously used)
+   1. A matchmaking and communication solution to explore: [Photon](https://doc.photonengine.com/en-us/realtime/current/getting-started/realtime-intro)
 
 # Illustrations
 
