@@ -18,9 +18,11 @@ Commonly used formats:
 
 - Easy reading/writing in Python, C++, JavaScript
 - Compatibility with 3D Slicer, ITK, DICOM, ...
+- Web friendly (JSON)
 - _add your needs here_
 
 ## Suggested solutions
 
 - NRRD with single json object in a custom field
 - Label JSON compatible with or using the [OME-NGFF `image-label` metadata](https://ngff.openmicroscopy.org/latest/#label-md)
+- _add your suggestions here_
