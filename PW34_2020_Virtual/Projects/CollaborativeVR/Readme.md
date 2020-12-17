@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Csaba Pinter
+- Csaba Pinter (Ebatinca / Pixel Medical)
 - Simon Drouin (ETS Montreal)
 
 # Project Description
