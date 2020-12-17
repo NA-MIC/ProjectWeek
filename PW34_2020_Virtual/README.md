@@ -95,7 +95,7 @@ To learn how to join, leave or display list of breakout rooms. See [here](./Zoom
 1. Wednesday @ 11am: Project 15 Landmark Curves for Brain Images  (Jarrett Rushmore, Kyle Sunderland)
 1. Wednesday @ 2pm. Project 12 MONAI: PyTorch-based, open-source framework for deep learning in healthcare imaging (Stephen Aylward)
 1. Thursday @ 11am. [Segmentation import/export/storage](Breakouts/SegmentationStorageFormat/README.md) (Andras Lasso)
-1. Thursday @ 2pm Project 2 Slicer Heart and Segmentation (Andras Lasso)
+1. Thursday @ 2pm [Image segmentation clinic](Breakouts/Segmentation/README.md)Bring your own segmentation problem or learn from how we solve others'(Andras Lasso)
 
 ## Registrants
 
