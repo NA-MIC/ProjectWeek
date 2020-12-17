@@ -6,6 +6,7 @@ In this breakout session we try to come up with a consensus on how to best store
 1. Andras Lasso (Queen's University)
 1. Steve Pieper (Isomics)
 1. Matt McCormick (Kitware)
+1. _your name here_
 
 ## Current State
 
