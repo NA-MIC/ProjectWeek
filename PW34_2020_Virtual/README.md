@@ -19,7 +19,7 @@ https://training.itccanarias.org/mod/page/view.php?id=254&lang=en
 
 We will also stream the event live on YouTube. 
 
-
+## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
 
