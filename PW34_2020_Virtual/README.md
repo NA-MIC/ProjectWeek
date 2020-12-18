@@ -11,13 +11,15 @@ We are pleased to invite you to the event to be held on Friday, December 18, 202
  
 The access link to the event is as follows:
  
-https://zoom.us/j/93915616782?pwd=cm1rVGpCZXZKcHFEcXBTUVZNejhWdz09
+[https://zoom.us/j/93915616782?pwd=cm1rVGpCZXZKcHFEcXBTUVZNejhWdz09](https://zoom.us/j/93915616782?pwd=cm1rVGpCZXZKcHFEcXBTUVZNejhWdz09)
  
 You will find the detailed program of the day on this link:
  
 https://training.itccanarias.org/mod/page/view.php?id=254&lang=en
 
-We will also stream the event live on YouTube. 
+We will also stream the event live on YouTube: 
+
+[https://www.youtube.com/watch?v=PSum_9wwyCs&ab_channel=NayraPumar](https://www.youtube.com/watch?v=PSum_9wwyCs&ab_channel=NayraPumar)
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
