@@ -6,6 +6,20 @@ The [34th NA-MIC Project Week](https://projectweek.na-mic.org/PW34_2020_Virtual/
 
 The event is free and connection details will be provided after [registering](https://forms.gle/VFTNfKRNsgj6YSLB9).
 
+## Today is African Day (Friday, Dec 18)
+We are pleased to invite you to the event to be held on Friday, December 18, 2020 under the theme "Medical Technologies for Sustainable Development: Training of Trainers" organized by the Directorate General for Economic Affairs with Africa of the Government of the Canary Islands in collaboration with the Institute of Technology of the Canary Islands (ITC). The online event will begin at 14:00 (GMT) Las Palmas, Dakar and Nouakchott time; 15:00 Madrid time; 16:00 Sudan and Mozambique time; 9:00 Boston time. Please check your time zone.
+ 
+The access link to the event is as follows:
+ 
+https://zoom.us/j/93915616782?pwd=cm1rVGpCZXZKcHFEcXBTUVZNejhWdz09
+ 
+You will find the detailed program of the day on this link:
+ 
+https://training.itccanarias.org/mod/page/view.php?id=254&lang=en
+
+We will also stream the event live on YouTube. 
+
+
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
 
