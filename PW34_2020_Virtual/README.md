@@ -15,7 +15,7 @@ The access link to the event is as follows:
  
 You will find the detailed program of the day on this link:
  
-https://training.itccanarias.org/mod/page/view.php?id=254&lang=en
+[https://training.itccanarias.org/mod/page/view.php?id=254&lang=en](https://training.itccanarias.org/mod/page/view.php?id=254&lang=en)
 
 We will also stream the event live on YouTube: 
 
