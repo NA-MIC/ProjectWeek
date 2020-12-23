@@ -37,7 +37,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 
 ## Upcoming Project Weeks
 
-- The 2020 Project Week will be held virtually and will take place December 14-18, 2020.
+  The 35th project week will be held online during the summer of 2021. Stay tuned for details.
 
 * Please contact the organizers if you have interest in hosting a Project Week event.
 
