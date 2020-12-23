@@ -2,24 +2,7 @@
 
 ## Welcome to the web page for the 34th Project Week!
 
-The [34th NA-MIC Project Week](https://projectweek.na-mic.org/PW34_2020_Virtual/) will be held virtually December 14-18, 2020.
-
-The event is free and connection details will be provided after [registering](https://forms.gle/VFTNfKRNsgj6YSLB9).
-
-## Today is African Day (Friday, Dec 18)
-We are pleased to invite you to the event to be held on Friday, December 18, 2020 under the theme "Medical Technologies for Sustainable Development: Training of Trainers" organized by the Directorate General for Economic Affairs with Africa of the Government of the Canary Islands in collaboration with the Institute of Technology of the Canary Islands (ITC). The online event will begin at 14:00 (GMT) Las Palmas, Dakar and Nouakchott time; 15:00 Madrid time; 16:00 Sudan and Mozambique time; 9:00 Boston time. Please check your time zone.
- 
-The access link to the event is as follows:
- 
-[https://zoom.us/j/93915616782?pwd=cm1rVGpCZXZKcHFEcXBTUVZNejhWdz09](https://zoom.us/j/93915616782?pwd=cm1rVGpCZXZKcHFEcXBTUVZNejhWdz09)
- 
-You will find the detailed program of the day on this link:
- 
-[https://training.itccanarias.org/mod/page/view.php?id=254&lang=en](https://training.itccanarias.org/mod/page/view.php?id=254&lang=en)
-
-We will also stream the event live on YouTube: 
-
-[https://www.youtube.com/watch?v=PSum_9wwyCs&ab_channel=NayraPumar](https://www.youtube.com/watch?v=PSum_9wwyCs&ab_channel=NayraPumar)
+The [34th NA-MIC Project Week](https://projectweek.na-mic.org/PW34_2020_Virtual/) was held virtually December 14-18, 2020.
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
@@ -27,13 +10,11 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Logistics
 - **Dates:** December 14-18, 2020.
-- **Location:** THE INTERNET (A zoom link will be emailed to all registered attendees by December 13, 2020)
+- **Location:** THE INTERNET 
 - **Discourse Forum:** Please sign-up on the [discourse forum](https://discourse.slicer.org/c/community/project-week) to get updates and ask questions.
   - [Project week discourse topic](https://discourse.slicer.org/t/project-week-starts-tomorrow/15040) for less real-time conversation
 - **Slack:** [Invite Link](https://join.slack.com/t/namic-projectweek/shared_invite/zt-bmxjicl0-zWkWOV~Sp5lTh1dWhq4nYw)
 - **REGISTRATION:** [Link](https://forms.gle/VFTNfKRNsgj6YSLB9)
-- **Zoom Meeting (main room)**: [Link](https://etsmtl.zoom.us/j/86140790592?pwd=U3ExVk9sV1NHV2dubytnMVp4K0M4Zz09)
-
 
 ## Agenda
 
@@ -61,13 +42,6 @@ Notes on the agenda:
   * Presenters and participants may use the chat function during the main session to request a breakout session with the designated person
   * A few breakout sessions have already been planned (see Breakout Sessions section below)
 
-## Statistics
-As of Sun December 13th:
-* 179 registered attendees
-* More than 50 institutions
-* 24 countries
-
-<img src="pw-registrants-country-stats.png" width="600" />
 
 <a name="ProjectsList"/>
 
@@ -321,3 +295,10 @@ List of registered participants so far (names will be added here after processin
 1.	Jordan Karten	,	Massachusetts General Hospital	,	MA	,	USA
 1.	Ron Alkalay	,	Beth Israel Deaconess Medical Center	,	MA	,	USA
 
+## Statistics
+
+* 204 registered attendees
+* 26 countries
+* 101 institutions (82 academic, 18 industry, and 1 goverment)
+
+<img src="pw-registrants-country-stats.png" width="600" />
