@@ -37,7 +37,7 @@ Objective B: Maintain patient registration after face is no longer visible using
 
 1. Created Slicer module for generating a point cloud from a depth image
 2. Demonstrated streaming of real-time point clouds from depth images captured by the RealSense
-3. Investigated accuracy of Model Registration module for registering captured point clouds to dense models
+3. Investigated accuracy of [Model Registration module](https://github.com/SlicerIGT/SlicerIGT/blob/master/ModelRegistration/ModelRegistration.py) for registering captured point clouds to dense models
 4. Explored RealSense parameters to find settings best suited to close range facial scanning
 
 # Illustrations
