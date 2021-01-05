@@ -11,7 +11,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 The goal of this project is to develop a module in Slicer for registering [Intel RealSense][realsense] depth data to a CT scan of a patient's 
-head and maintain this registration using an optical marker. The module will use facial surface anatomy to perform initial 
+head and maintain this 
+tion using an optical marker. The module will use facial surface anatomy to perform initial 
 registration between the RealSense and a CT scan. An optical marker will be rigidly fixed to the patient's head within the 
 camera's field of view and used to preserve registration when the patient's face is no longer visible.
 
@@ -71,3 +72,4 @@ Objective B: Maintain patient registration after face is no longer visible using
 
 - [DepthImageToPointCloud](https://github.com/PerkLab/DepthImageToPointCloud): Slicer extension to display point cloud data streamed from IntelRealsense camera
 - [Intel RealSense](https://www.intelrealsense.com/stereo-depth)
+- [SlicerIGT extension](https://www.slicerigt.org/) - [Model Registration module](https://github.com/SlicerIGT/SlicerIGT/blob/master/ModelRegistration/ModelRegistration.py)
