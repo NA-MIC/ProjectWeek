@@ -1,6 +1,6 @@
 
 
-## Welcome to the web page for the 34th Project Week!
+## Welcome to the web page for the 35th Project Week!
 
 The [35th NA-MIC Project Week](https://projectweek.na-mic.org/PW35_2021_Virtual/) to be held virtually June 28-July 2, 2021.
 
