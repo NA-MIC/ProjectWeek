@@ -50,7 +50,7 @@ Notes on the agenda:
 
 ## Breakout Sessions:
 
-To learn how to join, leave or display list of breakout rooms. See [here](./ZoomBreakoutRoom.md). 
+<!-- To learn how to join, leave or display list of breakout rooms. See [here](./ZoomBreakoutRoom.md).-->
 
 1. Tuesday @ 11am [Collaborative VR discussion](Projects/CollaborativeVR/Readme.md) (Csaba Pinter and Simon Drouin)
 
