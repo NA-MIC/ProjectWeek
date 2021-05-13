@@ -13,7 +13,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Location:** THE INTERNET 
 - **Discourse Forum:** Please sign-up on the [discourse forum](https://discourse.slicer.org/c/community/project-week) to get updates and ask questions.
 - **Slack:** [Invite Link](https://join.slack.com/t/namic-projectweek/shared_invite/zt-bmxjicl0-zWkWOV~Sp5lTh1dWhq4nYw)
-- **REGISTRATION:** <!--[Link](https://forms.gle/VFTNfKRNsgj6YSLB9)--> coming soon!
+- **REGISTRATION:**[Link](https://forms.gle/evnWqMu4dnsx3Mei9)
 
 ## Agenda
 
