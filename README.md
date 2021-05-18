@@ -14,7 +14,7 @@ The Project Week is a week-long hackathon of hands on activity in which medical 
 #### When, where, how much?
 
 PP i.e., pre-pandemic, the Project Week events were held in-person twice a year, January in Europe, and June at MIT, with ad-hoc meetings added occasionally. The registration fee for in-person events is approximately 350 (USD or Euro), and is used to cover coffee and food.
-DP i.e. during-pandemic, the Project Week events are being held online twice year a year.  There is no registration fee, and as a result the quantity of coffee and food has suffered. 
+DP i.e. during-pandemic, the Project Week events are being held online twice year a year.  There is no registration fee.  
 
 #### How does it work?
 
@@ -22,7 +22,7 @@ Weekly videoconferences for preparation begin 8-12 weeks before an event. Potent
 
 #### Who can attend?
 
-Project Weeks are open to all and publicly advertised. One-day participation is permitted for first-time attendees, but rest stay for the entire event. Email announcements are sent to the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) and posted on the [Project Week forum](https://discourse.slicer.org/c/community/project-week).
+Project Weeks are open to all and publicly advertised. Email announcements are sent to the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) and posted on the [Project Week forum](https://discourse.slicer.org/c/community/project-week). One-day participation is permitted for first-time attendees, but rest stay for the entire event. 
 
 #### Who should attend?
 
@@ -34,7 +34,7 @@ The Project Week series was founded in 2005, along with the National Alliance fo
 
 #### Who to contact?
 
-Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)) who is happy to tell you more about them.
+Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)) and  [@drouin-simon](https://github.com/drouin-simon), ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//)) who are happy to tell you more about them.
 
 ## Upcoming Project Weeks
 
