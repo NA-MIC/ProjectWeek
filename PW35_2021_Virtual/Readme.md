@@ -15,6 +15,30 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Slack:** [Invite Link](https://join.slack.com/t/namic-projectweek/shared_invite/zt-qiaonf37-Ic3i3O5MW9KiMngPuNbRlA)
 - **REGISTRATION:**[Link](https://forms.gle/evnWqMu4dnsx3Mei9)
 
+
+## Preparation Meetings
+
+We are holding prepration meetings every Tuesday at 10am ET starting May 18th using this [Zoom link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09)
+
+* May 18 - Kickoff 
+* May 25 - Project week logistics
+* June 1 - AI-assisted annotations 
+** (KnowledgeVis, Florida) Curt Lisle (Overview, user experience with MONAI, application to lung/cancer segmentation)
+** (UCL, London) Fernando Perez Garcia, Andres Diaz Pinto (MONAILabel demo)
+** (Queens U, Kingston) Andras Lasso, Tamas Ungi (Deep learning based annotation in Slicer, migration to MONAI?)
+* June 8 - Systems for Image-Guided Surgery
+** ?Alexandra Golby, Boston
+** ?Gabor Fichtinger, Kingston, Ontario
+** ?Andreas Horn
+** ?
+* June 15 - AR/VR and rendering
+**Simon Drouin
+**Csaba Pinter
+* June 22 - DICOM
+** (Stanford, California) Emel Alkim
+** (DKFZ, Germany) Max Fischer
+** ?
+
 ## Agenda
 
 <!-- **Note: Zoom Rooms Open at 11am EST and Project Presentations Start at 12noon EST on MONDAY** -->
