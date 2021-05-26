@@ -2,7 +2,7 @@
 
 ## Welcome to the web page for the 35th Project Week!
 
-The [35th NA-MIC Project Week](https://projectweek.na-mic.org/PW35_2021_Virtual/) to be held virtually June 28-July 2, 2021.
+This event will be held virtually June 28-July 2, 2021.
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
