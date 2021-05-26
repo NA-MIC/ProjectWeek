@@ -39,31 +39,39 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 ** (DKFZ, Germany) Max Fischer
 ** ?
 
-## Agenda
+## Preliminary Agenda
 
-<!-- **Note: Zoom Rooms Open at 11am EST and Project Presentations Start at 12noon EST on MONDAY** -->
 
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic&mode=WEEK&dates=20210628%2f20210702" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 [How to add this calendar to your own?](../common/Calendar.md)
 
-Notes on the agenda:
+**Monday**
+* 10am-12:30pm: Introduction and Project Presentations
+* 12:30-1pm BREAK
+* 1-5pm: Work in Project Teams (?Discord)
 
-* The format of this virtual event will be different from the in-person ones. Format to be defined during preparation meetings. For reference, format of PW 34 below.
-* **Monday's session** will include:
-  * 5-minute project presentations that include demos (for each of the projects listed below)
-  * Approximately 1:45 of presentations with a 10 min break after the 10th presentation
-  * An optional breakout session
-* **Tuesday's session** will be a discussion about
-  * Features in 3D Slicer that are new since the last Project Week
-  * Design considerations that are relevant for end-to-end solutions (or customizable Slicer apps).  
-* **Wednesday's session** question and answer session about 3D Slicer for users and developers, a "live" version of what takes place asynchronously on the Slicer discourse forum. See discussed questions and answers [here](Breakouts/LiveDiscourse/README.md).
-* **Thursday's session** will be a discussion on recent advancing in the web and cloud technologies that are being used to create browser based visualization applications and large open databases.
-* **Friday's session** will be a training workshop focused on fostering partnerships with researchers and clinicians in Western Africa. 
-* The detailed program for each session is available from the link in the embedded Google Calendar above. 
-* In addition to the scheduled presentations, projects may create separate breakout sessions to work in small groups after the end of the main session
-  * Presenters and participants may use the chat function during the main session to request a breakout session with the designated person
-  * A few breakout sessions have already been planned (see Breakout Sessions section below)
+**Tuesday**
+* 8am-10am: Slicer for First Timers (maybe): Slicer for Users/ Slicer for Developers
+* 10am-12noon What is new in Slicer / Questions from Slicer Users and Developers (“Live” Discourse)
+* 12-1pm BREAK
+* 1-5pm: Work in Project Teams (?Discord)
+
+**Wednesday**
+* 8am-10am: Tutorials for First Timers (maybe): OHIF and Slicer in the Cloud/ MONAI
+* 10am-12noon Image Guided Surgery Systems
+* 12-1pm BREAK
+* 1-5pm: Work in Project Teams (?Discord)
+
+**Thursday**
+* 8am-10am - any other tutorials for First timers?
+* 10am-12noon AR/VR /Volume Rendering
+* 12-1pm BREAK
+* 1-5pm: Work in Project Teams (?Discord)
+
+**Friday**
+* 10am-12pm: Results Presentations
+* 12-1pm: Closing Discussions and Adjourn at 1pm
 
 
 <a name="ProjectsList"/>
