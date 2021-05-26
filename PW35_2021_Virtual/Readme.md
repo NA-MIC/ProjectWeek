@@ -92,8 +92,22 @@ Do not add your name to this list below. It is maintained by the organizers base
 
 List of registered participants so far (names will be added here after processing registrations):
 
-1.	Simon Drouin	,	École de technologie supérieure (ETS Montreal)	,	QC	,	Canada
-1.	Tina Kapur	,	Brigham and Women's Hospital and Harvard Medical School	,	MA	,	USA
+1.	Mónica García Sevilla	,	Universidad de Las Palmas de Gran Canaria	,	Gran Canaria	,	Spain
+1.	ZhenXiao Yu	,	University Of Western Ontario	,	Ontario	,	Canada
+1.	Shreyas Chandra Sekhar	,	WPI	,	CA	,	USA
+1.	Tina Kapur	,	Brigham and Women's Hospital and Harvard Medical School	,	MA	,	United States
+1.	Sam Horvath	,	Kitware	,	North Carolina	,	United States
+1.	Steve Pieper	,	Isomics, Inc.	,	MA	,	US
+1.	Simon Oxenford	,	Charite Berlin	,	Berlin	,	Germany
+1.	Theodore Aptekarev	,	None	,	Moscow/Tel Aviv	,	Israel/Russia
+1.	Samuelle St-Onge	,	École de technologie supérieure (ÉTS)	,	Quebec	,	Canada
+1.	Csaba Pinter	,	Ebatinca / Pixel Medical	,	Canarias	,	Spain
+1.	Miguel Xochicale	,	King's College London	,	London	,	UK
+1.	Thibault Pelletier	,	Kitware	,	Rhône-Alpes	,	France
+1.	Saima Safdar	,	UWA	,	Western australia	,	Australia
+1.	Juan Ruiz-Alzola	,	University of Las Palmas de Gran Canaria	,	Canarias	,	Spain
+1.	David García Mato	,	Ebatinca S.L.	,	Las Palmas	,	Spain
+1.	Mario Banfoldy	,	Banfoldy and Partners	,	SP	,	Brasilien
 
 ## Statistics
 
