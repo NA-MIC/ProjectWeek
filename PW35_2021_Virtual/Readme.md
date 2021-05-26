@@ -23,21 +23,21 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 * May 18 - Kickoff 
 * May 25 - Project week logistics
 * **June 1 - AI-assisted annotations** 
-- (KnowledgeVis, Florida) Curt Lisle (Overview, user experience with MONAI, application to lung/cancer segmentation)
-- (UCL, London) Fernando Perez Garcia, Andres Diaz Pinto (MONAILabel demo)
-- (Queens U, Kingston) Andras Lasso, Tamas Ungi (Deep learning based annotation in Slicer, migration to MONAI?)
+  * (KnowledgeVis, Florida) Curt Lisle (Overview, user experience with MONAI, application to lung/cancer segmentation)
+  * (UCL, London) Fernando Perez Garcia, Andres Diaz Pinto (MONAILabel demo)
+  * (Queens U, Kingston) Andras Lasso, Tamas Ungi (Deep learning based annotation in Slicer, migration to MONAI?)
 * **June 8 - Systems for Image-Guided Surgery**
-- ?Alexandra Golby, Boston
-- ?Gabor Fichtinger, Kingston, Ontario
-- ?Andreas Horn
-- ?
+  * ?Alexandra Golby, Boston
+  * ?Gabor Fichtinger, Kingston, Ontario
+  * ?Andreas Horn
+  * ?
 * **June 15 - AR/VR and rendering**
-- Simon Drouin
-- Csaba Pinter
+  * Simon Drouin
+  * Csaba Pinter
 * **June 22 - DICOM**
-- (Stanford, California) Emel Alkim
-- (DKFZ, Germany) Max Fischer
-- ?
+  * (Stanford, California) Emel Alkim
+  * (DKFZ, Germany) Max Fischer
+  * ?
 
 ## Preliminary Agenda
 
