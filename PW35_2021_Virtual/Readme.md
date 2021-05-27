@@ -13,7 +13,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Location:** THE INTERNET 
 - **Discourse Forum:** Please sign-up on the [discourse forum](https://discourse.slicer.org/c/community/project-week) to get updates and ask questions.
 - **Discord:** preparation and work on individual projects [Invite Link](https://discord.gg/5TC5H2g63e)
-- **REGISTRATION:**[Link](https://forms.gle/evnWqMu4dnsx3Mei9)
+- **REGISTRATION:** [Link](https://forms.gle/evnWqMu4dnsx3Mei9)
 
 
 ## Preparation Meetings
@@ -88,7 +88,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 
 ## Registrants
 
-Do not add your name to this list below. It is maintained by the organizers based on your registration. <!-- [Register here](https://forms.gle/VFTNfKRNsgj6YSLB9) -->.
+Do not add your name to this list below. It is maintained by the organizers based on your registration. [Register here](https://forms.gle/evnWqMu4dnsx3Mei9).
 
 List of registered participants so far (names will be added here after processing registrations):
 
