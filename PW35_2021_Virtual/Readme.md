@@ -30,7 +30,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
   * ?Alexandra Golby, Boston
   * ?Gabor Fichtinger, Kingston, Ontario
   * ?Andreas Horn
-  * ?
+  * ?Juan Ruiz, Las Palmas, Gran Canaria
 * **June 15 - AR/VR and rendering**
   * Simon Drouin
   * Csaba Pinter
@@ -52,20 +52,20 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 * 1-5pm: Work in Project Teams (?Discord)
 
 **Tuesday**
-* 8am-10am: Slicer for First Timers (maybe): Slicer for Users/ Slicer for Developers
-* 10am-12noon What is new in Slicer / Questions from Slicer Users and Developers (“Live” Discourse)
+* 8am-10am: For First Timers (maybe): Slicer for Users/ Slicer for Developers/OHIF and Slicer in the Cloud/ MONAI
+* 10am-12noon Breakout Session: What is new in Slicer / Questions from Slicer Users and Developers (“Live” Discourse)
 * 12-1pm BREAK
 * 1-5pm: Work in Project Teams (?Discord)
 
 **Wednesday**
-* 8am-10am: Tutorials for First Timers (maybe): OHIF and Slicer in the Cloud/ MONAI
-* 10am-12noon Image Guided Surgery Systems
+* 8am-10am: For First Timers: Image-Guided Brain Tumor Surgery (Alexandra Golby, MD)
+* 10am-12noon Breakout Session: Image Guided Surgery Systems
 * 12-1pm BREAK
 * 1-5pm: Work in Project Teams (?Discord)
 
 **Thursday**
 * 8am-10am - any other tutorials for First timers?
-* 10am-12noon AR/VR /Volume Rendering
+* 10am-12noon Breakout Session: AR/VR /Volume Rendering
 * 12-1pm BREAK
 * 1-5pm: Work in Project Teams (?Discord)
 
