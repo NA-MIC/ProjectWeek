@@ -27,8 +27,8 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
   * (UCL, London) Fernando Perez Garcia, Andres Diaz Pinto (MONAILabel demo)
   * (Queens U, Kingston) Andras Lasso, Tamas Ungi (Deep learning based annotation in Slicer, migration to MONAI?)
 * **June 8 - Systems for Image-Guided Surgery**
-  * ?Alexandra Golby, Boston
-  * ?Gabor Fichtinger, Kingston, Ontario
+  * Alexandra Golby, Boston
+  * Gabor Fichtinger, Kingston, Ontario
   * ?Andreas Horn
   * ?Juan Ruiz, Las Palmas, Gran Canaria
 * **June 15 - AR/VR and rendering**
