@@ -80,11 +80,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 
 1. [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
 
-## Breakout Sessions:
 
-<!-- To learn how to join, leave or display list of breakout rooms. See [here](./ZoomBreakoutRoom.md).-->
-
-1. Tuesday @ 11am [Collaborative VR discussion](Projects/CollaborativeVR/Readme.md) (Csaba Pinter and Simon Drouin)
 
 ## Registrants
 
