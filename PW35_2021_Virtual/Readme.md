@@ -49,25 +49,25 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 **Monday**
 * 10am-12:30pm: Introduction and Project Presentations
 * 12:30-1pm BREAK
-* 1-5pm: Work in Project Teams (?Discord)
+* 1-5pm: Work in Project Teams (Discord)
 
 **Tuesday**
-* 8am-10am: For First Timers (maybe): Slicer for Users/ Slicer for Developers/OHIF and Slicer in the Cloud/ MONAI
+* 8am-10am: For First Timers (topics to be finalized): Slicer for Users/ Slicer for Developers/OHIF and Slicer in the Cloud/ MONAI
 * 10am-12noon Breakout Session: What is new in Slicer / Questions from Slicer Users and Developers (“Live” Discourse)
 * 12-1pm BREAK
-* 1-5pm: Work in Project Teams (?Discord)
+* 1-5pm: Work in Project Teams (Discord)
 
 **Wednesday**
-* 8am-10am: For First Timers: Image-Guided Brain Tumor Surgery (Alexandra Golby, MD)
+* 8am-10am: For First Timers: Image-Guided Brain Tumor Surgery (Alexandra Golby, MD) + other talks
 * 10am-12noon Breakout Session: Image Guided Surgery Systems
 * 12-1pm BREAK
-* 1-5pm: Work in Project Teams (?Discord)
+* 1-5pm: Work in Project Teams (Discord)
 
 **Thursday**
 * 8am-10am - any other tutorials for First timers?
 * 10am-12noon Breakout Session: AR/VR /Volume Rendering
 * 12-1pm BREAK
-* 1-5pm: Work in Project Teams (?Discord)
+* 1-5pm: Work in Project Teams (Discord)
 
 **Friday**
 * 10am-12pm: Results Presentations
