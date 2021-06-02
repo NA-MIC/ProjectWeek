@@ -104,6 +104,24 @@ List of registered participants so far (names will be added here after processin
 1.	Juan Ruiz-Alzola	,	University of Las Palmas de Gran Canaria	,	Canarias	,	Spain
 1.	David García Mato	,	Ebatinca S.L.	,	Las Palmas	,	Spain
 1.	Mario Banfoldy	,	Banfoldy and Partners	,	SP	,	Brasilien
+1.	Simon Drouin	,	École de Technologie Supérieure	,	Montreal	,	Canada
+1.	Ron Kikinis	,	Harvard Medical School	,	Boston	,	United States
+1.	Herbert Shin	,	University of Western Ontario 	,		,	Canada
+1.	Ahmedou Moulaye IDRISS	,	Faculty of Medicine / University of Nouakchott Al Aasriya	,	Nashville	,	Mauritania
+1.	Ron Alkalay	,	Beth Israel Deaconess Medical Center	,	Bosotn	,	US
+1.	Alicia Pose Díez de la Lastra	,	Universidad Carlos III de Madrid	,	Leganés	,	España
+1.	Chenglin Zhu	,	Cornell University	,	Ithaca	,	Study in US, live in China
+1.	Jarrett Rushmore	,	BU/BWH/MGH	,	Boston	,	USA
+1.	Walia Farzana	,	Old Dominion University	,	Norfolk	,	United States of America
+1.	Mamadou Samba Camara	,	University Cheikh Anta Diop of Dakar	,	Dakar	,	Senegal
+1.	Fernando Pérez-García	,	UCL & King's College London	,		,	United Kingdom
+1.	Curtis Lisle	,	KnowledgeVis, LLC	,	Altamonte Springs	,	United States
+1.	Tamas Ungi	,	Queen's University	,	Kingston	,	Canada
+1.	Andras Lasso	,	PerkLab, Queen's University	,	Kingston	,	Canada
+1.	Junichi Tokuda	,	Brigham and Women's Hospital	,	Boston	,	United States
+1.	Maximilian Fischer	,	German Cancer Research Center	,		,	Germany
+1.	Marilola Afonso	,	Universidad de Las Palmas de Gran Canaria	,	Las Palmas de Gran Canaria	,	Spain
+1.	Étienne Léger	,	Concordia University	,	Montréal	,	Canada
 
 ## Statistics
 
