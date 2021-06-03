@@ -28,9 +28,10 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
   * (Queens U, Kingston) Andras Lasso, Tamas Ungi (Deep learning based annotation in Slicer, migration to MONAI?)
 * **June 8 - Systems for Image-Guided Surgery**
   * Alexandra Golby, Boston
+  * Juan Ruiz, Las Palmas, Gran Canaria
   * Gabor Fichtinger, Kingston, Ontario
-  * ?Andreas Horn
-  * ?Juan Ruiz, Las Palmas, Gran Canaria
+  * Clare Tempany, Boston
+  * Jay Jagadeesan, Boston
 * **June 15 - AR/VR and rendering**
   * Simon Drouin
   * Csaba Pinter
