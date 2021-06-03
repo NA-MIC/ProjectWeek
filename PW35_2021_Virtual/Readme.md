@@ -67,7 +67,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 **Thursday**
 * 8am-10am - any other tutorials for First timers?
 * 10am-12noon Breakout Session1: AR/VR /Volume Rendering
-* 10am-12noon Breakout Session2: Brain Atlas Grant Annual Meeting 
+* 10am-12noon Breakout Session2: An Open Science Approach to Atlases of the Human Brain Morphology
 * 12-1pm BREAK
 * 1-5pm: Work in Project Teams (Discord)
 
