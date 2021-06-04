@@ -4,9 +4,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators (subject to change)
 
-- Matthew Jolley (Children's Hospital of Philadelphia, Philadelphia, PA, United States)
-- Christian Herz (Children's Hospital of Philadelphia, Philadelphia, PA, United States)
-- Andras Lasso (Laboratory for Percutaneous Surgery, Queen’s University, Canada)
+- Matthew Jolley, MD (Children's Hospital of Philadelphia, Philadelphia, PA, United States)
+- Christian Herz, MS (Children's Hospital of Philadelphia, Philadelphia, PA, United States)
+- Danielle F. Pace, PhD (Martinos Center for Biomedical Imaging, CSAIL, MIT, MGH, HMS, Boston, MA, United States)
+- Andras Lasso, PhD (Laboratory for Percutaneous Surgery, Queen’s University, Canada)
 - John Witt (Children's Hospital of Philadelphia, Philadelphia, PA, United States)
 - Sachidanand Alle (NVIDIA)
 - Prerna Dogra (NVIDIA)
