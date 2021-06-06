@@ -82,6 +82,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 
 1. [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (...)
+1. [Registration for Deep Learning](Projects/TimeSequenceRegistrationForDeepLearning/README.md) (Curtis Lisle)
 
 
 ## Registrants
