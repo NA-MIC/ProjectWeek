@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Axel Krieger (Johns Hopkins University) 
 - Simon Leonard (Johns Hopkins University)
 - Mark Fuge (University of Maryland)
+- Lydia Al-Zogbi (Johns Hopkins University)
 - Pedro Moreira (Brigham and Women's Hospital)
 
 # Project Description
