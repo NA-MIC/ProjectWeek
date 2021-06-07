@@ -1,10 +1,10 @@
-Back to [Projects List](../../README.md#ProjectsList)
+Back to [Projects List](../../Readme.md#ProjectsList)
 
 # Time Sequence Registration for Deep Learning
 
 ## Key Investigators
 
-- Curtis Lisle (KnowledgeVis,LLC)
+- Curtis Lisle, Ph.D. (KnowledgeVis,LLC)
 
 ## Project Description
 
