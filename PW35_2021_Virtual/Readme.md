@@ -99,7 +99,7 @@ List of registered participants so far (names will be added here after processin
 1.	Steve Pieper	,	Isomics, Inc.	,	MA	,	US
 1.	Simon Oxenford	,	Charite Berlin	,	Berlin	,	Germany
 1.	Theodore Aptekarev	,	None	,	Moscow/Tel Aviv	,	Israel/Russia
-1.	Samuelle St-Onge	,	École de technologie supérieure (ÉTS)	,	Quebec	,	Canada
+1.	Samuelle St-Onge	,	École de Technologie Supérieure ,	Montreal	,	Canada
 1.	Csaba Pinter	,	Ebatinca / Pixel Medical	,	Canarias	,	Spain
 1.	Miguel Xochicale	,	King's College London	,	London	,	UK
 1.	Thibault Pelletier	,	Kitware	,	Rhône-Alpes	,	France
@@ -125,6 +125,20 @@ List of registered participants so far (names will be added here after processin
 1.	Maximilian Fischer	,	German Cancer Research Center	,		,	Germany
 1.	Marilola Afonso	,	Universidad de Las Palmas de Gran Canaria	,	Las Palmas de Gran Canaria	,	Spain
 1.	Étienne Léger	,	Concordia University	,	Montréal	,	Canada
+1.	Idafen Santana-Perez	,	University of Las Palmas de Gran Canaria	,	Las Palmas de Gran Canaria	,	Spain
+1.	Loraine Franke	,	University of Massachusetts Boston	,	Boston	,	United States
+1.	Varun Kumar Agarwal	,	Bareilly International University	,	Bareilly	,	India
+1.	Christian Herz	,	Children's Hospital of Philadelphia	,		,	United States
+1.	Mohamed El Moctar SEPTY	,	Medical School of Nouakchott- UNA	,	Nouakchott	,	Mauritania
+1.	TFeil Yahya	,	Faculty of Medicine of University of Nouakchott Al Aasriya	,	Nouakchott	,	Mauritania
+1.	Joshua Bierbrier	,	McGill University	,	Montreal	,	Canada
+1.	Leah Groves	,	Western University 	,	London 	,	Canada
+1.	Alfredo Morales Pinzon	,	BWH	,	Boston	,	United States
+1.	Sylvain Bouix	,	BWH	,	Boston	,	USA
+1.	Ahmedou Moulaye IDRISS	,	Faculty of Medicine - University Nouakchott Al Aasriya	,	Nouakchott	,	Mauritania
+1.	Sonia Pujol	,	Brigham and Women's Hospital, Harvard Medical School	,	Boston	,	USA
+1.	Raymond Yang	,	University of Massachusetts Boston	,	Edison	,	United States of America
+1.	Sarah Frisken	,	Brigham and Women's Hospital	,	Boston	,	USA
 
 ## Statistics
 
