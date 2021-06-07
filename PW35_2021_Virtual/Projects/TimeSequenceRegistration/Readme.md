@@ -33,7 +33,7 @@ tools to register patients' follow-up scans to their original planning CT scans 
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
+1. Acquired anonymous patient dataset
 1. ...
 1. ...
 
