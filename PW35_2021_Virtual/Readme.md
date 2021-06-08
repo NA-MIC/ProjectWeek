@@ -140,6 +140,11 @@ List of registered participants so far (names will be added here after processin
 1.	Sonia Pujol	,	Brigham and Women's Hospital, Harvard Medical School	,	Boston	,	USA
 1.	Raymond Yang	,	University of Massachusetts Boston	,	Edison	,	United States of America
 1.	Sarah Frisken	,	Brigham and Women's Hospital	,	Boston	,	USA
+1.	Pedro Moreira	,	Brigham and Women's Hospital	,	Boston	,	USA
+1.	Rebecca Hisey	,	Queen's University	,	Kingston	,	Canada
+1.	Andrey Titov	,	École de technologie supérieure	,	Saint-Bruno-de-Montarville	,	Canada
+1.	Li Zhenzhu	,	HuaMei Hospital, University of Chinese Academy of Sciences	,	NingBo	,	China
+1.	Ed Yeterian	,	Colby College	,	Pineville	,	USA
 
 ## Statistics
 
