@@ -145,6 +145,7 @@ List of registered participants so far (names will be added here after processin
 1.	Andrey Titov	,	École de technologie supérieure	,	Saint-Bruno-de-Montarville	,	Canada
 1.	Li Zhenzhu	,	HuaMei Hospital, University of Chinese Academy of Sciences	,	NingBo	,	China
 1.	Ed Yeterian	,	Colby College	,	Pineville	,	USA
+1.	Renzo Phellan Aro	,	McGill University	,	Montreal	,	Canada
 
 ## Statistics
 
