@@ -11,10 +11,13 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ## Logistics
 - **Dates:** June 28-July 2, 2021.
 - **Location:** THE INTERNET 
-- **Discourse Forum:** Please sign-up on the [discourse forum](https://discourse.slicer.org/c/community/project-week) to get updates and ask questions.
-- **Discord:** preparation and work on individual projects [Invite Link](https://discord.gg/5TC5H2g63e)
-- **REGISTRATION:** [Link](https://forms.gle/evnWqMu4dnsx3Mei9)
 
+### Attendees
+- **Step 0**: **REGISTER** [here](https://forms.gle/evnWqMu4dnsx3Mei9)
+- **Step 1**: Sign-up on the **[discourse forum](https://discourse.slicer.org/c/community/project-week)** to get updates and ask questions.
+- **Step 2**: Add a **project title** and people names in [this Google document](https://docs.google.com/document/d/1_uxClJYt7eFU4LUrDxbhuGXE_5jspPXWbjOkFmr1fJc/edit?usp=sharing) (before Tuesday, June 15)
+- **Step 3**: Create a **project webpage** (see Projects section below) (before Tuesday June 22)
+- **Step 4** (optional): Join the **Discord** server to help prepare and work on your project: [Invite Link](https://discord.gg/5TC5H2g63e)
 
 ## Preparation Meetings
 
