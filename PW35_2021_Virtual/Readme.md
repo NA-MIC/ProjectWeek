@@ -35,7 +35,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
   * Gabor Fichtinger, Kingston, Ontario
   * Clare Tempany, Boston
   * Jay Jagadeesan, Boston
-* **June 15 - AR/VR and rendering**
+* **June 15 - Systems for Image-Guided Surgery (continued) and Rendering**
   * Simon Drouin
   * Csaba Pinter
 * **June 22 - DICOM**
