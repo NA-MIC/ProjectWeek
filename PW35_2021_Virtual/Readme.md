@@ -149,6 +149,8 @@ List of registered participants so far (names will be added here after processin
 1.	Li Zhenzhu	,	HuaMei Hospital, University of Chinese Academy of Sciences	,	NingBo	,	China
 1.	Ed Yeterian	,	Colby College	,	Pineville	,	USA
 1.	Renzo Phellan Aro	,	McGill University	,	Montreal	,	Canada
+1.	Fahd Derkaoui Hassani	,	Cheikh Zaid international University Hospital / UIASS	,	Rabat	,	Morocco
+1.	Elizabeth Kenneally	,	Tufts University	,	Somerville	,	United States
 
 ## Statistics
 
