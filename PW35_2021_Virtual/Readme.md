@@ -99,6 +99,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (...)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/Readme.md) (Curtis Lisle)
 1. [SlicerVR build and in-VR widgets](Projects/SlicerVR/README.md) (Csaba Pinter)
+1. [GPU Rigid Registration](Projects/GPURigidRegistration/README.md) (Gelel Rezig ...)
 
 
 ## Registrants
