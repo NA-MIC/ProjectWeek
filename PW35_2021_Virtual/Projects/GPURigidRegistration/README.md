@@ -1,5 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
-#GPU Rigid Registration
+
+# GPU Rigid Registration
 
 ## Key Investigators
 - Gelel Rezig (Ecole de technologie supérieur, Montréal, Canada)
