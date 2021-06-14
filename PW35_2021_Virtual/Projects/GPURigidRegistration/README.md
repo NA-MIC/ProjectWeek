@@ -15,9 +15,9 @@ plugin. Then, it will be implemented in Slicer to be available for all users.
 
 ## Objective
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-Objective A. Extract the code from IBIS Neuronav
-Objective B. Create a file usable by Slicer
-Objective C. ...
+1. Objective A. Extract the code from IBIS Neuronav
+2. Objective B. Create a file usable by Slicer
+3. Objective C. ...
 
 ## Approach and Plan
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
