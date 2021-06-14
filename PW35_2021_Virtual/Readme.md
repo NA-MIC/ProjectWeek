@@ -56,7 +56,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 * 1-5pm: Work in Project Teams (Discord)
 
 **Tuesday**
-* 8am-10am: For First Timers (topics to be finalized): Slicer for Users/ Slicer for Developers/OHIF and Slicer in the Cloud/ MONAI
+* 8am-9:30am: For First Timers (topics to be finalized): Annotations in Slicer (Andras Lasso)/MONAI Introduction (Sachi from NVIDIA)/MONAILabel Demo (Andres Diaz Pinto)
 * 10am-12noon Breakout Session: What is new in Slicer / Questions from Slicer Users and Developers (“Live” Discourse)
 * 12-1pm BREAK
 * 1-5pm: Work in Project Teams (Discord)
