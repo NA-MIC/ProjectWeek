@@ -151,6 +151,7 @@ List of registered participants so far (names will be added here after processin
 1.	Renzo Phellan Aro	,	McGill University	,	Montreal	,	Canada
 1.	Fahd Derkaoui Hassani	,	Cheikh Zaid international University Hospital / UIASS	,	Rabat	,	Morocco
 1.	Elizabeth Kenneally	,	Tufts University	,	Somerville	,	United States
+1.	Lidia Al-Zogbi	,	Johns Hopkins University	,	Baltimore	,	United States
 
 ## Statistics
 
