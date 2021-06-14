@@ -51,8 +51,8 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 [How to add this calendar to your own?](../common/Calendar.md)
 
 **Monday**
-* 10am-12:30pm: Introduction and Project Presentations
-* 12:30-1pm BREAK
+* 10am-12pm: Introduction and Project Presentations
+* 12pm-1pm BREAK
 * 1-5pm: Work in Project Teams (Discord)
 
 **Tuesday**
@@ -65,7 +65,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 * 8am-10am: For First Timers: Image-Guided Brain Tumor Surgery (Alexandra Golby, MD)/Affordable IGT (Gabor Fichtinger, PhD)/Prostate Interventions (Clare Tempany, MD)/Molecular Guidance for Clinical Decision Making(Nathalie Agar, PhD)
 * 10:30am-12:30noon Breakout Session: Image Guided Surgery Systems
 * 12:30-1:30pm BREAK
-* 1-5pm: Work in Project Teams (Discord)
+* 1:30-5pm: Work in Project Teams (Discord)
 
 **Thursday**
 * 8am-9:30am - For First timers:OHIF and DICOMWeb (Steve Pieper, PhD)/DICOM for Digital Pathology applications (Marcus Hermann, PhD)/Imaging Data Commons (Andrey Fedorov)
