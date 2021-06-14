@@ -58,20 +58,29 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 **Tuesday June 29**
 * 8am-9:30am: For First Timers: 
 * * Annotations in Slicer (Andras Lasso)
- * MONAI Introduction (Sachi Alle)
- * MONAILabel Demo (Andres Diaz Pinto)
-* 10am-12noon Breakout Session: What is new in Slicer / Questions from Slicer Users and Developers (“Live” Discourse)
+* * MONAI Introduction (Sachi Alle)
+* * MONAILabel Demo (Andres Diaz Pinto)
+* 10am-12noon Breakout Session: 
+* * What is new in Slicer 
+* * Questions from Slicer Users and Developers (“Live” Discourse)
 * 12-1pm BREAK
 * 1-5pm: Work in Project Teams (Discord)
 
 **Wednesday June 30**
-* 8am-10am: For First Timers: Image-Guided Brain Tumor Surgery (Alexandra Golby, MD)/Affordable IGT (Gabor Fichtinger, PhD)/Prostate Interventions (Clare Tempany, MD)/Molecular Guidance for Clinical Decision Making(Nathalie Agar, PhD)
+* 8am-10am: For First Timers: 
+* * Image-Guided Brain Tumor Surgery (Alexandra Golby, MD)
+* * Affordable IGT (Gabor Fichtinger, PhD)
+* * Prostate Interventions (Clare Tempany, MD)
+* * Molecular Guidance for Clinical Decision Making(Nathalie Agar, PhD)
 * 10:30am-12:30noon Breakout Session: Image Guided Surgery Systems
 * 12:30-1:30pm BREAK
 * 1:30-5pm: Work in Project Teams (Discord)
 
 **Thursday July 1**
-* 8am-9:30am - For First timers:OHIF and DICOMWeb (Steve Pieper, PhD)/DICOM for Digital Pathology applications (Marcus Hermann, PhD)/Imaging Data Commons (Andrey Fedorov)
+* 8am-9:30am - For First timers:
+* * OHIF and DICOMWeb (Steve Pieper, PhD)
+* * DICOM for Digital Pathology applications (Marcus Hermann, PhD)
+* * Imaging Data Commons (Andrey Fedorov)
 * 10am-12noon Breakout Session1: AR/VR /Volume Rendering
 * 10am-12noon Breakout Session2: An Open Science Approach to Atlases of the Human Brain Morphology
 * 12-1pm BREAK
