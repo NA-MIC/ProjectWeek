@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Gelel Rezig (Ecole de technologie supérieur, Montréal, Canada)
 - Houssem Eddine Gueziri (Montreal Neurological Institute and Hopital, Canada)
 - Simon Drouin (Ecole de technologie supérieur, Montréal, Canada)
-- 
+
 # Project Description
 <!-- Add a short paragraph describing the project. -->
 With this project, we would like to add a new feature to Slicer.
