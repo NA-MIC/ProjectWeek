@@ -68,7 +68,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 * 1-5pm: Work in Project Teams (Discord)
 
 **Thursday**
-* 8am-9:30am - For First timers:
+* 8am-9:30am - For First timers:OHIF and DICOMWeb (Steve Pieper, PhD)/DICOM for Digital Pathology applications (Marcus Hermann, PhD)/Imaging Data Commons (Andrey Fedorov)
 * 10am-12noon Breakout Session1: AR/VR /Volume Rendering
 * 10am-12noon Breakout Session2: An Open Science Approach to Atlases of the Human Brain Morphology
 * 12-1pm BREAK
