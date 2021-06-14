@@ -62,13 +62,13 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 * 1-5pm: Work in Project Teams (Discord)
 
 **Wednesday**
-* 8am-10am: For First Timers: Image-Guided Brain Tumor Surgery (Alexandra Golby, MD) + other talks
-* 10am-12noon Breakout Session: Image Guided Surgery Systems
-* 12-1pm BREAK
+* 8am-10am: For First Timers: Image-Guided Brain Tumor Surgery (Alexandra Golby, MD)/Affordable IGT (Gabor Fichtinger, PhD)/Prostate Interventions (Clare Tempany, MD)/Molecular Guidance for Clinical Decision Making(Nathalie Agar, PhD)
+* 10:30am-12:30noon Breakout Session: Image Guided Surgery Systems
+* 12:30-1:30pm BREAK
 * 1-5pm: Work in Project Teams (Discord)
 
 **Thursday**
-* 8am-10am - any other tutorials for First timers?
+* 8am-9:30am - For First timers:
 * 10am-12noon Breakout Session1: AR/VR /Volume Rendering
 * 10am-12noon Breakout Session2: An Open Science Approach to Atlases of the Human Brain Morphology
 * 12-1pm BREAK
