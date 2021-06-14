@@ -57,7 +57,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 
 **Tuesday June 29**
 * 8am-9:30am: For First Timers: 
- * Annotations in Slicer (Andras Lasso)
+* * Annotations in Slicer (Andras Lasso)
  * MONAI Introduction (Sachi Alle)
  * MONAILabel Demo (Andres Diaz Pinto)
 * 10am-12noon Breakout Session: What is new in Slicer / Questions from Slicer Users and Developers (“Live” Discourse)
