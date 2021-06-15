@@ -101,6 +101,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 1. [SlicerVR build and in-VR widgets](Projects/SlicerVR/README.md) (Csaba Pinter)
 1. [GPU Rigid Registration](Projects/GPURigidRegistration/README.md) (Gelel Rezig ...)
 1. [Interactive Slice Intersections](Projects/InteractiveSliceIntersections/README.md) (David García-Mato, Kyle Sunderland, Csaba Pinter)
+1. [ROS2 - 3D Slicer Integration](Projects/ROSMED/README.md) (Junichi Tokuda, Axel Krieger, Simon Leonard, Mark Fuge)
 
 
 ## Registrants
