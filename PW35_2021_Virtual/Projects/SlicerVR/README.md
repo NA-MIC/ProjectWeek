@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Csaba Pinter (Ebatinca, Pixel Medical)
+- Adam Rankin (Robarts Research, Canada)
 
 # Project Description
 
