@@ -167,6 +167,16 @@ List of registered participants so far (names will be added here after processin
 1.	Fahd Derkaoui Hassani	,	Cheikh Zaid international University Hospital / UIASS	,	Rabat	,	Morocco
 1.	Elizabeth Kenneally	,	Tufts University	,	Somerville	,	United States
 1.	Lidia Al-Zogbi	,	Johns Hopkins University	,	Baltimore	,	United States
+1.	Andrey Fedorov	,	Brigham and Women's Hospital	,	Cambridge	,	United States
+1.	Jayender Jagadeesan	,	Brigham and Women's Hospital	,	Boston	,	US
+1.	Gelel Rezig	,	Ecole de Technologie Supérieure	,	Montréal	,	Canada
+1.	Souleymane Diao 	,	Cheikh Anta Diop University	,	Dakar 	,	Sénégal 
+1.	Rafael Palomar	,	Oslo University Hospital / NTNU	,	Oslo	,	Norway
+1.	Gabriella d' Albenzio	,	Oslo University Hospital	,	Oslo	,	Norway
+1.	Ole Vegard Solberg	,	SINTEF	,	Trondheim	,	Norway
+1.	Mauro I. Dominguez	,	M3Dical	,	Hughes	,	Argentina
+1.	Adam Rankin	,	Robarts Research Institute	,	London	,	Canada
+1.	Javier Pascau	,	Universidad Carlos III de Madrid	,	Madrid	,	Spain
 
 ## Statistics
 
