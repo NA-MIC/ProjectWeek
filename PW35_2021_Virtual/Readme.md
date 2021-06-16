@@ -179,6 +179,13 @@ List of registered participants so far (names will be added here after processin
 1.	Mauro I. Dominguez	,	M3Dical	,	Hughes	,	Argentina
 1.	Adam Rankin	,	Robarts Research Institute	,	London	,	Canada
 1.	Javier Pascau	,	Universidad Carlos III de Madrid	,	Madrid	,	Spain
+1.	Yoga Balagurunathan	,	Moffitt Cancer Center	,	Tampa	,	USA
+1.	Zhouping Wei	,	Moffitt Cancer Center	,	Tampa	,	US
+1.	Abián Hernández	,	Universidad de Las Palmas de Gran Canaria (ULPGC)	,	Las Palmas de Gran Canaria	,	Spain
+1.	Andinet Enquobahrie	,	Kitware	,	CARY	,	United States
+1.	Andrés Gamboa	,	Neurotrauma Center/Universidad Politécnica de Valencia	,	Bucaramanga/Valencia	,	Colombia/España
+1.	Marine CAMBA	,	CENIR, Paris Brain Institute	,	Paris	,	France
+1.	Teodora Szasz	,	The University of Chicago	,	Chicago	,	United States
 
 ## Statistics
 
