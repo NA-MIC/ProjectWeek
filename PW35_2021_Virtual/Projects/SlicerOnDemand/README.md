@@ -4,13 +4,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Steve Pieper (Isomics, Inc. Cambridge MA, USA)
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+The goal is to allow people to quickly transition from viewing images to doing more complex tasks such as segmentation or registration.
 
 ## Objective
 
