@@ -95,7 +95,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 
 ## Projects [(How to add a new project?)](Projects/Readme.md)
 
-1. [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
+1. [PRISM volume rendering](Projects/PRISM_volume_rendering/Readme.md) (Simon Drouin, Steve Pieper, Kyle Sunderland, Andrey Titov, Rafael Palomar)
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (...)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/Readme.md) (Curtis Lisle)
 1. [SlicerVR build and in-VR widgets](Projects/SlicerVR/README.md) (Csaba Pinter)
