@@ -186,6 +186,7 @@ List of registered participants so far (names will be added here after processin
 1.	Andrés Gamboa	,	Neurotrauma Center/Universidad Politécnica de Valencia	,	Bucaramanga/Valencia	,	Colombia/España
 1.	Marine CAMBA	,	CENIR, Paris Brain Institute	,	Paris	,	France
 1.	Teodora Szasz	,	The University of Chicago	,	Chicago	,	United States
+1.	Geir Arne Tangen	,	SINTEF	,	Trondheim	,	Norway
 
 ## Statistics
 
