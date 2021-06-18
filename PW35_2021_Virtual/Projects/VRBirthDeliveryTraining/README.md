@@ -21,7 +21,7 @@ In this context there is a clear demand for simulators, with special interest in
 
 In 2018, we developed a training software in 3D Slicer for the correct use of forceps.
 We used anatomical simulators of the mother and fetus, a forceps 3D printed in non-ferromagnetic material, and an electromagnetic tracking system to track the movements of the forceps relative to the simulators.
-Further details can be found [here] (https://link.springer.com/chapter/10.1007%2F978-3-030-01201-4_9).
+Further details can be found in (https://link.springer.com/chapter/10.1007%2F978-3-030-01201-4_9).
 
 The goal of this project is to translate this software into a Virtual Reality (VR) application using the SlicerVR extension. This way, only the VR device is required for training.
 
@@ -68,5 +68,6 @@ The goal of this project is to translate this software into a Virtual Reality (V
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-[Publication of non-VR training system:] (https://link.springer.com/chapter/10.1007%2F978-3-030-01201-4_9)
-[Video of non-VR training system:] (https://www.youtube.com/watch?v=EEasWbH1jZI)
+Publication of non-VR training system: (https://link.springer.com/chapter/10.1007%2F978-3-030-01201-4_9)
+
+Video of non-VR training system: (https://www.youtube.com/watch?v=EEasWbH1jZI)
