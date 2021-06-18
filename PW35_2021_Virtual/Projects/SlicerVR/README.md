@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Csaba Pinter (Ebatinca, Pixel Medical)
 - Adam Rankin (Robarts Research, Canada)
+- Jean-Christophe Fillion-Robin (Kitware)
 
 # Project Description
 
