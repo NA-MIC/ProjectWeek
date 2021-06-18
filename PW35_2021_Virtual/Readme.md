@@ -188,6 +188,10 @@ List of registered participants so far (names will be added here after processin
 1.	Marine CAMBA	,	CENIR, Paris Brain Institute	,	Paris	,	France
 1.	Teodora Szasz	,	The University of Chicago	,	Chicago	,	United States
 1.	Geir Arne Tangen	,	SINTEF	,	Trondheim	,	Norway
+1.	John Witt	,	Georgetown University, CHOP	,	Philadelphia	,	United States
+1.	Andres Diaz-Pinto	,	KCL	,	London	,	United Kingdom
+1.	Masoom Haider	,	University of Toronto	,	Toronto	,	Canada
+1.	Neha Goyal	,	University of Massachusetts Boston 	,	Boston 	,	United States
 
 ## Statistics
 
