@@ -5,6 +5,8 @@ Back to [Projects List](../../Readme.md#ProjectsList)
 ## Key Investigators
 
 - Curtis Lisle, Ph.D. (KnowledgeVis,LLC)
+- Neha Goyal, (U Mass, Boston)
+- Greg Sharp, Ph.D. (MGH)
 
 ## Project Description
 
