@@ -10,8 +10,8 @@ Back to [Projects List](../../Readme.md#ProjectsList)
 
 ## Project Description
 
-I plan to prepare a Lung RadioTherapy patient cohort for deep learning segmentation and annotation.  I will use Slicer and other NA-MIC 
-tools to register patients' follow-up scans to their original planning CT scans as a preparatory step for deep learning.
+We plan to prepare a Lung RadioTherapy patient cohort for deep learning segmentation and annotation.  We will first use Slicer and other NA-MIC 
+tools to register patients' follow-up scans to their original planning CT scans as a preparatory step for deep learning. if time allows, we will train a deep neural network to predict patient outcomes from the time series data.   
 
 ## Objective
 
