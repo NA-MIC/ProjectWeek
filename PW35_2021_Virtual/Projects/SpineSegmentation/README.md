@@ -1,6 +1,6 @@
 Back to [Projects List](../../Readme.md#ProjectsList)
 
-# Development of Deep Learning Segmentation for Spines with Metastatic Desease 
+# Development of Deep Learning Segmentation for Spines with Metastatic Disease 
 
 ## Key Investigators
 
