@@ -193,6 +193,8 @@ List of registered participants so far (names will be added here after processin
 1.	Andres Diaz-Pinto	,	KCL	,	London	,	United Kingdom
 1.	Masoom Haider	,	University of Toronto	,	Toronto	,	Canada
 1.	Neha Goyal	,	University of Massachusetts Boston 	,	Boston 	,	United States
+1.	Batuhan Gundogdu	,	University of Chicago	,	Chicago	,	United States
+1.	Caio A Neves	,	University of Brasilia	,	Brasilia	,	Brazil
 
 ## Statistics
 
