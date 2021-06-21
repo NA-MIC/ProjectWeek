@@ -108,6 +108,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 1. [VR display plugin for PyDBS using a zSpace device](Projects/VRDisplayPluginForPyDBSUsingZspace/README.md) (Marine Camba, Sara Fernandez Vidal, Sinan Haliyo)
 1. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
 1. [Slicer module for planning MR-guided focal cryoablation of prostate cancer](Projects/MR-guidedFocalCryoablation/README.md) (Pedro Moreira)
+1. [AR in Slicer](Projects/ARinSlicer/README.md) (Alicia Pose Díez de la Lastra, Javier Pascau, Csaba Pinter)
 
 ## Registrants
 
