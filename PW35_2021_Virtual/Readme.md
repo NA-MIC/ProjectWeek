@@ -107,6 +107,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 1. [VR for Birth Delivery Training](Projects/VRBirthDeliveryTraining/README.md) (Mónica García-Sevilla, David García-Mato, Abián Hernández-Guedes, Juan Ruiz Alzola, Javier Pascau, Nayra Pumar, Csaba Pinter)
 1. [VR display plugin for PyDBS using a zSpace device](Projects/VRDisplayPluginForPyDBSUsingZspace/README.md) (Marine Camba, Sara Fernandez Vidal, Sinan Haliyo)
 1. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
+2. [AR in Slicer](Projects/ARinSlicer/README.md)(Alicia Pose Díez de la Lastra, Javier Pascau, Csaba Pinter)
 
 ## Registrants
 
