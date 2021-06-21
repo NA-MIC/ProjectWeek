@@ -17,9 +17,10 @@ The goal of this project is to enable the development of advanced 3D rendering t
 
 ## Objective
 
-1. Raise awareness about the extension and the new possibilities of programmable volume rendering
-1. Find other parties interested in the development of the volume rendering technology in Slicer.
-1. Potentially setup a longer discussion later in the week if others are interested
+1. Facilitate the development and debugging of GPU shaders for Slicer
+2. Extend the principles introduced in the PRISM module to surface rendering and other types of rendering
+3. Integrate work by Kyle Sunderland on VTK GPU image filters (see branch [here](https://github.com/Sunderlandkyl/VTK/commits/vtkGPUImageFilter3)) so that the filters are usable in Slicer
+4. Integrate GPU filters with volume rendering in such a way that filtered volumes do not have to be transfered back to CPU memory before rendering 
 
 ## Progress and Next Steps
 
