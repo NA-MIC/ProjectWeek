@@ -10,7 +10,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Logistics
 - **Dates:** June 28-July 2, 2021.
-- **Location:** THE INTERNET 
+- **Location:** THE INTERNET
 
 ### Attendees
 - **Step 0**: **REGISTER** [here](https://forms.gle/evnWqMu4dnsx3Mei9)
@@ -23,9 +23,9 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 We are holding prepration meetings every Tuesday at 10am ET starting May 18th using this [Zoom link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09)
 
-* May 18 - Kickoff 
+* May 18 - Kickoff
 * May 25 - Project week logistics
-* **June 1 - AI-assisted annotations** 
+* **June 1 - AI-assisted annotations**
   * (KnowledgeVis, Florida) Curt Lisle (Overview, user experience with MONAI, application to lung/cancer segmentation)
   * (UCL, London) Fernando Perez Garcia, Andres Diaz Pinto (MONAILabel demo)
   * (Queens U, Kingston) Andras Lasso, Tamas Ungi (Deep learning based annotation in Slicer, migration to MONAI?)
@@ -56,18 +56,18 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 * 1-5pm: Work in Project Teams (Discord)
 
 **Tuesday June 29**
-* 8am-9:30am: For First Timers: 
+* 8am-9:30am: For First Timers:
 * * Annotations in Slicer (Andras Lasso)
 * * MONAI Introduction (Sachi Alle)
 * * MONAILabel Demo (Andres Diaz Pinto)
-* 10am-12noon Breakout Session: 
-* * What is new in Slicer 
+* 10am-12noon Breakout Session:
+* * What is new in Slicer
 * * Questions from Slicer Users and Developers (“Live” Discourse)
 * 12-1pm BREAK
 * 1-5pm: Work in Project Teams (Discord)
 
 **Wednesday June 30**
-* 8am-10am: For First Timers: 
+* 8am-10am: For First Timers:
 * * Image-Guided Brain Tumor Surgery (Alexandra Golby, MD)
 * * Affordable IGT (Gabor Fichtinger, PhD)
 * * Prostate Interventions (Clare Tempany, MD)
@@ -112,6 +112,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (...)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/Readme.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
 1. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
+1. [Integration of PyTorch and Slicer](Projects/PyTorchIntegration/README.md)
 ### Cloud, open data and annotation
 1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper, Curt Lisle)
 1. [NCI Imaging Data Commons](Projects/NCIImagingDataCommons/README.md) (Andrey Fedorov, Markus Herrmann, Theodore Aptekarev, Steve Pieper, Ron Kikinis)
@@ -184,7 +185,7 @@ List of registered participants so far (names will be added here after processin
 1.	Andrey Fedorov	,	Brigham and Women's Hospital	,	Cambridge	,	United States
 1.	Jayender Jagadeesan	,	Brigham and Women's Hospital	,	Boston	,	US
 1.	Gelel Rezig	,	Ecole de Technologie Supérieure	,	Montréal	,	Canada
-1.	Souleymane Diao 	,	Cheikh Anta Diop University	,	Dakar 	,	Sénégal 
+1.	Souleymane Diao 	,	Cheikh Anta Diop University	,	Dakar 	,	Sénégal
 1.	Rafael Palomar	,	Oslo University Hospital / NTNU	,	Oslo	,	Norway
 1.	Gabriella d' Albenzio	,	Oslo University Hospital	,	Oslo	,	Norway
 1.	Ole Vegard Solberg	,	SINTEF	,	Trondheim	,	Norway
@@ -214,4 +215,4 @@ List of registered participants so far (names will be added here after processin
 * 101 institutions (82 academic, 18 industry, and 1 goverment)
 
 <img src="pw-registrants-country-stats-final.png" width="600" />
---> 
+-->
