@@ -96,5 +96,6 @@ We would use VTK 9 as Slicer is planning on using it for its future launches, an
  
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. --> 
+* [Paraview support for ZSpace](https://blog.kitware.com/zspace-device-support-coming-to-paraview/)
 
  
