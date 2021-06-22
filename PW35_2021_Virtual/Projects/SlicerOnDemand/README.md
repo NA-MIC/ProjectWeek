@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Steve Pieper (Isomics, Inc. Cambridge MA, USA)
+- Curt Lisle (Knowledgevis, Maitland, Florida, USA)
 
 # Project Description
 
