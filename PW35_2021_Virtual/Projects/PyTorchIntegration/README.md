@@ -87,7 +87,7 @@ Successfully installed dataclasses-0.8 torch-1.9.0
 WARNING: Running pip as root will break packages and permissions. You should install packages reliably by using venv: https://pip.pypa.io/warnings/venv
 ```
 
-```python-traceback
+```python
 >>> import torch
 >>> torch.cuda.is_available()
 /home/fernando/opt/Slicer/Nightly/lib/Python/lib/python3.6/site-packages/torch/cuda/__init__.py:52: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 10010). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at  /pytorch/c10/cuda/CUDAFunctions.cpp:115.)
