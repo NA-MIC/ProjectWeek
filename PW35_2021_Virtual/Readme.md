@@ -38,10 +38,8 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 * **June 15 - Systems for Image-Guided Surgery (continued) and Rendering**
   * Simon Drouin
   * Csaba Pinter
-* **June 22 - DICOM**
-  * (Stanford, California) Emel Alkim
-  * (DKFZ, Germany) Max Fischer
-  * (Boston) Andrey Fedorov
+* **June 22 - Review of projects and project pages**
+
 
 ## Preliminary Agenda
 
