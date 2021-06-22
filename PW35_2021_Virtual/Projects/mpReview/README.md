@@ -44,7 +44,7 @@ In the past we have developed mpReview extension to streamline the manual annota
 ![Some more images](Example2.jpg)
 -->
 
-[mpReview UI](mpReview_screenshot.jpg)
+![mpReview UI](mpReview_screenshot.jpg)
 
 ## Background and References
 
