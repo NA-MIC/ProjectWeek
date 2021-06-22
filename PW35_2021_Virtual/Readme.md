@@ -49,6 +49,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 [How to add this calendar to your own?](../common/Calendar.md)
 
 **Monday June 28**
+* 9am-9:45am Breakout Session: Augmented reality/Virtual reality (Javier Pascau)
 * 10am-12pm: Introduction and Project Presentations
 * 12pm-1pm BREAK
 * 1-5pm: Work in Project Teams (Discord)
@@ -62,32 +63,31 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 * * What is new in Slicer
 * * Questions from Slicer Users and Developers (“Live” Discourse)
 * 12-1pm BREAK
+* 1-2pm: Breakout session: Common interface for deep learning models (Fernando Perez-Garcia)
 * 1-5pm: Work in Project Teams (Discord)
 
 **Wednesday June 30**
-* 8am-10am: For First Timers:
+* 8am-9:30am: For First Timers:
 * * Image-Guided Brain Tumor Surgery (Alexandra Golby, MD)
 * * Affordable IGT (Gabor Fichtinger, PhD)
 * * Prostate Interventions (Clare Tempany, MD)
 * * Molecular Guidance for Clinical Decision Making(Nathalie Agar, PhD)
-* 10:30am-12:30noon Breakout Session: Image Guided Surgery Systems
-* 12:30-1:30pm BREAK
-* 1:30-5pm: Work in Project Teams (Discord)
+* 10am-12noon Breakout Session: Image Guided Surgery Systems
+* 12-1pm BREAK
+* 1-5pm: Work in Project Teams (Discord)
 
 **Thursday July 1**
 * 8am-9:30am - For First timers:
 * * OHIF and DICOMWeb (Steve Pieper, PhD)
 * * DICOM for Digital Pathology applications (Marcus Hermann, PhD)
 * * Imaging Data Commons (Andrey Fedorov)
-* 10am-12noon Breakout Session1: AR/VR /Volume Rendering
-* 10am-12noon Breakout Session2: An Open Science Approach to Atlases of the Human Brain Morphology
+* 10am-12noon Breakout Session: An Open Science Approach to Atlases of the Human Brain Morphology (Sylvain Bouix)
 * 12-1pm BREAK
 * 1-5pm: Work in Project Teams (Discord)
 
 **Friday July 2**
-* 10am-12pm: Results Presentations
-* 12-1pm: Closing Discussions and Adjourn at 1pm
-
+* 10am-11:30pm: Results Presentations
+* 11:30-12:30pm: Closing Discussions and Adjourn
 
 <a name="ProjectsList"/>
 
@@ -110,7 +110,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (...)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/Readme.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
 1. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
-1. [Integration of PyTorch and Slicer](Projects/PyTorchIntegration/README.md) (Fernando Pérez-García, Andrés Díaz-Pinto, Andras Lasso, Curtis Lisle, Rebecca Hisey)
+1. [Integration of PyTorch and Slicer](Projects/PyTorchIntegration/README.md)
 ### Cloud, open data and annotation
 1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper, Curt Lisle)
 1. [NCI Imaging Data Commons](Projects/NCIImagingDataCommons/README.md) (Andrey Fedorov, Markus Herrmann, Theodore Aptekarev, Steve Pieper, Ron Kikinis)
