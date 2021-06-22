@@ -7,8 +7,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Alicia Pose Díez de la Lastra (Universidad Carlos III de Madrid, Madrid, Spain)
 - Javier Pascau (Universidad Carlos III de Madrid, Madrid, Spain)
 - Csaba Pinter (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
-- Jean-Christophe Fillion-Robin (Kitware, USA)
 - Lucas Gandel (Kitware, France)
+- Adam Rankin (Robarts Research Institute / Western University, Canada)
+- Jean-Christophe Fillion-Robin (Kitware, USA)
 
 # Project Description
 
