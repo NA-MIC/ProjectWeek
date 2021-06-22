@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Sarah Frisken (BWH)
 - David Allemang (Kitware)
 - Tina Kapur (BWH)
+- Steve Pieper (Isomics)
 - Jean-Christophe Fillion-Robin (Kitware)
 
 # Project Description
