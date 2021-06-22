@@ -109,8 +109,9 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 1. [GPU Rigid Registration](Projects/GPURigidRegistration/README.md) (Gelel Rezig ...)
 1. [Slicer module for planning MR-guided focal cryoablation of prostate cancer](Projects/MR-guidedFocalCryoablation/README.md) (Pedro Moreira)
 1. [IGT training material for francophone countries](Projects/IGTrain/README.md) (Nayra Pumar, Mohamed El Moctar Septy, Yahya Tfeil, Asmaa Skareb, Marilola Afonso, Juan Ruiz Alzola)
-
+1. [Slicer-Liver: planning liver resections in 3D Slicer](Projects/Slicer-Liver/README.md) (Rafael Palomar, Gabriella d'Albenzio, Ole Vegard Solberg, Geir Arne Tangen)
 ### Deep learning and segmentation
+
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (...)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/Readme.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
 1. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
