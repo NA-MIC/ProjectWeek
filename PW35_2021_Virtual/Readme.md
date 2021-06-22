@@ -111,6 +111,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 1. [AR in Slicer](Projects/ARinSlicer/README.md) (Alicia Pose Díez de la Lastra, Javier Pascau, Csaba Pinter)
 1. [NCI Imaging Data Commons](Projects/NCIImagingDataCommons/README.md) (Andrey Fedorov, Markus Herrmann, Theodore Aptekarev, Steve Pieper, Ron Kikinis)
 1. [mpReview: Development of a streamlined Slicer module for (manual) image annotation](Projects/mpReview/README.md) (Andrey Fedorov, Dora Szasz, Masoom Haider, Aytek Oto, Andras Lasso, Fiona Fennessy)
+2. 1. [IGT training material for francophone countries](Projects/IGTrain/README.md) (Nayra Pumar, Mohamed El Moctar Septy, Yayya Tfeil, Asmaa Skareb, Juan Ruiz Alzola)
 
 ## Registrants
 
