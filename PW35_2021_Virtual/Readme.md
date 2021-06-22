@@ -116,6 +116,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper, Curt Lisle)
 1. [NCI Imaging Data Commons](Projects/NCIImagingDataCommons/README.md) (Andrey Fedorov, Markus Herrmann, Theodore Aptekarev, Steve Pieper, Ron Kikinis)
 1. [mpReview: Development of a streamlined Slicer module for (manual) image annotation](Projects/mpReview/README.md) (Andrey Fedorov, Dora Szasz, Masoom Haider, Aytek Oto, Andras Lasso, Fiona Fennessy)
+1. [DICOM-SR: Extending DICOM-SR support in dcmjs and adding test cases](Projects/DICOM-SR/README.md) (Emel Alkim, Steve Pieper)
 
 ## Registrants
 
