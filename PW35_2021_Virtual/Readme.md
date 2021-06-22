@@ -209,4 +209,4 @@ List of registered participants so far (names will be added here after processin
 * 101 institutions (82 academic, 18 industry, and 1 goverment)
 
 <img src="pw-registrants-country-stats-final.png" width="600" />
--->
+--> 
