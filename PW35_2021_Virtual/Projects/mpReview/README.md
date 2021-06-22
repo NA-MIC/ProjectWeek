@@ -1,6 +1,6 @@
 Back to [Projects List](../../Readme.md#ProjectsList)
 
-# mpReview Slicer extension for image annotation
+# mpReview: Development of a streamlined Slicer module for (manual) image annotation
 
 ## Key Investigators
 
@@ -43,6 +43,8 @@ In the past we have developed mpReview extension to streamline the manual annota
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+
+[mpReview UI](mpReview_screenshot.jpg)
 
 ## Background and References
 
