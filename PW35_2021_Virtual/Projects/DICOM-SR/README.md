@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Emel Alkim (Stanford University)
 - Steve Pieper (Isomics)
+- Andrey Fedorov (Brigham and Women's Hospital, Boston)
 
 # Project Description
 
@@ -17,7 +18,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 1. Identify gaps in dcmjs for reading/writing DICOM-SR
 1. Add support for freehand and segmentation
-1. Convert AIM to DICOM-SR and DICOM-SR to AIM and show interoperability between ePAD and OHIF
+1. Convert AIM to DICOM-SR and DICOM-SR to AIM and show interoperability between ePAD, OHIF and Slicer 3D
 
 ## Approach and Plan
 
