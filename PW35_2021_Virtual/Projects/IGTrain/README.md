@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Nayra Pumar (Ebatinca, Las Palmas de Gran Canaria)
 - Mohamed El Moctar Septy (Univ. Al Aasriya, Nuakchot)
-- Yhaha Tfeil (Univ. Al Aasriya, Nuakchot)
+- Yahya Tfeil (Univ. Al Aasriya, Nuakchot)
 - Asmaa Skareb (Ebatinca, Las Palmas de Gran Canaria)
 - Juan Ruiz Alzola (Universidad de Las Palmas de Gran Canaria)
 
