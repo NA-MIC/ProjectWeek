@@ -95,23 +95,30 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 
 ## Projects [(How to add a new project?)](Projects/Readme.md)
 
+### VR/AR and Rendering
 1. [PRISM volume rendering](Projects/PRISM_volume_rendering/Readme.md) (Simon Drouin, Steve Pieper, Kyle Sunderland, Andrey Titov, Rafael Palomar)
-1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (...)
-1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/Readme.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
 1. [SlicerVR build and in-VR widgets](Projects/SlicerVR/README.md) (Csaba Pinter, Adam Rankin, Jean-Christophe Fillion-Robin)
-1. [GPU Rigid Registration](Projects/GPURigidRegistration/README.md) (Gelel Rezig ...)
 1. [Interactive Slice Intersections](Projects/InteractiveSliceIntersections/README.md) (David García-Mato, Kyle Sunderland, Csaba Pinter)
-1. [ROS2 - 3D Slicer Integration](Projects/ROSMED/README.md) (Junichi Tokuda, Tamas Ungi, Axel Krieger, Simon Leonard, Mark Fuge)
-1. [Low-Cost neuronavigation](Projects/MarkerlessTrackingWithRGBDCamerasForLowCostNeuronavigation/README.md) (Julie Alvarez (Neurotrauma Center), Gabriel Vargas Grau (Universidad de Santander), Juan Camilo Gamboa (Mc Gill University), Andrés Gamboa (Neurotrauma/Universidad Politécnica de Valencia/))
-1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper)
 1. [VR for Birth Delivery Training](Projects/VRBirthDeliveryTraining/README.md) (Mónica García-Sevilla, David García-Mato, Abián Hernández-Guedes, Juan Ruiz Alzola, Javier Pascau, Nayra Pumar, Csaba Pinter)
 1. [VR display plugin for PyDBS using a zSpace device](Projects/VRDisplayPluginForPyDBSUsingZspace/README.md) (Marine Camba, Sara Fernandez Vidal, Sinan Haliyo)
-1. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
-1. [Slicer module for planning MR-guided focal cryoablation of prostate cancer](Projects/MR-guidedFocalCryoablation/README.md) (Pedro Moreira)
 1. [AR in Slicer](Projects/ARinSlicer/README.md) (Alicia Pose Díez de la Lastra, Javier Pascau, Csaba Pinter)
+
+### IGT
+1. [ROS2 - 3D Slicer Integration](Projects/ROSMED/README.md) (Junichi Tokuda, Tamas Ungi, Axel Krieger, Simon Leonard, Mark Fuge)
+1. [Low-Cost neuronavigation](Projects/MarkerlessTrackingWithRGBDCamerasForLowCostNeuronavigation/README.md) (Julie Alvarez (Neurotrauma Center), Gabriel Vargas Grau (Universidad de Santander), Juan Camilo Gamboa (Mc Gill University), Andrés Gamboa (Neurotrauma/Universidad Politécnica de Valencia/))
+1. [GPU Rigid Registration](Projects/GPURigidRegistration/README.md) (Gelel Rezig ...)
+1. [Slicer module for planning MR-guided focal cryoablation of prostate cancer](Projects/MR-guidedFocalCryoablation/README.md) (Pedro Moreira)
+1. [IGT training material for francophone countries](Projects/IGTrain/README.md) (Nayra Pumar, Mohamed El Moctar Septy, Yahya Tfeil, Asmaa Skareb, Marilola Afonso, Juan Ruiz Alzola)
+
+### Deep learning and segmentation
+1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (...)
+1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/Readme.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
+1. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
+
+### Cloud, open data and annotation
+1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper)
 1. [NCI Imaging Data Commons](Projects/NCIImagingDataCommons/README.md) (Andrey Fedorov, Markus Herrmann, Theodore Aptekarev, Steve Pieper, Ron Kikinis)
 1. [mpReview: Development of a streamlined Slicer module for (manual) image annotation](Projects/mpReview/README.md) (Andrey Fedorov, Dora Szasz, Masoom Haider, Aytek Oto, Andras Lasso, Fiona Fennessy)
-1. [IGT training material for francophone countries](Projects/IGTrain/README.md) (Nayra Pumar, Mohamed El Moctar Septy, Yahya Tfeil, Asmaa Skareb, Marilola Afonso, Juan Ruiz Alzola)
 
 ## Registrants
 
