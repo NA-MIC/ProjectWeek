@@ -51,3 +51,5 @@ Issues that will be addressed:
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
 The first discussion about this project appeared on the [Slicer forum (PW35) Projects List](https://discourse.slicer.org/t/pw35-projects-list/17905/4).
+
+Some issues about installing PyTorch in Slicer were discussed in the [pull request](https://github.com/Slicer/ExtensionsIndex/pull/1710) to add [SlicerTorchIO](https://github.com/fepegar/SlicerTorchIO) to the Extensions Index.
