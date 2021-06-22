@@ -94,7 +94,6 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 <a name="ProjectsList"/>
 
 ## Projects [(How to add a new project?)](Projects/Readme.md)
-
 ### VR/AR and Rendering
 1. [PRISM volume rendering](Projects/PRISM_volume_rendering/Readme.md) (Simon Drouin, Steve Pieper, Kyle Sunderland, Andrey Titov, Rafael Palomar)
 1. [SlicerVR build and in-VR widgets](Projects/SlicerVR/README.md) (Csaba Pinter, Adam Rankin, Jean-Christophe Fillion-Robin)
