@@ -22,7 +22,7 @@ convolutional neural network (deep learning model) inside Slicer, using PyTorch.
 Issues that will be addressed:
 
 1. How to install PyTorch within Slicer. The main question is whether to install a version with GPU support and, if it does, which version of the CUDA toolkit to install.
-1. How to handle the necessary conversion of Slicer nodes (e.g., `vtkMRMLScalarNode`) to PyTorch objects (e.g., `torch.Tensor`) and vice versa. Look into adding tools to `slicer.util`.
+1. How to handle the necessary conversion of Slicer nodes (e.g., `vtkMRMLScalarVolumeNode`) to PyTorch objects (e.g., `torch.Tensor`) and vice versa. Look into adding tools to `slicer.util`.
 1. Write a tutorial with a toy example using a publicly available dataset.
 
 ## Approach and Plan
