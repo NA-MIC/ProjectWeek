@@ -60,6 +60,15 @@ The first discussion about this project appeared on the [Slicer forum (PW35) Pro
 
 Some issues about installing PyTorch in Slicer were discussed in the [pull request](https://github.com/Slicer/ExtensionsIndex/pull/1710) to add [SlicerTorchIO](https://github.com/fepegar/SlicerTorchIO) to the Extensions Index.
 
+## `light-the-torch`
+
+This seems to be a Python package designed to help installing PyTorch easily, auto-detecting the computation backend. Probably worth looking into it: [`light-the-torch`](https://github.com/pmeier/light-the-torch).
+
+The maintainer is [Philip Meier](https://github.com/pmeier), a very active contributor to `torchvision`.
+
+Also related and worth investigating, from the same author, is [`pytorch-pip-shim`](https://github.com/pmeier/pytorch-pip-shim).
+
+
 ## Example of a naive `pip` installation
 
 Tried on Linux, driver 430.50 (`nvidia-smi --query-gpu=driver_version --format=csv`).
@@ -84,4 +93,42 @@ WARNING: Running pip as root will break packages and permissions. You should ins
 /home/fernando/opt/Slicer/Nightly/lib/Python/lib/python3.6/site-packages/torch/cuda/__init__.py:52: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 10010). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at  /pytorch/c10/cuda/CUDAFunctions.cpp:115.)
   return torch._C._cuda_getDeviceCount() > 0
 False
+>>> torch._C._cuda_getCompiledVersion()
+10020
+```
+
+```shell
+$ nvidia-smi
+Tue Jun 22 17:12:44 2021
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 430.50       Driver Version: 430.50       CUDA Version: 10.1     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  GeForce GTX 1060    Off  | 00000000:01:00.0  On |                  N/A |
+| N/A   67C    P0    33W /  N/A |   1694MiB /  6078MiB |     12%      Default |
++-------------------------------+----------------------+----------------------+
+
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|    0      3928      G   /usr/lib/xorg/Xorg                           576MiB |
+|    0      4129      G   /usr/bin/gnome-shell                         385MiB |
+|    0      4615      G   ...AAAAAAAAAAAAAAgAAAAAAAAA --shared-files    46MiB |
+|    0      5099      G   ...AAAAAAAAAAAACAAAAAAAAAA= --shared-files    49MiB |
+|    0      6955      G   ...AAAAAAAAAAAIAAAAAAAAAA== --shared-files   366MiB |
+|    0      8016      G   ...AAgAAAAAAAAACAAAAAAAAAA= --shared-files   102MiB |
+|    0      8039      G   ...o/opt/Slicer/Nightly/bin/SlicerApp-real   112MiB |
+|    0     22437      G   ...AAAAAAAAAAAIAAAAAAAAAA== --shared-files    30MiB |
++-----------------------------------------------------------------------------+
+```
+
+```shell
+$ nvcc --version
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2018 NVIDIA Corporation
+Built on Sat_Aug_25_21:08:01_CDT_2018
+Cuda compilation tools, release 10.0, V10.0.130
 ```
