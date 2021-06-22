@@ -104,7 +104,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 ### IGT
 1. [ROS2 - 3D Slicer Integration](Projects/ROSMED/README.md) (Junichi Tokuda, Tamas Ungi, Axel Krieger, Simon Leonard, Mark Fuge)
 1. [Low-Cost neuronavigation](Projects/MarkerlessTrackingWithRGBDCamerasForLowCostNeuronavigation/README.md) (Julie Alvarez (Neurotrauma Center), Gabriel Vargas Grau (Universidad de Santander), Juan Camilo Gamboa (Mc Gill University), Andrés Gamboa (Neurotrauma/Universidad Politécnica de Valencia/))
-1. [GPU Rigid Registration](Projects/GPURigidRegistration/README.md) (Gelel Rezig ...)
+1. [GPU Rigid Registration](Projects/GPURigidRegistration/README.md) (Gelel Rezig, Houssem Eddine Gueziri, Simon Drouin)
 1. [Slicer module for planning MR-guided focal cryoablation of prostate cancer](Projects/MR-guidedFocalCryoablation/README.md) (Pedro Moreira)
 1. [IGT training material for francophone countries](Projects/IGTrain/README.md) (Nayra Pumar, Mohamed El Moctar Septy, Yahya Tfeil, Asmaa Skareb, Marilola Afonso, Juan Ruiz Alzola)
 1. [Slicer-Liver: planning liver resections in 3D Slicer](Projects/Slicer-Liver/README.md) (Rafael Palomar, Gabriella d'Albenzio, Ole Vegard Solberg, Geir Arne Tangen)
