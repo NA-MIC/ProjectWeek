@@ -1,7 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
-Extending DICOM-SR support in dcmjs and adding test cases
+# Extending DICOM-SR support in dcmjs and adding test cases
 
 ## Key Investigators
 
@@ -16,9 +15,9 @@ Extending DICOM-SR support in dcmjs and adding test cases
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Identify gaps in dcmjs for reading/writing DICOM-SR
-1. Objective B. Add support for freehand and segmentation
-1. Objective C. Convert AIM to DICOM-SR and DICOM-SR to AIM and show interoperability between ePAD and OHIF
+1. Identify gaps in dcmjs for reading/writing DICOM-SR
+1. Add support for freehand and segmentation
+1. Convert AIM to DICOM-SR and DICOM-SR to AIM and show interoperability between ePAD and OHIF
 
 ## Approach and Plan
 
@@ -46,5 +45,5 @@ Extending DICOM-SR support in dcmjs and adding test cases
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-dcmjs library https://github.com/dcmjs-org/dcmjs
-aimapi library https://github.com/RubinLab/aimapi-js
+1. dcmjs library https://github.com/dcmjs-org/dcmjs
+1. aimapi library https://github.com/RubinLab/aimapi-js
