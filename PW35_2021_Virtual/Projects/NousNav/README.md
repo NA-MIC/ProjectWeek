@@ -11,6 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Tina Kapur (BWH)
 - Steve Pieper (Isomics)
 - Jean-Christophe Fillion-Robin (Kitware)
+- Sonia Pujol (BWH)
 
 # Project Description
 
