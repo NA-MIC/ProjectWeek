@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mohamed El Moctar Septy (Univ. Al Aasriya, Nuakchot)
 - Yahya Tfeil (Univ. Al Aasriya, Nuakchot)
 - Asmaa Skareb (Ebatinca, Las Palmas de Gran Canaria)
+- Marilola Afonso (Universidad de Las Palmas de Gran Canaria)
 - Juan Ruiz Alzola (Universidad de Las Palmas de Gran Canaria)
 
 # Project Description
