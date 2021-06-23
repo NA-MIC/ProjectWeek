@@ -35,6 +35,8 @@ marp: true
     * Doses, plans, structures...
 * Parametric Maps: PM
     * Images with defined quantities and units
+* Whole Slide Images: WSI
+    * Microscopy images, possibly multichannel with annotations in SR 
 
 ---
 
