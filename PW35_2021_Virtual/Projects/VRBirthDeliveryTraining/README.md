@@ -21,7 +21,7 @@ In this context there is a clear demand for simulators, with special interest in
 
 In 2018, we developed a training software in 3D Slicer for the correct use of forceps.
 We used anatomical simulators of the mother and fetus, a forceps 3D printed in non-ferromagnetic material, and an electromagnetic tracking system to track the movements of the forceps relative to the simulators.
-Further details can be found in (https://link.springer.com/chapter/10.1007%2F978-3-030-01201-4_9).
+Further details can be found [here](https://link.springer.com/chapter/10.1007%2F978-3-030-01201-4_9).
 
 The goal of this project is to translate this software into a Virtual Reality (VR) application using the SlicerVR extension. This way, only the VR device is required for training.
 
@@ -62,12 +62,14 @@ The goal of this project is to translate this software into a Virtual Reality (V
 ![Some more images](Example2.jpg)
 -->
 
-![current non VR scene](https://user-images.githubusercontent.com/17642986/122373756-44e39c00-cf51-11eb-9f64-b3a2edc8480b.png)
+![module_scene_and_panel](https://user-images.githubusercontent.com/17642986/123103298-c34aad00-d42d-11eb-925a-15dd4b7bc4f0.png)
+![experts_training](https://user-images.githubusercontent.com/17642986/123102863-6222d980-d42d-11eb-9292-e8731f1d4271.jpg)
+![novices_training](https://user-images.githubusercontent.com/17642986/123102867-62bb7000-d42d-11eb-9f8b-f53d87b1000f.jpg)
 
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-Publication of non-VR training system: (https://link.springer.com/chapter/10.1007%2F978-3-030-01201-4_9)
+* [Publication of non-VR training system](https://link.springer.com/chapter/10.1007%2F978-3-030-01201-4_9)
+* [Video of non-VR training system](https://www.youtube.com/watch?v=EEasWbH1jZI)
 
-Video of non-VR training system: (https://www.youtube.com/watch?v=EEasWbH1jZI)
