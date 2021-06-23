@@ -56,31 +56,33 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 
 **Tuesday June 29**
 * 8am-9:30am: For First Timers:
-* * Annotations in Slicer (Andras Lasso)
-* * MONAI Introduction (Sachi Alle)
-* * MONAILabel Demo (Andres Diaz Pinto)
+  * Annotations in Slicer (Andras Lasso)
+  * MONAI Introduction (Sachi Alle)
+  * MONAILabel Demo (Andres Diaz Pinto)
 * 10am-12noon Breakout Session:
-* * What is new in Slicer
-* * Questions from Slicer Users and Developers (“Live” Discourse)
+  * What is new in Slicer (Sam Horvath and Slicer developers)
+  * Questions from Slicer Users and Developers (“Live” Discourse)
 * 12-1pm BREAK
 * 1-2pm: Breakout session: Common interface for deep learning models (Fernando Perez-Garcia)
 * 1-5pm: Work in Project Teams (Discord)
 
 **Wednesday June 30**
 * 8am-9:30am: For First Timers:
-* * Image-Guided Brain Tumor Surgery (Alexandra Golby, MD)
-* * Affordable IGT (Gabor Fichtinger, PhD)
-* * Prostate Interventions (Clare Tempany, MD)
-* * Molecular Guidance for Clinical Decision Making(Nathalie Agar, PhD)
+  * Image-Guided Brain Tumor Surgery (Alexandra Golby, MD)
+  * Affordable IGT (Gabor Fichtinger, PhD)
+  * Prostate Interventions (Clare Tempany, MD)
+  * Molecular Guidance for Clinical Decision Making(Nathalie Agar, PhD)
 * 10am-12noon Breakout Session: Image Guided Surgery Systems
 * 12-1pm BREAK
 * 1-5pm: Work in Project Teams (Discord)
 
 **Thursday July 1**
 * 8am-9:30am - For First timers:
-* * OHIF and DICOMWeb (Steve Pieper, PhD)
-* * DICOM for Digital Pathology applications (Marcus Hermann, PhD)
-* * Imaging Data Commons (Andrey Fedorov)
+  * OHIF and DICOM (Steve Pieper, PhD & Alireza Sedghi, PhD)
+      * DICOM: Benefits, Data types, Networking, and survey of tools in various languages
+      * OHIF: Overview and new developments
+  * DICOM for Digital Pathology applications (Marcus Hermann, MD PhD)
+  * Imaging Data Commons (Andrey Fedorov, PhD)
 * 10am-12noon Breakout Session: An Open Science Approach to Atlases of the Human Brain Morphology (Sylvain Bouix)
 * 12-1pm BREAK
 * 1-5pm: Work in Project Teams (Discord)
