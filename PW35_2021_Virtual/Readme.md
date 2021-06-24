@@ -41,7 +41,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 * **June 22 - Review of projects and project pages**
 
 
-## Preliminary Agenda
+##  Agenda
 
 
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic&mode=WEEK&dates=20210628%2f20210702" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
