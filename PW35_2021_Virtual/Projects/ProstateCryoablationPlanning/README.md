@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Pedro Moreira (BWH)
-- Nicholas Fordham 2 (BWH)
+- Nicholas Fordham (BWH)
 
 # Project Description
 Prostate cancer (PCa) recurrence after radiotherapy may affect 10 to 60% of patients within 5-10 years after treatment. 
