@@ -19,27 +19,6 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Step 3**: Create a **project webpage** (see Projects section below) (before Tuesday June 22)
 - **Step 4** (optional): Join the **Discord** server to help prepare and work on your project: [Invite Link](https://discord.gg/5TC5H2g63e)
 
-## Preparation Meetings
-
-We are holding prepration meetings every Tuesday at 10am ET starting May 18th using this [Zoom link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09)
-
-* May 18 - Kickoff
-* May 25 - Project week logistics
-* **June 1 - AI-assisted annotations**
-  * (KnowledgeVis, Florida) Curt Lisle (Overview, user experience with MONAI, application to lung/cancer segmentation)
-  * (UCL, London) Fernando Perez Garcia, Andres Diaz Pinto (MONAILabel demo)
-  * (Queens U, Kingston) Andras Lasso, Tamas Ungi (Deep learning based annotation in Slicer, migration to MONAI?)
-* **June 8 - Systems for Image-Guided Surgery**
-  * Alexandra Golby, Boston
-  * Juan Ruiz, Las Palmas, Gran Canaria
-  * Gabor Fichtinger, Kingston, Ontario
-  * Clare Tempany, Boston
-  * Jay Jagadeesan, Boston
-* **June 15 - Systems for Image-Guided Surgery (continued) and Rendering**
-  * Simon Drouin
-  * Csaba Pinter
-* **June 22 - Review of projects and project pages**
-
 
 ##  Agenda
 
