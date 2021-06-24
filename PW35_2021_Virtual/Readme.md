@@ -102,6 +102,7 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 1. [VR display plugin for PyDBS using a zSpace device](Projects/VRDisplayPluginForPyDBSUsingZspace/README.md) (Marine Camba, Sara Fernandez Vidal, Sinan Haliyo)
 1. [AR in Slicer](Projects/ARinSlicer/README.md) (Alicia Pose Díez de la Lastra, Javier Pascau, Csaba Pinter)
 1. [TMS Visualization in Slicer](Projects/TMS_Slicer_Module/Readme.md) (Lipeng Ning, Yogesh Rathi, Steve Pieper, Daniel Haehn, Raymond Yang, Loraine Franke)
+1. [Virtual cameras](Projects/VirtualCameras/README.md) (Étienne Léger, Tamas Ungi, Andras Lasso)
 ### IGT
 1. [ROS2 - 3D Slicer Integration](Projects/ROSMED/README.md) (Junichi Tokuda, Tamas Ungi, Axel Krieger, Simon Leonard, Mark Fuge)
 1. [Low-Cost neuronavigation](Projects/MarkerlessTrackingWithRGBDCamerasForLowCostNeuronavigation/README.md) (Julie Alvarez (Neurotrauma Center), Gabriel Vargas Grau (Universidad de Santander), Juan Camilo Gamboa (Mc Gill University), Andrés Gamboa (Neurotrauma/Universidad Politécnica de Valencia/))
