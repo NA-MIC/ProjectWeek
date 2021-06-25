@@ -36,9 +36,9 @@ The goal is to localize a bronchoscope through the use of depth maps generated f
 5. Module created in Slicer
 6. Boolean operations turned out to not be necessary and former issues were caused by a bug
 7. Video of depth map tracking:  
-[![ ](http://img.youtube.com/vi/kM40rWXsx_k/0.jpg)](http://www.youtube.com/watch?v=kM40rWXsx_k)
+[![ ](https://img.youtube.com/vi/kM40rWXsx_k/0.jpg)](https://www.youtube.com/watch?v=kM40rWXsx_k)
 8. Video of Blender Boolean operations within Slicer:  
-[![ ](http://img.youtube.com/vi/HDNilepxJLI/0.jpg)](http://www.youtube.com/watch?v=HDNilepxJLI)
+[![ ](https://img.youtube.com/vi/HDNilepxJLI/0.jpg)](https://www.youtube.com/watch?v=HDNilepxJLI)
 
 ## Installing and Importing Blender within Slicer
 

@@ -39,7 +39,7 @@ Make use of the OHIF plugin infrstructure.
 
 * Prototype implementation: 
 
-[![GrowCut prototype](http://img.youtube.com/vi/xmvVyftgNjY/0.jpg)](http://www.youtube.com/watch?v=xmvVyftgNjY "GrowCut prototype")
+[![GrowCut prototype](https://img.youtube.com/vi/xmvVyftgNjY/0.jpg)](https://www.youtube.com/watch?v=xmvVyftgNjY "GrowCut prototype")
 
 
 # Background and References
