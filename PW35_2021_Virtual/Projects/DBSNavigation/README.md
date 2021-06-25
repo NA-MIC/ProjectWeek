@@ -8,15 +8,36 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-During deep brain stimulation surgery, (depending on the center) micro electrodes are used to reassess the planned trajectory of implantation. The idea of the project is to communicate with the micro electrode's controler in order to get their location and signals. Together with the planning information these can then be visualised in patient space, including different image modalities, atlases and electrophysiology features.
+### Deep Brain Stimulation
 
-In order to achieve higher accuracy of the atlases registration to patient space, we are also working on a module to manually fix for mismatches in the registration output.
+During deep brain stimulation surgery, (depending on the center) micro electrodes are used to reassess the planned trajectory of implantation. The idea of the project is to communicate with the micro electrode's controler in order to get their location and signals. Together with the planning information, these can then be visualised in patient space, including different image modalities, atlases and electrophysiology features.
+
+![](DBSNav_Scene.png)
+
+- Synergy with [PyDBS Project](../VRDisplayPluginForPyDBSUsingZspace/README.md).
+
+### Test Stimulations
+
+Micro electrodes are also used to do test stimulations at increasing steps to induce therapeutic and side effects to better inform final electrode placement.
+
+![](DBSNav_Stimulation.png)
+
+- Synergy with [TMS Project](../TMS_Slicer_Module/README.md).
+
+### Registration Refinement
+
+In order to achieve higher accuracy of the atlases registration to patient space, we rely on [antsRegistration](https://github.com/simonoxen/SlicerANTs) and we are also working on a module to manually fix for mismatches in the registration output.
+
+![](DBSNav_Refine.gif)
+
+- Synergy with image registration in general.
+
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
+1. Find mutual interests and collaborations with other projets and participants.
 1. Objective B. ...
 1. Objective C. ...
 
