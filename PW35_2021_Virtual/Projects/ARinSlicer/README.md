@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Lucas Gandel (Kitware, France)
 - Adam Rankin (Robarts Research Institute / Western University, Canada)
 - Jean-Christophe Fillion-Robin (Kitware, USA)
+- Houssem Gueziri
 
 # Project Description
 
