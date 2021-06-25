@@ -15,7 +15,8 @@ patients at baseline. For a good # of patients, we also have 3 and 6m follow-up 
 not yet labeled.  It would be great to get some help/advice regarding how to 
 speed up the segmentation for the labeling and extraction of volume information from the masks.
 The segmented volumes are needed for the analytical and computational modeling pipeline 
-as part of a collaboration with MIT.
+as part of a collaboration with MIT. Lytic spines present a special segmentation challenge because the interior of
+vertibrae have degraded and appear like surrounding tissue in CT scans.
 
 ## Objective
 
@@ -30,16 +31,18 @@ as part of a collaboration with MIT.
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Share a few patients with others to facilitate development of trained DL (deep learning) models. 
-1. Study MONAILabel example from Andres 
-1. Conduct DL training on existing data
+1. Start with publically available VerSe spine dataset.
+1. Evaluate MONAILabel from Andres using model trained on VerSe as a segmentation tool for these lytic spines.  How good is segmentation? 
+1. Consider fine-tuning model in MONAILabel with lytic spines from our dataset
+1. Train model on only our lytic spines for comparison
+1. Install MONAILabel on GPU hardware at BI to setup for better annotation after project week
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Acquired anonymous patient dataset. Have requested permission to share for the project week
-1. Installing Linux on GPU hardware to prepare for training. 
+1. Acquired GPU hardware.  Currently running Windows.  Evaluated installing Linux, WSL, and Conda-on-windows.  None working yet.
 1. ...
 
 ## Illustrations
@@ -48,6 +51,8 @@ as part of a collaboration with MIT.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+[Sample lytic vertebrae](lytic-vertebrae-example.png)
+[Segmentation in Slicer](lytic-vertebrae-in-slicer.png)
 
 ## Background and References
 
