@@ -24,14 +24,15 @@ of benefiting from all Slicer tools.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Learn what can be done in AR using 3D Slicer
-2. Explore possible paths to integrate AR in 3D Slicer in the future
+1. Learn what can be done in AR using 3D Slicer.
+2. Explore possible paths to integrate AR in 3D Slicer in the future.
+3. Study if we can receive transformations in Unity from Slicer, so that we can transfer navigation information between the two softwares.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Integration of OpenXR (or whatever framework) in SlicerVR, so that we can merge AR + VR.
+1. Develop a new Slicer extension called SlicerAR that streams AR directly to HoloLens 2.
 
 ## Progress and Next Steps
 
