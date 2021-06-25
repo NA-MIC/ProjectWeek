@@ -15,23 +15,23 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-NousNav project is an initiative led by Dr Alex Golby to develop a low-cost neuronavigation system designed for use in low- and middle-income countries
+The NousNav project is an initiative led by Dr Alex Golby to develop a low-cost neuronavigation system designed for use in low- and middle-income countries.  We are developing a 3D Slicer based application focused on supporting segmentation, registration and navigation tasks.
+
+The project will also include the development of open source hardware desgins for these applications.
 
 ## Objective
 
 During the project week, we aim to present the project and identify a specific neuronavigation task for which we can team up with anoher group and address.
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Put together system demo.
+1. Connect with other developers and researchers who are interested in contributing to the project
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Complete registration implementation
+1. Demo / discuss the software at the IGT brakout
 
 ## Progress and Next Steps
 
@@ -47,6 +47,9 @@ During the project week, we aim to present the project and identify a specific n
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![Landmark selection interface](LandmarkSelection.png)
+![Segmentation interface](SegmentationInterface.png)
+![Trajectory planning](TrajectoryPlanning.png)
 
 # Background and References
 
