@@ -50,6 +50,21 @@ The immediate actions to take are listed there in the TODOS section: 1. and 2. s
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+Here below you can find some AR implementations in health by Universidad Carlos III de Madrid (Madrid, Spain) in the past years:
+
+Orthopedic oncology:
+![HoloLens 2 in Orthopedic Oncological Surgeries](Figure_HoloLens2_OrthopedicOncologicalSurgery.png)
+
+![Smartphone app to communicate with the patient and help him/her understand his/her condition](Figure_Smartphone_PatientCommunication.png)
+
+Real-time guidance during Open Cranial Vault Remodeling:
+![Smartphone app to guide open cranial vault remodeling](Figure_Smartphone_CraniosynostosisSurgery.tif)
+
+Needle Insertion Guidance for Sacral Nerve Stimulation:
+![Smartphone app to guide needle insertion for sacral nerve stimulation](Figure_Smartphone_NeedleInsertion.png)
+
+
+
 
 # Background and References
 
