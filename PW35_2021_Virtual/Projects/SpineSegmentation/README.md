@@ -53,7 +53,9 @@ vertibrae have degraded and appear like surrounding tissue in CT scans.
 -->
 Here is an example of how the degraded vertebrae look in CT scans and the challenges of segmentation in Slicer. 
 Note the interior holes because of the heterogeneous nature of the lytic bone.
+
 ![Sample lytic vertebrae](lytic-vertebrae-example.png)
+
 ![Segmentation in Slicer](lytic-vertebrae-in-slicer.png)
 
 ## Background and References
