@@ -24,7 +24,7 @@ marp: true
 
 ---
 
-# Useful DICOM classes
+# Some of the more useful DICOM classes
 * Imaging: CT, MR, PET, US...
     * Orginal scan data
 * Segmentation: SEG
@@ -35,6 +35,8 @@ marp: true
     * Doses, plans, structures...
 * Parametric Maps: PM
     * Images with defined quantities and units
+* Spatial Registration: SRO
+    * Linear and nonlinear with explicit frames of reference
 * Whole Slide Images: WSI
     * Microscopy images, possibly multichannel with annotations in SR 
 
