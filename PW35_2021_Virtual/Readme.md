@@ -42,13 +42,13 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ### IGT
 1. [NousNav](Projects/NousNav/README.md) (Alexandra Golby, Sam Horvath, Sarah Frisken, David Allemang, Tina Kapur, Steve Pieper, Jean-Christophe Fillion-Robin, Sonia Pujol)
 2. [ROS2 - 3D Slicer Integration](Projects/ROSMED/README.md) (Junichi Tokuda, Tamas Ungi, Axel Krieger, Simon Leonard, Mark Fuge)
-3. [Low-Cost neuronavigation](Projects/MarkerlessTrackingWithRGBDCamerasForLowCostNeuronavigation/README.md) (Julie Alvarez (Neurotrauma Center), Gabriel Vargas Grau (Universidad de Santander), Juan Camilo Gamboa (Mc Gill University), Andrés Gamboa (Neurotrauma/Universidad Politécnica de Valencia/))
-4. [GPU Rigid Registration](Projects/GPURigidRegistration/README.md) (Gelel Rezig, Houssem Eddine Gueziri, Simon Drouin)
-5. [Slicer module for planning MR-guided focal cryoablation of prostate cancer](Projects/ProstateCryoablationPlanning/README.md) (Pedro Moreira)
-6. [IGT training material for francophone countries](Projects/IGTrain/README.md) (Nayra Pumar, Mohamed El Moctar Septy, Yahya Tfeil, Asmaa Skareb, Marilola Afonso, Juan Ruiz Alzola)
-7. [Slicer-Liver: planning liver resections in 3D Slicer](Projects/Slicer-Liver/README.md) (Rafael Palomar, Gabriella d'Albenzio, Ole Vegard Solberg, Geir Arne Tangen)
+3. [Slicer module for planning MR-guided focal cryoablation of prostate cancer](Projects/ProstateCryoablationPlanning/README.md) (Pedro Moreira)
+4. [Slicer-Liver: planning liver resections in 3D Slicer](Projects/Slicer-Liver/README.md) (Rafael Palomar, Gabriella d'Albenzio, Ole Vegard Solberg, Geir Arne Tangen)
+5. [IGT training material for francophone countries](Projects/IGTrain/README.md) (Nayra Pumar, Mohamed El Moctar Septy, Yahya Tfeil, Asmaa Skareb, Marilola Afonso, Juan Ruiz Alzola)
+6. [GPU Rigid Registration](Projects/GPURigidRegistration/README.md) (Gelel Rezig, Houssem Eddine Gueziri, Simon Drouin)
 8. [DBS Navigation](Projects/DBSNavigation/README.md) (Simon Oxenford)
 9. [Planar Osteotomies Virtual Surgical Planning And Patient-Specific Surgical Guides](Projects/PlanarOsteotomiesVSPAndSurgicalGuides/README.md) (Mauro I. Dominguez, Manjula Herath)
+10. [Low-Cost neuronavigation](Projects/MarkerlessTrackingWithRGBDCamerasForLowCostNeuronavigation/README.md) (Julie Alvarez (Neurotrauma Center), Gabriel Vargas Grau (Universidad de Santander), Juan Camilo Gamboa (Mc Gill University), Andrés Gamboa (Neurotrauma/Universidad Politécnica de Valencia/))
 ### Deep learning and segmentation
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (...)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/Readme.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
