@@ -65,7 +65,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 9. [Planar Osteotomies Virtual Surgical Planning And Patient-Specific Surgical Guides](Projects/PlanarOsteotomiesVSPAndSurgicalGuides/README.md) (Mauro I. Dominguez, Manjula Herath)
 10. [Low-Cost neuronavigation](Projects/MarkerlessTrackingWithRGBDCamerasForLowCostNeuronavigation/README.md) (Julie Alvarez (Neurotrauma Center), Gabriel Vargas Grau (Universidad de Santander), Juan Camilo Gamboa (Mc Gill University), Andrés Gamboa (Neurotrauma/Universidad Politécnica de Valencia/))
 ### Deep learning and segmentation
-1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (...)
+1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (Matthew Jolley, Christian Herz, Danielle F. Pace, Andras Lasso)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/README.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
 1. [Integration of PyTorch and Slicer](Projects/PyTorchIntegration/README.md)
 3. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
