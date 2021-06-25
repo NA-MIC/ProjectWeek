@@ -33,12 +33,12 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ### VR/AR and Rendering
 1. [PRISM volume rendering](Projects/PRISM_volume_rendering/Readme.md) (Simon Drouin, Steve Pieper, Kyle Sunderland, Andrey Titov, Rafael Palomar)
 1. [SlicerVR build and in-VR widgets](Projects/SlicerVR/README.md) (Csaba Pinter, Adam Rankin, Jean-Christophe Fillion-Robin)
+1. [Virtual cameras](Projects/VirtualCameras/README.md) (Étienne Léger, Tamas Ungi, Andras Lasso)
+1. [TMS Visualization in Slicer](Projects/TMS_Slicer_Module/Readme.md) (Lipeng Ning, Yogesh Rathi, Steve Pieper, Daniel Haehn, Raymond Yang, Loraine Franke)
+1. [AR in Slicer](Projects/ARinSlicer/README.md) (Alicia Pose Díez de la Lastra, Javier Pascau, Csaba Pinter)
 1. [Interactive Slice Intersections](Projects/InteractiveSliceIntersections/README.md) (David García-Mato, Kyle Sunderland, Csaba Pinter)
 1. [VR for Birth Delivery Training](Projects/VRBirthDeliveryTraining/README.md) (Mónica García-Sevilla, David García-Mato, Abián Hernández-Guedes, Juan Ruiz Alzola, Javier Pascau, Nayra Pumar, Csaba Pinter)
 1. [VR display plugin for PyDBS using a zSpace device](Projects/VRDisplayPluginForPyDBSUsingZspace/README.md) (Marine Camba, Sara Fernandez Vidal, Sinan Haliyo)
-1. [AR in Slicer](Projects/ARinSlicer/README.md) (Alicia Pose Díez de la Lastra, Javier Pascau, Csaba Pinter)
-1. [TMS Visualization in Slicer](Projects/TMS_Slicer_Module/Readme.md) (Lipeng Ning, Yogesh Rathi, Steve Pieper, Daniel Haehn, Raymond Yang, Loraine Franke)
-1. [Virtual cameras](Projects/VirtualCameras/README.md) (Étienne Léger, Tamas Ungi, Andras Lasso)
 ### IGT
 1. [NousNav](Projects/NousNav/README.md) (Alexandra Golby, Sam Horvath, Sarah Frisken, David Allemang, Tina Kapur, Steve Pieper, Jean-Christophe Fillion-Robin, Sonia Pujol)
 2. [ROS2 - 3D Slicer Integration](Projects/ROSMED/README.md) (Junichi Tokuda, Tamas Ungi, Axel Krieger, Simon Leonard, Mark Fuge)
