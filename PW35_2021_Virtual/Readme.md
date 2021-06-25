@@ -148,6 +148,30 @@ List of registered participants so far (names will be added here after processin
 1.	Neha Goyal	,	University of Massachusetts Boston 	,	Boston 	,	United States
 1.	Batuhan Gundogdu	,	University of Chicago	,	Chicago	,	United States
 1.	Caio A Neves	,	University of Brasilia	,	Brasilia	,	Brazil
+1.	Laleh Seyyed-Kalantari	,	Mount Sinai health	,	Toronto 	,	Canada
+1.	Nayra Pumar	,	EBATINCA	,	Las Palmas de Gran Canaria	,	Spain
+1.	Emel Alkim	,	Stanford University	,	MOUNTAIN VIEW	,	United States
+1.	Jean-Christophe Fillion-Robin	,	Kitware	,	Carrboro	,	USA
+1.	Lucas Gandel	,	Kitware	,	Villeurbanne	,	France
+1.	Sara Fernandez Vidal	,	ICM	,	Paris	,	France
+1.	Daniel Haehn	,	University of Massachusetts Boston	,	Boston	,	United States
+1.	Alberto Santamaria-Pang	,	Microsoft	,	Redmond	,	United States
+1.	Jameson Merkow	,	Microsoft	,	San Diego	,	USA
+1.	Risto Rangel	,	Microsoft	,	Redmond	,	United States
+1.	David Allemang	,	Kitware, Inc.	,	Carrboro	,	USA
+1.	Rudolf Bumm	,	Cantonal Hospital Graubünden, Department of Surgery	,	Chur	,	Switzerland
+1.	Gordon Harris	,	Massachusetts General Hospital	,	Boston	,	United States
+1.	Amber Wood-Bailey	,	University of Liverpool	,	Liverpool	,	United Kingdom
+1.	Lucia Cevidanes	,	University of Michigamn	,	Ann Arbor	,	United States
+1.	Ernest Namdar	,	University of Toronto 	,	Toronto 	,	Canada 
+1.	Belkis Abufaur 	,	The Cyprus Institute 	,		,	Turkey
+1.	Niral	,	Johns Hopkins University	,	Baltimore	,	USA
+1.	Rohan Vijayan	,	Johns Hopkins University	,	Baltimore	,	United States of America
+1.	Miguel Xochicale	,	King's College London	,	London	,	United Kingdom 
+1.	Nayra Pumar	,	Ebatinca	,	Las Palmas de Gran Canaria	,	Spain
+1.	Izabel Rubira-Bullen	,	Bauru Dental School - University Sao Paulo	,	Bauru - Sao Paulo	,	Brazil
+1.	Paolo Zaffino	,	Magna Graecia University of Catanzaro	,	Lamezia Terme	,	Italy
+1.	Nadya Shusharina	,	Massachusetts General Hospital	,	Boston	,	United States
 
 ## Statistics
 
