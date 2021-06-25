@@ -35,6 +35,7 @@ We want to make it possible to read and write TRAKO (.TKO) files using 3D Slicer
 1. We had to modify some things on Trako's side to make this work and cut a new release 0.3.5.dev9.
 1. Steps required so far to make it work: 1) build Slicer + SlicerDMRI w/ pull request #145, and then 2) pip_install('trako') in the slicer
 1. We now need JC's TrakoDracoPy wheels for all platforms and then update the SlicerDMRI extension to tie everything together.
+1. Prototype implementation: https://github.com/pieper/SlicerDMRI/commit/1cfcbbc61d58588021de7a2e1ad8aafbf53274c1
 
 # Illustrations
 

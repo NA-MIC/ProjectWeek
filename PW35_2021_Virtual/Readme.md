@@ -19,75 +19,13 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 - **Step 3**: Create a **project webpage** (see Projects section below) (before Tuesday June 22)
 - **Step 4** (optional): Join the **Discord** server to help prepare and work on your project: [Invite Link](https://discord.gg/5TC5H2g63e)
 
-## Preparation Meetings
 
-We are holding prepration meetings every Tuesday at 10am ET starting May 18th using this [Zoom link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09)
-
-* May 18 - Kickoff
-* May 25 - Project week logistics
-* **June 1 - AI-assisted annotations**
-  * (KnowledgeVis, Florida) Curt Lisle (Overview, user experience with MONAI, application to lung/cancer segmentation)
-  * (UCL, London) Fernando Perez Garcia, Andres Diaz Pinto (MONAILabel demo)
-  * (Queens U, Kingston) Andras Lasso, Tamas Ungi (Deep learning based annotation in Slicer, migration to MONAI?)
-* **June 8 - Systems for Image-Guided Surgery**
-  * Alexandra Golby, Boston
-  * Juan Ruiz, Las Palmas, Gran Canaria
-  * Gabor Fichtinger, Kingston, Ontario
-  * Clare Tempany, Boston
-  * Jay Jagadeesan, Boston
-* **June 15 - Systems for Image-Guided Surgery (continued) and Rendering**
-  * Simon Drouin
-  * Csaba Pinter
-* **June 22 - Review of projects and project pages**
-
-
-## Preliminary Agenda
+##  Agenda
 
 
 <iframe src="https://calendar.google.com/calendar/embed?src=kitware.com_sb07i171olac9aavh46ir495c4%40group.calendar.google.com&ctz=Atlantic&mode=WEEK&dates=20210628%2f20210702" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 [How to add this calendar to your own?](../common/Calendar.md)
-
-**Monday June 28**
-* 9am-9:45am Breakout Session: Augmented reality/Virtual reality (Javier Pascau)
-* 10am-12pm: Introduction and Project Presentations
-* 12pm-1pm BREAK
-* 1-5pm: Work in Project Teams (Discord)
-
-**Tuesday June 29**
-* 8am-9:30am: For First Timers:
-* * Annotations in Slicer (Andras Lasso)
-* * MONAI Introduction (Sachi Alle)
-* * MONAILabel Demo (Andres Diaz Pinto)
-* 10am-12noon Breakout Session:
-* * What is new in Slicer
-* * Questions from Slicer Users and Developers (“Live” Discourse)
-* 12-1pm BREAK
-* 1-2pm: Breakout session: Common interface for deep learning models (Fernando Perez-Garcia)
-* 1-5pm: Work in Project Teams (Discord)
-
-**Wednesday June 30**
-* 8am-9:30am: For First Timers:
-* * Image-Guided Brain Tumor Surgery (Alexandra Golby, MD)
-* * Affordable IGT (Gabor Fichtinger, PhD)
-* * Prostate Interventions (Clare Tempany, MD)
-* * Molecular Guidance for Clinical Decision Making(Nathalie Agar, PhD)
-* 10am-12noon Breakout Session: Image Guided Surgery Systems
-* 12-1pm BREAK
-* 1-5pm: Work in Project Teams (Discord)
-
-**Thursday July 1**
-* 8am-9:30am - For First timers:
-* * OHIF and DICOMWeb (Steve Pieper, PhD)
-* * DICOM for Digital Pathology applications (Marcus Hermann, PhD)
-* * Imaging Data Commons (Andrey Fedorov)
-* 10am-12noon Breakout Session: An Open Science Approach to Atlases of the Human Brain Morphology (Sylvain Bouix)
-* 12-1pm BREAK
-* 1-5pm: Work in Project Teams (Discord)
-
-**Friday July 2**
-* 10am-11:30pm: Results Presentations
-* 11:30-12:30pm: Closing Discussions and Adjourn
 
 <a name="ProjectsList"/>
 
@@ -99,18 +37,22 @@ We are holding prepration meetings every Tuesday at 10am ET starting May 18th us
 1. [VR for Birth Delivery Training](Projects/VRBirthDeliveryTraining/README.md) (Mónica García-Sevilla, David García-Mato, Abián Hernández-Guedes, Juan Ruiz Alzola, Javier Pascau, Nayra Pumar, Csaba Pinter)
 1. [VR display plugin for PyDBS using a zSpace device](Projects/VRDisplayPluginForPyDBSUsingZspace/README.md) (Marine Camba, Sara Fernandez Vidal, Sinan Haliyo)
 1. [AR in Slicer](Projects/ARinSlicer/README.md) (Alicia Pose Díez de la Lastra, Javier Pascau, Csaba Pinter)
+1. [TMS Visualization in Slicer](Projects/TMS_Slicer_Module/Readme.md) (Lipeng Ning, Yogesh Rathi, Steve Pieper, Daniel Haehn, Raymond Yang, Loraine Franke)
+1. [Virtual cameras](Projects/VirtualCameras/README.md) (Étienne Léger, Tamas Ungi, Andras Lasso)
 ### IGT
 1. [ROS2 - 3D Slicer Integration](Projects/ROSMED/README.md) (Junichi Tokuda, Tamas Ungi, Axel Krieger, Simon Leonard, Mark Fuge)
 1. [Low-Cost neuronavigation](Projects/MarkerlessTrackingWithRGBDCamerasForLowCostNeuronavigation/README.md) (Julie Alvarez (Neurotrauma Center), Gabriel Vargas Grau (Universidad de Santander), Juan Camilo Gamboa (Mc Gill University), Andrés Gamboa (Neurotrauma/Universidad Politécnica de Valencia/))
 1. [GPU Rigid Registration](Projects/GPURigidRegistration/README.md) (Gelel Rezig, Houssem Eddine Gueziri, Simon Drouin)
-1. [Slicer module for planning MR-guided focal cryoablation of prostate cancer](Projects/MR-guidedFocalCryoablation/README.md) (Pedro Moreira)
+1. [Slicer module for planning MR-guided focal cryoablation of prostate cancer](Projects/ProstateCryoablationPlanning/README.md) (Pedro Moreira)
 1. [IGT training material for francophone countries](Projects/IGTrain/README.md) (Nayra Pumar, Mohamed El Moctar Septy, Yahya Tfeil, Asmaa Skareb, Marilola Afonso, Juan Ruiz Alzola)
 1. [Slicer-Liver: planning liver resections in 3D Slicer](Projects/Slicer-Liver/README.md) (Rafael Palomar, Gabriella d'Albenzio, Ole Vegard Solberg, Geir Arne Tangen)
+1. [DBS Navigation](Projects/DBSNavigation/README.md) (Simon Oxenford)
 ### Deep learning and segmentation
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (...)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/Readme.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
 1. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
 1. [Integration of PyTorch and Slicer](Projects/PyTorchIntegration/README.md)
+1. [Development of Deep Learning Based Brain Masking](Projects/CNN_Brain_Masking/README.md) (Raymond Yang)
 ### Cloud, open data and annotation
 1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper, Curt Lisle)
 1. [NCI Imaging Data Commons](Projects/NCIImagingDataCommons/README.md) (Andrey Fedorov, Markus Herrmann, Theodore Aptekarev, Steve Pieper, Ron Kikinis)

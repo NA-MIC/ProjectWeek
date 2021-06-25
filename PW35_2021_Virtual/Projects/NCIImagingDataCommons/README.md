@@ -75,4 +75,5 @@ The idea for the experiment is to develop a tool allowing to tag individual seri
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+* [IDC Portal](https://imaging.datacommons.cancer.gov/)
+* [short paper](https://cancerres.aacrjournals.org/content/early/2021/06/15/0008-5472.CAN-21-0950) accompanied by [videos](https://cancerres.aacrjournals.org/content/early/2021/06/21/0008-5472.CAN-21-0950.figures-only) with the summary of what IDC aspires to accomplish
