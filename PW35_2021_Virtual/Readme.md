@@ -52,9 +52,9 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ### Deep learning and segmentation
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (...)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/Readme.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
-1. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
 1. [Integration of PyTorch and Slicer](Projects/PyTorchIntegration/README.md)
-1. [Development of Deep Learning Based Brain Masking](Projects/CNN_Brain_Masking/README.md) (Raymond Yang)
+3. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
+4. [Development of Deep Learning Based Brain Masking](Projects/CNN_Brain_Masking/README.md) (Raymond Yang)
 ### Cloud, open data and annotation
 1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper, Curt Lisle)
 1. [NCI Imaging Data Commons](Projects/NCIImagingDataCommons/README.md) (Andrey Fedorov, Markus Herrmann, Theodore Aptekarev, Steve Pieper, Ron Kikinis)
