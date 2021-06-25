@@ -1,5 +1,6 @@
 title: NA-MIC Project Weeks
 theme: jekyll-theme-primer
+repository: NA-MIC/ProjectWeek
 
 plugins:
   - jekyll-mentions
