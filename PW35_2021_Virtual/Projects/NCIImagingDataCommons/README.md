@@ -1,4 +1,4 @@
-Back to [Projects List](../../Readme.md#ProjectsList)
+Back to [Projects List](../../README.md#ProjectsList)
 
 # NCI Imaging Data Commons
 

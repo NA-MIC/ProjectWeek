@@ -53,7 +53,7 @@ Notes on the agenda:
 1. [SlicerMorph: An open and extensible platform to retrieve, visualize and analyze 3D morphology](Projects/SlicerMorph/README.md) (Sara Rolfe)
 1. [SlicerCMF: Craniofacial image processing](Projects/SlicerCMF/README.md) (David Allemang)
 1. [SlicerArduino](Projects/SlicerArduino/README.md) [(video)](https://youtu.be/8R6LfBqHNPY) (Paolo Zaffino, Maria Francesca Spadea)
-1. [PRISM volume rendering](Projects/PRISM_Volume_Rendering/Readme.md) (Simon Drouin)
+1. [PRISM volume rendering](Projects/PRISM_Volume_Rendering/README.md) (Simon Drouin)
 1. [Virtual reality](Projects/SlicerVR/README.md) (Csaba Pinter)
 1. [SlicerWeb and Slicer in Cloud environments](Projects/Slicer_in_Cloud_Environments/README.md) (Steve Pieper, Theodore Aptekarev)
 1. [Napari: multi-dimensional image viewer for python](Projects/Napari/README.md) (Nicholas Sofroniew)
@@ -63,9 +63,9 @@ Notes on the agenda:
 11. [XNAT - OHIF](Projects/XNAT-OHIF/README.md)  (Dan Marcus)
 1. [MONAI: PyTorch-based, open-source framework for deep learning in healthcare imaging](Projects/MONAI/README.md) (Tina Kapur for Stephen Aylward)
 1. [NCI Imaging Data Commons](Projects/ImagingDataCommons/README.md) (Andrey Fedorov,Steve Pieper, Ron Kikinis)
-1. [aevaSlicer volumetric mesh generation from segmentations](Projects/aevaSlicer/Readme.md) (Sam Horvath)
+1. [aevaSlicer volumetric mesh generation from segmentations](Projects/aevaSlicer/README.md) (Sam Horvath)
 1. [Landmark Curves for Brain Images](Projects/Landmark%20Curves%20for%20Brain%20Images/README.md) (Jarrett Rushmore, BWH/MGH/BU, Sylvain Bouix, BWH/HMS,  Nikos Makris, BWH/MGH/HMS, Kyle Sunderland, Queen's University, Andras Lasso, Queen's University)
-1. [RadOncSegmentor](Projects/RadOncSegmentor/Readme.md) Segmentation for Radiation Treatment Planning (Aditya Apte, Eve LoCastro, Harini Veeraraghavan, MSKCC)
+1. [RadOncSegmentor](Projects/RadOncSegmentor/README.md) Segmentation for Radiation Treatment Planning (Aditya Apte, Eve LoCastro, Harini Veeraraghavan, MSKCC)
 1. [Scalable Quality Assurance for Neuroimaging (SQAN)](Projects/SQAN/README.md) (Arvind Gopu)
 1. [Train the Trainers](Projects/TrainTheTrainers/README.md)  formation program with African countries: training & anatomical atlases (Juan Ruiz, Asmaa Skareb, Marilola Afonso, Nasara Cabrera Abu, Tagwa Idris, Septy Inge, Otman Aghzout, Babacar Diao, Alexandra Fernandes, Badiaa Ait Ahmed, Nayra Pumar)
 1. [SlicerLiverAnalysis](Projects/SlicerLiverAnalysis/README.md) (Rafael Palomar OUS,NTNU. Ole Vegard Solberg, SINTEF)
@@ -80,7 +80,7 @@ Notes on the agenda:
 To learn how to join, leave or display list of breakout rooms. See [here](./ZoomBreakoutRoom.md). 
 
 1. Monday @ 3pm [Ultrasound Image Guided Therapy](https://docs.google.com/document/d/1laFD-GSYOq-mN0tLomYqcqLwrYXuwiMDU46AVToLcKE/edit) (Tamas Ungi, Tina Kapur, Simon Drouin) 
-1. Tuesday @ 11am [Collaborative VR discussion](Projects/CollaborativeVR/Readme.md) (Csaba Pinter and Simon Drouin)
+1. Tuesday @ 11am [Collaborative VR discussion](Projects/CollaborativeVR/README.md) (Csaba Pinter and Simon Drouin)
 1. Wednesday @ 11am EST Project/Room 10 & 11: Dan Marcus, XNAT + OHIF 
 1. Wednesday @ 11am: Project 15 Landmark Curves for Brain Images  (Jarrett Rushmore, Kyle Sunderland)
 1. Wednesday @ 2pm. Project 12 MONAI: PyTorch-based, open-source framework for deep learning in healthcare imaging (Stephen Aylward)

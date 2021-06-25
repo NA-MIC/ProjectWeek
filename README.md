@@ -1,7 +1,7 @@
 
 ## Welcome to the main page for the Project Week events!
 
-### The [35th Project Week](PW35_2021_Virtual/Readme.md) will be held online June 28-July 2, 2021. [Join the planning meetings here](https://discourse.slicer.org/t/reminder-project-week-35-preparation-meetings-starting-tomorrow/17659)
+### The [35th Project Week](PW35_2021_Virtual/README.md) will be held online June 28-July 2, 2021. [Join the planning meetings here](https://discourse.slicer.org/t/reminder-project-week-35-preparation-meetings-starting-tomorrow/17659)
 
 ## Frequently Asked Questions
 
@@ -38,7 +38,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 
 ## Upcoming Project Weeks
 
-  The [35th project week](PW35_2021_Virtual/Readme.md) will be held online June 28-July 2, 2021.
+  The [35th project week](PW35_2021_Virtual/README.md) will be held online June 28-July 2, 2021.
 
 * Please contact the organizers if you have interest in hosting a Project Week event.
 

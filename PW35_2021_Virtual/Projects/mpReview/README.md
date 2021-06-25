@@ -1,4 +1,4 @@
-Back to [Projects List](../../Readme.md#ProjectsList)
+Back to [Projects List](../../README.md#ProjectsList)
 
 # mpReview: Development of a streamlined Slicer module for (manual) image annotation
 

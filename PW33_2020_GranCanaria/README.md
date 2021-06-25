@@ -100,7 +100,7 @@ This is our third Project Week in Las Palmas.
 
 * [Improuving StereoPlan STIM Slicer module for SEEG Procedures](Projects/SEEGPlanning/README.md). Sara Fernandez Vidal, ICM)
 
-* [Adapt an already existing workflow in maxillofacial reconstructive surgery to Slicer](Projects/WorkflowForMaxillo/readme.md) (Attila Nagy, András Lasso, Steve Pieper and whoever is interested)
+* [Adapt an already existing workflow in maxillofacial reconstructive surgery to Slicer](Projects/WorkflowForMaxillo/README.md) (Attila Nagy, András Lasso, Steve Pieper and whoever is interested)
 
 * [Sarcopenia Quantification in Abdominal MR Images](Projects/SarcopeniaQuantification/README.md) (Hans Meine, Mike Halle, Ron Kikinis)
 
@@ -131,7 +131,7 @@ Mohamed Septy, Ainina Ndiaye, Siham Alaoui, Mouhcine Madani, Otman Aghzout, Badi
 
 * [CTK DICOM database and browser improvements](Projects/ctkDICOMDatabase) (Marco Nolden, Andras Lasso, Steve Pieper, Jc)
 
-* [Slicer on Android](Projects/SlicerOnAndroid/readme.md) (Attila Nagy, Steve Pieper and whoever is interested)
+* [Slicer on Android](Projects/SlicerOnAndroid/README.md) (Attila Nagy, Steve Pieper and whoever is interested)
 
 * [Location Sensitive Hashing for web-scale image indexing](Projects/LSHindexing/README.md) (Sandy Wells, Steve Pieper)
 

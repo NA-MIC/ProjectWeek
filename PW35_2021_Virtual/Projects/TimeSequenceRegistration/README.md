@@ -1,4 +1,4 @@
-Back to [Projects List](../../Readme.md#ProjectsList)
+Back to [Projects List](../../README.md#ProjectsList)
 
 # Time Sequence Registration for Deep Learning
 

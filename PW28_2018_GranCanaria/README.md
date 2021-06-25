@@ -102,7 +102,7 @@ New Applications and Customizations of 3D Slicer
 1. [Evaluation of projects: simulator of bone sliding, augmented reality system to be used in surgeries, software for orthognatic planning](Projects/EvaluationOfProjects/README.md) (Donato Monopoli, Javier González, Juan Ruiz-Alzola)
 1. [Slicer Ecosystems Education for Newcomers & Developing Countries](Projects/3DSlicerTrainingPrograms/README.md) (GTMA Group, Juan Ruiz-Alzola)
 1. [Atlas development for education](Projects/AtlasDevelopmentForEducation/README.md) (Babacar Diao, Ahmedou Moulaye Idriss, Mohamed Septy, Alexandra Fernandes Rodrigues, Cheick Tidiane, Nayra Pumar, Xerach Suárez, Juan Ruiz-Alzola)
-1. [Custom GUI for an US simulator training system](Projects/CustomGUIForUSSimulator/Readme.md) (José Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola)
+1. [Custom GUI for an US simulator training system](Projects/CustomGUIForUSSimulator/README.md) (José Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola)
 1. [Medical Infrared Imaging with Slicer](Projects/MedicalInfraredImagingWithSlicer/README.md) (Yolanda Martin-Hernando, Abián Hernández, Jorge Quintero Nehrkorn, Enrique Villa, José-Carlos Ruiz-Luque, Natalia Arteaga-Marrero, Juan Ruiz-Alzola)
 1. [3DSlicer models for serious games](Projects/3DSlicerModelsForSeriousGames/README.md) (Sergi Bermudez i Badia, Yuri Almedia, Artemisa Moreno, Abián Hernández, María Dolores Afonso-Suárez, Juan Ruiz-Alzola)
 1. [Implementing 1H Time resolved Functional Magnetic Resonance Spectroscopy with quantification of broad metabolite spectrum in 3D Slicer](Projects/Implementing1HTimeResolvedFunctionalMagneticResonanceSpectroscopy/README.md) (Francisco-José Marcano-Serrano, José Luis González Mora, Juan Ruiz-Alzola)
