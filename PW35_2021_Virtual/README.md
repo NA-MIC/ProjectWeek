@@ -71,7 +71,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 3. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
 4. [Development of Deep Learning Based Brain Masking](Projects/CNN_Brain_Masking/README.md) (Raymond Yang)
 ### Cloud, open data and annotation
-1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper, Curt Lisle)
+1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper, Curt Lisle, Andrey Fedorov)
 1. [NCI Imaging Data Commons](Projects/NCIImagingDataCommons/README.md) (Andrey Fedorov, Markus Herrmann, Theodore Aptekarev, Steve Pieper, Ron Kikinis)
 1. [mpReview: Development of a streamlined Slicer module for (manual) image annotation](Projects/mpReview/README.md) (Andrey Fedorov, Dora Szasz, Masoom Haider, Aytek Oto, Andras Lasso, Fiona Fennessy)
 1. [DICOM-SR: Extending DICOM-SR support in dcmjs and adding test cases](Projects/DICOM-SR/README.md) (Emel Alkim, Steve Pieper, Andrey Fedorov)
