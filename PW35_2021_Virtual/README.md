@@ -188,6 +188,15 @@ List of registered participants so far (names will be added here after processin
 1.	Izabel Rubira-Bullen	,	Bauru Dental School - University Sao Paulo	,	Bauru - Sao Paulo	,	Brazil
 1.	Paolo Zaffino	,	Magna Graecia University of Catanzaro	,	Lamezia Terme	,	Italy
 1.	Nadya Shusharina	,	Massachusetts General Hospital	,	Boston	,	United States
+1.	Greg Sharp	,	Massachusetts General Hospital	,	Boston	,	USA
+1.	Nick Jowkar	,	Brigham and Women's Hospital	,	Boston	,	USA
+1.	leo zekelman	,	Harvard Medical School	,	Boston	,	USA
+1.	Parikshit Juvekar	,	Brigham & Women's Hospital	,	Boston	,	USA
+1.	Axel Krieger	,	Johns Hopkins University	,	Baltimore	,	United States
+1.	Abby Recko	,	Colby College	,	Waterville	,	USA
+1.	YuhJong Liu	,	University of Pennsylvania	,	Philadelphia	,	US
+1.	Houssem Gueziri	,	Montreal Neurological Institute 	,	Montreal	,	Canada
+1.	Kyle Sunderland	,	Queen's University	,	Kingston	,	Canada
 
 ## Statistics
 
