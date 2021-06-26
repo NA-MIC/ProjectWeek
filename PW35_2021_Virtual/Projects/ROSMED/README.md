@@ -41,17 +41,16 @@ transition to the new ROS platform (ROS2).
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Architecture design
-1. Objective B. Prototype ROS-IGTL-Bridge2 for data exchange between 3D Slicer and ROS2
+1. Objective A. Test ROS2 as a potential platform for our study on image-guided model-driven needle placement robot.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
-
+1. Run ROS2 with a universal robot arm (UR-10) at JHU.
+1. Prototype a new version of ROS-IGTL-Bridge
+1. Display a 3D model of the UR-10 on 3D Slicer, and synchronize its posture with the robot by sending the transform of each link.
+ 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
@@ -70,3 +69,6 @@ transition to the new ROS platform (ROS2).
 # Background and References
 - Frank T, Krieger A, Leonard S, Patel NA, Tokuda J. ROS-IGTL-Bridge: an open network interface for image-guided therapy using the ROS environment. Int J Comput Assist Radiol Surg. 2017 Aug;12(8):1451-1460. doi: 10.1007/s11548-017-1618-1. Epub 2017 May 31. PMID: 28567563; [PMCID: PMC5543207](https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pmc/articles/PMC5543207/).
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+# Acknowledgement
+This work is supported by NIH R01EB020667 (MPI: Tokuda, Krieger, Fuge, Leonard).
