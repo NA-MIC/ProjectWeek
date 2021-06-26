@@ -40,8 +40,8 @@ Issues that will be addressed:
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Fixed `light-the-torch` to detect the best PyTorch version from NVIDIA drivers (https://github.com/pmeier/light-the-torch/pull/31, to be released)
-1. Fixed PythonQt so `light-the-torch` can be used within Slicer (https://github.com/MeVisLab/pythonqt/pull/49, to be updated in Slicer fork)
+1. Fixed `light-the-torch` to detect the best PyTorch version from NVIDIA drivers ([link to PR](https://github.com/pmeier/light-the-torch/pull/31), to be released)
+1. Fixed PythonQt so `light-the-torch` can be used within Slicer ([link to PR](https://github.com/MeVisLab/pythonqt/pull/49), to be updated in Slicer fork)
 
 # Illustrations
 
