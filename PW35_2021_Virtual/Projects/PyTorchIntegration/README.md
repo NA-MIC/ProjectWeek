@@ -15,7 +15,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!-- Add a short paragraph describing the project. -->
 
 Investigate the potential issues faced by users who would like to use a trained
-convolutional neural network (deep learning model) inside Slicer, using PyTorch.
+deep learning model (e.g., a convolutional neural network) inside Slicer,
+using PyTorch.
 
 ## Objective
 
@@ -35,18 +36,20 @@ Issues that will be addressed:
 1. Once PyTorch has been installed, look into the best ways to prepare slicer nodes for inference and visualize the results in Slicer.
 1. If necessary, write a tutorial (potentially a Jupyter Notebook using [SlicerJupyter](https://github.com/Slicer/SlicerJupyter))
 
-<!-- ## Progress and Next Steps -->
+## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
+1. Fixed `light-the-torch` to detect the best PyTorch version from NVIDIA drivers (https://github.com/pmeier/light-the-torch/pull/31, to be released)
+1. Fixed PythonQt so `light-the-torch` can be used within Slicer (https://github.com/MeVisLab/pythonqt/pull/49, to be updated in Slicer fork)
 
-
-<!-- # Illustrations -->
+# Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+
+![Example of inference using PyTorch inside Slicer](diagram.svg)
 
 # Background and References
 
@@ -67,7 +70,6 @@ This seems to be a Python package designed to help installing PyTorch easily, au
 The maintainer is [Philip Meier](https://github.com/pmeier), a very active contributor to `torchvision`.
 
 Also related and worth investigating, from the same author, is [`pytorch-pip-shim`](https://github.com/pmeier/pytorch-pip-shim).
-
 
 ## Example of a naive `pip` installation
 
