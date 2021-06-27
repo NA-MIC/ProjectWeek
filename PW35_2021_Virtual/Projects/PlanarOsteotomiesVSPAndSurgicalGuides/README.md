@@ -59,6 +59,16 @@ For kirschner wires planning on DeformityCorrectionOsteotomyPlanner:
 ![Some more images](Example2.jpg)
 -->
 
+- Mandibular Reconstruction:
+
+![](screenshotPlanningMandibularReconstruction.png)
+
+![](screenshotPatientSpecificSurgicalGuidesMandibularReconstruction.png)
+
+- Deformity Correction:
+
+![](screenshotPlanningDeformityCorrection.png)
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
