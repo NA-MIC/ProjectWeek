@@ -17,26 +17,27 @@ tools to register patients' follow-up scans to their original planning CT scans 
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Select example patients with original CTs along with folllow-up CT and/or PETs scans. 
-1. Objective B. Align follow-up scans to planning CTs using 3D Slicer, Plastimatch, or other algorithm.
-1. Objective C. Develop scripts to run on multiple patients and inspect the results using 3D Slicer. 
+
+1. Objective A. Align follow-up scans to planning CTs using 3D Slicer, Plastimatch, or other algorithms.
+2. Objective B. Gain insight on traditional registration methods vs. emerging deep learning methods
+3. Objective C. Develop scripts to run on multiple patients and inspect the results using 3D Slicer. 
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Start by selecting candidate patient scans and testing registration tools in Slicer and/or PlastiMatch to align them
-1. Investigate de-noising or other preprocessing steps for PET scans before registration. Will it help the final result?
-1. Compare registration results of different algorithms in Slicer
-1. Once an algorithm is selected, automate processing of larger cohort and review the results.
-1. If time permits, try MONAI-based DNN training on registered scans. 
+1. Select candidate patient scans and registration tools in Slicer
+2. Compare registration results from a few algorithms in Slicer (Elastix, Plastimatch, etc.)
+3. Segmentation: Will segmentation of follow-up scans enable other algortihms? (Csaba's Segmentation-assisted registration)
+4. Investigate Deep Learning based methods for image registration (e.g. VoxelMorph, DeepReg)
+6. Determine which approaches are suitable for automated use on a large cohort
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Acquired anonymous patient dataset
-1. ...
+1. Acquired anonymous patient dataset with preplanning CT&PET,Planning CT, follow-up CT and PET
+1. 
 1. ...
 
 ## Illustrations
@@ -45,6 +46,8 @@ tools to register patients' follow-up scans to their original planning CT scans 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![Planning CT has excellent structure segmentation](four-up-planningCT.png)
+![No registration between successive scans](RegistrationProblem1.png)
 
 ## Background and References
 
