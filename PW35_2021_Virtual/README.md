@@ -197,6 +197,8 @@ List of registered participants so far (names will be added here after processin
 1.	YuhJong Liu	,	University of Pennsylvania	,	Philadelphia	,	US
 1.	Houssem Gueziri	,	Montreal Neurological Institute 	,	Montreal	,	Canada
 1.	Kyle Sunderland	,	Queen's University	,	Kingston	,	Canada
+1.	Manjula Herath	,	Malmo University	,	Malmö	,	Sweden
+1.	Badiaa Ait Ahmed	,	Abdelmalek Essaâdi University	,	Tétouan	,	Morocco
 
 ## Statistics
 
