@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andras Lasso (Queen's University, Canada)
 - Curtis Lisle (KnowledgeVis, USA)
 - Rebecca Hisey (Queen's University, Canada)
+- Steve Pieper (Isomics)
 
 # Project Description
 
