@@ -22,7 +22,7 @@ Creation of a MONAILabel app for leaflet segmentation of heart valves in 3D echo
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Creation of a MONAILabel app
+1. Creation of a MONAILabel app
 2. Bring own UI elements as FCN will need additional user input
 
 
@@ -30,7 +30,9 @@ Creation of a MONAILabel app for leaflet segmentation of heart valves in 3D echo
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. TODO
+1. Use MONAI framework for replacing most of our custom code to minimize overhead
+2. Create MONAILabel app based on ported code
+3. Create custom UI for additional user inputs 
 
 ## Progress and Next Steps
 
