@@ -64,6 +64,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 8. [GPU Rigid Registration](Projects/GPURigidRegistration/README.md) (Gelel Rezig, Houssem Eddine Gueziri, Simon Drouin)
 9. [Planar Osteotomies Virtual Surgical Planning And Patient-Specific Surgical Guides](Projects/PlanarOsteotomiesVSPAndSurgicalGuides/README.md) (Mauro I. Dominguez, Manjula Herath)
 10. [Marklerless Tracking for Low-Cost neuronavigation for TMS](Projects/MarkerlessTrackingWithRGBDCamerasForLowCostNeuronavigation/README.md) (Julie Alvarez (Neurotrauma Center), Gabriel Vargas Grau (Universidad de Santander), Juan Camilo Gamboa (Mc Gill University), Andrés Gamboa (Neurotrauma/Universidad Politécnica de Valencia/))
+11. [IGT Equipment for ReUse](https://docs.google.com/spreadsheets/d/1MNkcZFz4GulkjOL4V5PYLzRwrgUT3rNB_mnKSHBq7aw/edit?usp=sharing) (Tina Kapur, Gabor Fichtinger, +)
 ### Deep learning and segmentation
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (Matthew Jolley, Christian Herz, Danielle F. Pace, Andras Lasso)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/README.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
