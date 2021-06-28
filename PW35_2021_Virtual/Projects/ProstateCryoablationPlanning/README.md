@@ -42,7 +42,8 @@ Currently, physicians rely on the pre and intraoperative images and their own ex
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-<img src="ScreeShot.png" alt="drawing" width="200"/>
+[Iceball prediction](ScreenShot.png)
+
 
 # Background and References
 
