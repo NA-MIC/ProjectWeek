@@ -63,4 +63,5 @@ Once build is fixed and the in-VR widget is added, arbitrary UI elements of Slic
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+1. Commit that broke 3rd party module build [here](https://gitlab.kitware.com/vtk/vtk/-/commit/140f8d8bcd85cedd7ac996c806f984add70bb11d)
+
