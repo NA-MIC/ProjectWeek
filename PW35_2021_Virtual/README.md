@@ -68,10 +68,10 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ### Deep learning and segmentation
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (Matthew Jolley, Christian Herz, Danielle F. Pace, Andras Lasso)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/README.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
-1. [Integration of PyTorch and Slicer](Projects/PyTorchIntegration/README.md)
-3. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
-4. [Development of Deep Learning Based Brain Masking](Projects/CNN_Brain_Masking/README.md) (Raymond Yang, Lipeng Ning, Yogesh Rathi, Steve Pieper, Loraine Franke, Daniel Haehn)
-5. [Deep Learning for Subcortical Brain Segmentation](Projects/DeepLearningforSubcorticalBrainSegmentation/README.md) (Jarrett Rushmore, Elizabeth Kenneally, Sylvain Bouix, Kyle Sunderland, Nikos Makris)
+1. [Integration of PyTorch and Slicer](Projects/PyTorchIntegration/README.md) (Fernando Pérez-García, Andrés Díaz-Pinto, Andras Lasso, Curtis Lisle, Rebecca Hisey, Steve Pieper)
+1. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
+1. [Development of Deep Learning Based Brain Masking](Projects/CNN_Brain_Masking/README.md) (Raymond Yang, Lipeng Ning, Yogesh Rathi, Steve Pieper, Loraine Franke, Daniel Haehn)
+1. [Deep Learning for Subcortical Brain Segmentation](Projects/DeepLearningforSubcorticalBrainSegmentation/README.md) (Jarrett Rushmore, Elizabeth Kenneally, Sylvain Bouix, Kyle Sunderland, Nikos Makris)
 ### Cloud, open data and annotation
 1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper, Curt Lisle, Andrey Fedorov)
 1. [NCI Imaging Data Commons](Projects/NCIImagingDataCommons/README.md) (Andrey Fedorov, Markus Herrmann, Theodore Aptekarev, Steve Pieper, Ron Kikinis)
@@ -180,11 +180,11 @@ List of registered participants so far (names will be added here after processin
 1.	Gordon Harris	,	Massachusetts General Hospital	,	Boston	,	United States
 1.	Amber Wood-Bailey	,	University of Liverpool	,	Liverpool	,	United Kingdom
 1.	Lucia Cevidanes	,	University of Michigamn	,	Ann Arbor	,	United States
-1.	Ernest Namdar	,	University of Toronto 	,	Toronto 	,	Canada 
+1.	Ernest Namdar	,	University of Toronto 	,	Toronto 	,	Canada
 1.	Belkis Abufaur 	,	The Cyprus Institute 	,		,	Turkey
 1.	Niral	,	Johns Hopkins University	,	Baltimore	,	USA
 1.	Rohan Vijayan	,	Johns Hopkins University	,	Baltimore	,	United States of America
-1.	Miguel Xochicale	,	King's College London	,	London	,	United Kingdom 
+1.	Miguel Xochicale	,	King's College London	,	London	,	United Kingdom
 1.	Nayra Pumar	,	Ebatinca	,	Las Palmas de Gran Canaria	,	Spain
 1.	Izabel Rubira-Bullen	,	Bauru Dental School - University Sao Paulo	,	Bauru - Sao Paulo	,	Brazil
 1.	Paolo Zaffino	,	Magna Graecia University of Catanzaro	,	Lamezia Terme	,	Italy

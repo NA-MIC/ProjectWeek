@@ -135,3 +135,13 @@ Copyright (c) 2005-2018 NVIDIA Corporation
 Built on Sat_Aug_25_21:08:01_CDT_2018
 Cuda compilation tools, release 10.0, V10.0.130
 ```
+
+## Glossary
+
+
+| Abbreviation   | Meaning                             |
+| -------------- | ----------------------------------- |
+| **GPU**        | Graphics Processing Unit            |
+| **CUDA**       | Compute Unified Device Architecture |
+| **NVCC**       | NVIDIA CUDA Compiler                |
+| **NVIDIA-SMI** | NVIDIA System Management Interface  |
