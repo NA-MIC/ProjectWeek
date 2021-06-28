@@ -200,6 +200,9 @@ List of registered participants so far (names will be added here after processin
 1.	Kyle Sunderland	,	Queen's University	,	Kingston	,	Canada
 1.	Manjula Herath	,	Malmo University	,	Malmö	,	Sweden
 1.	Badiaa Ait Ahmed	,	Abdelmalek Essaâdi University	,	Tétouan	,	Morocco
+1.	Lipeng Ning	,	Brigham and Women's Hospital	,	Boston	,	USA
+1.	Sindhura Thirumal	,	Queen's University	,	Kingston	,	Canada
+1.	Swajan Paul	,	McGill University	,	Montreal	,	Canada
 
 ## Statistics
 
