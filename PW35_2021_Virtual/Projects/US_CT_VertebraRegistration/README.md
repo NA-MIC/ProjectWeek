@@ -46,6 +46,7 @@ The goal is to combine the registration method for _open_ surgery implemented in
 ![Open surgery acquisition](open.png)
 ![Percutaneous acquisition](percutaneous.png)
 ![US-CT registration](registration.png)
+![Navigation](navigation.jpg)
 
 # Background and References
 
