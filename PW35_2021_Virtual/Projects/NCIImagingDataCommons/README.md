@@ -12,8 +12,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-**National Cancer Institute (NCI) Imaging Data Commons.**
+**WE ARE HIRING - see [job opportunities here](https://spl.harvard.edu/join-us) if interested!**
 
+**National Cancer Institute (NCI) Imaging Data Commons.**
 
 NCI IDC is a new component of the Cancer Research Data Commons (CRDC). The goal of IDC is to enable a broad spectrum of cancer researchers, with and without imaging expertise, to easily access and explore the value of de-identified imaging data and to support integrated analyses with non-imaging data. IDC maintains cancer imaging data collections in Google Cloud Platform, and is developing tools and examples to support cloud-based analysis of imaging data.
 
