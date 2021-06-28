@@ -203,6 +203,8 @@ List of registered participants so far (names will be added here after processin
 1.	Lipeng Ning	,	Brigham and Women's Hospital	,	Boston	,	USA
 1.	Sindhura Thirumal	,	Queen's University	,	Kingston	,	Canada
 1.	Swajan Paul	,	McGill University	,	Montreal	,	Canada
+1.	Jesse Thompson	,	University of Hawaii John A Burns School of Medicine	,	Honolulu	,	Hawaii
+1.	Michael Halle	,	Brigham and Women's Hospital	,	Boston	,	MA
 
 ## Statistics
 
