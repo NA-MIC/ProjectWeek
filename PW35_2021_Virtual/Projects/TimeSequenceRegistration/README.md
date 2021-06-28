@@ -37,7 +37,7 @@ tools to register patients' follow-up scans to their original planning CT scans 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Acquired anonymous patient dataset with preplanning CT&PET,Planning CT, follow-up CT and PET
-1. 
+1. Solicit suggested packages from the community
 1. ...
 
 ## Illustrations
@@ -51,5 +51,8 @@ tools to register patients' follow-up scans to their original planning CT scans 
 
 ## Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-![Registration tools added to Project-MONAI]/(https://github.com/Project-MONAI/tutorials/blob/master/3d_registration/paired_lung_ct.ipynb)
+<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. 
+-->
+Registration tools added to Project-MONAI: 
+
+https://github.com/Project-MONAI/tutorials/blob/master/3d_registration/paired_lung_ct.ipynb
