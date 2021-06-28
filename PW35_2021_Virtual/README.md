@@ -4,22 +4,22 @@
 
 This event will be held virtually June 28-July 2, 2021.
 
-## Numbers and Introduction 
-- **121** Registered Attende. **44%** First Timers! 
-- **23** countries. 
+## Numbers and Introduction
+- **121** Registered Attende. **44%** First Timers!
+- **23** countries.
   - Bimodal Time Zone Distribution (UTC-4 and UTC+1.
-- **29** Projects. 
+- **29** Projects.
 - All sessions except for work in project teams will happen on Zoom.  Please see google calendar entries for links for both zoom and discord.
-- Begin with the good old recipe of in-person Project Weeks. 
-  - Each team delegates a member to present the project in a maximum of 90 seconds using the project page. 
+- Begin with the good old recipe of in-person Project Weeks.
+  - Each team delegates a member to present the project in a maximum of 90 seconds using the project page.
   - Hope your project page is ready and any image you want to show is up there. There will not be enough time to share your screen, we will simply share your project page on the zoom session.
 - Presenters - please stick with the allocated time, if your internet connection has problems during your presentation, we will move to the next speaker and we can accommodate your talk at the, end time permitting.
 - Audience - please ask the speaker questions using zoom chat or the discord server chat.
-- Work in project teams will happen throughout the week. 
-  - A Discord server has been set up with a voice/video channel and a text channel for every project on the main webpage. 
-  - We will have a walkthrough of the discord server and project channels as the last project presentation today. 
-  - You can use the channels to coordinate the work of your team. 
-  - It is recommended to hold a first meeting of the team on the voice channel of the project after project presentations on Monday. 
+- Work in project teams will happen throughout the week.
+  - A Discord server has been set up with a voice/video channel and a text channel for every project on the main webpage.
+  - We will have a walkthrough of the discord server and project channels as the last project presentation today.
+  - You can use the channels to coordinate the work of your team.
+  - It is recommended to hold a first meeting of the team on the voice channel of the project after project presentations on Monday.
   - Please do everything you can to accommodate all team members in terms of schedule, especially the ones with family constraints living in time zones that are less favored by the schedule of Project Week.
 - The program includes optional introductory lectures (8-9:30 Tue-Wed-Thu) and breakout sessions (10-12 Tue-Wed-Thu), all happening on Zoom.
   - Tuesday: AI-assisted annotations (lectures), What’s new in Slicer and a QnA session that was very popular last year
@@ -84,7 +84,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (Matthew Jolley, Christian Herz, Danielle F. Pace, Andras Lasso)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/README.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
 1. [Integration of PyTorch and Slicer](Projects/PyTorchIntegration/README.md) (Fernando Pérez-García, Andrés Díaz-Pinto, Andras Lasso, Curtis Lisle, Rebecca Hisey, Steve Pieper)
-1. [Development of Deep Learning Segmentation for Spines with Metastaic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
+1. [Development of Deep Learning Segmentation for Spines with Metastatic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
 1. [Development of Deep Learning Based Brain Masking](Projects/CNN_Brain_Masking/README.md) (Raymond Yang, Lipeng Ning, Yogesh Rathi, Steve Pieper, Loraine Franke, Daniel Haehn)
 1. [Deep Learning for Subcortical Brain Segmentation](Projects/DeepLearningforSubcorticalBrainSegmentation/README.md) (Jarrett Rushmore, Elizabeth Kenneally, Sylvain Bouix, Kyle Sunderland, Nikos Makris)
 ### Cloud, open data and annotation
@@ -233,7 +233,7 @@ List of registered participants so far (names will be added here after processin
 <img src="pw-registrants-country-stats-final.png" width="600" />
 -->
 
-   
+
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
