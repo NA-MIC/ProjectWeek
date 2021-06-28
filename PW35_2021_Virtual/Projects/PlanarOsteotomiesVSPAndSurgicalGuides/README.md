@@ -59,15 +59,31 @@ For kirschner wires planning on DeformityCorrectionOsteotomyPlanner:
 ![Some more images](Example2.jpg)
 -->
 
-- Mandibular Reconstruction:
+## Achieved till now
+
+- Mandibular Reconstruction Virtual Surgical Planning:
 
 ![](screenshotPlanningMandibularReconstruction.png)
 
+- Mandibular Reconstruction Patient-specific Surgical Guides (mandible and fibula guides):
+
 ![](screenshotPatientSpecificSurgicalGuidesMandibularReconstruction.png)
 
-- Deformity Correction:
+- Deformity Correction Virtual Surgical Planning:
 
 ![](screenshotPlanningDeformityCorrection.png)
+
+## Desired work to be finished on project week:
+
+- Dental Implants Virtual Surgical Planning on Mandibular Reconstruction:
+
+![](dentalImplantsPlanningOnMandibularReconstruction.png)
+
+- Dental Implants guides on Fibula Surgical Guide
+
+![](fibulaSurgicalGuideWithDrillGuides0.png)
+
+![](fibulaSurgicalGuideWithDrillGuides1.png)
 
 # Background and References
 
