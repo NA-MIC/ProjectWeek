@@ -64,4 +64,5 @@ Once build is fixed and the in-VR widget is added, arbitrary UI elements of Slic
 # Background and References
 
 1. Commit that broke 3rd party module build [here](https://gitlab.kitware.com/vtk/vtk/-/commit/140f8d8bcd85cedd7ac996c806f984add70bb11d)
+2. Discussion on remote modules vs. external modules [here](https://discourse.vtk.org/t/remote-modules-vs-external-modules/2003)
 
