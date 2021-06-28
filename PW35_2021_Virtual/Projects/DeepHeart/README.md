@@ -36,14 +36,16 @@ Creation of a MONAILabel app for leaflet segmentation of heart valves in 3D echo
 
 ![image](https://user-images.githubusercontent.com/10195822/123651723-b77a3480-d7f9-11eb-889d-f7232dbda0a8.png)
 
+
 ### Slide 4
+
+![image](https://user-images.githubusercontent.com/10195822/123651929-dd073e00-d7f9-11eb-830b-2f5b940aa2cd.png)
+
+### Slide 5
 
 ![image](https://user-images.githubusercontent.com/10195822/123651802-ca8d0480-d7f9-11eb-9b0b-ce38a728fac9.png)
 
 
-### Slide 5
-
-![image](https://user-images.githubusercontent.com/10195822/123651929-dd073e00-d7f9-11eb-830b-2f5b940aa2cd.png)
 
 
 ### Slide 6
