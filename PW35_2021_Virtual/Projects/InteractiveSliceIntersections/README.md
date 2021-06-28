@@ -22,13 +22,13 @@ Details:
 - If we click on the rotation arrows and move the mouse, the 2 lines are rotated to keep the current angle (the user would need to move the mouse to get to these arrows providing the more advanced feature)
 - There is no distinction for the direction of the movement, both sides of the arrows allow to move in both directions
 - When the mouse goes close to the intersection center, the widget representation is different (circle at the center, 4 arrows ?) and we can translate both lines (like pressing Shift key)
-- When the mouse is over an handle it is highlighted
+- When the mouse is over a handle it is highlighted
 - When we click on the widget and start moving the mouse, the widget representation is hidden or made mostly transparent (not the lines) to see the underlying image
 - We would like to have access to some interaction events, like StartInteractionEvent, ModifiedEvent, EndInteractionEvent at least.
 
 A sketch is shown on the "Illustrations" section below.
 
-More information in this GitHub issue: https://github.com/Slicer/Slicer/issues/5544
+More information in this GitHub issue: [here](https://github.com/Slicer/Slicer/issues/5544) 
 
 ## Objective
 
@@ -61,5 +61,9 @@ More information in this GitHub issue: https://github.com/Slicer/Slicer/issues/5
 ![Interaction handles](Image_InteractiveSliceIntersections.png)
 
 # Background and References
+
+- GitHub issue: [here](https://github.com/Slicer/Slicer/issues/5544) 
+
+- Slicer branch: [here](https://github.com/dgmato/Slicer) 
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
