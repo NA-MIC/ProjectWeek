@@ -33,10 +33,8 @@ plugin. Then, it will be implemented in Slicer to be available for all users.
 1. ...
 
 # Illustrations
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+
+![Registration on real time with GPU](https://files.slack.com/files-pri/T010U73P79V-F0261NATZ4N/gpu-rigid-reg.gif)
 # Background and References
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 - http://ibisneuronav.org 
