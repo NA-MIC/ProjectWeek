@@ -6,6 +6,7 @@ This event will be held virtually June 28-July 2, 2021.
 
 - Number of Registered Attendees: 121
 - Projects: 28
+- All sessions except for work in project teams will happen on Zoom
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
