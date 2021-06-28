@@ -12,9 +12,6 @@ This event will be held virtually June 28-July 2, 2021.
 - The program includes optional introductory lectures (8-9:30 Tue-Wed-Thu) and breakout sessions (10-12 Tue-Wed-Thu), all happening on Zoom.
 - We will end the week with project results presentation. A member from each team will present their results in a maximum of 90 seconds minutes using project page as a visual support for the presentation, so please make sure it is up to date with your latest results by Friday morning.
 
-## History
-Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
-Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
 
 ## Logistics
 - **Dates:** June 28-July 2, 2021.
@@ -23,9 +20,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 ### Attendees
 - **Step 0**: **REGISTER** [here](https://forms.gle/evnWqMu4dnsx3Mei9)
 - **Step 1**: Sign-up on the **[discourse forum](https://discourse.slicer.org/c/community/project-week)** to get updates and ask questions.
-- **Step 2**: Add a **project title** and people names in [this Google document](https://docs.google.com/document/d/1_uxClJYt7eFU4LUrDxbhuGXE_5jspPXWbjOkFmr1fJc/edit?usp=sharing) (before Tuesday, June 15)
-- **Step 3**: Create a **project webpage** (see Projects section below) (before Tuesday June 22)
-- **Step 4** (optional): Join the **Discord** server to help prepare and work on your project: [Invite Link](https://discord.gg/5TC5H2g63e)
+- **Step 2** (optional): Join the **Discord** server to help prepare and work on your project: [Invite Link](https://discord.gg/5TC5H2g63e)
 
 
 ##  Agenda
@@ -224,3 +219,8 @@ List of registered participants so far (names will be added here after processin
 
 <img src="pw-registrants-country-stats-final.png" width="600" />
 -->
+
+   
+## History
+Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
+Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
