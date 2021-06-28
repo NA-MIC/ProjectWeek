@@ -52,6 +52,9 @@ The idea for the experiment is to develop a tool allowing to tag individual seri
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
+1. Work on more examples how to work with IDC.
+2. Work on tools to streamline preparation of data for analysis.
+
 **GBM series tagging experiment.**
 
 1. Explore the data overlap between the TCIA-GBM data used in the paper and the data in IDC
