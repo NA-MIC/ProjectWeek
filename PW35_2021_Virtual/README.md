@@ -4,7 +4,7 @@
 
 This event will be held virtually June 28-July 2, 2021.
 
-- Number of Registered Attendees: 121
+- Number of Registered Attendees: 121. 44% First Timers!
 - Projects: 28
 - All sessions except for work in project teams will happen on Zoom
 - Begin with the good old recipe of in-person Project Weeks. Each team delegates a member to present the project in a maximum of 90 seconds using the project page. Hope your project page is ready and any image you want to show is up there. There will not be enough time to share your screen, we will simply share your project page on the zoom session.
