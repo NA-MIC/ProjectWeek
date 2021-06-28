@@ -22,9 +22,9 @@ This event will be held virtually June 28-July 2, 2021.
   - It is recommended to hold a first meeting of the team on the voice channel of the project after project presentations on Monday. 
   - Please do everything you can to accommodate all team members in terms of schedule, especially the ones with family constraints living in time zones that are less favored by the schedule of Project Week.
 - The program includes optional introductory lectures (8-9:30 Tue-Wed-Thu) and breakout sessions (10-12 Tue-Wed-Thu), all happening on Zoom.
-- Tuesday: AI-assisted annotations (lectures), What’s new in Slicer and a QnA session that was very popular last year
-- Wednesday: Image Guided Surgery lectures and breakout session on the same topic
-- Thursday: Web-based tools lecture, and breakout session on Human Brain Atlases
+  - Tuesday: AI-assisted annotations (lectures), What’s new in Slicer and a QnA session that was very popular last year
+  - Wednesday: Image Guided Surgery lectures and breakout session on the same topic
+  - Thursday: Web-based tools lecture, and breakout session on Human Brain Atlases
 - We will end the week with project results presentation. A member from each team will present their results in a maximum of 90 seconds minutes using project page as a visual support for the presentation, so please make sure it is up to date with your latest results by Friday morning.
 
 
