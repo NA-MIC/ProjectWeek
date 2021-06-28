@@ -79,15 +79,21 @@ We would use VTK 9 as Slicer is planning on using it for its future launches, an
 
 # Illustrations 
 
- 
+Already existing QuadBuffer stereo mode in 3DSlicer 4.8, photo taken by phone so quadbuffered image can be seen as it is supposed to without glasses:  
+<img width="373" alt="IMG_20210628_112539" src="https://user-images.githubusercontent.com/76939787/123618437-7dfcf580-d808-11eb-8a39-c66edc125a32.jpg">
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. 
 
-![Description of picture](Example2.jpg) 
+Module created and tested before implemeting it to Slicer 4.13 using VTK 9 and QT 4.15, still taken by phone:  
+<img width="373" alt="IMG_20210628_112539" src="https://user-images.githubusercontent.com/76939787/123618384-70477000-d808-11eb-8b43-004ecffbfa42.jpg">
 
-![Some more images](Example2.jpg) 
+zSpace device:  
+<img width="373" alt="Automotive_Student" src="https://user-images.githubusercontent.com/76939787/123626158-cc15f700-d810-11eb-9ed2-9f15dba6386c.png">
 
---> 
+
+Pre-op module for trajectory planning, using PyDBS:  
+<img width="373" alt="image" src="https://user-images.githubusercontent.com/76939787/123618539-9836d380-d808-11eb-9009-bfe73d0657a4.jpeg">
+
+
 
  
 
@@ -97,5 +103,7 @@ We would use VTK 9 as Slicer is planning on using it for its future launches, an
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. --> 
 * [Paraview support for ZSpace](https://blog.kitware.com/zspace-device-support-coming-to-paraview/)
+* [Paraview plugin's repository](https://gitlab.kitware.com/paraview/paraview/-/tree/master/Plugins/ZSpace)
+* [Slicer/zSpace implementation 2013](https://fr.slideshare.net/zSpace/pieper-slicer-clinicalzspace20131021) 
 
  
