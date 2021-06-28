@@ -11,6 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - John Witt (Children's Hospital of Philadelphia, Philadelphia, PA, United States)
 - Sachidanand Alle (NVIDIA)
 - Prerna Dogra (NVIDIA)
+- Andrés Díaz-Pinto (King's College London, UK)
 
 # Project Description
 
