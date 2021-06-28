@@ -15,10 +15,6 @@ This event will be held virtually June 28-July 2, 2021.
 - We will end the week with project results presentation. A member from each team will present their results in a maximum of 90 seconds minutes using project page as a visual support for the presentation, so please make sure it is up to date with your latest results by Friday morning.
 
 
-## Logistics
-- **Dates:** June 28-July 2, 2021.
-- **Location:** THE INTERNET
-
 ### Attendees
 - **Step 0**: **REGISTER** [here](https://forms.gle/evnWqMu4dnsx3Mei9)
 - **Step 1**: Sign-up on the **[discourse forum](https://discourse.slicer.org/c/community/project-week)** to get updates and ask questions.
@@ -226,3 +222,7 @@ List of registered participants so far (names will be added here after processin
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
+
+## Logistics
+- **Dates:** June 28-July 2, 2021.
+- **Location:** THE INTERNET
