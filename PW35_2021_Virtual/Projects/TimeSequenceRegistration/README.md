@@ -46,8 +46,8 @@ tools to register patients' follow-up scans to their original planning CT scans 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-![Planning CT has excellent structure segmentation](four-up-planningCT.png)
-![No registration between successive scans](RegistrationProblem1.png)
+![Planning CT has excellent structure segmentation](https://data.kitware.com/api/v1/item/60d92be32fa25629b980f149/download?contentDisposition=inline)
+![No registration between successive scans](https://data.kitware.com/api/v1/item/60d92be52fa25629b980f151/download?contentDisposition=inline)
 
 ## Background and References
 
