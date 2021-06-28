@@ -32,10 +32,7 @@ The goal of this project is to enable the development of advanced 3D rendering t
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![Opacity Peeling](opacity-peeling.gif)
 
 # Background and References
 
