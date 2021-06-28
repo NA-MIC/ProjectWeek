@@ -8,7 +8,7 @@ This event will be held virtually June 28-July 2, 2021.
 - Number of Registered Attendees: 121. 44% First Timers! 
 - 23 countries. Bimodal Time Zone Distribution (UTC-4 and UTC+1)
 - Projects: 28
-- All sessions except for work in project teams will happen on Zoom
+- All sessions except for work in project teams will happen on Zoom.  Please see google calendar entries for links for both zoom and discord.
 - Begin with the good old recipe of in-person Project Weeks. Each team delegates a member to present the project in a maximum of 90 seconds using the project page. Hope your project page is ready and any image you want to show is up there. There will not be enough time to share your screen, we will simply share your project page on the zoom session.
 - Work in project teams will happen throughout the week. A Discord server has been set up with a voice/video channel and a text channel for every project on the main webpage. We will have a walkthrough of the discord server and project channels as the last project presentation today. You can use the channels to coordinate the work of your team. It is recommended to hold a first meeting of the team on the voice channel of the project after project presentations on Monday. Please do everything you can to accommodate all team members in terms of schedule, especially the ones with family constraints living in time zones that are less favored by the schedule of Project Week.
 - The program includes optional introductory lectures (8-9:30 Tue-Wed-Thu) and breakout sessions (10-12 Tue-Wed-Thu), all happening on Zoom.
