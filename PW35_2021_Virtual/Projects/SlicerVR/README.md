@@ -26,6 +26,11 @@ Once build is fixed and the in-VR widget is added, arbitrary UI elements of Slic
 1. Add interactive Qt panel to VR scene [SlicerVR#43](https://github.com/KitwareMedical/SlicerVirtualReality/issues/43)
 1. Make use of the in-VR widget via laser pointer and VR-optimized widgets
 
+## Questions
+
+1. Will vtkOpenVR source stay in VTK?
+2. Will we create a repository that contains CMake to build VTKRenderingOpenVR as a downstream project (but source is still in VTK)?
+
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
