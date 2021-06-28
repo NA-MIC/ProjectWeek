@@ -8,7 +8,7 @@ This event will be held virtually June 28-July 2, 2021.
 - **121** Registered Attende. **44%** First Timers! 
 - **23** countries. 
   - Bimodal Time Zone Distribution (UTC-4 and UTC+1.
-- **28** Projects. 
+- **29** Projects. 
 - All sessions except for work in project teams will happen on Zoom.  Please see google calendar entries for links for both zoom and discord.
 - Begin with the good old recipe of in-person Project Weeks. 
   - Each team delegates a member to present the project in a maximum of 90 seconds using the project page. 
