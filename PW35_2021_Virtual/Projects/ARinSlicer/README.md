@@ -10,7 +10,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Lucas Gandel (Kitware, France)
 - Adam Rankin (Robarts Research Institute / Western University, Canada)
 - Jean-Christophe Fillion-Robin (Kitware, USA)
+- Mónica García-Sevilla (Universidad de Las Palmas de Gran Canaria , Gran Canaria , Spain)
 - Houssem Gueziri
+
 
 # Project Description
 
