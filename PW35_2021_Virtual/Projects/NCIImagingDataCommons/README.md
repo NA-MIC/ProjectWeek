@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Andrey Fedorov (Brigham and Women's Hospital, Boston)
 - Markus Herrmann (Mass General Hospital, Boston)
-- Theodore Aptekarev ()
+- Theodore Aptekarev (Independent)
 - Steve Pieper (Isomics Inc)
 - Ron Kikinis (Brigham and Women's Hospital, Boston)
 
