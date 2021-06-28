@@ -20,8 +20,8 @@ Review of available IGT tutorials to develop training material for French-speaki
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Unification of the existing training materials
-1. Objective B. Update to current software versions
+1. Objective A. Recopilation of the existing training materials
+1. Objective B. Revision of the training material: current software versions
 
 ## Approach and Plan
 
@@ -29,7 +29,8 @@ Review of available IGT tutorials to develop training material for French-speaki
 
 1. List of available tutorials and training resources
 1. Review of the adequacy of these contents to the current versions.
-1. Translation into French
+1. A new pedagogical approach
+1. Create training material in french
 
 ## Progress and Next Steps
 
