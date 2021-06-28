@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Simon Leonard (Johns Hopkins University)
 - Mark Fuge (University of Maryland)
 - Lydia Al-Zogbi (Johns Hopkins University)
+- Milad Habibi (University of Maryland)
 - Pedro Moreira (Brigham and Women's Hospital)
 
 # Project Description
@@ -41,13 +42,13 @@ transition to the new ROS platform (ROS2).
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Test ROS2 as a potential platform for our study on image-guided model-driven needle placement robot.
+1. Objective A. Explore ROS2 as a potential platform for our study on image-guided model-driven needle placement robot.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Run ROS2 with a universal robot arm (UR-10) at JHU.
+1. Run ROS2 on a universal robot arm (UR-10) at JHU.
 1. Prototype a new version of ROS-IGTL-Bridge
 1. Display a 3D model of the UR-10 on 3D Slicer, and synchronize its posture with the robot by sending the transform of each link.
  
@@ -55,9 +56,17 @@ transition to the new ROS platform (ROS2).
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. First meeting (1:00pm on Discord)
+  - Participants: Tamas, Junichi Pedro
+  - 
+1. Kick-off meeting (2:30pm on Discord)
+  - Participants: Tamas, Lydia, Junichi, Simon
+  - Confirm the goal of the project
+  - Breakdown the tasks
+    - Prototype ROS-IGTL-Bridge (Junichi)
+    - Setup a remote environment for the the UR-10 computer at Dr. Krieger's lab at JHU
+    - Install ROS2 on the UR-10 computer remotely
+1. Review the progress (Planned - Wednesday)
 
 # Illustrations
 
