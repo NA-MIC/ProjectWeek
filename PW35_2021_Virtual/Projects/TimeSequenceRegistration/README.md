@@ -52,3 +52,4 @@ tools to register patients' follow-up scans to their original planning CT scans 
 ## Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+![Registration tools added to Project-MONAI]/(https://github.com/Project-MONAI/tutorials/blob/master/3d_registration/paired_lung_ct.ipynb)
