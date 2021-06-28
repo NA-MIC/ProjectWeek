@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - MSc. Mauro I. Dominguez
 - Dr. Manjula Herath
+- PhD. Andras Lasso
 
 # Project Description
 
