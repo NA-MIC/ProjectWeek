@@ -4,12 +4,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Nayra Pumar (Ebatinca, Las Palmas de Gran Canaria)
-- Mohamed El Moctar Septy (Univ. Al Aasriya, Nuakchot)
-- Yahya Tfeil (Univ. Al Aasriya, Nuakchot)
-- Asmaa Skareb (Ebatinca, Las Palmas de Gran Canaria)
-- Marilola Afonso (Universidad de Las Palmas de Gran Canaria)
-- Juan Ruiz Alzola (Universidad de Las Palmas de Gran Canaria)
+- Nayra Pumar (Ebatinca, Las Palmas de Gran Canaria, Spain)
+- Mohamed El Moctar Septy (Univ. Al Aasriya, Nuakchot, Mauritania)
+- Yahya Tfeil (Univ. Al Aasriya, Nuakchot, Mauritania)
+- Freddy Gnangnon (The National University of Benin, Cotonou, Benin)
+- Asmaa Skareb (Ebatinca, Las Palmas de Gran Canaria, Spain)
+- Marilola Afonso (Universidad de Las Palmas de Gran Canaria, Spain)
+- Juan Ruiz Alzola (Universidad de Las Palmas de Gran Canaria, Spain)
 
 # Project Description
 
