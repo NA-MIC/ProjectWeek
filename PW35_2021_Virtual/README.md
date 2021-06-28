@@ -83,7 +83,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ### Deep learning and segmentation
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (Matthew Jolley, Christian Herz, Danielle F. Pace, Andras Lasso)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/README.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
-1. [Integration of PyTorch and Slicer](Projects/PyTorchIntegration/README.md) (Fernando Pérez-García, Andrés Díaz-Pinto, Andras Lasso, Curtis Lisle, Rebecca Hisey, Steve Pieper)
+1. [Integration of PyTorch and Slicer](Projects/PyTorchIntegration/README.md) (Fernando Pérez-García, Andrés Díaz-Pinto, Andras Lasso, Curtis Lisle, Rebecca Hisey, Steve Pieper, Tamas Ungi)
 1. [Development of Deep Learning Segmentation for Spines with Metastatic Disease](Projects/SpineSegmentation/README.md) (Ron Alkalay, Curtis Lisle, Andres Diaz-Pinto)
 1. [Development of Deep Learning Based Brain Masking](Projects/CNN_Brain_Masking/README.md) (Raymond Yang, Lipeng Ning, Yogesh Rathi, Steve Pieper, Loraine Franke, Daniel Haehn)
 1. [Deep Learning for Subcortical Brain Segmentation](Projects/DeepLearningforSubcorticalBrainSegmentation/README.md) (Jarrett Rushmore, Elizabeth Kenneally, Sylvain Bouix, Kyle Sunderland, Nikos Makris)

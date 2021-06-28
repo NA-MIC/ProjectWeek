@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Curtis Lisle (KnowledgeVis, USA)
 - Rebecca Hisey (Queen's University, Canada)
 - Steve Pieper (Isomics)
+- Tamas Ungi (Queen's University, Canada)
 
 # Project Description
 
