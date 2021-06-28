@@ -67,3 +67,5 @@ In order to achieve higher accuracy of the atlases registration to patient space
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+- [https://github.com/netstim/SlicerNetstim](https://github.com/netstim/SlicerNetstim)
