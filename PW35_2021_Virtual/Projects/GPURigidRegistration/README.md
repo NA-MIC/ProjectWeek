@@ -34,7 +34,7 @@ plugin. Then, it will be implemented in Slicer to be available for all users.
 
 # Illustrations
 
-![Registration on real time with GPU](https://files.slack.com/files-pri/T010U73P79V-F0261NATZ4N/gpu-rigid-reg.gif)
+![Registration on real time with GPU](https://github.com/NA-MIC/ProjectWeek/blob/master/PW35_2021_Virtual/Projects/GPURigidRegistration/gpu-rigid-reg.gif?raw=true)
 # Background and References
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 - http://ibisneuronav.org 
