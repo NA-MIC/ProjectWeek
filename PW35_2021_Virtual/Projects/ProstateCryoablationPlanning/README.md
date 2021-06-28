@@ -24,9 +24,9 @@ Currently, physicians rely on the pre and intraoperative images and their own ex
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Change the current module to work with Slcier 4.11
+1. Implement optimization algorithm considering the constraints of the template approach
+1. Test the algorithm with retrospective data
 
 ## Progress and Next Steps
 
