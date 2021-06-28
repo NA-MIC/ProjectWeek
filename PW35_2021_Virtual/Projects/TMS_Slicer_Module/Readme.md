@@ -13,12 +13,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 Develop a deep-learning powered software for real-time E-Field prediction and visualization in 3D Slicer.
-[!Visualization Process](./visualization_process.png)
+![Visualization Process](./visualization_process.png)
 
 ## Objective
 
 Real-time visualization of an E-field for transcranial magnetic stimulation (TMS) on the brain surface as well as visualizing an E-field along fiber bundles (DTI).
-[!Brain surface and DT](./tmsonbrain.png)
+![Brain surface and DT](./tmsonbrain.png)
 
 ## Approach and Plan
 
