@@ -71,26 +71,23 @@ The idea for the experiment is to develop a tool allowing to tag individual seri
 * [IDC Portal](https://imaging.datacommons.cancer.gov/) can be used to explore the data available in IDC and buid and save cohorts ![IDC Portal](https://user-images.githubusercontent.com/313942/123643716-ada10300-d7f2-11eb-8500-2232618ab751.png)
 * See any of the studies from IDC collections in IDC Viewer, build Viewer URL by referencing DICOM UIDs, e.g., https://viewer.imaging.datacommons.cancer.gov/viewer/1.3.6.1.4.1.32722.99.99.239341353911714368772597187099978969331 ![IDC Viewer](https://user-images.githubusercontent.com/313942/123644439-61a28e00-d7f3-11eb-8da3-68f939fe0de6.png)
 * Search all of the DICOM metadata from IDC collections using SQL or DataStudio (as in [this template](https://datastudio.google.com/reporting/ab96379c-e134-414f-8996-188e678f1b70/page/KHtxB/preview)) ![DataStudio](https://user-images.githubusercontent.com/313942/123644907-d37ad780-d7f3-11eb-9654-fed2b13366da.png)
-* Access DICOM files defined as IDC cohort or as an SQL query from IDC collections from Google Colab notebook or VM with the following steps (you can get free GCP credits from IDC, which will give you the GCP project ID to use in the commands below):
- * authenticate with Google
+* Access DICOM files defined as IDC cohort or as an SQL query from IDC collections from Google Colab notebook or VM with the following steps (you can get free GCP credits from IDC, which will give you the GCP project ID to use in the commands below) - from example Colab notebook [here](https://github.com/ImagingDataCommons/IDC-Examples/blob/master/notebooks/Cohort_download.ipynb):
 ```
+# authenticate with Google
 from google.colab import auth
 auth.authenticate_user()
-```
- * retrieve the cohort content run a direct SQL query against IDC DICOM metadata table
-```
+
+# retrieve the cohort content run a direct SQL query against IDC DICOM metadata table
 %%bigquery --project=$<my_GCP_project_ID> cohort_df
 
 SELECT * 
 FROM `<my_cohort_BQ_table>`
-```
- * save the manifest as text file on the VM:
-```
+
+# save the manifest as text file on the VM:
 cohort_df = cohort_df.join(cohort_df["gcs_url"].str.split('#', 1, expand=True).rename(columns={0:'gcs_url_no_revision', 1:'gcs_revision'}))
 cohort_df["gcs_url_no_revision"].to_csv("gcs_paths.txt", header=False, index=False)
-```
- * retrieve the DICOM files corresponding to the cohort manifest
-```
+
+# retrieve the DICOM files corresponding to the cohort manifest
 !mkdir downloaded_cohort
 !cat gcs_paths.txt | gsutil -u <my_GCP_project_ID> -m cp -I ./downloaded_cohort
 ```
