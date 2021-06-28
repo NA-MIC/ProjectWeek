@@ -39,3 +39,7 @@ The goal of this project is to enable the development of advanced 3D rendering t
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 - PRISM Module [GitHub repository](https://github.com/ETS-vis-interactive/SlicerPRISMRendering).
 - [Original article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193636) about the PRISM framework that served as a basis to develop the PRISM module in Slicer
+- Previous project weeks
+  - https://projectweek.na-mic.org/PW30_2019_GranCanaria/Projects/GLSLShaders/
+  - https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/MultiVolumeRendering/
+  - 
