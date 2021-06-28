@@ -1,14 +1,14 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Real-time visualization and precision targeting in transcranial magnetic stimulation (TMS)
+# Real-time visualization in transcranial magnetic stimulation (TMS)
 
 ## Key Investigators
 
 - Loraine Franke (University of Massachusetts Boston)
 - Lipeng Ning (BWH & Harvard Medical School)
-- Daniel Haehn (University of Massachusetts Boston)
 - Yogesh Rathi (BWH & Harvard Medical School)
 - Steve Pieper (Isomics, Inc.)
+- Daniel Haehn (University of Massachusetts Boston)
 
 # Project Description
 
