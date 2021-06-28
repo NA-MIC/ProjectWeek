@@ -25,6 +25,30 @@ Creation of a MONAILabel app for leaflet segmentation of heart valves in 3D echo
 1. Creation of a MONAILabel app
 2. Bring own UI elements as FCN will need additional user input
 
+### Slide 1
+![image](https://user-images.githubusercontent.com/10195822/123651558-91ed2b00-d7f9-11eb-9016-41229ad7f416.png)
+
+### Slide 2
+![image](https://user-images.githubusercontent.com/10195822/123651594-9addfc80-d7f9-11eb-8f54-f15cba237a1f.png)
+
+### Slide 3
+
+![image](https://user-images.githubusercontent.com/10195822/123651723-b77a3480-d7f9-11eb-889d-f7232dbda0a8.png)
+
+### Slide 4
+
+![image](https://user-images.githubusercontent.com/10195822/123651802-ca8d0480-d7f9-11eb-9b0b-ce38a728fac9.png)
+
+
+### Slide 5
+
+![image](https://user-images.githubusercontent.com/10195822/123651929-dd073e00-d7f9-11eb-830b-2f5b940aa2cd.png)
+
+
+### Slide 6
+
+![image](https://user-images.githubusercontent.com/10195822/123651978-e5f80f80-d7f9-11eb-973b-b7e6a8f377d4.png)
+
 
 ## Approach and Plan
 
