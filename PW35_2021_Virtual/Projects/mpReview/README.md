@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Aytek Oto (U.Chicago)
 - Andras Lasso (Queen's)
 - Fiona Fennessy (BWH)
+- Christian Herz (?) (CHOP)
 
 ## Project Description
 
