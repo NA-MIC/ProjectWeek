@@ -81,6 +81,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Marklerless Tracking for Low-Cost neuronavigation for TMS](Projects/MarkerlessTrackingWithRGBDCamerasForLowCostNeuronavigation/README.md) (Julie Alvarez (Neurotrauma Center), Gabriel Vargas Grau (Universidad de Santander), Juan Camilo Gamboa (Mc Gill University), Andrés Gamboa (Neurotrauma/Universidad Politécnica de Valencia/))
 1. [IGT Equipment for ReUse](https://docs.google.com/spreadsheets/d/1MNkcZFz4GulkjOL4V5PYLzRwrgUT3rNB_mnKSHBq7aw/edit?usp=sharing) (Tina Kapur, Gabor Fichtinger, +)
 1. [OpenIGTLink](Projects/OpenIGTLink/README.md) (Junichi Tokuda)
+1. [US-CT Vertebra Registration](Projects/US_CT_VertebraRegistration) (Houssem Gueziri, Tamas Ungi)
     
 ### Deep learning and segmentation
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (Matthew Jolley, Christian Herz, Danielle F. Pace, Andras Lasso)
