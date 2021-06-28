@@ -26,20 +26,16 @@ Once build is fixed and the in-VR widget is added, arbitrary UI elements of Slic
 1. Add interactive Qt panel to VR scene [SlicerVR#43](https://github.com/KitwareMedical/SlicerVirtualReality/issues/43)
 1. Make use of the in-VR widget via laser pointer and VR-optimized widgets
 
-## Questions
-
-1. Will vtkOpenVR source stay in VTK?
-2. Will we create a repository that contains CMake to build VTKRenderingOpenVR as a downstream project (but source is still in VTK)?
-
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Update SlicerVR CMake files to build with VTK9
     1. Until a final design for supporting remote modules in VTK is decided, we will build VTKRenderingOpenVR from a separate repository
-    1. Extract the said module from VTK proper with history (JC)
-    1. Change main CMake file to use this instead of the VTK remote module approach (Adam?)
-    1. Fix build issues arising from the switch to VTK9 in SlicerVR (Csaba?)
+        1. Repository [here](https://github.com/Slicer/SlicerVTKOpenVR)
+    3. Extract the said module from VTK proper with history (JC)
+    4. Change main CMake file to use this instead of the VTK remote module approach (Adam?)
+    5. Fix build issues arising from the switch to VTK9 in SlicerVR (Csaba?)
 1. Try [vtkQWidgetWidget](https://vtk.org/doc/nightly/html/classvtkQWidgetWidget.html) in SlicerVR, confirm that it now works (Csaba)
 1. Explore existing possibilities for using a laser pointer emanating from the controllers to control the Qt-based widget (press, click, drag&drop, etc) (?)
 1. Add the already implemented but dormant VR-optimized widgets in the SlicerVR user interface (Csaba)
