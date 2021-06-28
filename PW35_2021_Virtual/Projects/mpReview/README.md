@@ -30,7 +30,8 @@ In the past we have developed mpReview extension to streamline the manual annota
 
 1. Evaluate current status of the module wrt the preview release of Slicer.
 2. Document the workflow and desired features of the annotation module.
-3. Identify next stes.
+3. Identify next steps.
+4. Revisit the [Slicer PI-RADS module](https://github.com/SlicerProstate/SlicerPIRADS) (WIP years ago)
 
 ## Progress and Next Steps
 
