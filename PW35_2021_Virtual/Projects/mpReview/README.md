@@ -14,6 +14,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Project Description
 
+**WE ARE HIRING - see [job opportunities here](https://spl.harvard.edu/join-us) if interested!**
+
 In the past we have developed mpReview extension to streamline the manual annotation workflow of multiparametric MRI studies, designed specifically for prostate MRI annotation initially. The extension proved useful over time, and was utilized to support annotation of prostate MRI at BWH and U.Chicago. Over the recent years we were not able to maintain this extension to keep up to date with 3D Slicer upgrades. However, currently there is renewed interest in reviving and perhaps rewriting this extension, as it serves a need not addressed by any other capability in Slicer, or in commercial tools. The goal of this project is to evaluate the current status of the extension, collect the requirement and identify next steps for its development.
 
 ## Objective
