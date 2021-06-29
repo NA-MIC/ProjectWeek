@@ -36,10 +36,20 @@ Review of available IGT tutorials to develop training material for French-speaki
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+After reviewing and testing existing IGT introductory tutorials, we decided to use a different approach: more oriented to the line already followed in the training materials used for African countries, where the more technical contents appear later, once the basic skills have already been acquired. It is a more "learn by doing" approach, where the user is guided through an example and then all the technical background behind it is explained.
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+This introduction to IGT is also designed to be accessible to all users, so that specific equipment (such as tracking devices, ultrasound scanners, etc.) is dispensed with from the outset and a first practical case is presented using a webcam and optical markers from the Aruco library.
+
+The steps/chapters for this training program would be:
+
+1. Installation of 3DSlicer and Plus modules.
+1. Operation of the modules to be used in the work with IGT.
+1. Creation of synthetic scenes in 3DSlicer: drawing of elements, importing of elements.
+1. Linear transformations: basics and definition in 3DSlicer.
+1. Plus configuration
+1. First case study: connect the webcam with 3DSlicer via Plus
+1. Second case study: use of Aruco markers
+1. Playback of recorded scenes with Plus
 
 # Illustrations
 
