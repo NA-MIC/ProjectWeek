@@ -55,8 +55,11 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 </script>
 
 [How to add this calendar to your own?](../common/Calendar.md)
-
+    
 <a name="ProjectsList"/>
+    
+## Breakout sessions complementary material
+[MONAI introductory presentation](https://drive.google.com/file/d/1haqTUNLGVeE0V-qBVuuFqIhKXZFpkBAf/view) (Wenqi Li, NVidia)
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 ### VR/AR and Rendering
