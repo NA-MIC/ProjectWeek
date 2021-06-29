@@ -34,7 +34,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 1. dcmjs already hsa full implementation for Length and Bidirectional
 1. aimapi has the draft implementation on for the conversion of AIM to DICOM-SR and back
-1. ...
+1. Got test data from Andrey ([https://www.dropbox.com/s/98rylgt25b2sm9r/planar_annotations.zip?dl=0]). 
+- The sample has 1 prostate, one lung.
+- They have SCOORD and SCOORD3D instead of measurements to identify polyline and point respectively. dcmjs support is dependent on the measurement existance
+- for point dcmjs point object expects a CONTAINS:NUM:center => inferred from: SCOOR3D: point structure, whereas the sample point has CONTAINS:SCOORD3D:Image Region
+- for polyline (bounding box), dcmjs has no measurement support implemented for freehand. biridectional implemetation is like CONTAINS:NUM:LongAxis => INFERRED FROM: SCOORD: POLYLINE whereas the sample has CONTAINS:COORD:Image Region=POLYLINE => SELECTED FROM: IMAGE
 
 # Illustrations
 
