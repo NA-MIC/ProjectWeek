@@ -31,8 +31,7 @@ Once build is fixed and the in-VR widget is added, arbitrary UI elements of Slic
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Update SlicerVR CMake files to build with VTK9
-    1. Until a final design for supporting remote modules in VTK is decided, we will build VTKRenderingOpenVR from a separate repository
-        1. Repository [here](https://github.com/Slicer/SlicerVTKOpenVR)
+    1. Utilize new VTKExternalModule infrastructure to build vtk openvr rendering
     3. Extract the said module from VTK proper with history (JC)
     4. Change main CMake file to use this instead of the VTK remote module approach (Adam?)
     5. Fix build issues arising from the switch to VTK9 in SlicerVR (Csaba?)
@@ -65,4 +64,4 @@ Once build is fixed and the in-VR widget is added, arbitrary UI elements of Slic
 2. Discussion on remote modules vs. external modules [here](https://discourse.vtk.org/t/remote-modules-vs-external-modules/2003)
 3. How to make downstream VTK modules [here](https://discourse.vtk.org/t/example-of-vtk-module-built-after-vtk-is-built/6099)
     1. Links to example [here](https://gitlab.kitware.com/vtk/vtk/-/tree/master/Examples/Build/vtkMy)
-
+4. [https://github.com/KitwareMedical/VTKExternalModule](https://github.com/KitwareMedical/VTKExternalModule)
