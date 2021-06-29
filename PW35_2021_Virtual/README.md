@@ -59,8 +59,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 <a name="ProjectsList"/>
     
 ## Breakout sessions complementary material
-[MONAI introductory presentation](https://drive.google.com/file/d/1haqTUNLGVeE0V-qBVuuFqIhKXZFpkBAf/view) (Wenqi Li, NVidia)
-[MONAI Label introductory presentation](https://docs.google.com/presentation/d/1FYv23AbFPloTKcsTrP75bKI1XStULVlUSI6ZF3VCp-Y/edit?usp=sharing) (Andres Diaz-Pinto, UKL)
+* [MONAI introductory presentation](https://drive.google.com/file/d/1haqTUNLGVeE0V-qBVuuFqIhKXZFpkBAf/view) (Wenqi Li, NVidia)
+* [MONAI Label introductory presentation](https://docs.google.com/presentation/d/1FYv23AbFPloTKcsTrP75bKI1XStULVlUSI6ZF3VCp-Y/edit?usp=sharing) (Andres Diaz-Pinto, UKL)
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 ### VR/AR and Rendering
