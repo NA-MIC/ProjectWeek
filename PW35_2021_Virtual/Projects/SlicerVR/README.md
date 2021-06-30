@@ -66,3 +66,4 @@ Once build is fixed and the in-VR widget is added, arbitrary UI elements of Slic
 3. How to make downstream VTK modules [here](https://discourse.vtk.org/t/example-of-vtk-module-built-after-vtk-is-built/6099)
     1. Links to example [here](https://gitlab.kitware.com/vtk/vtk/-/tree/master/Examples/Build/vtkMy)
 4. [https://github.com/KitwareMedical/VTKExternalModule](https://github.com/KitwareMedical/VTKExternalModule)
+5. VR virtual widget branch [here](https://github.com/cpinter/SlicerVirtualReality/tree/virtual-widget)
