@@ -60,7 +60,7 @@ For kirschner wires planning on DeformityCorrectionOsteotomyPlanner:
 ![Some more images](Example2.jpg)
 -->
 
-## Achieved till now
+## Achieved till the start of Project Week
 
 - Mandibular Reconstruction Virtual Surgical Planning:
 
