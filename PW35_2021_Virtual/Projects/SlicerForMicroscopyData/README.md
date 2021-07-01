@@ -44,6 +44,9 @@ in order to eliminate the need for any external software.
 ![Some more images](Example2.jpg)
 -->
 
+[Loading text file]("load text files box.PNG")
+[Result of loading text file]("load text files p2.PNG")
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
