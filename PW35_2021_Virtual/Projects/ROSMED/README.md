@@ -67,7 +67,7 @@ transition to the new ROS platform (ROS2).
     - Setup a remote environment for the the UR-10 computer at Dr. Krieger's lab at JHU
     - Install ROS2 on the UR-10 computer remotely
 1. First implementation of ROS2-OpenIGTLink bridge
-[![ROS2 OpenIGTLink demo]({https://www.dropbox.com/s/sq5amxkrfjvmvaz/ros2_igtl_bridge_July_1_2021.mov?dl=0})]({https://www.dropbox.com/s/sq5amxkrfjvmvaz/ros2_igtl_bridge_July_1_2021.mov?dl=0} "ros2_igtl_bridge")
+[[ROS2 OpenIGTLink demo](https://www.dropbox.com/s/sq5amxkrfjvmvaz/ros2_igtl_bridge_July_1_2021.mov?dl=0})
  
 
 # Illustrations
