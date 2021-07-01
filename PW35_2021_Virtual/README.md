@@ -55,13 +55,13 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 </script>
 
 [How to add this calendar to your own?](../common/Calendar.md)
-    
+
 <a name="ProjectsList"/>
-    
+
 ## Breakout sessions complementary material
 * [What's new in Slicer](https://docs.google.com/presentation/d/19LIMkLDmTmuJoA-5CFNjWNosoAYB4OoyvyUNryurMSE/edit?usp=sharing)(Andras Lasso, Jean-Christophe Fillion-Robin, Sam Horvath, Steve Pieper)
 * [MONAI introductory presentation](https://drive.google.com/file/d/1haqTUNLGVeE0V-qBVuuFqIhKXZFpkBAf/view) (Wenqi Li, NVidia)
-* [MONAI Label introductory presentation](https://docs.google.com/presentation/d/1FYv23AbFPloTKcsTrP75bKI1XStULVlUSI6ZF3VCp-Y/edit?usp=sharing) (Andres Diaz-Pinto, UKL)
+* [MONAI Label introductory presentation](https://docs.google.com/presentation/d/1FYv23AbFPloTKcsTrP75bKI1XStULVlUSI6ZF3VCp-Y/edit?usp=sharing) (Andrés Díaz-Pinto, KCL)
 * [DICOM Overview](supplementary-material/DICOM-Overview.pdf) (Steve Piper)
 * [OHIF v3 and a glance into Cornerstone 3D](https://docs.google.com/presentation/d/1KYNjuiI8lT1foQ4P9TGNV0lBhM6H-5KBs0wkYj4JJbk/edit?usp=sharing) (Erik Ziegler, Alireza Sedghi)
 * [NCI Data Commons](https://docs.google.com/presentation/d/1-_oHDbYqArylwF2K2aAy1mD0-C0F9gu-UFvJ8lpDWS4/edit?usp=sharing) (Andrey Fedorov)
@@ -76,7 +76,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Interactive Slice Intersections](Projects/InteractiveSliceIntersections/README.md) (David García-Mato, Kyle Sunderland, Csaba Pinter)
 1. [VR for Birth Delivery Training](Projects/VRBirthDeliveryTraining/README.md) (Mónica García-Sevilla, David García-Mato, Abián Hernández-Guedes, Juan Ruiz Alzola, Javier Pascau, Nayra Pumar, Csaba Pinter)
 1. [VR display plugin for PyDBS using a zSpace device](Projects/VRDisplayPluginForPyDBSUsingZspace/README.md) (Marine Camba, Sara Fernandez Vidal, Sinan Haliyo)
-    
+
 ### IGT
 1. [NousNav](Projects/NousNav/README.md) (Alexandra Golby, Sam Horvath, Sarah Frisken, David Allemang, Tina Kapur, Steve Pieper, Jean-Christophe Fillion-Robin, Sonia Pujol)
 1. [DBS Navigation](Projects/DBSNavigation/README.md) (Simon Oxenford)
@@ -90,7 +90,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [IGT Equipment for ReUse](https://docs.google.com/spreadsheets/d/1MNkcZFz4GulkjOL4V5PYLzRwrgUT3rNB_mnKSHBq7aw/edit?usp=sharing) (Tina Kapur, Gabor Fichtinger, +)
 1. [OpenIGTLink](Projects/OpenIGTLink/README.md) (Junichi Tokuda)
 1. [US-CT Vertebra Registration](Projects/US_CT_VertebraRegistration) (Houssem Gueziri, Tamas Ungi)
-    
+
 ### Deep learning and segmentation
 1. [DeepHeart MONAILabel integration](Projects/DeepHeart/README.md) (Matthew Jolley, Christian Herz, Danielle F. Pace, Andras Lasso)
 1. [Registration for Deep Learning](Projects/TimeSequenceRegistration/README.md) (Curtis Lisle, Neha Goyal, Greg Sharp)
@@ -99,7 +99,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Development of Deep Learning Based Brain Masking](Projects/CNN_Brain_Masking/README.md) (Raymond Yang, Lipeng Ning, Yogesh Rathi, Steve Pieper, Loraine Franke, Daniel Haehn)
 1. [Deep Learning for Subcortical Brain Segmentation](Projects/DeepLearningforSubcorticalBrainSegmentation/README.md) (Jarrett Rushmore, Elizabeth Kenneally, Sylvain Bouix, Kyle Sunderland, Nikos Makris)
 1. [Time-Series Segmentation Module](Projects/Time-Series%20Segmentation%20Module/README.md)(Rebecca Hisey, Tamas Ungi, Andras Lasso, Andres Diaz-Pinto, Tina Kapur)
-    
+
 ### Cloud, open data and annotation
 1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper, Curt Lisle, Andrey Fedorov)
 1. [NCI Imaging Data Commons](Projects/NCIImagingDataCommons/README.md) (Andrey Fedorov, Markus Herrmann, Theodore Aptekarev, Steve Pieper, Ron Kikinis)
