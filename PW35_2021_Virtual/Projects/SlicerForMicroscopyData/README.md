@@ -44,8 +44,8 @@ in order to eliminate the need for any external software.
 ![Some more images](Example2.jpg)
 -->
 
-![Loading text file](load text files box.PNG)
-![Result of loading text file](load text files p2.PNG)
+![load text files box](https://user-images.githubusercontent.com/21988487/124183446-3daaab00-da86-11eb-9de0-05010474ebe1.PNG)
+![load text files p2](https://user-images.githubusercontent.com/21988487/124183494-4ef3b780-da86-11eb-81ea-cef6eb9ae278.PNG)
 
 # Background and References
 
