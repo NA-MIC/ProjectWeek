@@ -49,9 +49,9 @@ For kirschner wires planning on DeformityCorrectionOsteotomyPlanner:
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. New code available at [DentalImplantsBranch](https://github.com/SlicerIGT/SlicerBoneReconstructionPlanner/tree/DentalImplantsBranch) of BoneReconstructionPlanner project.
+1. Dental Implants Surgical Planning.
+1. Corresponding Drill Guides on Fibula Surgical Guides.
 
 # Illustrations
 
@@ -85,6 +85,12 @@ For kirschner wires planning on DeformityCorrectionOsteotomyPlanner:
 ![](fibulaSurgicalGuideWithDrillGuides0.png)
 
 ![](fibulaSurgicalGuideWithDrillGuides1.png)
+
+## Achieved on Project Week
+
+- Dental Implant Planning for reconstructed mandible and Drill Guides on the Fibula Surgical Guide
+
+![](dentalImplantsPlanningOnBoneReconstructionPlanner.png)
 
 # Background and References
 
