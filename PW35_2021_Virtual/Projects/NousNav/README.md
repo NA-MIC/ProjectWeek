@@ -48,6 +48,9 @@ During the project week, we aim to present the project and identify a specific n
 1. ...
 
 
+| Click on the image below to see the video |
+|----|
+|[![](./2021.07.01_NousNav-Demo-Video.png)](https://drive.google.com/file/d/1cfWCd2-31rGxKGYWsacnr5M6aInSOAty/view?usp=sharing) |
 
 
 # Illustrations
