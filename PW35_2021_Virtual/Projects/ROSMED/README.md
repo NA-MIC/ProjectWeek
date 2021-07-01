@@ -66,7 +66,9 @@ transition to the new ROS platform (ROS2).
     - Prototype ROS-IGTL-Bridge (Junichi)
     - Setup a remote environment for the the UR-10 computer at Dr. Krieger's lab at JHU
     - Install ROS2 on the UR-10 computer remotely
-1. Review the progress (Planned - Wednesday)
+1. First implementation of ROS2-OpenIGTLink bridge
+[![ROS2 OpenIGTLink demo]({image-url})]({https://www.dropbox.com/s/sq5amxkrfjvmvaz/ros2_igtl_bridge_July_1_2021.mov?dl=0} "ros2_igtl_bridge")
+ 
 
 # Illustrations
 
@@ -77,6 +79,8 @@ transition to the new ROS platform (ROS2).
 
 # Background and References
 - Frank T, Krieger A, Leonard S, Patel NA, Tokuda J. ROS-IGTL-Bridge: an open network interface for image-guided therapy using the ROS environment. Int J Comput Assist Radiol Surg. 2017 Aug;12(8):1451-1460. doi: 10.1007/s11548-017-1618-1. Epub 2017 May 31. PMID: 28567563; [PMCID: PMC5543207](https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pmc/articles/PMC5543207/).
+- [ROS-IGTL-Bridge (for ROS 1)](https://github.com/openigtlink/ROS-IGTL-Bridge)
+- [ros2_igtl_bridge (for ROS 2)](https://github.com/tokjun/ros2_igtl_bridge)
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
 # Acknowledgement
