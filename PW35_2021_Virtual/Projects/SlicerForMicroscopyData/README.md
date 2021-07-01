@@ -33,9 +33,9 @@ in order to eliminate the need for any external software.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Added button to module that opens the user's file explorer for them to select the text file(s) to be imported
+1. Doing this just points to the file's location on the computer rather than opening the file in Slicer (which is what slows it down)
+1. Data from the files are obtained by parsing through each line and generating the corresponding image arrays, which are then used to create new volume nodes
 
 # Illustrations
 
