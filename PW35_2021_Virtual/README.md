@@ -62,6 +62,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [What's new in Slicer](https://docs.google.com/presentation/d/19LIMkLDmTmuJoA-5CFNjWNosoAYB4OoyvyUNryurMSE/edit?usp=sharing)(Andras Lasso, Jean-Christophe Fillion-Robin, Sam Horvath, Steve Pieper)
 * [MONAI introductory presentation](https://drive.google.com/file/d/1haqTUNLGVeE0V-qBVuuFqIhKXZFpkBAf/view) (Wenqi Li, NVidia)
 * [MONAI Label introductory presentation](https://docs.google.com/presentation/d/1FYv23AbFPloTKcsTrP75bKI1XStULVlUSI6ZF3VCp-Y/edit?usp=sharing) (Andres Diaz-Pinto, UKL)
+* [DICOM Overview](supplementary-material/DICOM-Overview.pdf) (Steve Piper)
 * [OHIF v3 and a glance into Cornerstone 3D](https://docs.google.com/presentation/d/1KYNjuiI8lT1foQ4P9TGNV0lBhM6H-5KBs0wkYj4JJbk/edit?usp=sharing) (Erik Ziegler, Alireza Sedghi)
 * [NCI Data Commons](https://docs.google.com/presentation/d/1-_oHDbYqArylwF2K2aAy1mD0-C0F9gu-UFvJ8lpDWS4/edit?usp=sharing) (Andrey Fedorov)
 
