@@ -48,7 +48,7 @@ Develop and validate a workflow  for the implementation of a prototype markless 
 9. No progress
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
+<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 ![![image](https://user-images.githubusercontent.com/16233997/122260473-f07ce580-ce98-11eb-9e63-291c925b7761.png)
 ![image](https://user-images.githubusercontent.com/16233997/122260723-3639ae00-ce99-11eb-82c0-39fff6c6d88c.png)
 ![image](https://user-images.githubusercontent.com/16233997/122260754-3e91e900-ce99-11eb-8998-3f8fc8bc00ee.png)

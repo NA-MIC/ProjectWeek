@@ -65,17 +65,8 @@ Creation of a MONAILabel app for leaflet segmentation of heart valves in 3D echo
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. MONAILabel team created new sample app with support for multi-label segmentation (https://github.com/Project-MONAI/MONAILabel/tree/main/sample-apps/segmentation_liver_and_tumor)
+2. MONAILabel team added option to upload local image to the MONAILabel server
+3. DeepHeart MONAILabel app created for the segmentation of tricuspid valve leaflets from 3DE images
 
-# Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
-
-# Background and References
-
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+![MONAILabel](https://user-images.githubusercontent.com/10195822/124171163-3380b080-da76-11eb-8ce7-4d38100227a0.gif)
