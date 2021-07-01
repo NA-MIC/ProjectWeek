@@ -235,6 +235,25 @@ List of registered participants so far (names will be added here after processin
 1.	Swajan Paul	,	McGill University	,	Montreal	,	Canada
 1.	Jesse Thompson	,	University of Hawaii John A Burns School of Medicine	,	Honolulu	,	Hawaii
 1.	Michael Halle	,	Brigham and Women's Hospital	,	Boston	,	MA
+1.	Chenglin Zhu	,	Cornell University	,	Ithaca	,	USA/China
+1.	Onder Erin	,	Johns Hopkins University	,	Baltimore	,	United States
+1.	Eberto Benjumea	,	Universidad Tecnológica de Bolívar	,	Cartagena	,	Colombia
+1.	Clare Tempany 	,	BWH	,	Boston	,	USA
+1.	Nicholas Fordham	,	Boston University School of Medicine	,	Boston 	,	United States
+1.	Dr. Gerard Rushingabigwi	,	University of Rwanda	,		,	Rwanda
+1.	Joanna James	,	Beth Israel Deaconess Center	,	Boston	,	USA
+1.	Mick Ganza	,	University of Rwanda, CEBE	,	Kigali	,	Rwanda
+1.	Xiaolong Liu	,	Johns Hopkins University	,	Baltimore	,	United States
+1.	Mushimiyimana Sophie	,	University of Rwanda	,		,	Rwanda
+1.	UWIZEYIMANA MEDIATRICE	,	UR/NYARUGENGE CAMPUS	,	KIGALI	,	RWANDA
+1.	Erik Ziegler	,	Radical Imaging / Open Health Imaging Foundation	,		,	France
+1.	Alireza Sedghi	,	Radical Imaging / Open Health Imaging Foundation	,	Toronto	,	Canada
+1.	Laleh Seyyed-Kalantari	,	Sinai Health	,	Thornhill	,	Canada
+1.	FELIX HARERIMANA 	,	UNIVERSITY OF RWANDA	,	RWAMAGAN	,	RWANDA
+1.	Xavier Riobé	,	Certis Therapeutics	,	Bordeaux	,	France
+1.	Lucas Ewing	,	Harvey Mudd College	,	Boston	,	US
+1.	Naghmeh Ansari	,	Concordia University	,	Montreal	,	Canada
+1.	Randy Gollub	,	MGH	,	Lexington	,	USA
 
 ## Statistics
 
