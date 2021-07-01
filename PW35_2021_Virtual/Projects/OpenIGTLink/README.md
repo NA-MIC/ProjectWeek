@@ -8,23 +8,19 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
-OpenIGTLink has been used to share data between software platforms (e.g., 3D Slicer, PLUS, ROS, etc..) in real-time for IGT applications. 
-
+OpenIGTLink has been used to share data between software platforms (e.g., 3D Slicer, PLUS, ROS, etc..) in real-time for IGT applications. In this project, we will discuss new features that are potentially incoporated in the future versions of OpenIGTLink. 
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Discuss new potential features
+1. Objective A. Identify missing features that are required in ongoing research projects.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. We will have a meeting at 1pm on Tuesday on the 'openigtlink' channel on Discord. (Confirmed attendees: Sarah, Sam, Tina, Junichi)
 
 ## Progress and Next Steps
 

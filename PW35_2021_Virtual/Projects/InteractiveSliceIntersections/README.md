@@ -50,7 +50,7 @@ More information in this GitHub issue: [here](https://github.com/Slicer/Slicer/i
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
+1. Current branch for migration of interaction handles: https://github.com/Sunderlandkyl/Slicer/tree/interaction_display_manager
 1. ...
 1. ...
 
