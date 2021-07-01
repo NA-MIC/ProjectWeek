@@ -130,7 +130,7 @@ was executed in 4 different screen sessions simultaneously to test the download 
 
 1. As expected the DenseNet showed good results in training with zero configuration.
 
-![Training](images/Training.png)
+![training](images/training.png)
 
 2. The barier for entering cloud computing lowered significantly with wider adoption of the GPU-enabled Colab notebooks.
 
