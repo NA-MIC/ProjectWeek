@@ -46,7 +46,10 @@ of benefiting from all Slicer tools.
 The WIP branch supporting Holographic remoting to stream VTK rendering inside the Hololens has been submitted [here](https://gitlab.kitware.com/vtk/vtk/-/merge_requests/8101).
 The immediate actions to take are listed there in the TODOS section: 1. and 2. should be addressed to reuse this work in SlicerVR.
 
-2. ....
+2. Alicia and Lucas tried to replicate in Alicia's computer the steps of the WIP branch Lucas' shared above. They summarized them in [this](StepsToFollow.pdf) pdf document. Despite they were not able to complete the final step, they found out and fixed many new issues that improved the project.
+
+3. Alicia, Houssem and Étienne Léger also met to discuss some features related to pattern recognition in HoloLens with Vuforia and ArUco, latency and interconnectivity between Slicer and Unity.
+
 
 # Illustrations
 
