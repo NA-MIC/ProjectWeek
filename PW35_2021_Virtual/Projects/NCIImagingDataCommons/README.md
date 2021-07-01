@@ -39,7 +39,7 @@ It is a valuable capability currently missing to allow for automatic tagging of 
 
 The idea for the experiment is to develop a tool allowing to tag individual series, using, as needed, DICOM metadata and content of the image, utilizing the metadata table of the mentioned paper as a source of inspiration if not training/testing.
 
-An additional and probably key feature of this experiment is that it's cloud native. This means that all resources and data does not leave the cloud datacenter. This is expected to bring insights on efficient workign setups that utilize the cloud infrastructure and provide an update on what's the barrier for entry to perform research on cloud resoures.
+An additional and probably key feature of this experiment is that it's cloud native. This means that all resources and data does not leave the cloud datacenter. This is expected to bring insights on efficient working setups that utilize the cloud infrastructure and provide an update on what's the barrier for entry to perform research on cloud resources.
 <!-- Add a short paragraph describing the project. -->
 
 ## Objective
