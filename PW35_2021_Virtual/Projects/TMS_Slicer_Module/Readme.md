@@ -31,15 +31,23 @@ Integrate the visualization process as a new module within the MRML scene archit
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Visualize Efield (volume) on brain surface (polydata/mesh) by adjusting the models orientation and applying the vtkProbeFilter within a new Slicer Module.
+2. Tested the rendering time of our visualization approach with renderer.GetLastRenderTimeInSeconds() resulted in around 0.0005 seconds.
+3. Added a functionality to create fiducials and to move it along the brain model's surface.
+
+Next steps: 
+- Replace the fiducial with a TMS coil model.
+- Apply visualization on DTI data / pick fibers (similar to [DBS Navigation](../../DBSNavigation/README.md)
 
 ## Illustrations
 
-TMS coil visualizations on the brain surface:
+![Fiducial (Sphere) moving along brain surface](./fiducial_on_brain_surface.png)
+
+Visualization goal in slicer:
 
 ![Brain surface and DT](./tmsonbrain.png)
 
-
-Visualization process (shown in part c):
+Visualization process:
 
 ![Visualization Process](./visualization_process.png)
 
