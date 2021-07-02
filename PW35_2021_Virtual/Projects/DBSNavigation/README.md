@@ -37,7 +37,7 @@ In order to achieve higher accuracy of the atlases registration to patient space
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Find mutual interests and collaborations with other projets and participants.
+1. Objective A. ...
 1. Objective B. ...
 1. Objective C. ...
 
@@ -53,9 +53,12 @@ In order to achieve higher accuracy of the atlases registration to patient space
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. SlicerNetstim extension added to ExtensionIndex.
+1. Preview video of how WarpDrive module works.
+1. Recognized usability and performance improvements to implement.
+
+[![](https://img.youtube.com/vi/bkXiCPN_KRI/0.jpg)](https://www.youtube.com/watch?v=bkXiCPN_KRI)
+
 
 # Illustrations
 
@@ -67,3 +70,5 @@ In order to achieve higher accuracy of the atlases registration to patient space
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+- [https://github.com/netstim/SlicerNetstim](https://github.com/netstim/SlicerNetstim)

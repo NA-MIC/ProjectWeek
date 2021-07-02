@@ -7,10 +7,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Ron Alkalay (Beth Israel Deaconess Medical Center)
 - Curtis Lisle  (KnowledgeVis,LLC)
 - Andres Diaz-Pinto (Kings College Longon) 
+- Andras Lasso (Queens University)
 
 ## Project Description
 
-We have 50 labeled CT data sets for lumbar and/or thoracic as well as full spine columns for 
+We have labeled CT data sets for lumbar and/or thoracic as well as full spine columns for 
 patients at baseline. For a good # of patients, we also have 3 and 6m follow-up CT, but these are 
 not yet labeled.  It would be great to get some help/advice regarding how to 
 speed up the segmentation for the labeling and extraction of volume information from the masks.
@@ -41,9 +42,15 @@ vertibrae have degraded and appear like surrounding tissue in CT scans.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Acquired anonymous patient dataset. Have requested permission to share for the project week
-1. Acquired GPU hardware.  Currently running Windows.  Evaluated installing Linux, WSL, and Conda-on-windows.  None working yet.
-1. ...
+1. Received permission to share a few cases with collaborators
+1. Acquired GPU hardware.  Evaluated installing Linux, WSL, and Conda-on-windows. Settled on Windows
+2. Andres Diaz-Pinto used the VerSe spine dataset to create a MONAILabel vertebrae segmentation app
+3. Curt was able to install and run MONAILabel locally 
+4. Andras Lasso helped with a script to fill internal holes in the vertebrae
+5. Segmentation Editor performance is improved with the VTK9 version of Slicer and Andras engineering fixes
+6. Curt started preparing for ML training of a network using Ron's improved annotations, but this is still in progress.
+7. **Next Steps:** Improve segmentations for the remaining annotated spines and use in MONAILabel.
+8. **Next Steps:** identify any other collaborators interested to continue working on this project; eventually expanding to include nearby muscle and disks
 
 ## Illustrations
 
@@ -56,7 +63,21 @@ Note the interior holes because of the heterogeneous nature of the lytic bone.
 
 ![Sample lytic vertebrae](lytic-vertebrae-example.png)
 
+Because the bone in the spines is degraded from cancer, it is difficult to get a good segmentation.  Here is the result of several hours of manual segmentation:
+
 ![Segmentation in Slicer](lytic-vertebrae-in-slicer.png)
+
+During the project week, we received consulting assistance on segmentation techniques from Andras Lasso and Rudolf Bumm.  After Andras' wrote us a post-processing script, the final result of registration is much better.  These annotations can be used for neural net training:
+
+![improved spine annotation](https://data.kitware.com/api/v1/item/60de5f0c2fa25629b9c6ee0c/download?contentDisposition=inline)
+
+Here is the MONAILabel server and Slicer Module running on Curt's workstation.  The app created annotations of vertebrae automatically created by a neural network trained using the VerSe spine dataset.  This app works for interactively improving the segmentation through editing (using the deepedit algorithm):
+
+![MONAILabel vertebrae app](https://data.kitware.com/api/v1/item/60de5f0d2fa25629b9c6ee14/download?contentDisposition=inline)
+
+Development was started for training a standalone neural network model, also using the MONAI framework.  Here is a sample training image showing a portion of the spine vertibrae and the corresponding label going into the neural network for training.  This shows why it was critical to achieve solid annotations for the interior portions of the vertebrae:
+
+![Monai spine training image](https://data.kitware.com/api/v1/item/60de5f0d2fa25629b9c6ee1c/download?contentDisposition=inline)
 
 ## Background and References
 

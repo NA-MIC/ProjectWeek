@@ -1,0 +1,83 @@
+<PlusConfiguration version="2.3">
+
+  <DataCollection StartupDelaySec="1.0" >
+    <DeviceSet 
+      Name="PlusServer: Intel RealSense camera "
+      Description="Broadcasting acquired RGB and Depth video through PlusServer from Intel RealSense 3D camera"
+	/>
+  
+    <Device
+      Id="VideoDevice"
+      Type="IntelRealSense"
+    >
+      <DataSources>
+
+        <DataSource
+          Type="Video"
+          Id="VideoRGB"
+          DeviceSerialNumber="025522060972"
+          FrameType="RGB"
+          FrameSize="640 480"
+          FrameRate="15"
+          PortUsImageOrientation="UN"
+        />
+
+        <DataSource
+          Type="Video"
+          Id="VideoDEPTH"
+          DeviceSerialNumber="025522060972"
+          FrameType="DEPTH"
+          FrameSize="640 480"
+          FrameRate="15"
+          AlignDepthStream="TRUE"
+          UseRealSenseColorizer="FALSE"
+          PortUsImageOrientation="UN"
+        />
+
+      </DataSources>
+      <OutputChannels>
+        <OutputChannel Id="VideoStreamRGB" VideoDataSourceId="VideoRGB" />
+        <OutputChannel Id="VideoStreamDEPTH" VideoDataSourceId="VideoDEPTH" />
+      </OutputChannels>
+    </Device>
+  </DataCollection>
+  
+  <PlusOpenIGTLinkServer MaxNumberOfIgtlMessagesToSend="1" MaxTimeSpentWithProcessingMs="50" ListeningPort="18947" SendValidTransformsOnly="true" OutputChannelId="VideoStreamRGB">
+        <DefaultClientInfo>
+            <MessageTypes>
+                <Message Type="VIDEO" />
+            </MessageTypes>
+            <VideoNames>
+                <Video Name="ImageRGB" EmbeddedTransformToFrame="ImageRGB" EncodingLossless="False" >
+				<Encoding
+					FourCC="VP90"
+					Lossless="False"
+					Speed="8"
+					DeadlineMode="realtime"
+					RateControl="CQ" />
+				</Video>
+            </VideoNames>
+        </DefaultClientInfo>
+    </PlusOpenIGTLinkServer>
+	
+	<PlusOpenIGTLinkServer MaxNumberOfIgtlMessagesToSend="1" MaxTimeSpentWithProcessingMs="50" ListeningPort="18950" SendValidTransformsOnly="true" OutputChannelId="VideoStreamDEPTH">
+        <DefaultClientInfo>
+            <MessageTypes>
+                <Message Type="VIDEO" />
+            </MessageTypes>
+            <VideoNames>
+                <Video Name="ImageDEPTH" EmbeddedTransformToFrame="ImageDEPTH" EncodingLossless="False" >
+				<Encoding
+					FourCC="VP90"
+					Lossless="False"
+					Speed="8"
+					DeadlineMode="realtime"
+					RateControl="CQ" />
+				</Video>
+            </VideoNames>
+        </DefaultClientInfo>
+    </PlusOpenIGTLinkServer> 
+	
+	
+
+</PlusConfiguration>

@@ -5,9 +5,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Mónica García-Sevilla (Universidad Las Palmas de Gran Canaria, Las Palmas de Gran Canaria, Spain)
-- David García-Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Abián Hernández-Guedes (Universidad Las Palmas de Gran Canaria, Las Palmas de Gran Canaria, Spain)
 - Nayra Pumar (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
+- David García-Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Juan Ruiz Alzola (Universidad Las Palmas de Gran Canaria, Las Palmas de Gran Canaria, Spain)
 - Javier Pascau (Universidad Carlos III de Madrid, Madrid, Spain)
 - Csaba Pinter (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
@@ -39,21 +39,29 @@ The goal of this project is to translate this software into a Virtual Reality (V
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Visualize the simulators and forceps models in the VR scene.
-2. Define a correct starting viewpoint.
-3. Decide how to move the forceps with the VR controllers.
-4. Learn how to access buttons from the controllers.
+1. Visualize the simulators and forceps models in the VR scene. :heavy_check_mark:
+2. Define a correct starting viewpoint. :heavy_check_mark:
+3. Decide how to move the forceps with the VR controllers. :heavy_check_mark:
+4. Learn how to access buttons from the controllers. (Already tested although with Simon's version) ❗ 
 5. Define a way of selecting the step for the procedure (assembly, presentation, initial placement, final placement). A panel could be a good idea.
-6. For each step, check whether the placement was correct or not (at an instant or in real time).
+6. For each step, check whether the placement was correct or not. :heavy_check_mark: (2/6)
 7. Connect to the same scene from other device.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. 3D models of the mother and baby are displayed in the VR glasses with an adequate size.
+1. The 3D models are displayed in front of the user when starting the application. If the user changes position, the view can be reset to show the model in front of the user again.
+2. Controller models are hidden and substituted by the forceps. The position of the forceps is configured as if the user was grabbing them.
+3. The first two steps of the procedure (arrangement and presentation) have been added to the module. Forceps are displayed in green when correct and in red when incorrect.
+4. The evaluation of each step is performed in real time. It has to be selected by the user in the module. Buttons for all the steps have been added.
+5. When a step is selected, the name of the step is displayed on the scene. 3D models of the text have been created to show the message.
+
+## To Do:
+1. Access controller buttons so the user can change step without removing the headset. A panel widget could also be a good solution.
+2. Add the remaining steps.
+3. Add the collaborative option.
 
 # Illustrations
 
@@ -61,10 +69,23 @@ The goal of this project is to translate this software into a Virtual Reality (V
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-
+## Previous setup (non-VR):
 ![module_scene_and_panel](https://user-images.githubusercontent.com/17642986/123103298-c34aad00-d42d-11eb-925a-15dd4b7bc4f0.png)
 ![experts_training](https://user-images.githubusercontent.com/17642986/123102863-6222d980-d42d-11eb-9292-e8731f1d4271.jpg)
 ![novices_training](https://user-images.githubusercontent.com/17642986/123102867-62bb7000-d42d-11eb-9f8b-f53d87b1000f.jpg)
+
+## VR solution:
+![setup](https://user-images.githubusercontent.com/17642986/124196551-9436da00-dac4-11eb-8441-e573675dc887.png)
+### View
+![setup](https://user-images.githubusercontent.com/17642986/124282685-04844080-db43-11eb-9f43-bdf9785fdf33.gif)
+### Arrangement
+![arrangement](https://user-images.githubusercontent.com/17642986/124282699-0948f480-db43-11eb-8386-422fc634504e.gif)
+### Presentation
+![presentation](https://user-images.githubusercontent.com/17642986/124284397-ddc70980-db44-11eb-861a-e394383d6173.gif)
+### Controller buttons interaction
+![controllerButtons](https://user-images.githubusercontent.com/17642986/124281394-9428ef80-db41-11eb-969f-c3a82a0d5f54.gif)
+
+VR video: [https://youtu.be/Q8b7IehEQhE](https://youtu.be/Q8b7IehEQhE)
 
 
 # Background and References

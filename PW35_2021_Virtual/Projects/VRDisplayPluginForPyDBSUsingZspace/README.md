@@ -71,23 +71,36 @@ We would use VTK 9 as Slicer is planning on using it for its future launches, an
 
 2. 2 widgets one displayed in 3D QuadBuffer mode, the other in classic 2D, to see where I need to make the changes and how. 
 
-3. Skeleton of this widget but with Slicer scenes. 
+3. Creating a scripted module that displays a 3D view outside the Slicer layout, it displays the scene in stereo (red/blue etc) but not in quadbuffer mode for now.
 
-4. ... 
+4. Next step : change the default type widget of Slicer 4.13 so I can have my module working in quadbuffer mode. 
 
  
 
 # Illustrations 
 
- 
+Already existing QuadBuffer stereo mode in 3DSlicer 4.8, photo taken by phone so quadbuffered image can be seen as it is supposed to without glasses:  
+<img width="373" alt="IMG_20210628_112539" src="https://user-images.githubusercontent.com/76939787/123618437-7dfcf580-d808-11eb-8a39-c66edc125a32.jpg">
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. 
 
-![Description of picture](Example2.jpg) 
+Module created and tested before implemeting it to Slicer 4.13 using VTK 9 and QT 4.15, still taken by phone:  
+<img width="373" alt="IMG_20210628_112539" src="https://user-images.githubusercontent.com/76939787/123618384-70477000-d808-11eb-8b43-004ecffbfa42.jpg">
 
-![Some more images](Example2.jpg) 
 
---> 
+zSpace device:  
+<img width="373" alt="Automotive_Student" src="https://user-images.githubusercontent.com/76939787/124276865-a6f0f380-db44-11eb-99c7-5f97080a26e2.gif">
+
+
+Pre-op module for trajectory planning, using PyDBS:  
+<img width="373" alt="image" src="https://user-images.githubusercontent.com/76939787/123618539-9836d380-d808-11eb-9009-bfe73d0657a4.jpeg">
+
+
+Scripted module to display a new 3D view outside the actual layout [1] and in different stereo modes [2]. For now even if the button is named QuadBuffer this mode is not working:   
+
+[1]  <img width="373" alt="Capture d%u2019écran du 2021-06-30 15-41-07" src="https://user-images.githubusercontent.com/76939787/124274204-43b19200-db41-11eb-8eed-07c43e0eedd0.png">
+[2]  <img width="373" alt="Capture d%u2019écran du 2021-06-30 16-01-33" src="https://user-images.githubusercontent.com/76939787/124274266-56c46200-db41-11eb-9277-058ea6d17315.png">
+
+
 
  
 
@@ -97,5 +110,7 @@ We would use VTK 9 as Slicer is planning on using it for its future launches, an
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. --> 
 * [Paraview support for ZSpace](https://blog.kitware.com/zspace-device-support-coming-to-paraview/)
+* [Paraview plugin's repository](https://gitlab.kitware.com/paraview/paraview/-/tree/master/Plugins/ZSpace)
+* [Slicer/zSpace implementation 2013](https://fr.slideshare.net/zSpace/pieper-slicer-clinicalzspace20131021) 
 
  

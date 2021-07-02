@@ -10,8 +10,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Aytek Oto (U.Chicago)
 - Andras Lasso (Queen's)
 - Fiona Fennessy (BWH)
+- Christian Herz (?) (CHOP)
 
 ## Project Description
+
+**WE ARE HIRING - see [job opportunities here](https://spl.harvard.edu/join-us) if interested!**
 
 In the past we have developed mpReview extension to streamline the manual annotation workflow of multiparametric MRI studies, designed specifically for prostate MRI annotation initially. The extension proved useful over time, and was utilized to support annotation of prostate MRI at BWH and U.Chicago. Over the recent years we were not able to maintain this extension to keep up to date with 3D Slicer upgrades. However, currently there is renewed interest in reviving and perhaps rewriting this extension, as it serves a need not addressed by any other capability in Slicer, or in commercial tools. The goal of this project is to evaluate the current status of the extension, collect the requirement and identify next steps for its development.
 
@@ -30,11 +33,17 @@ In the past we have developed mpReview extension to streamline the manual annota
 
 1. Evaluate current status of the module wrt the preview release of Slicer.
 2. Document the workflow and desired features of the annotation module.
-3. Identify next stes.
+3. Identify next steps.
+4. Revisit the [Slicer PI-RADS module](https://github.com/SlicerProstate/SlicerPIRADS) (WIP years ago)
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Revised documentation for the current version of the module: https://github.com/SlicerProstate/mpReview/wiki/Documentation
+2. Updated test dataset
+3. Discussed the current implementation, discussion notes [here](https://docs.google.com/document/d/1f6gXrl-u1mkMPVfLLT4oLHwPS8sZp48ent-qyWPzDMk/edit)
+4. Tested with the current version of Slicer - some legacy Editor effects no longer work.
+5. Based on feedback from Masoom, there is not much interest in patching existing mpReview, would need to rewrite it from scratch to work with the current Slicer infrastructure.
 
 
 ## Illustrations

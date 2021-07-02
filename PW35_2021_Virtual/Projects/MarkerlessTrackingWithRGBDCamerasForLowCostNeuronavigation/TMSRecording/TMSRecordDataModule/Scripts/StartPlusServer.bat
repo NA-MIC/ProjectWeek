@@ -1,0 +1,1 @@
+START /MIN C:\Users\hisey\PlusApp-2.7.0.20190123-Telemed-Win32\bin\PlusServerLauncher.exe --connect --device-set-configuration-dir=d:\TMSRecording\TMSRecordDataModule\Config  --config-file=PlusDeviceSet_Server_IntelRealSenseVideo.xml

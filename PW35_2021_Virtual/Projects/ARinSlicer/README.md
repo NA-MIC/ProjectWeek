@@ -10,7 +10,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Lucas Gandel (Kitware, France)
 - Adam Rankin (Robarts Research Institute / Western University, Canada)
 - Jean-Christophe Fillion-Robin (Kitware, USA)
+- Mónica García-Sevilla (Universidad de Las Palmas de Gran Canaria , Gran Canaria , Spain)
 - Houssem Gueziri
+
 
 # Project Description
 
@@ -44,7 +46,12 @@ of benefiting from all Slicer tools.
 The WIP branch supporting Holographic remoting to stream VTK rendering inside the Hololens has been submitted [here](https://gitlab.kitware.com/vtk/vtk/-/merge_requests/8101).
 The immediate actions to take are listed there in the TODOS section: 1. and 2. should be addressed to reuse this work in SlicerVR.
 
-2. ....
+2. Alicia and Lucas tried to replicate in Alicia's computer the steps of the WIP branch Lucas' shared above. They summarized them in [this](StepsToFollow.pdf) pdf document. Despite they were not able to complete the final step, they found out and fixed many new issues that improved the project.
+
+3. Alicia, Houssem and Étienne Léger also met to discuss some features related to pattern recognition in HoloLens with Vuforia and ArUco, latency and interconnectivity between Slicer and Unity.
+
+4. Alicia and Naghmeh additionally talked about connecting 3D Slicer and Unity in real time to send transformations between them. [Here](https://github.com/Lyla-M/UnityOpenIGTLink) and [here](https://github.com/franklinwk/OpenIGTLink-Unity) you can find two GitHub projects that explain how to achieve this connection via OpenIGTLink.
+
 
 # Illustrations
 

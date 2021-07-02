@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Steve Pieper (Isomics, Inc. Cambridge MA, USA)
 - Curt Lisle (Knowledgevis, Maitland, Florida, USA)
 - Andrey Fedorov (BWH, Boston, MA, USA)
+- Theodore Aptekarev (Independent, Moscow, Russia)
 
 # Project Description
 
@@ -32,16 +33,24 @@ The goal is to allow people to quickly transition from viewing images to doing m
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. ...
-1. ...
-1. ...
+1. Steve [implemented one-click creation](https://github.com/pieper/SlicerOnDemand) of a VM using the Google API to launch a GPU-enabled VM, ready to use within about 90 seconds.
+2. Theoore created workflow icons to provide visual feedback during the launch process.
+3. We met and discussed methods for encrypting traffic to the "pop up" Slicer-in-the-cloud using Google Cloud infrastructure options.
+4. A use case was identified where an IDC cohort manifest could be passed to the Slicer VM and the cohort could be automatically loaded for the user.
+5. We had a discussion with Kitware regarding the composition of the Slicer Docker containers: It would be nice to consolidate dockerfile of general use into https://github.com/Slicer/SlicerDocker
+6. Next Steps:
+  * Evaluate tradeoffs between simplicity of interface and exposing options
+  * Test robustness, add more feedback about things like how much money you are spending
+  * Configure the VM instance with tools and ML models
+  * Improve the desktop/window managment setup to be more modern
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+| Click on the image below to see the video |
+|----|
+|[![](./2021.07.01_NousNav-Demo-Video.png)](https://drive.google.com/file/d/1cfWCd2-31rGxKGYWsacnr5M6aInSOAty/view?usp=sharing) |
+|[![SlicerOnDemand full demo (2 minutes)](http://img.youtube.com/vi/ERm2lPzWH0E/0.jpg)](https://youtu.be/ERm2lPzWH0E "SlicerOnDemand")|
+
 
 # Background and References
 * [Review of Cloud efforts from last virtual Project Week](https://projectweek.na-mic.org/PW34_2020_Virtual/Projects/Slicer_in_Cloud_Environments/).

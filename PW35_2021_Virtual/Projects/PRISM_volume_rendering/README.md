@@ -24,21 +24,30 @@ The goal of this project is to enable the development of advanced 3D rendering t
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+1. All parties met on Monday to discuss the required functionality in VTK and Slicer to enable more advanced rendering effects:
+    1. The current VTK mechanism to modify shaders is limited
+    2. It makes it difficult to combine different effects
+    3. Development is difficult because the complete shader in not accessible
+    4. Rafael: In Slicer, there is a need for a system that arbitrate the modification of shaders by different modules
+    5. The Slicer shader property node is available only for volume rendering. The feature could easily be ported to surface rendering to facilitate the editing of surface shader
+1. Previous efforts by Simon Drouin were made to facilitate shader debugging. Code is available in [this branch](https://gitlab.kitware.com/drouin-simon/vtk/-/tree/volume-shader-readability). The code still needs work to enable a debug mode where shader code can be kept in memory with additional tags to facilitate development. 
 
-1. TODO
-1. ...
-1. ...
+### Next steps
+* Move vtkShaderProperties to the vtkMRMLDisplayNode level
+* Explore custom rendering to simplify integration with the vtk render process.  Prior work includes:
+  * Python scripted Actor/Mappers: https://www.slicer.org/wiki/Slicer3:Python:ScriptedActor
+  * SimpleMapper: https://github.com/IbisNeuronav/Ibis/tree/master/IbisVTK/vtkExtensions
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![Opacity Peeling](opacity-peeling.gif)
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 - PRISM Module [GitHub repository](https://github.com/ETS-vis-interactive/SlicerPRISMRendering).
 - [Original article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193636) about the PRISM framework that served as a basis to develop the PRISM module in Slicer
+- Previous project weeks
+  - https://projectweek.na-mic.org/PW30_2019_GranCanaria/Projects/GLSLShaders/
+  - https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/MultiVolumeRendering/
+  - 

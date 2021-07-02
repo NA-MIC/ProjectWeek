@@ -65,6 +65,7 @@ marp: true
 * CommonTK (CTK)
     * DCMTK + Qt * SQLite
     * Core of Slicer's DICOM module
+* dcmqi: convenience interface over DCMTK to support encoding of analysis results in DICOM
 
 ---
 

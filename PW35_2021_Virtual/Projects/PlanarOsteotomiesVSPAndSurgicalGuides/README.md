@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - MSc. Mauro I. Dominguez
 - Dr. Manjula Herath
+- PhD. Andras Lasso
 
 # Project Description
 
@@ -48,9 +49,9 @@ For kirschner wires planning on DeformityCorrectionOsteotomyPlanner:
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. New code available at [DentalImplantsBranch](https://github.com/SlicerIGT/SlicerBoneReconstructionPlanner/tree/DentalImplantsBranch) of BoneReconstructionPlanner project.
+1. Dental Implants Surgical Planning.
+1. Corresponding Drill Guides on Fibula Surgical Guides.
 
 # Illustrations
 
@@ -58,6 +59,38 @@ For kirschner wires planning on DeformityCorrectionOsteotomyPlanner:
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+
+## Achieved till the start of Project Week
+
+- Mandibular Reconstruction Virtual Surgical Planning:
+
+![](screenshotPlanningMandibularReconstruction.png)
+
+- Mandibular Reconstruction Patient-specific Surgical Guides (mandible and fibula guides):
+
+![](screenshotPatientSpecificSurgicalGuidesMandibularReconstruction.png)
+
+- Deformity Correction Virtual Surgical Planning:
+
+![](screenshotPlanningDeformityCorrection.png)
+
+## Desired work to be finished on project week:
+
+- Dental Implants Virtual Surgical Planning on Mandibular Reconstruction:
+
+![](dentalImplantsPlanningOnMandibularReconstruction.png)
+
+- Dental Implants guides on Fibula Surgical Guide
+
+![](fibulaSurgicalGuideWithDrillGuides0.png)
+
+![](fibulaSurgicalGuideWithDrillGuides1.png)
+
+## Achieved on Project Week
+
+- Dental Implant Planning for reconstructed mandible and Drill Guides on the Fibula Surgical Guide
+
+![](dentalImplantsPlanningOnBoneReconstructionPlanner.png)
 
 # Background and References
 

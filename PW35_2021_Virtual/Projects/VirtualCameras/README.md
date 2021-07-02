@@ -20,21 +20,20 @@ Extend functionalities of the current Viewpoints module.
 
 1. Add possibility to dissociate virtual camera position from 3D view rendering
 1. Add model in 3D view to visualize position of camera relative to the scene
-1. Objective C. ...
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Add camera representation in 3D view (wireframe)
+1. Generate rendering from tracked camera and store as image
+1. Add option to load camera parameters from file
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
+1. Camera wireframe added
 1. ...
 1. ...
 
@@ -44,6 +43,8 @@ Extend functionalities of the current Viewpoints module.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+
+1. Add screenshot
 
 # Background and References
 
