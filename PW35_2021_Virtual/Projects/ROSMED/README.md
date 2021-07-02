@@ -84,7 +84,7 @@ Approach:
 - Define a linear transform for each link of the universal robot in the Slicer scene.
 - Place each link under the corresponcing transform.
 
-![Slicer Scene]("Screenshot%20from%202021-07-01%2014-18-58.png")
+![Slicer Scene](Screenshot%20from%202021-07-01%2014-18-58.png)
 
 - The contorller on ROS 2 exports the transform of each link to OpenIGTLink
 - 3D Slicer 
