@@ -36,11 +36,11 @@ tools to register patients' follow-up scans to their original planning CT scans 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Acquired anonymous patient dataset with preplanning CT&PET,Planning CT, follow-up CT and PET
-1. We solicit recommendations: Elastix and Plastimatch both offer command line and Slicer integration
+1. We solicited recommendations: Elastix and Plastimatch both offer a command line option as well as Slicer integration
 1. **Plastimatch:** An interactive session with Greg showed us how to register scans (see below example)
-1. **MONAI:** - Neha adapted a MONAI / DeepReg example to train a DNN for registration between patient CTs.  This is still a work-in-progress, but it shows promise. Curently, this approach requires more computation time than traditional registration methods, but in repeated cases, inferencing a pretrained registration network is reported to be faster than traditional methods, such as B-spline deformable registration.  
-2. Automation - Curt started developing scripts for automating registration between the planning CT and the follow-ups for each patient in a cohort
-3. **Next Steps:** - Tweak registration parameters to improve results; Run on 100+ patient cohort 
+1. **MONAI:** - Thanks to Neha for adapting a MONAI / DeepReg example and training a DNN for registration between patient CTs.  This is still a work-in-progress, but it shows promise. Curently, this approach requires more computation time during training than traditional registration methods.  However, in certain cases, inferencing on a pretrained registration network is reported to be faster than traditional methods, such as B-spline deformable registration. We didn't test the claim this week. 
+2. Automation: Curt began developing scripts for automatic registration between the planning CT and the follow-ups for each patient in a cohort
+3. **Next Steps:** - Tweak registration parameters to improve results; Run on 100+ patient cohort; celebrate with clinicians. 
 
 ## Illustrations
 
@@ -56,10 +56,18 @@ But since follow-up scans are different times, there is no registration between 
 
 ![No registration between successive scans](https://data.kitware.com/api/v1/item/60d92be52fa25629b980f151/download?contentDisposition=inline)
 
-After a prelimary registration in Plastimatch, the anatomy annotations are much closer, as shown beloe.   There is more improvement to do, but this was encouraging after trying only a few parameter options.  Since Plastimatch operation can be scripted, this tool should assist with our desire to automate registration for the many patient scans in our cohort:
+After a prelimary registration in Plastimatch, the anatomy annotations are much closer, as shown below. The image shows the original segmentation objects superimposed over a registered follow up scan taken 3 months later.  Because of the time between scans, there was actual morphology changes to the anatomy as well.  This result was encouraging after trying only a few parameter exploration attempts.  Since Plastimatch operations can be scripted, this approach can automate registration for multiple patient scans in a  cohort:
 
-![Images after a preliminary registration](https://data.kitware.com/api/v1/item/60de5f252fa25629b9c6ee2e/download?contentDisposition=inline)
+![Images after a preliminary registration](https://data.kitware.com/api/v1/item/60df063c2fa25629b9d1ae28/download?contentDisposition=inline)
 
+
+We also learned that giving a registration system incorrect parameters can warp an moving image too much.  After generating a strangely warped image by mistake, we just gave it some coloring to create art.  Here are our project team's two submissions to the "Project Week 35 3D-Slicer Art Competition".  Vote for your favorite. Vote by editing this page or vote on Curt's facebook page... 
+
+![slicer art](https://data.kitware.com/api/v1/item/60df033a2fa25629b9d17345/download?contentDisposition=inline)
+
+Votes for #1: 0
+
+Votes for #2: 0
 
 ## Background and References
 
