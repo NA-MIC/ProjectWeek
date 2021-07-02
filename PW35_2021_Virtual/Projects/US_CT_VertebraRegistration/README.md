@@ -26,14 +26,17 @@ The goal is to combine the registration method for _open_ surgery implemented in
 
 1. Convert the data from IBIS acquisitions to ultrasound sequences
 2. Generate ground truth segmentation from CT images
-3. Use AIGT to train model for axial image segmentation
+3. Use AIGT to train model for axial image segmentation - [Video tutorial](https://youtu.be/l0BcW8c9CnI)
 4. Use segmented data with IBIS registration and evaluate registration
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-- 
+- Align US images with CT using ground truth transform and export data as Sequences readable in Slicer :heavy_check_mark:
+- Segment data using pre-trained model:heavy_check_mark:
+- Generate ground truth segmentation and train model [TODO]
+- Segment data with fine-tuned model [TODO]
 
 # Illustrations
 
@@ -42,17 +45,25 @@ The goal is to combine the registration method for _open_ surgery implemented in
 ![Some more images](Example2.jpg)
 -->
 
-
+**Data processing workflow:**
 
 ![Workflow](workflow.png)
 
-Data processing workflow
+**Generate aligned CT-US data:**
+
+![US-CT Data](US-CTAlignment.gif)
 
 
 
-![Navigation](navigation.jpg)
+**Segmentation with pre-trained model:**
 
-Navigation with IBIS
+![Segmentation](Segmentation.png)
+
+
+
+
+
+
 
 # Background and References
 
