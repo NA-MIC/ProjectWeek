@@ -28,7 +28,6 @@ tools to register patients' follow-up scans to their original planning CT scans 
 
 1. Select candidate patient scans and registration tools in Slicer
 2. Compare registration results from a few algorithms in Slicer (Elastix, Plastimatch, etc.)
-3. Segmentation: Will segmentation of follow-up scans enable other algortihms? (Csaba's Segmentation-assisted registration)
 4. Investigate Deep Learning based methods for image registration (e.g. VoxelMorph, DeepReg)
 6. Determine which approaches are suitable for automated use on a large cohort
 
@@ -37,8 +36,11 @@ tools to register patients' follow-up scans to their original planning CT scans 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Acquired anonymous patient dataset with preplanning CT&PET,Planning CT, follow-up CT and PET
-1. Solicit suggested packages from the community
-1. ...
+1. We solicit recommendations: Elastix and Plastimatch both offer command line and Slicer integration
+1. **Plastimatch:** An interactive session with Greg showed us how to register scans (see below example)
+1. **MONAI:** - Neha adapted a MONAI / DeepReg example to train a DNN for registration between patient CTs.  This is still a work-in-progress, but shows promise. 
+2. Automation - Curt started developing scripts for automating registration between the planning CT and the follow-ups
+3. **Next Steps:** - Tweak registration parameters to improve results; Run on 100 patient cohort 
 
 ## Illustrations
 
@@ -47,9 +49,15 @@ tools to register patients' follow-up scans to their original planning CT scans 
 ![Some more images](Example2.jpg)
 -->
 ![Planning CT has excellent structure segmentation](https://data.kitware.com/api/v1/item/60d92be32fa25629b980f149/download?contentDisposition=inline)
+
 ![No registration between successive scans](https://data.kitware.com/api/v1/item/60d92be52fa25629b980f151/download?contentDisposition=inline)
 
+![Images after a preliminary registration](https://data.kitware.com/api/v1/item/60de5f252fa25629b9c6ee2e/download?contentDisposition=inline)
+
+
 ## Background and References
+
+The **Image Data Commons** has datasets with annotations across multiple time points, so this is an available dataset to practice with: https://imaging.datacommons.cancer.gov/explore/?filters_for_load=%5B%7B%22filters%22:%5B%7B%22id%22:%22120%22,%22values%22:%5B%22qin_prostate_repeatability%22%5D%7D%5D%7D%5D
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. 
 -->
