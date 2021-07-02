@@ -39,8 +39,9 @@ tools to register patients' follow-up scans to their original planning CT scans 
 1. We solicited recommendations: Elastix and Plastimatch both offer a command line option as well as Slicer integration
 1. **Plastimatch:** An interactive session with Greg showed us how to register scans (see below example)
 1. **MONAI:** - Thanks to Neha for adapting a MONAI / DeepReg example and training a DNN for registration between patient CTs.  This is still a work-in-progress, but it shows promise. Curently, this approach requires more computation time during training than traditional registration methods.  However, in certain cases, inferencing on a pretrained registration network is reported to be faster than traditional methods, such as B-spline deformable registration. We didn't test the claim this week. 
-2. Automation: Curt began developing scripts for automatic registration between the planning CT and the follow-ups for each patient in a cohort
-3. **Next Steps:** - Tweak registration parameters to improve results; Run on 100+ patient cohort; celebrate with clinicians. 
+1. Automation: Curt began developing scripts for automatic registration between the planning CT and the follow-ups for each patient in a cohort
+1. We didn't get to training a network on the registered cohort this week, but we have tested all the steps individually.
+4. **Next Steps:** - Tweak registration parameters to improve results; Run on 100+ patient cohort; train deep learning network; celebrate with clinicians. 
 
 ## Illustrations
 
@@ -60,6 +61,9 @@ After a prelimary registration in Plastimatch, the anatomy annotations are much 
 
 ![Images after a preliminary registration](https://data.kitware.com/api/v1/item/60df063c2fa25629b9d1ae28/download?contentDisposition=inline)
 
+Below is a snapshot of how the segmentation mask for the moving image is growing to match the anatomy and mask in the fixed image.  Our deep learning registration results this week don't match as well as using traditional methods, but this is an emerging application area for deep learning that will continue to improve.  Thanks, Neha!
+
+![deep learning registration changes](https://data.kitware.com/api/v1/item/60df14472fa25629b9d34d65/download?contentDisposition=inline)
 
 We also learned that giving a registration system incorrect parameters can warp an moving image too much.  After generating a strangely warped image by mistake, we just gave it some coloring to create art.  Here are our project team's two submissions to the "Project Week 35 3D-Slicer Art Competition".  Vote for your favorite. Vote by editing this page or vote on Curt's facebook page... 
 
