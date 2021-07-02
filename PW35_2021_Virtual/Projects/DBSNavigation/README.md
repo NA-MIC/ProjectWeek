@@ -53,9 +53,11 @@ In order to achieve higher accuracy of the atlases registration to patient space
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. SlicerNetstim extension added to ExtensionIndex.
+1. Preview video of how WarpDrive module works.
+
+[![](https://img.youtube.com/vi/bkXiCPN_KRI/0.jpg)](https://www.youtube.com/watch?v=bkXiCPN_KRI)
+
 
 # Illustrations
 
