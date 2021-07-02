@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Steve Pieper (Isomics)
 - Tamas Ungi (Queen's University, Canada)
 
-# Project Description
+## Project Description
 
 <!-- Add a short paragraph describing the project. -->
 
@@ -44,40 +44,64 @@ Issues that will be addressed:
 
 ### PyTorch in Slicer
 
+#### Optimized installation using [`light-the-torch`](https://github.com/pmeier/light-the-torch)
+
 1. Fixed `light-the-torch` to detect the best PyTorch version from NVIDIA drivers ([link to PR](https://github.com/pmeier/light-the-torch/pull/31))
 1. Fixed PythonQt so `light-the-torch` can be used within Slicer ([link to PR](https://github.com/MeVisLab/pythonqt/pull/49), to be updated in Slicer fork)
+
+#### PyTorch extension
+
+The `PyTorch` extension has been added to the Extensions Index.
+
+[Link to pull request](https://github.com/Slicer/ExtensionsIndex/pull/1775) – [Link to code](https://github.com/fepegar/SlicerPytorch)
+
+![PyTorch extension in Extensions Manager](./extensions.png)
+
+![PyTorchUtils module](./pytorch_extension.png)
 
 ### Demo modules
 
 #### Brain Resection Cavity Segmentation
 
+Based on [Pérez-García et al., 2021, *A self-supervised learning strategy for postoperative brain cavity segmentation simulating resections*](https://link.springer.com/article/10.1007/s11548-021-02420-2).
+
+[![Brain Resection Cavity Segmentation](./cavity.gif)](https://link.springer.com/article/10.1007/s11548-021-02420-2 "Brain Resection Cavity Segmentation")
 
 #### Brain Parcellation
 
+Based on [Li et al., 2017, *On the Compactness, Efficiency, and Representation of 3D Convolutional Networks: Brain Parcellation as a Pretext Task*](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_28).
+
 [![Brain Parcellation on 3D Slicer](./parcellation_mrhead_frame.png)](https://youtu.be/kKXCv-JPikw "Brain Parcellation on 3D Slicer")
 
+Parcellation run by @pieper on a synthetic 1 mm isotropic T1 MPRAGE generated from a 6.5 mm anisotropic T2 (using model from [Iglesias et al. 2021](https://www.sciencedirect.com/science/article/pii/S1053811921004833)):
 
-# Illustrations
+![Parcellation on T2 and synthetic T1](./parcellation_t2_from_syntht1.png)
+
+![Parcellation on T2](./parcellation_t2_vs_syntht1.png)
+
+## Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Some more images](Example2.jpg)
 -->
 
+This is a diagram of the typical usage of Python within 3D Slicer.
+
 ![Example of inference using PyTorch inside Slicer](diagram.svg)
 
-# Background and References
+## Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
-## Post on Discourse
+### Post on Discourse
 
 The first discussion about this project appeared on the [Slicer forum (PW35) Projects List](https://discourse.slicer.org/t/pw35-projects-list/17905/4).
 
-## Discussion on GitHub
+### Discussion on GitHub
 
 Some issues about installing PyTorch in Slicer were discussed in the [pull request](https://github.com/Slicer/ExtensionsIndex/pull/1710) to add [SlicerTorchIO](https://github.com/fepegar/SlicerTorchIO) to the Extensions Index.
 
-## `light-the-torch`
+### `light-the-torch`
 
 This seems to be a Python package designed to help installing PyTorch easily, auto-detecting the computation backend. Probably worth looking into it: [`light-the-torch`](https://github.com/pmeier/light-the-torch).
 
@@ -85,7 +109,7 @@ The maintainer is [Philip Meier](https://github.com/pmeier), a very active contr
 
 Also related and worth investigating, from the same author, is [`pytorch-pip-shim`](https://github.com/pmeier/pytorch-pip-shim).
 
-## Example of a naive `pip` installation
+### Example of a naive `pip` installation
 
 Tried on Linux, driver 430.50 (`nvidia-smi --query-gpu=driver_version --format=csv`).
 
