@@ -38,9 +38,10 @@ Develop a deep learning based Brain Masking Module with improved performance and
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Applied for NIH Dataset Request
+1. Tested HD-BET Segmentation
+1. Extracted PyTorch parameter(s) from HD-BET
+1. Begin building Slicer Module with HD-BET parameters
 
 # Illustrations
 
@@ -48,8 +49,18 @@ Develop a deep learning based Brain Masking Module with improved performance and
 [Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+Swiss Skull Stripper
+![SSS3D](SSSMaskResult.png)
+![SSS4Spread](SSSMaskSlices.png)
 
-![BrainMaskPlan](BrainMaskPlan.png)
+HD-BET Fast segmentation
+![HDBETFast3D](HDBETMaskResult.png)
+![HDBETFast4Spread](HDBETMaskSlices.png)
+
+HD-BET Accurate segmentation (5 model ensemble)
+![HDBETAcc3D](HDBETaccMaskResult.png)
+![HDBETAcc4Spread](HDBETaccMaskSlices.png)
+
 
 # Background and References
 
