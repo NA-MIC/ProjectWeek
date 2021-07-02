@@ -58,16 +58,18 @@ transition to the new ROS platform (ROS2).
 
 1. First meeting (1:00pm on Discord)
   - Participants: Tamas, Junichi Pedro
-  - 
 1. Kick-off meeting (2:30pm on Discord)
   - Participants: Tamas, Lydia, Junichi, Simon
   - Confirm the goal of the project
   - Breakdown the tasks
     - Prototype ROS-IGTL-Bridge (Junichi)
-    - Setup a remote environment for the the UR-10 computer at Dr. Krieger's lab at JHU
-    - Install ROS2 on the UR-10 computer remotely
+    - Setup a remote environment for the the UR-10 computer at Dr. Krieger's lab at JHU (Lydia)
+    - Install ROS2 on the UR-10 computer remotely (Simon)
+    - Test UR-10 + ROS2 + 3D Slicer (Simon)
 1. First implementation of ROS2-OpenIGTLink bridge
-[[ROS2 OpenIGTLink demo](https://www.dropbox.com/s/sq5amxkrfjvmvaz/ros2_igtl_bridge_July_1_2021.mov?dl=0})
+  - Repository: https://github.com/openigtlink/ros2_igtl_bridge
+  - Demo video: https://www.dropbox.com/s/sq5amxkrfjvmvaz/ros2_igtl_bridge_July_1_2021.mov?dl=0
+  - 
  
 
 # Illustrations
