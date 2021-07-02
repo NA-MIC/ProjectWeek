@@ -75,6 +75,10 @@ Here is the MONAILabel server and Slicer Module running on Curt's workstation.  
 
 ![MONAILabel vertebrae app](https://data.kitware.com/api/v1/item/60de5f0d2fa25629b9c6ee14/download?contentDisposition=inline)
 
+Development was started for training a standalone neural network model, also using the MONAI framework.  Here is a sample training image showing a portion of the spine vertibrae and the corresponding label going into the neural network for training.  This shows why it was critical to achieve solid annotations for the interior portions of the vertebrae:
+
+![Monai spine training image](https://data.kitware.com/api/v1/item/60de5f0d2fa25629b9c6ee1c/download?contentDisposition=inline)
+
 ## Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
