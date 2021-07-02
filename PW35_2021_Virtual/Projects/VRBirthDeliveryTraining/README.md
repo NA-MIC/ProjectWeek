@@ -39,12 +39,12 @@ The goal of this project is to translate this software into a Virtual Reality (V
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Visualize the simulators and forceps models in the VR scene.
-2. Define a correct starting viewpoint.
-3. Decide how to move the forceps with the VR controllers.
-4. Learn how to access buttons from the controllers.
+1. Visualize the simulators and forceps models in the VR scene. :heavy_check_mark:
+2. Define a correct starting viewpoint. :heavy_check_mark:
+3. Decide how to move the forceps with the VR controllers. :heavy_check_mark:
+4. Learn how to access buttons from the controllers. (Already possible from python?) :question:
 5. Define a way of selecting the step for the procedure (assembly, presentation, initial placement, final placement). A panel could be a good idea.
-6. For each step, check whether the placement was correct or not.
+6. For each step, check whether the placement was correct or not. :heavy_check_mark: (2/6)
 7. Connect to the same scene from other device.
 
 ## Progress and Next Steps
@@ -58,8 +58,8 @@ The goal of this project is to translate this software into a Virtual Reality (V
 4. The evaluation of each step is performed in real time. It has to be selected by the user in the module. Buttons for all the steps have been added.
 5. When a step is selected, the name of the step is displayed on the scene. 3D models of the text have been created to show the message.
 
-To Do:
-1. Access controller buttons to allow the user to change step without removing the headset. A panel widget could also be a good solution.
+## To Do:
+1. Access controller buttons so the user can change step without removing the headset. A panel widget could also be a good solution.
 2. Add the remaining steps.
 3. Add the collaborative option.
 
@@ -69,12 +69,12 @@ To Do:
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-Previous setup (non-VR):
+## Previous setup (non-VR):
 ![module_scene_and_panel](https://user-images.githubusercontent.com/17642986/123103298-c34aad00-d42d-11eb-925a-15dd4b7bc4f0.png)
 ![experts_training](https://user-images.githubusercontent.com/17642986/123102863-6222d980-d42d-11eb-9292-e8731f1d4271.jpg)
 ![novices_training](https://user-images.githubusercontent.com/17642986/123102867-62bb7000-d42d-11eb-9f8b-f53d87b1000f.jpg)
 
-VR solution:
+## VR solution:
 ![setup](https://user-images.githubusercontent.com/17642986/124196551-9436da00-dac4-11eb-8441-e573675dc887.png)
 ![arrangement_correct](https://user-images.githubusercontent.com/17642986/124196569-99942480-dac4-11eb-9e99-405b15632ef8.png)
 ![arrangement_incorrect_1](https://user-images.githubusercontent.com/17642986/124196572-9a2cbb00-dac4-11eb-8b4a-189436c512fd.png)
