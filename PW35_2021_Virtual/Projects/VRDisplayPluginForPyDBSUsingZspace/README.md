@@ -88,7 +88,7 @@ Module created and tested before implemeting it to Slicer 4.13 using VTK 9 and Q
 
 
 zSpace device:  
-<img width="373" alt="Automotive_Student" src="https://user-images.githubusercontent.com/76939787/123626158-cc15f700-d810-11eb-9ed2-9f15dba6386c.png">
+<img width="373" alt="Automotive_Student" src="https://user-images.githubusercontent.com/76939787/124276865-a6f0f380-db44-11eb-99c7-5f97080a26e2.gif">
 
 
 Pre-op module for trajectory planning, using PyDBS:  
