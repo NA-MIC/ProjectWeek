@@ -87,22 +87,18 @@ Approach:
 ![Slicer Scene](Screenshot%20from%202021-07-01%2014-18-58.png)
 
 - The contorller on ROS 2 exports the transform of each link to OpenIGTLink
-- 3D Slicer 
+
+Results:
 - ROS2 was installed successfully on the computer connected to UR10e
-- Visual models of UR-10e is 
+- Visual models of UR-10e was successfully imported to 3D Slicer. However, there seemed to be an issue with the coordinate frame. (Later, Andras pointed out it was related to RAS/LPS issue with the STL files.
+- Robot was successfuly controlled from ROS, and 3D Slicer could visualize the posture of the robot in real-time.
+- Video: https://photos.app.goo.gl/ihZ2mtWYTMQx3wmx6
 
-
-# Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
 
 # Background and References
 - Frank T, Krieger A, Leonard S, Patel NA, Tokuda J. ROS-IGTL-Bridge: an open network interface for image-guided therapy using the ROS environment. Int J Comput Assist Radiol Surg. 2017 Aug;12(8):1451-1460. doi: 10.1007/s11548-017-1618-1. Epub 2017 May 31. PMID: 28567563; [PMCID: PMC5543207](https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pmc/articles/PMC5543207/).
 - [ROS-IGTL-Bridge (for ROS 1)](https://github.com/openigtlink/ROS-IGTL-Bridge)
-- [ros2_igtl_bridge (for ROS 2)](https://github.com/tokjun/ros2_igtl_bridge)
+- [ros2_igtl_bridge (for ROS 2)](https://github.com/openigtlink/ros2_igtl_bridge)
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
 # Acknowledgement
