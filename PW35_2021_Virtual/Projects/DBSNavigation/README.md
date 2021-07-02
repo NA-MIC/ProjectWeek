@@ -55,6 +55,7 @@ In order to achieve higher accuracy of the atlases registration to patient space
 
 1. SlicerNetstim extension added to ExtensionIndex.
 1. Preview video of how WarpDrive module works.
+1. Recognized usability and performance improvements to implement.
 
 [![](https://img.youtube.com/vi/bkXiCPN_KRI/0.jpg)](https://www.youtube.com/watch?v=bkXiCPN_KRI)
 
