@@ -64,10 +64,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 ![Some more images](Example2.jpg)
 -->
 [Crowds Cure Cancer 2017 Length in OHIF](ccc2017_length_ohif.png)
+
 [Crowds Cure Cancer 2017 Length in ePAD](ccc2017_length_epad.png)
+
 [Crowds Cure Cancer 2018 Bidirectional in OHIF](ccc2018_bidirectional_ohif.png)
+
 [Crowds Cure Cancer 2018 Bidirectional in ePAD](ccc2018_bidirectional_epad.png)
+
 [Freehand DICOMSR in DICOM Image Viewer](freehand_sr_screenshot.png)
+
 
 # Background and References
 
