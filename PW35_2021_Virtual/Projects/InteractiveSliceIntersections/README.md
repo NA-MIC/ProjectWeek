@@ -10,9 +10,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Current slice navigation is based on hotkeys like Shift+drag for moving the 3D cursor, or Ctrl+Alt+drag&drop for rotation of the slice planes when slice intersections are shown. It would be great to have these features available more explicitly that could be used directly with the mouse, avoiding the use of keyboard.
+Current slice navigation is based on hotkeys like **Shift+drag** for moving the 3D cursor, or **Ctrl+Alt+drag&drop** for rotation of the slice planes when slice intersections are shown. It would be great to have these features available more explicitly that could be used directly with the mouse, avoiding the use of keyboard.
 
-In this project, we want to develop an interactive slice intersections mode to enable users to navigate slices using interaction handles (similar to markups translation/rotation).
+In this project, we want to develop an **interactive slice intersections mode** to enable users to navigate slices using interaction handles (similar to markups translation/rotation).
 
 Details:
 
@@ -35,38 +35,54 @@ More information in this GitHub issue: [here](https://github.com/Slicer/Slicer/i
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Create base classes to control interaction handles.
+
 2. Develop the interactive slice intersections mode. 
+
 3. Customize slice interaction handles.
+
 4. Test it on sample images.
+
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Explore the rendering pipeline for current Markups interaction handles (i.e., MarkupsInteractionPipeline class in vtkSlicerMarkupsWidgetRepresentation).
+
 2. Move base class and display options to a lower level.
+
 3. Create new classes vtkMRMLInteractionWidget and vtkMRMLInteractionWidgetRepresentation in DisplayableManager
+
 4. Customize handles to control slice intersection in an intuitive manner.
+
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Migrate pipelines for generic widget interaction handles from Markups module to new base classes in DisplayableManager (vtkMRMLInteractionWidget and vtkMRMLInteractionWidgetRepresentation)
-2. Improve base interaction classes to allow easy implementation of custom interaction handles.
+1. Migrate pipelines for generic widget interaction handles from Markups module to **new base classes** in DisplayableManager (**vtkMRMLInteractionWidget** and **vtkMRMLInteractionWidgetRepresentation**).
+
+2. Improve base interaction classes to allow easy implementation of **custom interaction handles**.
+
 3. Implement interaction handles test case for manipulating transform nodes.
 
-<img src="TransformInteraction_Cube.gif" alt="BEFORE" width="800"/>
+    **BEFORE**
+    
+    <img src="TransformInteraction_Cube.gif" alt="BEFORE" width="800"/>
+    
+    **AFTER**
+    
+    <img src="TransformInteraction_Handles.gif" alt="AFTER" width="800"/>
 
-<img src="TransformInteraction_Handles.gif" alt="AFTER" width="800"/>
+4. Create new classes to render interaction handles for interactive slice intersection: vtkMRMLSliceIntersectionInteractionWidget and vtkMRMLSliceIntersectionInteractionRepresentation.
 
-5. Create new classes to render interaction handles for interactive slice intersection: vtkMRMLSliceIntersectionInteractionWidget and vtkMRMLSliceIntersectionInteractionRepresentation.
-6. Add new option in ViewersToolbar to select interactive slice intersection mode. This option is only enabled and visible when slice intersection mode is active.
+5. Add new option in ViewersToolbar to select interactive slice intersection mode. This option is only enabled and visible when slice intersection mode is active.
 
-<img src="Image_Toolbar.png" alt="drawing" width="600"/>
+    <img src="Image_Toolbar.png" alt="drawing" width="600"/>
 
-7. TO DO: Customize handles for interactive slice intersection.
-8. TO DO: Test new mode in sample images
+6. TO DO: Customize handles for interactive slice intersection.
+
+7. TO DO: Test new mode in sample images
 
 # Illustrations
 
