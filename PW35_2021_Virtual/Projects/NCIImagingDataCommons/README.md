@@ -83,6 +83,11 @@ Visit "IDC-Bot" stream set up by Theodore under the discord project channel to w
 3. [Summarized steps](https://docs.google.com/document/d/1nuv4qsiDflGYO4EKOK8-y5SWryZrjiprQ_lxVSffXCg/edit#) how to work with a GCP DICOM store to visualize analysis results - this currently relies on a non-production OHIF Viewer test deployment which may not be around for too long, need to find a more stable solution.
 4. As an exercise, and to test the instructions, converted cortical segmentation result for a case from IDC done by Fernando and confirmed visualization in the viewer.
 5. IDC-MONAILabel coordination meeting is today after the closing remarks at [this link](https://www.google.com/url?q=https://harvard.zoom.us/j/99711834613?pwd%3DajZ1alluQWtya3pUY3p6T1hsUDR6dz09&sa=D&source=calendar&usd=2&usg=AOvVaw1HLyL8Q4F8Lcl8E4UnZZ83).
+6. Tutorial videos from [IDC paper](https://doi.org/10.1158/0008-5472.CAN-21-0950) have been published on NCI YouTube channel:
+ * Introduction to the Portal - https://youtu.be/uTljK2QehS0
+ * Introduction to Case Cohorts - https://youtu.be/hGse2jpsb-c
+ * Custom Dashboards with Google D​ata Studio* - https://youtu.be/kEYcE-mFlzA
+ * A Case Study Integrating Image Analysis - https://youtu.be/ISJ5z1zLLjg
 
 ![image](https://user-images.githubusercontent.com/313942/124285843-55347300-db1c-11eb-831a-4b3675c74ed2.png)
 
