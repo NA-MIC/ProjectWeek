@@ -32,6 +32,9 @@ The goal of this project is to enable the development of advanced 3D rendering t
     5. The Slicer shader property node is available only for volume rendering. The feature could easily be ported to surface rendering to facilitate the editing of surface shader
 1. Previous efforts by Simon Drouin were made to facilitate shader debugging. Code is available in [this branch](https://gitlab.kitware.com/drouin-simon/vtk/-/tree/volume-shader-readability). The code still needs work to enable a debug mode where shader code can be kept in memory with additional tags to facilitate development. 
 
+* Python scripted Actor/Mappers: https://www.slicer.org/wiki/Slicer3:Python:ScriptedActor
+* SimpleMapper: https://github.com/IbisNeuronav/Ibis/tree/master/IbisVTK/vtkExtensions
+
 # Illustrations
 
 ![Opacity Peeling](opacity-peeling.gif)
