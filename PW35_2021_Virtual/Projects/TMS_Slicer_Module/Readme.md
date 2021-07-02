@@ -45,7 +45,6 @@ Fiducial (yellow sphere) moving along the brain surface:
 ![Fiducial (Sphere) moving along brain surface](./fiducial_on_brain_surface.png)
 Fiducial will later be replaced by a TMS coil model.
 
-![Vector Field volume and brain surface](./map_evec_on_brain_surface.mov)
 
 Visualization goal in slicer:
 ![Brain surface and DT](./tmsonbrain.png)
