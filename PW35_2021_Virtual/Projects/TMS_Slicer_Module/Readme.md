@@ -32,11 +32,12 @@ Integrate the visualization process as a new module within the MRML scene archit
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 1. Visualize Efield (volume) on brain surface (polydata/mesh) by adjusting the models orientation and applying the vtkProbeFilter within a new Slicer Module.
-2. Tested the rendering time of our visualization approach with renderer.GetLastRenderTimeInSeconds() resulted in around 0.0005 seconds.
+2. Tested the rendering time of our visualization approach with renderer.GetLastRenderTimeInSeconds() resulted in an average of 0.8 milliseconds.
 3. Added a functionality to create fiducials and to move it along the brain model's surface.
 
 Next steps: 
 - Replace the fiducial with a TMS coil model.
+- Compare with further methods for rendering time (vtkpointlocator, cppyy, manual with optimized storage)
 - Apply vector field visualization on tractography data / pick fibers (similar to [DBS Navigation](../DBSNavigation/README.md) ).
 
 ## Illustrations
