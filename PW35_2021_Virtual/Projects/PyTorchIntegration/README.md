@@ -61,15 +61,17 @@ The `PyTorch` extension has been added to the Extensions Index.
 
 ### Demo modules
 
+The code for these modules can be found at [SlicerParcellation](https://github.com/fepegar/SlicerParcellation).
+
 #### Brain Resection Cavity Segmentation
 
-Based on [Pérez-García et al., 2021, *A self-supervised learning strategy for postoperative brain cavity segmentation simulating resections*](https://link.springer.com/article/10.1007/s11548-021-02420-2).
+Based on [Pérez-García et al., 2021, *A self-supervised learning strategy for postoperative brain cavity segmentation simulating resections*](https://link.springer.com/article/10.1007/s11548-021-02420-2). More info at the [`resseg`](https://github.com/fepegar/resseg) repository.
 
 [![Brain Resection Cavity Segmentation](./cavity.gif)](https://link.springer.com/article/10.1007/s11548-021-02420-2 "Brain Resection Cavity Segmentation")
 
 #### Brain Parcellation
 
-Based on [Li et al., 2017, *On the Compactness, Efficiency, and Representation of 3D Convolutional Networks: Brain Parcellation as a Pretext Task*](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_28).
+Based on [Li et al., 2017, *On the Compactness, Efficiency, and Representation of 3D Convolutional Networks: Brain Parcellation as a Pretext Task*](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_28). More info at the [`highresnet`](https://github.com/fepegar/highresnet) repository.
 
 [![Brain Parcellation on 3D Slicer](./parcellation_mrhead_frame.png)](https://youtu.be/kKXCv-JPikw "Brain Parcellation on 3D Slicer")
 
