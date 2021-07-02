@@ -18,7 +18,7 @@ plugin. Then, it will be implemented in Slicer to be available for all users.
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 1. Objective A. Extract the code from IBIS Neuronav
 2. Objective B. Create a file usable by Slicer
-3. Objective C. ...
+
 
 ## Approach and Plan
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
@@ -28,9 +28,12 @@ plugin. Then, it will be implemented in Slicer to be available for all users.
 
 ## Progress and Next Steps
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Identification and preparation of usable code :white_check_mark:
+  i. Isolate the code from IBIS and Adapt the code to make it usable outside.
+  ii. Creation of a specific library using Cmake. 
+(You can find all the code on this github link : https://github.com/IbisNeuronav/GPURigidRegistrationLib ) 
+2. Implementing functionality on Slicer :hourglass_flowing_sand:
+
 
 # Illustrations
 
@@ -39,3 +42,4 @@ plugin. Then, it will be implemented in Slicer to be available for all users.
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 - http://ibisneuronav.org 
 - https://github.com/IbisNeuronav/Ibis 
+- https://github.com/IbisNeuronav/GPURigidRegistrationLib
