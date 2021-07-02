@@ -71,9 +71,9 @@ We would use VTK 9 as Slicer is planning on using it for its future launches, an
 
 2. 2 widgets one displayed in 3D QuadBuffer mode, the other in classic 2D, to see where I need to make the changes and how. 
 
-3. Skeleton of this widget but with Slicer scenes. 
+3. Creating a scripted module that displays a 3D view outside the Slicer layout, it displays the scene in stereo (red/blue etc) but not in quadbuffer mode for now.
 
-4. ... 
+4. Next step : change the default type widget of Slicer 4.13 so I can have my module working in quadbuffer mode. 
 
  
 
@@ -86,12 +86,19 @@ Already existing QuadBuffer stereo mode in 3DSlicer 4.8, photo taken by phone so
 Module created and tested before implemeting it to Slicer 4.13 using VTK 9 and QT 4.15, still taken by phone:  
 <img width="373" alt="IMG_20210628_112539" src="https://user-images.githubusercontent.com/76939787/123618384-70477000-d808-11eb-8b43-004ecffbfa42.jpg">
 
+
 zSpace device:  
 <img width="373" alt="Automotive_Student" src="https://user-images.githubusercontent.com/76939787/123626158-cc15f700-d810-11eb-9ed2-9f15dba6386c.png">
 
 
 Pre-op module for trajectory planning, using PyDBS:  
 <img width="373" alt="image" src="https://user-images.githubusercontent.com/76939787/123618539-9836d380-d808-11eb-9009-bfe73d0657a4.jpeg">
+
+
+Scripted module to display a new 3D view outside the actual layout [1] and in different stereo modes [2]. For now even if the button is named QuadBuffer this mode is not working:   
+
+[1]  <img width="373" alt="Capture d%u2019écran du 2021-06-30 15-41-07" src="https://user-images.githubusercontent.com/76939787/124274204-43b19200-db41-11eb-8eed-07c43e0eedd0.png">
+[2]  <img width="373" alt="Capture d%u2019écran du 2021-06-30 16-01-33" src="https://user-images.githubusercontent.com/76939787/124274266-56c46200-db41-11eb-9277-058ea6d17315.png">
 
 
 
