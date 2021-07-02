@@ -70,3 +70,5 @@ Moving fiducials with CPYY: https://gist.github.com/pieper/f9da3e0a73c70981b48d0
 Measure rendering time in 3D Slicer:
 1. Getting renderer: https://slicer.readthedocs.io/en/latest/developer_guide/script_repository.html#access-vtk-views-renderers-and-cameras
 2. Then applying renderer.GetLastRenderTimeInSeconds()
+
+- Random note following the project presentations: http://cyclotronresearchcentre.github.io/forward/ might be useful for using diffusion-weighted imaging to compute conductivity tensors in the white matter to make the electromagnetic simulations more accurate.
