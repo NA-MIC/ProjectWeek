@@ -76,8 +76,8 @@ transition to the new ROS platform (ROS2).
 Tamas tried installing ROS2 on windows, but was not straightfoward. It might not be a viable solution for the workshop tutorial.
 ### First implementation of ROS2-OpenIGTLink bridge
 The original interface for ROS1 (ROS_IGTL_Bridge) has been modified for ROS2. The modified interface is now working with ROS 2 with limited capability (only supports text, transform, and point) 
-- Repository: https://github.com/openigtlink/ros2_igtl_bridge
-- Demo video: https://www.dropbox.com/s/sq5amxkrfjvmvaz/ros2_igtl_bridge_July_1_2021.mov?dl=0
+- [Repository](https://github.com/openigtlink/ros2_igtl_bridge)
+- [Demo video](https://www.dropbox.com/s/sq5amxkrfjvmvaz/ros2_igtl_bridge_July_1_2021.mov?dl=0)
 ### Setup ROS 2 and 3D Slicer on universal robot (UR-10e)
 Approach:
 - Preload visual models of the links of the universal robot.
@@ -92,7 +92,7 @@ Results:
 - ROS2 was installed successfully on the computer connected to UR10e
 - Visual models of UR-10e was successfully imported to 3D Slicer. However, there seemed to be an issue with the coordinate frame. (Later, Andras pointed out it was related to RAS/LPS issue with the STL files.
 - Robot was successfuly controlled from ROS, and 3D Slicer could visualize the posture of the robot in real-time.
-- Video: https://photos.app.goo.gl/ihZ2mtWYTMQx3wmx6
+- [Video](https://photos.app.goo.gl/ihZ2mtWYTMQx3wmx6)
 
 
 # Background and References
