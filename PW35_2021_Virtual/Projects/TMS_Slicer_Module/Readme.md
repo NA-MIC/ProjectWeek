@@ -37,18 +37,21 @@ Integrate the visualization process as a new module within the MRML scene archit
 
 Next steps: 
 - Replace the fiducial with a TMS coil model.
-- Apply visualization on DTI data / pick fibers (similar to [DBS Navigation](../../DBSNavigation/README.md)
+- Apply visualization on DTI data / pick fibers (similar to [DBS Navigation](../../DBSNavigation/README.md) )
 
 ## Illustrations
 
+Fiducial (yellow sphere) moving along the brain surface:
 ![Fiducial (Sphere) moving along brain surface](./fiducial_on_brain_surface.png)
+Fiducial will later be replaced by a TMS coil model.
 
 Visualization goal in slicer:
-
 ![Brain surface and DT](./tmsonbrain.png)
 
 Visualization process:
-
 ![Visualization Process](./visualization_process.png)
 
 # Background and References
+
+https://vtk.org/doc/nightly/html/classvtkProbeFilter.html
+
