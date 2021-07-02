@@ -32,13 +32,17 @@ Currently, physicians rely on the pre and intraoperative images and their own ex
 ## Progress and Next Steps
 ### Update to python 3
 Pedro did the modifications to addapt the current module to Python3. Most of the errors were related to dict_keys and managing the markups. We also had a problem loading the DICOM files, but was fixed replacing "slicer.util.loadVolume" by "self.scalarVolumePlugin.load". There are still some miror errors that has to be address within next week.
-![ProstateAblation module](ScreenShot2.png)
+
 ### Statistical model to predict the iceball
 We've developed a module this week that capture the desired probe location defined by the physician on the ProstateAblation module, a few points along the urethra, and uses the logistic regression presented on CARS2020 [1] to estimate the final iceball. The user can also define the threshold to select the sensitivity of the logistic regression. The code is still quite slow as it goes through the entire image, future implementation should use a ROI around the probe location. We are also working on displaying the total volume of the iceball and the minimum ablation margin. According to the literature, an ablation margin around 5mm is desirable.
+
+Figure 1: The blue segmentation is the estimated iceball given the probe location and the segmented urethra.
 ![Prediction module](ScreenShot1.png)
+
+Figure 2: Integration of the iceball estimation and the ProstateAblation module. the ablation target is marked in green, while the estimated iceball is in blue.
 ![Integration](ScreenShot3.png)
 
-We still need to discuss the best way to vizualize the prediction and planning results. We should meet the Dr. Tuncali soon to get his input.
+One of the advantages of the current approach is the prediction and the vizualization of the ablation margins in 3D, However, we still need to discuss the best way to vizualize the prediction and planning results. We should meet the Dr. Tuncali soon to get his input.
 
 ### Data curation
 Nick is working on the cryoablation database to segment all intraprocedure images. We currently have data of 44 cases, but it is still not publicly available.
