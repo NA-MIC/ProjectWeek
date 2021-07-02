@@ -72,7 +72,7 @@ transition to the new ROS platform (ROS2).
    - Add AI-based segmentation?
    - Recycle a surgical plan generated in Tamas' AI segmentation tutorial
    - The new workshop tutorial will focus on ROS, but could direct audience to Tamas' AI segmentation tutorial, if they are interested.
-   - 
+
 ### ROS 2 testing on other environment
 Tamas tried installing ROS2 on windows, but was not straightfoward. It might not be a viable solution for the workshop tutorial.
 
