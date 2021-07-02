@@ -78,6 +78,16 @@ An additional and probably key feature of this experiment is that it's cloud nat
 
 Visit "IDC-Bot" stream set up by Theodore under the discord project channel to watch short demo videos about IDC.
 
+1. Discussed IDC with Curt, Nadya, Andres, Fernando; presented at the DICOM breakout session.
+2. Based on the feedback, [summarized steps](https://docs.google.com/document/d/1NkAHCS07y8wuvkNUYwSWKM_6qjhWFE-Es2ahzBsYj2Y/edit#) how to launch a COS VM with Slicer - which on the same day were utterly superseded by the [SlicerOnDemand](https://github.com/pieper/SlicerOnDemand) module by Steve!
+3. [Summarized steps](https://docs.google.com/document/d/1nuv4qsiDflGYO4EKOK8-y5SWryZrjiprQ_lxVSffXCg/edit#) how to work with a GCP DICOM store to visualize analysis results - this currently relies on a non-production OHIF Viewer test deployment which may not be around for too long, need to find a more stable solution.
+4. As an exercise, and to test the instructions, converted cortical segmentation result for a case from IDC done by Fernando and confirmed visualization in the viewer.
+
+![image](https://user-images.githubusercontent.com/313942/124284148-b22f2980-db1a-11eb-9095-10fc01b7e067.png)
+
+![image](https://user-images.githubusercontent.com/313942/124284165-b5c2b080-db1a-11eb-93e9-91a23cb879b0.png)
+
+
 ### GBM series tagging experiment
 
 #### Setting up
