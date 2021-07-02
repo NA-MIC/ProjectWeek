@@ -29,9 +29,11 @@ plugin. Then, it will be implemented in Slicer to be available for all users.
 ## Progress and Next Steps
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 1. Identification and preparation of usable code :white_check_mark:
-  i. Isolate the code from IBIS and Adapt the code to make it usable outside.
-  ii. Creation of a specific library using Cmake. 
+- Isolate the code from IBIS and Adapt the code to make it usable outside.
+- Creation of a specific library using Cmake.
+
 (You can find all the code on this github link : https://github.com/IbisNeuronav/GPURigidRegistrationLib ) 
+
 2. Implementing functionality on Slicer :hourglass_flowing_sand:
 
 
