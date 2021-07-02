@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Gabriel Vargas Grau (Universidad de Santander)
 - Juan Camilo Gamboa (Mc Gill University)
 - Andrés Gamboa (Neurotrauma/Universidad Politécnica de Valencia/)
+- Rebecca Hisey (Perk Lab/ Queen's University)
 
 # Project Description
 
@@ -40,8 +41,8 @@ Develop and validate a workflow  for the implementation of a prototype markless 
 1. Defining a protocol for MRI acquisition for navigation (DWI, Opt T2, T1, FLAIR, proppeler...etc) We are working ina review article of NtMS for tumor surgery in order to define which one wul be more convinient
 2. Setting up workflow for surface 3D scanning of patients: We have done few (three) scans of patients with a light and depth parameters obtain from literature. 
 3. Creating a coregistration method for objects and volumes: We have upload obtained scans files as 3d objects with color using TexturetoModel. Also using volume rendering a volume models we have reconstruct 3d volumes of patients. We have reviw literatu in this regard and have don trials
-4. WE have create a script for conecting a SR3600 intel real sense camera for Plus server, with RGB and depth streaming
-5. Developing a algorithm/code for Depth streaming: We have review some publications or design best solution
+4. WE have create a script for conecting a SR3600 intel real sense camera for Plus server, with RGB and depth streaming. Also created a module for setting up and recording data from intel real sense cameras.
+5. Developing a algorithm/code for Depth streaming: Implemented a module for obtaining a point cloud from streamed depth images
 6. https://towardsdatascience.com/inverse-projection-transformation-c866ccedef1c
 7. A TMS virtual model was introduced in the scence with a niddle model that projects a point of supposedly site of stimulation in cortex
 8. No progress
