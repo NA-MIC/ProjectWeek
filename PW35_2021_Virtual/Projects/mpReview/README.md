@@ -10,7 +10,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Aytek Oto (U.Chicago)
 - Andras Lasso (Queen's)
 - Fiona Fennessy (BWH)
-- Christian Herz (?) (CHOP)
+- Christian Herz (CHOP)
+- Steve Pieper (Isomics)
 
 ## Project Description
 
@@ -44,6 +45,7 @@ In the past we have developed mpReview extension to streamline the manual annota
 3. Discussed the current implementation, discussion notes [here](https://docs.google.com/document/d/1f6gXrl-u1mkMPVfLLT4oLHwPS8sZp48ent-qyWPzDMk/edit)
 4. Tested with the current version of Slicer - some legacy Editor effects no longer work.
 5. Based on feedback from Masoom, there is not much interest in patching existing mpReview, would need to rewrite it from scratch to work with the current Slicer infrastructure.
+  * Instead of a custom module, maybe improve Slicer itself to improve effiency, like [this DICOM thumbnail experiemnt](https://github.com/commontk/CTK/pull/979)
 
 
 ## Illustrations
