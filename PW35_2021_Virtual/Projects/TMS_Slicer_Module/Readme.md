@@ -37,26 +37,35 @@ Integrate the visualization process as a new module within the MRML scene archit
 
 Next steps: 
 - Replace the fiducial with a TMS coil model.
-- Apply visualization on DTI data / pick fibers (similar to [DBS Navigation](../DBSNavigation/README.md) )
+- Apply vector field visualization on tractography data / pick fibers (similar to [DBS Navigation](../DBSNavigation/README.md) ).
 
 ## Illustrations
 
-Fiducial (yellow sphere) moving along the brain surface:
+Fiducial (yellow sphere) moving along the brain surface with mapped vector field:
 ![Fiducial (Sphere) moving along brain surface](./fiducial_on_brain_surface.png)
 The fiducial in this screenshot will later be replaced by a TMS coil model.
 
 
+
+The vector field volume and the brain surface mesh overlapping after applying the module's functionalities:
 ![Moving vector field](./moving_evec.gif)
 
 
-Visualization goal in slicer:
+
+Visualization goal from another software we want to implement as Module in 3D Slicer:
 ![Brain surface and DT](./tmsonbrain.png)
 
 
-Visualization process:
+
+
+Visualization process also on tractography for fiber bundle targeting:
 ![Visualization Process](./visualization_process.png)
 
 # Background and References
 
-https://vtk.org/doc/nightly/html/classvtkProbeFilter.html
+vtkProbeFilter: https://vtk.org/doc/nightly/html/classvtkProbeFilter.html
+Moving fiducials with CPYY: https://gist.github.com/pieper/f9da3e0a73c70981b48d0747132526d5
 
+Measure rendering time in 3D Slicer:
+1. Getting renderer: https://slicer.readthedocs.io/en/latest/developer_guide/script_repository.html#access-vtk-views-renderers-and-cameras
+2. Then applying renderer.GetLastRenderTimeInSeconds()
