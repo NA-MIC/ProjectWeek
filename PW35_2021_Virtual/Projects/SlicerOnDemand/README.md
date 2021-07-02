@@ -46,10 +46,9 @@ The goal is to allow people to quickly transition from viewing images to doing m
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+
+[![SlicerOnDemand full demo (2 minutes)](http://img.youtube.com/vi/ERm2lPzWH0E/0.jpg)](https://youtu.be/ERm2lPzWH0E "SlicerOnDemand")
+
 
 # Background and References
 * [Review of Cloud efforts from last virtual Project Week](https://projectweek.na-mic.org/PW34_2020_Virtual/Projects/Slicer_in_Cloud_Environments/).
