@@ -48,10 +48,13 @@ tools to register patients' follow-up scans to their original planning CT scans 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+The Planning CTs have excellent annotations:
 ![Planning CT has excellent structure segmentation](https://data.kitware.com/api/v1/item/60d92be32fa25629b980f149/download?contentDisposition=inline)
 
+But since follow-up scans are different times, there is no registration.  The CTs are "miles apart":
 ![No registration between successive scans](https://data.kitware.com/api/v1/item/60d92be52fa25629b980f151/download?contentDisposition=inline)
 
+After a prelimary registration, the anatomy annotations are much closer.  This was after our initial automated process:
 ![Images after a preliminary registration](https://data.kitware.com/api/v1/item/60de5f252fa25629b9c6ee2e/download?contentDisposition=inline)
 
 
