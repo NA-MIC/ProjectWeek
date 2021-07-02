@@ -1,7 +1,4 @@
 
-
-https://user-images.githubusercontent.com/22460517/124278056-c885b700-db13-11eb-83f3-5811b98a4da1.mp4
-
 Back to [Projects List](../../README.md#ProjectsList)
 
 # Markerless tracking with RGBD cameras for low cost neuronavigation
