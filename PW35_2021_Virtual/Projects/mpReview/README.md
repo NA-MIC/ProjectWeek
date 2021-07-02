@@ -39,6 +39,11 @@ In the past we have developed mpReview extension to streamline the manual annota
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Revised documentation for the current version of the module: https://github.com/SlicerProstate/mpReview/wiki/Documentation
+2. Updated test dataset
+3. Discussed the current implementation, discussion notes [here](https://docs.google.com/document/d/1f6gXrl-u1mkMPVfLLT4oLHwPS8sZp48ent-qyWPzDMk/edit)
+4. Tested with the current version of Slicer - some legacy Editor effects no longer work.
+5. Based on feedback from Masoom, there is not much interest in patching existing mpReview, would need to rewrite it from scratch to work with the current Slicer infrastructure.
 
 
 ## Illustrations
