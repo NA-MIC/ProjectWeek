@@ -4,3 +4,4 @@ repository: NA-MIC/ProjectWeek
 
 plugins:
   - jekyll-mentions
+  - jemoji
