@@ -16,8 +16,7 @@ The goal is to combine the registration method for _open_ surgery implemented in
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Read/Write US data acquisred with IBIS into Slicer.
-2. Learn how AIGT module works
+1. Read/Write US data acquired with IBIS into Slicer.
 3. Segment the vertebral surface of US data obtained from porcine cadavers
 4. Register segmented images with CT images
 
@@ -34,7 +33,7 @@ The goal is to combine the registration method for _open_ surgery implemented in
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
+- 
 
 # Illustrations
 
@@ -43,10 +42,17 @@ The goal is to combine the registration method for _open_ surgery implemented in
 ![Some more images](Example2.jpg)
 -->
 
-![Open surgery acquisition](open.png)
-![Percutaneous acquisition](percutaneous.png)
-![US-CT registration](registration.png)
+
+
+![Workflow](workflow.png)
+
+Data processing workflow
+
+
+
 ![Navigation](navigation.jpg)
+
+Navigation with IBIS
 
 # Background and References
 
