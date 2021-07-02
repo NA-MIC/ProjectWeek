@@ -1,5 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
+Go to [Progress and Next Steps](#progress-and-next-steps)
 # Integration of PyTorch and Slicer
 
 ## Key Investigators
@@ -65,7 +66,7 @@ The code for these modules can be found at [SlicerParcellation](https://github.c
 
 #### Brain Resection Cavity Segmentation
 
-Based on [Pérez-García et al., 2021, *A self-supervised learning strategy for postoperative brain cavity segmentation simulating resections*](https://link.springer.com/article/10.1007/s11548-021-02420-2). More info at the [`resseg`](https://github.com/fepegar/resseg) repository.
+Based on [Pérez-García et al., 2021, *A self-supervised learning strategy for postoperative brain cavity segmentation simulating resections*](https://link.springer.com/article/10.1007/s11548-021-02420-2). More info at the [`resseg-ijcars`](https://github.com/fepegar/resseg-ijcars) repository.
 
 [![Brain Resection Cavity Segmentation](./cavity.gif)](https://link.springer.com/article/10.1007/s11548-021-02420-2 "Brain Resection Cavity Segmentation")
 
