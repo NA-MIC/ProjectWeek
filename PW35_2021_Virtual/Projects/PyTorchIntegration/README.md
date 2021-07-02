@@ -54,7 +54,7 @@ Issues that will be addressed:
 
 #### Brain Parcellation
 
-[![Brain Parcellation on 3D Slicer](https://yt-embed.herokuapp.com/embed?v=kKXCv-JPikw)](https://youtu.be/kKXCv-JPikw "Brain Parcellation on 3D Slicer")
+[![Brain Parcellation on 3D Slicer](./parcellation_mrhead_frame.png)](https://youtu.be/kKXCv-JPikw "Brain Parcellation on 3D Slicer")
 
 
 # Illustrations
