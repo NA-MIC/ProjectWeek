@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Csaba Pinter (Ebatinca, Pixel Medical)
 - Adam Rankin (Robarts Research, Canada)
 - Jean-Christophe Fillion-Robin (Kitware)
+- Simon Drouin (ETS)
 
 # Project Description
 
@@ -51,7 +52,7 @@ Once build is fixed and the in-VR widget is added, arbitrary UI elements of Slic
    1. Rebased VR widgets branch to the latest master to a [new branch](https://github.com/cpinter/SlicerVirtualReality/tree/virtual-widget-2)
    1. Built the SlicerVR branch succesfully with VTK9
    1. The vtkQWidgetWidget test still crashes unfortunately
-1. ...
+1. Proposed some hooks to enable customization of VR interaction from python code in Slicer. [Pull request here](https://github.com/KitwareMedical/SlicerVirtualReality/pull/83) for reference.
 
 # Illustrations
 
