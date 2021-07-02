@@ -42,7 +42,7 @@ The goal of this project is to translate this software into a Virtual Reality (V
 1. Visualize the simulators and forceps models in the VR scene. :heavy_check_mark:
 2. Define a correct starting viewpoint. :heavy_check_mark:
 3. Decide how to move the forceps with the VR controllers. :heavy_check_mark:
-4. Learn how to access buttons from the controllers. (Already possible from python?) :question:
+4. Learn how to access buttons from the controllers. (Already tested although with Simon's version) ❗ 
 5. Define a way of selecting the step for the procedure (assembly, presentation, initial placement, final placement). A panel could be a good idea.
 6. For each step, check whether the placement was correct or not. :heavy_check_mark: (2/6)
 7. Connect to the same scene from other device.
@@ -76,12 +76,14 @@ The goal of this project is to translate this software into a Virtual Reality (V
 
 ## VR solution:
 ![setup](https://user-images.githubusercontent.com/17642986/124196551-9436da00-dac4-11eb-8441-e573675dc887.png)
-![arrangement_correct](https://user-images.githubusercontent.com/17642986/124196569-99942480-dac4-11eb-9e99-405b15632ef8.png)
-![arrangement_incorrect_1](https://user-images.githubusercontent.com/17642986/124196572-9a2cbb00-dac4-11eb-8b4a-189436c512fd.png)
-![arrangement_incorrect_2](https://user-images.githubusercontent.com/17642986/124196573-9ac55180-dac4-11eb-9f56-a41ea9009ab2.png)
-![presentation_correct](https://user-images.githubusercontent.com/17642986/124196576-9ac55180-dac4-11eb-9440-851377a34bd5.png)
-![presentation_incorrect_1](https://user-images.githubusercontent.com/17642986/124196577-9b5de800-dac4-11eb-9893-86e1bb532e53.png)
-![presentation_incorrect_2](https://user-images.githubusercontent.com/17642986/124196578-9b5de800-dac4-11eb-8777-86c7821229ac.png)
+### View
+![setup](https://user-images.githubusercontent.com/17642986/124282685-04844080-db43-11eb-9f43-bdf9785fdf33.gif)
+### Arrangement
+![arrangement](https://user-images.githubusercontent.com/17642986/124282699-0948f480-db43-11eb-8386-422fc634504e.gif)
+### Presentation
+![presentation](https://user-images.githubusercontent.com/17642986/124284397-ddc70980-db44-11eb-861a-e394383d6173.gif)
+### Controller buttons interaction
+![controllerButtons](https://user-images.githubusercontent.com/17642986/124281394-9428ef80-db41-11eb-969f-c3a82a0d5f54.gif)
 
 VR video: [https://youtu.be/Q8b7IehEQhE](https://youtu.be/Q8b7IehEQhE)
 
