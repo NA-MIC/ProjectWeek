@@ -50,13 +50,12 @@ The goal of the project is to evaluate and implement deep learning approaches to
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
-![Namic_1](https://user-images.githubusercontent.com/51300488/124282278-a7739500-db18-11eb-8d9d-94352fd832ac.png)
+
+
+[Namic_1](https://user-images.githubusercontent.com/51300488/124282278-a7739500-db18-11eb-8d9d-94352fd832ac.png)
 Results of MONAI on Left Lateral ventricle segmentation
 
-![Namic_2](https://user-images.githubusercontent.com/51300488/124282344-b8bca180-db18-11eb-80da-196b6a80e4e7.png)
+[Namic_2](https://user-images.githubusercontent.com/51300488/124282344-b8bca180-db18-11eb-80da-196b6a80e4e7.png)
 Results of Whole Brain Segmentation (HighResNet; https://github.com/fepegar/highresnet)
 
 # Background and References
