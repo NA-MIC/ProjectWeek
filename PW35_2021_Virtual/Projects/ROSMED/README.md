@@ -72,12 +72,15 @@ transition to the new ROS platform (ROS2).
    - Add AI-based segmentation?
    - Recycle a surgical plan generated in Tamas' AI segmentation tutorial
    - The new workshop tutorial will focus on ROS, but could direct audience to Tamas' AI segmentation tutorial, if they are interested.
+   - 
 ### ROS 2 testing on other environment
 Tamas tried installing ROS2 on windows, but was not straightfoward. It might not be a viable solution for the workshop tutorial.
+
 ### First implementation of ROS2-OpenIGTLink bridge
 The original interface for ROS1 (ROS_IGTL_Bridge) has been modified for ROS2. The modified interface is now working with ROS 2 with limited capability (only supports text, transform, and point) 
 - [Repository](https://github.com/openigtlink/ros2_igtl_bridge)
 - [Demo video](https://www.dropbox.com/s/sq5amxkrfjvmvaz/ros2_igtl_bridge_July_1_2021.mov?dl=0)
+
 ### Setup ROS 2 and 3D Slicer on universal robot (UR-10e)
 Approach:
 - Preload visual models of the links of the universal robot.
