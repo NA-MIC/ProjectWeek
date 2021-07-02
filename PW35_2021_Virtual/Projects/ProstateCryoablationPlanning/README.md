@@ -25,27 +25,38 @@ Currently, physicians rely on the pre and intraoperative images and their own ex
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Change the current module to work with Slcier 4.11
+1. Change the current module to work with Slicier 4.11
 3. Create a module with the logistic regression model
 4. Test the algorithm with retrospective data
 
 ## Progress and Next Steps
+### Update to python 3
+Pedro did the modifications to addapt the current module to Python3. Most of the errors were related to dict_keys and managing the markups. We also had a problem loading the DICOM files, but was fixed replacing "slicer.util.loadVolume" by "self.scalarVolumePlugin.load". There are still some miror errors that has to be address within next week.
+![ProstateAblation module](ScreenShot1.png)
+### Statistical model to predict the iceball
+We've developed a module this week that capture the desired probe location defined by the physician on the ProstateAblation module, a few points along the urethra, and uses the logistic regression presented on CARS2020 [1] to estimate the final iceball. The user can also define the threshold to select the sensitivity of the logistic regression. The code is still quite slow as it goes through the entire image, future implementation should use a ROI around the probe location. We are also working on displaying the total volume of the iceball and the minimum ablation margin. According to the literature, an ablation margin around 5mm is desirable.
+![Prediction module](ScreenShot2.png)
+![Integration](ScreenShot3.png)
 
-1. Modifications to addapt the current module to Python3 were performed. Most of the errors were related to dict_keys and managing the markups. We also had a problem loading the DICOM files, but was fixed replacing "slicer.util.loadVolume" by "self.scalarVolumePlugin.load"
-1. Implemented a module that capture the desired probe location defined by the physician and a few points along the urethra, and uses the logistic regression presented on CARS2020 [1] to estimate the final iceball.
-1. The module also display the total volume of the iceball and the minimum ablation margin. According to the literature, an ablation margin around 5mm is desirable.
-2. The module was integrated with the current cryoablation module, but small issues still need to be fixed.
-3. Next step is to use an optimization and/or a search algorithm too define to suggest an optimal number of probes and its locations
+We still need to discuss the best way to vizualize the prediction and planning results. We should meet the Dr. Tuncali soon to get his input.
+
+### Data curation
+Nick is working on the cryoablation database to segment all intraprocedure images. We currently have data of 44 cases, but it is still not publicly available.
+
+## Next Steps
+
+1. Implement the search/optimization algorithm to suggest the optimal number of probes and its locations to the physician. 
+2. CLEAN THE CODE and fix the current issues.
+3. Test the planner and predictor using retrospective data
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
 ![Iceball prediction](ScreenShot.png)
 
 
 # Background and References
 
+[1] Moreira P, Tuncali K, Tempany C and Tokuda J, A data-driven approach to predicting lethal temperature isotherm in MRI-guided focal cryoablation, in CARS 2020 Computer Assisted Radiology and Surgery, Munich, Germany, June 2020.
+[2] ProstateAblations module https://github.com/pedrolfm/SlicerProstateAblation
+[3] Iceball estiamtion https://github.com/pedrolfm/IceballEstimation
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
