@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Steve Pieper (Isomics, Inc. Cambridge MA, USA)
 - Curt Lisle (Knowledgevis, Maitland, Florida, USA)
 - Andrey Fedorov (BWH, Boston, MA, USA)
+- Theodore Aptekarev (Independent, Moscow, Russia)
 
 # Project Description
 
