@@ -38,9 +38,9 @@ tools to register patients' follow-up scans to their original planning CT scans 
 1. Acquired anonymous patient dataset with preplanning CT&PET,Planning CT, follow-up CT and PET
 1. We solicit recommendations: Elastix and Plastimatch both offer command line and Slicer integration
 1. **Plastimatch:** An interactive session with Greg showed us how to register scans (see below example)
-1. **MONAI:** - Neha adapted a MONAI / DeepReg example to train a DNN for registration between patient CTs.  This is still a work-in-progress, but shows promise. 
-2. Automation - Curt started developing scripts for automating registration between the planning CT and the follow-ups
-3. **Next Steps:** - Tweak registration parameters to improve results; Run on 100 patient cohort 
+1. **MONAI:** - Neha adapted a MONAI / DeepReg example to train a DNN for registration between patient CTs.  This is still a work-in-progress, but it shows promise. Curently, this approach requires more computation time than traditional registration methods, but in repeated cases, inferencing a pretrained registration network is reported to be faster than traditional methods, such as B-spline deformable registration.  
+2. Automation - Curt started developing scripts for automating registration between the planning CT and the follow-ups for each patient in a cohort
+3. **Next Steps:** - Tweak registration parameters to improve results; Run on 100+ patient cohort 
 
 ## Illustrations
 
@@ -49,21 +49,25 @@ tools to register patients' follow-up scans to their original planning CT scans 
 ![Some more images](Example2.jpg)
 -->
 The Planning CTs have excellent annotations:
+
 ![Planning CT has excellent structure segmentation](https://data.kitware.com/api/v1/item/60d92be32fa25629b980f149/download?contentDisposition=inline)
 
-But since follow-up scans are different times, there is no registration.  The CTs are "miles apart":
+But since follow-up scans are different times, there is no registration between them.  The CTs are "miles apart".  Shown below is the annotations from the planning CT superimposed over a follow-up CT, showing the shift between the different patient scans:
+
 ![No registration between successive scans](https://data.kitware.com/api/v1/item/60d92be52fa25629b980f151/download?contentDisposition=inline)
 
-After a prelimary registration, the anatomy annotations are much closer.  This was after our initial automated process:
+After a prelimary registration in Plastimatch, the anatomy annotations are much closer, as shown beloe.   There is more improvement to do, but this was encouraging after trying only a few parameter options.  Since Plastimatch operation can be scripted, this tool should assist with our desire to automate registration for the many patient scans in our cohort:
+
 ![Images after a preliminary registration](https://data.kitware.com/api/v1/item/60de5f252fa25629b9c6ee2e/download?contentDisposition=inline)
 
 
 ## Background and References
 
-The **Image Data Commons** has datasets with annotations across multiple time points, so this is an available dataset to practice with: https://imaging.datacommons.cancer.gov/explore/?filters_for_load=%5B%7B%22filters%22:%5B%7B%22id%22:%22120%22,%22values%22:%5B%22qin_prostate_repeatability%22%5D%7D%5D%7D%5D
+The **Image Data Commons** has datasets with annotations across multiple time points, so this is an available dataset to practice registration techniques.  Free Google Cloud credentials are available for experimenting without having to download data for processing.  Simply select the cohort through IDC for analysis:
+https://imaging.datacommons.cancer.gov/explore/?filters_for_load=%5B%7B%22filters%22:%5B%7B%22id%22:%22120%22,%22values%22:%5B%22qin_prostate_repeatability%22%5D%7D%5D%7D%5D
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. 
 -->
-Registration tools added to Project-MONAI: 
+Registration tools have been added to Project-MONAI in the 0.5 release.  The MONAI tutorials include a registration example now, which we used as a basis for our experimentation:
 
 https://github.com/Project-MONAI/tutorials/blob/master/3d_registration/paired_lung_ct.ipynb
