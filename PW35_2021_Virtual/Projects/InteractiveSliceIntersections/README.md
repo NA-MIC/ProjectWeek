@@ -55,8 +55,13 @@ More information in this GitHub issue: [here](https://github.com/Slicer/Slicer/i
 1. Migrate pipelines for generic widget interaction handles from Markups module to new base classes in DisplayableManager (vtkMRMLInteractionWidget and vtkMRMLInteractionWidgetRepresentation)
 2. Improve base interaction classes to allow easy implementation of custom interaction handles.
 3. Implement interaction handles test case for manipulating transform nodes.
-4. Create new classes to render interaction handles for interactive slice intersection: vtkMRMLSliceIntersectionInteractionWidget and vtkMRMLSliceIntersectionInteractionRepresentation.
-5. Add new option in ViewersToolbar to select interactive slice intersection mode. This option is only enabled and visible when slice intersection mode is active.
+
+<img src="TransformInteraction_Cube.gif" alt="BEFORE" width="800"/>
+
+<img src="TransformInteraction_Handles.gif" alt="AFTER" width="800"/>
+
+5. Create new classes to render interaction handles for interactive slice intersection: vtkMRMLSliceIntersectionInteractionWidget and vtkMRMLSliceIntersectionInteractionRepresentation.
+6. Add new option in ViewersToolbar to select interactive slice intersection mode. This option is only enabled and visible when slice intersection mode is active.
 
 <img src="Image_Toolbar.png" alt="drawing" width="600"/>
 
