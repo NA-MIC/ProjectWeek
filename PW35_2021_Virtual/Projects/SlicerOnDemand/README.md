@@ -34,7 +34,7 @@ The goal is to allow people to quickly transition from viewing images to doing m
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Steve [implemented one-click creation](https://github.com/pieper/SlicerOnDemand) of a VM using the Google API to launch a GPU-enabled VM, ready to use within about 90 seconds.
-2. Theoore created workflow icons to provide visual feedback during the launch process.
+2. Theodore created workflow icons to provide visual feedback during the launch process.
 3. We met and discussed methods for encrypting traffic to the "pop up" Slicer-in-the-cloud using Google Cloud infrastructure options.
 4. A use case was identified where an IDC cohort manifest could be passed to the Slicer VM and the cohort could be automatically loaded for the user.
 5. We had a discussion with Kitware regarding the composition of the Slicer Docker containers: It would be nice to consolidate dockerfile of general use into https://github.com/Slicer/SlicerDocker
