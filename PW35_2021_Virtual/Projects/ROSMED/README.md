@@ -83,7 +83,7 @@ Approach:
 - Preload visual models of the links of the universal robot.
 - Define a linear transform for each link of the universal robot in the Slicer scene.
 - Place each link under the corresponcing transform.
-![Slicer Scene](Screenshot from 2021-07-01 14-18-58.png)
+![Slicer Scene]("Screenshot from 2021-07-01 14-18-58.png")
 - The contorller on ROS 2 exports the transform of each link to OpenIGTLink
 - 3D Slicer 
 - ROS2 was installed successfully on the computer connected to UR10e
