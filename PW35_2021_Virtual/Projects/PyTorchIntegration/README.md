@@ -82,6 +82,8 @@ Parcellation run by @pieper on a synthetic 1 mm isotropic T1 MPRAGE generated fr
 
 ![Parcellation on T2](./parcellation_t2_vs_syntht1.png)
 
+This is a parcellation run through the [Imaging Data Commons](https://imaging.datacommons.cancer.gov/) framework, visualized online using [OHIF](https://ohif.org/):
+
 ![Parcellation on OHIF](./parc_ohif.png)
 
 ## Illustrations
