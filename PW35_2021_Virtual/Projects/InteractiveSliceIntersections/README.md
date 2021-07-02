@@ -47,40 +47,40 @@ More information in this GitHub issue: [here](https://github.com/Slicer/Slicer/i
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Explore the rendering pipeline for current Markups interaction handles (i.e., MarkupsInteractionPipeline class in vtkSlicerMarkupsWidgetRepresentation).
+1. Explore the rendering pipeline for current Markups interaction handles (i.e., MarkupsInteractionPipeline class in vtkSlicerMarkupsWidgetRepresentation). :heavy_check_mark:
 
-2. Move base class and display options to a lower level.
+2. Move base class and display options to a lower level. :heavy_check_mark:
 
-3. Create new classes vtkMRMLInteractionWidget and vtkMRMLInteractionWidgetRepresentation in DisplayableManager
+3. Create new classes vtkMRMLSliceIntersectionInteractionWidget and vtkMRMLSliceIntersectionInteractionRepresentation in DisplayableManager. :heavy_check_mark:
 
-4. Customize handles to control slice intersection in an intuitive manner.
+4. Customize handles to control slice intersection in an intuitive manner. :question:
 
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Migrate pipelines for generic widget interaction handles from Markups module to **new base classes** in DisplayableManager (**vtkMRMLInteractionWidget** and **vtkMRMLInteractionWidgetRepresentation**).
+1. Migrate pipelines for generic widget interaction handles from Markups module to **new base classes** in DisplayableManager (**vtkMRMLInteractionWidget** and **vtkMRMLInteractionWidgetRepresentation**). :heavy_check_mark:
 
-2. Improve base interaction classes to allow easy implementation of **custom interaction handles**.
+2. Improve base interaction classes to allow easy implementation of **custom interaction handles**. :heavy_check_mark:
 
-3. Implement interaction handles test case for manipulating transform nodes.
+3. Implement interaction handles test case for manipulating transform nodes. :heavy_check_mark:
 
     **BEFORE**
     
     <img src="TransformInteraction_Cube.gif" alt="BEFORE" width="800"/>
     
-    **AFTER**
+    **AFTER** 
     
     <img src="TransformInteraction_Handles.gif" alt="AFTER" width="800"/>
 
-4. Create new classes to render interaction handles for interactive slice intersection: vtkMRMLSliceIntersectionInteractionWidget and vtkMRMLSliceIntersectionInteractionRepresentation.
+4. Create new classes to render interaction handles for interactive slice intersection: vtkMRMLSliceIntersectionInteractionWidget and vtkMRMLSliceIntersectionInteractionRepresentation. :heavy_check_mark:
 
-5. Add new option in ViewersToolbar to select interactive slice intersection mode. This option is only enabled and visible when slice intersection mode is active.
+5. Add new option in ViewersToolbar to select interactive slice intersection mode. This option is only enabled and visible when slice intersection mode is active. :heavy_check_mark:
 
     <img src="Image_Toolbar.png" alt="drawing" width="600"/>
 
-6. TO DO: Customize handles for interactive slice intersection.
+6. TO DO: Customize handles for interactive slice intersection. 
 
 7. TO DO: Test new mode in sample images
 
