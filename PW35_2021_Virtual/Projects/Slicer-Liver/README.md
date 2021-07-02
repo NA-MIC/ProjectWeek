@@ -42,8 +42,22 @@ prototypes of our resection planning algorithms into 3D Slicer.
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+The core components of the planning platform have been developed but not
+integrated together. Shaders and pluggable markups infrastructure have been used
+for the development of the resection initialization, but are not yet integrated
+for visualization of other measurments (e.g., safety margins).
 
+![3D Bezier Surface Markup](bezier_surface_markup.png)
+
+![Resection initialization](resection_initialization.png)
+
+![Resection planning](resection_planning.png)
+
+Our next steps are :
+1. Integrating all the resection components together
+2. Develop a Qt UI to drive the process
+3. Improve stability -- software testing
+4. Improve performance -- wider use of shaders
 
 # Background and References
 1. [NorMIT-Plan at NA-MIC project week](https://projectweek.na-mic.org/PW34_2020_Virtual/Projects/SlicerLiverAnalysis/) (December 2020)
