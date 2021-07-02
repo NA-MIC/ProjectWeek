@@ -42,8 +42,20 @@ Issues that will be addressed:
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Fixed `light-the-torch` to detect the best PyTorch version from NVIDIA drivers ([link to PR](https://github.com/pmeier/light-the-torch/pull/31), to be released)
+### PyTorch in Slicer
+
+1. Fixed `light-the-torch` to detect the best PyTorch version from NVIDIA drivers ([link to PR](https://github.com/pmeier/light-the-torch/pull/31))
 1. Fixed PythonQt so `light-the-torch` can be used within Slicer ([link to PR](https://github.com/MeVisLab/pythonqt/pull/49), to be updated in Slicer fork)
+
+### Demo modules
+
+#### Brain Resection Cavity Segmentation
+
+
+#### Brain Parcellation
+
+[![Brain Parcellation on 3D Slicer](https://yt-embed.herokuapp.com/embed?v=kKXCv-JPikw)](https://youtu.be/kKXCv-JPikw "Brain Parcellation on 3D Slicer")
+
 
 # Illustrations
 
