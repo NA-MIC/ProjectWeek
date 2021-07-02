@@ -61,7 +61,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ## Breakout sessions complementary material
 * [What's new in Slicer](https://docs.google.com/presentation/d/19LIMkLDmTmuJoA-5CFNjWNosoAYB4OoyvyUNryurMSE/edit?usp=sharing)(Andras Lasso, Jean-Christophe Fillion-Robin, Sam Horvath, Steve Pieper)
 * [MONAI introductory presentation](https://drive.google.com/file/d/1haqTUNLGVeE0V-qBVuuFqIhKXZFpkBAf/view) (Wenqi Li, NVIDIA)
-* [MONAI Label introductory presentation](https://docs.google.com/presentation/d/1FYv23AbFPloTKcsTrP75bKI1XStULVlUSI6ZF3VCp-Y/edit?usp=sharing) (Andrés Díaz-Pinto, King's College London)
+* [MONAI Label introductory presentation](https://docs.google.com/presentation/d/1FYv23AbFPloTKcsTrP75bKI1XStULVlUSI6ZF3VCp-Y/edit?usp=sharing) (Andres Diaz-Pinto, King's College London)
 * [DICOM Overview](supplementary-material/DICOM-Overview.pdf) (Steve Pieper)
 * [OHIF v3 and a glance into Cornerstone 3D](https://docs.google.com/presentation/d/1KYNjuiI8lT1foQ4P9TGNV0lBhM6H-5KBs0wkYj4JJbk/edit?usp=sharing) (Erik Ziegler, Alireza Sedghi)
 * [NCI Data Commons](https://docs.google.com/presentation/d/1-_oHDbYqArylwF2K2aAy1mD0-C0F9gu-UFvJ8lpDWS4/edit?usp=sharing) (Andrey Fedorov)
@@ -99,6 +99,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Development of Deep Learning Based Brain Masking](Projects/CNN_Brain_Masking/README.md) (Raymond Yang, Lipeng Ning, Yogesh Rathi, Steve Pieper, Loraine Franke, Daniel Haehn)
 1. [Deep Learning for Subcortical Brain Segmentation](Projects/DeepLearningforSubcorticalBrainSegmentation/README.md) (Jarrett Rushmore, Elizabeth Kenneally, Sylvain Bouix, Kyle Sunderland, Nikos Makris)
 1. [Time-Series Segmentation Module](Projects/Time-Series%20Segmentation%20Module/README.md)(Rebecca Hisey, Tamas Ungi, Andras Lasso, Andres Diaz-Pinto, Tina Kapur)
+1. [MONAI Label](https://github.com/NA-MIC/ProjectWeek/tree/master/PW35_2021_Virtual/Projects/MONAILabel)(Andres Diaz-Pinto, Fernando Pérez-García, Sachidanand Alle, Alvin Ihsani, Vishwesh Nath)
 
 ### Cloud, open data and annotation
 1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper, Curt Lisle, Andrey Fedorov)
