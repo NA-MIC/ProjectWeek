@@ -43,11 +43,15 @@ Next steps:
 
 Fiducial (yellow sphere) moving along the brain surface:
 ![Fiducial (Sphere) moving along brain surface](./fiducial_on_brain_surface.png)
-Fiducial will later be replaced by a TMS coil model.
+The fiducial in this screenshot will later be replaced by a TMS coil model.
+
+
+![Moving vector field](./moving_evec.gif)
 
 
 Visualization goal in slicer:
 ![Brain surface and DT](./tmsonbrain.png)
+
 
 Visualization process:
 ![Visualization Process](./visualization_process.png)
