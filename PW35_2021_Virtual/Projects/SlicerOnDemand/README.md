@@ -40,7 +40,7 @@ The goal is to allow people to quickly transition from viewing images to doing m
 5. We had a discussion with Kitware regarding the composition of the Slicer Docker containers: It would be nice to consolidate dockerfile of general use into https://github.com/Slicer/SlicerDocker
 6. Next Steps:
   * Evaluate tradeoffs between simplicity of interface and exposing options
-  * Add more feedback about things like how much money you are spending
+  * Test robustness, add more feedback about things like how much money you are spending
   * Configure the VM instance with tools and ML models
   * Improve the desktop/window managment setup to be more modern
 
