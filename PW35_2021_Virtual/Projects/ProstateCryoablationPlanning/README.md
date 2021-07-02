@@ -16,25 +16,26 @@ Currently, physicians rely on the pre and intraoperative images and their own ex
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Implement a planning algorithm in 3D Slicer
-1. Objective B. Integrate the planning and the current Module used for MRI-guided cryoablation
-1. Objective C. Deep learning for iceball segmentation
+1. Objective A. Modify the current module for Python 3 (Slicer 4.11)
+2. Objective B. Implement a iceball prediction algorithm 
+3. Objective C. Integrate the prediction and the current Module used for MRI-guided cryoablation
+4. Objective D. Implement a optimal planning algorithm in 3D Slicer
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Change the current module to work with Slcier 4.11
-1. Implement optimization algorithm considering the constraints of the template approach
-1. Test the algorithm with retrospective data
+3. Create a module with the logistic regression model
+4. Test the algorithm with retrospective data
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1. .
-1. ...
-1. ...
+1. Modifications to addapt the current module to Python3 were performed. Most of the errors were related to dict_keys and managing the markups. We also had a problem loading the DICOM files, but was fixed replacing "slicer.util.loadVolume" by "self.scalarVolumePlugin.load"
+1. Implemented a module that capture the desired probe location defined by the physician and a few points along the urethra, and uses the logistic regression presented on CARS2020 [1] to estimate the final iceball.
+1. The module also display the total volume of the iceball and the minimum ablation margin. According to the literature, an ablation margin around 5mm is desirable.
+2. The module was integrated with the current cryoablation module, but small issues still need to be fixed.
+3. Next step is to use an optimization and/or a search algorithm too define to suggest an optimal number of probes and its locations
 
 # Illustrations
 
