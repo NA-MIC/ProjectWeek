@@ -102,7 +102,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [MONAI Label](https://github.com/NA-MIC/ProjectWeek/tree/master/PW35_2021_Virtual/Projects/MONAILabel)(Andres Diaz-Pinto, Fernando Pérez-García, Sachidanand Alle, Alvin Ihsani, Vishwesh Nath)
 
 ### Cloud, open data and annotation
-1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper, Curt Lisle, Andrey Fedorov)
+1. [SlicerOnDemand](Projects/SlicerOnDemand/README.md) (Steve Pieper, Curt Lisle, Andrey Fedorov, Theodore Aptekarev)
 1. [NCI Imaging Data Commons](Projects/NCIImagingDataCommons/README.md) (Andrey Fedorov, Markus Herrmann, Theodore Aptekarev, Steve Pieper, Ron Kikinis)
 1. [mpReview: Development of a streamlined Slicer module for (manual) image annotation](Projects/mpReview/README.md) (Andrey Fedorov, Dora Szasz, Masoom Haider, Aytek Oto, Andras Lasso, Fiona Fennessy)
 1. [DICOM-SR: Extending DICOM-SR support in dcmjs and adding test cases](Projects/DICOM-SR/README.md) (Emel Alkim, Steve Pieper, Andrey Fedorov)
