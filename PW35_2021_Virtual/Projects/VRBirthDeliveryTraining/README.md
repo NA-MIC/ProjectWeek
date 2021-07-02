@@ -83,7 +83,7 @@ The goal of this project is to translate this software into a Virtual Reality (V
 ![presentation_incorrect_1](https://user-images.githubusercontent.com/17642986/124196577-9b5de800-dac4-11eb-9893-86e1bb532e53.png)
 ![presentation_incorrect_2](https://user-images.githubusercontent.com/17642986/124196578-9b5de800-dac4-11eb-8777-86c7821229ac.png)
 
-VR video: https://youtu.be/Q8b7IehEQhE
+VR video: [https://youtu.be/Q8b7IehEQhE](https://youtu.be/Q8b7IehEQhE)
 
 
 # Background and References
