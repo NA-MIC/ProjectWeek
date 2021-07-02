@@ -82,6 +82,8 @@ Parcellation run by @pieper on a synthetic 1 mm isotropic T1 MPRAGE generated fr
 
 ![Parcellation on T2](./parcellation_t2_vs_syntht1.png)
 
+![Parcellation on OHIF](./parc_ohif.png)
+
 ## Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
