@@ -81,7 +81,7 @@ Visit "IDC-Bot" stream set up by Theodore under the discord project channel to w
 1. Discussed IDC with Curt, Nadya, Andres, Fernando; presented at the DICOM breakout session.
 2. Based on the feedback, [summarized steps](https://docs.google.com/document/d/1NkAHCS07y8wuvkNUYwSWKM_6qjhWFE-Es2ahzBsYj2Y/edit#) how to launch a COS VM with Slicer - which on the same day were utterly superseded by the [SlicerOnDemand](https://github.com/pieper/SlicerOnDemand) module by Steve!
 3. [Summarized steps](https://docs.google.com/document/d/1nuv4qsiDflGYO4EKOK8-y5SWryZrjiprQ_lxVSffXCg/edit#) how to work with a GCP DICOM store to visualize analysis results - this currently relies on a non-production OHIF Viewer test deployment which may not be around for too long, need to find a more stable solution.
-4. As an exercise, and to test the instructions, converted cortical segmentation result for a case from IDC done by Fernando and confirmed visualization in the viewer.
+4. As an exercise, and to test the instructions, converted cortical segmentation result for a case from IDC done by Fernando and confirmed visualization in the viewer (also see https://github.com/OHIF/Viewers/issues/2462).
 5. IDC-MONAILabel coordination meeting is today after the closing remarks at [this link](https://www.google.com/url?q=https://harvard.zoom.us/j/99711834613?pwd%3DajZ1alluQWtya3pUY3p6T1hsUDR6dz09&sa=D&source=calendar&usd=2&usg=AOvVaw1HLyL8Q4F8Lcl8E4UnZZ83).
 6. Tutorial videos from [IDC paper](https://doi.org/10.1158/0008-5472.CAN-21-0950) have been published on NCI YouTube channel:
  * Introduction to the Portal - https://youtu.be/uTljK2QehS0
