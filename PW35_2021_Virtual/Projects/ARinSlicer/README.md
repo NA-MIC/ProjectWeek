@@ -31,6 +31,10 @@ of benefiting from all Slicer tools.
 2. Explore possible paths to integrate AR in 3D Slicer in the future.
 3. Study if we can receive transformations in Unity from Slicer, so that we can transfer navigation information between the two softwares.
 
+Some links of interest:
+1. [Writing a Holographic Remoting remote app using the OpenXR API](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/platform-capabilities-and-apis/holographic-remoting-create-remote-openxr)
+2. [Slicer Documentation on Augmented Reality and Virtual Reality support](https://www.slicer.org/wiki/Documentation/Labs/Augmented_Reality_and_Virtual_Reality_support#Current_approaches)
+
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
@@ -50,7 +54,7 @@ The immediate actions to take are listed there in the TODOS section: 1. and 2. s
 
 3. Alicia, Houssem and Étienne Léger also met to discuss some features related to pattern recognition in HoloLens with Vuforia and ArUco, latency and interconnectivity between Slicer and Unity.
 
-4. Alicia and Naghmeh additionally talked about connecting 3D Slicer and Unity in real time to send transformations between them. [Here](https://github.com/Lyla-M/UnityOpenIGTLink) and [here](https://github.com/franklinwk/OpenIGTLink-Unity) you can find two GitHub projects that explain how to achieve this connection via OpenIGTLink.
+4. Alicia and Naghmeh additionally talked about connecting 3D Slicer and Unity in real time to send transformations between them. [Here](https://github.com/Lyla-M/UnityOpenIGTLink), [here](https://github.com/franklinwk/OpenIGTLink-Unity) and [here](https://github.com/thomasMuender/SlicerToUnity) you can find two GitHub projects that explain how to achieve this connection via OpenIGTLink.
 
 
 
