@@ -64,7 +64,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [MONAI Label introductory presentation](https://docs.google.com/presentation/d/1FYv23AbFPloTKcsTrP75bKI1XStULVlUSI6ZF3VCp-Y/edit?usp=sharing) (Andres Diaz-Pinto, King's College London)
 * [DICOM Overview](supplementary-material/DICOM-Overview.pdf) (Steve Pieper)
 * [OHIF v3 and a glance into Cornerstone 3D](https://docs.google.com/presentation/d/1KYNjuiI8lT1foQ4P9TGNV0lBhM6H-5KBs0wkYj4JJbk/edit?usp=sharing) (Erik Ziegler, Alireza Sedghi)
-* [NCI Data Commons](https://docs.google.com/presentation/d/1-_oHDbYqArylwF2K2aAy1mD0-C0F9gu-UFvJ8lpDWS4/edit?usp=sharing) (Andrey Fedorov)
+* [NCI Imaging Data Commons](https://docs.google.com/presentation/d/1-_oHDbYqArylwF2K2aAy1mD0-C0F9gu-UFvJ8lpDWS4/edit?usp=sharing) (Andrey Fedorov)
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 ### VR/AR and Rendering
