@@ -70,6 +70,8 @@ Introduce MONAI Label, create new Apps, and implement new features to facilitate
 
 [MONAI Label Apps](https://github.com/Project-MONAI/MONAILabel/tree/main/sample-apps)
 
+[MONAI Label Apps Zoo](https://github.com/diazandr3s/MONAILabel-Apps)
+
 [Imaging Data Commons](https://imaging.datacommons.cancer.gov/)
 
 [OHIF](https://ohif-platform-docs.netlify.app/)
