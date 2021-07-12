@@ -52,6 +52,14 @@ vertibrae have degraded and appear like surrounding tissue in CT scans.
 7. **Next Steps:** Improve segmentations for the remaining annotated spines and use in MONAILabel.
 8. **Next Steps:** identify any other collaborators interested to continue working on this project; eventually expanding to include nearby muscle and disks
 
+### Complete protocol for semi-automatic spine segmentation
+
+This protocol can be used to quickly and accurately segmentat the spine (each vertebra in a separate segment; no internal holes), which can be used as training data for deep learning based segmentation:
+- Define a bone threshold using Threshold effect and use that as a mask (do not Apply the threshold). Choose a threshold value that only selects bones, not soft tissues. Cancellous bone inside the vertebrae will be missed, but those holes will be filled in a later step.
+- Paint a seed in each vertebra with a different color in a sagittal slice. Paint seed in an axial slice for one of the vertebrae.
+- Use "Grow from seeds effect" to segment the entire spine automatically. Adjust seeds as needed, then finalize the segmentation by clicking Apply.
+- Fill holes inside the vertebrae by copy-pasting [this script](https://gist.github.com/lassoan/0f45db8bae792ea19ccad36ceefbf52d) into the Python console.
+
 ## Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
