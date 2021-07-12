@@ -56,6 +56,8 @@ The immediate actions to take are listed there in the TODOS section: 1. and 2. s
 
 4. Alicia and Naghmeh additionally talked about connecting 3D Slicer and Unity in real time to send transformations between them. [Here](https://github.com/Lyla-M/UnityOpenIGTLink), [here](https://github.com/franklinwk/OpenIGTLink-Unity) and [here](https://github.com/thomasMuender/SlicerToUnity) you can find two GitHub projects that explain how to achieve this connection via OpenIGTLink.
 
+5. Alicia and Étienne met again after Project Week to discuss further about Étienne's work. He tracks a tool connected to Plus and Slicer via OpenIGTLink. He managed to send this information, in real-time, to a self-developed AR tablet application ([MARIN](https://github.com/AppliedPerceptionLab/MARIN)) using [IBIS](https://github.com/IbisNeuronav/Ibis). Everything is programmed in Qt (check out the Qt creator from Qt.io to start programming in Qt). 
+
 
 
 # Illustrations
