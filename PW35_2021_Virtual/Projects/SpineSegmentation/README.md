@@ -52,7 +52,7 @@ vertibrae have degraded and appear like surrounding tissue in CT scans.
 7. **Next Steps:** Improve segmentations for the remaining annotated spines and use in MONAILabel.
 8. **Next Steps:** identify any other collaborators interested to continue working on this project; eventually expanding to include nearby muscle and disks
 
-### Spine segmentaiton protocol for training data generation
+### Spine segmentation protocol for training data generation
 
 This protocol can be used to quickly and accurately segmentat the spine (each vertebra in a separate segment; no internal holes), which can be used as training data for deep learning based segmentation:
 - Define a bone threshold using Threshold effect and use that as a mask (do not Apply the threshold). Choose a threshold value that only selects bones, not soft tissues. Cancellous bone inside the vertebrae will be missed, but those holes will be filled in a later step.
