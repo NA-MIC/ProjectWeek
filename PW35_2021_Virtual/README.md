@@ -5,7 +5,7 @@
 This event will be held virtually June 28-July 2, 2021.
 
 ## Numbers and Introduction
-- **140** Registered Attende. **44%** First Timers!
+- **140** Registered Attendees. **44%** First Timers!
 - **23** countries.
   - Bimodal Time Zone Distribution (UTC-4 and UTC+1.
 - **29** Projects.
