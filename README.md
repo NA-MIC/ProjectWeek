@@ -35,7 +35,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 
 ## Upcoming Project Weeks
 
-The [36th project week](PW36_2021_Virtual/README.md) will be held January 17-21, 2022.
+The [36th project week](PW36_2022_Virtual/README.md) will be held January 17-21, 2022.
 
 * Please contact the organizers if you have interest in hosting a Project Week event.
 

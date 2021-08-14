@@ -2,7 +2,7 @@
 
 ## Welcome to the web page for the 35th Project Week!
 
-This event will be held virtually June 28-July 2, 2021.
+This event was held virtually June 28-July 2, 2021.
 
 ## Numbers and Introduction
 - **140** Registered Attendees. **44%** First Timers!
@@ -255,17 +255,6 @@ List of registered participants so far (names will be added here after processin
 1.	Lucas Ewing	,	Harvey Mudd College	,	Boston	,	US
 1.	Naghmeh Ansari	,	Concordia University	,	Montreal	,	Canada
 1.	Randy Gollub	,	MGH	,	Lexington	,	USA
-
-## Statistics
-
-<!-- for ref, stats from PW 34
-* 204 registered attendees
-* 26 countries
-* 101 institutions (82 academic, 18 industry, and 1 goverment)
-
-<img src="pw-registrants-country-stats-final.png" width="600" />
--->
-
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
