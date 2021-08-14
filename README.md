@@ -1,7 +1,4 @@
-
 ## Welcome to the main page for the Project Week events!
-
-### The [35th Project Week](PW35_2021_Virtual/README.md) will be held online June 28-July 2, 2021. [Join the planning meetings here](https://discourse.slicer.org/t/reminder-project-week-35-preparation-meetings-starting-tomorrow/17659)
 
 ## Frequently Asked Questions
 
@@ -38,7 +35,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 
 ## Upcoming Project Weeks
 
-  The [35th project week](PW35_2021_Virtual/README.md) will be held online June 28-July 2, 2021.
+The [36th project week](PW36_2021_Virtual/README.md) will be held January 17-21, 2022.
 
 * Please contact the organizers if you have interest in hosting a Project Week event.
 
@@ -46,7 +43,8 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD
 
 | Events | Registrants |
 |----|----|
-|[2020 December 14-18: Project Week 34](PW34_2020_Virtual/README.md) - Internet. <br> It recorded 204 registered attendees (from 26 countries and 101 institutions.)|204|
+| [2021 June 28-July 2: Project Week 35](PW35_2020_Virtual/README.md) - Internet. <br> It recorded 140 registered attendees (from 23 countries, 44% first-timers.)|140|
+| [2020 December 14-18: Project Week 34](PW34_2020_Virtual/README.md) - Internet. <br> It recorded 204 registered attendees (from 26 countries and 101 institutions.)|204|
 | [2020 January 20-24: Project Week 33](PW33_2020_GranCanaria/README.md) - Gran Canaria, Spain. <br>It recorded 66 Registrants (from 16 countries) who worked on 43 projects. | 66 |
 | [2019 July 15-29: Project Week 32](PW32_2019_London_Canada/README.md) - Robarts Research, London, Canada. | 38 |
 | [2019 June 24-28 :Project Week 31](PW31_2019_Boston/README.md) - MIT, Cambridge, MA, USA. <br>It recorded 78 attendees, who worked on 47 projects and attended 5 breakout sessions. | 78 |
