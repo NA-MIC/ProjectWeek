@@ -43,7 +43,7 @@ The [36th project week](PW36_2022_Virtual/README.md) will be held January 17-21,
 
 | Events | Registrants |
 |----|----|
-| [2021 June 28-July 2: Project Week 35](PW35_2020_Virtual/README.md) - Internet. <br> It recorded 140 registered attendees (from 23 countries, 44% first-timers.)|140|
+| [2021 June 28-July 2: Project Week 35](PW35_2021_Virtual/README.md) - Internet. <br> It recorded 140 registered attendees (from 23 countries, 44% first-timers.)|140|
 | [2020 December 14-18: Project Week 34](PW34_2020_Virtual/README.md) - Internet. <br> It recorded 204 registered attendees (from 26 countries and 101 institutions.)|204|
 | [2020 January 20-24: Project Week 33](PW33_2020_GranCanaria/README.md) - Gran Canaria, Spain. <br>It recorded 66 Registrants (from 16 countries) who worked on 43 projects. | 66 |
 | [2019 July 15-29: Project Week 32](PW32_2019_London_Canada/README.md) - Robarts Research, London, Canada. | 38 |
