@@ -79,10 +79,16 @@ More information in this GitHub issue: [here](https://github.com/Slicer/Slicer/i
 5. Add new option in ViewersToolbar to select interactive slice intersection mode. This option is only enabled and visible when slice intersection mode is active. :heavy_check_mark:
 
     <img src="Image_Toolbar.png" alt="drawing" width="600"/>
+    
+6. Render interaction handles in slice views and enable interactions.
 
-6. TO DO: Customize handles for interactive slice intersection. 
+ <img src="https://user-images.githubusercontent.com/10816661/131369045-a2644744-e8cb-413a-b145-99181e4e141e.gif" alt="HANDLES" width="800"/>
 
-7. TO DO: Test new mode in sample images
+7. TODO: Modify interactions to update slice intersections. Currently, sliceToRAS transform of the slice node is being updated.
+
+8. TO DO: Customize handles for interactive slice intersection. 
+
+9. TO DO: Test new mode in sample images
 
 # Illustrations
 
