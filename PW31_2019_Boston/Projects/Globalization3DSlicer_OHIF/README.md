@@ -47,7 +47,7 @@ Also, we will discuss about the globalization in OHIF.
    * [r28344](http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=28344): ENH: i18n: Add support for node combox, 3d view controller and qSlicerApp
    * [r28345](http://viewvc.slicer.org/viewvc.cgi/Slicer4?view=revision&revision=28345): STYLE: Remove translation files with old-style suffix
 1. Support for i18n was **improved**.
-   * See the  [PR-1162: improve-i18n-support](https://github.com/Slicer/Slicer/pull/1162)
+   * See the  [PR-1162: improve-i18n-support](https://github.com/Slicer/SlicerGitSVNArchive/pull/1162)
    * Support for translating scripted modules (`slicer.i18n.tr()`)
    * Generation of `<ModuleName>_untranslated.ts` files
    * Add targets `GenerateSlicerTranslationTemplates` and `GenerateSlicerTranslationQMFiles`
