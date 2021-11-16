@@ -4,6 +4,18 @@ This event will be held January 17-21, 2022. The location is expected to be onli
 
 If you have any questions, you can contact the [organizers](../README.md#who-to-contact).
 
+## Preparation meetings
+We hold weekly preparation meetings at 10am on Tuesdays, starting Nov 9th, 2021 and ending on December 8. Please join at [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
+
+Tentative schedule (may change each week):
+* Nov 9 2021 - Kickoff meeting
+* Nov 16 2021 - Cancer Imaging with Machine Intelligence and Data Science
+* Nov 23 - Slicer in the cloud
+* Dec 7 - User interfaces for annotation of corresponding landmarks in a longitudinal time series
+* Dec 14 - AR, VR and rendering
+* Dec 21 - Low cost IGT systems
+* Jan 11 - AI in Slicer (MONAI, etc.)
+
 ##  Agenda
 
 <div id="calendar-container">
