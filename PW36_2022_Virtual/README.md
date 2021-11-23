@@ -12,9 +12,9 @@ Tentative schedule (may change each week):
 * Nov 16 2021 - Cancer Imaging with Machine Intelligence and Data Science
 * Nov 23 2021 - Slicer in the cloud
 * Dec 7 2021 - Slicer in the cloud (continued) + User interfaces for annotation of corresponding landmarks in a longitudinal time series
-* Dec 14 2021 - AR, VR and rendering
-* Dec 21 2021 - Low cost IGT systems
-* Jan 11 2022 - AI in Slicer (MONAI, etc.)
+* Dec 14 2021 - Low cost IGT systems
+* Dec 21 2022 - TBD
+* Jan 11 2021 - AR, VR and rendering
 
 ##  Agenda
 
