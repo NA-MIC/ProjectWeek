@@ -38,7 +38,13 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 [How to add this calendar to your own?](../common/Calendar.md)
 
-<a name="ProjectsList"/>
+## Projects [(How to add a new project?)](Projects/README.md)
+    
+### VR/AR and Rendering
+    
+### Image-guided therapy and low cost systems
+   
+### Cloud, open data and annotation
     
 ## Registrants
 
