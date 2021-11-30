@@ -40,7 +40,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 ## Projects [(How to add a new project?)](Projects/README.md)
     
-### VR/AR and Rendering
+### VR/AR and Rendering    
+1. [Collaborative Slicer session](Projects/SlicerCollaboration/README.md) (Csaba Pinter, Mónica Garcia, ?)
     
 ### Image-guided therapy and low cost systems
    
