@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Alicia Pose Díez de la Lastra (Universidad Carlos III de Madrid, Madrid, Spain)
 - Javier Pascau (Universidad Carlos III de Madrid, Madrid, Spain)
+- Rafael Moreta Martínez (Universidad Carlos III de Madrid, Madrid, Spain)
 - Gabor Fichtinger (PerkLab, Queen's University , Kingston , Canada)
 - Andras Lasso (PerkLab, Queen's University , Kingston , Canada)
 - Adam Rankin (Robarts Research Institute / Western University, Canada)
