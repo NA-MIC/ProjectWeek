@@ -51,7 +51,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
     
 ## Registrants
 
-Do not add your name to this list below. It is maintained by the organizers based on your registration. [Register here](https://forms.gle/evnWqMu4dnsx3Mei9).
+Do not add your name to this list below. It is maintained by the organizers based on your registration. Registration is not yet open 
+   <!-- [Register here](https://forms.gle/evnWqMu4dnsx3Mei9). -->
 
 List of registered participants so far (names will be added here after processing registrations):
 
