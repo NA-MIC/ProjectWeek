@@ -13,7 +13,7 @@ Tentative schedule (may change each week):
 * Nov 23 2021 - Slicer in the cloud
 * Nov 30 2021 - Slicer in the cloud (continued) + User interfaces for annotation of corresponding landmarks in a longitudinal time series
 * Dec 7 2021 - Low cost IGT systems
-* Dec 14 2021 - TBD
+* Dec 14 2021 - Low cost IGT systems (continued)
 * Dec 21 2022 - TBD
 * Jan 11 2021 - AR, VR and rendering
 
