@@ -47,7 +47,9 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
     
 ### Image-guided therapy and low cost systems
    
-### Cloud, open data and annotation
+### Cloud
+   
+### Annotation
     
 ## Registrants
 
