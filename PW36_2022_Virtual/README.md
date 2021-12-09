@@ -13,7 +13,7 @@ Tentative schedule (may change each week):
 * Nov 23 2021 - Slicer in the cloud
 * Nov 30 2021 - Slicer in the cloud (continued) + User interfaces for annotation of corresponding landmarks in a longitudinal time series
 * Dec 7 2021 - Low cost IGT systems
-* Dec 14 2021 - Low cost IGT systems (continued)
+* Dec 14 2021 - Low cost IGT systems (continued), other projects
 * Dec 21 2022 - All projects, project pages
 * Jan 4 2022 - All projects, project pages
 * Jan 11 2021 - AR, VR and rendering
@@ -47,7 +47,6 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 2. [AR in Slicer](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/AR%20in%20Slicer) (Alicia Pose Díez de la Lastra, Javier Pascau, Gabor Fichtinger, Andras Lasso, Adam Rankin, Csaba Pinter, Lucas Gandel, Jean-Christophe Fillion-Robin)    
     
 ### Image-guided therapy and low cost systems
-1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia Mato, Csaba Pinter, Rebecca Hisey, ...)
    
 ### Cloud
    
