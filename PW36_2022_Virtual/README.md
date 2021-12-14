@@ -4,6 +4,10 @@ This event will be held January 17-21, 2022. The location is expected to be onli
 
 If you have any questions, you can contact the [organizers](../README.md#who-to-contact).
 
+## How to participate
+1. Register [here](https://forms.gle/1zE3pDs59sJ4ENP96), it is free!
+2. Attend one or more preparation meetings (see next section) to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
+
 ## Preparation meetings
 We hold weekly preparation meetings at 10am on Tuesdays, starting Nov 9th, 2021 and ending on December 8. Please join at [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
 
@@ -54,8 +58,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
     
 ## Registrants
 
-Do not add your name to this list below. It is maintained by the organizers based on your registration. Registration is not yet open 
-   <!-- [Register here](https://forms.gle/evnWqMu4dnsx3Mei9). -->
+Do not add your name to this list below. It is maintained by the organizers based on your registration. [Register here](https://forms.gle/1zE3pDs59sJ4ENP96).
 
 List of registered participants so far (names will be added here after processing registrations):
 
