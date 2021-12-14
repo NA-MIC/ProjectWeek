@@ -20,7 +20,7 @@ Tentative schedule (may change each week):
 * Dec 14 2021 - Low cost IGT systems (continued), other projects
 * Dec 21 2022 - All projects, project pages
 * Jan 4 2022 - All projects, project pages
-* Jan 11 2021 - AR, VR and rendering
+* Jan 11 2022 - AR, VR and rendering
 
 ##  Agenda
 
