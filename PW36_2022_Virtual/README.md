@@ -57,7 +57,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ### Cloud
    
 ### Annotation
-    
+1. [Spine Segmentation](Projects/SpineSegmentation/README.md) (Ron Alkalay, Steve Pieper, ...)
+   
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. [Register here](https://forms.gle/1zE3pDs59sJ4ENP96).
