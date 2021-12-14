@@ -1,6 +1,6 @@
 ## Welcome to the web page for the 36th Project Week!
 
-This event will be held January 17-21, 2022. The location is expected to be online. This page will be updated later with more information.
+[This event](https://projectweek.na-mic.org/PW36_2022_Virtual/) will be held January 17-21, 2022. The location is expected to be online. This page will be updated later with more information.
 
 If you have any questions, you can contact the [organizers](../README.md#who-to-contact).
 
