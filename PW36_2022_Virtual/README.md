@@ -50,7 +50,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
     
 ### VR/AR and Rendering    
 1. [Collaborative Slicer session](Projects/SlicerCollaboration/README.md) (Csaba Pinter, Mónica Garcia, ?)
-2. [AR in Slicer](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/AR%20in%20Slicer) (Alicia Pose Díez de la Lastra, Javier Pascau, Gabor Fichtinger, Andras Lasso, Adam Rankin, Csaba Pinter, Lucas Gandel, Jean-Christophe Fillion-Robin)    
+2. [AR in Slicer](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/AR%20in%20Slicer) (Alicia Pose Díez de la Lastra, Javier Pascau, Gabor Fichtinger, Andras Lasso, Adam Rankin, Csaba Pinter, Lucas Gandel, Jean-Christophe Fillion-Robin)
+3. [Slicer TMS Module](Projects/SlicerTMS_Module/README.md) (Loraine Franke, Lipeng Ning, Yogesh Rathi, Steve Pieper, Raymond Yang, Daniel Haehn)
     
 ### Image-guided therapy and low cost systems   
 1. [GPU Rigid Registration](Projects/GPURigidRegistration/Readme.md) (Gelel Rezig, Houssem Gueziri, Simon Drouin)
