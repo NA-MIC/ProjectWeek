@@ -1,8 +1,8 @@
 ## Welcome to the web page for the 36th Project Week!
 
-[This event](https://projectweek.na-mic.org/PW36_2022_Virtual/) will be held January 17-21, 2022. The location is expected to be online. This page will be updated later with more information.
+[This event](https://projectweek.na-mic.org/PW36_2022_Virtual/) will be held virtually January 17-21, 2022. 
 
-There is an in-person component of the project week taking place in Las Palmas de Gran Canaria, Canary Islands, Spain. Please [see this page](LocalParticipation.md) for more information
+During the same week, a training workshop will be in person in Las Palmas de Gran Canaria, Canary Islands, Spain. Please [see this page](LocalParticipation.md) for more information about this workshop.
 
 If you have any questions, you can contact the [organizers](../README.md#who-to-contact).
 
