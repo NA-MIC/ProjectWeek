@@ -67,6 +67,22 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 Do not add your name to this list below. It is maintained by the organizers based on your registration. [Register here](https://forms.gle/1zE3pDs59sJ4ENP96).
 
 List of registered participants so far (names will be added here after processing registrations):
+    
+1.	Steve Pieper	,	Isomics, Inc.	,	USA
+1.	HINA SHAH	,	UNC Chapel Hill	,	USA
+1.	YAHYA TFEIL	,	UNIVERSITY OF NOUAKCHOTT ALASSRIYA	,	Mauritania
+1.	Monica García Sevilla	,	Universidad de Las Palmas de Gran Canaria	,	Spain
+1.	Rafael Palomar	,	Oslo University Hospital / NTNU	,	Norway
+1.	Ismail Irmakci	,	Feinberg School of Medicine - Northwestern University	,	USA
+1.	Miguel Xochicale	,	King's College London	,	United Kingdom
+1.	Adama Rama WADE	,	École Supérieure Polytechnique (ESP)	,	Senegal
+1.	Li Zhenzhu	,	Department of Neursosurgery, Hwa Mei Hospital, University of Chinese Academy of Sciences, Ningbo, China；	,	China
+1.	Gang Fu	,	Amazon	,	USA
+1.	Maxime Gillot	,	University of Michigan	,	USA
+1.	Baptiste Baquero	,	University of Michigan	,	USA
+1.	Simon Drouin	,	École de technologie supérieure	,	Canada
+1.	Tina Kapur	,	Brigham and Women's Hospital, Harvard Medical School	,	USA
+1.	Loraine Franke	,	University of Massachusetts Boston	,	USA
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
