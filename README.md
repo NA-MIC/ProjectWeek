@@ -1,7 +1,6 @@
 ## Welcome to the main page for the Project Week events!
 
-### The [36th project week](PW36_2022_Virtual/README.md) will be held January 17-21, 2022 online + in person. Join a planning meeting to define your project and find collaborators.
-
+### The [36th project week](PW36_2022_Virtual/README.md) will be held January 17-21, 2022 online, with an in-person training workshop. 
 ## Frequently Asked Questions
 
 ![2016 Winter Project Week Final Day](assets/800px-2016_Winter_Project_Week_Final_Day.JPG)
