@@ -9,6 +9,7 @@ If you have any questions, you can contact the [organizers](../README.md#who-to-
 ## How to participate
 1. Register [here](https://forms.gle/1zE3pDs59sJ4ENP96), it is free!
 2. Attend one or more preparation meetings (see next section) to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
+3. Optionally attend a training workshop on the use of MONAILabel with 3D Slicer on AWS cloud resources on January 12 (the week before Project Week) 2-4pm EST.  To attend please [register here](https://forms.gle/sekN29otUGDrVALF6).
 
 ## Preparation meetings
 We hold weekly preparation meetings at 10am on Tuesdays, starting Nov 9th, 2021 and ending on December 8. Please join at [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
@@ -23,6 +24,7 @@ Tentative schedule (may change each week):
 * Dec 21 2022 - All projects, project pages
 * Jan 4 2022 - All projects, project pages
 * Jan 11 2022 - AR, VR and rendering
+* Jan 12 2022 - MONAILabel 3D Slicer AWS workshop (see [item 3 above](#how-to-participate))
 
 ##  Agenda
 
