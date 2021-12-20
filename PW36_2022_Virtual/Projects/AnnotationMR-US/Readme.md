@@ -14,7 +14,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!-- Add a short paragraph describing the project. -->
 Corresponding landmarks between MR and ultrasound images acquired during neurosurgery are valuable for **(a)**
 validation of registration algorithms and **(b)** training supervised registration algorithms **(c)** initializing a
-registration.
+registration. In this project we aim to create a tool that makes the process of finding those landmarks easier.
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
@@ -22,7 +23,6 @@ registration.
 1. Objective A. Create a UI that provides new functionality and gathers existing functionality in one place to
 facilitate landmarking
 2. Objective B. Investigate the rendering infrastructure that would facilitate the adjustment of landmark position in the 3D view of Slicer
-3. Objective C. ...
 
 ## Approach and Plan
 
@@ -36,8 +36,8 @@ facilitate landmarking
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
+**Progress**
+1. A first working version of the extension is already functional. It can be found [here](https://github.com/koeglfryderyk/mthesis-slicerLandmarkingView) on the main branch.
 1. ...
 
 # Illustrations
