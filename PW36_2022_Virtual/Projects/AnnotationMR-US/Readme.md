@@ -37,15 +37,21 @@ facilitate landmarking
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 **Progress**
-1. A first working version of the extension is already functional. It can be found [here](https://github.com/koeglfryderyk/mthesis-slicerLandmarkingView) on the main branch.
-1. ...
+1. A first working version of the extension is already functional. It can be found
+[here](https://github.com/koeglfryderyk/mthesis-slicerLandmarkingView) on the main branch. A screenshot can be seen
+below in **Illustrations**.
+
+**Next Steps**
+1. Explore 3D functionality for setting landmarks
+2. Make the code more robust - a lot of things are hard coded now
+3. Add a fifth volume (MRI) - so that we have MR1-US1-US2-US3-MR2
 
 # Illustrations
-
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+**Current state of the extension**
+![Screenshot of the current state of the extension](./misc/extension_screenshot.png)
 
 # Background and References
 
