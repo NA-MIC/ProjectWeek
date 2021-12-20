@@ -28,9 +28,10 @@ facilitate landmarking
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. We use an iterative process for creating the UI - the users give feedback to the developer(s) and the UI gets
+continuously updated
+2. ...
+3. ...
 
 ## Progress and Next Steps
 
@@ -39,12 +40,13 @@ facilitate landmarking
 **Progress**
 1. A first working version of the extension is already functional. It can be found
 [here](https://github.com/koeglfryderyk/mthesis-slicerLandmarkingView) on the main branch. A screenshot can be seen
-below in **Illustrations**.
+below in **Illustrations**. For more details refer to the readme in its branch.
 
 **Next Steps**
 1. Explore 3D functionality for setting landmarks
 2. Make the code more robust - a lot of things are hard coded now
 3. Add a fifth volume (MRI) - so that we have MR1-US1-US2-US3-MR2
+4. Change the code from using names to IDs (there can be duplicate names but not IDs)
 
 # Illustrations
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
