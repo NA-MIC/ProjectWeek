@@ -28,10 +28,9 @@ facilitate landmarking
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. We use an iterative process for creating the UI - the users give feedback to the developer(s) and the UI gets
-continuously updated
-2. ...
-3. ...
+1. We use an iterative process for creating the UI - the user(s) give feedback to the developer(s) who then continuously
+update(s) the UI
+
 
 ## Progress and Next Steps
 
