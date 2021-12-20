@@ -19,9 +19,10 @@ registration.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. Investigate the rendering infrastructure that would facilitate the adjustment of landmark position in the 3D view of Slicer
-1. Objective C. ...
+1. Objective A. Create a UI that provides new functionality and gathers existing functionality in one place to
+facilitate landmarking
+2. Objective B. Investigate the rendering infrastructure that would facilitate the adjustment of landmark position in the 3D view of Slicer
+3. Objective C. ...
 
 ## Approach and Plan
 
