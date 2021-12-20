@@ -2,7 +2,7 @@
 
 [This event](https://projectweek.na-mic.org/PW36_2022_Virtual/) will be held virtually January 17-21, 2022. 
 
-During the same week, a training workshop will be in person in Las Palmas de Gran Canaria, Canary Islands, Spain. Please [see this page](LocalParticipation.md) for more information about this workshop.
+During the same week, a training workshop is being planned (hopefully in-person in Las Palmas de Gran Canaria, Canary Islands, Spain). Please [see this page](LocalParticipation.md) for more information about this workshop.
 
 If you have any questions, you can contact the [organizers](../README.md#who-to-contact).
 
