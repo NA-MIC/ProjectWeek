@@ -12,7 +12,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-Corresponding landmarks between MR and ultrasound images acquired during neurosurgery are valuable for (a) validation of registration algorithms and (b) training supervised registration algorithms.
+Corresponding landmarks between MR and ultrasound images acquired during neurosurgery are valuable for **(a)**
+validation of registration algorithms and **(b)** training supervised registration algorithms **(c)** initializing a
+registration.
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
