@@ -22,9 +22,12 @@ During project week, we would like to identify new features that may be useful f
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Discuss best approach (and required additional developments, if any) to record an ultrasound (US) image volume and US probe position, and then enable trainees to simulate US imaging in that recorded volume by freely moving an US probe with respect to a phantom (instead of patient). This would enable the recording of US images of real anatomy and pathologies by expert radiologists. This would be really useful to create custom training exercises for medical students regarding detection of pathologies in US images, and others.
+    - Can we use US volume reconstruction + Registration + Volume reslice driver to achieve this?
+    - Does reslicing of a reconstructed US volume generates realistic US images?
+
+2. A useful feature for ultrasound training will be to ask multiple-choice questions to users during the session. These questions could be used to ensure that, apart from hand-eye coordination, users understand the whole workflow for US-guided procedures. Customized questions could be included for each procedure to be trained.
+    - How could we show this questions in Slicer? Could we generate custom Qt widgets for this? Pop-up windows?
 
 ## Approach and Plan
 
