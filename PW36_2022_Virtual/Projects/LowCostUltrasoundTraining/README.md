@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Csaba Pinter (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Rebecca Hisey (PerkLab, Queen's University, Kingston, ON, Canada)
 - Matt McCormick (Kitware)
+- Steve Pieper (Isomics)
 
 # Project Description
 
