@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Csaba Pinter (EBATINCA)
 - Mónica García (ULPGC - Universidad de Las Palmas de Gran Canaria)
-- ?
+- Jean-Christophe Fillion-Robin (Kitware)
 
 # Project Description
 
@@ -18,9 +18,9 @@ Slicer module (packaged in an extension) for connecting two or more running Slic
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Objective A. Showcase current progress
+1. Objective B. Collect feedback, add select features
+1. Objective C. Fix remaining issues
 
 ## Approach and Plan
 
