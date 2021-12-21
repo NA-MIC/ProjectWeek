@@ -71,8 +71,6 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 ### Infrastructure
 1. [SlicerPipelines](Projects/SlicerPipelines/README.md) (Connor Bowley, Sam Horvath)
-
-### Others
 1. [Slicer Internationalization](Projects/SlicerInternationalization/README.md)
 
 ## Registrants
