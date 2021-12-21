@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Fryderyk Kögl (BWH, TUM) - [@koeglfryderyk](https://github.com/koeglfryderyk)
+- Fryderyk Kögl (BWH, TUM)
 - Harneet Cheema (BWH, UOttawa)
 - Tina Kapur (BWH)
 - Simon Drouin (ETS)
