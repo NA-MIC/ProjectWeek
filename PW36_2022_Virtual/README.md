@@ -94,6 +94,22 @@ List of registered participants so far (names will be added here after processin
 1.	Simon Drouin	,	École de technologie supérieure	,	Canada
 1.	Tina Kapur	,	Brigham and Women's Hospital, Harvard Medical School	,	USA
 1.	Loraine Franke	,	University of Massachusetts Boston	,	USA
+1.	Harneet Cheema 	,	Brigham and Women's Hospital and Harvard Medical School, U Ottawa	,	Canada
+1.	Fryderyk Kögl	,	Brigham and Women's Hospital and Harvard Medical School, Technical University of Munich	,	USA
+1.	Sonia Pujol	,	Brigham and Women's Hospital,  Harvard Medical School	,	USA
+1.	Daniel Haehn	,	University of Massachusetts Boston	,	USA
+1.	Juan Ruiz-Alzola	,	Universidad de Las Palmas de Gran Canaria	,	Spain
+1.	Felix von Haxthausen	,	University of Lübeck	,	Germany
+1.	Deepa Krishnaswamy	,	Brigham and Women's Hospital	,	USA
+1.	Antonio Cartón	,	Hospital Universitario La Paz	,	Spain
+1.	Yi Shen	,	HIT	,	China
+1.	Ahmedou Moulaye IDRISS	,	Faculty of Medicine, University of Nouakchott Al Asriya	,	Mauritania
+1.	Csaba Pinter	,	EBATINCA / Pixel Medical	,	Spain
+1.	Adam Wittek	,	The University of Western Australia	,	Australia
+1.	Reuben Dorent	,	King's College London	,	United Kingdom
+1.	David García-Mato	,	Ebatinca S.L.	,	Spain
+1.	Rebecca Hisey	,	Queen's University	,	Canada
+1.	Leah Groves	,	Queens University 	,	Canada
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
