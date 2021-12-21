@@ -6,11 +6,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Ron Alkalay (Beth Isreal Deaconess, Boston)
 - Steve Pieper (Isomics)
+- Andres Diaz-Pinto (KCL)
 - YOU
 
 # Project Description
 
-Investigate and implement methods to segment the human spine from CT scans.
+Investigate and implement methods to segment the human spine from CT scans.  See [last Project Week's page for background](https://projectweek.na-mic.org/PW35_2021_Virtual/Projects/SpineSegmentation/).
 
 ## Objective
 
