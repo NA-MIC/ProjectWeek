@@ -4,17 +4,18 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-Maxime Gillot
-Baptiste Baquero
-Antonio Ruellas
-Marcela Gurgel
-Elizabeth Biggs
-Marilia Yatabe
-Jonas Bianchi
-Lucia Cevidanes
-Juan Carlos Prieto
+- Maxime Gillot
+- Baptiste Baquero
+- Antonio Ruellas
+- Marcela Gurgel
+- Elizabeth Biggs
+- Marilia Yatabe
+- Jonas Bianchi
+- Lucia Cevidanes
+- Juan Carlos Prieto
 
 # Project Description
+
 We propose a novel approach that reformulates anatomical landmark detection as a classification problem through a virtual agent placed
 inside a 3D Cone-Beam Computed Tomography (CBCT) scan. This agent is trained to
 navigate in a multi-scale volumetric space to reach the estimated landmark position. The
