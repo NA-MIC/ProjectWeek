@@ -66,9 +66,12 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Spine Segmentation](Projects/SpineSegmentation/README.md) (Ron Alkalay, Steve Pieper, ...)
 1. [MR-US landmark placement interface](Projects/AnnotationMR-US/Readme.md) (Fryderyk Kögl, Harneet Cheema, Tina Kapur, Simon Drouin)
 
+### Infrastructure
+1. [SlicerPipelines](Projects/SlicerPipelines/README.md) (Connor Bowley, Sam Horvath)
+
 ### Others
 1. [Slicer Internationalization](Projects/SlicerInternationalization/README.md)
-    
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. [Register here](https://forms.gle/1zE3pDs59sJ4ENP96).
