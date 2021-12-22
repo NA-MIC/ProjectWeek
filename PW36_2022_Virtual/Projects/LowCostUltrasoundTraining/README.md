@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Rebecca Hisey (PerkLab, Queen's University, Kingston, ON, Canada)
 - Matt McCormick (Kitware)
 - Steve Pieper (Isomics)
+- Fryderyk Kögl (BWH, TUM)
 
 # Project Description
 
