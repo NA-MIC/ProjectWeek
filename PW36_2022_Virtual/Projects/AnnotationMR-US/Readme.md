@@ -8,6 +8,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Harneet Cheema (BWH, UOttawa)
 - Tina Kapur (BWH)
 - Simon Drouin (ETS)
+- Steve Pieper (Isomics)
+- Tamas Ungi (Queen's University)
+- Sandy Wells (BWH)
 
 # Project Description
 
