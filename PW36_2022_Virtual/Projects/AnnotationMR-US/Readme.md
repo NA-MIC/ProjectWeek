@@ -49,9 +49,7 @@ below in **Illustrations**. For more details refer to the
 
 **Next Steps**
 1. Explore 3D functionality for setting landmarks
-2. Make the code more robust - a lot of things are hard coded now
-3. Add a fifth volume (MRI) - so that we have MR1-US1-US2-US3-MR2
-4. Change the code from using names to IDs (there can be duplicate names but not IDs)
+2. Make the code more robust - a lot of things are hard coded now (e.g. amount of volumes)
 
 # Illustrations
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
