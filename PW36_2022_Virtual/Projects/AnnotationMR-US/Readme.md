@@ -25,7 +25,8 @@ registration. In this project we aim to create a tool that makes the process of 
 
 1. Objective A. Create a UI that provides new functionality and gathers existing functionality in one place to
 facilitate landmarking
-2. Objective B. Investigate the rendering infrastructure that would facilitate the adjustment of landmark position in the 3D view of Slicer
+2. Objective B. Investigate the rendering infrastructure that would facilitate the adjustment of landmark position in
+the 3D view of Slicer
 
 ## Approach and Plan
 
@@ -37,7 +38,8 @@ update(s) the UI
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps
+that you could not complete then you can describe them here, too. -->
 
 **Progress**
 1. A first working version of the extension is already functional. It can be found
