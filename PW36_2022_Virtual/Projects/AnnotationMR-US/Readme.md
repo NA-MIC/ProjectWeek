@@ -8,6 +8,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Harneet Cheema (BWH, UOttawa)
 - Tina Kapur (BWH)
 - Simon Drouin (ETS)
+- Steve Pieper (Isomics)
+- Tamas Ungi (Queen's University)
+- Sandy Wells (BWH)
 
 # Project Description
 
@@ -22,7 +25,8 @@ registration. In this project we aim to create a tool that makes the process of 
 
 1. Objective A. Create a UI that provides new functionality and gathers existing functionality in one place to
 facilitate landmarking
-2. Objective B. Investigate the rendering infrastructure that would facilitate the adjustment of landmark position in the 3D view of Slicer
+2. Objective B. Investigate the rendering infrastructure that would facilitate the adjustment of landmark position in
+the 3D view of Slicer
 
 ## Approach and Plan
 
@@ -34,18 +38,18 @@ update(s) the UI
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps
+that you could not complete then you can describe them here, too. -->
 
 **Progress**
 1. A first working version of the extension is already functional. It can be found
 [here](https://github.com/koeglfryderyk/mthesis-slicerLandmarkingView) on the main branch. A screenshot can be seen
-below in **Illustrations**. For more details refer to the readme in its branch.
+below in **Illustrations**. For more details refer to the
+[readme](https://github.com/koeglfryderyk/mthesis-slicerLandmarkingView#readme).
 
 **Next Steps**
 1. Explore 3D functionality for setting landmarks
-2. Make the code more robust - a lot of things are hard coded now
-3. Add a fifth volume (MRI) - so that we have MR1-US1-US2-US3-MR2
-4. Change the code from using names to IDs (there can be duplicate names but not IDs)
+2. Make the code more robust - a lot of things are hard coded now (e.g. amount of volumes)
 
 # Illustrations
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
@@ -56,4 +60,11 @@ below in **Illustrations**. For more details refer to the readme in its branch.
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample
+data, and to any relevant publications. -->
+
+1. [Current version of the extension](https://github.com/koeglfryderyk/mthesis-slicerLandmarkingView)
+2. [Mini dataset based on RESECT[1] to use for testing the extension](https://www.dropbox.com/sh/gabm0rqdh8kttj6/AADJfwfJnduJG4GJ92tygPufa?dl=0)
+
+[1] Xiao, Yiming, et al. "RE troSpective Evaluation of Cerebral Tumors (RESECT): A clinical database of pre‐operative
+MRI and intra‐operative ultrasound in low‐grade glioma surgeries." Medical physics 44.7 (2017): 3875-3882.
