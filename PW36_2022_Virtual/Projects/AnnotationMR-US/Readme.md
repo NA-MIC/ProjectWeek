@@ -44,7 +44,8 @@ that you could not complete then you can describe them here, too. -->
 **Progress**
 1. A first working version of the extension is already functional. It can be found
 [here](https://github.com/koeglfryderyk/mthesis-slicerLandmarkingView) on the main branch. A screenshot can be seen
-below in **Illustrations**. For more details refer to the readme in its branch.
+below in **Illustrations**. For more details refer to the
+[readme](https://github.com/koeglfryderyk/mthesis-slicerLandmarkingView#readme).
 
 **Next Steps**
 1. Explore 3D functionality for setting landmarks
@@ -61,4 +62,11 @@ below in **Illustrations**. For more details refer to the readme in its branch.
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample
+data, and to any relevant publications. -->
+
+1. [Current version of the extension](https://github.com/koeglfryderyk/mthesis-slicerLandmarkingView)
+2. [Mini dataset based on RESECT[1] to use for testing the extension](https://www.dropbox.com/sh/gabm0rqdh8kttj6/AADJfwfJnduJG4GJ92tygPufa?dl=0)
+
+[1] Xiao, Yiming, et al. "RE troSpective Evaluation of Cerebral Tumors (RESECT): A clinical database of pre‐operative
+MRI and intra‐operative ultrasound in low‐grade glioma surgeries." Medical physics 44.7 (2017): 3875-3882.
