@@ -51,20 +51,28 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ## Projects [(How to add a new project?)](Projects/README.md)
     
 ### VR/AR and Rendering    
-1. [Collaborative Slicer session](Projects/SlicerCollaboration/README.md) (Csaba Pinter, Mónica Garcia, ?)
+1. [Collaborative Slicer session](Projects/SlicerCollaboration/README.md) (Csaba Pinter, Mónica Garcia, Jean-Christophe Fillion-Robin)
 2. [AR in Slicer](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/AR%20in%20Slicer) (Alicia Pose Díez de la Lastra, Javier Pascau, Gabor Fichtinger, Andras Lasso, Adam Rankin, Csaba Pinter, Lucas Gandel, Jean-Christophe Fillion-Robin)
 3. [Slicer TMS Module](Projects/SlicerTMS_Module/README.md) (Loraine Franke, Lipeng Ning, Yogesh Rathi, Steve Pieper, Raymond Yang, Daniel Haehn)
+4. [PRISM Rendering](Projects/PRISMRendering/Readme.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
     
 ### Image-guided therapy and low cost systems   
 1. [GPU Rigid Registration](Projects/GPURigidRegistration/Readme.md) (Gelel Rezig, Houssem Gueziri, Simon Drouin)
-2. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia Mato, Csaba Pinter, Rebecca Hisey, ...)
+2. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia Mato, Csaba Pinter, Rebecca Hisey, Matt McCormick, Steve Pieper, ...)
    
 ### Cloud
    
 ### Annotation/segmentation
 1. [Spine Segmentation](Projects/SpineSegmentation/README.md) (Ron Alkalay, Steve Pieper, ...)
 1. [MR-US landmark placement interface](Projects/AnnotationMR-US/Readme.md) (Fryderyk Kögl, Harneet Cheema, Tina Kapur, Simon Drouin)
-   
+1. [Automatic Landmark Identification in 3D Cone-Beam Computed Tomography scans](Projects/ALICBCT/README.md) (Maxime Gillot, Baptiste Baquero, Antonio Ruellas, Marcela Gurgel, Elizabeth Biggs, Marilia Yatabe, Jonas Bianchi, Lucia Cevidanes, Juan Carlos Prieto)
+1. [ALIIOS - Automatic Landmarks Identification for Intra OralScans](Projects/ALIDDM/README.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, Juan Carlos Prieto, Najla Al Turkestani, Marcela Gurgel, Camila Massaro, Aron Aliaga, Maria Antonia Alvarez Castrillon, Marilia Yatabe, Jonas Bianchi, Juan Fernando Aristizabal, Diego Rey, Antonio Ruellas)
+
+
+### Infrastructure
+1. [SlicerPipelines](Projects/SlicerPipelines/README.md) (Connor Bowley, Sam Horvath)
+1. [Slicer Internationalization](Projects/SlicerInternationalization/README.md)
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. [Register here](https://forms.gle/1zE3pDs59sJ4ENP96).
@@ -86,6 +94,22 @@ List of registered participants so far (names will be added here after processin
 1.	Simon Drouin	,	École de technologie supérieure	,	Canada
 1.	Tina Kapur	,	Brigham and Women's Hospital, Harvard Medical School	,	USA
 1.	Loraine Franke	,	University of Massachusetts Boston	,	USA
+1.	Harneet Cheema 	,	Brigham and Women's Hospital and Harvard Medical School, U Ottawa	,	Canada
+1.	Fryderyk Kögl	,	Brigham and Women's Hospital and Harvard Medical School, Technical University of Munich	,	USA
+1.	Sonia Pujol	,	Brigham and Women's Hospital,  Harvard Medical School	,	USA
+1.	Daniel Haehn	,	University of Massachusetts Boston	,	USA
+1.	Juan Ruiz-Alzola	,	Universidad de Las Palmas de Gran Canaria	,	Spain
+1.	Felix von Haxthausen	,	University of Lübeck	,	Germany
+1.	Deepa Krishnaswamy	,	Brigham and Women's Hospital	,	USA
+1.	Antonio Cartón	,	Hospital Universitario La Paz	,	Spain
+1.	Yi Shen	,	HIT	,	China
+1.	Ahmedou Moulaye IDRISS	,	Faculty of Medicine, University of Nouakchott Al Asriya	,	Mauritania
+1.	Csaba Pinter	,	EBATINCA / Pixel Medical	,	Spain
+1.	Adam Wittek	,	The University of Western Australia	,	Australia
+1.	Reuben Dorent	,	King's College London	,	United Kingdom
+1.	David García-Mato	,	Ebatinca S.L.	,	Spain
+1.	Rebecca Hisey	,	Queen's University	,	Canada
+1.	Leah Groves	,	Queens University 	,	Canada
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using

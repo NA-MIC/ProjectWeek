@@ -7,6 +7,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 - David García Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Csaba Pinter (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Rebecca Hisey (PerkLab, Queen's University, Kingston, ON, Canada)
+- Matt McCormick (Kitware)
+- Steve Pieper (Isomics)
+- Fryderyk Kögl (BWH, TUM)
 
 # Project Description
 
