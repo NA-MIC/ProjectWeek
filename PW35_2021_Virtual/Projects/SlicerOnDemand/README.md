@@ -49,7 +49,7 @@ The goal is to allow people to quickly transition from viewing images to doing m
 | Click on the image below to see the video |
 |----|
 |[![](./2021.07.01_NousNav-Demo-Video.png)](https://drive.google.com/file/d/1cfWCd2-31rGxKGYWsacnr5M6aInSOAty/view?usp=sharing) |
-|[![SlicerOnDemand full demo (2 minutes)](http://img.youtube.com/vi/ERm2lPzWH0E/0.jpg)](https://youtu.be/ERm2lPzWH0E "SlicerOnDemand")|
+|[![SlicerOnDemand full demo (2 minutes)](https://img.youtube.com/vi/ERm2lPzWH0E/0.jpg)](https://youtu.be/ERm2lPzWH0E "SlicerOnDemand")|
 
 
 # Background and References
