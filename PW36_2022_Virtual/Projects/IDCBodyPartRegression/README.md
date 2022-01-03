@@ -54,6 +54,6 @@ We plan to leverage the strengths of Imaging Data Commons by using it to obtain 
 
 Schuhegger S. Body Part Regression for CT Images. arXiv preprint arXiv:2110.09148. 2021 Oct 18. https://arxiv.org/abs/2110.09148?context=eess 
 
-Github link: https://github.com/mic-dkfz/bodypartregression 
+Github link: https://github.com/mic-dkfz/bodypartregression \
 Inference example: https://github.com/MIC-DKFZ/BodyPartRegression/blob/develop/docs/notebooks/inference-example.ipynb 
 
