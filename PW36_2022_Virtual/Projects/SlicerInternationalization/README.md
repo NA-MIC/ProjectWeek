@@ -11,6 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Ibrahima Fall (Université Cheikh Anta Diop, Dakar, Senegal)
 - Samba Diaw (Université Cheikh Anta Diop, Dakar, Senegal)
 - Jean-Christophe Fillion-Robin (Kitware Inc., Chapel Hill, NC, USA)
+- Fryderyk Kögl (BWH, TUM)
 
 # Project Description
 
