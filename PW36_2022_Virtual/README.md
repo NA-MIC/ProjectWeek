@@ -71,7 +71,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 ### Infrastructure
 1. [SlicerPipelines](Projects/SlicerPipelines/README.md) (Connor Bowley, Sam Horvath)
-1. [Slicer Internationalization](Projects/SlicerInternationalization/README.md)
+1. [Slicer Internationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso, Mamadou Camara,  Jean-Christophe Fillion-Robin, Ibrahima Fall, Samba Diaw) 
 
 ## Registrants
 
