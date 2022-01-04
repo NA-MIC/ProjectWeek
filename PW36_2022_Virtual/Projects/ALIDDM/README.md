@@ -55,7 +55,7 @@ The goal is to have a model that automatically finds accurate landmarks on the d
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 ![Screenshot 1](presentaion_1.jpeg)
-![Searching for landmark](presentaion.jpeg)
+![Searching for landmark](presentation.jpeg)
 
 # Background and References
 
