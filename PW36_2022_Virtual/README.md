@@ -110,6 +110,17 @@ List of registered participants so far (names will be added here after processin
 1.	David García-Mato	,	Ebatinca S.L.	,	Spain
 1.	Rebecca Hisey	,	Queen's University	,	Canada
 1.	Leah Groves	,	Queens University 	,	Canada
+1.	xi cao	,	changshu hospital of chinese medicine	,	China
+1.	Sen Li	,	École de Technologie Supérieure	,	Canada
+1.	Khaled Younis 	,	Philips 	,	United States 
+1.	Lina Mekki	,	Johns Hopkins University	,	United states
+1.	Yahia Megahed	,	University of Central Florida	,	USA
+1.	Étienne Léger	,	Brigham and Women's Hospital	,	Canada
+1.	Lipeng Ning	,	Brigham and Women's Hospital	,	USA
+1.	Ahmed Mahran	,	Toronto General hosptial 	,	Canada
+1.	Nirav Patel	,	IIT Madras	,	India
+1.	Saidou TALLA	,	École Supérieure Polytechnique (ESP)	,	Sénégal
+1.	Rudolf Bumm	,	Kantonsspital Graubünden	,	Switzerland
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
