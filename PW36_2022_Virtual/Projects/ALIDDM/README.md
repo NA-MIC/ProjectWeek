@@ -1,7 +1,7 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
-ALIIOS - Automatic Landmarks Identification for Intra OralScans
+# ALIIOS - Automatic Landmarks Identification for Intra OralScans
+
 
 ## Key Investigators
     Baptiste Baquero
