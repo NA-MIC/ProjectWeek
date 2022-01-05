@@ -10,7 +10,7 @@
 - Samantha Horvath (Kitware)
 - Jean-Christophe Fillion-Robin (Kitware)
 - Harneet Cheema (Brigham and Women's Hospital, USA)
-- Fryderyk Kögl (TUM, Germany)
+- Fryderyk Kögl (BWH, TUM)
 
 # Project Description
 Neuronavigation systems allow for visualization of pre-operative images and planning information to estimate the precise location of target surgical areas. Patient-to-image mapping is a key step in the workflow of these neuronavigation systems. Registration approaches typically rely on landmarks on pre-operative images as well as on the patient in the operating room (OR) [1]. An alternative approach would be to directly map the patient's skin surface [2]. While extracting the skin surface of the patient in the OR can be performed using existing technologies (e.g., a pointer, a laser) [3], automatic skin surface extraction on scans remains an open problem. This project aims at developing an automated skin segmentation tool for pre-operative scans (T1w scans).
