@@ -6,13 +6,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Maxime Gillot
 - Baptiste Baquero
-- Antonio Ruellas
-- Marcela Gurgel
-- Elizabeth Biggs
-- Marilia Yatabe
-- Jonas Bianchi
-- Lucia Cevidanes
 - Juan Carlos Prieto
+- Hina Shah
 
 # Project Description
 
@@ -28,25 +23,29 @@ less than a 1.3mm error on the landmarks position without failures.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Test the training on new CBCT 
-1. Objective B. Create a slicer module 
-1. Objective C. ...
+The goal is to have a model that automatically finds accurate landmarks in CBCT scans.
+
+
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+A virtual agent is placed inside a 3D CBCT scan. This agent is trained to
+navigate in a multi-scale volumetric space to reach the estimated landmark position. The decision making is processed through a deep neural network.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+Done :
+1. Prepare the data to be used for training and prediction
+2. Train the model with a set of 6 landmarks and 60 CBCTs
+3. Test the accuracy of the prediction on new scans
+
+Next:
+1. Train the model on new landmarks and new CBCTs set
+2. Create a slicer module that can be used to predict the landmark on various types of file
+3. Optimize the training method to make it accessible for clinicians to train on their own dataset
 
 # Illustrations
 
@@ -54,6 +53,9 @@ less than a 1.3mm error on the landmarks position without failures.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![Environment used for the landmark search](https://user-images.githubusercontent.com/46842010/148282250-a2be2edf-e8b8-4d4e-bc16-c71fd0ea9d38.png)
+
+![Agent used to find the landmark](https://user-images.githubusercontent.com/46842010/148282323-a423f5a3-1ecf-4cff-b824-e6073c835163.png)
 
 # Background and References
 
