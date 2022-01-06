@@ -51,13 +51,14 @@ Replace the usage of the "Editor" module in CIP by something different, preferab
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-Step by step resolution of compatibility problems. 
+Resolve compatibility problems step by step 
 
 
 ## Progress and Next Steps
 
 01/06/22:
-Removing the "Editor" related imports from "Scripted/CIP_/CIP/ui/__init__.py" leads to a complete startup of CIP in Slicer 4.13.0 without initial error messages. 
+
+Removing the "Editor" related imports from "Scripted/CIP_/CIP/ui/__init__.py" results in a complete CIP-startup in Slicer 4.13.0 without initial error messages. 
 
 A github search revealed that "Editor" calls are being made from three of the above modules:  
 
