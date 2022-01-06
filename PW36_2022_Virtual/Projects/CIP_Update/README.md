@@ -19,15 +19,25 @@ Integrated workflows to end-to-end clinical evaluation
 In the current preview versions of 3D Slicer (4.13.0) CIP fails to load the following CIP modules because Slicer's "Editor" module has been removed.    
 
 CIP_CalciumScoring
+
 CIP_RVLVRatio
+
 CIP_LesionModel
+
 CIP_Calibration
+
 CIP_MIPViewer
+
 CIP_BodyComposition
+
 CIP_ParenchymaSubtypeTrainingLabelling
+
 CIP_ParenchymaAnalysis
+
 CIP_PAARatio
+
 CIP_AVRatio
+
 CIP_InteractiveLobeSegmentation
 
 ## Objective
@@ -48,10 +58,13 @@ Step by step resolution of compatibility problems.
 
 01/06/22:
 Removing the "Editor" related imports from "Scripted/CIP_/CIP/ui/__init__.py" leads to a complete startup of CIP in Slicer 4.13.0 without initial error messages. 
+
 A github search revealed that "Editor" calls are being made from three of the above modules:  
 
 CIP_Calibration
+
 CIP_ParenchymaSubtypeTrainingLabelling
+
 CIP_BodyComposition
 
 
