@@ -1,8 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
-
-Update the Chest Imaging Platform to support Slicer 5.0
+# Update the Chest Imaging Platform to support Slicer 5.0
 
 ## Key Investigators
 
@@ -21,15 +19,25 @@ Integrated workflows to end-to-end clinical evaluation
 In the current preview versions of 3D Slicer (4.13.0) CIP fails to load the following CIP modules because Slicer's "Editor" module has been removed.    
 
 CIP_CalciumScoring
+
 CIP_RVLVRatio
+
 CIP_LesionModel
+
 CIP_Calibration
+
 CIP_MIPViewer
+
 CIP_BodyComposition
+
 CIP_ParenchymaSubtypeTrainingLabelling
+
 CIP_ParenchymaAnalysis
+
 CIP_PAARatio
+
 CIP_AVRatio
+
 CIP_InteractiveLobeSegmentation
 
 ## Objective
@@ -43,10 +51,22 @@ Replace the usage of the "Editor" module in CIP by something different, preferab
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
+Resolve compatibility problems step by step 
+
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+01/06/22:
+
+Removing the "Editor" related imports from "Scripted/CIP_/CIP/ui/__init__.py" results in a complete CIP-startup in Slicer 4.13.0 without initial error messages. 
+
+A github search revealed that "Editor" calls are being made from three of the above modules:  
+
+CIP_Calibration
+
+CIP_ParenchymaSubtypeTrainingLabelling
+
+CIP_BodyComposition
 
 
 # Illustrations
@@ -55,6 +75,9 @@ Replace the usage of the "Editor" module in CIP by something different, preferab
 # Background and References
 
 https://chestimagingplatform.org/
+
 https://discourse.slicer.org/t/exporting-csv-with-parenchyma-analysis-module/10697/58?u=rbumm
+
+
 
 
