@@ -53,9 +53,19 @@ Next:
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+
+Selection of 6 landmark to test the method
+![LM_SELECTION](https://user-images.githubusercontent.com/46842010/148439491-f2dd1d7c-65f3-44dc-9590-8c12a143b3ad.png)
+
+Environment to search the agent
 ![Environment used for the landmark search](https://user-images.githubusercontent.com/46842010/148282250-a2be2edf-e8b8-4d4e-bc16-c71fd0ea9d38.png)
 
+Architecture of the agent
 ![Agent used to find the landmark](https://user-images.githubusercontent.com/46842010/148282323-a423f5a3-1ecf-4cff-b824-e6073c835163.png)
+
+The 3 steps to search the landmark
+![Search_3Steps_labeled](https://user-images.githubusercontent.com/46842010/148439759-e7db327a-f9a4-4d45-93b9-c566f19137ba.png)
+
 
 # Background and References
 
