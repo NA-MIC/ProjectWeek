@@ -5,7 +5,7 @@
 
 - Reuben Dorent (King's College London, UK)
 - Tina Kapur (Brigham and Women's Hospital, USA)
-- Sarah Frisken (Affiliation)
+- Sarah Frisken (Brigham and Women's Hospital, USA)
 - Mohammad Jafari (Brigham and Women's Hospital, USA)
 - Samantha Horvath (Kitware)
 - Jean-Christophe Fillion-Robin (Kitware)
@@ -33,7 +33,7 @@ Neuronavigation systems allow for visualization of pre-operative images and plan
 3. Annotate the scans.
 4. Train a deep learning approach.
 5. Assess the performance of the proposed model.
-6. Develop a Slicer module with the pre-trained model
+6. Develop a Slicer module with the pre-trained model.
 
 ## Progress and Next Steps
 
