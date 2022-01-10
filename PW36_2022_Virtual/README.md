@@ -122,6 +122,28 @@ List of registered participants so far (names will be added here after processin
 1.	Nirav Patel	,	IIT Madras	,	India
 1.	Saidou TALLA	,	École Supérieure Polytechnique (ESP)	,	Sénégal
 1.	Rudolf Bumm	,	Kantonsspital Graubünden	,	Switzerland
+1.	Andras Lasso	,	PerkLab, Queen's University	,	Canada
+1.	Lucia Cevidanes	,	Univ. of Michigan	,	USA
+1.	Gabor Fichtinger	,	Queen's University	,	Canada
+1.	Ron Kikinis	,	Harvard Medical School	,	USA
+1.	Yousef Rajaeitabrizi	,	IAC	,	Spain
+1.	Kate Kazlovich	,	Toronto General Hospital	,	Canada
+1.	Raymond Yang	,	University of Massachusetts Boston	,	USA
+1.	Joaquin Olivares	,	Universidad de Córdoba	,	Spain
+1.	Xiang Chen	,	Memorial University of Newfondland	,	China
+1.	Motoki Katsube	,	Kyoto University	,	Japan
+1.	Sarah Frisken	,	Brigham and Women's Hospital	,	USA
+1.	Adam Rankin	,	Robarts Research Institute	,	Canada
+1.	Connor Haberl	,	Carleton University	,	Canada
+1.	Alexandra Golby	,	Brigham and Women's Hospital/Harvard Medical School	,	USA
+1.	Ron Kikinis	,	Harvard Medical School	,	USA
+1.	Badiaa	,	Abdelmalek Essaadi University	,	Morocco
+1.	Ole Vegard Solberg	,	SINTEF	,	Norway
+1.	Geir Arne Tangen	,	SINTEF	,	Norway
+1.	Javier Perez deFrutos	,	SINTEF	,	Norway
+1.	Andrey Fedorov	,	Brigham and Women's Hospital/Harvard Medical School	,	USA
+1.	Nadya Shusharina	,	Mass General Brigham /Harvard Medical School	,	USA
+1.	Kumar Punithakumar	,	University of Alberta	,	Canada
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
