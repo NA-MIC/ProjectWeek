@@ -85,22 +85,22 @@ CIP_BodyComposition is needed, but probably much better realized with AI segment
 
 # Illustrations
 
+Body Composition module:
 
 ![image](https://user-images.githubusercontent.com/18140094/148948731-bdb76667-9380-4f0c-b98a-7eaf27aa942b.png)
 
-Body Composition module
+Calibration module:
 
 ![image](https://user-images.githubusercontent.com/18140094/148948945-9c7d710c-add3-46ba-b774-4bcf35a05f51.png)
 
-Calibration module
+Parenchyma Subtype Training:
 
 ![image](https://user-images.githubusercontent.com/18140094/148949201-7de68dd3-9794-4f79-b323-d2ed02b4db12.png)
 
-Parenchyma Subtype Training
+Parenchyma Subtype Training Labelling:
 
 ![image](https://user-images.githubusercontent.com/18140094/148949387-28de3db1-1323-44a8-8d01-c298a20661f1.png)
 
-Parenchyma Subtype Training Labelling
 
 
 
