@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Update the Chest Imaging Platform to support Slicer 5.0
+# Update the Chest Imaging Platform extenstion to support Slicer 5.0
 
 ## Key Investigators
 
