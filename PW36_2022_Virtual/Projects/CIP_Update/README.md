@@ -5,6 +5,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Rudolf Bumm  (KSGR)
+- Andras Lasso (PerkLab)
+- Steve Pieper (Kitware)
 
 # Project Description
 
@@ -40,11 +42,14 @@ CIP_AVRatio
 
 CIP_InteractiveLobeSegmentation
 
+The CIP extension currently uses legacy editor module, and charts infrastructure (instead of Segment editor, Plots, and Tables modules).
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 Replace the usage of the "Editor" module in CIP by something different, preferably the SegmentEditor
+Replace the charts infrastructure. 
 
 
 ## Approach and Plan
@@ -52,6 +57,8 @@ Replace the usage of the "Editor" module in CIP by something different, preferab
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 Resolve compatibility problems step by step 
+
+There is no labelmap editor in Slicer 5. Is it possible to keep the Editor module and rename it to LabelmapEditor ? 
 
 
 ## Progress and Next Steps
@@ -62,11 +69,20 @@ Removing the "Editor" related imports from "Scripted/CIP_/CIP/ui/__init__.py" re
 
 A github search revealed that "Editor" calls are being made from three of the above modules:  
 
-CIP_Calibration
+- CIP_Calibration
+- CIP_ParenchymaSubtypeTrainingLabelling
+- CIP_BodyComposition 
 
-CIP_ParenchymaSubtypeTrainingLabelling
+01/11/22: 
 
-CIP_BodyComposition
+CIP_Calibration is probably outdated.
+
+CIP_ParenchymaSubtypeTrainingLabelling is outdated, probably redundant. 
+
+CIP_BodyComposition is needed, but probably much better realized with AI segmentation 
+
+
+
 
 
 # Illustrations
@@ -77,7 +93,6 @@ CIP_BodyComposition
 https://chestimagingplatform.org/
 
 https://discourse.slicer.org/t/exporting-csv-with-parenchyma-analysis-module/10697/58?u=rbumm
-
 
 
 
