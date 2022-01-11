@@ -92,17 +92,30 @@ CIP_BodyComposition is needed, but probably much better realized with AI segment
 
 # Illustrations
 
+Chest imaging platform menu example: 
+
+![image](https://user-images.githubusercontent.com/18140094/148950587-b77213a2-f522-4cc6-a13f-7fb91b57f2f3.png)
+
+
+
+
 Body Composition module:
 
 ![image](https://user-images.githubusercontent.com/18140094/148948731-bdb76667-9380-4f0c-b98a-7eaf27aa942b.png)
+
+
 
 Calibration module:
 
 ![image](https://user-images.githubusercontent.com/18140094/148948945-9c7d710c-add3-46ba-b774-4bcf35a05f51.png)
 
+
+
 Parenchyma Subtype Training:
 
 ![image](https://user-images.githubusercontent.com/18140094/148949201-7de68dd3-9794-4f79-b323-d2ed02b4db12.png)
+
+
 
 Parenchyma Subtype Training Labelling:
 
