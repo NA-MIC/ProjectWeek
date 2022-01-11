@@ -47,8 +47,13 @@ The goal is to have a model that automatically finds accurate landmarks on the d
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+Previous work :
+1. The camera is the agent. We had one agent for one landmark. For each camera, we initialized the focal point to the center of the tooth. The output of the
+neural network returns the movement of the camera and movement of focal point. We tried this method for just one tooth, and for all the jaw.
+2. We tried to create a sphere of cameras and the agent is the center of the sphere. The output of the neural network is just the movement of my agent. We tried with different parameters for exemple with random rotations of the 3D model or we randomly or not the initial point of my agent. 
 
-1. Develop an algorithm in the pytorch3D framework that uses as input the surfaces and moves the virtual agent in the environment. 
+Work to continue :
+3. Develop an algorithm in the pytorch3D framework that uses as input the surfaces and moves the virtual agent in the environment using Reinforcement Learning. 
 
 # Illustrations
 
