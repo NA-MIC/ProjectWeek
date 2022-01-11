@@ -22,7 +22,7 @@ the symbol you may enter the channel by left-clicking onto it and joining the au
 
 ## How to change your nickname and avantar
 
-Double click on your nickname in the right "users online" and select "Edit Profile"  
+Double click on your nickname in the right "users online" and select "Edit Profile"  Please set the Discord nickname to your real name and affiliation such e.g. Simon Drouin (ETS Montreal). Real name usage may be limited to the Discord PW server.  
 
 ![](https://user-images.githubusercontent.com/18140094/149008038-20629691-db7c-424f-b849-d7c99736c9fc.png)
 
