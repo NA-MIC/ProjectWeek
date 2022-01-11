@@ -12,7 +12,7 @@ Discord can be downloaded for free from https://discord.com/ and is available fo
 
 After Discord installation, please join the [Discord server](https://discord.gg/d5Q6b5ug8u) that will be activated about one week prior to each Project Week. Just click the link, it will open Discord and ask you to "Join" the Project Week server.  After login, you should see Discord opening like this:
 
-![](https://user-images.githubusercontent.com/18140094/149002086-2f238b04-f8f4-41ee-9ab6-cc8130b7289e.png)
+![](https://user-images.githubusercontent.com/18140094/149007887-704b51b2-2eac-4569-a7f0-739a8e1e72d5.png)
 
 There will be several meeting rooms, project channels, and the lobby. Enter your chat message in the bottom message input field.   If the channel or the meeting room has a  
 
