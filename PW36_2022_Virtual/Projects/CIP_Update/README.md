@@ -88,6 +88,13 @@ CIP_BodyComposition is needed, but probably much better realized with AI segment
 # Illustrations
 
 
+![image](https://user-images.githubusercontent.com/18140094/148948731-bdb76667-9380-4f0c-b98a-7eaf27aa942b.png)
+
+Body Composition module
+
+
+
+
 # Background and References
 
 https://chestimagingplatform.org/
