@@ -4,7 +4,7 @@ For Project Weeks that need to be held virtually, the community uses Discord in 
 
 ## What is Discord?
 
-Discord is a chat app, similar to programs such as Skype, TeamSpeak, or Slack. Primarily built for video gamers, it supports video calls, voice chat, and text. It offers an efficient and semipublic, forum-style community platform and allows the creation of channels devoted to specific topics. For Project Week each channel represents an individual project that can be followed according to your personal interests.  Discord allows for the creation of servers and Project week has its dedicated server.     
+Discord is a chat app, similar to programs such as Skype, TeamSpeak, or Slack. Primarily built for video gamers, it supports video calls, voice chat, and text. It offers an efficient and semipublic, forum-style community platform and allows the creation of channels devoted to specific topics. For Project Week each channel represents an individual project that can be followed according to your personal interests.  Discord allows for the creation of servers and Project Week has its dedicated server.     
 
 Discord can be downloaded for free from https://discord.com/ and is available for all major platforms. 
 
