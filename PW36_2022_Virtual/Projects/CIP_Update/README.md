@@ -5,6 +5,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Rudolf Bumm  (KSGR)
+- Raul San Jose Estepar (Brigham)
+- Andras Lasso (PerkLab)
+- Steve Pieper (Kitware)
 
 # Project Description
 
@@ -40,18 +43,29 @@ CIP_AVRatio
 
 CIP_InteractiveLobeSegmentation
 
+The CIP extension currently uses legacy editor module, and charts infrastructure (instead of Segment editor, Plots, and Tables modules).
+
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
 Replace the usage of the "Editor" module in CIP by something different, preferably the SegmentEditor
+Replace the charts infrastructure. 
 
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
 Resolve compatibility problems step by step 
+
+or 
+
+There is no labelmap editor in Slicer 5. Is it possible to keep the Editor module and rename it to LabelmapEditor ? 
+
+or 
+
+Deactivate the three mentioned modules in Slicer 5
+
+## Considerations 
+
+How do we promote faster source updates of CIP ?  
 
 
 ## Progress and Next Steps
@@ -62,14 +76,53 @@ Removing the "Editor" related imports from "Scripted/CIP_/CIP/ui/__init__.py" re
 
 A github search revealed that "Editor" calls are being made from three of the above modules:  
 
-CIP_Calibration
+- CIP_Calibration
+- CIP_ParenchymaSubtypeTrainingLabelling
+- CIP_BodyComposition 
 
-CIP_ParenchymaSubtypeTrainingLabelling
+01/11/22: 
 
-CIP_BodyComposition
+CIP_Calibration is probably outdated.
+
+CIP_ParenchymaSubtypeTrainingLabelling is outdated, probably redundant. 
+
+CIP_BodyComposition is needed, but probably much better realized with AI segmentation 
+
 
 
 # Illustrations
+
+Chest imaging platform menu example: 
+
+![image](https://user-images.githubusercontent.com/18140094/148950587-b77213a2-f522-4cc6-a13f-7fb91b57f2f3.png)
+
+
+
+
+Body Composition module:
+
+![image](https://user-images.githubusercontent.com/18140094/148948731-bdb76667-9380-4f0c-b98a-7eaf27aa942b.png)
+
+
+
+Calibration module:
+
+![image](https://user-images.githubusercontent.com/18140094/148948945-9c7d710c-add3-46ba-b774-4bcf35a05f51.png)
+
+
+
+Parenchyma Subtype Training:
+
+![image](https://user-images.githubusercontent.com/18140094/148949201-7de68dd3-9794-4f79-b323-d2ed02b4db12.png)
+
+
+
+Parenchyma Subtype Training Labelling:
+
+![image](https://user-images.githubusercontent.com/18140094/148949387-28de3db1-1323-44a8-8d01-c298a20661f1.png)
+
+
+
 
 
 # Background and References
@@ -77,7 +130,6 @@ CIP_BodyComposition
 https://chestimagingplatform.org/
 
 https://discourse.slicer.org/t/exporting-csv-with-parenchyma-analysis-module/10697/58?u=rbumm
-
 
 
 
