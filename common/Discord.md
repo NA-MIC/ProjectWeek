@@ -1,6 +1,6 @@
 ## Discord in Project Week 
 
-For Project Weeks that need to be held virtually, the community uses Discord in addition to Zoom as the main chat communication device until further notice  
+For Project Weeks that need to be held virtually, the community uses Discord in addition to Zoom as the main chat communication device until further notice. 
 
 ## What is Discord?
 
