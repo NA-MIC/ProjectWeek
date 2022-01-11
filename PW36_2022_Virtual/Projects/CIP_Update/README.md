@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Rudolf Bumm  (KSGR)
+- Raul San Jose Estepar (Brigham)
 - Andras Lasso (PerkLab)
 - Steve Pieper (Kitware)
 
@@ -58,7 +59,13 @@ Replace the charts infrastructure.
 
 Resolve compatibility problems step by step 
 
+or 
+
 There is no labelmap editor in Slicer 5. Is it possible to keep the Editor module and rename it to LabelmapEditor ? 
+
+or 
+
+Deactivate the three mentioned modules in Slicer 5
 
 
 ## Progress and Next Steps
