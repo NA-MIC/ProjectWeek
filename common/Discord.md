@@ -10,4 +10,4 @@ Discord is free and available for all platforms. 
 
 ## Server link
 
-Please join the \[Discord server\](https://discord.gg/d5Q6b5ug8u) that will be opened about one week prior to each Project Week.
+Please join the [Discord server](https://discord.gg/d5Q6b5ug8u) that will be activated about one week prior to each Project Week.
