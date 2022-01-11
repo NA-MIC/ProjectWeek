@@ -47,15 +47,11 @@ The CIP extension currently uses legacy editor module, and charts infrastructure
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
 Replace the usage of the "Editor" module in CIP by something different, preferably the SegmentEditor
 Replace the charts infrastructure. 
 
 
 ## Approach and Plan
-
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 Resolve compatibility problems step by step 
 
@@ -66,6 +62,10 @@ There is no labelmap editor in Slicer 5. Is it possible to keep the Editor modul
 or 
 
 Deactivate the three mentioned modules in Slicer 5
+
+## Considerations 
+
+How do we promote faster source updates of CIP ?  
 
 
 ## Progress and Next Steps
