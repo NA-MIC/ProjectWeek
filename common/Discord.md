@@ -1,6 +1,6 @@
-## How to use Discord in Project Week 
+## Discord in Project Week 
 
-For Project Weeks that need to be held virtually, the community uses Discord in addition to Zoom as the main chat communication device. 
+For Project Weeks that need to be held virtually, the community uses Discord in addition to Zoom as the main chat communication device until further notice  
 
 ## What is Discord?
 
@@ -10,7 +10,7 @@ Discord can be downloaded for free from https://discord.com/ and is available fo
 
 ## Discord Server link
 
-Please join the [Discord server](https://discord.gg/d5Q6b5ug8u) that will be activated about one week prior to each Project Week.
+After Discord installation, please join the [Discord server](https://discord.gg/d5Q6b5ug8u) that will be activated about one week prior to each Project Week. Just click the link, it will open Discord and ask you to "Join" the Project Week server.  
 
 ## Project history
 
