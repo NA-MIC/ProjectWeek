@@ -24,7 +24,7 @@ the symbol you may enter the channel by left-clicking onto it and joining the au
 
 Double click on your nickname in the right "users online" and select "Edit Profile"  
 
-![](https://user-images.githubusercontent.com/18140094/149003345-3b992892-4e47-4361-845e-d8fdbf3a50bb.png)
+![](https://user-images.githubusercontent.com/18140094/149008038-20629691-db7c-424f-b849-d7c99736c9fc.png)
 
 ## Screen sharing
 
