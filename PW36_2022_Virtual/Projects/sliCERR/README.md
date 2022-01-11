@@ -42,6 +42,7 @@ CERR is an Octave/MATLAB-based software platform for developing and sharing rese
 -->
 
 # Background and References
+ROE: Radiotherapy Outcomes Estimator - An Open-Source Tool for Modeling Radiotherapy Outcomes https://www.aapm.org/meetings/2017am/PRAbs.asp?mid=127&aid=37270
 Extension of CERR for computational radiomics: A comprehensive MATLAB platform for reproducible radiomics research https://pubmed.ncbi.nlm.nih.gov/29896896/
 CERR GitHub Source Repo https://github.com/cerr/CERR
 CERR Wiki https://cerr.github.io/CERR/
