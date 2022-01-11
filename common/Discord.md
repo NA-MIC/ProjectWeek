@@ -10,7 +10,7 @@ Discord can be downloaded for free from https://discord.com/ and is available fo
 
 ## Discord Server link
 
-After Discord installation, please join the [Discord server](https://discord.gg/d5Q6b5ug8u) that will be activated about one week prior to each Project Week. Just click the link, it will open Discord and ask you to "Join" the Project Week server.  After login, you should see Discord opening like this:
+After Discord installation, please open the [Discord server link](https://discord.gg/d5Q6b5ug8u) that will be activated about one week prior to each Project Week. After clicking the link in a browser of your choice it will open Discord and ask you to "Join" the Project Week server.  After login, you should see Discord opening like this:
 
 ![](https://user-images.githubusercontent.com/18140094/149007887-704b51b2-2eac-4569-a7f0-739a8e1e72d5.png)
 
