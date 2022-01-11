@@ -18,7 +18,17 @@ There will be several meeting rooms, project channels, and the lobby. Enter your
 
 ![](https://user-images.githubusercontent.com/18140094/149000903-2a920350-2dac-4618-a02e-1ee914b19c88.png)
 
-the symbol you may enter the channel by left-clicking onto it and joining the audio chat. If you can not find your project as a project channel please drop a line on the Discord lobby (top) - one of the server admins will see it and create the channel.  See who is online in the right Discord tab. You can mention the person by using the @ symbol in the message input field. You can send private messages in Discord, but please refrain from doing so. Use project channels or the lobby wherever possible so everyone can follow. Screen sharing is of course possible and very easy in Discord. 
+the symbol you may enter the channel by left-clicking onto it and joining the audio chat. If you can not find your project as a project channel please drop a line on the Discord lobby (top) - one of the server admins will see it and create the channel.  See who is online in the right Discord tab. You can mention the person by using the @ symbol in the message input field. You can send private messages in Discord, but please refrain from doing so. Use project channels or the lobby wherever possible so everyone can follow. 
+
+## How to change your nickname and avantar
+
+Double click on your nickname in the right "users online" and select "Edit Profile"  
+
+![](https://user-images.githubusercontent.com/18140094/149003345-3b992892-4e47-4361-845e-d8fdbf3a50bb.png)
+
+## Screen sharing
+
+Add how to share screen in Discord. 
 
 ## Project history
 
