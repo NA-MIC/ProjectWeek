@@ -41,10 +41,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
+-->
 ![Comparison of low-res model inference to reference label](lowres_model.png)
 
 ![Comparison of high-res model inference to reference label](highres_model.png)
--->
 
 # Background and References
 
