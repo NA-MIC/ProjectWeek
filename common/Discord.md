@@ -20,23 +20,25 @@ There will be several meeting rooms, project channels, and the lobby. Enter your
 
 the symbol you may enter the channel by left-clicking onto it and joining the audio chat. If you can not find your project as a project channel please drop a line on the Discord lobby (top) - one of the server admins will see it and create the channel.  See who is online in the right Discord tab. You can mention the person by using the @ symbol in the message input field. You can send private messages in Discord, but please refrain from doing so. Use project channels or the lobby wherever possible so everyone can follow. 
 
-## How to change your nickname and avantar
+## How to change your nickname and avatar
 
 Double click on your nickname in the right "users online" and select "Edit Profile"  Please set the Discord nickname to your real name and affiliation such e.g. Simon Drouin (ETS Montreal). Real name usage may be limited to the Discord PW server.  
 
 ![](https://user-images.githubusercontent.com/18140094/149008038-20629691-db7c-424f-b849-d7c99736c9fc.png)
 
-## Typo ? 
+## Typo? 
 
-Fortunately you can edit your messages in Discord chat like this:
+Fortunately, you can edit your messages in Discord chat like this:
 
 ![](https://user-images.githubusercontent.com/18140094/149097744-c31e61f8-f75f-4ef5-92d7-5de0e2a5bddb.png)
 
 ## Screen sharing
 
-Add how to share screen in Discord. 
+Join a voice channel, f.e. one of the meeting rooms. Press "Screen" (lower left) to share one of your screens. 
 
-## No sound ? 
+![](https://user-images.githubusercontent.com/18140094/149112941-ff784625-b6bb-4c2d-9cb6-3d6a5de97515.png)
+
+## No sound? 
 
 Go "User Settings"
 
@@ -48,4 +50,4 @@ Go "Voice & Video" and select the correct input and output devices. When you are
 
 ## Project history
 
-Unless we switch to a different communication program, the Discord chat of each Project Week will be available either on the Discord Server or a separate server, whose adress will be communicated here. This way it will be possible to continue projects in the next Project Weeks and check out the chat history of that project. However, it is the responsibility of each project's first key investigator to update the GitHub project document.
+Unless we switch to a different communication program, the Discord chat of each Project Week will be available either on the Discord Server or a separate server, whose address will be communicated here. This way it will be possible to continue projects in the next Project Weeks and check out the chat history of that project. However, it is the responsibility of each project's first key investigator to update the GitHub project document.
