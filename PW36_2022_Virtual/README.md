@@ -64,6 +64,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
    
 ### Cloud
 1. [Body Part Regression using IDC](Projects/IDCBodyPartRegression/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
+2. [OHIF Mode Gallery](Projects/OHIFModeGallery/README.md) (Alireza Sedghi, James Petts, Erik Ziegler)
    
 ### Annotation/segmentation
 1. [Spine Segmentation](Projects/SpineSegmentation/README.md) (Ron Alkalay, Steve Pieper, ...)
