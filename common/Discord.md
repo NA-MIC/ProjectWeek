@@ -26,6 +26,12 @@ Double click on your nickname in the right "users online" and select "Edit Profi
 
 ![](https://user-images.githubusercontent.com/18140094/149008038-20629691-db7c-424f-b849-d7c99736c9fc.png)
 
+## Typo ? 
+
+Fortunately you can edit your messages in Discord chat like this: 
+
+![](https://user-images.githubusercontent.com/18140094/149097744-c31e61f8-f75f-4ef5-92d7-5de0e2a5bddb.png)
+
 ## Screen sharing
 
 Add how to share screen in Discord. 
