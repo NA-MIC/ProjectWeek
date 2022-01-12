@@ -28,13 +28,23 @@ Double click on your nickname in the right "users online" and select "Edit Profi
 
 ## Typo ? 
 
-Fortunately you can edit your messages in Discord chat like this: 
+Fortunately you can edit your messages in Discord chat like this:
 
 ![](https://user-images.githubusercontent.com/18140094/149097744-c31e61f8-f75f-4ef5-92d7-5de0e2a5bddb.png)
 
 ## Screen sharing
 
 Add how to share screen in Discord. 
+
+## No sound ? 
+
+Go "User Settings"
+
+![](https://user-images.githubusercontent.com/18140094/149098173-770fe614-47fd-4352-b4cd-f01f4033901a.png)
+
+Go "Voice & Video" and select the correct input and output devices. When you are done, click ESC (right top symbol on screenshot) 
+
+![](https://user-images.githubusercontent.com/18140094/149098459-b0207149-5fe9-4f24-a1d9-708592ee2dd2.png)
 
 ## Project history
 
