@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-CERR is an Octave/MATLAB-based software platform for developing and sharing research results using radiation therapy treatment planning and imaging informatics. CERR has a wide variety of dose, imaging, and structure analysis and comparison tools. We would like to develop the ability to easily move data between the CERR ecosystem and Slicer to take advantage of both platfoms' complementary features.
+CERR is an Octave/MATLAB-based software platform for developing and sharing research results using radiation therapy treatment planning and imaging informatics. "sliCERR" was developed to facilitate the use of CERR's radiotherapy and image analysis functionality. The extension provides scripted modules for data I/O operations and specialized analysis routines in CERR. It is written in Python and can be run in Jupyter notebooks with 3D Slicer kernel for visualization and image processing. The cerr2mrml module handles the I/O operations of loading native CERR planC format files into the 3DSlicer MRML scene, including import of scan, dose and ROI contours.
 
 ## Objective
 
@@ -25,14 +25,15 @@ CERR is an Octave/MATLAB-based software platform for developing and sharing rese
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Slicer-Jupyter notebooks to code the data import/export process and analysis as proof-of-concept
-2. Development of UI to make access fast and easy
+2. User interface was development for 3DSlicer GUI to simplify the process of selecting CERR-format datasets for import in 3DSlicer.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. We have composed demo notebooks for running the first steps https://github.com/cerr/sliCERR
-2. The GUI is in development 
+1. Use of specialized functions in CERR such as Deep Learning-based image segmentation and radiomics texture mapping, demonstrated in Jupyter notebooks publicly available on GitHub. 
+2. GUI is in development 
+3. Expand wiki documentation for setup and usage
 
 # Illustrations
 
