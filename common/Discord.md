@@ -38,6 +38,12 @@ Join a voice channel, f.e. one of the meeting rooms. Press "Screen" (lower left)
 
 ![](https://user-images.githubusercontent.com/18140094/149112941-ff784625-b6bb-4c2d-9cb6-3d6a5de97515.png)
 
+## How to leave voice chat
+
+Simply click "Disconnect" next to your nickname (lower left). 
+
+![](https://user-images.githubusercontent.com/18140094/149116824-c57b963f-9a3e-4b93-b967-62ee6315223d.png)
+
 ## No sound? 
 
 Go "User Settings"
