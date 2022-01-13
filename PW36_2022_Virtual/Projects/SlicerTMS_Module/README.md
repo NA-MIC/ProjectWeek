@@ -34,7 +34,7 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 ## Illustrations
 
 
-Visualization goal from another software we want to implement as Module in 3D Slicer:
+Visualization goal from another software:
 ![Brain surface and DT](./tmsonbrain.png)
 
 
