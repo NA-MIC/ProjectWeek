@@ -32,6 +32,14 @@ Fortunately, you can edit your messages in Discord chat like this:
 
 ![](https://user-images.githubusercontent.com/18140094/149097744-c31e61f8-f75f-4ef5-92d7-5de0e2a5bddb.png)
 
+## Script formatting
+
+Please use three backticks (\`\`\`) to include source code in the text message. Example: 
+
+![](https://user-images.githubusercontent.com/18140094/149398597-b274d411-5b46-4a4f-9ca9-7c06396c5b33.png)
+
+![](https://user-images.githubusercontent.com/18140094/149398688-449525e3-c1f1-43d9-b6d1-932bb2a55a60.png)
+
 ## Screen sharing
 
 Join a voice channel, f.e. one of the meeting rooms. Press "Screen" (lower left) to share one of your screens. 
