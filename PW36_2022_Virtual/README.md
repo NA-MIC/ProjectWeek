@@ -153,6 +153,42 @@ List of registered participants so far (names will be added here after processin
 1.	Andrey Fedorov	,	Brigham and Women's Hospital/Harvard Medical School	,	USA
 1.	Nadya Shusharina	,	Mass General Brigham /Harvard Medical School	,	USA
 1.	Kumar Punithakumar	,	University of Alberta	,	Canada
+1.	Junichi Tokuda	,	Brigham and Women's Hospital	,	USA
+1.	Masoom Haider	,	Univ of Toronto	,	Canada
+1.	Souleymane Diao	,	Cheikh Anta Diop University	,	Sénégal
+1.	Mo Alsad	,	Research Associate 	,	United Kingdom
+1.	Sara Rolfe	,	Seattle Children's Research Institute and University of Washington	,	USA
+1.	Samantha Horvath	,	Kitware Inc	,	USA
+1.	Theodore Aptekarev	,	Slicer Community	,	Russia
+1.	Pedro Moreira	,	Brigham and Women's Hospital/Harvard Medical School	,	USA
+1.	Eve LoCastro	,	Memorial Sloan Kettering Cancer Center	,	USA
+1.	Tamas Ungi	,	Queen's University	,	Canada
+1.	Mauro Ignacio Dominguez	,	Independent	,	Argentina
+1.	Erik Ziegler	,	Open Health Imaging Foundation / Radical Imaging 	,	Netherlands
+1.	Antonio	,	Hospital Universitari Arnau de Vilanova	,	Spain
+1.	Alicia Pose Díez de la Lastra	,	Universidad Carlos III de Madrid	,	Spain
+1.	Alireza Sedghi	,	OHIF	,	Canada
+1.	James Hanks	,	MGH/OHIF	,	USA
+1.	Sanket Deshpande	,	Carpl.ai	,	India
+1.	Rohit Takhar	,	NSIT	,	India
+1.	Mónica Iturrioz	,	Brigham and Women's hospital	,	USA
+1.	Ruben San Jose Estepar	,	BWH	,	USA
+1.	Michael Dada	,	Federal University of Technology, Minna	,	Nigeria
+1.	Ron Alkalay	,	Beth Israel Deaconess Medical Center	,	USA
+1.	Sanni Henry Ananyi	,	Federal University of Technology Minna	,	Nigeria
+1.	Wenran Cai	,	University of Tokyo	,	Japan
+1.	Suleiman Jamila 	,	Federal University of Technology, Minna. 	,	Nigeria 
+1.	Idowu Abdulsemiu Babatunde	,	Federal University of Technology Minna Niger State	,	Nigeria
+1.	Nayra Pumar Carreras	,	Ebatinca	,	Spain
+1.	Manjula Herath	,	Malmo University	,	Sweden
+1.	Robabeh Salehiozoumchelouei	,	Instituto de Astrofísica de Canarias (IAC)	,	Spain
+1.	jonas bianchi	,	University of the Pacific	,	USA
+1.	Houssem Gueziri	,	Montreal Neurological Institute / McGill University	,	Canada
+1.	Attila Nagy	,	University of Szeged, Department of Medical Physics and Informatics	,	Hungary
+1.	Juan María Piñera Parrilla	,	SurgicalWorks	,	Spain
+1.	Kazuaki Hara	,	The University of Tokyo	,	Japan
+1.	Mamadou Samba CAMARA	,	University of Dakar	,	Senegal
+    
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
