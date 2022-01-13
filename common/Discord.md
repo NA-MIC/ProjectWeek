@@ -40,13 +40,13 @@ Example:
 
 ![](https://user-images.githubusercontent.com/18140094/149398597-b274d411-5b46-4a4f-9ca9-7c06396c5b33.png)
 
-Result: 
+Result:
 
 ![](https://user-images.githubusercontent.com/18140094/149398688-449525e3-c1f1-43d9-b6d1-932bb2a55a60.png)
 
 ## Screen sharing
 
-Join a voice channel, f.e. one of the meeting rooms. Press "Screen" (lower left) to share one of your screens. 
+Join a voice channel, e.g. one of the meeting rooms. Press "Screen" (lower left) to share one of your screens. 
 
 ![](https://user-images.githubusercontent.com/18140094/149112941-ff784625-b6bb-4c2d-9cb6-3d6a5de97515.png)
 
