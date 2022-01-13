@@ -34,9 +34,13 @@ Fortunately, you can edit your messages in Discord chat like this:
 
 ## Script formatting
 
-Please use three backticks (\`\`\`) to include source code in the text message. Example: 
+Please use three backticks (\`\`\`) to include source code in the text message. 
+
+Example:
 
 ![](https://user-images.githubusercontent.com/18140094/149398597-b274d411-5b46-4a4f-9ca9-7c06396c5b33.png)
+
+Result: 
 
 ![](https://user-images.githubusercontent.com/18140094/149398688-449525e3-c1f1-43d9-b6d1-932bb2a55a60.png)
 
