@@ -27,8 +27,10 @@ Slicer module (packaged in an extension) for connecting two or more running Slic
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. List all currently used node types in Slicer and decide which are supported, and those that are not how will be supported. Create plan.
-1. ...
-1. ...
+1. Remote connections
+  1. Try connecting computers on the same network
+  1. Brainstorm about how to facilitate connection of instances without fixed IP
+1. Integrate necessary commit into SlicerOpenIGTLink
 
 ## Progress and Next Steps
 
