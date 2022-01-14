@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# GPU Rigid Registration
+# GPU Rigid Registration for Neuronavigation (from Ibis)
 
 ## Key Investigators
 - Gelel Rezig (Ecole de technologie supérieur, Montréal, Canada)
