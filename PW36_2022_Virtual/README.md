@@ -193,7 +193,16 @@ List of registered participants so far (names will be added here after processin
 1.	Juan María Piñera Parrilla	,	SurgicalWorks	,	Spain
 1.	Kazuaki Hara	,	The University of Tokyo	,	Japan
 1.	Mamadou Samba CAMARA	,	University of Dakar	,	Senegal
-    
+1.	Dániel Palkovics	,	Semmelweis University	,	Hungary
+1.	Parikshit Juvekar	,	Brigham & Women's Hospital, Department of Neurosurgery	,	USA
+1.	James Petts	,	Ovela Solutions	,	United Kingdom
+1.	Fan Zhang	,	Brigham and Women's Hospital	,	USA
+1.	Keita	,	École Supérieure Polytechnique (ESP) de Dakar	,	Sénégal 
+1.	Mamadou Moustapha DIAGNE 	,	ESP	,	Senegal
+1.	Gregory Fischer	,	WPI	,	USA
+1.	Javier Pascau	,	Universidad Carlos III de Madrid	,	Spain
+1.	Ariela Shahvar	,	Western University	,	Canada
+1.	Samuelle St-Onge	,	École de technologie supérieure (ÉTS)	,	Canada
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
