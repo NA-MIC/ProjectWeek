@@ -1,5 +1,5 @@
 
-# Skin Segmentation on MR
+# Skin Segmentation on MR to facilitate NousNav Registration
 
 ## Key Investigators
 
