@@ -68,7 +68,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 2. [OHIF Mode Gallery](Projects/OHIFModeGallery/Readme.md) (Alireza Sedghi, James Petts, Erik Ziegler)
 
 ### SlicerDMRI
-1. [Deep Diffusion MRI Registration (DDMReg): code release via SlicerDMRI]() (Fan Zhang, William M. Wells III, Lauren J O'Donnell)
+1. [Deep Diffusion MRI Registration (DDMReg): code release via SlicerDMRI](Projects/DDMReg/README.md) (Fan Zhang, William M. Wells III, Lauren J O'Donnell)
     
 ### Annotation/segmentation
 1. [Spine Segmentation](Projects/SpineSegmentation/README.md) (Ron Alkalay, Steve Pieper, ...)
