@@ -1,12 +1,12 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Update the EchoVolumeRender interface
+# Update the Echo Volume Render interface
 
 ## Key Investigators
 
-- Samuelle St-Onge (ÉTS, Montréal)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Samuelle St-Onge (ÉTS, Montreal)
+- Simon Drouin (ÉTS, Montreal)
+- Andrey Titov (ÉTS, Montreal
 
 # Project Description
 
