@@ -25,8 +25,15 @@ Currently OHIF developers have to copy paste the source code of a sample Mode/Ex
     - uninstall-extension, uninstall-mode : same above but for uninstalling
     - list : list all extensions and modes that are installable in OHIF
 
-- Update OHIF to dynamically install extensions and modes from config files rather than hard coded
-- Stretch Goal: To parse information from npm to populate the markdown of the OHIF page for installable modes and extensions.
+- Update OHIF to dynamically install extensions and modes from config files rather than having to hard code their inclusion.
+  - For example one could install OHIF, then a set of modes/extensions, programmatically.
+
+Stretch Goals:
+- Parse information from npm to populate the markdown of the OHIF page for installable modes and extensions.
+- Versioning errors + conflict resolution for mode dependencies.
+- Type the contract interfaces for extensions and modes in typescript.
+
+Super stretch goal: type all the things
 
 ## Approach and Plan
 
