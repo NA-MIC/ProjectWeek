@@ -26,7 +26,7 @@ Slicer module (packaged in an extension) for connecting two or more running Slic
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
+1. List all currently used node types in Slicer and decide which are supported, and those that are not how will be supported. Create plan.
 1. ...
 1. ...
 
