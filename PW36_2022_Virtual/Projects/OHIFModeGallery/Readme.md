@@ -8,7 +8,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 - James Petts (OHIF)
 - Erik Ziegler (OHIF)
 
-<br/>
 
 # Project Description
 
@@ -34,5 +33,13 @@ Currently OHIF developers have to copy paste the source code of a sample Mode/Ex
 ## Progress and Next Steps
 
 # Illustrations
+
+We intend to showcase all modes (and hopefully extensions) that are developed for OHIF in the OHIF website.
+
+![image](https://user-images.githubusercontent.com/7490180/149446827-ece3aa65-32a5-439d-803b-0492ad964a42.png)
+
+Each mode will have a page explaining the usecase, and installation, along with screenshots of the mode.
+
+![image](https://user-images.githubusercontent.com/7490180/149446888-7109ebec-a760-49dd-93cb-97073b53d9c0.png)
 
 # Background and References
