@@ -56,13 +56,14 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 4. [PRISM Rendering](Projects/PRISMRendering/Readme.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
     
 ### Image-guided therapy and low cost systems   
-1. [GPU Rigid Registration](Projects/GPURigidRegistration/Readme.md) (Gelel Rezig, Houssem Gueziri, Simon Drouin)
-2. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia Mato, Csaba Pinter, Rebecca Hisey, Matt McCormick, Steve Pieper, ...)
-3. [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Ole V. Solberg, Geir Arne Tangen, Gabriella D'Albenzio, Ruoyan Meng)
-4. [Visualization of catheter path based on an electromagnetic tracking with TMR sensors](Projects/TMRCatheterNavigation/README.md) (Wenran Cai, Kazuaki Hara, Rina Nagano, Junichi Tokuda
-5. [Integration of ROS and 3D Slicer using OpenIGTLink](Projects/ROS-MED/README.md) (Junichi Tokuda, Tamas Ungi, Simon Leonard, Axel Krieger, Mark Fuge)
-6. [NousNav: Low-cost neuronavigation system](Projects/NousNav/README.md) (Étienne Léger, Alexandra Golby, Sam Horvath, Sarah Frisken, David Allemang, Tina Kapur, Steve Pieper, Jean-Christophe Fillion-Robin, Sonia Pujol, Kelly Wang)
-7. [Skin Surface Extraction for NousNav Registration](Projects/SkinSegmentation/README.md) (Reuben Dorent, Tina Kapur, Sarah Frisken, Mohammad Jafari, Samantha Horvath, Jean-Christophe Fillion-Robin, Harneet Cheema, Fryderyk Kögl)
+1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia Mato, Csaba Pinter, Rebecca Hisey, Matt McCormick, Steve Pieper, ...)
+1. [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Ole V. Solberg, Geir Arne Tangen, Gabriella D'Albenzio, Ruoyan Meng)
+1. [Visualization of catheter path based on an electromagnetic tracking with TMR sensors](Projects/TMRCatheterNavigation/README.md) (Wenran Cai, Kazuaki Hara, Rina Nagano, Junichi Tokuda
+1. [Integration of ROS and 3D Slicer using OpenIGTLink](Projects/ROS-MED/README.md) (Junichi Tokuda, Tamas Ungi, Simon Leonard, Axel Krieger, Mark Fuge)
+1. [GPU Rigid Registration for Neuronavigation (Montreal IBIS System](Projects/GPURigidRegistration/Readme.md) (Gelel Rezig, Houssem Gueziri, Simon Drouin)
+1. [NousNav: Low-cost neuronavigation system](Projects/NousNav/README.md) (Étienne Léger, Alexandra Golby, Sam Horvath, Sarah Frisken, David Allemang, Tina Kapur, Steve Pieper, Jean-Christophe Fillion-Robin, Sonia Pujol, Kelly Wang)
+1. [Skin Surface Extraction for NousNav Registration](Projects/SkinSegmentation/README.md) (Reuben Dorent, Tina Kapur, Sarah Frisken, Mohammad Jafari, Samantha Horvath, Jean-Christophe Fillion-Robin, Harneet Cheema, Fryderyk Kögl)
+1. [MR-US Landmarking for Neuronavigated surgery](Projects/AnnotationMR-US/Readme.md) (Fryderyk Kögl, Harneet Cheema, Tina Kapur, Simon Drouin)
     
 ### Cloud
 1. [Body Part Regression using IDC](Projects/IDCBodyPartRegression/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
@@ -75,7 +76,6 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
     
 ### Annotation/segmentation
 1. [Spine Segmentation](Projects/SpineSegmentation/README.md) (Ron Alkalay, Steve Pieper, ...)
-1. [MR-US landmark placement interface](Projects/AnnotationMR-US/Readme.md) (Fryderyk Kögl, Harneet Cheema, Tina Kapur, Simon Drouin)
 1. [Automatic Landmark Identification in 3D Cone-Beam Computed Tomography scans](Projects/ALICBCT/README.md) (Maxime Gillot, Baptiste Baquero, Antonio Ruellas, Marcela Gurgel, Elizabeth Biggs, Marilia Yatabe, Jonas Bianchi, Lucia Cevidanes, Juan Carlos Prieto)
 1. [ALIIOS - Automatic Landmarks Identification for Intra OralScans](Projects/ALIDDM/README.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, Juan Carlos Prieto, Najla Al Turkestani, Marcela Gurgel, Camila Massaro, Aron Aliaga, Maria Antonia Alvarez Castrillon, Marilia Yatabe, Jonas Bianchi, Juan Fernando Aristizabal, Diego Rey, Antonio Ruellas)
 1. [Multi-organ segmentation](Projects/MultiOrganSegmentation/README.md) (Murat Maga, Sara Rolfe, Andres Diaz-Pinto)
