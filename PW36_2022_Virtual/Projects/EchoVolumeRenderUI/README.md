@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Samuelle St-Onge (ÉTS, Montreal)
 - Simon Drouin (ÉTS, Montreal)
-- Andrey Titov (ÉTS, Montreal
+- Andrey Titov (ÉTS, Montreal)
 
 # Project Description
 
