@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-<!-- We have installed the platforms on the Googe Cloud Virtual Machines. To investigate the functionalities, we populated the platforms with publicly available datasets.   -->
+We have installed the platforms on the Googe Cloud Virtual Machines. To investigate the functionalities, we populated the platforms with publicly available datasets.
 
 ## Objective
 
