@@ -66,6 +66,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ### Cloud
 1. [Body Part Regression using IDC](Projects/IDCBodyPartRegression/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
 2. [OHIF Mode Gallery](Projects/OHIFModeGallery/Readme.md) (Alireza Sedghi, James Petts, Erik Ziegler)
+3. [Kaapana and XNAT exploration on Google Cloud](Projects/KaapanaXNATExploration/README.md) (Nadya Shusharina, Andrey Fedorov)
 
 ### SlicerDMRI
 1. [Deep Diffusion MRI Registration (DDMReg): code release via SlicerDMRI](Projects/DDMReg/README.md) (Fan Zhang, William M. Wells III, Lauren J O'Donnell)
