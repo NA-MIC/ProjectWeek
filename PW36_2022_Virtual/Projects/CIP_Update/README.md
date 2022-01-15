@@ -53,20 +53,13 @@ Replace the charts infrastructure.
 
 ## Approach and Plan
 
+A fork and branch of SlicerCIP was created at https://github.com/rbumm/SlicerCIP/tree/Branch_CIPCompatSlicer5 to be used as the source base, all changes can later be included in a PR to https://github.com/acil-bwh/SlicerCIP.   
+
 Resolve compatibility problems step by step 
-
-or 
-
-There is no labelmap editor in Slicer 5. Is it possible to keep the Editor module and rename it to LabelmapEditor ? 
-
-or 
 
 Deactivate the three mentioned modules in Slicer 5
 
 ## Considerations 
-
-How do we promote faster source updates of CIP ?  
-
 
 ## Progress and Next Steps
 
