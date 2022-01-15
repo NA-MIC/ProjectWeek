@@ -11,12 +11,12 @@ If you have any questions, you can contact the [organizers](../README.md#who-to-
 4. Join the [Discord server](https://discord.gg/d5Q6b5ug8u) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
 
 ## During Project Week
-* The week will start at 9am on Monday Jan 17th with informal conversations on [Discord](https://discord.gg/d5Q6b5ug8u).
-* Initial project presentations will start at 10am on Zoom, using [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09). Each team must delegate a member to present their projects in no more than 2 minutes using no other visual support than the project page on GitHub (we won’t have time to switch screen sharing)
+* The week will start at **9am on Monday Jan 17th** with informal conversations on **[Discord](https://discord.gg/d5Q6b5ug8u)**.
+* Initial **project presentations** will start at **10am on Zoom**, using [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09). Each team must delegate a member to present their projects in no more than 2 minutes using no other visual support than the project page on GitHub (we won’t have time to switch screen sharing)
 * If you don’t have a project, look at the PW36 page to find a project you might be interested in and contact team members through their Discord channel.
-* Breakout sessions start every day at 10am on Zoom (link in the calendar on the PW36 page)
-* Work in project teams will happen throughout the week with communication between team members taking place on Discord.
-* We will end the week with project results presentation (10am on Friday). Again, each team will delegate one member to present their results in a maximum of 2 minutes. We will use the project page as a visual support for the presentation, so please make sure it is up to date with your latest results by Friday morning.
+* Breakout sessions start every day at **10am on Zoom** (link in the calendar below)
+* Work in **project teams** will happen throughout the week with communication between team members taking place on **Discord**.
+* We will end the week with **project results presentation (10am on Friday)**. Again, each team will delegate one member to present their results in a maximum of 2 minutes. We will use the project page as a visual support for the presentation, so please make sure it is up to date with your latest results by Friday morning.
 
 <!--## Preparation meetings
 We hold weekly preparation meetings at 10am on Tuesdays, starting Nov 9th, 2021 and ending on December 8. Please join at [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
