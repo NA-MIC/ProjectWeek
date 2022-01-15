@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# A deep learning framework for superficial white matter parcellation: Superficial White Matter Analysis (SupWMA), code release via SlicerDMRI 
+# Superficial White Matter Analysis (SupWMA): A deep learning framework for superficial white matter parcellation, code release via SlicerDMRI 
 
 ## Key Investigators
 
@@ -50,7 +50,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
+<!-- 
 [Tengfei Xue, Fan Zhang, Chaoyi Zhang, Yuqian Chen, Yang Song, Nikos Makris, Yogesh Rathi, Weidong Cai, Lauren J. O’Donnell. "SUPWMA: CONSISTENT AND EFFICIENT TRACTOGRAPHY PARCELLATION OF
-SUPERFICIAL WHITE MATTER WITH DEEP LEARNING." ISBI (2022).](Coming soon)
+SUPERFICIAL WHITE MATTER WITH DEEP LEARNING." ISBI (2022).](Coming soon) -->
+
+Tengfei Xue, Fan Zhang, Chaoyi Zhang, Yuqian Chen, Yang Song, Nikos Makris, Yogesh Rathi, Weidong Cai, Lauren J. O’Donnell. "SUPWMA: CONSISTENT AND EFFICIENT TRACTOGRAPHY PARCELLATION OF SUPERFICIAL WHITE MATTER WITH DEEP LEARNING." ISBI (2022).
 
 In this paper, we propose a deep-learning-based framework, Superficial White Matter Analysis (SupWMA), that performs an efficient and consistent parcellation of 198 SWM clusters from whole-brain tractography. A point-cloud-based network is modified for our SWM parcellation task, and supervised contrastive learning enables more discriminative representations between plausible streamlines and outliers. We perform evaluation on a large tractography dataset with ground truth labels and on three independently acquired testing datasets from individuals across ages and health conditions. Compared to several state-of-the-art methods, SupWMA obtains a highly consistent and accurate SWM parcellation result. In addition, the computational speed of SupWMA is much faster than other methods.
