@@ -213,7 +213,11 @@ List of registered participants so far (names will be added here after processin
 1.	Javier Pascau	,	Universidad Carlos III de Madrid	,	Spain
 1.	Ariela Shahvar	,	Western University	,	Canada
 1.	Samuelle St-Onge	,	École de technologie supérieure (ÉTS)	,	Canada
-
+1.	Andrey Titov	,	École de technologie supérieure	,	Canada
+1.	Tengfei Xue	,	Harvard Medical School/University of Sydney	,	Australia
+1.	Yiwei Jiang	,	Worcester Polytechnic Institute	,	USA
+1.	Yuqian Chen	,	Harvard Medical School	,	USA
+    
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
