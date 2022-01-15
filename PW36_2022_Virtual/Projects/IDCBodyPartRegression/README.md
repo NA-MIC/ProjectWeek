@@ -43,7 +43,8 @@ We plan to leverage the strengths of Imaging Data Commons by using it to obtain 
 
 # Illustrations
 
-![Pie charts](pie_charts_initial.png)
+This is a comparison of the body part examined tag distrubtion from the original DICOM files vs the tag predicted by Body Part Regression. 
+![Body part examined tag distributions](pie_charts_initial.png)
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
