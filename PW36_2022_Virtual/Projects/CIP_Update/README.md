@@ -14,7 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!-- Add a short paragraph describing the project. -->
 The Chest Imaging Platform (CIP) is an extension to 3D Slicer. 
 
-![image](https://user-images.githubusercontent.com/18140094/148950587-b77213a2-f522-4cc6-a13f-7fb91b57f2f3.png)
+![image](https://user-images.githubusercontent.com/18140094/149629677-6bea2a6f-835d-4ae8-8955-71995e7e716d.png)
 
 It integrates: 
 - chest image processing functionality as a toolkit exposing of the CLIs
