@@ -22,7 +22,7 @@ It integrates:
 - Visualization of scale-space particles and labelmaps
 - Integrated workflows to end-to-end clinical evaluation
 
-In the current preview versions of 3D Slicer (4.13.0) CIP fails to load the following CIP modules because Slicer's "Editor" module has been removed.    
+In the current preview versions of 3D Slicer (4.13.0) parts of CIP fail to load the following CIP modules because Slicer's "Editor" module has been removed.    
 
 CIP_CalciumScoring
 
