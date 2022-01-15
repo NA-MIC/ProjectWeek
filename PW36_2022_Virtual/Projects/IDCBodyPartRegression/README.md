@@ -43,8 +43,9 @@ We plan to leverage the strengths of Imaging Data Commons by using it to obtain 
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Pie charts](pie_charts_initial.png)
+
+<!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
