@@ -44,7 +44,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ![v4_SupWMA_Overview](https://user-images.githubusercontent.com/56477109/149606217-ed5f329f-fc1d-43d1-9f6a-a903a884baf3.png)
 
-![v7_Contrastive learning](https://user-images.githubusercontent.com/56477109/149606222-a6954063-80cf-4ebd-8843-6bf8142bbeff.png)
+<!-- ![v7_Contrastive learning](https://user-images.githubusercontent.com/56477109/149606222-a6954063-80cf-4ebd-8843-6bf8142bbeff.png) -->
 
 # Background and References
 
