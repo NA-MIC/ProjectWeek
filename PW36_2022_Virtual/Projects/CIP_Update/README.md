@@ -12,12 +12,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-The Chest Imaging Platform (CIP) is an extension to 3D Slicer that integrates:
+The Chest Imaging Platform (CIP) is an extension to 3D Slicer. 
 
-CIP functionality as a Toolkit exposing of the CLIs
-Slicer specific modules to provide user-friendly chest CT quantitative solutions
-Visualization of scale-space particles and labelmaps
-Integrated workflows to end-to-end clinical evaluation
+![image](https://user-images.githubusercontent.com/18140094/148950587-b77213a2-f522-4cc6-a13f-7fb91b57f2f3.png)
+
+It integrates: 
+- chest image processing functionality as a toolkit exposing of the CLIs
+- Slicer specific modules to provide user-friendly chest CT quantitative solutions
+- Visualization of scale-space particles and labelmaps
+- Integrated workflows to end-to-end clinical evaluation
 
 In the current preview versions of 3D Slicer (4.13.0) CIP fails to load the following CIP modules because Slicer's "Editor" module has been removed.    
 
@@ -47,8 +50,10 @@ The CIP extension currently uses legacy editor module, and charts infrastructure
 
 ## Objective
 
-Replace the usage of the "Editor" module in CIP by something different, preferably the SegmentEditor
-Replace the charts infrastructure. 
+- Replace the usage of the "Editor" module in CIP by something different, preferably the SegmentEditor. 
+- Replace labelmaps with segmentations
+- Replace outdated fiducial calls (exceptions) 
+- Replace the charts infrastructure
 
 
 ## Approach and Plan
@@ -84,12 +89,6 @@ CIP_BodyComposition is needed, but probably much better realized with AI segment
 
 
 # Illustrations
-
-Chest imaging platform menu example: 
-
-![image](https://user-images.githubusercontent.com/18140094/148950587-b77213a2-f522-4cc6-a13f-7fb91b57f2f3.png)
-
-
 
 
 Body Composition module:
