@@ -4,13 +4,21 @@
 
 If you have any questions, you can contact the [organizers](../README.md#who-to-contact).
 
-## How to participate
+## Before Project Week
 1. Register [here](https://forms.gle/1zE3pDs59sJ4ENP96), it is free!
 2. Attend one or more preparation meetings (see next section) to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
-3. Optionally attend a training workshop on the use of MONAILabel with 3D Slicer on AWS cloud resources on January 12 (the week before Project Week) 2-4pm EST.  To attend please [register here](https://forms.gle/sekN29otUGDrVALF6).
+<!--3. Optionally attend a training workshop on the use of MONAILabel with 3D Slicer on AWS cloud resources on January 12 (the week before Project Week) 2-4pm EST.  To attend please [register here](https://forms.gle/sekN29otUGDrVALF6).-->
 4. Join the [Discord server](https://discord.gg/d5Q6b5ug8u) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
 
-## Preparation meetings
+## During Project Week
+* The week will start at 9am on Monday Jan 17th with informal conversations on [Discord](https://discord.gg/d5Q6b5ug8u).
+* Initial project presentations will start at 10am on Zoom, using [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09). Each team must delegate a member to present their projects in no more than 2 minutes using no other visual support than the project page on GitHub (we won’t have time to switch screen sharing)
+* If you don’t have a project, look at the PW36 page to find a project you might be interested in and contact team members through their Discord channel.
+* Breakout sessions start every day at 10am on Zoom (link in the calendar on the PW36 page)
+* Work in project teams will happen throughout the week with communication between team members taking place on Discord.
+* We will end the week with project results presentation (10am on Friday). Again, each team will delegate one member to present their results in a maximum of 2 minutes. We will use the project page as a visual support for the presentation, so please make sure it is up to date with your latest results by Friday morning.
+
+<!--## Preparation meetings
 We hold weekly preparation meetings at 10am on Tuesdays, starting Nov 9th, 2021 and ending on December 8. Please join at [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
 
 Tentative schedule (may change each week):
@@ -23,7 +31,7 @@ Tentative schedule (may change each week):
 * Dec 21 2022 - All projects, project pages
 * Jan 4 2022 - All projects, project pages
 * Jan 11 2022 - AR, VR and rendering
-* Jan 12 2022 - MONAILabel 3D Slicer AWS workshop (see [item 3 above](#how-to-participate))
+* Jan 12 2022 - MONAILabel 3D Slicer AWS workshop (see [item 3 above](#how-to-participate))-->
 
 ##  Agenda
 
@@ -54,6 +62,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 2. [AR in Slicer](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/AR%20in%20Slicer) (Alicia Pose Díez de la Lastra, Javier Pascau, Gabor Fichtinger, Andras Lasso, Adam Rankin, Csaba Pinter, Lucas Gandel, Jean-Christophe Fillion-Robin)
 3. [Slicer TMS Module](Projects/SlicerTMS_Module/README.md) (Loraine Franke, Lipeng Ning, Yogesh Rathi, Steve Pieper, Raymond Yang, Daniel Haehn)
 4. [PRISM Rendering](Projects/PRISMRendering/Readme.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
+1. [Echo VolumeRender UI](Projects/EchoVolumeRenderUI/README.md) (Samuelle St-Onge, Simon Drouin, Andrey Titov)
     
 ### Image-guided therapy and low cost systems   
 1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia Mato, Csaba Pinter, Rebecca Hisey, Matt McCormick, Steve Pieper, ...)
