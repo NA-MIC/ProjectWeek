@@ -53,7 +53,7 @@ Replace the charts infrastructure.
 
 ## Approach and Plan
 
-A fork and branch of SlicerCIP was created at https://github.com/rbumm/SlicerCIP/tree/Branch_CIPCompatSlicer5 to be used as the source base, all changes can later be included in a PR to https://github.com/acil-bwh/SlicerCIP.   
+A fork and branch of SlicerCIP was created at https://github.com/rbumm/SlicerCIP/tree/Branch_CIPCompatSlicer5 to be used as the source base, all changes will later be included in a PR to https://github.com/acil-bwh/SlicerCIP.   
 
 Resolve compatibility problems step by step 
 
