@@ -62,7 +62,7 @@ A fork and branch of SlicerCIP was created at https://github.com/rbumm/SlicerCIP
 
 Resolve compatibility problems step by step 
 
-Deactivate the three mentioned modules in Slicer 5
+Deactivate non-working or outdated modules in Slicer 5
 
 ## Considerations 
 
