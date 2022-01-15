@@ -18,8 +18,7 @@ In this project, we aim to rework the interface of the Echo Volume Render module
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Update and polish the module's interface to make it easier to use
-1. Update the parameters to make them more intuitive for users
+Update and polish the module's interface to make it more intuitive for clinical users. 
 
 ## Approach and Plan
 
