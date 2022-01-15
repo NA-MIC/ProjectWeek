@@ -12,21 +12,24 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Add a short paragraph describing the project. -->
 
+In this project, we aim to rework the interface of the Echo Volume Render module of the SlicerHeart extension in order to make it more intuitive and better adapted to users' needs. 
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Update and polish the module's interface to make it easier to use
+1. Update the parameters to make them more intuitive for users
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Have a good understanding of each parameter
+1. Get input from users on what could be improved
+1. Compare with commercial platforms to see which parameters are familiar to clinicians 
+1. Determine the modifications to be made to improve the interface 
+1. Implement these modifications
 
 ## Progress and Next Steps
 
