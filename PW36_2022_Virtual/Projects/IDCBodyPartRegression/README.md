@@ -9,11 +9,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-One issue in using deep learning for segmentation of anatomical regions is the ability to obtain datasets that focus on the area of interest. For instance, some DL algorithms may require preprocessing of datasets (cropping volumes before training the algorithm) or postprocessing of the segmentation label output by the removal of false positives. 
+One issue in using deep learning for segmentation of anatomical regions is the ability to obtain datasets that focus on the area of interest. For instance, some DL algorithms may require preprocessing of datasets (cropping volumes before training the algorithm) or postprocessing of the segmentation label output by the removal of false positives. An example from the thesis below is shown: 
+
+![Region cropping](thesis_cropped_lung.png)
 
 Within DICOM data, the body part examined tag may provide some information as to the region captured. Unfortunately, it may be list the incorrect region, or be blank because of removal during the anonymization process. Therefore this tag cannot always be relied upon. 
 
-Therefore, a deep learning method has been developed that creates a new coordinate system that maps each axial slice to a "slice score". These scores are associated with specific anatomy and therefore can be used for a smarter way to crop volumes to aid in preprocessing.  
+A deep learning method was developed (reference below) that creates a new coordinate system that maps each axial slice to a "slice score". These scores are associated with specific anatomy and therefore can be used for a smarter way to crop volumes to aid in preprocessing.  
 
 We plan to leverage the strengths of Imaging Data Commons by using it to obtain data from TCIA, and perform queries. We will obtain a varied CT dataset where the body part regression model can be tested on, and will hopefully demonstate the usefulness of IDC for this type of analysis and visualization. 
 
@@ -29,17 +31,22 @@ We plan to leverage the strengths of Imaging Data Commons by using it to obtain 
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. We will use the trained model from the author (below) to test the neural network on a small dataset obtained from TCIA using IDC. 
 1. We will use BigQuery to obtain a more varied dataset that captures differences in CT volumes (pixel spacing, slice thickness, manufacturer). 
-1. We will create better visualizations of the cropped results, (either within the notebook, or by sending data back to the OHIF viewer), and compare it to the anatomical regions described by the RTSTRUCT/SEG files. 
+1. We will then use the trained model from the author (below) to test the neural network on the dataset obtained from TCIA using IDC. 
+1. Next we will compare the "ground truth" regions from the RTSTRUCT/SEG files to the regions cropped by using BPR, and see if they are within the bounds.
+1. We will show the difference between the body part examined tag from the original DICOM files to the ones predicted by BPR. 
+1. We will visualize the results by populating the results to DICOM data stores and interacting with them using the OHIF viewer. 
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. We have used the trained model from the author to test the regression network on a small sample of data. 
-1. We have started to obtain a varied CT dataset. 
-1. We have started to compare the cropped regions to the anatomy provided by the RTSTRUCT/SEG files. 
+1. We have obtained a small, but varied, CT dataset. 
+1. We have used the trained model from the author to test the regression network on a sample of data. 
+1. We have created our own SEG DICOM files that hold for each patient the "ground truth" anatomical region versus the cropped region produced by BPR. 
+1. We have created our own SEG DICOM files that holds the predicted body part examined regions (see figure below for the distribution).  
+1. We need to populate DICOM data stores and use the OHIF viewer to interact with them. 
+1. It would be beneficial to test on a larger dataset. 
 
 # Illustrations
 
