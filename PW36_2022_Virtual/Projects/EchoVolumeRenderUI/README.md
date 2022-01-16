@@ -40,7 +40,7 @@ Update and polish the module's interface to improve its usability for clinical u
 ## Long-term Objectives
 
 1. Implement new features similar to [TrueView and Glass from Philips](https://www.usa.philips.com/healthcare/resources/landing/epiq/cardiology)
-1. Implement Color Doppler to visualize blood flow
+1. Implement Color Doppler
 
 # Background and References
 
