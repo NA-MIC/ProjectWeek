@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 One issue in using deep learning for segmentation of anatomical regions is the ability to obtain datasets that focus on the area of interest. For instance, some DL algorithms may require preprocessing of datasets (cropping volumes before training the algorithm) or postprocessing of the segmentation label output by the removal of false positives. An example from the thesis below is shown: 
 
-![Region cropping](thesis_cropped_lung.png)
+![Region cropping](thesis_cropped_lung.JPG)
 
 Within DICOM data, the body part examined tag may provide some information as to the region captured. Unfortunately, it may be list the incorrect region, or be blank because of removal during the anonymization process. Therefore this tag cannot always be relied upon. 
 
