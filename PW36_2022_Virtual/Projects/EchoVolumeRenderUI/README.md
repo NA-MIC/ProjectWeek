@@ -48,4 +48,5 @@ Update and polish the module's interface to improve its usability for clinical u
 
 # Background and References
 
+- SlicerHeart Extension [Github repository](https://github.com/SlicerHeart/SlicerHeart.git).
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
