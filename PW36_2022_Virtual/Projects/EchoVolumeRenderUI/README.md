@@ -28,7 +28,7 @@ Update and polish the module's interface to improve its usability for clinical u
 1. Get input from users on what could be improved (Children's hospital of Philadelphia)
 1. Compare with commercial platforms to see which parameters are familiar to clinicians 
 1. Determine the modifications to be made to improve the interface 
-1. Implement these modifications for the module's UI
+1. Implement these modifications in the UI
 
 ## Progress and Next Steps
 
