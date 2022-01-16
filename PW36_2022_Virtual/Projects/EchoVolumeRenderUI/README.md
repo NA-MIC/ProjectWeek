@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Add a short paragraph describing the project. -->
 
-In this project, we aim to rework the interface of the Echo Volume Render module of the SlicerHeart extension in order to make it more intuitive and better adapted to clinical users' needs. 
+In this project, we aim to rework the interface of the Echo Volume Render module in order to make it more intuitive and better adapted to clinical users' needs. 
 
 ## Objective
 
@@ -45,6 +45,4 @@ Update and polish the module's interface to improve its usability for clinical u
 1. Implement Color Doppler
 
 # Background and References
-
-- SlicerHeart Extension [Github repository](https://github.com/SlicerHeart/SlicerHeart.git).
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
