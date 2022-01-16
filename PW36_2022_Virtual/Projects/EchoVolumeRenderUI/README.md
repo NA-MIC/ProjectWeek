@@ -39,12 +39,7 @@ Update and polish the module's interface to improve its usability for clinical u
 1. ...
 
 # Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![EchoVolumeRenderUI](https://user-images.githubusercontent.com/57685132/149667633-524c8285-3f81-4c91-92c8-87b22a3d29c1.jpg)
-![Some more images](Example2.jpg)
--->!
+![Echo Volume Render UI](https://user-images.githubusercontent.com/57685132/149667633-524c8285-3f81-4c91-92c8-87b22a3d29c1.jpg)
 
 ## Long-term Objectives
 
