@@ -29,6 +29,7 @@ Update and polish the module's interface to improve its usability for clinical u
 1. Compare with commercial platforms to see which 3DE parameters are familiar to clinicians
 1. Determine the modifications to be made to improve the interface 
 1. Implement these modifications in the UI
+1. Send the updated interface to collaborators at the Children's Hospital of Philadelphia to get feedback
 
 ## Progress and Next Steps
 
