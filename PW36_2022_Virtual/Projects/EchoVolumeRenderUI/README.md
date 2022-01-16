@@ -43,7 +43,13 @@ Update and polish the module's interface to improve its usability for clinical u
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
--->
+-->![EchoVolumeRenderUI](https://user-images.githubusercontent.com/57685132/149667489-e32de647-f7cb-4e1b-ae9e-34d0019dba2b.png)
+
+
+## Long-term Objectives
+
+1. Implement new features similar to TrueView and Glass from Philips (https://www.usa.philips.com/healthcare/resources/landing/epiq/cardiology)
+1. Implement Color Doppler to visualize blood flow
 
 # Background and References
 
