@@ -4,13 +4,21 @@
 
 If you have any questions, you can contact the [organizers](../README.md#who-to-contact).
 
-## How to participate
+## Before Project Week
 1. Register [here](https://forms.gle/1zE3pDs59sJ4ENP96), it is free!
-2. Attend one or more preparation meetings (see next section) to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
-3. Optionally attend a training workshop on the use of MONAILabel with 3D Slicer on AWS cloud resources on January 12 (the week before Project Week) 2-4pm EST.  To attend please [register here](https://forms.gle/sekN29otUGDrVALF6).
+2. Attend one or more preparation meetings to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
+<!--3. Optionally attend a training workshop on the use of MONAILabel with 3D Slicer on AWS cloud resources on January 12 (the week before Project Week) 2-4pm EST.  To attend please [register here](https://forms.gle/sekN29otUGDrVALF6).-->
 4. Join the [Discord server](https://discord.gg/d5Q6b5ug8u) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
 
-## Preparation meetings
+## During Project Week
+* The week will start at **9am on Monday Jan 17th** with informal conversations on **[Discord](https://discord.gg/d5Q6b5ug8u)**.
+* Initial **project presentations** will start at **10am on Zoom**, using [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09). Each team must delegate a member to present their projects in no more than 2 minutes using no other visual support than the project page on GitHub (we won’t have time to switch screen sharing)
+* If you don’t have a project, look at the PW36 page to find a project you might be interested in and contact team members through their Discord channel.
+* Breakout sessions start every day at **10am on Zoom** (link in the calendar below)
+* Work in **project teams** will happen throughout the week with communication between team members taking place on **Discord**.
+* We will end the week with **project results presentation (10am on Friday)**. Again, each team will delegate one member to present their results in a maximum of 2 minutes. We will use the project page as a visual support for the presentation, so please make sure it is up to date with your latest results by Friday morning.
+
+<!--## Preparation meetings
 We hold weekly preparation meetings at 10am on Tuesdays, starting Nov 9th, 2021 and ending on December 8. Please join at [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
 
 Tentative schedule (may change each week):
@@ -23,7 +31,7 @@ Tentative schedule (may change each week):
 * Dec 21 2022 - All projects, project pages
 * Jan 4 2022 - All projects, project pages
 * Jan 11 2022 - AR, VR and rendering
-* Jan 12 2022 - MONAILabel 3D Slicer AWS workshop (see [item 3 above](#how-to-participate))
+* Jan 12 2022 - MONAILabel 3D Slicer AWS workshop (see [item 3 above](#how-to-participate))-->
 
 ##  Agenda
 
@@ -54,6 +62,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 2. [AR in Slicer](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/AR%20in%20Slicer) (Alicia Pose Díez de la Lastra, Javier Pascau, Gabor Fichtinger, Andras Lasso, Adam Rankin, Csaba Pinter, Lucas Gandel, Jean-Christophe Fillion-Robin)
 3. [Slicer TMS Module](Projects/SlicerTMS_Module/README.md) (Loraine Franke, Lipeng Ning, Yogesh Rathi, Steve Pieper, Raymond Yang, Daniel Haehn)
 4. [PRISM Rendering](Projects/PRISMRendering/Readme.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
+1. [Echo VolumeRender UI](Projects/EchoVolumeRenderUI/README.md) (Samuelle St-Onge, Simon Drouin, Andrey Titov)
     
 ### Image-guided therapy and low cost systems   
 1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia Mato, Csaba Pinter, Rebecca Hisey, Matt McCormick, Steve Pieper, ...)
@@ -64,28 +73,29 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [NousNav: Low-cost neuronavigation system](Projects/NousNav/README.md) (Étienne Léger, Alexandra Golby, Sam Horvath, Sarah Frisken, David Allemang, Tina Kapur, Steve Pieper, Jean-Christophe Fillion-Robin, Sonia Pujol, Kelly Wang)
 1. [Skin Surface Extraction for NousNav Registration](Projects/SkinSegmentation/README.md) (Reuben Dorent, Tina Kapur, Sarah Frisken, Mohammad Jafari, Samantha Horvath, Jean-Christophe Fillion-Robin, Harneet Cheema, Fryderyk Kögl)
 1. [MR-US Landmarking for Neuronavigated surgery](Projects/AnnotationMR-US/Readme.md) (Fryderyk Kögl, Harneet Cheema, Tina Kapur, Simon Drouin)
-    
+
+### Segmentation/Classification
+1. [Spine Segmentation](Projects/SpineSegmentation/README.md) (Ron Alkalay, Steve Pieper, ...)
+1. [Multi-organ segmentation](Projects/MultiOrganSegmentation/README.md) (Murat Maga, Sara Rolfe, Andres Diaz-Pinto)
+1. [Brain Mask Prediction](Projects/BrainPrediction/README.md) (Raymond Yang, Jax Luo, Lipeng Ning, Cathy Yang, Steve Pieper)
+1. [Automatic Landmark Identification in 3D Cone-Beam Computed Tomography scans](Projects/ALICBCT/README.md) (Maxime Gillot, Baptiste Baquero, Antonio Ruellas, Marcela Gurgel, Elizabeth Biggs, Marilia Yatabe, Jonas Bianchi, Lucia Cevidanes, Juan Carlos Prieto)
+1. [ALIIOS - Automatic Landmarks Identification for Intra OralScans](Projects/ALIDDM/README.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, Juan Carlos Prieto, Najla Al Turkestani, Marcela Gurgel, Camila Massaro, Aron Aliaga, Maria Antonia Alvarez Castrillon, Marilia Yatabe, Jonas Bianchi, Juan Fernando Aristizabal, Diego Rey, Antonio Ruellas)
+
+### SlicerDMRI
+1. [Deep Diffusion MRI Registration (DDMReg): code release via SlicerDMRI](Projects/DDMReg/README.md) (Fan Zhang, William M. Wells III, Lauren J O'Donnell)
+2. [UKF tractography with additional seeding and stopping options](Projects/UKF/README.md) (Fan Zhang, Yogesh Rathi, Lauren J O'Donnell)
+3. [SupWMA: consistent and efficient tractography parcellation of superficial white matter with deep learning](Projects/SupWMA/README.md) (Tengfei Xue, Fan Zhang, Chaoyi Zhang, Yuqian Chen, Yang Song, Nikos Makris, Yogesh Rathi, Weidong Cai, Lauren J. O’Donnell)
+
 ### Cloud
 1. [Body Part Regression using IDC](Projects/IDCBodyPartRegression/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
 2. [OHIF Mode Gallery](Projects/OHIFModeGallery/Readme.md) (Alireza Sedghi, James Petts, Erik Ziegler)
 3. [Kaapana and XNAT exploration on Google Cloud](Projects/KaapanaXNATExploration/README.md) (Nadya Shusharina, Andrey Fedorov)
 
-### SlicerDMRI
-1. [Deep Diffusion MRI Registration (DDMReg): code release via SlicerDMRI](Projects/DDMReg/README.md) (Fan Zhang, William M. Wells III, Lauren J O'Donnell)
-2. [UKF tractography with additional seeding and stopping options](Projects/UKF/README.md) (Fan Zhang, Yogesh Rathi, Lauren J O'Donnell)
-    
-### Annotation/segmentation
-1. [Spine Segmentation](Projects/SpineSegmentation/README.md) (Ron Alkalay, Steve Pieper, ...)
-1. [Automatic Landmark Identification in 3D Cone-Beam Computed Tomography scans](Projects/ALICBCT/README.md) (Maxime Gillot, Baptiste Baquero, Antonio Ruellas, Marcela Gurgel, Elizabeth Biggs, Marilia Yatabe, Jonas Bianchi, Lucia Cevidanes, Juan Carlos Prieto)
-1. [ALIIOS - Automatic Landmarks Identification for Intra OralScans](Projects/ALIDDM/README.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, Juan Carlos Prieto, Najla Al Turkestani, Marcela Gurgel, Camila Massaro, Aron Aliaga, Maria Antonia Alvarez Castrillon, Marilia Yatabe, Jonas Bianchi, Juan Fernando Aristizabal, Diego Rey, Antonio Ruellas)
-1. [Multi-organ segmentation](Projects/MultiOrganSegmentation/README.md) (Murat Maga, Sara Rolfe, Andres Diaz-Pinto)
-1. [Brain Mask Prediction](Projects/BrainPrediction/README.md) (Raymond Yang, Jax Luo, Lipeng Ning, Cathy Yang, Steve Pieper)
-
 ### Infrastructure
+1. [Slicer 5 Release](Projects/Slicer5/README.md) (Sam Horvath, Jean-Christophe Fillion-Robin, Steve Pieper, Andras Lasso)
 1. [SlicerPipelines](Projects/SlicerPipelines/README.md) (Connor Bowley, Sam Horvath)
 1. [Slicer Internationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso, Mamadou Camara,  Jean-Christophe Fillion-Robin, Ibrahima Fall, Samba Diaw) 
 1. [Update the Chest Imaging Platform extension to support Slicer 5](Projects/CIP_Update/README.md) (Rudolf Bumm, Raul San Jose Estepar, Andras Lasso, Steve Pieper)
-1. [Slicer 5 Release](Projects/Slicer5/README.md) (Sam Horvath, Jean-Christophe Fillion-Robin, Steve Pieper, Andras Lasso)
 1. [Batch Anonymization](Projects/DSCIAnonymize/README.md)(Hina Shah, Juan Carlos Prieto, Fryderyk Kögl)
 
 ## Registrants
@@ -203,7 +213,11 @@ List of registered participants so far (names will be added here after processin
 1.	Javier Pascau	,	Universidad Carlos III de Madrid	,	Spain
 1.	Ariela Shahvar	,	Western University	,	Canada
 1.	Samuelle St-Onge	,	École de technologie supérieure (ÉTS)	,	Canada
-
+1.	Andrey Titov	,	École de technologie supérieure	,	Canada
+1.	Tengfei Xue	,	Harvard Medical School/University of Sydney	,	Australia
+1.	Yiwei Jiang	,	Worcester Polytechnic Institute	,	USA
+1.	Yuqian Chen	,	Harvard Medical School	,	USA
+    
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
