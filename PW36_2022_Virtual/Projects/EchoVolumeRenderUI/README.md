@@ -34,10 +34,6 @@ Update and polish the module's interface to improve its usability for clinical u
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
-
 # Illustrations
 ![Echo Volume Render UI](https://user-images.githubusercontent.com/57685132/149667633-524c8285-3f81-4c91-92c8-87b22a3d29c1.jpg)
 
