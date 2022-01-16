@@ -64,6 +64,4 @@ This is a comparison of the body part examined tag distrubtion from the original
 
 Schuhegger S. Body Part Regression for CT Images. arXiv preprint arXiv:2110.09148. 2021 Oct 18. https://arxiv.org/abs/2110.09148?context=eess 
 
-Github link: https://github.com/mic-dkfz/bodypartregression \
-Inference example: https://github.com/MIC-DKFZ/BodyPartRegression/blob/develop/docs/notebooks/inference-example.ipynb 
-
+Github link to code from thesis: https://github.com/mic-dkfz/bodypartregression \
