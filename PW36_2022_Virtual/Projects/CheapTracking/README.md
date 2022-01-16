@@ -12,6 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 Investigate less expensive but still good tracking for IGT.  Modern AR/VR devices use inside-out tracking with IMUs, cameras, lidar, and other sensors (e.g. in phones and glasses).
 These are small enough and becoming (maybe?) good enough to consider for IGT.
+Would these be options for NousNav or the SlicerTMS projects?
 
 ## Objective
 
