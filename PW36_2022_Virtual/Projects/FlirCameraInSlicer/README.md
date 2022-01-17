@@ -12,7 +12,6 @@ Integration of Flir Thermal Camera in Slicer in order to capture and process ima
 # Project Description
 Integration of Flir Thermal Camera in Slicer in order to capture and process images
 
-
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->

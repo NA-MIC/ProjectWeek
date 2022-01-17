@@ -84,8 +84,9 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 ### SlicerDMRI
 1. [Anatomically informed UKF tractography](Projects/UKF/README.md) (Fan Zhang, Yogesh Rathi, Lauren J O'Donnell)
-1. [Deep Diffusion MRI Registration (DDMReg): Code release via SlicerDMRI](Projects/DDMReg/README.md) (Fan Zhang, William M. Wells III, Lauren J O'Donnell)
+1. [Deep Diffusion MRI Registration (DDMReg)](Projects/DDMReg/README.md) (Fan Zhang, William M. Wells III, Lauren J O'Donnell)
 1. [SupWMA: consistent and efficient tractography parcellation of superficial white matter with deep learning](Projects/SupWMA/README.md) (Tengfei Xue, Fan Zhang, Chaoyi Zhang, Yuqian Chen, Yang Song, Nikos Makris, Yogesh Rathi, Weidong Cai, Lauren J. O’Donnell)
+1. [Deep Fiber Clustering: Anatomically Informed Unsupervised Deep Learning for Fast and Effective White Matter Parcellation](Projects/DeepFiberClustering/README.md) (Yuqian Chen, Chaoyi Zhang, Yang Song, Tengfei Xue, Nikos Makris, Yogesh Rathi, Weidong Cai, Fan Zhang, and Lauren J. O’Donnell)
 
 ### Cloud
 1. [Body Part Regression using IDC](Projects/IDCBodyPartRegression/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
@@ -219,6 +220,14 @@ List of registered participants so far (names will be added here after processin
 1.	Tengfei Xue	,	Harvard Medical School/University of Sydney	,	Australia
 1.	Yiwei Jiang	,	Worcester Polytechnic Institute	,	USA
 1.	Yuqian Chen	,	Harvard Medical School	,	USA
+    
+## Statistics
+* 115 Registered attendees
+  * 43% first time attendees
+* 20 countries
+    
+<img src="images/attendees-per-country.png" alt="Attendees per country" width="600"/>
+<img src="images/timezones.png" alt="Attendees timezones" width="600"/>
     
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using

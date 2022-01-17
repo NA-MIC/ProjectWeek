@@ -1,14 +1,14 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# PRISM Volume Rendering
+# Slicer-Liver
 
 ## Key Investigators
 
-- Rafael Palomar (Oslo Unviersity Hospital and NTNU)
-- Gabriella d'Albenzio (Oslo University Hospital)
-- Ole Vegard Solberg (SINTEF)
-- Geir Arne Tangen (SINTEF)
-- Ruoyan Meng (NTNU)
+- Rafael Palomar (Oslo Unviersity Hospital/NTNU, Norway)
+- Gabriella d'Albenzio (Oslo University Hospital, Norway)
+- Ole Vegard Solberg (SINTEF, Norway)
+- Geir Arne Tangen (SINTEF, Norway)
+- Javier Pérez de Frutos (SINTEF, Norway)
 
 # Project Description
 
@@ -23,24 +23,34 @@ prototypes of our resection planning algorithms into 3D Slicer.
 
 [Early prototype of the resection planning module](https://youtu.be/7M3DULQp81k)
 
-## Objective
+## Objectives
 
 1. Integrate the components developed during the [last
    ProjectWeek](https://github.com/NA-MIC/ProjectWeek/tree/master/PW35_2021_Virtual/Projects/Slicer-Liver
    "Slicer-Liver in the last ProjectWeek") in a resection planning working prototype. 
 
+2. Add a Slicer module for computation of liver vascular territories.
+
 ## Approach and Plan
 
-1. Integration of resection deformation and resection initialization
+### Liver resection planning module
+
+1. Integration of resection deformation and resection initialization.
+1. Add complex interactions (move groups of control points).
+1. Adding load/saving functionality.
 1. Development of distance measurements visualized in the resections using shaders.
 1. Add a GUI to manage resections.
 
+### Liver analysis module
+
+1. Creation of a new Slicer module.
+1. Implementation of end-points placement (markups).
+1. GUI to manage segments (add, remove, edit).
+1. Loading/saving vascular territories.
+
 ## Progress and Next Steps
 
-The core components of the planning platform have been developed but not
-integrated together. Shaders and pluggable markups infrastructure have been used
-for the development of the resection initialization, but are not yet integrated
-for visualization of other measurments (e.g., safety margins).
+## Illustrations
 
 ![3D Bezier Surface Markup](bezier_surface_markup.png)
 

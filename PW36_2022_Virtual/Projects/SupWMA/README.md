@@ -8,12 +8,17 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Fan Zhang (BWH)
 - Chaoyi Zhang (Usyd)
 - Yuqian Chen (BWH & Usyd)
+- Yang Song (UNSW)
+- Nikos Makris (BWH)
+- Yogesh Rathi (BWH)
 - Weidong Cai (Usyd)
 - Lauren J O'Donnell (BWH)
 
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
+
+In this project, we will work on releasing the code of a superficial white matter parcellation method (Xue et al 2022, ISBI). We will provide the trained model and testing samples for demonstration.
 
 ## Objective
 
