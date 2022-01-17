@@ -21,7 +21,7 @@ Currently, we have already integrated some basic features:
 
 ![ParticipantSelection](https://user-images.githubusercontent.com/10816661/149750651-c77b0116-0722-47ef-9938-c4fc2d6db278.PNG)
 
-- Hardware selection and configuration: connection with PLUS toolkit, US imaging parameters, ...
+- Hardware selection and configuration: connection with PLUS toolkit, US imaging parameters...
 
 ![Configuration](https://user-images.githubusercontent.com/10816661/149749292-03676c38-4aef-4590-a3cb-48cd1533694b.PNG)
 
@@ -38,7 +38,7 @@ Currently, we have already integrated some basic features:
 1. Identify best exercises to train ultrasound imaging and US-guided procedures.
 2. Identify specific clinical procedures of interest for low- and middle- income countries.
 3. Discuss hardware configurations for low-cost ultrasound training: low-cost trackers & low-cost phantoms.
-4. Discuss how to improve low-cost US training in 3D Slicer: virtual reality, artificial intelligence, ...
+4. Discuss how to improve low-cost US training in 3D Slicer: virtual reality, artificial intelligence...
 
 ## Ideas
 1. Discuss best approach (and required additional developments, if any) to record an ultrasound (US) image volume and US probe position, and then enable trainees to simulate US imaging in that recorded volume by freely moving an US probe with respect to a phantom (instead of patient). This would enable the recording of US images of real anatomy and pathologies by expert radiologists. This would be really useful to create custom training exercises for medical students regarding detection of pathologies in US images, and others.
