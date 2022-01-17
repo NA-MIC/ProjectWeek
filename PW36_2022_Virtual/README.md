@@ -82,7 +82,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Brain Mask Prediction](Projects/BrainPrediction/README.md) (Raymond Yang, Jax Luo, Lipeng Ning, Cathy Yang, Steve Pieper, Daniel Haehn)
 1. [Automatic Landmark Identification in 3D Cone-Beam Computed Tomography scans](Projects/ALICBCT/README.md) (Maxime Gillot, Baptiste Baquero, Antonio Ruellas, Marcela Gurgel, Elizabeth Biggs, Marilia Yatabe, Jonas Bianchi, Lucia Cevidanes, Juan Carlos Prieto)
 1. [ALIIOS - Automatic Landmarks Identification for Intra OralScans](Projects/ALIDDM/README.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, Juan Carlos Prieto, Najla Al Turkestani, Marcela Gurgel, Camila Massaro, Aron Aliaga, Maria Antonia Alvarez Castrillon, Marilia Yatabe, Jonas Bianchi, Juan Fernando Aristizabal, Diego Rey, Antonio Ruellas)
-
+1. [Automatic Segmentation of Teeth and Alveolar bone using MONAI Label](Projects/AutomaticSegmentationofTeethandAlveolarBone/README.md) (Daniel Palkovics, Csaba Pinter, ...)
+    
 ### SlicerDMRI
 1. [Anatomically informed UKF tractography](Projects/UKF/README.md) (Fan Zhang, Yogesh Rathi, Lauren J O'Donnell)
 1. [Deep Diffusion MRI Registration (DDMReg)](Projects/DDMReg/README.md) (Fan Zhang, William M. Wells III, Lauren J O'Donnell)
