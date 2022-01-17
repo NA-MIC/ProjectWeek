@@ -94,6 +94,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 2. [OHIF Mode Gallery](Projects/OHIFModeGallery/Readme.md) (Alireza Sedghi, James Petts, Erik Ziegler)
 3. [Kaapana and XNAT exploration on Google Cloud](Projects/KaapanaXNATExploration/README.md) (Nadya Shusharina, Andrey Fedorov)
 4. [Static DICOM Web for AI Assissted Annotations on AWS](Projects/StaticDicomWeb/README.md) (Chris Hafey, Gang Fu, Jordan Kojouharov, Qing Liu, Dmitry Pavlov, Andres Diaz-Pinto, Sachidanand Alle)
+5. [OHIF deployment on Google Cloud](Projects/OHIFonGCP/README.md) (Andrey Fedorov, Igor Octaviano, Steve Pieper)
 
 ### Infrastructure
 1. [Slicer 5 Release](Projects/Slicer5/README.md) (Sam Horvath, Jean-Christophe Fillion-Robin, Steve Pieper, Andras Lasso)
