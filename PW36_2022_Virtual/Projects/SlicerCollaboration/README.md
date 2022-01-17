@@ -49,6 +49,12 @@ Slicer module (packaged in an extension) for connecting two or more running Slic
 ![Some more images](Example2.jpg)
 -->
 
+Screenshot showing VR usage:
+![SlicerCollaboration screenshot VR](SlicerCollaboration_VR.PNG)
+
+Screenshot showing server/client:
+![SlicerCollaboration screenshot server/client](SlicerCollaboration_ServerClient.PNG)
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
