@@ -11,6 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Dmitry Pavlov (AWS)
 - Andres Diaz-Pinto (NVIDIA)
 - Sachidanand Alle (NVIDIA)
+- Steve Pieper (Isomics)
 - YOU
 
 # Project Description
