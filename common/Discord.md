@@ -50,6 +50,10 @@ Join a voice channel, e.g. one of the meeting rooms. Press "Screen" (lower left)
 
 ![](https://user-images.githubusercontent.com/18140094/149112941-ff784625-b6bb-4c2d-9cb6-3d6a5de97515.png)
 
+To be able to look at the screen someone else shares, you need to click "LIVE"  and join the shared window stream (right to the name to that streaming in the voice channel)
+
+![](https://user-images.githubusercontent.com/18140094/149796988-39561009-f1f6-4a16-b6a0-49d966261e5d.png)
+
 ## How to leave a voice channel
 
 Simply click "Disconnect" next to your nickname (lower left). 
