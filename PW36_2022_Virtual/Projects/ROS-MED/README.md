@@ -18,10 +18,11 @@ See [the project page](https://rosmed.github.io) for detail.
 
 ## Objective
 
-There are two goals for this project week:
+There are three goals for this project week:
 
-1. Refine the tutorial page, which was created for International Symposium on Medical Robotics (ISMR) 2021. 
-1. Ask for feedback from the 3D Slicer community
+1. Refine the tutorial page, which was created for International Symposium on Medical Robotics (ISMR) 2021.
+2. Document the virtual platform (i.e., Docker) used in the tutorial.
+3. Ask for feedback from the 3D Slicer community
 
 ## Approach and Plan
 
