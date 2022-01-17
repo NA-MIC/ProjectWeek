@@ -4,8 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Andrey Fedorov (BWH)
 - Nadya Shusharina (BWH & MGH)
+- Andrey Fedorov (BWH)
 
 
 # Project Description
@@ -16,9 +16,8 @@ We have installed the platforms on the Googe Cloud Virtual Machines. To investig
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Continue working on the evaluation of the platforms
+2. Connect with any of the groups that worked on either Kaapana or XNAT to share experience
 
 ## Approach and Plan
 
@@ -44,5 +43,8 @@ We have installed the platforms on the Googe Cloud Virtual Machines. To investig
 -->
 
 # Background and References
+
+* [Kaapana docs](https://kaapana.readthedocs.io/en/latest/)
+* [XNAT](https://www.xnat.org/)
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
