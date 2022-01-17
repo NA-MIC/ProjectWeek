@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Finalizing the remaining tasks for the Slicer 5 release by the end of Project Week
+Finalizing the remaining tasks for the Slicer 5 release by the end of Project Week!
 
 [Remaining Issues](https://github.com/Slicer/Slicer/milestone/1)
 
@@ -20,12 +20,18 @@ Finalizing the remaining tasks for the Slicer 5 release by the end of Project We
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
+- Finish pending tasks on the Slicer 5 milestone
+- Prepare for SLicer 5 release
+- Cut Slicer 5 release end of week
+
 
 
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
+
+Issues have already been assigned to community members, but please reach out if there is something in the milestone that you could help with (please post to the issue on GitHub).
 
 
 ## Progress and Next Steps
