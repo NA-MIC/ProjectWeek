@@ -16,6 +16,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 We have been developing [ROS-IGTL-Bridge](https://rosmed.github.io), which is an interface for Robot Operating System (ROS) to exchange data with 3D Slicer.
 See [the project page](https://rosmed.github.io) for detail.
 
+![ROSMED](rosmed_ismr_2021_2.jpg)
+
 ## Objective
 
 There are three goals for this project week:
