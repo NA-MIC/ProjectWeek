@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Yuqian Chen (BWH & USYD)
 - Chaoyi Zhang (USYD)
 - Yang Song (UNSW)
+- Tengfei Xue (BWH & USYD)
 - Nikos Makris (BWH)
 - Yogesh Rathi(BWH)
 - Weidong Cai (USYD)
@@ -43,6 +44,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![image](https://user-images.githubusercontent.com/59594831/149714486-3e57731f-e146-42b9-8bba-687f9fb13c2d.png)
 
 # Background and References
 
