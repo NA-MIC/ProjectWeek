@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Add a short paragraph describing the project. -->
 
-Improve UKF tractography with additional seeding and stopping options.
+In this project, we will include brain tissue segmentation maps into the existing unscented Kalman filter (UKF) framework (Malcolm et al 2010, IEEE TMI; Reddy et al 2016, Front. Neuroscience) to inform fiber tracking seeding and stopping. Segmentations of WM, GM and CSF are computed using a deep learning based method that performs tissue segmentation using diffusion MRI data (Zhang et al 2021, Neuroimage). The WM segmentation will be used for tractography seeding, and the GM/CSF segmentations will be used for tractography stopping.
 
 ## Objective
 
@@ -45,6 +45,8 @@ Improve UKF tractography with additional seeding and stopping options.
 ![Some more images](Example2.jpg)
 -->
 
+![UKF-WMGMCSF](https://user-images.githubusercontent.com/7855446/149682553-d16fef74-102a-4013-993b-bf1144b72521.png)
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
@@ -54,4 +56,5 @@ Zhang, F., Breger, A., Cho, K. I. K., Ning, L., Westin, C. F., O’Donnell, L. J
 Reddy, C.P. and Rathi, Y., 2016. Joint Multi-Fiber NODDI Parameter Estimation and Tractography Using the Unscented Information Filter. Frontiers in Neuroscience, 10.
 
 Malcolm, J.G., Shenton, M.E. and Rathi, Y., 2010. Filtered multitensor tractography. IEEE transactions on medical imaging, 29(9), pp.1664-1675.
+
 

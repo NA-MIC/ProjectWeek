@@ -12,6 +12,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Add a short paragraph describing the project. -->
 
+In this project, we will work on releasing the code of a diffusion MRI registration method (Zhang et al 2022, IEEE TMI). We will provide the trained CNN model and testing cases for demonstration.
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
