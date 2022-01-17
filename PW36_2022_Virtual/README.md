@@ -223,11 +223,16 @@ List of registered participants so far (names will be added here after processin
 1.	Tengfei Xue	,	Harvard Medical School/University of Sydney	,	Australia
 1.	Yiwei Jiang	,	Worcester Polytechnic Institute	,	USA
 1.	Yuqian Chen	,	Harvard Medical School	,	USA
+1.	Gabriella d'Albenzio	,	The Intervention Centre (OUS)	,	Norway
+1.	Raul San Jose Estepar	,	Brigham and Women's Hospital	,	USA
+1.	Kyle Sunderland	,	Queen's University	,	Canada
+1.	Árpád Márki	,	University of Szeged	,	Hungary
+1.	Martin Dr. Cseh	,	University of Szeged Faculty of Pharmacy	,	Hungary
     
 ## Statistics
 * 115 Registered attendees
   * 43% first time attendees
-* 20 countries
+* 21 countries
     
 <img src="images/attendees-per-country.png" alt="Attendees per country" width="600"/>
 <img src="images/timezones.png" alt="Attendees timezones" width="600"/>
