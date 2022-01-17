@@ -1,7 +1,7 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
-Integration of Flir Thermal Camera in Slicer in order to capture and process images
+# Integration of Flir Thermal Camera in Slicer in order to capture and process images
+
 ## Key Investigators
 
 - Juan Bautista Ruis Alzola (ULPGC - Universidad de Las Palmas de Gran Canaria)
