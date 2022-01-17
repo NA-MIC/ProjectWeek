@@ -13,15 +13,15 @@ With this project, we would like to add a new feature to Slicer.
 The goal of this project is to extract code from an opensource software for image-based neurosurgery guidance: IBIS Neuronav.
 This code in C++ aims to perform registration between different images using the GPU. It is located in an IBIS Neuronav 
 plugin. Then, it will be implemented in Slicer to be available for all users. 
-The objective of the second project is to recover another functionality in the same way: the conversion of a minc file into mha.
+The objective of the second project is to recover another functionality in the same way: the conversion of a minc file into mha ([SequenceIO on Ibis Neuronav](https://github.com/IbisNeuronav/Ibis/tree/master/IbisPlugins/SequenceIO)).
 
 ## Long-term Objective
 1. Extract GPU registration code from IBIS Neuronav to an independent library (done in PW35, see extracted lib [here](https://github.com/IbisNeuronav/GPURigidRegistrationLib) )
 2. Create a standalone command-line application to register images (partly done in PW35)
 3. Create a Slicer module that replicates the functionality of Ibis using the independent library (TODO)
 
-2nd project
-1. Extract te converter minc/mha (SequenceIO) code from IBIS Neuronav to an independent library [here](https://github.com/IbisNeuronav/Ibis/tree/master/IbisPlugins/SequenceIO)
+2nd project (New)
+1. Extract te converter minc/mha (SequenceIO) code from IBIS Neuronav to an independent library 
 2. Create a standalone command-line application to convert
 3. Create a Slicer module that replicates the functionality of Ibis using the independent library
 
@@ -46,4 +46,4 @@ Webpage and GitHub repositories with relevant code:
 - [Ibis Neuronav](http://ibisneuronav.org)
 - [Ibis Neuronav on GitHub](https://github.com/IbisNeuronav/Ibis)
 - [New GPURigidRegistration lib](https://github.com/IbisNeuronav/GPURigidRegistrationLib)
-- [SequenceIO](https://github.com/IbisNeuronav/Ibis/tree/master/IbisPlugins/SequenceIO)
+- [SequenceIO on Ibis Neuronav](https://github.com/IbisNeuronav/Ibis/tree/master/IbisPlugins/SequenceIO)
