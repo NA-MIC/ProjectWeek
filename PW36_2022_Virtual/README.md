@@ -224,7 +224,9 @@ List of registered participants so far (names will be added here after processin
 * 115 Registered attendees
   * 43% first time attendees
 * 20 countries
-
+    
+<img src="images/attendees-per-country.png" alt="Attendees per country" width="600"/>
+<img src="images/timezones.png" alt="Attendees timezones" width="600"/>
     
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
