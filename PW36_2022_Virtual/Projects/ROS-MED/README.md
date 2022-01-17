@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Simon Leonard (JHU)
 - Axel Krieger (JHU)
 - Mark Fuge (UMD)
+- Yiwei Jiang (WPI)
 
 # Project Description
 

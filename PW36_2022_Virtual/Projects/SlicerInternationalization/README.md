@@ -16,7 +16,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-The goal of the project is to increase access to 3D Slicer in non-English speaking countries to foster global community engagement.
+The goal of the project is to increase access to 3D Slicer in non-English speaking countries to foster global community engagement. The project is funded through an Essential Open Source Software for Science grant of the Chan Zuckerberg Initiative. 
 
 ## Objective
 

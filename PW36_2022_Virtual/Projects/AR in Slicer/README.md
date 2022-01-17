@@ -13,7 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Csaba Pinter (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Lucas Gandel (Kitware, France)
 - Jean-Christophe Fillion-Robin (Kitware, USA)
-- Simon Druin (École de Technologie Supérieure , Montreal , Canada)
+- Simon Drouin (École de Technologie Supérieure , Montreal , Canada)
 
 
 
