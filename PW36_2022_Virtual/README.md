@@ -100,6 +100,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Slicer Internationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso, Mamadou Camara,  Jean-Christophe Fillion-Robin, Ibrahima Fall, Samba Diaw) 
 1. [Update the Chest Imaging Platform extension to support Slicer 5](Projects/CIP_Update/README.md) (Rudolf Bumm, Raul San Jose Estepar, Andras Lasso, Steve Pieper)
 1. [Batch Anonymization](Projects/DSCIAnonymize/README.md)(Hina Shah, Juan Carlos Prieto, Fryderyk Kögl)
+1. [Integrition of Thermal Camera Flir in Slicer](Projects/FlirCameraInSlicer/README.md)(Juan Bautista Ruis Alzola, Robabeh Salehiozoumchelouei, Mónica García Sevilla, Yousef Rajaeitabrizi)
 
 ## Registrants
 
