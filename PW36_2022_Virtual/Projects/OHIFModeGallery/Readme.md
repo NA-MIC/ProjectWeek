@@ -17,27 +17,65 @@ Currently OHIF developers have to copy paste the source code of a sample Mode/Ex
 
 ## Objectives
 
-- Create a CLI tool (similar to create-react-app)
-
+- Create a CLI tool for making new extensions/modes (similar to e.g. create-react-app), and automagically installing extensions/modes from npm and including them in the source.
   - Commands to include:
     - create-mode, create-extension : for generating template extension and mode
-    - install-mode, install-extensions : for installing mode/extensions to OHIF (either linking locally or installing published modes and extensions from npm)
-    - uninstall-extension, uninstall-mode : same above but for uninstalling
-    - list : list all extensions and modes that are installable in OHIF
-
+    - add-mode, add-extension : for adding mode/extensions to OHIF (either linking locally or installing published modes and extensions from npm)
+    - remove-extension, remove-mode : same above but for removing
+    - list : list all extensions and modes that are installed in OHIF
 - Update OHIF to dynamically install extensions and modes from config files rather than having to hard code their inclusion.
   - For example one could install OHIF, then a set of modes/extensions, programmatically.
+- Parse information from npm to populate the markdown of the OHIF page for installable modes and extensions.
 
 Stretch Goals:
-- Parse information from npm to populate the markdown of the OHIF page for installable modes and extensions.
+
 - Versioning errors + conflict resolution for mode dependencies.
+- Installing a mode installs required extensions.
 - Type the contract interfaces for extensions and modes in typescript.
 
-Super stretch goal: type all the things
+Super stretch goal: type *all* the things
 
 ## Approach and Plan
 
+Complete all of the primary objectives as fast as possible and then play with the stretch goals.
+
 ## Progress and Next Steps
+
+### Primary Goals
+
+Core:
+- [x] Self registering extensions from configuration JSON (dynamically build JavaScript required in node and inject these files at build time ).
+- [x] Basic CLI tool codebase.
+- [x] Basic working create-mode command.
+- [x] Basic working create-extension command.
+- [x] Basic working add-mode, remove-mode commands.
+- [x] Basic working add-extension, remove-extension commands.
+- [ ] Basic list command.
+- [ ] WIP Test CLI tools with actual extensions.
+
+Gallery
+- [ ] WIP Example mode and extension + publish to NPM.
+- [ ] Create mode galery page which consumes markdown files to generate a page with a title, description, dependencies, images and copyable install commands.
+
+
+### Stretch Goals
+
+Stretch Goals
+
+Core:
+- [ ] Installing a mode installs required extensions (not versioned).
+- [ ] Augment mode schema to optionally specify semantic versionion for required ohif-extensions.
+- [ ] Automatically download extensions of correct version when installing modes.
+- [ ] Verify that npm packages fetched by CLI are _actually_ conforming to extensions/modes so we don't just cross our fingers.
+- [ ] Error handling for extension conflicts.
+- [ ] Error handling for missing extensions.
+
+Gallery:
+- [ ] Create "whitelist" for extensions.
+- [ ] Parse information from npm repo for whitelisted extensions to populate ohif-modes gallery page.
+- [ ] Type mode and extension schema and make these types publically available somewhere.
+- [ ] Add the type contracts to the templates produced by ohif-cli create-extension and ohif-cli create-mode.
+
 
 # Illustrations
 
