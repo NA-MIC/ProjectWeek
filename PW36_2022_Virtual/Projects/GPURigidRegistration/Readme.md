@@ -13,7 +13,7 @@ With this project, we would like to add a new feature to Slicer.
 The goal of this project is to extract code from an opensource software for image-based neurosurgery guidance: IBIS Neuronav.
 This code in C++ aims to perform registration between different images using the GPU. It is located in an IBIS Neuronav 
 plugin. Then, it will be implemented in Slicer to be available for all users. 
-The objective of the second project is to recover another functionality in the same way: the conversion of a minc file into mha ([SequenceIO on Ibis Neuronav](https://github.com/IbisNeuronav/Ibis/tree/master/IbisPlugins/SequenceIO)).
+The objective of the second project is to recover another functionality in the same way: the conversion of a minc file into mha ([SequenceIO](https://github.com/IbisNeuronav/Ibis/tree/master/IbisPlugins/SequenceIO)).
 
 ## Long-term Objective
 1. Extract GPU registration code from IBIS Neuronav to an independent library (done in PW35, see extracted lib [here](https://github.com/IbisNeuronav/GPURigidRegistrationLib) )
