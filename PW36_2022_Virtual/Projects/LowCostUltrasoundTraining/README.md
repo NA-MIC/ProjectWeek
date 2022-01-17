@@ -13,11 +13,21 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Ebatinca is currently developing a low-cost training platform for ultrasound imaging and ultrasound-guided procedures in low- and middle-income countries. We are developing a 3D Slicer based application to perform training exercises and evaluate participants.
+[**Ebatinca S.L.**](https://ebatinca.com/) is currently developing a **low-cost training platform for ultrasound imaging and ultrasound-guided procedures** in low- and middle-income countries. We are developing a 3D Slicer based application to perform training exercises and evaluate participants. The app is called **TrainUS** and it will be available soon with open-source license.
 
-Ebatinca will develop open-source features for the Slicer community. 
+Currently, we have already integrated some basic features:
 
-During project week, we would like to identify new features that may be useful for ultrasound training (connection, visualization, or others).
+- Participant/recording management: create, edit, delete, filter
+
+![ParticipantSelection](https://user-images.githubusercontent.com/10816661/149750651-c77b0116-0722-47ef-9938-c4fc2d6db278.PNG)
+
+- Hardware selection and configuration: connection with PLUS toolkit, US imaging parameters, ...
+
+![Configuration](https://user-images.githubusercontent.com/10816661/149749292-03676c38-4aef-4590-a3cb-48cd1533694b.PNG)
+
+- Selection of training exercises
+
+![TrainingSession](https://user-images.githubusercontent.com/10816661/149749209-3063512a-4b55-4372-a2cd-79d4e131cf07.PNG)
 
 <!-- Add a short paragraph describing the project. -->
 
@@ -25,6 +35,12 @@ During project week, we would like to identify new features that may be useful f
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
+1. Identify best exercises to train ultrasound imaging and US-guided procedures.
+2. Identify specific clinical procedures of interest for low- and middle- income countries.
+3. Discuss hardware configurations for low-cost ultrasound training: low-cost trackers & low-cost phantoms.
+4. Discuss how to improve low-cost US training in 3D Slicer: virtual reality, artificial intelligence, ...
+
+## Ideas
 1. Discuss best approach (and required additional developments, if any) to record an ultrasound (US) image volume and US probe position, and then enable trainees to simulate US imaging in that recorded volume by freely moving an US probe with respect to a phantom (instead of patient). This would enable the recording of US images of real anatomy and pathologies by expert radiologists. This would be really useful to create custom training exercises for medical students regarding detection of pathologies in US images, and others.
     - Can we use US volume reconstruction + Registration + Volume reslice driver to achieve this?
     - Does reslicing of a reconstructed US volume generates realistic US images?
