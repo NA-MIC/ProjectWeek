@@ -50,8 +50,8 @@ Some links of interest:
 
 The WIP branch supporting Holographic remoting to stream VTK rendering inside the Hololens has been submitted [here](https://gitlab.kitware.com/vtk/vtk/-/merge_requests/8101).
 
-2. Our github latest upload:
-https://github.com/Slicer/Slicer/pull/5978
+2. Our [github](https://github.com/Slicer/Slicer/pull/5978) latest upload
+
 
 
 # Illustrations
