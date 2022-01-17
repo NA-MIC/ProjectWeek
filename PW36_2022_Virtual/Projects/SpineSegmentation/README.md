@@ -39,6 +39,9 @@ Investigate and implement methods to segment the human spine from CT scans.  See
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![image](https://user-images.githubusercontent.com/126077/149805728-25491bc0-f2ea-4799-84b3-3289f58e4f8f.png)
+![image](https://user-images.githubusercontent.com/126077/149805758-ed6f30da-2817-47fa-ad04-eedb10c5a9e8.png)
+
 
 # Background and References
 
