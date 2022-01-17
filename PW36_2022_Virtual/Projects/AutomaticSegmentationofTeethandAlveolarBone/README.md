@@ -49,3 +49,8 @@ The aim of this project is to develop an automatic method utilizing MONAI Label 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+1.	Palkovics D, Mangano FG, Nagy K, Windisch P. (2020) Digital three-dimensional visualization of intrabony periodontal defects for regenerative surgical treatment planning. BMC Oral Health, 20: 351.
+2.	Palkovics D, Pinter C, Bartha F, Molnar B, Windisch P. (2021) CBCT subtraction analysis of 3D changes following alveolar ridge preservation: a case series of 10 patients with a 6-month follow-up. Int J Comput Dent, 24: 241-251.
+3.	Palkovics D, Solyom E, Molnar B, Pinter C, Windisch P. (2021) Digital Hybrid Model Preparation for Virtual Planning of Reconstructive Dentoalveolar Surgical Procedures. J Vis Exp, doi:10.3791/62743.
+4.	Sólyom E, Palkovics D, Pintér C, Mangano FG, Windisch P. (2021) Virtuális tervezés és volumetrikus kiértékelés egy komplex parodontális defektus regeneratív-rekonstruktív sebészi ellátásában: Egy eset bemutatása. Fogorvosi Szemle, 114: 120-130
