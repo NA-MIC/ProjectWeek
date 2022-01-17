@@ -37,6 +37,7 @@ CERR is an Octave/MATLAB-based software platform for developing and sharing rese
 
 # Illustrations
 
+![Basic Workflow](sliCERR_graphic.png)
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
