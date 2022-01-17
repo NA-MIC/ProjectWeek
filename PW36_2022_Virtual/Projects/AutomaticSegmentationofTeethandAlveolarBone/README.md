@@ -44,6 +44,8 @@ The aim of this project is to develop an automatic method utilizing MONAI Label 
 ![Some more images](Example2.jpg)
 -->
 
+![Sample segmentation](SampleSegmentation_Small.png)
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
