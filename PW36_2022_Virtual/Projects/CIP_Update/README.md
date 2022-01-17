@@ -80,11 +80,19 @@ A github search revealed that "Editor" calls are being made from three of the ab
 
 01/11/22: 
 
-CIP_Calibration is probably outdated.
+- CIP_Calibration is probably outdated.
+- CIP_ParenchymaSubtypeTrainingLabelling is outdated, probably redundant. 
+- CIP_BodyComposition is needed, but probably much better realized with AI segmentation 
 
-CIP_ParenchymaSubtypeTrainingLabelling is outdated, probably redundant. 
+01/11/22: 12pm Meeting with Raul, Andras, Steve
 
-CIP_BodyComposition is needed, but probably much better realized with AI segmentation 
+- Incompabilities between 4.13 and CIP seem probnybly caused by CIPLibrary 
+- CIP_Calibration is not outdated.
+- CIP_ParenchymaSubtypeTrainingLabelling should be kept. 
+- CIP_BodyComposition is needed, but probably much better realized with AI segmentation 
+  
+
+
 
 
 
