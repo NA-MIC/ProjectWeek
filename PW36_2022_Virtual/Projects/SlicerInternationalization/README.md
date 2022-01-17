@@ -41,5 +41,5 @@ To identify members of the Slicer community interested in contributing translati
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-[3D Slicer in My Language](https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/)
+- [3D Slicer in My Language](https://chanzuckerberg.com/eoss/proposals/3d-slicer-in-my-language-internationalization-and-usability-improvements/)
+- https://github.com/Slicer/Slicer/wiki/I18N
