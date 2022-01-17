@@ -8,16 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
     Maxime Gillot 
     Lucia Cevidanes
     Juan Carlos Prieto
-    Najla Al Turkestani
-    Marcela Gurgel
-    Camila Massaro
-    Aron Aliaga
-    Maria Antonia Alvarez Castrillon
-    Marilia Yatabe
-    Jonas Bianchi
-    Juan Fernando Aristizabal
-    Diego Rey
-    Antonio Ruellas
+    
 
 
 # Project Description
