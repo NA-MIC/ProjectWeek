@@ -51,6 +51,7 @@ below in **Illustrations**. For more details refer to the
 **Next Steps**
 1. Explore 3D functionality for setting landmarks
 2. Make the code more robust - a lot of things are hard coded now (e.g. amount of volumes)
+3. Write tests
 
 # Illustrations
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
