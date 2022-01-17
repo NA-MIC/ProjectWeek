@@ -1,24 +1,24 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
 # Write full project title here
-
+Integration of Flir Thermal Camera in Slicer in order to capture and process images
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Juan Bautista Ruis Alzola (ULPGC - Universidad de Las Palmas de Gran Canaria)
+- Robabeh Salehiozoumchelouei (instituto astrofísico de canarias-IAC)
+- Mónica García Sevilla (ULPGC - Universidad de Las Palmas de Gran Canaria)
+- Yousef Rajaeitabrizi (instituto astrofísico de canarias-IAC)
 
 # Project Description
-
-<!-- Add a short paragraph describing the project. -->
+Integration of Flir Thermal Camera in Slicer in order to capture and process images
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Objective A. Learning Slicer
+1. Objective B. Integration of Flir Thermal Camera in Slicer
+1. Objective C. Capture and process the images
 
 ## Approach and Plan
 
