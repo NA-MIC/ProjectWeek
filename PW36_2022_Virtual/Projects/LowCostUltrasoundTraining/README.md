@@ -75,4 +75,6 @@ Currently, we have already integrated some basic features:
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
+- GitHub repository: https://github.com/EBATINCA/TrainUS
+
 - Google doc: [here](https://docs.google.com/document/d/1ettQu9WYvy-Dlz7vt42-5Hm7xJOltJJQ69PJZ_WBffg/edit?usp=sharing)
