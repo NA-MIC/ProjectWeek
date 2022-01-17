@@ -37,15 +37,20 @@ CERR is an Octave/MATLAB-based software platform for developing and sharing rese
 
 # Illustrations
 
+Link to Jupyter Notebook demo: https://mskcc.box.com/s/eizbm2nc54uvddcomzmvotw2w8sl82h4
+
+![Basic Workflow](sliCERR_graphic.png)
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
 
+![Dose overlay from CERR planC file](sliCERR_dose_overlay.png)
+
 # Background and References
-ROE: Radiotherapy Outcomes Estimator - An Open-Source Tool for Modeling Radiotherapy Outcomes https://www.aapm.org/meetings/2017am/PRAbs.asp?mid=127&aid=37270
-Extension of CERR for computational radiomics: A comprehensive MATLAB platform for reproducible radiomics research https://pubmed.ncbi.nlm.nih.gov/29896896/
-CERR GitHub Source Repo https://github.com/cerr/CERR
-CERR Wiki https://cerr.github.io/CERR/
-sliCERR Repo https://github.com/cerr/sliCERR
+* ROE: Radiotherapy Outcomes Estimator - An Open-Source Tool for Modeling Radiotherapy Outcomes https://www.aapm.org/meetings/2017am/PRAbs.asp?mid=127&aid=37270
+* Extension of CERR for computational radiomics: A comprehensive MATLAB platform for reproducible radiomics research https://pubmed.ncbi.nlm.nih.gov/29896896/
+* CERR GitHub Source Repo https://github.com/cerr/CERR
+* CERR Wiki https://cerr.github.io/CERR/
+* sliCERR Repo https://github.com/cerr/sliCERR
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
