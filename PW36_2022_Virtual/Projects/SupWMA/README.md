@@ -18,7 +18,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Add a short paragraph describing the project. -->
 
-In this project, we will work on releasing the code of a superficial white matter parcellation method (Xue et al 2022, ISBI). We will provide the trained model and testing tractography for demonstration.
+In this project, we will work on releasing the code of a superficial white matter parcellation method (Xue et al 2022, ISBI). We will provide the trained model and testing samples for demonstration.
 
 ## Objective
 
