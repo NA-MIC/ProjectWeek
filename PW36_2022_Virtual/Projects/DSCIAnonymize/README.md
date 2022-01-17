@@ -32,7 +32,9 @@ The proposed tool will:
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. TBD
+1. Identify existing anonymization pipelines for DICOM
+2. Modify code to make the extension be available as an extension (not a standalone app), and push it to Slicer Extension Index
+3. Within the community try to find out what other features would be useful to add to the extension.
 
 ## Progress and Next Steps
 
@@ -46,6 +48,8 @@ The proposed tool will:
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![image](https://user-images.githubusercontent.com/22948571/149800624-b1468449-96a1-467c-ad49-7559e68fb74b.png)
+
 
 # Background and References
 
