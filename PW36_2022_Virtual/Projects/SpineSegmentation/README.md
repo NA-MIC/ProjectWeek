@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Ron Alkalay (Beth Isreal Deaconess, Boston)
 - Steve Pieper (Isomics)
 - Andres Diaz-Pinto (KCL)
+- Juan Ruiz (Ebatinca, ULPGC)
 - YOU
 
 # Project Description
