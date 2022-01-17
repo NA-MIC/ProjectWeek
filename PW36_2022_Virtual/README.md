@@ -220,6 +220,12 @@ List of registered participants so far (names will be added here after processin
 1.	Yiwei Jiang	,	Worcester Polytechnic Institute	,	USA
 1.	Yuqian Chen	,	Harvard Medical School	,	USA
     
+## Statistics
+* 115 Registered attendees
+  * 43% first time attendees
+* 20 countries
+
+    
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
