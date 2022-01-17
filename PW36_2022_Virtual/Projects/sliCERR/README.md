@@ -37,6 +37,8 @@ CERR is an Octave/MATLAB-based software platform for developing and sharing rese
 
 # Illustrations
 
+Link to Jupyter Notebook demo: https://mskcc.box.com/s/eizbm2nc54uvddcomzmvotw2w8sl82h4
+
 ![Basic Workflow](sliCERR_graphic.png)
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
