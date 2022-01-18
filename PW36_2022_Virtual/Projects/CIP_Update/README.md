@@ -84,7 +84,7 @@ A github search revealed that "Editor" calls are being made from three of the ab
 - CIP_ParenchymaSubtypeTrainingLabelling is outdated, probably redundant. 
 - CIP_BodyComposition is needed, but probably much better realized with AI segmentation 
 
-01/11/22: 12pm Meeting with Raul, Andras, Steve and Rudolf (Discord Red Slice)
+01/17/22: 12pm Meeting with Raul, Andras, Steve and Rudolf (Discord Red Slice)
 
 - Incompabilities between 4.13 and CIP seem to be caused by CIPLibrary 
 - CIP, it's CLI functions and their history were demonstrated by @Raul
@@ -96,7 +96,15 @@ A github search revealed that "Editor" calls are being made from three of the ab
 - CIP GitHub write access was requested for @Andras to support merging, @Raul agreed 
 - As labelmaps are used throughout CIP in nearly every module we will discuss a Slicer-based solution for that problem tomorrow 
   
+01/18/22: 12pm Meeting with Raul, Andras, Rudolf (Discord Red Slice)
 
+- good follow upd meeting
+- a first module (Calibration) has been adapted to 4.13 and now works with the Segment Editor instead of Editor
+- ParenchymaSubtypeTrainingLabelling was demonstrated by Raul
+- we decided to prioritize certain modules during CIP adaptation
+- ParenchymaAnalysis probably the next to go
+- Andras promised to look into CLI modules and letting them use segmentations instead of labelmaps as an input maybe automatically  
+- next meeting will be Thursday 11 am Red Slice
 
 # Illustrations
 
