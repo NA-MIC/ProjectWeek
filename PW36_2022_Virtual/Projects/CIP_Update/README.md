@@ -98,7 +98,8 @@ A github search revealed that "Editor" calls are being made from three of the ab
   
 01/18/22: 12pm Meeting with Raul, Andras, Rudolf (Discord Red Slice)
 
-- good follow upd meeting
+- good follow up meeting
+- @rbumm demonstrated the build process
 - a first module (Calibration) has been adapted to 4.13 and now works with the Segment Editor instead of Editor
 - ParenchymaSubtypeTrainingLabelling was demonstrated by Raul
 - we decided to prioritize certain modules during CIP adaptation
