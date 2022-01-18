@@ -86,14 +86,16 @@ A github search revealed that "Editor" calls are being made from three of the ab
 
 01/11/22: 12pm Meeting with Raul, Andras, Steve
 
-- Incompabilities between 4.13 and CIP seem probnybly caused by CIPLibrary 
+- Incompabilities between 4.13 and CIP seem to be caused by CIPLibrary 
+- CIP, it's CLI functions and their history were demonstrated by @Raul
 - CIP_Calibration is not outdated.
 - CIP_ParenchymaSubtypeTrainingLabelling should be kept. 
-- CIP_BodyComposition is needed, but probably much better realized with AI segmentation 
+- CIP_BodyComposition is needed and should be kept
+- CIP Toolkit functions should be included in a future SlicerCIP release
+- A CIPLibrary compatibility branch "4.13" or "5.0" will be created 
+- CIP GitHub write access was requested for @Andras to support merging, @Raul agreed 
+- As labelmaps are used throughout CIP in nearly every module we will discuss a Slicer-based solution for that problem tomorrow 
   
-
-
-
 
 
 # Illustrations
