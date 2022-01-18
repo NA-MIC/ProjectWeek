@@ -84,7 +84,7 @@ A github search revealed that "Editor" calls are being made from three of the ab
 - CIP_ParenchymaSubtypeTrainingLabelling is outdated, probably redundant. 
 - CIP_BodyComposition is needed, but probably much better realized with AI segmentation 
 
-01/11/22: 12pm Meeting with Raul, Andras, Steve
+01/11/22: 12pm Meeting with Raul, Andras, Steve and Rudolf (Discord Red Slice)
 
 - Incompabilities between 4.13 and CIP seem to be caused by CIPLibrary 
 - CIP, it's CLI functions and their history were demonstrated by @Raul
