@@ -19,20 +19,25 @@ In this project, we will work on releasing the code of a diffusion MRI registrat
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Code cleaning.
-1. Release code at: https://github.com/SlicerDMRI/DDMReg
-1. Documentation and Example testing data
+1. Release code.
+1. Documentation and example testing data.
+
+![ddmreg_prediction](https://user-images.githubusercontent.com/7855446/150069553-86a8a899-a8d6-47a6-8609-949b895dfd60.png)
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Coding
+1. Code released at: https://github.com/SlicerDMRI/DDMReg.git
+2. Pre-trained models are provided
+3. Exampe data and documentation are provided
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. ... <!--How to intergate into SlicerDMRI so users can use via Slicer interface.  -->
+1. Code released as a standard python package.
+2. Intergate into SlicerDMRI so that users can use via Slicer interface.
 
 # Illustrations
 
@@ -50,3 +55,4 @@ In this project, we will work on releasing the code of a diffusion MRI registrat
 [Zhang, Fan, William M. Wells, and Lauren J. O'Donnell. "Deep Diffusion MRI Registration (DDMReg): A Deep Learning Method for Diffusion MRI Registration." IEEE TMI (2022).](https://ieeexplore.ieee.org/document/9665765)
 
 In this paper, we present a deep learning method, DDMReg, for accurate registration between diffusion MRI (dMRI) datasets. In dMRI registration, the goal is to spatially align brain anatomical structures while ensuring that local fiber orientations remain consistent with the underlying white matter fiber tract anatomy. DDMReg is a novel method that uses joint whole-brain and tract-specific information for dMRI registration. Based on the successful VoxelMorph framework for image registration, we propose a novel registration architecture that leverages not only whole brain information but also tract-specific fiber orientation information. DDMReg is an unsupervised method for deformable registration between pairs of dMRI datasets: it does not require nonlinearly pre-registered training data or the corresponding deformation fields as ground truth. We perform comparisons with four state-of-the-art registration methods on multiple independently acquired datasets from different populations (including teenagers, young and elderly adults) and different imaging protocols and scanners. We evaluate the registration performance by assessing the ability to align anatomically corresponding brain structures and ensure fiber spatial agreement between different subjects after registration. Experimental results show that DDMReg obtains significantly improved registration performance compared to the state-of-the-art methods. Importantly, we demonstrate successful generalization of DDMReg to dMRI data from different populations with varying ages and acquired using different acquisition protocols and different scanners.
+
