@@ -32,6 +32,11 @@ The goal of this project is to enable the development of advanced 3D rendering t
 
 ## Progress and Next Steps
 
+### Adaption code to new Markup interface
+1. Identified documentation on changes here:
+  * [Migration guide](https://www.slicer.org/wiki/Documentation/Nightly/Developers/Tutorials/MigrationGuide#Markups)
+  * [Infrastructure changes](https://www.slicer.org/wiki/Documentation/Labs/Improving_Markups)
+
 ### Generalizing vtkShaderProperties
 1. Move the management of vtkShaderProperty object from vtkMRMLVolumeRenderingDisplayNode to base class vtkMRMLDisplayNode
 2. TODO: Find out if the base class of displayable manager able to take over the assignment vtkShaderProperty to view actors to replace the work of vtkMRMLVolumeRenderingDisplayableManager?
