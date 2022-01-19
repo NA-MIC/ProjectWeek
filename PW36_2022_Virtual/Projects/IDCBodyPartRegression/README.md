@@ -54,6 +54,11 @@ We plan to leverage the strengths of Imaging Data Commons by using it to obtain 
 This is a comparison of the body part examined tag distrubtion from the original DICOM files vs the tag predicted by Body Part Regression. 
 ![Body part examined tag distributions](pie_charts_initial.png)
 
+We can browse our DICOM data stores and use OHIF to show a comparison of the original lung segmentation along with the predicted cropped volume as a bounding box. We can see that the bounding box captures the lung, demonstrating the usefulness of this method for pre or post-processing for segmentation algorithms. 
+![Original lung segmentation vs the predicted cropped volume]([https://user-images.githubusercontent.com/59979551/150202991-53f03ba5-6039-4a72-b0a7-60c1debe96a6.mp4)
+
+
+
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
