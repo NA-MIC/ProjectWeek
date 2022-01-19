@@ -55,7 +55,7 @@ This is a comparison of the body part examined tag distrubtion from the original
 ![Body part examined tag distributions](pie_charts_initial.png)
 
 We can browse our DICOM data stores and use OHIF to show a comparison of the original lung segmentation along with the predicted cropped volume as a bounding box. We can see that the bounding box captures the lung, demonstrating the usefulness of this method for pre or post-processing for segmentation algorithms. 
-![Original lung segmentation vs the predicted cropped volume]([https://user-images.githubusercontent.com/59979551/150202991-53f03ba5-6039-4a72-b0a7-60c1debe96a6.mp4)
+https://user-images.githubusercontent.com/59979551/150203897-b407347e-88a2-4634-b0e8-b67e899049e9.mp4
 
 
 
