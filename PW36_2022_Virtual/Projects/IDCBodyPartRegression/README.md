@@ -57,7 +57,8 @@ This is a comparison of the body part examined tag distrubtion from the original
 We can browse our DICOM data stores and use OHIF to show a comparison of the original lung segmentation along with the predicted cropped volume as a bounding box. We can see that the bounding box captures the lung, demonstrating the usefulness of this method for pre or post-processing for segmentation algorithms. 
 https://user-images.githubusercontent.com/59979551/150203897-b407347e-88a2-4634-b0e8-b67e899049e9.mp4
 
-
+Using the same viewer as above, we can also observe the predicted body part examined regions. The coronal view shows that each axial slice may include multiple predicted regions, for instance Abdomen and Chest. 
+![Body part examined predicted regions](body_part_examined_regions_screenshot.JPG)
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
