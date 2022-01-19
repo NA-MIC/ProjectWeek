@@ -69,12 +69,12 @@ Core:
 - [ ] WIP Verify that npm packages fetched by CLI are _actually_ conforming to extensions/modes so we don't just cross our fingers.
 - [ ] Error handling for extension conflicts.
 - [ ] Error handling for missing extensions.
-
-Gallery:
-- [ ] Create "whitelist" for extensions.
-- [ ] Parse information from npm repo for whitelisted extensions to populate ohif-modes gallery page.
 - [ ] Type mode and extension schema and make these types publically available somewhere.
 - [ ] Add the type contracts to the templates produced by ohif-cli create-extension and ohif-cli create-mode.
+
+Gallery:
+- [x] Create "whitelist" for extensions.
+- [x] Parse information from npm repo for whitelisted extensions to populate ohif-modes gallery page.
 
 
 # Illustrations
