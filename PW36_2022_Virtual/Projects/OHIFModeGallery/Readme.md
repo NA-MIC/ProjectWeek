@@ -52,6 +52,7 @@ Core:
 - [x] Basic working add-extension, remove-extension commands.
 - [x] Basic list command.
 - [x] Test CLI tools with actual extensions.
+- [ ] WIP Documentation in the docs
 
 Gallery
 - [ ] WIP Example mode and extension + publish to NPM.
