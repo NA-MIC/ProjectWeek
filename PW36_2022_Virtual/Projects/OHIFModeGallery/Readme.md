@@ -50,12 +50,12 @@ Core:
 - [x] Basic working create-extension command.
 - [x] Basic working add-mode, remove-mode commands.
 - [x] Basic working add-extension, remove-extension commands.
-- [ ] Basic list command.
-- [ ] WIP Test CLI tools with actual extensions.
+- [x] Basic list command.
+- [x] Test CLI tools with actual extensions.
 
 Gallery
 - [ ] WIP Example mode and extension + publish to NPM.
-- [ ] Create mode galery page which consumes markdown files to generate a page with a title, description, dependencies, images and copyable install commands.
+- [ ] WIP Create mode galery page which consumes markdown files to generate a page with a title, description, dependencies, images and copyable install commands.
 
 
 ### Stretch Goals
@@ -63,10 +63,10 @@ Gallery
 Stretch Goals
 
 Core:
-- [ ] Installing a mode installs required extensions (not versioned).
-- [ ] Augment mode schema to optionally specify semantic versionion for required ohif-extensions.
-- [ ] Automatically download extensions of correct version when installing modes.
-- [ ] Verify that npm packages fetched by CLI are _actually_ conforming to extensions/modes so we don't just cross our fingers.
+- [x] Installing a mode installs required extensions (not versioned).
+- [ ] Augment mode schema to optionally specify semantic version for required ohif-extensions.
+- [x] Automatically download extensions of correct version when installing modes.
+- [ ] WIP Verify that npm packages fetched by CLI are _actually_ conforming to extensions/modes so we don't just cross our fingers.
 - [ ] Error handling for extension conflicts.
 - [ ] Error handling for missing extensions.
 
