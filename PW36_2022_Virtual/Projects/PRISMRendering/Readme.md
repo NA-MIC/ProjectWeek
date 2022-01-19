@@ -17,18 +17,30 @@ The goal of this project is to enable the development of advanced 3D rendering t
 
 1. Facilitate the development and debugging of GPU shaders for Slicer
 2. Extend the principles introduced in the PRISM module to surface rendering and other types of rendering
-4. Integrate GPU filters with volume rendering in such a way that filtered volumes do not have to be transfered back to CPU memory before rendering 
+4. Integrate GPU filters in Slicer and connect them with volume rendering in such a way that filtered volumes do not have to be transfered back to CPU memory before rendering. See work by Kyle Sunderland on VTK GPU image filters (branch [here](https://github.com/Sunderlandkyl/VTK/commits/vtkGPUImageFilter3)).
 5. Explore custom rendering to simplify integration with the vtk render process.  Prior work includes:
   * Python scripted Actor/Mappers: https://www.slicer.org/wiki/Slicer3:Python:ScriptedActor
   * SimpleMapper: https://github.com/IbisNeuronav/Ibis/tree/master/IbisVTK/vtkExtensions
 
 ## PW36 Objective
 
-1. Enable opening shaders with tags in a text editor while running Slicer (Previous efforts by Simon Drouin were made to facilitate shader debugging. Code is available in [this branch](https://gitlab.kitware.com/drouin-simon/vtk/-/tree/volume-shader-readability).
-1. Move vtkShaderProperties to the vtkMRMLDisplayNode level to allow usage with surface shaders too.
-1. Integrate work by Kyle Sunderland on VTK GPU image filters (see branch [here](https://github.com/Sunderlandkyl/VTK/commits/vtkGPUImageFilter3)) so that the filters are usable in Slicer
+1. Adapt the PRISMRendering module to the new Markup interface in Slicer 5.
+2. Enable opening shaders with tags in a text editor while running Slicer
+  * Previous efforts by Simon Drouin were made to facilitate shader debugging by leaving tags in the shader code. Code is available in [this branch](https://gitlab.kitware.com/drouin-simon/vtk/-/tree/volume-shader-readability).
+  * In vtkShaderProgram class, debug functionality is available by setting the string variable FileNamePrefixForDebugging, which loads a shader from a file before rendering or dumps the shader to a file if doesn't already exists. However, this functionality is private. Mappers should have public functions to enable this debugging mechanism.
+4. Generalize the mechanism that allows the VolumeRendering module to store vtkShaderProperties in the display node to obtain the same behavior with the Models module.
 
 ## Progress and Next Steps
+
+### Generalizing vtkShaderProperties
+1. Move the management of vtkShaderProperty object from vtkMRMLVolumeRenderingDisplayNode to base class vtkMRMLDisplayNode
+2. TODO: Find out if the base class of displayable manager able to take over the assignment vtkShaderProperty to view actors to replace the work of vtkMRMLVolumeRenderingDisplayableManager?
+
+### Future of Slicer advanced rendering
+A discussion between Steve Piper, Rafael Palomar, Simon Drouin and Andrey Titov has allowed to identify a few requirements for the future of rendering in VTK and Slicer:
+1. GPU preprocessing pipelines are available for volumes, geometry and textures.
+2. An arbitrary number of textures, scalar and vector fields can easily be fed into mappers and easily accessed in shaders.
+3. An arbitrary number of transfer functions can be fed into mappers and easily accessed in shaders.
 
 # Illustrations
 
