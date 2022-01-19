@@ -75,6 +75,7 @@ Core:
 Gallery:
 - [x] Create "whitelist" for extensions.
 - [x] Parse information from npm repo for whitelisted extensions to populate ohif-modes gallery page.
+- [ ] Watch Github for ohif-cli and ohif-mode keywords and notify OHIF team
 
 
 # Illustrations
