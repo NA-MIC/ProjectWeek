@@ -58,3 +58,5 @@ Screenshot showing server/client:
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+* [GitHub repository](https://github.com/EBATINCA/SlicerCollaboration)
