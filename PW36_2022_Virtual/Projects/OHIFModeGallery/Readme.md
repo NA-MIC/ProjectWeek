@@ -55,7 +55,7 @@ Core:
 
 Gallery
 - [ ] WIP Example mode and extension + publish to NPM.
-- [ ] WIP Create mode galery page which consumes markdown files to generate a page with a title, description, dependencies, images and copyable install commands.
+- [x] Create mode galery page which consumes markdown files to generate a page with a title, description, dependencies, images and copyable install commands.
 
 
 ### Stretch Goals
