@@ -25,7 +25,7 @@ Update and polish the module's interface to improve its usability for clinical u
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Have a good understanding of the Echo Volume Render's parameters
-1. Get input from users on what could be improved (Children's Hospital of Philadelphia (CHOP)
+1. Get input from users on what could be improved (Children's Hospital of Philadelphia (CHOP))
 1. Compare the module with commercial platforms to see which 3DE parameters are familiar to clinicians
 1. Determine the modifications to be made to improve the interface 
 1. Implement these modifications in the UI
