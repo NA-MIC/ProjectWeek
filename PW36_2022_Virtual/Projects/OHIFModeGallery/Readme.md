@@ -81,6 +81,31 @@ Gallery:
 
 # Illustrations
 
+CLI illustrations
+
+1) `create-mode` command to create a new template to write modes
+
+<img src="https://user-images.githubusercontent.com/7490180/150410383-ae7ee1f6-6c05-4789-ae1e-1d1b1370dcc7.png" alt="drawing" style="width:500px;"/>
+
+It generates the template files for you to write your own mode
+
+![image](https://user-images.githubusercontent.com/7490180/150410470-987847ce-0316-45d4-865d-27c03be3422f.png)
+
+2) `create-extension` command to create a new template to write extensions.
+
+<img src="https://user-images.githubusercontent.com/7490180/150410874-f7e41153-4b4c-48ec-99e8-059d1c23ce8c.png" alt="drawing" style="width:500px;"/>
+
+It also generates template for an extension
+
+![image](https://user-images.githubusercontent.com/7490180/150410992-9738437d-1222-4b64-a33f-860a150cbec8.png)
+
+
+
+
+
+
+
+
 We intend to showcase all modes (and hopefully extensions) that are developed for OHIF in the OHIF website.
 
 ![image](https://user-images.githubusercontent.com/7490180/149446827-ece3aa65-32a5-439d-803b-0492ad964a42.png)
