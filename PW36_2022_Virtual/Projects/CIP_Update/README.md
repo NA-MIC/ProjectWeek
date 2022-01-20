@@ -107,33 +107,22 @@ A github search revealed that "Editor" calls are being made from three of the ab
 - Andras promised to look into CLI modules and letting them use segmentations instead of labelmaps as an input maybe automatically  
 - next meeting will be Thursday 11 am Red Slice
 
+01/20/22: 11am-12:30pm Meeting with Raul, Andras, Rudolf (Discord Red Slice)
+
+- another great follow up meeting
+- CIP Calibrate module of CIP has been finalized together with @lassoan
+- this module will as a skeleton to adopt the other CIP modules
+- CIP Parenchyma Analysis now fully functional in Slicer 5
+- 
+- we developed a strategy on how to publish working CIP modules to the community
+- non-working modules will be excluded from CMake to provide only working modules
+-    
+
 # Illustrations
 
 
 Body Composition module:
-
-![image](https://user-images.githubusercontent.com/18140094/148948731-bdb76667-9380-4f0c-b98a-7eaf27aa942b.png)
-
-
-
-Calibration module:
-
-![image](https://user-images.githubusercontent.com/18140094/148948945-9c7d710c-add3-46ba-b774-4bcf35a05f51.png)
-
-
-
-Parenchyma Subtype Training:
-
-![image](https://user-images.githubusercontent.com/18140094/148949201-7de68dd3-9794-4f79-b323-d2ed02b4db12.png)
-
-
-
-Parenchyma Subtype Training Labelling:
-
-![image](https://user-images.githubusercontent.com/18140094/148949387-28de3db1-1323-44a8-8d01-c298a20661f1.png)
-
-
-
+![image](https://user-images.githubusercontent.com/18140094/150400506-d357ac15-55ef-4f28-a0f6-00cd511b8183.png)
 
 
 # Background and References
