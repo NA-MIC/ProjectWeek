@@ -110,13 +110,16 @@ A github search revealed that "Editor" calls are being made from three of the ab
 01/20/22: 11am-12:30pm Meeting with Raul, Andras, Rudolf (Discord Red Slice)
 
 - another great follow up meeting
-- CIP Calibrate module of CIP has been finalized together with @lassoan
-- this module will as a skeleton to adopt the other CIP modules
-- CIP Parenchyma Analysis now fully functional in Slicer 5
-- 
-- we developed a strategy on how to publish working CIP modules to the community
-- non-working modules will be excluded from CMake to provide only working modules
--    
+- CIP Calibrate module of CIP has been finalized together with @lassoan and was demonstrated by @rbumm
+- will serve  as a skeleton to adopt the other CIP modules
+- is now fully functional in Slicer 5
+- The "Calibration" widget uses a newly created segmentation for each volume instead of labelmaps
+- the segmentation can be edited in the embedded Segment Editor
+- before pressing "Calibrate" the segmentation is converted to a labelmap for the actual calibration in the logic()  
+- we developed a strategy on how to transform the other CIP modules to Slicer 5
+- non-working modules will be excluded from CMake to provide only those functional to the community
+- @Raul demonstrated new vessel segmentation techniques and answered many questions
+- @Raul agreed on giving @lassoan write access to the SlicerCIP GitHub repository 
 
 # Illustrations
 
