@@ -35,9 +35,21 @@ In general, the SlicerPipelines extension is meant to help improve efficiency wh
 1. Update [existing wrapper generator for CLI modules](https://github.com/Connor-Bowley/SlicerPipelines/blob/0db7dcb8bf05e14307a2ee7dfdcb009eb0a6c1b0/PipelineModules/PipelineModulesLib/CLIModuleWrapping.py) to be able to be used for more CLIs. Currently implementation is limited in types it supports.
 1. Add ability to load newly created pipeline module when it is created, and add it to the additional module paths
 
-<!-- ## Progress and Next Steps -->
+## Progress
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+
+1. Added new pipelines
+   1. Export Segmentation to Model
+   2. Export LabelMap to Scalar Volume
+   3. Export Scalar Volume to LabelMap
+   4. Export LabelMap to Segmentation
+2. Added ability to load new created pipeline module on creation and add it to the additional module paths (similar to ExtensionWizard)
+3. Update select module pop up to default the next input type to the last output type
+
+## Next Steps
+1. Pipeline for Surface Wrap Solidify segment editor effect
+2. Add to extension manager
 
 <!-- # Illustrations -->
 
