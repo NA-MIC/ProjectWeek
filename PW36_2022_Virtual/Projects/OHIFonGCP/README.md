@@ -6,6 +6,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Andrey Fedorov (BWH)
 - Igor Octaviano (Radical)
+- Deepa Krishnaswamy (BWH)
+- Bill Longabaugh (Institute for Systems Biology)
 - Steve Pieper (Isomics)
 
 
@@ -32,11 +34,13 @@ This project aims to document the instructions of deploying [OHIF Viewer](https:
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+Tutorial for the most part is completed, and (almost!) ready for testing - see [here](https://docs.google.com/document/d/1v4Syu_yOV6yH--QBLGzsL9fJ7-XyD1CnQu4iTIoPVD8/edit?usp=sharing) the google doc, which links to 2 colab notebooks that are intended to allow you to deploy the viewer without having to install any of the dev tools on your computer, and populate a cloud-based DICOM store.
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+Unfortunately, there are outstanding issues:
+* Deepa encountered an error described in [this thread](https://discourse.canceridc.dev/t/google-cloud-deployment-of-the-ohif-viewer/246/2) - Andrey cannot explain this
+* Andrey ran into a permissions issues while populating a DICOM store in [this notebook](https://colab.research.google.com/drive/1KwvAuBmTRKyt8PrYKUE5nDTZcwkWEEdc?usp=sharing) - amazingly, this also has not been explained yet, even with all the experience Bill L put into this
+* on the second attempt to complete, Deepa ran into "Error 500: Internal error" deploying with Firebase
+
 
 # Illustrations
 
