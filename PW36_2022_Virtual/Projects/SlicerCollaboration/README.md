@@ -38,8 +38,8 @@ Slicer module (packaged in an extension) for connecting two or more running Slic
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
+1. Demo and discussion about the extension and features, talk about use cases
+1. SlicerOpenIGTLink contribution integrated, see [commit](https://github.com/openigtlink/SlicerOpenIGTLink/commit/a28d381af4542063f60e885c0505e45fbd5e9006)
 1. ...
 
 # Illustrations
