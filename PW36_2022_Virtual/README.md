@@ -99,7 +99,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ### Infrastructure
 1. [Slicer 5 Release](Projects/Slicer5/README.md) (Sam Horvath, Jean-Christophe Fillion-Robin, Steve Pieper, Andras Lasso)
 1. [SlicerPipelines](Projects/SlicerPipelines/README.md) (Connor Bowley, Sam Horvath)
-1. [Slicer Internationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso, Mamadou Camara,  Jean-Christophe Fillion-Robin, Ibrahima Fall, Samba Diaw, Attila Nagy) 
+1. [Slicer Internationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso, Mamadou Camara, Jean-Christophe Fillion-Robin, Ibrahima Fall, Samba Diaw, Aissa Mboup, Attila Nagy, Adriana Vilchis Gonzalez, Theodore Aptekarev, Pedro Moreira) 
 1. [Update the Chest Imaging Platform extension to support Slicer 5](Projects/CIP_Update/README.md) (Rudolf Bumm, Raul San Jose Estepar, Andras Lasso, Steve Pieper)
 1. [Batch Anonymization](Projects/DSCIAnonymize/README.md)(Hina Shah, Juan Carlos Prieto, Fryderyk Kögl)
 
