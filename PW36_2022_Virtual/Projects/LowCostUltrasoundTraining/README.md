@@ -61,8 +61,8 @@ Currently, we have already integrated some basic features:
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. We have identified that for training applications in 3D Slicer, it would be very useful to be able to ask questions to the users and ensure that the concepts are clear.Therefore, we have decided to develop a new extension to enable the creation and visualization of multiple choice questions in 3D Slicer. The idea would be to create questions banks which are saved in CSV files and then enable the visualization of the selected questions by custom Qt widgets. We propose to call this extension "SlicerEducation".
-2. We will develop a 3D Slicer module to facilitate the calibration of tracked ultrasound probes. This modules allows users to use two different methods for calibration: (1) a [stylus-based method](https://onedrive.live.com/view.aspx?resid=7230D4DEC6058018!3712&ithint=file%2cpptx&authkey=!ACNGX3PqH0BLg74), where the stylus tip position is recorded in the US image and a point-based registration is then performed, or (2) a [line-based method](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6952243/), where a tracked needle (or stylus) can be moved across the US plane recording point along the needle and a line-to-point registration is performed.
+1. We have identified that for training applications in 3D Slicer, it would be very useful to be able to ask questions to the users and ensure that the concepts are clear.Therefore, we have decided to develop a new extension to enable the creation and visualization of multiple choice questions in 3D Slicer. The idea would be to create questions banks which are saved in CSV files and then enable the visualization of the selected questions by custom Qt widgets. We propose to call this extension **"SlicerEducation"**.
+2. We have started the development of a 3D Slicer module to facilitate the calibration of tracked ultrasound probes. This modules allows users to use two different methods for calibration: (1) a [stylus-based method](https://onedrive.live.com/view.aspx?resid=7230D4DEC6058018!3712&ithint=file%2cpptx&authkey=!ACNGX3PqH0BLg74), where the stylus tip position is recorded in the US image and a point-based registration is then performed, or (2) a [line-based method](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6952243/), where a tracked needle (or stylus) can be moved across the US plane recording point along the needle and a line-to-point registration is performed.
 3. 
 4. 
 
@@ -79,6 +79,8 @@ Currently, we have already integrated some basic features:
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
-- [TrainUs GitHub](https://github.com/EBATINCA/TrainUS)
+- GitHub repository: [TrainUs app](https://github.com/EBATINCA/TrainUS)
 
 - Google doc: [here](https://docs.google.com/document/d/1ettQu9WYvy-Dlz7vt42-5Hm7xJOltJJQ69PJZ_WBffg/edit?usp=sharing)
+
+- Tracked US probe calibration methods: [stylus-based method](https://onedrive.live.com/view.aspx?resid=7230D4DEC6058018!3712&ithint=file%2cpptx&authkey=!ACNGX3PqH0BLg74) & [line-based method](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6952243/)
