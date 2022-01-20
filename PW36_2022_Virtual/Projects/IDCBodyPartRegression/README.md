@@ -78,4 +78,4 @@ Schuhegger S. Body Part Regression for CT Images. arXiv preprint arXiv:2110.0914
 
 Github link to code from thesis: https://github.com/mic-dkfz/bodypartregression 
 
-![Link to the colab notebook](https://colab.research.google.com/drive/1Udqz74i2I6W69t0G3aiJ-5UmlK0f6xxG?usp=sharing)
+[Link to the colab notebook](https://colab.research.google.com/drive/1Udqz74i2I6W69t0G3aiJ-5UmlK0f6xxG?usp=sharing)
