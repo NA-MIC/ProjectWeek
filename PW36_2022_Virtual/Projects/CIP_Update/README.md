@@ -113,7 +113,7 @@ A github search revealed that "Editor" calls are being made from three of the ab
 
 - another great follow up meeting
 - CIP Calibrate module of CIP has been finalized together with @lassoan and was demonstrated by @rbumm
--  see this [SlicerCIP GitHub fork](https://github.com/rbumm/SlicerCIP/tree/Branch_CIPCompatSlicer5)
+-  see this [SlicerCIP GitHub fork](https://github.com/rbumm/SlicerCIP/tree/Branch_CIPCompatSlicer5) and [this commit](https://github.com/rbumm/SlicerCIP/commit/86c8173639a2ecc3c08993fa311625bec51378c9) 
 - will serve  as a skeleton to adopt the other CIP modules
 - is now fully functional in Slicer 5
 - The "Calibration" widget uses a newly created segmentation for each volume instead of labelmaps
