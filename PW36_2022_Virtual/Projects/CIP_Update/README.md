@@ -107,6 +107,8 @@ A github search revealed that "Editor" calls are being made from three of the ab
 - Andras promised to look into CLI modules and letting them use segmentations instead of labelmaps as an input maybe automatically  
 - next meeting will be Thursday 11 am Red Slice
 
+# Final presentation start here
+
 01/20/22: 11am-12:30pm Meeting with Raul, Andras, Rudolf (Discord Red Slice)
 
 - another great follow up meeting
