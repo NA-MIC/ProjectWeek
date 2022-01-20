@@ -38,9 +38,27 @@ Slicer module (packaged in an extension) for connecting two or more running Slic
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Demo and discussion about the extension and features, talk about use cases
-1. SlicerOpenIGTLink contribution integrated, see [commit](https://github.com/openigtlink/SlicerOpenIGTLink/commit/a28d381af4542063f60e885c0505e45fbd5e9006)
-1. ...
+1. Demo and discussion about the extension and features, talk about use cases :heavy_check_mark:
+1. SlicerOpenIGTLink contribution integrated, see [commit](https://github.com/openigtlink/SlicerOpenIGTLink/commit/a28d381af4542063f60e885c0505e45fbd5e9006) :heavy_check_mark:
+1. List of currently used node types in Slicer.
+    1. Supported by OpenIGTLink:
+        - Models
+        - Linear Transforms
+        - Text
+        - Volumes
+        - Fiducial Markups
+     1. Not supported by OpenIGTLink, but supported by SlicerCollaboration:
+        - Display nodes
+        - Remaining Markups
+        - Information about the transforms observed by each node
+     1. To be supported by SlicerCollaboration:
+        - Segmentations
+        - Subject hierarchy information
+
+1. Discussion about how to solve remote connections through OpenIGTLink with Slicer running in a computer with no externally visible fixed IP. Suggested solutions:
+    1. Setup port forwarding on your router. This way you can call this address from outside and the router automatically redirects traffic to the specified computer on the local network. Downsides: the setup needs to be redone every time your router allocates a new local ip to your computer. It is usually not possible to setup like that in the office unless you have control of the network node going out.
+    2. See if there's a way to make a SlicerSharing app for one of the services that already does real time sharing. Teams and Zoom both have hooks for apps.
+    3. VNC connect, TeamViewer, etc. use a rendezvous server that allows clients and servers to find each other and connect directly.
 
 # Illustrations
 
