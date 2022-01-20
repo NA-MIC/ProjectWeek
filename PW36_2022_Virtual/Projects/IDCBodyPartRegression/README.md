@@ -10,9 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-One issue in using deep learning for segmentation of anatomical regions is the ability to obtain datasets that focus on the area of interest. For instance, some DL algorithms may require preprocessing of datasets (cropping volumes before training the algorithm) or postprocessing of the segmentation label output by the removal of false positives. An example from the thesis below is shown: 
-
-![Region cropping](thesis_cropped_lung.JPG)
+One issue in using deep learning for segmentation of anatomical regions is the ability to obtain datasets that focus on the area of interest. For instance, some DL algorithms may require preprocessing of datasets (cropping volumes before training the algorithm) or postprocessing of the segmentation label output by the removal of false positives. 
 
 Within DICOM data, the body part examined tag may provide some information as to the region captured. Unfortunately, it may be list the incorrect region, or be blank because of removal during the anonymization process. Therefore this tag cannot always be relied upon. 
 
@@ -45,19 +43,26 @@ We plan to leverage the strengths of Imaging Data Commons by using it to obtain 
 1. We have obtained a small, but varied, CT dataset. 
 1. We have used the trained model from the author to test the regression network on a sample of data. 
 1. We have created our own SEG DICOM files that hold for each patient the "ground truth" anatomical region versus the cropped region produced by BPR. 
-1. We have created our own SEG DICOM files that holds the predicted body part examined regions (see figure below for the distribution).  
-1. We need to populate DICOM data stores and use the OHIF viewer to interact with them. 
+1. We have created our own SEG DICOM files that holds the predicted body part examined regions.  
+1. We have populated DICOM data stores and used the OHIF viewer to interact with them. 
 1. It would be beneficial to test on a larger dataset. 
 
 # Illustrations
 
-This is a comparison of the body part examined tag distrubtion from the original DICOM files vs the tag predicted by Body Part Regression. 
+We can browse our DICOM data stores and use OHIF (thanks to this [project!](https://projectweek.na-mic.org/PW36_2022_Virtual/Projects/OHIFonGCP/)) to show a comparison of the original lung segmentation along with the predicted cropped volume as a bounding box. We can see that the bounding box captures the lung, demonstrating the usefulness of this method for pre or post-processing for segmentation algorithms. 
+
+![LCTSC-Train-S3-010_anatomy_vs_cropped_volume](https://user-images.githubusercontent.com/59979551/150238766-e2d24776-9fa3-4cdc-8801-dd0fbdcf48d6.gif)
+
+We can also compare the body part examined tag distrubtion from the original DICOM files vs the tag predicted by Body Part Regression. In this particular dataset we included patients with kidney and lung segmentations, and by observing these tags, we can see that areas outside of these regions were included in the CT scans. 
+
 ![Body part examined tag distributions](pie_charts_initial.png)
 
-We can browse our DICOM data stores and use OHIF to show a comparison of the original lung segmentation along with the predicted cropped volume as a bounding box. We can see that the bounding box captures the lung, demonstrating the usefulness of this method for pre or post-processing for segmentation algorithms. 
-https://user-images.githubusercontent.com/59979551/150203897-b407347e-88a2-4634-b0e8-b67e899049e9.mp4
+Using the same viewer as above, we can also observe the predicted body part examined regions. For this particular example, the body part examined was LUNG, but it can be seen that the predicted regions include ABDOMEN-CHEST-NECK-HEAD. If we scroll in the axial direction, we can see some slices that have two colors - this indicates that the slice was classified as having both regions, for instance both ABDOMEN and CHEST. 
 
-Using the same viewer as above, we can also observe the predicted body part examined regions. The sagittal view shows that each axial slice may include multiple predicted regions, for instance Abdomen and Chest. 
+![LCTSC-Train-S3-010_body_part_examined_regions](https://user-images.githubusercontent.com/59979551/150240139-0f01b20c-af63-4156-9579-632ce6b883ee.gif)
+
+We can look at MPR views to better view the predicted regions. We can see that by looking at the sagittal view, that each axial slice may include multiple predicted regions. We can see that including the regions ABDOMEN-CHEST-NECK-HEAD is more accurate than only LUNG. 
+
 ![Body part examined predicted regions](body_part_examined_regions_screenshot.JPG)
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
@@ -71,4 +76,4 @@ Using the same viewer as above, we can also observe the predicted body part exam
 
 Schuhegger S. Body Part Regression for CT Images. arXiv preprint arXiv:2110.09148. 2021 Oct 18. https://arxiv.org/abs/2110.09148?context=eess 
 
-Github link to code from thesis: https://github.com/mic-dkfz/bodypartregression \
+Github link to code from thesis: https://github.com/mic-dkfz/bodypartregression 
