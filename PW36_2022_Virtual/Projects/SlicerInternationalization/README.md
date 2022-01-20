@@ -2,7 +2,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Slicer Internationalization
 
-## Key Investigators
+## Key Investigators & Translators
 
 - Sonia Pujol (Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA) 
 - Steve Pieper (Isomics Inc., Cambridge, MA, USA) 
@@ -10,8 +10,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mamadou Camara (Université Cheikh Anta Diop, Dakar, Senegal)
 - Ibrahima Fall (Université Cheikh Anta Diop, Dakar, Senegal)
 - Samba Diaw (Université Cheikh Anta Diop, Dakar, Senegal)
+- Aissa Mboup (Université Cheikh Anta Diop, Dakar, Senegal)
 - Jean-Christophe Fillion-Robin (Kitware Inc., Chapel Hill, NC, USA)
 - Fryderyk Kögl (BWH, TUM)
+- Attila Nagy (University of Szeged, Department of Medical Physics and Informatics, Hungary)
+- Adriana Vilchis González (Universidad Autónoma del Estado de México, México)
+- Theodore Aptekarev (Slicer Community, Russia)
+- Pedro Moreira (Brigham and Women’s Hospital/Harvard Medical School, USA)
+
 
 # Project Description
 
@@ -27,12 +33,13 @@ To identify members of the Slicer community interested in contributing translati
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
+Daily translation hackathons with members of the Slicer community
 
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+
 
 
 # Illustrations
