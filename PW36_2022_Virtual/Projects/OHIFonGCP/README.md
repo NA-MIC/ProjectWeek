@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Igor Octaviano (Radical)
 - Deepa Krishnaswamy (BWH)
 - Bill Longabaugh (Institute for Systems Biology)
+- Khaled Younis (Philips)
 - Steve Pieper (Isomics)
 
 
