@@ -121,7 +121,9 @@ A github search revealed that "Editor" calls are being made from three of the ab
 # Illustrations
 
 
-Body Composition module:
+New Slicer 5 CIP "Calibration" module with embedded "SegmentEditor" instead of the old "Editor":
+
+
 ![image](https://user-images.githubusercontent.com/18140094/150400506-d357ac15-55ef-4f28-a0f6-00cd511b8183.png)
 
 
