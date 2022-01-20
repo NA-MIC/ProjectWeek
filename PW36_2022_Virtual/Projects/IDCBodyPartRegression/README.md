@@ -77,3 +77,5 @@ We can look at MPR views to better view the predicted regions. We can see that b
 Schuhegger S. Body Part Regression for CT Images. arXiv preprint arXiv:2110.09148. 2021 Oct 18. https://arxiv.org/abs/2110.09148?context=eess 
 
 Github link to code from thesis: https://github.com/mic-dkfz/bodypartregression 
+
+![Link to the colab notebook](https://colab.research.google.com/drive/1Udqz74i2I6W69t0G3aiJ-5UmlK0f6xxG?usp=sharing)
