@@ -38,7 +38,7 @@ Update and polish the module's interface to improve its usability for clinical u
 1. Discussion on previous versions of the module to understand the changes that have been made in the last 2 years
 1. Discussion with a collaborator from CHOP on aspects to be improved in the module
 1. Determined modifications that could potentially improve visualization of volume rendered 3DE : 
-    - Implement a [Phase Symmetry filter](https://pypi.org/project/itk-phasesymmetry/) to reduce noise in images while preserving anatomical detail prior to volume rendering
+    - Implement a [Phase Symmetry filter](https://pypi.org/project/itk-phasesymmetry/) to reduce noise in images while preserving anatomical details prior to volume rendering
     - Implement Gaussian filtering in the GPU
 
 # Illustrations
