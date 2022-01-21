@@ -38,17 +38,10 @@ Issues have already been assigned to community members, but please reach out if 
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
+- Updates made to Slicer to prepare for Python update
+- Update CMake and VS on Slicer factories
+- Reviewing and retargeting issues
+- Adding disclaimers to older wiki pages
 
-# Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
-
-
-
-
-# Background and References
-
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+Next steps:
+- Finalize python update
