@@ -54,16 +54,16 @@ Currently, we have already integrated some basic features:
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Bring together researchers interested in low-cost ultrasound training
-1. Establish multi-institutional collaboration towards improving ultrasound training in 3D Slicer
+1. Establish multi-institutional collaborations towards improving ultrasound training in 3D Slicer
 1. Define useful features for ultrasound training that can be added to 3D Slicer as extensions.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. We have identified that for training applications in 3D Slicer, it would be very useful to be able to ask questions to the users and ensure that the concepts are clear.Therefore, we have decided to develop a new extension to enable the creation and visualization of multiple choice questions in 3D Slicer. The idea would be to create questions banks which are saved in CSV files and then enable the visualization of the selected questions by custom Qt widgets. We propose to call this extension **"SlicerEducation"**.
-2. We have started the development of a 3D Slicer module to facilitate the calibration of tracked ultrasound probes. This modules allows users to use two different methods for calibration: (1) a [stylus-based method](https://onedrive.live.com/view.aspx?resid=7230D4DEC6058018!3712&ithint=file%2cpptx&authkey=!ACNGX3PqH0BLg74), where the stylus tip position is recorded in the US image and a point-based registration is then performed, or (2) a [line-based method](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6952243/), where a tracked needle (or stylus) can be moved across the US plane recording point along the needle and a line-to-point registration is performed.
-3. 
+1. We have identified that for training applications in 3D Slicer, it would be very useful to be able to ask questions to the users and ensure that the concepts are clear.Therefore, we have decided to develop a new extension to enable the creation and visualization of multiple choice questions in 3D Slicer. The idea would be to create questions banks which are saved in CSV files and then enable the visualization of the selected questions by custom Qt widgets. This extension will be called [**SlicerEducation**](https://github.com/EBATINCA/SlicerEducation).
+2. We have started the development of a 3D Slicer module to facilitate the calibration of tracked ultrasound probes. This modules allows users to use two different methods for calibration: (1) a [stylus-based method](https://onedrive.live.com/view.aspx?resid=7230D4DEC6058018!3712&ithint=file%2cpptx&authkey=!ACNGX3PqH0BLg74), where the stylus tip position is recorded in the US image and a point-based registration is then performed, or (2) a [line-based method](https://link.springer.com/article/10.1007/s11548-016-1390-7), where a tracked needle (or stylus) can be moved across the US plane recording point along the needle and a line-to-point registration is performed.
+3. We have discussed the possibility of developing a module to train echocardiography in 3D Slicer using US simulation and a [**heart atlas from Toronto General Hospital**](https://sketchfab.com/apil_tgh/collections/toronto-heart-atlas). Example of web app developed by APIL research group: [https://apil-slice.web.app/#](https://apil-slice.web.app/#)
 4. 
 
 3. ...
@@ -74,13 +74,32 @@ Currently, we have already integrated some basic features:
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+- Pop-up window with quiz:
+
+    <img src="https://user-images.githubusercontent.com/10816661/150457167-85b46fd2-e59e-411b-a23a-6a9475b45197.PNG" alt="drawing" width="650"/>
+
+    <img src="https://user-images.githubusercontent.com/10816661/150457041-96964903-cfaf-44aa-be0e-6a16b056818b.gif" alt="drawing" width="650"/>
+
+- Module for tracked US probe calibration:
+
+    <img src="https://user-images.githubusercontent.com/10816661/150455592-2d1ed13a-774b-471d-97eb-100462ef81fa.png" alt="drawing" width="650"/>
+    
+- Echocardiography simulator ([https://apil-slice.web.app/#](https://apil-slice.web.app/#)):
+
+    https://user-images.githubusercontent.com/10816661/150458053-8047c409-ba45-45d1-8688-e19b92b13e48.mp4
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
-- GitHub repository: [TrainUs app](https://github.com/EBATINCA/TrainUS)
+- **TrainUS** GitHub repository: [TrainUs app](https://github.com/EBATINCA/TrainUS)
+
+- **SlicerEducation** GitHub repository: [SlicerEducation](https://github.com/EBATINCA/SlicerEducation)
 
 - Google doc: [here](https://docs.google.com/document/d/1ettQu9WYvy-Dlz7vt42-5Hm7xJOltJJQ69PJZ_WBffg/edit?usp=sharing)
 
-- Tracked US probe calibration methods: [stylus-based method](https://onedrive.live.com/view.aspx?resid=7230D4DEC6058018!3712&ithint=file%2cpptx&authkey=!ACNGX3PqH0BLg74) & [line-based method](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6952243/)
+- Tracked US probe calibration methods: [stylus-based method](https://onedrive.live.com/view.aspx?resid=7230D4DEC6058018!3712&ithint=file%2cpptx&authkey=!ACNGX3PqH0BLg74) & [line-based method](https://link.springer.com/article/10.1007/s11548-016-1390-7)
+
+- Echocardiography simulator: [https://apil-slice.web.app/#](https://apil-slice.web.app/#)
+
+- Heart atlas from Toronto General Hospital: [here](https://sketchfab.com/apil_tgh/collections/toronto-heart-atlas)
