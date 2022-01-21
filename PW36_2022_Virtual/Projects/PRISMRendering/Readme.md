@@ -49,6 +49,12 @@ A discussion between Steve Piper, Rafael Palomar, Simon Drouin and Andrey Titov 
 
 # Illustrations
 
+Screenshot showing VR usage:
+![SlicerCollaboration screenshot VR](PRISM - Markups.PNG)
+
+Screenshot showing server/client:
+![SlicerCollaboration screenshot server/client](PRISM - Markups rotated.PNG)
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
