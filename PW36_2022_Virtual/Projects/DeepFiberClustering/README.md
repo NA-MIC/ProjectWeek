@@ -40,7 +40,6 @@ We propose an unsupervised deep learning framework for fast and effective white 
 
 1. Code released at: https://github.com/SlicerDMRI/DFC.
 2. Trained models and example testing data are provided.
-3. Intergate into SlicerDMRI so that users can use via Slicer interface.
 
 # Illustrations
 
@@ -54,5 +53,5 @@ We propose an unsupervised deep learning framework for fast and effective white 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-[Deep Fiber Clustering: Anatomically Informed Unsupervised Deep Learning for Fast and Effective White Matter Parcellation](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_47)
+Chen, Yuqian, Chaoyi Zhang, Yang Song, Nikos Makris, Yogesh Rathi, Weidong Cai, Fan Zhang, and Lauren J. O’Donnell. ["Deep Fiber Clustering: Anatomically Informed Unsupervised Deep Learning for Fast and Effective White Matter Parcellation."](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_47) International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2021.
 
