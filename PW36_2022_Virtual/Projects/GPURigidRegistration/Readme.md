@@ -38,12 +38,12 @@ The objective of the second project is to recover another functionality in the s
 
 ## Progress and Next Steps
 
-1. The GPU RegidRegistration Lib is available to be used by command line [here](https://github.com/IbisNeuronav/GPURigidRegistrationLib) ). (DONE)
+1. The GPU RegidRegistration Lib is available to be used by command line [here](https://github.com/IbisNeuronav/GPURigidRegistrationLib) . (DONE)
 2. Make modifications for Ibis neuro uses this library to avoid code duplication. (In progress)
 3. Implementation of the solution in slicer. (Next Step)
 
  The second project
-1. Extract the converter minc/mha (SequenceIO) code from IBIS Neuronav to an independent library (in progress) [here](https://github.com/rggelel/SequenceIo) )
+1. Extract the converter minc/mha (SequenceIO) code from IBIS Neuronav to an independent library (in progress) [here](https://github.com/rggelel/SequenceIo) 
 2. Make modifications for Ibis neuro uses this library to avoid code duplication. (Next step)
 3. Implementation of the solution in slicer. (Next Step)
 
