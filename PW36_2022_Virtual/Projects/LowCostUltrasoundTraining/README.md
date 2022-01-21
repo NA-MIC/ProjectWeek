@@ -62,11 +62,10 @@ Currently, we have already integrated some basic features:
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. We have identified that for training applications in 3D Slicer, it would be very useful to be able to ask questions to the users and ensure that the concepts are clear.Therefore, we have decided to develop a new extension to enable the creation and visualization of multiple choice questions in 3D Slicer. The idea would be to create questions banks which are saved in CSV files and then enable the visualization of the selected questions by custom Qt widgets. This extension will be called [**SlicerEducation**](https://github.com/EBATINCA/SlicerEducation).
-2. We have started the development of a 3D Slicer module to facilitate the calibration of tracked ultrasound probes. This modules allows users to use two different methods for calibration: (1) a [stylus-based method](https://onedrive.live.com/view.aspx?resid=7230D4DEC6058018!3712&ithint=file%2cpptx&authkey=!ACNGX3PqH0BLg74), where the stylus tip position is recorded in the US image and a point-based registration is then performed, or (2) a [line-based method](https://link.springer.com/article/10.1007/s11548-016-1390-7), where a tracked needle (or stylus) can be moved across the US plane recording point along the needle and a line-to-point registration is performed.
-3. We have discussed the possibility of developing a module to train echocardiography in 3D Slicer using US simulation and a [**heart atlas from Toronto General Hospital**](https://sketchfab.com/apil_tgh/collections/toronto-heart-atlas). Example of web app developed by APIL research group: [https://apil-slice.web.app/#](https://apil-slice.web.app/#)
-4. 
 
-3. ...
+2. We have started the development of a 3D Slicer module to facilitate the calibration of tracked ultrasound probes. This modules allows users to use two different methods for calibration: (1) a [stylus-based method](https://onedrive.live.com/view.aspx?resid=7230D4DEC6058018!3712&ithint=file%2cpptx&authkey=!ACNGX3PqH0BLg74), where the stylus tip position is recorded in the US image and a point-based registration is then performed, or (2) a [line-based method](https://link.springer.com/article/10.1007/s11548-016-1390-7), where a tracked needle (or stylus) can be moved across the US plane recording point along the needle and a line-to-point registration is performed.
+
+3. We have discussed the possibility of developing a module to train echocardiography in 3D Slicer using US simulation and a [**heart atlas from Toronto General Hospital**](https://sketchfab.com/apil_tgh/collections/toronto-heart-atlas). Example of web app developed by APIL research group: [https://apil-slice.web.app/#](https://apil-slice.web.app/#)
 
 # Illustrations
 
