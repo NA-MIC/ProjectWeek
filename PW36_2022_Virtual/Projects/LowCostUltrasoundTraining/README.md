@@ -88,7 +88,7 @@ Currently, we have already integrated some basic features:
     
 - Echocardiography simulator ([https://apil-slice.web.app/#](https://apil-slice.web.app/#)):
 
-    https://user-images.githubusercontent.com/10816661/150458053-8047c409-ba45-45d1-8688-e19b92b13e48.mp4
+https://user-images.githubusercontent.com/10816661/150527152-8cda5479-c3d9-428a-aa48-63d19cc23b24.mp4
 
 # Background and References
 
