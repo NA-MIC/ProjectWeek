@@ -26,17 +26,20 @@ In this project, we will include brain tissue segmentation maps into the existin
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. UI design for better usage of the seeding/stopping options 
+1. CLI help documention
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Coding part of the project is almost done.
+1. Push requst to the master branch of UKF: https://github.com/pnlbwh/ukftractography/pull/142
+1. Waiting for the final pull requst approval
+1. Decide default (suggested) settings for each option
+1. Testing on more datasets other than HCP data.
+
+<img width="1368" alt="UKF-comparison" src="https://user-images.githubusercontent.com/7855446/150441144-2d8ea3c3-cc40-494b-b00a-885b53613a9d.png">
 
 # Illustrations
 
@@ -56,5 +59,4 @@ Zhang, F., Breger, A., Cho, K. I. K., Ning, L., Westin, C. F., O’Donnell, L. J
 Reddy, C.P. and Rathi, Y., 2016. Joint Multi-Fiber NODDI Parameter Estimation and Tractography Using the Unscented Information Filter. Frontiers in Neuroscience, 10.
 
 Malcolm, J.G., Shenton, M.E. and Rathi, Y., 2010. Filtered multitensor tractography. IEEE transactions on medical imaging, 29(9), pp.1664-1675.
-
 

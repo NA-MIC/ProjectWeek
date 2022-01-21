@@ -1,30 +1,24 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Integration of ROS and 3D Slicer using OpenIGTLink
+# Integration of Flir Thermal Camera in Slicer in order to capture and process images
 
 ## Key Investigators
 
-- Junichi Tokuda (BWH)
-- Tamas Ungi (Queen's)
-- Simon Leonard (JHU)
-- Axel Krieger (JHU)
-- Mark Fuge (UMD)
-- Yiwei Jiang (WPI)
+- Juan Bautista Ruis Alzola (ULPGC - Universidad de Las Palmas de Gran Canaria)
+- Robabeh Salehiozoumchelouei (instituto astrofísico de canarias-IAC)
+- Mónica García Sevilla (ULPGC - Universidad de Las Palmas de Gran Canaria)
+- Yousef Rajaeitabrizi (instituto astrofísico de canarias-IAC)
 
 # Project Description
-
-We have been developing [ROS-IGTL-Bridge](https://rosmed.github.io), which is an interface for Robot Operating System (ROS) to exchange data with 3D Slicer.
-See [the project page](https://rosmed.github.io) for detail.
-
-![ROSMED](rosmed_ismr_2021_2.jpg)
+Integration of Flir Thermal Camera in Slicer in order to capture and process images
 
 ## Objective
 
-There are three goals for this project week:
+<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Refine the tutorial page, which was created for International Symposium on Medical Robotics (ISMR) 2021.
-2. Document the virtual platform (i.e., Docker) used in the tutorial.
-3. Ask for feedback from the 3D Slicer community
+1. Objective A. Learning Slicer
+1. Objective B. Integration of Flir Thermal Camera in Slicer
+1. Objective C. Capture and process the images
 
 ## Approach and Plan
 

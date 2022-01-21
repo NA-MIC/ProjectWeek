@@ -8,16 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
     Maxime Gillot 
     Lucia Cevidanes
     Juan Carlos Prieto
-    Najla Al Turkestani
-    Marcela Gurgel
-    Camila Massaro
-    Aron Aliaga
-    Maria Antonia Alvarez Castrillon
-    Marilia Yatabe
-    Jonas Bianchi
-    Juan Fernando Aristizabal
-    Diego Rey
-    Antonio Ruellas
+    
 
 
 # Project Description
@@ -65,3 +56,16 @@ Work to continue :
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+# Progress/Results
+I began a new method for my project (automatic landmark identification on digital dental model)
+The previous method was based on the movement of one agent in the 3D space to reach the perfect postion of the landmark on the tooth, 
+but this method was not really efficient and precise.
+We decided to work on an other method based on segmentation with PyTorch.
+The objective is to have different 2D views of the jaw in input of the model and in output the same model of the jaw with a segmentated area in the region of the landmark.
+With this segmentation we’ll be able to recover the coordinates of the points in this area and then the position of the landmark. 
+
+
+# Illustrations
+![Pasted Graphic](https://user-images.githubusercontent.com/83285614/150446964-7d2020b5-3850-42fd-bc29-334bea6d2770.jpeg)
+![Pasted Graphic 1](https://user-images.githubusercontent.com/83285614/150447011-cc7a8b5e-5032-40c6-9024-a9e123599ad4.jpeg)

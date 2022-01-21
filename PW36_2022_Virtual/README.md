@@ -15,7 +15,7 @@ If you have any questions, you can contact the [organizers](../README.md#who-to-
 * Initial **project presentations** will start at **10am on Zoom**, using [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09). Each team must delegate a member to present their projects in no more than 2 minutes using no other visual support than the project page on GitHub (we won’t have time to switch screen sharing)
 * If you don’t have a project, look at the PW36 page to find a project you might be interested in and contact team members through their Discord channel.
 * Breakout sessions start every day at **10am on Zoom** (link in the calendar below)
-* Work in **project teams** will happen throughout the week with communication between team members taking place on **Discord**.
+* Work in **project teams** will happen throughout the week with communication between team members taking place on **Discord**. If you want to schedule a meeting ahead you can "reserve" a meeting room in [this spreadsheet](https://docs.google.com/spreadsheets/d/1jrYSecdhg9XQ1Re_7yqOCYTMjX2mOe-GowAp3yfWS7g/edit?usp=sharing).
 * We will end the week with **project results presentation (10am on Friday)**. Again, each team will delegate one member to present their results in a maximum of 2 minutes. We will use the project page as a visual support for the presentation, so please make sure it is up to date with your latest results by Friday morning.
 
 <!--## Preparation meetings
@@ -59,14 +59,14 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
     
 ### VR/AR and Rendering    
 1. [Collaborative Slicer session](Projects/SlicerCollaboration/README.md) (Csaba Pinter, Mónica Garcia, Jean-Christophe Fillion-Robin)
-2. [AR in Slicer](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/AR%20in%20Slicer) (Alicia Pose Díez de la Lastra, Javier Pascau, Gabor Fichtinger, Andras Lasso, Adam Rankin, Csaba Pinter, Lucas Gandel, Jean-Christophe Fillion-Robin)
+2. [AR in Slicer](Projects/AR_in_Slicer/README.md) (Alicia Pose Díez de la Lastra, Javier Pascau, Gabor Fichtinger, Andras Lasso, Adam Rankin, Csaba Pinter, Lucas Gandel, Jean-Christophe Fillion-Robin)
 3. [Slicer TMS Module](Projects/SlicerTMS_Module/README.md) (Loraine Franke, Lipeng Ning, Yogesh Rathi, Steve Pieper, Raymond Yang, Daniel Haehn)
 4. [PRISM Rendering](Projects/PRISMRendering/Readme.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
 1. [Echo VolumeRender UI](Projects/EchoVolumeRenderUI/README.md) (Samuelle St-Onge, Simon Drouin, Andrey Titov)
     
 ### Image-guided therapy and low cost systems   
 1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia Mato, Csaba Pinter, Rebecca Hisey, Matt McCormick, Steve Pieper, ...)
-1. [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Ole V. Solberg, Geir Arne Tangen, Gabriella D'Albenzio, Ruoyan Meng)
+1. [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Ole V. Solberg, Geir Arne Tangen, Gabriella D'Albenzio, Javier Pérez de Frutos)
 1. [Visualization of catheter path based on an electromagnetic tracking with TMR sensors](Projects/TMRCatheterNavigation/README.md) (Wenran Cai, Kazuaki Hara, Rina Nagano, Junichi Tokuda
 1. [Integration of ROS and 3D Slicer using OpenIGTLink](Projects/ROS-MED/README.md) (Junichi Tokuda, Tamas Ungi, Simon Leonard, Axel Krieger, Mark Fuge)
 1. [GPU Rigid Registration for Neuronavigation (Montreal IBIS System)](Projects/GPURigidRegistration/Readme.md) (Gelel Rezig, Houssem Gueziri, Simon Drouin)
@@ -74,6 +74,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Skin Surface Extraction for NousNav Registration](Projects/SkinSegmentation/README.md) (Reuben Dorent, Tina Kapur, Sarah Frisken, Mohammad Jafari, Samantha Horvath, Jean-Christophe Fillion-Robin, Harneet Cheema, Fryderyk Kögl)
 1. [MR-US Landmarking for Neuronavigated surgery](Projects/AnnotationMR-US/Readme.md) (Fryderyk Kögl, Harneet Cheema, Tina Kapur, Simon Drouin)
 1. [Low-cost trackers](Projects/CheapTracking/README.md) (Steve Pieper, Gabor Fichtinger)
+1. [sliCERR](Projects/sliCERR/README.md) (Aditya Apte, Aditi Iyer, Eve LoCastro, Harini Veeraraghavan)
 
 ### Segmentation/Classification
 1. [Spine Segmentation](Projects/SpineSegmentation/README.md) (Ron Alkalay, Steve Pieper, ...)
@@ -84,7 +85,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 ### SlicerDMRI
 1. [Anatomically informed UKF tractography](Projects/UKF/README.md) (Fan Zhang, Yogesh Rathi, Lauren J O'Donnell)
-1. [Deep Diffusion MRI Registration (DDMReg): Code release via SlicerDMRI](Projects/DDMReg/README.md) (Fan Zhang, William M. Wells III, Lauren J O'Donnell)
+1. [Deep Diffusion MRI Registration (DDMReg)](Projects/DDMReg/README.md) (Fan Zhang, William M. Wells III, Lauren J O'Donnell)
 1. [SupWMA: consistent and efficient tractography parcellation of superficial white matter with deep learning](Projects/SupWMA/README.md) (Tengfei Xue, Fan Zhang, Chaoyi Zhang, Yuqian Chen, Yang Song, Nikos Makris, Yogesh Rathi, Weidong Cai, Lauren J. O’Donnell)
 1. [Deep Fiber Clustering: Anatomically Informed Unsupervised Deep Learning for Fast and Effective White Matter Parcellation](Projects/DeepFiberClustering/README.md) (Yuqian Chen, Chaoyi Zhang, Yang Song, Tengfei Xue, Nikos Makris, Yogesh Rathi, Weidong Cai, Fan Zhang, and Lauren J. O’Donnell)
 
@@ -93,11 +94,12 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 2. [OHIF Mode Gallery](Projects/OHIFModeGallery/Readme.md) (Alireza Sedghi, James Petts, Erik Ziegler)
 3. [Kaapana and XNAT exploration on Google Cloud](Projects/KaapanaXNATExploration/README.md) (Nadya Shusharina, Andrey Fedorov)
 4. [Static DICOM Web for AI Assissted Annotations on AWS](Projects/StaticDicomWeb/README.md) (Chris Hafey, Gang Fu, Jordan Kojouharov, Qing Liu, Dmitry Pavlov, Andres Diaz-Pinto, Sachidanand Alle)
+5. [OHIF deployment on Google Cloud](Projects/OHIFonGCP/README.md) (Andrey Fedorov, Igor Octaviano, Steve Pieper)
 
 ### Infrastructure
 1. [Slicer 5 Release](Projects/Slicer5/README.md) (Sam Horvath, Jean-Christophe Fillion-Robin, Steve Pieper, Andras Lasso)
 1. [SlicerPipelines](Projects/SlicerPipelines/README.md) (Connor Bowley, Sam Horvath)
-1. [Slicer Internationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso, Mamadou Camara,  Jean-Christophe Fillion-Robin, Ibrahima Fall, Samba Diaw) 
+1. [Slicer Internationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso, Mamadou Camara, Jean-Christophe Fillion-Robin, Ibrahima Fall, Samba Diaw, Aissa Mboup, Attila Nagy, Adriana Vilchis Gonzalez, Theodore Aptekarev, Pedro Moreira) 
 1. [Update the Chest Imaging Platform extension to support Slicer 5](Projects/CIP_Update/README.md) (Rudolf Bumm, Raul San Jose Estepar, Andras Lasso, Steve Pieper)
 1. [Batch Anonymization](Projects/DSCIAnonymize/README.md)(Hina Shah, Juan Carlos Prieto, Fryderyk Kögl)
 
@@ -225,7 +227,9 @@ List of registered participants so far (names will be added here after processin
 * 115 Registered attendees
   * 43% first time attendees
 * 20 countries
-
+    
+<img src="images/attendees-per-country.png" alt="Attendees per country" width="600"/>
+<img src="images/timezones.png" alt="Attendees timezones" width="600"/>
     
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using

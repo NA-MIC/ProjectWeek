@@ -50,11 +50,27 @@ Join a voice channel, e.g. one of the meeting rooms. Press "Screen" (lower left)
 
 ![](https://user-images.githubusercontent.com/18140094/149112941-ff784625-b6bb-4c2d-9cb6-3d6a5de97515.png)
 
+To be able to look at the screen someone else shares, you need to click "LIVE"  and join the shared window stream (right to the name to that streaming in the voice channel)
+
+![](https://user-images.githubusercontent.com/18140094/149796988-39561009-f1f6-4a16-b6a0-49d966261e5d.png)
+
+## Get rid of that annoying channel sounds?
+
+Go "User settings" (see below) and switch all those off: 
+
+![](https://user-images.githubusercontent.com/18140094/149826117-3440c17e-70af-4e69-bb4c-ff2888c2fee5.png)
+
 ## How to leave a voice channel
 
 Simply click "Disconnect" next to your nickname (lower left). 
 
 ![](https://user-images.githubusercontent.com/18140094/149116824-c57b963f-9a3e-4b93-b967-62ee6315223d.png)
+
+## Blur your background?
+
+This is easy. Go "User settings" (see below) and 
+
+![](https://user-images.githubusercontent.com/18140094/149825618-3d7ac8d7-2823-433e-9630-425624d7b947.png)
 
 ## No sound? 
 

@@ -11,6 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Dmitry Pavlov (AWS)
 - Andres Diaz-Pinto (NVIDIA)
 - Sachidanand Alle (NVIDIA)
+- Steve Pieper (Isomics)
 - YOU
 
 # Project Description
@@ -50,10 +51,9 @@ We will validate the usefullness of this solution using this [National Lung Scre
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+Here is the architecture diagram of this solution on AWS:
+
+![arch](./arch.jpg)
 
 # Background and References
 

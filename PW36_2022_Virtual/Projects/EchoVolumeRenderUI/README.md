@@ -25,16 +25,21 @@ Update and polish the module's interface to improve its usability for clinical u
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Have a good understanding of the Echo Volume Render's parameters
-1. Get input from users on what could be improved (Children's Hospital of Philadelphia)
+1. Get input from users on what could be improved (Children's Hospital of Philadelphia (CHOP))
 1. Compare the module with commercial platforms to see which 3DE parameters are familiar to clinicians
 1. Determine the modifications to be made to improve the interface 
 1. Implement these modifications in the UI
-1. Send the updated interface to collaborators at the Children's Hospital of Philadelphia to get feedback
-
+1. Send the updated interface to collaborators from CHOP to get feedback
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+
+1. Discussion on previous versions of the module to understand the changes that have been made in the last 2 years
+1. Discussion with a collaborator from CHOP on aspects to be improved in the module
+1. Determined modifications that could potentially improve visualization of volume rendered 3DE : 
+    - Implement a [Phase Symmetry filter](https://pypi.org/project/itk-phasesymmetry/) to reduce noise in images while preserving anatomical details prior to volume rendering
+    - Implement Gaussian filtering in the GPU
 
 # Illustrations
 ![Echo Volume Render UI](https://user-images.githubusercontent.com/57685132/149667633-524c8285-3f81-4c91-92c8-87b22a3d29c1.jpg)

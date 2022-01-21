@@ -13,7 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Csaba Pinter (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Lucas Gandel (Kitware, France)
 - Jean-Christophe Fillion-Robin (Kitware, USA)
-- Simon Druin (École de Technologie Supérieure , Montreal , Canada)
+- Simon Drouin (École de Technologie Supérieure , Montreal , Canada)
 
 
 
@@ -49,6 +49,9 @@ Some links of interest:
 1. OpenXR in VTK:
 
 The WIP branch supporting Holographic remoting to stream VTK rendering inside the Hololens has been submitted [here](https://gitlab.kitware.com/vtk/vtk/-/merge_requests/8101).
+
+2. Our [github](https://github.com/Slicer/Slicer/pull/5978) latest upload
+
 
 
 # Illustrations

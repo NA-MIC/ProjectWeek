@@ -4,8 +4,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Andrey Fedorov (BWH)
 - Nadya Shusharina (BWH & MGH)
+- Klaus Kades (DKFZ)
+- Hanno Gao (DKFZ)
+- Randy Gollub (MGH)
+- Andrey Fedorov (BWH)
 
 
 # Project Description
@@ -15,26 +18,36 @@ We have installed the platforms on the Googe Cloud Virtual Machines. To investig
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+Ultimately, our goal is to have a platform that can be used to support data management needs for internal research activities.
+1. Archival of DICOM images
+2. Flexible and extensible interface to explore archived data
+3. In-browser visualization of images and annotations
+4. In-browser segmentation of images
+5. Integration of analysis tools and their application to the data available in the platform
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Continue working on the evaluation of the platforms
+2. Connect with any of the groups that worked on either Kaapana or XNAT to share experience
+3. Meet with Kaapana maintainers to debug outstanding issues.
+4. Work on resolving issues in the GCP installation.
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+Current unresolved issues
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+XNAT:
+* not clear how to extend the search of DICOM metadata to include arbitrary attributes
+* not clear if/how to integrate analysis tools
+* workflow to access existing SEG/RTSTRUCT from XNAT-OHIF plugin is unclear (related post [here](https://groups.google.com/g/xnat_discussion/c/1Whl7kmjEh8))
+* not clear if integration of desktop annotation tools like Slicer is possible
+
+Kaapana:
+* fixed MITK segmentation flow
+* need to build platform from source - deployment from prebuilt solution has limitations
+* need to work on integration of Slicer the same way as MITK - should be possible, can follow example, just need time
+* overall, no blocking issues identified, just need time to debug/implement
+
 
 # Illustrations
 
@@ -44,5 +57,8 @@ We have installed the platforms on the Googe Cloud Virtual Machines. To investig
 -->
 
 # Background and References
+
+* [Kaapana docs](https://kaapana.readthedocs.io/en/latest/)
+* [XNAT](https://www.xnat.org/)
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->

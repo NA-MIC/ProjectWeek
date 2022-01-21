@@ -80,41 +80,57 @@ A github search revealed that "Editor" calls are being made from three of the ab
 
 01/11/22: 
 
-CIP_Calibration is probably outdated.
+- CIP_Calibration is probably outdated.
+- CIP_ParenchymaSubtypeTrainingLabelling is outdated, probably redundant. 
+- CIP_BodyComposition is needed, but probably much better realized with AI segmentation 
 
-CIP_ParenchymaSubtypeTrainingLabelling is outdated, probably redundant. 
+01/17/22: 12pm Meeting with Raul, Andras, Steve and Rudolf (Discord Red Slice)
 
-CIP_BodyComposition is needed, but probably much better realized with AI segmentation 
+- Incompabilities between 4.13 and CIP seem to be caused by CIPLibrary 
+- CIP, it's CLI functions and their history were demonstrated by @Raul
+- CIP_Calibration is not outdated.
+- CIP_ParenchymaSubtypeTrainingLabelling should be kept. 
+- CIP_BodyComposition is needed and should be kept
+- CIP Toolkit functions should be included in a future SlicerCIP release
+- A CIPLibrary compatibility branch "4.13" or "5.0" will be created 
+- CIP GitHub write access was requested for @Andras to support merging, @Raul agreed 
+- As labelmaps are used throughout CIP in nearly every module we will discuss a Slicer-based solution for that problem tomorrow 
+  
+01/18/22: 12pm Meeting with Raul, Andras, Rudolf (Discord Red Slice)
 
+- good follow up meeting
+- @rbumm demonstrated the build process
+- a first module (Calibration) has been adapted to 4.13 and now works with the Segment Editor instead of Editor
+- ParenchymaSubtypeTrainingLabelling was demonstrated by Raul
+- we decided to prioritize certain modules during CIP adaptation
+- ParenchymaAnalysis probably the next to go
+- Andras promised to look into CLI modules and letting them use segmentations instead of labelmaps as an input maybe automatically  
+- next meeting will be Thursday 11 am Red Slice
 
+# Final presentation start here
+
+01/20/22: 11am-12:30pm Meeting with Raul, Andras, Rudolf (Discord Red Slice)
+
+- another great follow up meeting
+- CIP Calibrate module of CIP has been finalized together with @lassoan and was demonstrated by @rbumm
+-  see this [SlicerCIP GitHub fork](https://github.com/rbumm/SlicerCIP/tree/Branch_CIPCompatSlicer5) and [this commit](https://github.com/rbumm/SlicerCIP/commit/86c8173639a2ecc3c08993fa311625bec51378c9) 
+- will serve  as a skeleton to adopt the other CIP modules
+- is now fully functional in Slicer 5
+- The "Calibration" widget uses a newly created segmentation for each volume instead of labelmaps
+- the segmentation can be edited in the embedded Segment Editor
+- before pressing "Calibrate" the segmentation is converted to a labelmap for the actual calibration in the logic()  
+- we developed a strategy on how to transform the other CIP modules to Slicer 5
+- non-working modules will be excluded from CMake to provide only those functional to the community
+- @Raul demonstrated new vessel segmentation techniques and answered many questions
+- @Raul agreed on giving @lassoan write access to the SlicerCIP GitHub repository 
 
 # Illustrations
 
 
-Body Composition module:
-
-![image](https://user-images.githubusercontent.com/18140094/148948731-bdb76667-9380-4f0c-b98a-7eaf27aa942b.png)
+New Slicer 5 CIP "Calibration" module with embedded "SegmentEditor" instead of the old "Editor":
 
 
-
-Calibration module:
-
-![image](https://user-images.githubusercontent.com/18140094/148948945-9c7d710c-add3-46ba-b774-4bcf35a05f51.png)
-
-
-
-Parenchyma Subtype Training:
-
-![image](https://user-images.githubusercontent.com/18140094/148949201-7de68dd3-9794-4f79-b323-d2ed02b4db12.png)
-
-
-
-Parenchyma Subtype Training Labelling:
-
-![image](https://user-images.githubusercontent.com/18140094/148949387-28de3db1-1323-44a8-8d01-c298a20661f1.png)
-
-
-
+![image](https://user-images.githubusercontent.com/18140094/150400506-d357ac15-55ef-4f28-a0f6-00cd511b8183.png)
 
 
 # Background and References
