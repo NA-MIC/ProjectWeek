@@ -40,7 +40,7 @@ Daily translation hackathons with members of the Slicer community
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-Translations of the Volumes module user interface into multiple languages through SlicerCrowdin
+Translation of the user interface of the Volumes module into multiple languages in SlicerCrowdin
 
 
 
