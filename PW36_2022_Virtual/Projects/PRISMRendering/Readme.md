@@ -36,6 +36,7 @@ The goal of this project is to enable the development of advanced 3D rendering t
 1. Identified documentation on changes here:
   * [Migration guide](https://www.slicer.org/wiki/Documentation/Nightly/Developers/Tutorials/MigrationGuide#Markups)
   * [Infrastructure changes](https://www.slicer.org/wiki/Documentation/Labs/Improving_Markups)
+2. The Region of interest (ROI) of the volume was transformed to use the new Markups Module
 
 ### Generalizing vtkShaderProperties
 1. Move the management of vtkShaderProperty object from vtkMRMLVolumeRenderingDisplayNode to base class vtkMRMLDisplayNode
