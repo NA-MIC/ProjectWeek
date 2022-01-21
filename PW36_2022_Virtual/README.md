@@ -63,7 +63,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 3. [Slicer TMS Module](Projects/SlicerTMS_Module/README.md) (Loraine Franke, Lipeng Ning, Yogesh Rathi, Steve Pieper, Raymond Yang, Daniel Haehn)
 4. [PRISM Rendering](Projects/PRISMRendering/Readme.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
 1. [Echo VolumeRender UI](Projects/EchoVolumeRenderUI/README.md) (Samuelle St-Onge, Simon Drouin, Andrey Titov)
-    
+1. [Integration of Flir Thermal Camera](Projects/FlirCameraInSlicer) (Juan Bautista Ruis Alzola, Robabeh Salehiozoumchelouei, Mónica García Sevilla, Yousef Rajaeitabrizi)
+
 ### Image-guided therapy and low cost systems   
 1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia, Csaba Pinter, Rebecca Hisey, Leah Groves, Ahmed Mahran, Matt McCormick, Steve Pieper, ...)
 1. [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Ole V. Solberg, Geir Arne Tangen, Gabriella D'Albenzio, Javier Pérez de Frutos)
