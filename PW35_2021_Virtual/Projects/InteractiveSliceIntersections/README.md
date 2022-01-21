@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - David García-Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Kyle Sunderland (PerkLab, Queen's University, Kingston, ON, Canada)
 - Csaba Pinter (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
+- Andras Lasso (PerkLab, Queen's University, Kingston, ON, Canada)
 
 # Project Description
 
@@ -53,7 +54,11 @@ More information in this GitHub issue: [here](https://github.com/Slicer/Slicer/i
 
 3. Create new classes vtkMRMLSliceIntersectionInteractionWidget and vtkMRMLSliceIntersectionInteractionRepresentation in DisplayableManager. :heavy_check_mark:
 
-4. Customize handles to control slice intersection in an intuitive manner. :question:
+4. Customize handles to control slice intersection in an intuitive manner. :heavy_check_mark:
+
+5. Create new vtkMRMLSliceDisplayNode :heavy_check_mark:
+
+6. Create property in vtkMRMLSliceDisplayNode to control handles visibility mode :heavy_check_mark:
 
 
 ## Progress and Next Steps
@@ -82,17 +87,21 @@ More information in this GitHub issue: [here](https://github.com/Slicer/Slicer/i
     
 6. Render interaction handles in slice views and enable interactions.
 
- <img src="https://user-images.githubusercontent.com/10816661/131369045-a2644744-e8cb-413a-b145-99181e4e141e.gif" alt="HANDLES" width="800"/>
+   <img src="https://user-images.githubusercontent.com/10816661/131369045-a2644744-e8cb-413a-b145-99181e4e141e.gif" alt="HANDLES" width="800"/>
 
-7. TODO: Modify interactions to update slice intersections. Currently, sliceToRAS transform of the slice node is being updated.
+7. Modify interactions to update slice intersections. Currently, sliceToRAS transform of the slice node is being updated. :heavy_check_mark:
 
-8. TO DO: Customize handles for interactive slice intersection. 
+8. Customize handles for interactive slice intersection. :heavy_check_mark:
 
-9. TO DO: Test new mode in sample images
+9. Test new mode in sample images :heavy_check_mark:
+
+10. Integrate in Slicer. Pull request: [https://github.com/Slicer/Slicer/pull/6008](https://github.com/Slicer/Slicer/pull/6008)
 
 # Illustrations
 
-![Interaction handles](Image_InteractiveSliceIntersections.png)
+Final video:
+
+https://user-images.githubusercontent.com/10816661/150459600-ba59f51b-b2aa-499d-abcd-3f023809a7ed.mp4
 
 # Background and References
 
