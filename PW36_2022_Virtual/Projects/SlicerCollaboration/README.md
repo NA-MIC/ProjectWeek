@@ -53,12 +53,12 @@ Slicer module (packaged in an extension) for connecting two or more running Slic
         - Information about the transforms observed by each node
      1. To be supported by SlicerCollaboration:
         - Segmentations
-        - Subject hierarchy information
+        - Subject hierarchy structure
 
 1. Discussion about how to solve remote connections through OpenIGTLink with Slicer running in a computer with no externally visible fixed IP. Suggested solutions:
     1. Setup port forwarding on your router. This way you can call this address from outside and the router automatically redirects traffic to the specified computer on the local network. Downsides: the setup needs to be redone every time your router allocates a new local ip to your computer. It is usually not possible to setup like that in the office unless you have control of the network node going out.
     2. See if there's a way to make a SlicerSharing app for one of the services that already does real time sharing. Teams and Zoom both have hooks for apps.
-    3. VNC connect, TeamViewer, etc. use a rendezvous server that allows clients and servers to find each other and connect directly.
+    3. VNC connect, TeamViewer, etc. use a rendezvous server that allows clients and servers to find each other and connect directly. See [here](https://stackoverflow.com/questions/53479668/how-to-make-2-clients-connect-each-other-directly-after-having-both-connected-a).
 
 # Illustrations
 
