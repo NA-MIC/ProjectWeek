@@ -65,7 +65,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Echo VolumeRender UI](Projects/EchoVolumeRenderUI/README.md) (Samuelle St-Onge, Simon Drouin, Andrey Titov)
     
 ### Image-guided therapy and low cost systems   
-1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia Mato, Csaba Pinter, Rebecca Hisey, Matt McCormick, Steve Pieper, ...)
+1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia, Csaba Pinter, Rebecca Hisey, Leah Groves, Ahmed Mahran, Matt McCormick, Steve Pieper, ...)
 1. [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Ole V. Solberg, Geir Arne Tangen, Gabriella D'Albenzio, Javier Pérez de Frutos)
 1. [Visualization of catheter path based on an electromagnetic tracking with TMR sensors](Projects/TMRCatheterNavigation/README.md) (Wenran Cai, Kazuaki Hara, Rina Nagano, Junichi Tokuda
 1. [Integration of ROS and 3D Slicer using OpenIGTLink](Projects/ROS-MED/README.md) (Junichi Tokuda, Tamas Ungi, Simon Leonard, Axel Krieger, Mark Fuge)
