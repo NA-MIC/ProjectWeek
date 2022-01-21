@@ -43,7 +43,7 @@ In this project week, we work on releasing the code of SupWMA. We provide the tr
 
 1. Code and pre-trained model were released
 2. Instruction, testing sample and demonstration script were provided
-3. Update the trained details to help user train SupWMA on custom data. 
+3. Update the training details to help user train SupWMA on custom data. 
 4. Intergate SupWMA into SlicerDMRI so that users can use it via Slicer interface.
 
 # Illustrations
@@ -59,7 +59,7 @@ In this project week, we work on releasing the code of SupWMA. We provide the tr
 
 ![overview](https://user-images.githubusercontent.com/56477109/150529616-652b889d-0738-4528-b9db-4eb3e6953ce0.png)
 
-![demo](https://user-images.githubusercontent.com/56477109/150529631-a35ab2f6-4e23-4f51-b484-0995b62ad8fe.png)
+![Selection_053](https://user-images.githubusercontent.com/56477109/150529903-7b622214-3b80-4d1c-a9ce-c8fee220ab10.png)
 
 # Background and References
 
