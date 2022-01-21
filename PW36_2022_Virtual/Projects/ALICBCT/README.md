@@ -67,6 +67,14 @@ The 3 steps to search the landmark
 ![Search_3Steps_labeled](https://user-images.githubusercontent.com/46842010/148439759-e7db327a-f9a4-4d45-93b9-c566f19137ba.png)
 
 
-# Background and References
+# Project week results 
+
+I managed to learn the basics on ho to develop a slicer module.
+I spent this week on creating a first sketch of a future module that will be used to launch the landmark prediction.
+For now, it allows the user to browse folders where the AI models are and create a menu wher the clinician can choose wich landmark to predict :
+<img width="1331" alt="Screen Shot 2022-01-20 at 11 47 24 PM" src="https://user-images.githubusercontent.com/46842010/150468043-db9f0b87-a724-4a53-b91d-dd318a8c7b4f.png">
+
+<img width="522" alt="Screen Shot 2022-01-20 at 11 47 50 PM" src="https://user-images.githubusercontent.com/46842010/150468053-89c5b68d-83d2-4725-b8cd-d62891b9a0b9.png">
+
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
