@@ -85,35 +85,38 @@ CLI illustrations
 
 1) `create-mode` command to create a new template to write modes
 
-<img src="https://user-images.githubusercontent.com/7490180/150410383-ae7ee1f6-6c05-4789-ae1e-1d1b1370dcc7.png" alt="drawing" style="width:500px;"/>
+  <img src="https://user-images.githubusercontent.com/7490180/150410383-ae7ee1f6-6c05-4789-ae1e-1d1b1370dcc7.png" alt="drawing" style="width:500px;"/>
 
 It generates the template files for you to write your own mode
 
-![image](https://user-images.githubusercontent.com/7490180/150410470-987847ce-0316-45d4-865d-27c03be3422f.png)
+  ![image](https://user-images.githubusercontent.com/7490180/150410470-987847ce-0316-45d4-865d-27c03be3422f.png)
 
 2) `create-extension` command to create a new template to write extensions.
 
-<img src="https://user-images.githubusercontent.com/7490180/150410874-f7e41153-4b4c-48ec-99e8-059d1c23ce8c.png" alt="drawing" style="width:500px;"/>
+  <img src="https://user-images.githubusercontent.com/7490180/150410874-f7e41153-4b4c-48ec-99e8-059d1c23ce8c.png" alt="drawing" style="width:500px;"/>
 
 It also generates template for an extension
 
-![image](https://user-images.githubusercontent.com/7490180/150410992-9738437d-1222-4b64-a33f-860a150cbec8.png)
+  ![image](https://user-images.githubusercontent.com/7490180/150410992-9738437d-1222-4b64-a33f-860a150cbec8.png)
 
 
 3) `add-mode <mode-name>` will install any ohif-mode that has been published on npm registry and make it available on OHIF. 
 
 
-![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/7490180/150447751-1428c1d0-26a4-4079-a99e-942ca7d11352.gif)
+  ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/7490180/150447751-1428c1d0-26a4-4079-a99e-942ca7d11352.gif)
 
 
 After installation the mode becomes avaiable. 
 
 4) `remove-mode <mode-name>`
 
-![ezgif com-gif-maker (12)](https://user-images.githubusercontent.com/7490180/150454474-1356a0d5-af35-41ec-b262-1100d077e86e.gif)
+  ![ezgif com-gif-maker (12)](https://user-images.githubusercontent.com/7490180/150454474-1356a0d5-af35-41ec-b262-1100d077e86e.gif)
 
+5) `search` will search in all npm packages for those who have `ohif-extension` or `ohif-mode` in their keywords and display their information
 
-5) OHIF website update
+  <img src="https://user-images.githubusercontent.com/7490180/150463685-c22ace37-4daa-4489-9015-ea3d30a5812b.png" alt="drawing" style="width:600px;"/>
+
+6) OHIF website update
 
 Using Github GraphQL we showcase a list of modes that are published on the npm registry. 
 
