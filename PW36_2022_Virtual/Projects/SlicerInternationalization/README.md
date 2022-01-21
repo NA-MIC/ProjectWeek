@@ -17,7 +17,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Adriana Vilchis González (Universidad Autónoma del Estado de México, México)
 - Theodore Aptekarev (Slicer Community, Russia)
 - Pedro Moreira (Brigham and Women’s Hospital/Harvard Medical School, USA)
-
+- Andrey Fedorov (Brigham and Women’s Hospital/Harvard Medical School, USA)
+- Ahmedou Moulaye Idriss, Faculty of Medicine, University of Nouakchott Al Asriya , Mauritania
+- Yahya Tfeil, Faculty of Medicine, University of Nouakchott Al Asriya, Mauritania
 
 # Project Description
 
@@ -41,6 +43,8 @@ Daily translation hackathons with members of the Slicer community
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 Translation of the user interface of the Volumes module into multiple languages in SlicerCrowdin
+
+Implementation of the Language selector
 
 
 
