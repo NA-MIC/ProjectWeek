@@ -4,9 +4,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
+- Eve LoCastro (MSKCC)
 - Aditya Apte (MSKCC)
 - Aditi Iyer (MSKCC)
-- Eve LoCastro (MSKCC)
 - Harini Veeraraghavan (MSKCC)
 
 # Project Description
@@ -18,7 +18,7 @@ CERRx is an Octave/MATLAB-based software platform for developing and sharing res
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 "sliCERR" will be a scripted module for Slicer, written in Python. We are starting in Jupyter notebooks with 3D Slicer kernel for visualization and image processing. The cerr2mrml module handles the I/O operations of loading native CERR planC format files into the 3DSlicer MRML scene, including import of scan, dose and ROI contours.
 1. Easy imaging data IO exchange between CERR and 3D Slicer platforms via module UI
-2. Enable CERR features for dosimetry and image analysis, ROE Radiotherapy Outcomes Estimator, semi-quanitative DCE features, DL-based image segmentation models
+2. Enable CERRx features for dosimetry and image analysis, ROE Radiotherapy Outcomes Estimator, semi-quanitative DCE features, DL-based image segmentation models
 
 ## Approach and Plan
 

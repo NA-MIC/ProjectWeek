@@ -55,8 +55,8 @@ Core:
 - [ ] WIP Documentation in the docs
 
 Gallery
-- [ ] WIP Example mode and extension + publish to NPM.
-- [x] Create mode galery page which consumes markdown files to generate a page with a title, description, dependencies, images and copyable install commands.
+- [x] Example mode and extension + publish to NPM. (@ohif-test/mode-clock , @ohif-test/mode-extension)
+- [x] Create mode gallery page which consumes markdown files to generate a page with a title, description, dependencies, images and copyable install commands.
 
 
 ### Stretch Goals
@@ -68,8 +68,8 @@ Core:
 - [ ] Augment mode schema to optionally specify semantic version for required ohif-extensions.
 - [x] Automatically download extensions of correct version when installing modes.
 - [ ] WIP Verify that npm packages fetched by CLI are _actually_ conforming to extensions/modes so we don't just cross our fingers.
-- [ ] Error handling for extension conflicts.
-- [ ] Error handling for missing extensions.
+- [ ] WIP Error handling for extension conflicts.
+- [ ] WIP Error handling for missing extensions.
 - [ ] Type mode and extension schema and make these types publically available somewhere.
 - [ ] Add the type contracts to the templates produced by ohif-cli create-extension and ohif-cli create-mode.
 
