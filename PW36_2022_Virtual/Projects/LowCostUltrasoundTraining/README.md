@@ -79,6 +79,8 @@ Currently, we have already integrated some basic features:
     <img src="https://user-images.githubusercontent.com/10816661/150458655-92474a92-75e2-422c-a9ff-b11aae5b3431.PNG" alt="drawing" width="650"/>
 
     <img src="https://user-images.githubusercontent.com/10816661/150457041-96964903-cfaf-44aa-be0e-6a16b056818b.gif" alt="drawing" width="650"/>
+    
+    <img src="https://user-images.githubusercontent.com/10816661/150547063-539e2208-2704-4272-9a31-d6c2340d8b15.PNG" alt="drawing" width="650"/>
 
 - Module for tracked US probe calibration:
 
