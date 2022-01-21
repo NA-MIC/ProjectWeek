@@ -67,5 +67,5 @@ With this segmentation we’ll be able to recover the coordinates of the points 
 
 
 # Illustrations
-![Pasted Graphic](https://user-images.githubusercontent.com/83285614/150446964-7d2020b5-3850-42fd-bc29-334bea6d2770.jpeg)
+![Pasted Graphic](https://user-images.githubusercontent.com/83285614/150544897-fa1ffb8e-e236-433c-8edb-f030d0a71e51.jpeg)
 ![Pasted Graphic 1](https://user-images.githubusercontent.com/83285614/150447011-cc7a8b5e-5032-40c6-9024-a9e123599ad4.jpeg)
