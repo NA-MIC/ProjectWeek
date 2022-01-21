@@ -42,7 +42,8 @@ Not a lot of progress was made.
 1. Some issues with the MRI Masks, data misaligned.
     - Has been resolved, will start training next week
 1. Started a TMS Prediction Module, Source below
-    - Broken Pipe Error on the prediction, working on figuring out why. 
+    - Prediction is working
+    - Need to create post-processing script to return niftii 
 
 # Illustrations
 
@@ -51,7 +52,7 @@ Not a lot of progress was made.
 ![Some more images](Example2.jpg)
 -->
 ![TMS Prediction UI](TMS_UI.PNG)
-![TMS Prediction Output](TMS_OUT.PNG)
+![TMS Execute Error](TMS_UI_TEMP.PNG)
 
 # Background and References
 
