@@ -50,10 +50,10 @@ A discussion between Steve Piper, Rafael Palomar, Simon Drouin and Andrey Titov 
 # Illustrations
 
 PRISM - Markups:
-![PRISM - Markups](https://github.com/NA-MIC/ProjectWeek/edit/master/PW36_2022_Virtual/Projects/PRISMRendering/images/PRISM - Markups.PNG)
+![PRISM_Markups](https://github.com/NA-MIC/ProjectWeek/edit/master/PW36_2022_Virtual/Projects/PRISMRendering/images/PRISM - Markups.PNG)
 
 PRISM - Markups (rotated):
-![PRISM - Markups rotated](https://github.com/NA-MIC/ProjectWeek/edit/master/PW36_2022_Virtual/Projects/PRISMRendering/images/PRISM - Markups rotated.PNG)
+![PRISM_Markups_rotated](https://github.com/NA-MIC/ProjectWeek/edit/master/PW36_2022_Virtual/Projects/PRISMRendering/images/PRISM - Markups rotated.PNG)
 
 # Background and References
 
