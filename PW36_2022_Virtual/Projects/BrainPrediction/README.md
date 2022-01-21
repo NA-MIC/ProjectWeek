@@ -52,7 +52,7 @@ Not a lot of progress was made.
 ![Some more images](Example2.jpg)
 -->
 ![TMS Prediction UI](TMS_UI.PNG)
-![TMS Execute Error](TMS_UI_TEMP.PNG)
+![TMS Execute Error](TMS_OUT.PNG)
 
 # Background and References
 
