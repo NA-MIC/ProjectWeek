@@ -49,11 +49,11 @@ A discussion between Steve Piper, Rafael Palomar, Simon Drouin and Andrey Titov 
 
 # Illustrations
 
-Screenshot showing VR usage:
-![SlicerCollaboration screenshot VR](https://github.com/NA-MIC/ProjectWeek/edit/master/PW36_2022_Virtual/Projects/PRISMRendering/images/PRISM - Markups.PNG)
+PRISM - Markups:
+![PRISM - Markups](https://github.com/NA-MIC/ProjectWeek/edit/master/PW36_2022_Virtual/Projects/PRISMRendering/images/PRISM - Markups.PNG)
 
-Screenshot showing server/client:
-![SlicerCollaboration screenshot server/client](https://github.com/NA-MIC/ProjectWeek/edit/master/PW36_2022_Virtual/Projects/PRISMRendering/images/PRISM - Markups rotated.PNG)
+PRISM - Markups (rotated):
+![PRISM - Markups rotated](https://github.com/NA-MIC/ProjectWeek/edit/master/PW36_2022_Virtual/Projects/PRISMRendering/images/PRISM - Markups rotated.PNG)
 
 # Background and References
 
