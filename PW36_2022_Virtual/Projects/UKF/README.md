@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# UKF tractography with additional seeding and stopping options
+# Anatomically informed UKF tractography 
 
 ## Key Investigators
 
