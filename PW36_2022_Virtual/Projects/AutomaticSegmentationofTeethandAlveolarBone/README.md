@@ -42,13 +42,14 @@ The aim of this project is to develop an automatic method utilizing MONAI Label 
     * The issue of the missing teeth needs to be carefully handled
     * Use consistent numbering (see image below)
     * Make sure the same teeth have the same label # (i.e. skip those that are not present)
-    * The way Slicer exports the segmentations does not fully support this use case
+    * The way Slicer exports the segmentations does not fully support this use case due to the many missing structures
 1. Plan to improve segmentation export in Slicer
     * Add option both in segmentation export widget and segmentation logic to use the current terminology context for generating the same label for each structure (see image below)
         * Many details to figure out: How to handle modifiers and anatomic regions, What happens when there are more than 255 usable entries, etc. We will start simple.
     * Create a custom terminology context for this use case (alveolar bone + the 32 teeth, see image below)
     * Update the existing datasets to have the correct terminology of each structure and re-export the segmentations
     * Create simple module for single-click batch export of the MRBs for DeepEdit usage (to make sure the segmentation extent is the same as the master volume extent and to use terminology-based label numbers)
+    * UPDATE: We will try first to do the export using a custom color table we create together with the terminology and use the existing feature that assigns labels based on a selected color table
 
 # Illustrations
 
