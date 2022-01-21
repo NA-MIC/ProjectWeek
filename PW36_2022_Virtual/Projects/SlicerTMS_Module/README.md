@@ -41,10 +41,18 @@ Next steps:
 
 ## Illustrations
 
-TMS coil model visualized in AR with A-Frame:
+- TMS coil model visualized in AR with A-Frame:
+
 ![Moving TMS coil in AR](./render_coil_A-frame.gif)
 
-Visualization goal from another software
+
+- Current TMS module inside Slicer:
+
+![Slicer Module](./TMSModule_normedcoil_fmricolor.png)
+
+
+-Visualization goal in Slicer from another software:
+
 ![Brain surface and DT](./tmsonbrain.png)
 
 
