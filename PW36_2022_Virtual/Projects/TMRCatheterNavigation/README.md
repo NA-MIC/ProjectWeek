@@ -41,8 +41,11 @@ A vessel model will be reconstructed from a preoperative 3D CT. During the opera
 ![Some more images](Example2.jpg)
 -->
 - Extension interface
+
 ![Extension interface](catheternavigation.png)
+
 - Experimental setup
+
 ![Experimental setup](img1.png)
 ![Experimental setup](img2.png)
 
