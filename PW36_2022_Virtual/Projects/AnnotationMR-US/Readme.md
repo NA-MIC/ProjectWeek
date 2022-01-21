@@ -43,22 +43,30 @@ update(s) the UI
 that you could not complete then you can describe them here, too. -->
 
 **Progress**
-1. A first working version of the extension is already functional. It can be found
-[here](https://github.com/koeglfryderyk/mthesis-slicerLandmarkingView) on the main branch. A screenshot can be seen
+1. The extension is ready. It can be found
+[here](https://github.com/koegl/mthesis-slicerLandmarkingView) on the main branch. A screenshot can be seen
 below in **Illustrations**. For more details refer to the
-[readme](https://github.com/koeglfryderyk/mthesis-slicerLandmarkingView#readme).
+[readme](https://github.com/koegl/mthesis-slicerLandmarkingView#readme).
+2. A lot of bug fixes
+3. More intuitive control of active views
+4. More fine-grained control of viewing options
+5. Join corresponding landmarks with curves to visualise brain shift (also sanity check - the curves should be more or less smooth)
 
 **Next Steps**
-1. Explore 3D functionality for setting landmarks
-2. Make the code more robust - a lot of things are hard coded now (e.g. amount of volumes)
-3. Write tests
+1. Fulfill all formal requirements for a pull request
+2. Search for bugs/corner cases
+3. Push to the ExtensionIndex
+
+**Next Steps (outside the scope of this project week)**
+1. Add volume rendering
+2. Automatically detect landmarks (e.g. 3D-SIFT features) and manually choose the best ones
 
 # Illustrations
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Some more images](Example2.jpg)
 -->
 **Current state of the extension**
-![Screenshot of the current state of the extension](./misc/extension_screenshot.png)
+![Screenshot of the current state of the extension](https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/GUIpreview.png)
 
 # Background and References
 
