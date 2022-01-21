@@ -31,6 +31,7 @@ Ultimately, our goal is to have a platform that can be used to support data mana
 2. Connect with any of the groups that worked on either Kaapana or XNAT to share experience
 3. Meet with Kaapana maintainers to debug outstanding issues.
 4. Work on resolving issues in the GCP installation.
+5. Clarified status of XNAT OHIF plugin in the OHIF session (see [minutes](https://docs.google.com/document/d/1JYqLYsjaSJDLQPG0VPGKWMUjoDn8y8d1ySnafTmv8Bs/edit))
 
 ## Progress and Next Steps
 

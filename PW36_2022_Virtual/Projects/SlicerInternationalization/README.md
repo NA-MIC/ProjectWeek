@@ -35,16 +35,17 @@ To identify members of the Slicer community interested in contributing translati
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
-Daily translation hackathons with members of the Slicer community
+1. Extraction of Qt strings from Slicer
+3. Daily translation hackathons with members of the Slicer community
 
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-Translation of the user interface of the Volumes module into multiple languages in SlicerCrowdin
-
-Implementation of the Language selector
+1. New translators for Hungarian, Spanish, Portuguese, Arabic, German and Polish
+2. Translation of the user interface of the Volumes module into seven different languages in SlicerCrowdin
+3. Implementation of the Language selector in Slicer
 
 
 
