@@ -128,3 +128,7 @@ The README file of each mode repository is fetched and shown in its detailed pag
 
 
 # Background and References
+
+- OHIF: https://ohif.org/
+- OHIF-v3 Demo: https://v3-demo.ohif.org/
+- OHIF Documentation: https://v3-docs.ohif.org/
