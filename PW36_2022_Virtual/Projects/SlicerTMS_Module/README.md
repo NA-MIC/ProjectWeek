@@ -31,7 +31,8 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 1. Connecting Slicer with a mobile phone via SlicerWeb (https://github.com/pieper/SlicerWeb)
 2. Explore WebXR: WebXR needs https, so either generate local certificate (https://blog.anvileight.com/posts/simple-python-http-server/) and make modifications in the SlicerWeb WebServer.py file. OR alternatively run with USB cable connected to computer (USB debugging in developer tools for Android. iPhone requires an Apple Developer Account for this)
 3. Evaluating different approaches for AR with WebXR by testing different libraries: ThreeJS, A-Frame or React. 
-4. Moving the TMS coil and scene by tapping on it on the mobile device.
+4. Visualizing our created 'butterfly' TMS coil in WebXR: A-Frame only allows obj and gltf file formats as models, Threejs also more like stl files.
+5. Moving the TMS coil and scene by tapping on it on the mobile device.
 
 Next steps:
 - More precise interaction with objects in AR on the phone: scaling and rotating of the coil (Current WebXR approaches only allow static interaction without handling user's finger gestures on screen.)
@@ -40,6 +41,8 @@ Next steps:
 
 ## Illustrations
 
+TMS coil model visualized in AR with A-Frame:
+![Moving TMS coil in AR](./render_coil_A-frame.gif)
 
 Visualization goal from another software
 ![Brain surface and DT](./tmsonbrain.png)
