@@ -31,18 +31,29 @@ Would these be options for NousNav or the SlicerTMS projects?
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+### Progress
+1. Improved demo to work with https using letsencript on Google Cloud virtual machine running Slicer
+2. Added touch screen events to control attributes of Slicer model (brighter yellow when touching the screen).
+3. Gave demos to colleagues at the [Wednesday IGT breakout](https://docs.google.com/document/d/1mwTbzy_ulATfrU97cFfQM_ikhz1CUr1xaocj6lp6c8w/edit#heading=h.296xjyux0jir) and discussed the tradeoffs of intrinsict tracking vs EM and extrinsic optical tracking
+
+### Next steps
+1. Explore the use of phone-based tracking for SlicerTMS research
+2. Experiment with local rendering and touch interactions on phone mixed with remote rendering and computation on CPU/GPU with Slicer
+3. Consider developing native phone app to avoid https performance overhead vs upgrading Slicer's web server to support web sockets for faster performance
+4. Brainstorm about other applications of this technology
+5. Monitor developments of intrinsic tracking systems in non-phone form factors for use in other tracking scenarios (e.g. in IGT)
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+
+[![Phone controller demo (click to see video)](https://user-images.githubusercontent.com/126077/150543016-34926be4-7eca-4c47-87c0-95f0fdb29230.png)](https://youtu.be/kQKskHYlpQE "Phone Controller Demo (click to view on youtube")
+
+
+* Demo uses moto g100 Android phone that includes Qualcom chips for tracking.
 
 # Background and References
 
-* https://github.com/anjany/verse
-* https://projectweek.na-mic.org/PW35_2021_Virtual/Projects/SpineSegmentation/
+* https://github.com/pieper/SlicerWeb/blob/master/WebServer/docroot/WebXR-controller/index.html
+* https://immersive-web.github.io/webxr-samples/
+* https://www.qualcomm.com/research/cognitive-technologies/immersive-experiences/augmented-reality
+* https://www.qualcomm.com/news/onq/2021/08/16/how-snapdragon-xr1-powers-lenovo-thinkreality-a3-smart-glasses-and-moto-g100
