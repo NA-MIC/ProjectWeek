@@ -28,7 +28,7 @@ In this project, we will work on releasing the code of a diffusion MRI registrat
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Code released at: https://github.com/SlicerDMRI/DDMReg.git
+1. Code released at: [DDMReg](https://github.com/SlicerDMRI/DDMReg.git)
 2. Pre-trained models are provided
 3. Exampe data and documentation are provided
 
