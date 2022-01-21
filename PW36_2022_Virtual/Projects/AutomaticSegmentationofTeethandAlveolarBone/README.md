@@ -45,6 +45,7 @@ The aim of this project is to develop an automatic method utilizing MONAI Label 
     * The way Slicer exports the segmentations does not fully support this use case
 1. Plan to improve segmentation export in Slicer
     * Add option both in segmentation export widget and segmentation logic to use the current terminology context for generating the same label for each structure (see image below)
+        * Many details to figure out: How to handle modifiers and anatomic regions, What happens when there are more than 255 usable entries, etc. We will start simple.
     * Create a custom terminology context for this use case (alveolar bone + the 32 teeth)
     * Update the existing datasets to have the correct terminology of each structure and re-export the segmentations
     * Create simple module for single-click batch export of the MRBs for DeepEdit usage (to make sure the segmentation extent is the same as the master volume extent and to use terminology-based label numbers)
