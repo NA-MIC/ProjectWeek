@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Daniel Palkovics (Semmelweis University, Budapest Hungary)
 - Csaba Pinter (EBATINCA, Las Palmas de Gran Canaria, Spain)
+- Andrés Diaz-Pinto (King's College, NVidia)
 
 # Project Description
 
@@ -26,16 +27,27 @@ The aim of this project is to develop an automatic method utilizing MONAI Label 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Try to create MONAILabel app for segmenting said structures
-2. Consult with the experts
-3. ...
+2. Consult with the experts about the details
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Through varios conversations with especially Andrés (special thanks to him), we learned the following that will be useful for this project:
+    * It is possible to segment the teeth as one structure or per-tooth as well. In both cases we will need to use MultiLabelDeepEdit due to the presence of the alveolar bone structure
+    * It is possible to set up multi-stage inference in which the first stage can be preprocessing such as automatic cropping or removal of artifacts such as implants or bridges
+    * For initial experimentation a typical desktop GPU with 8GB can be used, however to achieve a well performing model it is recommended to have a professional one with >16GB memory
+        * A feasible option for this is to use an AWS instance
+    * This problem is different from the majority of segmentation tasks because missing structures are very commonplace (i.e. missing teeth especially for a patient who needs implant planning)
+    * The issue of the missing teeth needs to be carefully handled
+    * Use consistent numbering (see image below)
+    * Make sure the same teeth have the same label # (i.e. skip those that are not present)
+    * The way Slicer exports the segmentations does not fully support this use case
+1. Plan to improve segmentation export in Slicer
+    * Add option both in segmentation export widget and segmentation logic to use the current terminology context for generating the same label for each structure (see image below)
+    * Create a custom terminology context for this use case (alveolar bone + the 32 teeth)
+    * Update the existing datasets to have the correct terminology of each structure and re-export the segmentations
+    * Create simple module for single-click batch export of the MRBs for DeepEdit usage (to make sure the segmentation extent is the same as the master volume extent and to use terminology-based label numbers)
 
 # Illustrations
 
@@ -44,7 +56,17 @@ The aim of this project is to develop an automatic method utilizing MONAI Label 
 ![Some more images](Example2.jpg)
 -->
 
+Example segmentation:
+
 ![Sample segmentation](SampleSegmentation_Small.png)
+
+Tooth numbering scheme (EU):
+
+![Tooth numbering EU](Explaining_Teeth_Numbers_EU.png)
+
+New option in segmentation export to consider terminology:
+
+![New option in segmentation export to consider terminology](SegmentationExportTerminologyOption.PNG)
 
 # Background and References
 
