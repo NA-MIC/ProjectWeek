@@ -49,7 +49,7 @@ Would these be options for NousNav or the SlicerTMS projects?
 [![Phone controller demo (click to see video)](https://user-images.githubusercontent.com/126077/150543016-34926be4-7eca-4c47-87c0-95f0fdb29230.png)](https://youtu.be/kQKskHYlpQE "Phone Controller Demo (click to view on youtube")
 
 
-* Demo uses moto g100 Android phone that includes Qualcom chips for tracking.
+* Phone as a 6 DOF controller demo (no audio).  Demo uses moto g100 Android phone that includes Qualcom chips for tracking with WebXR API in JavaScript to communicate with 3D Slicer web server.
 
 # Background and References
 
