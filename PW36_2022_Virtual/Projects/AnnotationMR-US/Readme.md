@@ -50,7 +50,7 @@ below in **Illustrations**. For more details refer to the
 2. A lot of bug fixes
 3. More intuitive control of active views
 4. More fine-grained control of viewing options
-5. Join corresponding landmarks with curves to visualise brain shift (also sanity check - the curves should be more or less smooth)
+5. Automatically join corresponding landmarks with curves to visualise brain shift (also sanity check - the curves should be more or less smooth)
 
 **Next Steps**
 1. Fulfill all formal requirements for a pull request
@@ -67,6 +67,24 @@ below in **Illustrations**. For more details refer to the
 -->
 **Current state of the extension**
 ![Screenshot of the current state of the extension](https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/GUIpreview.png)
+
+**Landmark flow**
+
+<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/fiducial_flow.png" alt="Landmark flow" width="200"/>
+
+**Example landmarks**
+
+<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/1_Landmark%201%20MRI%20Pre-Op.png" alt="L1-MR1" width="200"/>
+<br />
+<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/2_Landmark%201%20US1.png" alt="L2-US1" width="200"/>
+<br />
+<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/3_Landmark%201%20US2.png" alt="L3-US2" width="200"/>
+<br />
+<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/4_Landmark%201%20US3.png" alt="L4-US3" width="200"/>
+<br />
+<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/5_Landmark%201%20Intra-Op.png" alt="L5-MR2" width="200"/>
+
+
 
 # Background and References
 
