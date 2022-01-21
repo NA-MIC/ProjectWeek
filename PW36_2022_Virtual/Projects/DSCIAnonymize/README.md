@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Anonymization of a batch of DICOM files
 Tool to anonymize a dataset of medical images.
 
 ## Key Investigators
@@ -40,7 +40,10 @@ The proposed tool will:
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. The extension has been written to work as a stand alone app, with the features written above
+1. Worked on a couple of issues for the extension
+2. The extension has been pushed to the Slicer Extension Index.
+3. Had a productive discussion with a few folks in the community to understand what are the existing tools/conformances for DICOM anonymization - this needs more introspection and research on our part, and deciding how we want to proceed - especially for the dental research data sharing purposes.
+4. Will add a few suggested features, for example: letting users chose which metadata to anonymize.
 
 # Illustrations
 
@@ -54,4 +57,4 @@ The proposed tool will:
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-1. [Source code in Github repository](https://github.com/hina-shah/DSCI_Anonymizer)
+1. [Source code in Github repository](https://github.com/hina-shah/SlicerBatchAnonymize)
