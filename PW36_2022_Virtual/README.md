@@ -75,6 +75,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [MR-US Landmarking for Neuronavigated surgery](Projects/AnnotationMR-US/Readme.md) (Fryderyk Kögl, Harneet Cheema, Tina Kapur, Simon Drouin)
 1. [Low-cost trackers](Projects/CheapTracking/README.md) (Steve Pieper, Gabor Fichtinger)
 1. [sliCERR](Projects/sliCERR/README.md) (Aditya Apte, Aditi Iyer, Eve LoCastro, Harini Veeraraghavan)
+1. [Mandible Reconstruction Automatic Planning](Projects/MandibleReconstructionAutomaticPlanning/README.md) (Mauro I. Dominguez, Andras Lasso, Manjula Herath)
 
 ### Segmentation/Classification
 1. [Spine Segmentation](Projects/SpineSegmentation/README.md) (Ron Alkalay, Steve Pieper, ...)
