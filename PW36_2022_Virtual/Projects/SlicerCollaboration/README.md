@@ -50,7 +50,7 @@ Slicer module (packaged in an extension) for connecting two or more running Slic
      1. Not supported by OpenIGTLink, but supported by SlicerCollaboration:
         - Display nodes
         - Remaining Markups
-        - Information about the transforms observed by each node
+        - Parent transforms
      1. To be supported by SlicerCollaboration:
         - Segmentations
         - Subject hierarchy structure
