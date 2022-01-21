@@ -225,6 +225,24 @@ List of registered participants so far (names will be added here after processin
 1.	Tengfei Xue	,	Harvard Medical School/University of Sydney	,	Australia
 1.	Yiwei Jiang	,	Worcester Polytechnic Institute	,	USA
 1.	Yuqian Chen	,	Harvard Medical School	,	USA
+1.	Gabriella d'Albenzio	,	The Intervention Centre (OUS)	,	Norway
+1.	Raul San Jose Estepar	,	Brigham and Women's Hospital	,	USA
+1.	Kyle Sunderland	,	Queen's University	,	Canada
+1.	Árpád Márki	,	University of Szeged	,	Hungary
+1.	Martin Dr. Cseh	,	University of Szeged Faculty of Pharmacy	,	Hungary
+1.	Sandy Wells	,	HMS / BWH	,	USA
+1.	Chris Hafey	,	AWS	,	USA
+1.	Matt Lungren	,	Amazon	,	USA
+1.	Jean-Christophe Fillion-Robin	,	Kitware	,	USA
+1.	Peter Traneus Anerson	,	Retired	,	U.S.A.
+1.	Adriana Herlinda Vilchis González	,	Universidad Autónoma del Estado de México	,	México
+1.	Richard Doerer	,	Modl3d, LLC	,	USA
+1.	Andres Diaz-Pinto	,	NVIDIA	,	United Kingdom
+1.	Randy Gollub	,	MGH	,	USA
+1.	Luis 	,	University of Minho	,	Portugal
+1.	Igor Octaviano	,	Pontifical Catholic University of Minas Gerais	,	Brazil
+1.	Pape Mady THIAO	,	École militaire de santé de Dakar 	,	Sénégal 
+1.  Carl-Fredrik Westin	,	Brigham and Womens Hospital	,	USA
     
 ## Statistics
 * 115 Registered attendees
