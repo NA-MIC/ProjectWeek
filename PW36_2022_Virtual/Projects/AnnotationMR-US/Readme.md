@@ -70,19 +70,19 @@ below in **Illustrations**. For more details refer to the
 
 **Landmark flow**
 
-<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/fiducial_flow.png" alt="Landmark flow" width="200"/>
+<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/fiducial_flow.png" alt="Landmark flow" width="300"/>
 
 **Example landmarks**
 
-<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/1_Landmark%201%20MRI%20Pre-Op.png" alt="L1-MR1" width="200"/>
+<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/1_Landmark%201%20MRI%20Pre-Op.png" alt="L1-MR1" width="500"/>
 <br />
-<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/2_Landmark%201%20US1.png" alt="L2-US1" width="200"/>
+<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/2_Landmark%201%20US1.png" alt="L2-US1" width="500"/>
 <br />
-<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/3_Landmark%201%20US2.png" alt="L3-US2" width="200"/>
+<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/3_Landmark%201%20US2.png" alt="L3-US2" width="500"/>
 <br />
-<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/4_Landmark%201%20US3.png" alt="L4-US3" width="200"/>
+<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/4_Landmark%201%20US3.png" alt="L4-US3" width="500"/>
 <br />
-<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/5_Landmark%201%20Intra-Op.png" alt="L5-MR2" width="200"/>
+<img src="https://github.com/koegl/SlicerMRUSLandmarking/raw/main/misc/5_Landmark%201%20Intra-Op.png" alt="L5-MR2" width="500"/>
 
 
 
