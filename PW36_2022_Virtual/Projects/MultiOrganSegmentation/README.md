@@ -37,6 +37,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 1. Initial model training for mouse embryo segmentation was done a spatial resolution of 128x128x128. Training carried out to 500 epochs. While successeful, there wasn't sufficient anatomical detail due to low spatial resolution of model.  
 2. Edited the spatial resolution to 192x192x192 (highest we can fit on Nvidia A6000, with 48GB of RAM). Used the initial model weights, and rerun the tranining for further 100 epochs. This improved the detail considerably. We also achievied higher training dice scores on this higher resolution modes. 
 3. Currently running inference on unseen data. Inference takes approximately one-minute when monaiserver is local to the Slicer application.  
+4. Average DICE coefficient of 0.81 between inferred reference labels registered using Syn + CC. Scores similar to other state-of-the-art methods for individual organ labels.
 
 # Illustrations
 
@@ -45,6 +46,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ![Comparison of low-res model inference to reference label](lowres_model.png)
 
 ![Comparison of high-res model inference to reference label](highres_model.png)
+
+![DICE coefficient between inferred and reference labels](highres_model.png)
 
 # Background and References
 
