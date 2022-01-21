@@ -108,16 +108,20 @@ It also generates template for an extension
 
 After installation the mode becomes avaiable. 
 
+4) `remove-mode <mode-name>`
+
+![ezgif com-gif-maker (12)](https://user-images.githubusercontent.com/7490180/150454474-1356a0d5-af35-41ec-b262-1100d077e86e.gif)
 
 
+5) OHIF website update
 
-
-We intend to showcase all modes (and hopefully extensions) that are developed for OHIF in the OHIF website.
+Using Github GraphQL we showcase a list of modes that are published on the npm registry. 
 
 ![image](https://user-images.githubusercontent.com/7490180/149446827-ece3aa65-32a5-439d-803b-0492ad964a42.png)
 
-Each mode will have a page explaining the usecase, and installation, along with screenshots of the mode.
+The README file of each mode repository is fetched and shown in its detailed page
 
-![image](https://user-images.githubusercontent.com/7490180/149446888-7109ebec-a760-49dd-93cb-97073b53d9c0.png)
+![image](https://user-images.githubusercontent.com/7490180/150454823-14fe56e5-0327-494a-ac36-e55f9ee88a87.png)
+
 
 # Background and References
