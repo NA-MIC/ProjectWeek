@@ -49,10 +49,10 @@ A discussion between Steve Piper, Rafael Palomar, Simon Drouin and Andrey Titov 
 
 # Illustrations
 
-PRISM - Markups:
+PRISM - Markup ROI:
 ![PRISM_Markups](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/PRISMRendering/images/PRISM - Markups.PNG)
 
-PRISM - Markups (rotated):
+PRISM - Markup ROI (rotated and scaled):
 ![PRISM_Markups_rotated](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/PRISMRendering/images/PRISM - Markups rotated.PNG)
 
 # Background and References
