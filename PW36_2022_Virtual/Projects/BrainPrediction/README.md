@@ -38,9 +38,11 @@ We postulate that there is a relationship between the shape of ones head and the
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1. ...
+Not a lot of progress was made.
+1. Some issues with the MRI Masks, data misaligned.
+    - Has been resolved, will start training next week
+1. Started a TMS Prediction Module, Source below
+    - Broken Pipe Error on the prediction, working on figuring out why. 
 
 # Illustrations
 
@@ -48,7 +50,10 @@ We postulate that there is a relationship between the shape of ones head and the
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![TMS Prediction UI](TMS_UI.PNG)
+![TMS Execute Error](TMS_UI_TEMP.PNG)
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+- **TMS Prediction** GitHub repository: [TMS Prediction](https://github.com/YangRyRay/TMS_Prediction)
