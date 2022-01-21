@@ -50,10 +50,10 @@ A discussion between Steve Piper, Rafael Palomar, Simon Drouin and Andrey Titov 
 # Illustrations
 
 Screenshot showing VR usage:
-![SlicerCollaboration screenshot VR](PRISM - Markups.PNG)
+![SlicerCollaboration screenshot VR](images/PRISM - Markups.PNG)
 
 Screenshot showing server/client:
-![SlicerCollaboration screenshot server/client](PRISM - Markups rotated.PNG)
+![SlicerCollaboration screenshot server/client](images/PRISM - Markups rotated.PNG)
 
 # Background and References
 
