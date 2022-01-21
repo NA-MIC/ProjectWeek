@@ -11,12 +11,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-CERR is an Octave/MATLAB-based software platform for developing and sharing research results using radiation therapy treatment planning and imaging informatics. "sliCERR" was developed to facilitate the use of CERR's radiotherapy and image analysis functionality. The extension provides scripted modules for data I/O operations and specialized analysis routines in CERR. It is written in Python and can be run in Jupyter notebooks with 3D Slicer kernel for visualization and image processing. The cerr2mrml module handles the I/O operations of loading native CERR planC format files into the 3DSlicer MRML scene, including import of scan, dose and ROI contours.
+CERRx is an Octave/MATLAB-based software platform for developing and sharing research results using radiation therapy treatment planning and imaging informatics. "sliCERR" is being developed to facilitate the use of CERRx's radiotherapy and image analysis functionality. The extension we envision, "sliCERR", will provide scripted modules for data I/O operations, and will run analysis routines from CERRx. 
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
+"sliCERR" will be a scripted module for Slicer, written in Python. We are starting in Jupyter notebooks with 3D Slicer kernel for visualization and image processing. The cerr2mrml module handles the I/O operations of loading native CERR planC format files into the 3DSlicer MRML scene, including import of scan, dose and ROI contours.
 1. Easy imaging data IO exchange between CERR and 3D Slicer platforms via module UI
 2. Enable CERR features for dosimetry and image analysis, ROE Radiotherapy Outcomes Estimator, semi-quanitative DCE features, DL-based image segmentation models
 
