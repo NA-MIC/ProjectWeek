@@ -31,7 +31,8 @@ A vessel model will be reconstructed from a preoperative 3D CT. During the opera
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Use multiprocessing method to improve realtime performance. (Problem: Third party library “dill” in Python cannot work properly in 3D Slicer.)
+1. Connect TMR position tracker system to our extension via OpenIGTLink.
+2. Testing.
 
 # Illustrations
 
@@ -39,7 +40,14 @@ A vessel model will be reconstructed from a preoperative 3D CT. During the opera
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+- Extension interface
+
 ![Extension interface](catheternavigation.png)
+
+- Experimental setup
+
+![Experimental setup](img1.png)
+![Experimental setup](img2.png)
 
 # Background and References
 
