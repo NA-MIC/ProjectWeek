@@ -245,9 +245,9 @@ List of registered participants so far (names will be added here after processin
 1.  Carl-Fredrik Westin	,	Brigham and Womens Hospital	,	USA
     
 ## Statistics
-* 115 Registered attendees
+* 131 Registered attendees
   * 43% first time attendees
-* 20 countries
+* 25 countries
     
 <img src="images/attendees-per-country.png" alt="Attendees per country" width="600"/>
 <img src="images/timezones.png" alt="Attendees timezones" width="600"/>
