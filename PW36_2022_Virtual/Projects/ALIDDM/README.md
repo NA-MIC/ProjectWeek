@@ -65,7 +65,7 @@ We decided to work on an other method based on segmentation with PyTorch.
 The objective is to have different 2D views of the jaw in input of the model and in output the same model of the jaw with a segmentated area in the region of the landmark.
 With this segmentation we’ll be able to recover the coordinates of the points in this area and then the position of the landmark. 
 
-
 # Illustrations
-![Pasted Graphic](https://user-images.githubusercontent.com/83285614/150446964-7d2020b5-3850-42fd-bc29-334bea6d2770.jpeg)
+<img width="468" alt="Picture1" src="https://user-images.githubusercontent.com/83285614/150551185-d53781e5-991f-4907-a55c-c89fe0444447.png">
+
 ![Pasted Graphic 1](https://user-images.githubusercontent.com/83285614/150447011-cc7a8b5e-5032-40c6-9024-a9e123599ad4.jpeg)
