@@ -50,10 +50,10 @@ A discussion between Steve Piper, Rafael Palomar, Simon Drouin and Andrey Titov 
 # Illustrations
 
 PRISM - Markup ROI:
-![PRISM_Markups]("images/PRISM-Markups.PNG?raw=true")
+![PRISM_Markups](images/PRISM-Markups.PNG?raw=true)
 
 PRISM - Markup ROI (rotated and scaled):
-![PRISM_Markups_rotated]("images/PRISM-Markups_rotated.PNG?raw=true")
+![PRISM_Markups_rotated](images/PRISM-Markups_rotated.PNG?raw=true)
 
 # Background and References
 
