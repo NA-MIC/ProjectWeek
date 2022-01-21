@@ -59,7 +59,9 @@ In this project week, we work on releasing the code of SupWMA. We provide the tr
 
 ![overview](https://user-images.githubusercontent.com/56477109/150529616-652b889d-0738-4528-b9db-4eb3e6953ce0.png)
 
-![Selection_053](https://user-images.githubusercontent.com/56477109/150529903-7b622214-3b80-4d1c-a9ce-c8fee220ab10.png)
+![demo](https://user-images.githubusercontent.com/56477109/150544504-f8d5d42a-23cd-42dc-b97d-747fbe860f3d.png)
+
+![results](https://user-images.githubusercontent.com/56477109/150544562-ccbeb71f-ce8b-4de7-aae8-cb674c8242ab.png)
 
 # Background and References
 
