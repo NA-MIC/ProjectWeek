@@ -47,7 +47,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ![Comparison of high-res model inference to reference label](highres_model.png)
 
-![DICE coefficient between inferred and reference labels](highres_model.png)
+![DICE coefficient between inferred and reference labels](DICE.png)
 
 # Background and References
 
