@@ -69,7 +69,7 @@ Core:
 - [x] Automatically download extensions of correct version when installing modes.
 - [ ] WIP Verify that npm packages fetched by CLI are _actually_ conforming to extensions/modes so we don't just cross our fingers.
 - [ ] WIP Error handling for extension conflicts.
-- [ ] WIP Error handling for missing extensions.
+- [x] Error handling when constructing modes at runtime for missing extensions/extension version mismatches.
 - [ ] Type mode and extension schema and make these types publically available somewhere.
 - [ ] Add the type contracts to the templates produced by ohif-cli create-extension and ohif-cli create-mode.
 
@@ -128,3 +128,7 @@ The README file of each mode repository is fetched and shown in its detailed pag
 
 
 # Background and References
+
+- OHIF: https://ohif.org/
+- OHIF-v3 Demo: https://v3-demo.ohif.org/
+- OHIF Documentation: https://v3-docs.ohif.org/

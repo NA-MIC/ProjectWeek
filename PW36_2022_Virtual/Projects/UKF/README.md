@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# UKF tractography with additional seeding and stopping options
+# Anatomically informed UKF tractography 
 
 ## Key Investigators
 
@@ -34,7 +34,7 @@ In this project, we will include brain tissue segmentation maps into the existin
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Coding part of the project is almost done.
-1. Push requst to the master branch of UKF: https://github.com/pnlbwh/ukftractography/pull/142
+1. Push requst to the master branch of [UKF](https://github.com/pnlbwh/ukftractography/pull/142)
 1. Waiting for the final pull requst approval
 1. Decide default (suggested) settings for each option
 1. Testing on more datasets other than HCP data.

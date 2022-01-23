@@ -111,15 +111,13 @@ A github search revealed that "Editor" calls are being made from three of the ab
 
 01/20/22: 11am-12:30pm Meeting with Raul, Andras, Rudolf (Discord Red Slice)
 
-- another great follow up meeting
-- CIP Calibrate module of CIP has been finalized together with @lassoan and was demonstrated by @rbumm
+- The Chest Imaging Platform extension's "Calibrate" module has been finalized for Slicer 5 together with @lassoan and was demonstrated by @rbumm
 -  see this [SlicerCIP GitHub fork](https://github.com/rbumm/SlicerCIP/tree/Branch_CIPCompatSlicer5) and [this commit](https://github.com/rbumm/SlicerCIP/commit/86c8173639a2ecc3c08993fa311625bec51378c9) 
-- will serve  as a skeleton to adopt the other CIP modules
-- is now fully functional in Slicer 5
+- will serve  as a skeleton to adopt the other CIP modules and is now fully functional
 - The "Calibration" widget uses a newly created segmentation for each volume instead of labelmaps
 - the segmentation can be edited in the embedded Segment Editor
 - before pressing "Calibrate" the segmentation is converted to a labelmap for the actual calibration in the logic()  
-- we developed a strategy on how to transform the other CIP modules to Slicer 5
+- in addition, we developed a strategy on how to transform the other CIP modules to Slicer 5
 - non-working modules will be excluded from CMake to provide only those functional to the community
 - @Raul demonstrated new vessel segmentation techniques and answered many questions
 - @Raul agreed on giving @lassoan write access to the SlicerCIP GitHub repository 

@@ -48,8 +48,6 @@ prototypes of our resection planning algorithms into 3D Slicer.
 1. GUI to manage segments (add, remove, edit).
 1. Loading/saving vascular territories.
 
-## Progress and Next Steps
-
 ## Illustrations
 
 ![3D Bezier Surface Markup](bezier_surface_markup.png)
@@ -57,6 +55,17 @@ prototypes of our resection planning algorithms into 3D Slicer.
 ![Resection initialization](resection_initialization.png)
 
 ![Resection planning](resection_planning.png)
+
+## Progress and Next Steps
+
+During Project Week, we have been able to add *real-time computation of safety
+margins* to our resection planning module, as well as create a new module for
+*computation of vascular territories*
+
+[![Alt text](https://img.youtube.com/vi/--dIcE97RVQ/0.jpg)](https://www.youtube.com/watch?v=--dIcE97RVQ)
+
+Our next step is to work on the user interface and the loading/saving
+functionality needed to make this a complete Slicer extension.
 
 # Background and References
 1. [Slicer-Liver PW35](https://github.com/NA-MIC/ProjectWeek/tree/master/PW35_2021_Virtual/Projects/Slicer-Liver

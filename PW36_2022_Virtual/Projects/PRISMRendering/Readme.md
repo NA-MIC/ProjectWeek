@@ -44,8 +44,8 @@ The goal of this project is to enable the development of advanced 3D rendering t
 
 ### Future of Slicer advanced rendering
 A discussion between Steve Piper, Rafael Palomar, Simon Drouin and Andrey Titov has allowed to identify a few requirements for the future of rendering in VTK and Slicer:
-1. GPU preprocessing pipelines are available for volumes, geometry and textures.
-2. An arbitrary number of textures, scalar and vector fields can easily be fed into mappers and easily accessed in shaders.
+1. Allow for GPU preprocessing pipelines, available for volumes, geometry and textures.
+2. Allow for an arbitrary number of textures, scalar and vector fields that can easily be fed into mappers and easily accessed in shaders.
 3. An arbitrary number of transfer functions can be fed into mappers and easily accessed in shaders.
 
 # Illustrations

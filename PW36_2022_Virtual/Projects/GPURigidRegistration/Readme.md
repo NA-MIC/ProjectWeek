@@ -21,7 +21,7 @@ The objective of the second project is to recover another functionality in the s
 3. Create a Slicer module that replicates the functionality of Ibis using the independent library (TODO)
 
 2nd project (New)
-1. Extract te converter minc/mha (SequenceIO) code from IBIS Neuronav to an independent library 
+1. Extract the converter minc/mha (SequenceIO) code from IBIS Neuronav to an independent library 
 2. Create a standalone command-line application to convert
 3. Create a Slicer module that replicates the functionality of Ibis using the independent library
 
@@ -37,6 +37,15 @@ The objective of the second project is to recover another functionality in the s
 2. Write a test suite using the command-line application.
 
 ## Progress and Next Steps
+
+1. The GPU RegidRegistration Lib is available to be used by command line [here](https://github.com/IbisNeuronav/GPURigidRegistrationLib) . (DONE)
+2. Make modifications for Ibis neuro uses this library to avoid code duplication. (In progress)
+3. Implementation of the solution in slicer. (Next Step)
+
+ The second project
+1. Extract the converter minc/mha (SequenceIO) code from IBIS Neuronav to an independent library (in progress) [here](https://github.com/rggelel/SequenceIo) 
+2. Make modifications for Ibis neuronav uses this library to avoid code duplication. (Next step)
+3. Implementation of the solution in slicer. (Next Step)
 
 # Illustrations
 ![Registration on real time with GPU](https://projectweek.na-mic.org/PW35_2021_Virtual/Projects/GPURigidRegistration/gpu-rigid-reg.gif)

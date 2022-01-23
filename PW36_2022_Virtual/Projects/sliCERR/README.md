@@ -39,13 +39,16 @@ CERRx is an Octave/MATLAB-based software platform for developing and sharing res
 
 Link to Jupyter Notebook demo: https://mskcc.box.com/s/eizbm2nc54uvddcomzmvotw2w8sl82h4
 
-![Basic Workflow](sliCERR_graphic.png)
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
+<!-- ![Basic Workflow](sliCERR_graphic.png) -->
+<img src="sliCERR_graphic.png" alt="sliCERR" width="600"/><!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
 
-![Dose overlay from CERR planC file](sliCERR_dose_overlay.png)
+<!-- ![Dose overlay from CERR planC file](sliCERR_dose_overlay.png) -->
+<img src="sliCERR_dose_overlay.png" alt="planC with dose in Slicer" width="600" />
+
+<img src="slicer_notebook.JPG" alt="import DICOM to planC" width="600" />
 
 # Background and References
 * ROE: Radiotherapy Outcomes Estimator - An Open-Source Tool for Modeling Radiotherapy Outcomes https://www.aapm.org/meetings/2017am/PRAbs.asp?mid=127&aid=37270
