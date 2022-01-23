@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Deep Fiber Clustering: Anatomically Informed Unsupervised Deep Learning for Fast and Effective White Matter Parcellation
+# A deep learning framework for white matter fiber clustering, code release via SlicerDMRI
 
 ## Key Investigators
 
