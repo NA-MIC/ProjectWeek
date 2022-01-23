@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Superficial White Matter Analysis (SupWMA): A deep learning framework for superficial white matter parcellation, code release via SlicerDMRI 
+# A deep learning framework for superficial white matter parcellation, code release via SlicerDMRI 
 
 ## Key Investigators
 
