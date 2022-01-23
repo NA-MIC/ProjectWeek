@@ -87,7 +87,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Anatomically informed UKF tractography](Projects/UKF/README.md) (Fan Zhang, Yogesh Rathi, Lauren J O'Donnell)
 1. [Deep Diffusion MRI Registration (DDMReg)](Projects/DDMReg/README.md) (Fan Zhang, William M. Wells III, Lauren J O'Donnell)
 1. [SupWMA: consistent and efficient tractography parcellation of superficial white matter with deep learning](Projects/SupWMA/README.md) (Tengfei Xue, Fan Zhang, Chaoyi Zhang, Yuqian Chen, Yang Song, Nikos Makris, Yogesh Rathi, Weidong Cai, Lauren J. O’Donnell)
-1. [Deep Fiber Clustering: Anatomically Informed Unsupervised Deep Learning for Fast and Effective White Matter Parcellation](Projects/DeepFiberClustering/README.md) (Yuqian Chen, Chaoyi Zhang, Yang Song, Tengfei Xue, Nikos Makris, Yogesh Rathi, Weidong Cai, Fan Zhang, and Lauren J. O’Donnell)
+1. [Deep Learning White Matter Fiber Clustering](Projects/DeepFiberClustering/README.md) (Yuqian Chen, Chaoyi Zhang, Yang Song, Tengfei Xue, Nikos Makris, Yogesh Rathi, Weidong Cai, Fan Zhang, and Lauren J. O’Donnell)
 
 ### Cloud
 1. [Body Part Regression using IDC](Projects/IDCBodyPartRegression/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
