@@ -36,7 +36,7 @@ To identify members of the Slicer community interested in contributing translati
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 1. Extraction of Qt strings from Slicer
-3. Daily translation hackathons with members of the Slicer community
+3. Daily translation hackathons with members of the Slicer community from Senegal, Mauritania, Hungary, Ukraine, Germany, Russia, Brazil, Mexico, USA and France
 
 
 ## Progress and Next Steps

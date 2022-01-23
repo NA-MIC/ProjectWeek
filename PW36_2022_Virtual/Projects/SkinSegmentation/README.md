@@ -48,7 +48,7 @@ Neuronavigation systems allow for visualization of pre-operative images and plan
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-![Example of skin surface extraction using Slicer](./misc/slicer_screenshot.png)
+![Example of skin surface extraction using Slicer](./misc/example.png)
 
 
 # Background and References

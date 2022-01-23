@@ -63,9 +63,10 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 3. [Slicer TMS Module](Projects/SlicerTMS_Module/README.md) (Loraine Franke, Lipeng Ning, Yogesh Rathi, Steve Pieper, Raymond Yang, Daniel Haehn)
 4. [PRISM Rendering](Projects/PRISMRendering/Readme.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
 1. [Echo VolumeRender UI](Projects/EchoVolumeRenderUI/README.md) (Samuelle St-Onge, Simon Drouin, Andrey Titov)
-    
+1. [Integration of Flir Thermal Camera](Projects/FlirCameraInSlicer) (Juan Bautista Ruis Alzola, Robabeh Salehiozoumchelouei, Mónica García Sevilla, Yousef Rajaeitabrizi)
+
 ### Image-guided therapy and low cost systems   
-1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia Mato, Csaba Pinter, Rebecca Hisey, Matt McCormick, Steve Pieper, ...)
+1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia, Csaba Pinter, Rebecca Hisey, Leah Groves, Ahmed Mahran, Matt McCormick, Steve Pieper, ...)
 1. [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Ole V. Solberg, Geir Arne Tangen, Gabriella D'Albenzio, Javier Pérez de Frutos)
 1. [Visualization of catheter path based on an electromagnetic tracking with TMR sensors](Projects/TMRCatheterNavigation/README.md) (Wenran Cai, Kazuaki Hara, Rina Nagano, Junichi Tokuda
 1. [Integration of ROS and 3D Slicer using OpenIGTLink](Projects/ROS-MED/README.md) (Junichi Tokuda, Tamas Ungi, Simon Leonard, Axel Krieger, Mark Fuge)
@@ -75,6 +76,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [MR-US Landmarking for Neuronavigated surgery](Projects/AnnotationMR-US/Readme.md) (Fryderyk Kögl, Harneet Cheema, Tina Kapur, Simon Drouin)
 1. [Low-cost trackers](Projects/CheapTracking/README.md) (Steve Pieper, Gabor Fichtinger)
 1. [sliCERR](Projects/sliCERR/README.md) (Aditya Apte, Aditi Iyer, Eve LoCastro, Harini Veeraraghavan)
+1. [Mandible Reconstruction Automatic Planning](Projects/MandibleReconstructionAutomaticPlanning/README.md) (Mauro I. Dominguez, Andras Lasso, Manjula Herath)
 
 ### Segmentation/Classification
 1. [Spine Segmentation](Projects/SpineSegmentation/README.md) (Ron Alkalay, Steve Pieper, ...)
@@ -82,7 +84,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Brain Mask Prediction](Projects/BrainPrediction/README.md) (Raymond Yang, Jax Luo, Lipeng Ning, Cathy Yang, Steve Pieper, Daniel Haehn)
 1. [Automatic Landmark Identification in 3D Cone-Beam Computed Tomography scans](Projects/ALICBCT/README.md) (Maxime Gillot, Baptiste Baquero, Antonio Ruellas, Marcela Gurgel, Elizabeth Biggs, Marilia Yatabe, Jonas Bianchi, Lucia Cevidanes, Juan Carlos Prieto)
 1. [ALIIOS - Automatic Landmarks Identification for Intra OralScans](Projects/ALIDDM/README.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, Juan Carlos Prieto, Najla Al Turkestani, Marcela Gurgel, Camila Massaro, Aron Aliaga, Maria Antonia Alvarez Castrillon, Marilia Yatabe, Jonas Bianchi, Juan Fernando Aristizabal, Diego Rey, Antonio Ruellas)
-
+1. [Automatic Segmentation of Teeth and Alveolar bone using MONAI Label](Projects/AutomaticSegmentationofTeethandAlveolarBone/README.md) (Daniel Palkovics, Csaba Pinter, Andrés Diaz-Pinto)
+    
 ### SlicerDMRI
 1. [Anatomically informed UKF tractography](Projects/UKF/README.md) (Fan Zhang, Yogesh Rathi, Lauren J O'Donnell)
 1. [Deep Diffusion MRI Registration (DDMReg)](Projects/DDMReg/README.md) (Fan Zhang, William M. Wells III, Lauren J O'Donnell)
@@ -222,11 +225,29 @@ List of registered participants so far (names will be added here after processin
 1.	Tengfei Xue	,	Harvard Medical School/University of Sydney	,	Australia
 1.	Yiwei Jiang	,	Worcester Polytechnic Institute	,	USA
 1.	Yuqian Chen	,	Harvard Medical School	,	USA
+1.	Gabriella d'Albenzio	,	The Intervention Centre (OUS)	,	Norway
+1.	Raul San Jose Estepar	,	Brigham and Women's Hospital	,	USA
+1.	Kyle Sunderland	,	Queen's University	,	Canada
+1.	Árpád Márki	,	University of Szeged	,	Hungary
+1.	Martin Dr. Cseh	,	University of Szeged Faculty of Pharmacy	,	Hungary
+1.	Sandy Wells	,	HMS / BWH	,	USA
+1.	Chris Hafey	,	AWS	,	USA
+1.	Matt Lungren	,	Amazon	,	USA
+1.	Jean-Christophe Fillion-Robin	,	Kitware	,	USA
+1.	Peter Traneus Anerson	,	Retired	,	U.S.A.
+1.	Adriana Herlinda Vilchis González	,	Universidad Autónoma del Estado de México	,	México
+1.	Richard Doerer	,	Modl3d, LLC	,	USA
+1.	Andres Diaz-Pinto	,	NVIDIA	,	United Kingdom
+1.	Randy Gollub	,	MGH	,	USA
+1.	Luis 	,	University of Minho	,	Portugal
+1.	Igor Octaviano	,	Pontifical Catholic University of Minas Gerais	,	Brazil
+1.	Pape Mady THIAO	,	École militaire de santé de Dakar 	,	Sénégal 
+1.  Carl-Fredrik Westin	,	Brigham and Womens Hospital	,	USA
     
 ## Statistics
-* 115 Registered attendees
+* 131 Registered attendees
   * 43% first time attendees
-* 20 countries
+* 25 countries
     
 <img src="images/attendees-per-country.png" alt="Attendees per country" width="600"/>
 <img src="images/timezones.png" alt="Attendees timezones" width="600"/>

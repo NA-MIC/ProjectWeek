@@ -48,6 +48,8 @@ Link to Jupyter Notebook demo: https://mskcc.box.com/s/eizbm2nc54uvddcomzmvotw2w
 <!-- ![Dose overlay from CERR planC file](sliCERR_dose_overlay.png) -->
 <img src="sliCERR_dose_overlay.png" alt="planC with dose in Slicer" width="600" />
 
+<img src="slicer_notebook.JPG" alt="import DICOM to planC" width="600" />
+
 # Background and References
 * ROE: Radiotherapy Outcomes Estimator - An Open-Source Tool for Modeling Radiotherapy Outcomes https://www.aapm.org/meetings/2017am/PRAbs.asp?mid=127&aid=37270
 * Extension of CERR for computational radiomics: A comprehensive MATLAB platform for reproducible radiomics research https://pubmed.ncbi.nlm.nih.gov/29896896/

@@ -31,11 +31,11 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 1. Connecting Slicer with a mobile phone via SlicerWeb (https://github.com/pieper/SlicerWeb)
 2. Explore WebXR: WebXR needs https, so either generate local certificate (https://blog.anvileight.com/posts/simple-python-http-server/) and make modifications in the SlicerWeb WebServer.py file. OR alternatively run with USB cable connected to computer (USB debugging in developer tools for Android. iPhone requires an Apple Developer Account for this)
 3. Evaluating different approaches for AR with WebXR by testing different libraries: ThreeJS, A-Frame or React. 
-4. Visualizing our created 'butterfly' TMS coil in WebXR: A-Frame only allows obj and gltf file formats as models, Threejs also more like stl files.
+4. Visualizing our created 'butterfly' TMS coil in WebXR: A-Frame only allows obj and gltf file formats as models, Threejs also more like stl files. A-Frame allowed only image-, location- and marker-based AR tracking. Recently, AR.js enables markerless AR. Using WebXR without a marker is still in early stages of development.
 5. Moving the TMS coil and scene by tapping on it on the mobile device.
 
 Next steps:
-- More precise interaction with objects in AR on the phone: scaling and rotating of the coil (Current WebXR approaches only allow static interaction without handling user's finger gestures on screen.)
+- More precise interaction with objects in AR on the phone: scaling and rotating of the coil via mobile screen gestures (Current WebXR approaches only allow static interaction without handling user's finger gestures on screen.)
 - Retrieving user's and coil position coordinates.
 - Send the current coil position coordinates into Slicer via SlicerWeb connection.
 
@@ -71,7 +71,7 @@ On an Android Phone via USB:
 For iPhone: 
 - Mozilla offers a WebXR Emulator that can be downloaded from the Apple Store for any iPhone and iPad: https://labs.mozilla.org/projects/webxr-viewer/
 
-## For Slicer TMS Module (see previous project week):
+## For Slicer TMS Module (see previous project week ![PW 35](https://github.com/NA-MIC/ProjectWeek/tree/master/PW35_2021_Virtual/Projects/TMS_Slicer_Module)):
 
 vtkProbeFilter: https://vtk.org/doc/nightly/html/classvtkProbeFilter.html
 Moving fiducials with CPYY: https://gist.github.com/pieper/f9da3e0a73c70981b48d0747132526d5
