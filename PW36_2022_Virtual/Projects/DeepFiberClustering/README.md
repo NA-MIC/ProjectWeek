@@ -40,7 +40,6 @@ We propose an unsupervised deep learning framework for fast and effective white 
 
 1. Code released at: https://github.com/SlicerDMRI/DFC.
 2. Trained models and example testing data are provided.
-3. Intergate into SlicerDMRI so that users can use via Slicer interface.
 
 # Illustrations
 
