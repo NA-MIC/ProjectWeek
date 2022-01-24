@@ -13,7 +13,7 @@
 - Fryderyk Kögl (BWH, TUM)
 
 # Project Description
-Neuronavigation systems allow for visualization of pre-operative images and planning information to estimate the precise location of target surgical areas. Patient-to-image mapping is a key step in the workflow of these neuronavigation systems. Registration approaches typically rely on landmarks on pre-operative images as well as on the patient in the operating room (OR) [1]. An alternative approach would be to directly map the patient's skin surface [2]. While extracting the skin surface of the patient in the OR can be performed using existing technologies (e.g., a pointer, a laser) [3], automatic skin surface extraction on scans remains an open problem. This project aims at developing an automated skin segmentation tool for pre-operative scans (T1w scans).
+Neuronavigation systems allow for visualization of pre-operative images and planning information to estimate the precise location of target surgical areas. Patient-to-image mapping is a key step in the workflow of these neuronavigation systems. Registration approaches typically rely on landmarks on pre-operative images as well as on the patient in the operating room (OR) [1]. An alternative approach would be to directly map the patient's skin surface [2]. While extracting the skin surface of the patient in the OR can be performed using existing technologies (e.g., a pointer, a laser) [3], automatic skin surface extraction on scans remains an open problem. This project aims at developing an automated skin segmentation tool for pre-operative scans.
 
 
 ## Objective
@@ -28,18 +28,17 @@ Neuronavigation systems allow for visualization of pre-operative images and plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Select an MR database and curate the data.
-2. Define the annotation protocol.
-3. Annotate the scans.
-4. Train a deep learning approach.
-5. Assess the performance of the proposed model.
+1. Develop a method that is: 1/ robust to different acquisition protocols (e.g., scanner manufacturer, slice thickness, acquisition orientation); 2/ robust to different imaging modalities (e.g. CT, T1w MR, T2-FLAIR MR); relatively fast (~1-2min max).
+5. Assess the performance of the proposed technique.
 6. Develop a Slicer module with the pre-trained model.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Currently selecting the MR database.
+1. The algorithm has been developed.
+2. The Slicer module is now available [here](https://github.com/ReubenDo/SlicerSkinExtractor/)
+3. The algorithm still needs to be benchmarked and qualitatively assessed
 
 
 # Illustrations
