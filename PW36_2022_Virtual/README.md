@@ -1,6 +1,6 @@
 ## Welcome to the web page for the 36th Project Week!
 
-[This event](https://projectweek.na-mic.org/PW36_2022_Virtual/) was  held virtually January 17-21, 2022. We recorded 31 registered attendees with 43% first time attendees from 25 countries
+[This event](https://projectweek.na-mic.org/PW36_2022_Virtual/) was  held virtually January 17-21, 2022. We recorded 131 registered attendees with 43% first time attendees from 25 countries
 
 If you have any questions, you can contact the [organizers](../README.md#who-to-contact).
 
