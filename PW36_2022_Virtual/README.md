@@ -1,6 +1,6 @@
 ## Welcome to the web page for the 36th Project Week!
 
-[This event](https://projectweek.na-mic.org/PW36_2022_Virtual/) was  held virtually January 17-21, 2022. We recorded 131 registered attendees with 43% first time attendees from 25 countries. Participants worked in 37 Project Teams, and participated in 3 breakout sessions.  New for this Project Week, two events were recorded - a Monai Label Workshop during the prepration weeks leading upto the event (recording available [here]( https://youtu.be/PmD8umlcpF4)), and the OHIF breakout session.
+[This event](https://projectweek.na-mic.org/PW36_2022_Virtual/) was  held virtually January 17-21, 2022. We recorded 131 registered attendees with 43% first time attendees from 25 countries. Participants worked in 37 Project Teams, and participated in 3 breakout sessions.  Some of the recordings are available. 
 
 If you have any questions, you can contact the [organizers](../README.md#who-to-contact).
 
@@ -93,11 +93,11 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Deep Fiber Clustering: Anatomically Informed Unsupervised Deep Learning for Fast and Effective White Matter Parcellation](Projects/DeepFiberClustering/README.md) (Yuqian Chen, Chaoyi Zhang, Yang Song, Tengfei Xue, Nikos Makris, Yogesh Rathi, Weidong Cai, Fan Zhang, and Lauren J. O’Donnell)
 
 ### Cloud
-1. [Body Part Regression using IDC](Projects/IDCBodyPartRegression/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
+1. [Body Part Regression using IDC](Projects/IDCBodyPartRegression/README.md) (Deepa Krishnaswamy, Khaled Younis, Andrey Fedorov)
 2. [OHIF Mode Gallery](Projects/OHIFModeGallery/Readme.md) (Alireza Sedghi, James Petts, Erik Ziegler)
 3. [Kaapana and XNAT exploration on Google Cloud](Projects/KaapanaXNATExploration/README.md) (Nadya Shusharina, Andrey Fedorov)
 4. [Static DICOM Web for AI Assissted Annotations on AWS](Projects/StaticDicomWeb/README.md) (Chris Hafey, Gang Fu, Jordan Kojouharov, Qing Liu, Dmitry Pavlov, Andres Diaz-Pinto, Sachidanand Alle)
-5. [OHIF deployment on Google Cloud](Projects/OHIFonGCP/README.md) (Andrey Fedorov, Igor Octaviano, Steve Pieper)
+5. [OHIF deployment on Google Cloud](Projects/OHIFonGCP/README.md) (Andrey Fedorov, Igor Octaviano, Deepa Krishnaswamy, Bill Longabaugh, Khaled Younis, Steve Pieper)
 
 ### Infrastructure
 1. [Slicer 5 Release](Projects/Slicer5/README.md) (Sam Horvath, Jean-Christophe Fillion-Robin, Steve Pieper, Andras Lasso)
