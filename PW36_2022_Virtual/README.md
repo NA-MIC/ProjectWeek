@@ -1,6 +1,6 @@
 ## Welcome to the web page for the 36th Project Week!
 
-[This event](https://projectweek.na-mic.org/PW36_2022_Virtual/) was  held virtually January 17-21, 2022. We recorded 131 registered attendees with 43% first time attendees from 25 countries. Participants worked in 37 Project Teams, and participated in 3 breakout sessions.  New for this Project Week, two events were recorded - a Monai Label Workshop during the prepration weeks leading upto the event (recording available [here]( https://youtu.be/PmD8umlcpF4)), and the OHIF breakout session.
+[This event](https://projectweek.na-mic.org/PW36_2022_Virtual/) was  held virtually January 17-21, 2022. We recorded 131 registered attendees with 43% first time attendees from 25 countries. Participants worked in 37 Project Teams, and participated in 3 breakout sessions.  New for this Project Week, two events were recorded - a Monai Label Workshop during the prepration weeks leading upto the event (recording available [here]( https://youtu.be/PmD8umlcpF4)), and the OHIF breakout session (recording available [here](https://vimeo.com/668339696/63a2c48de8)).
 
 If you have any questions, you can contact the [organizers](../README.md#who-to-contact).
 
