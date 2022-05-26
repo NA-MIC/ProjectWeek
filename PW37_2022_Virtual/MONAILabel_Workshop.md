@@ -10,3 +10,8 @@ Each participant will be allocated a cloud-hosted GPU workstation provided by [A
 Instances will be allocated in the US an EU based on the location of the participant.  See [this information about bandwidth considerations](https://docs.aws.amazon.com/appstream2/latest/developerguide/bandwidth-recommendations-user-connections.html).
 
 Space will be limited so sign up by June 8th 2022.
+
+## Previous workshop
+
+See [discussion here](https://discourse.slicer.org/t/monailabel-3d-slicer-for-cloud-computing-workshop-jan-12-2022-2-4-est/21152) for
+information about the previous workshop held before [Project Week 36](https://projectweek.na-mic.org/PW36_2022_Virtual/).
