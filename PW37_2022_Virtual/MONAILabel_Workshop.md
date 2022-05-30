@@ -1,8 +1,8 @@
-# MONAILabel Workshop
+# MONAI Label Workshop
 
 June 22, 2022 9-11am EDT
 
-The goal of this workshop is to prepare users and developers to make use of MONAI and MONAILabel in their work at [Project Week 37](https://projectweek.na-mic.org/PW37_2022_Virtual/).
+The goal of this workshop is to prepare users and developers to make use of MONAI and MONAI Label in their work at [Project Week 37](https://projectweek.na-mic.org/PW37_2022_Virtual/).
 
 To request participation, please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSc_hdylCGslg6Lxl-VLYNutUoja6dZfwbhu2SHnmCyxBOP2jQ/viewform).
 
