@@ -61,7 +61,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Collaborative Slicer session](Projects/SlicerCollaboration/README.md) (Csaba Pinter, Mónica Garcia, Jean-Christophe Fillion-Robin)
 2. [AR in Slicer](Projects/AR_in_Slicer/README.md) (Alicia Pose Díez de la Lastra, Javier Pascau, Gabor Fichtinger, Andras Lasso, Adam Rankin, Csaba Pinter, Lucas Gandel, Jean-Christophe Fillion-Robin)
 3. [Slicer TMS Module](Projects/SlicerTMS_Module/README.md) (Loraine Franke, Lipeng Ning, Yogesh Rathi, Steve Pieper, Raymond Yang, Daniel Haehn)
-4. [PRISM Rendering](Projects/PRISMRendering/Readme.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
+4. [PRISM Rendering](Projects/PRISMRendering/README.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
 1. [Echo VolumeRender UI](Projects/EchoVolumeRenderUI/README.md) (Samuelle St-Onge, Simon Drouin, Andrey Titov)
 1. [Integration of Flir Thermal Camera](Projects/FlirCameraInSlicer) (Juan Bautista Ruis Alzola, Robabeh Salehiozoumchelouei, Mónica García Sevilla, Yousef Rajaeitabrizi)
 
@@ -70,10 +70,10 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Ole V. Solberg, Geir Arne Tangen, Gabriella D'Albenzio, Javier Pérez de Frutos)
 1. [Visualization of catheter path based on an electromagnetic tracking with TMR sensors](Projects/TMRCatheterNavigation/README.md) (Wenran Cai, Kazuaki Hara, Rina Nagano, Junichi Tokuda
 1. [Integration of ROS and 3D Slicer using OpenIGTLink](Projects/ROS-MED/README.md) (Junichi Tokuda, Tamas Ungi, Simon Leonard, Axel Krieger, Mark Fuge)
-1. [GPU Rigid Registration for Neuronavigation (Montreal IBIS System)](Projects/GPURigidRegistration/Readme.md) (Gelel Rezig, Houssem Gueziri, Simon Drouin)
+1. [GPU Rigid Registration for Neuronavigation (Montreal IBIS System)](Projects/GPURigidRegistration/README.md) (Gelel Rezig, Houssem Gueziri, Simon Drouin)
 1. [NousNav: Low-cost neuronavigation system](Projects/NousNav/README.md) (Étienne Léger, Alexandra Golby, Sam Horvath, Sarah Frisken, David Allemang, Tina Kapur, Steve Pieper, Jean-Christophe Fillion-Robin, Sonia Pujol, Kelly Wang)
 1. [Skin Surface Extraction for NousNav Registration](Projects/SkinSegmentation/README.md) (Reuben Dorent, Tina Kapur, Sarah Frisken, Mohammad Jafari, Samantha Horvath, Jean-Christophe Fillion-Robin, Harneet Cheema, Fryderyk Kögl)
-1. [MR-US Landmarking for Neuronavigated surgery](Projects/AnnotationMR-US/Readme.md) (Fryderyk Kögl, Harneet Cheema, Tina Kapur, Simon Drouin)
+1. [MR-US Landmarking for Neuronavigated surgery](Projects/AnnotationMR-US/README.md) (Fryderyk Kögl, Harneet Cheema, Tina Kapur, Simon Drouin)
 1. [Low-cost trackers](Projects/CheapTracking/README.md) (Steve Pieper, Gabor Fichtinger)
 1. [sliCERR](Projects/sliCERR/README.md) (Aditya Apte, Aditi Iyer, Eve LoCastro, Harini Veeraraghavan)
 1. [Mandible Reconstruction Automatic Planning](Projects/MandibleReconstructionAutomaticPlanning/README.md) (Mauro I. Dominguez, Andras Lasso, Manjula Herath)
@@ -94,7 +94,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 ### Cloud
 1. [Body Part Regression using IDC](Projects/IDCBodyPartRegression/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
-2. [OHIF Mode Gallery](Projects/OHIFModeGallery/Readme.md) (Alireza Sedghi, James Petts, Erik Ziegler)
+2. [OHIF Mode Gallery](Projects/OHIFModeGallery/README.md) (Alireza Sedghi, James Petts, Erik Ziegler)
 3. [Kaapana and XNAT exploration on Google Cloud](Projects/KaapanaXNATExploration/README.md) (Nadya Shusharina, Andrey Fedorov)
 4. [Static DICOM Web for AI Assissted Annotations on AWS](Projects/StaticDicomWeb/README.md) (Chris Hafey, Gang Fu, Jordan Kojouharov, Qing Liu, Dmitry Pavlov, Andres Diaz-Pinto, Sachidanand Alle)
 5. [OHIF deployment on Google Cloud](Projects/OHIFonGCP/README.md) (Andrey Fedorov, Igor Octaviano, Steve Pieper)
