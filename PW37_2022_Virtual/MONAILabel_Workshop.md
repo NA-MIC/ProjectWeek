@@ -1,4 +1,4 @@
-# MONAI Label Workshop
+# MONAI Label Workshop / Tutorial
 
 June 22, 2022 9-11am EDT
 
