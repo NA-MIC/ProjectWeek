@@ -43,7 +43,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ## Projects [(How to add a new project?)](Projects/README.md)
     
 ### VR/AR and Rendering
-[PRISM Rendering](Projects/PRISMRendering/Readme.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
+* [PRISM Rendering](Projects/PRISMRendering/Readme.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
+* [SlicerVR infrastructure maintenance](Projects/SlicerVRInfrastructure/README.md) (Csaba Pinter, ?)
 
 ### Image-guided therapy and low cost systems   
 
