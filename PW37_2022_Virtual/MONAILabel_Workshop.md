@@ -11,7 +11,9 @@ Instances will be allocated in the US an EU based on the location of the partici
 
 Space will be limited so sign up by June 8th 2022.
 
-## Previous workshop
+## Background information
 
 See [discussion here](https://discourse.slicer.org/t/monailabel-3d-slicer-for-cloud-computing-workshop-jan-12-2022-2-4-est/21152) for
 information about the previous workshop held before [Project Week 36](https://projectweek.na-mic.org/PW36_2022_Virtual/).
+
+MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362).
