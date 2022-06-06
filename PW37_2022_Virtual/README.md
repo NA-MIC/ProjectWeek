@@ -47,7 +47,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [SlicerVR infrastructure maintenance](Projects/SlicerVRInfrastructure/README.md) (Csaba Pinter, ?)
 * [SlicerVR Tutorial](Projects/SlicerVRTutorial/README.md) (Monica Garcia-Sevilla, David Garcia-Mato, Csaba Pinter, ?)
 
-### Image-guided therapy and low cost systems   
+### Image-guided therapy and low cost systems    
+* [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, ?)
 
 ### Segmentation/Classification
     
