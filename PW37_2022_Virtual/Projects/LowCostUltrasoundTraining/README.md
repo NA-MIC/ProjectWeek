@@ -6,14 +6,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - David García Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Csaba Pinter (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
-- Matthew Holden (Carleton university, Ottawa, ON, Canada)
+- Matthew Holden (Carleton University, Ottawa, ON, Canada)
 
 # Project Description
 [**Ebatinca S.L.**](https://ebatinca.com/) is currently developing a **low-cost training platform for ultrasound imaging and ultrasound-guided procedures** in low- and middle-income countries. We are developing a 3D Slicer based application to perform training exercises and evaluate participants. The app is called [**TrainUS**](https://github.com/EBATINCA/TrainUS) and it is available with open-source license.
 
 Some basic features have already been developed: participant/recording management, hardware connection, selection of training exercises,...
 
-Currently, we are working on the development of basic exercises to train basic ultrasound skills. The app should be able to evaluate the recording made by users and to provide feedback about their performance. 
+Currently, we are working on the development of basic exercises to train basic ultrasound skills. The app should be able to evaluate recordings made by users and to provide feedback about their performance. 
 
 ## Objective
 
