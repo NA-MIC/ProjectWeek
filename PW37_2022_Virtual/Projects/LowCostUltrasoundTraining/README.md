@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - David García Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Csaba Pinter (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
+- Matthew Holden (Carleton university, Ottawa, ON, Canada)
 
 # Project Description
 [**Ebatinca S.L.**](https://ebatinca.com/) is currently developing a **low-cost training platform for ultrasound imaging and ultrasound-guided procedures** in low- and middle-income countries. We are developing a 3D Slicer based application to perform training exercises and evaluate participants. The app is called [**TrainUS**](https://github.com/EBATINCA/TrainUS) and it is available with open-source license.
@@ -43,6 +44,7 @@ Currently, we are working on the development of basic exercises to train basic u
 1. ...
 
 # Illustrations
+<img src="https://user-images.githubusercontent.com/10816661/172382966-725defb3-6729-4c5e-856d-2e4d9fb5653c.JPG" alt="drawing" width="800"/>
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
@@ -52,6 +54,6 @@ Currently, we are working on the development of basic exercises to train basic u
 # Background and References
 - Previous [Low-Cost Ultrasound Tracking](https://github.com/NA-MIC/ProjectWeek/blob/master/PW36_2022_Virtual/Projects/LowCostUltrasoundTraining/README.md) during 36th Project Week held virtually on January 17-21, 2022.
 - **TrainUS** GitHub repository: [TrainUs app](https://github.com/EBATINCA/TrainUS)
-- **PerkTutor GitHub repository: [PerkTutor extension](https://github.com/PerkTutor/PerkTutor)
+- **PerkTutor** GitHub repository: [PerkTutor extension](https://github.com/PerkTutor/PerkTutor)
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
