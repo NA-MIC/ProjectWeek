@@ -5,7 +5,7 @@
 If you have any questions, you can contact the [organizers](../README.md#who-to-contact).
 
 ## Before Project Week
-<!-- 1. Register [here](https://forms.gle/1zE3pDs59sJ4ENP96), it is free! -->
+1. Register [here](https://forms.gle/AyPNhqVeXVD3xR2q9), it is free!
 1. Attend one or more preparation meetings to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
 1. Join the [Discord server](https://discord.gg/d5Q6b5ug8u) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
 2. A workshop on using MONAI Label with 3D Slicer will be held June 22, 2022 from 9-11am EDT.  Use [this signup form](https://forms.gle/wGfXEg2nYe7PE73m7) to register.
@@ -60,7 +60,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 ## Registrants
 
-Do not add your name to this list below. It is maintained by the organizers based on your registration. Registration not yet open. <!--[Register here](https://forms.gle/1zE3pDs59sJ4ENP96).-->
+Do not add your name to this list below. It is maintained by the organizers based on your registration. [Register here](https://forms.gle/AyPNhqVeXVD3xR2q9).
 
 List of registered participants so far (names will be added here after processing registrations):
     
