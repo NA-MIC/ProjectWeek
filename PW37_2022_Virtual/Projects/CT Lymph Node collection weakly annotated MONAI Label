@@ -1,0 +1,50 @@
+ack to [Projects List](../../README.md#ProjectsList)
+
+# Write full project title here
+CT Lymph Node collection weakly annotated MONAI Label
+## Key Investigators
+
+- Ron kikinis (Affiliation)
+- Steve Piper (Affiliation)
+- Erik Ziegler (Affiliation)
+-Roya Khajavi
+# Project Description
+
+<!-- Evaluation of Mediastinal Lymph Node Segmentation of Heterogeneous CT Data with Weak Supervision. In particular, 
+we have been developing AI models for segmentation of lymph Node and we are trying to adopt our deep learning segmentation models in Monai platform . -->
+
+## Objective
+
+<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+
+1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
+1. Objective B. ...
+1. Objective C. ...
+
+## Approach and Plan
+
+<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+
+1. Use MONAI framework for preproceccing and inference processing of data.
+1. Use MONAI framework for replacing most of our custom code.
+1. Create MONAILabel app based on ported code
+
+## Progress and Next Steps
+
+<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+
+1. Describe specific steps you **have actually done**.
+1. MONAILabel team added option to upload local image to the MONAILabel server
+1. Team have a strong model for Evaluation of Mediastinal Lymph Node Segmentation of Heterogeneous CT Data with Full and Weak Supervision
+
+
+# Illustrations
+
+<!-- Add pictures and links to videos that demonstrate what has been accomplished.
+![Description of picture](Example2.jpg)
+![Some more images](Example2.jpg)
+-->
+
+# Background and References
+
+<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
