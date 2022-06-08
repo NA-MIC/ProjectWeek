@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Steve Pieper, Isomics, Cambridge MA, USA
 - Andrey Titov, ETS Montreal
 - Rafael Palomar, Oslo University Hospital / NTNU, Norway
+- Mauro Dominguez
 
 # Project Description
 
