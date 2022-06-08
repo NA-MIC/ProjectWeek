@@ -51,6 +51,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, ?)
 
 ### Segmentation/Classification
+*CT Lymph Node collection weakly annotated MONAI Label
+*Create example MONAI Label / MONAI Deploy structure as prototype for LNQ
     
 ### SlicerDMRI
 
