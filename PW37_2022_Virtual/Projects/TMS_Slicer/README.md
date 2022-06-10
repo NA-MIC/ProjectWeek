@@ -7,9 +7,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Jax Luo (BWH)
 - Loraine Franke (UMass)
 - Raymond Yang (UMass)
-- Lipeng Ning (BWH)
 - Daniel Haehn (UMass)
 - Steve Pieper (Isomics)
+- Lipeng Ning (BWH)
+
 
 # Project Description
 
