@@ -67,7 +67,7 @@ containing an installable version of 3D Slicer and its dependences.
 
 ## Approach and Plan
 
-1. Review of dependencies and `-DSUPERBUILD=OFF`
+1. Review of dependencies and `-DSlicer_SUPERBUILD=OFF`
 1. Development of the packages for the dependencies and 3D Slicer
 1. Development of the packages for the 3D Slicer default modules
 
