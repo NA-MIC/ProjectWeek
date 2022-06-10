@@ -51,9 +51,9 @@ Systole OS is a **source-based** distribution, which means that all packages
 will be built from source. Having the flexibility to make decisions on
 compile-time allows:
 
-    - Tighter hardware integration
-    - Highly configurable packages (e.g., `flaggie sci-medical/slicer -python +opencl; emerge sci-libs/slicer` will install Slicer without python support and with opencl support)
-    - Portability to hardware architectures other than amd64 (e.g., arm, risc-v).
+   - Tighter hardware integration
+   - Highly configurable packages (e.g., `flaggie sci-medical/slicer -python +opencl; emerge sci-libs/slicer` will install Slicer without python support and with opencl support)
+   - Portability to hardware architectures other than amd64 (e.g., arm, risc-v).
 
 ### Extensible
 
