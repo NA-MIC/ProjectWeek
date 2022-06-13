@@ -5,8 +5,8 @@ back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 - Roya Khajavi(Department of Radiology, Brigham and Women’s Hospital, Boston, MA)
 - Erik Ziegler (Novometrics LLC, Lexington, MA)
-- Steve Piper (Isomics Inc, Cambridge, MA)
-- Ron kikinis (Department of Radiology, Brigham and Women’s Hospital, Boston, MA)
+- Steve Pieper (Isomics Inc, Cambridge, MA)
+- Ron Kikinis (Department of Radiology, Brigham and Women’s Hospital, Boston, MA)
 
 ## Project Description
 
