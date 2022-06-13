@@ -52,7 +52,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [Slicer-Liver: ](Projects/SlicerLiver/README.md) (Rafael Palomar, Gabriella D'Albenzio, Ole V. Solberg, Geir A. Tangen, Javier Pérez de Frutos)
 
 ### Segmentation/Classification
-* CT Lymph Node collection weakly annotated MONAI Label
+* [CT Lymph Node collection weakly annotated MONAI Label](Projects/LNQ/README.MD) (Roya Khajavi, Erik Ziegler, Steve Pieper,  Ron Kikinis)
 * Create example MONAI Label / MONAI Deploy structure as prototype for LNQ
     
 ### SlicerDMRI
