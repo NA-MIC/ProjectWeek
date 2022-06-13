@@ -1,18 +1,17 @@
-ack to [Projects List](../../README.md#ProjectsList)
+back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
-CT Lymph Node collection weakly annotated MONAI Label
+# CT Lymph Node collection weakly annotated MONAI Label
+
 ## Key Investigators
-
 - Ron kikinis (Department of Radiology, Brigham and Women’s Hospital, Boston, MA)
 - Steve Piper (Isomics Inc, Cambridge, MA)
 - Erik Ziegler (Novometrics LLC, Lexington, MA)
 -Roya Khajavi(Department of Radiology, Brigham and Women’s Hospital, Boston, MA)
 
-# Project Description
+## Project Description
 
 Evaluation of Mediastinal Lymph Node Segmentation of Heterogeneous CT Data with Weak Supervision. In particular, 
-we have been developing AI models for segmentation of lymph Node and we are trying to adopt our deep learning segmentation models in Monai platform .
+we have been developing AI models for segmentation of lymph Node and we are trying to adopt our deep learning segmentation models in Monai platform.
 
 ## Objective
 
