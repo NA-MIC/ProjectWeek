@@ -56,4 +56,4 @@ of the user-selected GCP DICOM store. The resulting segments are saved as a DICO
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
-[Code is here]([https://pages.github.com/](https://github.com/deepakri201/mpReview/tree/seg_editor))
+[Code is here](https://github.com/deepakri201/mpReview/tree/seg_editor)
