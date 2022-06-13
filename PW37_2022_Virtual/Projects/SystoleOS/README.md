@@ -15,9 +15,8 @@ research. The great success of 3D Slicer is now pushing the boundaries of
 research, making some research groups and companies regard 3D Slicer as a viable
 software for building medical devices that not only could support regular
 clinical workflows but also become commercial products. While the development of
-3D Slicer has been tailored towards reaching a wide variety of researchers
-(e.g., multiple platforms, environment isolation, extension manager, etc.) its
-modular architecture makes possible the development of custom applications.
+3D Slicer has been tailored towards research, its modular architecture makes the 
+development of industrial prototypes possible.
 
 The vision of Systole OS is the integration of 3D Slicer and related software (e.g,
 Plus Toolkit, MONAI Label and more!) in a free and open-source operating system
@@ -62,11 +61,13 @@ system with your own ovelay or override packages provided by Systole.
 
 ## Objective
 
-In PW37 we aim to create the Systole overlay, which is a set of packages
-containing an installable version of 3D Slicer and its dependences.
+In PW37 we aim to take the first steps towards the creation of the Systole 
+overlay, which is a set of packages containing an installable version of 
+3D Slicer and its dependences.
 
 ## Approach and Plan
 
+1. Project discussion
 1. Review of dependencies and `-DSlicer_SUPERBUILD=OFF`
 1. Development of the packages for the dependencies and 3D Slicer
 1. Development of the packages for the 3D Slicer default modules
