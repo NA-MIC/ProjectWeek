@@ -1,5 +1,7 @@
 # MONAI Label Workshop / Tutorial
 
+Registration is closed.  Details for registered attendees will be emailed before the workshop.
+
 June 22, 2022 9-11am EDT
 
 The goal of this workshop is to prepare users and developers to make use of MONAI and MONAI Label in their work at [Project Week 37](https://projectweek.na-mic.org/PW37_2022_Virtual/).
