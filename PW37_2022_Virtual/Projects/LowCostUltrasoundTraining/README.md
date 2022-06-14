@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - David García Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Csaba Pinter (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
+- Rebecca Hisey (Queen’s University, Kingston, ON, Canada)
 - Matthew Holden (Carleton University, Ottawa, ON, Canada)
 
 # Project Description
