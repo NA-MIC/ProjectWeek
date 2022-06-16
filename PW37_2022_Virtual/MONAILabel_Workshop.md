@@ -29,3 +29,4 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
 * MONAI Label - Andres Diaz-Pinto, NVIDIA
   * Presentation
   * Hands-On
+* Chest segmentation use case - Rudolf Bumm, Kantonsspital Graubünden
