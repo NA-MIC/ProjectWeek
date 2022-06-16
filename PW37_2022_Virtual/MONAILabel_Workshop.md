@@ -18,7 +18,10 @@ Space will be limited so sign up by June 8th 2022.
 See [discussion here](https://discourse.slicer.org/t/monailabel-3d-slicer-for-cloud-computing-workshop-jan-12-2022-2-4-est/21152) for
 information about the previous workshop held before [Project Week 36](https://projectweek.na-mic.org/PW36_2022_Virtual/).
 
+Please watch [the video of the previous workshop](https://youtu.be/PmD8umlcpF4) for background information.
+
 MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362).
+
 
 ## Agenda
 * Welcome - Steve Pieper
