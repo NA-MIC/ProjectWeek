@@ -24,8 +24,8 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
 
 
 ## Agenda
-* Welcome - Steve Pieper
-* AWS Infrastructure - Qing Liu
-* MONAI Label - Andres Diaz-Pinto
+* Welcome - Steve Pieper, Isomics, Inc.
+* AWS Infrastructure - Qing Liu, AWS
+* MONAI Label - Andres Diaz-Pinto, NVIDIA
   * Presentation
   * Hands-On
