@@ -8,7 +8,7 @@ If you have any questions, you can contact the [organizers](../README.md#who-to-
 1. Register [here](https://forms.gle/AyPNhqVeXVD3xR2q9), it is free!
 1. Attend one or more preparation meetings to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
 1. Join the [Discord server](https://discord.gg/yQsNVdVpS3) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
-2. A workshop on using MONAI Label with 3D Slicer will be held June 22, 2022 from 9-11am EDT.  Use [this signup form](https://forms.gle/wGfXEg2nYe7PE73m7) to register.
+2. A workshop on using MONAI Label with 3D Slicer will be held June 22, 2022 from 9-11am EDT.  See [this page](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/MONAILabel_Workshop.md) to for more information.
 
 ## During Project Week
 * The week will start at **9am on Monday June 27th** with informal conversations on **[Discord](https://discord.gg/d5Q6b5ug8u)**.
