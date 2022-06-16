@@ -19,3 +19,10 @@ See [discussion here](https://discourse.slicer.org/t/monailabel-3d-slicer-for-cl
 information about the previous workshop held before [Project Week 36](https://projectweek.na-mic.org/PW36_2022_Virtual/).
 
 MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362).
+
+## Agenda
+* Welcome - Steve Pieper
+* AWS Infrastructure - Qing Liu
+* MONAI Label - Andres Diaz-Pinto
+  * Presentation
+  * Hands-On
