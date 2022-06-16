@@ -46,6 +46,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [PRISM Rendering](Projects/PRISMRendering/Readme.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
 * [SlicerVR infrastructure maintenance](Projects/SlicerVRInfrastructure/README.md) (Csaba Pinter, ?)
 * [SlicerVR Tutorial](Projects/SlicerVRTutorial/README.md) (Monica Garcia-Sevilla, David Garcia-Mato, Csaba Pinter, ?)
+* [SlicerHeart polar maps](Projects/SlicerHeartPolarMaps/Readme.md) (Connor Haberl)
 
 ### Image-guided therapy and low cost systems    
 * [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, ?)
