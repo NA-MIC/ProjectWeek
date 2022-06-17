@@ -44,7 +44,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
     
 ### VR/AR and Rendering
 * [PRISM Rendering](Projects/PRISMRendering/Readme.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
-* [SlicerVR infrastructure maintenance](Projects/SlicerVRInfrastructure/README.md) (Csaba Pinter, ?)
+* [SlicerVR infrastructure](Projects/SlicerVRInfrastructure/README.md) (Csaba Pinter, Sankhesh Jhaveri, David Garcia Mato, Jean-Christophe Fillion-Robin)
+)
 * [SlicerVR Tutorial](Projects/SlicerVRTutorial/README.md) (Monica Garcia-Sevilla, David Garcia-Mato, Csaba Pinter, ?)
 * [SlicerHeart polar maps](Projects/SlicerHeartPolarMaps/Readme.md) (Connor Haberl)
 
@@ -53,7 +54,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [Slicer-Liver: ](Projects/SlicerLiver/README.md) (Rafael Palomar, Gabriella D'Albenzio, Ole V. Solberg, Geir A. Tangen, Javier Pérez de Frutos)
 
 ### Segmentation/Classification
-* [CT Lymph Node collection weakly annotated MONAI Label](Projects/LNQ) (Roya Khajavi, Erik Ziegler, Steve Pieper,  Ron Kikinis)
+* [CT Lymph Node collection weakly annotated MONAI Label](Projects/LNQ) (Roya Khajavi, Erik Ziegler, Steve Pieper, Ron Kikinis)
 * Create example MONAI Label / MONAI Deploy structure as prototype for LNQ
 * [AMASSS CBCT](Projects/AMASSS_CBCT/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
 
