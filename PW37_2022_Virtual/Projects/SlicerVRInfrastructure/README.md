@@ -57,7 +57,7 @@ The goal of the project is, with coordination with Kitware/Robarts, to reach the
 ![Some more images](Example2.jpg)
 -->
 
-[In-VR widget example](20220617_VRWidget.gif)
+![In-VR widget example](VRWidget.gif)
 
 # Background and References
 
