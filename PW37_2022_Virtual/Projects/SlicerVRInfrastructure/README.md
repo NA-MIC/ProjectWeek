@@ -5,8 +5,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Csaba Pinter (EBATINCA)
-- David Garcia Maro (EBATINCA)
 - Sankhesh Jhaveri (Kitware)
+- David Garcia Mato (EBATINCA)
 - Jean-Christophe Fillion-Robin (Kitware)
 
 # Project Description
