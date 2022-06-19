@@ -6,7 +6,7 @@ June 22, 2022 9-11am EDT
 
 The goal of this workshop is to prepare users and developers to make use of MONAI and MONAI Label in their work at [Project Week 37](https://projectweek.na-mic.org/PW37_2022_Virtual/).
 
-To request participation, please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSc_hdylCGslg6Lxl-VLYNutUoja6dZfwbhu2SHnmCyxBOP2jQ/viewform).
+~~To request participation, please fill out [this registration form](https://docs.google.com/forms/d/e/1FAIpQLSc_hdylCGslg6Lxl-VLYNutUoja6dZfwbhu2SHnmCyxBOP2jQ/viewform).~~ Registration is closed.
 
 Each participant will be allocated a cloud-hosted GPU workstation provided by [AWS AppStream](https://aws.amazon.com/appstream2/faqs/).
 Instances will be allocated in the US an EU based on the location of the participant.  See [this information about bandwidth considerations](https://docs.aws.amazon.com/appstream2/latest/developerguide/bandwidth-recommendations-user-connections.html).
