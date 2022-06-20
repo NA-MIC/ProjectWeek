@@ -75,7 +75,51 @@ Do not add your name to this list below. It is maintained by the organizers base
 
 List of registered participants so far (names will be added here after processing registrations):
     
-1.	
+1.	Tina Kapur	,	Brigham and Women's Hospital and Harvard Medical School	,	USA
+1.	David Garcia-Mato	,	Ebatinca SL	,	Spain
+1.	Steve Pieper	,	Isomics, Inc.	,	USA
+1.	Andrey Fedorov	,	Brigham and Women's Hospital	,	United States
+1.	Adama Rama WADE	,	Cheikh Anta Diop University	,	Senegal
+1.	Deepa Krishnaswamy	,	Brigham and Women's Hospital	,	USA
+1.	Simon Drouin	,	École de Technologie Supérieure	,	Canada
+1.	Roya Khajavibajestani	,	BWH	,	United States
+1.	RON KIKINIS	,	SPL	,	United States
+1.	Sonia Pujol	,	Brigham and Women's Hospital, Harvard Medical School	,	USA
+1.	Jax LUO	,	BWH	,	United States
+1.	Li Zhenzhu	,	Hwa Mei Hospital	,	China
+1.	Ole Vegard Solberg	,	SINTEF	,	Norway
+1.	Mauro Ignacio Dominguez	,	Independant	,	Argentina
+1.	Lucia Cevidanes	,	University of Michigan	,	United States
+1.	YAHYA TFEIL	,	UNIVERSITY NOUAKCHOTT ALAASRIYA	,	Mauritania
+1.	Rafael Palomar	,	Oslo University Hospital and NTNU	,	Norway
+1.	Pape Mady THIAO 	,	École militaire de santé de Dakar	,	Sénégal 
+1.	Mónica García-Sevilla	,	Universidad de Las Palmas de Gran Canaria	,	Spain
+1.	Badiaa AIT AHMED 	,	Universidad de Las Palmas de Gran Canaria	,	Spain
+1.	Cosmin Ciausu	,	Brigham and Women's Hospital	,	US
+1.	Michael Dada	,	Federal University of Technology, Minna	,	Nigeria
+1.	Shiraz Yousif Abd Elsalam Yousif	,	University of Khartoum 	,	Australia
+1.	Geir Arne Tangen	,	SINTEF	,	Norway
+1.	Marie NDIAYE	,	Université Assane Seck de Ziguinchor	,	Sénégal
+1.	Ron Alkalay	,	Beth Israel Deaconess Medical Center	,	USA
+1.	Csaba Pintér	,	EBATINCA S.L.	,	Spain
+1.	Samantha Horvath	,	Kitware	,	United States
+1.	Rebecca Hisey	,	Queen's University	,	Canada
+1.	Connor Haberl	,	University of Ottawa Heart Institute	,	Canada
+1.	Gang Fu	,	Amazon	,	US
+1.	Shreeraj Jadhav	,	Kitware, Inc.	,	United States
+1.	Eve LoCastro	,	Memorial Sloan Kettering	,	United States
+1.	Srivathsan Shanmuganathan	,	University of Alberta	,	Canada
+1.	David Allemang	,	Kitware Inc.	,	United States
+1.	Michel David Raed	,	University of São Paulo	,	Brazil
+1.	Jiayi Xu	,	Kitware	,	United States
+1.	Gabriella d' Albezio	,	The Intervention Center (OUS)	,	Norway
+1.	HINA SHAH	,	UNC Chapel Hill	,	United States
+1.	Sharanya Balachandran	,	University of Alberta	,	Canada
+1.	Muhammad zubair islam	,	Sejong University, Seoul, South Korea	,	South Korea
+1.	Daniel Haehn	,	University of Massachusetts Boston	,	United States
+1.	Sankhesh Jhaveri	,	Kitware, Inc.	,	USA
+1.	Nayra Pumar	,	Ebatinca	,	Spain
+1.	Ruoyan Meng	,	Norwegian University of Science and Technology	,	Norway	
     
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
