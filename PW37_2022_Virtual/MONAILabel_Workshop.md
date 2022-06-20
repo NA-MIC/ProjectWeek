@@ -30,3 +30,8 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
   * Presentation
   * Hands-On
 * Chest segmentation use case - Rudolf Bumm, Kantonsspital Graubünden
+
+
+## After the event
+* Please help us improve future events by filling out this brief survey: https://survey.immersionday.com/p4K9-Zqng
+* The workshop will be recorded and a link will be circulated
