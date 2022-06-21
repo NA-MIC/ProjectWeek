@@ -73,7 +73,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ### Infrastructure
 * [SystoleOS: ](Projects/SystoleOS/README.md) (Rafael Palomar, Andras Lasso, Steve Pieper, Jean Christophe Fillion Robin)
 * [MarkupConstraints](Projects/MarkupConstraints/README.md) (David Allemang, Jean-Christophe Fillion-Robin)
-* [SlicerInternationalization] (Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso)
+* [SlicerInternationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso)
 
 ## Registrants
 
