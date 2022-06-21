@@ -128,6 +128,7 @@ List of registered participants so far (names will be added here after processin
 1.	Ryan Zurrin	,	University of Massachusetts Boston	,	United States
 1.	NANTENAINA Tina	,	ETS Montreal	,	Canada
 1.	Daniel Palkovics	,	Semmelweis University	,	Hungary
+1.	Matthew Holden	,	Carleton University	,	Canada
     
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
