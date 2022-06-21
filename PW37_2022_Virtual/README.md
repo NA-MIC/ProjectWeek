@@ -61,6 +61,9 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 ### Landmark identification
 * [ALI](Projects/ALI/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
+
+### Quantification tool
+* [AQ3DC](Projects/AutomaticQuantitative3DCephalometrics/Readme.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes)
     
 ### SlicerDMRI
 
