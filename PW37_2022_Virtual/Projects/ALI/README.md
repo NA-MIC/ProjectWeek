@@ -30,8 +30,9 @@ For IOS :
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-Objective A. Combine the old ALI CBCT of the first project week and the new ALI IOS in a new module
-Objective B. Add new landmarks in the available list
+1. Combine the old ALI CBCT of the first project week and the new ALI IOS in a new module
+2. Add new landmarks in the available list
+3. Deploy the tool in a Slicer module
 
 ## Approach and Plan
 
