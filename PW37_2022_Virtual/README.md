@@ -119,7 +119,15 @@ List of registered participants so far (names will be added here after processin
 1.	Daniel Haehn	,	University of Massachusetts Boston	,	United States
 1.	Sankhesh Jhaveri	,	Kitware, Inc.	,	USA
 1.	Nayra Pumar	,	Ebatinca	,	Spain
-1.	Ruoyan Meng	,	Norwegian University of Science and Technology	,	Norway	
+1.	Ruoyan Meng	,	Norwegian University of Science and Technology	,	Norway
+1.	Loraine Franke	,	University of Massachusetts Boston	,	United States
+1.	Javier	,	SINTEF	,	Norway
+1.	Chi Zhang	,	Seattle Children's Research Institute	,	United States
+1.	Nadya Shusharina	,	Massachusetts General Hospital	,	United States
+1.	Ahmedou Moulaye Idriss	,	Faculty of Medicine / University of Nouakchott Al Asriya 	,	Mauritania
+1.	Ryan Zurrin	,	University of Massachusetts Boston	,	United States
+1.	NANTENAINA Tina	,	ETS Montreal	,	Canada
+1.	Daniel Palkovics	,	Semmelweis University	,	Hungary
     
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
