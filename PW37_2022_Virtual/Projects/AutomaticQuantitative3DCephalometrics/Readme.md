@@ -3,7 +3,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 Automatic Quantitative 3D Cephalometrics
 
 ## Key Investigators
-
+- Baptiste Baquero (University of Michigan)
+- Maxime Gillot (University of Michigan)
 - Lucia Cevidanes (University of Michigan)
 - David Allemang (Kitware Inc)
 - Jean-Christophe Fillion-Robin (Kitware Inc)
@@ -13,29 +14,32 @@ AQ3DC is a Slicer extension to automatically do some measurement (angles or dist
 be able to compute all the measurements at the same time for all their patients. Another application will be to create the middle point between 2
 landmarks. 
 
+
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+- Objective A. Development of a Slicer extension that will automatically perform angular or linear measurements between landmarks in one or more time points for a all sample of patients.
+- Objective B. Generate automatically a "clinical meaning" of the directionality for the numbers and signs obtained after the computation.
+- Objective C. Generate the mid point between two landmaks.
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
+1. Work on writing the code in the branch https://github.com/baptistebaquero/Q3DCExtension/tree/add-AQ3DC-module of Q3DC extension, focusing on the steps  described below and with feedback of project team members.
 
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+# Progress:
+1. Pre-selections of the landmarks needed.
+2. Import/export excel file with all the measurement needed.
+3. Creation of interactive table with the different measurement needed.
+4. Computation of linear measurements for one time point and exporting of the data in an excel file.
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+# Next steps :
+1. Compute the linear measurements for different time points.
+2. Computation of angular measurements
+3. Computation of mid points
+4. Implement nodes for interaction with the 3D environment for computations for a single case
+
 
 # Illustrations
 
@@ -43,6 +47,15 @@ landmarks.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+# Goal interface:
+![Goal_interface](https://user-images.githubusercontent.com/83285614/174842473-ee02e353-94fe-4b41-ba64-d65cb84c0e7d.png)
+
+
+
+# Current interface:
+![Current_interface](https://user-images.githubusercontent.com/83285614/174842058-c7d8f30f-82e4-4648-aa76-b81e37a90e99.png)
+
+
 
 # Background and References
 
