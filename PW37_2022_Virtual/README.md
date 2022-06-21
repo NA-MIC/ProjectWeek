@@ -48,6 +48,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 )
 * [SlicerVR Tutorial](Projects/SlicerVRTutorial/README.md) (Monica Garcia-Sevilla, David Garcia-Mato, Csaba Pinter, ?)
 * [SlicerHeart polar maps](Projects/SlicerHeartPolarMaps/Readme.md) (Connor Haberl)
+* [Slicer Photogrammetry](Projects/SlicerPhotoGram/Readme.md) (Chi Zhang, Murat Maga, Steve Pieper)
 
 ### Image-guided therapy and low cost systems    
 * [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, Rebecca Hisey, Matthew Holden,...)
