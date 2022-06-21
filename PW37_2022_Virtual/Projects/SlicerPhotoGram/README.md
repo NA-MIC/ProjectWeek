@@ -22,9 +22,9 @@ To further reduce the cost and faciliate the use of photogrammetry, we want to b
 
 ## Approach and Plan
 1. Figure out what our issues and priorities are:
-  1. how imporant is visual fidelity vs convenience (point clouds are more conveneient but lower image quality compared to textured models)
-  2. how much do we imaging users interactively fixing geometry at various levels of detail
-  3. how much do we need to rely on third party code and what maintenance or licencing considerations come with it
+   * how imporant is visual fidelity vs convenience (point clouds are more conveneient but lower image quality compared to textured models)
+   * how much do we imaging users interactively fixing geometry at various levels of detail
+   * how much do we need to rely on third party code and what maintenance or licencing considerations come with it
 3. Determine what parts of the process Slicer can be particularly useful for (i.e. should we bring in the raw images and estimate the camera parameters or assume that other software has already done that).
 4. Work to define and describe the ideal interactive workflow leveraging existing Slicer functionality like markups and segmentations.
 
@@ -40,7 +40,7 @@ Example point cloud exported from webODM and loaded in Slicer using [this code](
 
 # Background and References
 
-1. The repository for SlicerPhotoGram:https://github.com/SlicerMorph/PhotoGram.
+1. The repository for SlicerPhotoGram: [https://github.com/SlicerMorph/PhotoGram](https://github.com/SlicerMorph/PhotoGram).
 2. Currently, we have created a script [output_cropped_image.py](https://github.com/SlicerMorph/PhotoGram/blob/main/output_cropped_images.py) for loading digital image sequnece as a volume, crop each image using ROI tool for reducing background noise, and export each cropped slice as a tiff image. 
-3. WebODM for photogrammetry that rely on OpenCV and OpenSFM: https://www.opendronemap.org/docs/ and https://github.com/OpenDroneMap/WebODM.
-4. We have a script for loading WebODM point clouds in Slicer: https://gist.github.com/pieper/e4ca5e4c753c5ed6c61656d25b93402c
+3. WebODM for photogrammetry that rely on OpenCV and OpenSFM: [https://www.opendronemap.org/docs/](https://www.opendronemap.org/docs/) and [https://github.com/OpenDroneMap/WebODM](https://github.com/OpenDroneMap/WebODM).
+4. We have a script for loading WebODM point clouds in Slicer: [https://gist.github.com/pieper/e4ca5e4c753c5ed6c61656d25b93402c](https://gist.github.com/pieper/e4ca5e4c753c5ed6c61656d25b93402c)
