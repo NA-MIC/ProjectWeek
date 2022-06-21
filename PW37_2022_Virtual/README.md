@@ -50,7 +50,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [SlicerHeart polar maps](Projects/SlicerHeartPolarMaps/Readme.md) (Connor Haberl)
 
 ### Image-guided therapy and low cost systems    
-* [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, ?)
+* [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, Rebecca Hisey, Matthew Holden,...)
 * [Slicer-Liver: ](Projects/SlicerLiver/README.md) (Rafael Palomar, Gabriella D'Albenzio, Ole V. Solberg, Geir A. Tangen, Javier Pérez de Frutos)
 
 ### Segmentation/Classification
