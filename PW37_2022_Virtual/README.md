@@ -10,13 +10,13 @@ If you have any questions, you can contact the [organizers](../README.md#who-to-
 1. Join the [Discord server](https://discord.gg/yQsNVdVpS3) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
 2. A workshop on using MONAI Label with 3D Slicer will be held June 22, 2022 from 9-11am EDT.  See [this page](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/MONAILabel_Workshop.md) to for more information.
 
-## During Project Week
-* The week will start at **9am on Monday June 27th** with informal conversations on **[Discord](https://discord.gg/d5Q6b5ug8u)**.
-* Initial **project presentations** will start at **10am on Zoom**, using [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09). Each team must delegate a member to present their projects in no more than 2 minutes using no other visual support than the project page on GitHub (we won’t have time to switch screen sharing)
+## During Project Week (All times US Eastern Daylight (Boston) Time)
+* The week will start at **8:15am on Monday June 27th** with informal conversations on **[Discord](https://discord.gg/d5Q6b5ug8u)**.
+* Initial **project presentations** will start at **9am on Zoom**, using [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09). Each team must delegate a member to present their projects in no more than 2 minutes using no other visual support than the project page on GitHub (we won’t have time to switch screen sharing)
 * If you don’t have a project, look at the PW37 page to find a project you might be interested in and contact team members through their Discord channel.
-* Breakout sessions start every day at **10am on Zoom** (link in the calendar below)
+* Breakout sessions start every day at **9am on Zoom** (link in the calendar below)
 * Work in **project teams** will happen throughout the week with communication between team members taking place on **Discord**. If you want to schedule a meeting ahead you can "reserve" a meeting room in [this spreadsheet](https://docs.google.com/spreadsheets/d/1jrYSecdhg9XQ1Re_7yqOCYTMjX2mOe-GowAp3yfWS7g/edit?usp=sharing).
-* We will end the week with **project results presentation (10am on Friday)**. Again, each team will delegate one member to present their results in a maximum of 2 minutes. We will use the project page as a visual support for the presentation, so please make sure it is up to date with your latest results by Friday morning.
+* We will end the week with **project results presentation (9am on Friday)**. Again, each team will delegate one member to present their results in a maximum of 2 minutes. We will use the project page as a visual support for the presentation, so please make sure it is up to date with your latest results by Friday morning.
 
 ## Preparation meetings
 We hold weekly preparation meetings at 10am on Tuesdays, starting May 3rd, 2022. Please join at [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
