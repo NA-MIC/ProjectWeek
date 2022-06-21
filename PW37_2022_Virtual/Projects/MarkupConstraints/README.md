@@ -5,6 +5,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - David Allemang (Kitware Inc.)
+- Jean-Christophe Fillion-Robin (Kitware Inc.)
+- Lucia Cevidanes (University of Michigan)
+- Maxime Gillot (University of Michigan)
+- Baptiste Baquero (University of Michigan)
 
 # Project Description
 
