@@ -11,7 +11,7 @@ Automatic Quantitative 3D Cephalometrics
 # Project Description
 AQ3DC is a Slicer extension to automatically do some measurement (angles or distance) between landmarks in different part of the skull. Clinicians will
 be able to compute all the measurements at the same time for all their patients. Another application will be to create the middle point between 2
-landmarks.
+landmarks. 
 
 ## Objective
 
@@ -27,7 +27,7 @@ landmarks.
 
 1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
 1. ...
-1. ...
+
 
 ## Progress and Next Steps
 
