@@ -9,8 +9,11 @@ Automatic Quantitative 3D Cephalometrics
 - David Allemang (Kitware Inc)
 - Jean-Christophe Fillion-Robin (Kitware Inc)
 
-## Project Description
-The Automated Quantification of Three-Dimensional Components (AQ3DC) is a project focused on developing a Slicer extension for accurate compute user selected measurements at the same time. AQ3DC will use as input fiducial lists from an entire sample or a single case and automatically output angular and/or linear measurements between landmarks in one or more time points. Additionally to the quantitative 3D values, the tool will automatically generate the directionally of 3D coordinate changes (AP, SI or RL). Importantly, this tool will allow clinicians/researchers to save a considerable amount of time (once the time consuming step of individually perform single measurement in a single patient one by one no longer will be required) and to avoid confounding factors during the traditional Q3DC quantitative outcomes interpretation.
+# Project Description
+AQ3DC is a Slicer extension to automatically do some measurement (angles or distance) between landmarks in different part of the skull. Clinicians will
+be able to compute all the measurements at the same time for all their patients. Another application will be to create the middle point between 2
+landmarks. 
+
 
 ## Objective
 
