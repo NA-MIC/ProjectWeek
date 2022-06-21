@@ -52,9 +52,9 @@ showed high accuracy and robustness with an Dice up to 0.962 pm 0.02.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-Objective A. Create only one model for multiple structures.
-Objective B. Create a slicer module for the algorithme
-Objective C. Add new structure to segment
+1. Objective A. Create only one model for multiple structures.
+1. Objective B. Create a slicer module for the algorithme
+1. Objective C. Add new structure to segment
 
 ## Approach and Plan
 
