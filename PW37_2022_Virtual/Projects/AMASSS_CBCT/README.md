@@ -1,6 +1,7 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
 # Automatic multi-anatomical skull structure segmentation of cone-beam computed tomography scans using 3D UNETR
+![Segmentation](https://user-images.githubusercontent.com/46842010/172177602-8cbfc188-9715-488a-ad2e-abb8d219536d.png)
 
 ## Key Investigators
 
@@ -52,9 +53,10 @@ showed high accuracy and robustness with an Dice up to 0.962 pm 0.02.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Create only one model for multiple structures.
-1. Objective B. Create a slicer module for the algorithme
-1. Objective C. Add new structure to segment
+1. Create only one model for multiple structures.
+2. Create a slicer module for the algorithm
+4. Add new structure to segment
+5. Deploy the AMASSS tool with the updated trained models
 
 ## Approach and Plan
 
@@ -74,7 +76,7 @@ showed high accuracy and robustness with an Dice up to 0.962 pm 0.02.
 
 # Illustrations
 
-![Segmentation](https://user-images.githubusercontent.com/46842010/172177602-8cbfc188-9715-488a-ad2e-abb8d219536d.png)
+
 ![prediction](https://user-images.githubusercontent.com/46842010/172177605-b2e5d91c-3e10-4608-9c2d-1e5f2dfcc261.png)
 
 
