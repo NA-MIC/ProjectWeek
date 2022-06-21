@@ -31,6 +31,30 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
   * Hands-On
 * Chest segmentation use case - Rudolf Bumm, Kantonsspital Graubünden
 
+## Event logistics
+
+* The zoom link info is:
+
+[https://us06web.zoom.us/j/89885357745?pwd=Y3d1cTRZS2paRWJZbmZSMG5ONTZvUT09](https://us06web.zoom.us/j/89885357745?pwd=Y3d1cTRZS2paRWJZbmZSMG5ONTZvUT09)
+
+
+Meeting ID: 898 8535 7745
+Passcode: 980979
+
+
+
+* We will use the Project Week discord for tech support and discussion during the workshop.  Please sign up here: https://discord.gg/d5Q6b5ug8u
+* Please use the same email for discord that you used to sign up for the workshop and also please use your first and last names and organization in your discord name.
+* The workshop will be recorded and made available.
+* There will be about one hour of presentation and one hour of hands-on. 
+* Connection info for access to your cloud 3D Slicer instance will be emailed to you before/during the workshop and you'll get instructions on how to connect. 
+   * The AWS team has worked to provide you with a server in your geographic location, but if you experience latency it may be possible to assign you to a different region for better performance.
+   * Your cloud instance will be available from the time you receive the email.  It may take a minute or two to start when you first connect.
+   * It will remain active for about 1 hour after the workshop ends if you want to work on it more.
+
+*Big thanks in advance to the AWS, NVIDIA and Slicer teams for providing this activity!*
+
+
 
 ## After the event
 * Please help us improve future events by filling out this brief survey: https://survey.immersionday.com/p4K9-Zqng
