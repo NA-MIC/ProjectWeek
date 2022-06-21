@@ -131,6 +131,13 @@ List of registered participants so far (names will be added here after processin
 1.	NANTENAINA Tina	,	ETS Montreal	,	Canada
 1.	Daniel Palkovics	,	Semmelweis University	,	Hungary
 1.	Matthew Holden	,	Carleton University	,	Canada
+1.	Pedro Moreira	,	Brigham and Women's Hospital	,	United States
+1.	Oumaima Saoud	,	ENIM	,	Maroc
+1.	Neha Goyal	,	University of Massachusetts Boston 	,	United States
+1.	Ibtissam MEDARHRI	,	ENSMR	,	Morocco 
+1.	Andras Lasso	,	PerkLab, Queen's University	,	Canada
+1.	Maxime Gillot	,	University of Michigan	,	USA
+1.	Baptiste Baquero 	,	University of Michigan	,	United States
     
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
