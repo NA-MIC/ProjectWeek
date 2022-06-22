@@ -21,6 +21,7 @@ use  Lung CT Segmenter for rapid creation of detailed CT Lung labels in MONAILab
 - right lung
 - left lung
 - airways
+
 train sufficiently 
 evaluate the AI´s auto-segmentation performance
 
