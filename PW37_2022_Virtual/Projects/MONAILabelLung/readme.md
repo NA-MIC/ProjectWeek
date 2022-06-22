@@ -13,7 +13,7 @@ Set up, train and evaluate a lung and airway server model in MONAILabel
 
 ## Objective
 
-*   set up MONAILabel on a moderate to high-end gaming PC
+*   set up MONAILabel on a PC with moderate to high-end Nvidea GPU
 *   load MONAILabel apps and datasets
 *   use Lung CT Segmenter for rapid creation of detailed CT Lung labels in MONAILabel for
     *   right lung
