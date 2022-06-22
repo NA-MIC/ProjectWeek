@@ -8,6 +8,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Steve Pieper (Isomics Inc., Cambridge, MA, USA) 
 - Andras Lasso (Queen's University, Kingston, Canada)
 - Adama Wade (Cheikh Anta Diop University, Dakar, Senegal)
+- Luiz Otavio Murta Junior (University of Sao Paulo, Ribeirao Preto, Brazil)
+- Vinicius Pavanelli Vianna (University of Sao Paulo, Ribeirao Preto, Brazil)
 
 # Project Description
 
