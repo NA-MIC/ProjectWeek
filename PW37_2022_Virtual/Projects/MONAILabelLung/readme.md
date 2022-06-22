@@ -33,7 +33,7 @@ provide links
 
 ## Progress and Next Steps
 
-*   Demonstratin of the current workflow at the MONAILabel Workshop June 22nd 2022
+*   Demonstration of the current workflow at the MONAILabel Workshop June 22nd 2022
 
 # Illustrations
 
