@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# MONAILabel lung mask and airwaysegmentation
+# MONAILabel lung mask and airway segmentation
 
 ## Key Investigators
 
