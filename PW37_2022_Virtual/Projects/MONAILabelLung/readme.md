@@ -36,7 +36,7 @@ provide links to
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-- Demonstrated the current workflow at the MONAILabel Workshop June 22nd 2022
+- Demonstratin of the current workflow at the MONAILabel Workshop June 22nd 2022
 
 # Illustrations
 
