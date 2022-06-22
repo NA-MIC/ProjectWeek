@@ -55,7 +55,7 @@ Passcode: 980979
 
 *Big thanks in advance to the AWS, NVIDIA and Slicer teams for providing this activity!*
 
-
+[Document from Rudolf](https://docs.google.com/document/d/1azFpJutBVJEW9W_riYZlXzrXac58ToCEzNTAwkzNf2c/edit) on setting up a Windows machine to run MONAI Label.
 
 ## After the event
 * Please help us improve future events by filling out this brief survey: https://survey.immersionday.com/p4K9-Zqng
