@@ -4,8 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Rudolf Bumm, MD (KSGR)
-- Andres Diaz-Pinto (Nvidia)
+*   Rudolf Bumm, MD (KSGR)
+*   Andres Diaz-Pinto (Nvidia)
 
 # Project Description
 
@@ -13,30 +13,27 @@ Set up, train and evaluate a lung mask and airway server model in MONAILabel
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
-set up MONAILabel on a moderate to high end gaming PC
-load ML apps and datasets 
-use  Lung CT Segmenter for rapid creation of detailed CT Lung labels in MONAILabel for
-- right lung
-- left lung
-- airways
-
-train sufficiently 
-evaluate the AI´s auto-segmentation performance
+*   set up MONAILabel on a moderate to high end gaming PC
+*   load MONAILabel apps and datasets
+*   use Lung CT Segmenter for rapid creation of detailed CT Lung labels in MONAILabel for
+    *   right lung
+    *   left lung
+    *   airways
+*   do training with the server model 
+*   evaluate the AI´s auto-segmentation performance
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+fine tune the MONAILabel server  
+provide links
 
-fine tune the MONAILabel server
-provide links to 
+## How to set up a MONAILabel in Windows 11
+
+*   [Please refer to this google doc](https://docs.google.com/document/d/1azFpJutBVJEW9W_riYZlXzrXac58ToCEzNTAwkzNf2c/edit) 
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-
-- Demonstratin of the current workflow at the MONAILabel Workshop June 22nd 2022
+*   Demonstratin of the current workflow at the MONAILabel Workshop June 22nd 2022
 
 # Illustrations
 
