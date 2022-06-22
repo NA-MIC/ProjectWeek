@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# MONAILabel lung mask and airway segmentation
+# MONAILabel lung and airway segmentation
 
 ## Key Investigators
 
@@ -9,11 +9,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Set up, train and evaluate a lung mask and airway server model in MONAILabel
+Set up, train and evaluate a lung and airway server model in MONAILabel
 
 ## Objective
 
-*   set up MONAILabel on a moderate to high end gaming PC
+*   set up MONAILabel on a moderate to high-end gaming PC
 *   load MONAILabel apps and datasets
 *   use Lung CT Segmenter for rapid creation of detailed CT Lung labels in MONAILabel for
     *   right lung
