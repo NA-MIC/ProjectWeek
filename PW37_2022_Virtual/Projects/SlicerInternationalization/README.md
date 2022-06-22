@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Sonia Pujol, (Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA) 
 - Steve Pieper (Isomics Inc., Cambridge, MA, USA) 
 - Andras Lasso (Queen's University, Kingston, Canada)
+- Adama Wade (Cheikh Anta Diop University, Dakar, Senegal)
 
 # Project Description
 
