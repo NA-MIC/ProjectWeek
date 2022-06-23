@@ -1,5 +1,8 @@
 # MONAI Label Workshop / Tutorial
 
+Video of the event is here: https://www.youtube.com/watch?v=wtiEe_jiUzg
+
+
 Registration is closed.  Details for registered attendees will be emailed before the workshop.
 
 June 22, 2022 9-11am EDT
