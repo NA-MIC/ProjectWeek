@@ -59,6 +59,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * Create example MONAI Label / MONAI Deploy structure as prototype for LNQ
 * [AMASSS CBCT](Projects/AMASSS_CBCT/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
 * [SlicerHeart polar maps](Projects/SlicerHeartPolarMaps/Readme.md) (Connor Haberl)
+* [IDC Prostate Segmentation](Projects/IDCProstateSegmentation/Readme.md) (Cosmin Ciausu)
+
 
 ### Landmark identification
 * [ALI](Projects/ALI/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
