@@ -21,12 +21,14 @@ Currently, we are working on the development of basic exercises to train basic u
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Develop basic module to train in-plane and out-of-plane needle insertions.
-2. Compute basic metrics to assess performance: distance from needle tip to US plane, distance to target, insertion time,...
-3. Display tables and plots to users during evaluation
-4. Integrate functionalities available in [PerkTutor extension](http://perktutor.github.io/) to automatically compute performance metrics and to provide feedback to users about their performance.
-5. Compute advance metrics using PerkTutor: tissue damage, number of insertions, total path, rotations,...
+2. Manage recordings (sequences) by saving/loading .sqbr files.
+3. Show exercise instructions using images and videos displayed in the module.
+4. Use [PerkTutor extension](http://perktutor.github.io/) to evaluate recordings and get overall metrics (elapsed time, needle path length, rotations, translations,...). Display table to users showing metric values.
+5. Enable the computation of metrics for each sample in the recording (distance from needle tip to US plane, distance to target,...) and visualize metric values along the recording time. Show plots to users during recording playback.
 6. Test exercise with hardware (US, tracker, phantom,...)
 7. Integrate exercise in TrainUS app
+8. Record insertion data for experts and novices and use [PerkTutor extension](http://perktutor.github.io/) to provide specific feedback to users about their performance.
+9. Determine best way to integrate video-based metrics into PerkTutor.
 
 ## Approach and Plan
 
