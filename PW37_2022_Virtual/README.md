@@ -143,6 +143,19 @@ List of registered participants so far (names will be added here after processin
 1.	Andras Lasso	,	PerkLab, Queen's University	,	Canada
 1.	Maxime Gillot	,	University of Michigan	,	USA
 1.	Baptiste Baquero 	,	University of Michigan	,	United States
+1.	Gurnish Sidora	,	University of Toronto	,	Canada
+1.	Pablo Bendiksen	,	University of Massachusetts Boston	,	United States
+1.	Mariana Costa Bernardes Matias	,	Brigham and Women's Hospital	,	United States
+1.	Oumar SY	,	Cheikh Anta Diop University 	,	Sénégal 
+1.	said	,	ENSMR	,	morocco
+1.	Luiz Murta	,	University of São Paulo	,	Brasil
+1.	Mamadou Camara	,	Cheikh Anta Diop University of Dakar	,	Senegal
+1.	Mohamed Alalli BILAL	,	Ecole Supérieure polytechnique  	,	Sénégal 
+1.	Patrick Remerscheid	,	Technical University of Munich	,	Germany
+1.	Khaled Younis	,	Philips	,	United States
+1.	Nicolas Yanez	,	Philips	,	United States
+1.	Renjie He	,	MDACC	,	USA
+1.	Hanad Elmi	,	Queen's University	,	Canada
     
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
