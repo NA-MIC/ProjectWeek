@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Add a short paragraph describing the project. -->
 
-<a href="url"><img src="https://user-images.githubusercontent.com/3187316/175366354-3aa45998-4a91-4d05-a3e4-f30ad784140f.png" align="left" width="175" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/3187316/175366354-3aa45998-4a91-4d05-a3e4-f30ad784140f.png" align="left" width="150" ></a>
 
 This project aims to add polar map funcitonality to SlicerHeart. Polar maps provide a standardized 2D representation of the 3D LV myocardium for consistent comparisons across different patients or over time, and allow the entire LV to be viewed at once in a single 2D image. 
 Polar maps are commonly used in:
@@ -24,12 +24,15 @@ This project looks to create a module within SlicerHeart to enable the creation 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
+(Within Project Week)
 1. Objective A. Create LV polar maps from surfaces (e.g. a 3D polydata surface representing scalar values at either the endo- or epi- cardial surface)
-1. Objective B. Create LV polar maps from nuclear imaging volumes (e.g. perfusion mapping from PET scan)
-1. Objective C. Create LV polar maps from CT/MR volumes showing washout (e.g. Late Gadolineum uptake in LGE MRI to identify regions of scar)
-1. Objective D. Create LV polar maps from 4D CT/MR/Echo volumes showing wall motion & thickening (e.g. )
-1. Objective E. Allow user to interact (e.g. draw a segmentation) on the polar map, and translate those segmentations to the 3D scene.
+2. Objective B. Create LV polar maps from nuclear imaging volumes (e.g. perfusion mapping from PET scan)
+3. Objective C. Allow user to interact (e.g. draw a segmentation) on the polar map, and translate those segmentations to the 3D scene.
+
+(Beyond Project Week)
+4. Objective D. Create LV polar maps from CT/MR volumes showing washout (e.g. Late Gadolineum uptake in LGE MRI to identify regions of scar)
+5. Objective E. Create LV polar maps from 4D CT/MR/Echo volumes showing wall motion & thickening
+
 
 ## Approach and Plan
 
@@ -38,15 +41,15 @@ This project looks to create a module within SlicerHeart to enable the creation 
 1. Create method for automatic LV long-axis detection (or require user to define using markers at apex and center of LV)
 1. Create method for interactive plot of polar coordinates in Slicer (similar to matplotlib 'polar' plot type https://matplotlib.org/stable/gallery/pie_and_polar_charts/polar_demo.html)
 1. Create method for apical sampling (or, eventually, allow user to select one of 3 common methods of apical sampling for polar maps)
-1. Implement some level of semi-automatic LV myocardial segmentation (first for nuclear imaging following [this workflow)]
+1. Implement some level of semi-automatic LV myocardial segmentation (anything existing to leverage?)
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. In MATLAB, implemented 3D surface to polar plot method
-1. ...
-1. ...
+1. (Complete) Create initial extension with basic polar plot capabilities for surface data
+1. (To Do) Try to solve objective C - interactive plots with connection to 3D
+1. (To Do) Work with sample data to develop sampling method for nuclear imaging data to create polar map.
 
 # Illustrations
 
@@ -54,6 +57,10 @@ This project looks to create a module within SlicerHeart to enable the creation 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+An example of 17 segment display of LV wall thickening:
+
+<a href="url"><img src="https://user-images.githubusercontent.com/3187316/175652378-0aaf14a1-e5b1-43d9-9d30-903a6cfcc0f7.gif" width="175" ></a>
+
 
 # Background and References
 
