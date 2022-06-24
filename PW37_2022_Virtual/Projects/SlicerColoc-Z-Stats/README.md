@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-This is an extension for computing the percentage of colocalization(Spatial overlap between different channels) of Z-stack TIFF images.
+This is an extension for computing the percentage of colocalization(Spatial overlap between different channels) of Z-stack TIFF images, which developed for category 'Quantification'.
 
 ## Objective
 
