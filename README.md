@@ -33,7 +33,7 @@ The Project Week series was founded in 2005, along with the National Alliance fo
 
 #### Who to contact?
 
-Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)), [@drouin-simon](https://github.com/drouin-simon), ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//)) and [@rafaelpalomar](https://github.com/rafaelpalomar), ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp)) who are happy to tell you more about them.
+Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)), [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//)), [@rafaelpalomar](https://github.com/rafaelpalomar) ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp)) and [@piiq](https://github.com/piiq) ([Theodore Aptekarev](https://discourse.slicer.org/u/pll_llq)) who are happy to tell you more about them.
 
 ## Upcoming Project Weeks
 
