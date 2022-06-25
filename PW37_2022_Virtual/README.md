@@ -49,7 +49,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [SlicerVR Tutorial](Projects/SlicerVRTutorial/README.md) (Monica Garcia-Sevilla, David Garcia-Mato, Csaba Pinter, ?)
 * [Slicer Photogrammetry](Projects/SlicerPhotoGram/README.md) (Chi Zhang, Murat Maga, Steve Pieper)
 * [Cinematic Rendering VTK PBR](Projects/CinematicRenderingVTK/README.md) (Shreeraj Jadhav, Jiayi Xu, Jean-Christophe Fillion-Robin)
-* [Slicer TMS](Projects/TMS_Slicer/README.md) (Loraine Franke, Jax Luo, Raymond Yang, Steve Pieper, Lipeng Ning, Daniel Haehn)
+* [Slicer TMS Module](Projects/SlicerTMS_Module/README.md) (Loraine Franke, Jax Luo, Raymond Yang, Steve Pieper, Lipeng Ning, Daniel Haehn)
 
 ### Image-guided therapy and low cost systems    
 * [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, Rebecca Hisey, Matthew Holden,...)
