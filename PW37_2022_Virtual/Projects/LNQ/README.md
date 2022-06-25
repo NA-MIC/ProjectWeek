@@ -3,7 +3,7 @@ back to [Projects List](../../README.md#ProjectsList)
 # CT Lymph Node collection weakly annotated MONAI Label
 
 ## Key Investigators
-- Roya Khajavi(Department of Radiology, Brigham and Women’s Hospital, Boston, MA)
+- Roya Khajavi (Department of Radiology, Brigham and Women’s Hospital, Boston, MA)
 - Erik Ziegler (Novometrics LLC, Lexington, MA)
 - Steve Pieper (Isomics Inc, Cambridge, MA)
 - Ron Kikinis (Department of Radiology, Brigham and Women’s Hospital, Boston, MA)
