@@ -37,4 +37,4 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 
 # Background and References
-See an explanatory article for the comprehensive and user-friendly PyOD outlier detection toolbox [here](https://www.jmlr.org/papers/volume20/19-011/19-011.pdf?ref=https://githubhelp.com))  
+See an explanatory article for the comprehensive and user-friendly PyOD outlier detection toolbox [here](https://www.jmlr.org/papers/volume20/19-011/19-011.pdf?ref=https://githubhelp.com)
