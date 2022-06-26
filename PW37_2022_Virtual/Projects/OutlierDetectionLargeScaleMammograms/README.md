@@ -12,11 +12,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
 
 ## Objective
-
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Implementation of a flexible API for the quick access and viewing of any collection from our > 190,000 Dicom images 
 1. Develop a good sense for what typical mammograms look like or, conversely, what atypical images look like.
@@ -24,15 +21,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
 1. Develop a good sense for what typical mammograms look like or, conversely, what atypical images look like.
 1. Prepare mammogram collection as input to unsupervised learning algorithm. Univariate versus Multivariate.
 1. Determine classifer and input type combination that yields sufficiently accurate results. 
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. It is known that the presence of views or frames are a telltale feature of an anomalous Dicom image but other features may be less easily identifiable.
 1. Image samples have been normalized and converted to image histograms for simple automated univariate anomaly detection.
@@ -41,11 +35,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
 
 # Background and References
-
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+See an explanatory article for the comprehensive and user-friendly PyOD outlier detection toolbox [here](https://www.jmlr.org/papers/volume20/19-011/19-011.pdf?ref=https://githubhelp.com))  
