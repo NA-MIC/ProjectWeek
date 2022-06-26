@@ -35,7 +35,7 @@ Modern deep learning systems can detect breast cancer early when trained with la
 
 # Illustrations
 [![Sample Images with Scores](./images_with_scores.png)](./images_with_scores.png)
-[![Sample Image Histograms with Scores](./images/flow-abstract.png)](./images/flow-abstract.png)
+[![Sample Image Histograms with Scores](./image_histograms_with_scores.png)](./image_histograms_with_scores.png)
 
 # Background and References
 See an explanatory article for the comprehensive and user-friendly PyOD outlier detection toolbox [here](https://www.jmlr.org/papers/volume20/19-011/19-011.pdf?ref=https://githubhelp.com)
