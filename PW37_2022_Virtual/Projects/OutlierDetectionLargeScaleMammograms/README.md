@@ -34,7 +34,8 @@ Modern deep learning systems can detect breast cancer early when trained with la
 1. Api for the fast access and easy viewing of any collection of our > 190,000 Dicom images or image histograms, sorted by corresponding trained outlier values, has been developed.
 
 # Illustrations
-
+[![Sample Images with Scores](./ProjectWeek/PW37_2022_Virtual/Projects/OutlierDetectionLargeScaleMammograms/images_with_scores.png)](./ProjectWeek/PW37_2022_Virtual/Projects/OutlierDetectionLargeScaleMammograms/images_with_scores.png)
+[![Sample Image Histograms with Scores](./images/flow-abstract.png)](./images/flow-abstract.png)
 
 # Background and References
 See an explanatory article for the comprehensive and user-friendly PyOD outlier detection toolbox [here](https://www.jmlr.org/papers/volume20/19-011/19-011.pdf?ref=https://githubhelp.com)
