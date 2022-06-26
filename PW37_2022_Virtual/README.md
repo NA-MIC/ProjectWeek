@@ -65,6 +65,7 @@ README.md
 * [SlicerHeart polar maps](Projects/SlicerHeartPolarMaps/README.md) (Connor Haberl)
 * [IDC Prostate Segmentation](Projects/IDCProstateSegmentation/README.md) (Cosmin Ciausu)
 * [Lung segmentation with MONAILabel](Projects/MONAILabelLung/README.md) (Rudolf Bumm, Andres Diaz-Pinto)
+* [Outlier Classification of Large Scale Mammography Studies](Projects/OutlierDetectionLargeScaleMammograms/README.md) (Pablo Bendiksen, Ryan Zurrin, Neha Goyal, Daniel Haehn)
 
 ### Landmark identification
 * [ALI](Projects/ALI/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
