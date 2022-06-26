@@ -1,14 +1,16 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# SlicerScope extension
 
 ## Key Investigators
 
 - Yi Gao (Shenzhen University)
+- Steve Pieper (Isomics)
 
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
+SlicerScope is a microscopy tool for operating on slides like histopathology (H&E) images.
 
 ## Objective
 
