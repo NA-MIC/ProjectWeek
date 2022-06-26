@@ -56,8 +56,6 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Gabriella D'Albenzio, Ruoyan Meng, Ole V. Solberg, Geir A. Tangen, Javier Pérez de Frutos)
 * [Virtual endoscopy](Projects/SlicerVirtualEndoscopy/README.md) (Yi Gao)
 
-README.md 
-
 ### Segmentation/Classification
 * [CT Lymph Node collection weakly annotated MONAI Label](Projects/LNQ/README.md) (Roya Khajavi, Erik Ziegler, Steve Pieper, Ron Kikinis)
 * Create example MONAI Label / MONAI Deploy structure as prototype for LNQ
@@ -74,9 +72,6 @@ README.md
 * [Multichannel image colocalization statistics](Projects/SlicerColoc-Z-Stats/README.md) (Xiang Chen, Oscar Meruvia-Pastor, Touati Benoukraf)
 * [Poisson Shape Analysis](Projects/SlicerPoissonShapeAnalysis/README.md) (Yi Gao)
 * [SlicerScope - whole slide histopathology](Projects/SlicerScope/README.md) (Yi Gao)
-
-
-### SlicerDMRI
 
 ### Cloud
 * [mpReview](Projects/mpReview/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
