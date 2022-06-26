@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 In the last project week, we worked on an [approach](https://projectweek.na-mic.org/PW36_2022_Virtual/Projects/IDCBodyPartRegression/) for enriching the DICOM metadata, specifically the body part examined. 
-We showed that we could classify each CT axial slice in a volume as a particular body region -- head, neck, chest, abdomen, pelvis and legs. 
+We showed that we could classify each CT axial slice in a volume as a particular body region -- head, neck, chest, abdomen, pelvis and legs. (using [this approach](https://arxiv.org/abs/2110.09148))
 In order to visualize the results of body region per slice, we used DICOM SEG objects. Though good for visualization, this is not exactly a good use of the DICOM SEG. 
 A better approach would be to use Structured Reports (SR), and view an annotation for each slice as you scroll. This functionality has been made available in the latest release of OHIF, and we would like to adapt our body part regression results to this format.
 
