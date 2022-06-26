@@ -182,6 +182,8 @@ List of registered participants so far (names will be added here after processin
 1. Xiang Chen, Memorial University of Newfoundland, Canada
 1. Leah Groves, Queen's University , Canada
 1. Lipeng Ning, Brigham and Women's Hospital, USA
+1. Vianney Muñoz-Jiménez, Universidad Autónoma del Estado de México, méxico
+1. Mariana Alvarez-Carvajal, Universidad Autonoma del Estado de Mexico, Mexico
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
