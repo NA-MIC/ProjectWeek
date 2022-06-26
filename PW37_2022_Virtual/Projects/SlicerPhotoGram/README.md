@@ -32,6 +32,13 @@ To further reduce the cost and faciliate the use of photogrammetry, we want to b
 
 
 # Illustrations
+Example
+
+Example textured model (.obj) exported from WebODM viewed in MeshLab
+![Picture1](https://user-images.githubusercontent.com/80793828/175820570-1dd33815-a151-4469-9f30-42470906fc0a.png)
+
+Example camera positions reconstructed by WebODM, viewed in WebODM
+![Picture2](https://user-images.githubusercontent.com/80793828/175820800-78f81f9c-6d44-42a1-b8e2-c201abd04fc3.png)
 
 Example point cloud exported from webODM and loaded in Slicer using [this code](https://gist.github.com/pieper/e4ca5e4c753c5ed6c61656d25b93402c).
 ![image](https://user-images.githubusercontent.com/126077/174670532-75d16428-15a5-4647-8b80-7820fe4dfde3.png)
