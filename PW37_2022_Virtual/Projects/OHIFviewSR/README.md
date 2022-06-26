@@ -40,7 +40,7 @@ A better approach would be to use Structured Reports (SR), and view an annotatio
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-
+![Example of viewing DICOM SEG from last year](DICOM_SEG.jpg)
 
 # Background and References
 
