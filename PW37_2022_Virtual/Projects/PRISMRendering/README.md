@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andrey Titov, ETS Montreal
 - Rafael Palomar, Oslo University Hospital / NTNU, Norway
 - Mauro Dominguez
+- Samuelle St-Onge, ETS Montreal
 
 # Project Description
 
