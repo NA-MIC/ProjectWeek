@@ -23,8 +23,9 @@ A working prototype already exists here: https://github.com/pieper/SlicerWGPU
 
 # Illustrations
 
-![image](https://user-images.githubusercontent.com/126077/175835561-de9e3e40-0e58-462a-abc7-ef87e9d1bcee.png)
+<img width="1298" alt="image" src="https://user-images.githubusercontent.com/126077/175835831-a052d131-bdc3-4cb6-90b6-de5c2d0d0659.png">
 Figure 1: [Simple compute shader example](https://github.com/pieper/SlicerWGPU/blob/main/Experiments/slicer-compute.py) that inverts the values of a volume.
+
 ```
 @group(0) @binding(0)
 var<storage,read> data1: array<i32>;
@@ -39,7 +40,8 @@ fn main(@builtin(global_invocation_id) index: vec3<u32>) {
 ```
 Figure 2: Example WGSL compute shader code.
 
-![image](https://user-images.githubusercontent.com/126077/175835635-6df93864-b709-450a-99d3-4ae8b02fdf8d.png)
+<img width="1293" alt="image" src="https://user-images.githubusercontent.com/126077/175835810-0bb72ccf-91b7-4b0f-87ee-207ea01fff41.png">
+
 Figure 3: [Off-screen GPU render example](https://github.com/pieper/SlicerWGPU/blob/main/Experiments/slicer-render.py).
 
 # Background and References
