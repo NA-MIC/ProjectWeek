@@ -1,6 +1,6 @@
 back to [Projects List](../../README.md#ProjectsList)
 
-# MONAI Label App for Lymph Node Segmentation in CT
+# MONAI Label App for AI-assisted Interactive Lymph Node Segmentation in CT
 
 ## Key Investigators
 - Roya Khajavi (Department of Radiology, Brigham and Women’s Hospital, Boston, MA)
