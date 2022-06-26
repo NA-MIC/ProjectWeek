@@ -24,6 +24,7 @@ A working prototype already exists here: https://github.com/pieper/SlicerWGPU
 # Illustrations
 
 <img width="1298" alt="image" src="https://user-images.githubusercontent.com/126077/175835831-a052d131-bdc3-4cb6-90b6-de5c2d0d0659.png">
+
 Figure 1: [Simple compute shader example](https://github.com/pieper/SlicerWGPU/blob/main/Experiments/slicer-compute.py) that inverts the values of a volume.
 
 ```
