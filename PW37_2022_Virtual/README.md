@@ -50,7 +50,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [Slicer Photogrammetry](Projects/SlicerPhotoGram/README.md) (Chi Zhang, Murat Maga, Steve Pieper)
 * [Cinematic Rendering VTK PBR](Projects/CinematicRenderingVTK/README.md) (Shreeraj Jadhav, Jiayi Xu, Jean-Christophe Fillion-Robin)
 * [Slicer TMS Module](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Raymond Yang, Steve Pieper, Lipeng Ning, Daniel Haehn)
-* [SlicerWGPU - WebGPU in Slicer](Projects/SlicerWGPU/README.md) (Steve Pieper)
+* [SlicerWGPU - WebGPU in Slicer](Projects/SlicerWGPU) (Steve Pieper)
 
 ### Image-guided therapy and low cost systems
 * [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, Rebecca Hisey, Matthew Holden,...)
