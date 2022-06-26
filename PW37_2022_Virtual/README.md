@@ -77,6 +77,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 ### Cloud
 * [mpReview](Projects/mpReview/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
+* [Slice level annotations in OHIF](Projects/OHIFviewSR/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
 
 ### Infrastructure
 * [SystoleOS: ](Projects/SystoleOS/README.md) (Rafael Palomar, Andras Lasso, Steve Pieper, Jean Christophe Fillion Robin)
