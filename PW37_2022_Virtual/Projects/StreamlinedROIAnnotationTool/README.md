@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Neha Goyal (University of Massachusetts Boston)
 - Pablo Bendiksen (University of Massachusetts Boston)
 - Kendrick Kheav (University of Massachusetts Boston)
-- Danial Haehn (University of Massachusetts Boston)
+- Daniel Haehn (University of Massachusetts Boston)
 
 # Project Description
 
