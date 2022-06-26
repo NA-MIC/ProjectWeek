@@ -71,7 +71,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [AQ3DC](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes)
 * [Multichannel image colocalization statistics](Projects/SlicerColoc-Z-Stats/README.md) (Xiang Chen, Oscar Meruvia-Pastor, Touati Benoukraf)
 * [Poisson Shape Analysis](Projects/SlicerPoissonShapeAnalysis/README.md) (Yi Gao)
-* [SlicerScope - whole slide histopathology](Projects/SlicerScope/README.md) (Yi Gao)
+* [SlicerScope - whole slide histopathology](Projects/SlicerScope/README.md) (Yi Gao, Steve Pieper)
 
 ### Cloud
 * [mpReview](Projects/mpReview/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
