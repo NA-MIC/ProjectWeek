@@ -11,11 +11,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Daniel Haehn (University of Massachusetts Boston)
 
 # Project Description
-
+Modern deep learning systems can detect breast cancer early when trained with large amounts of data. As part of our mission to create the world's largest publicly-available annotated mammography dataset with ground truth labels, we care to curate a final collection of 70,000 breast cancer scans (from a dataset of > 190,000 images)comprised of both 3D Digital Breast Tomosynthesis (DBT) and 2D Digital Mammography (DM) studies. To this end we must automate the effective detection of atypical scans across approximately 250,000 images.
 
 ## Objective
 
-1. Implementation of a flexible API for the quick access and viewing of any collection from our > 190,000 Dicom images 
+1. Implementation of a flexible API for the quick access and viewing of any collection from our > 190,000 Dicom images. 
 1. Develop a good sense for what typical mammograms look like or, conversely, what atypical images look like.
 1. Determine classifer and input type combination that yields sufficiently accurate outlier detection. 
 
