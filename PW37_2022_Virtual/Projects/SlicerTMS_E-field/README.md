@@ -45,8 +45,8 @@ Our projects aims to predict the distribution of the E-field based on the locati
 
 
 pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
+![Visualization of the predicted E-field from another software]([Example2.jpg](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/Projects/SlicerTMS/tmsonbrain.png))
+
 -->
 
 # Background and References
