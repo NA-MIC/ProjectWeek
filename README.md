@@ -1,6 +1,6 @@
 ## Welcome to the main page for the Project Week events!
 
-### The [37th project week](PW37_2022_Virtual/README.md) will be held June 27-July 1, 2022 online. 
+### The [37th project week](PW37_2022_Virtual/README.md) will be held June 27-July 1, 2022 online.
 
 ## Frequently Asked Questions
 
@@ -13,7 +13,7 @@ The Project Week is a week-long hackathon of hands on activity in which medical 
 #### When, where, how much?
 
 PP i.e., pre-pandemic, the Project Week events were held in-person twice a year, January in Europe, and June at MIT, with ad-hoc meetings added occasionally. The registration fee for in-person events is approximately 350 (USD or Euro), and is used to cover coffee and food.
-DP i.e. during-pandemic, the Project Week events are being held online twice year a year.  There is no registration fee.  
+DP i.e. during-pandemic, the Project Week events are being held online twice year a year.  There is no registration fee.
 
 #### How does it work?
 
@@ -21,7 +21,7 @@ Weekly videoconferences for preparation begin 8-12 weeks before an event. Potent
 
 #### Who can attend?
 
-Project Weeks are open to all and publicly advertised. Email announcements are sent to the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) and posted on the [Project Week forum](https://discourse.slicer.org/c/community/project-week). One-day participation is permitted for first-time attendees, but rest stay for the entire event. 
+Project Weeks are open to all and publicly advertised. Email announcements are sent to the [Project Week mailing list](https://public.kitware.com/mailman/listinfo/na-mic-project-week) (for continuity) and posted on the [Project Week forum](https://discourse.slicer.org/c/community/project-week). One-day participation is permitted for first-time attendees, but rest stay for the entire event.
 
 #### Who should attend?
 
@@ -33,7 +33,7 @@ The Project Week series was founded in 2005, along with the National Alliance fo
 
 #### Who to contact?
 
-Project Weeks are led by [@tkapur](https://github.com/tkapur), ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)), [@drouin-simon](https://github.com/drouin-simon), ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//)) and [@rafaelpalomar](https://github.com/rafaelpalomar), ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp)) who are happy to tell you more about them.
+Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)), [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//)), [@rafaelpalomar](https://github.com/rafaelpalomar) ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp)) and [@piiq](https://github.com/piiq) ([Theodore Aptekarev](https://discourse.slicer.org/u/pll_llq)) who are happy to tell you more about them.
 
 ## Upcoming Project Weeks
 
