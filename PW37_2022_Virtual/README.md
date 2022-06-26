@@ -43,32 +43,39 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ## Projects [(How to add a new project?)](Projects/README.md)
     
 ### VR/AR and Rendering
-* [PRISM Rendering](Projects/PRISMRendering/Readme.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
+* [PRISM Rendering](Projects/PRISMRendering/README.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
 * [SlicerVR infrastructure](Projects/SlicerVRInfrastructure/README.md) (Csaba Pinter, Sankhesh Jhaveri, David Garcia Mato, Jean-Christophe Fillion-Robin)
 )
 * [SlicerVR Tutorial](Projects/SlicerVRTutorial/README.md) (Monica Garcia-Sevilla, David Garcia-Mato, Csaba Pinter, ?)
 * [Slicer Photogrammetry](Projects/SlicerPhotoGram/README.md) (Chi Zhang, Murat Maga, Steve Pieper)
 * [Cinematic Rendering VTK PBR](Projects/CinematicRenderingVTK/README.md) (Shreeraj Jadhav, Jiayi Xu, Jean-Christophe Fillion-Robin)
-* [Slicer TMS Module](Projects/SlicerTMS_Module/README.md) (Loraine Franke, Jax Luo, Raymond Yang, Steve Pieper, Lipeng Ning, Daniel Haehn)
+* [Slicer TMS Module](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Raymond Yang, Steve Pieper, Lipeng Ning, Daniel Haehn)
 
-### Image-guided therapy and low cost systems    
+### Image-guided therapy and low cost systems
 * [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, Rebecca Hisey, Matthew Holden,...)
-* [Slicer-Liver: ](Projects/SlicerLiver/README.md) (Rafael Palomar, Gabriella D'Albenzio, Ruoyan Meng, Ole V. Solberg, Geir A. Tangen, Javier Pérez de Frutos)
+* [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Gabriella D'Albenzio, Ruoyan Meng, Ole V. Solberg, Geir A. Tangen, Javier Pérez de Frutos)
+* [Virtual endoscopy](Projects/SlicerVirtualEndoscopy/README.md) (Yi Gao)
+
+README.md 
 
 ### Segmentation/Classification
-* [CT Lymph Node collection weakly annotated MONAI Label](Projects/LNQ) (Roya Khajavi, Erik Ziegler, Steve Pieper, Ron Kikinis)
+* [CT Lymph Node collection weakly annotated MONAI Label](Projects/LNQ/README.md) (Roya Khajavi, Erik Ziegler, Steve Pieper, Ron Kikinis)
 * Create example MONAI Label / MONAI Deploy structure as prototype for LNQ
 * [AMASSS CBCT](Projects/AMASSS_CBCT/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
-* [SlicerHeart polar maps](Projects/SlicerHeartPolarMaps/Readme.md) (Connor Haberl)
-* [IDC Prostate Segmentation](Projects/IDCProstateSegmentation/Readme.md) (Cosmin Ciausu)
-
+* [SlicerHeart polar maps](Projects/SlicerHeartPolarMaps/README.md) (Connor Haberl)
+* [IDC Prostate Segmentation](Projects/IDCProstateSegmentation/README.md) (Cosmin Ciausu)
+* [Lung segmentation with MONAILabel](Projects/MONAILabelLung/README.md) (Rudolf Bumm, Andres Diaz-Pinto)
 
 ### Landmark identification
 * [ALI](Projects/ALI/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
 
 ### Quantification tool
-* [AQ3DC](Projects/AutomaticQuantitative3DCephalometrics/Readme.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes)
-    
+* [AQ3DC](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes)
+* [Multichannel image colocalization statistics](Projects/SlicerColoc-Z-Stats/README.md) (Xiang Chen, Oscar Meruvia-Pastor, Touati Benoukraf)
+* [Poisson Shape Analysis](Projects/SlicerPoissonShapeAnalysis/README.md) (Yi Gao)
+* [SlicerScope - whole slide histopathology](Projects/SlicerScope/README.md) (Yi Gao)
+
+
 ### SlicerDMRI
 
 ### Cloud
