@@ -183,7 +183,12 @@ List of registered participants so far (names will be added here after processin
 1. Mariana Alvarez-Carvajal, Universidad Autonoma del Estado de Mexico, Mexico
 
 ## Statistics
-
+* 94 Registered attendees
+  * 39% first time attendees
+* 17 countries
+    
+<img src="images/participants-per-country.png" alt="Attendees per country" width="600"/>
+<img src="images/participants-per-timezone.png" alt="Attendees timezones" width="600"/>
     
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
