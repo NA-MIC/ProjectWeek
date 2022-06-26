@@ -43,8 +43,8 @@ Our projects aims to predict the distribution of the E-field based on the locati
 
 # Illustrations
 
-<!-- Add pi![tms](https://user-images.githubusercontent.com/31825090/175832877-07ed0edb-7f15-447e-b308-274a4fa82748.png)
-ctures and links to videos that demonstrate what has been accomplished.
+
+pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
