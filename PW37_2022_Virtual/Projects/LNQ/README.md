@@ -1,6 +1,6 @@
 back to [Projects List](../../README.md#ProjectsList)
 
-# CT Lymph Node collection weakly annotated MONAI Label
+# MONAI Label App for Lymph Node Segmentation in CT
 
 ## Key Investigators
 - Roya Khajavi (Department of Radiology, Brigham and Women’s Hospital, Boston, MA)
@@ -9,22 +9,21 @@ back to [Projects List](../../README.md#ProjectsList)
 - Ron Kikinis (Department of Radiology, Brigham and Women’s Hospital, Boston, MA)
 
 ## Project Description
-
-Evaluation of Mediastinal Lymph Node Segmentation of Heterogeneous CT Data with Weak Supervision. In particular, 
-we have been developing AI models for segmentation of lymph Node and we are trying to adopt our deep learning segmentation models in Monai platform.
+We have designed, developed, and validated deep learning methods for mediastinal lymph node segmentation using 3D U-Net and Tensorflow.
+In this project we aim to investigate and build a MONAI Label APP to interactively segment, train, infer, and employ active learning strategies for mediastinal lymph node segmentation in CT scans.
 
 ## Objective
 
-1. Use MONAI deploy to intergrate the model with clinical platform.
+To create an end-to-end pipeline for interactive AI-assisted lymph node annotation using MONAI Label and 3D Slicer. 
 
 ## Approach and Plan
 
-1. Use MONAI framework for preproceccing and inference processing of data.
-1. Use MONAI framework for replacing most of our custom code.
-1. Create MONAILabel app based on ported code
+We will use the mediastinal subset of TCIA CT Lymph Node as data for development and performing experiments. Below is our plan during the course of project week:
+1. Download TCIA data, convert to nifti, and organize per requirements of MONAI Label.
+1. Set up MONAILabelAPP including network definition
+2. Set up MONAI Label training pipeline: including validation split, transformations, and data augmentations.
+3. Set up MONAI Label inference pipeline: set type of inferers and inference transforms.
+4. Set up MONAI Label active learning strategy
+5. Set up MONAI Label server on Google Cloud Platform to efficiently train models on GPUs.
 
 ## Progress and Next Steps
-
-1. MONAILabel team added option to upload local image to the MONAILabel server
-1. Team have a strong model for Evaluation of Mediastinal Lymph Node Segmentation of Heterogeneous CT Data with Full and Weak Supervision
-
