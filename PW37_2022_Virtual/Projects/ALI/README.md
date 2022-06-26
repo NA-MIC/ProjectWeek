@@ -53,6 +53,7 @@ For IOS :
 # Illustrations
 ![Slicer screen](https://user-images.githubusercontent.com/46842010/174138265-66ab080e-e885-4f76-a150-7e4da3869aa0.png)
 
+<img width="569" alt="results" src="https://user-images.githubusercontent.com/83285614/175572226-337d8a2e-dcf7-45d5-b7a4-35269e5d6f2b.png">
 
 
 
