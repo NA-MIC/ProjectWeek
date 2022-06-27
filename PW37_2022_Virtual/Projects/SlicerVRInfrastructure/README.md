@@ -37,7 +37,7 @@ The goal of the project is, with coordination with Kitware/Robarts, to reach the
     1. Test SlicerVR OpenXR the branch
     2. Fix controller events with HP controller that seem to happen with XR as well, and the errors that bog down the application while rendering
 1. Fix volume rendering display in the virtual reality view. This may not be OpenVR-related, because the same thing happens using the Looking Glass extension, so would be a first candidate.
-1. Try out the latest [branch for the in-VR widget]([url](https://github.com/dgmato/SlicerVirtualReality/tree/gui-widgets-interactions))
+1. Try out the latest [branch for the in-VR widget](https://github.com/dgmato/SlicerVirtualReality/tree/gui-widgets-interactions)
     1. Try the reimplemented vtkQWidgetWidget class that now does not use the unstable shared context
     2. Make progress with the laser pointer
     3. Fix the texture update in the VR view (the update happens in regular 3D view, i.e. the checkbox is checked visibly, but not in the VR view)
@@ -64,15 +64,15 @@ The goal of the project is, with coordination with Kitware/Robarts, to reach the
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
 Branches
-* https://github.com/dgmato/SlicerVirtualReality/tree/gui-widgets-interactions
+* [GUI widgets interactions branch](https://github.com/dgmato/SlicerVirtualReality/tree/gui-widgets-interactions)
 * SlicerVR OpenXR branch comes here
 
 Issues
-* https://github.com/KitwareMedical/SlicerVirtualReality/issues/91
-* https://github.com/KitwareMedical/SlicerVirtualReality/issues/80
-* https://github.com/KitwareMedical/SlicerVirtualReality/issues/88
-* https://github.com/KitwareMedical/SlicerVirtualReality/issues/43
+* [SlicerVR ticket 91](https://github.com/KitwareMedical/SlicerVirtualReality/issues/91)
+* [SlicerVR ticket 80](https://github.com/KitwareMedical/SlicerVirtualReality/issues/80)
+* [SlicerVR ticket 88](https://github.com/KitwareMedical/SlicerVirtualReality/issues/88)
+* [SlicerVR ticket 43](https://github.com/KitwareMedical/SlicerVirtualReality/issues/43)
 
 Past project week pages
-* https://projectweek.na-mic.org/PW35_2021_Virtual/Projects/SlicerVR/
-* https://projectweek.na-mic.org/PW34_2020_Virtual/Projects/SlicerVR/
+* [Project week #35 page](https://projectweek.na-mic.org/PW35_2021_Virtual/Projects/SlicerVR/)
+* [Project week #34 page](https://projectweek.na-mic.org/PW34_2020_Virtual/Projects/SlicerVR/)
