@@ -72,7 +72,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. **Quantification.** [SlicerScope - whole slide histopathology](Projects/SlicerScope/README.md) (Yi Gao, Steve Pieper)
 1. **Cloud.** [mpReview](Projects/mpReview/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
 1. **Cloud.** [Slice level annotations in OHIF](Projects/OHIFviewSR/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
-1. **Infrastructure.** [SystoleOS: ](Projects/SystoleOS/README.md) (Rafael Palomar, Andras Lasso, Steve Pieper, Jean-Christophe Fillion-Robin)
+1. **Infrastructure.** [SystoleOS: ](Projects/SystoleOS/README.md) (Rafael Palomar, Andras Lasso, Steve Pieper, Jean-Christophe Fillion-Robin, Sam Horvath)
 1. **Infrastructure.** [MarkupConstraints](Projects/MarkupConstraints/README.md) (David Allemang, Jean-Christophe Fillion-Robin)
 1. **Infrastructure.** [SlicerInternationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso)
 1. **Infrastructure.** [Slicer Batch Annonymize](Projects/SlicerBatchAnonymize/README.md)(Hina Shah, Juan Carolos Prieto)
