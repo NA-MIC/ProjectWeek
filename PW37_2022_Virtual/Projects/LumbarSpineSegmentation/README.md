@@ -34,7 +34,7 @@ Train and deploy neural network to segment lumbar verteral bodies and interverte
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. The chosen dataset is [Multi-scanner and multi-modal lumbar vertebral body and intervertebral disc segmentation database]([https://www.google.com](https://www.nature.com/articles/s41597-022-01222-8) "Multi-scanner and multi-modal lumbar vertebral body and intervertebral disc segmentation database"): consisting of 39 patients. From all the images provided, we selected 51 of them, the ones with a T2 volume.
+1. The chosen dataset is [Multi-scanner and multi-modal lumbar vertebral body and intervertebral disc segmentation database]([https://www.google.com](https://www.nature.com/articles/s41597-022-01222-8 "Multi-scanner and multi-modal lumbar vertebral body and intervertebral disc segmentation database"): consisting of 39 patients. From all the images provided, we selected 51 of them, the ones with a T2 volume.
 1. Change the file format to .nii for the selected t2 images.
 1. Unify the 9 segments into a single file (5 segments for vertebrae and 4 for discs)
 
