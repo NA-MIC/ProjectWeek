@@ -13,6 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Vinicius Pavanelli Vianna (University of Sao Paulo, Ribeirao Preto, Brazil)
 - Oumar Sy (Cheikh Anta Diop University, Dakar, Senegal)
 - Mohamed Alalli BILAL (Ecole Supérieure polytechnique, Senegal)
+- Adriana H. Vilchis González (Universidad Autónoma del Estado de México, Mexico)
 
 # Project Description
 
