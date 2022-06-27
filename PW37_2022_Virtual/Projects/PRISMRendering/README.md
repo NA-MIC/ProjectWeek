@@ -17,7 +17,7 @@ The goal of this project is to enable the development of advanced 3D rendering t
 
 ## Long-term Objective
 
-1. Facilitate the development and debugging of GPU shaders for Slicer
+1. Facilitate the development and debugging of GPU shaders for Slicer (see [this branch](https://gitlab.kitware.com/drouin-simon/vtk/-/tree/volume-shader-readability) of VTK that improves shader readability)
 2. Extend the principles introduced in the PRISM module to surface rendering and other types of rendering
 4. Integrate GPU filters in Slicer and connect them with volume rendering in such a way that filtered volumes do not have to be transfered back to CPU memory before rendering. See work by Kyle Sunderland on VTK GPU image filters (branch [here](https://github.com/Sunderlandkyl/VTK/commits/vtkGPUImageFilter3)).
 5. Explore custom rendering to simplify integration with the vtk render process.  Prior work includes:
