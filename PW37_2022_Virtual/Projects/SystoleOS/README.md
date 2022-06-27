@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andras Lasso (Queen's University, Kingston, Canada)
 - Steve Pieper (Isomics Inc., Cambridge, MA, USA)
 - Jean-Christophe Fillion-Robin (Kitware Inc., Carrboro, NC, USA)
+- Sam Horvath (Kitware Inc.)
 
 # Project Description
 
