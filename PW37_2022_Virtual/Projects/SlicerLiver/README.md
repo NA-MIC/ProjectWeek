@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Rafael Palomar (Oslo Unviersity Hospital/NTNU, Norway)
 - Gabriella d'Albenzio (Oslo University Hospital, Norway)
+- Ruoyan Meng (NTNU, Norway)
 - Ole Vegard Solberg (SINTEF, Norway)
 - Geir Arne Tangen (SINTEF, Norway)
 - Javier Pérez de Frutos (SINTEF, Norway)
