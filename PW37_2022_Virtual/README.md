@@ -53,8 +53,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [SlicerWGPU - WebGPU in Slicer](Projects/SlicerWGPU) (Steve Pieper)
 
 ### Image-guided therapy and low cost systems
-1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, Rebecca Hisey, Matthew Holden,...)
 1. [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Gabriella D'Albenzio, Ruoyan Meng, Ole V. Solberg, Geir A. Tangen, Javier Pérez de Frutos)
+1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, Rebecca Hisey, Matthew Holden,...)
 1. [Virtual endoscopy](Projects/SlicerVirtualEndoscopy/README.md) (Yi Gao)
 1. [SlicerTMS: Deep learning for E-field prediction](Projects/SlicerTMS_E-field/README.md)(Jax Luo, Loraine Franke, Raymond Yang, Steve Pieper, Daniel Haehn, Lipeng Ning)
 
@@ -78,11 +78,9 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Poisson Shape Analysis](Projects/SlicerPoissonShapeAnalysis/README.md) (Yi Gao)
 1. [SlicerScope - whole slide histopathology](Projects/SlicerScope/README.md) (Yi Gao, Steve Pieper)
 
-### Cloud
+### Infrastructure and Cloud
 1. [mpReview](Projects/mpReview/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
 1. [Slice level annotations in OHIF](Projects/OHIFviewSR/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
-
-### Infrastructure
 1. [SystoleOS: ](Projects/SystoleOS/README.md) (Rafael Palomar, Andras Lasso, Steve Pieper, Jean Christophe Fillion Robin)
 1. [MarkupConstraints](Projects/MarkupConstraints/README.md) (David Allemang, Jean-Christophe Fillion-Robin)
 1. [SlicerInternationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso)
