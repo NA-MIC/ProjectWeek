@@ -22,17 +22,12 @@ Our project aims to develop a deep-learning powered software for real-time E-Fie
 Real-time visualization of an electric field (E-field) for transcranial magnetic stimulation (TMS) on the brain surface, visualization through an AR app (over browser).
 
 ## Approach and Plan
-- TMS module mapping NifTi file onto brain mesh (done)
-- Create a 3D TMS coil in Slicer that can be moved by the user (done) -> TODO: create a bounding box for the Coil mesh to not turn it into brain
-- OpenIGTLinkIF used to transfer data into 3D Slicer (done)
-- Next steps include connecting 3DSlicer to the web browser with our newly implemented WebSocket from https://github.com/liampaulhus/slicerWebWSS-WIP
-- Connect a mobile device via WebXR, we have started implementing face tracking for TMS with simple JavaScript. This needs to be implemented with WebXR.
-- ...
+- We created a TMS module in Slicer mapping NifTi file onto brain mesh with 3D TMS coil that can be moved by the user (done) -> TODO: create a bounding box for the Coil mesh to not turn it into brain
+- We use OpenIGTLinkIF used to transfer data (E-Field from TMS) into 3D Slicer (done)
+- Next steps include connecting 3DSlicer to the web browser using our newly implemented WebSocket from https://github.com/liampaulhus/slicerWebWSS-WIP
+- Connect a mobile device via WebXR: So far, we have started implementing face tracking for the TMS module with simple JavaScript. This needs to be implemented with WebXR to retrieve depth information.
 
 ## Progress and Next Steps
-
-1.
-2. 
 
 ## Illustrations
 
@@ -58,7 +53,7 @@ This project is related to: https://github.com/NA-MIC/ProjectWeek/tree/master/PW
 
 ## Infos for running WebXR:
 
-Phones need a Depth sensorto run AR/VR. A list of supported devices can be found here: https://developers.google.com/ar/devices
+Phones need a Depth sensor to run AR/VR. A list of supported devices can be found here: https://developers.google.com/ar/devices
 
 On an Android Phone via USB: 
 - PlayStore: Download Google VR Services and Google AR Services App
