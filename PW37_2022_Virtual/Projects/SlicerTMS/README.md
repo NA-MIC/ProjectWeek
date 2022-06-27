@@ -35,10 +35,13 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 
 ## Illustrations
 
-
 - Current Visualization in 3DSlicer:
 
 ![SlicerTMS Module with Efield mapped on brain](./tmscoil_on_brain_surface.png)
+
+- So far, we tested Javascript Face-Tracking via mobile Phone:
+
+![Facetracking in javascript for mobile phone](./brain_facetracking.png)
 
 - Visualization goal we want to achieve in Slicer (image from another software):
 
@@ -47,7 +50,7 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 
 # Background and References
 
-Another project of our is: https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SlicerTMS_E-field
+This project is related to: https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SlicerTMS_E-field
 
 ## Infos for running WebXR:
 
