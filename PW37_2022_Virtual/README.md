@@ -69,6 +69,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Outlier Detection of Large Scale Mammography Studies](Projects/OutlierDetectionLargeScaleMammograms/README.md) (Pablo Bendiksen, Ryan Zurrin, Neha Goyal, Daniel Haehn)
 1. [Streamlined ROI Annotation Tool](Projects/StreamlinedROIAnnotationTool/README.md) (Ryan Zurrin, Neha Goyal, Pablo Bendiksen, Kendrick Kheav,  Daniel Haehn)
 1. [Mass spectomatry imaging using Slicer](Projects/ViPRE/README.md) (Parvin Mousavi, Amoon Jamzad, Jessica Rodgers, Mackenzie Sharp, Hanad Elmi)
+1. [Multi-stage dental segmentation](Projects/MultistageTeethSegmentation/README.md) (Daniel Palkovics, Csaba Pinter, David Garcia Mato, Andres Diaz-Pinto)
 
 ### Landmark identification
 1. [ALI](Projects/ALI/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
