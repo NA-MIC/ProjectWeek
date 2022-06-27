@@ -183,8 +183,20 @@ List of registered participants so far (names will be added here after processin
 1. Xiang Chen, Memorial University of Newfoundland, Canada
 1. Leah Groves, Queen's University , Canada
 1. Lipeng Ning, Brigham and Women's Hospital, USA
-1. Vianney Muñoz-Jiménez, Universidad Autónoma del Estado de México, méxico
+1. Vianney Muñoz-Jiménez, Universidad Autónoma del Estado de México, Mexico
 1. Mariana Alvarez-Carvajal, Universidad Autonoma del Estado de Mexico, Mexico
+1. Michael Dada, Federal University of Technology, Minna, Nigeria
+1. Joaquin Olivares, University of Cordoba, Spain
+1. Étienne Léger, Brigham and Women's Hospital, USA
+1. Samuelle St-Onge, École de technologie supérieure (ÉTS), Canada
+1. Kyle Sunderland, Queen's University, Canada
+1. NIrav Patel, Indian Institute of Technology Madras, India
+1. Inés, Universidad Carlos III de Madrid, Spain
+1. Dženan Zukić, Kitware, USA
+1. María Rosa, Universidad de Las Palmas de Gran Canaria, Spain
+1. Davit Aghayan, Oslo University Hospital, Norway
+1. Kristof Moga, Perklab, Canada
+1. Theodore Aptekarev, Slicer Community, Montenegro
 
 ## Statistics
 * 94 Registered attendees
