@@ -67,6 +67,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [IDC Prostate Segmentation](Projects/IDCProstateSegmentation/README.md) (Cosmin Ciausu)
 * [Lung segmentation with MONAILabel](Projects/MONAILabelLung/README.md) (Rudolf Bumm, Andres Diaz-Pinto)
 * [Outlier Detection of Large Scale Mammography Studies](Projects/OutlierDetectionLargeScaleMammograms/README.md) (Pablo Bendiksen, Ryan Zurrin, Neha Goyal, Daniel Haehn)
+* [Lumbar spine segmentation using MONAILabel](Projects/LumbarSpineSegmentation/README.md) (Nayra Pumar, María Rosa Rodriguez, David García Mato)
+
 
 ### Landmark identification
 * [ALI](Projects/ALI/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
