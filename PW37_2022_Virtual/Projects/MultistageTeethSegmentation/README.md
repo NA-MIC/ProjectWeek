@@ -38,11 +38,19 @@ The idea is to create a simple two-stage approach in MONAILabel where the first 
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+There are some promising preliminary results
+
+![Good result](PreliminaryTeethSegmentation_1.PNG)
+![Good result](PreliminaryTeethSegmentation_2.PNG)
+![Good result](PreliminaryTeethSegmentation_4.PNG)
+
+but there is room for improvement!
+
+![Bad result](PreliminaryTeethSegmentation_3_Bad.PNG)
+![Bad result](PreliminaryTeethSegmentation_5_Bad.PNG)
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+- https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/AutomaticSegmentationofTeethandAlveolarBone
