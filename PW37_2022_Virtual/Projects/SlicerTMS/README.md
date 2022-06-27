@@ -41,11 +41,11 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 
 - So far, we tested Javascript Face-Tracking via mobile Phone:
 
-![Facetracking in javascript for mobile phone](./brain_facetracking.png)
+![Facetracking in javascript for mobile phone](./brain_facetracking.png|width=200px)
 
 - Visualization goal we want to achieve in Slicer (image from another software):
 
-![Brain surface and DT](./tmsonbrain.png)
+![Brain surface and DT](./tmsonbrain.png|width=200px)
 
 
 # Background and References
