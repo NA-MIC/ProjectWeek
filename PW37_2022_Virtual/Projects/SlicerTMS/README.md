@@ -23,10 +23,11 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 
 ## Approach and Plan
 - TMS module mapping NifTi file onto brain mesh (done)
-- Create a 3D TMS coil in Slicer that can be moved by the user (done)
+- Create a 3D TMS coil in Slicer that can be moved by the user (done) -> TODO: create a bounding box for the Coil mesh to not turn it into brain
 - OpenIGTLinkIF used to transfer data into 3D Slicer (done)
-- Next steps include connecting 3DSlicer to the web browser via our newly implemented WebSocket from https://github.com/liampaulhus/slicerWebWSS-WIP
-- Connect a mobile device via WebXR, we have started implementing face tracking for TMS with simple JavaScript
+- Next steps include connecting 3DSlicer to the web browser with our newly implemented WebSocket from https://github.com/liampaulhus/slicerWebWSS-WIP
+- Connect a mobile device via WebXR, we have started implementing face tracking for TMS with simple JavaScript. This needs to be implemented with WebXR.
+- ...
 
 ## Progress and Next Steps
 
@@ -35,17 +36,20 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 
 ## Illustrations
 
-- Current Visualization in 3DSlicer:
+####  Current Visualization of the TMS Module in 3DSlicer with Coil and mapping of E-field on brain:
 
-![SlicerTMS Module with Efield mapped on brain](./tmscoil_on_brain_surface.png)
+<img src="./tmscoil_on_brain_surface.png" width="400" alt="SlicerTMS Module with Efield mapped on brain">
+<!-- ![SlicerTMS Module with Efield mapped on brain](./tmscoil_on_brain_surface.png) -->
 
-- So far, we tested Javascript Face-Tracking via mobile Phone:
+#### We tested simple Javascript Face-Tracking via mobile Phone:
 
-![Facetracking in javascript for mobile phone](./brain_facetracking.png|width=200px)
+<img src="./brain_facetracking.png" width="300" alt="Facetracking in javascript for mobile phone">
+<!-- ![Facetracking in javascript for mobile phone](./brain_facetracking.png) -->
 
-- Visualization goal we want to achieve in Slicer (image from another software):
+#### Visualization goal we want to achieve in 3DSlicer (image from another software):
 
-![Brain surface and DT](./tmsonbrain.png|width=200px)
+<img src="./tmsonbrain.png" width="200" alt="Brain surface and DT">
+<!-- ![Brain surface and DT](./tmsonbrain.png) -->
 
 
 # Background and References
@@ -72,4 +76,4 @@ Moving fiducials with CPYY: https://gist.github.com/pieper/f9da3e0a73c70981b48d0
 
 Measure rendering time in 3D Slicer:
 1. Getting renderer: https://slicer.readthedocs.io/en/latest/developer_guide/script_repository.html#access-vtk-views-renderers-and-cameras
-2. Then applying renderer.GetLastRenderTimeInSeconds() -->
+2. Then applying renderer.GetLastRenderTimeInSeconds()
