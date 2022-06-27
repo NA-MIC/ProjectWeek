@@ -25,22 +25,29 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 - TMS module mapping NifTi file onto brain mesh (done)
 - Create a 3D TMS coil in Slicer that can be moved by the user (done)
 - OpenIGTLinkIF used to transfer data into 3D Slicer (done)
-- Next steps include connecting 3DSlicer to the web browser (via WebSocket from https://github.com/liampaulhus/slicerWebWSS-WIP) and
-- Using a mobile device via WebXR to view/control 3D Slicer and later interact with the TMS module
+- Next steps include connecting 3DSlicer to the web browser via our newly implemented WebSocket from https://github.com/liampaulhus/slicerWebWSS-WIP
+- Connect a mobile device via WebXR, we have started implementing face tracking for TMS with simple JavaScript
 
 ## Progress and Next Steps
 
-1. 
+1.
 2. 
 
 ## Illustrations
 
--Visualization goal in Slicer from another software:
+
+- Current Visualization in 3DSlicer:
+
+![SlicerTMS Module with ](./tms_coil_on_brain_surface_efield)
+
+- Visualization goal we want to achieve in Slicer (image from another software):
 
 ![Brain surface and DT](./tmsonbrain.png)
 
 
 # Background and References
+
+Another project of our is: 
 
 ## Infos for running WebXR:
 
