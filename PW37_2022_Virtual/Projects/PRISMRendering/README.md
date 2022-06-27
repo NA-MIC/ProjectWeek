@@ -41,6 +41,7 @@ The goal of this project is to enable the development of advanced 3D rendering t
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 - PRISM Module [GitHub repository](https://github.com/ETS-vis-interactive/SlicerPRISMRendering).
+- Incomplete [documentation](https://vtk.org/Wiki/VTK/ProgrammableMultiVolumeRendering) for the Volume Rendering shader used by vtkOpenGLVolumeRaycastMapper
 - [Original article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193636) about the PRISM framework that served as a basis to develop the PRISM module in Slicer
 - Previous project weeks
   - [PW36](https://projectweek.na-mic.org/PW36_2022_Virtual/Projects/PRISMRendering/)
