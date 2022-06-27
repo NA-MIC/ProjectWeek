@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# MONAILabel lung and airway segmentation
+# MONAI Label lung and airway segmentation
 
 ## Key Investigators
 
@@ -11,13 +11,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 MONAI Label is a server-client system that facilitates interactive medical image annotation by using AI. It is an open-source and easy-to-install ecosystem that can run locally on a machine with single or multiple GPUs. Both server and client work on the same/different machine. It shares the same principles with MONAI.
 
-The aim of the project is to set up, train and evaluate a lung and airway server model in MONAILabel
+The aim of the project is to set up, train and evaluate a lung and airway server model in MONAI Label
 
 ## Objective
 
-*   set up MONAILabel on a PC with moderate to high-end Nvidea GPU
-*   load MONAILabel apps and datasets
-*   use Lung CT Segmenter for rapid creation of detailed CT Lung labels in MONAILabel for
+*   set up MONAI Label on a PC with moderate to high-end Nvidea GPU
+*   load MONAI Label apps and datasets
+*   use Lung CT Segmenter for rapid creation of detailed CT Lung labels in MONAI Label for
     *   right lung
     *   left lung
     *   airways
@@ -26,10 +26,10 @@ The aim of the project is to set up, train and evaluate a lung and airway server
 
 ## Approach and Plan
 
-fine tune the MONAILabel server  
+fine tune the MONAI Label server  
 provide links
 
-## How to set up a MONAILabel in Windows 11
+## How to set up a MONAI Label in Windows 11
 
 *   [Please refer to this google doc](https://docs.google.com/document/d/1azFpJutBVJEW9W_riYZlXzrXac58ToCEzNTAwkzNf2c/edit) 
 
