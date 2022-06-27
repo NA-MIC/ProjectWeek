@@ -35,7 +35,7 @@ provide links
 
 ## Progress and Next Steps
 
-*   Demonstration of the current workflow at the MONAILabel Workshop June 22nd 2022
+*   Demonstration of the current workflow at the MONAI Label Workshop June 22nd 2022
 *   Youtube Video: [https://www.youtube.com/watch?v=wtiEe_jiUzg](https://www.youtube.com/watch?v=wtiEe_jiUzg) 
 
 # Illustrations
