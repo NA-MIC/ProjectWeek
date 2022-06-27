@@ -105,7 +105,7 @@ List of registered participants so far (names will be added here after processin
 1. Mónica García-Sevilla, Universidad de Las Palmas de Gran Canaria, Spain
 1. Badiaa AIT AHMED , Universidad de Las Palmas de Gran Canaria, Spain
 1. Cosmin Ciausu, Brigham and Women's Hospital, USA
-1. Michael Dada, Federal University of Technology, Minna, Nigeria
+1. Michael Dada, Federal University of Technology, Minna, nigeria
 1. Shiraz Yousif Abd Elsalam Yousif, University of Khartoum , Australia
 1. Geir Arne Tangen, SINTEF, Norway
 1. Marie NDIAYE, Université Assane Seck de Ziguinchor, Senegal
@@ -174,7 +174,7 @@ List of registered participants so far (names will be added here after processin
 1. Lipeng Ning, Brigham and Women's Hospital, USA
 1. Vianney Muñoz-Jiménez, Universidad Autónoma del Estado de México, Mexico
 1. Mariana Alvarez-Carvajal, Universidad Autonoma del Estado de Mexico, Mexico
-1. Michael Dada, Federal University of Technology, Minna, Nigeria
+1. Michael Dada, Federal University of Technology, Minna, nigeria
 1. Joaquin Olivares, University of Cordoba, Spain
 1. Étienne Léger, Brigham and Women's Hospital, USA
 1. Samuelle St-Onge, École de technologie supérieure (ÉTS), Canada
@@ -186,6 +186,13 @@ List of registered participants so far (names will be added here after processin
 1. Davit Aghayan, Oslo University Hospital, Norway
 1. Kristof Moga, Perklab, Canada
 1. Theodore Aptekarev, Slicer Community, Montenegro
+1. Garth Macey, University of Wisconsin - Platteville, USA
+1. Erik Ziegler, Open Health Imaging Foundation, The Netherlands
+1. Mouhamed DIOP, Cheikh Anta Diop University of Dakar, Senegal
+1. Felicia Miranda, School of Dentistry, University of Michigan, USA
+1. Christian Herz, Children's Hospital of Philadelphia, USA
+1. Laura Connolly, Queen's University, Canada
+1. Richard Doerer, Michigan State Univ, Yale Univ, USA
 
 ## Statistics
 * 94 Registered attendees
