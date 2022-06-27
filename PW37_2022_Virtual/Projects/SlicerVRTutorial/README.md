@@ -22,7 +22,7 @@ The goal of this project is to develop a SlicerVR tutorial module to learn the b
 1. Define the actions to train (fly, grab, transform scene...)
 1. Decide how to train those actions (define target positions or actions)
 1. Decide the tutorial workflow (how to change which action is being trained)
-1. Implement the module.
+1. Implement the module
 1. Test with different headsets (HTC Vive, Oculus Rift...)
 
 ## Progress and Next Steps
@@ -34,11 +34,14 @@ The goal of this project is to develop a SlicerVR tutorial module to learn the b
 1. ...
 
 # Illustrations
+VR scenario
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![VR scenario](https://user-images.githubusercontent.com/90038097/175922432-08bccf28-2e82-4203-9b0b-c77b83cc5831.gif)
+
+Interaction with objects
+
+![Object Interaction](https://user-images.githubusercontent.com/90038097/175923480-92620ad5-d286-4b04-8ea9-fd05016ba54a.gif)
+
 
 # Background and References
 
