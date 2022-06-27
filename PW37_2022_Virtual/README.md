@@ -51,7 +51,6 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [Cinematic Rendering VTK PBR](Projects/CinematicRenderingVTK/README.md) (Shreeraj Jadhav, Jiayi Xu, Jean-Christophe Fillion-Robin)
 * [Slicer TMS Module](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Raymond Yang, Steve Pieper, Lipeng Ning, Daniel Haehn)
 * [SlicerWGPU - WebGPU in Slicer](Projects/SlicerWGPU) (Steve Pieper)
-* [Streamlined ROI Annotation Tool](Projects/StreamlinedROIAnnotationTool/README.md) (Ryan Zurrin, Neha Goyal, Pablo Bendiksen, Kendrick Kheav,  Daniel Haehn)
 
 ### Image-guided therapy and low cost systems
 * [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, Rebecca Hisey, Matthew Holden,...)
@@ -67,6 +66,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 * [IDC Prostate Segmentation](Projects/IDCProstateSegmentation/README.md) (Cosmin Ciausu)
 * [Lung segmentation with MONAILabel](Projects/MONAILabelLung/README.md) (Rudolf Bumm, Andres Diaz-Pinto)
 * [Outlier Detection of Large Scale Mammography Studies](Projects/OutlierDetectionLargeScaleMammograms/README.md) (Pablo Bendiksen, Ryan Zurrin, Neha Goyal, Daniel Haehn)
+* [Streamlined ROI Annotation Tool](Projects/StreamlinedROIAnnotationTool/README.md) (Ryan Zurrin, Neha Goyal, Pablo Bendiksen, Kendrick Kheav,  Daniel Haehn)
 
 ### Landmark identification
 * [ALI](Projects/ALI/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
