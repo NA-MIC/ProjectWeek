@@ -47,7 +47,7 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 
 # Background and References
 
-Another project of our is: 
+Another project of our is: https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SlicerTMS_E-field
 
 ## Infos for running WebXR:
 
