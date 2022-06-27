@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Shreeraj Jadhav, Kitware, USA
 - Jiayi Xu, Kitware, USA
 - Jean-Christophe Fillion-Robin Kitware, USA
+- Andras Lasso (PerkLab, Queen's University, Canada)
 
 # Project Description
 
@@ -47,6 +48,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 -->
 
 # Background and References
+
+Related modules:
+- Models: In recent Slicer versions, PBR interpolation can be selected and PBR material properties can be edited.
+- Lights (in [Sandbox extension](https://github.com/PerkLab/SlicerSandbox#lights)): it can configure lighting, PBR, image based lighting, ambient shading (SSAO)
+
+![](https://camo.githubusercontent.com/69b7b0e1828a78bd1e19bacfec1d4ecb22a0070e035284ce75c30be60753cb8c/68747470733a2f2f617773312e646973636f757273652d63646e2e636f6d2f7374616e6461726431372f75706c6f6164732f736c696365722f6f7074696d697a65642f32582f642f643362626532316637636435393339346366396264303065366262353133626136666261333065305f325f31303335783632382e6a706567)
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 Slicer Discourse References:
