@@ -68,10 +68,10 @@ Branches
 * SlicerVR OpenXR branch comes here
 
 Issues
-* [SlicerVR ticket 91](https://github.com/KitwareMedical/SlicerVirtualReality/issues/91)
-* [SlicerVR ticket 80](https://github.com/KitwareMedical/SlicerVirtualReality/issues/80)
-* [SlicerVR ticket 88](https://github.com/KitwareMedical/SlicerVirtualReality/issues/88)
-* [SlicerVR ticket 43](https://github.com/KitwareMedical/SlicerVirtualReality/issues/43)
+* [SlicerVR ticket #91](https://github.com/KitwareMedical/SlicerVirtualReality/issues/91)
+* [SlicerVR ticket #80](https://github.com/KitwareMedical/SlicerVirtualReality/issues/80)
+* [SlicerVR ticket #88](https://github.com/KitwareMedical/SlicerVirtualReality/issues/88)
+* [SlicerVR ticket #43](https://github.com/KitwareMedical/SlicerVirtualReality/issues/43)
 
 Past project week pages
 * [Project week #35 page](https://projectweek.na-mic.org/PW35_2021_Virtual/Projects/SlicerVR/)
