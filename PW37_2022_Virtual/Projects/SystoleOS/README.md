@@ -4,7 +4,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Rafael Palomar
+- Rafael Palomar (Oslo University Hospital and NTNU, Norway)
+- Andras Lasso (Queen's University, Kingston, Canada)
+- Steve Pieper (Isomics Inc., Cambridge, MA, USA)
+- Jean-Christophe Fillion-Robin (Kitware Inc., Carrboro, NC, USA)
 
 # Project Description
 
