@@ -46,9 +46,8 @@ further for reuse in other interactive tools.
 
 # Background and References
 
-Source code is currently hosted in a branch of the Q3DCExtension.
-
-[Q3DCExtension@dependent-markups][repo]
+Source code is hosted in [SlicerMarkupConstraints][repo]. We may relocate this by the end 
+of Project Week.
 
 [demo]: ./sample.gif
-[repo]: https://github.com/DCBIA-OrthoLab/Q3DCExtension/tree/dependant-markups/DependantMarkups
+[repo]: https://github.com/KitwareMedical/SlicerMarkupConstraints
