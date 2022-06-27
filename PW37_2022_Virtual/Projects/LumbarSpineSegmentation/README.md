@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Lumbar Spine Segmentation
+# Lumbar Spine Segmentation using MONAI Label
 
 ## Key Investigators
 
