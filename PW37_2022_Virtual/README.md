@@ -1,6 +1,6 @@
 ## Welcome to the web page for the 37th Project Week!
 
-[This event](https://projectweek.na-mic.org/PW37_2022_Virtual/) will take place from June 27 to July 1, 2022. 
+[This event](https://projectweek.na-mic.org/PW37_2022_Virtual/) will take place from June 27 to July 1, 2022.
 
 If you have any questions, you can contact the [organizers](../README.md#who-to-contact).
 
@@ -41,7 +41,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 [How to add this calendar to your own?](../common/Calendar.md)
 
 ## Projects [(How to add a new project?)](Projects/README.md)
-    
+
 ### VR/AR and Rendering
 * [PRISM Rendering](Projects/PRISMRendering/README.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
 * [SlicerVR infrastructure](Projects/SlicerVRInfrastructure/README.md) (Csaba Pinter, Sankhesh Jhaveri, David Garcia Mato, Jean-Christophe Fillion-Robin)
@@ -183,17 +183,28 @@ List of registered participants so far (names will be added here after processin
 1. Xiang Chen, Memorial University of Newfoundland, Canada
 1. Leah Groves, Queen's University , Canada
 1. Lipeng Ning, Brigham and Women's Hospital, USA
-1. Vianney Muñoz-Jiménez, Universidad Autónoma del Estado de México, méxico
+1. Vianney Muñoz-Jiménez, Universidad Autónoma del Estado de México, Mexico
 1. Mariana Alvarez-Carvajal, Universidad Autonoma del Estado de Mexico, Mexico
+1. Michael Dada, Federal University of Technology, Minna, Nigeria
+1. Joaquin Olivares, University of Cordoba, Spain
+1. Étienne Léger, Brigham and Women's Hospital, USA
+1. Samuelle St-Onge, École de technologie supérieure (ÉTS), Canada
+1. Kyle Sunderland, Queen's University, Canada
+1. NIrav Patel, Indian Institute of Technology Madras, India
+1. Inés, Universidad Carlos III de Madrid, Spain
+1. Dženan Zukić, Kitware, USA
+1. María Rosa, Universidad de Las Palmas de Gran Canaria, Spain
+1. Davit Aghayan, Oslo University Hospital, Norway
+1. Kristof Moga, Perklab, Canada
+1. Theodore Aptekarev, Slicer Community, Montenegro
 
 ## Statistics
 * 94 Registered attendees
   * 39% first time attendees
 * 17 countries
-    
+
 <img src="images/participants-per-country.png" alt="Attendees per country" width="600"/>
 <img src="images/participants-per-timezone.png" alt="Attendees timezones" width="600"/>
-    
-## History
+ History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
