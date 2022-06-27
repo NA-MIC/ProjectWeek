@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Our projects aim to develop a Slicer module, called ViPRE, an open-source software for analysis of Mass Spectrometry imaging data. ViPRE allows users to input DESI data and visualize it in PCA or single ion imaging. It also enables you to upload histopathology images for correspondence. Currently, we want to allow users to visualize a plot of the mass spectrum for each pixel imaging. We would also like to enable users to do image segmentation within the module. As of now, you need to open the image segmentation module to segment your tissue image.
+Our project aims to develop a Slicer module, called ViPRE, an open-source software for analysis of Mass Spectrometry imaging data. ViPRE allows users to input DESI data and visualize it in PCA or single ion imaging. It also enables you to upload histopathology images for correspondence. Currently, we want to allow users to visualize a plot of the mass spectrum for each pixel imaging. We would also like to enable users to do image segmentation within the module. As of now, you need to open the image segmentation module to segment your tissue image.
 
 ## Objective
 
