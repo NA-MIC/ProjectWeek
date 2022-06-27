@@ -9,7 +9,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Set up, train and evaluate a lung and airway server model in MONAILabel
+MONAI Label is a server-client system that facilitates interactive medical image annotation by using AI. It is an open-source and easy-to-install ecosystem that can run locally on a machine with single or multiple GPUs. Both server and client work on the same/different machine. It shares the same principles with MONAI.
+
+The aim of the project is to set up, train and evaluate a lung and airway server model in MONAILabel
 
 ## Objective
 
