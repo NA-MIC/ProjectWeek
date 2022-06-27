@@ -7,9 +7,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Sonia Pujol, (Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA) 
 - Steve Pieper (Isomics Inc., Cambridge, MA, USA) 
 - Andras Lasso (Queen's University, Kingston, Canada)
+- Mamadou Camara (Cheikh Anta Diop University, Dakar, Senegal)
 - Adama Wade (Cheikh Anta Diop University, Dakar, Senegal)
 - Luiz Otavio Murta Junior (University of Sao Paulo, Ribeirao Preto, Brazil)
 - Vinicius Pavanelli Vianna (University of Sao Paulo, Ribeirao Preto, Brazil)
+- Oumar Sy (Cheikh Anta Diop University, Dakar, Senegal)
+- Mohamed Alalli BILAL (Ecole Supérieure polytechnique, Senegal)
 
 # Project Description
 
