@@ -29,7 +29,7 @@ The goal of the project is to facilitate access to 3D Slicer in non-English spea
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Daily translation hackathons with members of the Slicer community
+1. Daily translation hackathons at 12 pm EST (Boston time) with members of the Slicer community
 1. Use case of Weblate project translation
 
 ## Progress and Next Steps
