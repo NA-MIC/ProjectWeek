@@ -14,6 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Oumar Sy (Cheikh Anta Diop University, Dakar, Senegal)
 - Mohamed Alalli BILAL (Ecole Supérieure polytechnique, Senegal)
 - Adriana H. Vilchis González (Universidad Autónoma del Estado de México, Mexico)
+- Mouhamed DIOP (Cheikh Anta Diop University, Dakar, Senegal)
 
 # Project Description
 
