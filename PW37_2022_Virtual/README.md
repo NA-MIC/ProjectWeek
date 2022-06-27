@@ -43,52 +43,52 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ## Projects [(How to add a new project?)](Projects/README.md)
 
 ### VR/AR and Rendering
-* [PRISM Rendering](Projects/PRISMRendering/README.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
-* [SlicerVR infrastructure](Projects/SlicerVRInfrastructure/README.md) (Csaba Pinter, Sankhesh Jhaveri, David Garcia Mato, Jean-Christophe Fillion-Robin)
+1. [PRISM Rendering](Projects/PRISMRendering/README.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
+1. [SlicerVR infrastructure](Projects/SlicerVRInfrastructure/README.md) (Csaba Pinter, Sankhesh Jhaveri, David Garcia Mato, Jean-Christophe Fillion-Robin)
 )
-* [SlicerVR Tutorial](Projects/SlicerVRTutorial/README.md) (Monica Garcia-Sevilla, David Garcia-Mato, Csaba Pinter, ?)
-* [Slicer Photogrammetry](Projects/SlicerPhotoGram/README.md) (Chi Zhang, Murat Maga, Steve Pieper)
-* [Cinematic Rendering VTK PBR](Projects/CinematicRenderingVTK/README.md) (Shreeraj Jadhav, Jiayi Xu, Jean-Christophe Fillion-Robin)
-* [Slicer TMS Module](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Raymond Yang, Steve Pieper, Lipeng Ning, Daniel Haehn)
-* [SlicerWGPU - WebGPU in Slicer](Projects/SlicerWGPU) (Steve Pieper)
+1. [SlicerVR Tutorial](Projects/SlicerVRTutorial/README.md) (Monica Garcia-Sevilla, David Garcia-Mato, Csaba Pinter, ?)
+1. [Slicer Photogrammetry](Projects/SlicerPhotoGram/README.md) (Chi Zhang, Murat Maga, Steve Pieper)
+1. [Cinematic Rendering VTK PBR](Projects/CinematicRenderingVTK/README.md) (Shreeraj Jadhav, Jiayi Xu, Jean-Christophe Fillion-Robin)
+1. [Slicer TMS Module](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Raymond Yang, Steve Pieper, Lipeng Ning, Daniel Haehn)
+1. [SlicerWGPU - WebGPU in Slicer](Projects/SlicerWGPU) (Steve Pieper)
 
 ### Image-guided therapy and low cost systems
-* [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, Rebecca Hisey, Matthew Holden,...)
-* [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Gabriella D'Albenzio, Ruoyan Meng, Ole V. Solberg, Geir A. Tangen, Javier Pérez de Frutos)
-* [Virtual endoscopy](Projects/SlicerVirtualEndoscopy/README.md) (Yi Gao)
-* [SlicerTMS: Deep learning for E-field prediction](Projects/SlicerTMS_E-field/README.md)(Jax Luo, Loraine Franke, Raymond Yang, Steve Pieper, Daniel Haehn, Lipeng Ning)
+1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, Rebecca Hisey, Matthew Holden,...)
+1. [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Gabriella D'Albenzio, Ruoyan Meng, Ole V. Solberg, Geir A. Tangen, Javier Pérez de Frutos)
+1. [Virtual endoscopy](Projects/SlicerVirtualEndoscopy/README.md) (Yi Gao)
+1. [SlicerTMS: Deep learning for E-field prediction](Projects/SlicerTMS_E-field/README.md)(Jax Luo, Loraine Franke, Raymond Yang, Steve Pieper, Daniel Haehn, Lipeng Ning)
 
 ### Segmentation/Classification
-* [CT Lymph Node collection weakly annotated MONAI Label](Projects/LNQ/README.md) (Roya Khajavi, Erik Ziegler, Steve Pieper, Ron Kikinis)
-* [Lumbar spine segmentation using MONAILabel](Projects/LumbarSpineSegmentation/README.md) (Nayra Pumar, María Rosa Rodriguez, David García Mato)
-* [Combined MONAI Label and MONAI Deploy SDK Applications](Projects/MONAILabelAndDeploy/README.md) (Erik Ziegler, Roya Khajavi, Steve Pieper, Ron Kikinis, Andres Diaz-Pinto)
-* [AMASSS CBCT](Projects/AMASSS_CBCT/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
-* [SlicerHeart polar maps](Projects/SlicerHeartPolarMaps/README.md) (Connor Haberl)
-* [IDC Prostate Segmentation](Projects/IDCProstateSegmentation/README.md) (Cosmin Ciausu)
-* [Lung segmentation with MONAILabel](Projects/MONAILabelLung/README.md) (Rudolf Bumm, Andres Diaz-Pinto)
-* [Outlier Detection of Large Scale Mammography Studies](Projects/OutlierDetectionLargeScaleMammograms/README.md) (Pablo Bendiksen, Ryan Zurrin, Neha Goyal, Daniel Haehn)
-* [Streamlined ROI Annotation Tool](Projects/StreamlinedROIAnnotationTool/README.md) (Ryan Zurrin, Neha Goyal, Pablo Bendiksen, Kendrick Kheav,  Daniel Haehn)
-* [Mass spectomatry imaging using Slicer](Projects/ViPRE/README.md) (Parvin Mousavi, Amoon Jamzad, Jessica Rodgers, Mackenzie Sharp, Hanad Elmi)
+1. [CT Lymph Node collection weakly annotated MONAI Label](Projects/LNQ/README.md) (Roya Khajavi, Erik Ziegler, Steve Pieper, Ron Kikinis)
+1. [Lumbar spine segmentation using MONAILabel](Projects/LumbarSpineSegmentation/README.md) (Nayra Pumar, María Rosa Rodriguez, David García Mato)
+1. [Combined MONAI Label and MONAI Deploy SDK Applications](Projects/MONAILabelAndDeploy/README.md) (Erik Ziegler, Roya Khajavi, Steve Pieper, Ron Kikinis, Andres Diaz-Pinto)
+1. [AMASSS CBCT](Projects/AMASSS_CBCT/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
+1. [SlicerHeart polar maps](Projects/SlicerHeartPolarMaps/README.md) (Connor Haberl)
+1. [IDC Prostate Segmentation](Projects/IDCProstateSegmentation/README.md) (Cosmin Ciausu)
+1. [Lung segmentation with MONAILabel](Projects/MONAILabelLung/README.md) (Rudolf Bumm, Andres Diaz-Pinto)
+1. [Outlier Detection of Large Scale Mammography Studies](Projects/OutlierDetectionLargeScaleMammograms/README.md) (Pablo Bendiksen, Ryan Zurrin, Neha Goyal, Daniel Haehn)
+1. [Streamlined ROI Annotation Tool](Projects/StreamlinedROIAnnotationTool/README.md) (Ryan Zurrin, Neha Goyal, Pablo Bendiksen, Kendrick Kheav,  Daniel Haehn)
+1. [Mass spectomatry imaging using Slicer](Projects/ViPRE/README.md) (Parvin Mousavi, Amoon Jamzad, Jessica Rodgers, Mackenzie Sharp, Hanad Elmi)
 
 ### Landmark identification
-* [ALI](Projects/ALI/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
+1. [ALI](Projects/ALI/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
 
 ### Quantification tool
-* [AQ3DC](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes)
-* [Multichannel image colocalization statistics](Projects/SlicerColoc-Z-Stats/README.md) (Xiang Chen, Oscar Meruvia-Pastor, Touati Benoukraf)
-* [Poisson Shape Analysis](Projects/SlicerPoissonShapeAnalysis/README.md) (Yi Gao)
-* [SlicerScope - whole slide histopathology](Projects/SlicerScope/README.md) (Yi Gao, Steve Pieper)
+1. [AQ3DC](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes)
+1. [Multichannel image colocalization statistics](Projects/SlicerColoc-Z-Stats/README.md) (Xiang Chen, Oscar Meruvia-Pastor, Touati Benoukraf)
+1. [Poisson Shape Analysis](Projects/SlicerPoissonShapeAnalysis/README.md) (Yi Gao)
+1. [SlicerScope - whole slide histopathology](Projects/SlicerScope/README.md) (Yi Gao, Steve Pieper)
 
 ### Cloud
-* [mpReview](Projects/mpReview/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
-* [Slice level annotations in OHIF](Projects/OHIFviewSR/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
+1. [mpReview](Projects/mpReview/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
+1. [Slice level annotations in OHIF](Projects/OHIFviewSR/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
 
 ### Infrastructure
-* [SystoleOS: ](Projects/SystoleOS/README.md) (Rafael Palomar, Andras Lasso, Steve Pieper, Jean Christophe Fillion Robin)
-* [MarkupConstraints](Projects/MarkupConstraints/README.md) (David Allemang, Jean-Christophe Fillion-Robin)
-* [SlicerInternationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso)
-* [Slicer Batch Annonymize](Projects/SlicerBatchAnonymize/README.md)(Hina Shah, Juan Carolos Prieto)
-* [Slicer 5++: ](Projects/Slicer5Plus/README.md) (Sam Horvath, Andras Lasso, Steve Pieper, Jean Christophe Fillion Robin)
+1. [SystoleOS: ](Projects/SystoleOS/README.md) (Rafael Palomar, Andras Lasso, Steve Pieper, Jean Christophe Fillion Robin)
+1. [MarkupConstraints](Projects/MarkupConstraints/README.md) (David Allemang, Jean-Christophe Fillion-Robin)
+1. [SlicerInternationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso)
+1. [Slicer Batch Annonymize](Projects/SlicerBatchAnonymize/README.md)(Hina Shah, Juan Carolos Prieto)
+1. [Slicer 5++: ](Projects/Slicer5Plus/README.md) (Sam Horvath, Andras Lasso, Steve Pieper, Jean Christophe Fillion Robin)
 
 ## Registrants
 
