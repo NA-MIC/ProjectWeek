@@ -27,10 +27,9 @@ Aim of this projhect is to craete a Slicer extension/module that would streamlin
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+<!-- Add pictures and links to videos that demonstrate what has been accomplished.-->
+![Userinterface and planned trajectory](Slicer_screenshot.png)
+
 
 # Background and References
 
