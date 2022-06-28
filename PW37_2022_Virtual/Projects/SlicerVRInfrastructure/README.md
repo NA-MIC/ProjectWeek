@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Csaba Pinter (EBATINCA)
 - Sankhesh Jhaveri (Kitware)
 - David Garcia Mato (EBATINCA)
+- Adam Rankin (Robarts Research)
 - Jean-Christophe Fillion-Robin (Kitware)
 
 # Project Description
