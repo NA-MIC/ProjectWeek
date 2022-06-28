@@ -195,7 +195,12 @@ List of registered participants so far (names will be added here after processin
 1. Christian Herz, Children's Hospital of Philadelphia, USA
 1. Laura Connolly, Queen's University, Canada
 1. Richard Doerer, Michigan State Univ, Yale Univ, USA
+1. Mauro I. Dominguez, -, Argentina
+1. Vinicius Pavanelli Vianna, University of Sao Paulo - CSIM, Brazil
+1. Fatih, inonu university, Turkey
+1. Matt McCormick, Kitware, USA
 1. Adam Rankin, Robarts Research Institute, Canada
+1. Pranjal Sahu, Stony Brook University, USA
 
 ## Statistics
 * 94 Registered attendees
