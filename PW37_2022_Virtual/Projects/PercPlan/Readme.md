@@ -1,17 +1,13 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# Percutaneous Planing
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
-
+- Nirav Patel (IIT Madras, India)
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
-
+Aim of this projhect is to craete a Slicer extension/module that would streamline the percutensous trajectory planning.
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
