@@ -46,9 +46,12 @@ For IOS :
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. We have models for landmark identification in CBCT and IOS
+1. We have the begennning of an UI on slicer
+1. The next steps are :
+1. Link the UI with both ALI IOS and ALI CBCT algorithms
+1. Train new models for more landmarks
+1. Deploy the tool as a Slicer module in the sclicer CMF extention
 
 # Illustrations
 ![Slicer screen](https://user-images.githubusercontent.com/46842010/174138265-66ab080e-e885-4f76-a150-7e4da3869aa0.png)
