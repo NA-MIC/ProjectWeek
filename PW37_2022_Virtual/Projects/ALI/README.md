@@ -47,7 +47,7 @@ For IOS :
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. We have models for landmark identification in CBCT and IOS
-1. We have the begennning of an UI on slicer
+1. We have the begenning of an UI on slicer
 1. The next steps are :
 1. Link the UI with both ALI IOS and ALI CBCT algorithms
 1. Train new models for more landmarks
