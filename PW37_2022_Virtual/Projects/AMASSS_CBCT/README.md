@@ -71,11 +71,11 @@ showed high accuracy and robustness with an Dice up to 0.962 pm 0.02.
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. A model has already been trained on a full face segmentation with 5 strucures in the large field of view
-1. An other mocel has been trained to segment high definition, small field of view CBCT
+1. An other model has been trained to segment high definition, small field of view CBCT
 1. We also have a model for root canal
-1. The begenning of a slicer module has already been made, the next steps are:
-1. Finish the module to link the UI with the algorithms and models>
-1. Deploy the module on slicer CMF
+1. The begenning of a slicer module has been made, the next steps are:
+1. Finish the module to link the UI with the algorithms and models
+1. Deploy the module on slicer CMF extention
 
 # Illustrations
 
