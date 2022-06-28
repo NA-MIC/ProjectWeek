@@ -43,7 +43,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ## Projects [(How to add a new project?)](Projects/README.md)
 
 1. **VR/AR and Rendering.** [PRISM Rendering](Projects/PRISMRendering/README.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
-2. **VR/AR and Rendering.** [SlicerVR infrastructure](Projects/SlicerVRInfrastructure/README.md) (Csaba Pinter, Sankhesh Jhaveri, David Garcia Mato, Jean-Christophe Fillion-Robin)
+2. **VR/AR and Rendering.** [SlicerVR infrastructure](Projects/SlicerVRInfrastructure/README.md) (Csaba Pinter, Sankhesh Jhaveri, David Garcia Mato, Adam Rankin, Jean-Christophe Fillion-Robin)
 )
 1. **VR/AR and Rendering.** [SlicerVR Tutorial](Projects/SlicerVRTutorial/README.md) (Monica Garcia-Sevilla, David Garcia-Mato, Csaba Pinter, ?)
 1. **VR/AR and Rendering.** [Slicer Photogrammetry](Projects/SlicerPhotoGram/README.md) (Chi Zhang, Murat Maga, Steve Pieper)
@@ -195,6 +195,7 @@ List of registered participants so far (names will be added here after processin
 1. Christian Herz, Children's Hospital of Philadelphia, USA
 1. Laura Connolly, Queen's University, Canada
 1. Richard Doerer, Michigan State Univ, Yale Univ, USA
+1. Adam Rankin, Robarts Research Institute, Canada
 
 ## Statistics
 * 94 Registered attendees
