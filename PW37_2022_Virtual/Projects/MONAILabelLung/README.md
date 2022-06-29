@@ -31,7 +31,7 @@ provide links
 
 ## How to set up a MONAI Label in Windows 11
 
-*   [Please refer to this google doc](https://docs.google.com/document/d/1azFpJutBVJEW9W_riYZlXzrXac58ToCEzNTAwkzNf2c/edit) 
+*   [Please refer to this document](./MONAILabel_Installation.md) 
 
 ## Progress and Next Steps
 
