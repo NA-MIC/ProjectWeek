@@ -2,7 +2,7 @@
 
 as prepared for the Virtual MONAI Label workshop   
 June 22nd, 2022   
-_by Rudolf Bumm (KSGR)  and Andres Diaz-Pinto (Nvidia)_
+_Rudolf Bumm (KSGR)  and Andres Diaz-Pinto (Nvidia)_
 
 The [Monailabel GitHub page is here.](https://github.com/Project-MONAI/MONAILabel)
 
