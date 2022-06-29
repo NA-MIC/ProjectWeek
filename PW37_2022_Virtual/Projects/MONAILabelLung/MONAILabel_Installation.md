@@ -1,7 +1,7 @@
 ## MONAILabel installation 
 
-as prepared for the Virtual MONAI Label workshop   
-June 22nd, 2022   
+_as prepared for the Virtual MONAI Label workshop_   
+_June 22nd, 2022_   
 _Rudolf Bumm (KSGR)  and Andres Diaz-Pinto (Nvidia)_
 
 The [Monailabel GitHub page is here.](https://github.com/Project-MONAI/MONAILabel)
