@@ -1,7 +1,7 @@
-## MONAILabel installation 
+## MONAI Label installation 
 
-_as prepared for the Virtual MONAI Label workshop_   
-_June 22nd, 2022_   
+_as prepared for the Virtual MONAI Label workshop_  
+_June 22nd, 2022_  
 _Rudolf Bumm (KSGR)  and Andres Diaz-Pinto (Nvidia)_
 
 The [Monailabel GitHub page is here.](https://github.com/Project-MONAI/MONAILabel)
@@ -10,7 +10,7 @@ GPU compatibility:
 
 [https://developer.nvidia.com/cuda-gpus](https://developer.nvidia.com/cuda-gpus)
 
-## Installation in Windows 11:
+## Installation in Windows 11 step by step:
 
 Install Python 3.9 from Windows Store
 
