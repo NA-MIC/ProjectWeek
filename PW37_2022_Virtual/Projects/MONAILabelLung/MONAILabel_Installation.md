@@ -1,31 +1,38 @@
-MONAILabel installation 
+## MONAILabel installation 
 
-prepared for the Virtual MONAI Label workshop June 22nd 2022
+prepared for the Virtual MONAI Label workshop   
+June 22nd, 2022
 
-[Monailabel GitHub page](https://github.com/Project-MONAI/MONAILabel)
+The [Monailabel GitHub page is here.](https://github.com/Project-MONAI/MONAILabel)
 
-GPU compatibility: 
+GPU compatibility:
 
 [https://developer.nvidia.com/cuda-gpus](https://developer.nvidia.com/cuda-gpus)
 
-Installation in WIndows 11:
+## Installation in Windows 11:
 
 Install Python 3.9 from Windows Store
 
 [Enable long path names in Windows 11](https://thegeekpage.com/make-windows-11-accept-file-paths-over-260-characters/)
 
-Use Powershell  
+Use an elevated Powershell (admin mode)   
 cd userdirectory
 
+```
 python -m pip install --upgrade pip setuptools wheel
+```
 
-_\# Install latest stable version for pytorch_
+Install latest stable version for pytorch
 
+```
 pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+```
 
-_\# Check if cuda enabled_
+Check if cuda enabled
 
-python -c "import torch; print(torch.cuda.is\_available())"
+```
+python -c "import torch; print(torch.cuda.is_available())"
+```
 
 True
 
@@ -35,34 +42,42 @@ _\# if false troubleshoot_
 
 ![](https://lh6.googleusercontent.com/6YITAKuz-Ap3IKQGt_6keytnR62ySZ2H-eSMw5NS7CGb5JYewbqdO_vUEfJP8KaSjliBXx3S8bha71WyYHd-pHu8aphc-CmMoAHoOJcpyp_2b4RVeXzcBYX6wpa2-oifHr-Hkrqcm1S77V75rg)
 
-_\# Install latest monailabel version from Github_
+ Install latest monailabel version from Github
 
-  
- 
-
+```
 git clone https://github.com/Project-MONAI/MONAILabel
+```
 
+```
 pip install -r MONAILabel/requirements.txt
+```
 
-$Env:PATH += ";C:\\Users\\yourname\\MONAILabel\\monailabel\\scripts"
+Set MONAILabel script paths
 
-  
-_\# Download Sample Apps_
+```
+$Env:PATH += ";C:\Users\yourname\MONAILabel\monailabel\scripts"
+```
 
-monailabel apps _\# List sample apps_
+Download sample apps
 
+```
+monailabel apps # List sample apps
 monailabel apps --download --name radiology --output apps
+```
 
-_\# Download MSD Datasets_
+Download MSD Datasets
 
-monailabel datasets _\# List sample datasets_
+```
+monailabel datasets # List sample datasets
+monailabel datasets --download --name Task06_Lung --output datasets
+```
 
-monailabel datasets --download --name Task06\_Lung --output datasets
+Run Segmentation Model.  
+Options can be (deepedit|deepgrow|segmentation|segmentation\_spleen|all) in case of radiology app.  
+You can also pass comma separate models like --conf models deepedit,segmentation
 
-_\# Run Segmentation Model._  
-_\# Options can be (deepedit|deepgrow|segmentation|segmentation\_spleen|all) in case of radiology app._  
-_\# You can also pass comma seperated models like --conf models deepedit,segmentation_
-
-monailabel start\_server --app apps/radiology --studies datasets/Task06\_Lung/imagesTr --conf models segmentation
+```
+monailabel start_server --app apps/radiology --studies datasets/Task06_Lung/imagesTr --conf models segmentation
+```
 
 Once you start the MONAI Label Server, by default it will be up and serving at [http://127.0.0.1:8000/](http://127.0.0.1:8000/). Open the serving URL in browser. It will provide you the list of Rest APIs available.
