@@ -4,15 +4,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
--	Parvin Mousavi (Queen’s University)
--	Amoon Jamzad (Queen’s University)
--	Jessica Rodgers (Queen’s University)
--	Mackenzie Sharp (Queen’s University)
 -	Hanad Elmi (Queen’s University)
+-	Mackenzie Sharp (Queen’s University)
+-	Jessica Rodgers (Queen’s University)
+-	Amoon Jamzad (Queen’s University)
+-	Parvin Mousavi (Queen’s University)
 
 # Project Description
 
-Our project aims to develop a Slicer module, called ViPRE, an open-source software for analysis of Mass Spectrometry imaging data. ViPRE allows users to input DESI data and visualize it in PCA or single ion imaging. It also enables you to upload histopathology images for correspondence. Currently, we want to allow users to visualize a plot of the mass spectrum for each pixel imaging. We would also like to enable users to do image segmentation within the module. As of now, you need to open the image segmentation module to segment your tissue image.
+Our project aims to develop a Slicer module, called ViPRE, an open-source software for analysis of Mass Spectrometry imaging data. ViPRE allows users to input DESI (Desorption electrospray ionization) data and visualize it in PCA (Principal Components Analysis) or single ion imaging. It also enables you to upload histopathology images for correspondence. Currently, we want to allow users to visualize a plot of the mass spectrum for each pixel imaging. We would also like to enable users to do image segmentation within the module. As of now, you need to open the image segmentation module to segment your tissue image.
 
 ## Objective
 
