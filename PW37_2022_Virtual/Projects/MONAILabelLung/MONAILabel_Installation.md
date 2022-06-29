@@ -1,7 +1,8 @@
 ## MONAILabel installation 
 
-prepared for the Virtual MONAI Label workshop   
-June 22nd, 2022
+as prepared for the Virtual MONAI Label workshop   
+June 22nd, 2022   
+_by Rudolf Bumm (KSGR)  and Andres Diaz-Pinto (Nvidia)_
 
 The [Monailabel GitHub page is here.](https://github.com/Project-MONAI/MONAILabel)
 
@@ -42,7 +43,7 @@ _\# if false troubleshoot_
 
 ![](https://lh6.googleusercontent.com/6YITAKuz-Ap3IKQGt_6keytnR62ySZ2H-eSMw5NS7CGb5JYewbqdO_vUEfJP8KaSjliBXx3S8bha71WyYHd-pHu8aphc-CmMoAHoOJcpyp_2b4RVeXzcBYX6wpa2-oifHr-Hkrqcm1S77V75rg)
 
- Install latest monailabel version from Github
+Install latest monailabel version from Github
 
 ```
 git clone https://github.com/Project-MONAI/MONAILabel
