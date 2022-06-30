@@ -29,6 +29,10 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 
 ## Progress and Next Steps
 
+1. Some bug fixes of observers in the TMS Module
+2. Integration of deep learning model: Modified OpenIGTLink to send out transform message of the TMS coil (added nodes, enabled push on connect, modified python demon that accesses the outgoing data), in collaboration with the deep learning project [Slicer TMS Deep-Learning](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SlicerTMS_E-field)
+3. Tested our new websocket connection to the browser: https://github.com/liampaulhus/slicerWebWSS-WIP
+
 ## Illustrations
 
 ####  Current Visualization of the TMS Module in 3DSlicer with Coil and mapping of E-field on brain:
@@ -36,12 +40,16 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 <img src="./tmscoil_on_brain_surface.png" width="400" alt="SlicerTMS Module with Efield mapped on brain">
 <!-- ![SlicerTMS Module with Efield mapped on brain](./tmscoil_on_brain_surface.png) -->
 
-#### We tested simple Javascript Face-Tracking via mobile Phone:
+#### WebSocket Tests: we can interact with the red, green and yellow slices with the new websocket connection:
+
+<img src="./websocket_demo_063022.png" width="400">
+
+#### So far, we tested some simple Javascript Face-Tracking via mobile Phone and redered the brain:
 
 <img src="./brain_facetracking.png" width="300" alt="Facetracking in javascript for mobile phone">
 <!-- ![Facetracking in javascript for mobile phone](./brain_facetracking.png) -->
 
-#### Visualization goal we want to achieve in 3DSlicer (image from another software):
+#### Visualization goal we want to achieve inside 3DSlicer (image from another software):
 
 <img src="./tmsonbrain.png" width="200" alt="Brain surface and DT">
 <!-- ![Brain surface and DT](./tmsonbrain.png) -->
@@ -64,7 +72,7 @@ On an Android Phone via USB:
 For iPhone: 
 - Mozilla offers a WebXR Emulator that can be downloaded from the Apple Store for any iPhone and iPad: https://labs.mozilla.org/projects/webxr-viewer/
 
-## For Slicer TMS Module (see previous project week ![PW 36](https://github.com/NA-MIC/ProjectWeek/blob/master/PW36_2022_Virtual/Projects/SlicerTMS_Module/README.md)):
+## For Slicer TMS Module (see previous project week [PW 36](https://github.com/NA-MIC/ProjectWeek/blob/master/PW36_2022_Virtual/Projects/SlicerTMS_Module/README.md)):
 
 <!-- vtkProbeFilter: https://vtk.org/doc/nightly/html/classvtkProbeFilter.html
 Moving fiducials with CPYY: https://gist.github.com/pieper/f9da3e0a73c70981b48d0747132526d5
