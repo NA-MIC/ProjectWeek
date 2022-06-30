@@ -48,8 +48,8 @@ The goal of the project is to facilitate access to 3D Slicer in non-English spea
 ![Some more images](Example2.jpg)
 -->
 ![3D Slicer's DICOM module translated to french](images/DICOM.png)
-![3D Slicer's Models module translated to french (1)](images/Modules1.png)
-![3D Slicer's Models module translated to french (2)](images/Modules1.png)
+![3D Slicer's Models module translated to french (1)](images/Modules.png)
+![3D Slicer's Models module translated to french (2)](images/Modules2.png)
 ![DICOM Tutorial translated to french (1)](images/Tutorial1.png)
 ![DICOM Tutorial translated to french (2)](images/Tutorial2.png)
 ![DICOM Tutorial translated to french (3)](images/Tutorial3.png)
