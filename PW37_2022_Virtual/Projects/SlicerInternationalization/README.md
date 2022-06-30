@@ -47,12 +47,12 @@ The goal of the project is to facilitate access to 3D Slicer in non-English spea
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-![3D Slicer's DICOM module translated to french](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/Projects/SlicerInternationalization/PW/Screenshot%20from%202022-06-30%2020-11-10.png)
-![3D Slicer's Models module translated to french (1)](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/Projects/SlicerInternationalization/PW/Screenshot%20from%202022-06-30%2020-11-42.png)
-![3D Slicer's Models module translated to french (2)](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/Projects/SlicerInternationalization/PW/Screenshot%20from%202022-06-30%2020-11-55.png)
-![DICOM Tutorial translated to french (1)](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/Projects/SlicerInternationalization/PW/Screenshot%20from%202022-06-30%2020-33-40.png)
-![DICOM Tutorial translated to french (2)](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/Projects/SlicerInternationalization/PW/Screenshot%20from%202022-06-30%2020-32-32.png)
-![DICOM Tutorial translated to french (3)](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/Projects/SlicerInternationalization/PW/Screenshot%20from%202022-06-30%2020-31-27.png)
+![3D Slicer's DICOM module translated to french](PW/Screenshot%20from%202022-06-30%2020-11-10.png)
+![3D Slicer's Models module translated to french (1)](PW/Screenshot%20from%202022-06-30%2020-11-42.png)
+![3D Slicer's Models module translated to french (2)](PW/Screenshot%20from%202022-06-30%2020-11-55.png)
+![DICOM Tutorial translated to french (1)](PW/Screenshot%20from%202022-06-30%2020-33-40.png)
+![DICOM Tutorial translated to french (2)](PW/Screenshot%20from%202022-06-30%2020-32-32.png)
+![DICOM Tutorial translated to french (3)](PW/Screenshot%20from%202022-06-30%2020-31-27.png)
 
 # Background and References
 
