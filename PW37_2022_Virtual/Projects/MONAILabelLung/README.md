@@ -41,7 +41,7 @@ Decathlon lung dataset (Task06\_lung) 63 cases with lung tumors [http://medicald
 
 It is available for download (8 GB) after installation of MONAI Label and running this command in a powershell or bash: (edited)
 
-`monailabel datasets --download --name Task06_Lung --output datasets` (edited)
+`monailabel datasets --download --name Task06_Lung --output datasets` 
 
 ## Progress and Next Steps
 
