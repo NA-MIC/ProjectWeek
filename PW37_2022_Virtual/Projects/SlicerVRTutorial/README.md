@@ -27,11 +27,20 @@ The goal of this project is to develop a SlicerVR tutorial module to learn the b
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+1. A module has been created for the tutorial which connects to the VR hardware and shows a virtual scenario.
+1. The user is assigned an avatar (head and hands).
+1. The tutorial includes a first task where users learn how to use the controllers to fly.
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+The task consists on reaching a target (yellow cylinder shown in the scene).
+
+![part1-fly](https://user-images.githubusercontent.com/90038097/176720297-e1098bcd-1c5f-4b84-ba09-055b7855993a.gif)
+
+When the target is reached, the user sees a message indicating “Success”.
+
+Next steps:
+
+1. Include more tasks to cover all the possible actions performed with the controllers.
+1. When the in-VR widget is ready, the instructions and messages will be shown there.
 
 # Illustrations
 VR scenario
@@ -45,4 +54,4 @@ Interaction with objects
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+Link to the source code repository: https://github.com/monicagsevilla/SlicerVRTutorial 
