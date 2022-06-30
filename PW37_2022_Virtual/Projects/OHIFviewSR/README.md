@@ -47,8 +47,7 @@ A better approach would be to use Structured Reports (SR), and view an annotatio
 
 ![ohif_sr_mpr](https://user-images.githubusercontent.com/59979551/176761836-a36a8fbf-e29b-4fb7-8ebb-3c60fc54b9db.JPG)
 
-https://user-images.githubusercontent.com/59979551/176779323-06dd0403-5b4d-45bb-a761-0abb232449dc.mov
-
+[![ohif_sr_scroll)(ohif_sr_scroll.mp4)]
 
 
 # Background and References
