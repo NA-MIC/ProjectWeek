@@ -28,13 +28,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. ...
+1. 
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. ...
+1. IDC breakout session details and pointers are [here](https://bit.ly/3NzJNNM)
 
 # Illustrations
 
