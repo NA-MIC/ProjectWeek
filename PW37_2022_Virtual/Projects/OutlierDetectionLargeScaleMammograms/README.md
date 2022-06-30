@@ -27,6 +27,7 @@ As a member of the Slicer community interested in contributing native language t
 1. Provide translation aid of 3D Slicer GUI components from English to Spanish on a module-by-module basis.
 
 # Illustrations
+[![Weblate Interface](./weblate.png)](./weblate.png)
 [![Welcome_Module](./welcome_module.png)](./welcome_module.png)
 
 # Background and References
