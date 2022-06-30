@@ -40,11 +40,10 @@ The goal of the project is to facilitate access to 3D Slicer in non-English spea
 1. Describe specific steps you **have actually done**.
 1. We have made lots of progress on the translation of the DICOM, Models, Segmentation, and Volumes modules as well as the DICOM tutorial in french
 2. Some progress has been made with the extraction of the translatable strings in the Python code
-3. We set up a test project on ReadTheDocs to try out configurations and tools in order to determine the best fit before applying those to the official Slicer documentation 
-4. We also created two other test projects that are linked to the first one as french and spanish translation
-5. We are experimenting with a file structure of one file per documentation section to ensure coherence in the order in which the sections are translated on Weblate
-6. An infrastructure is being set up to automatically mark translatable strings in the source code
-7. Test are being made to come up with the best way to manage translations over different versions of Slicer
+3. We set up a test projects (main and translations) on ReadTheDocs to try out configurations and tools in order to determine the best fit for the documentation translation infrastructure, before applying those to the official Slicer documentation 
+4. We are experimenting with a file structure of one file per documentation section to ensure coherence in the order in which the sections are translated on Weblate
+5. An infrastructure is being set up to automatically mark translatable strings in the source code
+6. Tests are being made to come up with the best way to manage translations over different versions of Slicer
 
 # Illustrations
 
