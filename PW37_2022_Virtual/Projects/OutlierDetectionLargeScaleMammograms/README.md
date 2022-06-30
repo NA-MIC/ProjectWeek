@@ -28,6 +28,7 @@ As a member of the Slicer community interested in contributing native language t
 
 # Illustrations
 [![Weblate Interface](./weblate.png)](./weblate.png)
+  
 [![Welcome_Module](./welcome_module.png)](./welcome_module.png)
 
 # Background and References
