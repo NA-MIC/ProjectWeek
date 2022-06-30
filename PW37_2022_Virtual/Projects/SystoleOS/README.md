@@ -78,15 +78,17 @@ overlay, which is a set of packages containing an installable version of
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+First full installation of a minimal 3D Slicer!
 
+[![asciicast](https://asciinema.org/a/505170.svg)](https://asciinema.org/a/505170)
 
-# Illustrations
+- SystoleOS gentoo overlay has been made public at [https://github.com/SystoleOS/gentoo-overlay](https://github.com/SystoleOS/gentoo-overlay).
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+- Simple 3D Slicer installation with a `-DSlicer_SUPERBUILD=OFF` approach (-python). There are still some glitches and workarounds even for the simplest version, but this shows the feasibility of the project.
+
+Systole OS, by nature, is a continuous project that needs to keep up with the developments of 3D Slicer and the developments of the underlying software packages itself. It is necessary to establish infrastructure for testing that can help us on the development process (next step). In addition we need to establish infrastructue to support a community documentation, containers, communication channels, etc (next step).
+
+When it comes to the development of Systole OS itself, the first efforts will go on the direction of fixing bugs, enable new configurations of 3D Slicer (e.g, +python). To engage more users, it is important that Systole OS shows utility. We are planning to integrate a Slicer custom application (to be decided) as a deployment prototype.
 
 # Background and References
 
