@@ -38,29 +38,26 @@ provide links
 *   Demonstration of the current workflow at the MONAI Label Workshop June 22nd 2022
 *   Youtube Video: [https://www.youtube.com/watch?v=wtiEe_jiUzg](https://www.youtube.com/watch?v=wtiEe_jiUzg) 
 
-# Illustrations
-
-MONAI Label inference after providing 2 high quality samples and training (50 epochs): Not usable
+# Illustrations / Results
 
 ![](https://lh4.googleusercontent.com/qDgKazWsVFylsaoVOcR87y2OwPsTuMRULtLIZ5dDpppktTaG5rKrFUpC3PQj0Js7Ow2TPMa1ixEP2J8qnKFrzCrY2Nv99W4g9Q33omjdvfxT7jeCysN_wGN_rxLgSLzfQLGWgixZsm8yC9aN5r-img)
 
-Providing 5 more high-quality labels and  training 1000 epochs /  5 iterations (1 h with RTX 3070 Ti), "deepedit" model:    
-ML is able to divide right and left lungs as well as airways, and resolution is low.   
- 
+Fig 1: MONAI Label inference after providing 2 high quality samples and training (50 epochs): Not usable
 
 ![](https://lh3.googleusercontent.com/DmJb1FLEcoDjGLF0VkVvT7JIicjt10KYGdRbE1NSpvoXFH-CANWPuboDzpTehbe48iKEl9AQITmrd7XuwrQpefu7QeqbM4Q5soPRKyK8V6ZouS3js62eUNZ4BxIzhXgI5BPWHVI2cUBrQtI-ENNvBg)
 
-Labelled 17 more datasets, training another 1000 epochs /  22 iterations (6 h with RTX 3070 Ti), "segmentation" model: 
-
-Much better resolution.  
+Fig 2: Status after providing 5 more high-quality labels and  training 1000 epochs /  5 iterations (1 h with RTX 3070 Ti), "deepedit" model:    
+ML is able to divide right and left lungs as well as airways, but resolution is low.   
 
 ![](https://lh5.googleusercontent.com/MJwUyGBtI15UYL2OPc6LLyCUpKNpk_0G9GddXcovVYWKD_EXOlIWuWXthbkE-n4FPC-Ay_F-bNZ1EtWz5o9bR3Wzjf7OoUgMJZnejxoLejLW46gvxpUzCgDyx8nIEl3aI4U3T_biYB0Vm4tT7Mq0fQ)
 
-Autosegmentation after label correction, 500 epochs / 22 iterations training (1.5h RTX 3070 Ti): 
-
-Good result ! 
+Fig 3: Status after labelling 17 more datasets, training another 1000 epochs /  22 iterations (6 h with RTX 3070 Ti), "segmentation" model:   
+Much better resolution.  
 
 # ![](https://lh5.googleusercontent.com/kN_jvl7i-Osv662Yhh69wRg5nMS4PzdYQarTBGYe6gTyq6-1A-xAcxkUSdIlFiSdyr3WXxk_WQGfQKAuwCp2OAiHcN2irQfeW1-DsWDgx31aRzVDy6KwIQo1Yf955Dh3k4K0YuLEVfwNkOG9kPkjPQ)
+
+Fig 4: Autosegmentation after label correction, 500 epochs / 22 iterations training (1.5h RTX 3070 Ti):  
+Good result! 
 
 # Background and References
 
