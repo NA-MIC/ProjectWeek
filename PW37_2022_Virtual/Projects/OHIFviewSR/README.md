@@ -6,6 +6,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Deepa Krishnaswamy (Brigham and Women's Hospital)
 - Davide Punzo (Radical Imaging)
+- Markus Herrmann (MGH)
+- Chris Bridge (MGH)
 - Andrey Fedorov (Brigham and Women's Hospital)
 
 # Project Description
@@ -26,7 +28,7 @@ A better approach would be to use Structured Reports (SR), and view an annotatio
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. A colab notebook has been written by Andrey to create a SR. 
+1. A colab notebook has been written by Andrey using [highdicom](https://github.com/herrmannlab/highdicom) library to create instances of DICOM Structured Reports that instantiate [TID 1500 reporting template](https://dicom.nema.org/medical/dicom/current/output/chtml/part16/chapter_A.html#sect_TID_1500) and include slice-level qualitative (key:value) evaluations. 
 1. Deepa will adapt this notebook to create the appropriate SR for the body part regression task. 
 
 ## Progress and Next Steps
