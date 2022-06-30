@@ -20,13 +20,13 @@ Install Python 3.9 from Windows Store
 [Enable long path names in Windows 11](https://thegeekpage.com/make-windows-11-accept-file-paths-over-260-characters/)
 
 Use an elevated Powershell (admin mode)   
-cd userdirectory
+change to (cd) user directory (important, start in a directory with full read/write access) 
 
 ```
 python -m pip install --upgrade pip setuptools wheel
 ```
 
-Install latest stable version for pytorch
+Install the latest stable version for PyTorch
 
 ```
 pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
