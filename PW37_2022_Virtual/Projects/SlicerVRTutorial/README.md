@@ -33,21 +33,19 @@ The goal of this project is to develop a SlicerVR tutorial module to learn the b
 
 ![controllersInstructions](https://user-images.githubusercontent.com/90038097/176795986-34bcddee-0b15-4882-a091-586b22280a25.gif)
 
-1. The tutorial includes a first task where users learn how to use the controllers to fly.
+The tutorial includes a **first task** where users learn how to use the controllers to fly. The task consists on reaching a target (yellow cylinder shown in the scene).
 
-The task consists on reaching a target (yellow cylinder shown in the scene).
-
-First, the module shows the instructions on how to use the controllers for that specific action and the task to perform.
+1. First, the module shows the instructions on how to use the controllers for that specific action and the task to perform.
 
 ![Instructions](https://user-images.githubusercontent.com/90038097/176796116-4e752803-0fa2-4402-a3ae-d59f0f0d8813.png)
 
-Then, the user performs the task.
+1. Then, the user performs the task.
 
 ![part1-fly](https://user-images.githubusercontent.com/90038097/176720297-e1098bcd-1c5f-4b84-ba09-055b7855993a.gif)
 
-When the target is reached, the user sees a message indicating “Success”.
+1. When the target is reached, the user sees a message indicating “Success”.
 
-Next steps:
+__Next steps__:
 
 1. Include more tasks to cover all the possible actions performed with the controllers.
 1. When the in-VR widget is ready, the instructions and messages will be shown there.
