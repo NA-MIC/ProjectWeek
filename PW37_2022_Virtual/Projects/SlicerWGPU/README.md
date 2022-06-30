@@ -20,6 +20,12 @@ A working prototype already exists here: https://github.com/pieper/SlicerWGPU
 3. See if anyone wants to try implementing something practical
 
 ## Progress and Next Steps
+* Discussed the approach with several colleagues and confirmed interest in more experiments
+* Presented, demoed, and discussed at the Slicer rendering breakout session
+    * VTK.js is already working with prototype WebGPU functionality 
+    * It looks like VTK C++ will probably be going with WebGPU via Dawn in the comming years so there should be synergy and likely the ability to share shader code with anything developed via SlicerWGPU
+* Improved the readme for the SlicerWGPU repository
+* Collecting ideas for proof of concept experiments to test cross-platform performance
 
 # Illustrations
 
