@@ -29,9 +29,19 @@ The goal of this project is to develop a SlicerVR tutorial module to learn the b
 
 1. A module has been created for the tutorial which connects to the VR hardware and shows a virtual scenario.
 1. The user is assigned an avatar (head and hands).
+1. Instructions on how to use the controllers for the most common devices are given.
+
+![controllersInstructions](https://user-images.githubusercontent.com/90038097/176795986-34bcddee-0b15-4882-a091-586b22280a25.gif)
+
 1. The tutorial includes a first task where users learn how to use the controllers to fly.
 
 The task consists on reaching a target (yellow cylinder shown in the scene).
+
+First, the module shows the instructions on how to use the controllers for that specific action and the task to perform.
+
+![Instructions](https://user-images.githubusercontent.com/90038097/176796116-4e752803-0fa2-4402-a3ae-d59f0f0d8813.png)
+
+Then, the user performs the task.
 
 ![part1-fly](https://user-images.githubusercontent.com/90038097/176720297-e1098bcd-1c5f-4b84-ba09-055b7855993a.gif)
 
