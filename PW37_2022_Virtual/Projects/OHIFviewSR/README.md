@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Deepa Krishnaswamy (Brigham and Women's Hospital)
+- Davide Punzo (Radical Imaging)
 - Andrey Fedorov (Brigham and Women's Hospital)
 
 # Project Description
