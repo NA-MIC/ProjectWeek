@@ -33,6 +33,16 @@ provide links
 
 *   [Please refer to this document](./MONAILabel_Installation.md) 
 
+## Dataset
+
+This is the dataset we have been using:
+
+Decathlon lung dataset (Task06\_lung) 63 cases with lung tumors [http://medicaldecathlon.com/](http://medicaldecathlon.com/) 
+
+It is available for download (8 GB) after installation of MONAI Label and running this command in a powershell or bash: (edited)
+
+`monailabel datasets --download --name Task06_Lung --output datasets` (edited)
+
 ## Progress and Next Steps
 
 *   Demonstration of the current workflow at the MONAI Label Workshop June 22nd 2022
