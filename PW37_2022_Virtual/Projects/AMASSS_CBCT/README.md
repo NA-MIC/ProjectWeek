@@ -82,6 +82,7 @@ showed high accuracy and robustness with an Dice up to 0.962 pm 0.02.
 
 ![prediction](https://user-images.githubusercontent.com/46842010/172177605-b2e5d91c-3e10-4608-9c2d-1e5f2dfcc261.png)
 
+![Screen slicer](https://user-images.githubusercontent.com/46842010/176789535-b7473878-fbeb-494d-988a-5ee1afa7d4fa.png)
 
 
 # Background and References
