@@ -70,6 +70,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. **Quantification.** [Multichannel image colocalization statistics](Projects/SlicerColoc-Z-Stats/README.md) (Xiang Chen, Oscar Meruvia-Pastor, Touati Benoukraf)
 1. **Quantification.** [Poisson Shape Analysis](Projects/SlicerPoissonShapeAnalysis/README.md) (Yi Gao)
 1. **Quantification.** [SlicerScope - whole slide histopathology](Projects/SlicerScope/README.md) (Yi Gao, Steve Pieper)
+1. **Cloud.** [Imaging Data Commons](Projects/ImagingDataCommons/README.md) (Andrey Fedorov, Deepa Krishnaswamy, Dennis Bontempi, Cosmin Ciausu, Steve Pieper, Ron Kikinis)
 1. **Cloud.** [mpReview](Projects/mpReview/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
 1. **Cloud.** [Slice level annotations in OHIF](Projects/OHIFviewSR/README.md) (Deepa Krishnaswamy, Davide Punzo, Markus Herrmann, Chris Bridge, Andrey Fedorov)
 1. **Infrastructure.** [SystoleOS: ](Projects/SystoleOS/README.md) (Rafael Palomar, Andras Lasso, Steve Pieper, Jean-Christophe Fillion-Robin, Sam Horvath)
