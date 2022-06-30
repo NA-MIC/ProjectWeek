@@ -36,7 +36,7 @@ A better approach would be to use Structured Reports (SR), and view an annotatio
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. 
+1. We have successfully created the SR for the body part regression task and can view the CT and SR in our own instance of the OHIF viewer. 
 
 # Illustrations
 
@@ -44,7 +44,13 @@ A better approach would be to use Structured Reports (SR), and view an annotatio
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-![Example of viewing DICOM SEG from last year](DICOM_SEG.JPG)
+
+![ohif_sr_mpr](https://user-images.githubusercontent.com/59979551/176761836-a36a8fbf-e29b-4fb7-8ebb-3c60fc54b9db.JPG)
+
+https://user-images.githubusercontent.com/59979551/176761523-a89b398f-63ca-4daa-8347-ff852def9111.mp4
+
+
+
 
 # Background and References
 
