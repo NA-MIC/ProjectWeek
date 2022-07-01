@@ -60,7 +60,7 @@ Using the public dataset, once all segments had been placed in the same .nii fil
 
 The tags were configured like this in the segmentation.py file:
 
-<img src="https://user-images.githubusercontent.com/10054456/176892498-4861de87-7a71-4211-9a76-0eb7a4a39043.png" width="450">
+<img src="https://user-images.githubusercontent.com/10054456/176892498-4861de87-7a71-4211-9a76-0eb7a4a39043.png" width="550">
 
 These were commented or left as this, depending on the number of tags to use on each training attempt.
 One issue we found is that tags should be always be numbered starting at 1; if we tried to run the model using tags from 6 to 9 we would get an error and the model wouldn't train. This issue will be solved soon in the code.
