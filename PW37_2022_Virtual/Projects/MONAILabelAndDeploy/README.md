@@ -50,3 +50,4 @@ The end goal is a directory structure something like this, but it's still a bit 
         (These include the actual model, the network definition, the training and inference pre/postprocessing steps (e.g. NormalizeIntensityd). Unclear how this would pull in private pre/postprocessing steps or models.
 		- model bundle 1 (e.g. https://github.com/Project-MONAI/model-zoo/tree/dev/models/brats_mri_segmentation/configs)
 		- model bundle 2
+```
