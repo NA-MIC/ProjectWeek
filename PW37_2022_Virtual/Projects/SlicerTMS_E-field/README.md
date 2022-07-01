@@ -37,8 +37,8 @@ Our project aims to predict the distribution of the E-field in real-time so that
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Read a affine transform matrix from the updated (rotated) coil.
-2. Perform an affine transformation to the Coil information and resample it to the subject head model space. 
-3. Combine the Coil information and head model and to generate a new nifti file and pre-process it.
+2. Perform an affine transformation to the Coil data and resample it to the subject head model space. 
+3. Combine the Coil data and the head model to generate a new nifti file and pre-process it.
 4. Predict the E-field using the generated nifti file and a pre-trained deep network.
 5. Visualize the precition result (.nii)
 
