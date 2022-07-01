@@ -36,6 +36,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 1. Tutorial/breakout session took place on Thursday. Document with the agenda and all the materials presented (slides, Colab notebooks) are here: [https://bit.ly/3NzJNNM](https://bit.ly/3NzJNNM).
 2. Follow-up troubleshooting session same day, through discussions with Simon Drouin, identified and fixed gaps in the documentation and notebooks
+3. Through a [conversation on IDC discourse](https://discourse.canceridc.dev/t/storing-definitions-of-data-collections-as-dicom-entities/286) that started from a question on PW discord, learned about a new kind of DICOM object that might be suitable for storing cohorts.
 
 IDC Office Hours are open to everyone on Google Meet at [https://meet.google.com/xyt-vody-tvb](https://meet.google.com/xyt-vody-tvb) every Tuesday 16:30 – 17:30 (New York) and Wednesday 10:30-11:30 (New York). Please drop by to ask any questions related to IDC and troubleshoot
 issues!
