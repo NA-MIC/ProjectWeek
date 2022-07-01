@@ -32,7 +32,16 @@ The goal of this project is to enable the development of advanced 3D rendering t
   * In vtkShaderProgram class, debug functionality is available by setting the string variable FileNamePrefixForDebugging, which loads a shader from a file before rendering or dumps the shader to a file if doesn't already exists. However, this functionality is private. Mappers should have public functions to enable this debugging mechanism.
 4. Generalize the mechanism that allows the VolumeRendering module to store vtkShaderProperties in the display node to obtain the same behavior with the Models module.
 
-## Progress and Next Steps
+## Progress
+* PRISM module code cleanup: removed underused and buggy shader editing gui
+* Started adaptation of shader gui to use new Markup system in Slicer
+* Discussion with Kitware: tools to debug shaders in VTK (access to full shader code and improved code readability)
+
+## Next Steps
+* Use more appropriate types of markups when needed (e.g. plane intersection could use lines instead of points)
+* Improve architecture of the module
+* Support for more shader parameter types
+* Support new VTK rendering functionality: Physically-based shading model, ambient occlusion and shadowing.
 
 # Illustrations
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8ywNFnkJFEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
