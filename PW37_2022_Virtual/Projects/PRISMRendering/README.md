@@ -36,6 +36,7 @@ The goal of this project is to enable the development of advanced 3D rendering t
 * PRISM module code cleanup: removed underused and buggy shader editing gui
 * Started adaptation of shader gui to use new Markup system in Slicer
 * Discussion with Kitware: tools to debug shaders in VTK (access to full shader code and improved code readability)
+* Planned a followup meeting on the future of rendering in Slicer after PW.
 
 ## Next Steps
 * Use more appropriate types of markups when needed (e.g. plane intersection could use lines instead of points)
