@@ -26,15 +26,20 @@ The Imaging Data Commons platform provides both labelled and unlabelled prostate
 ## Progress and Next Steps
 
 1. Verification of nnUnet claimed results on prostate decathlon data, used for available pre-trained models.
-2. Inference on Qin-Prostate-Repeatability collection using a pre-trained nnUnet model on task05 imaging decathlon data.
-  * 3d full-res model, T2 and ADC modalities, so there is a need to resample the input.
+2. Inference on Qin-Prostate-Repeatability collection using a pre-trained nnUnet model on task05 imaging decathlon data : 
+  
+   * 3d full-res model, T2 and ADC modalities, so there is a need to resample the input.
+
 3. Inference on Qin-Prostate-Repeatability collection using a different pre-trained nnUnet model, task 24 promise.
-  * Easier to corner the resampling problem since this pre-trained model has only one input modality -- T2
+
+   * Easier to corner the resampling problem since this pre-trained model has only one input modality -- T2
+   
 3. Obtained good dice scores results on the 15 PatientID divided into two studies each using this model.
 4. Dealt with the Resampling/Converting issue -  slice spacing incorrect -- use of simpleITK instead of plastimatch
 
 # Illustrations
 Slicer visualisation of ground truth and predicted whole prostate segmentation mask, on PatientID01.
+Red is ground truth and green is prediction from nnUnet.
 
 ![Slicer demo](slicer_idc_prostate_seg.gif)
 
@@ -45,4 +50,8 @@ Slicer visualisation of ground truth and predicted whole prostate segmentation m
 
 # Background and References
 
+* [Ipynb link](https://colab.research.google.com/drive/1len4_C1mzDi5kDqg120avexJ9g7sEiM9?usp=sharing)
+* [Google slides link](https://docs.google.com/presentation/d/10A1zjISq8pcal4enwX48TTj3jgUvvzuboCShGGiI4FA/edit?usp=sharing)
+* [nnUnet pre-trained models for download](https://zenodo.org/record/4003545#.Yr7DA-zMIrk)
+* [nnUnet paper](https://www.nature.com/articles/s41592-020-01008-z)
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
