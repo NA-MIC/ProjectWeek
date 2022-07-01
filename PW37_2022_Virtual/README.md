@@ -190,7 +190,7 @@ List of registered participants so far (names will be added here after processin
 1. Kristof Moga, Perklab, Canada
 1. Theodore Aptekarev, Slicer Community, Montenegro
 1. Garth Macey, University of Wisconsin - Platteville, USA
-1. Erik Ziegler, Open Health Imaging Foundation, The Netherlands
+1. Erik Ziegler, Open Health Imaging Foundation, Netherlands
 1. Mouhamed DIOP, Cheikh Anta Diop University of Dakar, Senegal
 1. Felicia Miranda, School of Dentistry, University of Michigan, USA
 1. Christian Herz, Children's Hospital of Philadelphia, USA
@@ -203,12 +203,12 @@ List of registered participants so far (names will be added here after processin
 1. Adam Rankin, Robarts Research Institute, Canada
 1. Pranjal Sahu, Stony Brook University, USA
 1. Dada Michael, Federal University of Technology, Minna, Nigeria
-1. Jasper van der Zee, University of Twente, The Netherlands
+1. Jasper van der Zee, University of Twente, Netherlands
 
 ## Statistics
 * 117 Registered attendees
   * 41% first time attendees
-* 19 countries
+* 20 countries
 
 <img src="images/participants-map.png" alt="Attendees per country" width="600"/>
 <img src="images/participants-per-country.png" alt="Attendees per country" width="600"/>
