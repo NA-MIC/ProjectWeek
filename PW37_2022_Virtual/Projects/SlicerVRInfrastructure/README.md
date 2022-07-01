@@ -5,7 +5,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Csaba Pinter (EBATINCA)
-- Sankhesh Jhaveri (Kitware)
 - David Garcia Mato (EBATINCA)
 - Adam Rankin (Robarts Research)
 - Jean-Christophe Fillion-Robin (Kitware)
@@ -35,7 +34,7 @@ The goal of the project is, with coordination with Kitware/Robarts, to reach the
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. The OpenXR integration into SlicerVR seems to advance well, so
-    1. Test SlicerVR OpenXR the branch
+    1. Test SlicerVR with the OpenXR branch
     2. Fix controller events with HP controller that seem to happen with XR as well, and the errors that bog down the application while rendering
 1. Fix volume rendering display in the virtual reality view. This may not be OpenVR-related, because the same thing happens using the Looking Glass extension, so would be a first candidate.
 1. Try out the latest [branch for the in-VR widget](https://github.com/dgmato/SlicerVirtualReality/tree/gui-widgets-interactions)
@@ -47,9 +46,8 @@ The goal of the project is, with coordination with Kitware/Robarts, to reach the
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. OpenXR has been added to the SlicerVR superbuild, see [branch](https://github.com/adamrankin/SlicerVirtualReality/tree/openxr) (Adam, Jc)
+2. Flag has been added to SlicerVR to use either OpenVR or OpenXR, and if statements added in the code to use the selected one. The OpenXR control paths currently log not implemented messages. See [branch](https://github.com/cpinter/SlicerVirtualReality/tree/openxr) (Csaba)
 
 # Illustrations
 
