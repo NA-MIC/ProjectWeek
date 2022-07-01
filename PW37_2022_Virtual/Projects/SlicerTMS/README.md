@@ -49,8 +49,7 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 
 #### Started WebSocket Tests: we can interact with the red, green and yellow slices with the new websocket connection:
 
-<img src="./websocket_demo.png" width="400">
-
+<img src="./websocket_demo.png" width="350"> <img src="./websocket_demo_063022.png" width="350"> 
 
 #### So far, we tested some simple Javascript Face-Tracking via mobile Phone and redered the brain:
 
