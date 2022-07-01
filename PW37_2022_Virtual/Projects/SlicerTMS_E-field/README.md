@@ -1,4 +1,4 @@
-# Write full project title here
+# SlicerTMS_E-field
 
 ## Key Investigators
 
