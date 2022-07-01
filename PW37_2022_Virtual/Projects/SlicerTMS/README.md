@@ -32,27 +32,30 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 1. Some bug fixes of observers in the TMS Module
 2. Integration of deep learning model: Modified OpenIGTLink with pyigtl (https://github.com/lassoan/pyigtl) to send out transform message of the moving TMS coil (added nodes, enabled push on connect, modified python demon that accesses the outgoing data), in collaboration with the deep learning project [Slicer TMS Deep-Learning](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SlicerTMS_E-field)
 3. Tested our new secure websocket connection to the browser (https://github.com/liampaulhus/slicerWebWSS-WIP) using a self-signed certificate for https.
+4. Next steps: a) Attach the coil to the skull/skin surface in Slicer and b) Modify the browser-based WebXR controller so that it can be synchronized with slicer
+
 
 ## Illustrations
 
 ####  Current Visualization of the TMS Module in 3DSlicer with Coil and mapping of E-field on brain:
 
-<img src="./tmscoil_on_brain_surface.png" width="400" alt="SlicerTMS Module with Efield mapped on brain">
+<img src="./tmscoil_on_brain_surface.png" width="200" alt="SlicerTMS Module with Efield mapped on brain">
 <!-- ![SlicerTMS Module with Efield mapped on brain](./tmscoil_on_brain_surface.png) -->
 
-#### WebSocket Tests: we can interact with the red, green and yellow slices with the new websocket connection:
+#### Coil moving and updating the electric field on the brain surface inside slicer:
 
-<img src="./websocket_demo_063022.png" width="400">
+<img src="./tms_vis.gif" width="500" alt="Brain surface coil moving">
+
+
+#### Started WebSocket Tests: we can interact with the red, green and yellow slices with the new websocket connection:
+
+<img src="./websocket_demo.png" width="400">
+
 
 #### So far, we tested some simple Javascript Face-Tracking via mobile Phone and redered the brain:
 
-<img src="./brain_facetracking.png" width="300" alt="Facetracking in javascript for mobile phone">
+<img src="./brain_facetracking.png" width="200" alt="Facetracking in javascript for mobile phone">
 <!-- ![Facetracking in javascript for mobile phone](./brain_facetracking.png) -->
-
-#### Visualization goal we want to achieve inside 3DSlicer (image from another software):
-
-<img src="./tmsonbrain.png" width="200" alt="Brain surface and DT">
-<!-- ![Brain surface and DT](./tmsonbrain.png) -->
 
 
 # Background and References
