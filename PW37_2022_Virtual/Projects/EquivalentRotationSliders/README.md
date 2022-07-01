@@ -5,6 +5,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Mauro I. Dominguez
+- Theodore Aptekarev 
+- Csaba Pinter
+- Andras Lasso
 
 # Project Description
 
@@ -23,7 +26,7 @@ https://gist.github.com/mauigna06/627596274a2b3412989bae81cb060fed
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
+1. Confirm the math needed for the transforms, implement some tests on python.
 1. ...
 1. ...
 
