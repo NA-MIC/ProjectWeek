@@ -22,16 +22,16 @@ Our project aims to develop a deep-learning powered software for real-time E-Fie
 Real-time visualization of an electric field (E-field) for transcranial magnetic stimulation (TMS) on the brain surface, visualization through an AR app (over browser).
 
 ## Approach and Plan
-- We created a TMS module in Slicer mapping NifTi file onto brain mesh with 3D TMS coil that can be moved by the user (done) -> TODO: create a bounding box for the Coil mesh to not turn it into brain
+- We created a TMS module in Slicer mapping NifTi file onto brain mesh with 3D TMS coil that can be moved by the user (done) -> TODO: create a bounding box for the Coil mesh to not turn it into brain, attach the coil to the skull/skin surface
 - We use OpenIGTLinkIF used to transfer data (E-Field from TMS) into 3D Slicer (done)
 - Next steps include connecting 3DSlicer to the web browser using our newly implemented WebSocket from https://github.com/liampaulhus/slicerWebWSS-WIP
-- Connect a mobile device via WebXR: So far, we have started implementing face tracking for the TMS module with simple JavaScript. This needs to be implemented with WebXR to retrieve depth information.
+- Connect a mobile device via WebXR: So far, we have started implementing face tracking for the TMS module with simple JavaScript. In the future, this might need to be implemented with WebXR to retrieve depth information for AR.
 
 ## Progress and Next Steps
 
 1. Some bug fixes of observers in the TMS Module
-2. Integration of deep learning model: Modified OpenIGTLink to send out transform message of the TMS coil (added nodes, enabled push on connect, modified python demon that accesses the outgoing data), in collaboration with the deep learning project [Slicer TMS Deep-Learning](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SlicerTMS_E-field)
-3. Tested our new websocket connection to the browser: https://github.com/liampaulhus/slicerWebWSS-WIP
+2. Integration of deep learning model: Modified OpenIGTLink with pyigtl (https://github.com/lassoan/pyigtl) to send out transform message of the moving TMS coil (added nodes, enabled push on connect, modified python demon that accesses the outgoing data), in collaboration with the deep learning project [Slicer TMS Deep-Learning](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SlicerTMS_E-field)
+3. Tested our new secure websocket connection to the browser (https://github.com/liampaulhus/slicerWebWSS-WIP) using a self-signed certificate for https.
 
 ## Illustrations
 
