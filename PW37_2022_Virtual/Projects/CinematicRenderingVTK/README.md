@@ -51,6 +51,11 @@ Through discussions with the VTK team, we identified another feature which could
  - https://gitlab.kitware.com/vtk/vtk/-/merge_requests/9231
  - an accurate ambient occlusion effect can be achieved with the current VTK master, setting the `GlobalIllumationReach` to `0` and setting `VolumetricScatteringBlending` to something `>= 1.0`
 ![](https://gitlab.kitware.com/vtk/vtk/uploads/397286f8f4fc59281174e51ad639fae7/demo_shadows.gif)
+<img width="543" alt="3" src="https://user-images.githubusercontent.com/22624785/176828212-5e468e30-d3d3-4d24-aba3-65ef7927dc3a.png">
+
+<img width="192" alt="4" src="https://user-images.githubusercontent.com/22624785/176828232-9755661b-a46b-4fcf-9050-d6acdbd0f5c7.png">
+
+_Image Courtesy: Gaspard Thevenon_
 
 # Illustrations
 
