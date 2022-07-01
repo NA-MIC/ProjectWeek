@@ -53,11 +53,15 @@ as possible.
 2. Have been able to add the ROI functionality to viewer.
 3. Have added the ability to press either *enter* or *space* key to save ROI 
    and image information back to server.
-
+   
 ## Next Steps
-1. Need to add scoring functionality.
-2. Need to add way to mark image as defective.
-3. Need to add way to clear Previously added ROIs.
+1. Need to add scoring functionality (DONE)
+2. Need to add way to mark image as defective (DONE)
+3. Need to add way to clear Previously added ROIs (DONE w/help from erikz)
+4. Change the format of the tooltip to make it look nicer and have it include the current image id (DONE)
+5. Add means to Zoom, Pan, and adjust Window/Level (DONE)
+6. Add a Help section at bottom, to let users know what buttons and actions do what (DONE)
+7. optimize performance, if time is permitting. 
 
 
 # Illustrations
@@ -66,8 +70,16 @@ as possible.
 </p>
 
 Demo video:
+Start of Project week demo video:
+![roi-web-tool-example](https://user-images.githubusercontent.com/43255897/176478445-dd3079fb-6fb4-4575-914a-2f07ffadc45a.gif)
 
-https://user-images.githubusercontent.com/43255897/175789998-61ca738f-1015-4910-a35f-0ced35e71585.mp4
+
+Mid week Progress since monday video:
+![SimplifiedROITool](https://user-images.githubusercontent.com/43255897/176478562-6f0cd501-f04c-4a86-8f84-1c3d8da40e7d.gif)
+
+Final vesion after project week:
+![FinalROITool_AdobeExpress](https://user-images.githubusercontent.com/43255897/176798476-d020e49f-9091-46a3-b445-cfc2905736a8.gif)
+
 
 # Background and References
 
