@@ -15,7 +15,7 @@ Modern deep learning systems can detect breast cancer early when trained with la
 
 ## Objective
 
-As a member of the Slicer community interested in contributing native language translations of 3D Slicer, the objective steered to producing such translations via the user-friendly Weblate interface.
+To contribute translations of the user'interface of 3D Slicer and its corresponding tutorials
 
 ## Approach and Plan
 
@@ -24,12 +24,15 @@ As a member of the Slicer community interested in contributing native language t
 ## Progress and Next Steps
 
 
-1. Provide translation aid of 3D Slicer GUI components from English to Spanish on a module-by-module basis.
+1. Continue to provide translation aid of 3D Slicer GUI components (all strings from the Python source code), and corresponding tutorials, from English to Spanish on a module-by-module basis.
 
 # Illustrations
 [![Weblate Interface](./weblate.png)](./weblate.png)
   
 [![Welcome_Module](./welcome_module.png)](./welcome_module.png)
 
+[![Models_Module](./models.png)](./models.png)
+
 # Background and References
 See Weblate 3D Slicer and Glossary components [here](https://hosted.weblate.org/projects/3d-slicer/)
+3D Slicer extension for translation incorporation [here](https://github.com/Slicer/SlicerLanguagePacks)
