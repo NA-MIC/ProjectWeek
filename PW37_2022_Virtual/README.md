@@ -107,7 +107,7 @@ List of registered participants so far (names will be added here after processin
 1. Mónica García-Sevilla, Universidad de Las Palmas de Gran Canaria, Spain
 1. Badiaa AIT AHMED , Universidad de Las Palmas de Gran Canaria, Spain
 1. Cosmin Ciausu, Brigham and Women's Hospital, USA
-1. Michael Dada, Federal University of Technology, Minna, nigeria
+1. Michael Dada, Federal University of Technology, Minna, Nigeria
 1. Shiraz Yousif Abd Elsalam Yousif, University of Khartoum , Australia
 1. Geir Arne Tangen, SINTEF, Norway
 1. Marie NDIAYE, Université Assane Seck de Ziguinchor, Senegal
@@ -176,7 +176,7 @@ List of registered participants so far (names will be added here after processin
 1. Lipeng Ning, Brigham and Women's Hospital, USA
 1. Vianney Muñoz-Jiménez, Universidad Autónoma del Estado de México, Mexico
 1. Mariana Alvarez-Carvajal, Universidad Autonoma del Estado de Mexico, Mexico
-1. Michael Dada, Federal University of Technology, Minna, nigeria
+1. Michael Dada, Federal University of Technology, Minna, Nigeria
 1. Joaquin Olivares, University of Cordoba, Spain
 1. Étienne Léger, Brigham and Women's Hospital, USA
 1. Samuelle St-Onge, École de technologie supérieure (ÉTS), Canada
@@ -201,6 +201,8 @@ List of registered participants so far (names will be added here after processin
 1. Matt McCormick, Kitware, USA
 1. Adam Rankin, Robarts Research Institute, Canada
 1. Pranjal Sahu, Stony Brook University, USA
+1. Dada Michael, Federal University of Technology, Minna, Nigeria
+1. Jasper van der Zee, University of Twente, The Netherlands
 
 ## Statistics
 * 94 Registered attendees
