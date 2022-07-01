@@ -210,8 +210,10 @@ List of registered participants so far (names will be added here after processin
   * 41% first time attendees
 * 19 countries
 
+<img src="images/participants-map.png" alt="Attendees per country" width="600"/>
 <img src="images/participants-per-country.png" alt="Attendees per country" width="600"/>
 <img src="images/participants-per-timezone.png" alt="Attendees timezones" width="600"/>
- History
+
+## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
