@@ -25,6 +25,10 @@ The current Endoscopy module requires the already extracted surface as input. Th
 1. Objective A. Add the VirtualEndoscopy to Slicer extension.
 1. Objective B. Contribute the vessel segmentation as a Segmentation Effect.
 
+## 20220701 What's been done in the week
+1. Improve the code by using ui file to control the widgets.
+1. Preparing the documents/figures for answering pull request questions of the ExtensionIndex.
+
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
