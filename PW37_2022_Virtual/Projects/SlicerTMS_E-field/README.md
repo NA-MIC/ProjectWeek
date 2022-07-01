@@ -2,12 +2,17 @@
 
 ## Key Investigators
 
-Jax Luo (BWH & Harvard Medical School)//
-Loraine Franke (University of Massachusetts Boston)//
-Raymond Yang (University of Massachusetts Boston)//
-Daniel Haehn (University of Massachusetts Boston)//
-Steve Pieper (Isomics, Inc.)//
-Lipeng Ning (BWH & Harvard Medical School)//
+Jax Luo (BWH & Harvard Medical School)
+
+Loraine Franke (University of Massachusetts Boston)
+
+Raymond Yang (University of Massachusetts Boston)
+
+Daniel Haehn (University of Massachusetts Boston)
+
+Steve Pieper (Isomics, Inc.)
+
+Lipeng Ning (BWH & Harvard Medical School)
 
 
 # Project Description
