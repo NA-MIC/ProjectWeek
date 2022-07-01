@@ -20,7 +20,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Introduce IDC to the group, demonstrate main capabilites, and latest developments.
+1. Introduce IDC to the group, demonstrate main capabilities, and latest developments.
 2. Support users experiencing issues using IDC or completing tutorials.
 3. Collect feedback for the future development.
 
@@ -28,13 +28,17 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. 
+1. Organize tutorial/breakout session on how to get started with IDC.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. IDC breakout session details and pointers are [here](https://bit.ly/3NzJNNM)
+1. Tutorial/breakout session took place on Thursday. Document with the agenda and all the materials presented (slides, Colab notebooks) are here: [https://bit.ly/3NzJNNM](https://bit.ly/3NzJNNM).
+2. Follow-up troubleshooting session same day, through discussions with Simon Drouin, identified and fixed gaps in the documentation and notebooks
+
+IDC Office Hours are open to everyone on Google Meet at [https://meet.google.com/xyt-vody-tvb](https://meet.google.com/xyt-vody-tvb) every Tuesday 16:30 – 17:30 (New York) and Wednesday 10:30-11:30 (New York). Please drop by to ask any questions related to IDC and troubleshoot
+issues!
 
 # Illustrations
 
@@ -46,4 +50,5 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Background and References
 
+* [NCI Imaging Data Commons](https://imaging.datacommons.cancer.gov)
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
