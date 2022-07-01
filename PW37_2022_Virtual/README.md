@@ -206,9 +206,9 @@ List of registered participants so far (names will be added here after processin
 1. Jasper van der Zee, University of Twente, The Netherlands
 
 ## Statistics
-* 94 Registered attendees
-  * 39% first time attendees
-* 17 countries
+* 117 Registered attendees
+  * 41% first time attendees
+* 19 countries
 
 <img src="images/participants-per-country.png" alt="Attendees per country" width="600"/>
 <img src="images/participants-per-timezone.png" alt="Attendees timezones" width="600"/>
