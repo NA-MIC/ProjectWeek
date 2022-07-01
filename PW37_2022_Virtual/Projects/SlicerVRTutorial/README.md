@@ -45,8 +45,18 @@ The tutorial includes a **first task** where users learn how to use the controll
 
 1. When the target is reached, the user sees a message indicating “Success”.
 
+1. Started implementation of two more tasks:
+The user has to grab a model of a skull and put it in the scale
+
+![Move object](https://user-images.githubusercontent.com/90038097/176893946-de3241ca-018b-4373-a83b-1423384f1379.PNG)
+
+The user has to move the model of the femur to match the target position (shown as a transparent femur)
+
+![Move and rotate object](https://user-images.githubusercontent.com/90038097/176893988-a9f0cb25-73c3-4eef-8052-cd38fdacd795.PNG)
+
 __Next steps__:
 
+1. Finish the implementation of these tasks.
 1. Include more tasks to cover all the possible actions performed with the controllers.
 1. When the in-VR widget is ready, the instructions and messages will be shown there.
 
