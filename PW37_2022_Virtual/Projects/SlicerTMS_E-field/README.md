@@ -46,9 +46,8 @@ Our project aims to predict the distribution of the E-field in real-time so that
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Finished step 1-4. 
+2. Working on intergrating the code to the visualization module. 
 
 # Illustrations
 
