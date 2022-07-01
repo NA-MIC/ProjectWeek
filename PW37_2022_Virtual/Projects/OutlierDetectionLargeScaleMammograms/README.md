@@ -34,5 +34,5 @@ To contribute translations of the user'interface of 3D Slicer and its correspond
 [![Models_Module](./models.png)](./models.png)
 
 # Background and References
-See Weblate 3D Slicer and Glossary components [here](https://hosted.weblate.org/projects/3d-slicer/)
+<br>See Weblate 3D Slicer and Glossary components [here](https://hosted.weblate.org/projects/3d-slicer/) <br />
 3D Slicer extension for translation incorporation [here](https://github.com/Slicer/SlicerLanguagePacks)
