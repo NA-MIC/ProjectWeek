@@ -54,4 +54,4 @@ Visualization of the predicted E-field using the developed interface.
 -->
 
 # Background and References
-In the category of Image-guided therapy and low cost systems
+This is the sister project of [Slicer TMS Deep-Learning](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SlicerTMS)
