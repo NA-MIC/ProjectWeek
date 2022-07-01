@@ -20,7 +20,7 @@ Lipeng Ning (BWH & Harvard Medical School)
 Transcranial magnetic stimulation (TMS) is a noninvase procedure used for treating depression. In the TMS treatment, a magnetic coil is placed on the subject's head to induce an electirc field (E-field) to stimulate targeted brain regions. 
 
 
-Our project aims to predict the distribution of the E-field in real-time so that the clinicians can adjust the location of the coil and target the brain ROI with the maximal stimulation strenth. 
+Our project aims to predict the distribution of the E-field in real-time so that the clinicians can adjust the location of the coil and target the brain ROI with the maximal stimulation strength. 
 
 
 
