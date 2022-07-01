@@ -26,4 +26,13 @@ We will use the mediastinal subset of TCIA CT Lymph Node as data for development
 4. Set up MONAI Label active learning strategy
 5. Set up MONAI Label server on Google Cloud Platform to efficiently train models on GPUs.
 
-## Progress and Next Steps
+## Progress
+- We completed data gathering and data organization based on MONAI Label requirements.
+- Discussed required transformation for lymph node annotation with MONAI label team, specifically ways to handle scarcity of foreground label in training data.
+- Added RandCropByPosNegLabel and CropForeground transforms to the training pipeline.
+- Started setting up Google Cloud Platform for interactive annotation, training, and inference using MONAI Label.
+
+## Next steps
+- Finish setting up MONAI Label on GCP.
+- Testing the training pipeline with the added RandCropByPosNegLabel and CropForeground transforms and make sure we can handle class imbalance during training.
+- Implement active learning strategy.
