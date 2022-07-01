@@ -45,6 +45,7 @@ Use of `vtkSSAOPass` class to generate ambient occlusion (AO) for volumes:
 
 Adapt `vtkSSAOPass` to create ambient occlusion (AO) implementation for volumes:
  - `ComputeKernel()` in vtkSSAOPass can be modified to adapted for AO of volumes [Jiayi]
+ - Only compute an occlusion volume once (pre-compute), use this for shading in raycaster
 
 Through discussions with the VTK team, we identified another feature which could help improve shading in volume rendering:
  - https://gitlab.kitware.com/vtk/vtk/-/merge_requests/9231
