@@ -58,6 +58,7 @@ The resolution is pretty low. This is probably because the scaling for each text
     - Find a proper way to merge texture to retain the resolution. I'm also checking with the ODM people to see if they can do it.
   - Follwing Andras' suggestion, directly access vtkRenderer() in Slicer scene to have stable rendering.
   - Steve suggested geometry accuracy is more important than visual fidelity at this moment and we can archiving images for adding more algorithms in the future, such as machine learning. For the near future, we can focus on first getting a pipeline based on ODM. In the long run, we should definitely consider adding machine/deep learning algorithms, for example, to image registration, which is the foundation of geometric & texture accuracy in structure-from-motion photogrammetry. This can also greatly improve the efficieny of photo taking. Currently, we have to take a lot photos carefully to ensure proper registration but it is still tricky. We will have more discussions with Murat. 
+  - We will also discuss how much we can rely on Slicer & how much we have to use 3rd party software & packages.
 
 
 # Illustrations
