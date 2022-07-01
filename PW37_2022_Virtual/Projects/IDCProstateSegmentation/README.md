@@ -26,8 +26,17 @@ The Imaging Data Commons platform provides both labelled and unlabelled prostate
 ## Progress and Next Steps
 
 1. Verification of nnUnet claimed results on prostate decathlon data, used for available pre-trained models.
+2. Inference on Qin-Prostate-Repeatability collection using a pre-trained nnUnet model on task05 imaging decathlon data.
+  * 3d full-res model, T2 and ADC modalities, so there is a need to resample the input.
+3. Inference on Qin-Prostate-Repeatability collection using a different pre-trained nnUnet model, task 24 promise.
+  * Easier to corner the resampling problem since this pre-trained model has only one input modality -- T2
+3. Obtained good dice scores results on the 15 PatientID divided into two studies each using this model.
+4. Dealt with the Resampling/Converting issue -  slice spacing incorrect -- use of simpleITK instead of plastimatch
 
 # Illustrations
+Slicer visualisation of ground truth and predicted whole prostate segmentation mask, on PatientID01.
+
+![Slicer demo](slicer_idc_prostate_seg.gif)
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
