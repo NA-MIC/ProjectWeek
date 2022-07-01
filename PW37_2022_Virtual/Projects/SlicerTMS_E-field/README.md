@@ -48,6 +48,7 @@ Our project aims to predict the distribution of the E-field in real-time so that
 
 1. Finished step 1-4. 
 2. Working on intergrating the code to the visualization module. 
+3. Improving the speed of the prediction.
 
 # Illustrations
 
