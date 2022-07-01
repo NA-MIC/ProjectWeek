@@ -85,6 +85,7 @@ showed high accuracy and robustness with an Dice up to 0.962 pm 0.02.
 1. The UI of a slicer module was already started befor project week and has now been updated.
 1. We linked the UI with a CLI module to run the prediction/segmentation directly on the user computer through Slicer 5's  python 3.9
 1. The module has been tested locally with clinicians and is ready to be deployed as a Slicer module as a part of the slicer CMF extention
+( The code is available at https://github.com/Maxlo24/Slicer_Automatic_Tools )
 
 1. We colaborated with [Slicer Batch Annonymize](Projects/SlicerBatchAnonymize/README.md) (Hina Shah, Juan Carolos Prieto) to use AMASSS as a first step to perform defacing of patients scans during the batch anonymisation process. ( Figure 3 Mask for defacing )
 
