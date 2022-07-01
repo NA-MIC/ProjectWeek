@@ -53,7 +53,9 @@ For IOS :
 1. Train new models for more landmarks
 1. Deploy the tool as a Slicer module in the sclicer CMF extention
 
-1. I havn't been able to make any progress on this module during this week as I've been working on [AMASSS CBCT](Projects/AMASSS_CBCT/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto).
+----
+
+1. I havn't been able to make any progress on this module during this week as I've been working on [AMASSS CBCT](Projects/AMASSS_CBCT/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto) and [Slicer Batch Annonymize](Projects/SlicerBatchAnonymize/README.md) (Hina Shah, Juan Carolos Prieto)
 1. I learned how to use CLI modules that will make the development/deployment of ALI faster in the near future.
 1. Nes agents have been trained to reach a total of 120 landmarks that can be automatically identified
 
