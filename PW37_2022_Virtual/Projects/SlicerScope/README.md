@@ -21,8 +21,8 @@ SlicerScope is a microscopy tool for operating on slides like histopathology (H&
 1. Objective B. Add the nucleus segmentation module into the extension.
 
 ## 20220701 What's been done in the week
-With the help from Steve and Andras, the extension has been submitted to the extension manager. We will keep watching it's bugs and make improvements.
-
+1. With the help from Steve and Andras, the extension has been submitted to the extension manager. We will keep watching it's bugs and make improvements.
+1. The extension has been renamed to "BigImage" to better reflect its nature.
 
 ## Approach and Plan
 
