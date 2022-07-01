@@ -48,8 +48,8 @@ Our project aims to predict the distribution of the E-field based on the locatio
 
 # Illustrations
 
-Visualization of the predicted E-field from another softwared.
-![Visualization of the predicted E-field from another software](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/Projects/SlicerTMS/tmsonbrain.png)
+Visualization of the predicted E-field using the developed interface.
+![Visualization of the predicted E-field from another software](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/Projects/SlicerTMS/tmscoil_on_brain_surface.png)
 
 -->
 
