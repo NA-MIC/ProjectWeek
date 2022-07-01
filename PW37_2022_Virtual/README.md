@@ -6,6 +6,10 @@ If you have any questions, you can contact the [organizers](../README.md#who-to-
 
 Please fill out the [post-Project Week](https://forms.gle/E4ETUPXkKt3iFxvJ7) survey to let us know what you thought of this edition. Hope to see you again for Project Week 38 in Las Palmas, Jan 30-Feb 3rd 2023!
 
+## Screenshots, Illustrations & Photos Album
+
+[Google Photos album](https://photos.app.goo.gl/PTJjQn5D33uShcLM9)
+
 ## Before Project Week
 1. Register [here](https://forms.gle/AyPNhqVeXVD3xR2q9), it is free!
 1. Attend one or more preparation meetings to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
