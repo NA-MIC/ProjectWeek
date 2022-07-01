@@ -18,6 +18,9 @@ Given two groups of shapes, represented as binary volumes, the Poisson shape ana
 
 1. Objective A. Add the Poisson shape analysis module as an extension to Slicer.
 
+## 20220701 What's been done in the week
+1. Study the qSlicerCLIModuleUIHelper class to see how to select multiple files.
+
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
