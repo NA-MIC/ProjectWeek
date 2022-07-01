@@ -38,25 +38,27 @@ Once integrated, this module could serve as a reference/example for the developm
 1. Saving recordings into a single .sqbr file seems the best option for easy import/export. Current infrastructure enables saving the entire vtkMRMLSequenceBrowserNode into a .sqbr file. Custom app should include updated versions of Slicer and PerkTutor to include the fixes related to the following issues which prevented a correct management of .sqbr files: [#6429](https://github.com/Slicer/Slicer/issues/6429) and [#6435](https://github.com/Slicer/Slicer/issues/6435)
 2. It has been proposed that it may be a good idea to show the instructions (images or videos) while the exercise is being performed. This could be integrated as a possible configuration for the exercises. Currently, instructions can be shown as images or videos using slice views integrated into the Slicer layout.
 3. The new feature to measure and evaluate performance metrics in real-time is considered really useful by the community. This is specially useful to identify specific parts of the recordings where performance drops significantly.
-
-  <img src="https://user-images.githubusercontent.com/10816661/176788816-dac487c6-487b-4056-a3a4-d6b5907cf20f.gif" alt="drawing" width="800"/>
-
-5. Feedback for basic skills exercises can be computed with current methodologies integrated into PerkTutor extension. No deep learning is needed unless complexity of the exercise/procedure increases.
-6. Automatic segmentation (deep learning) could be integrated into specific exercise to compute useful data/metrics from the US image. Example: position of a vessel/mass on the image, position of the needle,...
+4. Feedback for basic skills exercises can be computed with current methodologies integrated into PerkTutor extension. No deep learning is needed unless complexity of the exercise/procedure increases.
+5. Automatic segmentation (deep learning) could be integrated into specific exercise to compute useful data/metrics from the US image. Example: position of a vessel/mass on the image, position of the needle,...
+6. Exercise integrated into TrainUS custom app.
 
 # Illustrations
 
-Instructions displayed to the user before starting the exercise: 
+Instructions slides displayed to the user before starting the exercise:
 
-<img src="https://user-images.githubusercontent.com/10816661/175936290-b9afd877-eeb1-488a-a71b-1670ec172846.JPG" alt="drawing" width="800"/>
+<img src="https://user-images.githubusercontent.com/10816661/176864328-fce55960-6ac9-4298-8133-1865579b2fb0.PNG" alt="drawing" width="800"/>
+
+Video with instructions displayed to the user before starting the exercise:
+
+<img src="https://user-images.githubusercontent.com/10816661/176864506-5fd9951c-4510-40b2-a811-b353e5126088.gif" alt="drawing" width="800"/>
 
 Plot showing real-time metric values during recording playback:
 
-<img src="https://user-images.githubusercontent.com/10816661/175937246-11d0edb7-cf30-408c-beda-e38bb79f19b1.JPG" alt="drawing" width="800"/>
+<img src="https://user-images.githubusercontent.com/10816661/176864573-041abd73-0c4b-4907-9c58-12798853655c.gif" alt="drawing" width="800"/>
 
 Table showing overall performance metrics computed using PerkTutor extension:
 
-<img src="https://user-images.githubusercontent.com/10816661/175937477-0e872bf7-efdb-4215-9781-704dfb2a156b.JPG" alt="drawing" width="800"/>
+<img src="https://user-images.githubusercontent.com/10816661/176864902-8d15ebb6-b90b-4009-909e-69c11b37a6c8.PNG" alt="drawing" width="800"/>
 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
