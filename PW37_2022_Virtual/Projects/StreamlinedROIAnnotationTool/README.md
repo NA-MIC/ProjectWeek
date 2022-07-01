@@ -55,9 +55,13 @@ as possible.
    and image information back to server.
 
 ## Next Steps
-1. Need to add scoring functionality.
-2. Need to add way to mark image as defective.
-3. Need to add way to clear Previously added ROIs.
+1. Need to add scoring functionality (DONE)
+2. Need to add way to mark image as defective (DONE)
+3. Need to add way to clear Previously added ROIs (DONE w/help from erikz)
+4. Change the format of the tooltip to make it look nicer and have it include the current image id (DONE)
+5. Add means to Zoom, Pan, and adjust Window/Level (DONE)
+6. Add a Help section at bottom, to let users know what buttons and actions do what (DONE)
+7. optimize performance, if time is permitting. 
 
 
 # Illustrations
@@ -65,10 +69,11 @@ as possible.
   <img src="work_flow.png" />
 </p>
 
-Demo video:
+Demo video from start of project:
+![](SimplifiedROITool.gif)
 
-https://user-images.githubusercontent.com/43255897/175789998-61ca738f-1015-4910-a35f-0ced35e71585.mp4
-
+Demo video from end of project:
+![](FinalROITool.gif)
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
