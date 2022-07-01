@@ -71,9 +71,9 @@ as possible.
 
 Demo video from start of project:
 ![](SimplifiedROITool.gif)
-
+![](roi-web-tool-example.gif)
 Demo video from end of project:
-![](FinalROITool.gif)
+![](FinalROITool_1.gif)
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
