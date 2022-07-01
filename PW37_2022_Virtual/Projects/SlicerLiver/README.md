@@ -20,10 +20,6 @@ with tools to perform liver analytics towards planning of liver interventions
 (resections, ablations). At this point in the project we need to port early
 prototypes of our resection planning algorithms into 3D Slicer.
 
-![3D Bezier Surface Markup](screenshot.png)
-
-[Early prototype of the resection planning module](https://youtu.be/7M3DULQp81k)
-
 ## Objectives
 
    - Liver resection planning:
@@ -48,13 +44,23 @@ PW36](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projec
  
 ## Illustrations
 
-![3D Bezier Surface Markup](bezier_surface_markup.png)
+<img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_01.png?raw=true" width="50%">
 
-![Resection initialization](resection_initialization.png)
+<img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_02.png?raw=true" width="50%">
 
-![Resection planning](resection_planning.png)
+<img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_04.png?raw=true" width="50%">
+
+<img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_06.png?raw=true" width="50%">
+
+<img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_08.png?raw=true" width="50%">
 
 ## Progress and Next Steps
+
+In this project week, we have changed the user interaction to use segmentations instead of models, which greatly simplifies the user interaction.
+
+There is a PR for adding this extension to the extension manager. This be effective when we prepare a tutorial video on the use of the extension.
+
+There are still standard features (e.g., volumetry computation) and new research features (e.g, risk maps visualization, new planning algorithms) that we would like to implement in future Project Weeks. 
 
 # Background and References
 1. [Slicer-Liver PW36](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/Slicer-Liver
