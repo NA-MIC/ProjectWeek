@@ -40,8 +40,40 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 Use of `vtkSSAOPass` class to generate ambient occlusion (AO) for volumes:
- - Initial attempt encountered many OpenGL State errors
  - Volume mapper cannot directly work when AO pass is enabled, need further investigations to understand how this could be done.
+ - Initial attempt encountered many OpenGL State errors (see error dump below).
+ ```
+ Generic Warning: In C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkOpenGLState.cxx, line 1069
+Error glEnable/Disable1 OpenGL errors detected
+  0 : (1282) Invalid operation
+
+ with stack trace of
+ at vtksys::SystemInformationImplementation::GetProgramStack in C:\D\slicer-d1\VTK\Utilities\KWSys\vtksys\SystemInformation.cxx line 3979
+ at vtksys::SystemInformation::GetProgramStack in C:\D\slicer-d1\VTK\Utilities\KWSys\vtksys\SystemInformation.cxx line 829
+ at `anonymous namespace'::reportOpenGLErrors in C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkOpenGLState.cxx line 294
+ at vtkOpenGLState::SetEnumState in C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkOpenGLState.cxx line 1069
+ at vtkOpenGLState::ScopedglEnableDisable::~ScopedglEnableDisable in C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkOpenGLState.h line 299
+ at vtkOpenGLState::vtkglBlitFramebuffer in C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkOpenGLState.cxx line 1758
+ at vtkOpenGLGPUVolumeRayCastMapper::vtkInternal::CaptureDepthTexture in C:\D\slicer-d1\VTK\Rendering\VolumeOpenGL2\vtkOpenGLGPUVolumeRayCastMapper.cxx line 817
+ at vtkOpenGLGPUVolumeRayCastMapper::GPURender in C:\D\slicer-d1\VTK\Rendering\VolumeOpenGL2\vtkOpenGLGPUVolumeRayCastMapper.cxx line 3102
+ at vtkGPUVolumeRayCastMapper::Render in C:\D\slicer-d1\VTK\Rendering\Volume\vtkGPUVolumeRayCastMapper.cxx line 171
+ at vtkVolume::RenderVolumetricGeometry in C:\D\slicer-d1\VTK\Rendering\Core\vtkVolume.cxx line 380
+ at vtkProp::RenderFilteredVolumetricGeometry in C:\D\slicer-d1\VTK\Rendering\Core\vtkProp.cxx line 324
+ at vtkDefaultPass::RenderFilteredVolumetricGeometry in C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkDefaultPass.cxx line 167
+ at vtkVolumetricPass::Render in C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkVolumetricPass.cxx line 44
+ at vtkSequencePass::Render in C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkSequencePass.cxx line 71
+ at vtkCameraPass::Render in C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkCameraPass.cxx line 145
+ at vtkRenderStepsPass::Render in C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkRenderStepsPass.cxx line 207
+ at vtkSSAOPass::RenderDelegate in C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkSSAOPass.cxx line 240
+ at vtkSSAOPass::Render in C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkSSAOPass.cxx line 499
+ at vtkOpenGLRenderer::DeviceRender in C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkOpenGLRenderer.cxx line 285
+ at vtkRenderer::Render in C:\D\slicer-d1\VTK\Rendering\Core\vtkRenderer.cxx line 385
+ at vtkRendererCollection::Render in C:\D\slicer-d1\VTK\Rendering\Core\vtkRendererCollection.cxx line 53
+ at vtkRenderWindow::DoStereoRender in C:\D\slicer-d1\VTK\Rendering\Core\vtkRenderWindow.cxx line 347
+ at vtkRenderWindow::Render in C:\D\slicer-d1\VTK\Rendering\Core\vtkRenderWindow.cxx line 306
+ at vtkOpenGLRenderWindow::Render in C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkOpenGLRenderWindow.cxx line 2345
+ at main in C:\D\Shadows\Shadows.cxx line 132
+ ```
 
 Adapt `vtkSSAOPass` to create local ambient occlusion (LAO) implementation for volumes:
  - `ComputeKernel()` in vtkSSAOPass can be modified to adapted for LAO of volumes [Jiayi]
