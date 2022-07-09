@@ -41,7 +41,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 Use of `vtkSSAOPass` class to generate ambient occlusion (AO) for volumes:
  - Volume mapper cannot directly work when AO pass is enabled, need further investigations to understand how this could be done.
- - Initial attempt encountered many OpenGL State errors (see error dump below).
+ - Initial attempt encountered OpenGL State errors (see error dump below) trigger by [this](https://gitlab.kitware.com/vtk/vtk/-/blob/master/Rendering/OpenGL2/vtkOpenGLState.cxx#L1755).
  ```
  Generic Warning: In C:\D\slicer-d1\VTK\Rendering\OpenGL2\vtkOpenGLState.cxx, line 1069
 Error glEnable/Disable1 OpenGL errors detected
