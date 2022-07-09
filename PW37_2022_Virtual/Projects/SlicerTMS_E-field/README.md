@@ -53,9 +53,9 @@ Our project aims to predict the distribution of the E-field in real-time so that
 # Illustrations
 
 Visualization of the predicted E-field using the developed interface.
-![Visualization of the predicted E-field from another software](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/Projects/SlicerTMS/tmscoil_on_brain_surface.png)
+![Visualization of the predicted E-field from another software](../SlicerTMS/tmscoil_on_brain_surface.png)
 
 -->
 
 # Background and References
-This is the sister project of [Slicer TMS Deep-Learning](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SlicerTMS)
+This is the sister project of [Slicer TMS Deep-Learning](../SlicerTMS)

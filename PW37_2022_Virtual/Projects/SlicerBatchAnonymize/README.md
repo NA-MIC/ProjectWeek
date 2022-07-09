@@ -38,7 +38,7 @@ The tool currently provies a user-friendly UI, supports export to several popula
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. During this project week we implemented a functionality that will call [AMASS extension](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/Projects/AMASSS_CBCT/README.md). This CBCT segmentation extension will return a mask for the skin ROI. Using this mask we zero out those voxels from the CBCT scan and save the resulting dicom without metadata and defaced.
+1. During this project week we implemented a functionality that will call [AMASS extension](../AMASSS_CBCT/README.md). This CBCT segmentation extension will return a mask for the skin ROI. Using this mask we zero out those voxels from the CBCT scan and save the resulting dicom without metadata and defaced.
 
 # Illustrations
 

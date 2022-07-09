@@ -1,6 +1,6 @@
 ## Welcome to the main page for the Project Week events!
 
-### The [37th project week](PW37_2022_Virtual/README.md) will be held June 27-July 1, 2022 online.
+### The [37th project week](PW37_2022_Virtual/README.md) was held June 27-July 1, 2022 online.
 
 ## Frequently Asked Questions
 
@@ -37,7 +37,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
 ## Upcoming Project Weeks
 
-The [37th project week](PW37_2022_Virtual/README.md) will be held June 27-July 1, 2022.
+The [38th project week](PW38_2023_GranCanaria/README.md) will be held 2023 January 30-February 3rd.
 
 * Please contact the organizers if you have interest in hosting a Project Week event.
 

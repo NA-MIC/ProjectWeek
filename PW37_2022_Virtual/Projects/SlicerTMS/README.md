@@ -30,7 +30,7 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 ## Progress and Next Steps
 
 1. Some bug fixes of observers in the TMS Module
-2. Integration of deep learning model: Modified OpenIGTLink with pyigtl (https://github.com/lassoan/pyigtl) to send out transform message of the moving TMS coil (added nodes, enabled push on connect, modified python demon that accesses the outgoing data), in collaboration with the deep learning project [Slicer TMS Deep-Learning](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SlicerTMS_E-field)
+2. Integration of deep learning model: Modified OpenIGTLink with pyigtl (https://github.com/lassoan/pyigtl) to send out transform message of the moving TMS coil (added nodes, enabled push on connect, modified python demon that accesses the outgoing data), in collaboration with the deep learning project [Slicer TMS Deep-Learning](../SlicerTMS_E-field)
 3. Tested our new secure websocket connection to the browser (https://github.com/liampaulhus/slicerWebWSS-WIP) using a self-signed certificate for https.
 4. Next steps: a) Attach the coil to the skull/skin surface in Slicer and b) Modify the browser-based WebXR controller so that it can be synchronized with slicer
 
@@ -59,7 +59,7 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 
 # Background and References
 
-This project is related to: https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SlicerTMS_E-field
+This project is related to: ../SlicerTMS_E-field
 
 ## Infos for running WebXR:
 

@@ -1,6 +1,6 @@
 ## Welcome to the web page for the 37th Project Week!
 
-[This event](https://projectweek.na-mic.org/PW37_2022_Virtual/) will take place from June 27 to July 1, 2022.
+[This event](https://projectweek.na-mic.org/PW37_2022_Virtual/) took place from June 27 to July 1, 2022.
 
 If you have any questions, you can contact the [organizers](../README.md#who-to-contact).
 
@@ -11,21 +11,16 @@ Please fill out the [post-Project Week](https://forms.gle/E4ETUPXkKt3iFxvJ7) sur
 [Google Photos album](https://photos.app.goo.gl/PTJjQn5D33uShcLM9)
 
 ## Before Project Week
-1. Register [here](https://forms.gle/AyPNhqVeXVD3xR2q9), it is free!
-1. Attend one or more preparation meetings to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
-1. Join the [Discord server](https://discord.gg/yQsNVdVpS3) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
-2. A workshop on using MONAI Label with 3D Slicer will be held June 22, 2022 from 9-11am EDT.  See [this page](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/MONAILabel_Workshop.md) to for more information.
+1. Participants met at preparation meetings to present projects they intended to work on at PW, seeking collaborators or to join one of the projects proposed by others.
+1. Participants joined the [Discord server](https://discord.gg/yQsNVdVpS3) and used to communicate during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
+2. A workshop on using MONAI Label with 3D Slicer was held June 22, 2022 from 9-11am EDT. See [this page](MONAILabel_Workshop.md) to for more information.
 
 ## During Project Week (All times US Eastern Daylight (Boston) Time)
-* The week will start at **8:15am on Monday June 27th** with informal conversations on **[Discord](https://discord.gg/d5Q6b5ug8u)**.
-* Initial **project presentations** will start at **9am on Zoom**, using [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09). Each team must delegate a member to present their projects in no more than 2 minutes using no other visual support than the project page on GitHub (we won’t have time to switch screen sharing)
-* If you don’t have a project, look at the PW37 page to find a project you might be interested in and contact team members through their Discord channel.
-* Breakout sessions start every day at **9am on Zoom** (link in the calendar below)
-* Work in **project teams** will happen throughout the week with communication between team members taking place on **Discord**. If you want to schedule a meeting ahead you can "reserve" a meeting room in [this spreadsheet](https://docs.google.com/spreadsheets/d/1jrYSecdhg9XQ1Re_7yqOCYTMjX2mOe-GowAp3yfWS7g/edit?usp=sharing).
-* We will end the week with **project results presentation (9am on Friday)**. Again, each team will delegate one member to present their results in a maximum of 2 minutes. We will use the project page as a visual support for the presentation, so please make sure it is up to date with your latest results by Friday morning.
-
-## Preparation meetings
-We hold weekly preparation meetings at 10am on Tuesdays, starting May 3rd, 2022. Please join at [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
+* Initial **project presentations** started at **9am on Zoom**, on Zoom. Each team delegated a member to present their projects in no more than 2 minutes using no other visual support than the project page on GitHub (no time to switch screen sharing)
+* Participants who did not have a project, could find a project they were interested in and contacted team members through their Discord channel.
+* Breakout sessions start every day at **9am on Zoom** (links in the calendar below)
+* Work in **project teams** happened throughout the week with communication between team members taking place on **Discord**. 
+* The week ended with **project results presentation (9am on Friday)**. Again, each team delegated one member to present their results in a maximum of 2 minutes. The project page was used as a visual support for the presentation.
 
 ##  Agenda
 
@@ -48,50 +43,64 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 ## Projects [(How to add a new project?)](Projects/README.md)
 
-1. **VR/AR and Rendering.** [PRISM Rendering](Projects/PRISMRendering/README.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
-2. **VR/AR and Rendering.** [SlicerVR infrastructure](Projects/SlicerVRInfrastructure/README.md) (Csaba Pinter, Sankhesh Jhaveri, David Garcia Mato, Adam Rankin, Jean-Christophe Fillion-Robin)
-)
-1. **VR/AR and Rendering.** [SlicerVR Tutorial](Projects/SlicerVRTutorial/README.md) (Monica Garcia-Sevilla, David Garcia-Mato, Csaba Pinter, ?)
-1. **VR/AR and Rendering.** [Slicer Photogrammetry](Projects/SlicerPhotoGram/README.md) (Chi Zhang, Murat Maga, Steve Pieper)
-1. **VR/AR and Rendering.** [Cinematic Rendering VTK PBR](Projects/CinematicRenderingVTK/README.md) (Shreeraj Jadhav, Jiayi Xu, Jean-Christophe Fillion-Robin)
-1. **VR/AR and Rendering.** [Slicer TMS Module](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Raymond Yang, Steve Pieper, Lipeng Ning, Daniel Haehn)
-1. **VR/AR and Rendering.** [SlicerWGPU - WebGPU in Slicer](Projects/SlicerWGPU) (Steve Pieper)
-1. **IGT and Low cost.** [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Gabriella D'Albenzio, Ruoyan Meng, Ole V. Solberg, Geir A. Tangen, Javier Pérez de Frutos)
-1. **IGT and Low cost.** [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, Rebecca Hisey, Matthew Holden,...)
-1. **IGT and Low cost.** [Virtual endoscopy](Projects/SlicerVirtualEndoscopy/README.md) (Yi Gao)
-1. **IGT and Low cost.** [SlicerTMS: Deep learning for E-field prediction](Projects/SlicerTMS_E-field/README.md)(Jax Luo, Loraine Franke, Raymond Yang, Steve Pieper, Daniel Haehn, Lipeng Ning)
-1. **Segmentation/Classification.** [Lung segmentation with MONAILabel](Projects/MONAILabelLung/README.md) (Rudolf Bumm, Andres Diaz-Pinto)
-1. **Segmentation/Classification.** [Lumbar spine segmentation using MONAILabel](Projects/LumbarSpineSegmentation/README.md) (Nayra Pumar, María Rosa Rodriguez, David García Mato)
-1. **Segmentation/Classification.** [Combined MONAI Label and MONAI Deploy SDK Applications](Projects/MONAILabelAndDeploy/README.md) (Erik Ziegler, Roya Khajavi, Steve Pieper, Ron Kikinis, Andres Diaz-Pinto)
-1. **Segmentation/Classification.** [AMASSS CBCT](Projects/AMASSS_CBCT/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
-1. **Segmentation/Classification.** [CT Lymph Node collection weakly annotated MONAI Label](Projects/LNQ/README.md) (Roya Khajavi, Erik Ziegler, Steve Pieper, Ron Kikinis)
-1. **Segmentation/Classification.** [SlicerHeart polar maps](Projects/SlicerHeartPolarMaps/README.md) (Connor Haberl)
-1. **Segmentation/Classification.** [IDC Prostate Segmentation](Projects/IDCProstateSegmentation/README.md) (Cosmin Ciausu, Andrey Fedorov)
-1. **Segmentation/Classification.** [Outlier Detection of Large Scale Mammography Studies](Projects/OutlierDetectionLargeScaleMammograms/README.md) (Pablo Bendiksen, Ryan Zurrin, Neha Goyal, Daniel Haehn)
-1. **Segmentation/Classification.** [Streamlined ROI Annotation Tool](Projects/StreamlinedROIAnnotationTool/README.md) (Ryan Zurrin, Neha Goyal, Pablo Bendiksen, Kendrick Kheav,  Daniel Haehn)
-1. **Segmentation/Classification.** [Mass spectomatry imaging using Slicer](Projects/ViPRE/README.md) (Parvin Mousavi, Amoon Jamzad, Jessica Rodgers, Mackenzie Sharp, Hanad Elmi)
-1. **Segmentation/Classification.** [Multi-stage dental segmentation](Projects/MultistageTeethSegmentation/README.md) (Daniel Palkovics, Csaba Pinter, David Garcia Mato, Andres Diaz-Pinto)
-1. **Segmentation/Classification.** [Automatic Landmark Identification](Projects/AutomaticLandmarkIdentification/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
-1. **Quantification.** [AQ3DC](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes)
-1. **Quantification.** [Multichannel image colocalization statistics](Projects/SlicerColoc-Z-Stats/README.md) (Xiang Chen, Oscar Meruvia-Pastor, Touati Benoukraf)
-1. **Quantification.** [Poisson Shape Analysis](Projects/SlicerPoissonShapeAnalysis/README.md) (Yi Gao)
-1. **Quantification.** [SlicerScope - whole slide histopathology](Projects/SlicerScope/README.md) (Yi Gao, Steve Pieper)
-1. **Cloud.** [Imaging Data Commons](Projects/ImagingDataCommons/README.md) (Andrey Fedorov, Deepa Krishnaswamy, Dennis Bontempi, Cosmin Ciausu, Steve Pieper, Ron Kikinis)
-1. **Cloud.** [mpReview](Projects/mpReview/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
-1. **Cloud.** [Slice level annotations in OHIF](Projects/OHIFviewSR/README.md) (Deepa Krishnaswamy, Davide Punzo, Markus Herrmann, Chris Bridge, Andrey Fedorov)
-1. **Infrastructure.** [SystoleOS: ](Projects/SystoleOS/README.md) (Rafael Palomar, Andras Lasso, Steve Pieper, Jean-Christophe Fillion-Robin, Sam Horvath)
-1. **Infrastructure.** [MarkupConstraints](Projects/MarkupConstraints/README.md) (David Allemang, Jean-Christophe Fillion-Robin)
-1. **Infrastructure.** [SlicerInternationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso)
-1. **Infrastructure.** [Slicer Batch Annonymize](Projects/SlicerBatchAnonymize/README.md)(Hina Shah, Juan Carolos Prieto)
-1. **Infrastructure.** [Slicer 5++: ](Projects/Slicer5Plus/README.md) (Sam Horvath, Andras Lasso, Steve Pieper, Jean-Christophe Fillion-Robin)
-1. **Infrastructure.** [EquivalentRotationSliders: ](Projects/EquivalentRotationSliders/README.md) (Mauro Dominguez, ...)
+### VR/AR and Rendering
 
+1. [PRISM Rendering](Projects/PRISMRendering/README.md) (Simon Drouin, Steve Pieper, Andrey Titov, Rafael Palomar)
+1. [SlicerVR infrastructure](Projects/SlicerVRInfrastructure/README.md) (Csaba Pinter, Sankhesh Jhaveri, David Garcia Mato, Adam Rankin, Jean-Christophe Fillion-Robin)
+)
+1. [SlicerVR Tutorial](Projects/SlicerVRTutorial/README.md) (Monica Garcia-Sevilla, David Garcia-Mato, Csaba Pinter, ?)
+1. [Slicer Photogrammetry](Projects/SlicerPhotoGram/README.md) (Chi Zhang, Murat Maga, Steve Pieper)
+1. [Cinematic Rendering VTK PBR](Projects/CinematicRenderingVTK/README.md) (Shreeraj Jadhav, Jiayi Xu, Jean-Christophe Fillion-Robin)
+1. [Slicer TMS Module](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Raymond Yang, Steve Pieper, Lipeng Ning, Daniel Haehn)
+1. [SlicerWGPU - WebGPU in Slicer](Projects/SlicerWGPU) (Steve Pieper)
+
+### Image-guided therapy (IGT) and low-cost systems
+
+1. [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Gabriella D'Albenzio, Ruoyan Meng, Ole V. Solberg, Geir A. Tangen, Javier Pérez de Frutos)
+1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia-Mato, Csaba Pinter, Rebecca Hisey, Matthew Holden,...)
+1. [Virtual endoscopy](Projects/SlicerVirtualEndoscopy/README.md) (Yi Gao)
+1. [SlicerTMS: Deep learning for E-field prediction](Projects/SlicerTMS_E-field/README.md)(Jax Luo, Loraine Franke, Raymond Yang, Steve Pieper, Daniel Haehn, Lipeng Ning)
+
+### Segmentation/Classification
+
+1. [Lung segmentation with MONAILabel](Projects/MONAILabelLung/README.md) (Rudolf Bumm, Andres Diaz-Pinto)
+1. [Lumbar spine segmentation using MONAILabel](Projects/LumbarSpineSegmentation/README.md) (Nayra Pumar, María Rosa Rodriguez, David García Mato)
+1. [Combined MONAI Label and MONAI Deploy SDK Applications](Projects/MONAILabelAndDeploy/README.md) (Erik Ziegler, Roya Khajavi, Steve Pieper, Ron Kikinis, Andres Diaz-Pinto)
+1. [AMASSS CBCT](Projects/AMASSS_CBCT/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
+1. [CT Lymph Node collection weakly annotated MONAI Label](Projects/LNQ/README.md) (Roya Khajavi, Erik Ziegler, Steve Pieper, Ron Kikinis)
+1. [SlicerHeart polar maps](Projects/SlicerHeartPolarMaps/README.md) (Connor Haberl)
+1. [IDC Prostate Segmentation](Projects/IDCProstateSegmentation/README.md) (Cosmin Ciausu, Andrey Fedorov)
+1. [Outlier Detection of Large Scale Mammography Studies](Projects/OutlierDetectionLargeScaleMammograms/README.md) (Pablo Bendiksen, Ryan Zurrin, Neha Goyal, Daniel Haehn)
+1. [Streamlined ROI Annotation Tool](Projects/StreamlinedROIAnnotationTool/README.md) (Ryan Zurrin, Neha Goyal, Pablo Bendiksen, Kendrick Kheav,  Daniel Haehn)
+1. [Mass spectomatry imaging using Slicer](Projects/ViPRE/README.md) (Parvin Mousavi, Amoon Jamzad, Jessica Rodgers, Mackenzie Sharp, Hanad Elmi)
+1. [Multi-stage dental segmentation](Projects/MultistageTeethSegmentation/README.md) (Daniel Palkovics, Csaba Pinter, David Garcia Mato, Andres Diaz-Pinto)
+1. [Automatic Landmark Identification](Projects/AutomaticLandmarkIdentification/README.md) (Maxime Gillot, Baptiste Baquero,Lucia Cevidanes, Juan Prieto)
+
+### Quantification
+
+1. [AQ3DC](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes)
+1. [Multichannel image colocalization statistics](Projects/SlicerColoc-Z-Stats/README.md) (Xiang Chen, Oscar Meruvia-Pastor, Touati Benoukraf)
+1. [Poisson Shape Analysis](Projects/SlicerPoissonShapeAnalysis/README.md) (Yi Gao)
+1. [SlicerScope - whole slide histopathology](Projects/SlicerScope/README.md) (Yi Gao, Steve Pieper)
+
+### Cloud
+
+1. [Imaging Data Commons](Projects/ImagingDataCommons/README.md) (Andrey Fedorov, Deepa Krishnaswamy, Dennis Bontempi, Cosmin Ciausu, Steve Pieper, Ron Kikinis)
+1. [mpReview](Projects/mpReview/README.md) (Deepa Krishnaswamy, Andrey Fedorov)
+1. [Slice level annotations in OHIF](Projects/OHIFviewSR/README.md) (Deepa Krishnaswamy, Davide Punzo, Markus Herrmann, Chris Bridge, Andrey Fedorov)
+
+### Infrastructure
+
+1. [SystoleOS: ](Projects/SystoleOS/README.md) (Rafael Palomar, Andras Lasso, Steve Pieper, Jean-Christophe Fillion-Robin, Sam Horvath)
+1. [MarkupConstraints](Projects/MarkupConstraints/README.md) (David Allemang, Jean-Christophe Fillion-Robin)
+1. [SlicerInternationalization](Projects/SlicerInternationalization/README.md) (Sonia Pujol, Steve Pieper, Andras Lasso)
+1. [Slicer Batch Annonymize](Projects/SlicerBatchAnonymize/README.md)(Hina Shah, Juan Carolos Prieto)
+1. [Slicer 5++: ](Projects/Slicer5Plus/README.md) (Sam Horvath, Andras Lasso, Steve Pieper, Jean-Christophe Fillion-Robin)
+1. [EquivalentRotationSliders: ](Projects/EquivalentRotationSliders/README.md) (Mauro Dominguez, ...)
 
 ## Registrants
 
-Do not add your name to this list below. It is maintained by the organizers based on your registration. [Register here](https://forms.gle/AyPNhqVeXVD3xR2q9).
-
-List of registered participants so far (names will be added here after processing registrations):
+List of registered participants:
 
 1. Tina Kapur, Brigham and Women's Hospital and Harvard Medical School, USA
 1. David Garcia-Mato, Ebatinca SL, Spain
