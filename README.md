@@ -1,6 +1,6 @@
 ## Welcome to the main page for the Project Week events!
 
-### The [37th project week](PW37_2022_Virtual/README.md) was held June 27-July 1, 2022 online.
+### The [38th project week](PW38_2023_GranCanaria/README.md) will be held January 30-February 3, 2023 in Gran Canaria.
 
 ## Frequently Asked Questions
 
