@@ -43,8 +43,9 @@ To further reduce the cost and faciliate the use of photogrammetry, we want to b
 
 3. I then followed Steve and Andras' suggestions to try using Blender to merge texture images. I merged the first 25 texture images into one using Blender and map to the model using the Texture Modeler in Slicer. Slicer successufully rendered the model with the texture. The result is showing below.
 
+<p align="left">
 <img src="https://user-images.githubusercontent.com/80793828/176800803-2349d6b7-6852-447a-af6b-869e90ce7d1e.PNG" width = 600>
-
+<p/>
 
 The resolution is pretty low. This is probably because the scaling for each texture image after merging into one texture image. Below shows the 1st texture image (the dominant one) (left) and the merged one (right). In the merged one, the texture of the specimen basically concentrate at the lower left corner.
 
