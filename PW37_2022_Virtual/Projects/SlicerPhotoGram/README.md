@@ -31,8 +31,9 @@ To further reduce the cost and faciliate the use of photogrammetry, we want to b
 ## Progress and Next Steps
 1. Adapt an online example to render an obj file with multiple resources through `vtkRenderer`. First build a `vtkOpenGLPolyDataMapper` to link to the mesh and store each texture image according to material names, and then add a `vtkOpenGLActor` to refer to the content of the mapper. Finally, passing the actor to the rendere. However, for our dataset, `vtkRenderer` crashed whenever I rendered the model with more than 14 texture images (on Windows), while w111 accompanied texture images. Steve confirmed the same issue on Mac. Below an example of rendering with 10 texture images.
 
+<p align="left">
 <img src="https://user-images.githubusercontent.com/80793828/176799669-20fa6858-f508-4533-ae34-0e9985736b11.PNG" width = 400>
-
+<p/>
 
 2. Andras suggested spliting the mesh according to texture images and each part being mapped with a few texture images. However, the texture appears to have one dominant image, the rest just cover isolated areas. This may make mesh splitting complicated. Below are the model matched with the 1st & 10th texture image.
 
