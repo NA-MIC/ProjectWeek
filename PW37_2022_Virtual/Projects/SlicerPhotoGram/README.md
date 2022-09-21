@@ -45,6 +45,7 @@ To further reduce the cost and faciliate the use of photogrammetry, we want to b
 
 <img src="https://user-images.githubusercontent.com/80793828/176800803-2349d6b7-6852-447a-af6b-869e90ce7d1e.PNG" width = 600>
 
+
 The resolution is pretty low. This is probably because the scaling for each texture image after merging into one texture image. Below shows the 1st texture image (the dominant one) (left) and the merged one (right). In the merged one, the texture of the specimen basically concentrate at the lower left corner.
 
 <p align="left">
@@ -53,12 +54,12 @@ The resolution is pretty low. This is probably because the scaling for each text
 <p/>
 
 4. Future directions:
-  - Merge texture images properly: 
-    - I did not merge all 111 texture images because Blender requires me to add the same texture mapping node for every image. It appears that we can do python scripting in Blender. Thus, it might be useful to explore looping through every image using python and later connect to Slicer.
-    - Find a proper way to merge texture to retain the resolution. I'm also checking with the ODM people to see if they can do it.
-  - Follwing Andras' suggestion, directly access vtkRenderer() in Slicer scene to have stable rendering.
-  - Steve suggested geometry accuracy is more important than visual fidelity at this moment and we can archiving images for adding more algorithms in the future, such as machine learning. For the near future, we can focus on first getting a pipeline based on ODM. In the long run, we should definitely consider adding machine/deep learning algorithms, for example, to image registration, which is the foundation of geometric & texture accuracy in structure-from-motion photogrammetry. This can also greatly improve the efficieny of photo taking. Currently, we have to take a lot photos carefully to ensure proper registration but it is still tricky. We will have more discussions with Murat. 
-  - We will also discuss how much we can rely on Slicer & how much we have to use 3rd party software & packages.
+* Merge texture images properly: 
+  * I did not merge all 111 texture images because Blender requires me to add the same texture mapping node for every image. It appears that we can do python scripting in Blender. Thus, it might be useful to explore looping through every image using python and later connect to Slicer.
+   * Find a proper way to merge texture to retain the resolution. I'm also checking with the ODM people to see if they can do it.
+* Follwing Andras' suggestion, directly access vtkRenderer() in Slicer scene to have stable rendering.
+* Steve suggested geometry accuracy is more important than visual fidelity at this moment and we can archiving images for adding more algorithms in the future, such as machine learning. For the near future, we can focus on first getting a pipeline based on ODM. In the long run, we should definitely consider adding machine/deep learning algorithms, for example, to image registration, which is the foundation of geometric & texture accuracy in structure-from-motion photogrammetry. This can also greatly improve the efficieny of photo taking. Currently, we have to take a lot photos carefully to ensure proper registration but it is still tricky. We will have more discussions with Murat. 
+* We will also discuss how much we can rely on Slicer & how much we have to use 3rd party software & packages.
 
 
 # Illustrations
