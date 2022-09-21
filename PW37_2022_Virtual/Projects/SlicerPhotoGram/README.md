@@ -68,7 +68,7 @@ Example
 
 Example textured model (.obj) exported from WebODM viewed in MeshLab
 
-<img src="[https://user-images.githubusercontent.com/80793828/176800803-2349d6b7-6852-447a-af6b-869e90ce7d1e.PNG](https://user-images.githubusercontent.com/80793828/175820570-1dd33815-a151-4469-9f30-42470906fc0a.png)" width = 600>
+<img src="https://user-images.githubusercontent.com/80793828/175820570-1dd33815-a151-4469-9f30-42470906fc0a.png" width = 600>
 
 ![Picture1](https://user-images.githubusercontent.com/80793828/175820570-1dd33815-a151-4469-9f30-42470906fc0a.png)
 
