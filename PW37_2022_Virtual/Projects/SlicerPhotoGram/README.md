@@ -48,7 +48,7 @@ To further reduce the cost and faciliate the use of photogrammetry, we want to b
 <img src="https://user-images.githubusercontent.com/80793828/176800803-2349d6b7-6852-447a-af6b-869e90ce7d1e.PNG" width = 600>
 <p/>
 
-The resolution is pretty low. This is probably because the scaling for each texture image after merging into one texture image. Below shows the 1st texture image (the dominant one) (left) and the merged one (right). In the merged one, the texture of the specimen basically concentrate at the lower left corner.
+* The resolution is pretty low. This is probably because the scaling for each texture image after merging into one texture image. Below shows the 1st texture image (the dominant one) (left) and the merged one (right). In the merged one, the texture of the specimen basically concentrate at the lower left corner.
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/80793828/176801710-98d1d20b-a86b-4b53-899c-60485102695f.png" width = 400>
