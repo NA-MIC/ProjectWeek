@@ -78,6 +78,9 @@ Example point cloud exported from webODM and loaded in Slicer using [this code](
 # Background and References
 
 1. The repository for SlicerPhotoGram: [https://github.com/SlicerMorph/PhotoGram](https://github.com/SlicerMorph/PhotoGram).
+
 2. Currently, we have created a script [output_cropped_image.py](https://github.com/SlicerMorph/PhotoGram/blob/main/output_cropped_images.py) for loading digital image sequnece as a volume, crop each image using ROI tool for reducing background noise, and export each cropped slice as a tiff image. 
+
 3. WebODM for photogrammetry that rely on OpenCV and OpenSFM: [https://www.opendronemap.org/docs/](https://www.opendronemap.org/docs/) and [https://github.com/OpenDroneMap/WebODM](https://github.com/OpenDroneMap/WebODM).
+
 4. We have a script for loading WebODM point clouds in Slicer: [https://gist.github.com/pieper/e4ca5e4c753c5ed6c61656d25b93402c](https://gist.github.com/pieper/e4ca5e4c753c5ed6c61656d25b93402c)
