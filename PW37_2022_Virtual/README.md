@@ -224,6 +224,7 @@ List of registered participants:
 * 117 Registered attendees
   * 41% first time attendees
 * 20 countries
+* 36 projects
 
 <img src="images/participants-map.png" alt="Attendees per country" width="600"/>
 <img src="images/participants-per-country.png" alt="Attendees per country" width="600"/>
