@@ -2,7 +2,15 @@
 
 [This event](https://projectweek.na-mic.org/PW38_2023_GranCanaria/) will take place from January 30 to February 3rd, 2023 in Gran Canaria, Spain.
 
-If you have any questions, you can contact the [organizers](#Organizers).
+* Project Week 38 will be a hybrid event with a strong in-person component for the first time since 2020. 
+* The venue for in-person events is Hotel Cristina, Las Palmas, Gran Canaria (Spain). A small registration fee (amount to be determined in January) will be charged to cover the costs of venue and food served during the event (lunch and coffee breaks).
+* A block of rooms at Hotel Cristina is being held for PW attendees
+  * To make reservations use code NAMIC23 in email to grupos.mice@dreamplacehotels.com 
+  * 40 rooms are being held for us at the rate of 108€ (single) and 135€ (double) until the end of November
+* For those attending virtually, there will be no registration fee, and zoom/discord links will be provided during preparation meetings.  
+* Please [register](https://docs.google.com/forms/d/1q6Viej5nxazcoliwTcK0OJtr2I_ECR5fzuRzIo3WsIQ/) as early as possible, indicating whether you plan on participating in person. It will greatly help the organizing committee estimate the number of participants we need to accomodate in Las Palmas. Registration fees for in-person attendees will be collected later using a separate form.
+
+If you have any questions, you can contact the [organizers](#organizers).
 
 <!-- to be added at the end of PW
 ## Screenshots, Illustrations & Photos Album
@@ -11,7 +19,7 @@ If you have any questions, you can contact the [organizers](#Organizers).
 -->
 
 ## Before Project Week
-1. Register <!--[here](https://forms.gle/AyPNhqVeXVD3xR2q9)-->, it is free! (registration not yet open)
+1. Register [here](https://docs.google.com/forms/d/1q6Viej5nxazcoliwTcK0OJtr2I_ECR5fzuRzIo3WsIQ/), it is free! 
 1. Attend one or more [preparation meetings](#Preparation-meetings) to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
 1. Join the [Discord server](https://discord.gg/yQsNVdVpS3) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
 
@@ -63,7 +71,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 ## Registrants
 
-Do not add your name to this list below. It is maintained by the organizers based on your registration. Registration not open yet.<!--[Register here](https://forms.gle/AyPNhqVeXVD3xR2q9).-->
+Do not add your name to this list below. It is maintained by the organizers based on your registration. Register [here](https://docs.google.com/forms/d/1q6Viej5nxazcoliwTcK0OJtr2I_ECR5fzuRzIo3WsIQ/)
 
 List of registered participants so far (names will be added here after processing registrations):
 
