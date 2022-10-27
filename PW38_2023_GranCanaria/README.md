@@ -8,7 +8,7 @@
   * To make reservations use code NAMIC23 in email to grupos.mice@dreamplacehotels.com 
   * 40 rooms are being held for us at the rate of 108€ (single) and 135€ (double) until the end of November
 * For those attending virtually, there will be no registration fee, and zoom/discord links will be provided during preparation meetings.  
-* Please [register](https://docs.google.com/forms/d/1q6Viej5nxazcoliwTcK0OJtr2I_ECR5fzuRzIo3WsIQ/) as early as possible, indicating whether you plan on participating in person. It will greatly help the organizing committee to estimate the number of participants we need to accomodate in Las Palmas. Registration fees for in-person attendees will be determined and collected later using a separate form by the local organizing team.
+* Please [register](https://forms.gle/sh9jGJLJdBm4us3E7) as early as possible, indicating whether you plan on participating in person. It will greatly help the organizing committee to estimate the number of participants we need to accomodate in Las Palmas. Registration fees for in-person attendees will be determined and collected later using a separate form by the local organizing team.
 
 If you have any questions, you can contact the [organizers](#organizers).
 
@@ -19,7 +19,7 @@ If you have any questions, you can contact the [organizers](#organizers).
 -->
 
 ## Before Project Week
-1. Register [here](https://docs.google.com/forms/d/1q6Viej5nxazcoliwTcK0OJtr2I_ECR5fzuRzIo3WsIQ/), it is free! 
+1. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7), it is free! 
 1. Attend one or more [preparation meetings](#Preparation-meetings) to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
 1. Join the [Discord server](https://discord.gg/yQsNVdVpS3) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
 
@@ -71,7 +71,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 ## Registrants
 
-Do not add your name to this list below. It is maintained by the organizers based on your registration. Register [here](https://docs.google.com/forms/d/1q6Viej5nxazcoliwTcK0OJtr2I_ECR5fzuRzIo3WsIQ/)
+Do not add your name to this list below. It is maintained by the organizers based on your registration. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7)
 
 List of registered participants so far (names will be added here after processing registrations):
 
