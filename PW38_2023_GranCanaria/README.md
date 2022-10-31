@@ -8,7 +8,7 @@
   * To make reservations use code NAMIC23 in email to grupos.mice@dreamplacehotels.com 
   * 40 rooms are being held for us at the rate of 108€ (single) and 135€ (double) until the end of November
 * For those attending virtually, there will be no registration fee, and zoom/discord links will be provided during preparation meetings.  
-* Please [register](https://forms.gle/sh9jGJLJdBm4us3E7) as early as possible, indicating whether you plan on participating in person. It will greatly help the organizing committee to estimate the number of participants we need to accomodate in Las Palmas. Registration fees for in-person attendees will be determined and collected later using a separate form by the local organizing team.
+* Please [register](https://forms.gle/sh9jGJLJdBm4us3E7) as early as possible, indicating whether you plan on participating in person. It will greatly help the organizing committee to estimate the number of participants we need to accommodate in Las Palmas. Registration fees for in-person attendees will be determined and collected later using a separate form by the local organizing team.
 
 If you have any questions, you can contact the [organizers](#organizers).
 
