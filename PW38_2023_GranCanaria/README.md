@@ -2,12 +2,12 @@
 
 [This event](https://projectweek.na-mic.org/PW38_2023_GranCanaria/) will take place from January 30 to February 3rd, 2023 in Gran Canaria, Spain.
 
-* Project Week 38 will be a hybrid event with a strong in-person component for the first time since 2020. 
+* Project Week 38 will be a hybrid event with a strong in-person component for the first time since 2020.
 * The venue for in-person events is Hotel Cristina, Las Palmas, Gran Canaria (Spain).
 * A block of rooms at [Hotel Cristina](https://www.dreamplacehotels.com/en/hotel-cristina/) is being held for PW attendees
-  * To make reservations use code NAMIC23 in email to grupos.mice@dreamplacehotels.com 
+  * To make reservations use code NAMIC23 in email to grupos.mice@dreamplacehotels.com
   * 40 rooms are being held for us at the rate of 108€ (single) and 135€ (double) until the end of November
-* For those attending virtually, there will be no registration fee, and zoom/discord links will be provided during preparation meetings.  
+* For those attending virtually, there will be no registration fee, and zoom/discord links will be provided during preparation meetings.
 * Please [register](https://forms.gle/sh9jGJLJdBm4us3E7) as early as possible, indicating whether you plan on participating in person. It will greatly help the organizing committee to estimate the number of participants we need to accommodate in Las Palmas. Registration fees for in-person attendees will be determined and collected later using a separate form by the local organizing team.
 
 If you have any questions, you can contact the [organizers](#organizers).
@@ -19,11 +19,11 @@ If you have any questions, you can contact the [organizers](#organizers).
 -->
 
 ## Before Project Week
-1. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7), it is free! 
+1. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7), it is free!
 1. Attend one or more [preparation meetings](#Preparation-meetings) to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
 1. Join the [Discord server](https://discord.gg/yQsNVdVpS3) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
 
-<!-- TBD 
+<!-- TBD
 ## During Project Week (All times US Eastern Daylight (Boston) Time)
 * The week will start at **8:15am on Monday June 27th** with informal conversations on **[Discord](https://discord.gg/d5Q6b5ug8u)**.
 * Initial **project presentations** will start at **9am on Zoom**, using [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09). Each team must delegate a member to present their projects in no more than 2 minutes using no other visual support than the project page on GitHub (we won’t have time to switch screen sharing)
@@ -65,7 +65,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 ### Segmentation/Classification
 
 ### Quantification
-    
+
 ### Cloud and Infrastructure
 
 
@@ -75,15 +75,46 @@ Do not add your name to this list below. It is maintained by the organizers base
 
 List of registered participants so far (names will be added here after processing registrations):
 
+<!-- Participants list is updated programmatically, please don't remove the comments -->
+<!-- Participants list start -->
+1. Rafael Palomar, Norway, (In-person)
+1. Csaba Pinter, Spain, (In-person)
+1. Ron Kikinis , USA, (In-person)
+1. Simon Drouin, Canada, (In-person)
+1. Tina Kapur, USA, (Online)
+1. Karol Miller, Australia, (In-person)
+1. Andy Huynh, Australia, (In-person)
+1. Sen Li, Canada, (Undecided)
+1. Paolo Zaffino, Italy, (In-person)
+1. Andrey Fedorov, USA, (Undecided)
+1. Steve Pieper, USA, (In-person)
+1. hans knutsson, Sweden, (In-person)
+1. Sonia Pujol, USA, (Undecided)
+1. JUAN RUIZ-ALZOLA, Spain, (In-person)
+1. Ron Kikinis, USA, (In-person)
+1. Carl-Fredrik Westin, USA, (In-person)
+1. Katie Mastrogiacomo, USA, (In-person)
+1. Mamadou Samba CAMARA, Senegal, (In-person)
+1. Pape Mady THIAO, Senegal, (In-person)
+1. Alexandra Golby, USA, (In-person)
+1. yahya tfeil tfeil, Mauritania, (In-person)
+1. Javier Pascau, Spain, (In-person)
+1. Idafen Santana Perezz, Spain, (In-person)
+1. David García Mato, Spain, (In-person)
+1. Alicia Pose Díez de la Lastra, Spain, (In-person)
+1. Miguel Angel Rodriguez-Florido, Spain, (In-person)
+1. Gabor FICHTINGER, Canada, (In-person)
+
+<!-- Participants list end -->
 
 ## Statistics
-    
+
 ## Organizers
 This edition of Project Week will be led by:
-* [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)), 
+* [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)),
 * [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//))
 * [@rafaelpalomar](https://github.com/rafaelpalomar) ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp))
-* [@piiq](https://github.com/piiq) ([Theodore Aptekarev](https://discourse.slicer.org/u/pll_llq)) 
+* [@piiq](https://github.com/piiq) ([Theodore Aptekarev](https://discourse.slicer.org/u/pll_llq))
 * [@sjh26](https://github.com/sjh26) Sam Horvath
 
 ## History
