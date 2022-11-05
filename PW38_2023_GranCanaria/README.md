@@ -77,6 +77,7 @@ List of registered participants so far (names will be added here after processin
 
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
+
 1. Rafael Palomar, Norway, (In-person)
 1. Csaba Pinter, Spain, (In-person)
 1. Ron Kikinis , USA, (In-person)
@@ -104,6 +105,15 @@ List of registered participants so far (names will be added here after processin
 1. Alicia Pose Díez de la Lastra, Spain, (In-person)
 1. Miguel Angel Rodriguez-Florido, Spain, (In-person)
 1. Gabor FICHTINGER, Canada, (In-person)
+1. Luděk Hynčík, czech republic, (Online)
+1. Sen, Canada, (In-person)
+1. Souleymane Diao, Senegal, (Online)
+1. Ahmedou Moulaye IDRISS, Mauritania, (In-person)
+1. Mouhamed DIOP, Senegal, (In-person)
+1. Gabriella d' Albenzio, Norway, (In-person)
+1. Dwijkumar Mistry, India, (Online)
+1. Ruoyan Meng, Norway, (In-person)
+1. Ahmedou Moulaye IDRISS, Mauritania, (In-person)
 
 <!-- Participants list end -->
 
