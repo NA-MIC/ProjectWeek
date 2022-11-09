@@ -115,10 +115,10 @@ List of registered participants so far (names will be added here after processin
 1. Ruoyan Meng, Norway, (In-person)
 1. Ahmedou Moulaye IDRISS, Mauritania, (In-person)
 1. Francesca Spadea, Germany, (In-person)
-1. Rudolf Bumm, switzerland, (In-person)
+1. Rudolf Bumm, Switzerland, (In-person)
 1. Raul San Jose, USA, (In-person)
-1. Kanoun Salim, france, (Undecided)
-1. Abadie Celian, france, (Undecided)
+1. Kanoun Salim, France, (Undecided)
+1. Abadie Celian, France, (Undecided)
 
 <!-- Participants list end -->
 
