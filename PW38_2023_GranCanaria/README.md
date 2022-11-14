@@ -6,9 +6,10 @@
 * The venue for in-person events is Hotel Cristina, Las Palmas, Gran Canaria (Spain).
 * A block of rooms at [Hotel Cristina](https://www.dreamplacehotels.com/en/hotel-cristina/) is being held for PW attendees
   * To make reservations use code NAMIC23 in email to grupos.mice@dreamplacehotels.com
-  * 40 rooms are being held for us at the rate of 108€ (single) and 135€ (double) until the end of November
-* For those attending virtually, there will be no registration fee, and zoom/discord links will be provided during preparation meetings.
+  * 40 rooms are being held for us at the rate of 108€ (single) and 135€ (double) until the end of November 
 * Please [register](https://forms.gle/sh9jGJLJdBm4us3E7) as early as possible, indicating whether you plan on participating in person. It will greatly help the organizing committee to estimate the number of participants we need to accommodate in Las Palmas. Registration fees for in-person attendees will be determined and collected later using a separate form by the local organizing team.
+* **For those attending virtually**: there will be no registration fee, and zoom/discord links will be provided during preparation meetings.
+* **For those attending in person**: a registration fee of 400 Euros will be charged to cover for the workshop venue, lunch and coffee breaks. Use [this form](https://www.fulp.es/inscripcion-namic) to register your payment. Please do so as early as possible to help us plan food quantities.
 
 If you have any questions, you can contact the [organizers](#organizers).
 
