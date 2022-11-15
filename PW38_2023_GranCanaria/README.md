@@ -121,6 +121,9 @@ List of registered participants so far (names will be added here after processin
 1. Raul San Jose, USA, (In-person)
 1. Kanoun Salim, France, (Undecided)
 1. Abadie Celian, France, (Undecided)
+1. Simon Oxenford, Germany, (In-person)
+1. Andre , Brazil, (Online)
+1. Felix von Haxthausen, deutschland, (In-person)
 
 <!-- Participants list end -->
 
