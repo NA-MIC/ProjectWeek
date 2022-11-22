@@ -123,7 +123,19 @@ List of registered participants so far (names will be added here after processin
 1. Abadie Celian, France, (Undecided)
 1. Simon Oxenford, Germany, (In-person)
 1. Andre , Brazil, (Online)
-1. Felix von Haxthausen, deutschland, (In-person)
+1. Felix von Haxthausen, Germany, (In-person)
+1. Tamas Ungi, Canada, (Online)
+1. Andres Diaz-Pinto, uk, (Online)
+1. Michela Destito, Italy, (In-person)
+1. Attila Nagy, Hungary, (In-person)
+1. Zachary Baum, united kingdom, (Undecided)
+1. Jordan Ortega Rodríguez, Spain, (In-person)
+1. Pablo Rubén, Spain, (In-person)
+1. Yamilet Rivero López, Spain, (In-person)
+1. Joshua García Montagut, Spain, (In-person)
+1. Mario Monzón, Spain, (In-person)
+1. Rubén Paz, Spain, (In-person)
+1. Ben Zwick, Australia, (In-person)
 
 <!-- Participants list end -->
 
