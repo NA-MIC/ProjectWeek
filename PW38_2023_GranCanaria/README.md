@@ -22,7 +22,7 @@ If you have any questions, you can contact the [organizers](#organizers).
 ## Before Project Week
 1. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7), it is free!
 2. **If you plan to attend in person**, register you workshop fee of 400 Euros [here](https://www.fulp.es/inscripcion-namic).
-3. Attend one or more [preparation meetings](#Preparation-meetings) to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
+3. Attend one or more [preparation meetings](#preparation-meetings) to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
 4. Join the [Discord server](https://discord.gg/yQsNVdVpS3) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
 
 <!-- TBD
