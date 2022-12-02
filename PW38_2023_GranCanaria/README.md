@@ -141,7 +141,6 @@ List of registered participants so far (names will be added here after processin
 1. Michael Halle, USA, (In-person)
 1. Gerry Gralton, Australia, (In-person)
 1. Natalia Arteaga-Marrero, Spain, (In-person)
-1. Davide Punzo, France, (In-person)
 1. Deepa Krishnaswamy, USA, (Online)
 1. Vamsi Krishna Thiriveedhi, USA, (Online)
 1. Lucia Cevidanes, USA, (Online)
