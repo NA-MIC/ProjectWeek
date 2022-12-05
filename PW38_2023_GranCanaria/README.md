@@ -141,11 +141,22 @@ List of registered participants so far (names will be added here after processin
 1. Michael Halle, USA, (In-person)
 1. Gerry Gralton, Australia, (In-person)
 1. Natalia Arteaga-Marrero, Spain, (In-person)
+1. Davide Punzo, France, (In-person)
 1. Deepa Krishnaswamy, USA, (Online)
 1. Vamsi Krishna Thiriveedhi, USA, (Online)
 1. Lucia Cevidanes, USA, (Online)
 1. Luc Anchling, USA, (Online)
 1. Nathan Hutin, USA, (Online)
+1. Sam Horvath, USA, (In-person)
+1. Andrey Titov, Canada, (In-person)
+1. Kizzy Scott, USA, (In-person)
+1. Rafael Nebot Medina, Spain, (In-person)
+1. Paula Victoria, Spain, (In-person)
+1. Alireza Sedghi, Canada, (Online)
+1. Andrey Titov, Canada, (In-person)
+1. Sara Rolfe, USA, (Undecided)
+1. Geir Arne Tangen, Norway, (In-person)
+1. Yaying Shi, USA, (Online)
 
 <!-- Participants list end -->
 
