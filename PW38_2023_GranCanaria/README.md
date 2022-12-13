@@ -57,7 +57,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 [How to add this calendar to your own?](../common/Calendar.md)
 
-## Projects [(How to add a new project?)](Projects/README.md)
+## Projects [(How to add a new project?)](Projects/Readme.md)
 Categories based on project list of PW37, will be updated as we populate the list of projects.
 
 ### VR/AR and Rendering
