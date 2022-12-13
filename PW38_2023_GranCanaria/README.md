@@ -157,6 +157,17 @@ List of registered participants so far (names will be added here after processin
 1. Sara Rolfe, USA, (Undecided)
 1. Geir Arne Tangen, Norway, (In-person)
 1. Yaying Shi, USA, (Online)
+1. Haythem Guermazi, Mauritania, (In-person)
+1. Étienne Léger, Canada, (Undecided)
+1. Theodore Aptekarev, Montenegro, (In-person)
+1. Gang Fu, USA, (Online)
+1. Roya Khajavibajestani, USA, (Undecided)
+1. Ole Vegard Solberg, Norway, (In-person)
+1. Santhosh Parampottupadam, Germany, (In-person)
+1. Brianna Burton, belgium, (Undecided)
+1. Cosmin Ciausu, USA, (Online)
+1. Charles DeLorey, USA, (Online)
+1. Marco Nolden, Germany, (In-person)
 
 <!-- Participants list end -->
 
