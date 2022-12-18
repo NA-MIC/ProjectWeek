@@ -65,6 +65,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 ### IGT and Low cost
 
 ### Segmentation/Classification
+[Lung CT Segmentation and Analysis](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/LungSegmentation#readme)
 
 ### Quantification
 
