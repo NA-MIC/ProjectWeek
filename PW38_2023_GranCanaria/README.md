@@ -165,10 +165,21 @@ List of registered participants so far (names will be added here after processin
 1. Roya Khajavibajestani, USA, (Undecided)
 1. Ole Vegard Solberg, Norway, (In-person)
 1. Santhosh Parampottupadam, Germany, (In-person)
-1. Brianna Burton, belgium, (Undecided)
+1. Brianna Burton, Belgium, (Undecided)
 1. Cosmin Ciausu, USA, (Online)
 1. Charles DeLorey, USA, (Online)
 1. Marco Nolden, Germany, (In-person)
+1. Fernandez Vidal, France, (In-person)
+1. Maria Sofia Sappia, Netherlands, (Online)
+1. Yucheng Tang, USA, (Online)
+1. Chris Yeung, Canada, (Online)
+1. Prodipta Guha, Australia, (Online)
+1. Daniel Haehn, USA, (Online)
+1. Dennis Bontempi, USA, (In-person)
+1. Leonard Nürnberg, USA, (In-person)
+1. Loraine Franke, USA, (Online)
+1. Ami Hashemi, USA, (Online)
+1. Piotr Woznicki, Germany, (Online)
 
 <!-- Participants list end -->
 
