@@ -89,7 +89,7 @@ List of registered participants so far (names will be added here after processin
 1. Andy Huynh, Australia, (In-person)
 1. Sen Li, Canada, (Undecided)
 1. Paolo Zaffino, Italy, (In-person)
-1. Andrey Fedorov, USA, (Undecided)
+1. Andrey Fedorov, USA, (In-person)
 1. Steve Pieper, USA, (In-person)
 1. hans knutsson, Sweden, (In-person)
 1. Sonia Pujol, USA, (Undecided)
