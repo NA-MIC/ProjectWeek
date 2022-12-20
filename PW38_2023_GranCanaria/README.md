@@ -83,14 +83,13 @@ List of registered participants so far (names will be added here after processin
 
 1. Rafael Palomar, Norway, (In-person)
 1. Csaba Pinter, Spain, (In-person)
-1. Ron Kikinis , USA, (In-person)
 1. Simon Drouin, Canada, (In-person)
 1. Tina Kapur, USA, (Online)
 1. Karol Miller, Australia, (In-person)
 1. Andy Huynh, Australia, (In-person)
 1. Sen Li, Canada, (Undecided)
 1. Paolo Zaffino, Italy, (In-person)
-1. Andrey Fedorov, USA, (In-person)
+1. Andrey Fedorov, USA, (Undecided)
 1. Steve Pieper, USA, (In-person)
 1. hans knutsson, Sweden, (In-person)
 1. Sonia Pujol, USA, (Undecided)
@@ -180,6 +179,10 @@ List of registered participants so far (names will be added here after processin
 1. Loraine Franke, USA, (Online)
 1. Ami Hashemi, USA, (Online)
 1. Piotr Woznicki, Germany, (Online)
+1. Andras Lasso, Canada, (In-person)
+1. Connor Bowley, USA, (In-person)
+1. Rafe McBeth, USA, (Undecided)
+1. Linmin Pei, USA, (Online)
 
 <!-- Participants list end -->
 
