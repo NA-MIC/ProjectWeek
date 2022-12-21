@@ -59,6 +59,13 @@ To make ASO more robust, a pre-orientation algorithm has been developed. This pa
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+## Oriented Output Example
+![ASO](https://user-images.githubusercontent.com/72148963/209001336-95ad3818-f1fd-4ab6-8537-c3f79515167e.png)
+
+## User Interface
+![ASOUI](https://user-images.githubusercontent.com/72148963/209001568-ccffbb51-3318-447e-987e-db432dd16380.png)
+
+
 
 # Background and References
 
