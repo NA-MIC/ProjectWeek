@@ -44,14 +44,18 @@ To make ASO more robust, a pre-orientation algorithm has been developed. This pa
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Develop in collaboration with Nathan Hutin a Slicer Module to make ASO work for both IOS and CBCT files
+1. Develop in collaboration with Nathan Hutin ([ASO_IOS](../AutomaticStandardizeOrientation_IOS/README.md
+)) a Slicer Module to make ASO work for both IOS and CBCT files
 1. Implement the pre-orientation algorithm to this module
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Slicer Module has been developed and is working without the pre-orientation algorithm
+1. Slicer Module has been developed:
+    - In a first step, only a SEMI-Automated version has been implemented (with scan and landmark files as inputs)
+    - In a second step, a fully automated version has been developed (with ONLY scan files as inputs and ALI module running in the background)
+1. Pre-orientation algorithm will be implemented in the ASO module
 
 # Illustrations
 

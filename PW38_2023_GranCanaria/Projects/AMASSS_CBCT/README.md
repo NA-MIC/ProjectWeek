@@ -52,7 +52,7 @@ acquired with several parameters from different centers for a generalized clinic
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Do some maintenance on the previously made code
+1. Do some maintenance to the previously made code
 1. Train masks segmentation models (Cranial Base, Mandible, Maxilla)
 
 ## Approach and Plan
@@ -66,7 +66,7 @@ acquired with several parameters from different centers for a generalized clinic
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. New masks segmentation models have been trained and tested
-1. An extension as been added to this module to use segmentation files as input to generate vtk files
+1. An extension has been added to this module to take segmentation files as input to generate vtk files
 
 # Illustrations
 
