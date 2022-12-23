@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# 3DSlicerHub
 
 ## Key Investigators
 
@@ -23,9 +23,10 @@ Multiuser approach to Slicer based on [Slicer Docker](https://github.com/pieper/
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Multiuser 3Dslicer approach for private cloud (HPC) using host GPU capabilities.
+2. Make the programme configuration persistent after deleting the container.
+3. Set the size of 3DSlicer web window to fit the size of the user's screen and other novnc settings.
+5. USB over IP + OpenIGTLink + Slicer in Docker.
 
 ## Approach and Plan
 
@@ -37,7 +38,7 @@ Multiuser approach to Slicer based on [Slicer Docker](https://github.com/pieper/
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+<!-- Up[Readme.md](..%2FReadme.md)date this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Describe specific steps you **have actually done**.
 1. ...
@@ -45,10 +46,9 @@ Multiuser approach to Slicer based on [Slicer Docker](https://github.com/pieper/
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![Docker Compose eschema](3dslicerhub_esquema_2.png)
+
+![3DSlicerHub API eschema](3dslicerhub_esquema.png)
 
 # Background and References
 
