@@ -46,9 +46,10 @@ Multiuser approach to Slicer based on [Slicer Docker](https://github.com/pieper/
 
 # Illustrations
 
-![Docker Compose eschema](3dslicerhub_esquema_2.png)
+<img alt="Docker Compose eschema" src="3dslicerhub_esquema_2.png" width="500"/>
 
-![3DSlicerHub API eschema](3dslicerhub_esquema.png)
+
+<img alt="Docker Compose eschema" src="3dslicerhub_esquema.png" width="500"/>
 
 # Background and References
 
