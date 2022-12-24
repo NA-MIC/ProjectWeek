@@ -183,6 +183,10 @@ List of registered participants so far (names will be added here after processin
 1. Connor Bowley, USA, (In-person)
 1. Rafe McBeth, USA, (Undecided)
 1. Linmin Pei, USA, (Online)
+1. William Wells, USA, (In-person)
+1. Sara Fernandez Vidal, France, (In-person)
+1. Sara Fernandez Vidal, France, (In-person)
+1. Zora Kikinis, USA, (In-person)
 
 <!-- Participants list end -->
 
