@@ -58,7 +58,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 [How to add this calendar to your own?](../common/Calendar.md)
 
 ## Breackout sessions
-[Clinical panel](Projects/ClinicalPanel-BreakoutSession.md) (Rudolf Bumm)
+[Panel: clinical uses of 3D Slicer](Projects/ClinicalPanel-BreakoutSession.md) (Rudolf Bumm)
 
 ## Projects [(How to add a new project?)](Projects/Readme.md)
 Categories based on project list of PW37, will be updated as we populate the list of projects.
