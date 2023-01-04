@@ -6,7 +6,7 @@ _Rudolf Bumm (KSGR)  and Andres Diaz-Pinto (NVIDIA)_
 
 The [Monailabel GitHub page is here.](https://github.com/Project-MONAI/MONAILabel)
 
-To run MONAI Label locally, you should have a computer with a medium/high-end Nvidia GPU (16-24 GB totally available video RAM)  and CUDA available.   
+To run MONAI Label locally, you should have a computer with a medium/high-end NVIDIA GPU (16-24 GB totally available video RAM)  and CUDA available.   
 MONAI Label can also be run on CPU, but the performance will lack.  
 
 GPU compatibility:
