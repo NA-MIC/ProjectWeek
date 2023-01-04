@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Rudolf Bumm (KSGR)
 - Steve Pieper (Isomics) 
 - Gang Fu (AWS)
+- Qing Liu (AWS)
 
 # Project Description
 
