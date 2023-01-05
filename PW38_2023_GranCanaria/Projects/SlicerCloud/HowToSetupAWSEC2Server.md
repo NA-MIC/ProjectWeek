@@ -1,9 +1,9 @@
 # Setup an EC2 instance to use MONAI label, AI tools and 3D Slicer
 
-Rudolf  
-Qing  
-Steve  
-Steve Pieper
+*   Rudolf Bumm (KSGR)
+*   Steve Pieper (Isomics)
+*   Gang Fu (AWS)
+*   Qing Liu (AWS)
 
 Go to the Amazon Console
 
