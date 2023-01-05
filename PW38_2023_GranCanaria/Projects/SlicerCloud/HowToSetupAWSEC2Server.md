@@ -1,15 +1,12 @@
 # How-to setup AWS EC2 Windows instances to use MONAILabel, deep learning tools, and 3D Slicer
 
-*   Rudolf Bumm (KSGR)
-*   Qing Liu (AWS)
-*   Steve Pieper (Isomics)
-*   Gang Fu (AWS)
+_by Rudolf Bumm (KSGR), Qing Liu (AWS), Steve Pieper (Isomics), Gang Fu (AWS)_
 
 Go to the Amazon Console
 
 [https://aws.amazon.com/de/console/](https://aws.amazon.com/de/console/)
 
-Go to login page
+and go to login page
 
 ![](https://user-images.githubusercontent.com/18140094/210726738-883715be-d8c0-4432-b78b-ef2ac8a5da35.png)
 
@@ -107,7 +104,7 @@ Speedtest.net:
 
 ![](https://user-images.githubusercontent.com/18140094/210758504-4605146a-a51d-4aa6-8a73-acc33079eb58.png)
 
-Steam EZBench: 
+Steam EZBench:
 
 ![](https://user-images.githubusercontent.com/18140094/210760154-e3b3dec3-fe44-42b9-8960-a7b753221e19.png)
 
