@@ -103,7 +103,7 @@ The screen should look similar to this:
 
 ![](https://user-images.githubusercontent.com/18140094/210756064-f6ff0e14-b325-48c5-b4b7-a55cd33e6281.png)
 
-![](https://user-images.githubusercontent.com/18140094/210757883-47655382-be2c-4545-a479-6c3db81ab45d.png)
+![](https://user-images.githubusercontent.com/18140094/210758504-4605146a-a51d-4aa6-8a73-acc33079eb58.png)
 
 # Step 3. Delete the environment
 
