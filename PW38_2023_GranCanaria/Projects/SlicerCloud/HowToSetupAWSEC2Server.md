@@ -29,13 +29,13 @@ We will be running on a Windows EC2 instance. 
 
 Small EC2 Windows instances without GPU support can be created and run nearly free of charge on AWS. You could use an instance type "t2.small". 
 
-At least EC2 "g" instance types (with GPU support) will be needed to work with 3D Slicer and deep learning tools on that machines. All our testing has been on a "g5.xlarge" instance. 
+At least EC2 "g" instance types (with GPU support) will be needed to work with 3D Slicer and deep learning tools. All our testing has been on a "g5.xlarge". 
 
 [Amazon Deep Learning GPU Guide](https://docs.aws.amazon.com/dlami/latest/devguide/gpu.html)
 
-You may be running into "limit"  errors when you create and run your EC2 instance with GPU, because your Amazon account may need to get enabled to use GPU first. 
+You may be running into "limit"  errors when you create and run your EC2 instance with GPU, because your Amazon account may need to get enabled for using a GPU first. 
 
-The approximate cost for an EC2 instance with NVIDIA A10G support is around 1-2 $ per hour. 
+The approximate cost of an EC2 instance with NVIDIA A10G support is around 1-2 $ per hour. 
 
 # Step 1. Deploy the CloudFormation template
 
