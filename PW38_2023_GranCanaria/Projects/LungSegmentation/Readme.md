@@ -10,8 +10,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Steve Pieper (Isomics)
 - Eserval Rocha jr. (University of Sao Paulo Medical School)
 - Andras Lasso (Perk Labs)
-- Andrey Fedorov (Surgical Planning Lab)
-- Deepa Krishnaswamy (Surgical Planning Lab)
 
 # Project Description
 
@@ -22,8 +20,6 @@ This is a follow up to previous 3D Slicer lung CT segmentation PW projects.
 Improve vessel segmentation
 
 Establish emphysema and COPD analysis
-
-Apply lung segmentation to NSLT dataset 
 
 Develop concept for lung segment detection in CT
 
