@@ -1,8 +1,9 @@
 # Setup an EC2 instance to use MONAI label, AI tools and 3D Slicer
 
-Qing  
 Rudolf  
-Steve
+Qing  
+Steve  
+Steve Pieper
 
 Go to the Amazon Console
 
