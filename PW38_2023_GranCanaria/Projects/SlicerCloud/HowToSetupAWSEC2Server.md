@@ -79,7 +79,9 @@ The screen should look similar to this:
 *   Accept default settings and click Next
 *   On the summary page, check I acknowledge that AWS CloudFormation might create IAM resources., and click
 *   Submit
-*   It should take 15 ~ 20 mins for the stack to get deployed
+*   Status: "CREATE\_IN\_PROGRESS". It should take 15 ~ 20 mins for the stack to get deployed
+
+![](https://user-images.githubusercontent.com/18140094/210744034-a4f668f6-d286-4ac3-953a-b12bec5fc022.png)
 
 # Step 2. Connect to the environment
 
