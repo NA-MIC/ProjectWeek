@@ -1,0 +1,416 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: Windows Server with NICE DCV (login as administrator)
+
+Metadata:
+  License:
+    Description: >
+      Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+      SPDX-License-Identifier: MIT-0
+      
+      Permission is hereby granted, free of charge, to any person obtaining a copy of this
+      software and associated documentation files (the "Software"), to deal in the Software
+      without restriction, including without limitation the rights to use, copy, modify,
+      merge, publish, distribute, sublicense, and/or sell copies of the Software, and to
+      permit persons to whom the Software is furnished to do so.
+      
+      THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+      INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+      PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+      HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+      OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+      SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  AWS::CloudFormation::Interface: 
+    ParameterGroups:
+      -
+        Label:
+          default: Instance type 
+        Parameters:
+          - InstanceType
+      -
+        Label:
+          default: EC2 configuration
+        Parameters:
+          - EC2Name
+      -
+        Label:
+          default: Allowed inbound source IP prefixes to NICE DCV port 8443
+        Parameters:
+          - IngressIPv4
+
+Mappings:
+  AMIRegionMap:
+    af-south-1:
+      NICEDCVAMI: ami-03d47e4bac006f330
+    ap-south-1:
+      NICEDCVAMI: ami-0e776ca6a86a5e730
+    eu-north-1:
+      NICEDCVAMI: ami-01c816b3591d5dd97
+    eu-west-3:
+      NICEDCVAMI: ami-0625f6a74fb6afe05
+    eu-south-1:
+      NICEDCVAMI: ami-0ec6afec9aaece072
+    eu-west-2:
+      NICEDCVAMI: ami-0b1a1b220220beb02
+    eu-west-1:
+      NICEDCVAMI: ami-022508a67c81e6c28
+    ap-northeast-2:
+      NICEDCVAMI: ami-0c31940939aa476b1
+    ap-northeast-1:
+      NICEDCVAMI: ami-0321bbe7ef4a14e68
+    me-south-1:
+      NICEDCVAMI: ami-0360a805f5ec40544
+    ca-central-1:
+      NICEDCVAMI: ami-0c01afbe70f4fdf7c
+    sa-east-1:
+      NICEDCVAMI: ami-0b0c54a4745049317
+    ap-east-1:
+      NICEDCVAMI: ami-05e4a897ad6341d4b
+    ap-southeast-1:
+      NICEDCVAMI: ami-0071215a86fc69d89
+    ap-southeast-2:
+      NICEDCVAMI: ami-0dc354d026444eaca
+    eu-central-1:
+      NICEDCVAMI: ami-04c15076684cbc808
+    us-east-1:
+      NICEDCVAMI: ami-0c46f9b9e1760377c
+    us-east-2:
+      NICEDCVAMI: ami-03ddf915d48800443
+    us-west-1:
+      NICEDCVAMI: ami-092e5726b56b55e76
+    us-west-2:
+      NICEDCVAMI: ami-0b3de9114492317cb
+
+Parameters:
+  InstanceType:
+    Description: Instance type ( https://aws.amazon.com/ec2/instance-types/#Accelerated_Computing )
+    Type: String
+    Default: g4dn.xlarge
+    AllowedValues:
+      - g4dn.xlarge
+      - g4dn.2xlarge
+      - g4dn.4xlarge
+      - g5.xlarge
+      - g5.2xlarge
+
+  EC2Name:
+    Description: Name of EC2 instance
+    Type: String
+    Default: Windows Server-NICE-DCV
+  IngressIPv4:
+    Type: String
+    Description: Allowed source prefix (IPv4) ( https://checkip.amazonaws.com )
+    Default: 0.0.0.0/0
+
+Resources:
+  VPC:
+    Type: AWS::EC2::VPC
+    Properties:
+      CidrBlock: 10.192.0.0/16
+      EnableDnsSupport: true
+      EnableDnsHostnames: true
+      Tags:
+        - Key: StackName
+          Value: !Sub ${AWS::StackName}
+        - Key: StackId
+          Value: !Sub ${AWS::StackId}
+        - Key: Name
+          Value: !Sub ${AWS::StackName} - VPC
+
+  InternetGateway:
+    Type: AWS::EC2::InternetGateway
+    Properties:
+      Tags:
+        - Key: StackName
+          Value: !Sub ${AWS::StackName}
+        - Key: StackId
+          Value: !Sub ${AWS::StackId}
+        - Key: Name
+          Value: !Sub ${AWS::StackName} - IGW
+
+  InternetGatewayAttachment:
+    Type: AWS::EC2::VPCGatewayAttachment
+    Properties:
+      InternetGatewayId: !Ref InternetGateway
+      VpcId: !Ref VPC
+
+  PublicSubnet:
+    Type: AWS::EC2::Subnet
+    Properties:
+      VpcId: !Ref VPC
+      AvailabilityZone: !Select [ 1, !GetAZs '' ]
+      CidrBlock: 10.192.10.0/24
+      MapPublicIpOnLaunch: true
+      Tags:
+        - Key: StackName
+          Value: !Sub ${AWS::StackName}
+        - Key: StackId
+          Value: !Sub ${AWS::StackId}
+        - Key: Name
+          Value: !Sub ${AWS::StackName} - Public Subnet
+  
+  PublicRouteTable:
+    Type: AWS::EC2::RouteTable
+    Properties:
+      VpcId: !Ref VPC
+      Tags:
+        - Key: StackName
+          Value: !Sub ${AWS::StackName}
+        - Key: StackId
+          Value: !Sub ${AWS::StackId}
+        - Key: Name
+          Value: !Sub ${AWS::StackName} - Public Routes
+
+  DefaultPublicRoute:
+    Type: AWS::EC2::Route
+    DependsOn: InternetGatewayAttachment
+    Properties:
+      RouteTableId: !Ref PublicRouteTable
+      DestinationCidrBlock: 0.0.0.0/0
+      GatewayId: !Ref InternetGateway
+
+  PublicSubnetRouteTableAssociation:
+    Type: AWS::EC2::SubnetRouteTableAssociation
+    Properties:
+      RouteTableId: !Ref PublicRouteTable
+      SubnetId: !Ref PublicSubnet
+  
+  S3GatewayEndpoint:
+    Type: AWS::EC2::VPCEndpoint
+    Properties:
+      PolicyDocument:
+        Version: 2012-10-17
+        Statement:
+          - Effect: Allow
+            Principal: '*'
+            Action:
+              - 's3:*'
+            Resource:
+              - 'arn:aws:s3:::*'
+      RouteTableIds:
+        - !Ref PublicRouteTable
+      ServiceName: !Sub 'com.amazonaws.${AWS::Region}.s3'
+      VpcId: !Ref VPC
+
+  SecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: Allow inbound DCV
+      VpcId: !Ref VPC
+      SecurityGroupIngress:
+        - Description: NICE DCV (IPv4)
+          IpProtocol: "tcp"
+          FromPort: "8443"
+          ToPort: "8443"
+          CidrIp: !Ref IngressIPv4
+        - Description: NICE DCV QUIC (IPv4)
+          IpProtocol: "udp"
+          FromPort: "8443"
+          ToPort: "8443"
+          CidrIp: !Ref IngressIPv4
+      SecurityGroupEgress:
+        - Description: Allow all outbound traffic (IPv4)
+          IpProtocol: "-1"
+          CidrIp: 0.0.0.0/0          
+        - Description: Allow all outbound traffic (IPv6)
+          IpProtocol: "-1"
+          CidrIpv6: "::/0"     
+      Tags:
+        - Key: StackName
+          Value: !Sub ${AWS::StackName}
+        - Key: StackId
+          Value: !Sub ${AWS::StackId}
+        - Key: Name
+          Value: !Sub "[${AWS::StackName}] - ${EC2Name}"
+
+  S3DataBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
+
+  InstanceIamRole:
+    Type: AWS::IAM::Role
+    Properties: 
+      AssumeRolePolicyDocument: 
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: [ec2.amazonaws.com]
+            Action: ['sts:AssumeRole']
+      Path: /
+      Policies:
+      - PolicyName: dcvLicensing
+        PolicyDocument:
+          Version: '2012-10-17'  
+          Statement:
+          - Effect: Allow
+            Action: 
+              - s3:GetObject
+            Resource: !Sub "arn:${AWS::Partition}:s3:::dcv-license.${AWS::Region}/*"
+      - PolicyName: fullAccessToDataBucket
+        PolicyDocument:
+          Version: '2012-10-17'  
+          Statement:
+          - Effect: Allow
+            Action: 
+              - s3:*
+            Resource:
+              - !GetAtt S3DataBucket.Arn
+              - !Sub '${S3DataBucket.Arn}/*'
+      ManagedPolicyArns:
+        - !Sub "arn:${AWS::Partition}:iam::aws:policy/AmazonSSMManagedInstanceCore"
+        - !Sub "arn:${AWS::Partition}:iam::aws:policy/AmazonS3ReadOnlyAccess"
+      Tags:
+        - Key: StackName
+          Value: !Sub ${AWS::StackName}
+        - Key: StackId
+          Value: !Sub ${AWS::StackId}
+
+  InstanceProfile:
+    Type: AWS::IAM::InstanceProfile
+    Properties: 
+      Path: /
+      Roles: 
+      - !Ref InstanceIamRole
+
+  EC2Instance:
+    Type: AWS::EC2::Instance
+    CreationPolicy: 
+      ResourceSignal:
+        Timeout: PT90M
+    Properties:
+      ImageId: !FindInMap [AMIRegionMap, !Ref "AWS::Region", NICEDCVAMI]
+      InstanceType: !Ref InstanceType
+      IamInstanceProfile: !Ref InstanceProfile
+      SubnetId: !Ref PublicSubnet
+      Monitoring: true
+      SecurityGroupIds:
+        - !Ref SecurityGroup
+      BlockDeviceMappings:
+        - DeviceName: /dev/sda1
+          Ebs:
+            VolumeSize: 100
+            VolumeType: gp3
+            DeleteOnTermination: true
+            Encrypted: true
+      UserData: 
+        Fn::Base64:
+          !Sub |
+            <script>
+            @echo off
+            cfn-init.exe -v --stack ${AWS::StackId} --resource EC2Instance --region ${AWS::Region} --configsets setup
+
+            cd \windows\temp\
+            
+            @echo ** https://docs.aws.amazon.com/systems-manager/latest/userguide/sysman-install-win.html
+            powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://amazon-ssm-${AWS::Region}.s3.${AWS::Region}.amazonaws.com/latest/windows_amd64/AmazonSSMAgentSetup.exe', 'AmazonSSMAgentSetup.exe')"
+            c:\windows\temp\AmazonSSMAgentSetup.exe /S
+
+            @echo ** install Chocolatey windows package manager
+            powershell -comand "Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))"
+            SET "PATH=%PATH%;%PROGRAMDATA%\chocolatey\bin\"
+
+            @echo ** install aws cli
+            choco install awscli -y
+
+            @echo ** install git
+            choco install git.install -y
+
+            @echo ** install python
+            powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe', 'python-3.9.13-amd64.exe')"
+            START /WAIT .\python-3.9.13-amd64.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
+            SET "PATH=%PATH%;%PROGRAMFILES%\Python39\;%PROGRAMFILES%\Python39\Scripts\"
+            
+            @echo ** install firefox
+            powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://ftp.mozilla.org/pub/firefox/releases/108.0.1/win64/en-US/Firefox%%20Setup%%20108.0.1.exe', 'firefox-setup-108.0.1.exe')"
+            .\firefox-setup-108.0.1.exe -ms -ma
+
+            @echo ** download and install the latest nvidia graphics driver
+            echo $Bucket = 'ec2-windows-nvidia-drivers' > download-nvidia-driver.ps1
+            echo $KeyPrefix = 'latest' >> download-nvidia-driver.ps1
+            echo $LocalPath = '.\NVIDIA' >> download-nvidia-driver.ps1
+            echo $Objects = Get-S3Object -BucketName $Bucket -KeyPrefix $KeyPrefix -Region us-east-1 >> download-nvidia-driver.ps1
+            echo foreach ($Object in $Objects) { >> download-nvidia-driver.ps1
+            echo     $LocalFileName = $Object.Key >> download-nvidia-driver.ps1
+            echo     if ($LocalFileName -ne '' -and $LocalFileName -like '*server2019*' -and $Object.Size -ne 0) { >> download-nvidia-driver.ps1
+            echo         $LocalFilePath = Join-Path $LocalPath 'nvidia-latest-driver.exe' >> download-nvidia-driver.ps1
+            echo         Copy-S3Object -BucketName $Bucket -Key $Object.Key -LocalFile $LocalFilePath -Region us-east-1 >> download-nvidia-driver.ps1
+            echo     } >> download-nvidia-driver.ps1
+            echo } >> download-nvidia-driver.ps1
+            powershell -file download-nvidia-driver.ps1
+            START /WAIT .\NVIDIA\nvidia-latest-driver.exe -s -n
+
+            @echo ** install MONAI label
+            python -m pip install --upgrade pip setuptools wheel
+            python -m pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+            python -m pip install monailabel
+            mkdir C:\monai-label
+            cd C:\monai-label
+            powershell -command "$shortcut=(New-Object -ComObject WScript.Shell).CreateShortcut('C:\Users\Administrator\Desktop\monai-label.lnk');$shortcut.TargetPath='C:\monai-label\';$shortcut.Save()"
+
+            @echo ** install TotalSegmentator
+            python -m pip install TotalSegmentator
+
+            @echo ** install lungmask
+            python -m pip install lungmask
+
+            @echo ** download 3D Slicer
+            mkdir C:\slicer
+            cd C:\slicer
+            powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://slicer-packages.kitware.com/api/v1/item/637f7a7f517443dc5dc73276/download', 'slicer-setup.exe')"
+            powershell -command "$shortcut=(New-Object -ComObject WScript.Shell).CreateShortcut('C:\Users\Administrator\Desktop\slicer.lnk');$shortcut.TargetPath='C:\slicer\';$shortcut.Save()"
+            
+            cfn-signal.exe -e %errorlevel% --stack ${AWS::StackId} --resource EC2Instance --region ${AWS::Region}
+            shutdown -r
+            </script>       
+      Tags:
+        - Key: Name
+          Value: !Ref EC2Name
+        - Key: StackName
+          Value: !Sub ${AWS::StackName}
+        - Key: StackId
+          Value: !Sub ${AWS::StackId}
+        - Key: GitHub
+          Value: https://github.com/aws-samples/amazon-ec2-nice-dcv-samples
+
+  ElasticIP:
+    Type: AWS::EC2::EIP
+    Properties:
+      InstanceId: !Ref EC2Instance
+      Tags:
+        - Key: StackName
+          Value: !Sub ${AWS::StackName}
+        - Key: StackId
+          Value: !Sub ${AWS::StackId}
+
+Outputs:
+  InstanceID:
+    Description: EC2 Instance ID
+    Value: !Ref EC2Instance
+ 
+  PublicIP:
+    Description: EC2 Public IP
+    Value: !GetAtt EC2Instance.PublicIp
+
+  SSMsessionManager:
+    Description: SSM Session Manager login ("net user administrator MyStr@ngAdminPassw0rd" to change administrator password)
+    Value: !Sub "https://${AWS::Region}.console.aws.amazon.com/systems-manager/session-manager/${EC2Instance}"
+
+  DCVwebConsole:
+    Description: DCV web console (login as administrator)
+    Value: !Sub "https://${EC2Instance.PublicIp}:8443"
+
+  DCVdownload:
+    Description: DCV client download
+    Value: https://download.nice-dcv.com
+
+  S3DataBucket:
+    Description: S3 bucket for storing data
+    Value: !Ref S3DataBucket
