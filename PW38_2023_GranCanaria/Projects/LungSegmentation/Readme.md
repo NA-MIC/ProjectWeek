@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Steve Pieper (Isomics)
 - Eserval Rocha jr. (University of Sao Paulo Medical School)
 - Andras Lasso (Perk Labs)
-- Andrey Fedoroc (Surgical Planning Lab)
+- Andrey Fedorov (Surgical Planning Lab)
 - Deepa Krishnaswamy (Surgical Planning Lab)
 
 # Project Description
