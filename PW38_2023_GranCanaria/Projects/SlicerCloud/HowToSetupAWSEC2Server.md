@@ -13,6 +13,20 @@ Go to login page
 
 ![](https://user-images.githubusercontent.com/18140094/210726738-883715be-d8c0-4432-b78b-ef2ac8a5da35.png)
 
+# Things to consider
+
+We will be running on a Windows EC2 instance. 
+
+Small instances without GPU support can be created and run nearly free of charge on AWS. 
+
+At least EC2 "g" instance types (with GPU support) will be needed to work with 3D Slicer and deep learning tools on that machines. 
+
+[Amazon Deep Learning GPU Guide](https://docs.aws.amazon.com/dlami/latest/devguide/gpu.html) 
+
+You may be running into "limit"  errors when you create and run your EC2 instance with GPU, because your Amazon account may need to get enabled to use GPU first. 
+
+The approximate cost for an EC2 instance with NVIDIA A10G support is around 1-2 $ per hour. 
+
 # Step 1. Deploy the CloudFormation template
 
 The CloudFormation template will automatically perform installation tasks when you create the EC2 instance. 
