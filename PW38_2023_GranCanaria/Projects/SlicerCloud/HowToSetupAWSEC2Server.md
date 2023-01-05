@@ -27,14 +27,14 @@ In the search bar, type cloudformation, and select CloudFormation service
 
 ![](https://user-images.githubusercontent.com/18140094/210726731-9c9641a9-1f06-46b0-a59b-ffb2e98103f4.png)
 
-*   Select Upload a template file, and then select the WIndowsServer2019-NICE-DCV.yaml file that is on your computer.
+*   Select Upload a template file, and then select the WIndowsServer2019-NICE-DCV.yaml file that is on this Github.
 *   Click Next.
 
 ![](https://user-images.githubusercontent.com/18140094/210726733-c02aacd7-460a-43da-bb5d-7fb10e2972b7.png)
 
 *   Enter a few parameters for the stack
 *   Enter a name for this stack you are deploying, e.g. MONAI-Stack
-*   Select instance type you’d like to use, e.g. g5.xlarge
+*   Select the instance type you’d like to use, e.g. g5.xlarge
 *   You can enter a name for the EC2 instance, or leave the default value
 *   Set the IP address of the machine that you will use to connect to the EC2 instance. To find out your IP address, you can visit [https://checkip.amazonaws.com](https://checkip.amazonaws.com) if your IP address is 1.2.3.4, please enter 1.2.3.4/32 as the parameter
 
@@ -42,7 +42,7 @@ The screen should look similar to this:
 
 ![](https://user-images.githubusercontent.com/18140094/210726735-c46427e8-8411-4af7-b4ce-54b433605052.png)
 
-*   click Next
+*   Click Next
 *   Accept default settings and click Next
 *   On the summary page, check I acknowledge that AWS CloudFormation might create IAM resources., and click
 *   Submit
@@ -61,7 +61,7 @@ The screen should look similar to this:
 
 ![](https://user-images.githubusercontent.com/18140094/210726736-6c4a83b2-2580-4b4f-86e7-b4ead4f46082.png)
 
-*   In NICE DCV login screen, enter administrator as the Username, and the previously set password as Password
+*   In the NICE DCV login screen, enter administrator as the Username, and the previously set password as Password
 *   You should be able to log into the Windows EC2 instance
 
 # Step 3. Delete the environment
