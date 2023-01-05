@@ -1,4 +1,4 @@
-# Easily setup AWS EC2 Windows instances to use MONAILabel, deep learning tools, and 3D Slicer
+# How-to setup AWS EC2 Windows instances to use MONAILabel, deep learning tools, and 3D Slicer
 
 *   Rudolf Bumm (KSGR)
 *   Qing Liu (AWS)
@@ -21,7 +21,7 @@ Go to login page
 *   Share your 3D Slicer results from that server via the S3 bucket or your own 3dviewer.net instance 
 *   Up- or downscale your machine according to the required GPU power
 *   Access your EC2 machine with low-cost hardware, even tablets
-*   Switch off (pause), finally delete the instance if you do not need it and only pay for what you use
+*   Switch off (pause), and finally, delete the instance if you do not need it and only pay for what you use
 
 # Things to consider
 
@@ -39,18 +39,18 @@ The approximate cost of an EC2 instance with NVIDIA A10G support is around 1-2 $
 
 # Step 1. Deploy the CloudFormation template
 
-The CloudFormation template will automatically perform installation tasks when you create the EC2 instance. 
+The CloudFormation template will automatically perform the following tasks when you create the EC2 instance:
 
 *   Install the latest NVIDIA drivers
 *   Install git
 *   Install MONAILabel
 *   Install TotalSegmentator
 *   Install lungmask
-*   Download 3D Slicer stable installer
+*   Download the 3D Slicer stable installer
 *   Install Firefox
 *   Install and connect an S3 bucket
 
-Log into AWS console, select the region you’d like to use
+Log into the AWS console, select the region you’d like to use
 
 ![](https://user-images.githubusercontent.com/18140094/210726739-a1f70591-3ceb-49db-b12b-4ea0c819a7f6.png)
 
@@ -58,7 +58,7 @@ In the search bar, type cloudformation, and select CloudFormation service
 
 ![](https://user-images.githubusercontent.com/18140094/210726732-c54e062b-3178-4dfc-84a1-c4b38d42a6aa.png)
 
-*   In CloudFormation console, click Create stack
+*   In the CloudFormation console, click Create stack
 
 ![](https://user-images.githubusercontent.com/18140094/210726731-9c9641a9-1f06-46b0-a59b-ffb2e98103f4.png)
 
