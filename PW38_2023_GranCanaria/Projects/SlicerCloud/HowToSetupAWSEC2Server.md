@@ -1,4 +1,4 @@
-# Easily setup an AWS EC2 Windows instance to use MONAI label, deep learning tools, and 3D Slicer
+# Easily setup AWS EC2 Windows instances to use MONAI label, deep learning tools, and 3D Slicer
 
 *   Rudolf Bumm (KSGR)
 *   Qing Liu (AWS)
