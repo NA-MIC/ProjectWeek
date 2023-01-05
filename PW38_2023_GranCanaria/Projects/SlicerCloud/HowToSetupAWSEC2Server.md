@@ -15,6 +15,15 @@ Go to login page
 
 # Step 1. Deploy the CloudFormation template
 
+The CloudFormation template will automatically perform installation tasks when you create the EC2 instance. 
+
+*   Install the latest NVIDIA drivers
+*   Install git
+*   Install MONAILabel
+*   Install 3D Slicer
+*   Install Firefox
+*   Install and connect an S3 bucket
+
 Log into AWS console, select the region you’d like to use
 
 ![](https://user-images.githubusercontent.com/18140094/210726739-a1f70591-3ceb-49db-b12b-4ea0c819a7f6.png)
