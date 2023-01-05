@@ -44,7 +44,9 @@ The CloudFormation template will automatically perform installation tasks when y
 *   Install the latest NVIDIA drivers
 *   Install git
 *   Install MONAILabel
-*   Install 3D Slicer
+*   Install TotalSegmentator
+*   Install lungmask
+*   Download 3D Slicer stable installer
 *   Install Firefox
 *   Install and connect an S3 bucket
 
