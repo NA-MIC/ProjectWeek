@@ -13,6 +13,16 @@ Go to login page
 
 ![](https://user-images.githubusercontent.com/18140094/210726738-883715be-d8c0-4432-b78b-ef2ac8a5da35.png)
 
+# Benefits
+
+*   Setup a powerful 3D Slicer instance in the AWS Cloud
+*   Have different servers for each of your projects
+*   Coworkers could remotely log onto that server
+*   Share your 3D Slicer results from that server via the S3 bucket or your own 3dviewer.net instance 
+*   Up- or downscale your machine according to the required GPU power
+*   Access your EC2 machine with low-cost hardware, even tablets
+*   Switch off (pause) the instance if you do not need it and only pay for what you use
+
 # Things to consider
 
 We will be running on a Windows EC2 instance. 
