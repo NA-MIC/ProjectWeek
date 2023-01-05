@@ -17,11 +17,11 @@ Go to login page
 
 We will be running on a Windows EC2 instance. 
 
-Small instances without GPU support can be created and run nearly free of charge on AWS. 
+Small EC2 Windows instances without GPU support can be created and run nearly free of charge on AWS. You could use an instance type "t2.small". 
 
-At least EC2 "g" instance types (with GPU support) will be needed to work with 3D Slicer and deep learning tools on that machines. 
+At least EC2 "g" instance types (with GPU support) will be needed to work with 3D Slicer and deep learning tools on that machines. All our testing has been on a "g5.xlarge" instance. 
 
-[Amazon Deep Learning GPU Guide](https://docs.aws.amazon.com/dlami/latest/devguide/gpu.html) 
+[Amazon Deep Learning GPU Guide](https://docs.aws.amazon.com/dlami/latest/devguide/gpu.html)
 
 You may be running into "limit"  errors when you create and run your EC2 instance with GPU, because your Amazon account may need to get enabled to use GPU first. 
 
