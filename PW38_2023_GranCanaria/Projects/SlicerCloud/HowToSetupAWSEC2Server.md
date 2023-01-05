@@ -1,9 +1,9 @@
 # Setup an AWS EC2 instance to use MONAI label, deep learning tools and 3D Slicer
 
 *   Rudolf Bumm (KSGR)
+*   Qing Liu (AWS)
 *   Steve Pieper (Isomics)
 *   Gang Fu (AWS)
-*   Qing Liu (AWS)
 
 Go to the Amazon Console
 
