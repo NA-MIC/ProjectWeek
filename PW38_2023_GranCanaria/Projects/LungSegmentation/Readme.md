@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# 3d Slicer Lung CT Segmentation
+# 3D Slicer Lung CT Segmentation
 
 ## Key Investigators
 
@@ -10,6 +10,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Steve Pieper (Isomics)
 - Eserval Rocha jr. (University of Sao Paulo Medical School)
 - Andras Lasso (Perk Labs)
+- Andrey Fedoroc (Sorgical Planning Lab)
+- Deepa 
 
 # Project Description
 
