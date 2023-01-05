@@ -101,6 +101,8 @@ The screen should look similar to this:
 *   In the NICE DCV login screen, enter administrator as the Username, and the previously set password as Password
 *   You should be able to log into the Windows EC2 instance
 
+![](https://user-images.githubusercontent.com/18140094/210756064-f6ff0e14-b325-48c5-b4b7-a55cd33e6281.png)
+
 # Step 3. Delete the environment
 
 *   When the environment is no longer needed, you can delete all deployed resources.
