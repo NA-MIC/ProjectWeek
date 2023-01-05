@@ -103,7 +103,13 @@ The screen should look similar to this:
 
 ![](https://user-images.githubusercontent.com/18140094/210756064-f6ff0e14-b325-48c5-b4b7-a55cd33e6281.png)
 
+Speedtest.net:
+
 ![](https://user-images.githubusercontent.com/18140094/210758504-4605146a-a51d-4aa6-8a73-acc33079eb58.png)
+
+Steam EZBench: 
+
+![](https://user-images.githubusercontent.com/18140094/210760154-e3b3dec3-fe44-42b9-8960-a7b753221e19.png)
 
 # Step 3. Delete the environment
 
