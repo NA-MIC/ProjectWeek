@@ -139,7 +139,7 @@ Resources:
       VpcId: !Ref VPC
       AvailabilityZone: !Select [ 1, !GetAZs '' ]
       CidrBlock: 10.192.10.0/24
-      MapPublicIpOnLaunch: true
+      MapPublicIpOnLaunch: True
       Tags:
         - Key: StackName
           Value: !Sub ${AWS::StackName}
@@ -260,7 +260,9 @@ Resources:
           Statement:
           - Effect: Allow
             Action: 
-              - s3:*
+              - s3:ListBucket
+              - s3:GetObject
+              - s3:PutObject
             Resource:
               - !GetAtt S3DataBucket.Arn
               - !Sub '${S3DataBucket.Arn}/*'
@@ -324,13 +326,11 @@ Resources:
             choco install git.install -y
 
             @echo ** install python
-            powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe', 'python-3.9.13-amd64.exe')"
-            START /WAIT .\python-3.9.13-amd64.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
-            SET "PATH=%PATH%;%PROGRAMFILES%\Python39\;%PROGRAMFILES%\Python39\Scripts\"
+            choco install python39 -y
+            call RefreshEnv.cmd
             
             @echo ** install firefox
-            powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://ftp.mozilla.org/pub/firefox/releases/108.0.1/win64/en-US/Firefox%%20Setup%%20108.0.1.exe', 'firefox-setup-108.0.1.exe')"
-            .\firefox-setup-108.0.1.exe -ms -ma
+            choco install firefox -y
 
             @echo ** download and install the latest nvidia graphics driver
             echo $Bucket = 'ec2-windows-nvidia-drivers' > download-nvidia-driver.ps1
@@ -349,10 +349,9 @@ Resources:
 
             @echo ** install MONAI label
             python -m pip install --upgrade pip setuptools wheel
-            python -m pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+            python -m pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
             python -m pip install monailabel
             mkdir C:\monai-label
-            cd C:\monai-label
             powershell -command "$shortcut=(New-Object -ComObject WScript.Shell).CreateShortcut('C:\Users\Administrator\Desktop\monai-label.lnk');$shortcut.TargetPath='C:\monai-label\';$shortcut.Save()"
 
             @echo ** install TotalSegmentator
