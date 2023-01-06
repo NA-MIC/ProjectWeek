@@ -59,7 +59,7 @@ In the search bar, type cloudformation, and select CloudFormation service
 
 ![](https://user-images.githubusercontent.com/18140094/210726731-9c9641a9-1f06-46b0-a59b-ffb2e98103f4.png)
 
-*   Select Upload a template file, and then download the \[WIndowsServer2019-NICE-DCV.yaml\](./**WindowsServer2019-NICE-DCV.yaml**) file.
+*   Download the \[WIndowsServer2019-NICE-DCV.yaml\](./WindowsServer2019-NICE-DCV.yaml) file.
 *   "Upload it as a template file". 
 *   Click Next.
 
