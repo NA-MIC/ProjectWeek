@@ -22,7 +22,7 @@ and go to login page
 
 # Things to consider
 
-We will be running on a Windows EC2 instance. 
+We will be running a Windows EC2 instance. 
 
 Small EC2 Windows instances without GPU support can be created and run nearly free of charge on AWS. You could use an instance type "t2.small". 
 
