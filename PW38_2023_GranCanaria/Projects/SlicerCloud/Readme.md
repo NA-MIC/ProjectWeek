@@ -18,7 +18,7 @@ How-to setup and run 3D Slicer on an AWS cloud server
 
 We want to set up a 3D Slicer AWS cloud instance that can be seamlessly scaled concerning hardware requirements. 
 
-[All necessary steps are documented](./Projects/SlicerCloud/HowToSetupAWSEC2Server.md).  
+[All necessary steps are documented](./HowToSetupAWSEC2Server.md).  
 
 On that server, a 3dviewer.net server instance will be installed so thyt Slicer results could be distributed between working groups.
 Up- and downscaling as well as running costs will be shown. 
