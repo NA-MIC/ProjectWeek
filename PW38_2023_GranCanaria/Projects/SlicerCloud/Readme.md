@@ -22,7 +22,7 @@ We want to set up a 3D Slicer AWS cloud instance that can be seamlessly scaled c
 
 We plan to install a 3dviewer.net server instance as a demo how Slicer results could be shared between working groups.
 Up- and downscaling as well as running costs will be shown.
-We will test how EC2 instances can be accessed from low-cost hardware such as a Raspberry 4.  
+We will test how EC2 instances can be accessed from low-cost and energy saving hardware such as a Raspberry 4.  
 
 
 ## Approach and Plan
