@@ -190,6 +190,19 @@ List of registered participants so far (names will be added here after processin
 1. Sara Fernandez Vidal, France, (In-person)
 1. Sara Fernandez Vidal, France, (In-person)
 1. Zora Kikinis, USA, (In-person)
+1. Fidèle AGOSSOU, bénin, (Online)
+1. Jeremiah Richard, UK, (Online)
+1. Deepa Krishnaswamy, USA, (In-person)
+1. Hans Meine, Germany, (In-person)
+1. MARTA LATORRE MIGUEZ, Spain, (In-person)
+1. Attila Tanács, Hungary, (In-person)
+1. Pablo Sergio Castellano Rodríguez, Spain, (In-person)
+1. Andrea Mihaly, Spain, (In-person)
+1. María Rosa Rodríguez Luque, Spain, (In-person)
+1. Jose Carlos Mateo Pérez, Spain, (In-person)
+1. Nikolaos Makris, USA, (In-person)
+1. Aday Melián Carrillo, Spain, (In-person)
+1. Marta Kersten, Canada, (In-person)
 
 <!-- Participants list end -->
 
