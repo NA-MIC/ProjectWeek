@@ -11,12 +11,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 The YEB Atlas is a Basal Ganglia atlas used in routine clinical practice at the Pitié Salpêtrière Hospital in DBS-related procedures, both preoperatively (planning/targeting) and postoperatively.  
-It is also widely used in multicenter research studies. We cannot share the atlas as a fully open free atlas because it is bound to Medtronic by a strict license agreement.  That's why in 2021, we set up a web service for the YEB atlas that allows to get deformed atlas regions on the uploaded anatomical MRI in NIFTI format (https://yeb-cenir.icm-institute.org/)
-Currently we are setting up a REST API on the same server.<\br>
+It is also widely used in multicenter research studies. We cannot share the atlas as a fully open free atlas because it is bound to Medtronic by a strict license agreement.  That's why in 2021, we set up a web service for the YEB atlas that allows to get deformed atlas regions on the uploaded anatomical MRI in NIFTI format (https://yeb-cenir.icm-institute.org/).
+
+Currently we are setting up a REST API on the same server.
 The main idea is that this new extension will connect with the API to get a set of regions (we will give some choices) of the atlas in a anatomical brain MRI. 
 One of the advantages using 3D Slicer is that the user will be using other formats than nifti that is actually the only allowed on the web server platform. 
-A second advantage is to use the segmentation module of 3D Slicer.<\br>
-Another utility should be to launch the process for a group of subjects.<\br>
+A second advantage is to use the segmentation module of 3D Slicer.
+Another utility should be to launch the process for a group of subjects.
 This extension will also be used in a new module dedicated to assist the DBS targeting stage.
 
 ## Objective
