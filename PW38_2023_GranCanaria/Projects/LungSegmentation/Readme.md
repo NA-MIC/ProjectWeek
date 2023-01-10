@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# 3d Slicer Lung CT Segmentation
+# 3D Slicer Lung CT Segmentation
 
 ## Key Investigators
 
@@ -18,10 +18,15 @@ This is a follow up to previous 3D Slicer lung CT segmentation PW projects.
 ## Objective
 
 Improve vessel segmentation
+
 Establish emphysema and COPD analysis
+
 Develop concept for lung segment detection in CT
+
 Fine tune the surgical planning workflow 
+
 Work on grant
+
 
 ## Approach and Plan
 

@@ -9,7 +9,7 @@
   * 40 rooms are being held for us at the rate of 108€ (single) and 135€ (double) until the end of November 
 * Please [register](https://forms.gle/sh9jGJLJdBm4us3E7) as early as possible, indicating whether you plan on participating in person. It will greatly help the organizing committee to estimate the number of participants we need to accommodate in Las Palmas. Registration fees for in-person attendees will be determined and collected later using a separate form by the local organizing team.
 * **For those attending virtually**: there will be no registration fee, and zoom/discord links will be provided during preparation meetings.
-* **For those attending in person**: a registration fee of 400 Euros will be charged to cover for the workshop venue, lunch and coffee breaks. Use [this form](https://www.fulp.es/inscripcion-namic) to register your payment. Please do so as early as possible to help us plan food quantities.
+* **For those attending in person**: a registration fee of 400 Euros will be charged to cover for the workshop venue, lunch and coffee breaks. Use [this form](https://www.fulp.es/inscripcion-namic) to register your payment. Please do so by Tuesday, Jan 17th 2023, as we need to estimate the number of participants to finalize the booking of the room.
 
 If you have any questions, you can contact the [organizers](#organizers).
 
@@ -57,20 +57,29 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 [How to add this calendar to your own?](../common/Calendar.md)
 
+## Breackout sessions
+[Panel: clinical uses of 3D Slicer](Projects/ClinicalPanel-BreakoutSession.md) (Rudolf Bumm)
+
 ## Projects [(How to add a new project?)](Projects/Readme.md)
 Categories based on project list of PW37, will be updated as we populate the list of projects.
+
+[MHub Integration](Projects/MHub_Integration/README.md)
 
 ### VR/AR and Rendering
 
 ### IGT and Low cost
 
 ### Segmentation/Classification
-[Lung CT Segmentation and Analysis](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/LungSegmentation#readme)
+[Lung CT Segmentation and Analysis](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/LungSegmentation#readme)
 
 ### Quantification
 
 ### Cloud and Infrastructure
-[How-to setup and run 3D Slicer on an AWS server instance step by step](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/SlicerCloud#readme) 
+[How-to setup and run 3D Slicer on an AWS server instance step by step](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/#readme) 
+
+[ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md)
+
+[SlicerPipelines](Projects/SlicerPipelines/README.md)
 
 ## Registrants
 
@@ -183,6 +192,23 @@ List of registered participants so far (names will be added here after processin
 1. Connor Bowley, USA, (In-person)
 1. Rafe McBeth, USA, (Undecided)
 1. Linmin Pei, USA, (Online)
+1. William Wells, USA, (In-person)
+1. Sara Fernandez Vidal, France, (In-person)
+1. Sara Fernandez Vidal, France, (In-person)
+1. Zora Kikinis, USA, (In-person)
+1. Fidèle AGOSSOU, bénin, (Online)
+1. Jeremiah Richard, UK, (Online)
+1. Deepa Krishnaswamy, USA, (In-person)
+1. Hans Meine, Germany, (In-person)
+1. MARTA LATORRE MIGUEZ, Spain, (In-person)
+1. Attila Tanács, Hungary, (In-person)
+1. Pablo Sergio Castellano Rodríguez, Spain, (In-person)
+1. Andrea Mihaly, Spain, (In-person)
+1. María Rosa Rodríguez Luque, Spain, (In-person)
+1. Jose Carlos Mateo Pérez, Spain, (In-person)
+1. Nikolaos Makris, USA, (In-person)
+1. Aday Melián Carrillo, Spain, (In-person)
+1. Marta Kersten, Canada, (In-person)
 
 <!-- Participants list end -->
 
