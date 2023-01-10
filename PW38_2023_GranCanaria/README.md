@@ -63,8 +63,6 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ## Projects [(How to add a new project?)](Projects/Readme.md)
 Categories based on project list of PW37, will be updated as we populate the list of projects.
 
-[MHub Integration](Projects/MHub_Integration/README.md)
-
 ### VR/AR and Rendering
 
 ### IGT and Low cost
@@ -80,6 +78,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md)
 
 [SlicerPipelines](Projects/SlicerPipelines/README.md)
+
+[MHub Integration](Projects/MHub_Integration/README.md)
 
 ## Registrants
 
@@ -151,7 +151,6 @@ List of registered participants so far (names will be added here after processin
 1. Gerry Gralton, Australia, (In-person)
 1. Natalia Arteaga-Marrero, Spain, (In-person)
 1. Davide Punzo, France, (In-person)
-1. Deepa Krishnaswamy, USA, (Online)
 1. Vamsi Krishna Thiriveedhi, USA, (Online)
 1. Lucia Cevidanes, USA, (Online)
 1. Luc Anchling, USA, (Online)
@@ -174,7 +173,7 @@ List of registered participants so far (names will be added here after processin
 1. Ole Vegard Solberg, Norway, (In-person)
 1. Santhosh Parampottupadam, Germany, (In-person)
 1. Brianna Burton, Belgium, (Undecided)
-1. Cosmin Ciausu, USA, (Online)
+1. Cosmin Ciausu, USA, (In-person)
 1. Charles DeLorey, USA, (Online)
 1. Marco Nolden, Germany, (In-person)
 1. Fernandez Vidal, France, (In-person)
