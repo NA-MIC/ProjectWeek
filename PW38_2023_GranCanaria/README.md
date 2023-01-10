@@ -75,6 +75,10 @@ Categories based on project list of PW37, will be updated as we populate the lis
 ### Cloud and Infrastructure
 [How-to setup and run 3D Slicer on an AWS server instance step by step](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/#readme) 
 
+[ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md)
+
+[SlicerPipelines](Projects/SlicerPipelines/README.md)
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7)
