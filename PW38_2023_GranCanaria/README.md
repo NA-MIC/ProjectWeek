@@ -81,6 +81,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [MHub Integration](Projects/MHub_Integration/README.md)
 
+[Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md)
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7)
