@@ -1,6 +1,6 @@
 # MONAI Label Workshop / Tutorial
 
-Workshop will be held: **January 25, 2022 9-11am EDT**
+Workshop will be held: **January 25, 2022 9-11am EST**
 
 Space will be limited so **sign up by January 22th 2023**
 
