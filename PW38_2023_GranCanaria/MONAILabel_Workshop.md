@@ -49,7 +49,5 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
 * Please use the same email for discord that you used to sign up for the workshop and also please use your first and last names and organization in your discord name.
 * The workshop will be recorded and made available.
 
-* The workshop will be recorded and a link will be circulated
-
 *Big thanks in advance to the AWS, NVIDIA and Slicer teams for providing this activity!*
 
