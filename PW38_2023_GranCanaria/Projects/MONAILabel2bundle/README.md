@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Parameter Node Wrapper
+# Conversion of MONAI Label trained network into a MONAI bundle
 
 ## Key Investigators
 
