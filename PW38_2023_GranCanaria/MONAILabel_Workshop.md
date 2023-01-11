@@ -32,7 +32,7 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
 * 3D Slicer and MONAI on AWS (5 minutes, Rudolf Bumm / Steve Pieper)
 * What clinical/research applications developing with MONAI Label and what's the general status of them (10 minutes each)
   * Lungs: Rudolf Bumm 
-  * Stroke: Ken Butcher and stroke
+  * Stroke: Ken Butcher
   * Cancer spines: Ron Alkalay
 * Deeper dive into the spine application example use case (15 minutes Andres Diaz-Pinto)
   * data format and preparation
