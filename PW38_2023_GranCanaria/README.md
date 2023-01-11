@@ -85,6 +85,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](MONAI_IDC_PCa_detection/README.md)
 
+[Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md)
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7)
@@ -170,7 +172,7 @@ List of registered participants so far (names will be added here after processin
 1. Geir Arne Tangen, Norway, (In-person)
 1. Yaying Shi, USA, (Online)
 1. Haythem Guermazi, Mauritania, (In-person)
-1. Étienne Léger, Canada, (Undecided)
+1. Étienne Léger, Canada, (In-person, Confirmed)
 1. Theodore Aptekarev, Montenegro, (In-person, Confirmed)
 1. Gang Fu, USA, (Online)
 1. Roya Khajavibajestani, USA, (Undecided)
@@ -199,7 +201,7 @@ List of registered participants so far (names will be added here after processin
 1. Sara Fernandez Vidal, France, (In-person)
 1. Sara Fernandez Vidal, France, (In-person)
 1. Zora Kikinis, USA, (In-person, Confirmed)
-1. Fidèle AGOSSOU, Benin, (Online)
+1. Fidèle AGOSSOU, benin, (Online)
 1. Jeremiah Richard, UK, (Online)
 1. Deepa Krishnaswamy, USA, (In-person)
 1. Hans Meine, Germany, (In-person)
@@ -222,6 +224,13 @@ List of registered participants so far (names will be added here after processin
 1. Ünal Akünal, Germany, (In-person)
 1. Benjamin Hamm, Germany, (In-person)
 1. Klaus Kades, Germany, (Undecided)
+1. Umang Pandey, Spain, (In-person)
+1. Yogesh Rathi, USA, (In-person)
+1. Trinity Urban, USA, (Online)
+1. Francisco J. Marcano Serrano, Spain, (In-person)
+1. Philipp Schader, Germany, (In-person)
+1. Ralf Floca, Germany, (Online)
+1. Carlo Rondinoni, Brazil, (Online)
 
 <!-- Participants list end -->
 
