@@ -47,7 +47,7 @@ In this project we want to explore the process of converting MONAI Label trained
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Identified MONAI Label network location; discussed the project with Stephen, identified relevant expertise on MONAI side; planning to have coordination meeting with Roya.
-1. ...
+1. Identified from Andres an example of a [MONAI Label app](https://github.com/Project-MONAI/MONAILabel/blob/main/sample-apps/radiology/lib/configs/deepedit.py) and the corresponding [MONAI bundle equivalent](https://github.com/Project-MONAI/model-zoo/tree/dev/models/spleen_deepedit_annotation/configs)
 1. ...
 
 # Illustrations
@@ -59,5 +59,7 @@ In this project we want to explore the process of converting MONAI Label trained
 
 # Background and References
 
-- [NCI Imaging Data Commons](ttps://portal.imaging.datacommons.cancer.gov/)
+- [NCI Imaging Data Commons](https://portal.imaging.datacommons.cancer.gov/)
 - [MONAI bundle docs](https://github.com/Project-MONAI/tutorials/blob/main/bundle/get_started.md)
+- [MONAI Label app for vertebrae segmentation](https://github.com/Project-MONAI/MONAILabel/blob/fullCTSegmentation/sample-apps/radiology/lib/configs/segmentation_full_CT.py)
+- [MONAI Label app for whole body segmentation](https://github.com/Project-MONAI/MONAILabel/blob/fullCTSegmentation/sample-apps/radiology/lib/configs/segmentation_full_CT.py)
