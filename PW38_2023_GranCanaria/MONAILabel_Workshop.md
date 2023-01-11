@@ -17,7 +17,7 @@ Instances will be allocated in the US an EU based on the location of the partici
 
 Please refer to the information and watch the videos of the previous workshops. The current workshop will serve as a refresher and update of the previous ones.
 * [January 12, 2022](https://discourse.slicer.org/t/monailabel-3d-slicer-for-cloud-computing-workshop-jan-12-2022-2-4-est/21152) ([video](https://youtu.be/PmD8umlcpF4))
-* [June 22, 2022](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/MONAILabel_Workshop.md): https://www.youtube.com/watch?v=wtiEe_jiUzg
+* [June 22, 2022](https://github.com/NA-MIC/ProjectWeek/blob/master/PW37_2022_Virtual/MONAILabel_Workshop.md) ([video](https://www.youtube.com/watch?v=wtiEe_jiUzg))
 
 MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362).
 
@@ -29,7 +29,7 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
   * Intro for first time attendees / refresher for return attendees
   * What's new in MONAI / MONAI Label since the last workshops?
   * What's the overall architecture for MONAI model from training to deployment (e.g. considerations for someone doing project planning)
-* 3D Slicer and MONAI on AWS (5 minutes, Rudolf Bumm)
+* 3D Slicer and MONAI on AWS (5 minutes, Rudolf Bumm / Steve Pieper)
 * What clinical/research applications developing with MONAI Label and what's the general status of them (10 minutes each)
   * Lungs: Rudolf Bumm 
   * Stroke: Ken Butcher and stroke
@@ -40,6 +40,7 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
   * what decisions need to be made
   * how to organize the training, etc.
 * Hands-on session with a toy problem, like the table removal segmentation or similar (40 minutes)
+* Q&A, discussion
 
 ## Event logistics
 
