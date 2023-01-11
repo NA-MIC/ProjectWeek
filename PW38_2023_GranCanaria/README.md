@@ -70,6 +70,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 ### Segmentation/Classification
 [Lung CT Segmentation and Analysis](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/LungSegmentation#readme)
 
+[MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md)
+
 ### Quantification
 
 ### Cloud and Infrastructure
@@ -80,6 +82,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 [SlicerPipelines](Projects/SlicerPipelines/README.md)
 
 [MHub Integration](Projects/MHub_Integration/README.md)
+
+[HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](MONAI_IDC_PCa_detection/README.md)
 
 [Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md)
 
