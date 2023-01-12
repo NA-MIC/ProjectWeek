@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Andrey Fedorov (Brigham and Women’s Hospital, USA)
 - Marco Nolden (German Cancer Research Center, Germany)
+- Hans Meine (Fraunhofer MEVIS, Germany)
 
 # Project Description
 
@@ -41,12 +42,15 @@ In this project current, perspective and aspiring users of Kaapana will have the
 
 **Running Kaapana on Google Kubernetes Engine** : while using GCP, we've been following an extremely naive and inefficient approach for deploying Kaapana. We allocate a fixed linux VM, and install it as if we are on a on-prem server. As I understand it, to fully leverage the power of k8s, it would make a lot more sense to use Google Kubernetes engine. My knowledge of k8s and microk8s is very close to 0, so maybe this is something that is highly trivial. Maybe we could experiment with this together. We can even set up a shared GCP projects where I can add you, so you can experiment directly.
 
+**DICOM Dashboard Setup** : having a dashboard summarizing a data collection in a meaningful way is a recurring theme also outside of kaapana. We would like to investigate to which degree the requirements coming with common use cases (such as AI annotation, cohort definition, AI model training, automatic quality assurance) are already met and if they're not, how extensible the existing dashboard is. Furthermore, it would be interesting to assess whether such a dashboard can be shared with other projects (IDC, Grand-Challenge), and whether that really makes sense in practice.
+
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Andrey is working on setting up Kaapana on the linux laptop he plans to bring along.
 1. Andrey is setting up a GCP project to share with the Kaapana developers for experimentation.
+2. Hans has access to some(?) kaapana installation at MEVIS (from the RACOON project).
 
 # Illustrations
 
