@@ -44,6 +44,8 @@ In this project current, perspective and aspiring users of Kaapana will have the
 
 **DICOM Dashboard Setup** : having a dashboard summarizing a data collection in a meaningful way is a recurring theme also outside of kaapana. We would like to investigate to which degree the requirements coming with common use cases (such as AI annotation, cohort definition, AI model training, automatic quality assurance) are already met and if they're not, how extensible the existing dashboard is. Furthermore, it would be interesting to assess whether such a dashboard can be shared with other projects (IDC, Grand-Challenge), and whether that really makes sense in practice.
 
+**Maintenance of Kaapana instance** : discuss the process of checking for security vulnerabilities, updating the developers of identified vulnerabilities, communicating the need to update to the users, look if scanning features available in GCP could be helpful.
+
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
