@@ -64,6 +64,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 Categories based on project list of PW37, will be updated as we populate the list of projects.
 
 ### VR/AR and Rendering
+[SlicerVR - Restore Interactions](Projects/SlicerVRInteractions) (Csaba Pintér, Simon Drouin, Andrey Titov)
 
 ### IGT and Low cost
 
