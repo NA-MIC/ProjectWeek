@@ -47,8 +47,8 @@ In this project we want to explore the process of converting MONAI Label trained
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Identified MONAI Label network location; discussed the project with Stephen, identified relevant expertise on MONAI side; planning to have coordination meeting with Roya.
-1. Identified from Andres an example of a [MONAI Label app](https://github.com/Project-MONAI/MONAILabel/blob/main/sample-apps/radiology/lib/configs/deepedit.py) and the corresponding [MONAI bundle equivalent](https://github.com/Project-MONAI/model-zoo/tree/dev/models/spleen_deepedit_annotation/configs)
-1. ...
+1. Identified from Andres an example of a [MONAI Label app](https://github.com/Project-MONAI/MONAILabel/blob/main/sample-apps/radiology/lib/configs/deepedit.py) and the corresponding [MONAI bundle](https://github.com/Project-MONAI/model-zoo/tree/dev/models/spleen_deepedit_annotation/configs). 
+1. Identified another possible example of a [MONAI Label app](https://github.com/Project-MONAI/MONAILabel/blob/main/sample-apps/radiology/lib/configs/segmentation_spleen.py) and the corresponding [MONAI bundle](https://github.com/Project-MONAI/model-zoo/tree/dev/models/spleen_ct_segmentation/configs). 
 
 # Illustrations
 
