@@ -63,3 +63,4 @@ In this project we want to explore the process of converting MONAI Label trained
 - [MONAI bundle docs](https://github.com/Project-MONAI/tutorials/blob/main/bundle/get_started.md)
 - [MONAI Label app for vertebrae segmentation](https://github.com/Project-MONAI/MONAILabel/blob/fullCTSegmentation/sample-apps/radiology/lib/configs/segmentation_full_CT.py)
 - [MONAI Label app for whole body segmentation](https://github.com/Project-MONAI/MONAILabel/blob/fullCTSegmentation/sample-apps/radiology/lib/configs/segmentation_full_CT.py)
+- [MONAI bundle specification](https://docs.monai.io/en/stable/mb_specification.html)
