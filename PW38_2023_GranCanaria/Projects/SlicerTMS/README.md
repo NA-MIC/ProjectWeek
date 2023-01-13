@@ -36,6 +36,10 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 
 ## Illustrations
 
+####  Current Visualization of the TMS Module in 3DSlicer with Coil and mapping of E-field on brain:
+
+<img src="https://user-images.githubusercontent.com/38534852/204691744-c2ee8451-7f4c-40c3-83a5-c2fd0103f0a7.gif" width="500" alt="SlicerTMS Module with Efield mapped on brain">
+
 
 # Background and References
 
