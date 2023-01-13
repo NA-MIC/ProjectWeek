@@ -66,6 +66,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 ### VR/AR and Rendering
 [SlicerVR - Restore Interactions](Projects/SlicerVRInteractions) (Csaba Pintér, Simon Drouin, Andrey Titov)
 
+[SlicerTMS](Projects/SlicerTMS/README.md)
+
 ### IGT and Low cost
 
 ### Segmentation/Classification
