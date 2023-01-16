@@ -24,6 +24,7 @@ If you have any questions, you can contact the [organizers](#organizers).
 2. **If you plan to attend in person**, register you workshop fee of 400 Euros [here](https://www.fulp.es/inscripcion-namic).
 3. Attend one or more [preparation meetings](#preparation-meetings) to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
 4. Join the [Discord server](https://discord.gg/yQsNVdVpS3) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
+5. Consider joining the [MONAI Label Workshop](MONAILabel_Workshop.md) that will take place January 25th (the week before Project Week).
 
 <!-- TBD
 ## During Project Week (All times US Eastern Daylight (Boston) Time)
