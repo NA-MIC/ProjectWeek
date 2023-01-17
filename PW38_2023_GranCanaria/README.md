@@ -69,6 +69,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [SlicerTMS](Projects/SlicerTMS/README.md)
 
+[ARinSlicer](Projects/ARinSlicer/README.md)
+
 ### IGT and Low cost
 [Training system for US-guided lung interventions](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/US-guided_TrainingSystem)
 
