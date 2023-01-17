@@ -23,7 +23,7 @@ The current solution is implemented in a 3 elements system. It is composed by A 
 Create a universal module in 3D Slicer that sends all types of messages via OpenIGTLink.
 
 
-# Approach and Plan
+## Approach and Plan
 1. 3D Slicer creates an OpenIGTLink server.
 2. Unity, containing the AR application, creates an OpenIGTLink client that connects to the server.
 3. When the application is executed in the Unity editor, it starts sending and receiving messages from 3D Slicer. Simultaneously, it wirelessly streams the app to Microsoft HoloLens 2 using Holographic Remoting. 
