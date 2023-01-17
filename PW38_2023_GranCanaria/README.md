@@ -251,6 +251,18 @@ List of registered participants so far (names will be added here after processin
 1. Chi Zhang, USA, (Online)
 1. RODRIGO BASILIO, Brazil, (Online)
 1. Saeed Arbabi, Netherlands, (Undecided)
+1. Maximilian Fischer, Germany, (Undecided)
+1. Kyle Sunderland, Canada, (Online)
+1. Ghulam Rasool, USA, (Online)
+1. Suraj Pai, USA, (Online)
+1. Ibrahim Hadzic, USA, (Online)
+1. Diana Alejandra Mendoza Mora , Mexico, (Online)
+1. Li-Wei Yang, taiwan, (Online)
+1. Maica Fernández, Spain, (In-person)
+1. Allen Tannenbaum, USA, (Online)
+1. Marina Elistratova Elistratova, Spain, (In-person)
+1. Nadya Shusharina, USA, (Online)
+1. Tamas Heffter , Hungary, (Online)
 
 <!-- Participants list end -->
 
