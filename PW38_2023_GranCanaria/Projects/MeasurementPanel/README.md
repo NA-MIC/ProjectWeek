@@ -1,0 +1,30 @@
+Back to [Projects List](../../README.md#ProjectsList)
+
+# Measurement Panel
+
+## Key Investigators
+
+- Davide Punzo, (Freelancer, Marseille, France) 
+- Andras Lasso (Perk Labs, Canada)
+
+# Project Description
+
+Add a custom simple widget for visualization and control of measurements (markups)
+
+## Objective
+
+Integrate the PR in Slicer core
+
+## Approach and Plan
+
+1) Finish the PR review,
+2) Get feedback on the result.
+
+## Progress and Next Steps
+
+
+# Illustrations
+<img alt="Panel" src="simpleMeasurementPanel.png"/>
+
+# Background and References
+PR: https://github.com/Slicer/Slicer/pull/6662

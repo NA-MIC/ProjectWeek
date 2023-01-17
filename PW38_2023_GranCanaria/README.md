@@ -96,7 +96,13 @@ Categories based on project list of PW37, will be updated as we populate the lis
    
 [FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md)
 
-[3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md)
+[Active Viewport](Projects/ActiveViewport/README.md)
+
+[Corner Annotations Module Remake](Projects/CornerAnnotationsModuleRemake/README.md)
+
+[Measurement Panel](Projects/MeasurementPanel/README.md)
+
+[SlicerAstro Update](Projects/SlicerAstroUpdate/README.md)
 
 ## Registrants
 
