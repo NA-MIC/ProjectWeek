@@ -13,13 +13,16 @@ Remake the slice corner annotations module in C++
 
 ## Objective
 
-1) Improve perfomances
+1) Improve performances
+
 2) Improve UI update from module parameter node.
 
 ## Approach and Plan
 
-1) Design the solution, 
-2) Implement it,
+1) Design the solution
+
+2) Implement it
+
 3) Get feedback.
 
 ## Progress and Next Steps
