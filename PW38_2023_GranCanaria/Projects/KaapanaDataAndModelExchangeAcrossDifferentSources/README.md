@@ -52,9 +52,9 @@ tbd
 
 # Background and References
 
-https://www.kaapana.ai/
-http://app.modelhub.ai/
-https://www.cancerimagingarchive.net/
-https://monai.io/
+- https://www.kaapana.ai/
+- http://app.modelhub.ai/
+- https://www.cancerimagingarchive.net/
+- https://monai.io/
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
