@@ -39,7 +39,7 @@ To identify members of the Slicer community interested in contributing translati
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Examples of localization of the Volumes module to French, Chinese and Japanese](SlicerInternationalization.jpg)
+![Examples of localization of the Volumes module to French, Chinese and Japanese](SlicerInternationalization.png)
 
 -->
 
