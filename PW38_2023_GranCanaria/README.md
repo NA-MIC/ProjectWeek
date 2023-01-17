@@ -96,6 +96,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
    
 [FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md)
 
+[3DSlicer Internationalization](3DSlicerInternationalization/README.md)
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7)
