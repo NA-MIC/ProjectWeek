@@ -15,35 +15,34 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Simon Drouin (École de Technologie Supérieure , Montreal , Canada)
 
 # Project Description
-
-Augmented Reality has increased its adoption in many areas with exciting benefits. Universidad Carlos III de Madrid (Madrid, Spain) has already worked in several medical projects based on AR (see their progress in https://biig-igt.uc3m.es/augmented-reality/). On these studies, they usually export information from Slicer to an alternative software (Unity).
-
-This project presents a novel approach to communicate 3D Slicer and Microsoft HoloLens 2 using OpenIGTLink. 
+Up to date, there has been a lack of software infrastructure to connect 3D Slicer to any augmented reality (AR) device. This project presents a novel connection approach using Microsoft HoloLens 2 and OpenIGTLink.
+This project has been developed in collaboration of (Universidad Carlos III de Madrid)[https://biig-igt.uc3m.es/augmented-reality/] (Madrid, Spain) and Perk Lab in Queen's University.
+The current solution is implemented in a 3 elements system. It is composed by A Microsoft HoloLens 2 headset, the Unity software, and the 3D Slicer platform. 
 
 ## Objective
-
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+Create a universal module in 3D Slicer that sends all types of messages via OpenIGTLink.
 
 
 ## Approach and Plan
+1. 3D Slicer creates an OpenIGTLink server.
+2. Unity, containing the AR application, creates an OpenIGTLink client that connects to the server.
+3. When the application is executed in the Unity editor, it starts sending and receiving messages from 3D Slicer. Simultaneously, it streamed the app to Microsoft HoloLens 2 using Holographic Remoting. 
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+We already developed an application that transfers geometrical transform and image messages between the platforms.
+The current application displays CT reslices of a patient in the AR device. The user wearing the glasses can manipulate the CT plane to see different perspectives.
+The application was build for pedicle screw placement planning.
 
-# Illustrations
+![20221213_161232_HoloLens](https://user-images.githubusercontent.com/66890913/212931527-035baf4c-4799-4d83-9c60-b8a0f839547e.jpg)
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+
+The final version will be able to transfer any type of messages.
+
+
 
 # Background and References
 
