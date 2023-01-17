@@ -4,7 +4,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Stefan Denner (German Cancer Research Center, Germany)
+- Benjamin Hamm (German Cancer Research Center, Germany)
+- Ünal Akünal (German Cancer Research Center, Germany)
+- Markus Bujotzek (German Cancer Research Center, Germany)
 - Klaus Kades (German Cancer Research Center, Germany)
 
 # Project Description
@@ -50,5 +52,9 @@ tbd
 
 # Background and References
 
-tbd
+- https://www.kaapana.ai/
+- http://app.modelhub.ai/
+- https://www.cancerimagingarchive.net/
+- https://monai.io/
+
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
