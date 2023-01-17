@@ -33,8 +33,8 @@ Create a universal module in 3D Slicer that sends all types of messages via Open
 ## Progress and Next Steps
 
 
-We already developed an application that transfers geometrical transform and image messages between the platforms.
-The current application displays CT reslices of a patient in the AR device. The user wearing the glasses can manipulate the CT plane to see different perspectives.
+We have already developed an application that transfers geometrical transform and image messages between the platforms.
+It displays CT reslices of a patient in the AR device. The user wearing the glasses can manipulate the CT plane to see different perspectives.
 The application was build for pedicle screw placement planning.
 
 ![20221213_161232_HoloLens](https://user-images.githubusercontent.com/66890913/212931527-035baf4c-4799-4d83-9c60-b8a0f839547e.jpg)
