@@ -14,19 +14,19 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Jean-Christophe Fillion-Robin (Kitware, USA)
 - Simon Drouin (École de Technologie Supérieure , Montreal , Canada)
 
-# Project Description
+## Project Description
 Up to date, there has been a lack of software infrastructure to connect 3D Slicer to any augmented reality (AR) device. This project presents a novel connection approach using Microsoft HoloLens 2 and OpenIGTLink.
-This project has been developed in collaboration of (Universidad Carlos III de Madrid)[https://biig-igt.uc3m.es/augmented-reality/] (Madrid, Spain) and Perk Lab in Queen's University.
+This project has been developed in collaboration of [Universidad Carlos III de Madrid](https://biig-igt.uc3m.es/augmented-reality/) (Madrid, Spain) and Perk Lab in Queen's University.
 The current solution is implemented in a 3 elements system. It is composed by A Microsoft HoloLens 2 headset, the Unity software, and the 3D Slicer platform. 
 
 ## Objective
 Create a universal module in 3D Slicer that sends all types of messages via OpenIGTLink.
 
 
-## Approach and Plan
+# Approach and Plan
 1. 3D Slicer creates an OpenIGTLink server.
 2. Unity, containing the AR application, creates an OpenIGTLink client that connects to the server.
-3. When the application is executed in the Unity editor, it starts sending and receiving messages from 3D Slicer. Simultaneously, it streamed the app to Microsoft HoloLens 2 using Holographic Remoting. 
+3. When the application is executed in the Unity editor, it starts sending and receiving messages from 3D Slicer. Simultaneously, it wirelessly streams the app to Microsoft HoloLens 2 using Holographic Remoting. 
 
 
 
@@ -41,9 +41,10 @@ The application was build for pedicle screw placement planning.
 
 
 The final version will be able to transfer any type of messages.
+To do so, we have to create necessary scripts in 3D Slicer and also in Unity (C#).
 
 
 
-# Background and References
+<!--## Background and References-->
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
