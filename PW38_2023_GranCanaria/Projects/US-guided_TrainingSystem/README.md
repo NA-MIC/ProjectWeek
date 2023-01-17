@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Natalia Arteaga Marrero (IACTEC)
 - David García Mato (Ebatinca)
+- Javier González Fernández (ITC)
 
 # Project Description
 
