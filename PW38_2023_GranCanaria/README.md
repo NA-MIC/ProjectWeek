@@ -81,6 +81,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 ### Quantification
 
+[MeshComparison](Projects/MeshComparison/README.md)
+
 ### Cloud and Infrastructure
 [How-to setup and run 3D Slicer on an AWS server instance step by step](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/#readme) 
 
