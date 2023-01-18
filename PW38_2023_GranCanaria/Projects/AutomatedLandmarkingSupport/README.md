@@ -50,7 +50,7 @@ extension.  We would like to discuss future plans for the Surface Markups extens
 1. ...
 
 # Illustrations
-[Example of automated landmarks on two specimens](SLM_image.gif)
+<img alt="Automated landmarks on two specimens" src="SLM_image.gif" width="500"/>
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
