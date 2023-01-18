@@ -16,6 +16,7 @@ needed by the SlicerMorph workflows are:
 1. Linking two or more landmark sets with identical landmark definitions and operating on them jointly
 2. Flexibly selecting and editing point sets in the 3D scene.
 3. Placing a grid of landmarks, constraining to a surface, and adjusting the point poisitions by dragging the grid across the surface.
+4. Improve performance when setting state of a large number of points (around 1000)
 
 The first function has not yet been attempted and we would like to develop a working prototype. Our second objective is implemented in the 
 Landmark Editor, a module in the SlicerMorph extension developed by Steve Pieper. Recently, this module has been failing for some cases. We would like to identify 
@@ -28,8 +29,9 @@ extension.  We would like to discuss future plans for the Surface Markups extens
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Objective A. Prototype joint operations on linked landmark sets
-1. Objective B. Troubleshoot landmark editor and identify fixes
-1. Objective C. Identify overlap between Surface Markups development and SlicerMorph user needs.
+2. Objective B. Troubleshoot landmark editor and identify fixes
+3. Objective C. Identify overlap between Surface Markups development and SlicerMorph user needs.
+4. Objective D. Document plan to improve Markups module to improve performance when working with large number of points. 
 
 ## Approach and Plan
 
@@ -48,7 +50,7 @@ extension.  We would like to discuss future plans for the Surface Markups extens
 1. ...
 
 # Illustrations
-
+[Example of automated landmarks on two specimens](SLM_image.gif)
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
