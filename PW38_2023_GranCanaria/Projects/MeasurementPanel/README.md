@@ -4,8 +4,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Davide Punzo, (Freelancer, Marseille, France) 
+- Davide Punzo (Freelancer, France) 
 - Andras Lasso (Perk Labs, Canada)
+- Anyone is welcome to join
 
 # Project Description
 
@@ -17,8 +18,9 @@ Integrate the PR in Slicer core
 
 ## Approach and Plan
 
-1) Finish the PR review,
-2) Get feedback on the result.
+1) Finish the PR review
+
+2) Get feedback on the result
 
 ## Progress and Next Steps
 
