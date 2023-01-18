@@ -31,11 +31,10 @@ Create a universal module in 3D Slicer that sends all types of messages via Open
 
 
 ## Progress and Next Steps
-
-
 We have already developed an application that transfers geometrical transform and image messages between the platforms.
 It displays CT reslices of a patient in the AR device. The user wearing the glasses can manipulate the CT plane to see different perspectives.
 The application was build for pedicle screw placement planning.
+
 
 ![20221213_161232_HoloLens](https://user-images.githubusercontent.com/66890913/212931527-035baf4c-4799-4d83-9c60-b8a0f839547e.jpg)
 
@@ -45,6 +44,6 @@ To do so, we have to create necessary scripts in 3D Slicer and also in Unity (C#
 
 
 
-<!--## Background and References-->
-
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+## Background and References
+Check out our app in [this GitHub repository](https://github.com/BIIG-UC3M/HoloLens2and3DSlicer-PedicleScrewPlacementPlanning).
+This repository contains all the resources and code needed to replicate our work in your computer.
