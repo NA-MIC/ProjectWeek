@@ -4,8 +4,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Davide Punzo, (Freelancer, Marseille, France) 
+- Davide Punzo (Freelancer, France) 
 - Andras Lasso (Perk Labs, Canada)
+- Anyone is welcome to join
 
 # Project Description
 
@@ -15,7 +16,7 @@ Remake the slice corner annotations module in C++
 
 1) Improve performances
 
-2) Improve UI update from module parameter node.
+2) Improve UI update from module parameter node
 
 ## Approach and Plan
 
@@ -23,7 +24,7 @@ Remake the slice corner annotations module in C++
 
 2) Implement it
 
-3) Get feedback.
+3) Get feedback
 
 ## Progress and Next Steps
 
