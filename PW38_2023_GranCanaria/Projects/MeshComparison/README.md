@@ -45,7 +45,7 @@ Our aim is to provide such a tool.
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
+[Two meshes to compare in terms of volume](MeshComparison_figure.png)
 ![Some more images](Example2.jpg)
 -->
 
