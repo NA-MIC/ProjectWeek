@@ -22,7 +22,7 @@ Update SlicerAstro to Slicer 5
 
 2) Test under Slicer 5
 
-3) Find issues (some already listed in https://github.com/Punzo/SlicerAstroApp/issues/4)
+3) Find issues (some already listed in [issues](https://github.com/Punzo/SlicerAstroApp/issues/4))
 
 
 ## Progress and Next Steps
@@ -34,8 +34,8 @@ Update SlicerAstro to Slicer 5
 
 
 # Background and References
-https://github.com/Punzo/SlicerAstro
+[SlicerAstro](https://github.com/Punzo/SlicerAstro)
 
-https://github.com/Punzo/SlicerAstroApp
+[SlicerAstroApp](https://github.com/Punzo/SlicerAstroApp)
 
-https://github.com/Punzo/SlicerAstroApp/issues/4
+[issues](https://github.com/Punzo/SlicerAstroApp/issues/4)
