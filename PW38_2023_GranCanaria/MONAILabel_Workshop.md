@@ -30,6 +30,7 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
   * What's new in MONAI / MONAI Label since the last workshops?
   * What's the overall architecture for MONAI model from training to deployment (e.g. considerations for someone doing project planning)
 * 3D Slicer and MONAI on AWS (5 minutes, Rudolf Bumm / Steve Pieper)
+* Preparation for Hands-on session on AWS (5 minutes, Qing Liu)
 * What clinical/research applications developing with MONAI Label and what's the general status of them (10 minutes each)
   * Lungs: Rudolf Bumm 
   * Stroke: Ken Butcher
@@ -39,15 +40,17 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
   * python code needs to be edited
   * what decisions need to be made
   * how to organize the training, etc.
-* Hands-on session with a toy problem, like the table removal segmentation or similar (40 minutes)
-* Q&A, discussion
+* Hands-on session with pre-trained models + Q&A discussions (40 minutes)
+
 
 ## Event logistics
 
 * The zoom link info is: TBD
 
 * We will use the Project Week discord for tech support and discussion during the workshop.  Please sign up here: https://discord.gg/d5Q6b5ug8u
+
 * Please use the same email for discord that you used to sign up for the workshop and also please use your first and last names and organization in your discord name.
+
 * The workshop will be recorded and made available.
 
 *Big thanks in advance to the AWS, NVIDIA and Slicer teams for providing this activity!*
