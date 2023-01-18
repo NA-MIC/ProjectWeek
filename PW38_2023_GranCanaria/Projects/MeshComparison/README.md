@@ -14,10 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Add a short paragraph describing the project. -->
 
-In oral surgey field it is important quantifying the level of swelling after a surgical procedure.
-Several centers can easily acquire volumetric scans of the patient, both before and after the intervetion.
-Slicer already offers several modules for dealing with surfares (including difference quantification), but lacks a tool for computing the volume between two meshes.
-Our aim is to provide such a tool.
+In the oral surgery field, it is important quantifying the level of swelling after a surgical procedure. Several centers can easily acquire volumetric scans of the patient, both before and after the intervention. Slicer already offers several modules for dealing with surfaces (including difference quantification), but lacks a tool for computing the volume between two meshes. Our aim is to provide such a tool.
 
 ## Objective
 
@@ -32,7 +29,7 @@ Our aim is to provide such a tool.
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Write a module for computing volume between two meshes (they can be also "open-mesh")
-1. Use pyvista library for task involving mesh
+1. Use pyvista library for tasks involving mesh
 1. ...
 
 ## Progress and Next Steps
