@@ -14,7 +14,7 @@ Add a custom simple widget for visualization and control of measurements (markup
 
 ## Objective
 
-Integrate the PR in Slicer core
+Integrate the [PR](https://github.com/Slicer/Slicer/pull/6662) in Slicer core
 
 ## Approach and Plan
 
@@ -29,4 +29,4 @@ Integrate the PR in Slicer core
 <img alt="Panel" src="simpleMeasurementPanel.png"/>
 
 # Background and References
-PR: https://github.com/Slicer/Slicer/pull/6662
+[Pull Request](https://github.com/Slicer/Slicer/pull/6662)
