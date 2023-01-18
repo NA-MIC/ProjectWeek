@@ -45,7 +45,7 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
 
 ## Event logistics
 
-* The zoom link info is: TBD
+* The zoom link info is: [https://us06web.zoom.us/s/85353009880](https://us06web.zoom.us/s/85353009880)
 
 * We will use the Project Week discord for tech support and discussion during the workshop.  Please sign up here: https://discord.gg/d5Q6b5ug8u
 
