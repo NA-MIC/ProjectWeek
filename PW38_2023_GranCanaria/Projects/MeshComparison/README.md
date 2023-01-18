@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Paolo Zaffino (Magna Graecia University of Catanzaro, Italy)
 - Maria Francesca Spadea (Institute of Biomedical Engineering, KIT - Karlsruher Institut für Technologie, Germany)
 - Michela Destito (Magna Graecia University of Catanzaro, Italy)
+- Amerigo Giudice, the clinical mind behind the idea (Magna Graecia University of Catanzaro, Italy)
 - Anyone who wants to join (bring a coffee!) 
 
 # Project Description
