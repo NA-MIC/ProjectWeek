@@ -275,6 +275,10 @@ List of registered participants so far (names will be added here after processin
 1. Marina Elistratova Elistratova, Spain, (In-person)
 1. Nadya Shusharina, USA, (Online)
 1. Tamas Heffter , Hungary, (Online)
+1. Khaled Younis, USA, (Online)
+1. Rebecca Hisey, Canada, (Online)
+1. Pedro Moreira, USA, (Online)
+1. Jakob Wasserthal, Switzerland, (In-person)
 
 <!-- Participants list end -->
 
