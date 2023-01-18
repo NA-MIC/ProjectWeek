@@ -4,7 +4,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Davide Punzo, (Freelancer, Marseille, France) 
+- Davide Punzo (Freelancer, France)
+- Thijs van der Hulst (Kapteyn Astronomical Institute, Netherlands)
+- Anyone is welcome to join
 
 
 # Project Description
