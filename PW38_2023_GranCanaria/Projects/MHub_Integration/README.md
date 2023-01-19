@@ -22,7 +22,11 @@ Therefore, we are planning a Slicer extension that will allow to search our repo
 
 1. Objective A. Discover how to run models in Slicer securely, conflict-free, and platform-independent. 
 2. Objective B. Validate and customise our definitions of a generic I/O framework.
-3. Objective C. ...
+3. Objective C. Document pros and cons of docker vs native python integration of the model, support with experimental results. Concerns re Docker communicated earlier:
+  * Docker may be challenging to install and setup (org constraints, permissions, expertise)
+  * Docker images are large and slow to download
+  * Support of GPU with Docker is not straightforward/limited
+  * <add you concern re using Docker for interfacing AI models in Slicer here>
 
 ## Approach and Plan
 
