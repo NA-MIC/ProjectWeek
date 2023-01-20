@@ -5,6 +5,7 @@
 - Felix von Haxthausen (University of Lübeck, Lübeck, Germany)
 - David García Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Tolga-Can Çallar (University of Lübeck, Lübeck, Germany)
+- José Carlos Mateo Pérez (ULPGC, Las Palmas de Gran Canaria, Spain) 
 - ...
 
 ## Clinical collaboration
@@ -46,3 +47,5 @@ Development of tool to assign tissue acoustic properties:
 - Training system for forceps-assisted delivery developed in 3D Slicer by Universidad Carlos III de Madrid: [VIDEO](https://www.youtube.com/watch?v=EEasWbH1jZI)
 
 - García-Sevilla, M. et al. (2018). Performance Evaluation to Improve Training in Forceps-Assisted Delivery. In: , et al. OR 2.0 Context-Aware Operating Theaters, Computer Assisted Robotic Endoscopy, Clinical Image-Based Procedures, and Skin Image Analysis. CARE CLIP OR 2.0 ISIC 2018 2018 2018 2018. Lecture Notes in Computer Science(), vol 11041. Springer, Cham. https://doi.org/10.1007/978-3-030-01201-4_9
+
+- Sherer, D.M., Miodovnik, M., Bradley, K.S. and Langer, O. (2002), Intrapartum fetal head position II: comparison between transvaginal digital examination and transabdominal ultrasound assessment during the second stage of labor. Ultrasound Obstet Gynecol, 19: 264-268. https://doi.org/10.1046/j.1469-0705.2002.00656.x
