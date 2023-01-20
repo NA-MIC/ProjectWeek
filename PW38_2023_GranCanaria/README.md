@@ -110,7 +110,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Active Viewport](Projects/ActiveViewport/README.md)
 
-[Corner Annotations Module Remake](Projects/CornerAnnotationsModuleRemake/README.md)
+[Simple DICOM Query/Retrieve Panel](Projects/SimpleDICOMQueryRetrievePanel/README.md)
 
 [Measurement Panel](Projects/MeasurementPanel/README.md)
 
