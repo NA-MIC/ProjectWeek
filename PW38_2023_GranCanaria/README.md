@@ -83,7 +83,9 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md)
    
-[Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation/README.md) (David García, Yucheng Tang, Andres Diaz,...)
+[Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation) (David García, Yucheng Tang, Andres Diaz,...)
+   
+[Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI) (María Rosa Rodríguez, Tamas Ungi, David García,...)
 
 ### Quantification
 
