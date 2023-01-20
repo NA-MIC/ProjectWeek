@@ -76,6 +76,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
    
 [Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation) (Felix von Haxthausen, David García, Tolga-Can Çallar)
 
+[Slicer Liver](Projects/SlicerLiver/README.md) (Gabriella D'Albenzio, Ruoyan Meng, Geir A. Tangen, Ole V. Solberg, Rafael Palomar)
+
 ### Segmentation/Classification
 [Lung CT Segmentation and Analysis](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/LungSegmentation#readme)
 
@@ -113,6 +115,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md)
 
 [Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md)
+
+[SystoleOS](Projects/SystoleOS/README.md) (Rafael Palomar, Steve Pieper)
 
 ## Registrants
 
