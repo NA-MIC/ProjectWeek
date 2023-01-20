@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Automatic Segmentation of Teeth and Alveolar bone using MONAI Label
+# Multi-stage dental segmentation using MONAI Label
 
 ## Key Investigators
 
@@ -50,5 +50,6 @@ We have already tested segmentation and deepedit models in MONAI Label. Those mo
 -->
 
 # Background and References
+- Related project from 37th NA-MIC Project Week: [Multi-stage deep learning segmentation of teeth](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/MultistageTeethSegmentation/)
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
