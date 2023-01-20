@@ -79,7 +79,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md)
    
-[Automatic segmentation of teeth and alveolar bone using MONAI Label](Projects/TeethSegmentation/README.md) (David García, Yucheng Tang, Andres Diaz,...)
+[Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation/README.md) (David García, Yucheng Tang, Andres Diaz,...)
 
 ### Quantification
 
