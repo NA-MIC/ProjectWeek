@@ -52,3 +52,5 @@ for a segmentation that takes less than a second to read from a research format.
 
 We are interested in how the benefits of DICOM (standardized encoding, rich metadata, coded concepts, etc) can coexist with efficient
 read-write performance for real-world use cases.
+
+Here is a [highdicom draft impelentation](https://github.com/ImagingDataCommons/highdicom/pull/184) of support for a non-standard labelmap implementation for DICOM SEG.
