@@ -42,26 +42,26 @@ Objective 3. Send commands from EMG signals to Slicer to control movements of 3D
 
 ## Progress and Next Steps
 
-1. Once we have an electronic PCB for acquisition (MySiganIoT.jpg) and electrophysiological signal processing, 
+1. Once we have an electronic PCB for acquisition (Fig.1) and electrophysiological signal processing, 
    the corresponding IDE code was developed and loaded onto the Arduino board. This code also allows the visualisation 
-   of the EMG signal on a TFT screen integrated in the acquisition PCB (EMG_MySignals-Arduino.mp4) and 
-   the data transmission to a Slicer module (EMG-Arduino_Plot.jpg).
+   of the EMG signal on a TFT screen integrated in the acquisition PCB (Video 1) and 
+   the data transmission to a Slicer module (Fig.2).
 
-2. The visualization of the EMG signal in the slicer's plot scene was made through the ArduinoController module [1] (EMG_Slicer.mp4).
+2. The visualization of the EMG signal in the slicer's plot scene was made through the ArduinoController module [1] (Video 2).
 
 3. The next step will be focused in to create a module that allows to load 3D models to a Slicer's scene and control/set some of their parameter
    (such as position or colour) directly in function of the subject´s EMG signal voltage variation. As an ilustrative example purpose, 
-   we previously developed this application in LabVIEW (EMG_Hand_Labview.mp4), where the subject wear a surface EMG PCB that allows 
+   we previously developed this application in LabVIEW (Video 3), where the subject wear a surface EMG PCB that allows 
    him to control a 3D hand model. The aim is to replicate this application in 3D Slicer.
 
 
 # Illustrations
 
-![MySignalsIoT PCB developed by Libelium that acquires the electrofisiological biosignals](MySiganIoT.jpg)
-![EMG data visualization in the MySignals PCB - Arduino system](EMG_MySignals-Arduino.mp4)
-![Ploting the EMG signal into 3D Slicer through the data streamming of Arduino](EMG-Arduino_Plot.jpg)
-![Real time streamming of EMG data from Arduino to 3D Slicer](EMG_Slicer.mp4)
-![Example of controlling a 3D hand model by EMG signals developed in LabVIEW interface](EMG_Hand_Labview.mp4)
+![Fig.1](https://github.com/JordanOrt/EMG_Slicer/blob/1546b5817a2116dead5ebac659b9e32520a62fc6/MySiganIoT.jpg)
+![Video 1 (EMG DAQ-Arduino)](https://github.com/JordanOrt/EMG_Slicer/blob/1546b5817a2116dead5ebac659b9e32520a62fc6/EMG_MySignals-Arduino.mp4)
+![Fig.2](https://github.com/JordanOrt/EMG_Slicer/blob/1546b5817a2116dead5ebac659b9e32520a62fc6/EMG-Arduino%20Plot.png)
+![Video 2 (Real time streamming of EMG data from Arduino to 3D Slicer)](https://github.com/JordanOrt/EMG_Slicer/blob/1546b5817a2116dead5ebac659b9e32520a62fc6/EMG_Slicer.mp4)
+![Video 3 (Example of controlling a 3D hand model by EMG signals developed in LabVIEW interface)](https://github.com/JordanOrt/EMG_Slicer/blob/1546b5817a2116dead5ebac659b9e32520a62fc6/EMG_Hand_Labview.mp4)
 
 
 # Background and References
