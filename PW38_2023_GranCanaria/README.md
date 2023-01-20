@@ -116,6 +116,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md)
 
+[SystoleOS](Projects/SystoleOS/README.md)
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7)
