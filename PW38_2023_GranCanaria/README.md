@@ -73,6 +73,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 ### IGT and Low cost
 [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem) (Natalia Arteaga, David García, Javier González)
+   
+[Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation) (Felix von Haxthausen, David García, Tolga-Can Çallar)
 
 ### Segmentation/Classification
 [Lung CT Segmentation and Analysis](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/LungSegmentation#readme)
