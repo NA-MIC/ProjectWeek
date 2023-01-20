@@ -4,13 +4,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Natalia Arteaga Marrero (IACTEC)
-- David García Mato (Ebatinca)
-- Javier González Fernández (ITC)
+- Natalia Arteaga Marrero (IACTEC, Santa Cruz de Tenerife, Spain)
+- David García Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
+- Javier González Fernández (ITC, Spain)
 
 # Project Description
 
-The aim of the project is to develop a tracking system that provides a quantitative report regarding the use of a low-cost lung phantom [1] for teaching purposes. 
+The aim of the project is to develop a training system that provides a quantitative report regarding the use of a low-cost lung phantom [1] for teaching purposes. 
+
 A phantom with several embedded solid inclusions was fabricated. These inclusions are colour coded thus, a qualitative report can be used to indicate the success
 of a core needle biopsy (CNB) procedure. However, a quantitative analysis is required. For this reason, the development of a training system is planned.
 
@@ -22,7 +23,7 @@ of a core needle biopsy (CNB) procedure. However, a quantitative analysis is req
 ## Approach and Plan
 
 1. Phantom model
-2. Tools connections via Optitrack and PlusToolkit 
+2. Tools connections via Optitrack and Plus Toolkit 
 4. Application development
 
 ## Progress and Next Steps
