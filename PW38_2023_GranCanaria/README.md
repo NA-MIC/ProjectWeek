@@ -72,14 +72,14 @@ Categories based on project list of PW37, will be updated as we populate the lis
 [ARinSlicer](Projects/ARinSlicer/README.md)
 
 ### IGT and Low cost
-[Training system for US-guided lung interventions](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/US-guided_TrainingSystem)
+[Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem) (Natalia Arteaga, David García, Javier González)
 
 ### Segmentation/Classification
 [Lung CT Segmentation and Analysis](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/LungSegmentation#readme)
 
 [MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md)
    
-[Automatic segmentation of teeth and alveolar bone using MONAI Label](Projects/TeethSegmentation/README.md)
+[Automatic segmentation of teeth and alveolar bone using MONAI Label](Projects/TeethSegmentation/README.md) (David García, Yucheng Tang, Andres Diaz,...)
 
 ### Quantification
 
