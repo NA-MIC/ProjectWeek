@@ -112,6 +112,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Simple DICOM Query/Retrieve Panel](Projects/SimpleDICOMQueryRetrievePanel/README.md)
 
+[DICOM Segmentation Optimizatin](Projects/DICOMSEG/README.md)
+
 [Measurement Panel](Projects/MeasurementPanel/README.md)
 
 [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md)
