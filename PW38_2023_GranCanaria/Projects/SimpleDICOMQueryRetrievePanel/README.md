@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Remake the slice corner annotations module in C++
+Implement a Query/Retrieve panel for DICOM databases.
 
 ## Objective
 
