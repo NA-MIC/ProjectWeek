@@ -5,10 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Rafael Palomar (Oslo University Hospital and NTNU, Norway)
-- Andras Lasso (Queen's University, Kingston, Canada)
 - Steve Pieper (Isomics Inc., Cambridge, MA, USA)
-- Jean-Christophe Fillion-Robin (Kitware Inc., Carrboro, NC, USA)
-- Sam Horvath (Kitware Inc.)
 
 # Project Description
 
@@ -63,34 +60,31 @@ compile-time allows:
 Systole OS works on the Gentoo overlay system which allows you to extend the
 system with your own ovelay or override packages provided by Systole.
 
-## Objective
+## Objectives
 
-In PW37 we aim to take the first steps towards the creation of the Systole 
-overlay, which is a set of packages containing an installable version of 
-3D Slicer and its dependences.
+The main objective for PW38 is the consolidation of the development achieved in [PW37](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SystoleOS) in Virtual Machines and Containers; this will enable researchers and developers to test the system and contribute to its development. This objective includes the generation of documentation to get started with the project.
+
+As secondary objectives we aim to continue advancing on the integration of 3D Slicer:
+ 
+ - Enabling Python support
+ - Porting scripted modules
+ 
+as well as the integration of allied technologies:
+
+ - Plus Toolkit
+ - MONAI Label
+ - Total Segmentator
 
 ## Approach and Plan
 
 1. Project discussion
-1. Review of dependencies and `-DSlicer_SUPERBUILD=OFF`
-1. Development of the packages for the dependencies and 3D Slicer
-1. Development of the packages for the 3D Slicer default modules
+2. Release of the SystoleOS development VMs and Containers
+2. Documentation on how to get started with SystoleOS (gentoo-overlay, containers, VMs)
 
 ## Progress and Next Steps
 
-First full installation of a minimal 3D Slicer!
-
-[![asciicast](https://asciinema.org/a/505170.svg)](https://asciinema.org/a/505170)
-
-- SystoleOS gentoo overlay has been made public at [https://github.com/SystoleOS/gentoo-overlay](https://github.com/SystoleOS/gentoo-overlay).
-
-- Simple 3D Slicer installation with a `-DSlicer_SUPERBUILD=OFF` approach (-python). There are still some glitches and workarounds even for the simplest version, but this shows the feasibility of the project.
-
-Systole OS, by nature, is a continuous project that needs to keep up with the developments of 3D Slicer and the developments of the underlying software packages itself. It is necessary to establish infrastructure for testing that can help us on the development process (next step). In addition we need to establish infrastructue to support a community documentation, containers, communication channels, etc (next step).
-
-When it comes to the development of Systole OS itself, the first efforts will go on the direction of fixing bugs, enable new configurations of 3D Slicer (e.g, +python). To engage more users, it is important that Systole OS shows utility. We are planning to integrate a Slicer custom application (to be decided) as a deployment prototype.
-
 # Background and References
+1. [SystoleOS project in PW37](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SystoleOS)
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
