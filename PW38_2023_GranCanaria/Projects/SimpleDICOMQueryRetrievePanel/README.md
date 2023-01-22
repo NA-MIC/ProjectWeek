@@ -16,7 +16,13 @@ Implement a Query/Retrieve panel for DICOM databases.
 
 Have a simple user-friendly interface to query/retrieve from a DICOM server.
 The user interface would render series thumbnails so the users can easily navigate the DICOM database
-(see illustrations for a first UI Design prototype). 
+(see illustrations for a first UI Design prototype).
+Moreover, perfomance needs to be boosted as much as possible: 
+
+1) fetch metadata only when strictly required (e.g. get series metadata only when the user clicks and opens a study item of the list)
+
+2) the fetch should be performed in async with Qthreads/workers and parallelized.
+
 
 ## Approach and Plan
 
