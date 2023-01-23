@@ -23,19 +23,20 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
 
 
 ## Agenda
-(Draft - to be finalized)
+
 * Intro and welcome (Steve Pieper - 1 minute)
+* Overview of MONAI Events: workshop and bootcamp (Michael Zeyphyr - 1 minute)
 * Overview of MONAI Label (Andres Diaz-Pinto) 15 minutes)
   * Intro for first time attendees / refresher for return attendees
   * What's new in MONAI / MONAI Label since the last workshops?
   * What's the overall architecture for MONAI model from training to deployment (e.g. considerations for someone doing project planning)
 * 3D Slicer and MONAI on AWS (2 minutes, Rudolf Bumm / Steve Pieper)
-* Preparation for Hands-on session on AWS (8 minutes, Qing Liu)
+* Preparation for Hands-on session on AWS (8 minutes, Qing Liu, Alex Lemm)
 * What clinical/research applications developing with MONAI Label and what's the general status of them (10 minutes each)
   * Lungs: Rudolf Bumm 
   * Stroke: Ken Butcher
   * Cancer spines: Ron Alkalay
-* Deeper dive into the spine application example use case (15 minutes Andres Diaz-Pinto)
+* Deeper dive into application example use cases (15 minutes Andres Diaz-Pinto)
   * data format and preparation
   * python code needs to be edited
   * what decisions need to be made
