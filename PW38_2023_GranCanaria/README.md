@@ -124,6 +124,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Maxillofacial Surgery Virtual Planning Applications based on 3D Slicer](Projects/Slicer4MaxillofacialSurgery) (Miguel Ángel Rodríguez, Christian Buritica)
 
+[Using VolView with images in Google Storage / IDC buckets](Projects/IDC_with_VolView/README.md) (Andrey Fedorov, Forrest Li, Stephen Aylward)
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7)
