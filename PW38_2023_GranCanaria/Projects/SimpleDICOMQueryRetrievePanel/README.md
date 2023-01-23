@@ -40,4 +40,4 @@ Moreover, perfomance needs to be boosted as much as possible:
 <img alt="" src="PrototypeDICOMQueryRetrievePanel.png" width="800"/>
 
 # Background and References
-
+[CTK class](https://github.com/commontk/CTK/blob/master/Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp)
