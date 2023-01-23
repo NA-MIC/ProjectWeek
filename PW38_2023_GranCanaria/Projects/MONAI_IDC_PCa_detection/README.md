@@ -31,14 +31,14 @@ In this project we will demonstrate how an existing pre-trained MONAI model pack
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Develop a Google Colab notebook that contains the following steps:
-  a. Install prerequisites and the MONAI bundle https://github.com/Project-MONAI/model-zoo/tree/dev/models/prostate_mri_anatomy.
-  b. Select applicable subset of MRI series from IDC (ProstateX and QIN-Prostate-Repeatability collections).
-  c. Convert images from DICOM to the format acceptable by the model.
-  d. Run inference.
-  e. Visualize results.
-  f. Perform quantitative evaluation of the results.
-  g. Convert results into DICOM representation, visualize in OHIF.
+1. Develop a Google Colab notebook that contains the following steps:\
+    a. Install prerequisites and the [MONAI bundle](https://github.com/Project-MONAI/model-zoo/tree/dev/models/prostate_mri_anatomy).\
+    b. Select applicable subset of MRI series from IDC (ProstateX and QIN-Prostate-Repeatability collections).\
+    c. Convert images from DICOM to the format acceptable by the model.\
+    d. Run inference.\
+    e. Visualize results.\
+    f. Perform quantitative evaluation of the results.\
+    g. Convert results into DICOM representation, visualize in OHIF.\
 2. Document performance of the model.
 3. Consider sharing analysis results if they are of good quality.
 
