@@ -33,7 +33,7 @@ Public repository for contributors.
 Report of keys issues to solve in OHIF for further nuclear medicine applications developpement.
 
 # Illustrations
-
+https://link.springer.com/article/10.1007/s12149-011-0564-1 => See Figure 1
 
 # Background and References
 https://jnm.snmjournals.org/content/50/6/893.long
