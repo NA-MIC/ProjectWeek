@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Salim Kanoun MD (Pixilib, Toulouse, France)
-- Alireza Seghi (Radical Imaging)
+- Alireza Sedghi (Radical Imaging)
 - Celian Abadie (Pixilib)
 - Sofien Sellamo (Pixilib)
 
@@ -36,4 +36,5 @@ Report of keys issues to solve in OHIF for further nuclear medicine applications
 
 
 # Background and References
-
+https://jnm.snmjournals.org/content/50/6/893.long
+https://jnm.snmjournals.org/content/43/10/1324.long
