@@ -122,6 +122,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [SystoleOS](Projects/SystoleOS/README.md) (Rafael Palomar, Steve Pieper)
 
+[Maxillofacial Surgery Virtual Planning Applications based on 3D Slicer](Projects/Slicer4MaxillofacialSurgery) (Miguel Ángel Rodríguez, Christian Buritica)
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7)
