@@ -47,3 +47,12 @@ To do so, we have to create necessary scripts in 3D Slicer and also in Unity (C#
 ## Background and References
 Check out our app in [this GitHub repository](https://github.com/BIIG-UC3M/HoloLens2and3DSlicer-PedicleScrewPlacementPlanning).
 This repository contains all the resources and code needed to replicate our work in your computer.
+
+Transfer of geometrical transforms from HoloLens 2 to 3D Slicer:
+
+![MovingSpine_GIF](https://user-images.githubusercontent.com/66890913/214097820-96b9f875-4651-4efd-879b-831eb88b7b07.gif)
+
+Transfer of images from 3D Slicer to HoloLens 2:
+
+![MovingCT_GIF](https://user-images.githubusercontent.com/66890913/214097469-17a1aa1a-2768-4f73-8c12-bb4ab7d393f0.gif)
+
