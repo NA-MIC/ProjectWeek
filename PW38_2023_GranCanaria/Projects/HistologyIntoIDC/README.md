@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Curtis Lisle, KnowledgeVis, LLC
+- Curtis Lisle (KnowledgeVis)
 - others welcome
 
 
