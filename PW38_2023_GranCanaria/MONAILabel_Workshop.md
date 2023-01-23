@@ -29,8 +29,8 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
   * Intro for first time attendees / refresher for return attendees
   * What's new in MONAI / MONAI Label since the last workshops?
   * What's the overall architecture for MONAI model from training to deployment (e.g. considerations for someone doing project planning)
-* 3D Slicer and MONAI on AWS (5 minutes, Rudolf Bumm / Steve Pieper)
-* Preparation for Hands-on session on AWS (5 minutes, Qing Liu)
+* 3D Slicer and MONAI on AWS (2 minutes, Rudolf Bumm / Steve Pieper)
+* Preparation for Hands-on session on AWS (8 minutes, Qing Liu)
 * What clinical/research applications developing with MONAI Label and what's the general status of them (10 minutes each)
   * Lungs: Rudolf Bumm 
   * Stroke: Ken Butcher
@@ -40,8 +40,9 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
   * python code needs to be edited
   * what decisions need to be made
   * how to organize the training, etc.
-* Hands-on session with pre-trained models + Q&A discussions (40 minutes)
+* Hands-on session with pre-trained models + Q&A discussions (remainder of the time)
 
+Note that right after this workshop  starting at 11am EST, Nvidia is holding two longer MONAI Bootcamp sessions on the 25th and 26th of January: [see information here](https://events.nvidia.com/janmonaibootcamp).
 
 ## Event logistics
 
