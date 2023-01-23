@@ -78,6 +78,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Slicer Liver](Projects/SlicerLiver/README.md) (Gabriella D'Albenzio, Ruoyan Meng, Geir A. Tangen, Ole V. Solberg, Rafael Palomar)
 
+[Slicer Maxillofacial Surgery](Projects/Slicer4MaxillofacialSurgery/README.md)
+   
 ### Segmentation/Classification
 [Lung CT Segmentation and Analysis](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/LungSegmentation#readme)
 
