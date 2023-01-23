@@ -126,6 +126,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Using VolView with images in Google Storage / IDC buckets](Projects/IDC_with_VolView/README.md) (Andrey Fedorov, Forrest Li, Stephen Aylward)
 
+[Histology Images and Models into IDC](Projects/HistologyIntoIDC/)
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7)

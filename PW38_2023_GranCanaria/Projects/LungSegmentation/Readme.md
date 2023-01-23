@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Steve Pieper (Isomics)
 - Eserval Rocha jr. (University of Sao Paulo Medical School)
 - Andras Lasso (Perk Labs)
+- Curtis Lisle (KnowledgeVis)
 
 # Project Description
 
