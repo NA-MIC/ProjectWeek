@@ -100,7 +100,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [MHub Integration](Projects/MHub_Integration/README.md)
 
-[HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](MONAI_IDC_PCa_detection/README.md)
+[HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](Projects/MONAI_IDC_PCa_detection/README.md) 
 
 [Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md)
    
