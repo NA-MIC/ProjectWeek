@@ -65,14 +65,14 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 Categories based on project list of PW37, will be updated as we populate the list of projects.
 
 ### VR/AR and Rendering
-[SlicerVR - Restore Interactions](Projects/SlicerVRInteractions) (Csaba Pintér, Simon Drouin, Andrey Titov)
+[SlicerVR - Restore Interactions](Projects/SlicerVRInteractions/README.md) (Csaba Pintér, Simon Drouin, Andrey Titov)
 
-[SlicerTMS](Projects/SlicerTMS/README.md)
+[SlicerTMS](Projects/SlicerTMS/README.md) (Loraine Franke et al)
 
 [ARinSlicer](Projects/ARinSlicer/README.md) (Alicia Pose, Javier Pascau, Gabor Fichtinger, Andras Lasso...) [On site]
 
 ### IGT and Low cost
-[Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem) (Natalia Arteaga, David García, Javier González)
+[Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (Natalia Arteaga, David García, Javier González)
    
 [Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation) (Felix von Haxthausen, David García, Tolga-Can Çallar)
 
@@ -80,7 +80,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Slicer Liver](Projects/SlicerLiver/README.md) (Gabriella D'Albenzio, Ruoyan Meng, Geir A. Tangen, Ole V. Solberg, Rafael Palomar)
 
-[Slicer Maxillofacial Surgery](Projects/Slicer4MaxillofacialSurgery/README.md)
+[Slicer Maxillofacial Surgery](Projects/Slicer4MaxillofacialSurgery/README.md) (Miguel Ángel Rodriguez-Florido, Christian Buritica)
    
 [Slicer + IMSTK for low cost training setups](Projects/SlicerIMSTK/README.md) (Sam Horvath, Kevin Cleary, Karun Sharma)
 
@@ -89,9 +89,9 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md) (Deepa Krishnaswamy et al)
    
-[Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation) (David García, Yucheng Tang, Andres Diaz,...)
+[Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation/README.md) (David García, Yucheng Tang, Andres Diaz,...)
    
-[Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI) (María Rosa Rodríguez, Tamas Ungi, David García,...)
+[Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI/README.md) (María Rosa Rodríguez, Tamas Ungi, David García,...)
 
 [AtlasYEB_Plugin_WEB_API](Projects/AtlasYEB_Plugin_WEB_API/README.md) (Sara Fdez Vidal,ICM)
 
@@ -110,13 +110,15 @@ Categories based on project list of PW37, will be updated as we populate the lis
 [Electrophysiological biosignals in 3D Slicer](Projects/Electrophysiological%20biosignals%20in%203D%20Slicer/README.md) (Jordan Ortega Rodríguez)
 
 ### Cloud and Infrastructure
-[How-to setup and run 3D Slicer on an AWS server instance step by step](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/#readme) 
+[How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (Rudolf Bumm, Steve Pieper, Gang Fu, Qing Liu)
 
 [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (Connor Bowley, Sam Horvath, David Allemang)
 
-[SlicerPipelines](Projects/SlicerPipelines/README.md)
+[SlicerPipelines](Projects/SlicerPipelines/README.md)(Connor Bowley, Sam Horvath)
 
 [MHub Integration](Projects/MHub_Integration/README.md) (Leonard Nürnberg, Dennis Bontempi, Andrey Fedorov)
+
+[3DSlicerHub](Projects/SlicerHub/README.md) (Rafael Nebot, Paula Moreno, Juan Ruiz, Idafen Santana)
 
 [HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](Projects/MONAI_IDC_PCa_detection/README.md) (Cosmin Ciausu et al)
 
@@ -136,13 +138,13 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Active Viewport](Projects/ActiveViewport/README.md)(Davide Punza, Andras Lasso)
 
-[Simple DICOM Query/Retrieve Panel](Projects/SimpleDICOMQueryRetrievePanel/README.md)
+[Simple DICOM Query/Retrieve Panel](Projects/SimpleDICOMQueryRetrievePanel/README.md) (Davide Punzo, Andras Lasso)
 
 [DICOM Segmentation Optimization](Projects/DICOMSEG/README.md)
 
 [Measurement Panel](Projects/MeasurementPanel/README.md) (Steve Pieper, et al)
 
-[SlicerAstro Update](Projects/SlicerAstroUpdate/README.md)
+[SlicerAstro Update](Projects/SlicerAstroUpdate/README.md) (Davide Punzo, Thijs van der Hulst)
 
 [Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md) (Sara Rolfe, Chi Zang, Murat Maga, Steve Pieper, Andras Lasso)
 
@@ -167,6 +169,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 [DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo)
 
 [Cross study sychronizer for OHIF Crosshair](Projects/OHIF_SyncCrosshair/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo)
+
+[Development of Anatomy Atlases and Training Tools with 3D Slicer](Projects/TTTAtlas/README.md) (Juan Ruiz, Idafen Santana, Mario Monzón)
 
 
 
