@@ -55,5 +55,5 @@ Note that right after this workshop  starting at 11am EST, Nvidia is holding two
 
 * The workshop will be recorded and made available.
 
-*Big thanks in advance to the AWS, NVIDIA and Slicer teams for providing this activity!*
+*Big thanks in advance to the AWS, NVIDIA, IDC, and Slicer teams for providing this activity!*
 
