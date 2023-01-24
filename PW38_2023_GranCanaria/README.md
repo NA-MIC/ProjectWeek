@@ -118,7 +118,15 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](Projects/MONAI_IDC_PCa_detection/README.md) 
 
-[Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md)
+[Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md) (Andrey Fedorov, Marco Nolden, Hans Meine, Klaus Kades)
+
+[Connecting/Using Kaapana to Google Cloud/Google Health/Google FHIR](Projects/KaapanaConnectingKaapanaToGoogleCloudAndHealthAndFHIR/README.md) (Jonas Scherer)
+
+[Kaapana: Data and model exchange across different sources](Projects/KaapanaDataAndModelExchangeAcrossDifferentSources/README.md) (Benjamin Hamm, Ünal Akünal, Markus Bujotzek, Klaus Kades)
+
+[Kaapana: Fast viewing and tagging of DICOM Images](Projects/KaapanaFastViewingAndTaggingOfDICOMImages/README.md) (Stefan Denner, Klaus Kades)
+
+[Kaapana: Integration of desktop apps](Projects/KaapanaIntegrationOfDesktopApps/README.md) (Hanno Gao, Klaus Kades)
    
 [FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md)
 
@@ -146,7 +154,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Histology Images and Models into IDC](Projects/HistologyIntoIDC/) (Curtis Lisle, Andrey Federov )
 
-[IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md)
+[IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md) (Andrey Federov et al)
 
 [IDC DICOM WSI workflow](Projects/IDC%20DICOM%20WSI%20workflow/README.md) (Maximilian Fischer et al )
 
