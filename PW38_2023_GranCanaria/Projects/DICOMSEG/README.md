@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Hans Meine (MeVis)
 - Alireza Sedghi (Radical)
 - Erik Ziegler (Yunu)
-- Markus Hermann (Roche)
+- Markus Hermann (Idependent)
 - Chris Bridge (MGH)
 - David Clunie (PixelMed Publishing)
 
