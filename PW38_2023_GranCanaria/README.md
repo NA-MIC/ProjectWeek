@@ -76,6 +76,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
    
 [Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation) (Felix von Haxthausen, David García, Tolga-Can Çallar)
 
+[Open Source Technologies for the Development of Clinical Simulation Centers](Projects/OpenSourceSimulationCenter/README.md) (Juan Ruiz, Idafen Santana, Mario Monzón)
+
 [Slicer Liver](Projects/SlicerLiver/README.md) (Gabriella D'Albenzio, Ruoyan Meng, Geir A. Tangen, Ole V. Solberg, Rafael Palomar)
 
 [Slicer Maxillofacial Surgery](Projects/Slicer4MaxillofacialSurgery/README.md)
@@ -83,9 +85,9 @@ Categories based on project list of PW37, will be updated as we populate the lis
 [Slicer + IMSTK for low cost training setups](Projects/SlicerIMSTK/README.md) (Sam Horvath, Kevin Cleary, Karun Sharma)
 
 ### Segmentation/Classification
-[Lung CT Segmentation and Analysis](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/LungSegmentation#readme)
+[Lung CT Segmentation and Analysis](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/LungSegmentation/Readme.md) (Rudolf Bumm et al)
 
-[MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md)
+[MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md) (Deepa Krishnaswamy et al)
    
 [Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation) (David García, Yucheng Tang, Andres Diaz,...)
    
@@ -101,7 +103,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 ### Quantification
 
-[MeshComparison](Projects/MeshComparison/README.md)
+[MeshComparison](Projects/MeshComparison/README.md) (Paolo Zaffino et al)
 
 [Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Nathan Hutin et al)
 
@@ -110,13 +112,13 @@ Categories based on project list of PW37, will be updated as we populate the lis
 ### Cloud and Infrastructure
 [How-to setup and run 3D Slicer on an AWS server instance step by step](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/#readme) 
 
-[ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md)
+[ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (Connor Bowley, Sam Horvath, David Allemang)
 
 [SlicerPipelines](Projects/SlicerPipelines/README.md)
 
-[MHub Integration](Projects/MHub_Integration/README.md)
+[MHub Integration](Projects/MHub_Integration/README.md) (Leonard Nürnberg, Dennis Bontempi, Andrey Fedorov)
 
-[HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](Projects/MONAI_IDC_PCa_detection/README.md) 
+[HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](Projects/MONAI_IDC_PCa_detection/README.md) (Cosmin Ciausu et al)
 
 [Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md) (Andrey Fedorov, Marco Nolden, Hans Meine, Klaus Kades)
 
@@ -128,7 +130,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Kaapana: Integration of desktop apps](Projects/KaapanaIntegrationOfDesktopApps/README.md) (Hanno Gao, Klaus Kades)
    
-[FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md)
+[FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md) (Marco Nolden, Andrey Fedorov)
 
 [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (Sonja Pujol, Steve Pieper, Adras Lasso, et al)
 
@@ -161,6 +163,10 @@ Categories based on project list of PW37, will be updated as we populate the lis
 [Transitioning 3D Slicer to QSS Styling](Projects/SlicerQSS/README.md) (Sam Horvath, J-Christophe Fillion-Robin, Andras Lasso, Steve Pieper)
 
 [Setting up medical imaging courses](Projects/CoursesMedicalImaging/README.md) (Juan Ruiz, Idafen Santana, Mario Monzon)
+
+[DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo)
+
+[Cross study sychronizer for OHIF Crosshair](Projects/OHIF_SyncCrosshair/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo)
 
 
 
