@@ -109,12 +109,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Electrophysiological biosignals in 3D Slicer](Projects/Electrophysiological%20biosignals%20in%203D%20Slicer/README.md) (Jordan Ortega Rodríguez)
 
-### Cloud and Infrastructure
+### Cloud / Web
 [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (Rudolf Bumm, Steve Pieper, Gang Fu, Qing Liu)
-
-[ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (Connor Bowley, Sam Horvath, David Allemang)
-
-[SlicerPipelines](Projects/SlicerPipelines/README.md)(Connor Bowley, Sam Horvath)
 
 [MHub Integration](Projects/MHub_Integration/README.md) (Leonard Nürnberg, Dennis Bontempi, Andrey Fedorov)
 
@@ -134,6 +130,35 @@ Categories based on project list of PW37, will be updated as we populate the lis
    
 [FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md) (Marco Nolden, Andrey Fedorov)
 
+[Using VolView with images in Google Storage / IDC buckets](Projects/IDC_with_VolView/README.md) (Andrey Fedorov, Forrest Li, Stephen Aylward)
+
+[Histology Images and Models into IDC](Projects/HistologyIntoIDC/README.md) (Curtis Lisle, Andrey Federov )
+
+[IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md) (Andrey Federov, Deepa Krishnaswamy, Cosmin Ciausu, Vamsi Thiriveedhi, Dennis Bontempi, Leonard Nuerenberg)
+
+[IDC DICOM WSI workflow](Projects/IDC%20DICOM%20WSI%20workflow/README.md) (Maximilian Fischer, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer)
+
+[DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo)
+
+[Cross study sychronizer for OHIF Crosshair](Projects/OHIF_SyncCrosshair/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo)
+
+
+### Landmarking
+
+[Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md) (Sara Rolfe, Chi Zang, Murat Maga, Steve Pieper, Andras Lasso)
+
+[Automatic Landmark Identification in Cranio-Facial CBCT](Projects/ALI_CBCT/README.md) (Luc Anchling, Nathan Hutin, Maxime Gillot, Baptiste Baquero, Jonas Bianchi, Marcela Gurgel, Najla Al Turkestani, Marilia Yatabe, Lucia Cevidanes, Juan Prieto)
+
+
+### Infrastructure
+[ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (Connor Bowley, Sam Horvath, David Allemang)
+
+[SlicerPipelines](Projects/SlicerPipelines/README.md)(Connor Bowley, Sam Horvath)
+
+[Transitioning 3D Slicer to QSS Styling](Projects/SlicerQSS/README.md) (Sam Horvath, J-Christophe Fillion-Robin, Andras Lasso, Steve Pieper)
+
+[SystoleOS](Projects/SystoleOS/README.md) (Rafael Palomar, Steve Pieper)
+
 [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (Sonja Pujol, Steve Pieper, Adras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Adriana H. Vilchis González, Luiz Otavio Murta Junior)
 
 [Active Viewport](Projects/ActiveViewport/README.md)(Davide Punza, Andras Lasso)
@@ -146,32 +171,11 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md) (Davide Punzo, Thijs van der Hulst)
 
-[Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md) (Sara Rolfe, Chi Zang, Murat Maga, Steve Pieper, Andras Lasso)
 
-[Automatic Landmark Identification in Cranio-Facial CBCT](Projects/ALI_CBCT/README.md) (Luc Anchling, Nathan Hutin, Maxime Gillot, Baptiste Baquero, Jonas Bianchi, Marcela Gurgel, Najla Al Turkestani, Marilia Yatabe, Lucia Cevidanes, Juan Prieto)
-
-[SystoleOS](Projects/SystoleOS/README.md) (Rafael Palomar, Steve Pieper)
-
-[Maxillofacial Surgery Virtual Planning Applications based on 3D Slicer](Projects/Slicer4MaxillofacialSurgery/README.md) (Miguel Ángel Rodríguez, Christian Buritica)
-
-[Using VolView with images in Google Storage / IDC buckets](Projects/IDC_with_VolView/README.md) (Andrey Fedorov, Forrest Li, Stephen Aylward)
-
-[Histology Images and Models into IDC](Projects/HistologyIntoIDC/README.md) (Curtis Lisle, Andrey Federov )
-
-[IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md) (Andrey Federov, Deepa Krishnaswamy, Cosmin Ciausu, Vamsi Thiriveedhi, Dennis Bontempi, Leonard Nuerenberg)
-
-[IDC DICOM WSI workflow](Projects/IDC%20DICOM%20WSI%20workflow/README.md) (Maximilian Fischer, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer)
-
-[Transitioning 3D Slicer to QSS Styling](Projects/SlicerQSS/README.md) (Sam Horvath, J-Christophe Fillion-Robin, Andras Lasso, Steve Pieper)
-
+### Training
 [Setting up medical imaging courses](Projects/CoursesMedicalImaging/README.md) (Juan Ruiz, Idafen Santana, Mario Monzon)
 
-[DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo)
-
-[Cross study sychronizer for OHIF Crosshair](Projects/OHIF_SyncCrosshair/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo)
-
 [Development of Anatomy Atlases and Training Tools with 3D Slicer](Projects/TTTAtlas/README.md) (Juan Ruiz, Idafen Santana, Mario Monzón)
-
 
 
 ## Registrants
