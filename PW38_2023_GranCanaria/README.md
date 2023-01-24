@@ -101,7 +101,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 1. [Automatic Standardize Orientation IOS](Projects/AutomaticStandardizeOrientation_IOS/README.md) (Nathan Hutin, Luc Anchling, Marcela Gruge, Felicia Miranda, Najla Al Turkestani, Selene Barone, Lucia Cevidanes, Juan Prieto)
 
-### Quantification
+### Quantification and Computation
 
 18. [MeshComparison](Projects/MeshComparison/README.md) (Paolo Zaffino, Maria Francesca Spadea, Michela Destito, Amerigo Giudice)
 
@@ -109,8 +109,10 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 1. [Electrophysiological biosignals in 3D Slicer](Projects/Electrophysiological%20biosignals%20in%203D%20Slicer/README.md) (Jordan Ortega Rodríguez)
 
+1. [Surface Nets](Projects/SurfaceNets/README.md) (Andy Huynh, Gerry Gralton, Benjamin Zwick)
+
 ### Cloud / Web
-21. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (Rudolf Bumm, Steve Pieper, Gang Fu, Qing Liu)
+22. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (Rudolf Bumm, Steve Pieper, Gang Fu, Qing Liu)
 
 1. [MHub Integration](Projects/MHub_Integration/README.md) (Leonard Nürnberg, Dennis Bontempi, Andrey Fedorov)
 
@@ -127,6 +129,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 1. [Kaapana: Fast viewing and tagging of DICOM Images](Projects/KaapanaFastViewingAndTaggingOfDICOMImages/README.md) (Stefan Denner, Klaus Kades)
 
 1. [Kaapana: Integration of desktop apps](Projects/KaapanaIntegrationOfDesktopApps/README.md) (Hanno Gao, Klaus Kades)
+
+1. [Integration of clinical data into medical imaging pipelines](Projects/KaapanaClinicalData/README.md) (Philipp Schade)
    
 1. [FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md) (Marco Nolden, Andrey Fedorov)
 
@@ -145,13 +149,13 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 ### Landmarking
 
-37. [Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md) (Sara Rolfe, Chi Zang, Murat Maga, Steve Pieper, Andras Lasso)
+39. [Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md) (Sara Rolfe, Chi Zang, Murat Maga, Steve Pieper, Andras Lasso)
 
 1. [Automatic Landmark Identification in Cranio-Facial CBCT](Projects/ALI_CBCT/README.md) (Luc Anchling, Nathan Hutin, Maxime Gillot, Baptiste Baquero, Jonas Bianchi, Marcela Gurgel, Najla Al Turkestani, Marilia Yatabe, Lucia Cevidanes, Juan Prieto)
 
 
 ### Infrastructure
-39. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (Connor Bowley, Sam Horvath, David Allemang)
+41. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (Connor Bowley, Sam Horvath, David Allemang)
 
 1. [SlicerPipelines](Projects/SlicerPipelines/README.md)(Connor Bowley, Sam Horvath)
 
@@ -173,7 +177,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 
 ### Training
-49. [Setting up medical imaging courses](Projects/CoursesMedicalImaging/README.md) (Juan Ruiz, Idafen Santana, Mario Monzon)
+51. [Setting up medical imaging courses](Projects/CoursesMedicalImaging/README.md) (Juan Ruiz, Idafen Santana, Mario Monzon)
 
 1. [Development of Anatomy Atlases and Training Tools with 3D Slicer](Projects/TTTAtlas/README.md) (Juan Ruiz, Idafen Santana, Mario Monzón)
 
