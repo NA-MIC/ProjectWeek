@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Miguel Ángel Rodriguez-Florido, PhD (GTMA, University of Las Palmas de Gran Canaria)
+- Miguel Ángel Rodriguez-Florido, PhD (GTMA, University of Las Palmas de Gran Canaria and Children’s, Women’s and General Hospital Insular)
 - Christian Buritica, MD (Children’s, Women’s and General Hospital Insular)
 
 # Project Description
