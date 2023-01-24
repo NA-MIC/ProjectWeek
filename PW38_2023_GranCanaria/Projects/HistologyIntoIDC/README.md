@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Curtis Lisle (KnowledgeVis)
+- Andrey Fedorov (BWH)
 - others welcome
 
 
