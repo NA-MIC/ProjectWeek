@@ -161,7 +161,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 1. [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (Sonja Pujol, Steve Pieper, Adras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Adriana H. Vilchis González, Luiz Otavio Murta Junior)
 
-1. [Active Viewport](Projects/ActiveViewport/README.md)(Davide Punza, Andras Lasso)
+1. [Active Viewport](Projects/ActiveViewport/README.md) (Davide Punzo, Andras Lasso)
 
 1. [Simple DICOM Query/Retrieve Panel](Projects/SimpleDICOMQueryRetrievePanel/README.md) (Davide Punzo, Andras Lasso)
 
