@@ -153,7 +153,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md) (**Andrey Fedorov**, Deepa Krishnaswamy, Cosmin Ciausu, Vamsi Thiriveedhi, Dennis Bontempi, Leonard Nuerenberg) *[On site]*
 
-1. [IDC DICOM WSI workflow](Projects/IDC%20DICOM%20WSI%20workflow/README.md) (**Maximilian Fischer**, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer) *[On site]*
+1. [IDC DICOM WSI workflow](Projects/IDC_DICOM_WSI_workflow/README.md) (**Maximilian Fischer**, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer) *[On site]*
 
 1. [Histology Images and Models into IDC](Projects/HistologyIntoIDC/README.md) (**Curtis Lisle**, Andrey Fedorov ) *[Remote]*
 
