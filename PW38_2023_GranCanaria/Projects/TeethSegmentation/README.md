@@ -9,6 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andres Diaz Pinto (NVIDIA, UK)
 - Daniel Palkovics (Semmelweis University, Budapest, Hungary)
 - Csaba Pinter (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
+- Attila Nagy (University of Szeged, Szeged, Hungary)
 
 # Project Description
 
