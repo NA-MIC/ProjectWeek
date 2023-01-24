@@ -68,123 +68,121 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ## Projects [(How to add a new project?)](Projects/Readme.md)
 Categories based on project list of PW37, will be updated as we populate the list of projects.
 
+Presenter (assumed based on order + confirmed status) in **bold**
+
 ### VR/AR and Rendering
-1. [SlicerVR - Restore Interactions](Projects/SlicerVRInteractions/README.md) (Csaba Pintér, Simon Drouin, Andrey Titov)
+1. [SlicerVR - Restore Interactions](Projects/SlicerVRInteractions/README.md) (**Csaba Pintér**, Simon Drouin, Andrey Titov) *[On site]*
 
-1. [SlicerTMS](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Yogesh Rathi, Lipeng Ning, Steve Pieper, Daniel Haehn)
+1. [SlicerTMS](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Yogesh Rathi, Lipeng Ning, Steve Pieper, Daniel Haehn) *[??]*
 
-1. [ARinSlicer](Projects/ARinSlicer/README.md) (Alicia Pose, Javier Pascau, Gabor Fichtinger, Andras Lasso...) [On site]
+1. [ARinSlicer](Projects/ARinSlicer/README.md) (Alicia Pose, Javier Pascau, **Gabor Fichtinger**, Andras Lasso...) *[On site]*
 
-### IGT and Low cost
-4. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (Natalia Arteaga, David García, Javier González)
+### IGT and Training
+4. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (Natalia Arteaga, **David García**, Javier González) *[On site]*
    
-1. [Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation/README.md) (Felix von Haxthausen, David García, Tolga-Can Çallar)
+1. [Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation/README.md) (**Felix von Haxthausen**, David García, Tolga-Can Çallar) *[On site]*
 
-1. [Open Source Technologies for the Development of Clinical Simulation Centers](Projects/OpenSourceSimulationCenter/README.md) (Juan Ruiz, Idafen Santana, Mario Monzón)
+1. [Slicer Liver](Projects/SlicerLiver/README.md) (Gabriella D'Albenzio, **Ruoyan Meng**, Geir A. Tangen, Ole V. Solberg, Rafael Palomar) *[On site]*
 
-1. [Slicer Liver](Projects/SlicerLiver/README.md) (Gabriella D'Albenzio, Ruoyan Meng, Geir A. Tangen, Ole V. Solberg, Rafael Palomar)
-
-1. [Slicer Maxillofacial Surgery](Projects/Slicer4MaxillofacialSurgery/README.md) (Miguel Ángel Rodriguez-Florido, Christian Buritica)
+1. [Slicer Maxillofacial Surgery](Projects/Slicer4MaxillofacialSurgery/README.md) (Miguel Ángel Rodriguez-Florido, Christian Buritica) *[??]*
    
-1. [Slicer + IMSTK for low cost training setups](Projects/SlicerIMSTK/README.md) (Sam Horvath, Kevin Cleary, Karun Sharma)
+1. [Slicer + IMSTK for low cost training setups](Projects/SlicerIMSTK/README.md) (**Sam Horvath**, Kevin Cleary, Karun Sharma) *[On site]*
 
-### Segmentation/Classification
-10. [Lung CT Segmentation and Analysis](Projects/LungSegmentation/Readme.md) (Rudolf Bumm, Ron Kikinis, Raúl San José Estépar, Steve Pieper, Eserval Rocha jr., Andras Lasso, Curtis Lisle)
+1. [Open Source Technologies for the Development of Clinical Simulation Centers](Projects/OpenSourceSimulationCenter/README.md) (**Juan Ruiz**, Idafen Santana, Mario Monzón) *[On site]*
 
-1. [MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md) (Deepa Krishnaswamy, Cosmin Ciausu, Nazim Haouchine, Andres Diaz-Pinto, Jesse Tetreault, Roya Hajavi, Stephen Aylward, Steve Pieper, Andrey Fedorov)
+1. [Setting up medical imaging courses](Projects/CoursesMedicalImaging/README.md) (**Juan Ruiz**, Idafen Santana, Mario Monzon) *[On site]*
+
+1. [Development of Anatomy Atlases and Training Tools with 3D Slicer](Projects/TTTAtlas/README.md) (**Juan Ruiz**, Idafen Santana, Mario Monzón) *[On site]*
+
+### Segmentation / Classification / Landmarking
+12. [Lung CT Segmentation and Analysis](Projects/LungSegmentation/Readme.md) (**Rudolf Bumm**, Ron Kikinis, Raúl San José Estépar, Steve Pieper, Eserval Rocha jr., Andras Lasso, Curtis Lisle) *[On site]*
+
+1. [MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md) (**Deepa Krishnaswamy**, Cosmin Ciausu, Nazim Haouchine, Andres Diaz-Pinto, Jesse Tetreault, Roya Hajavi, Stephen Aylward, Steve Pieper, Andrey Fedorov) *[On site]*
    
-1. [Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation/README.md) (David García, Yucheng Tang, Andres Diaz,...)
+1. [Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation/README.md) (**David García**, Yucheng Tang, Andres Diaz,...) *[On site]*
    
-1. [Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI/README.md) (María Rosa Rodríguez, Tamas Ungi, David García,...)
+1. [Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI/README.md) (María Rosa Rodríguez, Tamas Ungi, **David García**,...) *[On site]*
 
-1. [AtlasYEB_Plugin_WEB_API](Projects/AtlasYEB_Plugin_WEB_API/README.md) (Sara Fdez Vidal,ICM)
+1. [AtlasYEB_Plugin_WEB_API](Projects/AtlasYEB_Plugin_WEB_API/README.md) (**Sara Fdez Vidal,ICM**) *[On site]*
 
-1. [Automatic multi-anatomical skull structure segmentation of cone-beam computed tomography scans using 3D UNETR](Projects/AMASSS_CBCT/README.md)(Luc Anchling et al)
+1. [Automatic multi-anatomical skull structure segmentation of cone-beam computed tomography scans using 3D UNETR](Projects/AMASSS_CBCT/README.md)(**Luc Anchling** et al) *[Remote]*
 
-1. [Automated Standardized Orientation for Cone-Beam Computed Tomography (CBCT)](Projects/ASO_CBCT/README.md)(Luc Anchling, Nathan Hutin, Maxime Gillot, Baptiste Baquero, Jonas Bianchi, Antonio Ruellas, Felicia Miranda, Selene Barone, Marcela Gurgel, Marilia Yatabe, Najla Al Turkestani, Hina Joshi, Lucia Cevidanes, Juan Prieto)
+1. [Automated Standardized Orientation for Cone-Beam Computed Tomography (CBCT)](Projects/ASO_CBCT/README.md)(**Luc Anchling**, Nathan Hutin, Maxime Gillot, Baptiste Baquero, Jonas Bianchi, Antonio Ruellas, Felicia Miranda, Selene Barone, Marcela Gurgel, Marilia Yatabe, Najla Al Turkestani, Hina Joshi, Lucia Cevidanes, Juan Prieto) *[Remote]*
 
-1. [Automatic Standardize Orientation IOS](Projects/AutomaticStandardizeOrientation_IOS/README.md) (Nathan Hutin, Luc Anchling, Marcela Gruge, Felicia Miranda, Najla Al Turkestani, Selene Barone, Lucia Cevidanes, Juan Prieto)
+1. [Automatic Standardize Orientation IOS](Projects/AutomaticStandardizeOrientation_IOS/README.md) (**Nathan Hutin**, Luc Anchling, Marcela Gruge, Felicia Miranda, Najla Al Turkestani, Selene Barone, Lucia Cevidanes, Juan Prieto) *[Remote]*
+
+1. [Automatic Landmark Identification in Cranio-Facial CBCT](Projects/ALI_CBCT/README.md) (**Luc Anchling**, Nathan Hutin, Maxime Gillot, Baptiste Baquero, Jonas Bianchi, Marcela Gurgel, Najla Al Turkestani, Marilia Yatabe, Lucia Cevidanes, Juan Prieto) *[Remote]*
+
+1. [Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md) (Sara Rolfe, Chi Zang, Murat Maga, Steve Pieper, Andras Lasso) *[??]*
+
 
 ### Quantification and Computation
 
-18. [MeshComparison](Projects/MeshComparison/README.md) (Paolo Zaffino, Maria Francesca Spadea, Michela Destito, Amerigo Giudice)
+22. [Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (**Nathan Hutin**, Luc Anchling, Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, David Allemang, Jean-Christophe Fillion-Robin) *[Remote]*
 
-1. [Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Nathan Hutin, Luc Anchling, Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, David Allemang, Jean-Christophe Fillion-Robin)
+1. [MeshComparison](Projects/MeshComparison/README.md) (**Paolo Zaffino**, Maria Francesca Spadea, Michela Destito, Amerigo Giudice) *[On site]*
 
-1. [Electrophysiological biosignals in 3D Slicer](Projects/Electrophysiological%20biosignals%20in%203D%20Slicer/README.md) (Jordan Ortega Rodríguez)
+1. [Electrophysiological biosignals in 3D Slicer](Projects/Electrophysiological%20biosignals%20in%203D%20Slicer/README.md) (**Jordan Ortega Rodríguez**) *[On site]*
 
-1. [Surface Nets](Projects/SurfaceNets/README.md) (Andy Huynh, Gerry Gralton, Benjamin Zwick)
+1. [Surface Nets](Projects/SurfaceNets/README.md) (**Andy Huynh**, Gerry Gralton, Benjamin Zwick) *[On site]*
 
 ### Cloud / Web
-22. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (Rudolf Bumm, Steve Pieper, Gang Fu, Qing Liu)
+26. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (**Rudolf Bumm**, Steve Pieper, Gang Fu, Qing Liu) *[On site]*
 
-1. [MHub Integration](Projects/MHub_Integration/README.md) (Leonard Nürnberg, Dennis Bontempi, Andrey Fedorov)
+1. [MHub Integration](Projects/MHub_Integration/README.md) (**Leonard Nürnberg**, Dennis Bontempi, Andrey Fedorov) *[On site]*
 
-1. [3DSlicerHub](Projects/SlicerHub/README.md) (Rafael Nebot, Paula Moreno, Juan Ruiz, Idafen Santana)
+1. [3DSlicerHub](Projects/SlicerHub/README.md) (**Rafael Nebot**, Paula Moreno, Juan Ruiz, Idafen Santana) *[On site]*
 
-1. [HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](Projects/MONAI_IDC_PCa_detection/README.md) (Cosmin Ciausu, Deepa Krishnaswamy, Patrick Remerscheid, Tina Kapur, Sandy Wells, Andrey Fedorov, Khaled Younis)
+1. [HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](Projects/MONAI_IDC_PCa_detection/README.md) (**Cosmin Ciausu**, Deepa Krishnaswamy, Patrick Remerscheid, Tina Kapur, Sandy Wells, Andrey Fedorov, Khaled Younis) *[On site]*
 
-1. [Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md) (Andrey Fedorov, Marco Nolden, Hans Meine, Klaus Kades)
+1. [Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md) (**Andrey Fedorov**, Marco Nolden, Hans Meine, Klaus Kades) *[On site]*
 
-1. [Connecting/Using Kaapana to Google Cloud/Google Health/Google FHIR](Projects/KaapanaConnectingKaapanaToGoogleCloudAndHealthAndFHIR/README.md) (Jonas Scherer)
+1. [Connecting/Using Kaapana to Google Cloud/Google Health/Google FHIR](Projects/KaapanaConnectingKaapanaToGoogleCloudAndHealthAndFHIR/README.md) (**Jonas Scherer**) *[Remote]*
 
-1. [Kaapana: Data and model exchange across different sources](Projects/KaapanaDataAndModelExchangeAcrossDifferentSources/README.md) (Benjamin Hamm, Ünal Akünal, Markus Bujotzek, Klaus Kades)
+1. [Kaapana: Data and model exchange across different sources](Projects/KaapanaDataAndModelExchangeAcrossDifferentSources/README.md) (**Benjamin Hamm**, Ünal Akünal, Markus Bujotzek, Klaus Kades) *[On site]*
 
-1. [Kaapana: Fast viewing and tagging of DICOM Images](Projects/KaapanaFastViewingAndTaggingOfDICOMImages/README.md) (Stefan Denner, Klaus Kades)
+1. [Kaapana: Fast viewing and tagging of DICOM Images](Projects/KaapanaFastViewingAndTaggingOfDICOMImages/README.md) (**Stefan Denner**, Klaus Kades) *[On site]*
 
-1. [Kaapana: Integration of desktop apps](Projects/KaapanaIntegrationOfDesktopApps/README.md) (Hanno Gao, Klaus Kades)
+1. [Kaapana: Integration of desktop apps](Projects/KaapanaIntegrationOfDesktopApps/README.md) (**Hanno Gao**, Klaus Kades) *[On site]*
 
-1. [Integration of clinical data into medical imaging pipelines](Projects/KaapanaClinicalData/README.md) (Philipp Schade)
+1. [Integration of clinical data into medical imaging pipelines](Projects/KaapanaClinicalData/README.md) (**Philipp Schade**) *[On site]*
    
-1. [FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md) (Marco Nolden, Andrey Fedorov)
+1. [FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md) (**Marco Nolden**, Andrey Fedorov) *[On site]*
 
-1. [Using VolView with images in Google Storage / IDC buckets](Projects/IDC_with_VolView/README.md) (Andrey Fedorov, Forrest Li, Stephen Aylward)
+1. [Using VolView with images in Google Storage / IDC buckets](Projects/IDC_with_VolView/README.md) (**Andrey Fedorov**, Forrest Li, Stephen Aylward) *[On site]*
 
-1. [Histology Images and Models into IDC](Projects/HistologyIntoIDC/README.md) (Curtis Lisle, Andrey Federov )
+1. [IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md) (**Andrey Federov**, Deepa Krishnaswamy, Cosmin Ciausu, Vamsi Thiriveedhi, Dennis Bontempi, Leonard Nuerenberg) *[On site]*
 
-1. [IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md) (Andrey Federov, Deepa Krishnaswamy, Cosmin Ciausu, Vamsi Thiriveedhi, Dennis Bontempi, Leonard Nuerenberg)
+1. [IDC DICOM WSI workflow](Projects/IDC%20DICOM%20WSI%20workflow/README.md) (**Maximilian Fischer**, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer) *[On site]*
 
-1. [IDC DICOM WSI workflow](Projects/IDC%20DICOM%20WSI%20workflow/README.md) (Maximilian Fischer, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer)
-
-1. [DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo)
-
-1. [Cross study sychronizer for OHIF Crosshair](Projects/OHIF_SyncCrosshair/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo)
+1. [Histology Images and Models into IDC](Projects/HistologyIntoIDC/README.md) (**Curtis Lisle**, Andrey Federov ) *[Remote]*
 
 
-### Landmarking
+1. [DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
 
-39. [Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md) (Sara Rolfe, Chi Zang, Murat Maga, Steve Pieper, Andras Lasso)
-
-1. [Automatic Landmark Identification in Cranio-Facial CBCT](Projects/ALI_CBCT/README.md) (Luc Anchling, Nathan Hutin, Maxime Gillot, Baptiste Baquero, Jonas Bianchi, Marcela Gurgel, Najla Al Turkestani, Marilia Yatabe, Lucia Cevidanes, Juan Prieto)
+1. [Cross study sychronizer for OHIF Crosshair](Projects/OHIF_SyncCrosshair/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
 
 
 ### Infrastructure
-41. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (Connor Bowley, Sam Horvath, David Allemang)
+43. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (**Connor Bowley**, Sam Horvath, David Allemang) *[On site]*
 
-1. [SlicerPipelines](Projects/SlicerPipelines/README.md)(Connor Bowley, Sam Horvath)
+1. [SlicerPipelines](Projects/SlicerPipelines/README.md)(**Connor Bowley**, Sam Horvath) *[On site]*
 
-1. [Transitioning 3D Slicer to QSS Styling](Projects/SlicerQSS/README.md) (Sam Horvath, J-Christophe Fillion-Robin, Andras Lasso, Steve Pieper)
+1. [Transitioning 3D Slicer to QSS Styling](Projects/SlicerQSS/README.md) (**Sam Horvath**, J-Christophe Fillion-Robin, Andras Lasso, Steve Pieper) *[On site]*
 
-1. [SystoleOS](Projects/SystoleOS/README.md) (Rafael Palomar, Steve Pieper)
+1. [SystoleOS](Projects/SystoleOS/README.md) (**Rafael Palomar**, Steve Pieper) *[On site]*
 
-1. [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (Sonja Pujol, Steve Pieper, Adras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Adriana H. Vilchis González, Luiz Otavio Murta Junior)
+1. [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (Sonja Pujol, Steve Pieper, Andras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Adriana H. Vilchis González, Luiz Otavio Murta Junior) *[??]*
 
-1. [Active Viewport](Projects/ActiveViewport/README.md) (Davide Punzo, Andras Lasso)
+1. [Active Viewport](Projects/ActiveViewport/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
 
-1. [Simple DICOM Query/Retrieve Panel](Projects/SimpleDICOMQueryRetrievePanel/README.md) (Davide Punzo, Andras Lasso)
+1. [Simple DICOM Query/Retrieve Panel](Projects/SimpleDICOMQueryRetrievePanel/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
 
-1. [DICOM Segmentation Optimization](Projects/DICOMSEG/README.md) (Steve Pieper, Andrey Fedorov, Andras Lasso, Marco Nolden, Hans Meine, Alireza Sedghi, Erik Ziegler, Markus Hermann, Chris Bridge, David Clunie)
+1. [Measurement Panel](Projects/MeasurementPanel/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
 
-1. [Measurement Panel](Projects/MeasurementPanel/README.md) (Davide Punzo, Andras Lasso)
+1. [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md) (**Davide Punzo**, Thijs van der Hulst) *[On site]*
 
-1. [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md) (Davide Punzo, Thijs van der Hulst)
-
-
-### Training
-51. [Setting up medical imaging courses](Projects/CoursesMedicalImaging/README.md) (Juan Ruiz, Idafen Santana, Mario Monzon)
-
-1. [Development of Anatomy Atlases and Training Tools with 3D Slicer](Projects/TTTAtlas/README.md) (Juan Ruiz, Idafen Santana, Mario Monzón)
-
+1. [DICOM Segmentation Optimization](Projects/DICOMSEG/README.md) (**Steve Pieper**, Andrey Fedorov, Andras Lasso, Marco Nolden, Hans Meine, Alireza Sedghi, Erik Ziegler, Markus Hermann, Chris Bridge, David Clunie) *[On site]*
 
 ## Registrants
 
