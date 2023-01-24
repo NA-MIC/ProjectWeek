@@ -128,6 +128,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Histology Images and Models into IDC](Projects/HistologyIntoIDC/)
 
+[IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md)
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7)
