@@ -72,7 +72,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 1. [ARinSlicer](Projects/ARinSlicer/README.md) (Alicia Pose, Javier Pascau, Gabor Fichtinger, Andras Lasso...) [On site]
 
 ### IGT and Low cost
-1. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (Natalia Arteaga, David García, Javier González)
+4. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (Natalia Arteaga, David García, Javier González)
    
 1. [Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation/README.md) (Felix von Haxthausen, David García, Tolga-Can Çallar)
 
@@ -85,7 +85,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 1. [Slicer + IMSTK for low cost training setups](Projects/SlicerIMSTK/README.md) (Sam Horvath, Kevin Cleary, Karun Sharma)
 
 ### Segmentation/Classification
-1. [Lung CT Segmentation and Analysis](Projects/LungSegmentation/Readme.md) (Rudolf Bumm, Ron Kikinis, Raúl San José Estépar, Steve Pieper, Eserval Rocha jr., Andras Lasso, Curtis Lisle)
+10. [Lung CT Segmentation and Analysis](Projects/LungSegmentation/Readme.md) (Rudolf Bumm, Ron Kikinis, Raúl San José Estépar, Steve Pieper, Eserval Rocha jr., Andras Lasso, Curtis Lisle)
 
 1. [MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md) (Deepa Krishnaswamy, Cosmin Ciausu, Nazim Haouchine, Andres Diaz-Pinto, Jesse Tetreault, Roya Hajavi, Stephen Aylward, Steve Pieper, Andrey Fedorov)
    
@@ -103,14 +103,14 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 ### Quantification
 
-1. [MeshComparison](Projects/MeshComparison/README.md) (Paolo Zaffino, Maria Francesca Spadea, Michela Destito, Amerigo Giudice)
+18. [MeshComparison](Projects/MeshComparison/README.md) (Paolo Zaffino, Maria Francesca Spadea, Michela Destito, Amerigo Giudice)
 
 1. [Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Nathan Hutin, Luc Anchling, Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, David Allemang, Jean-Christophe Fillion-Robin)
 
 1. [Electrophysiological biosignals in 3D Slicer](Projects/Electrophysiological%20biosignals%20in%203D%20Slicer/README.md) (Jordan Ortega Rodríguez)
 
 ### Cloud / Web
-1. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (Rudolf Bumm, Steve Pieper, Gang Fu, Qing Liu)
+21. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (Rudolf Bumm, Steve Pieper, Gang Fu, Qing Liu)
 
 1. [MHub Integration](Projects/MHub_Integration/README.md) (Leonard Nürnberg, Dennis Bontempi, Andrey Fedorov)
 
@@ -145,13 +145,13 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 ### Landmarking
 
-1. [Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md) (Sara Rolfe, Chi Zang, Murat Maga, Steve Pieper, Andras Lasso)
+37. [Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md) (Sara Rolfe, Chi Zang, Murat Maga, Steve Pieper, Andras Lasso)
 
 1. [Automatic Landmark Identification in Cranio-Facial CBCT](Projects/ALI_CBCT/README.md) (Luc Anchling, Nathan Hutin, Maxime Gillot, Baptiste Baquero, Jonas Bianchi, Marcela Gurgel, Najla Al Turkestani, Marilia Yatabe, Lucia Cevidanes, Juan Prieto)
 
 
 ### Infrastructure
-1. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (Connor Bowley, Sam Horvath, David Allemang)
+39. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (Connor Bowley, Sam Horvath, David Allemang)
 
 1. [SlicerPipelines](Projects/SlicerPipelines/README.md)(Connor Bowley, Sam Horvath)
 
@@ -173,7 +173,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 
 ### Training
-1. [Setting up medical imaging courses](Projects/CoursesMedicalImaging/README.md) (Juan Ruiz, Idafen Santana, Mario Monzon)
+49. [Setting up medical imaging courses](Projects/CoursesMedicalImaging/README.md) (Juan Ruiz, Idafen Santana, Mario Monzon)
 
 1. [Development of Anatomy Atlases and Training Tools with 3D Slicer](Projects/TTTAtlas/README.md) (Juan Ruiz, Idafen Santana, Mario Monzón)
 
