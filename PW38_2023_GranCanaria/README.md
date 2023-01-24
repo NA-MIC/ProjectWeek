@@ -57,6 +57,10 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 </script>
 
 [How to add this calendar to your own?](../common/Calendar.md)
+   
+## Travel guide
+   
+[Gran Canaria travel guide](GranCanaria_TravelGuide.md)
 
 ## Breakout sessions
 [Panel: clinical uses of 3D Slicer](Projects/ClinicalPanel-BreakoutSession.md) (Rudolf Bumm)
