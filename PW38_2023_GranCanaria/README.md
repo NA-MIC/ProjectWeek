@@ -74,7 +74,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 ### IGT and Low cost
 [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (Natalia Arteaga, David García, Javier González)
    
-[Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation) (Felix von Haxthausen, David García, Tolga-Can Çallar)
+[Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation/README.md) (Felix von Haxthausen, David García, Tolga-Can Çallar)
 
 [Open Source Technologies for the Development of Clinical Simulation Centers](Projects/OpenSourceSimulationCenter/README.md) (Juan Ruiz, Idafen Santana, Mario Monzón)
 
@@ -152,11 +152,11 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [SystoleOS](Projects/SystoleOS/README.md) (Rafael Palomar, Steve Pieper)
 
-[Maxillofacial Surgery Virtual Planning Applications based on 3D Slicer](Projects/Slicer4MaxillofacialSurgery) (Miguel Ángel Rodríguez, Christian Buritica)
+[Maxillofacial Surgery Virtual Planning Applications based on 3D Slicer](Projects/Slicer4MaxillofacialSurgery/README.md) (Miguel Ángel Rodríguez, Christian Buritica)
 
 [Using VolView with images in Google Storage / IDC buckets](Projects/IDC_with_VolView/README.md) (Andrey Fedorov, Forrest Li, Stephen Aylward)
 
-[Histology Images and Models into IDC](Projects/HistologyIntoIDC/) (Curtis Lisle, Andrey Federov )
+[Histology Images and Models into IDC](Projects/HistologyIntoIDC/README.md) (Curtis Lisle, Andrey Federov )
 
 [IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md) (Andrey Federov, Deepa Krishnaswamy, Cosmin Ciausu, Vamsi Thiriveedhi, Dennis Bontempi, Leonard Nuerenberg)
 
