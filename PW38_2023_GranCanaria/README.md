@@ -97,9 +97,13 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Automated Standardized Orientation for Cone-Beam Computed Tomography (CBCT)](Projects/ASO_CBCT/README.md)(Luc Anchling et al)
 
+[Automatic Standardize Orientation IOS](Projects/AutomaticStandardizeOrientation_IOS/README.md) (Nathan Hutin et al)
+
 ### Quantification
 
 [MeshComparison](Projects/MeshComparison/README.md)
+
+[Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Nathan Hutin et al)
 
 ### Cloud and Infrastructure
 [How-to setup and run 3D Slicer on an AWS server instance step by step](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/#readme) 
@@ -143,6 +147,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 [IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md)
 
 [Transitioning 3D Slicer to QSS Styling](Projects/SlicerQSS/README.md) (Sam Horvath, J-Christophe Fillion-Robin, Andras Lasso, Steve Pieper)
+
+[Setting up medical imaging courses](Projects/CoursesMedicalImaging/README.md) (Juan Ruiz, Idafen Santana, Mario Monzon)
 
 
 
