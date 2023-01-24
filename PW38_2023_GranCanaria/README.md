@@ -93,6 +93,10 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [AtlasYEB_Plugin_WEB_API] (Projects/AtlasYEB_Plugin_WEB_API/README.md) (Sara Fdez Vidal,ICM)
 
+[Automatic multi-anatomical skull structure segmentation of cone-beam computed tomography scans using 3D UNETR](Projects/AMASS_CBCT/README.md)(Luc Anchling et al)
+
+[Automated Standardized Orientation for Cone-Beam Computed Tomography (CBCT)](Projects/ASO_CBCT/README.md)(Luc Anchling et al)
+
 ### Quantification
 
 [MeshComparison](Projects/MeshComparison/README.md)
@@ -112,9 +116,9 @@ Categories based on project list of PW37, will be updated as we populate the lis
    
 [FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md)
 
-[3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md)
+[3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (Sonja Pujol, Steve Pieper, Adras Lasso, et al)
 
-[Active Viewport](Projects/ActiveViewport/README.md)
+[Active Viewport](Projects/ActiveViewport/README.md)(Davide Punza, Andras Lasso)
 
 [Simple DICOM Query/Retrieve Panel](Projects/SimpleDICOMQueryRetrievePanel/README.md)
 
@@ -124,7 +128,9 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md)
 
-[Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md)
+[Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md) (Sara Rolfe, Chi Zang, Murat Maga, Steve Pieper, Andras Lasso)
+
+[Automatic Landmark Identification in Cranio-Facial CBCT](Projects/AutomatedLandmarkingSupport/README.md) (Luc Anchling et al))
 
 [SystoleOS](Projects/SystoleOS/README.md) (Rafael Palomar, Steve Pieper)
 
@@ -137,6 +143,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 [IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md)
 
 [Transitioning 3D Slicer to QSS Styling](Projects/SlicerQSS/README.md) (Sam Horvath, J-Christophe Fillion-Robin, Andras Lasso, Steve Pieper)
+
+
 
 ## Registrants
 
