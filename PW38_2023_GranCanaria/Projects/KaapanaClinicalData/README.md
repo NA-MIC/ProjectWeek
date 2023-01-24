@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Philipp Schader (German Cancer Research Center, Germany)
-- anyone is welcome to join
+- Andrey Fedorov (BWH)
 
 # Project Description
 
