@@ -105,6 +105,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Nathan Hutin et al)
 
+[ Electrophysiological biosignals in 3D Slicer](Projects/Electrophysiological biosignals in 3D Slicer/README.md) (Jordan Ortega Rodríguez)
+
 ### Cloud and Infrastructure
 [How-to setup and run 3D Slicer on an AWS server instance step by step](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/#readme) 
 
@@ -128,7 +130,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [DICOM Segmentation Optimization](Projects/DICOMSEG/README.md)
 
-[Measurement Panel](Projects/MeasurementPanel/README.md)
+[Measurement Panel](Projects/MeasurementPanel/README.md) (Steve Pieper, et al)
 
 [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md)
 
@@ -142,7 +144,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Using VolView with images in Google Storage / IDC buckets](Projects/IDC_with_VolView/README.md) (Andrey Fedorov, Forrest Li, Stephen Aylward)
 
-[Histology Images and Models into IDC](Projects/HistologyIntoIDC/)
+[Histology Images and Models into IDC](Projects/HistologyIntoIDC/) (Curtis Lisle, Andrey Federov, )
 
 [IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md)
 
