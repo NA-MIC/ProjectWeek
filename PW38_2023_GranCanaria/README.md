@@ -69,7 +69,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [SlicerTMS](Projects/SlicerTMS/README.md)
 
-[ARinSlicer](Projects/ARinSlicer/README.md)
+[ARinSlicer](Projects/ARinSlicer/README.md) (Alicia Pose, Javier Pascau, Gabor Fichtinger, Andras Lasso...) [On site]
 
 ### IGT and Low cost
 [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem) (Natalia Arteaga, David García, Javier González)
