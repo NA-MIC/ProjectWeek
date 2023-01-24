@@ -67,7 +67,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 ### VR/AR and Rendering
 [SlicerVR - Restore Interactions](Projects/SlicerVRInteractions/README.md) (Csaba Pintér, Simon Drouin, Andrey Titov)
 
-[SlicerTMS](Projects/SlicerTMS/README.md) (Loraine Franke et al)
+[SlicerTMS](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Yogesh Rathi, Lipeng Ning, Steve Pieper, Daniel Haehn)
 
 [ARinSlicer](Projects/ARinSlicer/README.md) (Alicia Pose, Javier Pascau, Gabor Fichtinger, Andras Lasso...) [On site]
 
@@ -85,9 +85,9 @@ Categories based on project list of PW37, will be updated as we populate the lis
 [Slicer + IMSTK for low cost training setups](Projects/SlicerIMSTK/README.md) (Sam Horvath, Kevin Cleary, Karun Sharma)
 
 ### Segmentation/Classification
-[Lung CT Segmentation and Analysis](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/LungSegmentation/Readme.md) (Rudolf Bumm et al)
+[Lung CT Segmentation and Analysis](Projects/LungSegmentation/Readme.md) (Rudolf Bumm, Ron Kikinis, Raúl San José Estépar, Steve Pieper, Eserval Rocha jr., Andras Lasso, Curtis Lisle)
 
-[MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md) (Deepa Krishnaswamy et al)
+[MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md) (Deepa Krishnaswamy, Cosmin Ciausu, Nazim Haouchine, Andres Diaz-Pinto, Jesse Tetreault, Roya Hajavi, Stephen Aylward, Steve Pieper, Andrey Fedorov)
    
 [Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation/README.md) (David García, Yucheng Tang, Andres Diaz,...)
    
@@ -95,17 +95,17 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [AtlasYEB_Plugin_WEB_API](Projects/AtlasYEB_Plugin_WEB_API/README.md) (Sara Fdez Vidal,ICM)
 
-[Automatic multi-anatomical skull structure segmentation of cone-beam computed tomography scans using 3D UNETR](Projects/AMASS_CBCT/README.md)(Luc Anchling et al)
+[Automatic multi-anatomical skull structure segmentation of cone-beam computed tomography scans using 3D UNETR](Projects/AMASSS_CBCT/README.md)(Luc Anchling et al)
 
-[Automated Standardized Orientation for Cone-Beam Computed Tomography (CBCT)](Projects/ASO_CBCT/README.md)(Luc Anchling et al)
+[Automated Standardized Orientation for Cone-Beam Computed Tomography (CBCT)](Projects/ASO_CBCT/README.md)(Luc Anchling, Nathan Hutin, Maxime Gillot, Baptiste Baquero, Jonas Bianchi, Antonio Ruellas, Felicia Miranda, Selene Barone, Marcela Gurgel, Marilia Yatabe, Najla Al Turkestani, Hina Joshi, Lucia Cevidanes, Juan Prieto)
 
-[Automatic Standardize Orientation IOS](Projects/AutomaticStandardizeOrientation_IOS/README.md) (Nathan Hutin et al)
+[Automatic Standardize Orientation IOS](Projects/AutomaticStandardizeOrientation_IOS/README.md) (Nathan Hutin, Luc Anchling, Marcela Gruge, Felicia Miranda, Najla Al Turkestani, Selene Barone, Lucia Cevidanes, Juan Prieto)
 
 ### Quantification
 
-[MeshComparison](Projects/MeshComparison/README.md) (Paolo Zaffino et al)
+[MeshComparison](Projects/MeshComparison/README.md) (Paolo Zaffino, Maria Francesca Spadea, Michela Destito, Amerigo Giudice)
 
-[Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Nathan Hutin et al)
+[Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Nathan Hutin, Luc Anchling, Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, David Allemang, Jean-Christophe Fillion-Robin)
 
 [Electrophysiological biosignals in 3D Slicer](Projects/Electrophysiological%20biosignals%20in%203D%20Slicer/README.md) (Jordan Ortega Rodríguez)
 
@@ -120,7 +120,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [3DSlicerHub](Projects/SlicerHub/README.md) (Rafael Nebot, Paula Moreno, Juan Ruiz, Idafen Santana)
 
-[HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](Projects/MONAI_IDC_PCa_detection/README.md) (Cosmin Ciausu et al)
+[HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](Projects/MONAI_IDC_PCa_detection/README.md) (Cosmin Ciausu, Deepa Krishnaswamy, Patrick Remerscheid, Tina Kapur, Sandy Wells, Andrey Fedorov, Khaled Younis)
 
 [Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md) (Andrey Fedorov, Marco Nolden, Hans Meine, Klaus Kades)
 
@@ -134,21 +134,21 @@ Categories based on project list of PW37, will be updated as we populate the lis
    
 [FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md) (Marco Nolden, Andrey Fedorov)
 
-[3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (Sonja Pujol, Steve Pieper, Adras Lasso, et al)
+[3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (Sonja Pujol, Steve Pieper, Adras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Adriana H. Vilchis González, Luiz Otavio Murta Junior)
 
 [Active Viewport](Projects/ActiveViewport/README.md)(Davide Punza, Andras Lasso)
 
 [Simple DICOM Query/Retrieve Panel](Projects/SimpleDICOMQueryRetrievePanel/README.md) (Davide Punzo, Andras Lasso)
 
-[DICOM Segmentation Optimization](Projects/DICOMSEG/README.md)
+[DICOM Segmentation Optimization](Projects/DICOMSEG/README.md) (Steve Pieper, Andrey Fedorov, Andras Lasso, Marco Nolden, Hans Meine, Alireza Sedghi, Erik Ziegler, Markus Hermann, Chris Bridge, David Clunie)
 
-[Measurement Panel](Projects/MeasurementPanel/README.md) (Steve Pieper, et al)
+[Measurement Panel](Projects/MeasurementPanel/README.md) (Davide Punzo, Andras Lasso)
 
 [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md) (Davide Punzo, Thijs van der Hulst)
 
 [Automated Landmarking Support](Projects/AutomatedLandmarkingSupport/README.md) (Sara Rolfe, Chi Zang, Murat Maga, Steve Pieper, Andras Lasso)
 
-[Automatic Landmark Identification in Cranio-Facial CBCT](Projects/AutomatedLandmarkingSupport/README.md) (Luc Anchling et al))
+[Automatic Landmark Identification in Cranio-Facial CBCT](Projects/ALI_CBCT/README.md) (Luc Anchling, Nathan Hutin, Maxime Gillot, Baptiste Baquero, Jonas Bianchi, Marcela Gurgel, Najla Al Turkestani, Marilia Yatabe, Lucia Cevidanes, Juan Prieto)
 
 [SystoleOS](Projects/SystoleOS/README.md) (Rafael Palomar, Steve Pieper)
 
@@ -158,9 +158,9 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Histology Images and Models into IDC](Projects/HistologyIntoIDC/) (Curtis Lisle, Andrey Federov )
 
-[IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md) (Andrey Federov et al)
+[IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md) (Andrey Federov, Deepa Krishnaswamy, Cosmin Ciausu, Vamsi Thiriveedhi, Dennis Bontempi, Leonard Nuerenberg)
 
-[IDC DICOM WSI workflow](Projects/IDC%20DICOM%20WSI%20workflow/README.md) (Maximilian Fischer et al )
+[IDC DICOM WSI workflow](Projects/IDC%20DICOM%20WSI%20workflow/README.md) (Maximilian Fischer, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer)
 
 [Transitioning 3D Slicer to QSS Styling](Projects/SlicerQSS/README.md) (Sam Horvath, J-Christophe Fillion-Robin, Andras Lasso, Steve Pieper)
 

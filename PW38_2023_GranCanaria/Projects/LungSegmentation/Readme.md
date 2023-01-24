@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Rudolf Bumm (KSGR)
-- Ron Kirkinis (Brigham and Women's Hospital)
+- Ron Kikinis (Brigham and Women's Hospital)
 - Raúl San José Estépar (Brigham and Women's Hospital)
 - Steve Pieper (Isomics)
 - Eserval Rocha jr. (University of Sao Paulo Medical School)
