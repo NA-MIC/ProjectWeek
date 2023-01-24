@@ -80,6 +80,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Slicer Maxillofacial Surgery](Projects/Slicer4MaxillofacialSurgery/README.md)
    
+[Slicer + IMSTK for low cost training setups](Projects/SlicerIMSTK/README.md) (Sam Horvath, Kevin Cleary, Karun Sharma)
+
 ### Segmentation/Classification
 [Lung CT Segmentation and Analysis](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/LungSegmentation#readme)
 
@@ -131,6 +133,8 @@ Categories based on project list of PW37, will be updated as we populate the lis
 [Histology Images and Models into IDC](Projects/HistologyIntoIDC/)
 
 [IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md)
+
+[Transitioning 3D Slicer to QSS Styling](Projects/SlicerQSS/README.md) (Sam Horvath, J-Christophe Fillion-Robin, Andras Lasso, Steve Pieper)
 
 ## Registrants
 
