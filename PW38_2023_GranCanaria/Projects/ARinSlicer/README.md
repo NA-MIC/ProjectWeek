@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Alicia Pose Díez de la Lastra (Universidad Carlos III de Madrid, Madrid, Spain)
+- Alicia Pose Díez de la Lastra (Universidad Carlos III de Madrid, Madrid, Spain) - [Presenter]
 - Javier Pascau (Universidad Carlos III de Madrid, Madrid, Spain)
 - Gabor Fichtinger (PerkLab, Queen's University , Kingston , Canada)
 - Andras Lasso (PerkLab, Queen's University , Kingston , Canada)
