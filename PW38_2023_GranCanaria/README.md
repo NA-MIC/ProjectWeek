@@ -91,7 +91,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
    
 [Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI) (María Rosa Rodríguez, Tamas Ungi, David García,...)
 
-[AtlasYEB_Plugin_WEB_API] (Projects/AtlasYEB_Plugin_WEB_API/README.md) (Sara Fdez Vidal,ICM)
+[AtlasYEB_Plugin_WEB_API](Projects/AtlasYEB_Plugin_WEB_API/README.md) (Sara Fdez Vidal,ICM)
 
 [Automatic multi-anatomical skull structure segmentation of cone-beam computed tomography scans using 3D UNETR](Projects/AMASS_CBCT/README.md)(Luc Anchling et al)
 
@@ -105,7 +105,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (Nathan Hutin et al)
 
-[ Electrophysiological biosignals in 3D Slicer](Projects/Electrophysiological biosignals in 3D Slicer/README.md) (Jordan Ortega Rodríguez)
+[Electrophysiological biosignals in 3D Slicer](Projects/Electrophysiological%20biosignals%20in%203D%20Slicer/README.md) (Jordan Ortega Rodríguez)
 
 ### Cloud and Infrastructure
 [How-to setup and run 3D Slicer on an AWS server instance step by step](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/#readme) 
@@ -144,9 +144,11 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 [Using VolView with images in Google Storage / IDC buckets](Projects/IDC_with_VolView/README.md) (Andrey Fedorov, Forrest Li, Stephen Aylward)
 
-[Histology Images and Models into IDC](Projects/HistologyIntoIDC/) (Curtis Lisle, Andrey Federov, )
+[Histology Images and Models into IDC](Projects/HistologyIntoIDC/) (Curtis Lisle, Andrey Federov )
 
 [IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md)
+
+[IDC DICOM WSI workflow](Projects/IDC%20DICOM%20WSI%20workflow/README.md) (Maximilian Fischer et al )
 
 [Transitioning 3D Slicer to QSS Styling](Projects/SlicerQSS/README.md) (Sam Horvath, J-Christophe Fillion-Robin, Andras Lasso, Steve Pieper)
 
