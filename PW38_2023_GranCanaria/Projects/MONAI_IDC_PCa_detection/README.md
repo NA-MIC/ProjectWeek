@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Tina Kapur (Brigham and Women's Hospital, USA)
 - Sandy Wells (Brigham and Women's Hospital, USA)
 - Andrey Fedorov (Brigham and Women's Hospital, USA)
+- Khaled Younis (Philips, USA)
 
 # Project Description
 
@@ -30,14 +31,14 @@ In this project we will demonstrate how an existing pre-trained MONAI model pack
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Develop a Google Colab notebook that contains the following steps:
-  a. Install prerequisites and the MONAI bundle https://github.com/Project-MONAI/model-zoo/tree/dev/models/prostate_mri_anatomy.
-  b. Select applicable subset of MRI series from IDC (ProstateX and QIN-Prostate-Repeatability collections).
-  c. Convert images from DICOM to the format acceptable by the model.
-  d. Run inference.
-  e. Visualize results.
-  f. Perform quantitative evaluation of the results.
-  g. Convert results into DICOM representation, visualize in OHIF.
+1. Develop a Google Colab notebook that contains the following steps:\
+    a. Install prerequisites and the [MONAI bundle](https://github.com/Project-MONAI/model-zoo/tree/dev/models/prostate_mri_anatomy).\
+    b. Select applicable subset of MRI series from IDC (ProstateX and QIN-Prostate-Repeatability collections).\
+    c. Convert images from DICOM to the format acceptable by the model.\
+    d. Run inference.\
+    e. Visualize results.\
+    f. Perform quantitative evaluation of the results.\
+    g. Convert results into DICOM representation, visualize in OHIF.\
 2. Document performance of the model.
 3. Consider sharing analysis results if they are of good quality.
 
@@ -45,8 +46,8 @@ In this project we will demonstrate how an existing pre-trained MONAI model pack
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Preliminary work applying the model in question to segment prostate anatomy.
-1. ...
+1. Preliminary work applying the model in question to segment prostate anatomy : [use.case.ipynb](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/blob/main/main_monai_anatomy.ipynb)
+1. Exploratory work on transfer of PC detection/localization on IDC data by creating a monai bundle : multi-modality input, custom transforms
 
 # Illustrations
 
