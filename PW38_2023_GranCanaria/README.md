@@ -176,11 +176,11 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (Sonja Pujol, Steve Pieper, Andras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Adriana H. Vilchis González, Luiz Otavio Murta Junior) *[??]*
 
-1. [Active Viewport](Projects/ActiveViewport/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
+1. [Active Viewport](Projects/SlicerActiveViewport/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
 
-1. [Visual DICOM browser](Projects/VisualDICOMbrowser/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
+1. [Visual DICOM browser](Projects/SlicerVisualDICOMbrowser/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
 
-1. [Measurement Panel](Projects/MeasurementPanel/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
+1. [Measurement Panel](Projects/SlicerMeasurementPanel/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
 
 1. [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md) (**Davide Punzo**, Thijs van der Hulst) *[On site]*
 
