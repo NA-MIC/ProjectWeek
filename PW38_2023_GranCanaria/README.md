@@ -122,7 +122,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [MeshComparison](Projects/MeshComparison/README.md) (**Paolo Zaffino**, Maria Francesca Spadea, Michela Destito, Amerigo Giudice) *[On site]*
 
-1. [Electrophysiological biosignals in 3D Slicer]([Projects/Electrophysiological Biosignals in 3D Slicer](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/Electrophysiological%20biosignals%20in%203D%20Slicer)/README.md) (**Jordan Ortega Rodríguez**) *[On site]*
+1. [Electrophysiological biosignals in 3D Slicer](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/Electrophysiological%20biosignals%20in%203D%20Slicer) (**Jordan Ortega Rodríguez**) *[On site]*
 
 1. [Surface Nets](Projects/SurfaceNets/README.md) (**Andy Huynh**, Gerry Gralton, Benjamin Zwick) *[On site]*
 
