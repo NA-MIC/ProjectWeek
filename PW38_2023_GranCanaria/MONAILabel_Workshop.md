@@ -30,7 +30,7 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
   * Intro for first time attendees / refresher for return attendees
   * What's new in MONAI / MONAI Label since the last workshops?
   * What's the overall architecture for MONAI model from training to deployment (e.g. considerations for someone doing project planning)
-* 3D Slicer and MONAI on AWS (2 minutes, Rudolf Bumm / Steve Pieper)
+* [3D Slicer and MONAI on AWS]([url](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/)) (2 minutes, Rudolf Bumm / Steve Pieper)
 * Preparation for Hands-on session on AWS (8 minutes, Qing Liu, Alex Lemm)
 * What clinical/research applications developing with MONAI Label and what's the general status of them (10 minutes each)
   * Lungs: Rudolf Bumm 
