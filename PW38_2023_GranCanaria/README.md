@@ -84,7 +84,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [Slicer Liver](Projects/SlicerLiver/README.md) (Gabriella D'Albenzio, **Ruoyan Meng**, Geir A. Tangen, Ole V. Solberg, Rafael Palomar) *[On site]*
 
-1. [Slicer Maxillofacial Surgery](Projects/Slicer4MaxillofacialSurgery/README.md) (Miguel Ángel Rodriguez-Florido, Christian Buritica) *[??]*
+1. [Slicer Maxillofacial Surgery](Projects/Slicer4MaxillofacialSurgery/README.md) (Miguel Ángel Rodriguez-Florido, Christian Buritica, Mauro Dominguez) *[On site]*
    
 1. [Slicer + IMSTK for low cost training setups](Projects/SlicerIMSTK/README.md) (**Sam Horvath**, Kevin Cleary, Karun Sharma) *[On site]*
 
