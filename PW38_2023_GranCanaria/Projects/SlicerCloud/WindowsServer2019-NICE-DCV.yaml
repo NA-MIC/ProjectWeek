@@ -316,7 +316,7 @@ Resources:
           powershell -comand "Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))"
           SET "PATH=%PATH%;%PROGRAMDATA%\chocolatey\bin\"
 
-          @echo ** install aws cli
+          @echo ** install aws  cli
           choco install awscli -y
 
           @echo ** install git
