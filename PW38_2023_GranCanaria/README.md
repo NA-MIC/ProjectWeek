@@ -178,7 +178,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [Active Viewport](Projects/ActiveViewport/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
 
-1. [Simple DICOM Query/Retrieve Panel](Projects/SimpleDICOMQueryRetrievePanel/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
+1. [Visual DICOM browser](Projects/VisualDICOMbrowser/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
 
 1. [Measurement Panel](Projects/MeasurementPanel/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
 

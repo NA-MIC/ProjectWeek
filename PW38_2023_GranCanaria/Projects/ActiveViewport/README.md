@@ -30,6 +30,7 @@ Add the concept of active viewport in 3DSlicer
 
 
 # Illustrations
+<img alt="ActiveView" src="ActiveView.png" width="800"/>
 
 
 # Background and References
