@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Curtis Lisle (KnowledgeVis)
 - Andrey Fedorov (BWH)
+- Maximilian Fischer (DKFZ)
 - others welcome
 
 
