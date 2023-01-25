@@ -22,7 +22,7 @@ Add the concept of active viewport in 3DSlicer
 
 1) Design the solution: discuss the potential use cases (i.e. keyboard/mouse focus) and then use it for example in show/hide node in the selected view (similarly to Paraview).
 
-2) Implement it: add implementation in CTK (e.q. QFrame around views with method to set color, thickness, style, etc... ), the uid parameter of the selected view (shall we save it in the scene? or just in the slicer logic?).
+2) Implement it: add implementation in CTK (e.g. QFrame around views with method to set color, thickness, style, etc... ), and the uid parameter of the selected view (shall we save it in the scene? or just in the slicer logic?).
 
 3) Get feedback
 
