@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Miguel Ángel Rodriguez-Florido, PhD (GTMA, University of Las Palmas de Gran Canaria and Children’s, Women’s and General Hospital Insular)
 - Christian Buritica, MD (Children’s, Women’s and General Hospital Insular)
+- Mauro Domínguez (Software Developer of BoneReconstructionPlanner)
 
 # Project Description
 
