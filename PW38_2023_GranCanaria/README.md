@@ -78,7 +78,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [ARinSlicer](Projects/ARinSlicer/README.md) (Alicia Pose, Javier Pascau, **Gabor Fichtinger**, Andras Lasso...) *[On site]*
 
 ### IGT and Training
-4. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (Natalia Arteaga, **David García**, Javier González) *[On site]*
+4. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (**Natalia Arteaga**, David García, Javier González) *[On site]*
    
 1. [Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation/README.md) (**Felix von Haxthausen**, David García, Tolga-Can Çallar) *[On site]*
 
@@ -101,7 +101,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
    
 1. [Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation/README.md) (**David García**, Yucheng Tang, Andres Diaz,...) *[On site]*
    
-1. [Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI/README.md) (María Rosa Rodríguez, Tamas Ungi, **David García**,...) *[On site]*
+1. [Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI/README.md) (**María Rosa Rodríguez**, Tamas Ungi, David García,...) *[On site]*
 
 1. [AtlasYEB_Plugin_WEB_API](Projects/AtlasYEB_Plugin_WEB_API/README.md) (**Sara Fdez Vidal,ICM**) *[On site]*
 
