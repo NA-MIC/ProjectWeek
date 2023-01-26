@@ -21,14 +21,17 @@ study sample, at one or more time points.
 The current implementation is aimed at automatic computation of 3D components like distances (AP, RL and SI) 
 between points, points to line, midpoint between two points or angles (Pitch, Roll and Yaw), interpretation of directionality,which can be further extended to any type of desired computation/quantitative image analysis. The design of the user interface is currently aimed at quantification of craniofacial dental,  skeletal and soft tissue structures. 
 
-Th is project to to get input regarding : 
+This project to to get input regarding : 
 1- refactoring of the code to maintainable and more robust 
-2- discuss updates that solve AQ3DC's issues, 
-3- update documentation.
+2- discuss updates that solve AQ3DC's issues
+3- verify remaining duplicates and hard coded components
+4- add tests to the module 
+5- add user documentation.
 
 
 <ul>
 <li>Project link : https://github.com/DCBIA-OrthoLab/Q3DCExtension</li>
+<li>Refactoring link : https://github.com/HUTIN1/Q3DCExtension </li>
 <ul>
 
 
@@ -65,8 +68,12 @@ Th is project to to get input regarding :
 2. Make the new types help encapsulate certain components in the code.
 3. Correct overload of the Python protocols for Group_landmark, MyList, and MyDict. 
 4. Improve other utilities like Line, Measure, Point, etc. Update SlicerCMF workflow to document and integrate with AQ3DC.
-2. Update README
-3. Update code Style
+5. Verify remaining duplicates and hard coded components
+6- Add tests to the module 
+7- Add user documentation.
+8. Update README
+9- Pull request
+
 
 
 # Illustrations
