@@ -30,6 +30,7 @@ Consider proposals to improve the standard to address any inherent issues.
 1. Collate experiences from any investigations and benchmarks to date
 2. Meet at project week with those on site involving remote participants as possible
 3. Add notes here about results and plans for any follow up proposals to add representations to the standard
+4. Discuss if we should consider re-starting/re-thinking the [DICOM4QI initiative](https://dicom4qi.readthedocs.io/en/latest/) as a venue to openly promote DICOM interoperability testing and collect feedback from the community. 
 
 ## Progress and Next Steps
 
