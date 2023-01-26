@@ -10,6 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Daniel Palkovics (Semmelweis University, Budapest, Hungary)
 - Csaba Pinter (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Attila Nagy (University of Szeged, Szeged, Hungary)
+- Brianna Burton (3D Side, Belgium)
 
 # Project Description
 
