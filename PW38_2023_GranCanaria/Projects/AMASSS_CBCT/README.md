@@ -53,7 +53,7 @@ acquired with several parameters from different centers for a generalized clinic
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Do some maintenance to the previously made code
-1. Train masks segmentation models (Cranial Base, Mandible, Maxilla)
+1. Train new segmentations of stable regions of reference for image registration models (Cranial Base, Mandible, Maxilla)
 
 ## Approach and Plan
 
@@ -67,6 +67,7 @@ acquired with several parameters from different centers for a generalized clinic
 
 1. New masks segmentation models have been trained and tested
 1. An extension has been added to this module to take segmentation files as input to generate vtk files
+1. Train models to detect bone defects and patients with alveolar and palatal cleft
 
 # Illustrations
 
