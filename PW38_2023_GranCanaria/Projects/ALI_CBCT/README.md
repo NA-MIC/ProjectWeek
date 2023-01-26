@@ -30,7 +30,7 @@ We propose a novel approach that reformulates anatomical landmark detection as a
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Use the available code to train the new models for all landmarks
+1. Use the available code to train with additional patient data for each landmarks
 
 ## Progress and Next Steps
 
