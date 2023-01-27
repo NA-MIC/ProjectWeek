@@ -141,15 +141,15 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md) (**Andrey Fedorov**, Marco Nolden, Hans Meine, Klaus Kades) *[On site]*
 
-1. [Connecting/Using Kaapana to Google Cloud/Google Health/Google FHIR](Projects/KaapanaConnectingKaapanaToGoogleCloudAndHealthAndFHIR/README.md) (**Jonas Scherer**) *[Remote]*
+1. [Connecting/Using Kaapana to Google Cloud/Google Health/Google FHIR](Projects/KaapanaConnectingKaapanaToGoogleCloudAndHealthAndFHIR/README.md) (**Jonas Scherer**, Andrey Fedorov) *[Remote]*
 
-1. [Kaapana: Data and model exchange across different sources](Projects/KaapanaDataAndModelExchangeAcrossDifferentSources/README.md) (**Benjamin Hamm**, Ünal Akünal, Markus Bujotzek, Klaus Kades) *[On site]*
+1. [Kaapana: Data and model exchange across different sources](Projects/KaapanaDataAndModelExchangeAcrossDifferentSources/README.md) (**Benjamin Hamm**, Ünal Akünal, Markus Bujotzek, Klaus Kades, Andrey Fedorov) *[On site]*
 
-1. [Kaapana: Fast viewing and tagging of DICOM Images](Projects/KaapanaFastViewingAndTaggingOfDICOMImages/README.md) (**Stefan Denner**, Klaus Kades) *[On site]*
+1. [Kaapana: Fast viewing and tagging of DICOM Images](Projects/KaapanaFastViewingAndTaggingOfDICOMImages/README.md) (**Stefan Denner**, Klaus Kades, Andrey Fedorov) *[On site]*
 
-1. [Kaapana: Integration of desktop apps](Projects/KaapanaIntegrationOfDesktopApps/README.md) (**Hanno Gao**, Klaus Kades) *[On site]*
+1. [Kaapana: Integration of desktop apps](Projects/KaapanaIntegrationOfDesktopApps/README.md) (**Hanno Gao**, Klaus Kades, Andrey Fedorov) *[On site]*
 
-1. [Integration of clinical data into medical imaging pipelines](Projects/KaapanaClinicalData/README.md) (**Philipp Schader**) *[On site]*
+1. [Integration of clinical data into medical imaging pipelines](Projects/KaapanaClinicalData/README.md) (**Philipp Schader**, Andrey Fedorov) *[On site]*
    
 1. [FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md) (**Marco Nolden**, Andrey Fedorov) *[On site]*
 
