@@ -18,13 +18,15 @@ This is a follow-up to previous 3D Slicer lung CT segmentation PW projects. 
 
 ## Objective
 
+Our objective is to improve the lung CT segmentation and analysis processes in 3D Slicer.  
+
 *   Improve **vessel** segmentation
 *   Implement **emphysema** and COPD analysis
 *   Develop a concept for **lung segment** segmentation in 3D Slicer
 *   Fine-tune the workflow for **surgical planning** 
 *   Work on possible **grant application**
 
-## Approach and Plan
+## Specifio Approach and Plan
 
 *   make lung, lobe, and airway segmentation fully automatic (no manual intervention)
 *   write a batch script that makes use of the LCTA logic
