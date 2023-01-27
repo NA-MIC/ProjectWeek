@@ -75,7 +75,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [SlicerTMS](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Yogesh Rathi, Lipeng Ning, Steve Pieper, Daniel Haehn) *[??]*
 
-1. [ARinSlicer](Projects/ARinSlicer/README.md) (Alicia Pose, Javier Pascau, **Gabor Fichtinger**, Andras Lasso...) *[On site]*
+1. [ARinSlicer](Projects/ARinSlicer/README.md) (**Alicia Pose**, Javier Pascau, Gabor Fichtinger, Andras Lasso...) *[On site]*
 
 ### IGT and Training
 4. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (**Natalia Arteaga**, David García, Javier González) *[On site]*
