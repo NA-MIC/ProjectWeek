@@ -149,7 +149,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [Kaapana: Integration of desktop apps](Projects/KaapanaIntegrationOfDesktopApps/README.md) (**Hanno Gao**, Klaus Kades) *[On site]*
 
-1. [Integration of clinical data into medical imaging pipelines](Projects/KaapanaClinicalData/README.md) (**Philipp Schade**) *[On site]*
+1. [Integration of clinical data into medical imaging pipelines](Projects/KaapanaClinicalData/README.md) (**Philipp Schader**) *[On site]*
    
 1. [FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md) (**Marco Nolden**, Andrey Fedorov) *[On site]*
 
