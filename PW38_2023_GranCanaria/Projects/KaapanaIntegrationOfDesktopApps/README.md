@@ -2,6 +2,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Integration of desktop apps
 
+Kaapana tutorial for the 38th NA-MIC project week:
+https://drive.google.com/file/d/1A7-8Ru0uTJHFFa17rZtkBpvNhJao_F7x/view?usp=share_link
+
 ## Key Investigators
 
 - Hanno Gao (German Cancer Research Center, Germany)
