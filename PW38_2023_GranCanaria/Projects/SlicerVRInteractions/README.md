@@ -7,7 +7,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Csaba Pintér (EBATINCA, Spain)
 - Simon Drouin (ÉTS Montréal, Canada)
 - Andrey Titov (ÉTS Montréal, Canada)
-- YOU
+- Lucas Gandel (Kitware)
+- Jean-Christophe Fillion-Robin (Kitware)
 
 # Project Description
 
