@@ -51,6 +51,7 @@ The DICOM SEG standard has been around for several years and has been implemente
   - Note that [this branch](https://github.com/ImagingDataCommons/highdicom/tree/docs/seg_explanation)
     (under construction) has a much better user guide for SEGs than the current
     documentation. I.e. [this page](https://github.com/ImagingDataCommons/highdicom/blob/docs/seg_explanation/docs/seg.rst)
+* [pydicom-seg](https://github.com/razorx89/pydicom-seg) is using pydicom and SimpleITK, writes single output file. Performance for the TotalSegmentator sample is very good!
 * (others - please add to this list)
 
 ### Known Issues
