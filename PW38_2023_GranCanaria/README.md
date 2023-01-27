@@ -71,7 +71,7 @@ Categories based on project list of PW37, will be updated as we populate the lis
 Presenter (assumed based on order + confirmed status) in **bold**
 
 ### VR/AR and Rendering
-1. [SlicerVR - Restore Interactions](Projects/SlicerVRInteractions/README.md) (**Csaba Pintér**, Simon Drouin, Andrey Titov) *[On site]*
+1. [SlicerVR - Restore Interactions](Projects/SlicerVRInteractions/README.md) (**Csaba Pintér**, Simon Drouin, Andrey Titov, Lucas Gandel, Jean-Christophe Fillion-Robin) *[On site]*
 
 1. [SlicerTMS](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Yogesh Rathi, Lipeng Ning, Steve Pieper, Daniel Haehn) *[??]*
 
