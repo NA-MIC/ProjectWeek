@@ -224,9 +224,7 @@ List of registered participants so far (names will be added here after processin
 1. Miguel Angel Rodriguez-Florido, Spain, (In-person, Confirmed)
 1. Gabor FICHTINGER, Canada, (In-person, Confirmed)
 1. Luděk Hynčík, Czechia, (Online)
-1. Sen, Canada, (In-person)
 1. Souleymane Diao, Senegal, (Online)
-1. Ahmedou Moulaye IDRISS, Mauritania, (In-person)
 1. Mouhamed DIOP, Senegal, (In-person, Confirmed)
 1. Gabriella d' Albenzio, Norway, (In-person, Confirmed)
 1. Dwijkumar Mistry, India, (Online)
@@ -411,6 +409,11 @@ List of registered participants so far (names will be added here after processin
 1. Heather Selby, USA, (Online)
 1. MARIANA ALVAREZ CARVAJAL, Mexico, (Online)
 1. Osku Sundqvist, Finland, (Online)
+1. Daniel Fernández, Mexico, (Online)
+1. Artur Banach, USA, (In-person, Confirmed)
+1. Valeria Gómez Valdes , Mexico, (Online)
+1. Valeria Gómez Valdes , Mexico, (Online)
+1. Abigail Mercado Ponciano, Mexico, (Online)
 
 <!-- Participants list end -->
 
