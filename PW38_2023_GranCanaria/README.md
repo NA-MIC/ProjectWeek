@@ -412,7 +412,6 @@ List of registered participants so far (names will be added here after processin
 1. Daniel Fernández, Mexico, (Online)
 1. Artur Banach, USA, (In-person, Confirmed)
 1. Valeria Gómez Valdes , Mexico, (Online)
-1. Valeria Gómez Valdes , Mexico, (Online)
 1. Abigail Mercado Ponciano, Mexico, (Online)
 
 <!-- Participants list end -->
