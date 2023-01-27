@@ -14,6 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Markus Hermann (Idependent)
 - Chris Bridge (MGH)
 - David Clunie (PixelMed Publishing)
+- Sean Doyle (Independent)
 
 # Project Description
 
