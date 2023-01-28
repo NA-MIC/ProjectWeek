@@ -16,21 +16,28 @@ How-to setup and run 3D Slicer on an AWS cloud server
 
 ## Objective
 
-We want to set up a 3D Slicer AWS cloud instance that can be seamlessly scaled concerning hardware requirements. 
+For this workshop, we want to set up a 3D Slicer EC2 AWS cloud instance that can be scaled based on hardware needs.  
 
 [All necessary steps are documented here](./HowToSetupAWSEC2Server.md).  
 
-We plan to install a 3dviewer.net server instance as a demo how Slicer results could be shared between working groups.
-Up- and downscaling as well as running costs will be shown.
-We will test how EC2 instances can be accessed from low-cost and energy saving hardware such as a Raspberry 4.  
-
-
 ## Approach and Plan
 
-will follow
+A CloudFormation template was developled to
+
+Install the latest NVIDIA drivers
+Install git
+Install MONAILabel
+Install TotalSegmentator
+Install lungmask
+Download the 3D Slicer stable installer
+Install Firefox
+Install and connect an S3 bucket
+
+A mechanism how to share result data between a working group will be discussed, with the option to install a 3dviewer.net server instance or using a S3 bucket. 
+
+The speed of general system setup, up- and downscaling as well as running costs will be evaluated.
 
 ## Progress and Next Steps
-
 
 # Illustrations
 
