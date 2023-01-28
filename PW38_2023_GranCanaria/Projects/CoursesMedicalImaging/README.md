@@ -7,7 +7,16 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Juan Ruiz (ULPGC)
 - Idafen Santana (ULPGC)
 - Mario Monzón (ULPGC)
-- TBD
+- Marie Ndiaye  y Sidi el Wafi 
+- Mamadou Samba Camara 
+- Adama Faye 
+- Idy Diop 
+- Mouahmed Diop 
+- Papa Alioune Cisse 
+- Youssou Faye 
+- Mame Diarra Sy 
+- Ahmed Dhahara Kane 
+
 
 # Project Description
 
