@@ -17,7 +17,7 @@ How to setup and run 3D Slicer on an AWS cloud server
 
 For this workshop, we want to set up a 3D Slicer EC2 AWS cloud instance that can be scaled based on hardware needs.
 
-The Clouujd server instance should run 3D Slicer and have NVIDIA GPU and CUDA support. 
+The EC2 Cloud server instance runs 3D Slicer and has NVIDIA GPU and CUDA support. 
 
 [All necessary steps are documented here](./HowToSetupAWSEC2Server.md).
 
@@ -44,6 +44,6 @@ The speed of general system setup, up- and downscaling as well as running costs 
 
 ![image](https://user-images.githubusercontent.com/18140094/211152360-f6e0d66b-aa84-4109-86d5-eedf404fd528.png)
 
-Fig. 1 Raspberry 4 Model B running 3D Slicer on EC2 instance in Chromium browser
+Fig. 1 Raspberry 4 Model B running 3D Slicer on an EC2 instance in Chromium browser
 
 # Background and References
