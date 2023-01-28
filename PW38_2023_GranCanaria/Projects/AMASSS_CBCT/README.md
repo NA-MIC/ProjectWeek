@@ -53,20 +53,22 @@ acquired with several parameters from different centers for a generalized clinic
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Do some maintenance to the previously made code
-1. Train masks segmentation models (Cranial Base, Mandible, Maxilla)
+1. Train new segmentations of stable regions of reference for image registration models (Cranial Base, Mandible, Maxilla)
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Use the previously made code to train a model for the segmentation of the masks structures 
+1. Use the previously made code to train a model for the segmentation of the masks structures
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. New masks segmentation models have been trained and tested
+1. New segmentation models have been trained and tested
 1. An extension has been added to this module to take segmentation files as input to generate vtk files
+1. Train models to detect bone defects and patients with alveolar and palatal cleft
+1. Dicom File can be used as input
 
 # Illustrations
 
