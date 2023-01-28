@@ -6,7 +6,7 @@
 * The venue for in-person events is Hotel Cristina, Las Palmas, Gran Canaria (Spain).
 * A block of rooms at [Hotel Cristina](https://www.dreamplacehotels.com/en/hotel-cristina/) is being held for PW attendees
   * To make reservations use code NAMIC23 in email to grupos.mice@dreamplacehotels.com
-  * 40 rooms are being held for us at the rate of 108€ (single) and 135€ (double) until the end of November 
+  * 40 rooms are being held for us at the rate of 108€ (single) and 135€ (double) until the end of November
 * Please [register](https://forms.gle/sh9jGJLJdBm4us3E7) as early as possible, indicating whether you plan on participating in person. It will greatly help the organizing committee to estimate the number of participants we need to accommodate in Las Palmas. Registration fees for in-person attendees will be determined and collected later using a separate form by the local organizing team.
 * **For those attending virtually**: there will be no registration fee, and zoom/discord links will be provided during preparation meetings.
 * **For those attending in person**: a registration fee of 400 Euros will be charged to cover for the workshop venue, lunch and coffee breaks. Use [this form](https://www.fulp.es/inscripcion-namic) to register your payment. Please do so by Tuesday, Jan 17th 2023, as we need to estimate the number of participants to finalize the booking of the room.
@@ -57,9 +57,9 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 </script>
 
 [How to add this calendar to your own?](../common/Calendar.md)
-   
+
 ## Travel guide
-   
+
 [Gran Canaria travel guide](GranCanaria_TravelGuide.md)
 
 ## Breakout sessions
@@ -79,13 +79,13 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 ### IGT and Training
 4. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (**Natalia Arteaga**, David García, Javier González) *[On site]*
-   
+
 1. [Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation/README.md) (**Felix von Haxthausen**, David García, Tolga-Can Çallar, José Carlos Mateo) *[On site]*
 
 1. [Slicer Liver](Projects/SlicerLiver/README.md) (Gabriella D'Albenzio, **Ruoyan Meng**, Geir A. Tangen, Ole V. Solberg, Rafael Palomar) *[On site]*
 
 1. [Slicer Maxillofacial Surgery](Projects/Slicer4MaxillofacialSurgery/README.md) (Miguel Ángel Rodriguez-Florido, Christian Buritica, Mauro Dominguez) *[On site]*
-   
+
 1. [Slicer + IMSTK for low cost training setups](Projects/SlicerIMSTK/README.md) (**Sam Horvath**, Kevin Cleary, Karun Sharma) *[On site]*
 
 1. [Open Source Technologies for the Development of Clinical Simulation Centers](Projects/OpenSourceSimulationCenter/README.md) (**Juan Ruiz**, Idafen Santana, Mario Monzón) *[On site]*
@@ -100,9 +100,9 @@ Presenter (assumed based on order + confirmed status) in **bold**
 13. [Lung CT Segmentation and Analysis](Projects/LungSegmentation/Readme.md) (**Rudolf Bumm**, Ron Kikinis, Raúl San José Estépar, Steve Pieper, Eserval Rocha jr., Andras Lasso, Curtis Lisle) *[On site]*
 
 1. [MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md) (**Deepa Krishnaswamy**, Cosmin Ciausu, Nazim Haouchine, Andres Diaz-Pinto, Jesse Tetreault, Roya Hajavi, Stephen Aylward, Steve Pieper, Andrey Fedorov) *[On site]*
-   
+
 1. [Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation/README.md) (**David García**, Yucheng Tang, Andres Diaz, Daniel Palkovics, Csaba Pinter, Attila Nagy, Brianna Burton) *[On site]*
-   
+
 1. [Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI/README.md) (**María Rosa Rodríguez**, Tamas Ungi, David García) *[On site]*
 
 1. [AtlasYEB_Plugin_WEB_API](Projects/AtlasYEB_Plugin_WEB_API/README.md) (**Sara Fdez Vidal,ICM**) *[On site]*
@@ -150,7 +150,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [Kaapana: Integration of desktop apps](Projects/KaapanaIntegrationOfDesktopApps/README.md) (**Hanno Gao**, Klaus Kades, Andrey Fedorov) *[On site]*
 
 1. [Integration of clinical data into medical imaging pipelines](Projects/KaapanaClinicalData/README.md) (**Philipp Schader**, Andrey Fedorov) *[On site]*
-   
+
 1. [FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md) (**Marco Nolden**, Andrey Fedorov) *[On site]*
 
 1. [Using VolView with images in Google Storage / IDC buckets](Projects/IDC_with_VolView/README.md) (**Andrey Fedorov**, Forrest Li, Stephen Aylward) *[On site]*
@@ -422,12 +422,14 @@ List of registered participants so far (names will be added here after processin
 
 ## Statistics
 
+<img alt="Participation statistics" src="statistics.svg" width="500"/>
+
 ## Organizers
 ### Local organizing committee
 Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies, director of the Grupo de Tecnología Médica y Audiovisual (GTMA), [Instituto Universitario de Investigaciones Biomédicas y Sanitarias (IUIBS)](https://www.iuibs.ulpgc.es/), [Universidad de Las Palmas de Gran Canaria (ULPGC)](https://www.ulpgc.es/)
 
 Idafen Santana-Pérez, PhD, Project Manager and Research Fellow at Grupo de Tecnología Médica y Audiovisual (GTMA), [Instituto Universitario de Investigaciones Biomédicas y Sanitarias (IUIBS)](https://www.iuibs.ulpgc.es/), [Universidad de Las Palmas de Gran Canaria (ULPGC)](https://www.ulpgc.es/)
-   
+
 ### Global Project Week organizing committee
 * [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)),
 * [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//))
