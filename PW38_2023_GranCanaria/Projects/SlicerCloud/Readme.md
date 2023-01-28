@@ -25,13 +25,13 @@ The EC2 Cloud server instance runs 3D Slicer and has NVIDIA GPU and CUDA support
 
 An AWS [CloudFormation template](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/WindowsServer2019-NICE-DCV.yaml) was designed to install 
 
+*   3D Slicer stable
+*   Firefox
 *   latest NVIDIA drivers
 *   git
 *   MONAILabel
 *   TotalSegmentator
-*   lungmask
-*   3D Slicer stable 
-*   Firefox
+*   lungmask 
 *   S3 bucket
 
 A mechanism how to share result data between a working group will be discussed, with the option to install a 3dviewer.net server instance or use a S3 bucket.
