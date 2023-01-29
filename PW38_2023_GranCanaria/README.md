@@ -176,7 +176,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [SystoleOS](Projects/SystoleOS/README.md) (**Rafael Palomar**, Steve Pieper) *[On site]*
 
-1. [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (Sonja Pujol, Steve Pieper, Andras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Adriana H. Vilchis González, Luiz Otavio Murta Junior) *[??]*
+1. [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (**Sonia Pujol**, Steve Pieper, Andras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Adriana H. Vilchis González, Luiz Otavio Murta Junior) *[On site and online]*
 
 1. [Active Viewport](Projects/SlicerActiveViewport/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
 
@@ -208,7 +208,7 @@ List of registered participants so far (names will be added here after processin
 1. Andrey Fedorov, USA, (In-person, Confirmed)
 1. Steve Pieper, USA, (In-person, Confirmed)
 1. hans knutsson, Sweden, (In-person, Confirmed)
-1. Sonia Pujol, USA, (Undecided)
+1. Sonia Pujol, USA, (Online)
 1. JUAN RUIZ-ALZOLA, Spain, (In-person, Confirmed)
 1. Ron Kikinis, USA, (In-person, Confirmed)
 1. Carl-Fredrik Westin, USA, (In-person, Confirmed)

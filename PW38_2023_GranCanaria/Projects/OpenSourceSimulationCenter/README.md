@@ -7,7 +7,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Juan Ruiz (ULPGC)
 - Idafen Santana (ULPGC)
 - Mario Monzón (ULPGC)
-- TBD
+- Oumar Kane 
+- Ablaye Tacko Diop 
+- Ousmane Dia 
+- Mame Abdoulaye Gueye 
+- Mouhamedi Bah 
+- Aliou Barry 
+- Cheikh Sidi Ethmane 
+- Edmée Clémence Mansilla 
+- Estelle Tcheple Tuo  
 
 # Project Description
 

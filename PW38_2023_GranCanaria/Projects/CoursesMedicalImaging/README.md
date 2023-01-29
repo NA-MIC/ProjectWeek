@@ -8,6 +8,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Idafen Santana (ULPGC)
 - Mario Monzón (ULPGC)
 - María Rosa Rodríguez (ULPGC)
+- Marie Ndiaye  y Sidi el Wafi 
+- Mamadou Samba Camara 
+- Adama Faye 
+- Idy Diop 
+- Mouahmed Diop 
+- Papa Alioune Cisse 
+- Youssou Faye 
+- Mame Diarra Sy 
+- Ahmed Dhahara Kane 
 
 # Project Description
 
