@@ -32,7 +32,7 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 ## Progress and Next Steps
 
 1. We wish to improve the performance of the Fiber ROI selection.
-2. 
+2. Improve WebXR interface and performance.
 
 
 ## Illustrations
