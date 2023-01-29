@@ -26,18 +26,31 @@ If you have any questions, you can contact the [organizers](#organizers).
 4. Join the [Discord server](https://discord.gg/yQsNVdVpS3) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
 5. Consider joining the [MONAI Label Workshop](MONAILabel_Workshop.md) that will take place January 25th (the week before Project Week).
 
-<!-- TBD
-## During Project Week (All times US Eastern Daylight (Boston) Time)
-* The week will start at **8:15am on Monday June 27th** with informal conversations on **[Discord](https://discord.gg/d5Q6b5ug8u)**.
-* Initial **project presentations** will start at **9am on Zoom**, using [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09). Each team must delegate a member to present their projects in no more than 2 minutes using no other visual support than the project page on GitHub (we won’t have time to switch screen sharing)
-* If you don’t have a project, look at the PW37 page to find a project you might be interested in and contact team members through their Discord channel.
-* Breakout sessions start every day at **9am on Zoom** (link in the calendar below)
-* Work in **project teams** will happen throughout the week with communication between team members taking place on **Discord**. If you want to schedule a meeting ahead you can "reserve" a meeting room in [this spreadsheet](https://docs.google.com/spreadsheets/d/1jrYSecdhg9XQ1Re_7yqOCYTMjX2mOe-GowAp3yfWS7g/edit?usp=sharing).
-* We will end the week with **project results presentation (9am on Friday)**. Again, each team will delegate one member to present their results in a maximum of 2 minutes. We will use the project page as a visual support for the presentation, so please make sure it is up to date with your latest results by Friday morning.
--->
-
 ## Preparation meetings
 We hold weekly preparation meetings at 10am on Tuesdays, starting November 29, 2022. Please join at [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
+
+## During PW
+<img alt="PW 38 floor plan" src="pw38-floor-plan.png" width="500"/>
+
+* **Monday Jan 30th**
+  * In person attendees can start setting up their computers and material, meeting with their teams and doing a last pass at the project pages from 9am (Las Palmas time) in the Working area. 
+  * Remote attendees are encouraged to do the same on Discord if in a time zone that makes it possible.
+* **Project presentations**
+  * Start at 9am, EST (2pm in Las Palmas). 
+  * Takes place in the main hall for in person attendees and is streamed on Zoom for remote attendees (same zoom link as for preparation meetings).
+  * Each team delegates a member to present their project in no more than 90 seconds using no other visual support than the project page on GitHub (no time to switch screen sharing).
+* **Breakout sessions**
+  * Start every day at 11am EST (4pm in Las Palmas) 
+  * Streamed on Zoom (same link as for project presentation and preparation meetings)
+* **Work in project teams**
+  * Starts at 4am EST (9am in Las Palmas) on Monday
+  * Takes place in the Working area
+  * Extends throughout the week before and after breakout sessions (see calendar on the PW webpage)
+  * Communication between team members takes place on Discord, in the work area, or both depending on where the team members are located
+  * The CreateEvent function on Discord can be used to plan a meeting (and inform other PW attendees about it)
+* **Project results presentation**
+  * Friday 9am EST, 2pm in Las Palmas. 
+  * Same format as for project presentation
 
 ##  Agenda
 
