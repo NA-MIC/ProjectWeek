@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-Automatedly map associated texture image to the obj file when importing it into Slicer. This can facilitate importing textured model acquired by photogrammetry into Slicer. The ultimate goal is to be able to access OpenDronMap(ODM) photogrammetric package via Slicer.
+Automatedly map the associated texture image to the obj file when importing it into Slicer. This can facilitate importing textured model acquired by photogrammetry into Slicer. The ultimate goal is to be able to access OpenDronMap(ODM) photogrammetric package via Slicer to facilitate the use of photogrammetry.
 
 ## Objective
 
