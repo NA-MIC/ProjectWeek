@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Juan Ruiz (ULPGC)
 - Idafen Santana (ULPGC)
 - Mario Monzón (ULPGC)
+- María Rosa Rodríguez (ULPGC)
 - Marie Ndiaye  y Sidi el Wafi 
 - Mamadou Samba Camara 
 - Adama Faye 
@@ -23,6 +24,31 @@ In order to meet the demand for professionals in the field of computer assisted 
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+1. Define the topics that should be covered in the syllabus.
+1. Select learning resources and bibliography to create the course contents.
+1. Design materials to be used in the lessons based on open source technologies.
 
-1. TBD
+## Approach and Plan
+
+1. Explore the competences that are required in the professional market to define the contents of the course.
+1. Discuss with the 3D Slicer community how to create materials based on open sourge technology and integrate them on a syllabus.
+1. Develop a tutorial module in 3D Slicer to learn the basic use of the software. This module will be designed to provide a quick and easy way of information for beginners to get used to the environment.
+
+## Progress and Next Steps
+
+1. Describe specific steps you **have actually done**.
+1. ...
+1. ...
+
+# Illustrations
+
+<!-- Add pictures and links to videos that demonstrate what has been accomplished.
+![Description of picture](Example2.jpg)
+![Some more images](Example2.jpg)
+-->
+
+# Background and References
+
+Examples of books on which the course material could be based:
+* _Biomedical Signal and Image Processing_ by K. Najarian and R. Splinter
+* _Principles of Medical Imaging for Engineers_ by M. Chappell
