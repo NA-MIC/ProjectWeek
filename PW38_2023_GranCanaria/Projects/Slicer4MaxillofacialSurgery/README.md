@@ -21,6 +21,7 @@ This project proposes to study the capabilities of two extensions of Slicer (Ost
 ## Approach and Plan
 
 1. To Install and run the software with our own clinical cases.
+Check if [BoneReconstructionPlanner videotutorial](https://youtu.be/g9Vql5h6uHM) should be updated. Execute [automatic-tests](https://github.com/SlicerIGT/SlicerBoneReconstructionPlanner/issues/68).
 2. To discuss with extension’s developers the best configuration of the software for our clinical cases.
 3. Beta testing of the extensions in our environment and send feedback to the community.
 
