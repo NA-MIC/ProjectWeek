@@ -27,10 +27,11 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 - We connected 3DSlicer to the web browser using our newly implemented WebSocket from https://github.com/liampaulhus/slicerWebWSS-WIP
 - We connected a mobile device via WebXR and can control the coil inside 3DSlicer
 - We have integrated a deep learning model (CNN) inside our SlicerTMS module. We receive real time updates of new generated Nifti files via the OpenIGTlink Plugin. The current deep learning model predicts the TMS E-field. We visualized this field with the magnetic field of the coil in the correct position on the brain mesh.
+- Beside the brain surface, we can visualize the E-Field on tractography fiber bundles. We have integrated the Fiber Bundle selection with an ROI attached to the TMS coil with the SlicerDMRI module.
 
 ## Progress and Next Steps
 
-1.
+1. We wish to improve the performance of the Fiber ROI selection.
 2. 
 
 
