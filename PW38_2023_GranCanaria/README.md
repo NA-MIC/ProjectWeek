@@ -417,6 +417,15 @@ List of registered participants so far (names will be added here after processin
 1. ENRIQUE HERNANDEZ LAREDO, Mexico, (Online)
 1. Ron Alkalay, USA, (In-person, Confirmed)
 1. Varun Agarwal, India, (Online)
+1. Christopher Bridge, USA, (Online)
+1. Marie Ndiaye, Senegal, (In-person)
+1. Mame Diarra SY , Senegal, (In-person)
+1. Mame Abdoulaye Gueye, Senegal, (In-person)
+1. Ndeye Mareme Sougou, Senegal, (In-person)
+1. Khedijetou Vilaly , Mauritania, (In-person)
+1. Edmee Clemence Mansilla, Côte d'Ivoire, (In-person)
+1. Estelle Tcheple Tuo, Côte d'Ivoire, (In-person)
+1. Delphine Bella Epse Konan, Côte d'Ivoire, (In-person)
 
 <!-- Participants list end -->
 
