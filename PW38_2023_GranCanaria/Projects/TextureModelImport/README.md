@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Chi Zhang (Seattle Children's Research Institute)
 - Steve Pieper (Isomics, Inc.)
 - Andras Lasso (The Perk Lab, Queen’s University)
+- A. Murat Maga (Seattle Children's Research Institute)
 - Sara Rolfe (Seattle Children's Research Institute)
 
 # Project Description
