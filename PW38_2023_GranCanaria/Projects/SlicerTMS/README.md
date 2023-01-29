@@ -22,12 +22,13 @@ Our project aims to develop a deep-learning powered software for real-time E-Fie
 Real-time visualization of an electric field (E-field) for transcranial magnetic stimulation (TMS) on the brain surface, visualization through an AR app (over browser).
 
 ## Approach and Plan
-- We created a TMS module in Slicer mapping NifTi file onto brain mesh with 3D TMS coil that can be moved by the user -> TODO: create a bounding box for the Coil mesh to not turn it into brain, attach the coil to the skull/skin surface
-- We use OpenIGTLinkIF used to transfer data (E-Field from TMS) into 3D Slicer
-- We connected 3DSlicer to the web browser using our newly implemented WebSocket from https://github.com/liampaulhus/slicerWebWSS-WIP
-- We connected a mobile device via WebXR and can control the coil inside 3DSlicer
-- We have integrated a deep learning model (CNN) inside our SlicerTMS module. We receive real time updates of new generated Nifti files via the OpenIGTlink Plugin. The current deep learning model predicts the TMS E-field. We visualized this field with the magnetic field of the coil in the correct position on the brain mesh.
-- Beside the brain surface, we can visualize the E-Field on tractography fiber bundles. We have integrated the Fiber Bundle selection with an ROI attached to the TMS coil with the SlicerDMRI module.
+- DONE: 
+1. We created a TMS module in Slicer mapping NifTi file onto brain mesh with 3D TMS coil that can be moved by the user.
+2. OpenIGTLinkIF is used to transfer data (E-Field from TMS) into 3D Slicer
+3. Connected 3DSlicer to the web browser using our newly implemented secure WebSocket from https://github.com/liampaulhus/slicerWebWSS-WIP
+4. Mobile device via WebXR connected and we can control the coil inside 3DSlicer.
+5. We have integrated a deep learning model (CNN) inside our SlicerTMS module. We receive real time updates of newly generated Nifti files via the OpenIGTlink Plugin. The current deep learning model predicts the TMS E-field. We visualized this field with the magnetic field of the coil in the correct position on the brain mesh.
+6. Beside the brain surface, we can visualize the E-Field on tractography fiber bundles. We have integrated the Fiber Bundle selection with an ROI attached to the TMS coil with the SlicerDMRI module.
 
 ## Progress and Next Steps
 
