@@ -6,33 +6,30 @@ Metadata:
     Description: >
       Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
       SPDX-License-Identifier: MIT-0
-      
+
       Permission is hereby granted, free of charge, to any person obtaining a copy of this
       software and associated documentation files (the "Software"), to deal in the Software
       without restriction, including without limitation the rights to use, copy, modify,
       merge, publish, distribute, sublicense, and/or sell copies of the Software, and to
       permit persons to whom the Software is furnished to do so.
-      
+
       THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
       INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
       PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
       HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
       OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
       SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-  AWS::CloudFormation::Interface: 
+  AWS::CloudFormation::Interface:
     ParameterGroups:
-      -
-        Label:
-          default: Instance type 
+      - Label:
+          default: Instance type
         Parameters:
           - InstanceType
-      -
-        Label:
+      - Label:
           default: EC2 configuration
         Parameters:
           - EC2Name
-      -
-        Label:
+      - Label:
           default: Allowed inbound source IP prefixes to NICE DCV port 8443
         Parameters:
           - IngressIPv4
@@ -91,6 +88,7 @@ Parameters:
       - g4dn.4xlarge
       - g5.xlarge
       - g5.2xlarge
+      - g5.4xlarge
 
   EC2Name:
     Description: Name of EC2 instance
@@ -137,7 +135,7 @@ Resources:
     Type: AWS::EC2::Subnet
     Properties:
       VpcId: !Ref VPC
-      AvailabilityZone: !Select [ 1, !GetAZs '' ]
+      AvailabilityZone: !Select [1, !GetAZs ""]
       CidrBlock: 10.192.10.0/24
       MapPublicIpOnLaunch: True
       Tags:
@@ -147,7 +145,7 @@ Resources:
           Value: !Sub ${AWS::StackId}
         - Key: Name
           Value: !Sub ${AWS::StackName} - Public Subnet
-  
+
   PublicRouteTable:
     Type: AWS::EC2::RouteTable
     Properties:
@@ -173,7 +171,7 @@ Resources:
     Properties:
       RouteTableId: !Ref PublicRouteTable
       SubnetId: !Ref PublicSubnet
-  
+
   S3GatewayEndpoint:
     Type: AWS::EC2::VPCEndpoint
     Properties:
@@ -181,14 +179,14 @@ Resources:
         Version: 2012-10-17
         Statement:
           - Effect: Allow
-            Principal: '*'
+            Principal: "*"
             Action:
-              - 's3:*'
+              - "s3:*"
             Resource:
-              - 'arn:aws:s3:::*'
+              - "arn:aws:s3:::*"
       RouteTableIds:
         - !Ref PublicRouteTable
-      ServiceName: !Sub 'com.amazonaws.${AWS::Region}.s3'
+      ServiceName: !Sub "com.amazonaws.${AWS::Region}.s3"
       VpcId: !Ref VPC
 
   SecurityGroup:
@@ -210,10 +208,10 @@ Resources:
       SecurityGroupEgress:
         - Description: Allow all outbound traffic (IPv4)
           IpProtocol: "-1"
-          CidrIp: 0.0.0.0/0          
+          CidrIp: 0.0.0.0/0
         - Description: Allow all outbound traffic (IPv6)
           IpProtocol: "-1"
-          CidrIpv6: "::/0"     
+          CidrIpv6: "::/0"
       Tags:
         - Key: StackName
           Value: !Sub ${AWS::StackName}
@@ -237,35 +235,35 @@ Resources:
 
   InstanceIamRole:
     Type: AWS::IAM::Role
-    Properties: 
-      AssumeRolePolicyDocument: 
+    Properties:
+      AssumeRolePolicyDocument:
         Statement:
           - Effect: Allow
             Principal:
               Service: [ec2.amazonaws.com]
-            Action: ['sts:AssumeRole']
+            Action: ["sts:AssumeRole"]
       Path: /
       Policies:
-      - PolicyName: dcvLicensing
-        PolicyDocument:
-          Version: '2012-10-17'  
-          Statement:
-          - Effect: Allow
-            Action: 
-              - s3:GetObject
-            Resource: !Sub "arn:${AWS::Partition}:s3:::dcv-license.${AWS::Region}/*"
-      - PolicyName: fullAccessToDataBucket
-        PolicyDocument:
-          Version: '2012-10-17'  
-          Statement:
-          - Effect: Allow
-            Action: 
-              - s3:ListBucket
-              - s3:GetObject
-              - s3:PutObject
-            Resource:
-              - !GetAtt S3DataBucket.Arn
-              - !Sub '${S3DataBucket.Arn}/*'
+        - PolicyName: dcvLicensing
+          PolicyDocument:
+            Version: "2012-10-17"
+            Statement:
+              - Effect: Allow
+                Action:
+                  - s3:GetObject
+                Resource: !Sub "arn:${AWS::Partition}:s3:::dcv-license.${AWS::Region}/*"
+        - PolicyName: fullAccessToDataBucket
+          PolicyDocument:
+            Version: "2012-10-17"
+            Statement:
+              - Effect: Allow
+                Action:
+                  - s3:ListBucket
+                  - s3:GetObject
+                  - s3:PutObject
+                Resource:
+                  - !GetAtt S3DataBucket.Arn
+                  - !Sub "${S3DataBucket.Arn}/*"
       ManagedPolicyArns:
         - !Sub "arn:${AWS::Partition}:iam::aws:policy/AmazonSSMManagedInstanceCore"
         - !Sub "arn:${AWS::Partition}:iam::aws:policy/AmazonS3ReadOnlyAccess"
@@ -277,14 +275,14 @@ Resources:
 
   InstanceProfile:
     Type: AWS::IAM::InstanceProfile
-    Properties: 
+    Properties:
       Path: /
-      Roles: 
-      - !Ref InstanceIamRole
+      Roles:
+        - !Ref InstanceIamRole
 
   EC2Instance:
     Type: AWS::EC2::Instance
-    CreationPolicy: 
+    CreationPolicy:
       ResourceSignal:
         Timeout: PT90M
     Properties:
@@ -298,77 +296,76 @@ Resources:
       BlockDeviceMappings:
         - DeviceName: /dev/sda1
           Ebs:
-            VolumeSize: 100
+            VolumeSize: 300
             VolumeType: gp3
             DeleteOnTermination: true
             Encrypted: true
-      UserData: 
-        Fn::Base64:
-          !Sub |
-            <script>
-            @echo off
-            cfn-init.exe -v --stack ${AWS::StackId} --resource EC2Instance --region ${AWS::Region} --configsets setup
+      UserData:
+        Fn::Base64: !Sub |
+          <script>
+          @echo off
+          cfn-init.exe -v --stack ${AWS::StackId} --resource EC2Instance --region ${AWS::Region} --configsets setup
 
-            cd \windows\temp\
-            
-            @echo ** https://docs.aws.amazon.com/systems-manager/latest/userguide/sysman-install-win.html
-            powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://amazon-ssm-${AWS::Region}.s3.${AWS::Region}.amazonaws.com/latest/windows_amd64/AmazonSSMAgentSetup.exe', 'AmazonSSMAgentSetup.exe')"
-            c:\windows\temp\AmazonSSMAgentSetup.exe /S
+          cd \windows\temp\
 
-            @echo ** install Chocolatey windows package manager
-            powershell -comand "Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))"
-            SET "PATH=%PATH%;%PROGRAMDATA%\chocolatey\bin\"
+          @echo ** https://docs.aws.amazon.com/systems-manager/latest/userguide/sysman-install-win.html
+          powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://amazon-ssm-${AWS::Region}.s3.${AWS::Region}.amazonaws.com/latest/windows_amd64/AmazonSSMAgentSetup.exe', 'AmazonSSMAgentSetup.exe')"
+          c:\windows\temp\AmazonSSMAgentSetup.exe /S
 
-            @echo ** install aws cli
-            choco install awscli -y
+          @echo ** install Chocolatey windows package manager
+          powershell -comand "Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))"
+          SET "PATH=%PATH%;%PROGRAMDATA%\chocolatey\bin\"
 
-            @echo ** install git
-            choco install git.install -y
+          @echo ** install aws  cli
+          choco install awscli -y
 
-            @echo ** install python
-            choco install python39 -y
-            call RefreshEnv.cmd
-            
-            @echo ** install firefox
-            choco install firefox -y
+          @echo ** install git
+          choco install git.install -y
 
-            @echo ** download and install the latest nvidia graphics driver
-            echo $Bucket = 'ec2-windows-nvidia-drivers' > download-nvidia-driver.ps1
-            echo $KeyPrefix = 'latest' >> download-nvidia-driver.ps1
-            echo $LocalPath = '.\NVIDIA' >> download-nvidia-driver.ps1
-            echo $Objects = Get-S3Object -BucketName $Bucket -KeyPrefix $KeyPrefix -Region us-east-1 >> download-nvidia-driver.ps1
-            echo foreach ($Object in $Objects) { >> download-nvidia-driver.ps1
-            echo     $LocalFileName = $Object.Key >> download-nvidia-driver.ps1
-            echo     if ($LocalFileName -ne '' -and $LocalFileName -like '*server2019*' -and $Object.Size -ne 0) { >> download-nvidia-driver.ps1
-            echo         $LocalFilePath = Join-Path $LocalPath 'nvidia-latest-driver.exe' >> download-nvidia-driver.ps1
-            echo         Copy-S3Object -BucketName $Bucket -Key $Object.Key -LocalFile $LocalFilePath -Region us-east-1 >> download-nvidia-driver.ps1
-            echo     } >> download-nvidia-driver.ps1
-            echo } >> download-nvidia-driver.ps1
-            powershell -file download-nvidia-driver.ps1
-            START /WAIT .\NVIDIA\nvidia-latest-driver.exe -s -n
+          @echo ** install python
+          choco install python39 -y
+          call RefreshEnv.cmd
 
-            @echo ** install MONAI label
-            python -m pip install --upgrade pip setuptools wheel
-            python -m pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
-            python -m pip install monailabel
-            mkdir C:\monai-label
-            powershell -command "$shortcut=(New-Object -ComObject WScript.Shell).CreateShortcut('C:\Users\Administrator\Desktop\monai-label.lnk');$shortcut.TargetPath='C:\monai-label\';$shortcut.Save()"
+          @echo ** install firefox
+          choco install firefox -y
 
-            @echo ** install TotalSegmentator
-            python -m pip install TotalSegmentator
+          @echo ** download and install the latest nvidia graphics driver
+          echo $Bucket = 'ec2-windows-nvidia-drivers' > download-nvidia-driver.ps1
+          echo $KeyPrefix = 'latest' >> download-nvidia-driver.ps1
+          echo $LocalPath = '.\NVIDIA' >> download-nvidia-driver.ps1
+          echo $Objects = Get-S3Object -BucketName $Bucket -KeyPrefix $KeyPrefix -Region us-east-1 >> download-nvidia-driver.ps1
+          echo foreach ($Object in $Objects) { >> download-nvidia-driver.ps1
+          echo     $LocalFileName = $Object.Key >> download-nvidia-driver.ps1
+          echo     if ($LocalFileName -ne '' -and $LocalFileName -like '*server2019*' -and $Object.Size -ne 0) { >> download-nvidia-driver.ps1
+          echo         $LocalFilePath = Join-Path $LocalPath 'nvidia-latest-driver.exe' >> download-nvidia-driver.ps1
+          echo         Copy-S3Object -BucketName $Bucket -Key $Object.Key -LocalFile $LocalFilePath -Region us-east-1 >> download-nvidia-driver.ps1
+          echo     } >> download-nvidia-driver.ps1
+          echo } >> download-nvidia-driver.ps1
+          powershell -file download-nvidia-driver.ps1
+          START /WAIT .\NVIDIA\nvidia-latest-driver.exe -s -n
 
-            @echo ** install lungmask
-            python -m pip install lungmask
+          @echo ** install MONAI label
+          python -m pip install --upgrade pip setuptools wheel
+          python -m pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
+          python -m pip install monailabel
+          mkdir C:\monai-label
+          powershell -command "$shortcut=(New-Object -ComObject WScript.Shell).CreateShortcut('C:\Users\Administrator\Desktop\monai-label.lnk');$shortcut.TargetPath='C:\monai-label\';$shortcut.Save()"
 
-            @echo ** download 3D Slicer
-            mkdir C:\slicer
-            cd C:\slicer
-            powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://slicer-packages.kitware.com/api/v1/item/637f7a7f517443dc5dc73276/download', 'slicer-setup.exe')"
-            powershell -command "$shortcut=(New-Object -ComObject WScript.Shell).CreateShortcut('C:\Users\Administrator\Desktop\slicer.lnk');$shortcut.TargetPath='C:\slicer\';$shortcut.Save()"
-            
-            cfn-signal.exe -e %errorlevel% --stack ${AWS::StackId} --resource EC2Instance --region ${AWS::Region}
-            shutdown -r
-            </script>       
+          @echo ** install TotalSegmentator
+          python -m pip install TotalSegmentator
+
+          @echo ** install lungmask
+          python -m pip install lungmask
+
+          @echo ** download 3D Slicer
+          mkdir C:\slicer
+          cd C:\slicer
+          powershell -command "(New-Object System.Net.WebClient).DownloadFile('https://slicer-packages.kitware.com/api/v1/item/637f7a7f517443dc5dc73276/download', 'slicer-setup.exe')"
+          powershell -command "$shortcut=(New-Object -ComObject WScript.Shell).CreateShortcut('C:\Users\Administrator\Desktop\slicer.lnk');$shortcut.TargetPath='C:\slicer\';$shortcut.Save()"
+
+          cfn-signal.exe -e %errorlevel% --stack ${AWS::StackId} --resource EC2Instance --region ${AWS::Region}
+          shutdown -r
+          </script>
       Tags:
         - Key: Name
           Value: !Ref EC2Name
@@ -393,7 +390,7 @@ Outputs:
   InstanceID:
     Description: EC2 Instance ID
     Value: !Ref EC2Instance
- 
+
   PublicIP:
     Description: EC2 Public IP
     Value: !GetAtt EC2Instance.PublicIp

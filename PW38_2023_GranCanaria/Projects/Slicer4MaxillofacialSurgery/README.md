@@ -1,16 +1,17 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
-Maxillofacial Surgery Virtual Planning Applications based on Slicer
+# Maxillofacial Surgery Virtual Planning Applications based on Slicer
 
 ## Key Investigators
 
-- Miguel Ángel Rodriguez-Florido, PhD (GTMA, University of Las Palmas de Gran Canaria)
+- Miguel Ángel Rodriguez-Florido, PhD (GTMA, University of Las Palmas de Gran Canaria and Children’s, Women’s and General Hospital Insular)
 - Christian Buritica, MD (Children’s, Women’s and General Hospital Insular)
+- Mauro Domínguez (Software Developer of BoneReconstructionPlanner)
 
 # Project Description
 
 This project proposes to study the capabilities of two extensions of Slicer (Osteotomy Planner and BoneReconstructionPlanner) to be included at the classes at the Medical School of our University and to the planning tools used for clinical maxillofacial cases. 
+
 ## Objective
 
 1. To know and test the features and parameters of both extensions for trying them with our own clinical requisites and datasets.

@@ -47,6 +47,7 @@ To make ASO more robust, a pre-orientation algorithm has been developed. This pa
 1. Develop in collaboration with Nathan Hutin ([ASO_IOS](../AutomaticStandardizeOrientation_IOS/README.md
 )) a Slicer Module to make ASO work for both IOS and CBCT files
 1. Implement the pre-orientation algorithm to this module
+1. Use CLI version of previously developped code to make ASO FULLY-Automated (without any input from the user)
 
 ## Progress and Next Steps
 
@@ -54,8 +55,9 @@ To make ASO more robust, a pre-orientation algorithm has been developed. This pa
 
 1. Slicer Module has been developed:
     - In a first step, only a SEMI-Automated version has been implemented (with scan and landmark files as inputs)
-    - In a second step, a fully automated version has been developed (with ONLY scan files as inputs and ALI module running in the background)
-1. Pre-orientation algorithm will be implemented in the ASO module
+    - In a second step, a FULLY-Automated version has been developed (with ONLY scan files as inputs and ALI module running in the background)
+1. Pre-orientation algorithm, DenseNet169 from MONAI library, has been implemented in the ASO module
+1. Receive input before deploying ASO to SlicerAutomatedDentalTool Extension
 
 # Illustrations
 

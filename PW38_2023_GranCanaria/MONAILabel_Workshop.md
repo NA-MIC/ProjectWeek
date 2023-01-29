@@ -1,6 +1,8 @@
 # MONAI Label Workshop / Tutorial
 
-Workshop will be held: **January 25, 2022 9-11am EST**
+Workshop <strike>will be</strike> **WAS** held: **January 25, 2022 9-11am EST**
+
+**A recording of the workhop is here:** https://www.youtube.com/watch?v=KtPE8m0LvcQ
 
 Space will be limited so **sign up by January 22th 2023**
 
@@ -23,25 +25,27 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
 
 
 ## Agenda
-(Draft - to be finalized)
+
 * Intro and welcome (Steve Pieper - 1 minute)
+* Overview of MONAI Events: workshop and bootcamp (Michael Zeyphyr - 1 minute)
 * Overview of MONAI Label (Andres Diaz-Pinto) 15 minutes)
   * Intro for first time attendees / refresher for return attendees
   * What's new in MONAI / MONAI Label since the last workshops?
   * What's the overall architecture for MONAI model from training to deployment (e.g. considerations for someone doing project planning)
-* 3D Slicer and MONAI on AWS (5 minutes, Rudolf Bumm / Steve Pieper)
-* Preparation for Hands-on session on AWS (5 minutes, Qing Liu)
+* [3D Slicer and MONAI on AWS](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/) (2 minutes, Rudolf Bumm / Steve Pieper)
+* Preparation for Hands-on session on AWS (8 minutes, Qing Liu, Alex Lemm)
 * What clinical/research applications developing with MONAI Label and what's the general status of them (10 minutes each)
   * Lungs: Rudolf Bumm 
   * Stroke: Ken Butcher
   * Cancer spines: Ron Alkalay
-* Deeper dive into the spine application example use case (15 minutes Andres Diaz-Pinto)
+* Deeper dive into application example use cases (15 minutes Andres Diaz-Pinto)
   * data format and preparation
   * python code needs to be edited
   * what decisions need to be made
   * how to organize the training, etc.
-* Hands-on session with pre-trained models + Q&A discussions (40 minutes)
+* Hands-on session with pre-trained models + Q&A discussions (remainder of the time)
 
+Note that right after this workshop  starting at 11am EST, Nvidia is holding two longer MONAI Bootcamp sessions on the 25th and 26th of January: [see information here](https://events.nvidia.com/janmonaibootcamp).
 
 ## Event logistics
 
@@ -53,5 +57,5 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
 
 * The workshop will be recorded and made available.
 
-*Big thanks in advance to the AWS, NVIDIA and Slicer teams for providing this activity!*
+*Big thanks in advance to the AWS, NVIDIA, IDC, and Slicer teams for providing this activity!*
 

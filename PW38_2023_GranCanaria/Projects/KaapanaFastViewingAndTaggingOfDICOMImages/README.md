@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Stefan Denner (German Cancer Research Center, Germany)
 - Klaus Kades (German Cancer Research Center, Germany)
+- Andrey Fedorov (Brigham and Women's Hospital, USA)
 
 # Project Description
 

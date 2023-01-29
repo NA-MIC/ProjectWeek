@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Simple DICOM Query/Retrieve Panel
+# Visual DICOM browser
 
 ## Key Investigators
 
@@ -10,11 +10,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Implement a Query/Retrieve panel for DICOM databases.
+Implement a visual DICOM browser with thumbnails and query/retrieve/store capabilities for DICOM databases.
 
 ## Objective
 
-Have a simple user-friendly interface to query/retrieve from a DICOM server.
+Have a simple user-friendly interface to query/retrieve/store from a DICOM server.
 The user interface would render series thumbnails so the users can easily navigate the DICOM database
 (see illustrations for a first UI Design prototype).
 Moreover, perfomance needs to be boosted as much as possible: 
@@ -26,9 +26,15 @@ Moreover, perfomance needs to be boosted as much as possible:
 
 ## Approach and Plan
 
-1) Get feedback
+1) Get feedback: ask feedback on the UI prototype (e.g., Osirix, MITK, Weasis, cloud UIs)
 
-2) Design the solution
+2) Design the solution: 
+   we implement in CTK:
+   - UI: display list of studies per patient with thumbnails. Show server and local content together
+   - improvement of the networking API:
+      - methods to retrieve instances metadata and DICOM files
+      - allow to query study and series metadata separately
+   - async query/retrieve/store
 
 3) Start implementation
 

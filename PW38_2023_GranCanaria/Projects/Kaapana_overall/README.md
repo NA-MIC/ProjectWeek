@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Andrey Fedorov (Brigham and Women’s Hospital, USA)
+- Nadya Shusharina (Brigham and Women's Hospital, USA) (online)
 - Marco Nolden (German Cancer Research Center, Germany)
 - Hans Meine (Fraunhofer MEVIS, Germany)
 - Klaus Kades (German Cancer Research Center, Germany)
