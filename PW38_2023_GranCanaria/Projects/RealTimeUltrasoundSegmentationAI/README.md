@@ -4,9 +4,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- María Rosa Rodríguez Luque (Universidad de Las Palmas de Gran Canaria, Spain)
-- Tamas Ungi (Queen’s University, Canada)
-- David García Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
+- María Rosa Rodríguez Luque (Universidad de Las Palmas de Gran Canaria, Spain) [on site]
+- Tamas Ungi (Queen’s University, Canada) [remote]
+- David García Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain) [on site]
+- Chris Yeung (Queen’s University, Canada) [remote]
 
 # Project Description
 
