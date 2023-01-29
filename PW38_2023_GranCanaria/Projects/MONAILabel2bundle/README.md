@@ -73,3 +73,4 @@ In this project we want to explore the process of converting MONAI Label trained
 - [MONAI Label app for whole body segmentation](https://github.com/Project-MONAI/MONAILabel/blob/fullCTSegmentation/sample-apps/radiology/lib/configs/segmentation_full_CT.py)
 - [MONAI bundle specification](https://docs.monai.io/en/stable/mb_specification.html)
 - Script from Steve to run MONAILabel model in batch from Slicer: [https://github.com/LymphNodeQuantification/Monailabel-LNQ/blob/main/Experiments/reviewer.py](https://github.com/LymphNodeQuantification/Monailabel-LNQ/blob/main/Experiments/reviewer.py)
+- Notes from meetings [here](https://docs.google.com/document/d/1d1vUYdUzSbnitJDyzi-FCCeccGzHQGUHcZKCBeSi_28/edit?usp=sharing)
