@@ -22,7 +22,7 @@ Our project aims to develop a deep-learning powered software for real-time E-Fie
 Real-time visualization of an electric field (E-field) for transcranial magnetic stimulation (TMS) on the brain surface, visualization through an AR app (over browser).
 
 ## Approach and Plan
-- DONE: 
+What is done so far: 
 1. We created a TMS module in Slicer mapping NifTi file onto brain mesh with 3D TMS coil that can be moved by the user.
 2. OpenIGTLinkIF is used to transfer data (E-Field from TMS) into 3D Slicer
 3. Connected 3DSlicer to the web browser using our newly implemented secure WebSocket from https://github.com/liampaulhus/slicerWebWSS-WIP
