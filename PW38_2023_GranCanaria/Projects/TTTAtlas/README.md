@@ -8,7 +8,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Idafen Santana (ULPGC)
 - Mario Monzón (ULPGC)
 - Aday Melián (ULPGC)
-- TBD
 
 # Project Description
 
@@ -50,3 +49,4 @@ This project aims to provide the tools and knowledge for generating a comprehens
 - Last two years we have been working with anatomic 3d models to create educative experiences like VRAINS (VR Anatomic atlas - ULPGC) and AVRIR (Collaborative VR dissection - ULPGC) using OpenAnatomy and z-Anatomy content imported into Unity3D.
 
 - We have found several challenges with the adaptation of this kind of content for our objectives (Excess of polygons for target devices, too detailed anatomic distribution, language localization...).
+
