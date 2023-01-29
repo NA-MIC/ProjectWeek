@@ -32,8 +32,11 @@ The project is funded through two Essential Open Source Software for Science awa
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
- Daily Slicer internationalization session from 10 am to 11 am EST with members of the Slicer community. 
+ Daily Slicer internationalization session from 10 am to 11 am EST with members of the Slicer community
+ 
  Anyone is welcome to join the Google Meet for the session: https://meet.google.com/umd-avcb-xom 
+ 
+ New international members, please fill in the [PW38 Slicer internationalization form](https://forms.gle/iinkdKvN4ZG2vv2o6) prior to joining the session.
 
 ## Progress and Next Steps
 
