@@ -86,7 +86,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 ### VR/AR and Rendering
 1. [SlicerVR - Restore Interactions](Projects/SlicerVRInteractions/README.md) (**Csaba Pintér**, Simon Drouin, Andrey Titov, Lucas Gandel, Jean-Christophe Fillion-Robin) *[On site]*
 
-1. [SlicerTMS](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Yogesh Rathi, Lipeng Ning, Steve Pieper, Daniel Haehn) *[??]*
+1. [SlicerTMS](Projects/SlicerTMS/README.md) (**Loraine Franke**, Jax Luo, Yogesh Rathi, Lipeng Ning, Steve Pieper, Daniel Haehn) *[Remote]*
 
 1. [ARinSlicer](Projects/ARinSlicer/README.md) (**Alicia Pose**, Javier Pascau, Gabor Fichtinger, Andras Lasso...) *[On site]*
 
