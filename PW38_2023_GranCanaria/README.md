@@ -77,6 +77,8 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [ARinSlicer](Projects/ARinSlicer/README.md) (**Alicia Pose**, Javier Pascau, Gabor Fichtinger, Andras Lasso...) *[On site]*
 
+1. [Map texture when importing the OBJ file into Slicer](Projects/TextureModelImport/README.md) (**Chi Zhang**, Steve Pieper, A. Murat Maga, Andras Lasso, Sara Rolfe) *[Remote]*
+
 ### IGT and Training
 4. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (**Natalia Arteaga**, David García, Javier González) *[On site]*
 
