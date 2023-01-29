@@ -52,3 +52,4 @@ In order to meet the demand for professionals in the field of computer assisted 
 Examples of books on which the course material could be based:
 * _Biomedical Signal and Image Processing_ by K. Najarian and R. Splinter
 * _Principles of Medical Imaging for Engineers_ by M. Chappell
+* [3D printing medical devices](https://formlabs.com/blog/3d-printing-medical-devices/)
