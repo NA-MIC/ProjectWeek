@@ -5,6 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Jordan Ortega Rodríguez (Astrophysic Institute of Canary Islands - IACTEC)
+- Gara Ramos (Astrophysic Institute of Canary Islands - IACTEC)
 
 # Project Description
 

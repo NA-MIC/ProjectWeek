@@ -9,6 +9,8 @@ https://drive.google.com/file/d/1A7-8Ru0uTJHFFa17rZtkBpvNhJao_F7x/view?usp=share
 
 - Hanno Gao (German Cancer Research Center, Germany)
 - Klaus Kades (German Cancer Research Center, Germany)
+- Andrey Fedorov (Brigham and Women's Hospital, USA)
+- Ralf Floca (German Cancer Research Center, Germany)
 
 # Project Description
 
@@ -53,3 +55,5 @@ Relate to:
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+* [branch](https://github.com/fedorov/kaapana/tree/develop-slicer) that attempts to integrate Slicer into Kaapana

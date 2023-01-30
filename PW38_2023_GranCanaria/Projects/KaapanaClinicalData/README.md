@@ -53,3 +53,4 @@ This projects aims to integrate clinical data better into the Kaapana medical im
 - [Kaapana](https://github.com/kaapana/kaapana) the imaging platform to use
 - [HAPI FHIR](https://hapifhir.io/) a potential open source FHIR server
 - [CCE_DART](https://cce-dart.com/) a project using Kaapana to discover complex biomarkers
+- Clinical data in IDC - start with [this tutorial](https://github.com/ImagingDataCommons/IDC-Examples/blob/master/notebooks/clinical_data_intro.ipynb)

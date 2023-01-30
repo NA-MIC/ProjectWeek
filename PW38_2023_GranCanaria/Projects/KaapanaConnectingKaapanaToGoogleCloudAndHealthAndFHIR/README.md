@@ -7,6 +7,7 @@ Kaapana tutorial for the 38th NA-MIC project week: https://drive.google.com/file
 ## Key Investigators
 
 - Jonas Scherer (German Cancer Research Center, Germany)
+- Andrey Fedorov (Brigham and Women's Hospital, USA)
 
 # Project Description
 

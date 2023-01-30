@@ -4,29 +4,28 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Investigator 1 (Affiliation)
-- Investigator 2 (Affiliation)
-- Investigator 3 (Affiliation)
+- Sam Horvath (Kitware)
+- Kevin Cleay (CNMC)
+- Karun SHarma (CNMC)
 
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
 
+This is an on-going project to develop a kidney biopsy trainer based on 3D Slicer.  The trainer uses the iMSTK library to simulate force interactions between the 3D models in Slicer and the physical trainer hardware.
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Upgrade the existing demo to newest 3D Slicer
+1. Upgrade the existing demo to newest iMSTK (simulation library)
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Rewrite the main UI using the new ParameterNode infrastructure.
 
 ## Progress and Next Steps
 
@@ -42,6 +41,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+## Demo version of trainer
+![Demo version of trainer](UsingTrainer.png)
 
 # Background and References
 

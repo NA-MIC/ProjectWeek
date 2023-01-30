@@ -6,7 +6,7 @@
 * The venue for in-person events is Hotel Cristina, Las Palmas, Gran Canaria (Spain).
 * A block of rooms at [Hotel Cristina](https://www.dreamplacehotels.com/en/hotel-cristina/) is being held for PW attendees
   * To make reservations use code NAMIC23 in email to grupos.mice@dreamplacehotels.com
-  * 40 rooms are being held for us at the rate of 108€ (single) and 135€ (double) until the end of November 
+  * 40 rooms are being held for us at the rate of 108€ (single) and 135€ (double) until the end of November
 * Please [register](https://forms.gle/sh9jGJLJdBm4us3E7) as early as possible, indicating whether you plan on participating in person. It will greatly help the organizing committee to estimate the number of participants we need to accommodate in Las Palmas. Registration fees for in-person attendees will be determined and collected later using a separate form by the local organizing team.
 * **For those attending virtually**: there will be no registration fee, and zoom/discord links will be provided during preparation meetings.
 * **For those attending in person**: a registration fee of 400 Euros will be charged to cover for the workshop venue, lunch and coffee breaks. Use [this form](https://www.fulp.es/inscripcion-namic) to register your payment. Please do so by Tuesday, Jan 17th 2023, as we need to estimate the number of participants to finalize the booking of the room.
@@ -26,18 +26,31 @@ If you have any questions, you can contact the [organizers](#organizers).
 4. Join the [Discord server](https://discord.gg/yQsNVdVpS3) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
 5. Consider joining the [MONAI Label Workshop](MONAILabel_Workshop.md) that will take place January 25th (the week before Project Week).
 
-<!-- TBD
-## During Project Week (All times US Eastern Daylight (Boston) Time)
-* The week will start at **8:15am on Monday June 27th** with informal conversations on **[Discord](https://discord.gg/d5Q6b5ug8u)**.
-* Initial **project presentations** will start at **9am on Zoom**, using [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09). Each team must delegate a member to present their projects in no more than 2 minutes using no other visual support than the project page on GitHub (we won’t have time to switch screen sharing)
-* If you don’t have a project, look at the PW37 page to find a project you might be interested in and contact team members through their Discord channel.
-* Breakout sessions start every day at **9am on Zoom** (link in the calendar below)
-* Work in **project teams** will happen throughout the week with communication between team members taking place on **Discord**. If you want to schedule a meeting ahead you can "reserve" a meeting room in [this spreadsheet](https://docs.google.com/spreadsheets/d/1jrYSecdhg9XQ1Re_7yqOCYTMjX2mOe-GowAp3yfWS7g/edit?usp=sharing).
-* We will end the week with **project results presentation (9am on Friday)**. Again, each team will delegate one member to present their results in a maximum of 2 minutes. We will use the project page as a visual support for the presentation, so please make sure it is up to date with your latest results by Friday morning.
--->
-
 ## Preparation meetings
 We hold weekly preparation meetings at 10am on Tuesdays, starting November 29, 2022. Please join at [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
+
+## During PW
+<img alt="PW 38 floor plan" src="pw38-floor-plan.png" width="500"/>
+
+* **Monday Jan 30th**
+  * In person attendees can start setting up their computers and material, meeting with their teams and doing a last pass at the project pages from 9am (Las Palmas time) in the Working area. 
+  * Remote attendees are encouraged to do the same on Discord if in a time zone that makes it possible.
+* **Project presentations**
+  * Start at 9am, EST (2pm in Las Palmas). 
+  * Takes place in the main hall for in person attendees and is streamed on Zoom for remote attendees (same zoom link as for preparation meetings).
+  * Each team delegates a member to present their project in no more than 90 seconds using no other visual support than the project page on GitHub (no time to switch screen sharing).
+* **Breakout sessions**
+  * Start every day at 11am EST (4pm in Las Palmas) 
+  * Streamed on Zoom (same link as for project presentation and preparation meetings)
+* **Work in project teams**
+  * Starts at 4am EST (9am in Las Palmas) on Monday
+  * Takes place in the Working area
+  * Extends throughout the week before and after breakout sessions (see calendar on the PW webpage)
+  * Communication between team members takes place on Discord, in the work area, or both depending on where the team members are located
+  * The CreateEvent function on Discord can be used to plan a meeting (and inform other PW attendees about it)
+* **Project results presentation**
+  * Friday 9am EST, 2pm in Las Palmas. 
+  * Same format as for project presentation
 
 ##  Agenda
 
@@ -57,9 +70,9 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 </script>
 
 [How to add this calendar to your own?](../common/Calendar.md)
-   
+
 ## Travel guide
-   
+
 [Gran Canaria travel guide](GranCanaria_TravelGuide.md)
 
 ## Breakout sessions
@@ -71,21 +84,23 @@ Categories based on project list of PW37, will be updated as we populate the lis
 Presenter (assumed based on order + confirmed status) in **bold**
 
 ### VR/AR and Rendering
-1. [SlicerVR - Restore Interactions](Projects/SlicerVRInteractions/README.md) (**Csaba Pintér**, Simon Drouin, Andrey Titov) *[On site]*
+1. [SlicerVR - Restore Interactions](Projects/SlicerVRInteractions/README.md) (**Csaba Pintér**, Simon Drouin, Andrey Titov, Lucas Gandel, Jean-Christophe Fillion-Robin) *[On site]*
 
-1. [SlicerTMS](Projects/SlicerTMS/README.md) (Loraine Franke, Jax Luo, Yogesh Rathi, Lipeng Ning, Steve Pieper, Daniel Haehn) *[??]*
+1. [SlicerTMS](Projects/SlicerTMS/README.md) (**Loraine Franke**, Jax Luo, Yogesh Rathi, Lipeng Ning, Steve Pieper, Daniel Haehn) *[Remote]*
 
 1. [ARinSlicer](Projects/ARinSlicer/README.md) (**Alicia Pose**, Javier Pascau, Gabor Fichtinger, Andras Lasso...) *[On site]*
 
+1. [Map texture when importing OBJ file into Slicer](Projects/TextureModelImport/README.md) (**Chi Zhang**, Steve Pieper, A. Murat Maga, Andras Lasso, Sara Rolfe) *[Remote]*
+
 ### IGT and Training
-4. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (**Natalia Arteaga**, David García, Javier González) *[On site]*
-   
+5. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (**Natalia Arteaga**, David García, Javier González, Gara Ramos) *[On site]*
+
 1. [Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation/README.md) (**Felix von Haxthausen**, David García, Tolga-Can Çallar, José Carlos Mateo) *[On site]*
 
-1. [Slicer Liver](Projects/SlicerLiver/README.md) (Gabriella D'Albenzio, **Ruoyan Meng**, Geir A. Tangen, Ole V. Solberg, Rafael Palomar) *[On site]*
+1. [Slicer Liver](Projects/SlicerLiver/README.md) (**Gabriella D'Albenzio**, Ruoyan Meng, Geir A. Tangen, Ole V. Solberg, Rafael Palomar) *[On site]*
 
 1. [Slicer Maxillofacial Surgery](Projects/Slicer4MaxillofacialSurgery/README.md) (Miguel Ángel Rodriguez-Florido, Christian Buritica, Mauro Dominguez) *[On site]*
-   
+
 1. [Slicer + IMSTK for low cost training setups](Projects/SlicerIMSTK/README.md) (**Sam Horvath**, Kevin Cleary, Karun Sharma) *[On site]*
 
 1. [Open Source Technologies for the Development of Clinical Simulation Centers](Projects/OpenSourceSimulationCenter/README.md) (**Juan Ruiz**, Idafen Santana, Mario Monzón) *[On site]*
@@ -97,13 +112,13 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [Integration of infrared, ultraviolet and hyperspectral sensors in Slicer via Plus Toolkit  and OpenIGTLink.](Projects/MultiSpectralSensorIntegration/README.md) (**Francisco J. Marcano Serrano**) *[??]*
 
 ### Segmentation / Classification / Landmarking
-13. [Lung CT Segmentation and Analysis](Projects/LungSegmentation/Readme.md) (**Rudolf Bumm**, Ron Kikinis, Raúl San José Estépar, Steve Pieper, Eserval Rocha jr., Andras Lasso, Curtis Lisle) *[On site]*
+14. [Lung CT Segmentation and Analysis](Projects/LungSegmentation/Readme.md) (**Rudolf Bumm**, Ron Kikinis, Raúl San José Estépar, Steve Pieper, Eserval Rocha jr., Andras Lasso, Curtis Lisle) *[On site]*
 
 1. [MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md) (**Deepa Krishnaswamy**, Cosmin Ciausu, Nazim Haouchine, Andres Diaz-Pinto, Jesse Tetreault, Roya Hajavi, Stephen Aylward, Steve Pieper, Andrey Fedorov) *[On site]*
-   
+
 1. [Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation/README.md) (**David García**, Yucheng Tang, Andres Diaz, Daniel Palkovics, Csaba Pinter, Attila Nagy, Brianna Burton) *[On site]*
-   
-1. [Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI/README.md) (**María Rosa Rodríguez**, Tamas Ungi, David García) *[On site]*
+
+1. [Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI/README.md) (**María Rosa Rodríguez**, Tamas Ungi, David García, Chris Yeung) *[On site]*
 
 1. [AtlasYEB_Plugin_WEB_API](Projects/AtlasYEB_Plugin_WEB_API/README.md) (**Sara Fdez Vidal,ICM**) *[On site]*
 
@@ -120,18 +135,18 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 ### Quantification and Computation
 
-23. [Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (**Nathan Hutin**, Luc Anchling, Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, David Allemang, Jean-Christophe Fillion-Robin) *[Remote]*
+24. [Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (**Nathan Hutin**, Luc Anchling, Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, David Allemang, Jean-Christophe Fillion-Robin) *[Remote]*
 
 1. [MeshComparison](Projects/MeshComparison/README.md) (**Paolo Zaffino**, Maria Francesca Spadea, Michela Destito, Amerigo Giudice) *[On site]*
 
-1. [Electrophysiological biosignals in 3D Slicer](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/Electrophysiological%20biosignals%20in%203D%20Slicer) (**Jordan Ortega Rodríguez**) *[On site]*
+1. [Electrophysiological biosignals in 3D Slicer](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/Electrophysiological%20biosignals%20in%203D%20Slicer) (**Jordan Ortega Rodríguez**, Gara Ramos) *[On site]*
 
 1. [Surface Nets](Projects/SurfaceNets/README.md) (**Andy Huynh**, Gerry Gralton, Benjamin Zwick) *[On site]*
 
 1. [Analytic Registration Verification](Projects/AnalyticRegistrationVerification/README.md) (**Gerry Gralton**, Andy Huynh, Benjamin Zwick) *[On site]*
 
 ### Cloud / Web
-28. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (**Rudolf Bumm**, Steve Pieper, Gang Fu, Qing Liu) *[On site]*
+29. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (**Rudolf Bumm**, Steve Pieper, Gang Fu, Qing Liu) *[On site]*
 
 1. [MHub Integration](Projects/MHub_Integration/README.md) (**Leonard Nürnberg**, Dennis Bontempi, Andrey Fedorov) *[On site]*
 
@@ -141,34 +156,32 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md) (**Andrey Fedorov**, Marco Nolden, Hans Meine, Klaus Kades) *[On site]*
 
-1. [Connecting/Using Kaapana to Google Cloud/Google Health/Google FHIR](Projects/KaapanaConnectingKaapanaToGoogleCloudAndHealthAndFHIR/README.md) (**Jonas Scherer**) *[Remote]*
+1. [Connecting/Using Kaapana to Google Cloud/Google Health/Google FHIR](Projects/KaapanaConnectingKaapanaToGoogleCloudAndHealthAndFHIR/README.md) (**Jonas Scherer**, Andrey Fedorov) *[Remote]*
 
-1. [Kaapana: Data and model exchange across different sources](Projects/KaapanaDataAndModelExchangeAcrossDifferentSources/README.md) (**Benjamin Hamm**, Ünal Akünal, Markus Bujotzek, Klaus Kades) *[On site]*
+1. [Kaapana: Data and model exchange across different sources](Projects/KaapanaDataAndModelExchangeAcrossDifferentSources/README.md) (**Benjamin Hamm**, Ünal Akünal, Markus Bujotzek, Klaus Kades, Andrey Fedorov) *[On site]*
 
-1. [Kaapana: Fast viewing and tagging of DICOM Images](Projects/KaapanaFastViewingAndTaggingOfDICOMImages/README.md) (**Stefan Denner**, Klaus Kades) *[On site]*
+1. [Kaapana: Fast viewing and tagging of DICOM Images](Projects/KaapanaFastViewingAndTaggingOfDICOMImages/README.md) (**Stefan Denner**, Klaus Kades, Andrey Fedorov) *[On site]*
 
-1. [Kaapana: Integration of desktop apps](Projects/KaapanaIntegrationOfDesktopApps/README.md) (**Hanno Gao**, Klaus Kades) *[On site]*
+1. [Kaapana: Integration of desktop apps](Projects/KaapanaIntegrationOfDesktopApps/README.md) (**Hanno Gao**, Klaus Kades, Andrey Fedorov) *[On site]*
 
-1. [Integration of clinical data into medical imaging pipelines](Projects/KaapanaClinicalData/README.md) (**Philipp Schader**) *[On site]*
-   
+1. [Integration of clinical data into medical imaging pipelines](Projects/KaapanaClinicalData/README.md) (**Philipp Schader**, Andrey Fedorov) *[On site]*
+
 1. [FAIRification of medical imaging data and analysis tools](Projects/Metadata_IDC_HMC/README.md) (**Marco Nolden**, Andrey Fedorov) *[On site]*
 
 1. [Using VolView with images in Google Storage / IDC buckets](Projects/IDC_with_VolView/README.md) (**Andrey Fedorov**, Forrest Li, Stephen Aylward) *[On site]*
 
 1. [IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md) (**Andrey Fedorov**, Deepa Krishnaswamy, Cosmin Ciausu, Vamsi Thiriveedhi, Dennis Bontempi, Leonard Nuerenberg) *[On site]*
 
-1. [IDC DICOM WSI workflow](Projects/IDC_DICOM_WSI_workflow/README.md) (**Maximilian Fischer**, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer) *[On site]*
-
-1. [Histology Images and Models into IDC](Projects/HistologyIntoIDC/README.md) (**Curtis Lisle**, Andrey Fedorov ) *[Remote]*
-
+1. [IDC DICOM WSI workflow](Projects/IDC_DICOM_WSI_workflow/README.md) (**Maximilian Fischer**, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer, Curtis Lisle) *[On site]*
 
 1. [DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
 
 1. [Cross study sychronizer for OHIF Crosshair](Projects/OHIF_SyncCrosshair/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
 
+1. [PolySeg representations for OHIF Viewer Segmentations](Projects/OHIF_PolySeg/README.md)(Alireza Sedghi) _Remote_
 
 ### Infrastructure
-45. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (**Connor Bowley**, Sam Horvath, David Allemang) *[On site]*
+46. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (**Connor Bowley**, Sam Horvath, David Allemang) *[On site]*
 
 1. [SlicerPipelines](Projects/SlicerPipelines/README.md)(**Connor Bowley**, Sam Horvath) *[On site]*
 
@@ -176,7 +189,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [SystoleOS](Projects/SystoleOS/README.md) (**Rafael Palomar**, Steve Pieper) *[On site]*
 
-1. [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (Sonja Pujol, Steve Pieper, Andras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Adriana H. Vilchis González, Luiz Otavio Murta Junior) *[??]*
+1. [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (**Sonia Pujol**, Steve Pieper, Andras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Adriana H. Vilchis González, Luiz Otavio Murta Junior) *[On site and online]*
 
 1. [Active Viewport](Projects/SlicerActiveViewport/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
 
@@ -187,6 +200,9 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [SlicerAstro Update](Projects/SlicerAstroUpdate/README.md) (**Davide Punzo**, Thijs van der Hulst) *[On site]*
 
 1. [DICOM Segmentation Optimization](Projects/DICOMSEG/README.md) (**Steve Pieper**, Andrey Fedorov, Andras Lasso, Marco Nolden, Hans Meine, Alireza Sedghi, Erik Ziegler, Markus Hermann, Chris Bridge, David Clunie) *[On site]*
+
+1. [Updating Batch Anonymizer](Projects/SlicerBatchAnonymize/README.md) (**Hina Shah**, Juan Carlos Prieto, Lucia Cevidanes) [Remote]
+
 
 ## Registrants
 
@@ -208,7 +224,7 @@ List of registered participants so far (names will be added here after processin
 1. Andrey Fedorov, USA, (In-person, Confirmed)
 1. Steve Pieper, USA, (In-person, Confirmed)
 1. hans knutsson, Sweden, (In-person, Confirmed)
-1. Sonia Pujol, USA, (Undecided)
+1. Sonia Pujol, USA, (Online)
 1. JUAN RUIZ-ALZOLA, Spain, (In-person, Confirmed)
 1. Ron Kikinis, USA, (In-person, Confirmed)
 1. Carl-Fredrik Westin, USA, (In-person, Confirmed)
@@ -413,17 +429,32 @@ List of registered participants so far (names will be added here after processin
 1. Artur Banach, USA, (In-person, Confirmed)
 1. Valeria Gómez Valdes , Mexico, (Online)
 1. Abigail Mercado Ponciano, Mexico, (Online)
+1. B. Natterson-Horowitz, USA, (Online)
+1. ENRIQUE HERNANDEZ LAREDO, Mexico, (Online)
+1. Ron Alkalay, USA, (In-person, Confirmed)
+1. Varun Agarwal, India, (Online)
+1. Christopher Bridge, USA, (Online)
+1. Marie Ndiaye, Senegal, (In-person)
+1. Mame Diarra SY , Senegal, (In-person)
+1. Mame Abdoulaye Gueye, Senegal, (In-person)
+1. Ndeye Mareme Sougou, Senegal, (In-person)
+1. Khedijetou Vilaly , Mauritania, (In-person)
+1. Edmee Clemence Mansilla, Côte d'Ivoire, (In-person)
+1. Estelle Tcheple Tuo, Côte d'Ivoire, (In-person)
+1. Delphine Bella Epse Konan, Côte d'Ivoire, (In-person)
 
 <!-- Participants list end -->
 
 ## Statistics
+
+<img alt="Participation statistics" src="statistics.svg" width="500"/>
 
 ## Organizers
 ### Local organizing committee
 Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies, director of the Grupo de Tecnología Médica y Audiovisual (GTMA), [Instituto Universitario de Investigaciones Biomédicas y Sanitarias (IUIBS)](https://www.iuibs.ulpgc.es/), [Universidad de Las Palmas de Gran Canaria (ULPGC)](https://www.ulpgc.es/)
 
 Idafen Santana-Pérez, PhD, Project Manager and Research Fellow at Grupo de Tecnología Médica y Audiovisual (GTMA), [Instituto Universitario de Investigaciones Biomédicas y Sanitarias (IUIBS)](https://www.iuibs.ulpgc.es/), [Universidad de Las Palmas de Gran Canaria (ULPGC)](https://www.ulpgc.es/)
-   
+
 ### Global Project Week organizing committee
 * [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)),
 * [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//))
