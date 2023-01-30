@@ -120,6 +120,8 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md) (**Deepa Krishnaswamy**, Cosmin Ciausu, Nazim Haouchine, Andres Diaz-Pinto, Jesse Tetreault, Roya Hajavi, Stephen Aylward, Steve Pieper, Andrey Fedorov) *[On site]*
 
+1. [HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](Projects/MONAI_IDC_PCa_detection/README.md) (**Cosmin Ciausu**, Deepa Krishnaswamy, Patrick Remerscheid, Tina Kapur, Sandy Wells, Andrey Fedorov, Khaled Younis) *[On site]*
+   
 1. [Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation/README.md) (**David García**, Yucheng Tang, Andres Diaz, Daniel Palkovics, Csaba Pinter, Attila Nagy, Brianna Burton) *[On site]*
 
 1. [Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI/README.md) (**María Rosa Rodríguez**, Tamas Ungi, David García, Chris Yeung) *[On site]*
@@ -159,8 +161,6 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [MHub Integration](Projects/MHub_Integration/README.md) (**Leonard Nürnberg**, Dennis Bontempi, Andrey Fedorov) *[On site]*
 
 1. [3DSlicerHub](Projects/SlicerHub/README.md) (**Rafael Nebot**, Paula Moreno, Juan Ruiz, Idafen Santana) *[On site]*
-
-1. [HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](Projects/MONAI_IDC_PCa_detection/README.md) (**Cosmin Ciausu**, Deepa Krishnaswamy, Patrick Remerscheid, Tina Kapur, Sandy Wells, Andrey Fedorov, Khaled Younis) *[On site]*
 
 1. [Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md) (**Andrey Fedorov**, Marco Nolden, Hans Meine, Klaus Kades) *[On site]*
 
