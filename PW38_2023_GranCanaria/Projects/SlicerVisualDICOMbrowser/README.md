@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Davide Punzo (Freelancer, France) 
 - Andras Lasso (Perk Labs, Canada)
-- Gabriel (webkriativa.gabriel@gmail.com) , Brazil
+- Gabriel Kwiecinski Antunes (WebKriativa, Brazil)
 - Anyone is welcome to join
 
 # Project Description
