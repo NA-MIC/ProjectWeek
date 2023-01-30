@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-<!-- Symptoms of long-COVID19 might linger for several weeks or months after the initial infection by the SARS-CoV-2 virus. Symptoms are headache, problems with memory and concentration, anxiety, extreme fatigue, chest pain or tightness, and difficulty sleeping. Just a dysfunctional brainstem might explain the neuropsychiatric and autonomic symptoms of long-COVID.  -->
+Symptoms of long-COVID19 might linger for several weeks or months after the initial infection by the SARS-CoV-2 virus. Symptoms are headache, problems with memory and concentration, anxiety, extreme fatigue, chest pain or tightness, and difficulty sleeping. Just a dysfunctional brainstem might explain the neuropsychiatric and autonomic symptoms of long-COVID. 
 
 ## Objective
 
