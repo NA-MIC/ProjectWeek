@@ -184,9 +184,9 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [DICOM WSI: conversion, analysis workflow, accessing DICOM WSI in IDC](Projects/IDC_DICOM_WSI_workflow/README.md) (**Maximilian Fischer**, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer, Curtis Lisle) *[On site]*
 
-1. [DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
+1. [DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanoun, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
 
-1. [Cross study sychronizer for OHIF Crosshair](Projects/OHIF_SyncCrosshair/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
+1. [Cross study sychronizer for OHIF Crosshair](Projects/OHIF_SyncCrosshair/README.md) (Salim Kanoun, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
 
 1. [PolySeg representations for OHIF Viewer Segmentations](Projects/OHIF_PolySeg/README.md)(Alireza Sedghi) _Remote_
 
