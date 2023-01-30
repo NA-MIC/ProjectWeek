@@ -63,4 +63,4 @@ A basis of this project provides the DICOM WSI support in the Kaapana platform, 
 
 - worfklow used by IDC to create DICOM WSI: [https://github.com/ImagingDataCommons/idc-wsi-conversion](https://github.com/ImagingDataCommons/idc-wsi-conversion)
 - Colab notebooks with examples of using DICOM WSI in analysis workflows: [https://github.com/ImagingDataCommons/IDC-Examples/tree/master/notebooks/pathomics](https://github.com/ImagingDataCommons/IDC-Examples/tree/master/notebooks/pathomics)
-- [https://github.com/GoogleCloudPlatform/wsi-to-dicom-converter](https://github.com/GoogleCloudPlatform/wsi-to-dicom-converter)
+- DICOM WSI converter from Google: [https://github.com/GoogleCloudPlatform/wsi-to-dicom-converter](https://github.com/GoogleCloudPlatform/wsi-to-dicom-converter)
