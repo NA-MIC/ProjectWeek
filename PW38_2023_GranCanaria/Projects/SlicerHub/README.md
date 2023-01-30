@@ -59,6 +59,21 @@ Multiuser approach to Slicer in a browser, based on [Slicer Docker](https://gith
 
 <img alt="Docker Compose eschema" src="3dslicerhub_esquema.png" width="500"/>
 
+## Screenshots
+
+<img alt="SlicerHub Landing Page" src="main.png" width="500" />
+
+<img alt="SlicerHub login" src="login.png" width="500" />
+
+<img alt="SlicerHub user page" src="session_manager.png" width="500" />
+
+<img alt="3DSlicer" src="3dslicer.png" width="500" />
+
+
+
+
+
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
