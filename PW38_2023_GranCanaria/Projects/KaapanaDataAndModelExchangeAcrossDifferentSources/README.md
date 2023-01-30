@@ -2,7 +2,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Data and model exchange across different sources
 
-Kaapana tutorial for the 38th NA-MIC project week: 
+Kaapana tutorial for the 38th NA-MIC project week:
+
 https://drive.google.com/file/d/1A7-8Ru0uTJHFFa17rZtkBpvNhJao_F7x/view?usp=share_link
 
 ## Key Investigators
@@ -16,28 +17,35 @@ https://drive.google.com/file/d/1A7-8Ru0uTJHFFa17rZtkBpvNhJao_F7x/view?usp=share
 
 Implementations and discussion about a standardized data and model exchange between different platforms such as Kaapana and MONAI. Working on integrating Kaapana with other toolkits.
 
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Integration/support of data sources:
+1. Support of various AI model sources
+- Integration of MONAI Model Zoo into Kaapana
+     - inference pipeline as a Kaapana workflow / as a Kaapana extension
+     - training pipeline
+     - generic support of MONAI Bundles (MONAI Label / MONAI Deploy / MONAI FL)
+- Standardized remote model execution, execution of models from modelhub.ai within Kaapana
+2. Integration/support of data sources:
 - TCIA download/(upload) into Kaapana 
 - Integration with IDC: download of data via Google Cloud SDK
-2. Support of various AI model sources
-- Standardized remote model execution, execution of models from modelhub.ai within Kaapana
-- Kaapana with MONAI Label/ MONAI Bundle within Kaapana
 3. Integration of new analysis tools into Kaapana
 4. Javascript/Python library client to communicate with Kaapana
 
 Relate to:
 - [Kaapana overall](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/Kaapana_overall)
-- [OHIFSlicerBridge](https://github.com/NA-MIC/ProjectWeek/blob/master/PW33_2020_GranCanaria/Projects/OHIFSlicerBridge/README.md)
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+1. Support of various AI model sources
+- Integration of MONAI Model Zoo into Kaapana
+     - inference pipeline as a Kaapana workflow / as a Kaapana extension
+     - training pipeline
+     - generic support of MONAI Bundles (MONAI Label / MONAI Deploy / MONAI FL)
+- Standardized remote model execution, execution of models from modelhub.ai within Kaapana
 
-tbd
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
