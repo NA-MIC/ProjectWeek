@@ -37,6 +37,7 @@ of a CNB procedure. However, a quantitative analysis is required. For this reaso
 # Illustrations
 
 ![Dedicated phantom fabrication](https://user-images.githubusercontent.com/40359004/212877916-37a7f456-b4fc-4c3a-a1f3-20d6a78f6429.jpeg)
+![STL file lung_phantom container](https://user-images.githubusercontent.com/40359004/215512453-f0e4a231-293e-4b70-a9f6-519e5432d536.PNG)
 
 
 # Background and References
