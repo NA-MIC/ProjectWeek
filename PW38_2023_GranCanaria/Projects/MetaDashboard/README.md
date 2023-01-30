@@ -1,12 +1,13 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Kaapana related experiments/discussions/collaboratons
+# DICOM Meta-Dashboard
 
 ## Key Investigators
 
 - Hans Meine (Fraunhofer MEVIS, Germany)
 - Stefan Denner (German Cancer Research Center, Germany)
 - Klaus Kades (German Cancer Research Center, Germany)
+- Andrey Fedorov (BWH)
 
 **[Project channel on Discord: #kaapana-idc-integration](https://discord.com/channels/843934857620357130/1069559070295588954)** 
 
