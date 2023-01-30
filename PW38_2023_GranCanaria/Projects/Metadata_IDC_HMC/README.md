@@ -8,7 +8,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andrey Fedorov (Brigham and Women’s Hospital, USA)
 
 # Project Description
-<!-- Add a short paragraph describing the project. -->
+
+**“Metadata is a love note to the future”**
+
+Jason Scott
 
 The [Helmholtz Metadata Collaboration](https://helmholtz-metadaten.de/en) is a cross-domain initiative across the whole Helmholtz Association, which is the largest funding agency in Germany. It follows the goal to develop and establish novel methods and tools documenting and sharing research data by means of enriched metadata, as well as improved interoperability of data across disciplines. The Hub Health of this initiative is anchored in the Division of Medical Image Computing at the German Cancer Research Center Heidelberg.
 
