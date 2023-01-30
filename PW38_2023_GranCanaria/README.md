@@ -200,6 +200,9 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [DICOM Segmentation Optimization](Projects/DICOMSEG/README.md) (**Steve Pieper**, Andrey Fedorov, Andras Lasso, Marco Nolden, Hans Meine, Alireza Sedghi, Erik Ziegler, Markus Hermann, Chris Bridge, David Clunie) *[On site]*
 
+1. [Updating Batch Anonymizer](Project/SlicerBatchAnonymize/README.md) (**Hina Shah**, Juan Carlos Prieto, Lucia Cevidanes) [Remote]
+
+
 ## Registrants
 
 Do not add your name to this list below. It is maintained by the organizers based on your registration. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7)
