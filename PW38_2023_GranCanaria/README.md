@@ -145,6 +145,8 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [Analytic Registration Verification](Projects/AnalyticRegistrationVerification/README.md) (**Gerry Gralton**, Andy Huynh, Benjamin Zwick) *[On site]*
 
+1. [SlicerCBM](Projects/SlicerCBM/README.md) (**Benjamin Zwick**, Saima Safdar, Andy Huynh, Gerry Gralton, Adam Wittek, Karol Miller) *[On site]*
+
 ### Cloud / Web
 29. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (**Rudolf Bumm**, Steve Pieper, Gang Fu, Qing Liu) *[On site]*
 
