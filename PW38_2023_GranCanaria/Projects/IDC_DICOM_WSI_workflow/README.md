@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# DICOM WSI: conversion into DICOM WSI, analysis workflows operating on WSI, using DICOM WSI from IDC
 
 ## Key Investigators
 
@@ -12,6 +12,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Daniela Schacherer (Fraunhofer MEVIS, Germany)
 - André Homeyer (Fraunhofer MEVIS, Germany)
 - Curtis Lisle (KnowledgeVis, USA)
+
+**[Project channel on Discord](https://discord.com/channels/843934857620357130/1069591021928853574)**
 
 
 # Project Description
