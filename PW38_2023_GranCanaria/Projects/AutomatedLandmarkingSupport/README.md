@@ -19,7 +19,7 @@ needed by the SlicerMorph workflows are:
 4. Improve performance when setting state of a large number of points (around 1000)
 
 The first function has not yet been attempted and we would like to develop a working prototype. Our second objective is implemented in the 
-Landmark Editor, a module in the SlicerMorph extension developed by Steve Pieper. Recently, this module has been failing for some cases. We would like to identify 
+[Markup Editor](https://github.com/SlicerMorph/Tutorials/tree/main/MarkupsEditor), a module in the SlicerMorph extension developed by Steve Pieper. Recently, this module has been failing for some cases. We would like to identify 
 when and why these bugs are occuring and come up with a plan to update the module. The third objective is partially implemented by the Surface Markups 
 extension.  We would like to discuss future plans for the Surface Markups extensions and whether SlicerMorph user needs may be covered by the ongoing development.
 
@@ -29,7 +29,7 @@ extension.  We would like to discuss future plans for the Surface Markups extens
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Objective A. Prototype joint operations on linked landmark sets
-2. Objective B. Troubleshoot landmark editor and identify fixes
+2. Objective B. Troubleshoot the Markup Editor and identify fixes
 3. Objective C. Identify overlap between Surface Markups development and SlicerMorph user needs.
 4. Objective D. Document plan to improve Markups module to improve performance when working with large number of points. 
 
