@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Natalia Arteaga Marrero (IACTEC, Santa Cruz de Tenerife, Spain)
 - David García Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Javier González Fernández (ITC, Spain)
+- Gara Ramos (IACTEC, Santa Cruz de Tenerife, Spain)
 
 # Project Description
 
@@ -22,15 +23,15 @@ of a core needle biopsy (CNB) procedure. However, a quantitative analysis is req
 
 ## Approach and Plan
 
-1. Phantom model
-2. Tools connections via Optitrack and Plus Toolkit 
+1. Phantom model --> Accurately replicate thoracic tissues (lung, ribs, and solid masses) providing a useful tool for training ultrasound-guided procedures
+2. Tools connections via Optitrack and Plus Toolkit (Telemed and Clarius US System, needle for biopsy) 
 4. Application development
 
 ## Progress and Next Steps
 
-1. Fabrication of dedicated phantom and CT scan to create model 
-2. Tracking fixtures for equipment (Telemed, needle)
-3. Optitrack + Telemed setup -> Connection to SLICER
+1. Fabrication of dedicated phantom --> In progress to establish the virtual model 
+2. Design of tracking fixtures for equipment --> In progress
+3. Optitrack + US System setup --> Connection to SLICER
 
 # Illustrations
 
