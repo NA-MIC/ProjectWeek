@@ -112,6 +112,8 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [Development of Anatomy Atlases and Training Tools with 3D Slicer](Projects/TTTAtlas/README.md) (**Juan Ruiz**, Idafen Santana, Mario Monzón) *[On site]*
 
 1. [Integration of infrared, ultraviolet and hyperspectral sensors in Slicer via Plus Toolkit  and OpenIGTLink.](Projects/MultiSpectralSensorIntegration/README.md) (**Francisco J. Marcano Serrano**) *[??]*
+   
+1. [Ibis in Slicer](Projects/IbisInSlicer/README.md) (**Étienne Léger**, Houssem Eddine Gueziri, Simon Drouinb) *[On site]*
 
 ### Segmentation / Classification / Landmarking
 14. [Lung CT Segmentation and Analysis](Projects/LungSegmentation/Readme.md) (**Rudolf Bumm**, Ron Kikinis, Raúl San José Estépar, Steve Pieper, Eserval Rocha jr., Andras Lasso, Curtis Lisle) *[On site]*
