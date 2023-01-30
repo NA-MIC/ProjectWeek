@@ -14,16 +14,17 @@ Back to [Projects List](../../README.md#ProjectsList)
 The aim of the project is to develop a training system that provides a quantitative report regarding the use of a low-cost lung phantom [1] for teaching purposes in ultrasound-guided interventions, particularly for core needle biopsy (CNB). 
 
 A phantom with several embedded solid inclusions was fabricated. These inclusions are colour coded thus, a qualitative report can be used to indicate the success
-of a core needle biopsy (CNB) procedure. However, a quantitative analysis is required. For this reason, the development of a training system is planned.
+of a CNB procedure. However, a quantitative analysis is required. For this reason, the development of a training system is planned.
 
 ## Objective
 
 1. Objective A. Fabrication of dedicated phantom 
-2. Objective B. Application development
+2. Objective B. Setting up the system's tools 
+3. Objective C. Application development
 
 ## Approach and Plan
 
-1. Phantom model --> Accurately replicate thoracic tissues (lung, ribs, and solid masses) providing a useful tool for training ultrasound-guided procedures
+1. Phantom model --> Accurately replicated thoracic tissues (lung, ribs, and solid masses) providing a useful tool for training ultrasound-guided procedures
 2. Tools connections via Optitrack and Plus Toolkit (Telemed and Clarius US System, needle for biopsy) 
 4. Application development
 
