@@ -44,7 +44,8 @@ Kitware and Robarts (Jean-Christophe Fillion Robin, Lucas Gandel, Sankhesh Jhave
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
+1. Restored support for complex gesture (grip) through [SlicerVirtualReality#109](https://github.com/KitwareMedical/SlicerVirtualReality/pull/109) and VTK [MR-9892](https://gitlab.kitware.com/vtk/vtk/-/merge_requests/9892)
+1. Restored partial support for interactions like `Select3DEvent` and `ViewerMovement3DEvent` through [SlicerVirtualReality#108](https://github.com/KitwareMedical/SlicerVirtualReality/pull/108)
 1. ...
 1. ...
 
