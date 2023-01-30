@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 <!-- Add a short paragraph describing the project. -->
 
-The [Helmholtz Metadata Collaboration](https://helmholtz-metadaten.de/en) follows the goal to develop and establish novel methods and tools documenting and sharing research data by means of enriched metadata.
+The [Helmholtz Metadata Collaboration](https://helmholtz-metadaten.de/en) is a cross-domain initiative across the whole Helmholtz Association, which is the largest funding agency in Germany. It follows the goal to develop and establish novel methods and tools documenting and sharing research data by means of enriched metadata, as well as improved interoperability of data across disciplines. The Hub Health of this initiative is anchored in the Division of Medical Image Computing at the German Cancer Research Center Heidelberg.
 
 The [FAIR principles](https://www.go-fair.org/fair-principles/) are guidelines to make your data, including software, findable, accessible, interoperable and reusable. They are an important component of Open Science.
 
