@@ -203,7 +203,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [SystoleOS](Projects/SystoleOS/README.md) (**Rafael Palomar**, Steve Pieper) *[On site]*
 
-1. [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (**Sonia Pujol**, Steve Pieper, Andras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Adriana H. Vilchis González, Luiz Otavio Murta Junior) *[On site and online]*
+1. [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (**Sonia Pujol**, Steve Pieper, Andras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Ahmedou Moulaye Idriss, Yahya Tfeil, Adriana H. Vilchis González, Luiz Otavio Murta Junior) *[On site and online]*
 
 1. [Active Viewport](Projects/SlicerActiveViewport/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
 
