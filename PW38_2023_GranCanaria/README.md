@@ -456,6 +456,22 @@ List of registered participants so far (names will be added here after processin
 1. Edmee Clemence Mansilla, Côte d'Ivoire, (In-person)
 1. Estelle Tcheple Tuo, Côte d'Ivoire, (In-person)
 1. Delphine Bella Epse Konan, Côte d'Ivoire, (In-person)
+1. Paul E. Neumann, Canada, (Online)
+1. Hina Shah, USA, (Online)
+1. Badiaa AIT AHMED, Spain, (Online)
+1. Celestino Lopes De Barro, cabo verde, (In-person, Confirmed)
+1. Mateus Neves Andrade, cabo verde, (In-person)
+1. José Olavo Da Paz Teixeira, cabo verde, (In-person, Confirmed)
+1. Hagi Anderson Lima Lopes, cabo verde, (In-person)
+1. Tolga-Can Çallar, Germany, (Online)
+1. Gabriel Kwiecinski Antunes, Brazil, (Online)
+1. Francisco Guerrero Aranda, Spain, (Online)
+1. David Emanuel Luksic, Germany, (Online)
+1. Nicola Martini, Italy, (Online)
+1. Tamu Tsinesh, Germany, (Online)
+1. Eduardo Fares , Brazil, (Online)
+1. Reihaneh Teimouri, Canada, (Online)
+1. Eduardo Fares, Brazil, (Online)
 
 <!-- Participants list end -->
 
