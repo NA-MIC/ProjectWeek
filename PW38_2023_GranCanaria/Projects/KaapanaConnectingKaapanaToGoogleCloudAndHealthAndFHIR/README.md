@@ -2,6 +2,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Connecting/Using Kaapana to Google Cloud/Google Health/Google FHIR
 
+Kaapana tutorial for the 38th NA-MIC project week: https://drive.google.com/file/d/1A7-8Ru0uTJHFFa17rZtkBpvNhJao_F7x/view?usp=share_link
+
 ## Key Investigators
 
 - Jonas Scherer (German Cancer Research Center, Germany)
