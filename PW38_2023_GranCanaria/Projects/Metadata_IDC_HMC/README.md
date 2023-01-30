@@ -67,3 +67,6 @@ Common standards, tools and practices can make interoperability much easier. Wit
 
 - Deepa Krishnaswamy, Dennis Bontempi, David Clunie, Hugo Aerts, & Andrey Fedorov. (2023). AI-derived annotations for the NLST and NSCLC-Radiomics computed tomography imaging collections [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7539035
 
+- Zaffino P, Marzullo A, Moccia S, Calimeri F, De Momi E, Bertucci B, Arcuri PP, Spadea MF. An Open-Source COVID-19 CT Dataset with Automatic Lung Tissue Classification for Radiomics. Bioengineering. 2021; 8(2):26. https://doi.org/10.3390/bioengineering8020026 
+
+
