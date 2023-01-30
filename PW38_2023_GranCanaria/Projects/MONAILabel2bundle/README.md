@@ -59,6 +59,7 @@ In this project we want to explore the process of converting MONAI Label trained
 1. I posted on Slicer discourse about some issues with MONAI Label and the 3 stage vertebra segmentation pipeline. https://discourse.slicer.org/t/using-monailabel-for-vertebrae-segmentation/27511 
 
 1. We tried installing the latest preview release of Slicer to see if inference worked with localization_spine on 2019 and 2020 VERSE dataset, it did not. We also tried the whole vertebrae pipeline and we have the same error with tensor shape size - RuntimeError: Expected 4D or 5D (batch mode) tensor with possibly 0 batch size and other non-zero dimensions for input, but got: [1, 1, 0, 0, 0]. 
+2. In the meantime we will try converting the full CT seg (trained using TotalSegmentator data) to a bundle. If that works we can go back to the vertebra pipeline? 
 
 # Illustrations
 
