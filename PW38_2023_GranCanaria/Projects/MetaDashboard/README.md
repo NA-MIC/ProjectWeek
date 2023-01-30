@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Hans Meine (Fraunhofer MEVIS, Germany)
 - Stefan Denner (German Cancer Research Center, Germany)
 - Klaus Kades (German Cancer Research Center, Germany)
+- Marco Nolden (German Cancer Research Center, Germany)
 - Andrey Fedorov (BWH)
 
 **Project channel on Discord: #dicom-meta-dashboard** (TBD: add link)
