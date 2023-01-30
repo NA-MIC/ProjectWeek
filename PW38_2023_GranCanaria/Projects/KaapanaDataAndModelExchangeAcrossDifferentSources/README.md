@@ -17,11 +17,17 @@ https://drive.google.com/file/d/1A7-8Ru0uTJHFFa17rZtkBpvNhJao_F7x/view?usp=share
 # Project Description
 
 Implementations and discussion about a standardized data and model exchange between different platforms such as Kaapana and MONAI. Working on integrating Kaapana with other toolkits.
+- Motivation: Running Kaapana platforms in multiple (inter-)national projects: RACOON, DART, ...
+- Goal: Standarized and Federated Data Analysis / Federated Learning require standardized model exchange formats
+
+![image](https://user-images.githubusercontent.com/103252889/215480450-23dfe16c-fd20-473a-a185-9e0262a275c0.png)
 
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+
+Support standardized data and AI model I/O interfaces in Kaapana.
 
 1. Support of various AI model sources
 - Integration of MONAI Model Zoo into Kaapana
