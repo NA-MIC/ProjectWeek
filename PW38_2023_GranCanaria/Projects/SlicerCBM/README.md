@@ -49,6 +49,8 @@ processes with a focus on clinical and biomedical applications.
 ![Some more images](Example2.jpg)
 -->
 
+![Electrical Conductivity module in SlicerCBM](Screenshot_20230130_112629.png)
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code
