@@ -58,6 +58,8 @@ In this project we want to explore the process of converting MONAI Label trained
 1. Cosmin and I met with Nazim to talk about our issues with the localization_spine step in Slicer producing empty labels. We tried running all three stages and got a runtime error - tensor shape. We then tried the segmentation_spleen model on training data from Task09_Spleen, this should produce a proper spleen label. It did not, kind of a fragmented spleen. Is this a CPU vs GPU problem? Cosmin will try to test on his Linux machine that has a GPU. Do we have the lastest versions of the pretrained models? The spleen model is coming from [here](https://github.com/Project-MONAI/MONAILabel/releases/download/pretrained/radiology_segmentation_unet_spleen.pt) which is the most recent one. Nazim suggested trying to install everything again. I will also try segmentation_spleen model using a script. 
 1. I posted on Slicer discourse about some issues with MONAI Label and the 3 stage vertebra segmentation pipeline. https://discourse.slicer.org/t/using-monailabel-for-vertebrae-segmentation/27511 
 
+1. We tried installing the latest preview release of Slicer to see if inference worked with localization_spine on 2019 and 2020 VERSE dataset, it did not. We also tried the whole vertebrae pipeline and we have the same error with tensor shape size - RuntimeError: Expected 4D or 5D (batch mode) tensor with possibly 0 batch size and other non-zero dimensions for input, but got: [1, 1, 0, 0, 0]. 
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
