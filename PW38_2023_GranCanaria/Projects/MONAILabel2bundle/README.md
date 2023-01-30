@@ -31,6 +31,10 @@ In this project we want to explore the process of converting MONAI Label trained
 1. Improve existing documentation.
 1. Demonstrate how MONAI Label trained network converted to bundle can be applied to a representative sample of data from IDC.
 
+![example_spine_segmentation](https://user-images.githubusercontent.com/59979551/215484898-415c0bdb-431e-4ddc-98a4-78fff1b122c6.JPG)
+
+![example_spine_segmentation2](https://user-images.githubusercontent.com/59979551/215484956-88f11dd9-2020-4d9a-a957-22065962efb9.JPG)
+
 
 ## Approach and Plan
 
