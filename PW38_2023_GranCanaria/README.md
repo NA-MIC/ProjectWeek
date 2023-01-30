@@ -80,6 +80,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 
 [Developing and using anatomy atlases](Projects/BreakoutSession-Atlases.md) (Michael Halle and friends)
 
+[NCI Imaging Data Commons workshop/tutorial](https://docs.google.com/document/d/1HMmqVXSshEHf90Vu9LORaXVuoSpJzKxy7StrMBqfSdQ/edit?usp=sharing) (Andrey Fedorov and IDC team)
+
 ## Projects [(How to add a new project?)](Projects/Readme.md)
 Categories based on project list of PW37, will be updated as we populate the list of projects.
 
