@@ -15,6 +15,7 @@ A central point of our efforts is to develop a standardized I/O framework for al
 
 Therefore, we are planning a Slicer extension that will allow to search our repository from within Slicer to deploy and run these models locally, using the Slicer interface for data input and output.
 
+Link to the [Plugin](https://github.com/AIM-Harvard/SlicerMHubRunner/tree/docs).
 
 ## Objective
 
@@ -54,3 +55,5 @@ Therefore, we are planning a Slicer extension that will allow to search our repo
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+ 
+<img src="https://github.com/AIM-Harvard/SlicerMHubRunner/blob/main/MRunner/Resources/Icons/PluginOverview.png?raw=true" alt="Plugin Module Overview" width="670"/>
