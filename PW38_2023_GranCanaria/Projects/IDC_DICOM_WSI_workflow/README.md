@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
+# DICOM WSI: conversion into DICOM WSI, analysis workflows operating on WSI, using DICOM WSI from IDC
 
 ## Key Investigators
 
@@ -11,6 +11,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 - David Clunie (PixelMed Publishing, USA)
 - Daniela Schacherer (Fraunhofer MEVIS, Germany)
 - André Homeyer (Fraunhofer MEVIS, Germany)
+- Curtis Lisle (KnowledgeVis, USA)
+
+**[Project channel on Discord: #dicom-wsi](https://discord.com/channels/843934857620357130/1069591021928853574)**
 
 
 # Project Description
@@ -45,10 +48,12 @@ A basis of this project provides the DICOM WSI support in the Kaapana platform, 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Had a project kick-off meeting to discuss the plan.
+   * Agreed for Max and Andrey will work to set up initial part of the colab notebook that searches and downloads WSI from IDC and extracts tiles, then this can be used both by Max and Curt for workflow development
+   * Agreed to use Colab notebook to set up conversion pipeline using David and google converter
+3. Describe specific steps you **have actually done**.
+4. ...
+5. ...
 
 # Illustrations
 

@@ -25,6 +25,7 @@ This projects aims to integrate clinical data better into the Kaapana medical im
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
+1. Review clinical data available in IDC, start with the [clinical data IDC tutorial](https://github.com/ImagingDataCommons/IDC-Examples/blob/master/notebooks/clinical_data_intro.ipynb)
 1. Find a small collection of datasets including images, segmentations of pathologies and according clinical data
 2. Decide on an open-source FHIR server (like HAPI FHIR) integrate it into Kaapana (and link it to the PACS if possible)
 4. Creation of query / retrieve operators for FHIR objects within the workflow components

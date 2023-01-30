@@ -10,6 +10,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Hans Meine (Fraunhofer MEVIS, Germany)
 - Klaus Kades (German Cancer Research Center, Germany)
 
+**[Project channel on Discord: #kaapana-idc-integration](https://discord.com/channels/843934857620357130/1069559070295588954)** 
+
 # Project Description
 
 [Kaapana](https://kaapana.readthedocs.io/en/stable/intro_kaapana.html#what-is-kaapana) is a Kubernetes-based open source toolkit for platform provisioning in the field of medical data analysis. Kapana is leveraging a number of open source tools that are relevant for the NA-MIC community (specifically, OHIF Viewer, MITK, nnU-Net segmentation tools) and relies on DICOM for managing images, image-derived data and metadata.

@@ -31,7 +31,7 @@ processes with a focus on clinical and biomedical applications.
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Complete the requirements for a new 3D Slicer extension (https://github.com/SlicerCBM/SlicerCBM/issues/8)
+1. Complete the requirements for a new 3D Slicer extension (<https://github.com/SlicerCBM/SlicerCBM/issues/8>)
 
 2. Add the SlicerCBM extension to the  Slicer Extensions Catalog.
 
@@ -40,7 +40,7 @@ processes with a focus on clinical and biomedical applications.
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Individual modules have been developed and are available on GitHub
-   (https://github.com/SlicerCBM/SlicerCBM)
+   (<https://github.com/SlicerCBM/SlicerCBM>)
 
 # Illustrations
 
@@ -48,6 +48,8 @@ processes with a focus on clinical and biomedical applications.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+
+![Electrical Conductivity module in SlicerCBM](Screenshot_20230130_112629.png)
 
 # Background and References
 
@@ -57,15 +59,15 @@ relevant publications. -->
 
 Code repository and documentation:
 
-- https://github.com/SlicerCBM/SlicerCBM
-- https://slicercbm.github.io/
+- <https://github.com/SlicerCBM/SlicerCBM>
+- <https://slicercbm.github.io/>
 
 Sample data:
 
 - Zwick BF, Safdar S, Bourantas GC, Joldes GR, Hyde DE, Warfield SK,
   Wittek A, Miller K. Data for patient-specific solution of the
   electrocorticography forward problem in deforming brain [Data
-  set]. Zenodo; 2022. https://doi.org/10.5281/zenodo.7309089
+  set]. Zenodo; 2022. <https://doi.org/10.5281/zenodo.7309089>
 
 Publications:
 
