@@ -7,6 +7,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Philipp Schader (German Cancer Research Center, Germany)
 - Andrey Fedorov (BWH)
 
+Project channel in Discord [#kaapana-clinical-data-integration](https://discord.com/channels/843934857620357130/1069601002174566420)
+
 # Project Description
 
 Clinical data like age, blood type, diagnosis and other non-imaging biomarkers are highly relevant in medical image processing as they provide context for the analysis of imaging datasets. Incorporating this additional data layer into image processing tools facilitate the development of complex biomarkers. While platforms for medical image processing like Kaapana focus on the imaging layer they often lack for features to relate clinical data to it.
