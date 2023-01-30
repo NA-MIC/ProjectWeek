@@ -11,6 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - David Clunie (PixelMed Publishing, USA)
 - Daniela Schacherer (Fraunhofer MEVIS, Germany)
 - André Homeyer (Fraunhofer MEVIS, Germany)
+- Curtis Lisle (KnowledgeVis, USA)
 
 
 # Project Description
