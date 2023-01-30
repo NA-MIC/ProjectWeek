@@ -47,6 +47,12 @@ Currently 3D Slicer support both QStyle based styling and QtStylesheets.  To imp
 ![Some more images](Example2.jpg)
 -->
 
+## qt-material package out of the box w / light blue theme
+![qt-material no tweaks](qt-material-box.png)
+
+## qt-material package with some manual tweaks to theme file
+![qt-material with some tweaks](qt-mat-tweaks.png)
+
 
 # Background and References
 
