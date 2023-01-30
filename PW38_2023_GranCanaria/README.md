@@ -97,7 +97,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation/README.md) (**Felix von Haxthausen**, David García, Tolga-Can Çallar, José Carlos Mateo) *[On site]*
 
-1. [Slicer Liver](Projects/SlicerLiver/README.md) (Gabriella D'Albenzio, **Ruoyan Meng**, Geir A. Tangen, Ole V. Solberg, Rafael Palomar) *[On site]*
+1. [Slicer Liver](Projects/SlicerLiver/README.md) (**Gabriella D'Albenzio**, Ruoyan Meng, Geir A. Tangen, Ole V. Solberg, Rafael Palomar) *[On site]*
 
 1. [Slicer Maxillofacial Surgery](Projects/Slicer4MaxillofacialSurgery/README.md) (Miguel Ángel Rodriguez-Florido, Christian Buritica, Mauro Dominguez) *[On site]*
 
