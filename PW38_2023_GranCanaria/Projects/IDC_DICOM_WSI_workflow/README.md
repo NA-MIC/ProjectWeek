@@ -13,7 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - André Homeyer (Fraunhofer MEVIS, Germany)
 - Curtis Lisle (KnowledgeVis, USA)
 
-**[Project channel on Discord](https://discord.com/channels/843934857620357130/1069591021928853574)**
+**[Project channel on Discord: #dicom-wsi](https://discord.com/channels/843934857620357130/1069591021928853574)**
 
 
 # Project Description
