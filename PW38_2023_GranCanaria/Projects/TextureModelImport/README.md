@@ -25,9 +25,8 @@ When the obj file is imported into Slicer, Slicer will automatically call the Te
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Add an 'obj' option in the data importing dialog (a sample script of similar approach suggested by Steve Pieper (NIFTI file reader from SlicerDMRI extension): https://github.com/pieper/SlicerDMRI/blob/nifiio/Modules/Scripted/NIfTIFile/NIfTIFile.py)
-1. Create a hook for the functions from the 'Texture Model' module (Texture Model module of SlicerIGT: https://github.com/SlicerIGT/SlicerIGT/tree/master/TextureModel
-1. When the 'obj' option is selected in the data importing dialog, the 'Texture Model' functions will be called to automatically map texture to the model.
+1. Register a hook for the obj file type in the data import dialog (a similar approch suggested by Steve Pieper for loading nii file as either volume or segmentation (NIFTI file reader from SlicerDMRI extension): https://github.com/pieper/SlicerDMRI/blob/nifiio/Modules/Scripted/NIfTIFile/NIfTIFile.py)
+1. When the 'obj' option is selected in the data importing dialog, the 'Texture Model' functions will be called to automatically map texture to the model (The TextureModel module of SlicerIGT: https://github.com/SlicerIGT/SlicerIGT/tree/master/TextureModel
 
 ## Progress and Next Steps
 
@@ -43,6 +42,8 @@ When the obj file is imported into Slicer, Slicer will automatically call the Te
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![Screenshot 2023-01-29 at 9 50 01 PM](https://user-images.githubusercontent.com/80793828/215397544-df4f7af9-ec31-4699-9def-2676f3f713f5.png)
+
 
 # Background and References
 
