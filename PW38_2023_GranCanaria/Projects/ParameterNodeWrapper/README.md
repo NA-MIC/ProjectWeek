@@ -16,6 +16,45 @@ A wrapper system was created, the `parameterNodeWrapper`, to allow better typed 
 
 Because the `parameterNodeWrapper` uses type annotations, automatic connections can also be made to GUI components.
 
+Example:
+
+```py
+import enum
+from slicer.parameterNodeWrapper import parameterNodeWrapper
+
+class ConversionMethods(enum.Enum):
+    LUMINANCE = 1
+    AVERAGE = 2
+    SINGLE_COMPONENT = 3
+
+
+@parameterNodeWrapper
+class VectorToScalarVolumeParameterNode:
+    InputVolume: slicer.vtkMRMLVectorVolumeNode
+    OutputVolume: slicer.vtkMRMLScalarVolumeNode
+    ConversionMethod: ConversionMethods
+    ComponentToExtract: int
+
+
+class VectorToScalarVolumeWidget(ScriptedLoadableModuleWidget):
+  def setup(self):
+    self._parameterNode = VectorToScalarVolumeParameterNode(self.logic.getParameterNode())
+    
+  def updateParameterNodeFromGUI(self, caller=None, event=None):
+    # Modify all properties in a single batch
+    with slicer.util.NodeModify(self._parameterNode):
+      self._parameterNode.InputVolume = self.ui.inputSelector.currentNode()
+      self._parameterNode.OutputVolume = self.ui.outputSelector.currentNode()
+      self._parameterNode.ConversionMethod = self.ui.methodSelectorComboBox.currentData
+      self._parameterNode.ComponentToExtract = self.ui.componentsSpinBox.value
+    
+  def onApplyButton(self):
+    self.logic.run(self._parameterNode.InputVolume,
+                   self._parameterNode.OutputVolume,
+                   self._parameterNode.ConversionMethod,
+                   self._parameterNode.ComponentToExtract)
+```
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
