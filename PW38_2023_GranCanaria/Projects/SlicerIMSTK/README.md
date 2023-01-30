@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Add a short paragraph describing the project. -->
 
-This is an on-going project to develop a kidney biopsy trainer based on 3D Slicer
+This is an on-going project to develop a kidney biopsy trainer based on 3D Slicer.  The trainer uses the iMSTK library to simulate force interactions between the 3D models in Slicer and the physical trainer hardware.
 
 ## Objective
 
@@ -41,6 +41,8 @@ This is an on-going project to develop a kidney biopsy trainer based on 3D Slice
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+## Demo version of trainer
+![Demo version of trainer](UsingTrainer.png)
 
 # Background and References
 
