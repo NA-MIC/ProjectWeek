@@ -10,12 +10,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 <!-- Add a short paragraph describing the project. -->
 
-The [FAIR principles](https://www.go-fair.org/fair-principles/) are guidelines to make your data, including software, findable, accessible, interoperable and reusable. They are an important component of Open Science.
+The [Helmholtz Metadata Collaboration](https://helmholtz-metadaten.de/en) follows the goal to develop and establish novel methods and tools documenting and sharing research data by means of enriched metadata.
 
-The [Helmholtz Metadata Collaboration](https://helmholtz-metadaten.de/en) follows the goal to develop and establish novel methods and tools documenting data by means of enriched metadata.
+The [FAIR principles](https://www.go-fair.org/fair-principles/) are guidelines to make your data, including software, findable, accessible, interoperable and reusable. They are an important component of Open Science.
 
 [NCI Imaging Data Commons](https://datacommons.cancer.gov/repository/imaging-data-commons) is tasked with establishing publicly available repository of cancer imaging data, and in this role is developing workflows to harmonize image and image-derived data representation into DICOM, make metadata searchable, and connect imaging metadata with clinical metadata. Thus, this project might be helpful to the HMC project. We will explore this connection this week!
 
+An additional aspect to look at will be aspects of generating, reviewing and sharing of metadata of research data which contains personally identifiable information.
 
 ## Objective
 
