@@ -53,6 +53,7 @@ Relate to:
 - TCIA download/(upload) into Kaapana
      - Kaapana workflow to download specific TCIA datasets
      - select to-be-downloaded dataset via UI
+     - send downloaded dataset to Kaapana's PACS
 
 ## Progress and Next Steps
 
