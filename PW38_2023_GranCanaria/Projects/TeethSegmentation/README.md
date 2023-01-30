@@ -11,10 +11,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Csaba Pinter (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Attila Nagy (University of Szeged, Szeged, Hungary)
 - Brianna Burton (3D Side, Belgium)
+- Umang Pandey (Universidad Carlos III de Madrid, Spain)
 
 # Project Description
 
-A three-dimensional visualization of dento-alveolar structures can enhance the surgical planning process. However, no fully automated segmentation methods are currently available to generate realistic 3D virtual models of teeth and alveolar bone.
+A three-dimensional visualization of dento-alveolar structures can enhance the surgical planning process. However, no fully automated segmentation methods are currently available to generate realistic 3D virtual models of teeth, inferior alveolar nerves and alveolar bone.
 
 We have a dataset of 43 CBCT scans with manual segmentation of teeth and alveolar bone.
 
@@ -26,15 +27,15 @@ We have already tested segmentation and deepedit models in MONAI Label. Those mo
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Implement multi-stage approach for teeth segmentation using MONAI Label pipelines. At least, two stages: (1) teeth localization and (2) teeth segmentation.
+1. Create MONAI pipeline for automatic segmentation of dental structures: teeth, mandible and inferior alveolar nerves.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Implement multi-stage approach for teeth segmentation using MONAI Label pipelines. At least, two stages: (1) teeth localization and (2) teeth segmentation.
+2. Develop model to segment mandible and inferior alveolar nerves.
+3. Combine multi-stage teeth segmentation with mandible and nerve segmentation.
 
 ## Progress and Next Steps
 
