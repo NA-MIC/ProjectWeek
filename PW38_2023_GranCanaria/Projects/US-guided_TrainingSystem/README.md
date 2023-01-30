@@ -35,7 +35,8 @@ of a CNB procedure. However, a quantitative analysis is required. For this reaso
 3. Optitrack + US System setup --> Connection to SLICER
 
 # Illustrations
-![Dedicated phantom fabrication](https://user-images.githubusercontent.com/40359004/212877916-37a7f456-b4fc-4c3a-a1f3-20d6a78f6429.jpeg) ![STL file lung_phantom container](https://user-images.githubusercontent.com/40359004/215512453-f0e4a231-293e-4b70-a9f6-519e5432d536.PNG)
+<img src="https://user-images.githubusercontent.com/40359004/212877916-37a7f456-b4fc-4c3a-a1f3-20d6a78f6429.jpeg" width="300"/> <img src="https://openclipart.org/download/71101/two.svg](https://user-images.githubusercontent.com/40359004/215512453-f0e4a231-293e-4b70-a9f6-519e5432d536.PNG" width="300"/>
+
 
 
 # Background and References
