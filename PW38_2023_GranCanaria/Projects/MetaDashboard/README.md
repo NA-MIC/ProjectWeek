@@ -22,7 +22,7 @@ In practice, importing DICOM files into workspaces (e.g., for reader studies, an
 * counting the number of complete "cases", e.g. "I need a prior and a matching follow-up image", "I need a native and a contrast-enhanced image", "I need n different dynamic contrast enhanced images"
 Basically, one could describe the above as "putting images into the correct buckets", and a related task would be to check how many cases are "complete", in the sense that a specified number of buckets is "filled".
 
-There are probably countless attempts at supporting this, but this project is
+There are probably countless attempts at supporting this workflow (some of which I am aware of), but this project is
 about checking what the Meta dashboard that comes with
 [Kaapana](https://kaapana.readthedocs.io/en/stable/intro_kaapana.html#what-is-kaapana)
 already supports and could (/should) support in the future.
@@ -60,5 +60,8 @@ Related to [Fast viewing and tagging of DICOM Images](../KaapanaFastViewingAndTa
 
 # Background and References
 
-* [Kaapana docs](https://kaapana.readthedocs.io/en/stable/intro_kaapana.html#what-is-kaapana)
+- There is a [dag_service_extract_metadata.py](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/dags/dag_service_extract_metadata.py) which is responsible for the metadata extraction.
+- That dag uses a [LocalDcm2JsonOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalDcm2JsonOperator.py) and [LocalJson2MetaOperator](https://github.com/kaapana/kaapana/blob/master/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalJson2MetaOperator.py) which seem to be the most important classes to look at.
+- [LocalTaggingOperator](https://github.com/kaapana/kaapana/blob/master/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalTaggingOperator.py) could also be relevant / interesting?
+- [Kaapana docs](https://kaapana.readthedocs.io/en/stable/intro_kaapana.html#what-is-kaapana)
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
