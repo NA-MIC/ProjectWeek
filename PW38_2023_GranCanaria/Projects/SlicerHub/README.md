@@ -4,37 +4,45 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Rafael Nebot (ITC - Instituto Tecnológico de Canarias
+- Rafael Nebot (ITC - Instituto Tecnológico de Canarias)
 - Paula Moreno (ITC)
 - Juan Ruiz (ULPGC)
 - Idafen Santana (ULPGC)
 
 # Project Description
 
-Multiuser approach to Slicer based on [Slicer Docker](https://github.com/pieper/SlicerDockers)
+Multiuser approach to Slicer in a browser, based on [Slicer Docker](https://github.com/pieper/SlicerDockers)
 
 ### Main Features
 
-- Automatic management of per-user Docker containers, with persistent workspace.
-- Session control, including quick sharing convenience, for educational and collaborative purposes.
-- OpenLDAP Authentication.
+- Browser based 3D Slicer using [Slicer Docker](https://github.com/pieper/SlicerDockers), similar to AWS AppStream.
+- Per-user workspace, with persistent data and configuration.
+- Session control, including quick URL sharing convenience, for educational and collaborative purposes.
+- Authentication using OpenLDAP.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Multiuser 3Dslicer approach for private cloud (HPC) using host GPU capabilities.
-2. Make the programme configuration persistent after deleting the container.
-3. Set the size of 3DSlicer web window to fit the size of the user's screen and other novnc settings.
+1. Use private clouds with GPU virtual machines.
+2. Make the software configuration persistent after deleting the container.
+3. Migrate from Docker+DockerCompose to Kubernetes+podman.
+4. Set the size of 3DSlicer web window to fit the size of the user's screen and other novnc settings.
 5. USB over IP + OpenIGTLink + Slicer in Docker.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. (o.1) GPU in Slicer Image: modify Slicer image to add nVidia drivers.
+2. (o.1) GPU using separate MONAI Label images: analyze and design how to improve session manager to allow users to launch "pod-sets" (e.g. Slicer+MONAI, Slicer, Slicer+Orthanc, ...). 
+3. (o.2) Share current status of the feataure with people knowing about Slicer to fix the issue "saving config in laptop works, in VM it does not".
+4. (o.3) Play with "kubernetes" package to familiariaze ourselves with the capabilities.
+5. (o.3) Rewrite parts of 3d slicer hub accessing to containers to be able to work with "kubernetes" Python package.
+6. (o.3) Start testing
+7. (o.4) Gather information with participants knowing about websockify. 
+8. (o.5) Compile information about IGT protocol with participants in NAMIC.
+9. (o.5) Modify design of 3dslicerhub architecture to enable IGT capabilities for Slicer containers
 
 ## Progress and Next Steps
 
