@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Marco Nolden (German Cancer Research Center, Germany)
 - Andrey Fedorov (BWH)
 
-**Project channel on Discord: #dicom-meta-dashboard** (TBD: add link)
+**[Project channel on Discord: #dicom-meta-dashboard](https://discord.com/channels/843934857620357130/1069602293764337665)**
 
 # Project Description
 
