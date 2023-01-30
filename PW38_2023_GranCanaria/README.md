@@ -149,8 +149,10 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [SlicerCBM](Projects/SlicerCBM/README.md) (**Benjamin Zwick**, Saima Safdar, Andy Huynh, Gerry Gralton, Adam Wittek, Karol Miller) *[On site]*
 
+1. [Brain segmentation for Long COVID study](Projects/LongCOVID/README.md)(**Zora Kikinis**)[On site]
+
 ### Cloud / Web
-30. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (**Rudolf Bumm**, Steve Pieper, Gang Fu, Qing Liu) *[On site]*
+31. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (**Rudolf Bumm**, Steve Pieper, Gang Fu, Qing Liu) *[On site]*
 
 1. [MHub Integration](Projects/MHub_Integration/README.md) (**Leonard Nürnberg**, Dennis Bontempi, Andrey Fedorov) *[On site]*
 
@@ -185,7 +187,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [PolySeg representations for OHIF Viewer Segmentations](Projects/OHIF_PolySeg/README.md)(Alireza Sedghi) _Remote_
 
 ### Infrastructure
-47. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (**Connor Bowley**, Sam Horvath, David Allemang) *[On site]*
+48. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (**Connor Bowley**, Sam Horvath, David Allemang) *[On site]*
 
 1. [SlicerPipelines](Projects/SlicerPipelines/README.md)(**Connor Bowley**, Sam Horvath) *[On site]*
 
