@@ -30,7 +30,7 @@ In the oral surgery field, it is important quantifying the level of swelling aft
 
 1. Write a module for computing volume between two meshes (they can be also "open-mesh")
 1. Use pyvista library for tasks involving mesh
-1. ...
+1. Deal with open meshes
 
 ## Progress and Next Steps
 
@@ -46,6 +46,7 @@ In the oral surgery field, it is important quantifying the level of swelling aft
 ![Some more images](Example2.jpg)
 -->
 ![Two meshes to compare in terms of volume](MeshComparison_figure.png)
+![Open mesh to close](Open_mesh.png)
 
 # Background and References
 
