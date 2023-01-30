@@ -22,8 +22,8 @@ with tools to perform liver analytics towards planning of liver interventions
 
    - Liver resection planning:
    
-      1. Integration of resection contours
-      2. Real-time 2D resection risk maps
+      1. *Integration of resection contours* : introduce a new resection surface generated from a curved contour; this implies less interactions with the 3D Models.
+      2. *Real-time 2D resection risk maps* : extract functional information in real time from the 3D resection surface and then map it onto a 2D map with intuitive and detailed information for surgical risk assessment and planning decisions.
      
    - Testing:
    
