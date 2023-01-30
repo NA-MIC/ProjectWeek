@@ -11,6 +11,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mouhamed DIOP (Cheikh Anta Diop University, Dakar, Senegal)
 - Adama Wade (Cheikh Anta Diop University, Dakar, Senegal)
 - Mohamed Alalli Bilal (Cheikh Anta Diop University, Dakar, Senegal)
+- Ahmedou Moulaye Idriss (Faculty of Medicine of Nouakchott, Mauritania)
+- Yahya Tfeil (Faculty of Medicine of Nouakchott, Mauritania)
 - Adriana H. Vilchis González (Universidad Autónoma del Estado de México, Mexico)
 - Luiz Otavio Murta Junior (University of Sao Paulo, Ribeirao Preto, Brazil)
 
