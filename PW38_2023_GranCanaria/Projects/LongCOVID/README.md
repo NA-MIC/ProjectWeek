@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Long-COVID: Study Design and Delineation of the Fiber Tracts of the Brainstem 
+# Long-COVID: Study Design and Delineation of Fiber Tracts of the Brainstem 
 
 ## Key Investigators
 
@@ -47,7 +47,7 @@ Symptoms of long-COVID19 might linger for several weeks or months after the init
 
 # Background and References
 
-<!-- 3D Exploration of the Brainstem in 50-Micron Resolution MRI
+3D Exploration of the Brainstem in 50-Micron Resolution MRI
 Richard Jarrett Rushmore, Peter Wilson-Braun, George Papadimitriou, Isaac Ng, Yogesh Rathi, Fan Zhang , Lauren Jean O'Donnell, Marek Kubicki, Sylvain Bouix, Edward Yeterian , Jean-Jacques Lemaire, Evan Calabrese, G Allan Johnson, Ron Kikini, Nikos Makris  
 Frontiers in Neuroanatomy, 2020
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7538715/
@@ -58,4 +58,4 @@ Bianca Besteher, Marlene Machnik, Marie Troll, Antonia Toepffer, Ani Zerekidze, 
 Psychiatry Res. 2022
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9444315/pdf/main.pdf
 
- -->
+
