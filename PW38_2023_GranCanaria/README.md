@@ -172,10 +172,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [IDC Introduction and Tutorial](Projects/IDC_Tutorial/README.md) (**Andrey Fedorov**, Deepa Krishnaswamy, Cosmin Ciausu, Vamsi Thiriveedhi, Dennis Bontempi, Leonard Nuerenberg) *[On site]*
 
-1. [IDC DICOM WSI workflow](Projects/IDC_DICOM_WSI_workflow/README.md) (**Maximilian Fischer**, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer) *[On site]*
-
-1. [Histology Images and Models into IDC](Projects/HistologyIntoIDC/README.md) (**Curtis Lisle**, Andrey Fedorov ) *[Remote]*
-
+1. [IDC DICOM WSI workflow](Projects/IDC_DICOM_WSI_workflow/README.md) (**Maximilian Fischer**, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer, Curtis Lisle) *[On site]*
 
 1. [DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanou, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
 
