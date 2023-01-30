@@ -47,4 +47,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+<!-- 3D Exploration of the Brainstem in 50-Micron Resolution MRI
+Richard Jarrett Rushmore, Peter Wilson-Braun, George Papadimitriou, Isaac Ng, Yogesh Rathi, Fan Zhang , Lauren Jean O'Donnell, Marek Kubicki, Sylvain Bouix, Edward Yeterian , Jean-Jacques Lemaire, Evan Calabrese, G Allan Johnson, Ron Kikini, Nikos Makris  
+Frontiers in Neuroanatomy, 2020
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7538715/
+
+
+Larger gray matter volumes in neuropsychiatric long-COVID syndrome
+Bianca Besteher, Marlene Machnik, Marie Troll, Antonia Toepffer, Ani Zerekidze, Tonia Rocktäschel, Carina Heller, Zora Kikinis, Stefan Brodoehl, Kathrin Finke, Philipp A. Reuken, Nils Opel, Andreas Stallmach, Christian Gaser and Martin Walter
+Psychiatry Res. 2022
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9444315/pdf/main.pdf
+
+ -->
