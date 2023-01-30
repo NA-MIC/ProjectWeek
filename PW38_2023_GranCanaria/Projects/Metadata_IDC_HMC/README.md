@@ -62,3 +62,8 @@ Common standards, tools and practices can make interoperability much easier. Wit
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
 - Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18 
+
+- Bridge, C.P., Gorman, C., Pieper, S. et al. Highdicom: a Python Library for Standardized Encoding of Image Annotations and Machine Learning Model Outputs in Pathology and Radiology. J Digit Imaging 35, 1719–1737 (2022). https://doi.org/10.1007
+
+- Deepa Krishnaswamy, Dennis Bontempi, David Clunie, Hugo Aerts, & Andrey Fedorov. (2023). AI-derived annotations for the NLST and NSCLC-Radiomics computed tomography imaging collections [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7539035
+
