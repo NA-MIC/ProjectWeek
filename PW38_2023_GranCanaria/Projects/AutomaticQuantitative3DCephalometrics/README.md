@@ -22,17 +22,17 @@ The current implementation is aimed at automatic computation of 3D components li
 between points, points to line, midpoint between two points or angles (Pitch, Roll and Yaw), interpretation of directionality,which can be further extended to any type of desired computation/quantitative image analysis. The design of the user interface is currently aimed at quantification of craniofacial dental,  skeletal and soft tissue structures. 
 
 This project to to get input regarding : 
-1- refactoring of the code to maintainable and more robust 
-2- discuss updates that solve AQ3DC's issues
-3- verify remaining duplicates and hard coded components
-4- add tests to the module 
-5- add user documentation.
+1. refactoring of the code to maintainable and more robust 
+2. discuss updates that solve AQ3DC's issues
+3. verify remaining duplicates and hard coded components
+4. add tests to the module 
+5. add user documentation.
 
 
-<ul>
-<li>Project link : https://github.com/DCBIA-OrthoLab/Q3DCExtension</li>
-<li>Refactoring link : https://github.com/HUTIN1/Q3DCExtension </li>
-<ul>
+
+- Project link : https://github.com/DCBIA-OrthoLab/Q3DCExtension
+- Refactoring link : https://github.com/HUTIN1/Q3DCExtension 
+
 
 
 ## Objectives
