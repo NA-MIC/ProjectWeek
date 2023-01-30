@@ -37,6 +37,7 @@ The project will implement Sarah F. Frisken's Surface Net C++ algorithm as a 3D 
 
 # Illustrations
 
+![Open Anatomy's SPL/NAC Brain Atlas in 3D Slicer](SlicerBrainLabel.png)
 ![Surface Nets algorithm on Open Anatomy's SPL/NAC Brain Atlas](SurfaceNetsProgram.png)
 
 
