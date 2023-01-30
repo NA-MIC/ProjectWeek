@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Davide Punzo (Freelancer, France) 
 - Andras Lasso (Perk Labs, Canada)
 - Gabriel Kwiecinski Antunes (WebKriativa, Brazil)
+- Ralf Floca (German Cancer Research Center, Germany; remote)
 - Anyone is welcome to join
 
 # Project Description
