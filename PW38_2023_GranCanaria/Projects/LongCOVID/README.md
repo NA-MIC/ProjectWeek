@@ -16,9 +16,9 @@ Symptoms of long-COVID19 might linger for several weeks or months after the init
 
 ## Objective
 
-<!-- Are long-COVID symptoms associated with changes in white matter fiber tracts of the brainstem?  . -->
+<!--  . -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
+1. Are long-COVID symptoms associated with changes in white matter fiber tracts of the brainstem? .
 1. Objective B. ...
 1. Objective C. ...
 
