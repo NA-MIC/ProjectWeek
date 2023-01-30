@@ -13,6 +13,7 @@ Clinical data like age, blood type, diagnosis and other non-imaging biomarkers a
 
 This projects aims to integrate clinical data better into the Kaapana medical image processing platform by using the FHIR standard. To facilitate this a FHIR server will be integrated in the platform and linked to the imaging data stored in the internal PACS. Additionally the workflow component will be extended to be able to store and retrieve FHIR objects from the internal server. This forms the basis to create import procedures allowing the import of clinical data from tabular data into the internal FHIR store. By extending the preexisting radiomics workflow of the platform to store its results in the FHIR server a first imaging biomarker is made available. In a last step a joint analysis using the Jupyter Lab service of the platform joining the clinical data with the imaging biomarkers from the radiomics analysis is performed.
 
+![./img-clinical-data-kaapana.png]
 
 ## Objective
 
