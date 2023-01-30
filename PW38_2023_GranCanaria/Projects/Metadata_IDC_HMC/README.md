@@ -14,8 +14,7 @@ The [FAIR principles](https://www.go-fair.org/fair-principles/) are guidelines t
 
 The [Helmholtz Metadata Collaboration](https://helmholtz-metadaten.de/en) follows the goal to develop and establish novel methods and tools documenting data by means of enriched metadata.
 
-[Imaging Data Commons](https://datacommons.cancer.gov/repository/imaging-data-commons) is a relevant project in this space.
- 
+[NCI Imaging Data Commons](https://datacommons.cancer.gov/repository/imaging-data-commons) is tasked with establishing publicly available repository of cancer imaging data, and in this role is developing workflows to harmonize image and image-derived data representation into DICOM, make metadata searchable, and connect imaging metadata with clinical metadata. Thus, this project might be helpful to the HMC project. We will explore this connection this week!
 
 
 ## Objective
