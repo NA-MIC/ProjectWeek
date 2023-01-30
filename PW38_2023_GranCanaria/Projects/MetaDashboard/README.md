@@ -9,7 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Klaus Kades (German Cancer Research Center, Germany)
 - Andrey Fedorov (BWH)
 
-**[Project channel on Discord: #kaapana-idc-integration](https://discord.com/channels/843934857620357130/1069559070295588954)** 
+**Project channel on Discord: #dicom-meta-dashboard** (TBD: add link)
 
 # Project Description
 
