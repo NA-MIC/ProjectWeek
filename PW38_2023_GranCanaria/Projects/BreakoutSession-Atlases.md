@@ -26,6 +26,10 @@ We are scheduled to be joined by Anatomist Paul Neumann, the current editor of
 Netter's Atlas of Human Anatomy and a partner with the OpenAnatomy Project in the
 creation of TA2Viewer (https://ta2viewer.openanatomy.org).
 
+We also hope to be joined by members of the UCLA Cardiac Arrythmia Center and the [Amara Yad](https://www.uclahealth.org/medical-services/heart/arrhythmia/about-us/amara-yad-project) 
+project, who are developing open atlases based on a particularly noble cause. Their first 
+atlas, is an open access cardiac atlas: [Atlas of Cardiac Anatomy Vol. 1](https://drive.google.com/file/d/1yvaYaKXc517YzPWJL474dS_FlLH4_Cwe/view).
+
 ## Rough schedule:
 
 - Community presentations about atlas development (please contribute!)
@@ -34,6 +38,7 @@ creation of TA2Viewer (https://ta2viewer.openanatomy.org).
   - VTK SurfaceNets multi-object surface creation (in development)
 - Shared Challenges
   - Terminology (how to label atlas objects)
+  - Sharing and distribution of atlases - OpenAnatomy exporter
   - Building a community of atlas creators and users
 
 # Illustrations
