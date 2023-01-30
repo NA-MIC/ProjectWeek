@@ -16,6 +16,8 @@ The [FAIR principles](https://www.go-fair.org/fair-principles/) are guidelines t
 
 [NCI Imaging Data Commons](https://datacommons.cancer.gov/repository/imaging-data-commons) is tasked with establishing publicly available repository of cancer imaging data, and in this role is developing workflows to harmonize image and image-derived data representation into DICOM, make metadata searchable, and connect imaging metadata with clinical metadata. Thus, this project might be helpful to the HMC project. We will explore this connection this week!
 
+We will investigate relevant metadata descriptions of medical images, cohorts, and medical image analyis pipelines and results like machine learning models.
+
 An additional aspect to look at will be aspects of generating, reviewing and sharing of metadata of research data which contains personally identifiable information.
 
 ## Objective
