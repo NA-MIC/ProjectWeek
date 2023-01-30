@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Updating to Batch Anonymizer
+# Updating Batch Anonymizer
 SlicerBatchAnonymize is a Slicer Extension that strips off metadata from dicom files, and converts them to various file formats. 
 The work during project week will involve investigating and creating prototypes for defacing in medical images, support and single file dicom export.
 
