@@ -164,6 +164,8 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [Kaapana related experiments/discussions/collaboratons](Projects/Kaapana_overall/README.md) (**Andrey Fedorov**, Marco Nolden, Hans Meine, Klaus Kades) *[On site]*
 
+1. [DICOM Meta-Dashboard](Projects/MetaDashboard/README.md) (Hans Meine, Stefan Denner, Klaus Kades, Andrey Fedorov) *[On site]*
+
 1. [Connecting/Using Kaapana to Google Cloud/Google Health/Google FHIR](Projects/KaapanaConnectingKaapanaToGoogleCloudAndHealthAndFHIR/README.md) (**Jonas Scherer**, Andrey Fedorov) *[Remote]*
 
 1. [Kaapana: Data and model exchange across different sources](Projects/KaapanaDataAndModelExchangeAcrossDifferentSources/README.md) (**Benjamin Hamm**, Ünal Akünal, Markus Bujotzek, Klaus Kades, Andrey Fedorov) *[On site]*
