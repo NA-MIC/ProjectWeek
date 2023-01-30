@@ -46,6 +46,13 @@ Relate to:
      - training pipeline
      - generic support of MONAI Bundles (MONAI Label / MONAI Deploy / MONAI FL)
 - Standardized remote model execution, execution of models from modelhub.ai within Kaapana
+- Current progress:
+![image](https://user-images.githubusercontent.com/103252889/215465416-394f3a57-176b-469b-a6ce-505bd359908b.png)
+
+2. Integration/support of data sources:
+- TCIA download/(upload) into Kaapana
+     - Kaapana workflow to download specific TCIA datasets
+     - select to-be-downloaded dataset via UI
 
 ## Progress and Next Steps
 
