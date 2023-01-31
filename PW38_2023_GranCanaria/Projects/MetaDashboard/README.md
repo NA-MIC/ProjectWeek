@@ -51,6 +51,19 @@ Related to [Fast viewing and tagging of DICOM Images](../KaapanaFastViewingAndTa
 1. Hans has access to some(?) kaapana installation at MEVIS (from the RACOON project).
 2. Hans has learned from Stefan about the current process / integration of the Meta dashboard in kaapana, and about its code location(s).
 
+Reviewing LocalDcm2JsonOperator revealed the following functionality (not complete):
+
+- calls dcmodify to remove pixel data tags
+- calls dcm2json to produce a JSON file
+- seems to work around dcm2json producing non-standard float representations (caveat: `cleanJsonData` will have false positives / modify non-numeric tags as well)
+- uses a [DICOM dictionary file (dicom_tag_dict.json)](https://github.com/kaapana/kaapana/blob/develop/services/flow/airflow/docker/files/scripts/dicom_tag_dict.json) to convert tag IDs to names (`get_new_key`)
+- the resulting JSON document will have keys such as `0008103E SeriesDescription_keyword` (`_keyword` is the default suffix, but depending on the VR, there are other: DA -> `_date`, DT -> `_datetime`, TM -> time, DS/FL/FD/OD/OF -> `_float`, IS/SL/SS/UL/US -> `_integer`, SQ -> `_object`)
+- RTSTRUCT files are treated specially and will have additional keys such as `rtstruct_organ_list_keyword`
+- adds a `timestamp` key based on acquisition/series/content/study/current date+time (using the first one available)
+- adds `timestamp_arrived_datetime`, `timestamp_arrived_date`, `timestamp_arrived_hour_integer`
+- adds `00101010 PatientAge_integer` based on `00100030 PatientBirthDate_date` or `00101010 PatientAge_keyword`
+- splits `00120020 ClinicalTrialProtocolID_keyword` into a list (under the same key)
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
@@ -61,7 +74,7 @@ Related to [Fast viewing and tagging of DICOM Images](../KaapanaFastViewingAndTa
 # Background and References
 
 - There is a [dag_service_extract_metadata.py](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/dags/dag_service_extract_metadata.py) which is responsible for the metadata extraction.
-- That dag uses a [LocalDcm2JsonOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalDcm2JsonOperator.py) and [LocalJson2MetaOperator](https://github.com/kaapana/kaapana/blob/master/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalJson2MetaOperator.py) which seem to be the most important classes to look at.
+- That dag uses a [LocalDcm2JsonOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalDcm2JsonOperator.py) and [LocalJson2MetaOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalJson2MetaOperator.py) which seem to be the most important classes to look at.
 - [LocalTaggingOperator](https://github.com/kaapana/kaapana/blob/master/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalTaggingOperator.py) could also be relevant / interesting?
 - [Kaapana docs](https://kaapana.readthedocs.io/en/stable/intro_kaapana.html#what-is-kaapana)
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
