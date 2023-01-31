@@ -36,7 +36,7 @@ The project is funded through two Essential Open Source Software for Science awa
 
  Daily Slicer internationalization session from 10 am to 11 am EST with members of the Slicer community
  
- Anyone is welcome to join the session that will be held on Google Meet and on Zoom:
+ Anyone is welcome to join the session that will be held online: 
  
  * Tuesday, Jan.31: https://meet.google.com/umd-avcb-xom
  * Wednesday, Feb.1st: same Zoom link as for the preparation meetings and breakout sessions
