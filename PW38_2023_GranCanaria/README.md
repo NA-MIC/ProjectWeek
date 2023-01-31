@@ -459,10 +459,10 @@ List of registered participants so far (names will be added here after processin
 1. Paul E. Neumann, Canada, (Online)
 1. Hina Shah, USA, (Online)
 1. Badiaa AIT AHMED, Spain, (Online)
-1. Celestino Lopes De Barro, cabo verde, (In-person, Confirmed)
-1. Mateus Neves Andrade, cabo verde, (In-person)
-1. José Olavo Da Paz Teixeira, cabo verde, (In-person, Confirmed)
-1. Hagi Anderson Lima Lopes, cabo verde, (In-person)
+1. Celestino Lopes De Barro, Cabo Verde, (In-person, Confirmed)
+1. Mateus Neves Andrade, Cabo Verde, (In-person)
+1. José Olavo Da Paz Teixeira, Cabo Verde, (In-person, Confirmed)
+1. Hagi Anderson Lima Lopes, Cabo Verde, (In-person)
 1. Tolga-Can Çallar, Germany, (Online)
 1. Gabriel Kwiecinski Antunes, Brazil, (Online)
 1. Francisco Guerrero Aranda, Spain, (Online)
@@ -472,6 +472,10 @@ List of registered participants so far (names will be added here after processin
 1. Eduardo Fares , Brazil, (Online)
 1. Reihaneh Teimouri, Canada, (Online)
 1. Eduardo Fares, Brazil, (Online)
+1. Keyvan Farahani, USA, (Online)
+1. David Molony, USA, (Online)
+1. Juan Carlos Avila Vilchis, Mexico, (Online)
+1. David Molony, USA, (Online)
 
 <!-- Participants list end -->
 
