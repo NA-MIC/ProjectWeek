@@ -38,9 +38,9 @@ The project is funded through two Essential Open Source Software for Science awa
  
  Anyone is welcome to join the session that will be held online: 
  
- * Tuesday, Jan.31: https://meet.google.com/umd-avcb-xom
- * Wednesday, Feb.1st: same Zoom link as for the preparation meetings and breakout sessions
- * Thursday, Feb. 2nd: same Zoom link as for the preparation meetings and breakout sessions
+ * **Tuesday, Jan.31**: https://meet.google.com/umd-avcb-xom
+ * **Wednesday, Feb.1st**: same Zoom link as for the preparation meetings and breakout sessions
+ * **Thursday, Feb. 2nd**: same Zoom link as for the preparation meetings and breakout sessions
  
  New international members, please fill in the [PW38 Slicer internationalization form](https://forms.gle/iinkdKvN4ZG2vv2o6) prior to joining the session.
 
