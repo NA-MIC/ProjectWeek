@@ -42,7 +42,7 @@ Moreover, perfomance needs to be boosted as much as possible:
 
 ## Progress and Next Steps
 
-1) Done meeting on Tuesday
+1) Meeting done on Tuesday (31/01/2023)
 
 2) We will proceed with the pure C++ CTK implementation.
    - First we will implement the self-contained visual CTK component. 
