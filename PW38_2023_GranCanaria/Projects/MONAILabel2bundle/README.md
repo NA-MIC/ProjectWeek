@@ -67,6 +67,7 @@ In this project we want to explore the process of converting MONAI Label trained
 3. We've posted two issues for the vertebrae segmentation, [here](https://github.com/Project-MONAI/MONAILabel/issues/1267) and [here](https://github.com/Project-MONAI/MONAILabel/issues/1268). We got some responses -- they suggested running inference on a dataset from decathalon instead. Localization_spine ran successfully! Not the best, but there is some spine segmented. So this is probably because of the resolution. The original VERSE dataset is pretty high res, but looks like the target_spacing is (1.3,1.3,1.3) for localization_spine. So we will try resampling VERSE to the target_spacing and then try inference. We tried running the full vertebra segmentation on the spleen dataset, and all three stages seem to work with no errors related to tensor shape. 
 4. We created the bundle for full ct segmentation, and here is the first run on a spleen dataset. We'll have to fix the transforms. 
 ![01_31_23_wip_totalseg_bundle](https://user-images.githubusercontent.com/59979551/215772413-12950eb1-e3ea-4aec-ab16-a828eb2d0c46.JPG)
+5. Steve suggested we might need to do something like this: https://github.com/LymphNodeQuantification/Monailabel-LNQ/blob/main/apps/radiology-retrain-2022-12/lib/infers/segmentation.py. We need to save out the nifti file at each stage of the transforms to see where the orientation changes. 
 
 
 
