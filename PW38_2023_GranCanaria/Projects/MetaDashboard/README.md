@@ -50,6 +50,8 @@ Related to [Fast viewing and tagging of DICOM Images](../KaapanaFastViewingAndTa
 
 1. Hans has access to some(?) kaapana installation at MEVIS (from the RACOON project).
 2. Hans has learned from Stefan about the current process / integration of the Meta dashboard in kaapana, and about its code location(s).
+3. Hans wrote a MeVisLab module "DICOMTree2JSON" that mimicks what dcm2json does and converts in-memory DICOM information into JSON. (The output has been verified to be "mostly identical" except for the pixel data which is not dumped. Other exceptions are integer "1\u0000" -> 1, for instance.)
+4. "DICOMTree2JSON" can also decompose volumes that MeVisLab's DirectDicomImport has composed into a multiframe representation.
 
 Reviewing LocalDcm2JsonOperator revealed the following functionality (not complete):
 
