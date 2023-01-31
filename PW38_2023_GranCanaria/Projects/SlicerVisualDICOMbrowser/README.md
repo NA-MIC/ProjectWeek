@@ -42,6 +42,15 @@ Moreover, perfomance needs to be boosted as much as possible:
 
 ## Progress and Next Steps
 
+1) Done meeting on Tuesday
+
+2) We will proceed with the pure C++ CTK implementation.
+   - First we will implement the self-contained visual CTK component. 
+   - Then we will design/implement how to stream/load data into Slicer (into the volumeNode) in an asynch way
+   - NOTE: experiment with websocket from Marco https://github.com/nolden/CTK/commit/16ee8d0773ce37290636000d836ad107b4526085
+   - NOTE: web project from Stefan ([link](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/KaapanaFastViewingAndTaggingOfDICOMImages/)). This is very nice and we could use this and comunicate between jvascript/C++. However the project uses cornerstone -> dicomwebclient and our requirement is that the solution has to work for any server (not only dicomweb servers).
+
+3) In progress
 
 # Illustrations
 <img alt="CTKDICOMQueryRetrievePanel" src="CTKDICOMQueryRetrievePanel.png" width="800"/>
