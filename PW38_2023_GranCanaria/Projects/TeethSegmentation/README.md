@@ -17,11 +17,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 A three-dimensional visualization of dento-alveolar structures can enhance the surgical planning process. However, no fully automated segmentation methods are currently available to generate realistic 3D virtual models of teeth, inferior alveolar nerves and alveolar bone.
 
-We have a dataset of 43 CBCT scans with manual segmentation of teeth and alveolar bone.
+Example: manual segmentation of teeth and alveolar bone.
 
 <img src="https://user-images.githubusercontent.com/10816661/213661126-e7e8d640-38e0-40b4-9232-beb9da0791bf.png" alt="drawing" width="650"/>
 
-We have already tested segmentation and deepedit models in MONAI Label. Those models are good for single label teeth segmentation or mandible segmentation. However, results are not optimal when trying to perform a multi-label segmentation where all teeth are correctly identified and segmented.
+We have already tested segmentation and deepedit models in MONAI Label. Those models are good for single-label teeth segmentation or mandible segmentation. However, results are not optimal when trying to perform a multi-label segmentation where all teeth are correctly identified and segmented.
 
 ## Objective
 
@@ -41,9 +41,15 @@ We have already tested segmentation and deepedit models in MONAI Label. Those mo
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Test Deepedit model for automatic segmentation of mandible and inferior alveolar nerves.
+
+<img src="https://user-images.githubusercontent.com/10816661/215752967-b0739f53-8f45-4df3-8c9b-95653fea6192.png" alt="drawing" width="650"/>
+
+2. Create and test pipeline for dental segmentation using only two stages: teeth localization + teeth segmentation
+
+<img src="https://user-images.githubusercontent.com/10816661/215756199-bd942b17-9e1f-42e2-80cd-fde2bea9d5fb.png" alt="drawing" width="650"/>
+
+3. ...
 
 # Illustrations
 
