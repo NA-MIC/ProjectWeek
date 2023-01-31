@@ -16,7 +16,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Cheikh Sidi Ethmane 
 - Edmée Clémence Mansilla 
 - Estelle Tcheple Tuo
-- Geir Arne Tangen  
+- Geir Arne Tangen (SINTEF - Norway)
 
 # Project Description
 
