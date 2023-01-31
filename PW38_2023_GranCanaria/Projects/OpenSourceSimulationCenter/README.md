@@ -17,6 +17,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Edmée Clémence Mansilla 
 - Estelle Tcheple Tuo
 - Geir Arne Tangen (SINTEF - Norway)
+- Javier Pascau (UC3M - Spain)
+- Juan León (HGUGM - Spain)
 
 # Project Description
 
