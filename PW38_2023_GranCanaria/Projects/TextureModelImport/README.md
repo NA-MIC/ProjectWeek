@@ -48,3 +48,5 @@ When the obj file is imported into Slicer, Slicer will automatically call the Te
 # Background and References
 
 Chi Zhang is working on a photogrammetry pipeline based on the open source package OpenDroneMap (ODM). Ultimately, the goal is being able to push and pull data between Slicer and ODM.
+
+A sample obj file with associated texture can be downloaded here: https://drive.google.com/file/d/1ZxJcx2nM-fgywA8KMm6JO0t7QJIcQR7O/view?usp=sharing
