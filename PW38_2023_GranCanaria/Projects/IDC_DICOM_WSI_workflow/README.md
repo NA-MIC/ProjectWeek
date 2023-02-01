@@ -70,3 +70,5 @@ A basis of this project provides the DICOM WSI support in the Kaapana platform, 
 - Colab notebooks with examples of using DICOM WSI in analysis workflows: [https://github.com/ImagingDataCommons/IDC-Examples/tree/master/notebooks/pathomics](https://github.com/ImagingDataCommons/IDC-Examples/tree/master/notebooks/pathomics)
 - DICOM WSI converter from Google: [https://github.com/GoogleCloudPlatform/wsi-to-dicom-converter](https://github.com/GoogleCloudPlatform/wsi-to-dicom-converter)
 - sample image [https://cytomine.com/collection/cmu-1/cmu-1-svs](https://cytomine.com/collection/cmu-1/cmu-1-svs)
+- Dropbox folder for storing related artifacts: https://www.dropbox.com/sh/2wkpn4iypxyvg7o/AACkI5F9f2yk42Jp9a2uat02a?dl=0
+- Max github repo: https://github.com/maxfscher/DICOMwsiWorkflow
