@@ -48,7 +48,8 @@ Moreover, perfomance needs to be boosted as much as possible:
    - First we will implement the self-contained visual CTK component. 
    - Then we will design/implement how to stream/load data into Slicer (into the volumeNode) in an asynch way
    - NOTE: experiment with websocket from Marco https://github.com/nolden/CTK/commit/16ee8d0773ce37290636000d836ad107b4526085
-   - NOTE: web project from Stefan ([link](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/KaapanaFastViewingAndTaggingOfDICOMImages/)). This is very nice and we could use this and comunicate between jvascript/C++. However the project uses cornerstone -> dicomwebclient and our requirement is that the solution has to work for any server (not only dicomweb servers).
+   - NOTE: web project from Stefan ([link](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/KaapanaFastViewingAndTaggingOfDICOMImages/)). This is very nice and we could use this and comunicate between javascript/C++. However the project uses cornerstone -> dicomwebclient and our requirement is that the solution has to work for any server (not only dicomweb servers).
+   - NOTE: the logic to define which is the instance to use for rendering the series thumbnail is still unclear. In the prototype we are sorting the instances using the frame number. However this is not reliable. We could compute the order from the Image Position Patient and Orientation, but this can be expensive (both in metadata fecthing and computations) and for 4D datasets you would need additional logic. We should ask David Clunie for feedback.
 
 3) In progress
 
