@@ -37,7 +37,8 @@ Update SlicerAstro to Slicer 5
  - 3DBarolo (galaxy modelling tool) should be updated to version 1.6 (currently there is a custom wrapped version forked from version 1.4)
  - The SlicerAstroApp (SlicerCustomAppTemplate for customized binaries with SlicerAstro style) was not yet tested.
 
-~2 dev weeks would be necessary to fix all the issues and it will be done later on after the project week.
+
+~1-2 dev weeks would be necessary to fix all the issues and it will be done later on after the project week. After that we can do further testing and then finally restore the extension in the 3DSlicer store.
 
 
 # Illustrations
