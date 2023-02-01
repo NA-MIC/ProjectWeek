@@ -48,6 +48,8 @@ The project is funded through two Essential Open Source Software for Science awa
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
+- Non-translatable text in Welcome module: fix submitted (https://github.com/Slicer/Slicer/pull/6810)
+
 
 # Illustrations
 
