@@ -35,7 +35,7 @@ Update SlicerAstro to Slicer 5
    - all the methos in the analysis modules that uses the ROIbox to get the boundaries for the computations (statistics, masking, etc...)
  - PV Diagram and PV Slice tools hangs and then crashes. This is related to modifications to the markups infrastructure from Slicer4 to Slicer5.
  - 3DBarolo (galaxy modelling tool) should be updated to version 1.6 (currently there is a custom wrapped version forked from version 1.4)
- - The SlicerAstroApp (SlicerCustomAppTemplate for customized binaries with SlicerAstro style) was not yet tested.
+ - The SlicerAstroApp (SlicerCustomAppTemplate for customized binaries with SlicerAstro extension and style) was not yet tested.
 
 
 ~1-2 dev weeks would be necessary to fix all the issues and it will be done later on after the project week. After that we can do further testing and then finally restore the extension in the 3DSlicer store.
