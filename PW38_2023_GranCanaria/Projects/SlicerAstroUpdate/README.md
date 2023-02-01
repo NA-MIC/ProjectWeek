@@ -42,7 +42,7 @@ Update SlicerAstro to Slicer 5
 
 
 # Illustrations
-<img alt="SlicerAstro Icon" src="SlicerAstroIcon.png" width="400"/> <img alt="WEIN069" src="WEIN069.png" width="550"/>
+<img alt="SlicerAstro Icon" src="SlicerAstroIcon.png" width="400"/> ![](https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/SlicerAstroUpdate/resized.gif)
 
 # Background and References
 [SlicerAstro project Slides](https://docs.google.com/presentation/d/1nfBQul_XENvYHQvPe2c_DCJmSOk13eX0GEoBoHz8MFU/edit#slide=id.p1)
