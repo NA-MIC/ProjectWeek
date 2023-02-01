@@ -42,13 +42,11 @@ Update SlicerAstro to Slicer 5
 
 # Illustrations
 <img alt="SlicerAstro Icon" src="SlicerAstroIcon.png" width="400"/>
-<img alt="WEIN069" src="WEIN069.png" width="400"/>
+<img alt="WEIN069" src="WEIN069.png" width="800"/>
 
 # Background and References
-[Slides](https://docs.google.com/presentation/d/1nfBQul_XENvYHQvPe2c_DCJmSOk13eX0GEoBoHz8MFU/edit#slide=id.p1)
+[SlicerAstro project Slides](https://docs.google.com/presentation/d/1nfBQul_XENvYHQvPe2c_DCJmSOk13eX0GEoBoHz8MFU/edit#slide=id.p1)
 
-[SlicerAstro](https://github.com/Punzo/SlicerAstro)
+[SlicerAstro repo](https://github.com/Punzo/SlicerAstro)
 
-[SlicerAstroApp](https://github.com/Punzo/SlicerAstroApp)
-
-[issues](https://github.com/Punzo/SlicerAstroApp/issues/4)
+[SlicerAstroApp repo](https://github.com/Punzo/SlicerAstroApp)
