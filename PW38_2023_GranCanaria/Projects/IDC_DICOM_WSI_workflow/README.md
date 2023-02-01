@@ -72,3 +72,4 @@ A basis of this project provides the DICOM WSI support in the Kaapana platform, 
 - sample image [https://cytomine.com/collection/cmu-1/cmu-1-svs](https://cytomine.com/collection/cmu-1/cmu-1-svs)
 - Dropbox folder for storing related artifacts: https://www.dropbox.com/sh/2wkpn4iypxyvg7o/AACkI5F9f2yk42Jp9a2uat02a?dl=0
 - Max github repo: https://github.com/maxfscher/DICOMwsiWorkflow
+- Colab Notebook for the conversion process https://colab.research.google.com/drive/1sbuGggwmbE-JgkO8LS5ndXIzLpf7yhKd?usp=sharing
