@@ -24,8 +24,6 @@ Add the concept of active viewport in 3DSlicer
 
 2) Implement it: add implementation in CTK (e.g. QFrame around views with method to set color, thickness, style, etc... ), and the uid parameter of the selected view (shall we save it in the scene? or just in the slicer logic?).
 
-3) Get feedback
-
 ## Progress and Next Steps
 
 1) We (Sam, Steve, Andras, Davide) discussed this and the outlook of the solution design is:
