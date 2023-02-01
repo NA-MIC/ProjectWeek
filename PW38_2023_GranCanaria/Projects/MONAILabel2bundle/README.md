@@ -68,6 +68,7 @@ In this project we want to explore the process of converting MONAI Label trained
 4. We created the bundle for full ct segmentation, and here is the first run on a spleen dataset. We'll have to fix the transforms. 
 ![01_31_23_wip_totalseg_bundle](https://user-images.githubusercontent.com/59979551/215772413-12950eb1-e3ea-4aec-ab16-a828eb2d0c46.JPG)
 5. Steve suggested we might need to do something like this: https://github.com/LymphNodeQuantification/Monailabel-LNQ/blob/main/apps/radiology-retrain-2022-12/lib/infers/segmentation.py. We need to save out the nifti file at each stage of the transforms to see where the orientation changes. Check Invertd transform, Orientationd transforms etc.
+6. This post from yesterday on creating a bundle for SegResNet trained on TotalSegmentator data: https://github.com/Project-MONAI/MONAILabel/issues/1269 
 
 
 
