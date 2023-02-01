@@ -60,4 +60,4 @@ Relate to:
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
 * [branch](https://github.com/fedorov/kaapana/tree/develop-slicer) that attempts to integrate Slicer into Kaapana
-* [MITK TaskList] (https://phabricator.mitk.org/T29160)
+* [MITK TaskList](https://phabricator.mitk.org/T29160)
