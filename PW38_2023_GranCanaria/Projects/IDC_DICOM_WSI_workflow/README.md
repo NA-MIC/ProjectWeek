@@ -73,3 +73,4 @@ A basis of this project provides the DICOM WSI support in the Kaapana platform, 
 - Dropbox folder for storing related artifacts: https://www.dropbox.com/sh/2wkpn4iypxyvg7o/AACkI5F9f2yk42Jp9a2uat02a?dl=0
 - Max github repo: https://github.com/maxfscher/DICOMwsiWorkflow
 - Colab Notebook for the conversion process https://colab.research.google.com/drive/1sbuGggwmbE-JgkO8LS5ndXIzLpf7yhKd?usp=sharing
+- Slim deployment instructions (WIP): https://docs.google.com/document/d/1r6r8w4FZnzeQO47TDn9DTj78nTjDsxuy4jSULmrCTwM/edit
