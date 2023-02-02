@@ -7,6 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Natalia Arteaga Marrero (IACTEC, Santa Cruz de Tenerife, Spain)
 - David García Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Javier González Fernández (ITC, Spain)
+- Jordan Ortega Rodríguez (IACTEC, Santa Cruz de Tenerife, Spain)
 - Gara Ramos (IACTEC, Santa Cruz de Tenerife, Spain)
 
 # Project Description
