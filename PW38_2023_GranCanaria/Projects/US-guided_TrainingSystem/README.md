@@ -25,13 +25,13 @@ of a CNB procedure. However, a quantitative analysis is required. For this reaso
 
 ## Approach and Plan
 
-1. Phantom model --> Accurately replicated thoracic tissues (lung, ribs, and solid masses) providing a useful tool for training ultrasound-guided procedures
-2. Tools connections via Optitrack and Plus Toolkit (Telemed and Clarius US System, needle for biopsy) 
+1. Phantom model --> Accurately replicated thoracic tissues (lung, ribs, and solid masses) providing a useful tool for training US-guided procedures
+2. Tools connections via Optitrack and Plus Toolkit (Telemed system and needle for biopsy) 
 4. Application development
 
 ## Progress and Next Steps
 
-1. Fabrication of dedicated phantom --> In progress to establish the virtual model 
+1. Fabrication of dedicated phantom --> Virtual and recontructed model  
 2. Design of tracking fixtures for equipment --> In progress
 3. Optitrack + US System setup --> Connection to SLICER
 
