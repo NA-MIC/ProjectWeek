@@ -19,8 +19,7 @@ The set of cameras to integrate includes (but not limited to): visible light USB
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Adding selected sensors as new devices in PTK.
-1. Visualization and control of integrated sensors from Slicer. 
-1. ...
+2. Visualization and control of integrated sensors from Slicer. 
 
 ## Approach and Plan
 
@@ -34,10 +33,11 @@ The set of cameras to integrate includes (but not limited to): visible light USB
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Environment configuration (Win10, Visual Studio 2019, Qt5, installation of PTK (https://plustoolkit.github.io) & cameras drivers + SDK's ).
+2. Thermal Expert EV2 infrared camera added, following instructions from PTK site (plustoolkit.github.io/devicecode).  
+3. PCO Ultraviolet camera added, following instructions from PTK site. Code modified to change camera exposure values from config file (XML).  
+4. Simultaneous image acquisition from TE-EV2 & PCO UV tested from Slicer (OpenIGTLink, see figure).
+5. Next steps: integration of CameraLink, GigE, GenICam cameras; interactive control of camera parameters.   
 
 # Illustrations
 
@@ -45,7 +45,11 @@ The set of cameras to integrate includes (but not limited to): visible light USB
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+Fig. 1: Integration of Thermal Expert EV2 & PCO Ultraviolet Cameras (OpenIGTLink)
+[TEEV2PCOUV-2.gif](https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/MultiSpectralSensorIntegration/TEEV2PCOUV-2.gif)
+<img src="TEEV2PCOUV-2.gif" width="652" height="356"></img>
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+1. Plus ToolKit. Adding a Device. URL: https://plustoolkit.github.io/devicecode (Last seen: 02/02/2023). 
