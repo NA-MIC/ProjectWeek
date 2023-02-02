@@ -43,9 +43,11 @@ When the obj file is imported into Slicer, Slicer will automatically call the Te
 <p/>
 
 
+
 3. The mtl file (in the same directory) will then be automatically parsed to retrieve the texture image name.
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/80793828/216436895-09818bd2-05d7-4ad2-929f-bdce817708bf.png">
+
 
 
 4. The `ImageStacks` functions from SlicerMorph will then be called to import texture as a vector volumetric node and map to the model using `SetTextureImageDataConnection`. The texture node will then be deleted.
