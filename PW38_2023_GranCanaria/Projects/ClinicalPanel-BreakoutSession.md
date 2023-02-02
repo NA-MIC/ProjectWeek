@@ -8,6 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Alexandra Golby
 - Babacar Diao
 - Ron Alkalay
+- Lucia Cevidanes
 - Andras Lasso
 
 # Session Description
