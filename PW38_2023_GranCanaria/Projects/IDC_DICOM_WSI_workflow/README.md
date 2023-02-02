@@ -51,16 +51,15 @@ A basis of this project provides the DICOM WSI support in the Kaapana platform, 
 1. Had a project kick-off meeting to discuss the plan.
    * Agreed for Max and Andrey will work to set up initial part of the colab notebook that searches and downloads WSI from IDC and extracts tiles, then this can be used both by Max and Curt for workflow development
    * Agreed to use Colab notebook to set up conversion pipeline using David and google converter
-3. Describe specific steps you **have actually done**.
-4. ...
+2. Curt Tested multiple DICOM-WSI converters using a pyramidal Aperio cancer image from NCI.  Both Google's wsi2dicom and the wsidicomizer converted the image, but   **wsidicomizer** did a better job including DICOM metadata. (See high-res example inset below)
+3. A pyramidal whole slide image becomes a set of DICOM images, one file per level of the pyramid.  DICOM header information connect the files together. Not all conversions agreed on the number of pyramid levels, but wsidicomizer preserved all levels. 
 5. ...
 
 # Illustrations
+A small feature preserved correctly at 40x resolution by **wsidicomizer**
+![High res ROI preserved by conversion](https://user-images.githubusercontent.com/2152950/216401551-d743f74e-b2f5-415d-aadf-f0b0ad1b6643.png)
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+
 
 # Background and References
 
@@ -74,3 +73,4 @@ A basis of this project provides the DICOM WSI support in the Kaapana platform, 
 - Max github repo: https://github.com/maxfscher/DICOMwsiWorkflow
 - Colab Notebook for the conversion process https://colab.research.google.com/drive/1sbuGggwmbE-JgkO8LS5ndXIzLpf7yhKd?usp=sharing
 - Slim deployment instructions (WIP): https://docs.google.com/document/d/1r6r8w4FZnzeQO47TDn9DTj78nTjDsxuy4jSULmrCTwM/edit
+- wsidicomizer repository: https://github.com/imi-bigpicture/wsidicomizer

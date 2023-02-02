@@ -33,9 +33,31 @@ When the obj file is imported into Slicer, Slicer will automatically call the Te
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. The goal is basically reached, thanks for the help from Steve Pieper. The script `OBJFile.py` is incorporated in the forked SlicerMorph repository: https://github.com/chz31/SlicerMorph. Git clone the repository and use the Extension Wizard to install the SlicerMorph extension.
+
+
+2. After that, the `OBJ textured model` option would be registered in the data dialog. Drag the OBJ into Slicer and select the `OBJ textured model` option.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80793828/216435141-80300f14-aa08-4c51-9d05-85d3086f11c7.png", width = 700>
+<p/>
+
+
+
+3. The mtl file (in the same directory) will then be automatically parsed to retrieve the texture image name.
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/80793828/216436895-09818bd2-05d7-4ad2-929f-bdce817708bf.png">
+
+
+
+4. The `ImageStacks` functions from SlicerMorph will then be called to import texture as a vector volumetric node and map to the model using `SetTextureImageDataConnection`. The texture node will then be deleted.
+
+<p align="left">
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/80793828/216438232-94eef208-71d2-4dee-9993-9eb7aa42db7b.png">
+<img width="386" alt="image" src="https://user-images.githubusercontent.com/80793828/216438568-ff959b91-ced4-4b44-8af7-43869dc6c0fe.png">
+<p/>
+<p align="right">
+<p/>
 
 # Illustrations
 
@@ -43,7 +65,6 @@ When the obj file is imported into Slicer, Slicer will automatically call the Te
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-![Screenshot 2023-01-29 at 9 50 01 PM](https://user-images.githubusercontent.com/80793828/215397544-df4f7af9-ec31-4699-9def-2676f3f713f5.png)
 
 
 # Background and References
