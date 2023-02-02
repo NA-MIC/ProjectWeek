@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Kaapana related experiments/discussions/collaborations
+# Kaapana related experiments/discussions/collaboratons
 
 ## Key Investigators
 
@@ -41,6 +41,8 @@ In this project current, perspective and aspiring users of Kaapana will have the
  * how to start: create a cohort in the metadata dashboard, then in Experiments select the DAG (to be created) that would write the manifest to minio; to create a DAG start with the `collect-metadata` DAG - 1) read `cohort_identifiers` (this is the conf object that is accessed from `start` function of `LocalWorkflowCleanerOperator` 2) write manifest to minio - this is as in `dag_collect_metadata.py` workflow. Probably will be better to combine manifest export with launching Slicer with the cohort opened.
 
 **Integration with GCP Healthcare DICOM stores** : right now we use dcm4chee as the DICOM server. This is problematic while deploying kaapana on the cloud, since 1) it is huge waste of resources: we already have our data in storage buckets, we need to replicate those files on attached disk (and attached storage is very expensive), then import into dcm4chee (which is very very very slow, and does not work for all types of DICOM objects - SRs are rejected); 2) I am not sure it is scalable to use dcm4chee. We can very easily set up a DICOM store under GCP Healthcare, which is cheaper, faster, is highly scalable, and can be accessed using standard DICOMweb interface with authentication. It would be extremely helpful to be able to use that GCP DICOM Store in place of dcm4chee. Related to [Connecting/Using Kaapana to Google Cloud/Google Health/Google FHIR](../KaapanaConnectingKaapanaToGoogleCloudAndHealthAndFHIR/README.md).
+ * related [https://cloud.google.com/healthcare-api/docs/how-tos/dicomweb#healthcare-store-transaction-python](https://cloud.google.com/healthcare-api/docs/how-tos/dicomweb#healthcare-store-transaction-python)
+ * break the task by creating a custom workflow that is intialized with the variables 1) series instanceUIDs to be processed; 2) DICOMweb endpoint; 3) credentials. Start with any workflow that interacts with dcm4chee. 
 
 **Integration with IDC** : All of IDC data is available from public GCP buckets, egress is free. All you need is to have Google Cloud SDK https://cloud.google.com/sdk installed, and to do searching, one needs to have a GCP project and credentials. Maybe we can discuss this. Related to [Data and model exchange across different sources](../KaapanaDataAndModelExchangeAcrossDifferentSources/README.md).
 
@@ -48,6 +50,7 @@ In this project current, perspective and aspiring users of Kaapana will have the
  * how to debug failures? e.g., see [this as an example](https://kaapana.slack.com/archives/C018MPL9404/p1674230282696369?thread_ts=1674181916.424089&cid=C018MPL9404)
 
 **Running Kaapana on Google Kubernetes Engine** : while using GCP, we've been following an extremely naive and inefficient approach for deploying Kaapana. We allocate a fixed linux VM, and install it as if we are on a on-prem server. As I understand it, to fully leverage the power of k8s, it would make a lot more sense to use Google Kubernetes engine. My knowledge of k8s and microk8s is very close to 0, so maybe this is something that is highly trivial. Maybe we could experiment with this together. We can even set up a shared GCP projects where I can add you, so you can experiment directly. Related to [Connecting/Using Kaapana to Google Cloud/Google Health/Google FHIR](../KaapanaConnectingKaapanaToGoogleCloudAndHealthAndFHIR/README.md).
+ * Jonas is working on removing the use of `hostpath`
 
 **Maintenance of Kaapana instance** : discuss the process of checking for security vulnerabilities, updating the developers of identified vulnerabilities, communicating the need to update to the users, look if scanning features available in GCP could be helpful.
 
