@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Kaapana related experiments/discussions/collaboratons
+# Kaapana related experiments/discussions/collaborations
 
 ## Key Investigators
 
