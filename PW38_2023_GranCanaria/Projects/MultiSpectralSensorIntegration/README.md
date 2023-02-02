@@ -1,7 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Write full project title here
-Integration of infrared, ultraviolet and hyperspectral sensors in Slicer via Plus Toolkit  and OpenIGTLink. 
+# Integration of infrared, ultraviolet and hyperspectral sensors in Slicer via Plus Toolkit  and OpenIGTLink. 
 ## Key Investigators
 
 - Francisco J. Marcano Serrano
