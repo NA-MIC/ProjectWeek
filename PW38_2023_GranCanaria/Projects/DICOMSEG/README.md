@@ -36,13 +36,18 @@ Consider proposals to improve the standard to address any inherent issues.
 
 ## Progress and Next Steps
 
-Loaded with pydicom_seg (15 seconds)
 
 ![image](https://user-images.githubusercontent.com/126077/216361639-a7d4aa90-1742-4681-b6cd-e78f15dce4cd.png)
 
-Quantitative Reporting: 4 minutes
-pydicom-seg: 15 seconds
-seg.nrrd: .6 second
+Performed timings with various methods to load segmentations in Slicer
+
+* Quantitative Reporting: 4 minutes
+* pydicom-seg: 15 seconds
+* seg.nrrd: .6 second
+
+We had several conversations about the importance of DICOM for organizing derived data from quantitative analysis, conversations which underlined the point of defining efficient implementations.
+
+In discussion with machine learning researchers, e.g. developers and users of tools like TotalSegmentator, the number of segments is set increase rapidly, perhaps doubling within months to 200 or more, and with over 1000 segments expected within a year.
 
 # Illustrations
 
