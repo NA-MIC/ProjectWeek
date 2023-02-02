@@ -151,8 +151,6 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [Electrophysiological biosignals in 3D Slicer](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/Electrophysiological%20biosignals%20in%203D%20Slicer) (**Jordan Ortega Rodríguez**, Gara Ramos) *[On site]*
 
-1. [Surface Nets](Projects/SurfaceNets/README.md) (**Andy Huynh**, Gerry Gralton, Benjamin Zwick) *[On site]*
-
 1. [Analytic Registration Verification](Projects/AnalyticRegistrationVerification/README.md) (**Gerry Gralton**, Andy Huynh, Benjamin Zwick) *[On site]*
 
 1. [SlicerCBM](Projects/SlicerCBM/README.md) (**Benjamin Zwick**, Saima Safdar, Andy Huynh, Gerry Gralton, Adam Wittek, Karol Miller) *[On site]*
