@@ -51,15 +51,16 @@ A basis of this project provides the DICOM WSI support in the Kaapana platform, 
 1. Had a project kick-off meeting to discuss the plan.
    * Agreed for Max and Andrey will work to set up initial part of the colab notebook that searches and downloads WSI from IDC and extracts tiles, then this can be used both by Max and Curt for workflow development
    * Agreed to use Colab notebook to set up conversion pipeline using David and google converter
-2. Tested two DICOM-WSI converters using NCI pyramidal Aperio image (Google wsi2dicom and wsidicomizer). Evaluated the converted outputs.   **wsidicomizer** did a better job with DICOM metadata.
+2. Tested two DICOM-WSI converters using NCI pyramidal Aperio image (Google wsi2dicom and wsidicomizer). Evaluated the converted outputs.   **wsidicomizer** did a better job with DICOM metadata. (See high-res example inset below)
 4. ...
 5. ...
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
+
+![High res ROI preserved by conversion](https://user-images.githubusercontent.com/2152950/216401551-d743f74e-b2f5-415d-aadf-f0b0ad1b6643.png)
+
 -->
 
 # Background and References
