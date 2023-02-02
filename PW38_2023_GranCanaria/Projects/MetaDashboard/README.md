@@ -61,12 +61,20 @@ Reviewing LocalDcm2JsonOperator revealed the following functionality (not comple
 - calls dcm2json to produce a JSON file
 - seems to work around dcm2json producing non-standard float representations (caveat: `cleanJsonData` will have false positives / modify non-numeric tags as well)
 - uses a [DICOM dictionary file (dicom_tag_dict.json)](https://github.com/kaapana/kaapana/blob/develop/services/flow/airflow/docker/files/scripts/dicom_tag_dict.json) to convert tag IDs to names (`get_new_key`)
-- the resulting JSON document will have keys such as `0008103E SeriesDescription_keyword` (`_keyword` is the default suffix, but depending on the VR, there are other: DA -> `_date`, DT -> `_datetime`, TM -> time, DS/FL/FD/OD/OF -> `_float`, IS/SL/SS/UL/US -> `_integer`, SQ -> `_object`)
-- RTSTRUCT files are treated specially and will have additional keys such as `rtstruct_organ_list_keyword`
+- the resulting JSON document will have keys such as `0008103E SeriesDescription_keyword` (`_keyword` is the default suffix, but depending on the VR, there are other: DA -> `_date`, DT -> `_datetime`, TM -> time, DS/FL/FD/OD/OF -> `_float`, IS/SL/SS/UL/US -> `_integer`, SQ -> `_object` – the point of these suffixes is that [OpenSearch is then configured to index the attributes according to their suffix](https://github.com/kaapana/kaapana/blob/develop/services/meta/meta-init/docker/files/init_meta.py#L117))
+- RTSTRUCT and SEG files are treated specially and will have additional keys such as `rtstruct_organ_list_keyword`
 - adds a `timestamp` key based on acquisition/series/content/study/current date+time (using the first one available)
 - adds `timestamp_arrived_datetime`, `timestamp_arrived_date`, `timestamp_arrived_hour_integer`
 - adds `00101010 PatientAge_integer` based on `00100030 PatientBirthDate_date` or `00101010 PatientAge_keyword`
 - splits `00120020 ClinicalTrialProtocolID_keyword` into a list (under the same key)
+
+Summary of steps I performed in order:
+- Spun up https://hub.docker.com/r/opensearchproject/opensearch-dashboards with docker-compose (reduced the example .yml to one node)
+- Used `INIT_OPENSEARCH=true kaapana/services/meta/meta-init/docker/files/init_meta.py` to create the OpenSearch index (I manually set use_ssl=True). If you remove the index (e.g., with `http --verify=no DELETE https://admin:admin@localhost:9200/meta-index`), you need to repeat this step. It does not have to be done before setting up the dashboard, though – the latter just defines a view into OS, so it is really independent.
+- Similarly, ran the script with `INIT_DASHBOARDS=true DASHBOARDS_URL=http://admin:admin@localhost:5601 DASHBOARDS_JSON=kaapana/services/meta/meta-init/meta-init-chart/files/dashboard_import.json` to upload the default dashboard config (commenting out the call to `set_ohif_template()`)
+- Exported dcm2json-like information from MeVisLab, with the new module I developed for that purpose
+- Ran a small hacked together supplement of the LocalDcm2JsonOperator on my exported files (see the above summary of its functionality).
+- This already allows to play with the dashboard.  What's not working yet is the cohort definition.
 
 # Illustrations
 
@@ -79,6 +87,6 @@ Reviewing LocalDcm2JsonOperator revealed the following functionality (not comple
 
 - There is a [dag_service_extract_metadata.py](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/dags/dag_service_extract_metadata.py) which is responsible for the metadata extraction.
 - That dag uses a [LocalDcm2JsonOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalDcm2JsonOperator.py) and [LocalJson2MetaOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalJson2MetaOperator.py) which seem to be the most important classes to look at.
-- [LocalTaggingOperator](https://github.com/kaapana/kaapana/blob/master/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalTaggingOperator.py) could also be relevant / interesting? This operator manages a set (/list) of tags per document in the meta index. It is possible to add/remove tags, they can come from JSON files, and it is possible to read DICOM tags (e.g., ClinicalTrialProtocolID) into tags.
+- [LocalTaggingOperator](https://github.com/kaapana/kaapana/blob/master/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalTaggingOperator.py) could also be relevant / interesting? This operator manages a set (/list) of tags per document in the meta index (cf. attribute `dataset_tags_keyword`). It is possible to add/remove tags, they can come from JSON files, and it is possible to read DICOM tags (e.g., ClinicalTrialProtocolID) into tags.
 - [Kaapana docs](https://kaapana.readthedocs.io/en/stable/intro_kaapana.html#what-is-kaapana)
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
