@@ -46,7 +46,7 @@ The set of cameras to integrate includes (but not limited to): visible light USB
 -->
 Fig. 1: Integration of Thermal Expert EV2 & PCO Ultraviolet Cameras (OpenIGTLink)
 [TEEV2PCOUV-2.gif](https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/MultiSpectralSensorIntegration/TEEV2PCOUV-2.gif)
-<img src="TEEV2PCOUV-2.gif" width="652" height="356"></img>
+<img src="TEEV2PCOUV-2.gif" width="652" height="356" class="center">></img>
 
 # Background and References
 
