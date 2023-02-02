@@ -36,6 +36,13 @@ Consider proposals to improve the standard to address any inherent issues.
 
 ## Progress and Next Steps
 
+Loaded with pydicom_seg (15 seconds)
+
+![image](https://user-images.githubusercontent.com/126077/216361639-a7d4aa90-1742-4681-b6cd-e78f15dce4cd.png)
+
+Quantitative Reporting: 4 minutes
+pydicom-seg: 15 seconds
+seg.nrrd: .6 second
 
 # Illustrations
 
