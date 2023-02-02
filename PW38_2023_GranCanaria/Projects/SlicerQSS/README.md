@@ -70,8 +70,8 @@ Currently 3D Slicer support both QStyle based styling and QtStylesheets.  To imp
 
 ## Project week results
 
-| ![Classic Slicer Light](light-classic.png) | ![Classic Slicer Dark](dark-classic.png)  |
-| ![Material Slicer Dark](dark-new.png)| ![Custom colors](custom-app.png)  |
+ ![Classic Slicer Light](light-classic.png)  ![Classic Slicer Dark](dark-classic.png)
+ ![Material Slicer Dark](dark-new.png) ![Custom colors](custom-app.png)
 
 # Background and References
 
