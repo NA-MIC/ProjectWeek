@@ -6,6 +6,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Rudolf Bumm
 - Alexandra Golby
+- Babacar Diao
+- Ron Alkalay
+- Andras Lasso
 
 # Session Description
 
