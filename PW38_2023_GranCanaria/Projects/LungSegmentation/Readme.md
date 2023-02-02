@@ -36,9 +36,21 @@ Our objective is to improve the lung CT segmentation and analysis processes in 3
 
 ## Progress and Next Steps
 
+  
+During the project week, we were able to apply SlicerLiver to a working demo lung segmentation dataset, demonstrating that segment-oriented lung resection can be simulated in SlicerLiver using VMTK and dedicated software functions.  
+Furthermore, we talked with Jakob Wasserthal, the creator of TotalSegmentator, about how to incorporate pulmonary artery and vein segmentation into his deep-learning tool. Raoul San Jose Estbar agreed to provide the TotalSegmentator training dataset with ground truth data. We elaborated the skeleton of a grant application for vessel-based lung segment segmentation.
+
+We ran LCTA over the complete dataset of the OpenSourceCovidDataset with great results and a good correlation between radiology expert and machine. 
+
+![](https://user-images.githubusercontent.com/18140094/216458521-1df25eb4-63b2-4946-8b67-6881f8050024.png)
+
+![](https://user-images.githubusercontent.com/18140094/216458649-a7862df4-4c2a-4518-a1f8-c1e0b441be9c.png)
+
 # Illustrations
 
-will follow
+![](https://user-images.githubusercontent.com/18140094/216455289-bbf2d613-57f4-423f-8e17-0263a5cda126.png)
+
+![](https://user-images.githubusercontent.com/18140094/216455423-5c2990be-b31d-4691-9bf9-1c3540366e4c.png)
 
 # Background and References
 
