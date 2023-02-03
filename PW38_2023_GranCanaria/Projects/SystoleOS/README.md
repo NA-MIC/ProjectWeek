@@ -83,6 +83,71 @@ as well as the integration of allied technologies:
 
 ## Progress and Next Steps
 
+### Systole Overlay progress PW38
+
+```txt
+Systole Overlay
+├── dev-libs
+│   └── qRestAPI                  #OK
+├── dev-python
+│   └── PythonQt_CTK              #Needs update
+├── metadata
+├── profiles
+├── sci-libs
+│   ├── itk                       #OK
+│   ├── SimpleITK                 #Needs update
+│   ├── vtk                       #OK
+│   └── vtkAddon                  #OK
+├── sci-medical
+│   ├── ctk                       #OK
+│   ├── CTKAppLauncherLib         #OK
+│   ├── elastix                   #Needs update
+│   ├── gdcm                      #OK
+│   ├── Slicer                    #Work-in-progress
+│   ├── teem                      #OK
+│   └── vmtk                      #Needs update
+├── Slicer-CLI                    #Needs update
+│   ├── ACPCTransform              |
+│   ├── AddScalarVolumes           |
+│   ├── ExtractSkeleton            |
+│   ├── ModelMaker                 |
+│   └── SlicerExecutionModel       | 
+├── Slicer-Loadable                
+│   ├── Annotations                #Remove
+│   ├── Cameras                    #Needs update 
+│   ├── Colors                     |
+│   ├── Data                       |
+│   ├── DoubleArrays               |
+│   ├── Markups                    |
+│   ├── Models                     |
+│   ├── Plots                      |
+│   ├── Reformat                   |
+│   ├── SceneViews                 |
+│   ├── Segmentations              |
+│   ├── SlicerWelcome              |
+│   ├── SubjectHierarchy           #Work-in-progress
+│   ├── Tables                     |
+│   ├── Terminologies              #OK
+│   ├── Texts                      #Needs update
+│   ├── Transforms                 |
+│   ├── Units                      |
+│   ├── ViewControllers            |
+│   ├── VolumeRendering            |
+│   └── Volumes                    |
+├── Slicer-Scripted                #Needs update
+│   ├── DataProbe                  |
+│   ├── Editor                     |
+│   ├── EditorLib                  |
+│   ├── Endoscopy                  |
+│   ├── LabelStatistics            |
+│   ├── PerformanceTests           |
+│   ├── SampleData                 |
+│   ├── ScreenCapture              |
+│   └── SegmentEditor              |
+└── x11-libs                       #OK
+    └── gdk-pixbuf
+```
+
 ### Development environments
 
 ![SystoleOS utility boxes and development environments](systoleos_dev_envs.png)
