@@ -32,7 +32,7 @@ of a CNB procedure. However, a quantitative analysis is required. For this reaso
 ## Progress and Next Steps
 
 1. Fabrication of dedicated phantom --> Virtual and recontructed model finished  
-2. Design of tracking fixtures for the required equipment --> Biopsy needle (Bard 22mm), Telemed MicrUS 12L Probe. Extra tools and some adjustments to be implemented 
+2. Design of tracking fixtures for the required equipment --> Biopsy needle (Bard 22mm), Telemed MicrUs EXT-1H L12 Probe. Extra tools and some adjustments to be implemented 
 3. 3D Models of the equipments --> Biopsy needle (loaded and extended) and Telemed US system
 4. Optitrack + US System setup --> Connection to SLICER via Plus Toolkit using Telemed US System. Issues to connect the Clarius US system to be solved
 5. Preliminar tracking system working --> New calibrations to be performed after upgrading the fixtures
