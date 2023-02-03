@@ -33,15 +33,18 @@ The tool currently provies a user-friendly UI, supports export to several popula
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Suupert added for keeping age and gender intact during anonymization.
+1. Creating a summary report.
+1. Plans for CBCT anonymization created. The defacing will be evaluated using visual inspection and a survey by clinicians. 
+1.1 Find the frontal face, and run anonymization on just that part.
+1.2 Make defacing robust to intensity changes through normalization.
+1.3 Retrain AMASSS. and consider adding more anatomical structures
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
+<img width="903" alt="image" src="https://user-images.githubusercontent.com/22948571/216559257-11200a31-1f06-40b8-85b1-2c2059a91805.png">
+<img width="306" alt="image" src="https://user-images.githubusercontent.com/22948571/216559084-2cb0842f-ebe1-4bc6-b6db-1ddbd773a2cb.png">
 -->
 
 # Background and References
