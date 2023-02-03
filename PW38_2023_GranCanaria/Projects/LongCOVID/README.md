@@ -34,9 +34,12 @@ Symptoms of long-COVID19 might linger for several weeks or months after the init
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Delineated the Medial Forebrain Bundle (MFB) and Dorsal Longitudinal Fiber (DLF) within the brainstem in the postmortem dMRI data set.
-2. Run whole brain tractography on the 3T data set.
-3. Registering the 3T data set to the postmortem dMRI data set.
+1. Segmentation of the Nucleus Tractus Solitarius (solitary complex)–Area Postrema (NTS-AP). 
+NTS-AP plays an impotant role in neuro-immune regulatory loops and autonomic reflexes. 
+
+2. Delineated the Medial Forebrain Bundle (MFB) and Dorsal Longitudinal Fiber (DLF) within the brainstem in the postmortem dMRI data set.
+3. Run whole brain tractography on the 3T data set.
+4. Registering the 3T data set to the postmortem dMRI data set.
 
 # Illustrations
 
