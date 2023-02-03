@@ -59,6 +59,9 @@ Objective 3. Send commands from EMG signals to Slicer to control movements of 3D
 # Illustrations
 <img src="https://github.com/JordanOrt/EMG_Slicer/blob/1546b5817a2116dead5ebac659b9e32520a62fc6/MySiganIoT.jpg" width="500"/>
 <img src="https://github.com/JordanOrt/EMG_Slicer/blob/1546b5817a2116dead5ebac659b9e32520a62fc6/EMG-Arduino%20Plot.png" width="500"/>
+
+![] https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/Electrophysiological%20biosignals%20in%203D%20Slicer/Arduino-Conect-wih-3D-Hand_GIF.mp4
+
 ![Fig.1](https://github.com/JordanOrt/EMG_Slicer/blob/1546b5817a2116dead5ebac659b9e32520a62fc6/MySiganIoT.jpg)
 ![Video 1 (EMG DAQ-Arduino)](https://github.com/JordanOrt/EMG_Slicer/blob/1546b5817a2116dead5ebac659b9e32520a62fc6/EMG_MySignals-Arduino.mp4)
 ![Fig.2](https://github.com/JordanOrt/EMG_Slicer/blob/1546b5817a2116dead5ebac659b9e32520a62fc6/EMG-Arduino%20Plot.png)
