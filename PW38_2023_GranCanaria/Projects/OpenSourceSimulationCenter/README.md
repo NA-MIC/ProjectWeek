@@ -39,15 +39,17 @@ Open source technologies have opened up a world of possibilities for the develop
 ## Approach and Plan
 
 1. We created a work team to discuss the objetives.
-2. 
+2. We shared information with the partners about computer-based simulation in Africa.
+3. We defined some tasks to work in.
+4. We proposed to study and research about the impact of simulation in economy in health.
 
 ## Progress and Next Steps
 
 <img width="650" alt="pw-project-simulacion5" src="https://user-images.githubusercontent.com/123319626/216612807-bfd973c6-6b3a-4c63-8fb7-ef2eb9623862.png">
 <img src="https://user-images.githubusercontent.com/10816661/216606535-1d99b414-09d9-41d9-a369-2642d81a4d70.JPG" alt="drawing" width="650"/>
 <img width="650" alt="pw-project-simulacion-2" src="https://user-images.githubusercontent.com/123319626/216613166-ec1875db-1c17-494e-9920-7080600c80da.png">
-
+<img width="650" alt="pw-project-simulacion-2" src="https://user-images.githubusercontent.com/123319626/216622472-e587242f-ab46-4fcf-8402-c22afb905099.jpeg">
 
 ## Conclusion & Outlook
-
+We'll publish information about this section briefly.
 
