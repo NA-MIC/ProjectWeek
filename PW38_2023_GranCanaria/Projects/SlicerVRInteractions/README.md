@@ -49,6 +49,7 @@ Kitware and Robarts (Jean-Christophe Fillion Robin, Lucas Gandel, Sankhesh Jhave
 1. Cherry-picked said commits, built, and confirmed that the fly and grab&move features worked
 1. Confirmed that the actions manifest works on the HP Reverb 2 headset
 1. Started work towards restoring the "Pinch 3D" complex gesture (saving initial physical to world transform and manipulate world as the controllers move)
+1. Created coarse UML model of the relationship between SlicerVR and VTK VR to help troubleshoot the module. 
 
 # Illustrations
 
