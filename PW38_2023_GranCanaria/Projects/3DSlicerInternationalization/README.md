@@ -48,7 +48,8 @@ The project is funded through two Essential Open Source Software for Science awa
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-- Non-translatable text in Welcome module: fix submitted (https://github.com/Slicer/Slicer/pull/6810)
+- Non-translatable text in Welcome module: fix submitted <https://github.com/Slicer/Slicer/pull/6810>
+- List of languages in the Weblate / Languages combobox are now populated by querying the server <https://github.com/Slicer/SlicerLanguagePacks/commit/acffb3670bcaa77beb40759e7125a79f1a179cb1>
 
 
 # Illustrations
