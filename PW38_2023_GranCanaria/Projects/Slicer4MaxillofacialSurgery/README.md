@@ -33,10 +33,13 @@ Check if [BoneReconstructionPlanner videotutorial](https://youtu.be/g9Vql5h6uHM)
 3. We worked with our own clinical case and we got some encouraging results. We can try to include this extension in the daily work of the hospital.
 
 # Illustrations
-<img width="564" alt="Caso Fig 1" src="https://user-images.githubusercontent.com/123319626/216601143-439d1f75-52e1-4f30-a77c-dc1764142056.png">
-<img width="564" alt="Caso fig 2" src="https://user-images.githubusercontent.com/123319626/216601161-e1e73116-69ba-4bf9-be62-9aa6535644f6.png">
-<img width="564" alt="Caso fig 3" src="https://user-images.githubusercontent.com/123319626/216601179-1ebbfa79-1b85-46f9-a994-388dbf83ad1a.png">
-<img width="564" alt="Caso fig 4" src="https://user-images.githubusercontent.com/123319626/216601229-2d319f3a-b643-464c-b279-478b1fdd6bf2.png">
+All the pictures below are for our own real clinical case. They display illustrations of the pipeline:
+<img width="564" alt="Fig 1" src="https://user-images.githubusercontent.com/123319626/216601143-439d1f75-52e1-4f30-a77c-dc1764142056.png">
+<img width="564" alt="Fig 2" src="https://user-images.githubusercontent.com/123319626/216601161-e1e73116-69ba-4bf9-be62-9aa6535644f6.png">
+<img width="564" alt="Fig 3" src="https://user-images.githubusercontent.com/123319626/216601179-1ebbfa79-1b85-46f9-a994-388dbf83ad1a.png">
+<img width="564" alt="Fig 4" src="https://user-images.githubusercontent.com/123319626/216601229-2d319f3a-b643-464c-b279-478b1fdd6bf2.png">
+The result is displayed below:
+<img width="564" alt="Final Model for 3D Printing" src="https://user-images.githubusercontent.com/123319626/216640160-92e5e55b-0389-4851-adf9-623193c23d0a.png">
 
 # Background and References
 
