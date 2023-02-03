@@ -58,7 +58,11 @@ In this project we want to explore the process of converting MONAI Label trained
 ![Some more images](Example2.jpg)
 -->
 
-![Figure 1 - Full CT segmentation on spleen data from decathalon data](SegResNet trained on TotalSegmentator data](https://user-images.githubusercontent.com/59979551/216036231-cab022f4-dbb1-4932-928f-af9b061733fc.JPG)
+Figure 1 - Full CT segmentation on subject from spleen decathalon data
+![Figure 1 - Full CT segmentation on spleen data from decathalon data](https://user-images.githubusercontent.com/59979551/216036231-cab022f4-dbb1-4932-928f-af9b061733fc.JPG)
+
+Figure 2 - Comparison of the MONAI full CT segmentation bundle we created (left) to the output TotalSegmentator produces (right)
+[monai_bundle_vs_total_seg_spleen.webm](https://user-images.githubusercontent.com/59979551/216606510-047a0105-17ca-4765-8186-4132edf2c0e9.webm)
 
 
 
