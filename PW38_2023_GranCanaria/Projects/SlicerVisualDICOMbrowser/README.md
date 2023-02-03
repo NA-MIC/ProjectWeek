@@ -62,8 +62,14 @@ Moreover, perfomance needs to be boosted as much as possible:
     - stream the the data from the localDICOMDatabase to 3DSlicer into volumeNodes
 
 # Illustrations
-<img alt="CTKDICOMQueryRetrievePanel" src="CTKDICOMQueryRetrievePanel.png" width="800"/>
-<img alt="" src="PrototypeDICOMQueryRetrievePanel.png" width="800"/>
+Prototype:
+
+<img alt="" src="PrototypeDICOMQueryRetrievePanel.png" width="1000"/>
+
+Current CTK Query Retrieve Panel:
+
+<img alt="CTKDICOMQueryRetrievePanel" src="CTKDICOMQueryRetrievePanel.png" width="1000"/>
+
 
 # Background and References
 [CTK class](https://github.com/commontk/CTK/blob/master/Libs/DICOM/Widgets/ctkDICOMQueryRetrieveWidget.cpp)
