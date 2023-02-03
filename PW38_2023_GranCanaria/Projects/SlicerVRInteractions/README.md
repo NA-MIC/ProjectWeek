@@ -60,6 +60,8 @@ Kitware and Robarts (Jean-Christophe Fillion Robin, Lucas Gandel, Sankhesh Jhave
 ![Some more images](Example2.jpg)
 -->
 
+https://user-images.githubusercontent.com/1325980/216611394-4e46ff9a-21b1-4e96-8f0b-48f81da5866a.mp4
+
 [![SlicerVR example](https://i.ytimg.com/an_webp/F_UBoE4FaoY/mqdefault_6s.webp?du=3000&sqp=CN7D_50G&rs=AOn4CLDzwAi5yXSmiMEkmmgMkmwYpQJY3Q)](https://www.youtube.com/watch?v=F_UBoE4FaoY&t=153s&ab_channel=PerkLabResearch)
 
 [![SlicerVR collaborative example](https://i.ytimg.com/an_webp/Sw3JyKfvW6Q/mqdefault_6s.webp?du=3000&sqp=CJy8_50G&rs=AOn4CLDkH1pgzs3NCJqno3cJrc5lz8Oq-Q)](https://www.youtube.com/watch?v=Sw3JyKfvW6Q&ab_channel=EbatincaS.L.)
