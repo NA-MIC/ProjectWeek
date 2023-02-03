@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Symptoms of long-COVID19 might linger for several weeks or months after the initial infection by the SARS-CoV-2 virus. Symptoms are headache, problems with memory and concentration, anxiety, extreme fatigue, chest pain or tightness, gastrointestinal symptoms and difficulty sleeping. In addition, abnormal immune response to viral infection is reported in patients with long-COVID. A dysfunctional brainstem might explain the neuropsychiatric, autonomic symptoms and abnormal immune response. 
+Symptoms of long-COVID19 might linger for several weeks or months after the initial infection by the SARS-CoV-2 virus. Symptoms are headache, problems with memory and concentration, anxiety, extreme fatigue, chest pain or tightness, gastrointestinal symptoms and difficulty sleeping. In addition, abnormal immune response to viral infection is reported in patients with long-COVID. A dysfunctional brainstem might explain the neuropsychiatric, and autonomic symptoms as a consequence of abnormal immune response. 
 
 ## Objective
 
