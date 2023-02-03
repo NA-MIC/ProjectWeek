@@ -9,7 +9,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mario Monzón (ULPGC)
 - Aday Melián (ULPGC)
 - Miguel Ángel Rodríguez (ULPGC) 
-- Nayra Pumar ?
+- Pablo Castellano (ULPGC)
+- Jose Carlos Mateo (ULPGC)
+- Nayra Pumar
 - Babacar Diao
 - Christine Sokhna  
 - Magate Gueye  
@@ -126,13 +128,13 @@ This project aims to provide the tools and knowledge for generating a comprehens
 
 # Illustrations
 - Image #1 - Meeting with Babacar Diao in NAMIC Project week 38
-
-- Image #2 - Meeting with Nayra Pumar in NAMIC Project week 38
+![MeetingBabacar](https://user-images.githubusercontent.com/5611348/216622689-93eee25a-c7d1-44fc-bd5a-490e1379b417.jpeg)
 
 - Image #3 - Anatomic Tree Adapter for readapt human anatomy
 <img width="1506" alt="AnatomicTree" src="https://user-images.githubusercontent.com/5611348/216607199-7e4759cd-b16b-4aa8-9e61-09c4f70f2130.png">
 
 - Image #4 - Human Viewer - Three.JS performance test
+<img width="1512" alt="WebHumanViewer" src="https://user-images.githubusercontent.com/5611348/216622739-12c0afa8-6df4-43bf-8833-5499042bc608.png">
 
 
 # Background and References
