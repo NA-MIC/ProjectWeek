@@ -43,13 +43,9 @@ We have already tested segmentation and deepedit models in MONAI Label. Those mo
 
 1. Test Deepedit model for automatic segmentation of mandible and inferior alveolar nerves.
 
-<img src="https://user-images.githubusercontent.com/10816661/215752967-b0739f53-8f45-4df3-8c9b-95653fea6192.png" alt="drawing" width="650"/>
-
 2. Create and test pipeline for dental segmentation using only two stages: teeth localization + teeth segmentation
 
-<img src="https://user-images.githubusercontent.com/10816661/215756199-bd942b17-9e1f-42e2-80cd-fde2bea9d5fb.png" alt="drawing" width="650"/>
-
-3. ...
+3. Create and test pipeline for dental segmentation using three stages: teeth localization, teeth centroid computation and teeth segmentation. Pipeline based on vertebra pipeline with some modifications.
 
 # Illustrations
 
@@ -57,6 +53,15 @@ We have already tested segmentation and deepedit models in MONAI Label. Those mo
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+
+Result: teeth segmentation using dental pipeline (2 stages)
+
+<img src="https://user-images.githubusercontent.com/10816661/215756199-bd942b17-9e1f-42e2-80cd-fde2bea9d5fb.png" alt="drawing" width="750"/>
+
+Result: mandible and inferior alveolar nerves segmentation using DeepEdit.
+
+<img src="https://user-images.githubusercontent.com/10816661/215752967-b0739f53-8f45-4df3-8c9b-95653fea6192.png" alt="drawing" width="750"/>
+
 
 # Background and References
 - Related project from 37th NA-MIC Project Week: [Multi-stage deep learning segmentation of teeth](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/MultistageTeethSegmentation/)

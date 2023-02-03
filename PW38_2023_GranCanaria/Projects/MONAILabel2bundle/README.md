@@ -61,9 +61,14 @@ In this project we want to explore the process of converting MONAI Label trained
 Figure 1 - Full CT segmentation on subject from spleen decathalon data
 ![Figure 1 - Full CT segmentation on spleen data from decathalon data](https://user-images.githubusercontent.com/59979551/216036231-cab022f4-dbb1-4932-928f-af9b061733fc.JPG)
 
-Figure 2 - Comparison of the MONAI full CT segmentation bundle we created (left) to the output TotalSegmentator produces (right)
+Figure 2 - Comparison on spleen decathalon data of the MONAI full CT segmentation bundle we created (left) to the output TotalSegmentator produces (right)
 [monai_bundle_vs_total_seg_spleen.webm](https://user-images.githubusercontent.com/59979551/216606510-047a0105-17ca-4765-8186-4132edf2c0e9.webm)
 
+Figure 3 - Full CT segmentation on subject from IDC 
+![02_03_23_full_ct_segmentation_success_idc](https://user-images.githubusercontent.com/59979551/216612414-649813e5-945b-4719-aaa8-8954aeb44d18.JPG)
+
+Figure 4 - Comparison on IDC data of the MONAI full CT segmentation bundle we created (left) to the output TotalSegmentator produces (right)
+[monai_bundle_vs_total_seg_idc.webm](https://user-images.githubusercontent.com/59979551/216612449-013d7dad-7bc6-43b0-9780-0c9f9b848007.webm)
 
 
 ## Discussion notes

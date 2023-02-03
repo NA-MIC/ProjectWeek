@@ -39,12 +39,19 @@ Development of tool to assign tissue acoustic properties:
 2. Create and define a lookup table (LUT) that assigns the accoustic properties to each organ label. 
 3. Develop a tool or module that generates the config file based on the models and the LUT.
 
-## Progress During Project Week
+## Progress and Next Steps
 
 1. Created a LUT with accoustic properties (density, speed of sound, accoustic attenuation) of 112 different tissue types.
 2. Created a simple Matlab script to generate an XML config file for PLUS with the according accoustic properties for different models based on Total Segmentator
 
 <img src="https://user-images.githubusercontent.com/10816661/216602999-87f6cd0c-92f3-4e43-b205-8938f51be7c0.png" alt="drawing" width="650"/>
+
+3. Generate scene with virtual models of mother and fetus.
+
+<img src="https://user-images.githubusercontent.com/10816661/216606535-1d99b414-09d9-41d9-a369-2642d81a4d70.JPG" alt="drawing" width="650"/>
+<img src="https://user-images.githubusercontent.com/10816661/216606299-1b180590-07e5-428e-a619-f62bc0d480cc.JPG" alt="drawing" width="450"/>
+
+4. NEXT STEP: Test ultrasound image simulation assigning acoustic properties to tissues.
 
 ## Conclusion & Outlook
 A central challenge regarding surface model based ultrasound simulation, i.e., the generation of realistic mesh models of internal anatomy, is greatly alleviated by the utilization of the Total Segmentator module that allows for the automated segmentation of multiple tissues and organs with appreciabe accuracy.  In terms of various sound propagation and ray-tracing algorithms used ultrasound simulations, the classification of the respective segmentations enables the direct assignment of acoustic tissue properties that were researched and gathered from the related literature to build an tissue-specific acoustic lookup table.
