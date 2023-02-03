@@ -43,6 +43,14 @@ The tool currently provies a user-friendly UI, supports export to several popula
   * Retrain AMASSS. and consider adding more anatomical structures
 
 # Illustrations
-![CBCT defacing pipeline](<img width="553" alt="image" src="https://user-images.githubusercontent.com/22948571/216630590-8b9a1944-b117-4e74-a21c-0a94772ff704.png">)
-![Examples of CBCT defacint screenshots for evaluation](<img width="389" alt="image" src="https://user-images.githubusercontent.com/22948571/216630767-6ce07e53-9d12-4ccb-84ce-744851c80841.png">)
-![SlicerBatchAnonymize Screenshot](<img width="896" alt="image" src="https://user-images.githubusercontent.com/22948571/216630881-0f29f3b4-0e5a-4238-8a72-bf6bcf1a6891.png">)
+
+<img width="896" alt="image" src="https://user-images.githubusercontent.com/22948571/216630881-0f29f3b4-0e5a-4238-8a72-bf6bcf1a6891.png">
+SlicerBatchAnonymizeScreenshot
+
+<img width="553" alt="image" src="https://user-images.githubusercontent.com/22948571/216630590-8b9a1944-b117-4e74-a21c-0a94772ff704.png">
+CBCT Defacing pipeline
+
+<img width="398" alt="image" src="https://user-images.githubusercontent.com/22948571/216632071-2f5480c5-73e7-465a-bb9d-bba39e8f193c.png">
+Examples of CBCT defacint screenshots for evaluation
+
+
