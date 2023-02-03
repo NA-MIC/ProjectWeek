@@ -41,6 +41,8 @@ processes with a focus on clinical and biomedical applications.
 
 1. Individual modules have been developed and are available on GitHub
    (<https://github.com/SlicerCBM/SlicerCBM>)
+   
+2. Checklist for submitting a new extension (<https://github.com/SlicerCBM/SlicerCBM/issues/8>)
 
 # Illustrations
 
