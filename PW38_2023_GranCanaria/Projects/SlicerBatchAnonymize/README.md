@@ -7,6 +7,8 @@ The work during project week will involve investigating and creating prototypes 
 ## Key Investigators
 - Hina Shah (UNC Chapel Hill)
 - Juan Carolos Prieto (UNC Chapel Hill)
+- Jonas Boanchi (University of Michigan)
+- Lucia Cevidanes (University of Michigan)
 
 # Project Description
 <!-- Add a short paragraph describing the project. -->
@@ -33,20 +35,14 @@ The tool currently provies a user-friendly UI, supports export to several popula
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Suupert added for keeping age and gender intact during anonymization.
-1. Creating a summary report.
-1. Plans for CBCT anonymization created. The defacing will be evaluated using visual inspection and a survey by clinicians. 
-1.1 Find the frontal face, and run anonymization on just that part.
-1.2 Make defacing robust to intensity changes through normalization.
-1.3 Retrain AMASSS. and consider adding more anatomical structures
+* Suupert added for keeping age and gender intact during anonymization.
+* Creating a summary report.
+* Plans for CBCT anonymization created. The defacing will be evaluated using visual inspection and a survey by clinicians. 
+  * Find the frontal face, and run anonymization on just that part.
+  * Make defacing robust to intensity changes through normalization.
+  * Retrain AMASSS. and consider adding more anatomical structures
 
 # Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-<img width="903" alt="image" src="https://user-images.githubusercontent.com/22948571/216559257-11200a31-1f06-40b8-85b1-2c2059a91805.png">
-<img width="306" alt="image" src="https://user-images.githubusercontent.com/22948571/216559084-2cb0842f-ebe1-4bc6-b6db-1ddbd773a2cb.png">
--->
-
-# Background and References
-
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+![CBCT defacing pipeline](<img width="553" alt="image" src="https://user-images.githubusercontent.com/22948571/216630590-8b9a1944-b117-4e74-a21c-0a94772ff704.png">)
+![Examples of CBCT defacint screenshots for evaluation](<img width="389" alt="image" src="https://user-images.githubusercontent.com/22948571/216630767-6ce07e53-9d12-4ccb-84ce-744851c80841.png">)
+![SlicerBatchAnonymize Screenshot](<img width="896" alt="image" src="https://user-images.githubusercontent.com/22948571/216630881-0f29f3b4-0e5a-4238-8a72-bf6bcf1a6891.png">)
