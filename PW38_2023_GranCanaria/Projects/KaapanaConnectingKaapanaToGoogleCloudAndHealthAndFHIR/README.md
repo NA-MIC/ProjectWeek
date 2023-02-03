@@ -40,7 +40,7 @@ Relate to:
 2. Jonas started work on this (remotely!)
 3. Unfortunately, other meetings of Jonas prevented Andrey and Jonas to meet to discuss this.
 4. But: updates from the project channel from Jonas: "I think I have what I need right now 🙂 I made some progress yesterday and have a connected cluster running in GCP. Now I need to make a couple adjustments regarding the storage claims within our project (that was expected).  I'll write you as soon as I have a first version to try on GCP" and "I still have to change ~ 80% of our storage handling (we should do this anyway)".
-5. Andrey discussed the strategy for integration with GCP Healthcare (see notes in the umbrella project).
+5. Andrey and Klaus discussed the strategy for integration with GCP Healthcare (see notes in the umbrella project) and identified initial steps.
 
 # Illustrations
 
