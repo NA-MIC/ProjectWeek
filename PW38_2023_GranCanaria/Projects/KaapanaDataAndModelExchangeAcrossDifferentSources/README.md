@@ -63,9 +63,16 @@ Relate to:
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Support of various AI model sources
+- Integration of MONAI Model Zoo into Kaapana
+     - Proof of concept: Intgration of MONAI Model Zoos spleen CT segmentation works
+     - tbd: Finalize integration in Kaapana
+- Support of MHub
+     - 
 
-tbd
+2. Integration/support of data sources:
+- TCIA download/(upload) into Kaapana
+     - Implemented `service-tcia-download`. Now it is possible to drag and drop a .tcia manifest file into Kaapana (in minio). This will start a workflow which                downloads the data from TCIA via their REST-API. Number of workers can be set in the operator.
 
 # Illustrations
 
