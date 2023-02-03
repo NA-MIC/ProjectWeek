@@ -480,6 +480,8 @@ List of registered participants so far (names will be added here after processin
 1. David Molony, USA, (Online)
 1. Juan Carlos Avila Vilchis, Mexico, (Online)
 1. David Molony, USA, (Online)
+1. Hui Liu, China, (Online)
+1. Dan Rukas, USA, (Online)
 
 <!-- Participants list end -->
 
