@@ -47,6 +47,7 @@ This extension will also be used in a new module dedicated to assist the DBS tar
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.-->
 [AtlasYEB Registration Result](FromAtlasYEBRegistration.png)
+
 [Inmporting Models to Segmentation Objects](AtlasYEBSEg.png)
 
 
