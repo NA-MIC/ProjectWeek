@@ -7,10 +7,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Miguel Ángel Rodriguez-Florido, PhD (GTMA, University of Las Palmas de Gran Canaria and Children’s, Women’s and General Hospital Insular)
 - Christian Buritica, MD (Children’s, Women’s and General Hospital Insular)
 - Mauro Domínguez (Software Developer of BoneReconstructionPlanner)
+- Thank you Sam Horvath for her help and support with Osteotomy Planner and other functionalities in Slicer.
 
 # Project Description
 
-This project proposes to study the capabilities of two extensions of Slicer (Osteotomy Planner and BoneReconstructionPlanner) to be included at the classes at the Medical School of our University and to the planning tools used for clinical maxillofacial cases. 
+This project proposes to study the capabilities of two extensions of Slicer (Osteotomy Planner and BoneReconstructionPlanner) to be included at the classes at the Medical School in our University and to the planning tools used for clinical maxillofacial cases. 
 
 ## Objective
 
@@ -27,12 +28,15 @@ Check if [BoneReconstructionPlanner videotutorial](https://youtu.be/g9Vql5h6uHM)
 
 ## Progress and Next Steps
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. We discussed with Sam Horvath about the Osteomy Planner extension and how to use it to get our goals. We have learnt how it works in the last release of Slicer and we learnt more general surfaces/meshes operators that can help us for teaching general concepts of the surgery technique to medical students.
+2. We have checked that the BoneReconstructionPlanner extension is running at the current stable release of Slicer and we have been using it for one of our own clinical cases.
+3. We worked with our own clinical case and we got some encouraging results. We can try to include this extension in the daily work of the hospital.
 
 # Illustrations
-
+<img width="564" alt="Caso Fig 1" src="https://user-images.githubusercontent.com/123319626/216601143-439d1f75-52e1-4f30-a77c-dc1764142056.png">
+<img width="564" alt="Caso fig 2" src="https://user-images.githubusercontent.com/123319626/216601161-e1e73116-69ba-4bf9-be62-9aa6535644f6.png">
+<img width="564" alt="Caso fig 3" src="https://user-images.githubusercontent.com/123319626/216601179-1ebbfa79-1b85-46f9-a994-388dbf83ad1a.png">
+<img width="564" alt="Caso fig 4" src="https://user-images.githubusercontent.com/123319626/216601229-2d319f3a-b643-464c-b279-478b1fdd6bf2.png">
 
 # Background and References
 
