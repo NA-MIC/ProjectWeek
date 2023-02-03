@@ -49,6 +49,8 @@ At the beginning of project week
 ![Open mesh to close](Open_mesh.png)
 -------------------------------------------------------------------------
 At the end of project week
+
+
 ![Module UI](Module_UI.png)
 ![Closed model](Closed_model.png)
 ![Boolean difference](Boolean_difference.png)
