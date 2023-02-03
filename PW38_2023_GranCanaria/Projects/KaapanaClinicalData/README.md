@@ -54,7 +54,7 @@ This projects aims to integrate clinical data better into the Kaapana medical im
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-<img width="931" alt="image" src="https://user-images.githubusercontent.com/19309110/216623824-76692dd8-e623-4fe1-89fe-f03e4e144b5d.png">
+<img width="1228" alt="image" src="https://user-images.githubusercontent.com/19309110/216624324-ac6861f4-0a8a-40bf-859c-ac7d1824ce84.png">
 
 
 # Background and References
