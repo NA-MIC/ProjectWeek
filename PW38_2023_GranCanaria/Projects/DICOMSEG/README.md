@@ -36,9 +36,6 @@ Consider proposals to improve the standard to address any inherent issues.
 
 ## Progress and Next Steps
 
-
-![image](https://user-images.githubusercontent.com/126077/216361639-a7d4aa90-1742-4681-b6cd-e78f15dce4cd.png)
-
 Performed timings with various methods to load segmentations in Slicer
 
 * Quantitative Reporting: 4 minutes
@@ -50,6 +47,36 @@ We had several conversations about the importance of DICOM for organizing derive
 In discussion with machine learning researchers, e.g. developers and users of tools like TotalSegmentator, the number of segments is set increase rapidly, perhaps doubling within months to 200 or more, and with over 1000 segments expected within a year.
 
 # Illustrations
+
+![image](https://user-images.githubusercontent.com/126077/216361639-a7d4aa90-1742-4681-b6cd-e78f15dce4cd.png)
+
+Example code to load with `pydicom-seg` vi Slicer 5.2.1 python console:
+```
+try:
+	import pydicom_seg
+except ModuleNotFoundError:
+	pip_install("pydicom_seg")
+
+import pydicom
+import pydicom_seg
+import SimpleITK as sitk
+
+dcm = pydicom.dcmread('/Users/pieper/slicer/latest/pydicom-seg/ABD_LYMPH_008_SEG.dcm') # 19 seconds
+
+reader = pydicom_seg.MultiClassReader()
+result = reader.read(dcm)
+
+image_data = result.data  # directly available
+image = result.image  # lazy construction
+
+sitk.WriteImage(image, '/tmp/segmentation.nrrd', True)
+seg = slicer.util.loadSegmentation('/tmp/segmentation.nrrd')
+
+for segmentID in seg.GetSegmentation().GetSegmentIDs():
+	segmentIndex = int(segmentID.split("_")[1])
+	description = result.segment_infos[segmentIndex].SegmentDescription
+	seg.GetSegmentation().GetSegment(segmentID).SetName(description)
+```
 
 # Background and References
 
