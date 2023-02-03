@@ -6,12 +6,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Marco Nolden (German Cancer Research Center, Helmholtz Metadata Collaboration, Germany)
 - Andrey Fedorov (Brigham and Women’s Hospital, USA)
+- Paolo Zaffino (Magna Graecia University of Catanzaro, Italy)
+- Maria Francesca Spadea (Institute of Biomedical Engineering, KIT - Karlsruher Institut für Technologie, Germany)
 
 # Project Description
 
 **“Metadata is a love note to the future”**
 
-Jason Scott
+ - Jason Scott
 
 The [Helmholtz Metadata Collaboration](https://helmholtz-metadaten.de/en) is a cross-domain initiative across the whole Helmholtz Association, which is the largest funding agency in Germany. It follows the goal to develop and establish novel methods and tools documenting and sharing research data by means of enriched metadata, as well as improved interoperability of data across disciplines. The Hub Health of this initiative is anchored in the Division of Medical Image Computing at the German Cancer Research Center Heidelberg.
 
@@ -38,17 +40,16 @@ Common standards, tools and practices can make interoperability much easier. Wit
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Have a walkthrough of the IDC project and tech stack - starting from this introductory tutorial series in IDC: [https://github.com/ImagingDataCommons/IDC-Examples/tree/master/notebooks/getting_started](https://github.com/ImagingDataCommons/IDC-Examples/tree/master/notebooks/getting_started)
-2. ...
-3. ...
-4. ...
+2. Discuss best practices of data sharing with project attendees.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Marco completed [IDC getting started tutorial](https://github.com/ImagingDataCommons/IDC-Examples/tree/master/notebooks/getting_started)
+1. Set up cloud project for experimentation, Andrey added Marco to a project that has billing set up.
+1. Worked on exploring BigQuery for querying of IDC data and exporting metadata into JSON for exploration outside of IDC.
+2. Met with Paolo Zaffino and Maria Francesca Spadea to discuss recommended practices for data sharing (representation, repositories, issues related to de-identification).
 
 # Illustrations
 
