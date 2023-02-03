@@ -49,6 +49,7 @@ This extension will also be used in a new module dedicated to assist the DBS tar
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+!<img alt="MarkupEditorUpdate" src="MarkupEditorUpdate.png" width="500"/>
 
 # Background and References
 
