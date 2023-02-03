@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Sam Horvath (Kitware)
 - Kevin Cleay (CNMC)
-- Karun SHarma (CNMC)
+- Karun Sharma (CNMC)
 
 # Project Description
 
@@ -31,8 +31,8 @@ This is an on-going project to develop a kidney biopsy trainer based on 3D Slice
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
+1. Didn't get much done on the acutal coding.
+1. Talked to a lot of people who were interested in the IMSTK package
 1. ...
 
 # Illustrations
@@ -47,3 +47,6 @@ This is an on-going project to develop a kidney biopsy trainer based on 3D Slice
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+- [SlicerIMSTK Extension](https://github.com/KitwareMedical/SlicerIMSTK)
+- [IMSTk](https://www.imstk.org/)
