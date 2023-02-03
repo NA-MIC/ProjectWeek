@@ -48,12 +48,25 @@ Related to [Fast viewing and tagging of DICOM Images](../KaapanaFastViewingAndTa
 
 ## Progress and Next Steps
 
-1. Hans has access to some(?) kaapana installation at MEVIS (from the RACOON project).
-2. Hans has learned from Stefan about the current process / integration of the Meta dashboard in kaapana, and about its code location(s).
-3. Hans wrote a MeVisLab module "DICOMTree2JSON" that mimicks what dcm2json does and converts in-memory DICOM information into JSON. (The output has been verified to be "mostly identical" except for the pixel data which is not dumped. Other exceptions are integer "1\u0000" -> 1, for instance.)
-4. "DICOMTree2JSON" can also decompose volumes that MeVisLab's DirectDicomImport has composed into a multiframe representation.
-5. Kaapana's dashboard defaults to documents on the series level (but the code would also support SOPInstances / single frames). Hans is using MeVisLab's / SATORI's image level, which can be both below or above the series level, depending on the import configuration (e.g., composing DCE-MRI volumes from multiple images). Of course, this needs to be taken into account when configuring the dashboard.
-6. Kibana nicely allows filtering on any level (patient / study / series / image properties), but the dashboard will only list the number of patients that contain an image matching a certain criterion, not the patients that contain *only* images matching a criterion. A query such as "give me all patients that have at least two timepoints with a T1 and a T2 weighted image" does not seem to be possible.
+1. Hans has learned (mostly from Stefan) much about the current process / integration of the Meta dashboard in kaapana, and about its code location(s).  Many things have been **documented on this page** to help others as well.
+2. Hans spent a lot of time reviewing Kaapana code and opened a pull request with a few refactoring steps (https://github.com/kaapana/kaapana/pull/13).
+3. Hans wrote a **MeVisLab module "DICOMTree2JSON" that mimicks what dcm2json does** and converts in-memory DICOM information into JSON. (The output has been verified to be "mostly identical" except for the pixel data which is not dumped. Other exceptions are integer "1\u0000" -> 1, for instance.)
+4. Kaapana's dashboard defaults to documents on the series level (but the code would also support SOPInstances / single frames). Hans is using **MeVisLab's / SATORI's image level, which can be both below or above the series level**, depending on the import configuration (e.g., composing DCE-MRI volumes from multiple images). Of course, this needs to be taken into account when configuring the dashboard.
+5. Kibana nicely allows filtering on any level (patient / study / series / image properties), but the dashboard will only list the number of patients that contain an image matching a certain criterion, not the patients that contain *only* images matching a criterion. A query such as "give me all patients that have at least two timepoints with a T1 and a T2 weighted image" does not seem to be possible. There seem to be more complex aggregation options in OpenSearch, however, so it remains to be investigated if that could be implemented as well.
+
+# Illustrations
+
+Screenshot of resulting meta dashboard with data ingested from a MeVisLab-based SATORI workspace:
+
+![Kibana dashboard showing information about 18,613 images](meta_dashboard_wth_MeVisLab_data.png)
+
+# Background and References
+
+General information / pointers:
+
+- There is a [dag_service_extract_metadata.py](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/dags/dag_service_extract_metadata.py) which is responsible for the metadata extraction.
+- That dag uses a [LocalDcm2JsonOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalDcm2JsonOperator.py) and [LocalJson2MetaOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalJson2MetaOperator.py) which seem to be the most important classes to look at.
+- [LocalTaggingOperator](https://github.com/kaapana/kaapana/blob/master/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalTaggingOperator.py) could also be relevant / interesting? This operator manages a set (/list) of tags per document in the meta index (cf. attribute `dataset_tags_keyword`). It is possible to add/remove tags, they can come from JSON files, and it is possible to read DICOM tags (e.g., ClinicalTrialProtocolID) into tags.
 
 Reviewing LocalDcm2JsonOperator revealed the following functionality (not complete):
 
@@ -75,18 +88,3 @@ Summary of steps I performed in order:
 - Exported dcm2json-like information from MeVisLab, with the new module I developed for that purpose
 - Ran a small hacked together supplement of the LocalDcm2JsonOperator on my exported files (see the above summary of its functionality).
 - This already allows to play with the dashboard.  What's not working yet is the cohort definition.
-
-# Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
-
-# Background and References
-
-- There is a [dag_service_extract_metadata.py](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/dags/dag_service_extract_metadata.py) which is responsible for the metadata extraction.
-- That dag uses a [LocalDcm2JsonOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalDcm2JsonOperator.py) and [LocalJson2MetaOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalJson2MetaOperator.py) which seem to be the most important classes to look at.
-- [LocalTaggingOperator](https://github.com/kaapana/kaapana/blob/master/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalTaggingOperator.py) could also be relevant / interesting? This operator manages a set (/list) of tags per document in the meta index (cf. attribute `dataset_tags_keyword`). It is possible to add/remove tags, they can come from JSON files, and it is possible to read DICOM tags (e.g., ClinicalTrialProtocolID) into tags.
-- [Kaapana docs](https://kaapana.readthedocs.io/en/stable/intro_kaapana.html#what-is-kaapana)
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
