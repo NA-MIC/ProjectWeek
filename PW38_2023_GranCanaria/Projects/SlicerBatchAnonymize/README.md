@@ -44,7 +44,7 @@ The tool currently provies a user-friendly UI, supports export to several popula
 
 # Illustrations
 
-<img width="896" alt="image" src="https://user-images.githubusercontent.com/22948571/216630881-0f29f3b4-0e5a-4238-8a72-bf6bcf1a6891.png">
+![image](https://user-images.githubusercontent.com/22948571/216633374-31240755-bcee-4c77-919a-ad39685ac71e.png)
 SlicerBatchAnonymizeScreenshot
 
 <img width="553" alt="image" src="https://user-images.githubusercontent.com/22948571/216630590-8b9a1944-b117-4e74-a21c-0a94772ff704.png">
@@ -53,4 +53,10 @@ CBCT Defacing pipeline
 <img width="398" alt="image" src="https://user-images.githubusercontent.com/22948571/216632071-2f5480c5-73e7-465a-bb9d-bba39e8f193c.png">
 Examples of CBCT defacint screenshots for evaluation
 
+# Slicer Extension link:
+[SlicerBatchAnonymize Slicer extension](https://github.com/hina-shah/SlicerBatchAnonymize)
+
+[SlicerBatchAnonymize tutorial video](https://www.youtube.com/watch?v=2o8TInbGmRE)
+
+[DICOM standard guidelines for multi-frame volume generation](https://www.dicomstandard.org/docs/librariesprovider2/dicomdocuments/wp-cotent/uploads/2018/10/day1_s9-solomon-multiframe.pdf?sfvrsn=f07da5a4_2)
 
