@@ -50,14 +50,15 @@ The project is funded through two Essential Open Source Software for Science awa
 
 - Non-translatable text in Welcome module: fix submitted <https://github.com/Slicer/Slicer/pull/6810>
 - List of languages in the Weblate / Languages combobox are now populated by querying the server <https://github.com/Slicer/SlicerLanguagePacks/commit/acffb3670bcaa77beb40759e7125a79f1a179cb1>
+- New translations to Spanish, Portuguese, Farsi and Hungarian
 
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Examples of localization of the Volumes module to French, Chinese and Japanese](SlicerInternationalization.png)
+<!-- Add pictures and links to videos that demonstrate what has been accomplished.-->
+![Translation of Slicer Welcome module to French, Spanish, Portuguese and Hungarian](PW38_SlicerInternationalization.png)
 
--->
+
 
 # Background and References
 

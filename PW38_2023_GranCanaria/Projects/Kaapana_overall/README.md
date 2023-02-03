@@ -58,8 +58,11 @@ In this project current, perspective and aspiring users of Kaapana will have the
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Andrey is working on setting up Kaapana on the linux laptop he plans to bring along.
-1. Andrey is setting up a GCP project to share with the Kaapana developers for experimentation.
+1. Set up latest kaapana `develop` instance on a linux laptop that was then used for development.
+2. GCP GKE was used by Jonas to investigate deployment on GKE.
+3. Debugged, finalized and tested 3D Slicer extension, integrated into Kaapana in this PR: [https://github.com/kaapana/kaapana/pull/14](https://github.com/kaapana/kaapana/pull/14)
+4. Discussed specific steps towards addressing the topics of interest discussed above, notes added in the above. 
+5. Work on the topics above to continue after the PW!
 
 # Illustrations
 

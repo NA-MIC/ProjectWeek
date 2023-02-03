@@ -58,6 +58,7 @@ We create a new resection surface generated directly from a curved contour; this
 
 # Resectogram
 We create Real-time 2D resection risk map: which extracts functional information in real-time from the intersection between the 3D resection surface and liver model and then maps it onto a 2D map, resulting in quicker risk analysis with less cognitive cost while planning the surgery.
+
 <img width="50%" alt="resectogram" src= "https://user-images.githubusercontent.com/75131750/216590392-62093987-8c14-4e43-88ad-4215a9764766.gif">
 
 ## Lung Surgery Planning with Rudolf Bumm

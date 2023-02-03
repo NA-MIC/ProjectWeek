@@ -40,16 +40,39 @@ In this project we want to investigate the use of existing VolView instance main
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Set up public bucket, so far changes to CORS do not seem to have effect, but maybe we did not wait long enough...
-1. ...
-1. ...
-
+1. Defined steps for setting up GCS bucket to be accessible by VolView, defined the format of the manifest:
+  * install GCP SDK (or use Colab), initialize GCP, create project, set up billing (billing required for creating buckets!) - can use [this IDC tutorial](https://github.com/ImagingDataCommons/IDC-Examples/blob/master/notebooks/getting_started/part1_prerequisites.ipynb)
+  * Create a public GCS storage bucket
+  * Set up CORS configuration using these settings:
+  ```
+  [
+    {
+      "origin": ["https://volview.netlify.app/"],
+      "method": ["*"],
+      "responseHeader": ["Content-Type"],
+      "maxAgeSeconds": 3600
+    }
+  ]
+  ```
+  * update CORS configuration for the bucket using this command:
+  ```$ gcloud storage buckets update gs://<YOUR_BUCKET> --cors-file=./idc-volview-pilot-cors.json```
+    * you may need to wait for several hours for the CORS configuration to propagate
+  * create JSON manifest that refers to the files corresponding to the specific study/series in your bucket that you want to visualize in VolView using this format, and put the manifest in the bucket alongside the files:
+  ```
+  {"resources":[{"url":"gs://<YOUR_BUCKET>/lymph/000cdc4d-7700-46be-82ec-7eff30eacd63.dcm"},{"url":"gs://<YOUR_BUCKET>/lymph/00187779-6957-48c5-ad00-8aeaa8f34642.dcm"},{"url":"gs://<YOUR_BUCKET>/lymph/0024f696-98a8-4251-8702-c9bb690e281a.dcm"},{"url":"gs://<YOUR_BUCKET>//lymph/00c78534-a63f-46cd-abbc-32003a58d3ec.dcm"},{"url":"gs://<YOUR_BUCKET>//lymph/01e2fad8-386b-4e04-8a74-9f52c9af9919.dcm"}
+  [...]
+  ```
+  * when CORS config is propagated, you should be able to open the images in Kitware hosted VolView instance using this URL format: `https://volview.netlify.app/?urls=https://storage.googleapis.com/<YOUR_BUCKET>/<YOUR_MANIFEST>.json`
+  2. Reached out to Google Public Datasets Program support asking if CORS can be configured for the public IDC buckets to allow GET from VolView, waiting for the response.
+  
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+
+![CT series in GCS bucket loaded in VolView via manifest in GCS bucket](https://github.com/NA-MIC/ProjectWeek/raw/master/PW38_2023_GranCanaria/Projects/IDC_with_VolView/gcs-bucket-volview.gif) Link to try out: [https://volview.netlify.app/?urls=https://storage.googleapis.com/idc-volview-pilot/idc-test.json](https://volview.netlify.app/?urls=https://storage.googleapis.com/idc-volview-pilot/idc-test.json)
 
 # Background and References
 

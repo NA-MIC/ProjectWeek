@@ -39,16 +39,17 @@ This extension will also be used in a new module dedicated to assist the DBS tar
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Firt prototype Module
+2. Launch Atlats Yeb Registration from Docker Image (and not from API)
+1. to be continued
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+<!-- Add pictures and links to videos that demonstrate what has been accomplished.-->
+[AtlasYEB Registration Result](FromAtlasYEBRegistration.png)
+[Inmporting Models to Segmentation Objects](AtlasYEBSEg.png)
+
+
 
 # Background and References
 

@@ -39,6 +39,7 @@ Consider proposals to improve the standard to address any inherent issues.
 Performed timings with various methods to load segmentations in Slicer
 
 * Quantitative Reporting: 4 minutes
+  * the underlying issue is due to saving each segment into separate file by dcmqi, this issue is being addressed in [https://github.com/QIICR/dcmqi/pull/464](https://github.com/QIICR/dcmqi/pull/464)
 * pydicom-seg: 15 seconds
 * seg.nrrd: .6 second
 

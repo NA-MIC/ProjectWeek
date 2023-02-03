@@ -33,14 +33,14 @@ We hold weekly preparation meetings at 10am on Tuesdays, starting November 29, 2
 <img alt="PW 38 floor plan" src="pw38-floor-plan.png" width="500"/>
 
 * **Monday Jan 30th**
-  * In person attendees can start setting up their computers and material, meeting with their teams and doing a last pass at the project pages from 9am (Las Palmas time) in the Working area. 
+  * In person attendees can start setting up their computers and material, meeting with their teams and doing a last pass at the project pages from 9am (Las Palmas time) in the Working area.
   * Remote attendees are encouraged to do the same on Discord if in a time zone that makes it possible.
 * **Project presentations**
-  * Start at 9am, EST (2pm in Las Palmas). 
+  * Start at 9am, EST (2pm in Las Palmas).
   * Takes place in the main hall for in person attendees and is streamed on Zoom for remote attendees (same zoom link as for preparation meetings).
   * Each team delegates a member to present their project in no more than 90 seconds using no other visual support than the project page on GitHub (no time to switch screen sharing).
 * **Breakout sessions**
-  * Start every day at 11am EST (4pm in Las Palmas) 
+  * Start every day at 11am EST (4pm in Las Palmas)
   * Streamed on Zoom (same link as for project presentation and preparation meetings)
 * **Work in project teams**
   * Starts at 4am EST (9am in Las Palmas) on Monday
@@ -49,7 +49,7 @@ We hold weekly preparation meetings at 10am on Tuesdays, starting November 29, 2
   * Communication between team members takes place on Discord, in the work area, or both depending on where the team members are located
   * The CreateEvent function on Discord can be used to plan a meeting (and inform other PW attendees about it)
 * **Project results presentation**
-  * Friday 9am EST, 2pm in Las Palmas. 
+  * Friday 9am EST, 2pm in Las Palmas.
   * Same format as for project presentation
 
 ##  Agenda
@@ -81,7 +81,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 [Developing and using anatomy atlases](Projects/BreakoutSession-Atlases.md) (Michael Halle and friends)
 
 [NCI Imaging Data Commons workshop/tutorial](https://docs.google.com/document/d/1HMmqVXSshEHf90Vu9LORaXVuoSpJzKxy7StrMBqfSdQ/edit?usp=sharing) (Andrey Fedorov and IDC team)
-   
+
 Kaapana workshop (Markus Bujotzek and Kaapana team)
 
 ## Projects [(How to add a new project?)](Projects/Readme.md)
@@ -124,7 +124,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [Development of Anatomy Atlases and Training Tools with 3D Slicer](Projects/TTTAtlas/README.md) (**Juan Ruiz**, Idafen Santana, Mario Monzón) *[On site]*
 
 1. [Integration of infrared, ultraviolet and hyperspectral sensors in Slicer via Plus Toolkit  and OpenIGTLink.](Projects/MultiSpectralSensorIntegration/README.md) (**Francisco J. Marcano Serrano**) *[??]*
-   
+
 1. [Ibis in Slicer](Projects/IbisInSlicer/README.md) (**Étienne Léger**, Houssem Eddine Gueziri, Simon Drouinb) *[On site]*
 
 ### Segmentation / Classification / Landmarking
@@ -133,7 +133,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md) (**Deepa Krishnaswamy**, Cosmin Ciausu, Nazim Haouchine, Andres Diaz-Pinto, Jesse Tetreault, Roya Hajavi, Stephen Aylward, Steve Pieper, Andrey Fedorov) *[On site]*
 
 1. [HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](Projects/MONAI_IDC_PCa_detection/README.md) (**Cosmin Ciausu**, Deepa Krishnaswamy, Patrick Remerscheid, Tina Kapur, Sandy Wells, Andrey Fedorov, Khaled Younis) *[On site]*
-   
+
 1. [Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation/README.md) (**David García**, Yucheng Tang, Andres Diaz, Daniel Palkovics, Csaba Pinter, Attila Nagy, Brianna Burton) *[On site]*
 
 1. [Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI/README.md) (**María Rosa Rodríguez**, Tamas Ungi, David García, Chris Yeung) *[On site]*
@@ -207,7 +207,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [SystoleOS](Projects/SystoleOS/README.md) (**Rafael Palomar**, Steve Pieper) *[On site]*
 
-1. [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (**Sonia Pujol**, Steve Pieper, Andras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Ahmedou Moulaye Idriss, Yahya Tfeil, Adriana H. Vilchis González, Luiz Otavio Murta Junior) *[On site and online]*
+1. [3D Slicer Internationalization](Projects/3DSlicerInternationalization/README.md) (**Sonia Pujol**, Steve Pieper, Andras Lasso, Mamadou Camara, Mouhamed DIOP, Adama Wade, Mohamed Alalli Bilal, Ahmedou Moulaye Idriss, Yahya Tfeil, Adriana H. Vilchis González, Luiz Otavio Murta Junior, Attila Tanács, Attila Nagy) *[On site and online]*
 
 1. [Active Viewport](Projects/SlicerActiveViewport/README.md) (**Davide Punzo**, Andras Lasso) *[On site]*
 
@@ -480,6 +480,8 @@ List of registered participants so far (names will be added here after processin
 1. David Molony, USA, (Online)
 1. Juan Carlos Avila Vilchis, Mexico, (Online)
 1. David Molony, USA, (Online)
+1. Hui Liu, China, (Online)
+1. Dan Rukas, USA, (Online)
 
 <!-- Participants list end -->
 
