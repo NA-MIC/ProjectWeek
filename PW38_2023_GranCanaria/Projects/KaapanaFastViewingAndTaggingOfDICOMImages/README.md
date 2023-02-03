@@ -10,28 +10,17 @@ https://drive.google.com/file/d/1A7-8Ru0uTJHFFa17rZtkBpvNhJao_F7x/view?usp=share
 - Stefan Denner (German Cancer Research Center, Germany)
 - Klaus Kades (German Cancer Research Center, Germany)
 - Andrey Fedorov (Brigham and Women's Hospital, USA)
+- Davide Punzo (Freelancer, France)
+- Alireza Sedghi (Radical Imaging)
 
 # Project Description
 
-Creating a cohort or tagging DICOM images can be very time-consuming.
-In this project, we are working on solutions to facilitate the process.
+Creating a cohort or tagging DICOM images is a very time-consuming and error-prone procedure.
+In this project, we are extending the functionality of the so-called Gallery View within Kaapana. 
 
 ![](NA-MIC.gif)
 
-## Objective
-
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
-1. Improving the Gallery view (see video above) in Kaapana in cooperation with other participants
-2. Interacting native DICOM image support into the annotation tool [Doccano](https://github.com/doccano/doccano)
-3. Discussion: DICOM Dashboard Setup (somewhat) related to this: in IDC we have been using Google DataStudio / Looker, and Apache Superset (to a lesser degree) - can discuss
-
-Relate to:
-- [Kaapana overall](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/Kaapana_overall)
-
 ## Approach and Plan
-
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 The Gallery View is part of the kaapana open source toolkit and is based on open source tools such as 
 OpenSearch, dcm4chee, dcmjs and Cornerstone.js.
@@ -50,20 +39,20 @@ If you have any ideas in mind, please feel free to contact us (-> stefan.denner@
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+- Upgraded Cornerstone to Cornerstone3D with the great help of Alireza and Davide
+- Proof of Concept for creating segmentation thumbnails in the Gallery View
+- Proof of Concept for multi select of items
+- Proof of concept virtual scrolling to improve performance
 
-1. tbd
+TODO: 
+- Cleanup and integrate into kaapana code base
+- Add segmentation support to Cornerstone3D viewer
+- Store segmentation thumbnails to S3 bucket to load them from there. 
 
 # Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
 
 tbd
 
 # Background and References
 
-tbd
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+https://github.com/kaapana/kaapana
