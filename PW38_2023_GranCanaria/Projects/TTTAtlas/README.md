@@ -136,6 +136,11 @@ This project aims to provide the tools and knowledge for generating a comprehens
 - Image #4 - Human Viewer - Three.JS performance test
 <img width="1512" alt="WebHumanViewer" src="https://user-images.githubusercontent.com/5611348/216622739-12c0afa8-6df4-43bf-8833-5499042bc608.png">
 
+- Image #5 - Segmentation by Babacar Diao
+<img width="447" alt="Capture d’eěcran 2023-02-03 aĚ 13 45 07" src="https://user-images.githubusercontent.com/5611348/216623961-4f78d948-266d-4c76-a896-8031e14919db.png">
+
+- Image #6 - Segmentation by Babacar Diao
+<img width="458" alt="Capture d’eěcran 2023-02-03 aĚ 13 45 20" src="https://user-images.githubusercontent.com/5611348/216623977-a06ac15e-e7b5-4658-b356-ca36db389cb6.png">
 
 # Background and References
 - Last two years we have been working with anatomic 3d models to create educative experiences like VRAINS (VR Anatomic atlas - ULPGC) and AVRIR (Collaborative VR dissection - ULPGC) using OpenAnatomy and z-Anatomy content imported into Unity3D.
