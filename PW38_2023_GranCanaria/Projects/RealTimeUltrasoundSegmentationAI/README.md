@@ -30,26 +30,51 @@ In addition, we will discuss further improvements for this module. For instance,
 
 ## Objective
 
-1. Adapt the previous module to support models trained with PyTorch
+1. Adapt the current "Segmentation U-Net" module to support models trained with PyTorch
 2. Automatically display the AI segmentation overlayed on the input ultrasound image 
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Integrate a TensorFlow/PyTorch model selector, so the module would automatically use the one give by the user
+1. Develop the image pre-and post-processing required by the PyTorch model 
+1. Record an ultrasound image stream and run the inference in real time using a PyTorch model
+1. Apply the selected prediction transform on the output volume automatically 
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+1. The module uses the file extension to know the model framework (.h5 for TensorFlow and .pth or .pt for PyTorch) and execute the corresponding actions in each case
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+<img src="https://user-images.githubusercontent.com/104084765/216464220-a88c58f6-99fc-4db8-b18f-6a92d04387f4.gif" width="450">
+
+2. We have recorded a stream from a breast ultrasound phantom where an inclusion that simulates injured tissue is shown. A PyTorch model previously trained with the [Dataset BUSI](https://www.sciencedirect.com/science/article/pii/S2352340919312181) was used to run the inference for the real-time segmentation.
+
+* Original stream recorded:
+
+<img src="https://user-images.githubusercontent.com/104084765/216470636-3e6cfdce-5dbf-40fd-a7a6-b8c69b77143a.gif" width="500">
+
+
+* Steps to run the inference and visualize the predicted segmentation with this new version of the "Segmentation U-Net" module:
+
+<img src="https://user-images.githubusercontent.com/104084765/216473923-ef5ba058-0b96-42be-879e-ebf7c651acd3.gif" width="800">
+
+
+* Lesion reconstruction using _Volume Reconstruction_ and _Volume Rendering_  modules:
+
+<img src="https://user-images.githubusercontent.com/104084765/216473931-38878234-5e09-4376-8bdd-fa2f1dc853f2.gif" width="650">
+
+3. When we the box "Use separate process for prediction" is not checked, we automatically apply the prediction transform selected and display the AI segmentation overlayed on the input ultrasound image (as it was shown before). When this box is checked, the input stream and the prediction have different frame rate and it is more convenient to visualize the prediction in a different view, so we should make it visible manually.
+
+
+**Next Steps**
+
+* Currently, it is required to define the PyTorch network and load only the trained weights. To make the module more flexible it is desired to directly load the complete model (as it is done in the case of TensorFlow).
+
+* The pre-and post-processings steps have been defined according to the process carried out to train the PyTorch model used in this case. However, these steps should be more generalized to work with different models.
+
+* PyTorch models are only supported when we use the same process for prediction (the check box is not selected), so it is necessary to improve this. 
 
 # Illustrations
+Previous work:
 
 <p float="left">
  <img  src="https://user-images.githubusercontent.com/104084765/215072656-7325329f-34ee-4a05-8ada-1f7771fece43.gif" width="400">
