@@ -52,6 +52,8 @@ In this project we want to explore the process of converting MONAI Label trained
 5. Now we want to test on data from IDC (NSCLC-Radiomics patient that has some ground truth segmentation). Unfortunately we are getting a lot of CUDA memory errors since these datasets are a lot larger than the spleen dataset we previously tested on. We're working on making changes to the inference.json file and are trying to crop the images before inference. 
 6. Future work involves solving these memory errors, saving the output as DICOM SEG, and a more thorough comparison between the MONAI bundle and TotalSegmentator output. Testing on large collections and comparing to the ground truth segmentations is also part of the future work. 
 
+Github repo: https://github.com/deepakri201/monai_full_ct_segmentation_bundle
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
@@ -96,7 +98,7 @@ Figure 4 - Comparison on IDC data of the MONAI full CT segmentation bundle we cr
 7. I'm able to get the inference to work for the above! (image below). We had to remove the Orientationd transform. We will test on more data and start looking into vertebrae segmentation pipeline. 
 
 # Background and References
-
+- [Github repo](https://github.com/deepakri201/monai_full_ct_segmentation_bundle)
 - [NCI Imaging Data Commons](https://portal.imaging.datacommons.cancer.gov/)
 - [MONAI bundle docs](https://github.com/Project-MONAI/tutorials/blob/main/bundle/get_started.md)
 - [MONAI Label app for vertebrae segmentation](https://github.com/Project-MONAI/MONAILabel/blob/fullCTSegmentation/sample-apps/radiology/lib/configs/segmentation_full_CT.py)
