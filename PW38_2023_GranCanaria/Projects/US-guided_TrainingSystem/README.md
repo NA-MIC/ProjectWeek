@@ -39,7 +39,7 @@ of a CNB procedure. However, a quantitative analysis is required. For this reaso
 6. Extension implementation pending  
 
 # Illustrations
-![NAMIC_Final_image](https://user-images.githubusercontent.com/40359004/216602062-059faa73-95e9-4e45-886c-19dda4977901.png)
+<img src="https://user-images.githubusercontent.com/40359004/216602062-059faa73-95e9-4e45-886c-19dda4977901.png" width="965"/>
 
 ![](https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/US-guided_TrainingSystem/NAMIC_Demo_0.gif)
 ![](https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/US-guided_TrainingSystem/NAMIC_Demo_1.gif)
