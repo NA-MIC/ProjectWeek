@@ -47,12 +47,13 @@ extension.  We would like to discuss future plans for the Surface Markups extens
 
 1. Baseline prototype of python module for landmark linking complete.
 2. Markup Editor fixes and updates committed to the SlicerMorph repository.
-2. Further develop plans based on productive work and conversations this week :wrench:
+3. Follow up with SlicerHeart team regarding SurfaceMarkup prototype
+4. Further develop plans based on productive work and conversations this week :wrench:
 
 
 # Illustrations
-[Description of picture]<img alt="MarkupEditorUpdate" src="MarkupEditorUpdate.png" width="500"/>
-[Description of picture]<img alt="NodeLinkPrototype" src="NodeLinkPrototype.png" width="500"/>
+<img alt="MarkupEditorUpdate" src="MarkupEditorUpdate.png" width="500"/>
+<img alt="NodeLinkPrototype" src="NodeLinkPrototype.png" width="500"/>
 <img alt="Automated landmarks on two specimens" src="SLM_image.gif" width="500"/>
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
