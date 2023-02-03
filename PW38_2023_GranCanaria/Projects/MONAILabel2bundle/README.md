@@ -48,8 +48,8 @@ In this project we want to explore the process of converting MONAI Label trained
 1. We decided instead to convert the full CT segmentation MONAI label app from Andres to a bundle, as it has a single stage compared to the 3 stage vertebare pipeline. This model was trained on TotalSegmentator data and used a SegResNet architecture. 
 2. We were able to convert the app to a bundle for inference! We had to modify a few transforms for orientation. Now you can use a single command to run inference instead of manually opening 3DSlicer and choosing data to run on. 
 3. We tested the bundle on a spleen dataset from decathalon data (Figure 1 below). 
-4. We can compare this approach to actual TotalSegmentator segmentation 
-5. Now we want to test on data from IDC (NSCLC-Radiomics patient that has some ground truth segmentation). Unfortunately we are getting a lot of CUDA memory errors since these datasets are a lot larger than the spleen dataset we previously tested on. We're working on making changes to the inference.json file and are trying to crop the images before inference. 
+4. We can compare this approach to actual TotalSegmentator segmentation (Figure 2 below)
+5. Now we want to test on data from IDC (NSCLC-Radiomics patient that has some ground truth segmentation). Unfortunately we are getting a lot of CUDA memory errors since these datasets are a lot larger than the spleen dataset we previously tested on. We're working on making changes to the inference.json file and are trying to crop the images before inference. (Figures 3 and 4)
 6. Future work involves solving these memory errors, saving the output as DICOM SEG, and a more thorough comparison between the MONAI bundle and TotalSegmentator output. Testing on large collections and comparing to the ground truth segmentations is also part of the future work. 
 
 Github repo: https://github.com/deepakri201/monai_full_ct_segmentation_bundle
