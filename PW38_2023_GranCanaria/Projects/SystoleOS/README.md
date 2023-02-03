@@ -83,6 +83,10 @@ as well as the integration of allied technologies:
 
 ## Progress and Next Steps
 
+### Development environments
+
+![SystoleOS utility boxes and development environments](systoleos_dev_envs.png)
+
 # Background and References
 1. [SystoleOS project in PW37](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SystoleOS)
 
