@@ -25,9 +25,6 @@ A basis of this project provides the DICOM WSI support in the Kaapana platform, 
 
 
 
-
-
-
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
@@ -51,9 +48,9 @@ A basis of this project provides the DICOM WSI support in the Kaapana platform, 
 1. Had a project kick-off meeting to discuss the plan.
    * Agreed for Max and Andrey will work to set up initial part of the colab notebook that searches and downloads WSI from IDC and extracts tiles, then this can be used both by Max and Curt for workflow development
    * Agreed to use Colab notebook to set up conversion pipeline using David and google converter
-2. Curt Tested multiple DICOM-WSI converters using a pyramidal Aperio cancer image from NCI.  Both Google's wsi2dicom and the wsidicomizer converted the image, but   **wsidicomizer** did a better job including DICOM metadata. (See high-res example inset below)
-3. A pyramidal whole slide image becomes a set of DICOM images, one file per level of the pyramid.  DICOM header information connect the files together. Not all conversions agreed on the number of pyramid levels, but wsidicomizer preserved all levels. 
-5. ...
+2. Curt and David tested three DICOM-WSI converters (PixelMed's converter, Google's wsi2dcm, and the wsidicomizer) using a pyramidal Aperio cancer image from NCI.  All converters were able to run on the image, but produced varying results. PixelMed produced the most complete set of layers and DICOM tags with **wsidicomizer** second and Google's converter coming in third place. (See the high-res example inset below)
+3. We made good progress adapting a pretrained tissue segmentation algorithm developed by NCI to run on the DICOM-WSI source images instead of the proprietary original format the model was designed for.  This effort will contue after the project week.  Some WSIs are compressed with JPEG2000, which can present decompression problems. 
+4. ...
 
 # Illustrations
 A small feature preserved correctly at 40x resolution by **wsidicomizer**
