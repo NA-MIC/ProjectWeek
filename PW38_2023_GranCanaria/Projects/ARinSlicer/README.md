@@ -58,7 +58,8 @@ Transfer of images from 3D Slicer to HoloLens 2:
 
 
 ## Outcomes
-Use this system for multiple HL2 interaction
+Use this system for multiple HL2 interaction:
+
 ![Interaction2HL2_Simon_GIF](https://user-images.githubusercontent.com/66890913/216575916-e37b6a07-aab1-4710-b709-21ce56271eeb.gif)
 
 
