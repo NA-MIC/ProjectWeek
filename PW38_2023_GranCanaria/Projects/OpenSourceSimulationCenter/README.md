@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Marta Latorre (ULPGC)
 - David Garcia-Mato (Ebatinca S.L.)
 - Javier Gonzalez-Fernandez (ITC)
-- Natalia Arteaga-Marrero (IACtech)
+- Natalia Arteaga-Marrero (IACTEC)
 - Oumar Kane 
 - Ablaye Tacko Diop 
 - Ousmane Dia 
