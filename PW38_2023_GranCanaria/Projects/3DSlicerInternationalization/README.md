@@ -54,10 +54,10 @@ The project is funded through two Essential Open Source Software for Science awa
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Examples of localization of the Volumes module to French, Chinese and Japanese](SlicerInternationalization.png)
+<!-- Add pictures and links to videos that demonstrate what has been accomplished.-->
+![Translation of Slicer Welcome module to French, Spanish, Portuguese and Hungarian](PW38_SlicerInternationalization.png)
 
--->
+
 
 # Background and References
 
