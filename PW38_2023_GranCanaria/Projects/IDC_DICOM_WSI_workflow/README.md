@@ -49,12 +49,12 @@ A basis of this project provides the DICOM WSI support in the Kaapana platform, 
    * Agreed for Max and Andrey will work to set up initial part of the colab notebook that searches and downloads WSI from IDC and extracts tiles, then this can be used both by Max and Curt for workflow development
    * Agreed to use Colab notebook to set up conversion pipeline using David and google converter
 2. Curt and David tested three DICOM-WSI converters (PixelMed's converter, Google's wsi2dcm, and the wsidicomizer) using a pyramidal Aperio cancer image from NCI.  All converters were able to run on the image, but produced varying results. PixelMed produced the most complete set of layers and DICOM tags with **wsidicomizer** second and Google's converter coming in third place. (See the high-res example inset below)
-3. We made good progress adapting a pretrained tissue segmentation algorithm developed by NCI to run on the DICOM-WSI source images instead of the proprietary original format the model was designed for.  This effort will contue after the project week.  Some WSIs are compressed with JPEG2000, which can present decompression problems. 
+3. We made good progress adapting a pretrained tissue segmentation algorithm developed by NCI to run on a converted DICOM-WSI source image instead of the proprietary original format the model was designed for.  (See below for the sample CMU-1 DICOM WSI and the segmentation output generated from the model.)  This effort will contue after the project week.  Some WSIs are compressed with JPEG2000, which can present decompression problems in some conversion packages.
 4. ...
 
 # Illustrations
-A small feature preserved correctly at 40x resolution by **wsidicomizer**
-![High res ROI preserved by conversion](https://user-images.githubusercontent.com/2152950/216401551-d743f74e-b2f5-415d-aadf-f0b0ad1b6643.png)
+
+![pw38-dicom-wsi-conversion-and-model](https://user-images.githubusercontent.com/2152950/216508907-afbc2a5b-f510-4297-95a8-12208afd57b1.png)
 
 
 
