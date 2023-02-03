@@ -67,6 +67,7 @@ General information / pointers:
 - There is a [dag_service_extract_metadata.py](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/dags/dag_service_extract_metadata.py) which is responsible for the metadata extraction.
 - That dag uses a [LocalDcm2JsonOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalDcm2JsonOperator.py) and [LocalJson2MetaOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalJson2MetaOperator.py) which seem to be the most important classes to look at.
 - [LocalTaggingOperator](https://github.com/kaapana/kaapana/blob/master/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalTaggingOperator.py) could also be relevant / interesting? This operator manages a set (/list) of tags per document in the meta index (cf. attribute `dataset_tags_keyword`). It is possible to add/remove tags, they can come from JSON files, and it is possible to read DICOM tags (e.g., ClinicalTrialProtocolID) into tags.
+- The cohort definition is implemented in [kaapana/services/meta/os-dashboards/workflow-trigger](https://github.com/kaapana/kaapana/tree/develop/services/meta/os-dashboards/workflow-trigger) (the name is no longer descriptive for legacy reasons) as a Kibana plugin that triggers a kaapana dag.
 
 Reviewing LocalDcm2JsonOperator revealed the following functionality (not complete):
 
