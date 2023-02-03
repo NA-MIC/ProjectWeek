@@ -39,10 +39,10 @@ of a CNB procedure. However, a quantitative analysis is required. For this reaso
 6. Extension implementation pending  
 
 # Illustrations
-<img src="https://user-images.githubusercontent.com/40359004/212877916-37a7f456-b4fc-4c3a-a1f3-20d6a78f6429.jpeg" width="500"/> <img src="https://user-images.githubusercontent.com/40359004/215514472-93e01065-383e-4e6e-a8c1-346e04bd13b5.PNG" width="500"/> <img src="https://user-images.githubusercontent.com/40359004/216567530-9259eb1b-c8da-4370-9252-b756f9e5f21f.png" width="500"/> 
+<img src="https://user-images.githubusercontent.com/40359004/212877916-37a7f456-b4fc-4c3a-a1f3-20d6a78f6429.jpeg" width="300"/> <img src="https://user-images.githubusercontent.com/40359004/215514472-93e01065-383e-4e6e-a8c1-346e04bd13b5.PNG" width="300"/> <img src="https://user-images.githubusercontent.com/40359004/216567530-9259eb1b-c8da-4370-9252-b756f9e5f21f.png" width="300"/> 
 
-![](PW38_2023_GranCanaria/Projects/US-guided_TrainingSystem/NAMIC_Demo_0.gif)
-![](PW38_2023_GranCanaria/Projects/US-guided_TrainingSystem/NAMIC_Demo_1.gif)
+![](https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/US-guided_TrainingSystem/NAMIC_Demo_0.gif)
+![](https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/US-guided_TrainingSystem/NAMIC_Demo_1.gif)
 
 # Background and References
 
