@@ -32,15 +32,21 @@ What is done so far:
 
 ## Progress and Next Steps
 
-1. We wish to improve the performance of the Fiber ROI selection.
-2. Improve WebXR interface and performance.
+1. We improved the performance of the Fiber ROI selection by downsampling the fibers (see demo below).
+2. Fixed CUDA bug of the neural network model that generates the Nifti files to be visualized.
 
 
 ## Illustrations
 
-####  Current Visualization of the TMS Module in 3DSlicer with Coil and mapping of E-field on brain:
 
-<img src="https://user-images.githubusercontent.com/38534852/204691744-c2ee8451-7f4c-40c3-83a5-c2fd0103f0a7.gif" width="500" alt="SlicerTMS Module with Efield mapped on brain">
+####  Current Visualization of the TMS Module in 3DSlicer with Coil and....
+#### Mapping of E-field on tractography with ROI selection:
+
+<img src="https://user-images.githubusercontent.com/38534852/216506888-347b3a78-21d9-47c2-a32e-26088b7dc08d.gif" width="600" alt="SlicerTMS Module with Efield mapped on fiber tracts">
+
+#### Mapping of E-field on brain surface:
+
+<img src="https://user-images.githubusercontent.com/38534852/204691744-c2ee8451-7f4c-40c3-83a5-c2fd0103f0a7.gif" width="600" alt="SlicerTMS Module with Efield mapped on brain">
 
 
 # Background and References
