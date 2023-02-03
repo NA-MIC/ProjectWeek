@@ -36,7 +36,6 @@ of a CNB procedure. However, a quantitative analysis is required. For this reaso
 3. 3D Models of the equipments --> Biopsy needle (loaded and extended) and Telemed US system
 4. Optitrack + US System setup --> Connection to SLICER via Plus Toolkit using Telemed US System. Issues to connect the Clarius US system to be solved
 5. Preliminar tracking system working --> New calibrations to be performed after upgrading the fixtures
-6. Extension implementation pending  
 
 # Illustrations
 <img src="https://user-images.githubusercontent.com/40359004/216602062-059faa73-95e9-4e45-886c-19dda4977901.png" width="965"/>
