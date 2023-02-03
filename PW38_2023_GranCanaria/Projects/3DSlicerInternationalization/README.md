@@ -15,6 +15,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Yahya Tfeil (Faculty of Medicine of Nouakchott, Mauritania)
 - Adriana H. Vilchis González (Universidad Autónoma del Estado de México, Mexico)
 - Luiz Otavio Murta Junior (University of Sao Paulo, Ribeirao Preto, Brazil)
+- Attila Tanács (University of Szeged, Hungary)
+- Attila Nagy (University of Szeged, Hungary)
 
 # Project Description
 
