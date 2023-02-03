@@ -40,9 +40,13 @@ This projects aims to integrate clinical data better into the Kaapana medical im
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Explored TCIA clinical data collection via IDC and selected [NSCLC-Radiomics]([url](https://wiki.cancerimagingarchive.net/display/Public/NSCLC-Radiomics)) since it contains a csv as well as segmentations to perforem radiomics.
+2. Created a Kaapana Extension for the HAPI FHIR JPA server to store and retreive the resources created in the next steps.
+3. Draft a mapping from the clinical data from NSCLC-Radiomicss into FHIR Resources.
+5. Created Jupyther Notebook to create the the actual resources for imaging and clinical data and import them into the platforms FHIR Server.
+6. WiP: Translate the Jupyther Notebook into Workflow Operators to automate the import
+7. WiP: Wrap Radiomics Features 
+8. WiP: Performe Joint Analysis
 
 # Illustrations
 
@@ -50,6 +54,8 @@ This projects aims to integrate clinical data better into the Kaapana medical im
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+<img width="1228" alt="image" src="https://user-images.githubusercontent.com/19309110/216624324-ac6861f4-0a8a-40bf-859c-ac7d1824ce84.png">
+
 
 # Background and References
 
