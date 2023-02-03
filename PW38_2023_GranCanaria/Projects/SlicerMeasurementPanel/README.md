@@ -18,12 +18,15 @@ Integrate the [PR](https://github.com/Slicer/Slicer/pull/6662) in Slicer core
 
 ## Approach and Plan
 
-1) Finish the PR review
+1) Get feedback
 
-2) Get feedback on the result
+2) Finish the PR review
 
 ## Progress and Next Steps
 
+1) Done. UI modifications based on Sara, Steve and Sam feedback have been applied
+
+2) in progress
 
 # Illustrations
 <img alt="Panel" src="simpleMeasurementPanel.png"/>

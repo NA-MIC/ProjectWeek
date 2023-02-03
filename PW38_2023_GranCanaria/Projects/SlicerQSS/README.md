@@ -36,9 +36,22 @@ Currently 3D Slicer support both QStyle based styling and QtStylesheets.  To imp
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. [Forked qt-material](https://github.com/sjh26/qt-material/tree/slicer-compat) to address Slicer specific Python interface.
+1. Created [SlicerThemes](https://github.com/sjh26/SlicerThemes) extension
+    1. Manages installation of Slicer-specific version of qt-material
+    1. Allows for saving and loading of custom color theme files
+    1. Provides QSS templates for styles
+1. Created QSS templates for "Classic" and "Material" Slicer themes
+    1. These are still WIP
+1. Next steps
+    1. Allowing for loading of user provided templates in the extension
+    1. Compile list of changes to core code (ctk and Slicer) to allow styles to be set correctly from QSS
+
+### Core code changes TBD
+1. ctkConsole needs tweaks to respect QSS property settings for console colors
+1. Slice controllers needs work to prevent icons from disappearing
+1. Icon sets should be updated to a Material style
+
 
 # Illustrations
 
@@ -47,12 +60,18 @@ Currently 3D Slicer support both QStyle based styling and QtStylesheets.  To imp
 ![Some more images](Example2.jpg)
 -->
 
-## qt-material package out of the box w / light blue theme
+## Initial work
+
+### qt-material package out of the box w / light blue theme
 ![qt-material no tweaks](qt-material-box.png)
 
-## qt-material package with some manual tweaks to theme file
+### qt-material package with some manual tweaks to theme file
 ![qt-material with some tweaks](qt-mat-tweaks.png)
 
+## Project week results
+
+ ![Classic Slicer Light](light-classic.png)  ![Classic Slicer Dark](dark-classic.png)
+ ![Material Slicer Dark](dark-new.png) ![Custom colors](custom-app.png)
 
 # Background and References
 

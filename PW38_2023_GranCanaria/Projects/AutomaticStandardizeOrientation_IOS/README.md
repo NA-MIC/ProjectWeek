@@ -49,13 +49,12 @@ Link to GitHub repository https://github.com/lucanchling/ASO
 ## Progress and Next Steps
 
 ### Progress
-
+1.  Add user documentation in [README](https://github.com/lucanchling/ASO/blob/main/README.md)
 
 ### Next Step
 
 1.  Receive feedback to improve my code and facilitate future maintenance
-2.  Add user documentation in README 
-3.  Beta Extension for internal users testing prior to deployment 
+2.  Beta Extension for internal users testing prior to deployment 
 
 # Illustrations
 ### User interface

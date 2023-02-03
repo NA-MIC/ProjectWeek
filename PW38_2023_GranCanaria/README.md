@@ -33,14 +33,14 @@ We hold weekly preparation meetings at 10am on Tuesdays, starting November 29, 2
 <img alt="PW 38 floor plan" src="pw38-floor-plan.png" width="500"/>
 
 * **Monday Jan 30th**
-  * In person attendees can start setting up their computers and material, meeting with their teams and doing a last pass at the project pages from 9am (Las Palmas time) in the Working area. 
+  * In person attendees can start setting up their computers and material, meeting with their teams and doing a last pass at the project pages from 9am (Las Palmas time) in the Working area.
   * Remote attendees are encouraged to do the same on Discord if in a time zone that makes it possible.
 * **Project presentations**
-  * Start at 9am, EST (2pm in Las Palmas). 
+  * Start at 9am, EST (2pm in Las Palmas).
   * Takes place in the main hall for in person attendees and is streamed on Zoom for remote attendees (same zoom link as for preparation meetings).
   * Each team delegates a member to present their project in no more than 90 seconds using no other visual support than the project page on GitHub (no time to switch screen sharing).
 * **Breakout sessions**
-  * Start every day at 11am EST (4pm in Las Palmas) 
+  * Start every day at 11am EST (4pm in Las Palmas)
   * Streamed on Zoom (same link as for project presentation and preparation meetings)
 * **Work in project teams**
   * Starts at 4am EST (9am in Las Palmas) on Monday
@@ -49,7 +49,7 @@ We hold weekly preparation meetings at 10am on Tuesdays, starting November 29, 2
   * Communication between team members takes place on Discord, in the work area, or both depending on where the team members are located
   * The CreateEvent function on Discord can be used to plan a meeting (and inform other PW attendees about it)
 * **Project results presentation**
-  * Friday 9am EST, 2pm in Las Palmas. 
+  * Friday 9am EST, 2pm in Las Palmas.
   * Same format as for project presentation
 
 ##  Agenda
@@ -81,13 +81,21 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 [Developing and using anatomy atlases](Projects/BreakoutSession-Atlases.md) (Michael Halle and friends)
 
 [NCI Imaging Data Commons workshop/tutorial](https://docs.google.com/document/d/1HMmqVXSshEHf90Vu9LORaXVuoSpJzKxy7StrMBqfSdQ/edit?usp=sharing) (Andrey Fedorov and IDC team)
-   
+
 Kaapana workshop (Markus Bujotzek and Kaapana team)
 
 ## Projects [(How to add a new project?)](Projects/Readme.md)
 Categories based on project list of PW37, will be updated as we populate the list of projects.
 
 Presenter (assumed based on order + confirmed status) in **bold**
+
+### Early birds
+
+1. [DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanoun, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
+
+1. [Cross study sychronizer for OHIF Crosshair](Projects/OHIF_SyncCrosshair/README.md) (Salim Kanoun, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
+
+1. [PolySeg representations for OHIF Viewer Segmentations](Projects/OHIF_PolySeg/README.md)(Alireza Sedghi) _Remote_
 
 ### VR/AR and Rendering
 1. [SlicerVR - Restore Interactions](Projects/SlicerVRInteractions/README.md) (**Csaba Pintér**, Simon Drouin, Andrey Titov, Lucas Gandel, Jean-Christophe Fillion-Robin) *[On site]*
@@ -99,7 +107,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [Map texture when importing OBJ file into Slicer](Projects/TextureModelImport/README.md) (**Chi Zhang**, Steve Pieper, A. Murat Maga, Andras Lasso, Sara Rolfe) *[Remote]*
 
 ### IGT and Training
-5. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (**Natalia Arteaga**, David García, Javier González, Gara Ramos) *[On site]*
+1. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (**Natalia Arteaga**, David García, Javier González, Gara Ramos) *[On site]*
 
 1. [Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation/README.md) (**Felix von Haxthausen**, David García, Tolga-Can Çallar, José Carlos Mateo) *[On site]*
 
@@ -116,16 +124,16 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [Development of Anatomy Atlases and Training Tools with 3D Slicer](Projects/TTTAtlas/README.md) (**Juan Ruiz**, Idafen Santana, Mario Monzón) *[On site]*
 
 1. [Integration of infrared, ultraviolet and hyperspectral sensors in Slicer via Plus Toolkit  and OpenIGTLink.](Projects/MultiSpectralSensorIntegration/README.md) (**Francisco J. Marcano Serrano**) *[??]*
-   
+
 1. [Ibis in Slicer](Projects/IbisInSlicer/README.md) (**Étienne Léger**, Houssem Eddine Gueziri, Simon Drouinb) *[On site]*
 
 ### Segmentation / Classification / Landmarking
-14. [Lung CT Segmentation and Analysis](Projects/LungSegmentation/Readme.md) (**Rudolf Bumm**, Ron Kikinis, Raúl San José Estépar, Steve Pieper, Eserval Rocha jr., Andras Lasso, Curtis Lisle) *[On site]*
+1. [Lung CT Segmentation and Analysis](Projects/LungSegmentation/Readme.md) (**Rudolf Bumm**, Ron Kikinis, Raúl San José Estépar, Steve Pieper, Eserval Rocha jr., Andras Lasso, Curtis Lisle) *[On site]*
 
 1. [MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md) (**Deepa Krishnaswamy**, Cosmin Ciausu, Nazim Haouchine, Andres Diaz-Pinto, Jesse Tetreault, Roya Hajavi, Stephen Aylward, Steve Pieper, Andrey Fedorov) *[On site]*
 
 1. [HOWTO: Using MONAI zoo bundle for prostate MRI cancer detection in IDC data](Projects/MONAI_IDC_PCa_detection/README.md) (**Cosmin Ciausu**, Deepa Krishnaswamy, Patrick Remerscheid, Tina Kapur, Sandy Wells, Andrey Fedorov, Khaled Younis) *[On site]*
-   
+
 1. [Multi-stage dental segmentation using MONAI Label](Projects/TeethSegmentation/README.md) (**David García**, Yucheng Tang, Andres Diaz, Daniel Palkovics, Csaba Pinter, Attila Nagy, Brianna Burton) *[On site]*
 
 1. [Real-time ultrasound AI segmentation using Tensorflow and PyTorch models](Projects/RealTimeUltrasoundSegmentationAI/README.md) (**María Rosa Rodríguez**, Tamas Ungi, David García, Chris Yeung) *[On site]*
@@ -145,13 +153,11 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 ### Quantification and Computation
 
-24. [Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (**Nathan Hutin**, Luc Anchling, Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, David Allemang, Jean-Christophe Fillion-Robin) *[Remote]*
+1. [Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (**Nathan Hutin**, Luc Anchling, Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, David Allemang, Jean-Christophe Fillion-Robin) *[Remote]*
 
 1. [MeshComparison](Projects/MeshComparison/README.md) (**Paolo Zaffino**, Maria Francesca Spadea, Michela Destito, Amerigo Giudice) *[On site]*
 
 1. [Electrophysiological biosignals in 3D Slicer](https://github.com/NA-MIC/ProjectWeek/tree/master/PW38_2023_GranCanaria/Projects/Electrophysiological%20biosignals%20in%203D%20Slicer) (**Jordan Ortega Rodríguez**, Gara Ramos) *[On site]*
-
-1. [Surface Nets](Projects/SurfaceNets/README.md) (**Andy Huynh**, Gerry Gralton, Benjamin Zwick) *[On site]*
 
 1. [Analytic Registration Verification](Projects/AnalyticRegistrationVerification/README.md) (**Gerry Gralton**, Andy Huynh, Benjamin Zwick) *[On site]*
 
@@ -159,8 +165,10 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [Brain segmentation for Long COVID study](Projects/LongCOVID/README.md)(**Zora Kikinis**)[On site]
 
+1. [SlicerElastix: update elastix version](Projects/SlicerElastixUpdate/README.md)(**Simón Oxenford**, Andras Lasso)[On site]
+
 ### Cloud / Web
-31. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (**Rudolf Bumm**, Steve Pieper, Gang Fu, Qing Liu) *[On site]*
+1. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (**Rudolf Bumm**, Steve Pieper, Gang Fu, Qing Liu) *[On site]*
 
 1. [MHub Integration](Projects/MHub_Integration/README.md) (**Leonard Nürnberg**, Dennis Bontempi, Andrey Fedorov) *[On site]*
 
@@ -188,14 +196,10 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [DICOM WSI: conversion, analysis workflow, accessing DICOM WSI in IDC](Projects/IDC_DICOM_WSI_workflow/README.md) (**Maximilian Fischer**, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer, Curtis Lisle) *[On site]*
 
-1. [DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanoun, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
 
-1. [Cross study sychronizer for OHIF Crosshair](Projects/OHIF_SyncCrosshair/README.md) (Salim Kanoun, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
-
-1. [PolySeg representations for OHIF Viewer Segmentations](Projects/OHIF_PolySeg/README.md)(Alireza Sedghi) _Remote_
 
 ### Infrastructure
-48. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (**Connor Bowley**, Sam Horvath, David Allemang) *[On site]*
+1. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (**Connor Bowley**, Sam Horvath, David Allemang) *[On site]*
 
 1. [SlicerPipelines](Projects/SlicerPipelines/README.md)(**Connor Bowley**, Sam Horvath) *[On site]*
 

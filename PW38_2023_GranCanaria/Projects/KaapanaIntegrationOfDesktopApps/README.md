@@ -44,9 +44,9 @@ Relate to:
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Integrated Slicer extension
+1. Startet workflow "Slicer-flow"
+1. Created uniform Kaapana RestApi for dicomweb
 
 # Illustrations
 
@@ -60,3 +60,5 @@ Relate to:
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
 * [branch](https://github.com/fedorov/kaapana/tree/develop-slicer) that attempts to integrate Slicer into Kaapana
+* [MITK TaskList](https://phabricator.mitk.org/T29160)
+* [Example data to working with MITK Tasklist](https://drive.google.com/drive/folders/18HZWEENZaKYA6F4nv4ZFgdPOGuO1KWwv?usp=sharing)

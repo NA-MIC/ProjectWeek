@@ -83,6 +83,110 @@ as well as the integration of allied technologies:
 
 ## Progress and Next Steps
 
+### Systole Overlay progress PW38
+
+```txt
+Systole Overlay
+├── dev-libs
+│   └── qRestAPI                  #OK
+├── dev-python
+│   └── PythonQt_CTK              #Needs update
+├── metadata
+├── profiles
+├── sci-libs
+│   ├── itk                       #OK
+│   ├── SimpleITK                 #Needs update
+│   ├── vtk                       #OK
+│   └── vtkAddon                  #OK
+├── sci-medical
+│   ├── ctk                       #OK
+│   ├── CTKAppLauncherLib         #OK
+│   ├── elastix                   #Needs update
+│   ├── gdcm                      #OK
+│   ├── Slicer                    #Work-in-progress
+│   ├── teem                      #OK
+│   └── vmtk                      #Needs update
+├── Slicer-CLI                    #Needs update
+│   ├── ACPCTransform              |
+│   ├── AddScalarVolumes           |
+│   ├── ExtractSkeleton            |
+│   ├── ModelMaker                 |
+│   └── SlicerExecutionModel       | 
+├── Slicer-Loadable                
+│   ├── Annotations                #Remove
+│   ├── Cameras                    #Needs update 
+│   ├── Colors                     |
+│   ├── Data                       |
+│   ├── DoubleArrays               |
+│   ├── Markups                    |
+│   ├── Models                     |
+│   ├── Plots                      |
+│   ├── Reformat                   |
+│   ├── SceneViews                 |
+│   ├── Segmentations              |
+│   ├── SlicerWelcome              |
+│   ├── SubjectHierarchy           #Work-in-progress
+│   ├── Tables                     |
+│   ├── Terminologies              #OK
+│   ├── Texts                      #Needs update
+│   ├── Transforms                 |
+│   ├── Units                      |
+│   ├── ViewControllers            |
+│   ├── VolumeRendering            |
+│   └── Volumes                    |
+├── Slicer-Scripted                #Needs update
+│   ├── DataProbe                  |
+│   ├── Editor                     |
+│   ├── EditorLib                  |
+│   ├── Endoscopy                  |
+│   ├── LabelStatistics            |
+│   ├── PerformanceTests           |
+│   ├── SampleData                 |
+│   ├── ScreenCapture              |
+│   └── SegmentEditor              |
+└── x11-libs                       #OK
+    └── gdk-pixbuf
+```
+
+### Development environments
+
+![SystoleOS utility boxes and development environments](systoleos_dev_envs.png)
+
+### Contributing back to Slicer
+
+Some of the work done for SystoleOS can be used to improve the Slicer code base and help on the future modularization of Slicer. We will coordinate with the Slicer core developers to include as much as possible in Slicer.
+
+```txt
+baea9d1dc3 * origin/Systole-patches/Slicer ENH: Provide an install version ov vtkSlicerConfigure.h
+11e3802dcc * ENH: Fix qt-loadable-modules installation dirs
+016d426ec2 * ENH: Enable installation of SLicerBase header files
+f242cb635c * ENH: Update SlicerInstallConfig
+138aaed6e3 * ENH: Add templates infrastructure
+de7ff279d1 * ENH: Installation and setup qSlicerExport.h.in
+2dca449c7b * ENH: Remove extension/launcher cmake code from UseSlicer.cmake
+97ba113555 * ENH: Add vtkAddon as a requirement in UseSlicer.cmake
+27be7571e8 * ENH: Add CTK as requirement in UseSlicer.cmake
+3e8d0cbaf6 * ENH: Make installed CMake files available
+c49f8f1dff * ENH: Generate and Install SlicerConfig (install tree)
+3781a3682c * ENH: Add variable install dirs for Libs dev files
+01f68e9856 * ENH: Use slicer installation dirs for base dev components
+ec5d1bc8e3 * ENH: Use CMake GNUInstallDirs in Slicer directories
+63ff5e26b9 * ENH: Remove the 'App-real' suffix from Slicer executable
+feb34841e8 * ENH: Install testing data only with testing support
+5d8961c414 * ENH: Limit CPack on non-superbuild mode
+e0cebde590 * ENH: Remove conditional code for old VTK
+fc6ff2f72f * ENH: Make optional the use of Slicer ITK
+cb2a0161ce * COMP: Adapt to new qRestAPI cmake
+ae6e0617bd * COMP: Find Eigen (required)
+70dc2afdb2 * COMP: Add vtk CommonSystem component as requirement
+```
+
+For reference, here is a discussion where this support can be used for the generation of a GNU/Linux Flatpak: https://discourse.slicer.org/t/interest-to-create-flatpak-for-3d-slicer-have-issue-with-guisupportqtopengl-not-found/16532
+
+## Future work
+
+Our most pressing issue right now is to integrate all the core modules and release testing virtual machines and containers. After this, more software packages like MONAI Label, Plus Toolkit, TotalSegmentator, VMTK and Elastix will be integrated. Contributions welcome!!
+
 # Background and References
 1. [SystoleOS project in PW37](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SystoleOS)
 

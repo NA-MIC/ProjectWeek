@@ -48,8 +48,26 @@ Related to [Fast viewing and tagging of DICOM Images](../KaapanaFastViewingAndTa
 
 ## Progress and Next Steps
 
-1. Hans has access to some(?) kaapana installation at MEVIS (from the RACOON project).
-2. Hans has learned from Stefan about the current process / integration of the Meta dashboard in kaapana, and about its code location(s).
+1. Hans has learned (mostly from Stefan) much about the current process / integration of the Meta dashboard in kaapana, and about its code location(s).  Many things have been **documented on this page** to help others as well.
+2. Hans spent a lot of time reviewing Kaapana code and opened a pull request with a few refactoring steps (https://github.com/kaapana/kaapana/pull/13).
+3. Hans wrote a **MeVisLab module "DICOMTree2JSON" that mimicks what dcm2json does** and converts in-memory DICOM information into JSON. (The output has been verified to be "mostly identical" except for the pixel data which is not dumped. Other exceptions are integer "1\u0000" -> 1, for instance.)
+4. Kaapana's dashboard defaults to documents on the series level (but the code would also support SOPInstances / single frames). Hans is using **MeVisLab's / SATORI's image level, which can be both below or above the series level**, depending on the import configuration (e.g., composing DCE-MRI volumes from multiple images). Of course, this needs to be taken into account when configuring the dashboard.
+5. Kibana nicely allows filtering on any level (patient / study / series / image properties), but the dashboard will only list the number of patients that contain an image matching a certain criterion, not the patients that contain *only* images matching a criterion. A query such as "give me all patients that have at least two timepoints with a T1 and a T2 weighted image" does not seem to be possible. There seem to be more complex aggregation options in OpenSearch, however, so it remains to be investigated if that could be implemented as well.
+
+# Illustrations
+
+Screenshot of resulting meta dashboard with data ingested from a MeVisLab-based SATORI workspace:
+
+![Kibana dashboard showing information about 18,613 images](meta_dashboard_wth_MeVisLab_data.png)
+
+# Background and References
+
+General information / pointers:
+
+- There is a [dag_service_extract_metadata.py](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/dags/dag_service_extract_metadata.py) which is responsible for the metadata extraction.
+- That dag uses a [LocalDcm2JsonOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalDcm2JsonOperator.py) and [LocalJson2MetaOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalJson2MetaOperator.py) which seem to be the most important classes to look at.
+- [LocalTaggingOperator](https://github.com/kaapana/kaapana/blob/master/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalTaggingOperator.py) could also be relevant / interesting? This operator manages a set (/list) of tags per document in the meta index (cf. attribute `dataset_tags_keyword`). It is possible to add/remove tags, they can come from JSON files, and it is possible to read DICOM tags (e.g., ClinicalTrialProtocolID) into tags.
+- The cohort definition is implemented in [kaapana/services/meta/os-dashboards/workflow-trigger](https://github.com/kaapana/kaapana/tree/develop/services/meta/os-dashboards/workflow-trigger) (the name is no longer descriptive for legacy reasons) as a Kibana plugin that triggers a kaapana dag.
 
 Reviewing LocalDcm2JsonOperator revealed the following functionality (not complete):
 
@@ -57,24 +75,17 @@ Reviewing LocalDcm2JsonOperator revealed the following functionality (not comple
 - calls dcm2json to produce a JSON file
 - seems to work around dcm2json producing non-standard float representations (caveat: `cleanJsonData` will have false positives / modify non-numeric tags as well)
 - uses a [DICOM dictionary file (dicom_tag_dict.json)](https://github.com/kaapana/kaapana/blob/develop/services/flow/airflow/docker/files/scripts/dicom_tag_dict.json) to convert tag IDs to names (`get_new_key`)
-- the resulting JSON document will have keys such as `0008103E SeriesDescription_keyword` (`_keyword` is the default suffix, but depending on the VR, there are other: DA -> `_date`, DT -> `_datetime`, TM -> time, DS/FL/FD/OD/OF -> `_float`, IS/SL/SS/UL/US -> `_integer`, SQ -> `_object`)
-- RTSTRUCT files are treated specially and will have additional keys such as `rtstruct_organ_list_keyword`
+- the resulting JSON document will have keys such as `0008103E SeriesDescription_keyword` (`_keyword` is the default suffix, but depending on the VR, there are other: DA -> `_date`, DT -> `_datetime`, TM -> time, DS/FL/FD/OD/OF -> `_float`, IS/SL/SS/UL/US -> `_integer`, SQ -> `_object` – the point of these suffixes is that [OpenSearch is then configured to index the attributes according to their suffix](https://github.com/kaapana/kaapana/blob/develop/services/meta/meta-init/docker/files/init_meta.py#L117))
+- RTSTRUCT and SEG files are treated specially and will have additional keys such as `rtstruct_organ_list_keyword`
 - adds a `timestamp` key based on acquisition/series/content/study/current date+time (using the first one available)
 - adds `timestamp_arrived_datetime`, `timestamp_arrived_date`, `timestamp_arrived_hour_integer`
 - adds `00101010 PatientAge_integer` based on `00100030 PatientBirthDate_date` or `00101010 PatientAge_keyword`
 - splits `00120020 ClinicalTrialProtocolID_keyword` into a list (under the same key)
 
-# Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
-
-# Background and References
-
-- There is a [dag_service_extract_metadata.py](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/dags/dag_service_extract_metadata.py) which is responsible for the metadata extraction.
-- That dag uses a [LocalDcm2JsonOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalDcm2JsonOperator.py) and [LocalJson2MetaOperator](https://github.com/kaapana/kaapana/blob/develop/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalJson2MetaOperator.py) which seem to be the most important classes to look at.
-- [LocalTaggingOperator](https://github.com/kaapana/kaapana/blob/master/data-processing/kaapana-plugin/extension/docker/files/plugin/kaapana/operators/LocalTaggingOperator.py) could also be relevant / interesting?
-- [Kaapana docs](https://kaapana.readthedocs.io/en/stable/intro_kaapana.html#what-is-kaapana)
-<!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+Summary of steps I performed in order:
+- Spun up https://hub.docker.com/r/opensearchproject/opensearch-dashboards with docker-compose (reduced the example .yml to one node)
+- Used `INIT_OPENSEARCH=true kaapana/services/meta/meta-init/docker/files/init_meta.py` to create the OpenSearch index (I manually set use_ssl=True). If you remove the index (e.g., with `http --verify=no DELETE https://admin:admin@localhost:9200/meta-index`), you need to repeat this step. It does not have to be done before setting up the dashboard, though – the latter just defines a view into OS, so it is really independent.
+- Similarly, ran the script with `INIT_DASHBOARDS=true DASHBOARDS_URL=http://admin:admin@localhost:5601 DASHBOARDS_JSON=kaapana/services/meta/meta-init/meta-init-chart/files/dashboard_import.json` to upload the default dashboard config (commenting out the call to `set_ohif_template()`)
+- Exported dcm2json-like information from MeVisLab, with the new module I developed for that purpose
+- Ran a small hacked together supplement of the LocalDcm2JsonOperator on my exported files (see the above summary of its functionality).
+- This already allows to play with the dashboard.  What's not working yet is the cohort definition.

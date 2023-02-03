@@ -6,7 +6,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Natalia Arteaga Marrero (IACTEC, Santa Cruz de Tenerife, Spain)
 - David García Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
-- Javier González Fernández (ITC, Spain)
+- Javier González Fernández (ITC, Santa Cruz de Tenerife, Spain)
+- Jordan Ortega Rodríguez (IACTEC, Santa Cruz de Tenerife, Spain)
 - Gara Ramos (IACTEC, Santa Cruz de Tenerife, Spain)
 
 # Project Description
@@ -24,18 +25,24 @@ of a CNB procedure. However, a quantitative analysis is required. For this reaso
 
 ## Approach and Plan
 
-1. Phantom model --> Accurately replicated thoracic tissues (lung, ribs, and solid masses) providing a useful tool for training ultrasound-guided procedures
-2. Tools connections via Optitrack and Plus Toolkit (Telemed and Clarius US System, needle for biopsy) 
+1. Phantom model --> Accurately replicated thoracic tissues (lung, ribs, and solid masses) providing a useful tool for training US-guided procedures
+2. Tools connections via Optitrack and Plus Toolkit (Telemed/Clarius system and needle for biopsy) 
 4. Application development
 
 ## Progress and Next Steps
 
-1. Fabrication of dedicated phantom --> In progress to establish the virtual model 
-2. Design of tracking fixtures for equipment --> In progress
-3. Optitrack + US System setup --> Connection to SLICER
+1. Fabrication of dedicated phantom --> Virtual and recontructed model finished  
+2. Design of tracking fixtures for the required equipment --> Biopsy needle (Bard 22mm), Telemed MicrUs EXT-1H L12 Probe. Extra tools and some adjustments to be implemented 
+3. 3D Models of the equipments --> Biopsy needle (loaded and extended) and Telemed US system
+4. Optitrack + US System setup --> Connection to SLICER via Plus Toolkit using Telemed US System. Issues to connect the Clarius US system to be solved
+5. Preliminar tracking system working --> New calibrations to be performed after upgrading the fixtures
+6. Extension implementation pending  
 
 # Illustrations
-<img src="https://user-images.githubusercontent.com/40359004/212877916-37a7f456-b4fc-4c3a-a1f3-20d6a78f6429.jpeg" width="500"/> <img src="https://user-images.githubusercontent.com/40359004/215514472-93e01065-383e-4e6e-a8c1-346e04bd13b5.PNG" width="500"/>
+<img src="https://user-images.githubusercontent.com/40359004/216602062-059faa73-95e9-4e45-886c-19dda4977901.png" width="965"/>
+
+![](https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/US-guided_TrainingSystem/NAMIC_Demo_0.gif)
+![](https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/US-guided_TrainingSystem/NAMIC_Demo_1.gif)
 
 # Background and References
 

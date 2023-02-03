@@ -36,8 +36,47 @@ Consider proposals to improve the standard to address any inherent issues.
 
 ## Progress and Next Steps
 
+Performed timings with various methods to load segmentations in Slicer
+
+* Quantitative Reporting: 4 minutes
+* pydicom-seg: 15 seconds
+* seg.nrrd: .6 second
+
+We had several conversations about the importance of DICOM for organizing derived data from quantitative analysis, conversations which underlined the point of defining efficient implementations.
+
+In discussion with machine learning researchers, e.g. developers and users of tools like TotalSegmentator, the number of segments is set increase rapidly, perhaps doubling within months to 200 or more, and with over 1000 segments expected within a year.
 
 # Illustrations
+
+![image](https://user-images.githubusercontent.com/126077/216361639-a7d4aa90-1742-4681-b6cd-e78f15dce4cd.png)
+
+Example code to load with `pydicom-seg` vi Slicer 5.2.1 python console:
+```
+try:
+	import pydicom_seg
+except ModuleNotFoundError:
+	pip_install("pydicom_seg")
+
+import pydicom
+import pydicom_seg
+import SimpleITK as sitk
+
+dcm = pydicom.dcmread('/Users/pieper/slicer/latest/pydicom-seg/ABD_LYMPH_008_SEG.dcm') # 19 seconds
+
+reader = pydicom_seg.MultiClassReader()
+result = reader.read(dcm)
+
+image_data = result.data  # directly available
+image = result.image  # lazy construction
+
+sitk.WriteImage(image, '/tmp/segmentation.nrrd', True)
+seg = slicer.util.loadSegmentation('/tmp/segmentation.nrrd')
+
+for segmentID in seg.GetSegmentation().GetSegmentIDs():
+	segmentIndex = int(segmentID.split("_")[1])
+	description = result.segment_infos[segmentIndex].SegmentDescription
+	seg.GetSegmentation().GetSegment(segmentID).SetName(description)
+```
 
 # Background and References
 
@@ -131,13 +170,22 @@ bits allocated is limited to a maximum of 8 currently. This means that
 fractional segmentations have limited precision and are quantized to 256
 values, which is a lower level of precision than users would generally expect.
 
-##### 4. Some interoperability concerns
+##### 4. Lack of compression in current implementations
+
+Even if it is encoded in labelmap representations, uncompressed data is inefficient for storing
+segmentation data.  A typical nii.gz or .seg.nrrd file is compressed with gzip and can
+be 100 or more time smaller than the source data due to redundancy in the segmentation data (large
+areas of uniform segmentation or repeating patterns that can be more efficiently represented
+by short codes).  DICOM currently offers some options for this like RLE, but as yet they have
+not be widely supported in currently used open source tools.
+
+##### 5. Some interoperability concerns
 
 There are repeated reports of interoperability issues between segmentations
 created with highdicom and viewed in OHIF. See [this
 issue](https://github.com/OHIF/Viewers/issues/2833).
 
-##### 5. Expanding dimension organization methods
+##### 6. Expanding dimension organization methods
 
 Multiple users of highdicom have been asking for support for 2D+T files. This
 is possible but not straightforward due to the need to create a dimension

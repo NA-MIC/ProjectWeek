@@ -6,6 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Deepa Krishnaswamy (Brigham and Women's Hospital, USA)
 - Cosmin Ciausu (Brigham and Women's Hospital, USA)
+- Umang Pandey (Universidad Carlos III de Madrid, Spain)
 - Nazim Haouchine (Brigham and Women's Hospital, USA)
 - Andres Diaz-Pinto (NVIDIA, USA)
 - Jesse Tetreault (NVIDIA, USA)
@@ -31,10 +32,6 @@ In this project we want to explore the process of converting MONAI Label trained
 1. Improve existing documentation.
 1. Demonstrate how MONAI Label trained network converted to bundle can be applied to a representative sample of data from IDC.
 
-![example_spine_segmentation](https://user-images.githubusercontent.com/59979551/215484898-415c0bdb-431e-4ddc-98a4-78fff1b122c6.JPG)
-
-![example_spine_segmentation2](https://user-images.githubusercontent.com/59979551/215484956-88f11dd9-2020-4d9a-a957-22065962efb9.JPG)
-
 
 ## Approach and Plan
 
@@ -46,7 +43,30 @@ In this project we want to explore the process of converting MONAI Label trained
 4. Select applicable representative subset of data from IDC and apply resulting bundle to a produce segmentations, save segmentations as DICOM SEG, confirm visualization with OHIF.
 5. Document the process and any refinements to the existing instructions.
 
-## Progress and Next Steps
+## Progress and Next steps
+
+1. We decided instead to convert the full CT segmentation MONAI label app from Andres to a bundle, as it has a single stage compared to the 3 stage vertebare pipeline. This model was trained on TotalSegmentator data and used a SegResNet architecture. 
+2. We were able to convert the app to a bundle for inference! We had to modify a few transforms for orientation. Now you can use a single command to run inference instead of manually opening 3DSlicer and choosing data to run on. 
+3. We tested the bundle on a spleen dataset from decathalon data (Figure 1 below). 
+4. We can compare this approach to actual TotalSegmentator segmentation 
+5. Now we want to test on data from IDC (NSCLC-Radiomics patient that has some ground truth segmentation). Unfortunately we are getting a lot of CUDA memory errors since these datasets are a lot larger than the spleen dataset we previously tested on. We're working on making changes to the inference.json file and are trying to crop the images before inference. 
+
+# Illustrations
+
+<!-- Add pictures and links to videos that demonstrate what has been accomplished.
+![Description of picture](Example2.jpg)
+![Some more images](Example2.jpg)
+-->
+
+Figure 1 - Full CT segmentation on subject from spleen decathalon data
+![Figure 1 - Full CT segmentation on spleen data from decathalon data](https://user-images.githubusercontent.com/59979551/216036231-cab022f4-dbb1-4932-928f-af9b061733fc.JPG)
+
+Figure 2 - Comparison of the MONAI full CT segmentation bundle we created (left) to the output TotalSegmentator produces (right)
+[monai_bundle_vs_total_seg_spleen.webm](https://user-images.githubusercontent.com/59979551/216606510-047a0105-17ca-4765-8186-4132edf2c0e9.webm)
+
+
+
+## Discussion notes
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
@@ -66,16 +86,9 @@ In this project we want to explore the process of converting MONAI Label trained
 2. In the meantime we will try converting the full CT seg (trained using TotalSegmentator data) to a bundle. If that works we can go back to the vertebra pipeline? Steve suggested also that we do this instead of focusing on the vertebra. And maybe if we want to train the full CT with higher resolution data (change the target_spacing is the main thing we need to do?) we could think about this at a later stage. 
 3. We've posted two issues for the vertebrae segmentation, [here](https://github.com/Project-MONAI/MONAILabel/issues/1267) and [here](https://github.com/Project-MONAI/MONAILabel/issues/1268). We got some responses -- they suggested running inference on a dataset from decathalon instead. Localization_spine ran successfully! Not the best, but there is some spine segmented. So this is probably because of the resolution. The original VERSE dataset is pretty high res, but looks like the target_spacing is (1.3,1.3,1.3) for localization_spine. So we will try resampling VERSE to the target_spacing and then try inference. We tried running the full vertebra segmentation on the spleen dataset, and all three stages seem to work with no errors related to tensor shape. 
 4. We created the bundle for full ct segmentation, and here is the first run on a spleen dataset. We'll have to fix the transforms. 
-![01_31_23_wip_totalseg_bundle](https://user-images.githubusercontent.com/59979551/215772413-12950eb1-e3ea-4aec-ab16-a828eb2d0c46.JPG)
-
-
-
-# Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+5. Steve suggested we might need to do something like this: https://github.com/LymphNodeQuantification/Monailabel-LNQ/blob/main/apps/radiology-retrain-2022-12/lib/infers/segmentation.py. We need to save out the nifti file at each stage of the transforms to see where the orientation changes. Check Invertd transform, Orientationd transforms etc.
+6. This post from yesterday on creating a bundle for SegResNet trained on TotalSegmentator data: https://github.com/Project-MONAI/MONAILabel/issues/1269 
+7. I'm able to get the inference to work for the above! (image below). We had to remove the Orientationd transform. We will test on more data and start looking into vertebrae segmentation pipeline. 
 
 # Background and References
 

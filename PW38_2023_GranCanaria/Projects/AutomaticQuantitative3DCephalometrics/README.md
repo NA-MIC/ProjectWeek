@@ -61,18 +61,19 @@ This project to to get input regarding :
 # Progress:
 1. Refactoring codes
 2. Resolved old issue
-
+3. Weekly review of code clarity with David
 
 # Next steps :
-1. Review code's robustness and clarity
-2. Make the new types help encapsulate certain components in the code.
-3. Correct overload of the Python protocols for Group_landmark, MyList, and MyDict. 
-4. Improve other utilities like Line, Measure, Point, etc. Update SlicerCMF workflow to document and integrate with AQ3DC.
-5. Verify remaining duplicates and hard coded components
-6- Add tests to the module 
-7- Add user documentation.
-8. Update README
-9- Pull request
+
+1. Add class test
+1. Make the new types help encapsulate certain components in the code.
+2. Correct overload of the Python protocols for Group_landmark, MyList, and MyDict. 
+3. Improve other utilities like Line, Measure, Point, etc. Update SlicerCMF workflow to document and integrate with AQ3DC.
+4. Verify remaining duplicates and hard coded components
+5- Add tests to the module 
+6- Add user documentation.
+7. Update README
+8- Pull request
 
 
 

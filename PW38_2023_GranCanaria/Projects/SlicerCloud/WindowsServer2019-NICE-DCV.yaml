@@ -376,6 +376,25 @@ Resources:
         - Key: GitHub
           Value: https://github.com/aws-samples/amazon-ec2-nice-dcv-samples
 
+  CloudWatchAlarm:
+    Type: 'AWS::CloudWatch::Alarm'
+    Properties:
+      AlarmName: StopInstanceAlarm
+      AlarmDescription: Auto-stop EC2 instance if CPU usage is below 5% for 1 hour
+      ComparisonOperator: LessThanThreshold
+      EvaluationPeriods: 12
+      MetricName: CPUUtilization
+      Namespace: AWS/EC2
+      Period: 300
+      Statistic: Average
+      Threshold: 5
+      TreatMissingData: notBreaching
+      AlarmActions:
+        - arn:aws:automate:us-east-1:ec2:stop
+      Dimensions:
+        - Name: InstanceId
+          Value: !Ref EC2Instance
+
   ElasticIP:
     Type: AWS::EC2::EIP
     Properties:

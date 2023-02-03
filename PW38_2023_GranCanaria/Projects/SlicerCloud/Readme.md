@@ -40,6 +40,10 @@ The speed of general system setup, up- and downscaling as well as running costs 
 
 ## Progress and Next Steps
 
+The use of the EC2 instances was comfortable and reliable during the Project week. The performance of the g5x4large instance was a bit slower than the reference GTX 3070 Ti, although the GPU load never was on the upper limits. Up and downgrading the EC2 instance was comfortable and did not touch any component of the installed programs. The cost of running a g5.x4large GPU instance is around 2 $ per hour. The Cloudformation template proved very helpful. 
+
+Setting up the EC2 instance for interactive 3D purposes makes only sense if connection speeds to and from the server are around 50 Mbps. 
+
 # Illustrations
 
 ![image](https://user-images.githubusercontent.com/18140094/211152360-f6e0d66b-aa84-4109-86d5-eedf404fd528.png)

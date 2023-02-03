@@ -76,9 +76,10 @@ class VectorToScalarVolumeWidget(ScriptedLoadableModuleWidget):
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Added ability to use the `typing.Any` annotation in the parameter node wrapper, with some limitations.
+2. Added automatic gui generation for the parameterNodeWrapper (PR coming soon).
+3. Bug fixes.
+4. ...
 
 # Illustrations
 

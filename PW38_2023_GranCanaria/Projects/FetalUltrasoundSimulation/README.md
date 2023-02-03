@@ -5,8 +5,7 @@
 - Felix von Haxthausen (University of Lübeck, Lübeck, Germany)
 - David García Mato (Ebatinca S.L., Las Palmas de Gran Canaria, Spain)
 - Tolga-Can Çallar (University of Lübeck, Lübeck, Germany)
-- José Carlos Mateo Pérez (ULPGC, Las Palmas de Gran Canaria, Spain) 
-- ...
+- José Carlos Mateo Pérez (ULPGC, Las Palmas de Gran Canaria, Spain)
 
 ## Clinical collaboration
 
@@ -37,8 +36,21 @@ PLUS Toolkit already offers a [tool](http://perk-software.cs.queensu.ca/plus/doc
 ## Approach and Plan
 Development of tool to assign tissue acoustic properties:
 1. Use the Total Segmentator to create the 3D models with assigned organ definition based on CT data.
-2. Create and define a lookup table (LUT) that assigns the accoustic propeerties to each organ label. 
+2. Create and define a lookup table (LUT) that assigns the accoustic properties to each organ label. 
 3. Develop a tool or module that generates the config file based on the models and the LUT.
+
+## Progress During Project Week
+
+1. Created a LUT with accoustic properties (density, speed of sound, accoustic attenuation) of 112 different tissue types.
+2. Created a simple Matlab script to generate an XML config file for PLUS with the according accoustic properties for different models based on Total Segmentator
+
+<img src="https://user-images.githubusercontent.com/10816661/216602999-87f6cd0c-92f3-4e43-b205-8938f51be7c0.png" alt="drawing" width="650"/>
+
+## Conclusion & Outlook
+A central challenge regarding surface model based ultrasound simulation, i.e., the generation of realistic mesh models of internal anatomy, is greatly alleviated by the utilization of the Total Segmentator module that allows for the automated segmentation of multiple tissues and organs with appreciabe accuracy.  In terms of various sound propagation and ray-tracing algorithms used ultrasound simulations, the classification of the respective segmentations enables the direct assignment of acoustic tissue properties that were researched and gathered from the related literature to build an tissue-specific acoustic lookup table.
+All of this is in stark contrast to previously proposed approaches that employed laboriously hand-crafted mesh models and manual fine-tuning of acoustic parameters.
+
+Still, a major subject for future research remains: Usage of tissue segmentations delineating the outer border of structures within the framework of surface-based ultrasound simulation, e.g. as implemented in PLUS, disregards intra-structural heterogeneity of tissues and organs. Depending on the respective applications, this may lead to undesirable low simulation-fidelity. Hence, we intend to exploit image intensities within source images of the segmentations to perform intensity-based modifications of the acoustic parameters assigned within segmentations.
 
 ## References
 
@@ -46,6 +58,6 @@ Development of tool to assign tissue acoustic properties:
 
 - Training system for forceps-assisted delivery developed in 3D Slicer by Universidad Carlos III de Madrid: [VIDEO](https://www.youtube.com/watch?v=EEasWbH1jZI)
 
-- García-Sevilla, M. et al. (2018). Performance Evaluation to Improve Training in Forceps-Assisted Delivery. In: , et al. OR 2.0 Context-Aware Operating Theaters, Computer Assisted Robotic Endoscopy, Clinical Image-Based Procedures, and Skin Image Analysis. CARE CLIP OR 2.0 ISIC 2018 2018 2018 2018. Lecture Notes in Computer Science(), vol 11041. Springer, Cham. https://doi.org/10.1007/978-3-030-01201-4_9
+- García-Sevilla, M. et al. (2018). Performance Evaluation to Improve Training in Forceps-Assisted Delivery. In: , et al. OR 2.0 Context-Aware Operating Theaters, Computer Assisted Robotic Endoscopy, Clinical Image-Based Procedures, and Skin Image Analysis. CARE CLIP OR 2.0 ISIC 2018 2018 2018 2018. Lecture Notes in Computer Science(), vol 11041. Springer, Cham. https://doi.org/10.1007/978-3-030-01201-4_9- 
 
 - Sherer, D.M., Miodovnik, M., Bradley, K.S. and Langer, O. (2002), Intrapartum fetal head position II: comparison between transvaginal digital examination and transabdominal ultrasound assessment during the second stage of labor. Ultrasound Obstet Gynecol, 19: 264-268. https://doi.org/10.1046/j.1469-0705.2002.00656.x

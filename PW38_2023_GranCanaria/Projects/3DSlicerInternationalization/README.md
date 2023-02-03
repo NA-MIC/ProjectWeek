@@ -36,13 +36,20 @@ The project is funded through two Essential Open Source Software for Science awa
 
  Daily Slicer internationalization session from 10 am to 11 am EST with members of the Slicer community
  
- Anyone is welcome to join the Google Meet for the session: https://meet.google.com/umd-avcb-xom 
+ Anyone is welcome to join the session that will be held online: 
+ 
+ * **Tuesday, Jan.31**: https://meet.google.com/umd-avcb-xom
+ * **Wednesday, Feb.1st**: same Zoom link as for the preparation meetings and breakout sessions
+ * **Thursday, Feb. 2nd**: same Zoom link as for the preparation meetings and breakout sessions
  
  New international members, please fill in the [PW38 Slicer internationalization form](https://forms.gle/iinkdKvN4ZG2vv2o6) prior to joining the session.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+
+- Non-translatable text in Welcome module: fix submitted <https://github.com/Slicer/Slicer/pull/6810>
+- List of languages in the Weblate / Languages combobox are now populated by querying the server <https://github.com/Slicer/SlicerLanguagePacks/commit/acffb3670bcaa77beb40759e7125a79f1a179cb1>
 
 
 # Illustrations
