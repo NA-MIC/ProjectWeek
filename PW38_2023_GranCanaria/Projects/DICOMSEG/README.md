@@ -170,13 +170,22 @@ bits allocated is limited to a maximum of 8 currently. This means that
 fractional segmentations have limited precision and are quantized to 256
 values, which is a lower level of precision than users would generally expect.
 
-##### 4. Some interoperability concerns
+##### 4. Lack of compression in current implementations
+
+Even if it is encoded in labelmap representations, uncompressed data is inefficient for storing
+segmentation data.  A typical nii.gz or .seg.nrrd file is compressed with gzip and can
+be 100 or more time smaller than the source data due to redundancy in the segmentation data (large
+areas of uniform segmentation or repeating patterns that can be more efficiently represented
+by short codes).  DICOM currently offers some options for this like RLE, but as yet they have
+not be widely supported in currently used open source tools.
+
+##### 5. Some interoperability concerns
 
 There are repeated reports of interoperability issues between segmentations
 created with highdicom and viewed in OHIF. See [this
 issue](https://github.com/OHIF/Viewers/issues/2833).
 
-##### 5. Expanding dimension organization methods
+##### 6. Expanding dimension organization methods
 
 Multiple users of highdicom have been asking for support for 2D+T files. This
 is possible but not straightforward due to the need to create a dimension
