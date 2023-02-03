@@ -48,10 +48,10 @@ This extension will also be used in a new module dedicated to assist the DBS tar
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.-->
 [AtlasYEB Registration Result]
 
-<img src="FromAtlasYEBRegistration.png" width="800"/>
+<img src="FromAtlasYEBRegistration.png" width="900"/>
 
 [Inmporting Models to Segmentation Objects]
-<img src="AtlasYEBSEg.png" width="800"/>
+<img src="AtlasYEBSEg.png" width="900"/>
 
 
 # Background and References
