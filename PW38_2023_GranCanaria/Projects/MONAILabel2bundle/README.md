@@ -50,6 +50,7 @@ In this project we want to explore the process of converting MONAI Label trained
 3. We tested the bundle on a spleen dataset from decathalon data (Figure 1 below). 
 4. We can compare this approach to actual TotalSegmentator segmentation 
 5. Now we want to test on data from IDC (NSCLC-Radiomics patient that has some ground truth segmentation). Unfortunately we are getting a lot of CUDA memory errors since these datasets are a lot larger than the spleen dataset we previously tested on. We're working on making changes to the inference.json file and are trying to crop the images before inference. 
+6. Future work involves solving these memory errors, saving the output as DICOM SEG, and a more thorough comparison between the MONAI bundle and TotalSegmentator output. Testing on large collections and comparing to the ground truth segmentations is also part of the future work. 
 
 # Illustrations
 
