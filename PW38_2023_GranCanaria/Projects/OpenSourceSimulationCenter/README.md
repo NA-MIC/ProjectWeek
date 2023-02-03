@@ -53,3 +53,9 @@ Open source technologies have opened up a world of possibilities for the develop
 ## Conclusion & Outlook
 We'll publish information about this section briefly.
 
+## References
+1. IMSTK https://github.com/KitwareMedical/SlicerIMSTK
+2. Training system for US-guided lung interventions https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/US-guided_TrainingSystem/
+3. Fetal Ultrasound Simulation for Delivery Training https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/FetalUltrasoundSimulation/
+4. Development of Anatomy Atlases and Training Tools with 3D Slicer and Open Source Software https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/TTTAtlas/
+5. Virtual Hospital at the University of Las Palmas de Gran Canaria https://www.youtube.com/watch?v=3NVaVnAUZyc
