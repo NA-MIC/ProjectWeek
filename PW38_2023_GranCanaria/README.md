@@ -89,6 +89,14 @@ Categories based on project list of PW37, will be updated as we populate the lis
 
 Presenter (assumed based on order + confirmed status) in **bold**
 
+### Early birds
+
+1. [DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanoun, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
+
+1. [Cross study sychronizer for OHIF Crosshair](Projects/OHIF_SyncCrosshair/README.md) (Salim Kanoun, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
+
+1. [PolySeg representations for OHIF Viewer Segmentations](Projects/OHIF_PolySeg/README.md)(Alireza Sedghi) _Remote_
+
 ### VR/AR and Rendering
 1. [SlicerVR - Restore Interactions](Projects/SlicerVRInteractions/README.md) (**Csaba Pintér**, Simon Drouin, Andrey Titov, Lucas Gandel, Jean-Christophe Fillion-Robin) *[On site]*
 
@@ -99,7 +107,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [Map texture when importing OBJ file into Slicer](Projects/TextureModelImport/README.md) (**Chi Zhang**, Steve Pieper, A. Murat Maga, Andras Lasso, Sara Rolfe) *[Remote]*
 
 ### IGT and Training
-5. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (**Natalia Arteaga**, David García, Javier González, Gara Ramos) *[On site]*
+1. [Training system for US-guided lung interventions](Projects/US-guided_TrainingSystem/README.md) (**Natalia Arteaga**, David García, Javier González, Gara Ramos) *[On site]*
 
 1. [Fetal Ultrasound Simulation for Delivery Training](Projects/FetalUltrasoundSimulation/README.md) (**Felix von Haxthausen**, David García, Tolga-Can Çallar, José Carlos Mateo) *[On site]*
 
@@ -120,7 +128,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [Ibis in Slicer](Projects/IbisInSlicer/README.md) (**Étienne Léger**, Houssem Eddine Gueziri, Simon Drouinb) *[On site]*
 
 ### Segmentation / Classification / Landmarking
-14. [Lung CT Segmentation and Analysis](Projects/LungSegmentation/Readme.md) (**Rudolf Bumm**, Ron Kikinis, Raúl San José Estépar, Steve Pieper, Eserval Rocha jr., Andras Lasso, Curtis Lisle) *[On site]*
+1. [Lung CT Segmentation and Analysis](Projects/LungSegmentation/Readme.md) (**Rudolf Bumm**, Ron Kikinis, Raúl San José Estépar, Steve Pieper, Eserval Rocha jr., Andras Lasso, Curtis Lisle) *[On site]*
 
 1. [MONAI Label to MONAI bundle conversion](Projects/MONAILabel2bundle/README.md) (**Deepa Krishnaswamy**, Cosmin Ciausu, Nazim Haouchine, Andres Diaz-Pinto, Jesse Tetreault, Roya Hajavi, Stephen Aylward, Steve Pieper, Andrey Fedorov) *[On site]*
 
@@ -145,7 +153,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 ### Quantification and Computation
 
-24. [Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (**Nathan Hutin**, Luc Anchling, Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, David Allemang, Jean-Christophe Fillion-Robin) *[Remote]*
+1. [Automatic Quantification 3D Components](Projects/AutomaticQuantitative3DCephalometrics/README.md) (**Nathan Hutin**, Luc Anchling, Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, David Allemang, Jean-Christophe Fillion-Robin) *[Remote]*
 
 1. [MeshComparison](Projects/MeshComparison/README.md) (**Paolo Zaffino**, Maria Francesca Spadea, Michela Destito, Amerigo Giudice) *[On site]*
 
@@ -158,7 +166,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 1. [Brain segmentation for Long COVID study](Projects/LongCOVID/README.md)(**Zora Kikinis**)[On site]
 
 ### Cloud / Web
-31. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (**Rudolf Bumm**, Steve Pieper, Gang Fu, Qing Liu) *[On site]*
+1. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (**Rudolf Bumm**, Steve Pieper, Gang Fu, Qing Liu) *[On site]*
 
 1. [MHub Integration](Projects/MHub_Integration/README.md) (**Leonard Nürnberg**, Dennis Bontempi, Andrey Fedorov) *[On site]*
 
@@ -186,14 +194,10 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [DICOM WSI: conversion, analysis workflow, accessing DICOM WSI in IDC](Projects/IDC_DICOM_WSI_workflow/README.md) (**Maximilian Fischer**, Andrey Fedorov, Marco Nolden, Philipp Schader, David Clunie, Daniela Schacherer, André Homeyer, Curtis Lisle) *[On site]*
 
-1. [DATSCAN Viewer implementation in OHIF](Projects/OHIF_DATSCAN/README.md) (Salim Kanoun, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
 
-1. [Cross study sychronizer for OHIF Crosshair](Projects/OHIF_SyncCrosshair/README.md) (Salim Kanoun, Alireza Sedghi, Celian Abadie, Sofien Sellamo) *[??]*
-
-1. [PolySeg representations for OHIF Viewer Segmentations](Projects/OHIF_PolySeg/README.md)(Alireza Sedghi) _Remote_
 
 ### Infrastructure
-48. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (**Connor Bowley**, Sam Horvath, David Allemang) *[On site]*
+1. [ParameterNodeWrapper](Projects/ParameterNodeWrapper/README.md) (**Connor Bowley**, Sam Horvath, David Allemang) *[On site]*
 
 1. [SlicerPipelines](Projects/SlicerPipelines/README.md)(**Connor Bowley**, Sam Horvath) *[On site]*
 
