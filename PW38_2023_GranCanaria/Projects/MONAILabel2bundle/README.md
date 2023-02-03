@@ -70,7 +70,6 @@ Figure 3 - Full CT segmentation on subject from IDC
 Figure 4 - Comparison on IDC data of the MONAI full CT segmentation bundle we created (left) to the output TotalSegmentator produces (right)
 [monai_bundle_vs_total_seg_idc.webm](https://user-images.githubusercontent.com/59979551/216612449-013d7dad-7bc6-43b0-9780-0c9f9b848007.webm)
 
-
 ## Discussion notes
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
