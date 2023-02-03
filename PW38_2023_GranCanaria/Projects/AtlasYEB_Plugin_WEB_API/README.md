@@ -49,7 +49,7 @@ This extension will also be used in a new module dedicated to assist the DBS tar
 [AtlasYEB Registration Result](FromAtlasYEBRegistration.png)
 
 [Inmporting Models to Segmentation Objects](AtlasYEBSEg.png)
-
+<img src="AtlasYEBSEg.png" width="600"/>
 
 
 # Background and References
