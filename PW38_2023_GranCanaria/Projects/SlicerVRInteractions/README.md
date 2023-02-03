@@ -46,8 +46,9 @@ Kitware and Robarts (Jean-Christophe Fillion Robin, Lucas Gandel, Sankhesh Jhave
 
 1. Restored support for complex gesture (grip) through [SlicerVirtualReality#109](https://github.com/KitwareMedical/SlicerVirtualReality/pull/109) and VTK [MR-9892](https://gitlab.kitware.com/vtk/vtk/-/merge_requests/9892)
 1. Restored partial support for interactions like `Select3DEvent` and `ViewerMovement3DEvent` through [SlicerVirtualReality#108](https://github.com/KitwareMedical/SlicerVirtualReality/pull/108)
-1. ...
-1. ...
+1. Cherry-picked said commits, built, and confirmed that the fly and grab&move features worked
+1. Confirmed that the actions manifest works on the HP Reverb 2 headset
+1. Started work towards restoring the "Pinch 3D" complex gesture (saving initial physical to world transform and manipulate world as the controllers move)
 
 # Illustrations
 
