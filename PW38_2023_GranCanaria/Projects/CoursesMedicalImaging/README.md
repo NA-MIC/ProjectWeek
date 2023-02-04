@@ -17,6 +17,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Youssou Faye 
 - Mame Diarra Sy 
 - Ahmed Dhahara Kane 
+- Attila Tanács (University of Szeged)
+- Attila Nagy (University of Szeged)
 
 # Project Description
 
