@@ -56,7 +56,7 @@ In this project we will demonstrate how an existing pre-trained MONAI model pack
 
 1. Preliminary work applying the model in question to segment prostate anatomy.
 1. Created bundle segmenting prostate tumors
-1. Minimum working example on training data sample 
+1. [Minimum working example on training data sample](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/blob/main/cancer_bundle_train_prostate158.ipynb)
 3. Examination of results on pre-trained model training data : prostate158
 4. Multi-modal input : T2,ADC, DWI, understand acquisition process of DWI used for training
 5. Bundle creating thoughts : More extensive documentation about required parameters in inference.json and the relation between anatomy.json and inference.json should be provided.
@@ -75,8 +75,8 @@ In this project we will demonstrate how an existing pre-trained MONAI model pack
 
 # Background and References
 
-- [NCI Imaging Data Commons](ttps://portal.imaging.datacommons.cancer.gov/)
+- [NCI Imaging Data Commons](https://portal.imaging.datacommons.cancer.gov/)
+- **[Minimum working example of pc segmentation on sample prostate158](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/blob/main/cancer_bundle_train_prostate158.ipynb)**
 - [MONAI zoo prostate_mri_anatomy bundle](https://github.com/Project-MONAI/model-zoo/tree/dev/models/prostate_mri_anatomy)
 - [MONAI PC segmentation custom bundle](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/tree/main/pcDetectionBundle)
 - [PC segmentation model paper](https://www.sciencedirect.com/science/article/pii/S0010482522005789?via%3Dihub#kwrds0010)
-- [Minimum working example of pc segmentation on sample prostate158](https://colab.research.google.com/drive/1YYGAHqfdQo0gamktBqe_9D2vsUpPP8Dh?usp=sharing)
