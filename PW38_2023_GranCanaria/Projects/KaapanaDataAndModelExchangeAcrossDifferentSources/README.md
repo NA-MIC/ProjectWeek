@@ -72,7 +72,7 @@ Relate to:
      - Completed the implementation of a workflow in Kaapana for modelhub.ai
      - Supports each model already available in mhub
      - A wrapper around the dockerfile of models in mhub
-     - Ability to visualize the segmentations in Slicer, MITK or OHIF
+     - Ability to visualize the segmentations using Slicer, MITK or OHIF on a web browser
 
 2. Integration/support of data sources:
 - TCIA download/(upload) into Kaapana
@@ -82,7 +82,9 @@ Relate to:
 # Illustrations
 
 <img width="1436" alt="Screen Shot 2023-02-03 at 13 39 36" src="https://user-images.githubusercontent.com/16197349/216624581-fe7610cd-2186-4cc8-9002-9f28769cd055.png">
-<img width="1424" alt="Screen Shot 2023-02-03 at 13 41 09" src="https://user-images.githubusercontent.com/16197349/216624614-01aecb5d-8d47-4274-acba-5f2ecc582e2d.png">!
+<img width="1424" alt="Screen Shot 2023-02-03 at 13 41 09" src="https://user-images.githubusercontent.com/16197349/216624614-01aecb5d-8d47-4274-acba-5f2ecc582e2d.png">
+
+![Screen Shot 2023-02-03 at 14 13 08](https://user-images.githubusercontent.com/16197349/216636372-16924281-e1ab-436d-a656-c38cedd84eaa.jpg)
 
 
 ![mitk_p](https://user-images.githubusercontent.com/16197349/216622165-10c09abc-63fa-4703-9f67-63345a810c56.PNG)
