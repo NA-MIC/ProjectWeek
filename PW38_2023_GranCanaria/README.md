@@ -117,7 +117,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [Slicer + IMSTK for low cost training setups](Projects/SlicerIMSTK/README.md) (**Sam Horvath**, Kevin Cleary, Karun Sharma) *[On site]*
 
-1. [Open Source Technologies for the Development of Clinical Simulation Centers](Projects/OpenSourceSimulationCenter/README.md) (**Juan Ruiz**, Idafen Santana, Mario Monzón) *[On site]*
+1. [Open Source Technologies for the Development of Clinical Simulation Centers](Projects/OpenSourceSimulationCenter/README.md) (**Juan Ruiz**, **Miguel Angel Rodriguez-Florido**, Idafen Santana, Mario Monzón, etc.) *[On site]*
 
 1. [Setting up medical imaging courses](Projects/CoursesMedicalImaging/README.md) (**Juan Ruiz**, Idafen Santana, Mario Monzon) *[On site]*
 
@@ -165,7 +165,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [Brain segmentation for Long COVID study](Projects/LongCOVID/README.md)(**Zora Kikinis**)[On site]
 
-1. [SlicerElastix: update elastix version](Projects/SlicerElastixUpdate/Readme.md)(**Simón Oxenford**, Andras Lasso)[On site]
+1. [SlicerElastix: update elastix version](Projects/SlicerElastixUpdate/README.md)(**Simón Oxenford**, Andras Lasso)[On site]
 
 ### Cloud / Web
 1. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (**Rudolf Bumm**, Steve Pieper, Gang Fu, Qing Liu) *[On site]*
