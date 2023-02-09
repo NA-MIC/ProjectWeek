@@ -39,9 +39,8 @@ This extension will also be used in a new module dedicated to assist the DBS tar
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Firt prototype Module
-2. Launch Atlats Yeb Registration from Docker Image (and not from API)
-1. to be continued
+1. For this firt prototype Module, I launch Atlas Yeb Registration from Docker Image (and not from API) and create the segmentations objects from the results of the process.
+3. Nexts steps will be to give the choice to launch the AtlasYEB Registration From the WEB API or from the docker. Explore the use of terminologies and modify the GUI of the module to choose the regions to save as mask or labelmaps. Verifiy the description of the structures ... And publish the Extension 
 
 # Illustrations
 
