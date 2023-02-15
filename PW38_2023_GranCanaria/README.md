@@ -157,7 +157,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [MeshComparison](Projects/MeshComparison/README.md) (**Paolo Zaffino**, Maria Francesca Spadea, Michela Destito, Amerigo Giudice) *[On site]*
 
-1. [Electrophysiological biosignals in 3D Slicer](Projects/Electrophysiological%20biosignals%20in%203D%20Slicer/README.md) (**Jordan Ortega Rodríguez**, Gara Ramos) *[On site]*
+1. [Electrophysiological biosignals in 3D Slicer](Projects/Electrophysiological_Biosignals_In_3DSlicer/README.md) (**Jordan Ortega Rodríguez**, Gara Ramos) *[On site]*
 
 1. [Analytic Registration Verification](Projects/AnalyticRegistrationVerification/README.md) (**Gerry Gralton**, Andy Huynh, Benjamin Zwick) *[On site]*
 
