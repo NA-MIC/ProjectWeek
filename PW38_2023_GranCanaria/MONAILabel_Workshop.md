@@ -1,6 +1,6 @@
 # MONAI Label Workshop / Tutorial
 
-Workshop <strike>will be</strike> **WAS** held: **January 25, 2022 9-11am EST**
+Workshop <strike>will be</strike> **WAS** held: **January 25, 2023 9-11am EST**
 
 **A recording of the workhop is here:** https://www.youtube.com/watch?v=KtPE8m0LvcQ
 
