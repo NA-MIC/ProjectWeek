@@ -55,10 +55,10 @@ Objective 3. Send commands from EMG signals to Slicer to control movements of 3D
 # Illustrations
 
 ### Data Acquisition Board for the EMG signals
-<img src="https://github.com/JordanOrt/EMG_Slicer/blob/1546b5817a2116dead5ebac659b9e32520a62fc6/MySiganIoT.jpg" width="500"/>
+<img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/Electrophysiological_Biosignals_In_3DSlicer/MySiganIoT.jpg" width="500"/>
 
 ### EMG data plot in 3D Slicer
-<img src="https://github.com/JordanOrt/EMG_Slicer/blob/1546b5817a2116dead5ebac659b9e32520a62fc6/EMG-Arduino%20Plot.png" width="500"/>
+<img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/Electrophysiological_Biosignals_In_3DSlicer/EMG-Arduino%20Plot.png" width="500"/>
 
 
 # Videos
