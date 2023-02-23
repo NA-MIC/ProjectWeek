@@ -64,11 +64,13 @@ Objective 3. Send commands from EMG signals to Slicer to control movements of 3D
 # Videos
 
 ### Biosignals Data Acquisition Board with Arduino system
+![](https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/Electrophysiological_Biosignals_In_3DSlicer/DAQ-board-and-Arduino.gif)
 
 ### Streamming the EMG signal in 3d Slicer
+![](https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/Electrophysiological_Biosignals_In_3DSlicer/EMG_Slicer.gif)
 
 ### Controlling a 3D Hand with EMG signals in 3D Slicer
-
+![](https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/Electrophysiological_Biosignals_In_3DSlicer/EMG-3DHand.gif)
 
 # Background and References
 
