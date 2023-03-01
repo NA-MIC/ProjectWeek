@@ -9,6 +9,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mario Monzón (ULPGC)
 - Miguel Angel Rodriguez-Florido (ULPGC)
 - Marta Latorre (ULPGC)
+- Marina Elistratova Elistratova (ULPGC)
+- Maica Fernández (ULPGC)
 - David Garcia-Mato (Ebatinca S.L.)
 - Javier Gonzalez-Fernandez (ITC)
 - Natalia Arteaga-Marrero (IACTEC)
@@ -23,7 +25,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Estelle Tcheple Tuo
 - Geir Arne Tangen (SINTEF - Norway)
 - Javier Pascau (UC3M - Spain)
-- Juan León (HGUGM - Spain)
+- Juan León (HGUGM - Spain) 
 
 # Project Description
 
@@ -57,7 +59,15 @@ Open source technologies have opened up a world of possibilities for the develop
 
 ## Conclusion & Outlook
 
-Soon, we'll publish information about this section.
+This project let us advance in the team cooperation for merging ideas and getting information of each partner. We learnt the capabilities and needs of each partner and how to include the open source technology developed around Slicer.
+In summary, we can show the main ideas that we got from our partners in Africa:
+- Our partners from Africa are interested in training for gynecologists and the reanimation for newborn babies. In our workgroup, and around Slicer, there are some applications for both kind of education. Then, these apps will be evaluated to test their performance and learning goals.
+- Oumar is interested for his Center in the VR apps for learning anatomy that they saw in the visit of the Virtual Hospital. Also, he is interested in the delivery app (2) based on Slicer that it’s proposed in this PW38 event. He proposes to develop applications to make the anamnesis (oral and clinical exploration). In this line, we think that the VR could help us to achieve this goal. He is interested in all apps that can help for endotracheal intubation and reanimation.
+-  Mr. Mouhamedi Ahmed Haidara Bah, director of the Public Health School at Rosso, said that they don’t have technical resources to implement the technology that ha has seen at this event, but his group is very interested for including this kind of tech in vessels’ punctions and obstetrics’s healthcare.
+-  Khedijetou Vilaly M.D., is an gynecologist from Hospital Mère Enfant de Nouakchott, interested in the ultrasound guided procedures and the manufacturing of breast’s phantoms.
+-  Ahmed Dhahara Kane, professor at the Medical School and physician in Pediatric Surgery, is interested in virtual reality apps and the manufacturing of phantoms for teaching.
+
+Also, from a point of view of the economy in health, Marina Elistratova and Maica Fernández are working in research about how the education in health using this kind open source tools can help to save money for the health system. This work is just starting with this project and it is in progress now.
 
 ## References
 1. [Training system for US-guided lung interventions](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/US-guided_TrainingSystem/)
