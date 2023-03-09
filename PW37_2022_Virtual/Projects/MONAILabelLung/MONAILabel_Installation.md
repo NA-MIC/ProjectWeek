@@ -87,6 +87,24 @@ monailabel start_server --app apps/radiology --studies datasets/Task06_Lung/im
 Once you start the MONAI Label Server, by default it will be up and serving at [http://127.0.0.1:8000/](http://127.0.0.1:8000/). Open the serving URL in browser. It will provide you the list of Rest APIs available.
 
 
+Problem: Monai model-zoo API request fails  
+
+IF the git api request for a model fails due to an improperly formatted URL
+
+(for example https://api.github.com/repos/Project-MONAI\model-zoo/releases 1)
+
+THEN
+
+Step 1: The model “.zip” file can be downloaded (via web browser, for example) with a properly formatted version of the URL (replace '' with ‘/’) and then expanded into a folder on your PC.
+
+Step 2: Set values for two environment variable the server will use as an override:
+
+$Env:MONAI_ZOO_SOURCE = ‘local’
+$Env:MONAI_ZOO_REPO = < folder name >
+Step 3: Start monailabel server
+
+
+
 ## Docker-based step by step installation:
 
 Running MonaiLabel through [docker conterization environment](https://docs.docker.com/get-started/overview/) will simply installation steps considerably. This is particularly true for GPU support, since Docker will require you to install only the NVIDIA GPU driver and you don't have to worry about the CUDA environment setup. However, for docker to function you need to have admin (sudo) priviledges on the computer. Instructions here are primarily tested on a Linux environment, but should be applicable to Windows docker as well. 
