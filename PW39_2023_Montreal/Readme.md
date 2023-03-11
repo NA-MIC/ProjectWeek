@@ -21,7 +21,7 @@ If you have any questions, you can contact the [organizers](#organizers).
 -->
 
 ## Preparation meetings
-We hold weekly preparation meetings at 10am (Eastern Time) on Tuesdays, starting April 18, 2023. Please join at [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
+We hold weekly preparation meetings at 10am (Eastern Time) on Tuesdays, starting May 2, 2023. Please join at [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
 
 ##  Agenda
 
