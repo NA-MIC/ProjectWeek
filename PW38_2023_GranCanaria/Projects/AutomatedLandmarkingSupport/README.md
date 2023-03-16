@@ -45,7 +45,7 @@ extension.  We would like to discuss future plans for the Surface Markups extens
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Baseline prototype of python module for landmark linking complete. :white_check_mark:
+1. [Baseline prototype of python module for landmark linking complete](https://github.com/smrolfe/MarkupLinkTest). :white_check_mark:
 2. Markup Editor fixes and updates committed to the SlicerMorph repository. :white_check_mark:
 3. Follow up with SlicerHeart team regarding SurfaceMarkup prototype
 4. Further develop plans based on productive work and conversations this week :wrench:
