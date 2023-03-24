@@ -1,4 +1,4 @@
-<h2><img align="center" height="50" src="images/na-mic-logo.png"> Welcome to the web page for the 39th Project Week!</h2>
+<h2>Welcome to the web page for the 39th Project Week!</h2>
 
 [This event](https://projectweek.na-mic.org/PW39_2023_Montreal/) will take place June 12-16, 2023 in Montreal, Canada.
 
