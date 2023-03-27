@@ -9,6 +9,9 @@ ImageQuizzerProject
 
 The goal of this project is to develop a versatile clinical teaching tool which will present patient images with an associated questionnaire and capture user assessment for offline analysis. The content of the questionnaire will be customizable using the designer component of the application thereby providing a means to create a variety of educational/research resources.
 
+Online documentation can be found here: <https://baines-imaging-research-laboratory.github.io/ImageQuizzerDocumentation/>
+
+
 
 ## Objective
 
@@ -67,13 +70,18 @@ To learn the concepts that are needed to develop the three components of the pro
 # Illustrations
 
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
+
 ![ImageQuizzerInSlicer](ImageQuizzer_Slicer.png)
 
+<!--Archive old images
 ![ImageQuizzerDesigner](ImageQuizzerAdmin.png)
 
 ![ClearCanvasQuizWithImage](ObserverStudyWithImage.png)
 
 ![ClearCanvasQuizStudyBrowser](ObserverStudyBrowserStatus.png)
+
+
+-->
 
 
 # Background and References
