@@ -81,6 +81,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 [Developing and using anatomy atlases](Projects/BreakoutSession-Atlases.md) (Michael Halle and friends)
 
 [NCI Imaging Data Commons workshop/tutorial](https://docs.google.com/document/d/1HMmqVXSshEHf90Vu9LORaXVuoSpJzKxy7StrMBqfSdQ/edit?usp=sharing) (Andrey Fedorov and IDC team)
+   
+[What's new in 3D Slicer Slides](https://docs.google.com/presentation/d/1x9mdOoNHmf8qM4Tz2SGjykdzrX9vJeJqvMEYATU90es/edit?usp=sharing)
 
 Kaapana workshop (Markus Bujotzek and Kaapana team)
 
