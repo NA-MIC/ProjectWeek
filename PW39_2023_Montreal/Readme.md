@@ -24,7 +24,7 @@ If you have any questions, you can contact the [organizers](#organizers).
 If you pland to attend **in person**, register your workshop fee of 350 $CAN (approx. 250 $US) [here](https://www.eventbrite.ca/e/na-mic-project-week-39-tickets-593226786287).
 
 ## Preparation meetings
-We hold weekly preparation meetings at 10am (Eastern Time) on Tuesdays, starting May 2, 2023. Please join at [this link](https://etsmtl.zoom.us/j/86211702920?pwd=TEl0ZTFDam90WVN5bjZhR05kNVRVZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
+We hold weekly preparation meetings at 10am (Eastern Time) on Tuesdays, starting May 2, 2023. Please join at [this link](https://etsmtl.zoom.us/j/88039770641?pwd=L3JnRFAvRjQ2OEk1UWt1N2VMWDZZZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
 
 ##  Agenda
 
