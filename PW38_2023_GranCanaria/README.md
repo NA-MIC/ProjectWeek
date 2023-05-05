@@ -167,7 +167,7 @@ Presenter (assumed based on order + confirmed status) in **bold**
 
 1. [Brain segmentation for Long COVID study](Projects/LongCOVID/README.md)(**Zora Kikinis**)[On site]
 
-1. [SlicerElastix: update elastix version](Projects/SlicerElastixUpdate/README.md)(**Simón Oxenford**, Andras Lasso)[On site]
+1. [SlicerElastix: update elastix version](Projects/SlicerElastixUpdate/Readme.md) (**Simón Oxenford**, Andras Lasso)[On site]
 
 ### Cloud / Web
 1. [How-to setup and run 3D Slicer on an AWS server instance step by step](Projects/SlicerCloud/Readme.md) (**Rudolf Bumm**, Steve Pieper, Gang Fu, Qing Liu) *[On site]*
