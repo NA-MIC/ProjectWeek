@@ -48,7 +48,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 [How to add this calendar to your own?](../common/Calendar.md)
 
 ## Breakout sessions
-TBD
+1. [Futur of rendering in VTK and Slicer](BreakoutSessions/RenderingBreakout/Readme.md)
 
 ## Projects [(How to add a new project?)](Projects/Readme.md)
 
