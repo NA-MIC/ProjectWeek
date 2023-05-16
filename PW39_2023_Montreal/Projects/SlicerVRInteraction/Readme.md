@@ -1,12 +1,25 @@
-Back to [Projects List](../../README.md#ProjectsList)
+---
+layout: pw39-project
 
-# SlicerVR - Restore Interactions
+project_title: SlicerVR - Restore Interactions
 
-## Key Investigators
+# "affiliation" and "country" are optional
+key_investigators:
+- firstname: Csaba
+  lastname: Pintér
+  affiliation: EBATINCA
+  country: Spain
 
-- Csaba Pintér (EBATINCA, Spain)
-- Simon Drouin (ÉTS Montréal, Canada)
-- Andrey Titov (ÉTS Montréal, Canada)
+- firstname: Simon
+  lastname: Drouin
+  affiliation: ÉTS Montréal
+  country: Canada
+
+- firstname: Andrey
+  lastname: Titov
+  affiliation: ÉTS Montréal
+  country: Canada
+---
 
 # Project Description
 
