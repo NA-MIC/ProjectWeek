@@ -2,19 +2,19 @@
 layout: default
 ---
 
-<div class="internal-page" markdown="1">
+Back to <a href="../../README.md#ProjectsList">Projects List</a>
 
-Back to [Projects List](../../README.md#ProjectsList)
+<h1>{{ page.project_title }}</h1>
 
-# {{ page.project_title }}
+<h2>Key Investigators</h2>
 
-## Key Investigators
-
+<ul>
 {% if page.key_investigators %}
   {% for investigator in page.key_investigators %}
-- {{ investigator.firstname }} {{ investigator.lastname }} (investigator.affiliation)
+  <li>{{ investigator.firstname }} {{ investigator.lastname }} (investigator.affiliation)</li>
   {% endfor %}
 {% endif %}
+</ul>
 
 {{ content }}
 
