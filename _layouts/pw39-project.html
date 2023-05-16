@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Back to <a href="../../README.md#ProjectsList">Projects List</a>
+Back to <a href="../../#projects-how-to-add-a-new-project">Projects List</a>
 
 <h1>{{ page.project_title }}</h1>
 
@@ -11,7 +11,7 @@ Back to <a href="../../README.md#ProjectsList">Projects List</a>
 <ul>
 {% if page.key_investigators %}
   {% for investigator in page.key_investigators %}
-  <li>{{ investigator.firstname }} {{ investigator.lastname }} (investigator.affiliation)</li>
+  <li>{{ investigator.firstname }} {{ investigator.lastname }} ({{ investigator.affiliation }})</li>
   {% endfor %}
 {% endif %}
 </ul>
