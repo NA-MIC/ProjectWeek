@@ -1,0 +1,92 @@
+name: Project Proposal
+description: Template to create an issue enabling discussion related to a project concept or idea
+title: "[Proposal]: "
+labels: ["proposal", "event:PW39_2023_Montreal"]
+assignees:
+  - drouin-simon
+  - piiq
+  - rafaelpalomar
+  - sjh26
+  - tkapur
+
+body:
+- type: textarea
+  attributes:
+    label: Key Investigators
+    placeholder: |
+      - Investigator 1 (Affiliation)
+      - Investigator 2 (Affiliation)
+      - Investigator 3 (Affiliation)
+    render: markdown
+  validations:
+    required: true
+    
+- type: textarea
+  attributes:
+    label: Key Investigators
+    description: Add a short paragraph describing the project.
+    render: markdown
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Objective
+    description: Describe here WHAT you would like to achieve (what you will have as end result).
+    placeholder: |
+      1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
+      1. Objective B. ...
+      1. Objective C. ...
+    value: |
+      1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
+    render: markdown
+  validations:
+    required: false
+
+- type: textarea
+  attributes:
+    label: Approach and Plan
+    description: Describe here HOW you would like to achieve the objectives stated above.
+    placeholder: |
+      1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
+      1. ...
+      1. ...
+    value: |
+      1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
+    render: markdown
+  validations:
+    required: false
+
+- type: textarea
+  attributes:
+    label: Progress and Next Steps
+    description: Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too.
+    placeholder: |
+      1. Describe specific steps you **have actually done**.
+      1. ...
+      1. ...
+    value: |
+      1. Describe specific steps you **have actually done**.
+    render: markdown
+  validations:
+    required: false
+
+- type: textarea
+  attributes:
+    label: Illustrations
+    description: Add pictures and links to videos that demonstrate what has been accomplished.
+    placeholder: |
+      ![Description of picture](Example2.jpg)
+      ![Some more images](Example2.jpg)
+    render: markdown
+  validations:
+    required: false
+
+- type: textarea
+  attributes:
+    label: Background and References
+    description: If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications.
+    render: markdown
+  validations:
+    required: false
+
