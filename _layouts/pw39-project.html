@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="internal-page" markdown="1">
+
+Back to [Projects List](../../README.md#ProjectsList)
+
+# {{ page.project_title }}
+
+## Key Investigators
+
+{% if page.key_investigators %}
+  {% for investigator in page.key_investigators %}
+- {{ investigator.firstname }} {{ investigator.lastname }} (investigator.affiliation)
+  {% endfor %}
+{% endif %}
+
+{{ content }}
+
+</div>
