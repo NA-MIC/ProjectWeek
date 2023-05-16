@@ -51,6 +51,7 @@ TBD
 ## Projects [(How to add a new project?)](Projects/Readme.md)
 
 ### VR/AR and Rendering
+1.[SlicerVR - Restore Interactions part 2](Projects/SlicerVRInteractions/Readme.md) (Csaba Pintér, Simon Drouin, Andrey Titov)
 
 ### IGT and Training
 
