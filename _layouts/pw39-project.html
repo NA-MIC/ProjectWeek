@@ -11,7 +11,7 @@ Back to <a href="../../#projects-how-to-add-a-new-project">Projects List</a>
 <ul>
 {% if page.key_investigators %}
   {% for investigator in page.key_investigators %}
-  <li>{{ investigator.firstname }} {{ investigator.lastname }} ({{ investigator.affiliation }})</li>
+  <li>{{ investigator.firstname }} {{ investigator.lastname }} ({{ investigator.affiliation }}{% if investigator.country %}, {{ investigator.country }}{% endif %})</li>
   {% endfor %}
 {% endif %}
 </ul>
