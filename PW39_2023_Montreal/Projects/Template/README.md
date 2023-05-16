@@ -1,17 +1,17 @@
 ---
 layout: pw39-project
 
-# Update values associated with "project_title" and "key_investigators" keys.
-
 project_title: Write full project title here
 
 key_investigators:
 - firstname: Person
   lastname: Doe
   affiliation: University
+
 - firstname: Person2
   lastname: Doe2
   affiliation: University2
+  country: Spain
 ---
 
 # Project Description
