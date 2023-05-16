@@ -33,6 +33,16 @@ key_investigators:
   lastname: Fillion-Robin
   affiliation: Kitware inc.
   country: USA
+  
+- firstname: Stephen
+  lastname: Aylward
+  affiliation: Kitware inc.
+  country: USA
+  
+- firstname: Rafael
+  lastname: Palomar
+  affiliation: NTNU
+  country: Norway
  
 ---
 
