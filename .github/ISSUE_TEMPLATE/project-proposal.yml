@@ -23,7 +23,7 @@ body:
     
 - type: textarea
   attributes:
-    label: Key Investigators
+    label: Project Description
     description: Add a short paragraph describing the project.
     render: markdown
   validations:
