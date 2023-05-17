@@ -15,8 +15,8 @@ key_investigators:
   country: USA
   
 - firstname: Murat
-  lastname: Magat
-  affiliation:
+  lastname: Maga
+  affiliation: University of Washington
   country: USA
   
 - firstname: Andras
@@ -26,7 +26,7 @@ key_investigators:
   
 - firstname: Sara
   lastname: Rolfe
-  affiliation: 
+  affiliation: Seattle Children's Research Institute
   country: USA
   
 - firstname: Jean-Christophe
@@ -48,7 +48,7 @@ key_investigators:
 
 # Description
 
-The goal of this breakout session is to gather all parties interested in the future of rendering in VTK and Slicer, present ongoing development by Kitware and others and discuss potential future directions and clinical needs.
+The goal of this breakout session is to gather all parties interested in the future of rendering in VTK and Slicer, present ongoing development by Kitware and others and discuss potential future directions and clinical and biomedical needs.
 
 ## Topics
 
