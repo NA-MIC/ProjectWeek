@@ -1,7 +1,7 @@
-name: Project Proposal
-description: Template to create an issue enabling discussion related to a project concept or idea
-title: "[Proposal]: "
-labels: ["proposal", "event:PW39_2023_Montreal"]
+name: Project
+description: Issue template to streamline the creation of project pages.
+title: "Project: "
+labels: ["project", "event:PW39_2023_Montreal"]
 assignees:
   - drouin-simon
   - piiq
@@ -20,7 +20,7 @@ body:
     render: markdown
   validations:
     required: true
-    
+
 - type: textarea
   attributes:
     label: Project Description
