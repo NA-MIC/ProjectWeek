@@ -2,6 +2,7 @@
 layout: pw39-project
 
 project_title: SlicerVR - Restore Interactions
+category: VR/AR and Rendering
 
 # "affiliation" and "country" are optional
 key_investigators:

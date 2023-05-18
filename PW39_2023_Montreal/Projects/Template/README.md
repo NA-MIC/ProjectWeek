@@ -2,6 +2,7 @@
 layout: pw39-project
 
 project_title: Write full project title here
+category: Uncategorized
 
 key_investigators:
 - firstname: Person

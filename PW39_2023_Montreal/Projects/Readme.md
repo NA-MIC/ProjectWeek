@@ -9,11 +9,8 @@
 4. Click on "Create new file" button
 5. Type `YourProjectName/README.md`
 6. Paste the previously copied content of project template page into your new `README.md`
-7. Update at least your project's __title, key investigators, project description sections__
+7. Update at least your project's __title, category, key investigators, project description sections__
 8. Create a [pull request](https://help.github.com/articles/creating-a-pull-request/) with the new page
-9. Note in the pull request which category you would like the project to be in
-10. Once the pull request is merged, @sjh26 / Sam Horvath (or similar) will add the project to the main list
-11. If you have write access to the repository and are not using a pull request, please ping @sjh26 to add the project to the main list
 
 
 [forum]: https://discourse.slicer.org/c/community/project-week
