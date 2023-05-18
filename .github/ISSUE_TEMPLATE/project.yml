@@ -36,7 +36,6 @@ body:
       - Investigator 1 (Affiliation, Country)
       - Investigator 2 (Affiliation, Country)
       - Investigator 3 (Affiliation, Country)
-    render: markdown
   validations:
     required: true
 
@@ -44,7 +43,6 @@ body:
   attributes:
     label: Project Description
     description: Add a short paragraph describing the project.
-    render: markdown
   validations:
     required: true
 
@@ -58,7 +56,6 @@ body:
       1. Objective C. ...
     value: |
       1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-    render: markdown
   validations:
     required: false
 
@@ -72,7 +69,6 @@ body:
       1. ...
     value: |
       1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-    render: markdown
   validations:
     required: false
 
@@ -86,7 +82,6 @@ body:
       1. ...
     value: |
       1. Describe specific steps you **have actually done**.
-    render: markdown
   validations:
     required: false
 
@@ -97,7 +92,6 @@ body:
     placeholder: |
       ![Description of picture](Example2.jpg)
       ![Some more images](Example2.jpg)
-    render: markdown
   validations:
     required: false
 
@@ -105,6 +99,5 @@ body:
   attributes:
     label: Background and References
     description: If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications.
-    render: markdown
   validations:
     required: false
