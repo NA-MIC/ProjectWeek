@@ -20,6 +20,8 @@ _The {{ event_name }} event has a total of {{ project_count }} projects._
 
 ### Uncategorized
 
+_This section lists projects that either have no category assigned, are assigned to the "Uncategorized" category, or are assigned to a different category than the ones listed above. If you are unable to find a category that is suitable for your project, or believe that a specific category is missing, please discuss it with the [organizers](#organizers)._
+
 {{ uncategorized }}
 
 <!-- End _includes/projects.md -->
