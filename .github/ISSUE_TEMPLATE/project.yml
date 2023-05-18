@@ -24,6 +24,10 @@ body:
         - Infrastructure
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        _If you are unable to find a category that is suitable for your project, or believe that a specific category is missing, please discuss it with the organizers._
 
 - type: textarea
   attributes:
