@@ -10,6 +10,21 @@ assignees:
   - tkapur
 
 body:
+
+  - type: dropdown
+    attributes:
+      label: Category
+      description: Select a category that best describes your project. This will help others to quickly understand the focus of your project.
+      options:
+        - VR/AR and Rendering
+        - IGT and Training
+        - Segmentation / Classification / Landmarking
+        - Quantification and Computation
+        - Cloud / Web
+        - Infrastructure
+    validations:
+      required: true
+
 - type: textarea
   attributes:
     label: Key Investigators

@@ -1,4 +1,14 @@
-<h2>Welcome to the web page for the 39th Project Week!</h2>
+---
+project_categories:
+- VR/AR and Rendering
+- IGT and Training
+- Segmentation / Classification / Landmarking
+- Quantification and Computation
+- Cloud / Web
+- Infrastructure
+---
+
+# Welcome to the web page for the 39th Project Week!
 
 [This event](https://projectweek.na-mic.org/PW39_2023_Montreal/) will take place June 12-16, 2023 in Montreal, Canada.
 
@@ -44,19 +54,8 @@ With the [Project Week GitHub Issue page](https://github.com/NA-MIC/ProjectWeek/
 2.    [Create a Project](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=drouin-simon%2Cpiiq%2Crafaelpalomar%2Csjh26%2Ctkapur&labels=project%2Cevent%3APW39_2023_Montreal&projects=&template=project.yml&title=Project%3A+) issue: If you are ready to create your page, you can simply create a “Project” issue. This issue will allow you to fill out a convenient form to provide the necessary details.
 
 3.    [Create the project page yourself using the template](Projects/Readme.md): If you prefer to create the Project Page yourself, you can still do so by using the provided template and submitting a pull request.
-    
-### VR/AR and Rendering
-1. [SlicerVR - Restore Interactions part 2](Projects/SlicerVRInteraction/Readme.md) (Csaba Pintér, Simon Drouin, Andrey Titov)
 
-### IGT and Training
-
-### Segmentation / Classification / Landmarking
-
-### Quantification and Computation
-
-### Cloud / Web
-
-### Infrastructure
+{% include projects.md %}
 
 ## Registrants
 
