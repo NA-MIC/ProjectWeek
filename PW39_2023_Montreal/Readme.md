@@ -50,8 +50,16 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 ## Breakout sessions
 1. [Future of rendering in VTK and Slicer](BreakoutSessions/RenderingBreakout/Readme.md)
 
-## Projects [(How to add a new project?)](Projects/Readme.md)
+## Projects
 
+With the [Project Week GitHub Issue page](https://github.com/NA-MIC/ProjectWeek/issues/new/choose), you have three options to create your Project Page:
+
+1.    [Create a Proposal](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=drouin-simon%2Cpiiq%2Crafaelpalomar%2Csjh26%2Ctkapur&labels=proposal%2Cevent%3APW39_2023_Montreal&projects=&template=proposal.yml&title=Proposal%3A+) issue: If you have an idea for a project page but are not quite ready to create it yet, you can create a “Proposal” issue.
+
+2.    [Create a Project](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=drouin-simon%2Cpiiq%2Crafaelpalomar%2Csjh26%2Ctkapur&labels=project%2Cevent%3APW39_2023_Montreal&projects=&template=project.yml&title=Project%3A+) issue: If you are ready to create your page, you can simply create a “Project” issue. This issue will allow you to fill out a convenient form to provide the necessary details.
+
+3.    [Create the project page yourself using the template](Projects/Readme.md): If you prefer to create the Project Page yourself, you can still do so by using the provided template and submitting a pull request.
+    
 ### VR/AR and Rendering
 1. [SlicerVR - Restore Interactions part 2](Projects/SlicerVRInteraction/Readme.md) (Csaba Pintér, Simon Drouin, Andrey Titov)
 
