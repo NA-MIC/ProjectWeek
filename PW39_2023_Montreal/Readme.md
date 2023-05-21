@@ -66,6 +66,43 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
+1. Rafael Palomar, Norway, (In-person)
+1. Sam Horvath, USA, (In-person)
+1. Simon Drouin, Canada, (In-person)
+1. Steve Pieper, USA, (In-person)
+1. David Clunie, USA, (In-person)
+1. Ron Kikinis, M.D., USA, (In-person)
+1. Étienne Léger, Canada, (In-person)
+1. Curtis Lisle, USA, (In-person)
+1. Kyle Sunderland, Canada, (In-person)
+1. Andrey Titov, Canada, (In-person)
+1. Stephen Aylward, USA, (Online)
+1. Sara Rolfe, USA, (In-person)
+1. Andrey Fedorov, USA, (In-person)
+1. Juan Pablo GRAFFIGNA, Argentina, (Online)
+1. Deepa Krishnaswamy, USA, (In-person)
+1. Rebecca Hisey, Canada, (In-person)
+1. Rudolf Bumm, Switzerland, (Online)
+1. Beier Yao, USA, (Online)
+1. Sylvain Bouix, Canada, (In-person)
+1. Theodore Aptekarev, Montenegro, (Online)
+1. Lucia Magdalena Bravo Cumpian, Argentina, (Online)
+1. Mohamed Alalli BILAL, Senegal, (Online)
+1. Chris Bridge, USA, (In-person)
+1. Ofer Pasternak, USA, (In-person)
+1. Shreyas Fadnavis, USA, (In-person)
+1. Kevin Cho, USA, (In-person)
+1. Jess Tate, USA, (Online)
+1. Guillermo Cecchi, USA, (In-person)
+1. Pablo Polosecki, USA, (In-person)
+1. Eduardo Castro, USA, (In-person)
+1. Amene Asgari, USA, (Online)
+1. Nora Penzel, USA, (In-person)
+1. Rodolfo Eduardo RODRÍGUEZ SCHMÄDKE, Argentina, (Online)
+1. Luc Anchling, France, (In-person)
+1. Colton Barr, Canada, (In-person)
+1. Shreyas Fadnavis, USA, (Online)
+
 <!-- Participants list end -->
 
 ## Statistics
