@@ -1,7 +1,7 @@
 ---
 layout: pw39-project
 
-project_title: mpReview: Development of a streamlined Slicer module for manual image annotation
+project_title: mpReview Development of a streamlined Slicer module for manual image annotation
 category: Cloud / Web
 
 key_investigators:
