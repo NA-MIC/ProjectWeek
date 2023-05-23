@@ -17,19 +17,6 @@ project_categories:
 
 If you have any questions, you can contact the [organizers](#organizers).
 
-<!-- to be added at the end of PW
-## Screenshots, Illustrations & Photos Album
-
-[Google Photos album from PW37](https://photos.app.goo.gl/PTJjQn5D33uShcLM9)
-
-## Before Project Week
-1. Register [here](https://forms.gle/sh9jGJLJdBm4us3E7), it is free!
-2. **If you plan to attend in person**, register you workshop fee of 400 Euros [here](https://www.fulp.es/inscripcion-namic).
-3. Attend one or more [preparation meetings](#preparation-meetings) to present a project you intend to work on at PW, for which you are seeking collaborators or to join one of the projects proposed by others.
-4. Join the [Discord server](https://discord.gg/yQsNVdVpS3) that will be used to communicate with your team during Project Week. Go to [this page](../common/Discord.md) for more info on the use of Discord during PW.
-5. Consider joining the [MONAI Label Workshop](MONAILabel_Workshop.md) that will take place January 25th (the week before Project Week).
--->
-
 ## Registration
 * All participants (both remote and in-person) have to register using the [this form](https://docs.google.com/forms/d/e/1FAIpQLSe9dyTCW8Y-RWHEvBUTUXTpbP8Nd9KvUUFpoItuy9_fYKYRfw/viewform).
 * Registration for **remote** participants is free.
@@ -37,6 +24,9 @@ If you have any questions, you can contact the [organizers](#organizers).
 
 ## Preparation meetings
 We hold weekly preparation meetings at 10am (Eastern Time) on Tuesdays, starting May 2, 2023. Please join at [this link](https://etsmtl.zoom.us/j/88039770641?pwd=L3JnRFAvRjQ2OEk1UWt1N2VMWDZZZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
+
+## Discord
+The **Discord** application is used to communicate between team members and organize activities before and during Project Week. Please join the Project Week [Discord server](https://discord.gg/yQsNVdVpS3) as soon as possible and explore its functionality before the workshop. For more information on the use of Discord before and during Project Week, please visit [this page](../common/Discord.md).
 
 ##  Agenda
 
