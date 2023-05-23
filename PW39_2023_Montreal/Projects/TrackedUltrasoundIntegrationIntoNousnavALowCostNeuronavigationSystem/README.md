@@ -4,7 +4,36 @@ layout: pw39-project
 project_title: Tracked ultrasound integration into NousNav, a low-cost neuronavigation system
 category: IGT and Training
 
+
 key_investigators:
+
+- firstname: Colton
+  lastname: Barr
+  affiliation: Queen's University / Brigham and Women's Hospital
+  
+- firstname: Sarah
+  lastname: Frisken
+  affiliation: Brigham and Women's Hospital
+  
+- firstname: Sonia
+  lastname: Pujol
+  affiliation: Brigham and Women's Hospital
+  
+- firstname: Steve
+  lastname: Pieper
+  affiliation: Isomics
+  
+- firstname: Tina
+  lastname: Kapur
+  affiliation: Brigham and Women's Hospital
+  
+- firstname: Tamas
+  lastname: Ungi
+  affiliation: Queen's University
+
+- firstname: Sam
+  lastname: Horvath
+  affiliation: Kitware
 
 ---
 
