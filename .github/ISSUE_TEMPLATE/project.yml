@@ -33,9 +33,9 @@ body:
   attributes:
     label: Key Investigators
     placeholder: |
-      - Investigator 1 (Affiliation, Country)
-      - Investigator 2 (Affiliation, Country)
-      - Investigator 3 (Affiliation, Country)
+      - FirstName1, LastName1 (Affiliation, Country)
+      - FirstName2, LastName2 (Affiliation, Country)
+      - FirstName3, LastName3 (Affiliation, Country)
   validations:
     required: true
 
