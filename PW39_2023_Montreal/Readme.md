@@ -91,7 +91,13 @@ List of registered participants so far (names will be added here after processin
 1. Rodolfo Eduardo RODRÍGUEZ SCHMÄDKE, Argentina, (Online)
 1. Luc Anchling, France, (In-person)
 1. Colton Barr, Canada, (In-person)
-1. Shreyas Fadnavis, USA, (Online)
+1. Pablo Sergio Castellano Rodríguez, Spain, (In-person)
+1. Jose Carlos Mateo Perez, Spain, (In-person)
+1. Gabriella d'Albenzio, Norway, (In-person)
+1. Konstantinos Ntatsis, Netherlands, (In-person)
+1. Justin Kirby, USA, (Online)
+1. Zhuopin Sun, Australia, (Online)
+1. Gabor Fichtinger , Canada, (Online)
 
 <!-- Participants list end -->
 
