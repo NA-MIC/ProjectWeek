@@ -123,19 +123,34 @@ jobs:
           "investigators": [.["key-investigators"].list[].text |
             capture("(?<firstname>[^,]+)(?:[[:space:]]+[[:alpha:]]+)*,[[:space:]]+(?<lastname>[^,]+(?:[[:space:]]+[[:alpha:]]+)*?) \\((?<affiliation>[^,]+)(?:, (?<country>[^)]+))?\\)") |
             {firstname, lastname, affiliation, country: (.country // "")}],
-        }' > template-data.json
+        }' > ${{ runner.temp }}/template-data.json
+
+    - name: Display template-data.json
+      run: |
+        cat ${{ runner.temp }}/template-data.json
+
+    - uses: actions/setup-python@v4.6.0
+      with:
+        python-version: "3.x"
+
+    - name: Install jinja2
+      run: |
+        python -m pip install jinja2
+
+        # Provide the cli interface
+        python -m pip install jinja2_cli
+
+        # Install the package providing the "to_yaml" and "regex_replace" filters.
+        python -m pip install jinja2-ansible-filters
 
     - name: Generate Project README.md
-      uses: cuchi/jinja2-action@v1.2.0
-      with:
-        template: ${{ steps.event_info.outputs.name }}/Projects/Template/README.md.j2
-        output_file: ${{ steps.event_info.outputs.name }}/Projects/${{ steps.project_directory.outputs.name }}/README.md
-        data_file: template-data.json
-        data_format: json
-
-    - name: Cleanup
       run: |
-        rm template-data.json
+        jinja2 \
+          ${{ steps.event_info.outputs.name }}/Projects/Template/README.md.j2 \
+          ${{ runner.temp }}/template-data.json \
+          --format json \
+          -e "jinja2_ansible_filters.AnsibleCoreFiltersExtension" \
+          -o ${{ steps.event_info.outputs.name }}/Projects/${{ steps.project_directory.outputs.name }}/README.md
 
     - uses: tibdex/github-app-token@v1
       id: generate-token
