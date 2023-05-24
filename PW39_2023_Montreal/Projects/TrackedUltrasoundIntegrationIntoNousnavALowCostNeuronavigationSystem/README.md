@@ -10,30 +10,37 @@ key_investigators:
 - firstname: Colton
   lastname: Barr
   affiliation: Queen's University / Brigham and Women's Hospital
+  country: Canada
   
 - firstname: Sarah
   lastname: Frisken
   affiliation: Brigham and Women's Hospital
+  country: USA
   
 - firstname: Sonia
   lastname: Pujol
   affiliation: Brigham and Women's Hospital
+  country: USA
   
 - firstname: Steve
   lastname: Pieper
   affiliation: Isomics
+  country: USA
   
 - firstname: Tina
   lastname: Kapur
   affiliation: Brigham and Women's Hospital
+  country: USA
   
 - firstname: Tamas
   lastname: Ungi
   affiliation: Queen's University
+  country: Canada
 
 - firstname: Sam
   lastname: Horvath
   affiliation: Kitware
+  country: USA
 
 ---
 
