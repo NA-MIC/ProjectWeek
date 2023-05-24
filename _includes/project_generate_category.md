@@ -53,7 +53,7 @@
 {{ categories }}
 1. [{{ pw_page.project_title }}]({{ pw_page.url }}) (
 {%- for investigator in pw_page.key_investigators -%}
-    {{ investigator.firstname }} {{ investigator.lastname }}{% unless forloop.last %}, {% endunless -%}
+    {{ investigator.name }}{% unless forloop.last %}, {% endunless -%}
 {%- endfor -%}
 )
 {% endcapture %}
@@ -64,7 +64,7 @@
 {{ uncategorized }}
 1. [{{ pw_page.project_title }}]({{ pw_page.url }}) (
 {%- for investigator in pw_page.key_investigators -%}
-    {{ investigator.firstname }} {{ investigator.lastname }}{% unless forloop.last %}, {% endunless -%}
+    {{ investigator.name }}{% unless forloop.last %}, {% endunless -%}
 {%- endfor -%}
 )
 {% endcapture %}

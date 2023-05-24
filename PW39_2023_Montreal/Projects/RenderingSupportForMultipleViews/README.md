@@ -6,18 +6,15 @@ category: VR/AR and Rendering
 
 key_investigators:
 
-- firstname: Sara
-  lastname: Rolfe
+- name: Sara Rolfe
   affiliation: Seattle Children's Research Institute
   country: USA
 
-- firstname: Murat
-  lastname: Maga
+- name: Murat Maga
   affiliation: University of Washington
   country: USA
 
-- firstname: Chi
-  lastname: Zhang
+- name: Chi Zhang
   affiliation: Seattle Children's Research Institute
   country: USA
 

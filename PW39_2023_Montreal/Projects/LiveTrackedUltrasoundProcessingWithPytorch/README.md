@@ -6,16 +6,13 @@ category: IGT and Training
 
 key_investigators:
 
-- firstname: Tamas
-  lastname: Ungi
+- name: Tamas Ungi
   affiliation: Queen's University
 
-- firstname: Colton
-  lastname: Barr
+- name: Colton Barr
   affiliation: Queen's University / BWH
 
-- firstname: Tina
-  lastname: Kapur
+- name: Tina Kapur
   affiliation: Brigham and Women's Hospital
 
 ---

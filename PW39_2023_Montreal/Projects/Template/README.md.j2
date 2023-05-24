@@ -6,8 +6,7 @@ category: {{ category | regex_replace("\n$|\n\.\.\.\n$", "") }}
 
 key_investigators:
 {% for investigator in investigators %}
-- firstname: {{ investigator.firstname | to_yaml | regex_replace("\n$|\n\.\.\.\n$", "") }}
-  lastname: {{ investigator.lastname | to_yaml | regex_replace("\n$|\n\.\.\.\n$", "") }}
+- name: {{ investigator.name | to_yaml | regex_replace("\n$|\n\.\.\.\n$", "") }}
   affiliation: {{ investigator.affiliation | to_yaml | regex_replace("\n$|\n\.\.\.\n$", "") }}
 {%- if investigator.country %}
   country: {{ investigator.country | to_yaml | regex_replace("\n$|\n\.\.\.\n$", "") }}
