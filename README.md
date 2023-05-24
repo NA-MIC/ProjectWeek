@@ -37,7 +37,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
 ## Upcoming Project Weeks
 
-The [38th project week](PW38_2023_GranCanaria/README.md) will be held 2023 January 30-February 3rd.
+The [39th project week](PW39_2023_Montreal/Readme.md) will be held 2023 June 12-16 Online and Montreal, Canada.
 
 * Please contact the organizers if you have interest in hosting a Project Week event.
 
