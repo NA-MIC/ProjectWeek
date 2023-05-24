@@ -6,16 +6,13 @@ category: Cloud / Web
 
 key_investigators:
 
-- firstname: Deepa
-  lastname: Krishnaswamy
+- name: Deepa Krishnaswamy
   affiliation: BWH
 
-- firstname: Nadya
-  lastname: Shusharina
+- name: Nadya Shusharina
   affiliation: MGH
 
-- firstname: Andrey
-  lastname: Fedorov
+- name: Andrey Fedorov
   affiliation: BWH
 
 ---

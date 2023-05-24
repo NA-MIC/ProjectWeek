@@ -7,38 +7,31 @@ category: IGT and Training
 
 key_investigators:
 
-- firstname: Colton
-  lastname: Barr
+- name: Colton Barr
   affiliation: Queen's University / Brigham and Women's Hospital
   country: Canada
   
-- firstname: Sarah
-  lastname: Frisken
+- name: Sarah Frisken
   affiliation: Brigham and Women's Hospital
   country: USA
   
-- firstname: Sonia
-  lastname: Pujol
+- name: Sonia Pujol
   affiliation: Brigham and Women's Hospital
   country: USA
   
-- firstname: Steve
-  lastname: Pieper
+- name: Steve Pieper
   affiliation: Isomics
   country: USA
   
-- firstname: Tina
-  lastname: Kapur
+- name: Tina Kapur
   affiliation: Brigham and Women's Hospital
   country: USA
   
-- firstname: Tamas
-  lastname: Ungi
+- name: Tamas Ungi
   affiliation: Queen's University
   country: Canada
 
-- firstname: Sam
-  lastname: Horvath
+- name: Sam Horvath
   affiliation: Kitware
   country: USA
 

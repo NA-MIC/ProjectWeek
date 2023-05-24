@@ -6,18 +6,15 @@ category: IGT and Training
 
 key_investigators:
 
-- firstname: Pablo Sergio
-  lastname: Castellano Rodríguez
+- name: Pablo Sergio Castellano Rodríguez
   affiliation: Universidad  de Las Palmas de Gran Canaria
   country: Spain
 
-- firstname: Jose Carlos
-  lastname: Mateo Pérez
+- name: Jose Carlos Mateo Pérez
   affiliation: Universidad de Las Palmas de Gran Canaria
   country: Spain
 
-- firstname: Juan Bautista
-  lastname: Ruiz Alzola
+- name: Juan Bautista Ruiz Alzola
   affiliation: Universidad de Las Palmas de Gran Canaria
   country: Spain
 

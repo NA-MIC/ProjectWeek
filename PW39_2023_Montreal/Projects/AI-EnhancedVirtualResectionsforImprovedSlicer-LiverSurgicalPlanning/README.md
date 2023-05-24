@@ -5,18 +5,15 @@ project_title: AI-Enhanced Virtual Resections for Improved Slicer-Liver Surgical
 category: IGT and Training
 
 key_investigators:
-- firstname: Gabriella
-  lastname: d'Albenzio
+- name: Gabriella d'Albenzio
   affiliation: The Intevention Centre (OUS)
   country: Norway
 
-- firstname: Andras
-  lastname: Lasso
+- name: Andras Lasso
   affiliation: Queen's University
   country: Canada
   
-- firstname: Rafael
-  lastname: Palomar
+- name: Rafael Palomar
   affiliation: The Intevention Centre (OUS)
   country: Norway
 ---

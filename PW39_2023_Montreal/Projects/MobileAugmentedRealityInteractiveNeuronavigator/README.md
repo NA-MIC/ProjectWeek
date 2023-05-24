@@ -5,23 +5,19 @@ project_title: 'MARIN: Mobile Augmented Reality Interactive Neuronavigator (in S
 category: IGT and Training
 
 key_investigators:
-- firstname: Mehrdad
-  lastname: Asadi
+- name: Mehrdad Asadi
   affiliation: Concordia University
   country: Canada
   
-- firstname: Étienne
-  lastname: Léger
+- name: Étienne Léger
   affiliation: Montreal Neurological Institute
   country: Canada
   
-- firstname: Bahar
-  lastname: Jahani
+- name: Bahar Jahani
   affiliation: Concordia University
   country: Canada
 
-- firstname: Zahra
-  lastname: Asadi
+- name: Zahra Asadi
   affiliation: Concordia University
   country: Canada
 ---

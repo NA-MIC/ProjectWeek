@@ -6,8 +6,7 @@ category: Segmentation / Classification / Landmarking
 
 key_investigators:
 
-- firstname: Pape Mady
-  lastname: Thiao
+- name: Pape Mady Thiao
   affiliation: école militaire de santé de Dakar 
   country: Sénégal
 

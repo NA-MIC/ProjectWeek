@@ -5,12 +5,10 @@ project_title: Write full project title here
 category: Uncategorized
 
 key_investigators:
-- firstname: Person
-  lastname: Doe
+- name: Person Doe
   affiliation: University
 
-- firstname: Person2
-  lastname: Doe2
+- name: Person2 Doe2
   affiliation: University2
   country: Spain
 ---
