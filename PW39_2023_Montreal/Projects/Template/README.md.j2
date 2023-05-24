@@ -1,16 +1,16 @@
 ---
 layout: pw39-project
 
-project_title: {{ title }}
-category: {{ category }}
+project_title: {{ title | to_yaml | regex_replace("\n$|\n\.\.\.\n$", "") }}
+category: {{ category | regex_replace("\n$|\n\.\.\.\n$", "") }}
 
 key_investigators:
 {% for investigator in investigators %}
-- firstname: {{ investigator.firstname }}
-  lastname: {{ investigator.lastname }}
-  affiliation: {{ investigator.affiliation }}
+- firstname: {{ investigator.firstname | to_yaml | regex_replace("\n$|\n\.\.\.\n$", "") }}
+  lastname: {{ investigator.lastname | to_yaml | regex_replace("\n$|\n\.\.\.\n$", "") }}
+  affiliation: {{ investigator.affiliation | to_yaml | regex_replace("\n$|\n\.\.\.\n$", "") }}
 {%- if investigator.country %}
-  country: {{ investigator.country }}
+  country: {{ investigator.country | to_yaml | regex_replace("\n$|\n\.\.\.\n$", "") }}
 {%- endif %}
 {% endfor %}
 ---
