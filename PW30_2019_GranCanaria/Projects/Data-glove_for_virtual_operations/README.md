@@ -46,7 +46,7 @@ We built a data-glove that tracks hand movements. Our goal is to connect it to S
 
 Result:
 
-![Result](20190201_095221.gif)
+![Result](https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW30__Data-glove_for_virtual_operations__20190201_095221.gif)
 
 # Background and References
 
