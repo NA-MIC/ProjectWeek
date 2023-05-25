@@ -55,6 +55,12 @@ PW36](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projec
 <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_08.png?raw=true" width="50%">
 
 <video controls width="250">
+    <source src="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__liver_resection.mp4" type="video/webm">
+    Download
+    <a href="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__liver_resection.mp4">PW37__SlicerLiver__liver_resection.mp4</a>
+</video>
+
+<video controls width="250">
     <source src="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__distance-tumor.webm" type="video/webm">
     Download
     <a href="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__distance-tumor.webm">PW37__SlicerLiver__distance-tumor.webm</a>
