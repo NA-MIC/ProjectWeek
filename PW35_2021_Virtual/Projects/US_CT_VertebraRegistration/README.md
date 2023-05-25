@@ -51,7 +51,7 @@ The goal is to combine the registration method for _open_ surgery implemented in
 
 **Generate aligned CT-US data:**
 
-![US-CT Data](US-CTAlignment.gif)
+![US-CT Data](https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW35__US_CT_VertebraRegistration__US-CTAlignment.gif)
 
 
 
