@@ -54,6 +54,24 @@ PW36](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projec
 
 <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_08.png?raw=true" width="50%">
 
+<video controls width="250">
+    <source src="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__distance-tumor.webm" type="video/webm">
+    Download
+    <a href="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__distance-tumor.webm">PW37__SlicerLiver__distance-tumor.webm</a>
+</video>
+
+<video controls width="250">
+    <source src="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__distance-vessels.webm" type="video/webm">
+    Download
+    <a href="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__distance-vessels.webm">PW37__SlicerLiver__distance-vessels.webm</a>
+</video>
+
+<video controls width="250">
+    <source src="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__planning.webm" type="video/webm">
+    Download
+    <a href="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__planning.webm">PW37__SlicerLiver__planning.webm</a>
+</video>
+
 ## Progress and Next Steps
 
 In this project week, we have changed the user interaction to use segmentations instead of models, which greatly simplifies the user interaction.
