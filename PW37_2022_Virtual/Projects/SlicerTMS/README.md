@@ -44,7 +44,7 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 
 #### Coil moving and updating the electric field on the brain surface inside slicer:
 
-<img src="./tms_vis.gif" width="500" alt="Brain surface coil moving">
+<img src="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerTMS__tms_vis.gif" width="500" alt="Brain surface coil moving">
 
 
 #### Started WebSocket Tests: we can interact with the red, green and yellow slices with the new websocket connection:
