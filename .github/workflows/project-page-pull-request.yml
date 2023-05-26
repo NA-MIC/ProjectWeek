@@ -121,8 +121,8 @@ jobs:
           "illustrations": .illustrations.text,
           "background": .["background-and-references"].text,
           "investigators": [.["key-investigators"].list[].text |
-            capture("(?<firstname>[^,]+)(?:[[:space:]]+[[:alpha:]]+)*,[[:space:]]+(?<lastname>[^,]+(?:[[:space:]]+[[:alpha:]]+)*?) \\((?<affiliation>[^,]+)(?:, (?<country>[^)]+))?\\)") |
-            {firstname, lastname, affiliation, country: (.country // "")}],
+            capture("(?<name>[^\\s]+(?:\\s[^\\s]+)*?)\\s*\\((?<affiliation>[^,]*)(?:,\\s*(?<country>[^)]*))?\\)") |
+            {name, affiliation: (.affiliation // ""), country: (.country // "")}],
         }' > ${{ runner.temp }}/template-data.json
 
     - name: Display template-data.json

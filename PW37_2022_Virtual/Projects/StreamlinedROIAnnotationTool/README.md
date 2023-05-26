@@ -55,6 +55,7 @@ as possible.
    and image information back to server.
 
 ## Next Steps
+
 1. Need to add scoring functionality (DONE)
 2. Need to add way to mark image as defective (DONE)
 3. Need to add way to clear Previously added ROIs (DONE w/help from erikz)
@@ -65,6 +66,7 @@ as possible.
 
 
 # Illustrations
+
 <p align="center">
   <img src="work_flow.png" />
 </p>
@@ -72,8 +74,10 @@ as possible.
 Demo video from start of project:
 ![](SimplifiedROITool.gif)
 ![](roi-web-tool-example.gif)
+
 Demo video from end of project:
-![](FinalROITool_1.gif)
+![](https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__StreamlinedROIAnnotationTool__FinalROITool_1.gif)
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->

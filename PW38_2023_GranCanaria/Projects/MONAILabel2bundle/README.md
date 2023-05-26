@@ -67,12 +67,14 @@ Figure 1 - Full CT segmentation on subject from spleen decathalon data
 
 Figure 2 - Comparison on spleen decathalon data of the MONAI full CT segmentation bundle we created (left) to the output TotalSegmentator produces (right)
 [monai_bundle_vs_total_seg_spleen.webm](https://user-images.githubusercontent.com/59979551/216606510-047a0105-17ca-4765-8186-4132edf2c0e9.webm)
+![](https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW38__MONAILabel2bundle__monai_bundle_vs_total_seg_spleen.gif)
 
 Figure 3 - Full CT segmentation on subject from IDC 
 ![02_03_23_full_ct_segmentation_success_idc](https://user-images.githubusercontent.com/59979551/216612414-649813e5-945b-4719-aaa8-8954aeb44d18.JPG)
 
 Figure 4 - Comparison on IDC data of the MONAI full CT segmentation bundle we created (left) to the output TotalSegmentator produces (right)
 [monai_bundle_vs_total_seg_idc.webm](https://user-images.githubusercontent.com/59979551/216612449-013d7dad-7bc6-43b0-9780-0c9f9b848007.webm)
+![](https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW38__MONAILabel2bundle__monai_bundle_vs_total_seg_idc.gif)
 
 ## Discussion notes
 

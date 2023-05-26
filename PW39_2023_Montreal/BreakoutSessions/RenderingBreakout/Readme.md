@@ -4,43 +4,35 @@ layout: pw39-project
 project_title: The future of rendering in VTK and Slicer
 
 key_investigators:
-- firstname: Simon
-  lastname: Drouin
+- name: Simon Drouin
   affiliation: École de Technologie Supérieure
   Country: Canada
 
-- firstname: Steve
-  lastname: Piper
+- name: Steve Pieper
   affiliation: Isomics inc.
   country: USA
   
-- firstname: Murat
-  lastname: Maga
+- name: Murat Maga
   affiliation: University of Washington
   country: USA
   
-- firstname: Andras
-  lastname: Lasso
+- name: Andras Lasso
   affiliation: Queen's University
   country: Canada
   
-- firstname: Sara
-  lastname: Rolfe
+- name: Sara Rolfe
   affiliation: Seattle Children's Research Institute
   country: USA
   
-- firstname: Jean-Christophe
-  lastname: Fillion-Robin
+- name: Jean-Christophe Fillion-Robin
   affiliation: Kitware inc.
   country: USA
   
-- firstname: Stephen
-  lastname: Aylward
+- name: Stephen Aylward
   affiliation: Kitware inc.
   country: USA
   
-- firstname: Rafael
-  lastname: Palomar
+- name: Rafael Palomar
   affiliation: NTNU
   country: Norway
  

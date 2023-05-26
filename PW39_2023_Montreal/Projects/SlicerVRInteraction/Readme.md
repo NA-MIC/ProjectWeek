@@ -4,20 +4,16 @@ layout: pw39-project
 project_title: SlicerVR - Restore Interactions
 category: VR/AR and Rendering
 
-# "affiliation" and "country" are optional
 key_investigators:
-- firstname: Csaba
-  lastname: Pintér
+- name: Csaba Pintér
   affiliation: EBATINCA
   country: Spain
 
-- firstname: Simon
-  lastname: Drouin
+- name: Simon Drouin
   affiliation: ÉTS Montréal
   country: Canada
 
-- firstname: Andrey
-  lastname: Titov
+- name: Andrey Titov
   affiliation: ÉTS Montréal
   country: Canada
 ---

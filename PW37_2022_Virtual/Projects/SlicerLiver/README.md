@@ -54,6 +54,30 @@ PW36](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projec
 
 <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_08.png?raw=true" width="50%">
 
+<video controls width="250">
+    <source src="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__liver_resection.mp4" type="video/webm">
+    Download
+    <a href="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__liver_resection.mp4">PW37__SlicerLiver__liver_resection.mp4</a>
+</video>
+
+<video controls width="250">
+    <source src="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__distance-tumor.webm" type="video/webm">
+    Download
+    <a href="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__distance-tumor.webm">PW37__SlicerLiver__distance-tumor.webm</a>
+</video>
+
+<video controls width="250">
+    <source src="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__distance-vessels.webm" type="video/webm">
+    Download
+    <a href="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__distance-vessels.webm">PW37__SlicerLiver__distance-vessels.webm</a>
+</video>
+
+<video controls width="250">
+    <source src="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__planning.webm" type="video/webm">
+    Download
+    <a href="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW37__SlicerLiver__planning.webm">PW37__SlicerLiver__planning.webm</a>
+</video>
+
 ## Progress and Next Steps
 
 In this project week, we have changed the user interaction to use segmentations instead of models, which greatly simplifies the user interaction.
@@ -63,9 +87,8 @@ There is a PR for adding this extension to the extension manager. This be effect
 There are still standard features (e.g., volumetry computation) and new research features (e.g, risk maps visualization, new planning algorithms) that we would like to implement in future Project Weeks. 
 
 # Background and References
-1. [Slicer-Liver PW36](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/Slicer-Liver
-1. [Slicer-Liver PW35](https://github.com/NA-MIC/ProjectWeek/tree/master/PW35_2021_Virtual/Projects/Slicer-Liver
-   "Slicer-Liver in the last ProjectWeek") (June 2021)
+1. [Slicer-Liver PW36](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/Slicer-Liver) (January 2022)
+1. [Slicer-Liver PW35](https://github.com/NA-MIC/ProjectWeek/tree/master/PW35_2021_Virtual/Projects/Slicer-Liver) (June 2021)
 1. [NorMIT-Plan at NA-MIC project week](https://projectweek.na-mic.org/PW33_2020_GranCanaria/Projects/NorMIT-Plan/) (january 2020)
 1. [NorMIT-Plan at NA-MIC project week](https://projectweek.na-mic.org/PW34_2020_Virtual/Projects/SlicerLiverAnalysis/) (December 2020)
 1. Palomar, Rafael, et al. "A novel method for planning liver resections using deformable Bézier surfaces and distance maps." Computer Methods and Programs in Biomedicine 144 (2017): 135-45.

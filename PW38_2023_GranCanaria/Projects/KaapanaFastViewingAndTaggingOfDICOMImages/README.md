@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1A7-8Ru0uTJHFFa17rZtkBpvNhJao_F7x/view?usp=share
 Creating a cohort or tagging DICOM images is a very time-consuming and error-prone procedure.
 In this project, we are extending the functionality of the so-called Gallery View within Kaapana. 
 
-![](NA-MIC.gif)
+![](https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW38__KaapanaFastViewingAndTaggingOfDICOMImages__NA-MIC.gif)
 
 ## Approach and Plan
 

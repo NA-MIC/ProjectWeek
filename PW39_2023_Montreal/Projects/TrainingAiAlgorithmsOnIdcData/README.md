@@ -6,13 +6,11 @@ category: Segmentation / Classification / Landmarking
 
 key_investigators:
 
-- firstname: Cosmin
-  lastname: Ciausu
+- name: Cosmin Ciausu
   affiliation: Brigham and Women's Hospital
   country: USA
 
-- firstname: Andrey
-  lastname: Fedorov
+- name: Andrey Fedorov
   affiliation: Brigham and Women's Hospital
   country: USA
 
