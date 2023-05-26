@@ -76,7 +76,8 @@ In this project we will demonstrate how an existing pre-trained MONAI model pack
 # Background and References
 
 - [NCI Imaging Data Commons](https://portal.imaging.datacommons.cancer.gov/)
-- **[Minimum working example of pc segmentation on sample prostate158](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/blob/main/cancer_bundle_train_prostate158.ipynb)**
+- **[Minimum working example of pc segmentation on training sample prostate158](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/blob/main/cancer_bundle_train_prostate158.ipynb)**
+- **[Minimum working example of pc segmentation on QIN-Prostate-Repeatability collection sample](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/blob/main/MONAI_prostate158_cancer_qin_prost_rep.ipynb)**
 - [MONAI zoo prostate_mri_anatomy bundle](https://github.com/Project-MONAI/model-zoo/tree/dev/models/prostate_mri_anatomy)
 - [MONAI PC segmentation custom bundle](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/tree/main/pcDetectionBundle)
 - [PC segmentation model paper](https://www.sciencedirect.com/science/article/pii/S0010482522005789?via%3Dihub#kwrds0010)
