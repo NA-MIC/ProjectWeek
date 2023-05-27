@@ -98,6 +98,18 @@ List of registered participants so far (names will be added here after processin
 1. Justin Kirby, USA, (Online)
 1. Zhuopin Sun, Australia, (Online)
 1. Gabor Fichtinger , Canada, (Online)
+1. Pape Mady THIAO , Senegal, (Online)
+1. Sarah Frisken, USA, (Online)
+1. Mohamed Alalli BILAL, Mauritania, (Online)
+1. João Pedro Alves Januário, Brazil, (Online)
+1. Nathan Hutin, France, (In-person)
+1. Adam Li, USA, (Online)
+1. Roya Khajavibajestani, USA, (Undecided)
+1. Jean-Christophe Fillion-Robin, USA, (Online)
+1. Hassan, Canada, (Online)
+1. Nima Masoumi, Canada, (Online)
+1. Douglas Samuel Gonçalves, Brazil, (Online)
+1. Lucas Sanchez Silva, Brazil, (Online)
 
 <!-- Participants list end -->
 
