@@ -74,3 +74,5 @@ The goal of this breakout session is to gather all parties interested in the fut
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
+* [WebGPU in VTK](https://www.kitware.com/vtk-webgpu-on-the-desktop/)
+* [WebGPU in Slicer](https://github.com/pieper/SlicerWGPU) from [Project Week 37](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/SlicerWGPU/).
