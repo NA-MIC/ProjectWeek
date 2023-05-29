@@ -110,6 +110,7 @@ List of registered participants so far (names will be added here after processin
 1. Nima Masoumi, Canada, (Online)
 1. Douglas Samuel Gonçalves, Brazil, (Online)
 1. Lucas Sanchez Silva, Brazil, (Online)
+1. Luiz Otávio Murta Junior , Brazil, (Online)
 
 <!-- Participants list end -->
 
