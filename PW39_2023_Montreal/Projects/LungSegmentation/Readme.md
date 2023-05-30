@@ -8,6 +8,7 @@ Steve Pieper (Isomics)
 Andras Lasso (Perk Labs)
 
 Project Description
+
 This is a follow-up to previous 3D Slicer lung CT segmentation PW projects. 
 
 Objective
@@ -17,4 +18,4 @@ Improve vessel segmentation
 Implement emphysema and COPD analysis
 Develop a concept for lung segment segmentation in 3D Slicer
 Fine-tune the workflow for surgical planning
-Work on possible grant application
+Work on current publication
