@@ -27,7 +27,7 @@ This is a follow-up to previous 3D Slicer lung CT segmentation PW projects.
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-To improve the LungCTAnalysis extension analysis in 3D Slicer, the following steps can be taken:
+To improve the LungCTAnalysis extension analysis in 3D Slicer, which is frequently used, but lacking ideas,  the following steps could be taken:
 
 1. Improve vessel segmentation:
    - Explore advanced image processing techniques, such as machine learning algorithms, to enhance the accuracy of vessel segmentation.
