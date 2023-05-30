@@ -9,7 +9,7 @@ key_investigators:
   affiliation: KSGR
   country: Germany
 
-- name: Andres Pintas-Dias 
+- name: Andres Dias-Pinto 
   affiliation: NVIDIA
   country: USA
   
