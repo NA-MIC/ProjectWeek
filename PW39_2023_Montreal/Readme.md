@@ -111,6 +111,13 @@ List of registered participants so far (names will be added here after processin
 1. Douglas Samuel Gonçalves, Brazil, (Online)
 1. Lucas Sanchez Silva, Brazil, (Online)
 1. Luiz Otávio Murta Junior , Brazil, (Online)
+1. Tina Kapur, USA, (In-person)
+1. Tamas Ungi, Canada, (In-person)
+1. Junichi Tokuda, USA, (In-person)
+1. Mike Jin, USA, (In-person)
+1. Andras Lasso, Canada, (In-person)
+1. Dennis Bontempi, USA, (In-person)
+1. Cosmin Ciausu, USA, (In-person)
 
 <!-- Participants list end -->
 
