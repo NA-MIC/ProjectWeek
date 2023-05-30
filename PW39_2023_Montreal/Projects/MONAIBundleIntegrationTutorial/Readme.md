@@ -84,6 +84,7 @@ Sidenote: The process was implemented on an AWS EC2 Windows server instance with
      If possible, also add links to sample data, and to any relevant publications. -->
      
      https://docs.monai.io/en/stable/bundle_intro.html
+     https://monai.io/model-zoo.html
      
 
 
