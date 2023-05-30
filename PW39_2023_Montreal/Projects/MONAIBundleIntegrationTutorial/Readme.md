@@ -36,18 +36,22 @@ Firstly, begin by uninstalling the existing MONAILabel and Monai installations. 
 
 Subsequently, I adhered to our outlined procedures for setting up MONAILabel from scratch. For those who need to refer to [these instructions]([url](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/MONAILabelLung/MONAILabel_Installation.html)), they can be found on our Project Week webpage 1.
 
-I followed these guidelines until I reached the command to set the MONAILabel script paths:
+Then follow these guidelines until reaching the command to set the MONAILabel script paths:
 
-$Env:PATH += ";C:\Users\yourname\MONAILabel\monailabel\scripts"
+    $Env:PATH += ";C:\Users\yourname\MONAILabel\monailabel\scripts"
+
+
 After setting the paths, the next step was to installed Monai as recommended above:
 
-pip install monai==1.2.0rc6
+    pip install monai==1.2.0rc6
+
 After a “cd $home”, where my MONAILabel folder is located, the start_server command was issued:
 
-monailabel start_server --app MONAILabel/sample-apps/monaibundle --studies c:/Data/Task06_Lung/imagesTr --conf models lung_nodule_ct_detection
+    monailabel start_server --app MONAILabel/sample-apps/monaibundle --studies c:/Data/Task06_Lung/imagesTr --conf models lung_nodule_ct_detection
+
 After this command, the correct and requested model was automatically loaded from the [Monai Model Zoo]([url](https://monai.io/model-zoo.html)), which is a highly commendable feature.
 
-I then proceeded to test our setup with the 3D Slicer and the MONAILabel extension using the CT Chest dataset. It was great to see that the AI successfully detected some nodules!
+I then proceeded to test the setup with the 3D Slicer and the MONAILabel extension using the CT Chest dataset. It was great to see that the AI successfully detected some nodules!
 
 Sidenote: The process was implemented on an AWS EC2 Windows server instance with an A10G GPU (23 GB dedicated video RAM).
 
