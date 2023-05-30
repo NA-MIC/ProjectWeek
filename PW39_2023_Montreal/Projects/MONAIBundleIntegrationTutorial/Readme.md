@@ -29,13 +29,12 @@ NVIDIA AI assisted annotation (AIAA) is no longer actively mainatined and MONAI 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 Our objective is to provide a detailed step by step description on how to use MONAI bundle for this task. 
 
-I am pleased to confirm that we’ve successfully implemented the MONAILabel monaibundle setup. Here’s an overview of the steps I undertook to achieve this:
-
-Firstly, I began by uninstalling the existing MONAILabel and Monai installations. This was accomplished by running the following commands in the terminal:
+Firstly, begin by uninstalling the existing MONAILabel and Monai installations. This was accomplished by running the following commands in the terminal:
 
 pip uninstall monailabel
 pip uninstall monai
-Subsequently, I adhered to our outlined procedures for setting up MONAILabel from scratch. For those who need to refer to these instructions, they can be found on our Project Week webpage 1.
+
+Subsequently, I adhered to our outlined procedures for setting up MONAILabel from scratch. For those who need to refer to [these instructions]([url](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/MONAILabelLung/MONAILabel_Installation.html)), they can be found on our Project Week webpage 1.
 
 I followed these guidelines until I reached the command to set the MONAILabel script paths:
 
@@ -46,7 +45,7 @@ pip install monai==1.2.0rc6
 After a “cd $home”, where my MONAILabel folder is located, the start_server command was issued:
 
 monailabel start_server --app MONAILabel/sample-apps/monaibundle --studies c:/Data/Task06_Lung/imagesTr --conf models lung_nodule_ct_detection
-After this command, the correct and requested model was automatically loaded from the Monai Model Zoo, which is a highly commendable feature.
+After this command, the correct and requested model was automatically loaded from the [Monai Model Zoo]([url](https://monai.io/model-zoo.html)), which is a highly commendable feature.
 
 I then proceeded to test our setup with the 3D Slicer and the MONAILabel extension using the CT Chest dataset. It was great to see that the AI successfully detected some nodules!
 
