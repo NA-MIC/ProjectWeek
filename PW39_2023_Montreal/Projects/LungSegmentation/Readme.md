@@ -43,6 +43,8 @@ The development of the extension has slowed down due to the lack of ideas how to
 To many it seems that the main limitation of the computational method it is highly sensitive to the chosen threshold values. This is indicated that just the small variance between well calibrated clinical CTs could cause measurable differences in the end result in about 20-30% of the cases. Probably the root cause of the problem is that thresholding with a hard value makes the classification very sensitive to the chosen threshold value. Andras Lasso suggested to reduce this sensitivity by using soft classifiers.
 
 GPT-4 reponse: 
+
+
     It's correct that one of the limitations of thresholding methods in image processing is their sensitivity to the choice of threshold values. This is particularly problematic in medical imaging, where subtle variations in pixel values can make significant differences in diagnosis and treatment planning. 
 
     The issue with hard thresholding is that it treats every pixel above a certain value the same way, without considering the context or the distribution of values in the image. A pixel just above the threshold is treated the same as a pixel far above the threshold, which can lead to inaccuracies.
