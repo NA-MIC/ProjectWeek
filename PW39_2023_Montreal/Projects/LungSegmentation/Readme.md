@@ -27,13 +27,39 @@ This is a follow-up to previous 3D Slicer lung CT segmentation PW projects.
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-Our objective is to improve the LungCTAnalysis extenion Analysis in 3D Slicer.
+To improve the LungCTAnalysis extension analysis in 3D Slicer, the following steps can be taken:
 
-- Improve vessel segmentation
-- Implement emphysema and COPD analysis
-- Develop a better concept for lung segment (sublobar) segmentation in 3D Slicer
-- Fine-tune the workflow for surgical planning
-- Work on current publication
+1. Improve vessel segmentation:
+   - Explore advanced image processing techniques, such as machine learning algorithms, to enhance the accuracy of vessel segmentation.
+   - Incorporate vessel enhancement filters and vesselness measures to improve the detection and segmentation of pulmonary vessels.
+   - Investigate the use of multi-modal imaging, such as combining CT angiography and conventional CT scans, to improve vessel segmentation accuracy.
+
+2. Develop a better concept for lung segment (sublobar) segmentation in 3D Slicer:
+   - Review the existing lung segmentation algorithms and identify areas for improvement.
+   - Consider incorporating anatomical landmarks, such as fissures and vessel patterns, to refine the segmentation of lung sublobes.
+   - Utilize machine learning techniques, such as deep learning algorithms, to automatically segment lung sublobes based on training data.
+
+3. Identify tumors belonging to segments and consider safety margins:
+   - Implement tumor detection algorithms that can identify and segment lung tumors within specific lung segments.
+   - Incorporate safety margin calculations to ensure adequate coverage of tumors during segmentation.
+   - Provide visual cues or annotations to clearly indicate tumor locations and safety margins in the 3D Slicer interface.
+
+4. Suggest resection of segments with nutritive vessel resection for neighboring tumors:
+   - Develop algorithms that can analyze the relationships between lung segments and neighboring tumors to determine if resection of the nutritive vessels is necessary.
+   - Provide automated suggestions for resection of segments that require removal due to the radicality of neighboring tumor resections.
+   - Ensure clear visualization and communication of these suggestions to the medical professionals using 3D Slicer.
+
+5. Differentiate pulmonary arteries and veins reliably:
+   - Investigate advanced image analysis techniques (VMTK?), such as texture analysis and flow analysis, to differentiate pulmonary arteries and veins with higher reliability.
+   - Explore the use of contrast-enhanced imaging techniques or dual-energy CT to improve the differentiation of arteries and veins.
+   - Validate the accuracy and reliability of the differentiation algorithms through comprehensive evaluation and comparison with ground truth data.
+
+6. Work on current OpenSourceCOVID publication:
+   - Collaborate with domain experts to finalize the research findings and results.
+   - Prepare the manuscript for publication, ensuring clear and concise communication of the developed techniques, methodologies, and results.
+   - Conduct a thorough review of the existing literature to ensure the publication adds novel contributions and addresses any gaps in the field.
+   - Seek feedback from colleagues and experts in the field to improve the manuscript before submission.
+   - Consider presenting the research findings at relevant conferences or workshops to share knowledge and gather feedback from the scientific community.
 
 ## Approach and Plan
 
