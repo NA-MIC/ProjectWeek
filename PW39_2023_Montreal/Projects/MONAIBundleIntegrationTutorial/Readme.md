@@ -27,6 +27,7 @@ NVIDIA AI assisted annotation (AIAA) is no longer actively mainatined and MONAI 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+
 Our objective is to provide a detailed step by step description on how to use MONAI bundle for this task. 
 
 Firstly, begin by uninstalling the existing MONAILabel and Monai installations. This was accomplished by running the following commands in the terminal:
@@ -45,13 +46,13 @@ After setting the paths, the next step was to installed Monai as recommended abo
 
     pip install monai==1.2.0rc6
 
-After a “cd $home”, where my MONAILabel folder is located, the start_server command was issued:
+After a “cd $home”, where the  MONAILabel folder is located, the start_server command can be  issued:
 
     monailabel start_server --app MONAILabel/sample-apps/monaibundle --studies c:/Data/Task06_Lung/imagesTr --conf models lung_nodule_ct_detection
 
-After this command, the correct and requested model was automatically loaded from the [Monai Model Zoo](https://monai.io/model-zoo.html), which is a highly commendable feature.
+After this command, the correct and requested model is automatically loaded from the [Monai Model Zoo](https://monai.io/model-zoo.html), which is a highly commendable feature.
 
-Then proceeded to test the setup with the 3D Slicer and the MONAILabel extension using the CT Chest dataset. It was great to see that the AI successfully detected some nodules!
+Then proceeded to test the setup with the 3D Slicer and the MONAILabel extension using the CT Chest dataset. It is great to see that the AI successfully detects some nodules!
 
 Sidenote: The process was implemented on an AWS EC2 Windows server instance with an A10G GPU (23 GB dedicated video RAM).
 
@@ -59,6 +60,7 @@ Sidenote: The process was implemented on an AWS EC2 Windows server instance with
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
+
 
 
 ## Progress and Next Steps
