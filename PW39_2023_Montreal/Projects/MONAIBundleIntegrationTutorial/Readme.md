@@ -133,8 +133,6 @@ Here is a list of the bundles from the MONAI Model Zoo page as of 5/23:
 
 
 
-I wasn't able to get through all of the bundles before running out of time. Please let me know if you'd like me to continue listing the remaining bundles.
-
 
 # Illustrations
 
