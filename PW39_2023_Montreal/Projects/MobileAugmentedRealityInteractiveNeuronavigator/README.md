@@ -54,7 +54,8 @@ TODO
 -->
 
 MARIN demo, with Ibis:
-![teaser_looped_small](https://github.com/the-mercury/ProjectWeek39/assets/17100565/b0f84128-5ce2-46ae-9e5b-3a12c778468f)
+
+![teaser_looped_small](https://github.com/NA-MIC/ProjectWeek/assets/17100565/07faf583-2238-4760-8a54-896b75c2f300)
 
 # Background and References
 
