@@ -10,7 +10,7 @@ project_categories:
 
 # Welcome to the web page for the 39th Project Week!
 
-[This event](https://projectweek.na-mic.org/PW39_2023_Montreal/) will take place June 12-16, 2023 in Montreal, Canada.
+[This event](https://projectweek.na-mic.org/PW39_2023_Montreal/Readme.html) will take place June 12-16, 2023 in Montreal, Canada.
 
 * Project Week 39 will be a hybrid event with a strong in-person component
 * The venue for in-person events is [École de Technologie Supérieure](https://www.etsmtl.ca/), Montreal, Canada.
