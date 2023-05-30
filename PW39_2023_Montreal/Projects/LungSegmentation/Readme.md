@@ -5,7 +5,9 @@ Back to Projects List
 Key Investigators
 
 Rudolf Bumm (KSGR)
+
 Steve Pieper (Isomics)
+
 Andras Lasso (Perk Labs)
 
 Project Description
