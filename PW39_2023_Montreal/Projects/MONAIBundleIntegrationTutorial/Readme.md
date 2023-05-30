@@ -31,8 +31,8 @@ Our objective is to provide a detailed step by step description on how to use MO
 
 Firstly, begin by uninstalling the existing MONAILabel and Monai installations. This was accomplished by running the following commands in the terminal:
 
-pip uninstall monailabel
-pip uninstall monai
+  pip uninstall monailabel
+  pip uninstall monai
 
 Subsequently, I adhered to our outlined procedures for setting up MONAILabel from scratch. For those who need to refer to [these instructions]([url](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/MONAILabelLung/MONAILabel_Installation.html)), they can be found on our Project Week webpage 1.
 
