@@ -1,7 +1,7 @@
 ---
 layout: pw39-project
 
-project_title: Histology AI models imported into IDC
+project_title: Histology AI model annotations imported into IDC
 category: Segmentation / Classification / Landmarking
 
 key_investigators:
