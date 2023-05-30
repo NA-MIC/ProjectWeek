@@ -1,6 +1,7 @@
 Back to Projects List
 
-3D Slicer Lung CT Segmentation
+3D Slicer Lung CT Segmentation and Analysis
+
 Key Investigators
 
 Rudolf Bumm (KSGR)
@@ -12,6 +13,7 @@ Project Description
 This is a follow-up to previous 3D Slicer lung CT segmentation PW projects. 
 
 Objective
+
 Our objective is to improve the lung CT segmentation and analysis processes in 3D Slicer.
 
 Improve vessel segmentation
