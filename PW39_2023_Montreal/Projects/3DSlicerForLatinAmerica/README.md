@@ -37,14 +37,15 @@ The goal of this project is to empower the biomedical research community in Lati
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-Slice Internationalization Breakout session:
+### Slice Internationalization Breakout session:
 
-Monday, June 12, 2-4 pm EST
-Daily Slicer internationalization sessions with members of the Slicer community
+* Monday, June 12, 2-4 pm EST
 
-Tuesday, June 13, 9-11 am EST
-Wednesday, June 14, 10-11 am EST
-Thursday, June 15, 10-11 am EST
+### Daily Slicer internationalization sessions with members of the Slicer community
+
+* Tuesday, June 13, 9-11 am EST
+* Wednesday, June 14, 10-11 am EST
+* Thursday, June 15, 10-11 am EST
 
 ## Progress and Next Steps
 
