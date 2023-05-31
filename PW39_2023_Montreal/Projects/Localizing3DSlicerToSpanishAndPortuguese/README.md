@@ -1,7 +1,7 @@
 ---
 layout: pw39-project
 
-project_title: Localizing 3D Slicer to Spanish and Portuguese
+project_title: 3D Slicer for Latin America
 category: Infrastructure
 
 key_investigators:
