@@ -42,7 +42,7 @@ To identify members of the global Slicer community interested in new Slicer acti
 
 ### Daily Slicer internationalization sessions with members of the Slicer community
 
-* Tuesday, June 13, 9-11 am EST
+* Tuesday, June 13, 9-10 am EST
 * Wednesday, June 14, 10-11 am EST
 * Thursday, June 15, 10-11 am EST
 
