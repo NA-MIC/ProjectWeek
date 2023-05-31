@@ -36,9 +36,15 @@ To identify members of the global Slicer community interested in new Slicer acti
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-Slice Internationalization Breakout session:
+### Slice Internationalization Breakout session:
 
-Daily Slicer internationalization sessions with members of the Slicer community
+* Monday, June 12, 2-4 pm EST
+
+### Daily Slicer internationalization sessions with members of the Slicer community
+
+* Tuesday, June 13, 9-11 am EST
+* Wednesday, June 14, 10-11 am EST
+* Thursday, June 15, 10-11 am EST
 
 ## Progress and Next Steps
 
