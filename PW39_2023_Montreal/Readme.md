@@ -28,6 +28,9 @@ We hold weekly preparation meetings at 10am (Eastern Time) on Tuesdays, starting
 ## Discord
 The **Discord** application is used to communicate between team members and organize activities before and during Project Week. Please join the Project Week [Discord server](https://discord.gg/yQsNVdVpS3) as soon as possible and explore its functionality before the workshop. For more information on the use of Discord before and during Project Week, please visit [this page](../common/Discord.md).
 
+## Venue
+![How to get to PW39](images/PW39-venue.png | height=200 )
+
 ##  Agenda
 
 {% include calendar.md %}
