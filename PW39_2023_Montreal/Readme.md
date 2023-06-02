@@ -29,7 +29,8 @@ We hold weekly preparation meetings at 10am (Eastern Time) on Tuesdays, starting
 The **Discord** application is used to communicate between team members and organize activities before and during Project Week. Please join the Project Week [Discord server](https://discord.gg/yQsNVdVpS3) as soon as possible and explore its functionality before the workshop. For more information on the use of Discord before and during Project Week, please visit [this page](../common/Discord.md).
 
 ## Venue
-![How to get to PW39](images/PW39-venue.png | height=200 )
+The images below show how to get to the PW39 conference room. If you Google "ETS", it will take you to the main building of the university (1). You need to walk about 200 meters to get to the building called "Maison des étudiants" (2). Enter the building and either climb the stairs or take the elevator on the right to reach the second floor(3). From there, you should easily find the registration desk. The conference room for PW39 is right beside.
+<img src="images/PW39-venue.png" height="200">
 
 ##  Agenda
 
