@@ -10,7 +10,7 @@ project_categories:
 
 # Welcome to the web page for the 39th Project Week!
 
-[This event](https://projectweek.na-mic.org/PW39_2023_Montreal/Readme.html) will take place June 12-16, 2023 in Montreal, Canada.
+[This event](https://projectweek.na-mic.org/PW39_2023_Montreal/README.html) will take place June 12-16, 2023 in Montreal, Canada.
 
 * Project Week 39 will be a hybrid event with a strong in-person component
 * The venue for in-person events is [École de Technologie Supérieure](https://www.etsmtl.ca/), Montreal, Canada.
@@ -37,7 +37,7 @@ The images below show how to get to the PW39 conference room. If you Google "ETS
 {% include calendar.md %}
 
 ## Breakout sessions
-1. [Future of rendering in VTK and Slicer](BreakoutSessions/RenderingBreakout/Readme.md)
+1. [Future of rendering in VTK and Slicer](BreakoutSessions/RenderingBreakout/README.md)
 
 ## Projects
 
@@ -47,7 +47,7 @@ With the [Project Week GitHub Issue page](https://github.com/NA-MIC/ProjectWeek/
 
 2.    [Create a Project](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=drouin-simon%2Cpiiq%2Crafaelpalomar%2Csjh26%2Ctkapur&labels=project%2Cevent%3APW39_2023_Montreal&projects=&template=project.yml&title=Project%3A+) issue: If you are ready to create your page, you can simply create a “Project” issue. This issue will allow you to fill out a convenient form to provide the necessary details.
 
-3.    [Create the project page yourself using the template](Projects/Readme.md): If you prefer to create the Project Page yourself, you can still do so by using the provided template and submitting a pull request.
+3.    [Create the project page yourself using the template](Projects/README.md): If you prefer to create the Project Page yourself, you can still do so by using the provided template and submitting a pull request.
 
 {% include projects.md %}
 

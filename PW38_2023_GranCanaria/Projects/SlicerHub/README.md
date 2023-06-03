@@ -47,7 +47,7 @@ Multiuser approach to Slicer in a browser, based on [Slicer Docker](https://gith
 
 ## Progress and Next Steps
 
-<!-- Up[Readme.md](..%2FReadme.md)date this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
+<!-- Up[README.md](..%2README.md)date this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Slicer in Docker with GPU. 
   - Approach: modify root image to one by nVidia.

@@ -1,6 +1,6 @@
 ## Welcome to the main page for the Project Week events!
 
-### The [39th project week](PW39_2023_Montreal/Readme.md) will be held June 12-16, 2023 in Montreal, Canada.
+### The [39th project week](PW39_2023_Montreal/README.md) will be held June 12-16, 2023 in Montreal, Canada.
 
 ## Frequently Asked Questions
 
@@ -37,7 +37,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
 ## Upcoming Project Weeks
 
-The [39th project week](PW39_2023_Montreal/Readme.md) will be held 2023 June 12-16 Online and Montreal, Canada.
+The [39th project week](PW39_2023_Montreal/README.md) will be held 2023 June 12-16 Online and Montreal, Canada.
 
 * Please contact the organizers if you have interest in hosting a Project Week event.
 
@@ -45,7 +45,7 @@ The [39th project week](PW39_2023_Montreal/Readme.md) will be held 2023 June 12-
 
 | Events | Registrants |
 |----|----|
-| [2023 June 12-16: Project Week 39](PW39_2023_Montreal/Readme.md) - Online and Montreal, Canada <br>  |  |
+| [2023 June 12-16: Project Week 39](PW39_2023_Montreal/README.md) - Online and Montreal, Canada <br>  |  |
 | [2023 January 30-February 3rd: Project Week 38](PW38_2023_GranCanaria/README.md) - Online and Gran Canaria, Spain <br> It recorded 251 registered attendees (from 30 countries, 52% first-timers.) | 251 |
 | [2022 June 27-July 1: Project Week 37](PW37_2022_Virtual/README.md) - Online <br> It recorded 117 registered attendees (from 20 countries, 41% first-timers.) | 117 || |
 | [2022 Jan 17-21: Project Week 36](PW36_2022_Virtual/README.md) - Online and Gran Canaria, Spain. <br> It recorded 131 registered attendees (from 26 countries, 44% first-timers.) | 131 |
