@@ -1,9 +1,12 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/TrackedUltrasoundIntegrationIntoNousnavALowCostNeuronavigationSystem/README.html
+
 project_title: Tracked ultrasound integration into NousNav, a low-cost neuronavigation system
 category: IGT and Training
-
 
 key_investigators:
 

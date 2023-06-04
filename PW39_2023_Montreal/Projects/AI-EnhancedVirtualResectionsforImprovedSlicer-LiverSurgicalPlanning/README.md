@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/AI-EnhancedVirtualResectionsforImprovedSlicer-LiverSurgicalPlanning/README.html
+
 project_title: AI-Enhanced Virtual Resections for Improved Slicer-Liver Surgical Planning
 category: IGT and Training
 

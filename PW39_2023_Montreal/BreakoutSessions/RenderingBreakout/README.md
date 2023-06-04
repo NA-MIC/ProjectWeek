@@ -1,8 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
 redirect_from:
 - /PW39_2023_Montreal/BreakoutSessions/RenderingBreakout/Readme.html
+- /PW39_2023_Montreal/BreakoutSessions/RenderingBreakout/README.html
 
 project_title: The future of rendering in VTK and Slicer
 

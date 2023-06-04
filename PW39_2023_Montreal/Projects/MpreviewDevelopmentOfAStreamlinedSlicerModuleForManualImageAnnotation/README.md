@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/MpreviewDevelopmentOfAStreamlinedSlicerModuleForManualImageAnnotation/README.html
+
 project_title: mpReview Development of a streamlined Slicer module for manual image annotation
 category: Cloud / Web
 

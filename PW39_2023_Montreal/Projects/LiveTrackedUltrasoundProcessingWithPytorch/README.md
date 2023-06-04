@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/LiveTrackedUltrasoundProcessingWithPytorch/README.html
+
 project_title: Live tracked ultrasound processing with PyTorch
 category: IGT and Training
 

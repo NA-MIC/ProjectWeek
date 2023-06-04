@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/RenderingSupportForMultipleViews/README.html
+
 project_title: Rendering support for multiple views
 category: VR/AR and Rendering
 

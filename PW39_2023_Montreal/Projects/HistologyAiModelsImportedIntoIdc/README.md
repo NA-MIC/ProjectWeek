@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/HistologyAiModelsImportedIntoIdc/README.html
+
 project_title: Histology AI model annotations imported into IDC
 category: Segmentation / Classification / Landmarking
 
