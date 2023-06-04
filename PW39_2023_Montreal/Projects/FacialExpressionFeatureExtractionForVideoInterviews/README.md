@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/FacialExpressionFeatureExtractionForVideoInterviews/README.html
+
 project_title: Facial expression feature extraction for video interviews
 category: Quantification and Computation
 

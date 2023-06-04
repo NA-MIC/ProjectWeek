@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/LongitudinalModelOfPsychosisConversion/README.html
+
 project_title: Longitudinal model of psychosis conversion
 category: Quantification and Computation
 

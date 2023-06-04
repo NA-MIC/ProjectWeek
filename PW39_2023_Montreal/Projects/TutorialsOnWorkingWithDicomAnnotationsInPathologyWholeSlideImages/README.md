@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/TutorialsOnWorkingWithDicomAnnotationsInPathologyWholeSlideImages/README.html
+
 project_title: Tutorials on working with DICOM annotations in pathology whole-slide images
 category: Segmentation / Classification / Landmarking
 

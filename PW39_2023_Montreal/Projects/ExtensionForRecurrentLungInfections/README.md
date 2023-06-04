@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/ExtensionForRecurrentLungInfections/README.html
+
 project_title: extension for recurrent lung infections 
 category: Segmentation / Classification / Landmarking
 

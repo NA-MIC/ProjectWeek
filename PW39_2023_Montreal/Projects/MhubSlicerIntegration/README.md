@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/MhubSlicerIntegration/README.html
+
 project_title: MHub-Slicer Integration
 category: Segmentation / Classification / Landmarking
 

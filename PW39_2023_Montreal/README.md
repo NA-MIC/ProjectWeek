@@ -1,5 +1,7 @@
 ---
+permalink: /:path/
 redirect_from:
+- /PW39_2023_Montreal/README.html
 - /PW39_2023_Montreal/Readme.html
 
 project_categories:

@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/TranslationRotationOfSelectPointsInAList/README.html
+
 project_title: Translation/rotation of select points in a list
 category: Segmentation / Classification / Landmarking
 

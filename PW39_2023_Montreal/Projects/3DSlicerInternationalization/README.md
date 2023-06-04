@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/3DSlicerInternationalization/README.html
+
 project_title: 3D Slicer Internationalization
 category: Infrastructure
 

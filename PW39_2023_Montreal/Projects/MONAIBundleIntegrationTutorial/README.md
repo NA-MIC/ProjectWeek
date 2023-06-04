@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/MONAIBundleIntegrationTutorial/README.html
+
 project_title: HOW TO use MONAI bundle to integrate models from MONAI model ZOO
 category: Segmentation / AI
 

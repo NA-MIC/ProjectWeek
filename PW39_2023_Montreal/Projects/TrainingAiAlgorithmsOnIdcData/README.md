@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/TrainingAiAlgorithmsOnIdcData/README.html
+
 project_title: Training AI algorithms on IDC data
 category: Segmentation / Classification / Landmarking
 

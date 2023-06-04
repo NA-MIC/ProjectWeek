@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/IntegrationOfHapticDeviceIn3DSlicerForLumbarPuncture/README.html
+
 project_title: Integration of Haptic Device in 3D Slicer for Lumbar Puncture
 category: IGT and Training
 

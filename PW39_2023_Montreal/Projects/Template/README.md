@@ -1,6 +1,8 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+
 project_title: Write full project title here
 category: Uncategorized
 

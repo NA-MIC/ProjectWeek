@@ -1,6 +1,10 @@
 ---
 layout: pw39-project
 
+permalink: /:path/
+redirect_from:
+- /PW39_2023_Montreal/Projects/MobileAugmentedRealityInteractiveNeuronavigator/README.html
+
 project_title: 'MARIN: Mobile Augmented Reality Interactive Neuronavigator (in Slicer)'
 category: IGT and Training
 
