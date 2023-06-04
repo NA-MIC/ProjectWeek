@@ -1,6 +1,9 @@
 ---
 layout: pw39-project
 
+redirect_from:
+- /PW39_2023_Montreal/BreakoutSessions/RenderingBreakout/Readme.html
+
 project_title: The future of rendering in VTK and Slicer
 
 key_investigators:

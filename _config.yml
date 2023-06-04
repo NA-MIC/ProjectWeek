@@ -4,7 +4,11 @@ repository: NA-MIC/ProjectWeek
 
 plugins:
   - jekyll-mentions
+  - jekyll-redirect-from
   - jemoji
+
+redirect_from:
+  json: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,6 +1,9 @@
 ---
 layout: pw39-project
 
+redirect_from:
+- /PW39_2023_Montreal/Projects/SlicerVRInteraction/Readme.html
+
 project_title: SlicerVR - Restore Interactions
 category: VR/AR and Rendering
 
