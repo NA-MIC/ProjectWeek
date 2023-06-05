@@ -62,22 +62,37 @@ Our code is available [here](https://github.com/lucanchling/areg)
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-1. Use the previous work done on developing other Slicer Extensions
+1. Find a method to perform the Automatic Registration of CBCT
+1. Implement this method with a python script
+1. Use the previous work done on developing other Slicer Extensions to develop the AReg extension for Slicer
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+1. Method and script working
 1. Slicer Extension created and progress made on developing it
+1. Deploy AReg tool to the *SlicerAutomatedDentalTools*
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
+
 ![Some more images](Example2.jpg)
 -->
+## Comparison between the current anbd the proposed worflow
+![Workflow](https://github.com/lucanchling/ProjectWeek/assets/72148963/18eaa32a-0193-4c43-b159-acc3e9d77fee)
+
+## Different regions of reference (comparison between the full segmentation and the mask)
+![MaskComparison](https://github.com/lucanchling/ProjectWeek/assets/72148963/7312a43f-8b00-4513-bf75-0cf1a363b310)
+
+## Example of Cranial Base Registration
+![AREGCBCTExample](https://github.com/lucanchling/ProjectWeek/assets/72148963/66574b8d-a9b0-465a-a5ef-4206bb2d84dd)
+
+## Screenshot of the User Interface of the developped extension
+![AREG](https://github.com/lucanchling/ProjectWeek/assets/72148963/23200b88-21f2-4538-afdf-3dc757454efb)
 
 # Background and References
 
