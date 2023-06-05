@@ -4,7 +4,7 @@ layout: pw39-project
 permalink: /:path/
 
 project_title: Automated Registration of Cone-Beam Computed Tomography
-category: Uncategorized
+category: Segmentation / Classification / Landmarking
 
 key_investigators:
 - name: Anchling Luc 
