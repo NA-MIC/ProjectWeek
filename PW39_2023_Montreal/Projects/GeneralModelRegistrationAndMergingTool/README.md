@@ -58,8 +58,14 @@ We are thinking about expanding this module into its own system for other purpos
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+| | |
+|--|--|
+| <img width="300" alt="Screenshot 2023-06-05 at 10 35 41 AM" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/2fd7031d-4ca0-4751-9fcb-6a05a748e717"> | <img width="300" alt="Screenshot 2023-06-05 at 10 35 52 AM" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/886bb276-9581-4a9d-be69-cf612fe581c6"> |
+| <img width="300" alt="Screenshot 2023-06-05 at 10 36 04 AM" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/6f042c1d-b19b-4a63-bbd5-7c5a305f34cb"> | |
 
 These are the models acquired by photogrammetry from two angles. The yellow one has no top, and the red one has no bottom. Rigid registration from Open3D can align them pretty well, though not perfect.
+
+<img width="200" alt="Screenshot 2023-06-05 at 10 24 06 AM" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/967330ef-67ef-411e-8da3-98584f62f479">
 
 A sample virtual reconstruction in Geomagic Studio. The skull missed a part at the right side. The yellow part is the mirror image of the counter part at the left side.
 
