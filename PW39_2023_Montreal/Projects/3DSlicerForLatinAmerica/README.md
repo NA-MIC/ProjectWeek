@@ -38,7 +38,7 @@ key_investigators:
   affiliation: Universidade de São Paulo
   country: Brazil
   
- - name: Douglas Samuel Gonçalves
+- name: Douglas Samuel Gonçalves
   affiliation: Universidade de São Paulo
   country: Brazil
  
