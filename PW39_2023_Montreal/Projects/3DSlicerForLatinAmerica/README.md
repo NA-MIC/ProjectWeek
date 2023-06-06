@@ -10,7 +10,7 @@ category: Infrastructure
 
 key_investigators:
 
-- name: Sonia Pujol,
+- name: Sonia Pujol
   affiliation: Brigham and Women's Hospital
   country: Harvard Medical School, USA
 
@@ -21,6 +21,15 @@ key_investigators:
 - name: Andras Lasso
   affiliation: Queen's University
   country: Canada
+  
+- name: Adriana Vilchis Gonzalez 
+  affiliation: Universidad Autónoma del Estado de México
+  country: México
+ 
+- name: Luiz Murta
+  affiliation: Universidade de São Paulo
+  country: Brazil
+
 
 ---
 
