@@ -17,10 +17,12 @@ key_investigators:
   country: Canada
 
 - name: Anton Deguet
-  affiliation: Johns Hopkins University) (Online
+  affiliation: Johns Hopkins University
+  country: USA
 
 - name: Arvind S. Kumar,
-  affiliation: Johns Hopkins University) (Online
+  affiliation: Johns Hopkins University
+  country: USA
 
 ---
 
