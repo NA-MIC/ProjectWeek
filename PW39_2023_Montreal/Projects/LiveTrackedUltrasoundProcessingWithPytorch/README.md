@@ -12,6 +12,9 @@ key_investigators:
 
 - name: Tamas Ungi
   affiliation: Queen's University
+  
+- name: Róbert Szabó
+  affiliation: Queen's University / Óbuda University
 
 - name: Colton Barr
   affiliation: Queen's University / BWH
