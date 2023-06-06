@@ -26,6 +26,10 @@ key_investigators:
   affiliation: Department of Radiology
   country: Brigham and Women’s Hospital, Boston, MA
 
+- name: Hugo Aerts
+  affiliation: Department of Radiology
+  country: Brigham and Women’s Hospital, Boston, MA
+
 ---
 
 # Project Description
