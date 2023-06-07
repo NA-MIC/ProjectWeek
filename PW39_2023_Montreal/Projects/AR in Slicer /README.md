@@ -20,6 +20,10 @@ The results of that work are publicly available at [this GitHub repository](http
 The current solution is implemented in a 3 elements system. It is composed by A Microsoft HoloLens 2 headset, the Unity software, and the 3D Slicer platform. 
 The HoloLens 2 application is not directly built on the device, but remotely transferred from Unity in real time using Holographic Remoting.
 
+![image](https://github.com/NA-MIC/ProjectWeek/assets/66890913/6be8aff6-c4e8-48f1-a5ce-dfebff0dc0df)
+
+
+
 ## Objective
 Evaluate the transferability of the aforementioned project to other AR devices. Specifically, we'll focus on the VARJO XR-3 headset.
 ![Varjo headset](https://github.com/NA-MIC/ProjectWeek/assets/66890913/d731d842-0809-466f-b676-bf9d728f911e)
