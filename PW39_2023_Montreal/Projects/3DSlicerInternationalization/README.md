@@ -53,8 +53,10 @@ key_investigators:
 - name: Pape Malick GUEYE
   affiliation: Université Cheikh Anta Diop de Dakar
   country: Senegal
-  
-  
+
+- name: Fatou Bintou NDIAYE
+  affiliation: Université Cheikh Anta Diop de Dakar
+  country: Senegal
 
 ---
 
