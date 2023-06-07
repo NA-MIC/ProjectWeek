@@ -44,6 +44,12 @@ body:
   validations:
     required: true
 
+- type: markdown
+  attributes:
+    value: |
+      *Please note the formatting on the Key Investigators list:*
+      `- Firstname Lastname (Affiliation, Country)`
+
 - type: textarea
   attributes:
     label: Project Description
