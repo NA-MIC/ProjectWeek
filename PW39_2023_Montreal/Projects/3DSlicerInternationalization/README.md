@@ -21,6 +21,40 @@ key_investigators:
 - name: Andras Lasso
   affiliation: Queen's University
   country: Canada
+  
+- name: Mamadou Camara
+  affiliation: Université Cheikh Anta Diop
+  country: Senegal
+  
+- name: Ahmedou Moulaye IDRISS  
+  affiliation: Faculté de Médecine, de Pharmacie et d’Odonto-Stomatologie, Université de Nouakchott
+  country: Mauritania
+  
+- name: Mouhamed Diop
+  affiliation: Université Cheikh Anta Diop
+  country: Senegal
+  
+- name: Adama Rama Wade
+  affiliation: Université Cheikh Anta Diop de Dakar
+  country: Senegal
+  
+- name: Mohamed Alalli Bilal
+  affiliation: Université Cheikh Anta Diop de Dakar
+  country: Senegal
+  
+- name: Idrissa Seck
+  affiliation: Université Cheikh Anta Diop de Dakar
+  country: Senegal
+  
+- name: Papa ibra NDIAYE
+  affiliation: Ecole Superieure Polytechnique, Université Cheikh Anta Diop de Dakar
+  country: Senegal
+  
+- name: Pape Malick GUEYE
+  affiliation: Université Cheikh Anta Diop de Dakar
+  country: Senegal
+  
+  
 
 ---
 
