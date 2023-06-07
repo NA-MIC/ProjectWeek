@@ -13,6 +13,10 @@ key_investigators:
 - name: Pape Mady Thiao
   affiliation: école militaire de santé de Dakar 
   country: Sénégal
+  
+- name: Sonia Pujol
+  affiliation: Brigham and Women's Hospital, Harvard Medical School
+  country: USA
 
 ---
 
