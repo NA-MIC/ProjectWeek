@@ -7,6 +7,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Alicia Pose Díez de la Lastra (Universidad Carlos III de Madrid, Madrid, Spain) - [On site, Presenter]
 - Simon Drouin (École de Technologie Supérieure , Montreal , Canada)
 
+
+
 ## Project Description
 Microsoft HoloLens 2 has demonstrated to be an excellent device in many clinical applications. They are mainly used to display 3D patient-related virtual information overlayed to the real world. However, its processing capacity is quite limited, so developing complex applications that require medical image processing is quite convoluted.  
 
