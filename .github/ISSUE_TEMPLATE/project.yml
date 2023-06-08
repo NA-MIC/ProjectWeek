@@ -29,6 +29,17 @@ body:
       - Infrastructure
   validations:
     required: true
+
+- type: dropdown
+  attributes:
+    label: Presenter Location
+    description: Select whether the presenter will be In-person or Online.
+    options:
+      - In-person
+      - Online      
+  validations:
+    required: true
+
 - type: markdown
   attributes:
     value: |

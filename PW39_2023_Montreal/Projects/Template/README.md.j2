@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: {{ title | to_yaml | regex_replace("\n$|\n\.\.\.\n$", "") }}
 category: {{ category | regex_replace("\n$|\n\.\.\.\n$", "") }}
+presenter_location: {{ presenter_location | regex_replace("\n$|\n\.\.\.\n$", "") }}
 
 key_investigators:
 {% for investigator in investigators %}

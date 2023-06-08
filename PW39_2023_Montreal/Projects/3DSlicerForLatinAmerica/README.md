@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: 3D Slicer for Latin America
 category: Infrastructure
+presenter_location: Online
 
 key_investigators:
 
