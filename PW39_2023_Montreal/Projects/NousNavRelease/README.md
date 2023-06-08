@@ -3,7 +3,7 @@ layout: pw39-project
 
 permalink: /:path/
 
-project_title: NousNav Major Version Release
+project_title: Towards NousNav Major Version Release
 category: IGT and Training
 presenter_location: In-person
 
@@ -11,6 +11,7 @@ key_investigators:
 - name: Sam Horvath
   affiliation: Kitware
   country: USA
+
 - name: Colton Barr
   affiliation: Queen's University / Brigham and Women's Hospital
   country: Canada
@@ -30,11 +31,10 @@ key_investigators:
 - name: Tina Kapur
   affiliation: Brigham and Women's Hospital
   country: USA
-  
-- name: Tamas Ungi
-  affiliation: Queen's University
-  country: Canada
 
+- name: Alex Golby
+  affiliation: Brigham and Women's Hospital
+  country: USA
 
 ---
 
