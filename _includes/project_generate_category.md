@@ -51,7 +51,7 @@
     {% comment %}Append category entry.{% endcomment %}
 {% capture categories %}
 {{ categories }}
-1. [{{ pw_page.project_title }}]({{ pw_page.url }}) (
+1. [{{ pw_page.project_title }}]({{ pw_page.url }}) (*{{pw_page.presenter_location}}*) (
 {%- for investigator in pw_page.key_investigators -%}
     {{ investigator.name }}{% unless forloop.last %}, {% endunless -%}
 {%- endfor -%}
@@ -62,7 +62,7 @@
 
 {% capture uncategorized %}
 {{ uncategorized }}
-1. [{{ pw_page.project_title }}]({{ pw_page.url }}) (
+1. [{{ pw_page.project_title }}]({{ pw_page.url }})({{pw_page.presenter_location}}) (
 {%- for investigator in pw_page.key_investigators -%}
     {{ investigator.name }}{% unless forloop.last %}, {% endunless -%}
 {%- endfor -%}

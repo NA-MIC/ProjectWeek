@@ -114,6 +114,7 @@ jobs:
         jq --arg title "${{ steps.project_issue.outputs.title }}" '{
           "title": $title,
           "category": .category.text,
+          "presenter_location": .presenter-location.text,
           "description": .["project-description"].text,
           "objective": .objective.text,
           "approach": .["approach-and-plan"].text,

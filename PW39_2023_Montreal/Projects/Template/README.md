@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: Write full project title here
 category: Uncategorized
+presenter_location: Online
 
 key_investigators:
 - name: Person Doe
