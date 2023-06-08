@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: Efficient Handling and Progressive Loading of Compressed Multiframe DICOM Images
 category: Cloud / Web
+presenter_location: Online
 
 key_investigators:
 

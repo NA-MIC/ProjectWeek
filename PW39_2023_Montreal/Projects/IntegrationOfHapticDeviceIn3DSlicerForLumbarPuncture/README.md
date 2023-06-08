@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: Integration of Haptic Device in 3D Slicer for Lumbar Puncture
 category: IGT and Training
+presenter_location: In-person
 
 key_investigators:
 

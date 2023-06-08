@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: 3D Medical Registration and Segmentation with Elastix and MONAI Label
 category: Segmentation / Classification / Landmarking
+presenter_location: In-person
 
 key_investigators:
 

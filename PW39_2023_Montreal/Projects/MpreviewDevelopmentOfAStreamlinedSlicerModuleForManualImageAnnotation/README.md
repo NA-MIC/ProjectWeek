@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: mpReview Development of a streamlined Slicer module for manual image annotation
 category: Cloud / Web
+presenter_location: In-person
 
 key_investigators:
 

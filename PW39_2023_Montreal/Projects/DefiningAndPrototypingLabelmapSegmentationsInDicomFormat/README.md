@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: Defining and Prototyping Labelmap Segmentations in DICOM Format
 category: Segmentation / Classification / Landmarking
+presenter_location: In-person
 
 key_investigators:
 

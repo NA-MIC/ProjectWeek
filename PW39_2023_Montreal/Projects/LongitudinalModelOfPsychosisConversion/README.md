@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: Longitudinal model of psychosis conversion
 category: Quantification and Computation
+presenter_location: In-person
 
 key_investigators:
 

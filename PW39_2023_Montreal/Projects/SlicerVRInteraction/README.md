@@ -8,6 +8,7 @@ redirect_from:
 
 project_title: SlicerVR - Restore Interactions
 category: VR/AR and Rendering
+presenter_location: Online
 
 key_investigators:
 - name: Csaba Pintér

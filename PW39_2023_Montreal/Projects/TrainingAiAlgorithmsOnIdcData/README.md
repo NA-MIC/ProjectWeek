@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: Training AI algorithms on IDC data
 category: Segmentation / Classification / Landmarking
+presenter_location: In-person
 
 key_investigators:
 

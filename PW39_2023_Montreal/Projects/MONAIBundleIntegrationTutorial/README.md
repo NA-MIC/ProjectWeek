@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: HOW TO use MONAI bundle to integrate models from MONAI model ZOO
 category: Segmentation / AI
+presenter_location: Online
 
 key_investigators:
 - name: Rudolf Bumm

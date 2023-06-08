@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: Slicer FreeSurfer Commands
 category: Segmentation
+presenter_location: In-person
 
 key_investigators:
 - name: Ben Zwick

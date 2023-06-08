@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: SlicerCBM "Computational Biophysics for Medicine in 3D Slicer"
 category: Quantification and Computation
+presenter_location: In-person
 
 key_investigators:
 - name: Ben Zwick

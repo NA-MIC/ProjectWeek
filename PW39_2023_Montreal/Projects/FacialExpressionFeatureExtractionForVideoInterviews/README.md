@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: Facial expression feature extraction for video interviews
 category: Quantification and Computation
+presenter_location: In-person
 
 key_investigators:
 

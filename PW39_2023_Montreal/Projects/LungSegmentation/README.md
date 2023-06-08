@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: 3D Slicer Lung CT Segmentation and Analysis
 category: Segmentation / Classification / Landmarking
+presenter_location: Online
 
 key_investigators:
 - name: Rudolf Bumm

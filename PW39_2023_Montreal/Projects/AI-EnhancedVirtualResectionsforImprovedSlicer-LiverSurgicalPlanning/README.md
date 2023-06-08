@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: AI-Enhanced Virtual Resections for Improved Slicer-Liver Surgical Planning
 category: IGT and Training
+presenter_location: In-person
 
 key_investigators:
 - name: Gabriella d'Albenzio
