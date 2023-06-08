@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: extension for recurrent lung infections 
 category: Segmentation / Classification / Landmarking
+presenter_location: Online
 
 key_investigators:
 

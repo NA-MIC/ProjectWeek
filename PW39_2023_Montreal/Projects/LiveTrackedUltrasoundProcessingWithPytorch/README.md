@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: Live tracked ultrasound processing with PyTorch
 category: IGT and Training
+presenter_location: In-person
 
 key_investigators:
 

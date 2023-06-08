@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: Tutorials on working with DICOM annotations in pathology whole-slide images
 category: Segmentation / Classification / Landmarking
+presenter_location: In-person
 
 key_investigators:
 

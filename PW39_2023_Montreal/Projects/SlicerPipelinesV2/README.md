@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: Slicer Pipelines v2
 category: Infrastructure
+presenter_location: Online
 
 key_investigators:
 

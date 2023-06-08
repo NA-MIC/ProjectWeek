@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: SlicerROS2
 category: IGT and Training
+presenter_location: In-person
 
 key_investigators:
 

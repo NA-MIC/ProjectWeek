@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: Improve TCIA Browser extension
 category: Infrastructure
+presenter_location: Online
 
 key_investigators:
 

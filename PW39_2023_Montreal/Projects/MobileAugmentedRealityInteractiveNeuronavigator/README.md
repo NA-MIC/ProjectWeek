@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: 'MARIN: Mobile Augmented Reality Interactive Neuronavigator (in Slicer)'
 category: IGT and Training
+presenter_location: In-person
 
 key_investigators:
 - name: Mehrdad Asadi

@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: Slicer-IDCBrowser
 category: Infrastructure
+presenter_location: In-person
 
 key_investigators:
 

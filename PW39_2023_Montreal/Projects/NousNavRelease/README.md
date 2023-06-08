@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: NousNav Major Version Release
 category: IGT and Training
+presenter_location: In-person
 
 key_investigators:
 - name: Sam Horvath

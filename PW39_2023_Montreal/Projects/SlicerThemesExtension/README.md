@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: SlicerThemes Extension and Demo
 category: Infrastructure
+presenter_location: In-person
 
 key_investigators:
 - name: Sam Horvath

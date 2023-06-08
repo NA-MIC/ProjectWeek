@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: Automated Registration of Cone-Beam Computed Tomography
 category: Segmentation / Classification / Landmarking
+presenter_location: In-person
 
 key_investigators:
 - name: Anchling Luc 

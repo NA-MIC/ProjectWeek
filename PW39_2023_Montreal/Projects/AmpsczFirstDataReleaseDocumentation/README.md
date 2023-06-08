@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: AMPSCZ First Data Release Documentation
 category: VR/AR and Rendering
+presenter_location: In-person
 
 key_investigators:
 

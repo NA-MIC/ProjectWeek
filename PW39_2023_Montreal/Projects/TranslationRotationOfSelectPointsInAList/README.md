@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: Translation/rotation of select points in a list
 category: Segmentation / Classification / Landmarking
+presenter_location: In-person
 
 key_investigators:
 

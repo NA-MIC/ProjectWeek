@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: AR in Slicer
 category: VR/AR and Rendering
+presenter_location: In-person
 
 key_investigators:
 

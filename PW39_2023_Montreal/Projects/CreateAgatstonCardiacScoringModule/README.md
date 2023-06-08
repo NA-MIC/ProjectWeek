@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: Create Agatston Cardiac Scoring Module
 category: Quantification and Computation
+presenter_location: In-person
 
 key_investigators:
 

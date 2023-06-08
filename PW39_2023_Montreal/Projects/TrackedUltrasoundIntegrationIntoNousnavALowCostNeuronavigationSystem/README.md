@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: Tracked ultrasound integration into NousNav, a low-cost neuronavigation system
 category: IGT and Training
+presenter_location: In-person
 
 key_investigators:
 

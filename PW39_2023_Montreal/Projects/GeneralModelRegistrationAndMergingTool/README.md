@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: General model registration and merging tool
 category: VR/AR and Rendering
+presenter_location: Online
 
 key_investigators:
 

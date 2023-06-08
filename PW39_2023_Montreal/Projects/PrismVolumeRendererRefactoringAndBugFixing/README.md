@@ -5,6 +5,7 @@ permalink: /:path/
 
 project_title: PRISM Volume Renderer – Refactoring and bug fixing
 category: VR/AR and Rendering
+presenter_location: In-person
 
 key_investigators:
 

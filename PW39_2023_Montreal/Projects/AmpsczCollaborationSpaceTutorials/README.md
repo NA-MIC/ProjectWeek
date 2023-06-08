@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: AMPSCZ Collaboration Space Tutorials
 category: Quantification and Computation
+presenter_location: In-person
 
 key_investigators:
 

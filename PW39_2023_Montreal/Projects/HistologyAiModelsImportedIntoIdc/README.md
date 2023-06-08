@@ -7,6 +7,7 @@ redirect_from:
 
 project_title: Histology AI model annotations imported into IDC
 category: Segmentation / Classification / Landmarking
+presenter_location: In-person
 
 key_investigators:
 
