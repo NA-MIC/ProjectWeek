@@ -119,9 +119,11 @@ The goal of this project is to empower the biomedical research community in Lati
 
 * Monday, June 12, 2-4 pm EST
 
+Zoom link for Slicer Internationalization Breakout session: https://etsmtl.zoom.us/j/86060017076?pwd=NmVkb2ovckh6Y3ZjQzZxSUtXU09tZz09#success
+
 ### Daily Slicer internationalization sessions with members of the Slicer community
 
-Zoom link for all Slicer Internationalization sessions: https://etsmtl.zoom.us/j/86060017076?pwd=NmVkb2ovckh6Y3ZjQzZxSUtXU09tZz09#success
+Zoom link for daily Slicer Internationalization sessions: https://etsmtl.zoom.us/j/86060017076?pwd=NmVkb2ovckh6Y3ZjQzZxSUtXU09tZz09#success
 
 * Tuesday, June 13, 9:30-10 am EST
 * Wednesday, June 14, 9:30-10:30 am EST
