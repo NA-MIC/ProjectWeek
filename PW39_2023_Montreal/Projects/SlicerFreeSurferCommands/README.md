@@ -4,7 +4,7 @@ layout: pw39-project
 permalink: /:path/
 
 project_title: Slicer FreeSurfer Commands
-category: Segmentation
+category: Segmentation / Classification / Landmarking
 presenter_location: In-person
 
 key_investigators:

@@ -6,7 +6,7 @@ redirect_from:
 - /PW39_2023_Montreal/Projects/MONAIBundleIntegrationTutorial/README.html
 
 project_title: HOW TO use MONAI bundle to integrate models from MONAI model ZOO
-category: Uncategorized
+category: Segmentation / Classification / Landmarking
 presenter_location: Online
 
 key_investigators:
