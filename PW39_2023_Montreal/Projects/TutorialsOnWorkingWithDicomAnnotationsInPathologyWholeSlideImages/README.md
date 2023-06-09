@@ -59,6 +59,10 @@ At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Si
 2.  Read nuclei annotations
 3.  Efficiently compute cellularity values
 4.  Encode cellularity values as DICOM parametric maps
+5.  Testing and documentation of the current capabilities
+  * Establish a repository of test samples that will contain standard-compliant examples of bulk annotations (different number of points, 2D vs 3DSCOORD), segmentations (binary and fractional) and parametric maps (floating point and integer).
+  * Share code samples that were used to generate the examples above
+  * Test different combinations of Slim viewer, DICOMweb backend (Google, dcm4chee, orthanc) and test samples to understand what is supported by various components (i.e., perhaps only 3DSCOORD is supported by Slim, there may be limits on maximum size of SQ in Google Healthcare)
 
 ## Progress and Next Steps
 
@@ -78,4 +82,8 @@ At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Si
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-*No response*
+* link to test objects storage bucket
+* links to the relevant documentation pages
+* link to the repo with conversion from Chris B
+* link to the repo creating parametric map from Max
+* link to Slim deployment tutorial - seek feedback from Max and Curt
