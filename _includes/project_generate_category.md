@@ -32,13 +32,15 @@
 
   {% assign pw_page_category = pw_page.category | default:"Uncategorized" %}
 
-  {% if pw_page_category != requested_category %}
-    {% continue %}
-  {% endif %}
+  
 
   {% assign project_count = project_count | plus: 1 %}
 
   {% if page.project_categories contains pw_page_category %}
+
+    {% if pw_page_category != requested_category %}
+      {% continue %}
+    {% endif %}
 
     {% comment %}If if applies, add catergory header.{% endcomment %}
     {% unless categories contains pw_page_category %}
