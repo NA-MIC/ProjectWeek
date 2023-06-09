@@ -1,5 +1,3 @@
-# Automatic Registration Intra Oral Scan
-
 ---
 layout: pw39-project
 
