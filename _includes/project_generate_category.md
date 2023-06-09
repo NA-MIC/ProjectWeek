@@ -34,7 +34,7 @@
 
   
 
-  {% assign project_count = project_count | plus: 1 %}
+  
 
   {% if page.project_categories contains pw_page_category %}
 
@@ -42,7 +42,9 @@
       {% continue %}
     {% endif %}
 
-    {% comment %}If if applies, add catergory header.{% endcomment %}
+    {% assign project_count = project_count | plus: 1 %}
+
+    {% comment %}If if applies, add category header.{% endcomment %}
     {% unless categories contains pw_page_category %}
 {% capture categories %}
 {{ categories }}
