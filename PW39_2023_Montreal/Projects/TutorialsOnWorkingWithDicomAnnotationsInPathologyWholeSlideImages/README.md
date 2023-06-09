@@ -55,14 +55,14 @@ At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Si
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1.  Investigate nuclei annotations for plausibility
-2.  Read nuclei annotations
-3.  Efficiently compute cellularity values
-4.  Encode cellularity values as DICOM parametric maps
-5.  Testing and documentation of the current capabilities
-  * Establish a repository of test samples that will contain standard-compliant examples of bulk annotations (different number of points, 2D vs 3DSCOORD), segmentations (binary and fractional) and parametric maps (floating point and integer).
-  * Share code samples that were used to generate the examples above
-  * Test different combinations of Slim viewer, DICOMweb backend (Google, dcm4chee, orthanc) and test samples to understand what is supported by various components (i.e., perhaps only 3DSCOORD is supported by Slim, there may be limits on maximum size of SQ in Google Healthcare)
+1.  Testing and documentation of the current capabilities
+    * Establish a repository of test samples that will contain standard-compliant examples of bulk annotations (different number of points, 2D vs 3DSCOORD), segmentations (binary and fractional) and parametric maps (floating point and integer).
+    * Share code samples that were used to generate the examples above
+    * Test different combinations of Slim viewer, DICOMweb backend (Google, dcm4chee, orthanc) and test samples to understand what is supported by various components (i.e., perhaps only 3DSCOORD is supported by Slim, there may be limits on maximum size of SQ in Google Healthcare)
+2.  Investigate nuclei annotations for plausibility
+3.  Read nuclei annotations
+4.  Efficiently compute cellularity values
+5.  Encode cellularity values as DICOM parametric maps
 
 ## Progress and Next Steps
 
@@ -85,5 +85,5 @@ At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Si
 * link to test objects storage bucket
 * links to the relevant documentation pages
 * link to the repo with conversion from Chris B
-* link to the repo creating parametric map from Max
+* Some example [Parametric DICOM Maps](https://www.dropbox.com/scl/fo/yrbm7v2iyx6fh9jgsae1w/h?dl=0&rlkey=hxiagbbp486o3nj480skx0yw7) and the [conversion code as Docker container](https://github.com/maxfscher/DICOMwsiWorkflow/tree/main) from Max Fischer.
 * link to Slim deployment tutorial - seek feedback from Max and Curt
