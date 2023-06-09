@@ -55,15 +55,18 @@ This project will test reading DICOM-WSI imagery (including compression) and foc
 
 *   Verify the algorithms run on DICOM-WSI source images (including compression)
 *   Understand the semantics associated with DICOM Segmentation and Parametric Map objects
+*   Start with example workflow code from Max
 *   Write output formatter to generate proper DICOM for single class and multi-class segmentation images
+*   Test output annotations in Slim viewer
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-*   Gather source images in DICOM-WSI format
-*   Gather model source and pre-trained weights for inferencing
+*   Gathered source images in DICOM-WSI format
+*   Gathered model source and pre-trained weights for inferencing
+
 
 # Illustrations
 
@@ -77,3 +80,6 @@ This project will test reading DICOM-WSI imagery (including compression) and foc
      If possible, also add links to sample data, and to any relevant publications. -->
 
 models wrapped in a girder3 web application: <https://github.com/knowledgevis/rms_infer_web>
+
+starting example code from Max and Chris Gorman:  https://github.com/maxfscher/DICOMwsiWorkflow.git
+
