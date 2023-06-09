@@ -66,10 +66,10 @@ At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Si
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1.  Describe specific steps you **have actually done**.
+1.  Have prepared re-use of existing Google Cloud platform (GCP) project with the ID: idc-external-031
+2.  Have given key investigators access to the GCP project
+    * If anyone else is interested in being added, please send me an e-mail to daniela.schacherer@mevis.fraunhofer.de.
+3. ...
 
 # Illustrations
 
