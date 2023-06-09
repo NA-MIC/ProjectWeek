@@ -4,7 +4,7 @@ layout: pw39-project
 permalink: /:path/
 
 project_title: Automatic Registration Intra Oral Scan
-category: Semgnetation / Classification / Landmarking
+category: Segmentation / Classification / Landmarking
 presenter_location: In-person
 
 key_investigators:
