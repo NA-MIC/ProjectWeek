@@ -34,7 +34,7 @@ This is a follow-up to previous 3D Slicer lung CT segmentation PW projects.
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 To improve the LungCTAnalysis extension analysis in 3D Slicer, 
 
-which is frequently used, 
+which is frequently used (40 runs per day) 
 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/51840d88-e21f-489e-9943-e292ea8994b9)
 
