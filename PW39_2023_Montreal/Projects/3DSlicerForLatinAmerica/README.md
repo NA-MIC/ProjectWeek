@@ -121,9 +121,9 @@ The goal of this project is to empower the biomedical research community in Lati
 
 ### Daily Slicer internationalization sessions with members of the Slicer community
 
-* Tuesday, June 13, 9-11 am EST
-* Wednesday, June 14, 10-11 am EST
-* Thursday, June 15, 10-11 am EST
+* Tuesday, June 13, 9:30-10 am EST
+* Wednesday, June 14, 9:30-10:30 am EST
+* Thursday, June 15, 11am-12 pm EST
 
 ## Progress and Next Steps
 
