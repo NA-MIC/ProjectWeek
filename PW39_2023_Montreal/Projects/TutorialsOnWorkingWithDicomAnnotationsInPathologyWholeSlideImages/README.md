@@ -75,7 +75,7 @@ At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Si
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-*No response*
+![Overview DICOM annotations: Segmentation IOD, Microscopy Bulk Simple Annotations IOD. Taken from https://doi.org/10.1038/s41467-023-37224-2.](./overview_annotations.png)
 
 # Background and References
 
@@ -83,7 +83,8 @@ At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Si
      If possible, also add links to sample data, and to any relevant publications. -->
 
 * link to test objects storage bucket
-* links to the relevant documentation pages
-* link to the repo with conversion from Chris B
+* Github page [Slim viewer](https://github.com/ImagingDataCommons/slim)
+* [Slim deployment tutorial](https://docs.google.com/document/d/1857jb_wKHqyGOd49UirujDDrFE8fUPfimZPXJ19zSF4/edit?usp=sharing) - seek feedback from Max and Curt
+* TODO: link to the repo with conversion from Chris B
 * Some example [Parametric DICOM Maps](https://www.dropbox.com/scl/fo/yrbm7v2iyx6fh9jgsae1w/h?dl=0&rlkey=hxiagbbp486o3nj480skx0yw7) and the [conversion code as Docker container](https://github.com/maxfscher/DICOMwsiWorkflow/tree/main) from Max Fischer.
-* link to Slim deployment tutorial - seek feedback from Max and Curt
+* 
