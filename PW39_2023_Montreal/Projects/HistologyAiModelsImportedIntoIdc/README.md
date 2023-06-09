@@ -27,6 +27,10 @@ key_investigators:
   affiliation: DKFZ
   country: Germany
 
+- name: Andrey Fedorov
+- affiliation: Brigham and Women's Hospital
+- USA
+
 ---
 
 # Project Description
