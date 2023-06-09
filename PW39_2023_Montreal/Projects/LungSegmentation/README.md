@@ -32,34 +32,43 @@ This is a follow-up to previous 3D Slicer lung CT segmentation PW projects.
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-To improve the LungCTAnalysis extension analysis in 3D Slicer, which is frequently used, the following steps could be taken:
+To improve the LungCTAnalysis extension analysis in 3D Slicer, 
 
-1. Improve vessel segmentation:
+which is frequently used (40 runs per day) 
+
+![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/51840d88-e21f-489e-9943-e292ea8994b9)
+
+![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/ee0a6b06-9647-44b7-be68-84bbd04c4256)
+
+
+the following steps could be taken:
+
+1. Improve **vessel segmentation**:
    - Explore advanced image processing techniques, such as machine learning algorithms, to enhance the accuracy of vessel segmentation.
    - Incorporate vessel enhancement filters and vesselness measures to improve the detection and segmentation of pulmonary vessels.
    - Investigate the use of multi-modal imaging, such as combining CT angiography and conventional CT scans, to improve vessel segmentation accuracy.
 
-2. Develop a better concept for lung segment (sublobar) segmentation in 3D Slicer:
+2. Develop a better concept for lung **segment (sublobar) segmentation** in 3D Slicer:
    - Review the existing lung segmentation algorithms and identify areas for improvement.
    - Consider incorporating anatomical landmarks, such as fissures and vessel patterns, to refine the segmentation of lung sublobes.
    - Utilize machine learning techniques, such as deep learning algorithms, to automatically segment lung sublobes based on training data.
 
-3. Identify tumors belonging to segments and consider safety margins:
+3. **Identify tumors** belonging to segments and consider safety margins:
    - Implement tumor detection algorithms that can identify and segment lung tumors within specific lung segments.
    - Incorporate safety margin calculations to ensure adequate coverage of tumors during segmentation.
-   - Provide visual cues or annotations to clearly indicate tumor locations and safety margins in the 3D Slicer interface.
+   - Provide visual cues or annotations to clearly indicate tumor locations and **safety margins** in the 3D Slicer interface.
 
-4. Suggest resection of segments with nutritive vessel resection for neighboring tumors:
+4. Suggest resection of segments which include nutritive vessel resection for **neighboring tumors**:
    - Develop algorithms that can analyze the relationships between lung segments and neighboring tumors to determine if resection of the nutritive vessels is necessary.
    - Provide automated suggestions for resection of segments that require removal due to the radicality of neighboring tumor resections.
    - Ensure clear visualization and communication of these suggestions to the medical professionals using 3D Slicer.
 
-5. Differentiate pulmonary arteries and veins reliably:
+5. **Differentiate pulmonary arteries and veins** reliably:
    - Investigate advanced image analysis techniques (VMTK?), such as texture analysis and flow analysis, to differentiate pulmonary arteries and veins with higher reliability.
    - Explore the use of contrast-enhanced imaging techniques or dual-energy CT to improve the differentiation of arteries and veins.
    - Validate the accuracy and reliability of the differentiation algorithms through comprehensive evaluation and comparison with ground truth data.
 
-6. Work on current OpenSourceCOVID publication:
+6. Work on current **OpenSourceCOVID publication**:
    - Collaborate with domain experts to finalize the research findings and results.
    - Prepare the manuscript for publication, ensuring clear and concise communication of the developed techniques, methodologies, and results.
    - Conduct a thorough review of the existing literature to ensure the publication adds novel contributions and addresses any gaps in the field.
@@ -71,7 +80,7 @@ To improve the LungCTAnalysis extension analysis in 3D Slicer, which is frequent
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 The development of the extension has slowed down due to the lack of ideas how to handle vessel and subsegmental structure segmentation that would be crucial for surgical planning. 
-To many it seems that the main limitation of the computational method it is highly sensitive to the chosen threshold values. This is indicated that just the small variance between well calibrated clinical CTs could cause measurable differences in the end result in about 20-30% of the cases. Probably the root cause of the problem is that thresholding with a hard value makes the classification very sensitive to the chosen threshold value. Andras Lasso suggested to reduce this sensitivity by using soft classifiers.
+To many it seems that the main limitation of the computational method it is highly sensitive to the chosen **threshold values**. This is indicated that just the small variance between well calibrated clinical CTs could cause measurable differences in the end result in about 20-30% of the cases. Probably the root cause of the problem is that thresholding with a hard value makes the classification very sensitive to the chosen threshold value. Andras Lasso suggested to reduce this sensitivity by using soft classifiers.
 
 ### GPT-4 reponse: 
 
