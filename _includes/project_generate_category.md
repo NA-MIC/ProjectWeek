@@ -31,6 +31,11 @@
   {% endif %}
 
   {% assign pw_page_category = pw_page.category | default:"Uncategorized" %}
+  
+  {% comment %}Force all non-matching projects to Uncategorized.{% endcomment %}
+  {% unless page.project_categories contains pw_page_category %}
+    {% assign pw_page_category = "Uncategorized" %}
+  {% endunless %}
 
   {% if pw_page_category != requested_category %}
     {% continue %}
@@ -66,7 +71,7 @@
 {%- for investigator in pw_page.key_investigators -%}
     {{ investigator.name }}{% unless forloop.last %}, {% endunless -%}
 {%- endfor -%}
-)
+) (Category: {{pw_page.category}})
 {% endcapture %}
 
   {% endif %}
