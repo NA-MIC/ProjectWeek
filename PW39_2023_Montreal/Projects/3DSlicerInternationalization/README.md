@@ -73,6 +73,8 @@ The goal of the project is to facilitate access to 3D Slicer in non-English spea
 
 To identify members of the global Slicer community interested in new Slicer activities in their language
 
+To create a list containing the top 10 Slicer modules to translate for new Slicer Internationalization contributors
+
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
