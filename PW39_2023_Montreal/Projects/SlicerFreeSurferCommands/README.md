@@ -62,4 +62,4 @@ FreeSurfer SynthStrip Skull Strip
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-Software repository: https://github.com/SlicerCBM/SlicerFreeSurferCommands
+Software repository: <https://github.com/SlicerCBM/SlicerFreeSurferCommands>
