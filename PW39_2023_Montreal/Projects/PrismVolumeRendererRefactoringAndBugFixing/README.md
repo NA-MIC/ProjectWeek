@@ -35,20 +35,22 @@ PRISM has a significant amount of unused and/or legacy code that was made for ve
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1.  Objective A. Describe **what you plan to achieve** in 1-2 sentences.
+1.  Fixing the Outline shader
+2.  Closing Slicer after opening PRISM shouldn't generate errors
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1.  Describe specific steps of **what you plan to do** to achieve the above described objectives.
+1.  Debug the code to see what is happening
+2.  Try to simplify the shader until something appears on the screen, and then add the code back
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  TBD
 
 # Illustrations
 
