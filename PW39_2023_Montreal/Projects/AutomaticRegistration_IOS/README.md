@@ -5,9 +5,9 @@ layout: pw39-project
 
 permalink: /:path/
 
-project_title: Write full project title here
-category: Uncategorized
-presenter_location: Online
+project_title: Automatic Registration Intra Oral Scan
+category: Semgnetation / Classification / Landmarking
+presenter_location: In-person
 
 key_investigators:
 - name: Nathan Hutin
