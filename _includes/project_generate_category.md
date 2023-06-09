@@ -30,19 +30,18 @@
     {% continue %}
   {% endif %}
 
-  {% assign pw_page_category = pw_page.category | default:"Uncategorized" %}
-
-  
-
-  
-
-  {% if page.project_categories contains pw_page_category %}
+    {% assign pw_page_category = pw_page.category | default:"Uncategorized" %}
+    {% unless page.project_categories contains pw_page_category %}
+       {% assign pw_page_category = "Uncategorized" %}
+    {% endunless %}
 
     {% if pw_page_category != requested_category %}
       {% continue %}
     {% endif %}
 
     {% assign project_count = project_count | plus: 1 %}
+
+  {% if page.project_categories contains pw_page_category %}    
 
     {% comment %}If if applies, add category header.{% endcomment %}
     {% unless categories contains pw_page_category %}
