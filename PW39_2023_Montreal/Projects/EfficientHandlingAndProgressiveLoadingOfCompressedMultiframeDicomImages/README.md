@@ -17,6 +17,9 @@ key_investigators:
   affiliation: Stanford
   country: USA
 
+- name: Steve Pieper
+  affiliation: Isomics, Inc.
+  country: USA
 ---
 
 # Project Description
@@ -27,7 +30,7 @@ Loading compressed multiframe DICOM images as a whole causes frequent browser cr
 
 The browser's rendering engine attempts to load the entire file into memory, due to the significant size of these images, the browser can quickly exhaust its allocated memory, leading to crashes or unresponsive behavior.
 
-This issue affects both ePAD and OHIF with the latest WADO-loader version.
+This issue affects both ePAD and OHIF with the latest WADO-loader version.  Note that the crash can be reproduced in the current OHIF v3 version, so it has impact on projects including IDC.
 
 ## Objective
 
@@ -35,11 +38,14 @@ This issue affects both ePAD and OHIF with the latest WADO-loader version.
 
 Initiate a discourse about the methodologies for saving, storing, and reading DICOM data, and explore strategies for optimizing the handling of compressed multiframe images to achieve enhanced efficiency and avoid browser crashing.
 
+
+
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-Instead of loading the entire DICOM file at once, the image loading process can be modified to load the image in smaller chunks or frames progressively. This approach may allow the browser to handle smaller portions of the image, reducing the memory burden and enhancing overall stability.
+1. Confirm that the DICOM data is valid.
+1. Create a deidentified dataset to reproduce the data.  Original US data has burned in patient info, so blank pixel data wll be substituted.
+1. Explore changing the code so that instead of loading the entire DICOM file at once, the image loading process can be modified to load the image in smaller chunks or frames progressively. This approach may allow the browser to handle smaller portions of the image, reducing the memory burden and enhancing overall stability.
 
 ## Progress and Next Steps
 
