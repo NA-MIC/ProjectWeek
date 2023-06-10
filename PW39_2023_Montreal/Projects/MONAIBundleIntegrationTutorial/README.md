@@ -64,13 +64,13 @@ Sidenote: The process was implemented on an AWS EC2 Windows server instance with
 
 ## Approach and Plan
 
-Establish the **wholeBody_ct_segmentation MONAILabel model** on an AWS EC2 Windows instance during the workshop.
+During the workshop, create the wholeBody_ct_segmentation MONAILabel model on an AWS EC2 Windows instance.
 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/06d8146a-4d0e-4a6d-a7d3-59158f773647)
 
-We will document the installation process and try using the server from different locations simultaneously. 
+We'll attempt using the server simultaneously from various places while documenting the installation procedure. 
 
-The MONAILabel server IP will be http://52.209.177.211:8000/. The server will be open for 2 hours every day during the Project week (Monday to Wednesday) from 2 p.m. - 4 p.m. local time. 
+The IP address of the MONAILabel server is http://52.209.177.211:8000/. During the Project week (Monday through Wednesday), the server will be accessible daily from 2 p.m. to 4 p.m. local time. 
 
 ## Progress and Next Steps
 
