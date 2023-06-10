@@ -64,14 +64,16 @@ Sidenote: The process was implemented on an AWS EC2 Windows server instance with
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+Establish the **wholeBody_ct_segmentation MONAILabel model** on an AWS EC2 Windows instance during the workshop.
 
+![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/06d8146a-4d0e-4a6d-a7d3-59158f773647)
 
+We will document the installation process and try using the server from different locations simultaneously. 
+
+The MONAILabel server IP will be http://52.209.177.211:8000/. The server will be open for 2 hours every day during the Project week (Monday to Wednesday) from 2 p.m. - 4 p.m. local time. 
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
      
 Here is a list of the bundles from the MONAI Model Zoo page as of 5/23:
 
