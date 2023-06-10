@@ -75,7 +75,7 @@ The IP address of the MONAILabel server is http://52.209.177.211:8000/. During t
 ## Progress and Next Steps
 
      
-Here is a list of the bundles from the [MONAI Model Zoo page]([url](https://monai.io/model-zoo.html)) as of 5/23:
+Here is a list of the bundles from the [MONAI Model Zoo page](https://monai.io/model-zoo.html) as of 5/23:
 
 **Clara train COVID19 3D classification**: A pre-trained model for 3D COVID-19 classification using CT images【1†source】
 
