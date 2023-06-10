@@ -8,18 +8,26 @@ redirect_from:
 
 project_title: SlicerVR - Restore Interactions
 category: VR/AR and Rendering
-presenter_location: Online
+presenter_location: In-person
 
 key_investigators:
+- name: Simon Drouin
+  affiliation: ÉTS Montréal
+  country: Canada
+  
 - name: Csaba Pintér
   affiliation: EBATINCA
   country: Spain
 
-- name: Simon Drouin
+- name: Andrey Titov
   affiliation: ÉTS Montréal
   country: Canada
-
-- name: Andrey Titov
+  
+- name: Tina Nantenaina
+  affiliation: ÉTS Montreal
+  country: Canada
+  
+- name: Lea Vong
   affiliation: ÉTS Montréal
   country: Canada
 ---
