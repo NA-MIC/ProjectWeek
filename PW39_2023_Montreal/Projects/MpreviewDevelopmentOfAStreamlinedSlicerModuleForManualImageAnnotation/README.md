@@ -26,36 +26,40 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-The 3DSlicer module mpReview (part of the SlicerProstate extension) was previously developed to assist with manual annotation of the prostate and other related anatomical regions. In previous project weeks, we have streamlined the extension [here](https://projectweek.na-mic.org/PW35_2021_Virtual/Projects/mpReview/) and updated the module to use the latest SegmentEditor, and incorporated the use of Google Cloud Platform [here](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/mpReview/).
+Currently, there does not exist a simple, streamlined way to annotate many DICOM series and save Segmentation objects. Users have to manually load data into Slicer, set up the layouts themselves (in the case of multi-parametric data), name the files, etc. -- this is difficult to do for a large dataset! 
+
+There are extensions that already exist, for instance [CaseIterator](https://github.com/JoostJM/SlicerCaseIterator), [FlywheelCaseIterator](https://github.com/Slicer/ExtensionsIndex/pull/1942) and [SegmentationReview](https://github.com/zapaishchykova/SegmentationReview). Unfortunately, some do not take DICOM files as input, and so far cannot handle cases where a clinician needs to view multiple series at the same time. 
+
+The 3DSlicer module mpReview (part of the SlicerProstate extension) was previously developed to handle these cases, specifically for assisting wtih manual annotation of the prostate and other related anatomical regions. In previous project weeks, we have streamlined the extension [here](https://projectweek.na-mic.org/PW35_2021_Virtual/Projects/mpReview/) and updated the module to use the latest SegmentEditor, and incorporated the use of Google Cloud Platform [here](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/mpReview/). 
 
 However, there are improvements that can be made in terms of functionality. For instance, we would like to allow the user to access multiple types of servers, and perform annotation of body parts other than the prostate.
 
-In this project week we'll focus on using a JSON file as input, which will allow users to customize the module to their annotation needs. Our goal will be to streamline the user's interaction with the module, allowing them to annotate large datasets efficiently and quickly using both the cloud (e.g. GCP and Kaapana) or a local DICOM database.
+In this project week we'd like to focus on getting user feedback on the current state of the extension, and ideas for improvements and features to add. We will try out extensions mentioned above to get ideas of how ours could be more streamlined. 
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1.  Discuss the current [multiple_server](https://github.com/deepakri201/mpReview/tree/multiple_server) branch of the module.
-
-2.  Brainstorm the JSON format specification necessary for streamlining the annotation workflow. Generate examples of JSON files for different use cases: local Slicer DICOM database, Google Cloud Platform, Kaapana, etc.
-
-3.  Define the steps that are needed to accomplish the changes.
+1.  Get feedback from the current [multiple_server_feature](https://github.com/deepakri201/mpReview/tree/multiple_server_feature) branch of the module. 
+2.  Try out [CaseIterator](https://github.com/JoostJM/SlicerCaseIterator), [FlywheelCaseIterator](https://github.com/Slicer/ExtensionsIndex/pull/1942), and [SegmentationReview] (https://github.com/zapaishchykova/SegmentationReview)
+3.  Brainstorm ideas for improvements and features to include. 
+4.  Define the steps that are needed to accomplish the changes.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1.  We will discuss the state of the current branch, and identify the needs of users.
-2.  After talking to researchers and clinicians and their annotation needs/concerns, we will develop JSON format specifications for a variety of use cases.
+1.  We will provide instructions below how to setup the module, and download sample data, etc. --> see below "Installation Instructions for Users"
+2.  We will ask users to experiment with the module and provide us feedback. 
+3.  We will make some changes to the module based on user feedback and from our experimentation with the other extensions 
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  We have started discussing the  shortcomings of the current module.
-2.  We have started to draft possible JSON file specifications.
+1.  I have made some UI changes to the module from feedback from Nadya and Andrey. 
+2. 
 
 # Illustrations
 
@@ -71,3 +75,12 @@ Current screenshot of the module
      If possible, also add links to sample data, and to any relevant publications. -->
 
 We have worked on this during multiple project weeks, [PW35](https://projectweek.na-mic.org/PW35_2021_Virtual/Projects/mpReview/) and [PW37](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/mpReview/). The code from PW37 is available [here](https://github.com/deepakri201/mpReview/tree/multiple_server).
+
+# Installation Instructions for Users 
+
+1. Clone the mpReview [multiple_server_feature branch](https://github.com/deepakri201/mpReview/tree/multiple_server_feature)
+2. If you want to use the local Slicer DICOM database to experiment with the module, download some sample data from this dropbox link [here](). We've provided data from a typical prostate MR imaging scan (collection QIN-Prostate-Repeatability) and a typical CT scan (from NLST).
+3. Or, if you want to be adventurous and try out using the Google Cloud Platform server, you will first need to have a google account and a project. You will have a 90 day free trial with credits, or go [here](https://learn.canceridc.dev/getting-started-with-idc) to request $300 credits from Imaging Data Commons. Then follow [this notebook]() to set up your very own DICOM datastore which will hold the same data from above. You will also need to install the Google Cloud SDK on your machine (for Mac/Linux make sure you install it in your home directory and add to PATH). In windows it should be added to the path automatically. 
+4. Install the mpReview module by going to Applications and adding the path. 
+5. If you have time, it would be great to get your feedback on this [google form](https://docs.google.com/forms/d/e/1FAIpQLSe2fGjdiWVfPSh3gDOoZ5fm0IaUHdB4lultvjwRqVskodN2sw/viewform?usp=sf_link) :) 
+
