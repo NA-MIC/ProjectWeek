@@ -21,22 +21,25 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-Run FreeSurfer commands using 3D Slicer's graphical user interface.
+Run [FreeSurfer](https://freesurfer.net) commands using [3D Slicer](https://www.slicer.org)'s graphical user interface. For example:
+- [mri_watershed - strip skull and other outer non-brain tissue](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed)
+- [SynthStrip: Skull-Stripping for Any Brain Image](https://surfer.nmr.mgh.harvard.edu/docs/synthstrip/)
+- [SynthSeg: Segmentation of brain MRI scans](https://surfer.nmr.mgh.harvard.edu/fswiki/SynthSeg)
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Get feedback on use and implementation of the modules from other Slicer users and developers.
+1. Complete the development of existing modules based on Slicer user and developer feedback.
 2. Develop additional modules for other commands (e.g. SynthSeg).
-3. Package SlicerCBM modules as an installable 3D Slicer extension.
+3. Package modules as an installable 3D Slicer extension.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Demonstrate modules to Slicer users and developers.
-2. Discuss the implementation of the modules with Slicer developers.
+1. Demonstrate and get feedback on the use and implementation of the existing modules from Slicer users and developers.
+2. Discuss the implementation of the modules with Slicer developers (in particular the use of CLI vs scripted Python modules for this application).
 3. Modify modules based on feedback from Slicer developers.
 4. Complete the [New extension checklist](https://github.com/SlicerCBM/SlicerFreeSurferCommands/issues/1).
 
@@ -63,3 +66,9 @@ FreeSurfer SynthStrip Skull Strip
      If possible, also add links to sample data, and to any relevant publications. -->
 
 Software repository: <https://github.com/SlicerCBM/SlicerFreeSurferCommands>
+
+FreeSurfer website: <https://freesurfer.net/>
+
+Similar extensions for 3D Slicer:
+- [SlicerFreeSurfer](https://github.com/PerkLab/SlicerFreeSurfer)
+- [SlicerNeuroSegmentation](https://github.com/HOA-2/SlicerNeuroSegmentation)
