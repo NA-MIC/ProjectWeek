@@ -43,9 +43,17 @@ Initiate a discourse about the methodologies for saving, storing, and reading DI
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
-1. Confirm that the DICOM data is valid.
-1. Create a deidentified dataset to reproduce the data.  Original US data has burned in patient info, so blank pixel data wll be substituted.
-1. Explore changing the code so that instead of loading the entire DICOM file at once, the image loading process can be modified to load the image in smaller chunks or frames progressively. This approach may allow the browser to handle smaller portions of the image, reducing the memory burden and enhancing overall stability.
+* Confirm that the DICOM data is valid.  Issues from dciodvfy seem unrelated:
+```
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Study ID
+USMultiFrameImage
+Warning - Unrecognized defined term <SECTRA> for value 1 of attribute <Coding Scheme Designator>
+Error - Missing attribute Type 2C Conditional Element=<Laterality> Module=<GeneralSeries>
+Warning - Unrecognized defined term <L> for value 1 of attribute <Coding Scheme Designator>
+```
+* Create a deidentified dataset to reproduce the data.  Original US data has burned in patient info, so blank pixel data wll be substituted.
+*  Done: https://github.com/emelalkim/sampledata/releases/tag/large_multiframe
+* Explore changing the code so that instead of loading the entire DICOM file at once, the image loading process can be modified to load the image in smaller chunks or frames progressively. This approach may allow the browser to handle smaller portions of the image, reducing the memory burden and enhancing overall stability.
 
 ## Progress and Next Steps
 
