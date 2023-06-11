@@ -27,8 +27,8 @@ If you have any questions, you can contact the [organizers](#organizers).
 * Registration for **remote** participants is free.
 * Registration for **in person** participants is 350 $CAN (approx. 250 $US). You can register your fee [here](https://www.eventbrite.ca/e/na-mic-project-week-39-tickets-593226786287).
 
-## Preparation meetings
-We hold weekly preparation meetings at 10am (Eastern Time) on Tuesdays, starting May 2, 2023. Please join at [this link](https://etsmtl.zoom.us/j/88039770641?pwd=L3JnRFAvRjQ2OEk1UWt1N2VMWDZZZz09) if you have a project that you would like to present or work on during project week or to find out about projects you can join.
+## Zoom
+During Project Week, a zoom session will be running continuously and will be used for both project presentations and breakout sessions. Please join at [this link](https://etsmtl.zoom.us/j/89962816358?pwd=RW9jc3ZUM0lXOFJsL2NsaVBaME1Ddz09). Note that the **Slicer Internationalization** breakout session will use a different zoom session available using [this link](https://etsmtl.zoom.us/j/86060017076?pwd=NmVkb2ovckh6Y3ZjQzZxSUtXU09tZz09).
 
 ## Discord
 The **Discord** application is used to communicate between team members and organize activities before and during Project Week. Please join the Project Week [Discord server](https://discord.gg/yQsNVdVpS3) as soon as possible and explore its functionality before the workshop. For more information on the use of Discord before and during Project Week, please visit [this page](../common/Discord.md).
