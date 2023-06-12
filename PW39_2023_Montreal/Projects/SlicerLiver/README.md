@@ -60,6 +60,23 @@ key_investigators:
 
 # Illustrations
 
+<p float="left">
+  <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_01.png?raw=true" width="30%">
+  <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_04.png?raw=true" width="30%">
+  <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_02.png?raw=true" width="30%">  
+</p>
+
+<p float="left">
+   <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_08.png?raw=true" width="40%">
+   <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_06.png?raw=true" width="40%">
+   
+</p>
+
+<img width="50%" alt="resection" src="https://user-images.githubusercontent.com/75131750/216592014-82fc6c37-0b58-41dd-8a73-6ab97d1aede0.gif">
+
+
+<img width="50%" alt="resectogram" src= "https://user-images.githubusercontent.com/75131750/216590392-62093987-8c14-4e43-88ad-4215a9764766.gif">
+
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 *No response*
