@@ -28,6 +28,8 @@ key_investigators:
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
+The Accelerating Medicines Partnership (AMP®) program is a public-private partnership between the National Institutes of Health, the U.S. Food and Drug Administration, the European Medicines Agency, pharmaceutical and life science companies, non-profit and other organizations. The AMP Schizophrenia (SCZ) program was launched in 2020 to address the critical need for more effective treatments for people with schizophrenia and related mental health conditions.
+The project aims to recruit and test over 2,000 individuals at clinical high risk for psychosis using a longitudinal multi-modal protocol involving imaging, EEG and event-related potentials, fluid-based biomarkers, cognitive assessments, and speech sampling). The collection of these biomarkers over time will validate their use and efficacy in the CHR population to establish early indicators of pharmacologic treatment efficacy.
 
 The AMPSCZ project will have its first public data release in July and we want to finalize documentations and "customer-facing" material.
 
