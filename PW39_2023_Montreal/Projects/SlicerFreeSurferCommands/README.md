@@ -21,10 +21,25 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-Run [FreeSurfer](https://freesurfer.net) commands using [3D Slicer](https://www.slicer.org)'s graphical user interface. For example:
+Run [FreeSurfer](https://freesurfer.net) commands using [3D Slicer](https://www.slicer.org)'s graphical user interface.
+
+For example:
 - [mri_watershed - strip skull and other outer non-brain tissue](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed)
+  ```
+  mri_watershed -brainsurf surface.vtk mri-t1.mgz stripped.mgz
+  ```
+  Note that FreeSurfer uses mgz file format.
+
 - [SynthStrip: Skull-Stripping for Any Brain Image](https://surfer.nmr.mgh.harvard.edu/docs/synthstrip/)
+  ```
+  mri_synthstrip -i input -o stripped -m mask --no-csf
+  ```
+
 - [SynthSeg: Segmentation of brain MRI scans](https://surfer.nmr.mgh.harvard.edu/fswiki/SynthSeg)
+  ```
+  mri_synthseg --i <input> --o <output> [--parc --robust --fast --vol <vol> --qc <qc> --post <post> --resample <resample> --crop <crop> --threads <threads> --cpu --v1 --ct]
+  ```
+  Note that SynthSeg is a [Python package](https://github.com/BBillot/SynthSeg) that can be installed without FreeSurfer.
 
 ## Objective
 
