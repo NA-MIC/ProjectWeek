@@ -55,6 +55,7 @@ For this project we are going to finalize remaining issues on the tracker to mov
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
+![Screenshot 2022-12-05 13 15 04](https://github.com/NA-MIC/ProjectWeek/assets/25040869/8f9fa3be-d527-4fc0-aedc-345852b385eb)
 
 Major tasks to work on:
 
