@@ -110,6 +110,7 @@ The goal of this project is to empower the biomedical research community in Lati
 
 1.  To identify members of the Latin American community interested in 3D Slicer activities in Spanish and in Portuguese
 2.  To run daily translation hackathons at PW39
+3.  To translate the Slicer Language Packs tutorial to Spanish and Portuguese
 
 ## Approach and Plan
 
