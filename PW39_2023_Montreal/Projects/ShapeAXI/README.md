@@ -93,14 +93,12 @@ ShapeAXI is an innovative project that focuses on advancing the field of shape a
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Conduct a comprehensive literature review to understand the current state-of-the-art in shape analysis and interpretability.
-2. Develop advanced algorithms for shape analysis, incorporating techniques such as deep learning, computer vision, and geometric modeling.
-3. Create user-friendly tools and software interfaces for shape exploration, visualization, and interpretation.
+1. Develop algorithms for shape analysis, incorporating deep learning techniques, computer vision, and geometric modeling.
+3. Create a user-friendly 3D Slicer extension with a software interfaces for creating the explainability maps on shapes after classification. 
 4. Enhance interpretability through techniques like visual explanations and feature attribution methods.
 5. Validate the developed algorithms and tools through extensive experiments and benchmarking against existing methods.
-6. Evaluate cross-domain applicability by collaborating with experts from various fields.
-7. Foster open-source collaboration by releasing software libraries, datasets, and benchmarks.
-8. Document methodologies and findings for knowledge sharing and prepare technical papers and presentations.
+6. Foster open-source collaboration by releasing software libraries, datasets, and benchmarks.
+7. Document methodologies and findings for knowledge sharing and prepare technical papers and presentations.
 
 
 
@@ -114,6 +112,9 @@ ShapeAXI is an innovative project that focuses on advancing the field of shape a
 
 # Illustrations
 
+
+https://github.com/juanprietob/ProjectWeek/assets/7086191/628e640e-f42c-4ba8-9f20-d7f9129e6aeb
+
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
@@ -123,3 +124,6 @@ ShapeAXI is an innovative project that focuses on advancing the field of shape a
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
+
+1. https://github.com/DCBIA-OrthoLab/Fly-by-CNN.git
+2. Selvaraju, Ramprasaath R., Abhishek Das, Ramakrishna Vedantam, Michael Cogswell, Devi Parikh, and Dhruv Batra. "Grad-CAM: Why did you say that?." arXiv preprint arXiv:1611.07450 (2016).
