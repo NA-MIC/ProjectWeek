@@ -17,6 +17,10 @@ key_investigators:
   affiliation: Isomics
   country: USA
 
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware
+  country: USA
+
 ---
 
 # Project Description
