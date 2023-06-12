@@ -4,7 +4,7 @@ layout: pw39-project
 permalink: /:path/
 
 project_title: ShapeAXI Shape Analysis Exploration and Interpretability
-category: Shape Analysis / Classification / Interpretability
+category: Quantification and Computation
 presenter_location: In-person
 
 key_investigators:
