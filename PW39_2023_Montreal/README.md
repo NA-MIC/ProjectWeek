@@ -50,6 +50,13 @@ Venue entrance on Google Maps: [https://goo.gl/maps/xNedgMBt4C6jwiCu5](https://g
 
 ## Projects
 
+### Updating existing project pages (basic)
+1. Edit from the GitHub web interface
+    1. Navigate through the Git Hub website to README.md of your project ex: https://github.com/NA-MIC/ProjectWeek/blob/master/PW39_2023_Montreal/Projects/SlicerThemesExtension/README.md
+    2. Click the edit button
+    3. You will be able to edit the page, drag and drop to add images, etc.
+    4. Click commit, and follow the steps to create a fork and a pull request to add your changes to the webpage
+
 ### Project Creation
 
 With the [Project Week GitHub Issue page](https://github.com/NA-MIC/ProjectWeek/issues/new/choose), you have three options to create your Project Page:
