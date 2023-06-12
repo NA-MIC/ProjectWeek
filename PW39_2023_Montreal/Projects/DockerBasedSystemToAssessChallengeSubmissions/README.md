@@ -12,7 +12,11 @@ key_investigators:
 - name: Roya Khajavibajestani
   affiliation: Brigham and women’s hospital
   country: USA
-
+  
+- name: Erik Ziegler
+  affiliation: Yunu
+  country: Netherland
+  
 - name: Ron Kikinis
   affiliation: Harvard Medical School
   country: USA
