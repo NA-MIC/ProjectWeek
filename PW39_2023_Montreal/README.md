@@ -224,7 +224,7 @@ List of registered participants so far (names will be added here after processin
 
 ## Statistics
 
-<!-- <img alt="Participation statistics" src="statistics.svg" width="500"/> -->
+<img alt="Participation statistics" src="statistics.svg" width="500"/>
 
 ## Organizers
 
