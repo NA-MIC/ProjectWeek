@@ -112,7 +112,10 @@ ShapeAXI is an innovative project that focuses on advancing the field of shape a
 
 # Illustrations
 
-<video src="https://github.com/juanprietob/ProjectWeek/assets/7086191/628e640e-f42c-4ba8-9f20-d7f9129e6aeb"/>
+<video
+  controls muted
+  src="https://github.com/juanprietob/ProjectWeek/assets/7086191/628e640e-f42c-4ba8-9f20-d7f9129e6aeb"
+  style="max-height:640px; min-height: 200px"/>
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
