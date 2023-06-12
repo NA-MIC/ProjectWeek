@@ -5,7 +5,7 @@ permalink: /:path/
 redirect_from:
 - /PW39_2023_Montreal/Projects/LongitudinalModelOfPsychosisConversion/README.html
 
-project_title: Longitudinal model of psychosis conversion
+project_title: AMP SCZ Longitudinal model of psychosis conversion
 category: Quantification and Computation
 presenter_location: In-person
 
@@ -36,6 +36,8 @@ key_investigators:
 This project is part of the AMP SCZ program, an initiative for early detection of risk for schizophrenia(<https://www.ampscz.org>).
 
 A key goal in AMPSCZ is to predict which patients that present initially mild or sub-threshold symptoms will eventually develop psychosis. Most predictive models are based on data acquired on their first medical visit (the baseline visit). An important question is how much is gained by following patients over time (longitudinal data). In this project we will implement predictive models that make use of this longitudinal information for psychosis prediction. We will focus on implementing a type of models called "joint models", which incorporate time-varying predictors into well known survival analyses.
+
+https://www.ampscz.org/
 
 ## Objective
 
