@@ -75,6 +75,8 @@ To identify members of the global Slicer community interested in new Slicer acti
 
 To create a list containing the top 10 Slicer modules to translate for new Slicer Internationalization contributors
 
+To create a new module translation lookup table for the Language Packs Extension tutorial
+
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
