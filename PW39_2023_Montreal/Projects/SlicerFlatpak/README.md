@@ -27,6 +27,10 @@ key_investigators:
   affiliation: Queen's University
   country: Canada
 
+- name: Sam Horvath
+  affiliation: Kitware
+  country: USA
+
 ---
 
 # Project Description
