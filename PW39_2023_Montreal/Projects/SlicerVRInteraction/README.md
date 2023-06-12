@@ -30,6 +30,14 @@ key_investigators:
 - name: Lea Vong
   affiliation: ÉTS Montréal
   country: Canada
+
+- name: Lucas Gandel
+  affiliation: Kitware
+  country: France
+  
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware
+  country: USA
 ---
 
 # Project Description
