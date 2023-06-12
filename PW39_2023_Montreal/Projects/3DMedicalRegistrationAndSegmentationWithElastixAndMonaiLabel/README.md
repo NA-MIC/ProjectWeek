@@ -31,6 +31,10 @@ We will starty by training a single modality MONAI Label model on Elastix-aligne
 We will use SynthSeg to produce annotations as “ground truth” on a publicly available dataset like BRATS (multimodal + non-healthy brains) or OASIS (temporal/monomodal + healthy brains). Elastix will be used for the co-registration of the different modalities or temporal images and achieve segmentation via registration.
 
 *Other possible sub-projects:*
+* Extend the [whole brain segmentation model](https://github.com/Project-MONAI/model-zoo/tree/dev/models/wholeBrainSeg_Large_UNEST_segmentation) available in the Model Zoo, Use Elastix to perform affine registration of the data in the MNI305 space.
+* Compare registration performance between cross-modal registration (CT-MRI) versus intra-modal registration via synthesised MRI (MRI_syn - MRI). MONAI for the synthesis and elastix for the registration. What would a suitable dataset be?
+* Train MONAI Label model for automatic landmark identification in e.g. lung images ([dataset](https://med.emory.edu/departments/radiation-oncology/research-laboratories/deformable-image-registration/index.html)) . Landmarks can be used either to assist registration with elastix OR elastix can be used to validate the landmark accuracy. 3D Slicer can be used to visualize the landmarks and ease the qualitative evaluation.
+* ... any other idea that is interesting to people, feel free to propose it!
 
 ## Objective
 
@@ -60,7 +64,10 @@ We will use SynthSeg to produce annotations as “ground truth” on a publicly 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-*No response*
+Example of the unregistered images for a subject in the BRATS dataset:
+
+![example_unregistered_brats](https://github.com/NA-MIC/ProjectWeek/assets/45266491/dc3aef02-140f-4bb4-964b-4a996cd31caa)
+
 
 # Background and References
 
@@ -70,3 +77,4 @@ We will use SynthSeg to produce annotations as “ground truth” on a publicly 
 *   Elastix repo: <https://github.com/SuperElastix/elastix>
 *   itk-elastix (python wrapping): <https://github.com/InsightSoftwareConsortium/ITKElastix>
 *   MONAI Label: <https://monai.io/label.html>
+*   itk-torch-bridge: https://docs.monai.io/en/latest/data.html#module-monai.data.itk_torch_bridge
