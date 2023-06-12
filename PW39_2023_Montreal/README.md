@@ -48,18 +48,21 @@ Venue entrance on Google Maps: [https://goo.gl/maps/xNedgMBt4C6jwiCu5](https://g
 1. [Future of rendering in VTK and Slicer](BreakoutSessions/RenderingBreakout/README.md)
 2. [AMP SCZ Program](BreakoutSessions/AMPSCZ/README.md)
 
-## Projects
+## Contributing Project Pages
 
 ### Updating existing project pages
-1. Edit from the GitHub web interface
-    1. Navigate through the GitHub website to README.md of your project ex: https://github.com/NA-MIC/ProjectWeek/blob/master/PW39_2023_Montreal/Projects/YourProjectName/README.md
-    2. Click the edit button: ![Screenshot 2023-06-12 10 43 35](https://github.com/NA-MIC/ProjectWeek/assets/25040869/ab01a7bf-c1e4-4c23-9aca-e2c6421ca530)
 
-    3. You will be able to edit the page, drag and drop to add images, etc.
-    4. Click Commit Changes, and follow the steps to create a fork and a pull request to add your changes to the webpage
-![Screenshot 2023-06-12 10 50 50](https://github.com/NA-MIC/ProjectWeek/assets/25040869/180e81bb-d4f9-4f65-8569-a93192b2828e)
+Here are the steps using the GitHub web interface:
 
-### Project Creation
+1. Navigate to your project's `README.md` on the GitHub website. For instance, if you want to update a project called **YourProjectName**, visit the URL <tt>https://github.com/NA-MIC/ProjectWeek/blob/master/PW39_2023_Montreal/Projects/<b>YourProjectName</b>/README.md</tt> .
+
+2. Click the edit button, as shown in this screenshot: ![Screenshot 2023-06-12 10 43 35](https://github.com/NA-MIC/ProjectWeek/assets/25040869/ab01a7bf-c1e4-4c23-9aca-e2c6421ca530)
+
+3. You can now edit the page, add images by dragging and dropping, and more.
+
+4. Once done, click "Commit Changes", and follow the instructions to create a fork and a pull request to add your changes to the webpage. See this screenshot for reference: ![Screenshot 2023-06-12 10 50 50](https://github.com/NA-MIC/ProjectWeek/assets/25040869/180e81bb-d4f9-4f65-8569-a93192b2828e)
+
+### Creating new project pages
 
 With the [Project Week GitHub Issue page](https://github.com/NA-MIC/ProjectWeek/issues/new/choose), you have three options to create your Project Page:
 
@@ -72,13 +75,20 @@ With the [Project Week GitHub Issue page](https://github.com/NA-MIC/ProjectWeek/
 ### Project Creation Tips
 
 - Get your project pages created early!  The day before is best to make sure everything you need for you presentation is available.  The ProjectWeek site will be closed to edits for the ***10 minutes before*** both the opening and closing presentation session to ensure site generation. After this 10 minute period edits will be re-enabled.
+
 - If you are [creating the project page yourself using the template](Projects/README.md), **don't reuse a project page template from a previous year.**  We have made significant updates to the template to support auto-generation of project pages, so previous years' templates will not function properly.
     - When naming the file, **please ensure there are no spaces/special characters in the folder or file name**
     - Make sure to fill out / update all of the information at the top of the README file (title, category, location, etc)
+
 - Remember to fill out the title for your project when using the [project creation issue](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=drouin-simon%2Cpiiq%2Crafaelpalomar%2Csjh26%2Ctkapur&labels=project%2Cevent%3APW39_2023_Montreal&projects=&template=project.yml&title=Project%3A+)
+
 - Check the formatting on the Key Investigators list when creating a [project issue](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=drouin-simon%2Cpiiq%2Crafaelpalomar%2Csjh26%2Ctkapur&labels=project%2Cevent%3APW39_2023_Montreal&projects=&template=project.yml&title=Project%3A+) (this is critical for page generation):
 
      `- Firstname Lastname (Affiliation, Country)`
+
+## Projects
+
+To learn how to create or update project pages, please refer to the [contributing project pages](#contributing-project-pages) section.
 
 {% include projects.md %}
 
