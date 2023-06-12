@@ -13,6 +13,10 @@ key_investigators:
   affiliation: OHIF
   country: Canada
 
+- name: Jaswant Panchumarti
+  affiliation: Kitware
+  country: USA
+
 ---
 
 # Project Description
