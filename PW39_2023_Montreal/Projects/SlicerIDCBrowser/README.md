@@ -15,6 +15,10 @@ key_investigators:
   affiliation: Brigham and Women's Hospital
   country: USA
 
+- name: Andras Lasso
+  affiliation: Queen's University
+  country: Canada
+  
 ---
 
 # Project Description
