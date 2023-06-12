@@ -4,7 +4,7 @@ layout: pw39-project
 permalink: /:path/
 
 project_title: Open Meshed Anatomy
-category: Segmentation and Visualisation
+category: Segmentation / Classification / Landmarking
 presenter_location: In-person
 
 key_investigators:
