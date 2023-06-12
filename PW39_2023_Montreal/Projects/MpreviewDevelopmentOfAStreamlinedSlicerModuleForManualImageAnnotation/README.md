@@ -19,7 +19,10 @@ key_investigators:
 
 - name: Andrey Fedorov
   affiliation: BWH
-
+  
+- name: Andras Lasso
+  affiliation: Queen's
+  
 ---
 
 # Project Description
