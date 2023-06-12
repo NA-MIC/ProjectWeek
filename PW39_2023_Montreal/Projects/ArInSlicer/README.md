@@ -17,11 +17,11 @@ key_investigators:
   affiliation: 'École de Technologie Supérieure '
   country: Montreal , Canada
   
-  - name: Jose Carlos Mateo Pérez
+- name: Jose Carlos Mateo Pérez
   affiliation: 'Universidad de Las Palmas de Gran Canaria'
   country: Gran Canaria , Spain
   
-   - name: Pablo Sergio Castellano Rodríguez
+- name: Pablo Sergio Castellano Rodríguez
   affiliation: 'Universidad de Las Palmas de Gran Canaria'
   country: Gran Canaria , Spain
 
