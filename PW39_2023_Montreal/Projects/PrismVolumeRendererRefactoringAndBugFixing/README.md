@@ -51,7 +51,7 @@ PRISM has a significant amount of unused and/or legacy code that was made for ve
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1.  The scale of the gradients calculated on the volume has been properly adjusted.
-2.  This gradient computation to make Edge Enhacement work.
+2.  This gradient computation was necessary to make Edge Enhancement work.
 
 # Illustrations
 
