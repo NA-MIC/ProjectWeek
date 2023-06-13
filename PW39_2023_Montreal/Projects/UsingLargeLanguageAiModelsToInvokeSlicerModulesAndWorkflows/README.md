@@ -14,7 +14,7 @@ key_investigators:
   country: USA
 
 - name: Steve Pieper
-  affiliation: Isomics
+  affiliation: Isomics, Inc.
   country: USA
 
 - name: Andrey Federov

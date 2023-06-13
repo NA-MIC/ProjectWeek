@@ -16,7 +16,7 @@ key_investigators:
   country: Harvard Medical School, USA
 
 - name: Steve Pieper
-  affiliation: Isomics Inc.
+  affiliation: Isomics, Inc.
   country: USA
 
 - name: Andras Lasso
