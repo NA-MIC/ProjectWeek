@@ -44,9 +44,10 @@ In this project week we'd like to focus on getting user feedback on the current 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1.  Get feedback from the current [multiple_server_feature](https://github.com/deepakri201/mpReview/tree/multiple_server_feature) branch of the module. 
-2.  Try out [CaseIterator](https://github.com/JoostJM/SlicerCaseIterator), [FlywheelCaseIterator](https://github.com/Slicer/ExtensionsIndex/pull/1942), and [SegmentationReview] (https://github.com/zapaishchykova/SegmentationReview)
+2.  Try out [CaseIterator](https://github.com/JoostJM/SlicerCaseIterator), [FlywheelCaseIterator](https://github.com/Slicer/ExtensionsIndex/pull/1942), and [SegmentationReview](https://github.com/zapaishchykova/SegmentationReview)
 3.  Brainstorm ideas for improvements and features to include. 
 4.  Define the steps that are needed to accomplish the changes.
+5.  Release the module as a new Slicer extension
 
 ## Approach and Plan
 
@@ -54,7 +55,8 @@ In this project week we'd like to focus on getting user feedback on the current 
 
 1.  We will provide instructions below how to setup the module, and download sample data, etc. --> see below "Installation Instructions for Users"
 2.  We will ask users to experiment with the module and provide us feedback. 
-3.  We will make some changes to the module based on user feedback and from our experimentation with the other extensions 
+3.  We will make some changes to the module based on user feedback and from our experimentation with the other extensions
+4.  At the same time we'll test out other approaches 
 
 ## Progress and Next Steps
 
@@ -62,7 +64,7 @@ In this project week we'd like to focus on getting user feedback on the current 
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1.  I have made some UI changes to the module from feedback from Nadya and Andrey. 
-2. 
+2.  I tested out two Slicer extensions CaseIterator and SegmentationReview
 
 # Illustrations
 
