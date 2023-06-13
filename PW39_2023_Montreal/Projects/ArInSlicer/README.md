@@ -99,30 +99,9 @@ Transfer of images from 3D Slicer to HoloLens 2:
 
 
 # Results
-Transfer of geometrical transforms from Varjo to 3D Slicer:
+It worked!
 
-
-![TransformMessage_SpineMovement](https://github.com/NA-MIC/ProjectWeek/assets/66890913/25c7f1d1-fd1c-477f-b0fb-d4058cfb52f9)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Transfer of images from Varjo to 3D Slicer:
-
-![ImageMessage_CTPlaneMovement](https://github.com/NA-MIC/ProjectWeek/assets/66890913/89c9f77f-7e5a-42af-9c50-3c53f1e86747)
+https://github.com/NA-MIC/ProjectWeek/assets/66890913/c0fa7cd4-eadc-4721-bb1d-b78695e5ead6
 
 
 
