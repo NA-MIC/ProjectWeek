@@ -71,7 +71,8 @@ In PW 37, basic interaction has been fixed.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-![Class diagram SlicerVR vs VTK](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerVRInteractions/slicer-vr-class-diagram-2.png)
+1. Fixed 3D pinch interaction in [commit](https://github.com/KitwareMedical/SlicerVirtualReality/commit/49f1896d652c6b27051cd41e8244b52cd28c2dab)
+2. Rebased the GUI widgets branch into a [new branch](https://github.com/cpinter/SlicerVirtualReality/tree/gui-widget-20230612)
 
 # Illustrations
 
@@ -83,6 +84,8 @@ In PW 37, basic interaction has been fixed.
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+![Class diagram SlicerVR vs VTK](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerVRInteractions/slicer-vr-class-diagram-2.png)
 
 Past project week pages
 * [Project week #38 page](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerVRInteractions/)
