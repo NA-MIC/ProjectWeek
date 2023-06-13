@@ -101,7 +101,13 @@ Transfer of images from 3D Slicer to HoloLens 2:
 # Results
 It worked!
 
+https://github.com/NA-MIC/ProjectWeek/assets/66890913/8f257f29-fa9c-4319-8c49-4138003eba27
+
+
 https://github.com/NA-MIC/ProjectWeek/assets/66890913/c0fa7cd4-eadc-4721-bb1d-b78695e5ead6
+
+
+
 
 
 
