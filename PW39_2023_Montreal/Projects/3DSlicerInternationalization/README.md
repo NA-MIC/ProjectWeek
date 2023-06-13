@@ -100,7 +100,7 @@ Zoom link for all Slicer Internationalization sessions: https://etsmtl.zoom.us/j
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
      
-     - Added the Module translation lookup table to the Slicer Langage Packs repository. Click [here](https://github.com/Slicer/SlicerLanguagePacks/blob/main/Module%20translation%20lookup%20table.md) to view it!
+* Added the Module translation lookup table to the Slicer Langage Packs repository. Click [here](https://github.com/Slicer/SlicerLanguagePacks/blob/main/Module%20translation%20lookup%20table.md) to view it!
 
 
 # Illustrations
