@@ -47,6 +47,7 @@ Venue entrance on Google Maps: [https://goo.gl/maps/xNedgMBt4C6jwiCu5](https://g
 ## Breakout sessions
 1. [Future of rendering in VTK and Slicer](BreakoutSessions/RenderingBreakout/README.md)
 2. [AMP SCZ Program](BreakoutSessions/AMPSCZ/README.md)
+3. [Slicer Platform Update Slides](https://docs.google.com/presentation/d/19-N58wTRfXMUpoltqmnPsbTL9GYXm5m0LA5vQ6gkKVE/edit?usp=sharing)
 
 ## Contributing Project Pages
 
