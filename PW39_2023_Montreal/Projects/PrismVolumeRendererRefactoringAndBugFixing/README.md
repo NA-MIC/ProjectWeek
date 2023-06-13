@@ -58,7 +58,7 @@ PRISM has a significant amount of unused and/or legacy code that was made for ve
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/22062174/613897ec-e2a3-4345-b03e-423d64a0fe39)
-![image](https://github.com/NA-MIC/ProjectWeek/assets/22062174/98cb7f0e-0dcd-4cb3-aff5-7bd1325ff685)
+![image](https://github.com/NA-MIC/ProjectWeek/assets/22062174/28a4c483-b9cd-467c-a182-33b87b1086d9)
 
 
 # Background and References
