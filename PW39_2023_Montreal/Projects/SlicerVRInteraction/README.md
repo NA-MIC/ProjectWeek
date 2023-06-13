@@ -32,11 +32,11 @@ key_investigators:
   country: Canada
 
 - name: Lucas Gandel
-  affiliation: Kitware
+  affiliation: Kitware, Inc.
   country: France
   
 - name: Jean-Christophe Fillion-Robin
-  affiliation: Kitware
+  affiliation: Kitware, Inc.
   country: USA
 ---
 

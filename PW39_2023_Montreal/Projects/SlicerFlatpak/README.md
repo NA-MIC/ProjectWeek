@@ -20,7 +20,7 @@ key_investigators:
   country: USA
 
 - name: Jean-Christophe Fillion-Robin
-  affiliation: Kitware
+  affiliation: Kitware, Inc.
   country: USA
 
 - name: Andras Lasso
@@ -28,7 +28,7 @@ key_investigators:
   country: Canada
 
 - name: Sam Horvath
-  affiliation: Kitware
+  affiliation: Kitware, Inc.
   country: USA
 
 ---

@@ -36,7 +36,7 @@ key_investigators:
   country: Canada
 
 - name: Sam Horvath
-  affiliation: Kitware
+  affiliation: Kitware, Inc.
   country: USA
 
 ---

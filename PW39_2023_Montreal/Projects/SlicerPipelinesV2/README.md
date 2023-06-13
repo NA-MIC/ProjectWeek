@@ -10,7 +10,7 @@ presenter_location: Online
 key_investigators:
 
 - name: Harald Scheirich
-  affiliation: Kitware
+  affiliation: Kitware, Inc.
   country: United States
 
 ---

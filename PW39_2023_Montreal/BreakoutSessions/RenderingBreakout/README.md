@@ -30,11 +30,11 @@ key_investigators:
   country: USA
   
 - name: Jean-Christophe Fillion-Robin
-  affiliation: Kitware inc.
+  affiliation: Kitware, Inc.
   country: USA
   
 - name: Stephen Aylward
-  affiliation: Kitware inc.
+  affiliation: Kitware, Inc.
   country: USA
   
 - name: Rafael Palomar
