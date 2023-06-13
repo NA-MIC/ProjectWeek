@@ -15,7 +15,7 @@ key_investigators:
   country: Germany
 
 - name: Steve Pieper
-  affiliation: Isomics
+  affiliation: Isomics, Inc.
   country: USA
   
 - name: Andras Lasso

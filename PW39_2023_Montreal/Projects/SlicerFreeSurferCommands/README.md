@@ -17,7 +17,7 @@ key_investigators:
   country: Australia
  
 - name: Steve Pieper
-  affiliation: Isomics
+  affiliation: Isomics, Inc.
   country: USA
 ---
 

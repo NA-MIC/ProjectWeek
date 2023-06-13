@@ -14,7 +14,7 @@ key_investigators:
   country: Norway
 
 - name: Steve Pieper
-  affiliation: Isomics
+  affiliation: Isomics, Inc.
   country: USA
 
 - name: Jean-Christophe Fillion-Robin

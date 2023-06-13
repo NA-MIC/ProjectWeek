@@ -14,7 +14,7 @@ key_investigators:
   Country: Canada
 
 - name: Steve Pieper
-  affiliation: Isomics inc.
+  affiliation: Isomics, Inc.
   country: USA
   
 - name: Murat Maga
