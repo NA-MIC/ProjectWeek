@@ -9,7 +9,7 @@ presenter_location: In-person
 
 key_investigators:
 - name: Sam Horvath
-  affiliation: Kitware
+  affiliation: Kitware, Inc.
   country: USA
 
 

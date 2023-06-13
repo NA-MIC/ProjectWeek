@@ -14,7 +14,7 @@ key_investigators:
   country: Canada
 
 - name: Jaswant Panchumarti
-  affiliation: Kitware
+  affiliation: Kitware, Inc.
   country: USA
 
 ---
