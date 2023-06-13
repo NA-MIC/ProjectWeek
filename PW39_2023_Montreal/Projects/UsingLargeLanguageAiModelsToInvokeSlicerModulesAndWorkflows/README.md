@@ -73,3 +73,5 @@ Work that seems more directly towards a way to invoke Slicer modules via API is 
 Here's a related post: <https://nickarner.com/notes/llm-powered-assistants-for-complex-interfaces-february-26-2023/>
 
 Somewhat related development applied to selection of data in IDC using LLM: <https://discourse.canceridc.dev/t/text2cohort-a-new-llm-toolkit-to-query-idc-database-using-natural-language-queries/>.
+
+https://discourse.slicer.org/t/langchain-query-the-complete-3d-slicer-documentation-script-repository-and-faq-pdf-and-html-with-openai-llm/28746/6
