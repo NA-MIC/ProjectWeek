@@ -62,7 +62,7 @@ We would like to conduct interviews with the AI developers attending project wee
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 <iframe width="420" height="315
-  src="https://www.youtube.com/embed/ZWxE5QcGvE8">
+src="https://www.youtube.com/embed/ZWxE5QcGvE8">
 </iframe>
 
 # Background and References

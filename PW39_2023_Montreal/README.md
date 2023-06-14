@@ -80,7 +80,7 @@ Here are some steps to make sure all of your awesome videos render correctly:
 
     ````
     <iframe width="420" height="315"
-      src="https://www.youtube.com/embed/ZWxE5QcGvE8">
+    src="https://www.youtube.com/embed/ZWxE5QcGvE8">
     </iframe>
     ````
 
