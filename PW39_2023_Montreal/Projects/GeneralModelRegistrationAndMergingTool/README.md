@@ -59,7 +59,8 @@ We are thinking about expanding this module into its own system for other purpos
 
   
 2.  Testing the performance of the new ITK-based rigid registration function for more cases.
-3.  Adding more new registration features in the future. Currently, we are implementing CPD affine registration from the pycpd package.
+3.  Currently, we are implementing CPD affine registration from the pycpd package.
+4.  Adding more new registration features in the future. 
 
 # Illustrations
 
