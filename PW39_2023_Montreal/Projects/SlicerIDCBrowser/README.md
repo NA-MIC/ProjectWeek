@@ -65,3 +65,4 @@ user interface within the Slicer platform to allow browsing and download of imag
 * [NCI Imaging Data Commons](https://portal.imaging.datacommons.cancer.gov/)
 * [IDC data download instructions](https://learn.canceridc.dev/data/downloading-data)
 * [SlicerTCIABrowser](https://github.com/QIICR/TCIABrowser)
+* installation of system-specific libraries from Slicer module - need to do something like this for s5cmd: [https://github.com/Slicer/Slicer/blob/main/Modules/Scripted/ScreenCapture/ScreenCapture.py#L873](https://github.com/Slicer/Slicer/blob/main/Modules/Scripted/ScreenCapture/ScreenCapture.py#L873)
