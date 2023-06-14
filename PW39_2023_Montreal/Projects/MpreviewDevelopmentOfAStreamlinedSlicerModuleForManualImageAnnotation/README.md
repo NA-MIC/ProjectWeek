@@ -73,9 +73,11 @@ In this project week we'd like to focus on getting user feedback on the current 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-Current screenshot of the module
+Demo of the module
 
-![image](https://user-images.githubusercontent.com/59979551/173397664-c3a7f567-d5f2-4214-a366-7cef1344860c.png)
+<!-- ![image](https://user-images.githubusercontent.com/59979551/173397664-c3a7f567-d5f2-4214-a366-7cef1344860c.png) --> 
+
+https://github.com/NA-MIC/ProjectWeek/assets/59979551/b09afbb7-1c31-4fab-b273-7f5b16088922
 
 # Background and References
 
