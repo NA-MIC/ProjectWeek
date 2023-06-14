@@ -54,6 +54,8 @@ Example showing segmentations:
 Example showing markups:
 ![Markups node focus](https://github.com/NA-MIC/ProjectWeek/assets/9222709/2ecbef2b-e7a2-4317-9e9d-1191f5a75d4f)
 
+![Combobox model node focus](https://github.com/NA-MIC/ProjectWeek/assets/9222709/7450c678-f8eb-482b-97c2-e0b95d4e05bc)
+
 # Background and References
 
 - [Development branch](https://github.com/Sunderlandkyl/Slicer/tree/focus_node_prototype)
