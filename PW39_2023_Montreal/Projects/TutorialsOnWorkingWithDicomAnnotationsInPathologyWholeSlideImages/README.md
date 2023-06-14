@@ -66,10 +66,12 @@ At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Si
 
 ## Progress and Next Steps
 
-1.  Have prepared re-use of existing Google Cloud platform (GCP) project with the ID: idc-external-031
-2.  Have given key investigators access to the GCP project
-    * If anyone else is interested in being added, please send me an e-mail to daniela.schacherer@mevis.fraunhofer.de.
-3. ...
+1.  We re-used the Google Cloud platform (GCP) project idc-external-031
+2.  We created different DICOM stores in Google: 
+    * Single 2DSCOORD bulk annotation file and corresponding WSI: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/single-dicom-annotation-test/dicomStores/single-dicom-annotation-test-store/dicomWeb)
+    * 2D vs. 3D and point vs. polygon bulk annotation files and corresponding WSI: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/2d_3d_point_polygon_annotation_test/dicomStores/2d_3d_point_polygon_annotation_test_store/dicomWeb)
+    * Different sizes of DICOM bulk annotation files: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/diff-sizes-dicom-annotations-test/dicomStores/diff-sizes-dicom-annotations-test-store/dicomWeb)
+    * Single segmentation plus simple bulk annotation file: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/segmentations-probably-binary-dataset-test/dicomStores/segmentations-probably-binary-dataset-test-store)
 
 # Illustrations
 
@@ -82,9 +84,6 @@ At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Si
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-* Test object storage buckets: 
-    * Single 2DSCOORD bulk annotation file and corresponding WSI: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/single-dicom-annotation-test/dicomStores/single-dicom-annotation-test-store/dicomWeb)
-    * 2D vs. 3D and point vs. polygon bulk annotation files and corresponding WSI: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/2d_3d_point_polygon_annotation_test/dicomStores/2d_3d_point_polygon_annotation_test_store/dicomWeb)
 * Github page [Slim viewer](https://github.com/ImagingDataCommons/slim)
 * [Slim deployment tutorial](https://docs.google.com/document/d/1857jb_wKHqyGOd49UirujDDrFE8fUPfimZPXJ19zSF4/edit?usp=sharing) - seek feedback from Max and Curt
 * WIP repo under development by Chris Bridge to convert annotations from to DICOM ANN/SEG : [https://github.com/ImagingDataCommons/idc-pan-cancer-annotations-conversion/](https://github.com/ImagingDataCommons/idc-pan-cancer-annotations-conversion/)
