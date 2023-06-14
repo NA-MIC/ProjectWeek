@@ -62,7 +62,7 @@ The AMPSCZ project will have its first public data release in July and we want t
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 ![Manual](Screenshot%202023-06-14%20at%202.21.06%20PM.png)
-![PennCNB Example](Screenshot 2023-06-14 at 2.17.37 PM.png)
+![PennCNB Example](Screenshot%202023-06-14%20at%202.17.37%20PM.png)
 
 # Background and References
 
