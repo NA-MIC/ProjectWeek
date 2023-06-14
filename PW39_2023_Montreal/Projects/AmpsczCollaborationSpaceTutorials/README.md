@@ -76,9 +76,6 @@ This project will consist of generating R and Python notebooks to illustrate how
 ![R markdown1](image1.png)
 ![R markdown2](image2.png)
 
-Refere
-*No response*
-
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
