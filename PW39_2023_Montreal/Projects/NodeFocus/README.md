@@ -48,7 +48,11 @@ There is a prototype that is currently available here: https://github.com/Sunder
 ![Some more images](Example2.jpg)
 -->
 
-![Node selection example](https://github.com/NA-MIC/ProjectWeek/assets/9222709/28038dc8-386b-45d7-b141-46e8cc966282)
+Example showing segmentations:
+![Atlas node focus](https://github.com/NA-MIC/ProjectWeek/assets/9222709/cd0fd740-2aee-4010-b73d-dc8a53f8e58e)
+
+Example showing markups:
+![Markups node focus](https://github.com/NA-MIC/ProjectWeek/assets/9222709/2ecbef2b-e7a2-4317-9e9d-1191f5a75d4f)
 
 # Background and References
 
