@@ -20,6 +20,10 @@ key_investigators:
 - name: Steve Pieper
   affiliation: Isomics, Inc.
   country: USA
+  
+- name: Alireza Sedghi
+- affiliation: Accolade Imaging, Inc.
+- country: Canada
 ---
 
 # Project Description
