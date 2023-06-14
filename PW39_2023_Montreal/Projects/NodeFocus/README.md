@@ -49,10 +49,14 @@ There is a prototype that is currently available here: https://github.com/Sunder
 -->
 
 Example showing segmentations:
+
 ![Atlas node focus](https://github.com/NA-MIC/ProjectWeek/assets/9222709/cd0fd740-2aee-4010-b73d-dc8a53f8e58e)
 
 Example showing markups:
+
 ![Markups node focus](https://github.com/NA-MIC/ProjectWeek/assets/9222709/2ecbef2b-e7a2-4317-9e9d-1191f5a75d4f)
+
+Example showing models using a combobox:
 
 ![Combobox model node focus](https://github.com/NA-MIC/ProjectWeek/assets/9222709/7450c678-f8eb-482b-97c2-e0b95d4e05bc)
 
