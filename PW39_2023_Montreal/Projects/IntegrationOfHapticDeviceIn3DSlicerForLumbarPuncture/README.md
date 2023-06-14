@@ -51,14 +51,44 @@ The main objective of the project is to integrate the haptic device Touch 3D Sys
 
 ## Progress and Next Steps
 
+
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
+Steps that are already done:
 
-1.  Creation of the 3D Slicer module with fields to enter the number of resistances, positions and values. (DONE)
-2.  Generate a .json file with all the information entered in the module. (DONE)
-3.  Create a Unity project that reads the generated .json file and creates a scene with the resistances in that position and with those values. (DONE)
-4.  Connect Unity to 3D Slicer through OpenIGTLink. We are working on this step we are working on this step based on a NAMIC project link by Alicia Pose.
+1.  Create a 3d model of a real patient back from segmentation of medical images.
 
+![Screenshot (33)](https://github.com/NA-MIC/ProjectWeek/assets/117910171/98f78b7b-61c5-451c-9277-9b432ca00f41)
+
+   
+2.  Indicate with MarkUps the tissues which we want to feel.
+
+![Screenshot (34)](https://github.com/NA-MIC/ProjectWeek/assets/117910171/b8117833-3df2-45f1-a7d4-f93dd315458c)
+
+   
+3.  Inlcude in SlicerToTouch module the number of resistances, posiitons and force value for each tissue. This module generates a json file with all the information.
+
+![Screenshot (43)](https://github.com/NA-MIC/ProjectWeek/assets/117910171/988cbfc0-0ba2-4ea1-b11a-9f279c83adb8)
+
+![configfile](https://github.com/NA-MIC/ProjectWeek/assets/117910171/a58ca86b-ffcc-413d-8638-8f1234e16c2e)
+
+
+4.  Using Unity in the background we read that file and automatically a new scene is created with the haptic materials. Also, at the same time, it sends the transform of the haptic device to slicer by OpenIGTlink, so you can see a needle moving.
+
+![2023-06-14-16-09-55-Trim](https://github.com/NA-MIC/ProjectWeek/assets/117910171/34822062-8a61-4ade-b346-e6e5a6d8dee3)
+   
+
+
+What we are actually working on:
+
+1. Integration of Hololens 2 for the visualization of the scene:
+![20230614-224421-HoloLens-Trim-Tr (1)](https://github.com/NA-MIC/ProjectWeek/assets/117910171/d66de98b-a539-4407-a489-fdf2aa398b0f)
+
+
+Next steps: 
+
+1. Include metrics in order to analyze the procedure.
+2. Restrict the movement to just one axis once you are inside the back model.
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
