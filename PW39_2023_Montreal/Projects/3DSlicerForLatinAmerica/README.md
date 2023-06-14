@@ -143,10 +143,9 @@ The how to use web page has been traslated to Latinoamerican Spanish and Brasili
 
 # Illustrations
 
-![](example_es)
-![](example_pr)
+![example_es](https://user-images.githubusercontent.com/15926896/245937613-29d649f4-d9c7-4620-9ea4-b4e597ff1a61.png)
+![example_pr](https://user-images.githubusercontent.com/15926896/245937613-29d649f4-d9c7-4620-9ea4-b4e597ff1a61.png)
 
-*No response*
 
 # Background and References
 
