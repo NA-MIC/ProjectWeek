@@ -63,11 +63,11 @@ In this project week we'd like to focus on getting user feedback on the current 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  I have made some UI changes to the module from feedback from Nadya and Andrey. 
-2.  I tested out two Slicer extensions CaseIterator and SegmentationReview, waiting for Flywheel instance to test FlywheelCaseIterator
+1.  I have made some UI changes to the module from feedback from Nadya and Andrey
+2.  I tested out two Slicer extensions that are also used for annotations -- CaseIterator and SegmentationReview. Still waiting for Flywheel instance to test FlywheelCaseIterator
 3.  I was able to get multiple users to try the module, and fixed some of the errors they found
-4.  I also demo'd the module and received very useful feedback
-5.  Next week I will make a PR so the latest version of mpReview can be used, and later submit it as a separate extension
+4.  I also demo'd the module and received very useful feedback [See the user feedback](https://docs.google.com/document/d/1_Ou1Uns0LrzQ_w-As-1u1PSnLxyqXgUuNgVtkm2Eebc/edit?usp=sharing) 
+5.  Next week I will make a PR so the latest version of mpReview can be used. After that I will submit it as a separate extension
 
 # Illustrations
 
@@ -93,6 +93,4 @@ We have worked on this during multiple project weeks, [PW35](https://projectweek
 5. Or, if you want to be adventurous and try out using the Google Cloud Platform server, you will first need to have a google account and a project. You will have a 90 day free trial with credits, or go [here](https://learn.canceridc.dev/getting-started-with-idc) to request $300 credits from Imaging Data Commons. Then follow [this Google Colab notebook](https://colab.research.google.com/drive/1nDsnERKpWWr32xK_M7_pA1GjHPbghwjK#scrollTo=FaapolCoufCX) to set up your very own DICOM datastore which will hold the same data from above. You will also need to install the [Google Cloud SDK](https://cloud.google.com/sdk/docs/install) on your machine (for Mac/Linux make sure you install it in your home directory and add to PATH). In windows it should be added to the path automatically. 
 6. Install the mpReview module by going to Applications and adding the path. 
 7. If you have time, it would be great to get your feedback on this [google form](https://docs.google.com/forms/d/e/1FAIpQLSe2fGjdiWVfPSh3gDOoZ5fm0IaUHdB4lultvjwRqVskodN2sw/viewform?usp=sf_link) :)
-
-[See the user feedback](https://docs.google.com/document/d/1_Ou1Uns0LrzQ_w-As-1u1PSnLxyqXgUuNgVtkm2Eebc/edit?usp=sharing) 
 
