@@ -25,21 +25,21 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-Run [FreeSurfer](https://freesurfer.net) commands using [3D Slicer](https://www.slicer.org)'s graphical user interface.
+[SlicerFreeSurferCommands](https://github.com/SlicerCBM/SlicerFreeSurferCommands) aims to provide a graphical user interface for running [FreeSurfer](https://freesurfer.net) commands within [3D Slicer](https://www.slicer.org).
 
 For example:
-- [mri_watershed - strip skull and other outer non-brain tissue](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed)
+- [mri_watershed - strip skull and other outer non-brain tissue](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_watershed):
   ```
   mri_watershed -brainsurf surface.vtk mri-t1.mgz stripped.mgz
   ```
   Note that FreeSurfer uses mgz file format.
 
-- [SynthStrip: Skull-Stripping for Any Brain Image](https://surfer.nmr.mgh.harvard.edu/docs/synthstrip/)
+- [SynthStrip: Skull-Stripping for Any Brain Image](https://surfer.nmr.mgh.harvard.edu/docs/synthstrip/) implemented as [FreeSurferSynthStripSkullStripScripted](https://github.com/SlicerCBM/SlicerFreeSurferCommands/tree/main/FreeSurferSynthStripSkullStripScripted) module:
   ```
   mri_synthstrip -i input -o stripped -m mask --no-csf
   ```
 
-- [SynthSeg: Segmentation of brain MRI scans](https://surfer.nmr.mgh.harvard.edu/fswiki/SynthSeg)
+- [SynthSeg: Segmentation of brain MRI scans](https://surfer.nmr.mgh.harvard.edu/fswiki/SynthSeg) implemented as [FreeSurferSynthSeg](https://github.com/SlicerCBM/SlicerFreeSurferCommands/tree/main/FreeSurferSynthSeg) module:
   ```
   mri_synthseg --i <input> --o <output> [--parc --robust --fast --vol <vol> --qc <qc> --post <post> --resample <resample> --crop <crop> --threads <threads> --cpu --v1 --ct]
   ```
@@ -60,14 +60,24 @@ For example:
 1. Demonstrate and get feedback on the use and implementation of the existing modules from Slicer users and developers.
 2. Discuss the implementation of the modules with Slicer developers (in particular the use of CLI vs scripted Python modules for this application).
 3. Modify modules based on feedback from Slicer developers.
-4. Complete the [New extension checklist](https://github.com/SlicerCBM/SlicerFreeSurferCommands/issues/1).
+4. Complete the [new extension checklist](https://github.com/SlicerCBM/SlicerFreeSurferCommands/issues/1).
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Developed Python scripted and CLI modules for FreeSurfer's SynthStrip command for skull stripping.
+### Progress
+
+1. Developed Python scripted module (and CLI module which is now deprecated) for FreeSurfer's SynthStrip command for skull stripping.
+2. Developed Python scripted module for FreeSurfer's SynthSeg Brain MRI Segmentation command.
+3. Completed the [new extension checklist](https://github.com/SlicerCBM/SlicerFreeSurferCommands/issues/1).
+
+### Next steps
+
+1. Discuss merging [SlicerFreeSurfer](https://github.com/PerkLab/SlicerFreeSurfer) and [SlicerFreeSurferCommands](https://github.com/SlicerCBM/SlicerFreeSurferCommands), and moving to Slicer GitHub organization. See:
+   - https://github.com/Slicer/ExtensionsIndex/pull/1943
+   - https://github.com/PerkLab/SlicerFreeSurfer/issues/15
 
 # Illustrations
 
@@ -77,7 +87,10 @@ For example:
 -->
 
 FreeSurfer SynthStrip Skull Strip
-![FreeSurfer SynthStrip Skull Strip](https://raw.githubusercontent.com/SlicerCBM/SlicerFreeSurferCommands/147729c2976d3a4ab6ed95c908b4973bcf330aee/Screenshot01.png)
+![FreeSurfer SynthStrip Skull Strip](https://raw.githubusercontent.com/SlicerCBM/SlicerFreeSurferCommands/d26913aa2ea18af71400e41aab09982b4daa7c77/Screenshot01.png)
+
+FreeSurfer SynthSeg Brain MRI Segmentation
+![FreeSurfer SynthSeg Brain MRI Segmentation](https://raw.githubusercontent.com/SlicerCBM/SlicerFreeSurferCommands/2a855e9784e7a707448e9ea2a550b4f23007eab1/Screenshot02.png)
 
 # Background and References
 
