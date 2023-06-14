@@ -77,7 +77,11 @@ Demo of the module
 
 <!-- ![image](https://user-images.githubusercontent.com/59979551/173397664-c3a7f567-d5f2-4214-a366-7cef1344860c.png) --> 
 
-https://github.com/NA-MIC/ProjectWeek/assets/59979551/b09afbb7-1c31-4fab-b273-7f5b16088922
+ <video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/b09afbb7-1c31-4fab-b273-7f5b16088922"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
 # Background and References
 
