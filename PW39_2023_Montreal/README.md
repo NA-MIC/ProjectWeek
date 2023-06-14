@@ -5,6 +5,7 @@ redirect_from:
 - /PW39_2023_Montreal/Readme.html
 
 project_categories:
+- Early Presenter
 - VR/AR and Rendering
 - IGT and Training
 - Segmentation / Classification / Landmarking

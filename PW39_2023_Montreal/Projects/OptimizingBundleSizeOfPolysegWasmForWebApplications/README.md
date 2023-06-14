@@ -4,7 +4,8 @@ layout: pw39-project
 permalink: /:path/
 
 project_title: Optimizing Bundle Size of PolySeg-WASM for Web Applications
-category: Cloud / Web
+category: Early Presenter
+topic-category: Cloud / Web
 presenter_location: Online
 
 key_investigators:
