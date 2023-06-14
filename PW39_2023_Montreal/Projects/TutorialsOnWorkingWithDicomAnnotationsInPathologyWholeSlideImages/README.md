@@ -90,6 +90,7 @@ At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Si
      If possible, also add links to sample data, and to any relevant publications. -->
 
 * Github page [Slim viewer](https://github.com/ImagingDataCommons/slim)
+* Slim viewer instance provided by Andrey Fedorov: [slim-viewer-andrey](andrey-slim-test.web.app)
 * [Slim deployment tutorial](https://docs.google.com/document/d/1857jb_wKHqyGOd49UirujDDrFE8fUPfimZPXJ19zSF4/edit?usp=sharing) - seek feedback from Max and Curt
-* WIP repo under development by Chris Bridge to convert annotations from to DICOM ANN/SEG : [https://github.com/ImagingDataCommons/idc-pan-cancer-annotations-conversion/](https://github.com/ImagingDataCommons/idc-pan-cancer-annotations-conversion/)
+* WIP Code under development by Chris Bridge to convert annotations from to DICOM ANN/SEG: [Github repository](https://github.com/ImagingDataCommons/idc-pan-cancer-annotations-conversion/)
 * Some example [Parametric DICOM Map]([https://www.dropbox.com/scl/fo/yrbm7v2iyx6fh9jgsae1w/h?dl=0&rlkey=hxiagbbp486o3nj480skx0yw7](https://console.cloud.google.com/storage/browser/pw39-parametric-map;tab=objects?project=idc-external-031&prefix=&forceOnObjectsSortingFiltering=false)) and the [conversion code as Docker container](https://github.com/maxfscher/DICOMwsiWorkflow/tree/main) from Max Fischer.
