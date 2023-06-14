@@ -61,10 +61,10 @@ The AMPSCZ project will have its first public data release in July and we want t
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-##TOC from the main manual.
+## TOC from the main manual.
 ![Manual](Screenshot%202023-06-14%20at%202.21.06%20PM.png)
 
-##Example description of a cognitive test.
+## Example description of a cognitive test.
 ![PennCNB Example](Screenshot%202023-06-14%20at%202.17.37%20PM.png)
 
 # Background and References
