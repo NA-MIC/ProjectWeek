@@ -46,9 +46,11 @@ SlicerCBM is an extension for 3D Slicer that provides tools for creating and sol
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Completed the [SlicerFreeSurferCommands](https://projectweek.na-mic.org/PW39_2023_Montreal/Projects/SlicerFreeSurferCommands/) project, which provides modules that are used in the SlicerCBM workflow.
+
+2. Discussed opportunities for integrating [SlicerCBM](https://slicercbm.org) with [NousNav](https://www.nousnav.org) for image-guided surgery simulations (both as a research tool and for potential clinical applications).
+
+3. We will continue working on SlicerCBM next week at PerkLab (Queen's University).
 
 # Illustrations
 
