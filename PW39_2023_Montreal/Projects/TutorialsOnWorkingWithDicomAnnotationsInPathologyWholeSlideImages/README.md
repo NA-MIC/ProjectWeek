@@ -72,6 +72,7 @@ At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Si
     * 2D vs. 3D and point vs. polygon bulk annotation files and corresponding WSI: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/2d_3d_point_polygon_annotation_test/dicomStores/2d_3d_point_polygon_annotation_test_store/dicomWeb)
     * Different sizes of DICOM bulk annotation files: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/diff-sizes-dicom-annotations-test/dicomStores/diff-sizes-dicom-annotations-test-store/dicomWeb)
     * Single segmentation plus simple bulk annotation file: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/segmentations-binary-test/dicomStores/segmentations-binary-test-store/dicomWeb)
+    * Parametric maps: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/northamerica-northeast1/datasets/pw39-samples/dicomStores/parametric-maps/dicomWeb)
 
 # Illustrations
 
@@ -87,4 +88,4 @@ At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Si
 * Github page [Slim viewer](https://github.com/ImagingDataCommons/slim)
 * [Slim deployment tutorial](https://docs.google.com/document/d/1857jb_wKHqyGOd49UirujDDrFE8fUPfimZPXJ19zSF4/edit?usp=sharing) - seek feedback from Max and Curt
 * WIP repo under development by Chris Bridge to convert annotations from to DICOM ANN/SEG : [https://github.com/ImagingDataCommons/idc-pan-cancer-annotations-conversion/](https://github.com/ImagingDataCommons/idc-pan-cancer-annotations-conversion/)
-* Some example [Parametric DICOM Maps](https://www.dropbox.com/scl/fo/yrbm7v2iyx6fh9jgsae1w/h?dl=0&rlkey=hxiagbbp486o3nj480skx0yw7) and the [conversion code as Docker container](https://github.com/maxfscher/DICOMwsiWorkflow/tree/main) from Max Fischer.
+* Some example [Parametric DICOM Map]([https://www.dropbox.com/scl/fo/yrbm7v2iyx6fh9jgsae1w/h?dl=0&rlkey=hxiagbbp486o3nj480skx0yw7](https://console.cloud.google.com/storage/browser/pw39-parametric-map;tab=objects?project=idc-external-031&prefix=&forceOnObjectsSortingFiltering=false)) and the [conversion code as Docker container](https://github.com/maxfscher/DICOMwsiWorkflow/tree/main) from Max Fischer.
