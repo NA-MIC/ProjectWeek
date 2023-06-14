@@ -135,9 +135,11 @@ Zoom link for daily Slicer Internationalization sessions: https://etsmtl.zoom.us
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-The how to use web page has been traslated to Latinoamerican Spanish and Brasilian Portuguese languages   
-[Español Latinoamericano]: (https://github.com/Slicer/SlicerLanguagePacks/blob/main/HowToUse_es_419.md)
-[Português Brasileiro]: (https://github.com/Slicer/SlicerLanguagePacks/blob/main/HowToUse_pt-br.md)
+The how to use web page has been traslated to Latinoamerican Spanish and Brasilian Portuguese languages 
+
+[Español Latinoamericano](https://github.com/Slicer/SlicerLanguagePacks/blob/main/HowToUse_es_419.md)
+
+[Português Brasileiro](https://github.com/Slicer/SlicerLanguagePacks/blob/main/HowToUse_pt-br.md)
 
 # Illustrations
 
