@@ -63,11 +63,11 @@ In this project week we'd like to focus on getting user feedback on the current 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  I have made some UI changes to the module from feedback from Nadya and Andrey
-2.  I tested out two Slicer extensions that are also used for annotations -- CaseIterator and SegmentationReview. Still waiting for Flywheel instance to test FlywheelCaseIterator
+1.  I made some UI changes to the module from feedback from Nadya and Andrey
+2.  I tested out two Slicer extensions that are also used for annotations -- [CaseIterator](https://github.com/JoostJM/SlicerCaseIterator) and [SegmentationReview](https://github.com/zapaishchykova/SegmentationReview). Still waiting for Flywheel instance to test FlywheelCaseIterator
 3.  I was able to get multiple users to try the module, and fixed some of the errors they found
-4.  I also demo'd the module and received very useful feedback [See the user feedback](https://docs.google.com/document/d/1_Ou1Uns0LrzQ_w-As-1u1PSnLxyqXgUuNgVtkm2Eebc/edit?usp=sharing) 
-5.  Next week I will make a PR so the latest version of mpReview can be used. After that I will submit it as a separate extension
+4.  I also demo'd the module and received very useful feedback [here](https://docs.google.com/document/d/1_Ou1Uns0LrzQ_w-As-1u1PSnLxyqXgUuNgVtkm2Eebc/edit?usp=sharing) 
+5.  Next week I will make a PR so the latest version of mpReview can be used. After that I will submit it as a separate extension with some additional features
 
 # Illustrations
 
