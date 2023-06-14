@@ -63,12 +63,20 @@ This project will consist of generating R and Python notebooks to illustrate how
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  Installed RStudio and all associated packages on AWS Linux.
+2.  Installed Python and associated packages on AWS Linux.
+3.  Installed Slicer on AWS Linux.
+4.  Some issues with MesaGl version on AWS Linux prevented us from getting SlicerJupyter to work.
+5.  Ran out of time installing FSL.
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![R markdown](image.png)
+![R markdown1](image1.png)
+![R markdown2](image2.png)
 
+Refere
 *No response*
 
 # Background and References
