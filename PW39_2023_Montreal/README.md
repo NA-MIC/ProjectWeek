@@ -276,7 +276,7 @@ List of registered participants so far (names will be added here after processin
 1. Andres Diaz-Pinto, NVIDIA, UK, (Online)
 1. David García Mato, Ebatinca S.L., Spain, (Online)
 1. Laura Connolly, Queen's University, Canada, (Online)
-1. Shadi nouri, Private, iran, (Online)
+1. Shadi nouri, Private, Iran, (Online)
 1. Alireza Sedghi, OHIF, Canada, (Online)
 1. DANIELA SOFÍA  PEDROZO ROCA, INBIO - UNSJ, Argentina, (Online)
 1. Mario Mata, Autonomous University of Juarez , Mexico, (Online)
