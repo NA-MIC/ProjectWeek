@@ -143,7 +143,7 @@ The "how to use" web page of Slicer Language Packs extension has been translated
 
 # Illustrations
 
-![example_es](https://user-images.githubusercontent.com/15926896/245937613-29d649f4-d9c7-4620-9ea4-b4e597ff1a61.png)
+![example_es](https://user-images.githubusercontent.com/15926896/245937609-71f70b88-ec46-4f57-8ad0-d11045e5234e.png)
 ![example_pr](https://user-images.githubusercontent.com/15926896/245937613-29d649f4-d9c7-4620-9ea4-b4e597ff1a61.png)
 
 
