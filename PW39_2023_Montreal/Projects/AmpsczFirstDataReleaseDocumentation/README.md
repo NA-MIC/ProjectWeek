@@ -50,7 +50,12 @@ The AMPSCZ project will have its first public data release in July and we want t
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  Drafted a first version of the description of the project.
+2.  Collected documentation material for Smartphone Data and Penn Cognitive Battery.
+3.  Reviewed NIMH Data Archives (NDA) webpages structure with Tina.
+4.  Started description of clinical measures (Nora)
+5.  TODO: provide wireframe for NDA site
+6.  TODO: collect material for other data types (EEG, MRI, Clinical Tests, A/V recording)
 
 # Illustrations
 
