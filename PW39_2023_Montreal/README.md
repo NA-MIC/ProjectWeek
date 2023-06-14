@@ -275,6 +275,22 @@ List of registered participants so far (names will be added here after processin
 1. Davi Romao , Hospital Sirio-Libanes , Brazil, (Online)
 1. Andres Diaz-Pinto, NVIDIA, UK, (Online)
 1. David García Mato, Ebatinca S.L., Spain, (Online)
+1. Laura Connolly, Queen's University, Canada, (Online)
+1. Shadi nouri, Private, iran, (Online)
+1. Alireza Sedghi, OHIF, Canada, (Online)
+1. DANIELA SOFÍA  PEDROZO ROCA, INBIO - UNSJ, Argentina, (Online)
+1. Mario Mata, Autonomous University of Juarez , Mexico, (Online)
+1. Maximilian Fischer, German Cancer Research Center, Germany, (Online)
+1. Jaswant Panchumarti, Kitware, USA, (Online)
+1. Lucas Gandel, Kitware, France, (Online)
+1. Orphée, McGill , Canada, (Online)
+1. Thomas K Noh, University of Hawaii, USA, (Online)
+1. Boubacar FATY, Ecole Superieure polytechnique, Senegal, (Online)
+1. Geir Arne Tangen, SINTEF, Norway, (Online)
+1. Nayra Pumar Carreras, EBATINCA, Spain, (Online)
+1. Shreeraj Jadhav, Kitware Inc, USA, (Online)
+1. Joe Boccanfuso, Radical Imaging, Canada, (Online)
+1. Leonardo Campos, PUC-MG, Brazil, (Online)
 
 <!-- Participants list end -->
 
