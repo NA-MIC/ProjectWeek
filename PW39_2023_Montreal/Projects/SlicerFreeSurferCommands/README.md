@@ -76,8 +76,8 @@ For example:
 ### Next steps
 
 1. Discuss merging [SlicerFreeSurfer](https://github.com/PerkLab/SlicerFreeSurfer) and [SlicerFreeSurferCommands](https://github.com/SlicerCBM/SlicerFreeSurferCommands), and moving to Slicer GitHub organization. See:
-   - https://github.com/Slicer/ExtensionsIndex/pull/1943
-   - https://github.com/PerkLab/SlicerFreeSurfer/issues/15
+   - <https://github.com/Slicer/ExtensionsIndex/pull/1943>
+   - <https://github.com/PerkLab/SlicerFreeSurfer/issues/15>
 
 # Illustrations
 
