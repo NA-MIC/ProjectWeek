@@ -6,7 +6,7 @@ redirect_from:
 - /PW39_2023_Montreal/Projects/AmpsczFirstDataReleaseDocumentation/README.html
 
 project_title: AMPSCZ First Data Release Documentation
-category: VR/AR and Rendering
+category: Quantification and Computation
 presenter_location: In-person
 
 key_investigators:
