@@ -66,9 +66,9 @@ for undoBinding in undoKeyBindings:
   undoShortcut = qt.QShortcut(slicer.util.mainWindow())
   undoShortcut.setKey(undoBinding)
   undoShortcut.connect("activated()", onUndo)
-  undoShortcuts.append(undoShortcut)
+  undoShortcuts.append(undoShortcut)f
 
-toolBar = qt.QToolBar()
+toolBar = qt.QToolBar("Undo/Redo")
 toolBar.addAction(qt.QIcon(":/Icons/Medium/SlicerUndo.png"), "Undo", onUndo)
 toolBar.addAction(qt.QIcon(":/Icons/Medium/SlicerRedo.png"), "Redo", onRedo)
 slicer.util.mainWindow().addToolBar(toolBar)
@@ -79,7 +79,9 @@ slicer.util.mainWindow().addToolBar(toolBar)
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.
+1. Fix issue with camera movements creating unnecessary undo states: [Slicer/5e460ad](https://github.com/Slicer/Slicer/commit/5e460add5b9163fb2f80e33037624c97f5b4d7f4).
+2. Continue to receive feedback and bug reports on the current implementation.
+3. Add option to enable/disable undo from application settings in Slicer. 
 
 # Illustrations
 
@@ -87,6 +89,7 @@ slicer.util.mainWindow().addToolBar(toolBar)
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![undo_redo](https://github.com/NA-MIC/ProjectWeek/assets/9222709/13bc6fc2-c93d-41b0-b25c-c24b996c867d)
 
 # Background and References
 
