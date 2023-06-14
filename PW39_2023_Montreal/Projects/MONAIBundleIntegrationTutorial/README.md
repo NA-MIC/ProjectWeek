@@ -25,7 +25,6 @@ key_investigators:
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
 NVIDIA AI assisted annotation (AIAA) is no longer actively mainatined and MONAI bundle has been established to load a wide selection of pretrained models for radiology and pathology. 
 
 
@@ -34,7 +33,7 @@ NVIDIA AI assisted annotation (AIAA) is no longer actively mainatined and MONAI 
 
 Our objective is to provide a detailed step by step description on how to use MONAI bundle for this task.
 
-## Step by Step description
+## Step by Step Description
 
 Setting up an AWS EC2 Windows server in the cloud: 
 The detailed process [is decribed here](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/).
@@ -85,7 +84,19 @@ The IP address of the MONAILabel server is http://52.209.177.211:8000/. During t
 
 ## Progress and Next Steps
 
-     
+We held three workshpos during the conference with good success. In each of the workshops we were able to 
+
+- reliably connect to the AWS server instance
+- start MONAILabel
+- use the monaibundle app
+- load one of the two demonstrated models
+- start 3D Slicer on the server
+- perform inference with the preconfigured model
+- demonstrate label adjustments
+- submit labels
+- work from remote on the AWS server instance
+- answer first-timer questions
+ 
 Here is a list of the bundles from the [MONAI Model Zoo page](https://monai.io/model-zoo.html) as of 5/23:
 
 **Clara train COVID19 3D classification**: A pre-trained model for 3D COVID-19 classification using CT images【1†source】
@@ -149,23 +160,12 @@ Here is a list of the bundles from the [MONAI Model Zoo page](https://monai.io/m
 **Wholebody CT Segmentation:** A pre-trained SegResNet model for volumetric (3D) segmentation of the 104 whole body segments【75†source】.
 
 
-
-
-
 # Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/cdc7d159-2670-433a-945e-4c7000c21f80)
 
 
 # Background and References
-
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
      
      https://docs.monai.io/en/stable/bundle_intro.html
      https://monai.io/model-zoo.html
