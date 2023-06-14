@@ -54,7 +54,9 @@ A goal of this project proposal is to schedule a meeting during Project Week to 
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 *   Researched several open-source LLM repositories that allow connection to external APIs (Application Programming Interfaces), such as what Slicer has with the web interface
+*   Productive meeting on Tuesday.  Rudolf Bumm showed how Slicer documentation could be used to fine tune a LLM as a question-answering system (see attached notebook shared on Slicer discourse).  Justin discussed the work on LLMs for IDC Query.  We discussed the documentation will be easier in the short term, since changes in the Slicer state (change in the MRML tree after running a model) is hard to represent semantically. Theodore demonstrated how the browser extension of GPT4 gives better answers than the base model. 
 
+ 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
@@ -74,4 +76,5 @@ Here's a related post: <https://nickarner.com/notes/llm-powered-assistants-for-c
 
 Somewhat related development applied to selection of data in IDC using LLM: <https://discourse.canceridc.dev/t/text2cohort-a-new-llm-toolkit-to-query-idc-database-using-natural-language-queries/>.
 
+(link to Rudolf's ipython notebook discussion)
 https://discourse.slicer.org/t/langchain-query-the-complete-3d-slicer-documentation-script-repository-and-faq-pdf-and-html-with-openai-llm/28746/6
