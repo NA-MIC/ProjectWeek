@@ -67,7 +67,11 @@ ros2 launch mycobot_280 slider_control.launch.py
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
+ <video
+   controls muted
+   src="https://www.dropbox.com/s/tbg77pgedba6lys/SlicerROS2_myCobot_Montreal_June2023.mov?dl=0"
+   style="max-height:640px; min-height: 200px">
+ </video>
 *No response*
 
 # Background and References
