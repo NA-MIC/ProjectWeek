@@ -31,14 +31,18 @@ If you would like to offer suggestions or feedback on the current prototype, the
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-There is a prototype that is currently available here: https://github.com/Sunderlandkyl/Slicer/tree/focus_node_prototype
+1. Continue development of the node focus infrastructure.
+2. Get feedback from hands-on use to better improve the implementation.
+3. Improve visualization and performance.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Get feedback on the current implementation/approach. 
+1. Prototype implementation can be found here: https://github.com/Sunderlandkyl/Slicer/tree/focus_node_prototype
+2. Improve rendering of volumes + hard selection.
+3. Implement picking of node types other than markups.
 
 # Illustrations
 
