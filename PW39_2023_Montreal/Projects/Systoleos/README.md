@@ -37,9 +37,7 @@ The following are key features we aim to leverage with Systole OS:
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
-1.  **Updating Packages:** Ensure the timely update and maintenance of existing packages, targeting specifically the release Slicer-5.3.0.
+1.  **Updating Packages:** We are planning to ensure the timely update and maintenance of existing packages, targeting specifically the release Slicer-5.3.0.
 
 2.  **Integration and Testing Infrastructure:** Develop a robust infrastructure that supports seamless integration and rigorous testing to maintain the highest quality standards.
 
@@ -63,20 +61,27 @@ The following are key features we aim to leverage with Systole OS:
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+🚀 Here is an overview of our progress so far:
 
-1.  Describe specific steps you **have actually done**.
+1. 🔜 We have partially completed a Kubernetes infrastructure to build containers and virtual machines with pre-installed Systole. This infrastructure is based on [ArgoCD](https://argoproj.github.io/argo-cd/), [ArgoWorkflow](https://argoproj.github.io/argo-workflows/), and [Bitnami Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets).
+2. We are currently in the planning phase for updating the packages to target the release Slicer-5.3.0.
+3. We are continuing the setup process for the Kubernetes infrastructure to support integration and testing needs.
 
-# Illustrations
+## Next Steps
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+Moving forward, our next steps include:
+
+1. Implementing the necessary updates to the packages in line with our plan and timeline.
+2. Finalizing the setup of the Kubernetes infrastructure for building containers and virtual machines.
+3. Initiating testing and production of SystoleOS containers and virtual machines for use by other researchers.
+
+## Illustrations
 
 *No response*
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
+- [SystoleOS Gentoo Overlay Repository](https://github.com/SystoleOS/gentoo-overlay): Repository for the SystoleOS Gentoo overlay.
+- [SystoleOS Infrastructure Repository](https://github.com/SystoleOS/infrastructure): Repository for the SystoleOS infrastructure project.
+- [SystoleOS Workflows Repository](https://github.com/SystoleOS/workflows): Repository for the SystoleOS workflows project.
 
-*No response*
