@@ -1,4 +1,4 @@
-![image](https://github.com/NA-MIC/ProjectWeek/assets/1325980/cb654d28-6c70-422a-9fa3-ceb2e0acf811)---
+---
 layout: pw39-project
 
 permalink: /:path/
