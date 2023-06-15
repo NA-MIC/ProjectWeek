@@ -5,7 +5,7 @@ permalink: /:path/
 redirect_from:
 - /PW39_2023_Montreal/Projects/SlicerFlatpak/README.html
 
-project_title: 'Slicer Flatpak '
+project_title: 'Slicer Flatpak'
 category: Infrastructure
 presenter_location: In-person
 
@@ -35,47 +35,44 @@ key_investigators:
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+📄 Slicer Flatpak is a project focused on packaging the 3D Slicer software as a Flatpak. This initiative aims to offer an easy and universal way to install and run 3D Slicer on any Linux distribution that supports Flatpak. By doing this, it seeks to reduce installation complexities and improve compatibility across different systems. The distribution of 3D Slicer as a Flatpak has potential benefits.
 
-Slicer Flatpak is a project focused on packaging the 3D Slicer software as a Flatpak. This initiative aims to offer an easy and universal way to install and run the 3D Slicer on any Linux distribution that supports Flatpak. By doing this, it seeks to reduce installation complexities and improve compatibility across different systems. The distribution of 3D Slicer as a Flatpak has potential benefits:
-
-The convenience of having a 3D Slicer Flatpak has been long discussed in the 3D Slicer Discourse platform (<https://discourse.slicer.org/t/interest-to-create-flatpak-for-3d-slicer-have-issue-with-guisupportqtopengl-not-found/16532>). Soon after PW38, we started a renewed discussion on the topic and a new initiative to make 3D Slicer Flatpak happen. Right now, our efforts have been focused on getting a first feasible 3D Slicer Flapak (<https://github.com/RafaelPalomar/Slicer-Flatpak/tree/feature/slicer-flatpak-generatorand> <https://github.com/RafaelPalomar/org.slicer.Slicer/tree/development>). With this project we want to consolidate this effort and discuss about the potential distribution of the 3D Slicer Flatpak.
+The convenience of having a 3D Slicer Flatpak has been long discussed in the 3D Slicer Discourse platform ([source](https://discourse.slicer.org/t/interest-to-create-flatpak-for-3d-slicer-have-issue-with-guisupportqtopengl-not-found/16532)). Soon after PW38, we started a renewed discussion on the topic and initiated efforts to make 3D Slicer Flatpak a reality. We have completed the first distribution of 3D Slicer as a Flatpak, making progress towards our objectives.
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+🎯 The objective of this project is to:
 
-1.  Consolidation of 3D Slicer Flapak build infrastructure.
-2.  Add support for deployment of SimpleITK along with 3D Slicer Flatpak.
-3.  Testing and verification of 3D Slicer extensions.
-4.  Discussion about the release model (flathub, own repository, etc.).
+1. Consolidate the 3D Slicer Flatpak build infrastructure.
+2. Resolve the issue with SimpleITK and enable its deployment along with 3D Slicer Flatpak.
+3. Test and verify 3D Slicer extensions for compatibility with the Flatpak version.
+4. Discuss and plan the integration and release strategy, including the possibility of submission to flathub.
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+📝 Our approach to achieving the objectives is as follows:
 
-1.  Continue the current development and obtain a first version (even if with limited functionality) of the 3D Slicer Flatpak
-2.  Fix a dependencies issue with SimpleITK
-3.  Enable the use of the Slicer Extension manager and discuss on possibilities to deploy extensions (sandboxes vs. local)
-4.  Strategy to build/deploy 3D Slicer Flatpak.
+1. Continuously develop and refine the 3D Slicer Flatpak, addressing limitations and improving its functionality.
+2. Work towards resolving the SimpleITK problem and ensure seamless deployment of SimpleITK along with 3D Slicer Flatpak.
+3. Enable the use of the Slicer Extension Manager and explore options for deploying extensions, considering sandboxed environments and local deployments.
+4. Plan a strategy for integration and release, including the submission of patches to the Slicer repository, maintaining the flatpak generator and repository under [RafaelPalomar/Slicer-Flatpak](https://github.com/RafaelPalomar/Slicer-Flatpak), and evaluating the possibility of integration with flathub.
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+🚀 Here is an overview of our progress so far:
 
-1.  Fixed issue [Slicer-Flatpak#5](https://github.com/RafaelPalomar/Slicer-Flatpak/issues/5)  through [Slicer#7019](https://github.com/Slicer/Slicer/pull/7019) updating ITK to fix Flatpack dependency analysis.
-2.  Additional analysis causing the Slicer-Flatpak python dependencies download to fail. See [Slicer-Flatpak/4#issuecomment-1588628987](https://github.com/RafaelPalomar/Slicer-Flatpak/issues/4#issuecomment-1588628987)
-
-# Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-*No response*
+1. ✅ Completed the first distribution of the 3D Slicer Flatpak, providing users with an initial version to test and provide feedback. A repository with documentation can be found at [https://github.com/RafaelPalomar/org.slicer.Slicer-flatpak-repository](https://github.com/RafaelPalomar/org.slicer.Slicer-flatpak-repository)
+2. ❌ Currently, we are still working on resolving the SimpleITK problem and ensuring proper integration with 3D Slicer Flatpak.
+3. ❌ Testing and verification of 3D Slicer extensions are ongoing. We are actively exploring ways to improve compatibility.
+4. 📅 We recently met to plan a strategy for integration and release:
+   - Some patches will be submitted to the Slicer repository to enhance the flatpak generator and improve the Slicer CMake infrastructure. Reference: [RafaelPalomar/Slicer-Flatpak](https://github.com/RafaelPalomar/Slicer-Flatpak)
+   - For the time being, the flatpak generator, manifest, and flatpak repository will continue under [https://github.com/RafaelPalomar](https://github.com/RafaelPalomar). We need to evaluate the cost of maintenance and the impact of the package before considering a move.
+   - We will assess the maintenance effort and impact on the Slicer community before deciding on potential integration with flathub.
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
+- Slicer Flatpak Repository: [RafaelPalomar/Slicer-Flatpak](https://github.com/RafaelPalomar/Slicer-Flatpak)
+- Slicer Flatpak Manifest and Repository: [RafaelPalomar/org.slicer.Slicer-flatpak-repository](https://github.com/RafaelPalomar/org.slicer.Slicer-flatpak-repository)
+- Flathub: [flathub.org](https://flathub.org)
 
-*No response*
+
