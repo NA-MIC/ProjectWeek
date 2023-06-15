@@ -117,6 +117,40 @@ ShapeAXI is an innovative project that focuses on advancing the field of shape a
   src="https://github.com/juanprietob/ProjectWeek/assets/7086191/628e640e-f42c-4ba8-9f20-d7f9129e6aeb"
   style="max-height:640px; min-height: 200px">
   </video>
+  
+ 
+  
+# Results
+
+## Inputs
+
+|surf|class|
+|---|---|
+|/path/to/model.vtk|0|
+|/path/to/model2.vtk|1|
+|/path/to/model3.vtk|2|
+
+## Automated training - testing
+![01 Final_Classificationfold0_test_prediction_norm_confusion](https://github.com/juanprietob/ProjectWeek/assets/7086191/0cf38ad9-0e34-4cb2-a7ed-fb4a7b146b1e)
+![01 Final_Classificationfold0_test_prediction_roc](https://github.com/juanprietob/ProjectWeek/assets/7086191/7f9c650c-d561-4cb4-9dcd-2011cba8b95c)
+
+## Explainability 
+
+<video
+  controls muted
+  src="https://github.com/juanprietob/ProjectWeek/assets/7086191/f6da947e-f27f-4fa5-aa9a-b02506ab3b8f"
+  style="max-height:640px; min-height: 200px">
+  </video>
+
+
+<video
+  controls muted
+  src="https://github.com/juanprietob/ProjectWeek/assets/7086191/c92c8acb-e7d0-4e8f-b709-0d97e5db17b7"
+  style="max-height:640px; min-height: 200px">
+  </video>
+
+
+
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
