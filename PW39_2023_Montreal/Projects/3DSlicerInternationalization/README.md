@@ -112,7 +112,7 @@ Zoom link for all Slicer Internationalization sessions: https://etsmtl.zoom.us/j
      
 * Daily Slicer Internationalization sessions with over 20 participants from Africa, Latin America, North America and Europe
 
-* Added the Module translation lookup table to the Slicer Langage Packs repository. Click [here](https://github.com/Slicer/SlicerLanguagePacks/blob/main/Module%20translation%20lookup%20table.md) to view it!
+* Added the Module translation lookup table to the Slicer Language Packs repository. Click [here](https://github.com/Slicer/SlicerLanguagePacks/blob/main/Module%20translation%20lookup%20table.md) to view it!
 
 * [Excel worksheet with language selection](https://github.com/Slicer/SlicerLanguagePacks/releases/tag/TranslationResources) 
 

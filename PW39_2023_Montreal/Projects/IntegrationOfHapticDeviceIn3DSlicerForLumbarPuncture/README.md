@@ -66,7 +66,7 @@ Steps that are already done:
 ![Screenshot (34)](https://github.com/NA-MIC/ProjectWeek/assets/117910171/b8117833-3df2-45f1-a7d4-f93dd315458c)
 
    
-3.  Inlcude in SlicerToTouch module the number of resistances, posiitons and force value for each tissue. This module generates a json file with all the information.
+3.  Include in SlicerToTouch module the number of resistances, posiitons and force value for each tissue. This module generates a json file with all the information.
 
 ![Screenshot (43)](https://github.com/NA-MIC/ProjectWeek/assets/117910171/988cbfc0-0ba2-4ea1-b11a-9f279c83adb8)
 

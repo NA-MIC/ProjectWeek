@@ -47,7 +47,7 @@ Automated clinical decision support systems rely on accurate analysis of three-d
 
 This project proposes two novel tools that can automatically perform the orientation and registration of 3D Cone-Beam Computed Tomography (CBCT) scans with high accuracy. Our work aims to reduce the sources of error in the 3D image processing workflow by automating these operations. These methods combine classical algorithmic approaches and AI-based models trained and tested on de-identified CBCT volumetric images. 
 
-The registration method is based on an automatic tool [AMASSS](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools) to perfom a segmentation of the different region of reference (described [here](#illustrations)) used for the regional voxel-based registration
+The registration method is based on an automatic tool [AMASSS](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools) to perform a segmentation of the different region of reference (described [here](#illustrations)) used for the regional voxel-based registration
 
 Our code is available [here](https://github.com/lucanchling/areg)
 
@@ -83,7 +83,7 @@ Our code is available [here](https://github.com/lucanchling/areg)
 
 ![Some more images](Example2.jpg)
 -->
-## Comparison between the current anbd the proposed worflow
+## Comparison between the current and the proposed workflow
 ![Workflow](https://github.com/lucanchling/ProjectWeek/assets/72148963/18eaa32a-0193-4c43-b159-acc3e9d77fee)
 
 ## Different regions of reference (comparison between the full segmentation and the mask)
@@ -92,7 +92,7 @@ Our code is available [here](https://github.com/lucanchling/areg)
 ## Example of Cranial Base Registration
 ![AREGCBCTExample](https://github.com/lucanchling/ProjectWeek/assets/72148963/66574b8d-a9b0-465a-a5ef-4206bb2d84dd)
 
-## Screenshot of the User Interface of the developped extension
+## Screenshot of the User Interface of the developed extension
 ![AREG](https://github.com/lucanchling/ProjectWeek/assets/72148963/23200b88-21f2-4538-afdf-3dc757454efb)
 
 # Background and References

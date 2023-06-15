@@ -42,7 +42,7 @@ Slicer Pipelines is a framework to support the creation of workflows (Pipelines)
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Refactoring has been done, basic CaseIterator runs with test pipelin
+1.  Refactoring has been done, basic CaseIterator runs with test pipeline
 2.  CSV files can be read to drive input parameters
 
 # Illustrations

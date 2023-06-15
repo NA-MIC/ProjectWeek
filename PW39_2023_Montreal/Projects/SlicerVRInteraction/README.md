@@ -73,7 +73,7 @@ In PW 37, basic interaction has been fixed.
 
 1. Fixed 3D pinch interaction in commit [SlicerVirtualReality@49f1896d6](https://github.com/KitwareMedical/SlicerVirtualReality/commit/49f1896d652c6b27051cd41e8244b52cd28c2dab)
 2. Rebased the GUI widgets branch into a [new branch](https://github.com/cpinter/SlicerVirtualReality/tree/gui-widget-20230612)
-3. Fixed loopup of `vtk_openvr_actions.json` and `vtk_openvr_binding_*.json` files for both build and install tree. See commit [SlicerVirtualReality@a4d465b73](https://github.com/KitwareMedical/SlicerVirtualReality/commit/a4d465b7321a6cdd2e0c3aa85eb04899be471b17) integrated through [PR-117](https://github.com/KitwareMedical/SlicerVirtualReality/pull/117)
+3. Fixed lookup of `vtk_openvr_actions.json` and `vtk_openvr_binding_*.json` files for both build and install tree. See commit [SlicerVirtualReality@a4d465b73](https://github.com/KitwareMedical/SlicerVirtualReality/commit/a4d465b7321a6cdd2e0c3aa85eb04899be471b17) integrated through [PR-117](https://github.com/KitwareMedical/SlicerVirtualReality/pull/117)
 
 # Illustrations
 

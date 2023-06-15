@@ -27,7 +27,7 @@ Global undo/redo is currently [the highest voted feature](https://discourse.slic
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-To test the undo/redo functionality currently availiable in Slicer, add the following code to '.slicerrc' to test undo/redo with Markups:
+To test the undo/redo functionality currently available in Slicer, add the following code to '.slicerrc' to test undo/redo with Markups:
 
 ```python
 slicer.mrmlScene.SetUndoOn()
