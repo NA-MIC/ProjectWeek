@@ -47,11 +47,11 @@ Automated clinical decision support systems rely on accurate analysis of three-d
 
 This project proposes two novel tools that can automatically perform the orientation and registration of 3D Cone-Beam Computed Tomography (CBCT) scans with high accuracy. Our work aims to reduce the sources of error in the 3D image processing workflow by automating these operations. These methods combine classical algorithmic approaches and AI-based models trained and tested on de-identified CBCT volumetric images. 
 
-The registration method is based on an automatic tool [AMASSS](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools) to perform a segmentation of the different region of reference (described [here](#illustrations)) used for the regional voxel-based registration
+The registration method is based on an automatic tool [AMASSS](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools) to perform a segmentation of the different regions of reference (described [here](#illustrations)) used for the regional voxel-based registration
 
 Our code is available [here](https://github.com/lucanchling/areg)
 
-
+The different methods for automatic orientation and registration of 3D CBCT scans rely on a combination of algorithmic and deep-learning techniques to perform both the orientation and the registration automatically. It also uses work that our group of researchers has already developed. Our Python-based algorithm and requires multiple libraries for the different image-processing tasks accomplished throughout the proposed method: SimpleITK \cite{Lowekamp2013-jt}, VTK \cite{Schroeder2006-ab}, SimpleElastix \cite{SimpleElastix}. To implement these tools, we also used the Medical Open Network for Artificial Intelligence (MONAI) library, which is a PyTorch-based framework for medical image analysis. MONAI offers several advantages for our work, such as high performance, modularity, and interoperability with other libraries.
 
 ## Objective
 
@@ -75,6 +75,7 @@ Our code is available [here](https://github.com/lucanchling/areg)
 1. Method and script working
 1. Slicer Extension created and progress made on developing it
 1. Deploy AReg tool to the *SlicerAutomatedDentalTools*
+1. Validating the tool via method paper
 
 # Illustrations
 
@@ -84,7 +85,7 @@ Our code is available [here](https://github.com/lucanchling/areg)
 ![Some more images](Example2.jpg)
 -->
 ## Comparison between the current and the proposed workflow
-![Workflow](https://github.com/lucanchling/ProjectWeek/assets/72148963/18eaa32a-0193-4c43-b159-acc3e9d77fee)
+![Workflow](https://github.com/lucanchling/ProjectWeek/assets/72148963/a6617e85-df6e-426f-ab4a-eef322453e7e)
 
 ## Different regions of reference (comparison between the full segmentation and the mask)
 ![MaskComparison](https://github.com/lucanchling/ProjectWeek/assets/72148963/7312a43f-8b00-4513-bf75-0cf1a363b310)
