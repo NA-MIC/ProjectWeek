@@ -54,6 +54,7 @@ The goal for this project week is to provide a new open-source implementation us
 
 ## Progress and Next Steps
 
+
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
@@ -64,8 +65,8 @@ The goal for this project week is to provide a new open-source implementation us
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![2023-06-15_09-18-01](https://github.com/NA-MIC/ProjectWeek/assets/2071850/ed7e2adc-f23b-4785-ab39-4e33b3466968)
 
-*No response*
 
 # Background and References
 

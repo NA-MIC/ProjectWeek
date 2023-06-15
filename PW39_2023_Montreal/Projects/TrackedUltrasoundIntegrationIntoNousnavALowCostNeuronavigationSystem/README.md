@@ -67,12 +67,18 @@ The system is being continually updated based on user feedback. An important nex
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Streamed imaging data from Telemed on Windows 11 via PLUS.
+2. Performed ultrasound calibration using 3D printed tracking cluster designed and printed by Tamas.
+3. (Almost) visualized tracked ultrasound images of registered skull phantom within NousNav.
+
 
 *No response*
 
 # Illustrations
+
+![NousNavScreenshot_3](https://github.com/NA-MIC/ProjectWeek/assets/25553662/c1c07bc7-db48-4b28-9cbf-ecf2de631ce9)
+
+![NousNavScreenshot_4](https://github.com/NA-MIC/ProjectWeek/assets/25553662/09124ad8-94ec-4ec6-be50-86dae4d29b7b)
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 

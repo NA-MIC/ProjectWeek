@@ -57,6 +57,11 @@ Objective C:
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
+![Img1](https://github.com/andy9t7/SlicerAtlasEditor/blob/main/img/download-import.png?raw=true)
+![Img2](https://github.com/andy9t7/SlicerAtlasEditor/blob/main/img/material-dipole.png?raw=true)
+![Img3](https://github.com/andy9t7/SlicerAtlasEditor/blob/main/img/corpus-callosum-dipole.png?raw=true)
+
+
 
 
 # Illustrations
