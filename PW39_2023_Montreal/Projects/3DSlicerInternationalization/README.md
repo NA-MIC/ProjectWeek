@@ -113,6 +113,7 @@ Zoom link for all Slicer Internationalization sessions: https://etsmtl.zoom.us/j
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 <img width="1920" alt="PW39_SlicerInternationalization" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/7b652e1d-847c-4b15-b8f3-f7431ef80298">
 
+![SlicerPW39-2](https://github.com/NA-MIC/ProjectWeek/assets/1847492/84fd8116-4e49-497a-a8ec-87c291f49c22)
 
 # Background and References
 
