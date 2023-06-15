@@ -58,10 +58,15 @@ between points, points to line, midpoint between two points or angles (Pitch, Ro
 
 
 ## Progress and Next Steps
+### Progress
+1. Resolve few issues
+2. Ranaming most of the function
 
-1. Refactoring codes
-2. Improve readability of the code
-3. Create Documentation for developer
+
+### Next Steps
+
+1. Improve readability of the code
+2. Create Documentation for developer
 
 
 
