@@ -57,9 +57,7 @@ user interface within the Slicer platform to allow browsing and download of imag
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-*No response*
+![idcbrowser_pw39_small](https://github.com/NA-MIC/ProjectWeek/assets/313942/642dc4dc-c51d-40dd-8f44-60e89dde0ad3)
 
 # Background and References
 
