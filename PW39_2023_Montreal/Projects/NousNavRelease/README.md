@@ -55,7 +55,6 @@ For this project we are going to finalize remaining issues on the tracker to mov
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
-![Screenshot 2022-12-05 13 15 04](https://github.com/NA-MIC/ProjectWeek/assets/25040869/8f9fa3be-d527-4fc0-aedc-345852b385eb)
 
 Major tasks to work on:
 
@@ -78,6 +77,9 @@ Major tasks to work on:
     3. Improved color consistency across landmark usage
 2. Made patient interface styling consistent with rest of application
 3. Demo'd recent changes to the rest of the NousNav team
+4. Discussed with other IGT devs the best way to reuse NousNav effort in other projects
+    1. Slicer NavigationAppTemplate: core functionality of the NousNav workflow made available as a reusable template similar to SlicerCAT
+5. Will tag the 1.0 release at the end of this week.
 
 
 # Illustrations
