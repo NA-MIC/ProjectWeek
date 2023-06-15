@@ -100,6 +100,8 @@ Zoom link for all Slicer Internationalization sessions: https://etsmtl.zoom.us/j
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
      
+* Daily Slicer Internationalization sessions with over 20 participants from Africa, Latin America, North America and Europe
+
 * Added the Module translation lookup table to the Slicer Langage Packs repository. Click [here](https://github.com/Slicer/SlicerLanguagePacks/blob/main/Module%20translation%20lookup%20table.md) to view it!
 
 * [Excel worksheet with language selection](https://github.com/Slicer/SlicerLanguagePacks/releases/tag/TranslationResources) 
@@ -107,9 +109,10 @@ Zoom link for all Slicer Internationalization sessions: https://etsmtl.zoom.us/j
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-*No response*
+<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+<img width="1920" alt="PW39_SlicerInternationalization" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/7b652e1d-847c-4b15-b8f3-f7431ef80298">
+
 
 # Background and References
 
