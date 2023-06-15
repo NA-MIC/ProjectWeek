@@ -75,6 +75,7 @@ We will focus on nuclei annotations stored as DICOM Microscopy Bulk Simple Annot
     * Single binary segmentation file produced by Curt Lisle in the context of his project: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/segmentation-binary-curt-test/dicomStores/segmentation-binary-curt-test-store/dicomWeb)
     * Single fractional segmentation plus simple bulk annotation file: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/segmentations-fractional-test/dicomStores/segmentations-fractional-test-store/dicomWeb)
     * Parametric maps: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/northamerica-northeast1/datasets/pw39-samples/dicomStores/parametric-maps/dicomWeb)
+    * Working example binary segmentation from Chris: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/working-binary-segmentation-test/dicomStores/working-binary-segmentation-test-store/dicomWeb)
 2. We tested and documented current capabilities of reading and visualizing annotations
     * Results are summarized [here](https://docs.google.com/document/d/1FWSHL5GA47GC-bbrYOhqySGmKoQ0yLu7EM7-UbhYcSY/edit?usp=sharing)
 3. We implemented code for cellularity computation and prepared a Colab notebook on which further work will be done following the project week.  
