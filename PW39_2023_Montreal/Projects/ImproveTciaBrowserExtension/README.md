@@ -64,6 +64,7 @@ The major improvements we'd like to address with TCIA Browser include:
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+<img width="1680" alt="Screenshot 2023-06-15 at 10 09 48" src="https://github.com/NA-MIC/ProjectWeek/assets/118777684/1b3a4d2b-e2a3-4bfc-8819-92cb445cda3c">
 
 *No response*
 
