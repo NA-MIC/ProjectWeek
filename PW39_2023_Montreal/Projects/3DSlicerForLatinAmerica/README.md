@@ -16,7 +16,7 @@ key_investigators:
   country: Harvard Medical School, USA
 
 - name: Steve Pieper
-  affiliation: Isomics Inc.
+  affiliation: Isomics, Inc.
   country: USA
 
 - name: Andras Lasso
@@ -110,6 +110,7 @@ The goal of this project is to empower the biomedical research community in Lati
 
 1.  To identify members of the Latin American community interested in 3D Slicer activities in Spanish and in Portuguese
 2.  To run daily translation hackathons at PW39
+3.  To translate the Slicer Language Packs tutorial to Spanish and Portuguese
 
 ## Approach and Plan
 
@@ -134,13 +135,17 @@ Zoom link for daily Slicer Internationalization sessions: https://etsmtl.zoom.us
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-*No response*
+The "how to use" web page of Slicer Language Packs extension has been translated to Latin american Spanish and Brazilian Portuguese
+
+[Español Latinoamericano](https://github.com/Slicer/SlicerLanguagePacks/blob/main/HowToUse_es_419.md)
+
+[Português Brasileiro](https://github.com/Slicer/SlicerLanguagePacks/blob/main/HowToUse_pt-br.md)
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![example_es](https://user-images.githubusercontent.com/15926896/245937609-71f70b88-ec46-4f57-8ad0-d11045e5234e.png)
+![example_pr](https://user-images.githubusercontent.com/15926896/245937613-29d649f4-d9c7-4620-9ea4-b4e597ff1a61.png)
 
-*No response*
 
 # Background and References
 

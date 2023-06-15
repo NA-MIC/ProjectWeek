@@ -16,7 +16,7 @@ key_investigators:
   country: Harvard Medical School, USA
 
 - name: Steve Pieper
-  affiliation: Isomics Inc.
+  affiliation: Isomics, Inc.
   country: USA
 
 - name: Andras Lasso
@@ -58,6 +58,16 @@ key_investigators:
 - name: Fatou Bintou NDIAYE
   affiliation: Université Cheikh Anta Diop de Dakar
   country: Senegal
+  
+- name: Atila Nagy
+  affiliation: Szeged University
+  country: Hungary
+  
+- name: Atila Nagy
+  affiliation: Szeged University
+  country: Hungary
+  
+  
 
 ---
 
@@ -74,6 +84,8 @@ The goal of the project is to facilitate access to 3D Slicer in non-English spea
 To identify members of the global Slicer community interested in new Slicer activities in their language
 
 To create a list containing the top 10 Slicer modules to translate for new Slicer Internationalization contributors
+
+To create a new module translation lookup table for the Language Packs Extension tutorial
 
 ## Approach and Plan
 
@@ -97,14 +109,21 @@ Zoom link for all Slicer Internationalization sessions: https://etsmtl.zoom.us/j
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
+     
+* Daily Slicer Internationalization sessions with over 20 participants from Africa, Latin America, North America and Europe
 
-None
+* Added the Module translation lookup table to the Slicer Language Packs repository. Click [here](https://github.com/Slicer/SlicerLanguagePacks/blob/main/Module%20translation%20lookup%20table.md) to view it!
+
+* [Excel worksheet with language selection](https://github.com/Slicer/SlicerLanguagePacks/releases/tag/TranslationResources) 
+
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-*No response*
+<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+<img width="1920" alt="PW39_SlicerInternationalization" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/7b652e1d-847c-4b15-b8f3-f7431ef80298">
+
+![SlicerPW39-2](https://github.com/NA-MIC/ProjectWeek/assets/1847492/84fd8116-4e49-497a-a8ec-87c291f49c22)
 
 # Background and References
 

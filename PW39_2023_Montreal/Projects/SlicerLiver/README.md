@@ -41,7 +41,7 @@ key_investigators:
 
 1.  Advanced manipulation of deformable surfaces for resection planning. Our current solution for resection planning involves the deformation of Bezier surfaces in a 4x4 grid implemented by means of Slicer Markups (<https://slicer.readthedocs.io/en/latest/user_guide/modules/markups.html>). We are planning to  include advanced features such as coloring and grouping of markups for a more effective manipulation.
 2.  Volumetry computation. Planning of liver therapies largely relies on a volumetry analysis derived from the therapy plan. We are planning to include versatile tools for volume computations.
-3.  Release of Slicer-Liver 1.0. As Slicer-Liver is becoming an feature rich extension, we aim to release the latest developments achieved during this and the last Project Week in the extension manager (currently, the version released in the Extension Mangager does not contain the latest advances).
+3.  Release of Slicer-Liver 1.0. As Slicer-Liver is becoming an feature rich extension, we aim to release the latest developments achieved during this and the last Project Week in the extension manager (currently, the version released in the Extension Manager does not contain the latest advances).
 
 ## Approach and Plan
 
@@ -56,9 +56,33 @@ key_investigators:
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  Thanks to changes made by Sara Rolfe in the markup module (Seattle Children's Research Institute USA) we are now able to modify the interaction of Markups-based resections.
+2.  Integrated a new set of volumetric computation tools using the region growing method
+
+![liver-volumetry-resection0](https://github.com/NA-MIC/ProjectWeek/assets/75131750/91485aa5-b4ff-431f-933c-681cacaf54d1)
+
+![liver-volumetry-resection](https://github.com/NA-MIC/ProjectWeek/assets/75131750/388743ad-45ca-4c9c-bcd6-f72d2e14d7ca)
+
+
 
 # Illustrations
+
+<p float="left">
+  <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_01.png?raw=true" width="30%">
+  <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_04.png?raw=true" width="30%">
+  <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_02.png?raw=true" width="30%">  
+</p>
+
+<p float="left">
+   <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_08.png?raw=true" width="40%">
+   <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_06.png?raw=true" width="40%">
+   
+</p>
+
+<img width="50%" alt="resection" src="https://user-images.githubusercontent.com/75131750/216592014-82fc6c37-0b58-41dd-8a73-6ab97d1aede0.gif">
+
+
+<img width="50%" alt="resectogram" src= "https://user-images.githubusercontent.com/75131750/216590392-62093987-8c14-4e43-88ad-4215a9764766.gif">
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 

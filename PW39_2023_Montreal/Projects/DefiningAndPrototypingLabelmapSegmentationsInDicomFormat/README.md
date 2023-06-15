@@ -14,7 +14,7 @@ key_investigators:
   country: USA
 
 - name: Steve Pieper
-  affiliation: Isomics
+  affiliation: Isomics, Inc.
   country: USA
 
 - name: David Clunie
@@ -37,7 +37,7 @@ While improvements in tooling may alleviate this to some extent, there appears t
 
 The goal of this project is to gather a team of relevant experts to formulate changes to the standard to address some issues with DICOM Segmentation. We will focus primarily on "Labelmap" style segmentations and issues surrounding frame compression. Other objectives for further discussion include simplifying per-frame metadata. Although we do not speak for the DICOM standards committee, we hope to put forward a complete proposal that can be considered by the committee. Ideally, the proposal will be backed by multiple interoperable implementations of the proposed objects and demonstrations of their value in reducing object size and complexity.
 
-The proposal for this project received a considerable amount of constructive feedback from the community: #643
+The proposal for this project received a considerable amount of constructive feedback from the community: [#643](https://github.com/NA-MIC/ProjectWeek/issues/643)
 
 @pieper @fedorov @dclunie
 
@@ -67,7 +67,9 @@ The proposal for this project received a considerable amount of constructive fee
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-*No response*
+<img width="774" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/126077/797f6614-22df-4afd-9c6d-1343d6a9361b">
+
+* Prototype DICOM SEG LABELMAP from highdicom loaded in Slicer using pydicom.
 
 # Background and References
 

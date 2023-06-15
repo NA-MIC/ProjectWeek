@@ -51,19 +51,26 @@ The initial motivation for this project was to simplify creation of synthetic da
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 Two possible solutions have been discussed for the implementation:
-
+1. Add functions to Markups Editor module in the SlicerMorph extension
+2. Add to Slicer core in the Markups module
+   
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  Met to discuss use cases and overlap in needs between SlicerMorph and SlicerLiver Groups
+2.  Built working prototype in 3D Slicer that meets the needs of both groups
+3.  Testing by remote team members
+4.  Identified a bug and testing fix
+5.  Plan to submit pull request by the end of the week
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+<img width="1920" alt="Translation of points 1" src="https://github.com/NA-MIC/ProjectWeek/blob/8e621994e02f65089ebd3a29b9da3ed307ff4925/PW39_2023_Montreal/Projects/TranslationRotationOfSelectPointsInAList/TranslatePoints1.png">
+<img width="1920" alt="Translation of points 2" src="https://github.com/NA-MIC/ProjectWeek/blob/8e621994e02f65089ebd3a29b9da3ed307ff4925/PW39_2023_Montreal/Projects/TranslationRotationOfSelectPointsInAList/TranslatePoints2.png">
 
-*No response*
+
 
 # Background and References
 

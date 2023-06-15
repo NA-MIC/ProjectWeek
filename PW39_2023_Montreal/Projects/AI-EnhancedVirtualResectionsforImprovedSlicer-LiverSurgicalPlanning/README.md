@@ -40,18 +40,18 @@ The primary aim of this project is to utilize artificial intelligence (AI) to en
 
 - Utilizing the [ABC dataset](https://deep-geometry.github.io/abc-dataset/) for training purposes.
 - Employing SPLINet and a multimodal deep learning network for parametric surface reconstruction on the ABC dataset.
-- Drawing inspiration from @Tamas to develop a Slicer module with PyTorch implementation of trained models.
+- Drawing inspiration from @ungi to develop a Slicer module with PyTorch implementation of trained models.
 
 ## Progress and Next Steps
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+- SPLINet has been trained using ABC data.
+- The user has the ability to modify the number of control points, which serves as a parameter.
+- The output predictions can be uploaded into Slicer as a GridSurface.
+- ToDO: Train and test the model on liver resection surfaces and develop a Slicer module with PyTorch implementation.
 
 # Illustrations
-
-![image_00042](https://github.com/NA-MIC/ProjectWeek/assets/75131750/9bbbb6d9-941b-4d50-ac70-922eb5136621)
-![image_00043](https://github.com/NA-MIC/ProjectWeek/assets/75131750/7dba10f9-a151-4b2a-bec5-3ff94071fe73)
+![image_00064](https://github.com/dalbenzioG/ProjectWeek/assets/75131750/4acb105b-5cc3-4002-960f-2fbe549f6208)
+![image_00060](https://github.com/dalbenzioG/ProjectWeek/assets/75131750/03d72a88-b9b5-404a-a866-c8f751f4f8f5)
 
 # Background and References
 [Saiti, E., and T. Theoharis. "Multimodal registration across 3D point clouds and CT-volumes." Computers & Graphics 106 (2022): 259-266.](https://www.sciencedirect.com/science/article/pii/S0097849322001121)

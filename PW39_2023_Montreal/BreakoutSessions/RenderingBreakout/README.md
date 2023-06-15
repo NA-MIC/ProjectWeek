@@ -14,7 +14,7 @@ key_investigators:
   Country: Canada
 
 - name: Steve Pieper
-  affiliation: Isomics inc.
+  affiliation: Isomics, Inc.
   country: USA
   
 - name: Murat Maga
@@ -30,17 +30,45 @@ key_investigators:
   country: USA
   
 - name: Jean-Christophe Fillion-Robin
-  affiliation: Kitware inc.
+  affiliation: Kitware, Inc.
   country: USA
   
 - name: Stephen Aylward
-  affiliation: Kitware inc.
+  affiliation: Kitware, Inc.
   country: USA
   
 - name: Rafael Palomar
   affiliation: NTNU
   country: Norway
- 
+
+- name: Sankhesh Jhaveri
+  affiliation: Kitware, Inc.
+  country: USA
+
+- name: Matt McCormick
+  affiliation: Kitware, Inc.
+  country: USA
+
+- name: Forrest Li
+  affiliation: Kitware, Inc.
+  country: USA
+
+- name: Lucas Gandel
+  affiliation: Kitware SAS
+  country: USA
+
+- name: Jaswant Panchumarti
+  affiliation: Kitware, Inc.
+  country: USA
+
+- name: Shreeraj Jadhav
+  affiliation: Kitware, Inc.
+  country: USA
+
+- name: Tom Birdsong
+  affiliation: Kitware, Inc.
+  country: USA
+
 ---
 
 # Description

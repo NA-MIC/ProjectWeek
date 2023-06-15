@@ -49,7 +49,7 @@ MARIN is a mobile application that can overlay virtual structures over the live 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-TODO
+Because MARIN and the OpenIGTLinkIF don't currently support the same video codecs (H264 only for MARIN vs VP9 only for OpenIGTLinkIF), most of this week's effort was focused on extending MARIN to support more codecs as well as support sending unencoded images. Further work could then be done on the Slicer side to enable more codecs as well. This would allow more flexibility and support for more devices. Unencoded frames will be limited in terms of resolution by the available bandwidth.
 
 # Illustrations
 

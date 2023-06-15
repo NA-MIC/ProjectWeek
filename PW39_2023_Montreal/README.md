@@ -5,6 +5,7 @@ redirect_from:
 - /PW39_2023_Montreal/Readme.html
 
 project_categories:
+- Early Presenter
 - VR/AR and Rendering
 - IGT and Training
 - Segmentation / Classification / Landmarking
@@ -46,10 +47,58 @@ Venue entrance on Google Maps: [https://goo.gl/maps/xNedgMBt4C6jwiCu5](https://g
 
 ## Breakout sessions
 1. [Future of rendering in VTK and Slicer](BreakoutSessions/RenderingBreakout/README.md)
+2. [AMP SCZ Program](BreakoutSessions/AMPSCZ/README.md)
+3. [Slicer Platform Update Slides](https://docs.google.com/presentation/d/19-N58wTRfXMUpoltqmnPsbTL9GYXm5m0LA5vQ6gkKVE/edit?usp=sharing)
+4. [IGT](BreakoutSessions/IGT/README.md)
 
-## Projects
+## Contributing Project Pages
 
-### Project Creation
+### Videos in project pages
+
+Here are some steps to make sure all of your awesome videos render correctly:
+
+1. Videos added by drag and drop will render correctly when viewed through GitHub, but need some extra tweaks to work in the final generated website.  In your `README.md`, if you have a video link that looks like this:
+    ````
+    https://github.com/NA-MIC/ProjectWeek/assets/66890913/8f257f29-fa9c-4319-8c49-4138003eba27
+    ````
+
+
+   Update it to:
+    ````
+    <video
+      controls muted
+      src="https://github.com/NA-MIC/ProjectWeek/assets/66890913/8f257f29-fa9c-4319-8c49-4138003eba27"
+      style="max-height:640px; min-height: 200px">
+    </video>
+
+    ````
+2. Links to externally hosted videos (such as YouTube) will need an iframe.  Replace:
+    ````
+    https://youtu.be/ZWxE5QcGvE8
+    ````
+
+    with
+
+    ````
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/ZWxE5QcGvE8">
+    </iframe>
+    ````
+
+
+
+### Updating existing project pages
+
+Here are the steps using the GitHub web interface:
+
+1. Navigate to your project's `README.md` on the GitHub website. For instance, if you want to update a project called **YourProjectName**, visit the URL <tt>https://github.com/NA-MIC/ProjectWeek/blob/master/PW39_2023_Montreal/Projects/<b>YourProjectName</b>/README.md</tt> .
+
+2. Click the edit button, as shown in this screenshot: ![Screenshot 2023-06-12 10 43 35](https://github.com/NA-MIC/ProjectWeek/assets/25040869/ab01a7bf-c1e4-4c23-9aca-e2c6421ca530)
+
+3. You can now edit the page, add images by dragging and dropping, and more.
+
+4. Once done, click "Commit Changes", and follow the instructions to create a fork and a pull request to add your changes to the webpage. See this screenshot for reference: ![Screenshot 2023-06-12 10 50 50](https://github.com/NA-MIC/ProjectWeek/assets/25040869/180e81bb-d4f9-4f65-8569-a93192b2828e)
+
+### Creating new project pages
 
 With the [Project Week GitHub Issue page](https://github.com/NA-MIC/ProjectWeek/issues/new/choose), you have three options to create your Project Page:
 
@@ -62,13 +111,20 @@ With the [Project Week GitHub Issue page](https://github.com/NA-MIC/ProjectWeek/
 ### Project Creation Tips
 
 - Get your project pages created early!  The day before is best to make sure everything you need for you presentation is available.  The ProjectWeek site will be closed to edits for the ***10 minutes before*** both the opening and closing presentation session to ensure site generation. After this 10 minute period edits will be re-enabled.
+
 - If you are [creating the project page yourself using the template](Projects/README.md), **don't reuse a project page template from a previous year.**  We have made significant updates to the template to support auto-generation of project pages, so previous years' templates will not function properly.
     - When naming the file, **please ensure there are no spaces/special characters in the folder or file name**
     - Make sure to fill out / update all of the information at the top of the README file (title, category, location, etc)
+
 - Remember to fill out the title for your project when using the [project creation issue](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=drouin-simon%2Cpiiq%2Crafaelpalomar%2Csjh26%2Ctkapur&labels=project%2Cevent%3APW39_2023_Montreal&projects=&template=project.yml&title=Project%3A+)
+
 - Check the formatting on the Key Investigators list when creating a [project issue](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=drouin-simon%2Cpiiq%2Crafaelpalomar%2Csjh26%2Ctkapur&labels=project%2Cevent%3APW39_2023_Montreal&projects=&template=project.yml&title=Project%3A+) (this is critical for page generation):
 
      `- Firstname Lastname (Affiliation, Country)`
+
+## Projects
+
+To learn how to create or update project pages, please refer to the [contributing project pages](#contributing-project-pages) section.
 
 {% include projects.md %}
 
@@ -219,6 +275,22 @@ List of registered participants so far (names will be added here after processin
 1. Davi Romao , Hospital Sirio-Libanes , Brazil, (Online)
 1. Andres Diaz-Pinto, NVIDIA, UK, (Online)
 1. David García Mato, Ebatinca S.L., Spain, (Online)
+1. Laura Connolly, Queen's University, Canada, (Online)
+1. Shadi nouri, Private, Iran, (Online)
+1. Alireza Sedghi, OHIF, Canada, (Online)
+1. DANIELA SOFÍA  PEDROZO ROCA, INBIO - UNSJ, Argentina, (Online)
+1. Mario Mata, Autonomous University of Juarez , Mexico, (Online)
+1. Maximilian Fischer, German Cancer Research Center, Germany, (Online)
+1. Jaswant Panchumarti, Kitware, USA, (Online)
+1. Lucas Gandel, Kitware, France, (Online)
+1. Orphée, McGill , Canada, (Online)
+1. Thomas K Noh, University of Hawaii, USA, (Online)
+1. Boubacar FATY, Ecole Superieure polytechnique, Senegal, (Online)
+1. Geir Arne Tangen, SINTEF, Norway, (Online)
+1. Nayra Pumar Carreras, EBATINCA, Spain, (Online)
+1. Shreeraj Jadhav, Kitware Inc, USA, (Online)
+1. Joe Boccanfuso, Radical Imaging, Canada, (Online)
+1. Leonardo Campos, PUC-MG, Brazil, (Online)
 
 <!-- Participants list end -->
 

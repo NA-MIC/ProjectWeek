@@ -19,6 +19,10 @@ key_investigators:
   affiliation: Georgetown University
   country: USA
 
+- name: Andrey Fedorov
+  affiliation: Brigham and Women's Hospital
+  country: USA
+
 ---
 
 # Project Description
@@ -50,7 +54,11 @@ The major improvements we'd like to address with TCIA Browser include:
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  Identified the code that used the old API and updated them to use the new API.
+2.  Added and removed some columns/metadata fields within the browser widget.
+3.  Set the default cache option to off.
+4.  Next Step: Implement the login function; Update the new API further to use the tcia_utils modules directly; Implement the manifest file download function.
+*For anyone interested, this is the link to the PR: https://github.com/QIICR/TCIABrowser/pull/46*
 
 # Illustrations
 

@@ -15,7 +15,7 @@ key_investigators:
   country: Germany
 
 - name: Steve Pieper
-  affiliation: Isomics
+  affiliation: Isomics, Inc.
   country: USA
   
 - name: Andras Lasso
@@ -25,13 +25,11 @@ key_investigators:
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
 This is a follow-up to previous 3D Slicer lung CT segmentation PW projects. 
 
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 To improve the LungCTAnalysis extension analysis in 3D Slicer, 
 
 which is frequently used (40 runs per day) 
@@ -43,79 +41,59 @@ which is frequently used (40 runs per day)
 
 the following steps could be taken:
 
-1. Improve **vessel segmentation**:
-   - Explore advanced image processing techniques, such as machine learning algorithms, to enhance the accuracy of vessel segmentation.
-   - Incorporate vessel enhancement filters and vesselness measures to improve the detection and segmentation of pulmonary vessels.
-   - Investigate the use of multi-modal imaging, such as combining CT angiography and conventional CT scans, to improve vessel segmentation accuracy.
+1. Improve **vessel segmentation**
 
-2. Develop a better concept for lung **segment (sublobar) segmentation** in 3D Slicer:
-   - Review the existing lung segmentation algorithms and identify areas for improvement.
-   - Consider incorporating anatomical landmarks, such as fissures and vessel patterns, to refine the segmentation of lung sublobes.
-   - Utilize machine learning techniques, such as deep learning algorithms, to automatically segment lung sublobes based on training data.
+2. Develop a better concept for lung **segment (sublobar) segmentation** in 3D Slicer
 
-3. **Identify tumors** belonging to segments and consider safety margins:
-   - Implement tumor detection algorithms that can identify and segment lung tumors within specific lung segments.
-   - Incorporate safety margin calculations to ensure adequate coverage of tumors during segmentation.
-   - Provide visual cues or annotations to clearly indicate tumor locations and **safety margins** in the 3D Slicer interface.
+3. **Identify tumors** belonging to segments and consider safety margins
 
-4. Suggest resection of segments which include nutritive vessel resection for **neighboring tumors**:
-   - Develop algorithms that can analyze the relationships between lung segments and neighboring tumors to determine if resection of the nutritive vessels is necessary.
-   - Provide automated suggestions for resection of segments that require removal due to the radicality of neighboring tumor resections.
-   - Ensure clear visualization and communication of these suggestions to the medical professionals using 3D Slicer.
+4. Suggest resection of segments which include nutritive vessel resection for **neighboring tumors**
 
-5. **Differentiate pulmonary arteries and veins** reliably:
-   - Investigate advanced image analysis techniques (VMTK?), such as texture analysis and flow analysis, to differentiate pulmonary arteries and veins with higher reliability.
-   - Explore the use of contrast-enhanced imaging techniques or dual-energy CT to improve the differentiation of arteries and veins.
-   - Validate the accuracy and reliability of the differentiation algorithms through comprehensive evaluation and comparison with ground truth data.
-
-6. Work on current **OpenSourceCOVID publication**:
-   - Collaborate with domain experts to finalize the research findings and results.
-   - Prepare the manuscript for publication, ensuring clear and concise communication of the developed techniques, methodologies, and results.
-   - Conduct a thorough review of the existing literature to ensure the publication adds novel contributions and addresses any gaps in the field.
-   - Seek feedback from colleagues and experts in the field to improve the manuscript before submission.
-   - Consider presenting the research findings at relevant conferences or workshops to share knowledge and gather feedback from the scientific community.
-
+5. **Differentiate pulmonary arteries and veins** reliably
+  
+6. Work on current **OpenSourceCOVID publication**
+  
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+Work on a dedicated Angio-CT. 
 
-The development of the extension has slowed down due to the lack of ideas how to handle vessel and subsegmental structure segmentation that would be crucial for surgical planning. 
-To many it seems that the main limitation of the computational method it is highly sensitive to the chosen **threshold values**. This is indicated that just the small variance between well calibrated clinical CTs could cause measurable differences in the end result in about 20-30% of the cases. Probably the root cause of the problem is that thresholding with a hard value makes the classification very sensitive to the chosen threshold value. Andras Lasso suggested to reduce this sensitivity by using soft classifiers.
-
-### GPT-4 reponse: 
-
-
-It's correct that one of the limitations of thresholding methods in image processing is their sensitivity to the choice of threshold values. This is particularly problematic in medical imaging, where subtle variations in pixel values can make significant differences in diagnosis and treatment planning. 
-
-The issue with hard thresholding is that it treats every pixel above a certain value the same way, without considering the context or the distribution of values in the image. A pixel just above the threshold is treated the same as a pixel far above the threshold, which can lead to inaccuracies.
-
-Using a soft classifier, as you suggest, could be a good way to reduce this sensitivity. Soft classifiers do not make absolute decisions like hard classifiers. Instead, they provide a degree of membership, allowing a more flexible classification.
-
-For example, in fuzzy logic-based image processing, pixels can belong to multiple classes with varying degrees of membership. This is more in line with how a human expert might interpret a CT scan, recognizing that some areas may not clearly belong to just one category.
-
-A popular soft classifier is the Fuzzy C-Means (FCM) clustering algorithm, which can be used to segment an image into different classes, each representing a different tissue type. FCM is a method of clustering which allows one piece of data to belong to two or more clusters with a certain degree of membership. In the case of Lung CT images, it can be used to classify normally ventilated, infiltrated, and collapsed lung parenchyma as well as areas of emphysema.
-
-Another approach might be to use machine learning methods, such as convolutional neural networks (CNNs). These algorithms can learn to classify images based on a training set of labeled examples, potentially providing a more nuanced and accurate classification. They can also learn to incorporate spatial information, considering the context of each pixel in making the classification.
-
-Remember, these techniques may not be straightforward to implement and would require sufficient domain knowledge in image processing and machine learning. It's also worth mentioning that the accuracy of soft classifiers greatly depends on the quality and representativeness of the training data. The algorithm's performance should be rigorously evaluated using a validation dataset before clinical deployment.
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+We analyzed the usage statistics of Lung CT Analyzer and decided to keep the mechanism. 
 
+Lung CT Segmenter
+
+The most expedient way to obtain a precise surgical planning result at the moment involves the use of combined airway segmentation and vessel volume rendering, utilizing the centerblock technique. This method requires minimal manual intervention. We have chosen to enhance the division of vascular structures within the vessel mask by eliminating the hilar structures, where there's a prominent overlay of vessels. Subsequently, we employ a 'grow-from-seeds' analysis which promises improved accuracy. The VMTK centerline analysis, however, appears to be a less preferable option. This is largely due to its lack of efficiency in differentiating between pulmonary arteries and vessels.
+
+Lung CT Analyzer 
+
+The primary constraint of the computational method appears to be its sensitivity to the selected threshold values. Even minor variances in well-calibrated clinical CTs can lead to appreciable differences in the final outcome, affecting about 20-30% of cases. The likely source of this issue is the use of rigid threshold values, which inherently makes the classification highly responsive to the specific threshold set. Andras Lasso has proposed mitigating this sensitivity through the application of soft classifiers. We intend to follow this approach, potentially augmenting it with AI pattern detection.
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/a5b9aa50-3f4f-4a70-9edb-d90346a918c2)
+
+Fig 1: Pulmonary vesselmask
+
+![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/8760d090-c003-4a67-a0be-bba3c17fc677)
+
+Fig 2: Combined airway segmentation and vessel volume rendering, centerblock technique
+
+![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/c8e5f155-5c03-4b94-9983-0fb6850ae7a1)
+
+Fig 3: Centerline analysis with VMTK
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
+Lung CT Analyzer
+
+https://github.com/rbumm/SlicerLungCTAnalyzer
+
+From Voxels to Prognosis: AI-Driven Quantitative Chest CT Analysis Forecasts ICU Requirements in 78 COVID-19 Cases (preprint) 
+
+https://doi.org/10.21203/rs.3.rs-3027617/v3
+
 
 
 

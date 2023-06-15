@@ -25,29 +25,37 @@ key_investigators:
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
 NVIDIA AI assisted annotation (AIAA) is no longer actively mainatined and MONAI bundle has been established to load a wide selection of pretrained models for radiology and pathology. 
 
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-Our objective is to provide a detailed step by step description on how to use MONAI bundle for this task. 
+Our objective is to provide a detailed step by step description on how to use MONAI bundle for this task.
 
-Firstly, begin by uninstalling the existing MONAILabel and Monai installations. This was accomplished by running the following commands in the terminal:
+## Step by Step Description
+
+Setting up an AWS EC2 Windows server in the cloud: 
+The detailed process [is described here](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/).
+
+Install MONAILabel
+
+Do a “cd $home”, to the place where the  MONAILabel folder will be created. 
+
+Firstly, begin by uninstalling the existing MONAILabel and Monai installations, because as of 6/2023 we need a special MONAI version to make this word. 
+This is accomplished by running the following commands in the terminal:
 
     pip uninstall monailabel
     pip uninstall monai
 
-Subsequently, I adhered to our outlined procedures for setting up MONAILabel from scratch. For those who need to refer to [these instructions](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/MONAILabelLung/MONAILabel_Installation.html), they can be found on our Project Week webpage 1.
+Then, follow to our outlined procedures for setting up MONAILabel from scratch. 
+Please refer to [these instructions](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/MONAILabelLung/MONAILabel_Installation.html), they can be found on our Project Week webpage 1.
 
-Then follow these guidelines until reaching the command to set the MONAILabel script paths:
+Follow these guidelines until reaching the command to set the MONAILabel script paths:
 
     $Env:PATH += ";C:\Users\yourname\MONAILabel\monailabel\scripts"
 
-
-After setting the paths, the next step was to installed Monai as recommended above:
+After setting the paths, the next step is to installed Monai in a special version (this may change in future and will be adopted):
 
     pip install monai==1.2.0rc6
 
@@ -57,9 +65,11 @@ After a “cd $home”, where the  MONAILabel folder is located, the start_serve
 
 After this command, the correct and requested model is automatically loaded from the [Monai Model Zoo](https://monai.io/model-zoo.html), which is a highly commendable feature.
 
-Then proceeded to test the setup with the 3D Slicer and the MONAILabel extension using the CT Chest dataset. It is great to see that the AI successfully detects some nodules!
+Then proceeded to test the setup with the 3D Slicer and the MONAILabel extension using the CT Chest dataset. 
 
-Sidenote: The process was implemented on an AWS EC2 Windows server instance with an A10G GPU (23 GB dedicated video RAM).
+It is great to see that the AI successfully detects some nodules!
+
+Sidenote: The process was implemented on an AWS EC2 Windows server instance with an A10G GPU (24 GB dedicated video RAM).
 
 
 ## Approach and Plan
@@ -74,7 +84,19 @@ The IP address of the MONAILabel server is http://52.209.177.211:8000/. During t
 
 ## Progress and Next Steps
 
-     
+We held three workshpos during the conference with good success. In each of the workshops we were able to 
+
+- reliably connect to the AWS server instance
+- start MONAILabel
+- use the monaibundle app
+- load one of the two demonstrated models
+- start 3D Slicer on the server
+- perform inference with the preconfigured model
+- demonstrate label adjustments
+- submit labels
+- work from remote on the AWS server instance
+- answer first-timer questions
+ 
 Here is a list of the bundles from the [MONAI Model Zoo page](https://monai.io/model-zoo.html) as of 5/23:
 
 **Clara train COVID19 3D classification**: A pre-trained model for 3D COVID-19 classification using CT images【1†source】
@@ -138,23 +160,12 @@ Here is a list of the bundles from the [MONAI Model Zoo page](https://monai.io/m
 **Wholebody CT Segmentation:** A pre-trained SegResNet model for volumetric (3D) segmentation of the 104 whole body segments【75†source】.
 
 
-
-
-
 # Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/cdc7d159-2670-433a-945e-4c7000c21f80)
 
 
 # Background and References
-
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
      
      https://docs.monai.io/en/stable/bundle_intro.html
      https://monai.io/model-zoo.html

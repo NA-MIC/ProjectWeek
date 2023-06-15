@@ -50,12 +50,12 @@ Features to support multiple volume comparisons:
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1.  Created a Python function to link/unlink relative views.
+2.  Developed prototype for module to manage temporarily linked views: ViewSync
+3.  Testing use of ViewSync
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-*No response*
+<img width="1920" alt="Translation of points 1" src="https://github.com/NA-MIC/ProjectWeek/blob/e166895a49f8ba30b9469473155e820743ddaf70/PW39_2023_Montreal/Projects/RenderingSupportForMultipleViews/viewSync.png">
 
 # Background and References
 

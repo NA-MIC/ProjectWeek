@@ -9,7 +9,7 @@ presenter_location: In-person
 
 key_investigators:
 - name: Sam Horvath
-  affiliation: Kitware
+  affiliation: Kitware, Inc.
   country: USA
 
 - name: Colton Barr
@@ -25,7 +25,7 @@ key_investigators:
   country: USA
   
 - name: Steve Pieper
-  affiliation: Isomics
+  affiliation: Isomics, Inc.
   country: USA
   
 - name: Tina Kapur
@@ -71,9 +71,16 @@ Major tasks to work on:
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Reworked the registration landmark support.
+    1. Support any sufficient subset of the complete landmark list
+    2. Registration picking provides better control of order of landmark collection
+    3. Improved color consistency across landmark usage
+2. Made patient interface styling consistent with rest of application
+3. Demo'd recent changes to the rest of the NousNav team
+4. Discussed with other IGT devs the best way to reuse NousNav effort in other projects
+    1. Slicer NavigationAppTemplate: core functionality of the NousNav workflow made available as a reusable template similar to SlicerCAT
+5. Will tag the 1.0 release at the end of this week.
+
 
 # Illustrations
 
@@ -81,8 +88,12 @@ Major tasks to work on:
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![Screenshot 2023-06-13 15 29 24](https://github.com/NA-MIC/ProjectWeek/assets/25040869/cea0c2c0-0f83-4af3-afc6-a2b858ba886a)
+![Screenshot 2023-06-13 17 11 09](https://github.com/NA-MIC/ProjectWeek/assets/25040869/7da490fe-f790-49b7-b2b9-1b475f3ec0ea)
+
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
+[NousNav website](https://www.nousnav.org/)

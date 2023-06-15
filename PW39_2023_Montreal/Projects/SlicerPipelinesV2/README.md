@@ -10,7 +10,7 @@ presenter_location: Online
 key_investigators:
 
 - name: Harald Scheirich
-  affiliation: Kitware
+  affiliation: Kitware, Inc.
   country: United States
 
 ---
@@ -42,8 +42,10 @@ Slicer Pipelines is a framework to support the creation of workflows (Pipelines)
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Refactoring has been done, basic CaseIterator runs with test pipelin
+1.  Refactoring has been done, basic CaseIterator runs with test pipeline
 2.  CSV files can be read to drive input parameters
+3.  Name and store nodes for pipelines that produce multiple nodes
+4.  Write `results.csv` with scalar ouput values and result node paths
 
 # Illustrations
 
@@ -56,6 +58,6 @@ Slicer Pipelines is a framework to support the creation of workflows (Pipelines)
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-Slicer Pipelines Module Repository: <https://github.com/KitwareMedical/SlicerPipelines>
-Project Week 36: <https://projectweek.na-mic.org/PW36_2022_Virtual/Projects/SlicerPipelines/>
-Project Week 38: <https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerPipelines/>
+- Slicer Pipelines Module Repository: <https://github.com/KitwareMedical/SlicerPipelines>
+- Project Week 36: <https://projectweek.na-mic.org/PW36_2022_Virtual/Projects/SlicerPipelines/>
+- Project Week 38: <https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerPipelines/>

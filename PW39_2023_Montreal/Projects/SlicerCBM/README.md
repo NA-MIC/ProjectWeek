@@ -46,9 +46,13 @@ SlicerCBM is an extension for 3D Slicer that provides tools for creating and sol
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Completed the [SlicerFreeSurferCommands](https://projectweek.na-mic.org/PW39_2023_Montreal/Projects/SlicerFreeSurferCommands/) project, which provides modules that are used in the SlicerCBM workflow.
+
+2. Discussed opportunities for integrating [SlicerCBM](https://slicercbm.org) with [NousNav](https://www.nousnav.org) for image-guided surgery simulations (both as a research tool and for potential clinical applications).
+
+3. Solved the EEG forward problem on the SPL brain atlas mesh created using the [SlicerAtlasEditor](https://github.com/andy9t7/SlicerAtlasEditor) from the [Open Meshed Anatomy](https://projectweek.na-mic.org/PW39_2023_Montreal/Projects/OpenMeshedAnatomy/) project.
+
+4. We will continue working on SlicerCBM next week at PerkLab (Queen's University).
 
 # Illustrations
 
@@ -60,7 +64,7 @@ SlicerCBM is an extension for 3D Slicer that provides tools for creating and sol
 Flowchart of the patient-specific solution of the iEEG forward problem in deforming brain. Brain shift caused by implantation of electrodes is computed using the biomechanical model. The computed displacement field is used to transform the DTI to the postoperative configuration. This warped DTI is then used as the basis for creating the iEEG forward model.
 ![fig_flowchart-eeg](https://github.com/NA-MIC/ProjectWeek/assets/33216696/ef320477-0540-460f-8412-122977ef2641)
 
-Original (actual preoperative) and deformed (predicted postoperative) MR images compared with original CT image and electrode positions. Postoperative CT image and electrode positions (white spheres in CT and red points in the slice planes) are overlayed on the (a,b,c) MRI acquired preoperatively and (d,e,f) MRI registered to postoperative configuration of the brain obtained using biomechanics-based image warping.
+Original (actual preoperative) and deformed (predicted postoperative) MR images compared with original CT image and electrode positions. Postoperative CT image and electrode positions (white spheres in CT and red points in the slice planes) are overlaid on the (a,b,c) MRI acquired preoperatively and (d,e,f) MRI registered to postoperative configuration of the brain obtained using biomechanics-based image warping.
 ![fig_mri_ct_elec_unwarped_and_warped](https://github.com/NA-MIC/ProjectWeek/assets/33216696/b860a491-94a2-4c1b-8a8a-c1e3d1bfb42d)
 
 Tissue label maps based on (a,b,c) original preoperative and (d,e,f) deformed by insertion of electrodes postoperative image data. Tissue classes are colored as follows: scalp (pink); skull (yellow); GM (gray); WM (white); and CSF (blue). The location of the electrode grid array can be identified by the line of black voxels in the vicinity of the right temporal and parietal lobes.

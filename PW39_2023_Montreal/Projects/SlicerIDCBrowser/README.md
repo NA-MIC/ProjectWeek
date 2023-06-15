@@ -15,6 +15,14 @@ key_investigators:
   affiliation: Brigham and Women's Hospital
   country: USA
 
+- name: Andras Lasso
+  affiliation: Queen's University
+  country: Canada
+  
+- name: Bill Clifford
+  affiliation: Institute for Systems Biology
+  country: USA
+  
 ---
 
 # Project Description
@@ -42,16 +50,14 @@ user interface within the Slicer platform to allow browsing and download of imag
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1.  Describe specific steps you **have actually done**.
+1.  Developed initial version of the module: [https://github.com/fedorov/SlicerIDCBrowser](https://github.com/fedorov/SlicerIDCBrowser). Tested on mac with pre-installed s5cmd. Confirmed working functionality to browse collection/patient/study/series and download individual series.
+2.  Identified limitations of the [IDC API](https://learn.canceridc.dev/api/getting-started): insufficient documentation, missing features to retrieve necessary attributes at various levels of hierarchy (resulting in blank values for the content of the navigation table). Work on the refined API is underway.
+3.  Since IDC API is using BigQuery, there is noticeable latency during interaction when compared with TCIA API. Download of the images is perhaps faster.
+4.  Next steps: refine API and update UI once done, automate deployment of s5cmd, revisit the need for cache, refine UI, publish extension.
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-*No response*
+![idcbrowser_pw39_small](https://github.com/NA-MIC/ProjectWeek/assets/313942/642dc4dc-c51d-40dd-8f44-60e89dde0ad3)
 
 # Background and References
 
@@ -61,3 +67,4 @@ user interface within the Slicer platform to allow browsing and download of imag
 * [NCI Imaging Data Commons](https://portal.imaging.datacommons.cancer.gov/)
 * [IDC data download instructions](https://learn.canceridc.dev/data/downloading-data)
 * [SlicerTCIABrowser](https://github.com/QIICR/TCIABrowser)
+* installation of system-specific libraries from Slicer module - need to do something like this for s5cmd: [https://github.com/Slicer/Slicer/blob/main/Modules/Scripted/ScreenCapture/ScreenCapture.py#L873](https://github.com/Slicer/Slicer/blob/main/Modules/Scripted/ScreenCapture/ScreenCapture.py#L873)

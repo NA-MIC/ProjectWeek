@@ -50,13 +50,18 @@ PRISM has a significant amount of unused and/or legacy code that was made for ve
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  TBD
+1.  The scale of the gradients calculated on the volume has been properly adjusted.
+2.  This gradient computation was necessary to make Edge Enhancement work.
+3.  Minor refactoring of the code.
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-![image](https://github.com/NA-MIC/ProjectWeek/assets/22062174/7a46c984-b741-45a6-b0db-6defed0c0531)
+![image](https://github.com/NA-MIC/ProjectWeek/assets/22062174/eef32864-83d5-4da8-a447-1d5b4f4b29f1)
+![image](https://github.com/NA-MIC/ProjectWeek/assets/22062174/613897ec-e2a3-4345-b03e-423d64a0fe39)
+![image](https://github.com/NA-MIC/ProjectWeek/assets/22062174/28a4c483-b9cd-467c-a182-33b87b1086d9)
+
 
 # Background and References
 

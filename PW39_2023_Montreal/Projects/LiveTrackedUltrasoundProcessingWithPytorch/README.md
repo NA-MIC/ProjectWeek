@@ -14,6 +14,9 @@ key_investigators:
 - name: Tamas Ungi
   affiliation: Queen's University
   
+- name: Rebecca Hisey
+  affiliation: Queen's University
+  
 - name: Róbert Szabó
   affiliation: Queen's University / Óbuda University
 
@@ -54,7 +57,9 @@ The goal for this project week is to provide a new open-source implementation us
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1. Model training and testing is implemented in this repository: <https://github.com/SlicerIGT/aigt/tree/master/UltrasoundSegmentation>
+2. Successfully used RunNeuralNet from DeepLearnLive to run a trained PyTorch segmentation model on live ultrasound data. OpenIGTLink data transfer is a good way to run AI models in parallel with Slicer. https://github.com/SlicerIGT/aigt/tree/master/DeepLearnLive/RunNeuralNet
+3. Need to do precise performance estimation to see the limit of frame rate we can handle from an ultrasound scanner. Also need to explore the effect of AI model size on accuracy and performance.
 
 # Illustrations
 

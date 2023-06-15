@@ -61,6 +61,11 @@ Automated B-line detection in lung ultrasound videos has been demonstrated befor
 2.  Uploaded 3000+ clips with standard filename format to a GPU cluster.
 3.  Crowd-labeled all 3000+ lung ultrasound clips using 193 clips from \~70 patients for crowd training.
 
+*** PW39 progress ***
+1. Lots of helpful discussions about model selection and handling varying input size
+2. Tried two different existing CNN + RNN solutions, but thwarted by hardware/environment setup/version compatibility issues.
+3. First time seeing functionality of 3D Slicer in greater depth, and was able to demo DiagnosUs annotation collection platform to some folks.
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->

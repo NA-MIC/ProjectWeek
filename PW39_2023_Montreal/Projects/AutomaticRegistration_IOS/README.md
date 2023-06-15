@@ -85,9 +85,13 @@ The actual code is on this [repository](https://github.com/HUTIN1/ALIDDM/tree/re
 
 
 ## Progress and Next Steps
+### Progress 
 1. Method and script working
-2. Implement the script in [Areg](https://github.com/lucanchling/AREG)
-3. Deploy Areg in [SlicerAutomatedDentalTools](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools) to be available to all users
+2. User Interface
+
+### Next Steps
+1. Implement the method in [Areg](https://github.com/lucanchling/AREG)
+2. Deploy Areg in [SlicerAutomatedDentalTools](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools) to be available to all users
 
 # Illustrations
 

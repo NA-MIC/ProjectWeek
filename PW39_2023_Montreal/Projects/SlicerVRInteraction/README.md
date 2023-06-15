@@ -8,17 +8,21 @@ redirect_from:
 
 project_title: SlicerVR - Restore Interactions
 category: VR/AR and Rendering
-presenter_location: In-person
+presenter_location: Remote
 
 key_investigators:
-- name: Simon Drouin
-  affiliation: ÉTS Montréal
-  country: Canada
-  
 - name: Csaba Pintér
   affiliation: EBATINCA
   country: Spain
 
+- name: Simon Drouin
+  affiliation: ÉTS Montréal
+  country: Canada
+  
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware, Inc.
+  country: USA
+  
 - name: Andrey Titov
   affiliation: ÉTS Montréal
   country: Canada
@@ -30,6 +34,10 @@ key_investigators:
 - name: Lea Vong
   affiliation: ÉTS Montréal
   country: Canada
+
+- name: Lucas Gandel
+  affiliation: Kitware, Inc.
+  country: France
 ---
 
 # Project Description
@@ -63,7 +71,10 @@ In PW 37, basic interaction has been fixed.
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-![Class diagram SlicerVR vs VTK](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerVRInteractions/slicer-vr-class-diagram-2.png)
+1. Fixed 3D pinch interaction in commit [SlicerVirtualReality@49f1896d6](https://github.com/KitwareMedical/SlicerVirtualReality/commit/49f1896d652c6b27051cd41e8244b52cd28c2dab)
+2. Rebased the GUI widgets branch into a [new branch](https://github.com/cpinter/SlicerVirtualReality/tree/gui-widget-20230612)
+3. Fixed lookup of `vtk_openvr_actions.json` and `vtk_openvr_binding_*.json` files for both build and install tree. See commit [SlicerVirtualReality@a4d465b73](https://github.com/KitwareMedical/SlicerVirtualReality/commit/a4d465b7321a6cdd2e0c3aa85eb04899be471b17) integrated through [PR-117](https://github.com/KitwareMedical/SlicerVirtualReality/pull/117)
+4. Make in-VR GUI widget work (with many workarounds and limitations)
 
 # Illustrations
 
@@ -72,9 +83,35 @@ In PW 37, basic interaction has been fixed.
 ![Some more images](Example2.jpg)
 -->
 
+
+Laser pointer interactions with widget existing in Slicer:
+
+<video
+  controls muted
+  src="https://github.com/NA-MIC/ProjectWeek/assets/1325980/a6fc0061-e40e-43e3-92a0-b31badb14c43"
+  style="max-height:640px; min-height: 200px">
+</video>
+
+Laser pointer interactions with custom widget:
+
+<video
+  controls muted
+  src="https://github.com/NA-MIC/ProjectWeek/assets/1325980/7c457f93-2b80-4806-9cb5-e58acc393aa4"
+  style="max-height:640px; min-height: 200px">
+</video>
+
+
+(in case the MP4s are not playing)
+
+![Laser pointer interactions with custom widget](https://github.com/NA-MIC/ProjectWeek/assets/1325980/d84c3b6c-c243-4778-b6c6-1e20e3093e6c)
+
+[![Laser pointer interactions with widget existing in Slicer](https://i9.ytimg.com/vi_webp/xAfa9exJSTg/mq2.webp?sqp=CPiRrKQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEsgSyhlMA8=&rs=AOn4CLC9UYx6bQ1BdrNTw1TdXOUXHAxFDw)](https://youtu.be/xAfa9exJSTg)
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
+
+![Class diagram SlicerVR vs VTK](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerVRInteractions/slicer-vr-class-diagram-2.png)
 
 Past project week pages
 * [Project week #38 page](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerVRInteractions/)

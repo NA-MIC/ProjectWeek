@@ -16,6 +16,14 @@ key_investigators:
 - name: Simon Drouin
   affiliation: 'École de Technologie Supérieure '
   country: Montreal , Canada
+  
+- name: Jose Carlos Mateo Pérez
+  affiliation: 'Universidad de Las Palmas de Gran Canaria'
+  country: Gran Canaria , Spain
+  
+- name: Pablo Sergio Castellano Rodríguez
+  affiliation: 'Universidad de Las Palmas de Gran Canaria'
+  country: Gran Canaria , Spain
 
 ---
 
@@ -23,9 +31,9 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-Microsoft HoloLens 2 has demonstrated to be an excellent device in many clinical applications. They are mainly used to display 3D patient-related virtual information overlayed to the real world. However, its processing capacity is quite limited, so developing complex applications that require medical image processing is quite convoluted.
+Microsoft HoloLens 2 has demonstrated to be an excellent device in many clinical applications. They are mainly used to display 3D patient-related virtual information overlaid to the real world. However, its processing capacity is quite limited, so developing complex applications that require medical image processing is quite convoluted.
 
-A good solution could be to perform the difficult computations on a speciallized software on a computer (i.e. 3D Slicer) and send them in real time to HoloLens 2 so that it can focus solely on visualization.
+A good solution could be to perform the difficult computations on a specialized software on a computer (i.e. 3D Slicer) and send them in real time to HoloLens 2 so that it can focus solely on visualization.
 Up to date, there has been a lack of software infrastructure to connect 3D Slicer to any augmented reality (AR) device.
 
 During the last year, [Universidad Carlos III de Madrid](https://biig-igt.uc3m.es/augmented-reality/) (Madrid, Spain) and Perk Lab in Queen's University have worked together to develop a novel connection approach between Microsoft HoloLens 2 and 3D Slicer using OpenIGTLink.
@@ -88,3 +96,30 @@ Transfer of geometrical transforms from HoloLens 2 to 3D Slicer:
 Transfer of images from 3D Slicer to HoloLens 2:
 
 ![MovingCT_GIF](https://user-images.githubusercontent.com/66890913/214097469-17a1aa1a-2768-4f73-8c12-bb4ab7d393f0.gif)
+
+
+# Results
+It worked!
+
+<video
+  controls muted
+  src="https://github.com/NA-MIC/ProjectWeek/assets/66890913/8f257f29-fa9c-4319-8c49-4138003eba27"
+  style="max-height:640px; min-height: 200px">
+</video>
+
+<video
+  controls muted
+  src="https://github.com/NA-MIC/ProjectWeek/assets/66890913/c0fa7cd4-eadc-4721-bb1d-b78695e5ead6"
+  style="max-height:640px; min-height: 200px">
+  </video>
+
+
+
+
+
+
+
+
+
+
+

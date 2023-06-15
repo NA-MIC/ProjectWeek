@@ -9,7 +9,7 @@ presenter_location: In-person
 
 key_investigators:
 - name: Sam Horvath
-  affiliation: Kitware
+  affiliation: Kitware, Inc.
   country: USA
 
 
@@ -46,10 +46,9 @@ This project is aimed on publishing the qt-material interface as an extension an
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Fixed up qt-material installation issues
+1. Submitted [PR](https://github.com/Slicer/ExtensionsIndex/pull/1947) for adding to extension index
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
 
 # Illustrations
 
@@ -58,7 +57,11 @@ This project is aimed on publishing the qt-material interface as an extension an
 ![Some more images](Example2.jpg)
 -->
 
+![Screenshot1](https://github.com/NA-MIC/ProjectWeek/assets/25040869/58bb575b-aad1-4cb3-a385-2f3e051ce4ef)
+
 # Background and References
+
+[SlicerThemes Repository](https://github.com/sjh26/SlicerThemes)
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
