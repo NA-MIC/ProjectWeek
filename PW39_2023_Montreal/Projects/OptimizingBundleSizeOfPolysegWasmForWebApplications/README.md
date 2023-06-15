@@ -14,25 +14,27 @@ key_investigators:
   affiliation: OHIF
   country: Canada
 
+- name: Kyle Sunderland
+  affiliation: Queen's University
+  coutnry: Canada
+
 - name: Jaswant Panchumarti
   affiliation: Kitware, Inc.
   country: USA
+
 
 ---
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
-
 The Institute of Cancer Research (ICR) has created PolySeg-WASM is an extended WASM wrapper for the [PerkLab/PolySeg](https://github.com/PerkLab/PolySeg) library, including C++ code repurposed from [Slicer](https://github.com/Slicer/Slicer) and [SlicerRT](https://github.com/SlicerRt/SlicerRT).
 
 In the [previous year project](https://github.com/NA-MIC/ProjectWeek/blob/master/PW38_2023_GranCanaria/Projects/OHIF_PolySeg/README.md) we created the contour segmentation representation for [Cornerstone3D library](https://www.cornerstonejs.org/live-examples/contourrendering), now this year we want to use the polySEG to convert the contours to closed surfaces.
 
-The repo by ICR does the job However, the bundle is huge (3MB) which is not optimal for the web applications. This project aims to find out how to reduce the bundle size by choosing the VTK dependencies.
+The repo by ICR does the job However, the bundle is huge (3.6MB) which is not optimal for the web applications. This project aims to find out how to reduce the bundle size by choosing the VTK dependencies.
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1.  **Analyze VTK dependencies**: dentify the specific VTK components used in the PolySeg-WASM library that contribute the most to the bundle size in order to determine areas for potential optimization.
 2.  **Optimize VTK bundle size**: Reduce the bundle size of PolySeg-WASM by selectively choosing essential VTK dependencies, excluding or replacing components with lightweight alternatives, while maintaining the required functionality.
@@ -40,7 +42,6 @@ The repo by ICR does the job However, the bundle is huge (3MB) which is not opti
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1.  Perform a detailed code analysis to identify the specific VTK components used in PolySeg-WASM.
 2.  Measure the size contribution of each VTK component to the overall bundle size of PolySeg-WASM.
@@ -48,18 +49,24 @@ The repo by ICR does the job However, the bundle is huge (3MB) which is not opti
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+0. Updated the vtk that polyseg-wasm is using to the one that slicer is using which is specified [here](https://github.com/Slicer/Slicer/blob/main/SuperBuild/External_VTK.cmake#L136-L146), it was previously depending on latest vtk
+1. We initially tried to reduce the final wasm size by disabling various modules in the vtk cmake. However, this approach didn't yield the desired results.
+2. Next, we examined the polySEG-wasm's cmake to determine potential modifications for size reduction. We discovered that all vtk dependencies are included in ${VTK_LIBS}, set by cmake. By incrementally adding these dependencies, we pinpointed the minimum number of libraries needed, resulting in a 550 KB reduction in the final wasm size. The final set of included libraries was VTK::CommonDataModel VTK::CommonCore VTK::CommonExecutionModel VTK::FiltersCore VTK::FiltersExtraction VTK::ImagingStencil VTK::ImagingStatistics VTK::ImagingMorphological.
+3. Furthermore, we observed that the browser gzips the loaded wasm, bringing the final resource size down to 800 KB - a significant improvement from before.
+4. PR created [here ](https://bitbucket.org/icrimaginginformatics/polyseg-wasm/pull-requests/1)
 
-1.  Describe specific steps you **have actually done**.
+### Next steps
+
+1. We should look into if we can even narrow down even more the VTK::CommonDataModel and VTK::CommonCore to only include those sub libs that is necessary for the build
+
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![image](https://github.com/NA-MIC/ProjectWeek/assets/7490180/fe1091cc-32f5-4710-a605-8345ce399849)
 
-![image](https://github.com/NA-MIC/ProjectWeek/assets/7490180/4f5dfd53-ffb1-41a3-9f17-85d64a47a30b)
 
-![image](https://github.com/NA-MIC/ProjectWeek/assets/7490180/daf0cfd0-9aee-420b-a94e-6b93edbb5356)
+![image](https://github.com/NA-MIC/ProjectWeek/assets/7490180/8ab133e7-aa73-4b02-8c1d-3dc807861b64)
+
 
 # Background and References
 
