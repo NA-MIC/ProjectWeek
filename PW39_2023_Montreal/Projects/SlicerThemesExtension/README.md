@@ -61,5 +61,7 @@ This project is aimed on publishing the qt-material interface as an extension an
 
 # Background and References
 
+[SlicerThemes Repository](https://github.com/sjh26/SlicerThemes)
+
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
