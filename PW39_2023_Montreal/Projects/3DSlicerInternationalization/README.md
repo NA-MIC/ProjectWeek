@@ -114,6 +114,7 @@ Zoom link for all Slicer Internationalization sessions: https://etsmtl.zoom.us/j
 * Find Text tool of the Language Packs Extension. Click [here](https://github.com/Slicer/SlicerLanguagePacks/blob/main/TranslationGuidelines.md#:~:text=Find%20Text%20tool%20of%20the%20Language%20Packs%20Extension)
 
 
+
 # Illustrations
 
 
