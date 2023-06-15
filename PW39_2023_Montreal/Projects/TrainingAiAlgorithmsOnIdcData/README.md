@@ -52,17 +52,18 @@ During this project week, our goal is to develop use cases of training AI algori
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1.  Leverage information gained by applying inference using nnUNet prostate segmentation on several prostate imaging collections, for training pipelines.
+2.  Creation of whole prostate IDC training cohort: 45 T2W MRI scans and corresponding expert whole prostate annotations were used.
+3.  Creation of Google Colab use case showing how to build this cohort and begin a nnUNet training experiment. 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-*No response*
+![WORKFLOW](https://github.com/ccosmin97/ProjectWeek/assets/72577931/d9627a49-b6ca-4216-a564-4118c3b61e14)
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-
+* [Google Colab use case for IDC training cohort and nnUNet training](https://colab.research.google.com/drive/1TmmhouNGeQ-DpGz2z83yiZh3KQ20a-1M?usp=sharing).
 *   [PW37_2022_Virtual -- nnUnet - Prostate segmentation on Imaging Data Commons(IDC) data](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/IDCProstateSegmentation)
 *   [AI Imaging analysis on IDC data](https://github.com/ImagingDataCommons/IDC-Tutorials/tree/master/notebooks#imaging-analysis-ai)
