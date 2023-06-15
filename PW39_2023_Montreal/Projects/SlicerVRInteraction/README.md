@@ -8,17 +8,21 @@ redirect_from:
 
 project_title: SlicerVR - Restore Interactions
 category: VR/AR and Rendering
-presenter_location: In-person
+presenter_location: Remote
 
 key_investigators:
-- name: Simon Drouin
-  affiliation: ÉTS Montréal
-  country: Canada
-  
 - name: Csaba Pintér
   affiliation: EBATINCA
   country: Spain
 
+- name: Simon Drouin
+  affiliation: ÉTS Montréal
+  country: Canada
+  
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware, Inc.
+  country: USA
+  
 - name: Andrey Titov
   affiliation: ÉTS Montréal
   country: Canada
@@ -34,10 +38,6 @@ key_investigators:
 - name: Lucas Gandel
   affiliation: Kitware, Inc.
   country: France
-  
-- name: Jean-Christophe Fillion-Robin
-  affiliation: Kitware, Inc.
-  country: USA
 ---
 
 # Project Description
@@ -83,13 +83,17 @@ In PW 37, basic interaction has been fixed.
 ![Some more images](Example2.jpg)
 -->
 
+
 Laser pointer interactions with widget existing in Slicer:
 
-https://github.com/NA-MIC/ProjectWeek/assets/1325980/a6fc0061-e40e-43e3-92a0-b31badb14c43
+<video src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW39_2023_Montreal/Projects/SlicerVRInteraction/GUIWidgetInteraction_DataModule.mp4"></video>
 
 Laser pointer interactions with custom widget:
 
-https://github.com/NA-MIC/ProjectWeek/assets/1325980/7c457f93-2b80-4806-9cb5-e58acc393aa4
+<video src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW39_2023_Montreal/Projects/SlicerVRInteraction/GUIWidgetInteraction_CustomWidget.mp4"></video>
+
+(in case the MP4s are not playing)
+![GUIWidgetInteraction_CustomWidget](https://github.com/NA-MIC/ProjectWeek/assets/1325980/d84c3b6c-c243-4778-b6c6-1e20e3093e6c)
 
 # Background and References
 
