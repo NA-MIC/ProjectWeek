@@ -63,6 +63,7 @@ The major improvements we'd like to address with TCIA Browser include:
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![example_illustration](https://github.com/SL2027/ProjectWeek/blob/master/PW39_2023_Montreal/Projects/ImproveTciaBrowserExtension/Main%20Illustration.png)
 
 *No response*
 
