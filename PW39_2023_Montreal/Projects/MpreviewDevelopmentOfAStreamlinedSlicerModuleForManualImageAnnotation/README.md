@@ -21,7 +21,7 @@ key_investigators:
   affiliation: BWH
   
 - name: Andras Lasso
-  affiliation: Queen's
+  affiliation: Queen's University
   
 ---
 

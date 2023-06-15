@@ -19,6 +19,10 @@ key_investigators:
   affiliation: Queen's University
   country: Canada
   
+- name: Bill Clifford
+  affiliation: Institute for Systems Biology
+  country: USA
+  
 ---
 
 # Project Description
@@ -46,10 +50,10 @@ user interface within the Slicer platform to allow browsing and download of imag
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1.  Describe specific steps you **have actually done**.
+1.  Developed initial version of the module: [https://github.com/fedorov/SlicerIDCBrowser](https://github.com/fedorov/SlicerIDCBrowser). Tested on mac with pre-installed s5cmd. Confirmed working functionality to browse collection/patient/study/series and download individual series.
+2.  Identified limitations of the [IDC API](https://learn.canceridc.dev/api/getting-started): insufficient documentation, missing features to retrieve necessary attributes at various levels of hierarchy (resulting in blank values for the content of the navigation table). Work on the refined API is underway.
+3.  Since IDC API is using BigQuery, there is noticeable latency during interaction when compared with TCIA API. Download of the images is perhaps faster.
+4.  Next steps: refine API and update UI once done, automate deployment of s5cmd, revisit the need for cache, refine UI, publish extension.
 
 # Illustrations
 
