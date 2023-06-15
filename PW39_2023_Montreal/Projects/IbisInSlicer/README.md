@@ -37,9 +37,9 @@ Continuing the trend set in the [GPU Rigid Registration project](https://github.
 3. Test
 
 ## Progress
-1. Created repository, Ibis extension (to also harbor more eventual ports (next Project Week!)) and loadable IbisHarwareModule
-2. Defined approach
-3. Started implementation
+1. Use generic MRMLNode to encapsulate tool/device properties (e.g., Calibration transform, Tool transform, Mask, etc.) 
+2. Start with a Python implementation (module?)
+3. Possibility of using slicer scenes to share configurations
 
 # Background and References
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
