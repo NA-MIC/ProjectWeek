@@ -53,7 +53,16 @@ The goal of SlicerROS2 is to provide an open-source software platform for medica
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  Set up ROS2 Humble Hawksbill on Ubuntu 22.04 [ROS2 Humble Installation on Ubuntu (Debian)](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html)
+2.  Built the SlicerROS2 estension [Slicer ROS2 Getting Started](https://slicer-ros2.readthedocs.io/en/latest/pages/getting-started.html)
+  - The Slicer ROS2 could not be compiled due to an issue in the CMakeLists.txt. It has been fixed and incorporated into the main repository ([pull request on GitHub](https://github.com/rosmed/slicer_ros2_module/pull/66) )
+4.  Set up ROS interface for myCobot [Github repository]( https://github.com/elephantrobo,cs/mycobot_ros2 )
+  - Change the name of the device file in line 14 in listen_real.py ('/dev/5yUSB0') to '/dev/5yACM0'.
+5.  Replace the robot model in the ros interface.
+6.  Launch the interface by:
+~~~~
+ros2 launch mycobot_280 slider_control.launch.py
+~~~~
 
 # Illustrations
 
