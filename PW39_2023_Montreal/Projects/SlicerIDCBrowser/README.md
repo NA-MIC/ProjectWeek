@@ -68,3 +68,4 @@ user interface within the Slicer platform to allow browsing and download of imag
 * [IDC data download instructions](https://learn.canceridc.dev/data/downloading-data)
 * [SlicerTCIABrowser](https://github.com/QIICR/TCIABrowser)
 * installation of system-specific libraries from Slicer module - need to do something like this for s5cmd: [https://github.com/Slicer/Slicer/blob/main/Modules/Scripted/ScreenCapture/ScreenCapture.py#L873](https://github.com/Slicer/Slicer/blob/main/Modules/Scripted/ScreenCapture/ScreenCapture.py#L873)
+* detection of system configuration to select s5cmd binary: [https://doc.qt.io/qt-5/qsysinfo.html#productType](https://doc.qt.io/qt-5/qsysinfo.html#productType)
