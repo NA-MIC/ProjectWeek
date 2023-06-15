@@ -45,15 +45,26 @@ Put together code that 1) performs facial expression feature extraction for vide
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-1.  Describe specific steps of **what you plan to do** to achieve the above described objectives.
+1.  Discuss how the data management tool (Lochness) retrieves data from the aggregate server.
+2.  Define facial expression features of interest.
+3.  Set up the facial expression analysis code to be run as a proper pipeline.
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+Since we could only stay at project week for a couple of days and this was our first face-to-face interaction as a group, we mainly focused on figuring out specifics of the project that are difficult to fully grasp via zoom meetings. Some of the points being discussed were:
 
-1.  Describe specific steps you **have actually done**.
+- How Lochness is currently set up to copy processed information from the aggregation server to the server at Brigham and Women's Hospital.
+- Defined formatting of the filenames were extracted features would be stored and their path structure.
+- Decided to process only videos that were compliant with the Standard Operating Procedures (SOPs).
+- Decided to include a log file with the list of frames that were not successfully processed for each video.
+- Made a decision about what information not to include in the generated feature extraction csv files (no dates, filenames or facial landmarks)
+- Decided to enforce a face confidence threshold (faces detected with less than 0.6 confidence would be discarded).
+- Decided to include an extra feature with the number of detected faces per frame (sanity check to flag interviews incorrectly recorded in speaker mode, not following SOPs).
+
+
+We started to incorporate those adjustments in the code and will continue to work on this after project week. Other considerations that will be taken into account for future work are:
+- Adjust the code to run in batch mode only for those interviews that have not been processed yet.
+- Figure out how to cron this job so that it runs continuously.
 
 # Illustrations
 
