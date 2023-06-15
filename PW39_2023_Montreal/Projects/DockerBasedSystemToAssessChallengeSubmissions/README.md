@@ -69,9 +69,9 @@ For Generating The Project Structure we will use Evautils.
 Evalutils contains a project generator based on CookieCutter that I can use to generate the boilerplate for our evaluation.
 
 We will also generate our project with docker by running a container and sharing our current user id:
-```
+````
 docker run -it --rm -u `id -u` -v $(pwd):/usr/src/myapp -w /usr/src/myapp python:3 bash -c "pip install evalutils && evalutils init evaluation LNQ2023"
-```
+````
 
 Either of these commands will generate a folder called LNQ2023 with everything we need to get started.
 
@@ -79,7 +79,7 @@ The .gitattributes file at the root of the repository specifies all the files wh
 
 The structure of the project will be:
 
-```
+````
 └── LNQ2023
     ├── build.sh            # Builds your evaluation container
     ├── Dockerfile          # Defines how to build your evaluation container
@@ -94,12 +94,13 @@ The structure of the project will be:
     ├── test                # A folder that contains an example submission for testing
     │   └── submission.csv  # In this example the participants will submit a csv file
     └── test.sh             # A script that runs your evaluation container on the test submission
-```   
+````  
 evaluation.py.  is the file where we will extend the Evaluation class and implement the evaluation for our challenge. In this file, a new class has been created, and it is instantiated and run with:
 
-```if __name__ == "__main__":
+````
+if __name__ == "__main__":
    LNQ2023().evaluate()
-```
+````
 This is all that is needed for evalutils to perform the evaluation and generate the output for each new submission.
 
 # Background and References
@@ -107,7 +108,7 @@ This is all that is needed for evalutils to perform the evaluation and generate 
 <!-- If you developed any software, include a link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 The generated code for segmentation tasks:
-```
+````
 class Myproject(ClassificationEvaluation):
     def __init__(self):
         super().__init__(
@@ -146,5 +147,5 @@ class Myproject(ClassificationEvaluation):
             'DiceCoefficient': overlap_measures.GetDiceCoefficient(),
         }
 
-```
+````
 The next step is Building and testing, exporting the evaluation container and working on the Algorithm container.
