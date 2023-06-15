@@ -1,4 +1,4 @@
----
+![image](https://github.com/NA-MIC/ProjectWeek/assets/1325980/cb654d28-6c70-422a-9fa3-ceb2e0acf811)---
 layout: pw39-project
 
 permalink: /:path/
@@ -101,11 +101,7 @@ Laser pointer interactions with custom widget:
 </video>
 
 
-(in case the MP4s are not playing)
-
-![Laser pointer interactions with custom widget](https://github.com/NA-MIC/ProjectWeek/assets/1325980/d84c3b6c-c243-4778-b6c6-1e20e3093e6c)
-
-[![Laser pointer interactions with widget existing in Slicer](https://i9.ytimg.com/vi_webp/xAfa9exJSTg/mq2.webp?sqp=CPiRrKQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEsgSyhlMA8=&rs=AOn4CLC9UYx6bQ1BdrNTw1TdXOUXHAxFDw)](https://youtu.be/xAfa9exJSTg)
+[![More comprehensive demonstration](https://i9.ytimg.com/vi_webp/Ny5gmIFbhK4/mq1.webp?sqp=CJTDrKQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEsgSyhlMA8=&rs=AOn4CLDerRLwDJQoa2buCxVCCoKyIv-glA)](https://youtu.be/Ny5gmIFbhK4)
 
 # Background and References
 
