@@ -70,9 +70,9 @@ Two possible solutions have been discussed for the implementation:
 <img width="1920" alt="Translation of points 1" src="https://github.com/NA-MIC/ProjectWeek/blob/8e621994e02f65089ebd3a29b9da3ed307ff4925/PW39_2023_Montreal/Projects/TranslationRotationOfSelectPointsInAList/TranslatePoints1.png">
 <img width="1920" alt="Translation of points 2" src="https://github.com/NA-MIC/ProjectWeek/blob/8e621994e02f65089ebd3a29b9da3ed307ff4925/PW39_2023_Montreal/Projects/TranslationRotationOfSelectPointsInAList/TranslatePoints2.png">
 
-![Translation of points 1](https://github.com/NA-MIC/ProjectWeek/blob/8e621994e02f65089ebd3a29b9da3ed307ff4925/PW39_2023_Montreal/Projects/TranslationRotationOfSelectPointsInAList/TranslatePoints1.png)
+![Translation of points 1](TranslatePoints1.png)
 
-![Translation of points 2](https://github.com/NA-MIC/ProjectWeek/blob/8e621994e02f65089ebd3a29b9da3ed307ff4925/PW39_2023_Montreal/Projects/TranslationRotationOfSelectPointsInAList/TranslatePoints2.png)
+![Translation of points 2](TranslatePoints2.png)
 
 
 
