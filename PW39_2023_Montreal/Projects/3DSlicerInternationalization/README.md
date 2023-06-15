@@ -58,6 +58,16 @@ key_investigators:
 - name: Fatou Bintou NDIAYE
   affiliation: Université Cheikh Anta Diop de Dakar
   country: Senegal
+  
+- name: Atila Nagy
+  affiliation: Szeged University
+  country: Hungary
+  
+- name: Atila Nagy
+  affiliation: Szeged University
+  country: Hungary
+  
+  
 
 ---
 
