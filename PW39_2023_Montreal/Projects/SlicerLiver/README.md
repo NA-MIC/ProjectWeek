@@ -56,7 +56,14 @@ key_investigators:
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  Thanks to changes made by Sara Rolfe in the markup module (Seattle Children's Research Institute USA) we are now able to modify the interaction of Markups-based resections.
+2.  Integrated a new set of volumetric computation tools using the region growing method
+
+![liver-volumetry-resection0](https://github.com/NA-MIC/ProjectWeek/assets/75131750/91485aa5-b4ff-431f-933c-681cacaf54d1)
+
+![liver-volumetry-resection](https://github.com/NA-MIC/ProjectWeek/assets/75131750/388743ad-45ca-4c9c-bcd6-f72d2e14d7ca)
+
+
 
 # Illustrations
 
