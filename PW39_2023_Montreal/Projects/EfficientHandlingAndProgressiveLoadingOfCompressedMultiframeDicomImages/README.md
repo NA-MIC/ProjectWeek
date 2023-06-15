@@ -100,7 +100,7 @@ PR Link: <https://github.com/cornerstonejs/dicomParser/pull/251>
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 Crash screenshot ![crash-image](https://github.com/NA-MIC/ProjectWeek/assets/9955081/9f80cbd7-cfa7-4c54-934c-9d165fe38e1a)
-Sample multiframe loaded successfully with suggested improvements 
+Sample multiframe loaded successfully with suggested improvements ![multiframe-uncompressed](multiframe_uncompressed.png)
 
 # Background and References
 
