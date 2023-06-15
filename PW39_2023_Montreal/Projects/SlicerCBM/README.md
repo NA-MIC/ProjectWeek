@@ -50,7 +50,9 @@ SlicerCBM is an extension for 3D Slicer that provides tools for creating and sol
 
 2. Discussed opportunities for integrating [SlicerCBM](https://slicercbm.org) with [NousNav](https://www.nousnav.org) for image-guided surgery simulations (both as a research tool and for potential clinical applications).
 
-3. We will continue working on SlicerCBM next week at PerkLab (Queen's University).
+3. Solved the EEG forward problem on the SPL brain atlas mesh created using the [SlicerAtlasEditor](https://github.com/andy9t7/SlicerAtlasEditor) from the [Open Meshed Anatomy](https://projectweek.na-mic.org/PW39_2023_Montreal/Projects/OpenMeshedAnatomy/) project.
+
+4. We will continue working on SlicerCBM next week at PerkLab (Queen's University).
 
 # Illustrations
 
