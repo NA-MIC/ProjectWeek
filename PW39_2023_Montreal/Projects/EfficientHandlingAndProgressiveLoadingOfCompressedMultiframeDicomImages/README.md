@@ -22,8 +22,8 @@ key_investigators:
   country: USA
   
 - name: Alireza Sedghi
-- affiliation: Accolade Imaging, Inc.
-- country: Canada
+  affiliation: Accolade Imaging, Inc.
+  country: Canada
 ---
 
 # Project Description
@@ -64,24 +64,54 @@ Warning - Unrecognized defined term <L> for value 1 of attribute <Coding Scheme 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-We attempted to adapt a solution approach inspired by the PR link below. The link's solution specifically addresses uncompressed images. In our case, we tried a similar method to handle compressed images within the dicom-parser library, unfortunately, the attempted solution did not yield the desired outcome.
+After conducting further tests, we discovered an additional observation regarding the uncompressed images. It became evident that even when working with uncompressed images, if the image size exceeds a certain threshold (500 MB), OHIF crashes almost instantly, within a matter of seconds.
+
+This finding underscores the importance of addressing the performance and stability concerns, not only for handling compressed images but also for handling larger uncompressed images. It emphasizes the need to optimize the OHIF viewer and its underlying components like cornerstoneWADOImageLoader and dicomParser to ensure robust performance across a wide range of image sizes.
+
+We have made significant progress in addressing various issues related to the OHIF viewer and its underlying components: 
+
+* _OHIF Build with Proposed PR for Uncompressed Images:_ We successfully created an OHIF build incorporating the proposed pull request (PR) for uncompressed images. Previously, the demo ultrasound series would cause immediate failure and crash the browser. However, the proposed fix effectively resolved this issue, allowing smooth loading and scrolling through a multiframe image of approximately 600 MB without any problems.
 
 PR link: <https://github.com/cornerstonejs/cornerstoneWADOImageLoader/pull/454#issue-1287614710>
-Ticket link: <https://github.com/cornerstonejs/dicomParser/issues/248>
+       
+* _Handling Compressed Images:_
+    * To address the issue with compressed images, we adapted a solution approach inspired by the provided PR link. While the original solution focused on uncompressed images, we applied a similar method within the dicomParser library to handle compressed images. Initially, the attempted solution did not yield the desired outcome. However, after further work and refinement, we were able to fix the issue and submit a PR to dicomParser.
+    * _Successful Testing of Proposed PR with Compressed Images:_ We have successfully built and tested the proposed PR in ePAD using compressed images. This implementation resolved the crashing issue associated with compressed images, ensuring stable functionality.
+    * _Deidentify Sample Dataset:_ Although we made efforts to create a deidentified sample dataset, we encountered challenges in blacking out the pixels. We are actively working on finding a solution to overcome this obstacle.
+    * Configuration of dicomparser's sharedCopy Method: Alireza suggested making the dicomParser's sharedCopy method configurable with a useCopy option. This enhancement would provide other applications and users utilizing dicomparser with the flexibility to choose whether they want to use a copy or not. We will diligently work on implementing this suggestion and update the PR accordingly.
+
+Ticket link: <https://github.com/cornerstonejs/dicomParser/issues/248> 
+
+PR Link: <https://github.com/cornerstonejs/dicomParser/pull/251>
+
+* _Stress Testing OHIF Viewer and cornerstoneWADOLoader:_ As part of our testing, we performed a stress test to evaluate the limits of the OHIF viewer and the cornerstoneWADOLoader. Despite the implementation of the proposed changes that significantly improved performance, we encountered an ongoing challenge with the OHIF Viewer crashing when loading large datasets. It is important to note that this issue does not appear to be specific to either compressed or uncompressed data, as it is reproducible with both types. Upon further investigation, we identified the following key issues:
+
+  * _Crashing when trying to load large data folder:_ Attempting to load a folder larger than 3GB resulted in the viewer failing to load and crashing immediately. It is important to note that the crash occurs while trying to index the folder, and it is likely due to the cache size limitation, which is currently set to 2GB.
+  * _Crashing when trying to load a large multiframe after loading a couple of series: After a certain number of multiframe images have been opened, the browser crashes during the image loading process. To reproduce this issue, please follow the steps outlined below:
+    1. Open the local OHIF page
+    2. Load the sample deidentified multiframe
+    3. Open the page again in the same browser tab
+    4. Load the sample deidentified multiframe
+    5. Repeat steps _c_ and _d_ seven or eight times
+    6. After a certain number of iterations, the browser will crash during the image loading phase.
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-![crash-image](https://github.com/NA-MIC/ProjectWeek/assets/9955081/9f80cbd7-cfa7-4c54-934c-9d165fe38e1a)
+Crash screenshot ![crash-image](https://github.com/NA-MIC/ProjectWeek/assets/9955081/9f80cbd7-cfa7-4c54-934c-9d165fe38e1a)
+Sample multiframe loaded successfully with suggested improvements 
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
+     
+Uncompressed ultrasound image <https://github.com/emelalkim/sampledata/releases/tag/large_multiframe>
 
-Unfortunately the ultrasound images are not deindentified, we can not provide sample data yet. We are working on getting a data set.
+Unfortunately we couldn't deidentify the compressed ultrasound images.
 
 Related libraries:
 <https://github.com/cornerstonejs/cornerstoneWADOImageLoader>
 <https://github.com/cornerstonejs/dicomParser>
+
