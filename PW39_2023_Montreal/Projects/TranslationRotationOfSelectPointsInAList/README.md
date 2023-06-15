@@ -61,9 +61,11 @@ Two possible solutions have been discussed for the implementation:
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-*No response*
+<video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW39_2023_Montreal/Projects/TranslationRotationOfSelectPointsInAList/PointInteractionsShort.mov"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
 # Background and References
 
