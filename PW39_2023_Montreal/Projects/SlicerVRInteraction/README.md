@@ -83,6 +83,12 @@ In PW 37, basic interaction has been fixed.
 ![Some more images](Example2.jpg)
 -->
 
+Laser pointer interactions with widget existing in Slicer:
+
+https://github.com/NA-MIC/ProjectWeek/assets/1325980/a6fc0061-e40e-43e3-92a0-b31badb14c43
+
+Laser pointer interactions with custom widget:
+
 https://github.com/NA-MIC/ProjectWeek/assets/1325980/7c457f93-2b80-4806-9cb5-e58acc393aa4
 
 # Background and References
