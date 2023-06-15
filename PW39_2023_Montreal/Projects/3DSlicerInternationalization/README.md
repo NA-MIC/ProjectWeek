@@ -59,15 +59,10 @@ key_investigators:
   affiliation: Université Cheikh Anta Diop de Dakar
   country: Senegal
   
-- name: Atila Nagy
-  affiliation: Szeged University
+- name: Attila Nagy
+  affiliation: University of Szeged
   country: Hungary
-  
-- name: Atila Nagy
-  affiliation: Szeged University
-  country: Hungary
-  
-  
+ 
 
 ---
 
