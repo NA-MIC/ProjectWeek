@@ -41,7 +41,7 @@ The Automatic Quantification 3D Components(AQ3DC) was developed during Namic-pro
 
 The Automatic Quantification 3D Components(AQ3DC) aims to provide a user-friendly automated tool that decrease user time for extraction of quantitative
 image analysis features. 
-AQ3DC is a Slicer extension to automatically compute lists of measurements seleted by users for a single case or a whole
+AQ3DC is a Slicer extension to automatically compute lists of measurements selected by users for a single case or a whole
 study sample, at one or more time points. 
 The current implementation is aimed at automatic computation of 3D components like distances (AP, RL and SI) 
 between points, points to line, midpoint between two points or angles (Pitch, Roll and Yaw), interpretation of directionality,which can be further extended to any type of desired computation/quantitative image analysis. The design of the user interface is currently aimed at quantification of craniofacial dental,  skeletal and soft tissue structures. 

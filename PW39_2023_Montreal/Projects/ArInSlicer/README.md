@@ -31,9 +31,9 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-Microsoft HoloLens 2 has demonstrated to be an excellent device in many clinical applications. They are mainly used to display 3D patient-related virtual information overlayed to the real world. However, its processing capacity is quite limited, so developing complex applications that require medical image processing is quite convoluted.
+Microsoft HoloLens 2 has demonstrated to be an excellent device in many clinical applications. They are mainly used to display 3D patient-related virtual information overlaid to the real world. However, its processing capacity is quite limited, so developing complex applications that require medical image processing is quite convoluted.
 
-A good solution could be to perform the difficult computations on a speciallized software on a computer (i.e. 3D Slicer) and send them in real time to HoloLens 2 so that it can focus solely on visualization.
+A good solution could be to perform the difficult computations on a specialized software on a computer (i.e. 3D Slicer) and send them in real time to HoloLens 2 so that it can focus solely on visualization.
 Up to date, there has been a lack of software infrastructure to connect 3D Slicer to any augmented reality (AR) device.
 
 During the last year, [Universidad Carlos III de Madrid](https://biig-igt.uc3m.es/augmented-reality/) (Madrid, Spain) and Perk Lab in Queen's University have worked together to develop a novel connection approach between Microsoft HoloLens 2 and 3D Slicer using OpenIGTLink.

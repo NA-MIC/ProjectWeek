@@ -55,7 +55,7 @@ Warning - Unrecognized defined term <SECTRA> for value 1 of attribute <Coding Sc
 Error - Missing attribute Type 2C Conditional Element=<Laterality> Module=<GeneralSeries>
 Warning - Unrecognized defined term <L> for value 1 of attribute <Coding Scheme Designator>
 ```
-* Create a deidentified dataset to reproduce the data.  Original US data has burned in patient info, so blank pixel data wll be substituted.
+* Create a deidentified dataset to reproduce the data.  Original US data has burned in patient info, so blank pixel data will be substituted.
 *  Done: https://github.com/emelalkim/sampledata/releases/tag/large_multiframe
 * Explore changing the code so that instead of loading the entire DICOM file at once, the image loading process can be modified to load the image in smaller chunks or frames progressively. This approach may allow the browser to handle smaller portions of the image, reducing the memory burden and enhancing overall stability.
 

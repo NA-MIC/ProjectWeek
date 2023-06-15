@@ -41,7 +41,7 @@ key_investigators:
 
 1.  Advanced manipulation of deformable surfaces for resection planning. Our current solution for resection planning involves the deformation of Bezier surfaces in a 4x4 grid implemented by means of Slicer Markups (<https://slicer.readthedocs.io/en/latest/user_guide/modules/markups.html>). We are planning to  include advanced features such as coloring and grouping of markups for a more effective manipulation.
 2.  Volumetry computation. Planning of liver therapies largely relies on a volumetry analysis derived from the therapy plan. We are planning to include versatile tools for volume computations.
-3.  Release of Slicer-Liver 1.0. As Slicer-Liver is becoming an feature rich extension, we aim to release the latest developments achieved during this and the last Project Week in the extension manager (currently, the version released in the Extension Mangager does not contain the latest advances).
+3.  Release of Slicer-Liver 1.0. As Slicer-Liver is becoming an feature rich extension, we aim to release the latest developments achieved during this and the last Project Week in the extension manager (currently, the version released in the Extension Manager does not contain the latest advances).
 
 ## Approach and Plan
 

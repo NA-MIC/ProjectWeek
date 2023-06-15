@@ -36,7 +36,7 @@ Our objective is to provide a detailed step by step description on how to use MO
 ## Step by Step Description
 
 Setting up an AWS EC2 Windows server in the cloud: 
-The detailed process [is decribed here](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/).
+The detailed process [is described here](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/).
 
 Install MONAILabel
 

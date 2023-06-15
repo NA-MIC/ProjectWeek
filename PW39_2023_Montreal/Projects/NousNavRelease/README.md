@@ -75,7 +75,7 @@ Major tasks to work on:
 1. Reworked the registration landmark support.
     1. Support any sufficient subset of the complete landmark list
     2. Registration picking provides better control of order of landmark collection
-    3. Improved color consistency acroos landmark usage
+    3. Improved color consistency across landmark usage
 2. Made patient interface styling consistent with rest of application
 3. Demo'd recent changes to the rest of the NousNav team
 
