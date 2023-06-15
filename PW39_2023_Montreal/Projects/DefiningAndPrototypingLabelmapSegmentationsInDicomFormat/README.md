@@ -67,7 +67,9 @@ The proposal for this project received a considerable amount of constructive fee
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-*No response*
+<img width="774" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/126077/797f6614-22df-4afd-9c6d-1343d6a9361b">
+
+* Prototype DICOM SEG LABELMAP from highdicom loaded in Slicer using pydicom.
 
 # Background and References
 
