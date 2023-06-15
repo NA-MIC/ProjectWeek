@@ -42,7 +42,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 This project aims to create tutorials on how to work with DICOM annotations in pathology whole-slide images (WSIs).
-At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Simple Annotations and compute nuclei density (cellularity) on tile-level from them. The computed cellularity values are then stored as DICOM parametric maps.
+We will focus on nuclei annotations stored as DICOM Microscopy Bulk Simple Annotations and compute nuclei density (cellularity) on tile-level from them. The computed cellularity values are then stored as DICOM parametric maps.
 
 ## Objective
 
@@ -59,24 +59,25 @@ At first, we will focus on nuclei annotations stored as DICOM Microscopy Bulk Si
     * Establish a repository of test samples that will contain standard-compliant examples of bulk annotations (different number of points, 2D vs 3DSCOORD), segmentations (binary and fractional) and parametric maps (floating point and integer).
     * Share code samples that were used to generate the examples above
     * Test different combinations of Slim viewer, DICOMweb backend (Google, dcm4chee, orthanc) and test samples to understand what is supported by various components (i.e., perhaps only 3DSCOORD is supported by Slim, there may be limits on maximum size of SQ in Google Healthcare)
-2.  Investigate nuclei annotations for plausibility
-3.  Read nuclei annotations
-4.  Efficiently compute cellularity values
-5.  Encode cellularity values as DICOM parametric maps
+2.  Development of the tutorial 
+    * Investigate nuclei annotations for plausibility
+    * Read nuclei annotations
+    * Efficiently compute cellularity values
+    * Encode cellularity values as DICOM parametric maps
 
 ## Progress and Next Steps
 
-1.  We re-used the Google Cloud platform (GCP) project idc-external-031
-2.  We created different DICOM stores in Google: 
+1.  We created different DICOM stores in Google (re-used the Google Cloud platform (GCP) project idc-external-031): 
     * Single 2DSCOORD bulk annotation file and corresponding WSI: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/single-dicom-annotation-test/dicomStores/single-dicom-annotation-test-store/dicomWeb)
     * 2D vs. 3D and point vs. polygon bulk annotation files and corresponding WSI: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/2d_3d_point_polygon_annotation_test/dicomStores/2d_3d_point_polygon_annotation_test_store/dicomWeb)
     * Different sizes of DICOM bulk annotation files: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/diff-sizes-dicom-annotations-test/dicomStores/diff-sizes-dicom-annotations-test-store/dicomWeb)
     * Single binary segmentation plus simple bulk annotation file: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/segmentations-binary-test/dicomStores/segmentations-binary-test-store/dicomWeb)
+    * Single binary segmentation file produced by Curt Lisle in the context of his project: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/segmentation-binary-curt-test/dicomStores/segmentation-binary-curt-test-store/dicomWeb)
     * Single fractional segmentation plus simple bulk annotation file: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/us-central1/datasets/segmentations-fractional-test/dicomStores/segmentations-fractional-test-store/dicomWeb)
     * Parametric maps: [DICOMweb endpoint](https://healthcare.googleapis.com/v1/projects/idc-external-031/locations/northamerica-northeast1/datasets/pw39-samples/dicomStores/parametric-maps/dicomWeb)
-3. We tested and documented current capabilities of reading and visualizing annotations
-    * WIP: results are documented [here]()
-4. We implemented code for cellularity computation and prepared a Colab notebook which is still WIP
+2. We tested and documented current capabilities of reading and visualizing annotations
+    * Results are summarized [here](https://docs.google.com/document/d/1FWSHL5GA47GC-bbrYOhqySGmKoQ0yLu7EM7-UbhYcSY/edit?usp=sharing)
+3. We implemented code for cellularity computation and prepared a Colab notebook on which further work will be done following the project week.  
 
 # Illustrations
 
