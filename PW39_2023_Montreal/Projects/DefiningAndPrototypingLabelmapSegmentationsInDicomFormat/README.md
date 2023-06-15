@@ -62,6 +62,13 @@ The proposal for this project received a considerable amount of constructive fee
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1.  Solicited feedback and items for discussion on proposal #643
+2.  Completed a full implementation of LABELMAP creation in highdicom (see [draft pull request](https://github.com/ImagingDataCommons/highdicom/pull/234)). Planar imaging, 3D imaging and tiled slide images are supported.
+3.  Using an example segmentation of 98 organs/tissues from TotalSegmentator, we got the following sizes:
+    - Original BINARY segmentation: 385MB
+    - LABELMAP Compressed with JP2k 6.7MB
+    - LABELMAP Compressed with JPEG-LS 1.9MB
+    - LABELMAP Compressed with RLE 4.4MB
+    - LABELMAP Uncompressed 152MB
 
 # Illustrations
 
