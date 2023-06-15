@@ -64,7 +64,8 @@ The convenience of having a 3D Slicer Flatpak has been long discussed in the 3D 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  Fixed issue [Slicer-Flatpak#5](https://github.com/RafaelPalomar/Slicer-Flatpak/issues/5)  through [Slicer#7019](https://github.com/Slicer/Slicer/pull/7019) updating ITK to fix Flatpack dependency analysis.
+2.  Additional analysis causing the Slicer-Flatpak python dependencies download to fail. See [Slicer-Flatpak/4#issuecomment-1588628987](https://github.com/RafaelPalomar/Slicer-Flatpak/issues/4#issuecomment-1588628987)
 
 # Illustrations
 
