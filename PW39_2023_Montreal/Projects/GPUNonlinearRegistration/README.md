@@ -34,7 +34,7 @@ This project aims to add a multimodal nonlinear registration plugin to Slicer. T
 ## Progress
 1. Theoretical foundation of the method has been investigated
 2. Previous implementation has been reviewed
-3. Start with CPU implementation of non-rigid registration in Ibis
+3. Successfully integrated CPU implementation of non-rigid registration in Ibis
 
 ## Next setps
 1. Replace metric value computation with OpenCL code
@@ -44,3 +44,11 @@ This project aims to add a multimodal nonlinear registration plugin to Slicer. T
 [1] De Nigris, D., et al., 2014. SymBA: Diffeomorphic Registration Based on Gradient Orientation Alignment and Boundary Proximity of Sparsely Selected Voxels. In Biomedical Image Registration: 6th International Workshop, WBIR 2014, London, UK, July 7-8, 2014. Proceedings 6 (pp. 21-30). [link](https://link.springer.com/chapter/10.1007/978-3-319-08554-8_3)
 - http://ibisneuronav.org 
 - https://github.com/IbisNeuronav/Ibis 
+
+# Illustrations
+
+Before registration:
+![image](https://github.com/NA-MIC/ProjectWeek/assets/8172629/27d88c0c-8694-4548-9ea9-f1c2f3a88517)
+
+After registration:
+![image](https://github.com/NA-MIC/ProjectWeek/assets/8172629/e1a8e139-5244-4293-99b6-57284d0fe513)
