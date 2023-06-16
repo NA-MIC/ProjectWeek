@@ -36,7 +36,7 @@ Microsoft HoloLens 2 has demonstrated to be an excellent device in many clinical
 A good solution could be to perform the difficult computations on a specialized software on a computer (i.e. 3D Slicer) and send them in real time to HoloLens 2 so that it can focus solely on visualization.
 Up to date, there has been a lack of software infrastructure to connect 3D Slicer to any augmented reality (AR) device.
 
-During the last year, [Universidad Carlos III de Madrid](https://biig-igt.uc3m.es/augmented-reality/) (Madrid, Spain) and Perk Lab in Queen's University have worked together to develop a novel connection approach between Microsoft HoloLens 2 and 3D Slicer using OpenIGTLink.
+During the last year, [Universidad Carlos III de Madrid](https://igt.uc3m.es/augmented-reality/) (Madrid, Spain) and Perk Lab in Queen's University have worked together to develop a novel connection approach between Microsoft HoloLens 2 and 3D Slicer using OpenIGTLink.
 
 The results of that work are publicly available at [this GitHub repository](https://github.com/BSEL-UC3M/HoloLens2and3DSlicer-PedicleScrewPlacementPlanning).
 
