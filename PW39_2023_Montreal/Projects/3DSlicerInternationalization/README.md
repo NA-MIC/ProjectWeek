@@ -125,9 +125,9 @@ Zoom link for all Slicer Internationalization sessions: https://etsmtl.zoom.us/j
 
 * Based on our discussions, we realized there's an interest in using localized widgets in Slicer virtual reality environments.  Thanks to Csaba Pinter and Simon Drouin we were able to make rapid prototypes for French and Korean!
   
-<iframe width="420" height="315" src="https://www.youtube.com/embed/69XweHtZXlg"></iframe>
+<iframe width="840" height="630" src="https://www.youtube.com/embed/69XweHtZXlg"></iframe>
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/LF3P55CVXyo"></iframe>
+<iframe width="840" height="630" src="https://www.youtube.com/embed/LF3P55CVXyo"></iframe>
 
 * More information on the VR widget developments [on their project page](https://projectweek.na-mic.org/PW39_2023_Montreal/Projects/SlicerVRInteraction/).
 
