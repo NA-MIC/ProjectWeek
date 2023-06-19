@@ -129,6 +129,8 @@ Zoom link for all Slicer Internationalization sessions: https://etsmtl.zoom.us/j
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/LF3P55CVXyo"></iframe>
 
+* More information on the VR widget developments [on their project page](https://projectweek.na-mic.org/PW39_2023_Montreal/Projects/SlicerVRInteraction/).
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
