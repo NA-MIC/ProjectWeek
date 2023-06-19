@@ -88,6 +88,7 @@ Our main goal for this week is to replicate the exact same application in the ne
 
 Check out our app in [this GitHub repository](https://github.com/BIIG-UC3M/HoloLens2and3DSlicer-PedicleScrewPlacementPlanning).
 This repository contains all the resources and code needed to replicate our work in your computer.
+You can also have a look at [this demo](https://www.youtube.com/watch?v=35WiSceP94Q&t=2s) of the functioning of the app on HoloLens 2.
 
 Transfer of geometrical transforms from HoloLens 2 to 3D Slicer:
 
