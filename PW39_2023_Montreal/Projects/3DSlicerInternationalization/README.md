@@ -117,14 +117,16 @@ Zoom link for all Slicer Internationalization sessions: https://etsmtl.zoom.us/j
 
 # Illustrations
 
-
+## Project meetings
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 <img width="1920" alt="PW39_SlicerInternationalization" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/7b652e1d-847c-4b15-b8f3-f7431ef80298">
 
 ![SlicerPW39-2](https://github.com/NA-MIC/ProjectWeek/assets/1847492/84fd8116-4e49-497a-a8ec-87c291f49c22)
 
 * Based on our discussions, we realized there's an interest in using localized widgets in Slicer virtual reality environments.  Thanks to Csaba Pinter and Simon Drouin we were able to make rapid prototypes for French and Korean!
-  
+
+## Videos
+
 <iframe width="840" height="630" src="https://www.youtube.com/embed/69XweHtZXlg"></iframe>
 
 <iframe width="840" height="630" src="https://www.youtube.com/embed/LF3P55CVXyo"></iframe>
