@@ -53,7 +53,7 @@ Features to support multiple volume comparisons:
 2.  Developed prototype for module to manage temporarily linked views: QuickAlign
 3.  Module name contributed by Andras Lasso
 4.  Testing use of QuickAlign
-5.  Added beta version as a test module to the SlicerMorph extension: https://github.com/SlicerMorph/SlicerMorph/tree/master/QuickAlign
+5.  Added beta version as a [test module in the SlicerMorph extension](https://github.com/SlicerMorph/SlicerMorph/tree/master/QuickAlign)
 
 # Illustrations
 Initial rendering of two fetal mouse scans:
