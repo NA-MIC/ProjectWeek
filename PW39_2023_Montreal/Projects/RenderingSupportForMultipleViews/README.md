@@ -50,12 +50,20 @@ Features to support multiple volume comparisons:
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1.  Created a Python function to link/unlink relative views.
-2.  Developed prototype for module to manage temporarily linked views: ViewSync
-3.  Testing use of ViewSync
+2.  Developed prototype for module to manage temporarily linked views: QuickAlign
+3.  Module name contributed by Andras Lasso
+4.  Testing use of QuickAlign
+5.  Added beta version as a test module to the SlicerMorph extension: https://github.com/SlicerMorph/SlicerMorph/tree/master/QuickAlign
 
 # Illustrations
+Initial rendering of two fetal mouse scans:
 
-<img width="1920" alt="Translation of points 1" src="https://github.com/NA-MIC/ProjectWeek/blob/e166895a49f8ba30b9469473155e820743ddaf70/PW39_2023_Montreal/Projects/RenderingSupportForMultipleViews/viewSync.png">
+<img width="50%" alt="ViewSyncBefore" src= "https://github.com/NA-MIC/ProjectWeek/raw/master/PW39_2023_Montreal/Projects/RenderingSupportForMultipleViews/viewSyncBefore.gif">
+
+After alignment and temporary view linking using ViewSync:
+
+<img width="50%" alt="ViewSyncAfter" src= "https://github.com/NA-MIC/ProjectWeek/raw/master/PW39_2023_Montreal/Projects/RenderingSupportForMultipleViews/ViewSyncAfter.gif">
+
 
 # Background and References
 
