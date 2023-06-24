@@ -52,7 +52,7 @@ The initial motivation for this project was to simplify creation of synthetic da
 
 Two possible solutions have been discussed for the implementation:
 1. Add functions to Markups Editor module in the SlicerMorph extension
-2. Add to Slicer core in the Markups module
+2. Add to Slicer core in the Markups module. Currently the interaction handles are disabled if any point is locked. This can be modified so that locked points remain fixed and unlocked points move when using a markup's interaction handles. This solution will not allow scaling since this is not currently supported for most Markup types.
    
 ## Progress and Next Steps
 
@@ -60,20 +60,15 @@ Two possible solutions have been discussed for the implementation:
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1.  Met to discuss use cases and overlap in needs between SlicerMorph and SlicerLiver Groups
-2.  Built working prototype in 3D Slicer that meets the needs of both groups
-3.  Testing by remote team members
-4.  Identified a bug and testing fix
-5.  Plan to submit pull request by the end of the week
+2.  Built working prototype of changes to the Markups module in 3D Slicer that meets the needs of both groups
+3.  Testing by remote team members identified bug in the movement of the center of rotation/translation
+4.  Identified and addressed issues with unplaced points and position of interaction handles with Kyle Sunderland and Andras Lasso
+5.  Submitted a [pull request](https://github.com/Slicer/Slicer/pull/7025) adding this new function to the Markups module.
 
 # Illustrations
+<img width="50%" alt="pointManipulation1" src= "https://github.com/NA-MIC/ProjectWeek/raw/master/PW39_2023_Montreal/Projects/TranslationRotationOfSelectPointsInAList/pointManipulation1.gif">
 
-<img width="1920" alt="Translation of points 1" src="https://github.com/NA-MIC/ProjectWeek/blob/8e621994e02f65089ebd3a29b9da3ed307ff4925/PW39_2023_Montreal/Projects/TranslationRotationOfSelectPointsInAList/TranslatePoints1.png">
-<img width="1920" alt="Translation of points 2" src="https://github.com/NA-MIC/ProjectWeek/blob/8e621994e02f65089ebd3a29b9da3ed307ff4925/PW39_2023_Montreal/Projects/TranslationRotationOfSelectPointsInAList/TranslatePoints2.png">
-
-![Translation of points 1](TranslatePoints1.png)
-
-![Translation of points 2](TranslatePoints2.png)
-
+<img width="50%" alt="pointManipulation2" src= "https://github.com/NA-MIC/ProjectWeek/raw/master/PW39_2023_Montreal/Projects/TranslationRotationOfSelectPointsInAList/pointManipulation2.gif">
 
 
 # Background and References
