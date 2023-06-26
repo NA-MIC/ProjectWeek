@@ -1,6 +1,6 @@
 ## Welcome to the main page for the Project Week events!
 
-### The [39th project week](PW39_2023_Montreal/README.md) will be held June 12-16, 2023 in Montreal, Canada.
+### The [39th project week](PW39_2023_Montreal/README.md) was held June 12-16, 2023 in Montreal, Canada.
 
 ## Frequently Asked Questions
 
