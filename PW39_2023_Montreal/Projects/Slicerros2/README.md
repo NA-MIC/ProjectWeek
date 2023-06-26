@@ -69,7 +69,7 @@ ros2 launch mycobot_280 slider_control.launch.py
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 <video controls width="420" height="315">
-    <source src="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW39_SlicerROS2_myCobot.mov" type="video/mp4">
+    <source src="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW39_SlicerROS2_myCobot.mp4" type="video/mp4">
 </video>
 
 [download video](https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW39_SlicerROS2_myCobot.mov)
