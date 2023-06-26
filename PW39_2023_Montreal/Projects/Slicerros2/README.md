@@ -67,7 +67,7 @@ ros2 launch mycobot_280 slider_control.launch.py
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
- <iframe width="420" height="315" src="https://www.dropbox.com/s/tbg77pgedba6lys/SlicerROS2_myCobot_Montreal_June2023.mov?dl=0">
+ <iframe width="420" height="315" src="https://github.com/NA-MIC/ProjectWeek/releases/download/project-week-resources/PW39_SlicerROS2_myCobot.mov">
  </iframe>
 
 # Background and References
