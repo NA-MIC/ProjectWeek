@@ -28,7 +28,7 @@ With the [Project Week GitHub Issue page](https://github.com/NA-MIC/ProjectWeek/
 
 - Check the formatting on the Key Investigators list when creating a [project issue](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=drouin-simon%2Cpiiq%2Crafaelpalomar%2Csjh26%2Ctkapur&labels=project%2Cevent%3A{{ event_name }}&projects=&template=project.yml&title=Project%3A+) (this is critical for page generation):
 
-     `- Firstname Lastname (Affiliation, Country)`
+    `- Firstname Lastname (Affiliation, Country)`
 
 ## Updating existing project pages
 
@@ -50,14 +50,16 @@ Here are the steps using the GitHub web interface:
 
 Here are some steps to make sure all of your awesome videos render correctly:
 
-1. Videos added by drag and drop will render correctly when viewed through GitHub, but need some extra tweaks to work in the final generated website.  In your `README.md`, if you have a video link that looks like this:
+1. Videos added by drag and drop will render correctly when viewed through GitHub, but need some extra tweaks to work in the final generated website.
+
+
+    In your `README.md`, if you have a video link that looks like this:
 
     ```
     https://github.com/NA-MIC/ProjectWeek/assets/66890913/8f257f29-fa9c-4319-8c49-4138003eba27
     ```
 
-
-   Update it to:
+    Update it to:
 
     ```html
     <video
@@ -67,7 +69,9 @@ Here are some steps to make sure all of your awesome videos render correctly:
     </video>
     ```
 
-2. Links to externally hosted videos (such as YouTube) will need an iframe.  Replace:
+2. Links to externally hosted videos (such as YouTube) will need an iframe.
+
+    Replace:
 
     ```
     https://youtu.be/ZWxE5QcGvE8
