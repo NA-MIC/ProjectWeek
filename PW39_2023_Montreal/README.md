@@ -15,6 +15,7 @@ project_categories:
 ---
 
 # Welcome to the web page for the 39th Project Week!
+<img src="images/pw39-event-photos.jpg" height="200">
 
 [This event](https://projectweek.na-mic.org/PW39_2023_Montreal/README.html) will take place June 12-16, 2023 in Montreal, Canada.
 
@@ -299,6 +300,9 @@ List of registered participants so far (names will be added here after processin
 <img alt="Participation statistics" src="statistics.svg" width="500"/>
 
 ## Organizers
+
+### Local organization
+[Simon Drouin](https://www.etsmtl.ca/en/research/professors/sidrouin/) - Associate professor in the department of software and information technology engineering at [École de Technologie Supérieure](https://www.etsmtl.ca/)
 
 ### Global Project Week organizing committee
 * [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)),
