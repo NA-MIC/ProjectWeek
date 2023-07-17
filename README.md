@@ -37,7 +37,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
 ## Upcoming Project Weeks
 
-The [Project Week 40](PW40_2024_GranCanaria/README.md) will be held January 29 through Feb 2 2024 Online and in Las Palmas de Gran Canaria, Spain.
+ [Project Week 40](PW40_2024_GranCanaria/README.md) will be held January 29 through Feb 2 2024 Online and in Las Palmas de Gran Canaria, Spain.
 
 * Please contact the organizers if you have interest in hosting a Project Week event.
 
