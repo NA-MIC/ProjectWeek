@@ -1,19 +1,20 @@
 <!-- Begin _includes/calendar.md -->
 
-{% raw %}
 <!--
 This template expects the following parameters:
+
 * "from" formatted as ISO 8601
 * "to" formatted as ISO 8601
 
 Example:
-{% include calendar.md from="2023-06-12" to="2023-06-16" %}
+
+{% raw %}{% include calendar.md from="2023-06-12" to="2023-06-16" %}{% endraw %}
 
 References:
+
 * https://jekyllrb.com/docs/includes/#passing-parameters-to-includes
 * https://shopify.github.io/liquid/filters/date/
 -->
-{% endraw %}
 
 <div id="calendar-container">
 </div>
