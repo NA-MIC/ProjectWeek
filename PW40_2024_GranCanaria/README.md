@@ -29,7 +29,7 @@ The **Discord** application is used to communicate between team members and orga
 
 ##  Agenda
 
-{% include calendar.md %}
+{% include calendar.md from="2024-01-29" to="2023-02-02" %}
 
 ## Breakout sessions
 

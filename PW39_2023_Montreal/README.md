@@ -44,7 +44,7 @@ Venue entrance on Google Maps: [https://goo.gl/maps/xNedgMBt4C6jwiCu5](https://g
 
 ##  Agenda
 
-{% include calendar.md %}
+{% include calendar.md from="2023-06-12" to="2023-06-16" %}
 
 ## Breakout sessions
 1. [Future of rendering in VTK and Slicer](BreakoutSessions/RenderingBreakout/README.md)
