@@ -1,6 +1,6 @@
 ## Welcome to the main page for the Project Week events!
 
-### The [39th project week](PW39_2023_Montreal/README.md) was held June 12-16, 2023 in Montreal, Canada.
+### The [40th project week](PW40_2024_GranCanaria/README.md) will held Jan 29-Feb 2nd, 2024 in Las Palmas de Gran Canaria, Spain.
 
 ## Frequently Asked Questions
 
@@ -37,7 +37,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
 ## Upcoming Project Weeks
 
- [Project Week 40](PW40_2024_GranCanaria/README.md) will be held January 29 through Feb 2 2024 Online and in Las Palmas de Gran Canaria, Spain.
+ [Project Week 40](PW40_2024_GranCanaria/README.md) will be held January 29 through Feb 2 2024, online and in person in Las Palmas de Gran Canaria, Spain.
 
 * Please contact the organizers if you have interest in hosting a Project Week event.
 
