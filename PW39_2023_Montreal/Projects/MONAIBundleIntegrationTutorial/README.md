@@ -25,15 +25,15 @@ key_investigators:
 
 # Project Description
 
-NVIDIA AI assisted annotation (AIAA) is no longer actively mainatined and MONAI bundle has been established to load a wide selection of pretrained models for radiology and pathology. 
+NVIDIA AI-assisted annotation (AIAA) is no longer actively maintained and MONAI bundle has been established to load a wide selection of pre-trained models for radiology and pathology. 
 
 
 ## Objective
 
 
-Our objective is to provide a detailed step by step description on how to use MONAI bundle for this task.
+Our objective is to provide a detailed step-by-step description on how to use MONAI bundle for this task.
 
-## Step by Step Description
+## Step-by-Step Description
 
 Setting up an AWS EC2 Windows server in the cloud: 
 The detailed process [is described here](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/).
@@ -55,13 +55,26 @@ Follow these guidelines until reaching the command to set the MONAILabel script 
 
     $Env:PATH += ";C:\Users\yourname\MONAILabel\monailabel\scripts"
 
-After setting the paths, the next step is to installed Monai in a special version (this may change in future and will be adopted):
+After setting the paths, the next step is to install Monai in a special version (this may change in the future and will be adopted):
 
     pip install monai==1.2.0rc6
 
 After a “cd $home”, where the  MONAILabel folder is located, the start_server command can be  issued:
 
     monailabel start_server --app MONAILabel/sample-apps/monaibundle --studies c:/Data/Task06_Lung/imagesTr --conf models lung_nodule_ct_detection
+
+
+possible arguments for "conf models" are: 
+
+lung_nodule_ct_detection
+pancreas_ct_dints_segmentation
+prostate_mri_anatomy
+renalStructures_UNEST_segmentation
+spleen_ct_segmentation
+spleen_deepedit_annotation
+swin_unetr_btcv_segmentation
+wholeBody_ct_segmentation
+wholeBrainSeg_Large_UNEST_segmentation
 
 After this command, the correct and requested model is automatically loaded from the [Monai Model Zoo](https://monai.io/model-zoo.html), which is a highly commendable feature.
 
@@ -84,7 +97,7 @@ The IP address of the MONAILabel server is http://52.209.177.211:8000/. During t
 
 ## Progress and Next Steps
 
-We held three workshpos during the conference with good success. In each of the workshops we were able to 
+We held three workshops during the conference with good success. In each of the workshops we were able to 
 
 - reliably connect to the AWS server instance
 - start MONAILabel
@@ -94,9 +107,10 @@ We held three workshpos during the conference with good success. In each of the 
 - perform inference with the preconfigured model
 - demonstrate label adjustments
 - submit labels
-- work from remote on the AWS server instance
+- work remotely on the AWS server instance
 - answer first-timer questions
- 
+
+
 Here is a list of the bundles from the [MONAI Model Zoo page](https://monai.io/model-zoo.html) as of 5/23:
 
 **Clara train COVID19 3D classification**: A pre-trained model for 3D COVID-19 classification using CT images【1†source】
