@@ -67,13 +67,21 @@ After a “cd $home”, where the  MONAILabel folder is located, the start_serve
 possible arguments for "conf models" are: 
 
 lung_nodule_ct_detection
+
 pancreas_ct_dints_segmentation
+
 prostate_mri_anatomy
+
 renalStructures_UNEST_segmentation
+
 spleen_ct_segmentation
+
 spleen_deepedit_annotation
+
 swin_unetr_btcv_segmentation
+
 wholeBody_ct_segmentation
+
 wholeBrainSeg_Large_UNEST_segmentation
 
 After this command, the correct and requested model is automatically loaded from the [Monai Model Zoo](https://monai.io/model-zoo.html), which is a highly commendable feature.
