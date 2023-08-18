@@ -44,7 +44,8 @@ _\# if false troubleshoot_
 
 [Pytorch get started page](https://pytorch.org/get-started/locally/)
 
-![](https://lh6.googleusercontent.com/6YITAKuz-Ap3IKQGt_6keytnR62ySZ2H-eSMw5NS7CGb5JYewbqdO_vUEfJP8KaSjliBXx3S8bha71WyYHd-pHu8aphc-CmMoAHoOJcpyp_2b4RVeXzcBYX6wpa2-oifHr-Hkrqcm1S77V75rg)
+![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/cbb0c881-f25b-40e2-8748-3e7aa485e68d)
+
 
 Install latest monailabel version from Github
 
