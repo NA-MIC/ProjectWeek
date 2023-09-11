@@ -45,7 +45,7 @@ In order to use the extension in pulmonology to correlate a recent symptomatolog
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-I am looking for scanner images of patients meeting my criteria
+Gathering of X-Ray images of patients that meet the study criteria
 
 # Illustrations
 
