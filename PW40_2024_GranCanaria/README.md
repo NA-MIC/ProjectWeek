@@ -19,6 +19,24 @@ project_categories:
 
 We hold weekly preparation meetings at 10am on Tuesdays on Zoom, starting November 21, 2023. The link will be posted here the week before.
 
+## Venue
+
+| Hotel NH Imperial Playa |
+| -----|
+|<img src="NHIMperialPlaya.jpg" width="1000" height="688">|
+
+- **Recommended hotels (special rates) and maps**
+    - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
+        - Booking: TBD
+    - NH Las Palmas Playa Las Canteras [Map](https://cutt.ly/vwkkTDE)
+        - Booking: TBD
+   
+- **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
+    - Taxi (line at the airport)
+    - [Bus line 60](https://guaguasglobal.com/lineas-horarios/linea/?id=60)
+    - [Map: Airport - San Telmo bus station](https://www.google.com/maps/dir/Gran+Canaria+Airport,+GC-1,+s%2Fn,+35230+Las+Palmas+de+Gran+Canaria,+Las+Palmas/Estacion+De+Guaguas+SAN+TELMO,+35002+Las+Palmas+de+Gran+Canaria,+Las+Palmas/@28.0191886,-15.4859935,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xc40a266c3662d1d:0x824bcf7e159f85d4!2m2!1d-15.3874042!2d27.9289223!1m5!1m1!1s0xc40958500f0b3f5:0x3693fb0e3c418af2!2m2!1d-15.4158957!2d28.109201!3e3?entry=ttu)
+- The city has good bus/taxi service and is also walkable.
+
 ## Registration
 
 TBD
