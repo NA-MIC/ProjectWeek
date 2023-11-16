@@ -27,9 +27,9 @@ We hold weekly preparation meetings at 10am on Tuesdays on Zoom, starting Novemb
 
 - **Recommended hotels (special rates) and maps**
     - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
-        - Booking: TBD
+        - Booking: [Discounted room block available](https://www.nh-hotels.com/es/event/namic-workshop)
     - NH Las Palmas Playa Las Canteras [Map](https://cutt.ly/vwkkTDE)
-        - Booking: TBD
+        - Booking: [Discounted room block available](https://www.nh-hotels.com/es/event/grupo-na-mic-workshop)
    
 - **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
     - Taxi (line at the airport)
