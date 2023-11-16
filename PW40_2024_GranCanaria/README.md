@@ -86,6 +86,9 @@ Idafen Santana-Pérez, PhD, Project Manager and Research Fellow at Grupo de Tecn
 * [@rafaelpalomar](https://github.com/rafaelpalomar) ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp))
 * [@piiq](https://github.com/piiq) ([Theodore Aptekarev](https://discourse.slicer.org/u/pll_llq))
 * [@sjh26](https://github.com/sjh26) ([Sam Horvath, PhD](https://www.kitware.com/samantha-horvath/))
+* [@jruizalz](https://github.com/jruizalz) ([Juan Ruiz Alzola, PhD](https://www2.ulpgc.es/index.php?pagina=crrPDI&ver=pdi&consulta=NDIwOTg3ODE=))
+* [@idafensp](https://github.com/idafensp) ([Idafen Santana Perez, PhD](https://ebatinca.com/equipo))
+* [@cpinter](https://github.com/cpinter) ([Csaba Pinter, PhD](https://ebatinca.com/equipo))
 
 ## History
 
