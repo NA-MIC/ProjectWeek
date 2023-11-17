@@ -1,7 +1,7 @@
 name: Project
 description: Issue template to streamline the creation of project pages.
 title: "Project: "
-labels: ["project", "event:PW39_2023_Montreal"]
+labels: ["project", "event:PW40_2024_GranCanaria"]
 assignees:
   - drouin-simon
   - piiq
