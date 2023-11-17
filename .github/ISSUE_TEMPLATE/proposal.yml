@@ -1,7 +1,7 @@
 name: Proposal
 description: Issue template for creating an issue supporting discussion around a project concept or idea.
 title: "Proposal: "
-labels: ["proposal", "event:PW39_2023_Montreal"]
+labels: ["proposal", "event:PW40_2024_GranCanaria"]
 assignees:
   - drouin-simon
   - piiq
