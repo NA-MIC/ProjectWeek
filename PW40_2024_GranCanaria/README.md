@@ -82,6 +82,7 @@ Idafen Santana-Pérez, PhD, Project Manager and Research Fellow at Grupo de Tecn
 ### Global Project Week organizing committee
 
 * [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)),
+* [@rkikinis](https://github.com/rkikinis) ([Ron Kikinis, MD](http://www.spl.harvard.edu/pages/People/kikinis)), 
 * [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//))
 * [@rafaelpalomar](https://github.com/rafaelpalomar) ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp))
 * [@piiq](https://github.com/piiq) ([Theodore Aptekarev](https://discourse.slicer.org/u/pll_llq))
