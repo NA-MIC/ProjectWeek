@@ -17,7 +17,7 @@ project_categories:
 
 ## Preparation meetings
 
-We hold weekly preparation meetings at 10am on Tuesdays on Zoom, starting November 21, 2023. The link will be posted here the week before.
+We hold weekly preparation meetings at 10am on Tuesdays, starting November 21, 2023. This is the meeting link for [Zoom](https://discord.com/channels/843934857620357130/932672168351903804/1176539015248351333).
 
 ## Venue
 
