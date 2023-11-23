@@ -75,9 +75,9 @@ List of registered participants so far (names will be added here after processin
 
 ### Local organizing committee
 
-Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies, director of the Grupo de Tecnología Médica y Audiovisual (GTMA), [Instituto Universitario de Investigaciones Biomédicas y Sanitarias (IUIBS)](https://www.iuibs.ulpgc.es/), [Universidad de Las Palmas de Gran Canaria (ULPGC)](https://www.ulpgc.es/)
-
-Idafen Santana-Pérez, PhD, Project Manager and Research Fellow at Grupo de Tecnología Médica y Audiovisual (GTMA), [Instituto Universitario de Investigaciones Biomédicas y Sanitarias (IUIBS)](https://www.iuibs.ulpgc.es/), [Universidad de Las Palmas de Gran Canaria (ULPGC)](https://www.ulpgc.es/)
+* Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies, director of the Grupo de Tecnología Médica y Audiovisual (GTMA), [Instituto Universitario de Investigaciones Biomédicas y Sanitarias (IUIBS)](https://www.iuibs.ulpgc.es/), [Universidad de Las Palmas de Gran Canaria (ULPGC)](https://www.ulpgc.es/)
+* Idafen Santana-Pérez, PhD, Information Systems and Technology Consulting Director, [EBTAINCA, S.L.](https://ebatinca.com/equipo)
+* Csaba Pintér, PhD, CTO, [EBTAINCA, S.L.](https://ebatinca.com/equipo)
 
 ### Global Project Week organizing committee
 
@@ -87,9 +87,6 @@ Idafen Santana-Pérez, PhD, Project Manager and Research Fellow at Grupo de Tecn
 * [@rafaelpalomar](https://github.com/rafaelpalomar) ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp))
 * [@piiq](https://github.com/piiq) ([Theodore Aptekarev](https://discourse.slicer.org/u/pll_llq))
 * [@sjh26](https://github.com/sjh26) ([Sam Horvath, PhD](https://www.kitware.com/samantha-horvath/))
-* [@jruizalz](https://github.com/jruizalz) ([Juan Ruiz Alzola, PhD](https://www2.ulpgc.es/index.php?pagina=crrPDI&ver=pdi&consulta=NDIwOTg3ODE=))
-* [@idafensp](https://github.com/idafensp) ([Idafen Santana Perez, PhD](https://ebatinca.com/equipo))
-* [@cpinter](https://github.com/cpinter) ([Csaba Pinter, PhD](https://ebatinca.com/equipo))
 
 ## History
 
