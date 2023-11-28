@@ -1,5 +1,8 @@
 ---
 permalink: /:path/
+redirect_from:
+- /PW40_2024_GranCanaria/README.html
+- /PW40_2024_GranCanaria/Readme.html
 
 project_categories:
 - Early Presenter
