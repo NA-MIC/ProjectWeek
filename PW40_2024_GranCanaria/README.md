@@ -48,7 +48,7 @@ November 28 meeting: https://NTNU.zoom.us/j/92717925334?pwd=bGh0ajhzMzh0S1lJaDdT
 
 - All participants (both remote and in-person) have to register using the [this form](https://forms.gle/iToYPfiE1xa7pYnN9).
 - Registration for **remote** participants is free.
-- Registration fee for **in person** participants will be announced shortly.
+- Registration fee for **in person** participants will be 450€ per person. The payment link is still pending, and it will be available soon.
 
 ## Discord
 
