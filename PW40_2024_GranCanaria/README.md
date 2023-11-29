@@ -24,7 +24,7 @@ project_categories:
 
 We hold weekly preparation meetings at 10am on Tuesdays on Zoom, starting November 21, 2023. The link will be posted here the week before.
 
-November 28 meeting: https://NTNU.zoom.us/j/92717925334?pwd=bGh0ajhzMzh0S1lJaDdTQ0dHaGV5dz09
+November 28 meeting: [Zoom link](https://NTNU.zoom.us/j/92717925334?pwd=bGh0ajhzMzh0S1lJaDdTQ0dHaGV5dz09)
 
 ## Venue
 
