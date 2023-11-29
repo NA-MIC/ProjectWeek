@@ -30,7 +30,7 @@ November 28 meeting: https://NTNU.zoom.us/j/92717925334?pwd=bGh0ajhzMzh0S1lJaDdT
 
 | Hotel NH Imperial Playa |
 | -----|
-|<img src="NHImperialPlaya.jpg" width="1000" height="688">|
+|<img src="NHIMperialPlaya.jpg" width="1000" height="688">|
 
 - **Recommended hotels (special rates) and maps**
   - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
