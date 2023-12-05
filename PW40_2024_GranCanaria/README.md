@@ -75,6 +75,21 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
+1. Steve Pieper, Isomics, Inc., USA, (In-person)
+1. Theodore Aptekarev, Slicer Community, Montenegro, (In-person)
+1. Csaba Pinter, EBATINCA, Spain, (In-person)
+1. Attila Nagy, University of Szeged, Dept. of Medical Physics and Informatics, Hungary, (In-person)
+1. Rafael Palomar, Oslo University Hospital, Norway, (In-person)
+1. Hathaichanok Parakarn, Khon Kaen University, Thailand, (Online)
+1. Tatpong Katanyukul, Khon Kaen University, Thailand, (Online)
+1. Andrey Fedorov, BWH, USA, (In-person)
+1. Hans Knutsson, Linkoping University, Sweden, (In-person)
+1. Juan Ruiz-Alzola, University of Las Palmas de Gran Canaria, Spain, (In-person)
+1. Lucas Sanchez Silva, USP, Brazil, (In-person)
+1. Steve Pieper, Isomics, Inc., USA, (In-person)
+1. Tina Kapur, Brigham and Women's Hospital, Harvard Medical Schools, USA, (In-person)
+1. Simon Drouin, École de technologie supérieure, Canada, (Online)
+
 <!-- Participants list end -->
 
 ## Statistics
