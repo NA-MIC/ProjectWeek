@@ -9,9 +9,9 @@
 
 With the [Project Week GitHub Issue page](https://github.com/NA-MIC/ProjectWeek/issues/new/choose), you have three options to create your Project Page:
 
-1. [Create a Proposal](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=drouin-simon%2Cpiiq%2Crafaelpalomar%2Csjh26%2Ctkapur&labels=proposal%2Cevent%3A{{ event_name }}&projects=&template=proposal.yml&title=Proposal%3A+) issue: If you have an idea for a project page but are not quite ready to create it yet, you can create a “Proposal” issue.
+1. [Create a Proposal](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=drouin-simon%2Cpiiq%2Crafaelpalomar%2Csjh26%2Ctkapur&labels=proposal%2Cevent%3A{{ event_name }}&projects=&template=proposal.yml&title=Proposal%3A+) issue: If you have an idea for a project page but are not quite ready to create it yet, you can create a “Proposal” issue.  You will still need to create a project page later.
 
-2. [Create a Project](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=drouin-simon%2Cpiiq%2Crafaelpalomar%2Csjh26%2Ctkapur&labels=project%2Cevent%3A{{ event_name }}&projects=&template=project.yml&title=Project%3A+) issue: If you are ready to create your page, you can simply create a “Project” issue. This issue will allow you to fill out a convenient form to provide the necessary details.
+2. [Create a Project](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=drouin-simon%2Cpiiq%2Crafaelpalomar%2Csjh26%2Ctkapur&labels=project%2Cevent%3A{{ event_name }}&projects=&template=project.yml&title=Project%3A+) issue: If you are ready to create your page, you can simply create a “Project” issue. This issue will allow you to fill out a convenient form to provide the necessary details.  The Project Week website team will then review the issue and trigger the page creation pull request.
 
 3. [Create the project page yourself using the template](Projects/README.md): If you prefer to create the Project Page yourself, you can still do so by using the provided template and submitting a pull request.
 
