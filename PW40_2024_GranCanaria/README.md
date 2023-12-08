@@ -86,9 +86,10 @@ List of registered participants so far (names will be added here after processin
 1. Hans Knutsson, Linkoping University, Sweden, (In-person)
 1. Juan Ruiz-Alzola, University of Las Palmas de Gran Canaria, Spain, (In-person)
 1. Lucas Sanchez Silva, USP, Brazil, (In-person)
-1. Steve Pieper, Isomics, Inc., USA, (In-person)
 1. Tina Kapur, Brigham and Women's Hospital, Harvard Medical Schools, USA, (In-person)
 1. Simon Drouin, École de technologie supérieure, Canada, (Online)
+1. Andras Lasso, PerkLab, Queen's University, Canada, (In-person)
+1. Luiz Murta, University of  São Paulo, Brazil, (In-person)
 
 <!-- Participants list end -->
 
