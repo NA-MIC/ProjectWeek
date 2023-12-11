@@ -102,6 +102,7 @@ List of registered participants so far (names will be added here after processin
 - Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies, director of the Grupo de Tecnología Médica y Audiovisual (GTMA), [Instituto Universitario de Investigaciones Biomédicas y Sanitarias (IUIBS)](https://www.iuibs.ulpgc.es/), [Universidad de Las Palmas de Gran Canaria (ULPGC)](https://www.ulpgc.es/)
 - Idafen Santana-Pérez, PhD, Information Systems and Technology Consulting Director, [EBATINCA, S.L.](https://ebatinca.com/equipo)
 - Csaba Pintér, PhD, CTO, [EBATINCA, S.L.](https://ebatinca.com/equipo)
+- Javier Pascau, PhD, Professor of Bioengineering, [Universidad Carlos III de Madrid](https://igt.uc3m.es/jpascau)
 
 ### Global Project Week organizing committee
 
