@@ -48,7 +48,9 @@ December 12 meeting: [Zoom link](https://NTNU.zoom.us/j/92717925334?pwd=bGh0ajhz
 
 - All participants (both remote and in-person) have to register using the [this form](https://forms.gle/iToYPfiE1xa7pYnN9).
 - Registration for **remote** participants is free.
-- Registration fee for **in person** participants will be 450€ per person. The payment link is still pending, and it will be available soon.
+- Registration fee for **in person** participants will be 450€ per person. Use the following [payment link](https://es.social-commerce.io/ECcomk) to conduct the payment.
+
+**Note:** EU regulations require 2FA for all payments. European banking standards and most credit cards support this by default. If your payment doesn't process due to 2FA issues, please reach out for a custom payment link at [namic@ebatinca.com](mailto:namic@ebatinca.com).
 
 ## Discord
 
