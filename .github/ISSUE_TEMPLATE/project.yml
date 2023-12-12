@@ -27,6 +27,7 @@ body:
       - Quantification and Computation
       - Cloud / Web
       - Infrastructure
+      - Other
   validations:
     required: true
 
