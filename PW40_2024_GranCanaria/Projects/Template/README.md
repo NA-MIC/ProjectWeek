@@ -56,3 +56,7 @@ key_investigators:
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
+
+# Discussion
+
+<!-- Include here a link to a GitHub Issue or other place for discussing this project. -->
