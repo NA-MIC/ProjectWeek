@@ -90,6 +90,15 @@ List of registered participants so far (names will be added here after processin
 1. Simon Drouin, École de technologie supérieure, Canada, (Online)
 1. Andras Lasso, PerkLab, Queen's University, Canada, (In-person)
 1. Luiz Murta, University of  São Paulo, Brazil, (In-person)
+1. Felix Hofmann, Department of General, Visceral and Transplantation Surgery, LMU University Hospital, Munich, Germany, Germany, (Undecided)
+1. Mike Jin, Brigham and Women's Hospital, Harvard Medical School; Centaur Labs, USA, (In-person)
+1. Erke Can Tellal, apoQlar GmbH, Germany, (Online)
+1. Paolo Zaffino, Magna Graecia University of Catanzaro, Italy, (In-person)
+1. Michela Destito, Magna Graecia University of Catanzaro, Italy, (In-person)
+1. Roberto Veraldi, Magna Graecia University of Catanzaro, Italy, (In-person)
+1. Ron Kikinis, Brigham and Women's Hospital and Harvard Medical School, USA, (In-person)
+1. Ahmedou Moulaye IDRISS, Faculty of Medicine / Nouakchott University, Mauritania, (In-person)
+1. Domonkos Tatár, University of Szeged, Albert Szent-Györgyi Medical School, Hungary, (Online)
 
 <!-- Participants list end -->
 
