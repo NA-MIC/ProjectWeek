@@ -12,6 +12,7 @@ project_categories:
 - Quantification and Computation
 - Cloud / Web
 - Infrastructure
+- Other
 ---
 
 <!-- markdownlint-disable no-trailing-punctuation no-bare-urls no-inline-html -->
