@@ -31,7 +31,7 @@ jobs:
 
         echo "title=$title" >> $GITHUB_OUTPUT
 
-        html_url=$${{ github.event.issue.html_url }}
+        html_url=${{ github.event.issue.html_url }}
         echo "html_url [$html_url]"
         echo "html_url=$html_url" >> $GITHUB_OUTPUT
 
