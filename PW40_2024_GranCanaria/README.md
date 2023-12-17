@@ -102,6 +102,21 @@ List of registered participants so far (names will be added here after processin
 1. Ron Kikinis, Brigham and Women's Hospital and Harvard Medical School, USA, (In-person)
 1. Ahmedou Moulaye IDRISS, Faculty of Medicine / Nouakchott University, Mauritania, (In-person)
 1. Domonkos Tatár, University of Szeged, Albert Szent-Györgyi Medical School, Hungary, (Online)
+1. Felix von Haxthausen, Image Guided Therapy Research Group, Universidad Carlos III de Madrid, Spain, (In-person)
+1. Michael Onken, Open Connections GmbH, Germany, (In-person)
+1. Zora Kikinis, Brigham and Women's Hospital and Harvard Medical School, USA, (In-person)
+1. Constantin CONSTANTINESCU, Universidad de Las Palmas de Gran Canaria, Romania, (In-person)
+1. Eszter Asztalos-Zsembery, University of Szeged, Hungary, (In-person)
+1. Joël Spaltenstein, Agora Care SA, Switzerland, (In-person)
+1. Laura Gui Levy, Agora Care, Switzerland, (In-person)
+1. José Carlos Mateo Pérez, Universidad de Las Palmas de Gran Canaria, Spain, (In-person)
+1. José Carlos Mateo Pérez, University of Las Palmas de Gran Canaria, Spain, (In-person)
+1. Pablo Sergio Castellano Rodríguez, University of Las Palmas de Gran Canaria, Spain, (In-person)
+1. Davide Punzo, Freelancer, France, (In-person)
+1. Attila Tanács, University of Szeged, Hungary, (In-person)
+1. Brianna Burton, 3D Side SA, Belgium, (In-person)
+1. Maria, Monzon, switzerland/spain, (In-person)
+1. Buddhathida Wangsrimongkol, Khon Kaen University, Thailand, (Online)
 
 <!-- Participants list end -->
 
