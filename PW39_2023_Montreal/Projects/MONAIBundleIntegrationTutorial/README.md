@@ -57,7 +57,7 @@ Follow these guidelines until reaching the command to set the MONAILabel script 
 
 After setting the paths, the next step is to install Monai in a special version (this may change in the future and will be adopted):
 
-    pip install monai==1.2.0rc6
+    pip install monai==1.2.0
 
 After a “cd $home”, where the  MONAILabel folder is located, the start_server command can be  issued:
 
