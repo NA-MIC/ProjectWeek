@@ -110,7 +110,6 @@ List of registered participants so far (names will be added here after processin
 1. Joël Spaltenstein, Agora Care SA, Switzerland, (In-person)
 1. Laura Gui Levy, Agora Care, Switzerland, (In-person)
 1. José Carlos Mateo Pérez, Universidad de Las Palmas de Gran Canaria, Spain, (In-person)
-1. José Carlos Mateo Pérez, University of Las Palmas de Gran Canaria, Spain, (In-person)
 1. Pablo Sergio Castellano Rodríguez, University of Las Palmas de Gran Canaria, Spain, (In-person)
 1. Davide Punzo, Freelancer, France, (In-person)
 1. Attila Tanács, University of Szeged, Hungary, (In-person)
