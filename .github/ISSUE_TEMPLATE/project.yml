@@ -11,6 +11,16 @@ assignees:
 
 body:
 
+- type: dropdown
+  attributes:
+    label: Draft
+    description: Select whether the project is ready to be created once this issue is submitted.
+    options:
+      - Ready - team will start page creating immediately
+      - Draft - team will hold off on page creation    
+  validations:
+    required: true
+
 - type: markdown
   attributes:
     value: |
