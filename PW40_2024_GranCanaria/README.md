@@ -116,6 +116,8 @@ List of registered participants so far (names will be added here after processin
 1. Brianna Burton, 3D Side SA, Belgium, (In-person)
 1. Maria, Monzon, switzerland/spain, (In-person)
 1. Buddhathida Wangsrimongkol, Khon Kaen University, Thailand, (Online)
+1. Francisco Carlos Felipe Rodríguez , Universidad de Las Palmas de Gran Canaria, Spain, (In-person)
+1. Philipp Schader, German Cancer Research Center, Germany, (In-person)
 
 <!-- Participants list end -->
 
