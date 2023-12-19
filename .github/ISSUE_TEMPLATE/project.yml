@@ -13,7 +13,7 @@ body:
 
 - type: dropdown
   attributes:
-    label: Draft
+    label: Draft Status
     description: Select whether the project is ready to be created once this issue is submitted.
     options:
       - Ready - team will start page creating immediately
