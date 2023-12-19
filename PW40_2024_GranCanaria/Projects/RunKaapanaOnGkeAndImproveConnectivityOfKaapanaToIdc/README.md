@@ -42,6 +42,12 @@ This project has two independent sub-projects that can be executed independently
 
 The next steps would be to try Kaapana with GKE: Therefore,
 
+1. create a specific LoadBalancer.
+2. resolve occurring issues
+3. create deployment scripts
+4. create multi-node setup (one node with GPU, one node without)
+5. Run GPU tasks on GPU node, rest on CPU node.
+
 For Kaapana and IDC:
 Come up with a plan and possibilities how to improve the connectivity.
 
