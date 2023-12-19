@@ -35,6 +35,7 @@ The Project Week team will continue to make improvements to the project page gen
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
+1. Test out current page infrastructure
 
 *No response*
 
