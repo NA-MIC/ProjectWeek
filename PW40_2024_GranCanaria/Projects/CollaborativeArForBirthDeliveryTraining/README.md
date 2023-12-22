@@ -63,8 +63,11 @@ This time we want to extend the previous work to create a collaborative AR appli
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-<https://github.com/NA-MIC/ProjectWeek/assets/66890913/1a8500a1-6d84-4599-9cda-557fc288fc83>
-
+<video
+ controls muted
+ src="https://github.com/NA-MIC/ProjectWeek/assets/66890913/1a8500a1-6d84-4599-9cda-557fc288fc83"
+ style="max-height:640px; min-height: 200px">
+</video>
 This video shows our current progress in showing in Unity the information recorded with 3D Slicer.
 
 # Background and References
