@@ -31,10 +31,6 @@ jobs:
 
         echo "title=$title" >> $GITHUB_OUTPUT
 
-        html_url=${{ github.event.issue.html_url }}
-        echo "html_url [$html_url]"
-        echo "html_url=$html_url" >> $GITHUB_OUTPUT
-
     - name: Find project issue comment
       uses: peter-evans/find-comment@v2.4.0
       id: fc
@@ -115,9 +111,8 @@ jobs:
       id: extract
       run: |
         echo ${{ toJSON(steps.parse.outputs.data) }} | \
-        jq --arg title "${{ steps.project_issue.outputs.title }}" --arg html_url "${{ steps.project_issue.outputs.html_url }}"'{
+        jq --arg title "${{ steps.project_issue.outputs.title }}" '{
           "title": $title,
-          "linked_issue_html_url": $html_url,
           "category": .category.text,
           "presenter_location": .["presenter-location"].text,
           "description": .["project-description"].text,
