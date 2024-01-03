@@ -51,6 +51,8 @@ December 12 meeting: [Zoom link](https://NTNU.zoom.us/j/92717925334?pwd=bGh0ajhz
 - Registration for **remote** participants is free.
 - Registration fee for **in person** participants will be 450€ per person. Use the following [payment link](https://es.social-commerce.io/ECcomk) to conduct the payment.
 
+**Important: The deadline for registration and payment of the fee is Jan 15th**. If you have problems with the payment or registration, contact [namic@ebatinca.com](mailto:namic@ebatinca.com).
+
 **Note:** EU regulations require 2FA for all payments. European banking standards and most credit cards support this by default. If your payment doesn't process due to 2FA issues, please reach out for a custom payment link at [namic@ebatinca.com](mailto:namic@ebatinca.com).
 
 ## Discord
@@ -77,6 +79,8 @@ List of registered participants so far (names will be added here after processin
 
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
+
+Updated on 2024-01-03.
 
 1. Steve Pieper, Isomics, Inc., USA, (In-person)
 1. Theodore Aptekarev, Slicer Community, Montenegro, (In-person)
@@ -118,6 +122,26 @@ List of registered participants so far (names will be added here after processin
 1. Buddhathida Wangsrimongkol, Khon Kaen University, Thailand, (Online)
 1. Francisco Carlos Felipe Rodríguez , Universidad de Las Palmas de Gran Canaria, Spain, (In-person)
 1. Philipp Schader, German Cancer Research Center, Germany, (In-person)
+1. Jeanne Claret, University of Michigan , USA, (Online)
+1. Vitaliy Petrov, Lviv Medical University, Ukraine, (Online)
+1. Kyle Sunderland, Queen's University, Canada, (In-person)
+1. Hanno Gao, DKFZ, Germany, (Online)
+1. Javier Pascau, Universidad Carlos III de Madrid, Spain, (In-person)
+1. Alicia Pose Díez de la Lastra, Universidad Carlos III de Madrid, Spain, (In-person)
+1. Monica Garcia Sevilla, Universidad Carlos III de Madrid, Spain, (In-person)
+1. Dr. Daniel Palkovics, Semmelweis University, Hungary, (In-person)
+1. Rafael Oddone Scatena, Universidade de São Paulo, Brazil, (Undecided)
+1. Douglas Samuel Gonçalves, USP, Brazil, (Online)
+1. Ida Granö, Aalto University, Finland, (In-person)
+1. David Clunie, PixelMed (IDC), USA, (In-person)
+1. Federico Gnesotto, ImFusion GmbH, Germany, (In-person)
+1. Okeowo Adedoyin Esther , Lagos State University Teaching Hospital , Nigeria, (Online)
+1. Niklas Wahl, German Cancer Research Center (DKFZ), Germany, (In-person)
+1. Nora Penzel, Massachusetts General Hospital, Harvard Medical School, Boston, USA, (In-person)
+1. Deepa Krishnaswamy, Brigham and Women's Hospital, USA, (In-person)
+1. Martin Matilla, ImFusion GmbH, Germany, (In-person)
+1. Mohamed Alalli Bilal, University Cheikh Anta diop of Dakar (Ecole superieure polytechnique), Mauritania, (Online)
+1. Leonard Nürnberg, Harvard AIM / Maastricht University, Netherlands, (In-person)
 
 <!-- Participants list end -->
 
