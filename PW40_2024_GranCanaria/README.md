@@ -80,6 +80,8 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
+Updated on 2024-01-03.
+
 1. Steve Pieper, Isomics, Inc., USA, (In-person)
 1. Theodore Aptekarev, Slicer Community, Montenegro, (In-person)
 1. Csaba Pinter, EBATINCA, Spain, (In-person)
