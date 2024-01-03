@@ -121,7 +121,7 @@ List of registered participants so far (names will be added here after processin
 1. Francisco Carlos Felipe Rodríguez , Universidad de Las Palmas de Gran Canaria, Spain, (In-person)
 1. Philipp Schader, German Cancer Research Center, Germany, (In-person)
 1. Jeanne Claret, University of Michigan , USA, (Online)
-1. Vitaliy Petrov, Lviv medical university, ukarine, (Online)
+1. Vitaliy Petrov, Lviv Medical University, Ukraine, (Online)
 1. Kyle Sunderland, Queen's University, Canada, (In-person)
 1. Hanno Gao, DKFZ, Germany, (Online)
 1. Javier Pascau, Universidad Carlos III de Madrid, Spain, (In-person)
