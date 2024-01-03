@@ -82,4 +82,4 @@ The first clinical application of Volume-AXI is related to dentistry, aiming to 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-[VolumeAXI](https://github.com/Jeanneclre/VolumeAXI)https://github.com/Jeanneclre/VolumeAXI
+[VolumeAXI](https://github.com/Jeanneclre/VolumeAXI)
