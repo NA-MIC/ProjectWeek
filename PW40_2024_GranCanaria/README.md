@@ -162,7 +162,7 @@ Updated on 2024-01-08.
 1. Moon Kim, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Germany, (In-person)
 1. Ciro Benito Raggio , Karlsruhe Institute of Technology, german, (In-person)
 1. Domenico Riggio, Karlsruhe Institute of Technology, Germany, (In-person)
-1. Takayoshi Suzuki, Hokkaido University, japan, (Online)
+1. Takayoshi Suzuki, Hokkaido University, Japan, (Online)
 
 <!-- Participants list end -->
 
