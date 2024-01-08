@@ -72,4 +72,39 @@ Next steps are to build the test suite in advance, prepare test data and begin t
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-None
+### Current known solutions for the WSI-DICOM Conversion: 
+
+**thanks to @dclunie**
+
+1. bfconvert (BioFormats):
+   Converting a file to different format — Bio-Formats 7.1.0 documentation. 
+   Link: https://bioformats.readthedocs.io/en/v7.1.0/users/comlinetools/conversion.html
+2. dicom_wsi
+   Gu Q, Prodduturi N, Jiang J, Flotte TJ, Hart SN. Dicom_wsi: A Python Implementation for Converting Whole-Slide Images to Digital Imaging and Communications in Medicine Compliant Files. J Pathol Inform. 2021;12(1):21. doi:[10.4103/jpi.jpi_88_20](https://doi.org/10.4103/jpi.jpi_88_20)
+  Link: https://github.com/Steven-N-Hart/dicom_wsi
+3. GoogleCloudPlatform. WSI to DICOM Converter. 
+  Google Cloud Platform; 2022. 
+   Link: https://github.com/GoogleCloudPlatform/wsi-to-dicom-converter
+4. wsidicomizer. Sectra AB
+   Sectra AB. wsidicomizer. imi-bigpicture; 2021. 
+   Link: https://github.com/imi-bigpicture/wsidicomizer
+5. Jodogne S, Lenaerts É, Marquet L, Erpicum C, Greimers R, Gillet P, et al. Open Implementation of DICOM for Whole-Slide Microscopic Imaging: In: Proceedings of the 12th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications. Porto, Portugal: SCITEPRESS - Science and Technology Publications; 2017. p. 81–7. Available from: https://orbi.uliege.be/handle/2268/204498 doi:[10.5220/0006155100810087](https://doi.org/10.5220/0006155100810087)
+6. Clunie D. com.pixelmed.convert.TIFFToDicom. 
+   Link: http://www.dclunie.com/pixelmed/software/javadoc/com/pixelmed/convert/TIFFToDicom.html
+7. Pocock J. wsic. 2023.
+  Link: https://github.com/John-P/wsic
+8. Orthanc WSI "Dicomizer"
+  Link: https://www.orthanc-server.com/static.php?page=wsi
+  Documentation: https://orthanc.uclouvain.be/book/plugins/wsi.html
+
+### Background Information
+DICOM-WSI: https://dicom.nema.org/dicom/dicomwsi/
+
+### Test Data
+
+OpenSlide: https://openslide.org/
+Test data can be downloaded there for some vendors.
+
+### Other Resources
+Test-Suite: TBD
+Link to Lean Study Host: https://github.com/TIO-IKIM/LeanStudyHost
