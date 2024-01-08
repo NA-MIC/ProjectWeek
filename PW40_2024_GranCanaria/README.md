@@ -97,7 +97,7 @@ Updated on 2024-01-08.
 1. Simon Drouin, École de technologie supérieure, Canada, (Online)
 1. Andras Lasso, PerkLab, Queen's University, Canada, (In-person)
 1. Luiz Murta, University of  São Paulo, Brazil, (In-person)
-1. Felix Hofmann, Department of General, Visceral and Transplantation Surgery, LMU University Hospital, Munich, Germany, Germany, (Undecided)
+1. Felix Hofmann, Department of General, Visceral and Transplantation Surgery, LMU University Hospital, Munich, Germany, (Undecided)
 1. Mike Jin, Brigham and Women's Hospital, Harvard Medical School; Centaur Labs, USA, (In-person)
 1. Erke Can Tellal, apoQlar GmbH, Germany, (Online)
 1. Paolo Zaffino, Magna Graecia University of Catanzaro, Italy, (In-person, Confirmed)
@@ -160,7 +160,7 @@ Updated on 2024-01-08.
 1. Igor Octaviano, Radical Imaging / OHIF, Brazil, (Online)
 1. Chi Zhang, Texas A&M University School of Dentistry, USA, (Online)
 1. Moon Kim, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Germany, (In-person)
-1. Ciro Benito Raggio , Karlsruhe Institute of Technology, german, (In-person)
+1. Ciro Benito Raggio , Karlsruhe Institute of Technology, Germany, (In-person)
 1. Domenico Riggio, Karlsruhe Institute of Technology, Germany, (In-person)
 1. Takayoshi Suzuki, Hokkaido University, Japan, (Online)
 
