@@ -55,7 +55,7 @@ This project aims to develop an open-source and ideally community-maintained sol
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-None
+<img width="499" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/50300669/c6a540c4-77b5-4042-bf93-8b85fc4856ad">
 
 # Background and References
 
