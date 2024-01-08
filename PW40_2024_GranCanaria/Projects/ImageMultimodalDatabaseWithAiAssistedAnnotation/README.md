@@ -33,6 +33,11 @@ The project would comprise set up a ORTHANC PACS Server with a non-relational Mo
 
 This project aims to develop an open-source and ideally community-maintained solution for:
 
+1. Data Standardization: All collected data will be converted and standarized into research format (e.g. BIDS format)
+2. Having a multimodal research database or integration of medical records with ORTHANC Database.
+3. The infrastructure would enable connection to annotation tools such as MONAI Label.
+
+
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
