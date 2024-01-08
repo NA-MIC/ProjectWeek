@@ -80,7 +80,7 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-01-05.
+Updated on 2024-01-08.
 
 1. Steve Pieper, Isomics, Inc., USA, (In-person, Confirmed)
 1. Theodore Aptekarev, Slicer Community, Montenegro, (In-person, Confirmed)
@@ -102,12 +102,12 @@ Updated on 2024-01-05.
 1. Erke Can Tellal, apoQlar GmbH, Germany, (Online)
 1. Paolo Zaffino, Magna Graecia University of Catanzaro, Italy, (In-person, Confirmed)
 1. Michela Destito, Magna Graecia University of Catanzaro, Italy, (In-person)
-1. Roberto Veraldi, Magna Graecia University of Catanzaro, Italy, (In-person)
+1. Roberto Veraldi, Magna Graecia University of Catanzaro, Italy, (In-person, Confirmed)
 1. Ron Kikinis, Brigham and Women's Hospital and Harvard Medical School, USA, (In-person, Confirmed)
 1. Ahmedou Moulaye IDRISS, Faculty of Medicine / Nouakchott University, Mauritania, (In-person)
 1. Domonkos Tatár, University of Szeged, Albert Szent-Györgyi Medical School, Hungary, (Online)
 1. Felix von Haxthausen, Image Guided Therapy Research Group, Universidad Carlos III de Madrid, Spain, (In-person)
-1. Michael Onken, Open Connections GmbH, Germany, (In-person)
+1. Michael Onken, Open Connections GmbH, Germany, (In-person, Confirmed)
 1. Zora Kikinis, Brigham and Women's Hospital and Harvard Medical School, USA, (In-person, Confirmed)
 1. Constantin CONSTANTINESCU, Universidad de Las Palmas de Gran Canaria, Romania, (In-person, Confirmed)
 1. Eszter Asztalos-Zsembery, University of Szeged, Hungary, (In-person, Confirmed)
@@ -156,6 +156,13 @@ Updated on 2024-01-05.
 1. Carl-Fredrik Westin, Harvard Medical School, USA, (In-person, Confirmed)
 1. Idafen Santana, EBATINCA, Spain, (In-person, Confirmed)
 1. Rudolf Bumm, Kantonsspital Graubünden, Switzerland, (Undecided)
+1. WBUZAR MUBARAK OMER OSMQN, Al fashir University, sudan, (Online)
+1. Igor Octaviano, Radical Imaging / OHIF, Brazil, (Online)
+1. Chi Zhang, Texas A&M University School of Dentistry, USA, (Online)
+1. Moon Kim, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Germany, (In-person)
+1. Ciro Benito Raggio , Karlsruhe Institute of Technology, german, (In-person)
+1. Domenico Riggio, Karlsruhe Institute of Technology, Germany, (In-person)
+1. Takayoshi Suzuki, Hokkaido University, japan, (Online)
 
 <!-- Participants list end -->
 
