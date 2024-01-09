@@ -57,7 +57,7 @@ December 12 meeting: [Zoom link](https://NTNU.zoom.us/j/92717925334?pwd=bGh0ajhz
 
 ## Discord
 
-The **Discord** application is used to communicate between team members and organize activities before and during Project Week. Please join the Project Week [Discord server](https://discord.gg/yQsNVdVpS3) as soon as possible and explore its functionality before the workshop. For more information on the use of Discord before and during Project Week, please visit [this page](../common/Discord.md).
+The **Discord** application is used to communicate between team members and organize activities before and during Project Week. Please join the Project Week [Discord server](https://discord.gg/qZ27DaNN) as soon as possible and explore its functionality before the workshop. For more information on the use of Discord before and during Project Week, please visit [this page](../common/Discord.md).
 
 ## Agenda
 
