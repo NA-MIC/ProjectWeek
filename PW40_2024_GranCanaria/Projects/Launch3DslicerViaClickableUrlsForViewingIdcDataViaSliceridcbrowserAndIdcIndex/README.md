@@ -30,6 +30,10 @@ key_investigators:
 
 IDC (Imaging Data Commons) has several TB of radiology data that can be viewed with various tools, such as OHIF v2, v3, and Kitware’s VolView. However, one could argue that none of these tools can match the power and versatility of 3DSlicer, which offers a wide range of features for exploring and analyzing radiology data. Steve has come up with a brilliant idea to make 3DSlicer more accessible and user-friendly: a simple URL that can be clicked to launch 3DSlicer and load the desired IDC data. This project aims to ease the way we view IDC Data on 3DSlicer by making it as easy as clicking a link by extending the capabilities of the SlicerIDCBrowser extension.
 
+Notes for discussion: 
+* we could also have a mode where user clicking on IDC manifest would trigger Slicer opening and downloading the content of the manifest - this would be similar to TCIA manifest downloader. Need to think how to report progress, since for large cohorts it will take time, and s5cmd batch run does not provide the progress reporting means. TODO: link the s5cmd progress reporting issue
+* warn/communicate to the user download size on disk
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
