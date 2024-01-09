@@ -30,6 +30,9 @@ A key goal in AMP SCZ is to predict which patients that present initially mild o
 
 In this project we will implement predictive models that make use of both baseline and longitudinal information for psychosis prediction. This project builds on a previous [one](https://projectweek.na-mic.org/PW39_2023_Montreal/Projects/LongitudinalModelOfPsychosisConversion/), in which we implemented an approach called "joint modeling", which had important limitations. For this project, we will implement one based on a combination of two approaches:
 
+- Multiple kernel learning (MKL): a simple predictive model for the fusion of multiple modalities. MKL combines kernels (i.e. a similarity measure across samples) from different modalities. Some modalities could be baseline measures, while others could be longitudinal trajectories.
+- Dynamic time warping (DTW): a way to estimate the dissimilarity or distance between trajectories, regardless of differences in the number of time points, sampling rate, or the existence of delays between them. It is simple to build kernels for MKL from DTW distances.
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
