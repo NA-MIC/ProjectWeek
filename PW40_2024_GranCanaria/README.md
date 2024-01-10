@@ -80,7 +80,7 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-01-08.
+Updated on 2024-01-10.
 
 1. Steve Pieper, Isomics, Inc., USA, (In-person, Confirmed)
 1. Theodore Aptekarev, Slicer Community, Montenegro, (In-person, Confirmed)
@@ -95,7 +95,7 @@ Updated on 2024-01-08.
 1. Lucas Sanchez Silva, USP, Brazil, (In-person)
 1. Tina Kapur, Brigham and Women's Hospital, Harvard Medical Schools, USA, (In-person, Confirmed)
 1. Simon Drouin, École de technologie supérieure, Canada, (Online)
-1. Andras Lasso, PerkLab, Queen's University, Canada, (In-person)
+1. Andras Lasso, PerkLab, Queen's University, Canada, (In-person, Confirmed)
 1. Luiz Murta, University of  São Paulo, Brazil, (In-person)
 1. Felix Hofmann, Department of General, Visceral and Transplantation Surgery, LMU University Hospital, Munich, Germany, (Undecided)
 1. Mike Jin, Brigham and Women's Hospital, Harvard Medical School; Centaur Labs, USA, (In-person)
@@ -118,7 +118,7 @@ Updated on 2024-01-08.
 1. Davide Punzo, Freelancer, France, (In-person)
 1. Attila Tanács, University of Szeged, Hungary, (In-person, Confirmed)
 1. Brianna Burton, 3D Side SA, Belgium, (In-person, Confirmed)
-1. Maria Monzon, ETH Zürich, Switzerland, (In-person)
+1. Maria Monzon, ETH Zürich, Switzerland, (In-person, Confirmed)
 1. Buddhathida Wangsrimongkol, Khon Kaen University, Thailand, (Online)
 1. Francisco Carlos Felipe Rodríguez , Universidad de Las Palmas de Gran Canaria, Spain, (In-person)
 1. Philipp Schader, German Cancer Research Center, Germany, (In-person, Confirmed)
@@ -151,7 +151,7 @@ Updated on 2024-01-08.
 1. Juan A. Sánchez-Margallo, Jesús Usón Minimally Invasive Surgery Centre, Spain, (Online)
 1. Lucia Salazar Carrasco, Minimally Invasive Surgery Center Jesús Usón, Cáceres, Spain, (Online)
 1. Marco Nolden, German Cancer Research Center (DKFZ), Heidelberg, Germany, (In-person, Confirmed)
-1. Christopher Bridge, Massachusetts General Hospital, USA, (In-person)
+1. Christopher Bridge, Massachusetts General Hospital, USA, (In-person, Confirmed)
 1. Pablo Polosecki, IBM Research, USA, (In-person)
 1. Carl-Fredrik Westin, Harvard Medical School, USA, (In-person, Confirmed)
 1. Idafen Santana, EBATINCA, Spain, (In-person, Confirmed)
@@ -163,6 +163,20 @@ Updated on 2024-01-08.
 1. Ciro Benito Raggio , Karlsruhe Institute of Technology, Germany, (In-person)
 1. Domenico Riggio, Karlsruhe Institute of Technology, Germany, (In-person)
 1. Takayoshi Suzuki, Hokkaido University, Japan, (Online)
+1. Dong Jin Sung, Mass General Brigham (MGB), USA, (Online)
+1. Amaia Iribar Zabala, Fundación Vicomtech, Spain, (In-person)
+1. Rafeal Benito Herce, Funcación Vicomtech, Spain, (In-person)
+1. Frida Hauler, No institution, UK, (In-person)
+1. Maximilian Fischer, German Cancer Research Center (DKFZ) Heidelberg, Germany, (Undecided)
+1. Diego Larriera Kiriakidis, Técnicas Competitivas SA, Spain, (In-person)
+1. sara Fernandez Vidal, ICM, France, (Online)
+1. Adela Moravova, University of Innsbruck, austria, (Online)
+1. Alireza Sedghi, open health imaging foundation - OHIF, Canada, (Online)
+1. Bahnsen, Fin Hendrik, Institute for AI in Medicine (IKIM), essen, (In-person)
+1. Odile Elias, Deutsches Krebsforschungszentrum Heidelberg, Germany, (In-person)
+1. Andres Diaz-Pinto, NVIDIA, UK, (Online)
+1. Gabor Fichtinger, Queen's University, Canada, (In-person)
+1. Fatimetou Mohamed-Saleck, University of Nouakchott and University of Las Palmas Gran Canaria, Mauritania, (In-person)
 
 <!-- Participants list end -->
 
