@@ -63,15 +63,15 @@ Finalize the ctk visual DICOM browser:
 
 
 # Illustrations
-visual DICOM browser screenshot:
+screenshot:
 
 <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/fad8f302-6076-44a6-9025-47a21089f3b0" width="900">
 
-visual DICOM browser video:
+video:
 
 https://github.com/NA-MIC/ProjectWeek/assets/7985338/8d4cd799-58fe-420e-b616-3e0ebdbcdb77
 
-visual DICOM browser UML Diagram:
+UML Diagram:
 
 <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/4e682a6d-0b8f-42be-b1b2-35e46f6018b9" width="900">
 
