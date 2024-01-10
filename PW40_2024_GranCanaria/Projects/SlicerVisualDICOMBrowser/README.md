@@ -68,8 +68,12 @@ screenshot:
 <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/fad8f302-6076-44a6-9025-47a21089f3b0" width="900">
 
 video:
+<video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/assets/66890913/8f257f29-fa9c-4319-8c49-4138003eba27"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
-https://github.com/NA-MIC/ProjectWeek/assets/7985338/8d4cd799-58fe-420e-b616-3e0ebdbcdb77
 
 UML Diagram:
 
