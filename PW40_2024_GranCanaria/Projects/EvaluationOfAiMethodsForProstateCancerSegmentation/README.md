@@ -48,13 +48,13 @@ When it comes to evaluating AI methods, it's important to have reproducible code
 
 1. We have identified two major branches of methods we can use, baseline methods from the [PICAI challenge](https://pi-cai.grand-challenge.org/) and two methods using MONAI. 
 
-- PICAI has two baseline methods we can run: supervised nnUNet, semi-supervised nnDetection
-- MONAI has two methods we can run: a [MONAI bundle](https://github.com/kbressem/prostate158) and a [MONAI Deploy MAP](https://github.com/Project-MONAI/research-contributions/tree/main/prostate-mri-lesion-seg) 
+    - PICAI has two baseline methods we can run: supervised nnUNet, semi-supervised nnDetection
+    - MONAI has two methods we can run: a [MONAI bundle](https://github.com/kbressem/prostate158) and a [MONAI Deploy MAP](https://github.com/Project-MONAI/research-contributions/tree/main/prostate-mri-lesion-seg) 
 
 2. We have identified two datasets in IDC that can be used for evaluation: 
 
-- [QIN-Prostate-Repeatability ](https://portal.imaging.datacommons.cancer.gov/explore/filters/?collection_id=qin_prostate_repeatability)
-- [Prostate-MRI-US-Biopsy ](https://portal.imaging.datacommons.cancer.gov/explore/filters/?collection_id=prostate_mri_us_biopsy)
+    - [QIN-Prostate-Repeatability ](https://portal.imaging.datacommons.cancer.gov/explore/filters/?collection_id=qin_prostate_repeatability)
+    - [Prostate-MRI-US-Biopsy ](https://portal.imaging.datacommons.cancer.gov/explore/filters/?collection_id=prostate_mri_us_biopsy)
 
 3. We have started evaluation of the PICAI supervised nnUNet baseline model and the MONAI Deploy MAP on their training data. 
 
