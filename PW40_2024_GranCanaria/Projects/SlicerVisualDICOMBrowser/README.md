@@ -63,11 +63,6 @@ Finalize the ctk visual DICOM browser:
 
 
 # Illustrations
-Prevoius ctk widgets:
-
-<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/21de4223-af4d-4d97-990e-ce165f26cc7f" width="450">
-<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/adf06a81-fae3-4490-bcd7-00a65709eed2" width="450">
-
 visual DICOM browser screenshot:
 
 <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/fad8f302-6076-44a6-9025-47a21089f3b0" width="900">
