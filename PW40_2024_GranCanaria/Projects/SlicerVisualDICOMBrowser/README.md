@@ -64,14 +64,14 @@ Finalize the ctk visual DICOM browser:
 
 # Illustrations
 screenshot:
-
-<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/fad8f302-6076-44a6-9025-47a21089f3b0" width="900">
+<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/4f53bce1-ed72-45ec-b4e8-f6ef7fdb9505" width="900">
+<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/3a7565b5-0218-48d1-8b48-401d1bd1e6eb" width="900">
 
 video:
 <video
    controls muted
    src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/8d4cd799-58fe-420e-b616-3e0ebdbcdb77"
-   style="max-height:640px; min-height: 200px">
+   style="max-width:900px; min-width: 900px">
  </video>
 
 
