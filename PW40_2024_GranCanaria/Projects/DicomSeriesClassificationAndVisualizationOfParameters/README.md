@@ -13,6 +13,10 @@ key_investigators:
   affiliation: Brigham and Women's Hospital
   country: USA
 
+- name: Steve Pieper
+  affiliation: Isomics, Inc.
+  country: USA
+
 ---
 
 # Project Description
@@ -56,4 +60,6 @@ We would like to develop approaches for aiding in the curation of data. The firs
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-*No response*
+Some earlier work with parallel coordinates plots in Slicer:
+* https://github.com/pieper/SlicerMultiMapper
+* https://www.youtube.com/watch?v=Y4MyThyeIPs
