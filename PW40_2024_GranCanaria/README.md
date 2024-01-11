@@ -82,7 +82,7 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-01-10.
+Updated on 2024-01-11.
 
 1. Steve Pieper, Isomics, Inc., USA, (In-person, Confirmed)
 1. Theodore Aptekarev, Slicer Community, Montenegro, (In-person, Confirmed)
@@ -103,7 +103,7 @@ Updated on 2024-01-10.
 1. Mike Jin, Brigham and Women's Hospital, Harvard Medical School; Centaur Labs, USA, (In-person)
 1. Erke Can Tellal, apoQlar GmbH, Germany, (Online)
 1. Paolo Zaffino, Magna Graecia University of Catanzaro, Italy, (In-person, Confirmed)
-1. Michela Destito, Magna Graecia University of Catanzaro, Italy, (In-person)
+1. Michela Destito, Magna Graecia University of Catanzaro, Italy, (In-person, Confirmed)
 1. Roberto Veraldi, Magna Graecia University of Catanzaro, Italy, (In-person, Confirmed)
 1. Ron Kikinis, Brigham and Women's Hospital and Harvard Medical School, USA, (In-person, Confirmed)
 1. Ahmedou Moulaye IDRISS, Faculty of Medicine / Nouakchott University, Mauritania, (In-person)
@@ -179,6 +179,12 @@ Updated on 2024-01-10.
 1. Andres Diaz-Pinto, NVIDIA, UK, (Online)
 1. Gabor Fichtinger, Queen's University, Canada, (In-person)
 1. Fatimetou Mohamed-Saleck, University of Nouakchott and University of Las Palmas Gran Canaria, Mauritania, (In-person)
+1. Patrick Remerscheid, BWH, Switzerland, (Online)
+1. Lukas Heine, Institute for AI in medicine, University Medicine Essen, Essen, Germany, Germany, (In-person)
+1. Vamsi Thiriveedhi, Brigham and Women's Hospital , USA, (In-person)
+1. Rafael Nebot Medina, Instituto Tecnológico de Canarias, SA, Spain, (Online)
+1. Pablo Cabrales Miró-Granada, Grupo de Física Nuclear, Dpto EMFTEL & IPARCOS, Facultad de Ciencias Físicas, Universidad Complutense de Madrid, Spain, (In-person)
+1. Mamadou Samba CAMARA, Cheikh Anta Diop University of Dakar, Senegal, (Online)
 
 <!-- Participants list end -->
 
