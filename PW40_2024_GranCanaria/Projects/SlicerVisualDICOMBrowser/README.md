@@ -18,7 +18,15 @@ key_investigators:
 
 - name: Steve Pieper
   affiliation: Isomics, Inc.
-  country: USA  
+  country: USA
+
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware
+  country: USA
+
+- name: anyone is welcome!
+  affiliation: 
+  country:   
 ---
 
 # Project Description
