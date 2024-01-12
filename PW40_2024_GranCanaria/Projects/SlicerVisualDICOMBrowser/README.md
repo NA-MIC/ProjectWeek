@@ -94,7 +94,9 @@ UML Diagram:
 
 [PW38 Project](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerVisualDICOMbrowser/)
 
-[CTK PR](https://github.com/commontk/CTK/pull/1142)
+[CTK PR1](https://github.com/commontk/CTK/pull/1142)
+
+[CTK PR2](https://github.com/commontk/CTK/pull/1165)
 
 [Slicer PR](https://github.com/Slicer/Slicer/pull/7525)
 
