@@ -82,7 +82,7 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-01-11.
+Updated on 2024-01-12.
 
 1. Steve Pieper, Isomics, Inc., USA, (In-person, Confirmed)
 1. Theodore Aptekarev, Slicer Community, Montenegro, (In-person, Confirmed)
@@ -181,10 +181,13 @@ Updated on 2024-01-11.
 1. Fatimetou Mohamed-Saleck, University of Nouakchott and University of Las Palmas Gran Canaria, Mauritania, (In-person)
 1. Patrick Remerscheid, BWH, Switzerland, (Online)
 1. Lukas Heine, Institute for AI in medicine, University Medicine Essen, Germany, (In-person)
-1. Vamsi Thiriveedhi, Brigham and Women's Hospital, USA, (In-person)
+1. Vamsi Thiriveedhi, Brigham and Women's Hospital , USA, (In-person)
 1. Rafael Nebot Medina, Instituto Tecnológico de Canarias, SA, Spain, (Online)
 1. Pablo Cabrales Miró-Granada, Grupo de Física Nuclear, Dpto EMFTEL & IPARCOS, Facultad de Ciencias Físicas, Universidad Complutense de Madrid, Spain, (In-person)
 1. Mamadou Samba CAMARA, Cheikh Anta Diop University of Dakar, Senegal, (Online)
+1. Mohamed Abdellahi Sidi Mohamed Blal, Université de Nouakchott , Mauritania, (Online)
+1. João Pedro Alves Januário, University os São Paulo, Brazil, (Online)
+1. Professor Klaus Maier-Hein, German Cancer Research Center (DKFZ), Germany, (In-person)
 
 <!-- Participants list end -->
 
