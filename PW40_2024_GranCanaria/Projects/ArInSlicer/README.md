@@ -18,6 +18,9 @@ key_investigators:
 - name: Javier Pascau
   affiliation: Universidad Carlos III de Madrid
 
+- name: Felix von Haxthausen
+  affiliation: Universidad Carlos III de Madrid
+
 ---
 
 # Project Description
