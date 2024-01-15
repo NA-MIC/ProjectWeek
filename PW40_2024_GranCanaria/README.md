@@ -82,7 +82,7 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-01-12.
+Updated on 2024-01-15.
 
 1. Steve Pieper, Isomics, Inc., USA, (In-person, Confirmed)
 1. Theodore Aptekarev, Slicer Community, Montenegro, (In-person, Confirmed)
@@ -188,6 +188,7 @@ Updated on 2024-01-12.
 1. Mohamed Abdellahi Sidi Mohamed Blal, Université de Nouakchott , Mauritania, (Online)
 1. João Pedro Alves Januário, University os São Paulo, Brazil, (Online)
 1. Professor Klaus Maier-Hein, German Cancer Research Center (DKFZ), Germany, (In-person)
+1. Franesca Spadea, Karlsruhe Institute of Technology, Italy, (In-person)
 
 <!-- Participants list end -->
 
