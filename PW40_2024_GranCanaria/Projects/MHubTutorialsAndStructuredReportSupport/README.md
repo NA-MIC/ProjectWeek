@@ -4,7 +4,7 @@ layout: pw40-project
 permalink: /:path/
 
 project_title: MHub Tutorials and Structured Report Support
-category: Uncategorized
+category: DICOM
 presenter_location: Onsite
 
 key_investigators:

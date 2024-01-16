@@ -4,7 +4,7 @@ layout: pw40-project
 permalink: /:path/
 
 project_title: WSI-DICOM Improvement - From Viewer to Analysis
-category: VR/AR and Rendering
+category: DICOM
 presenter_location: In-person
 
 key_investigators:

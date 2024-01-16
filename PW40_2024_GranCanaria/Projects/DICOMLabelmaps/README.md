@@ -4,7 +4,7 @@ layout: pw40-project
 permalink: /:path/
 
 project_title: Implement new DICOM Label Map Segmentation Supplement
-category: Segmentation / Classification / Landmarking
+category: DICOM
 presenter_location: In-person
 
 key_investigators:
