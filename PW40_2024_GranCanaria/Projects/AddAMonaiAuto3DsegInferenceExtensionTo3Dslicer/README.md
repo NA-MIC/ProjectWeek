@@ -15,6 +15,10 @@ key_investigators:
 
 - name: Andras Lasso
   affiliation: Queens University
+  country: Canada
+
+- name: Steve Pieper
+  affiliation: Isomics, Inc.
   country: USA
 
 - name: Andres Diaz-Pinto
