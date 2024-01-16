@@ -13,6 +13,17 @@ key_investigators:
   affiliation: Brigham and Women's Hospital
   country: USA
 
+- name: Patrick Remerscheid
+  country: Switzerland
+
+- name: Cosmin Ciausu
+  affiliation: Brigham and Women's Hospital
+  country: USA
+
+- name: Bálint Kovács
+  affiliation: DKFZ
+  country: Germany
+
 - name: Andrey Fedorov
   affiliation: Brigham and Women's Hospital
   country: USA
@@ -56,7 +67,8 @@ When it comes to evaluating AI methods, it's important to have reproducible code
     - [QIN-Prostate-Repeatability ](https://portal.imaging.datacommons.cancer.gov/explore/filters/?collection_id=qin_prostate_repeatability)
     - [Prostate-MRI-US-Biopsy ](https://portal.imaging.datacommons.cancer.gov/explore/filters/?collection_id=prostate_mri_us_biopsy)
 
-3. We have started evaluation of the PICAI supervised nnUNet baseline model and the MONAI Deploy MAP on their training data. 
+3. We have started evaluation of the PICAI supervised nnUNet baseline model and the MONAI Deploy MAP on their training data.
+4. We will take [Cosmin's work from PW38](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/tree/main/pcDetectionBundle/configs) on the MONAI bundle for prostate cancer segmentation. We'll make sure it works, and evaluate it on publicly available datasets including prostate158 and IDC data (continuation of [this](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/blob/main/MONAI_prostate158_cancer_qin_prost_rep.ipynb) notebook).  
 
 # Illustrations
 
@@ -68,5 +80,9 @@ When it comes to evaluating AI methods, it's important to have reproducible code
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
+
+This is a continuation of the work that Cosmin did at PW38: https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/MONAI_IDC_PCa_detection/  
+
+IDC getting started tutorials: https://github.com/ImagingDataCommons/IDC-Tutorials/tree/master/notebooks/getting_started
 
 *No response*
