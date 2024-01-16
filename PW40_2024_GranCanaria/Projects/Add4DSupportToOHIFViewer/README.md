@@ -12,9 +12,10 @@ key_investigators:
   affiliation: The Netherlands Cancer Institute
   country: The Netherlands
 
-- name: Pavel Klochkov
-  affiliation: Kaiko
-  country: The Netherlands
+- name: Alireza Sedghi, 
+  affiliation: open health imaging foundation - OHIF
+  country: Canada
+
 ---
 
 # Project Description
