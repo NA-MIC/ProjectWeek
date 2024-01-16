@@ -72,6 +72,7 @@ weighted imaging (DWI) and dynamic contrast enhanced (DCE) CT/MR.
 
 - [OHIF viewer source code](https://github.com/OHIF/Viewers).
 - [OHIF viewer online documentation](https://docs.ohif.org/).
-- Similar work:
+- Related work:
+  - OHIF [PR #3664](https://github.com/OHIF/Viewers/pull/3664).
   - Cornestone live-examples: [dynamicpetct](https://www.cornerstonejs.org/live-examples/dynamicpetct)
   - OHIF viewer demo for [dynamic PETCT](https://deploy-preview-3664--ohif-dev.netlify.app/dynamic-volume?StudyInstanceUIDs=2.25.232704420736447710317909004159492840763)
