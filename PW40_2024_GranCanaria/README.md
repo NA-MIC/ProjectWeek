@@ -6,6 +6,7 @@ redirect_from:
 
 project_categories:
 - Early Presenter
+- DICOM
 - VR/AR and Rendering
 - IGT and Training
 - Segmentation / Classification / Landmarking
