@@ -87,15 +87,14 @@ As part of the project, we will demonstrate the method to reconstruct the MFB. W
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1.  Objective A. Describe **what you plan to achieve** in 1-2 sentences. To test and apply a semi-automated approach to delineate a fiber tracts that reach the brain stem. Tractography in the brain stem is challenging as most fibers run parallel and very close to each other. Additionally, the  in nuclei of the brainstem from which tracts originate and are difficult to visualize.
+1.  To test and apply a semi-automated approach to delineate a fiber tracts that reach the brain stem. Tractography in the brain stem is challenging as most fibers run parallel and very close to each other. Additionally, the  in nuclei of the brainstem from which tracts originate and are difficult to visualize.
 2.  Teach the semi-automated approach using the Harvard Oxford Atlas.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1.  Describe specific steps of **what you plan to do** to achieve the above described objectives.
-    We will use diffusion and structural MRI, specifically whole brain tractography and T1 images, from 10 patients with long-COVID to select the Medial Forebrain Bundle (MFB) at its entire extension to the brainstem.
+1. We will use diffusion and structural MRI, specifically whole brain tractography and T1 images, from 10 patients with long-COVID to select the Medial Forebrain Bundle (MFB) at its entire extension to the brainstem.
 
 ## Progress and Next Steps
 
