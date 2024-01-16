@@ -4,7 +4,7 @@ layout: pw40-project
 permalink: /:path/
 
 project_title: Visual DICOM browser
-category: Infrastructure
+category: DICOM
 presenter_location: In-person
 
 key_investigators:

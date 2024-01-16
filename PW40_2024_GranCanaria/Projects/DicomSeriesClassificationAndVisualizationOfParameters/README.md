@@ -4,7 +4,7 @@ layout: pw40-project
 permalink: /:path/
 
 project_title: DICOM series classification and visualization of parameters
-category: Segmentation / Classification / Landmarking
+category: DICOM
 presenter_location: In-person
 
 key_investigators:
