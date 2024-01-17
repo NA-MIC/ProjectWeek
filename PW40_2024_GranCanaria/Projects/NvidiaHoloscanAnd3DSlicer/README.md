@@ -33,6 +33,10 @@ Integrate Holoscan with 3D Slicer. As Holoscan is both a hardware platform ([NVI
 
 There are various options, not yet sure which one is the best (or if there are ones I have not considered):
 
+1. Use OpenIGTLink to stream data from a Holoscan developer kit to 3D Slicer, over network. This would bypass the fact that 3D Slicer does not easily build on ARM (which is the arch of the IGX Orin).
+2. Create operators in 3D Slicer that can pass data to and from Holoscan SDK. This would give a 3D Slicer user access to the API of Holoscan SDK for efficient AI inference, etc.
+3. Connect an IGX Orin running Holoscan SDK to the [Plus toolkit](https://plustoolkit.github.io/).
+
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
