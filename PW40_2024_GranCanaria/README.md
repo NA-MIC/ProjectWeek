@@ -83,7 +83,7 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-01-16.
+Updated on 2024-01-17.
 
 1. Steve Pieper, Isomics, Inc., USA, (In-person, Confirmed)
 1. Theodore Aptekarev, Slicer Community, Montenegro, (In-person, Confirmed)
@@ -101,7 +101,7 @@ Updated on 2024-01-16.
 1. Andras Lasso, PerkLab, Queen's University, Canada, (In-person, Confirmed)
 1. Luiz Murta, University of  São Paulo, Brazil, (In-person, Confirmed)
 1. Felix Hofmann, Department of General, Visceral and Transplantation Surgery, LMU University Hospital, Munich, Germany, (Undecided)
-1. Mike Jin, Brigham and Women's Hospital, Harvard Medical School; Centaur Labs, USA, (In-person)
+1. Mike Jin, Brigham and Women's Hospital, Harvard Medical School; Centaur Labs, USA, (In-person, Confirmed)
 1. Erke Can Tellal, apoQlar GmbH, Germany, (Online)
 1. Paolo Zaffino, Magna Graecia University of Catanzaro, Italy, (In-person, Confirmed)
 1. Michela Destito, Magna Graecia University of Catanzaro, Italy, (In-person, Confirmed)
@@ -199,6 +199,18 @@ Updated on 2024-01-16.
 1. Simon Oxenford, Charité Berlin, Germany, (Online)
 1. Nayra Pumar Carreras, EBATINCA, Spain, (In-person)
 1. Moustapha Mohamed Saleck,  Faculté des Sciences et Techniques (FST) , Université de Nouakchott, Mauritania, (Online)
+1. Baksic Paul, INRIA, France, (In-person)
+1. Valeria Gómez Valdes , Universidad Autónoma del Estado de México , Mexico, (Online)
+1. Jean-Christophe Fillion-Robin, Kitware, USA, (In-person)
+1. Leroux, University of Michigan, USA, (Online)
+1. Balint Kovacs, Division of Medical Image Computing - German Cancer Research Center (DKFZ), Germany, (In-person)
+1. Daniela Schacherer, Fraunhofer MEVIS, Germany, (In-person)
+1. Nikolaos Makris, Massachusetts General Hospital, USA, (In-person)
+1. Poliana Hartung Toppa, Massachusetts General Hospital, USA, (In-person)
+1. Kayley Haggerty, Massachusetts General Hospital, USA, (In-person)
+1. Gabriella d'Albenzio, The Intervention Centre, Norway, (In-person)
+1. Mohamed bamba, Faculté de médecine de Nouakchott , Mauritania, (Online)
+1. Petros Koutsouvelis, Maastricht University, Netherlands, (In-person)
 
 <!-- Participants list end -->
 
