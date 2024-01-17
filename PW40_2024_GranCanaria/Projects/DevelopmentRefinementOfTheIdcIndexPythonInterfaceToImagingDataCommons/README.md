@@ -27,11 +27,22 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-[](https://github.com/ImagingDataCommons/idc-index) is a lightweight python package that wraps mini-index of the data available in Imaging Data Commons and the s5cmd download tool. With this package, one can search basic attributes of IDC data, build subset and download corresponding files without login, and without setting up any prerequisites specific to either Google or AWS as easy as below:
+[`idc-index`](https://github.com/ImagingDataCommons/idc-index) is a lightweight python package that wraps mini-index of the data available in Imaging Data Commons and the s5cmd download tool. With this package, one can search basic attributes of IDC data, build subset and download corresponding files without login, and without setting up any prerequisites specific to either Google or AWS as easy as below:
+
+```bash
+$ pip install 'idc-index==0.2.8'
+```
+
+```python
+from idc_index import index
+
+client = index.IDCClient()
+client.download_from_selection(collection_id="nsclc_radiomics", downloadDir="./my_copy")
+```
 
 Its basic functionality is demonstrated in this tutorial: <https://github.com/ImagingDataCommons/IDC-Tutorials/blob/master/notebooks/labs/idc_rsna2023.ipynb>.
 
-[SlicerIDCBrowser](https://github.com/ImagingDataCommons/SlicerIDCBrowser) already relies on  for searching and downloading data from IDC.
+[SlicerIDCBrowser](https://github.com/ImagingDataCommons/SlicerIDCBrowser) already relies on `idc-index` for searching and downloading data from IDC.
 
 ## Objective
 
@@ -70,4 +81,4 @@ Its basic functionality is demonstrated in this tutorial: <https://github.com/Im
      If possible, also add links to sample data, and to any relevant publications. -->
 
 *   [NCI Imaging Data Commons](https://imaging.datacommons.cancer.gov)
-*   [](https://github.com/ImagingDataCommons/idc-index)
+*   [`idc-index`](https://github.com/ImagingDataCommons/idc-index)
