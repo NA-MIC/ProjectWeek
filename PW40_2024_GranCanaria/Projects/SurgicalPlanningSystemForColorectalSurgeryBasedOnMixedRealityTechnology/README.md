@@ -64,7 +64,13 @@ The objective of this project is to implement the required tools for the develop
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-<https://github.com/NA-MIC/ProjectWeek/assets/155635116/e2fb5b84-5823-4b49-9ee4-930567cdb8db>
+<video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/assets/155635116/e2fb5b84-5823-4b49-9ee4-930567cdb8db"
+   style="max-height:640px; min-height: 200px">
+ </video>
+
+<img width="478" alt="FotoColonCaseib 1" src="https://github.com/NA-MIC/ProjectWeek/assets/155635116/4d02e9d6-68aa-4571-8b4f-353a1067ce73">
 
 # Background and References
 
