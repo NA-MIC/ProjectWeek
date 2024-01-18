@@ -12,7 +12,12 @@ key_investigators:
 - name: Mikael Brudfors
   affiliation: NVIDIA
   country: UK
-
+- name: Steve Pieper
+  affiliation: Isomics
+  country: US
+- name: Rafael Palomar
+  affiliation: NTNU
+  country: Norway
 ---
 
 # Project Description
