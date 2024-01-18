@@ -51,7 +51,7 @@ We would like to develop approaches for aiding in the curation of data. The firs
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  Started [repo here](https://github.com/deepakri201/DICOMTagViz/) for initial [hiplot](https://github.com/facebookresearch/hiplot) and [streamlit](https://github.com/streamlit) exploration of DICOM tags from QIN-Prostate-Repeatability
 
 # Illustrations
 
