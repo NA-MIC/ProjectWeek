@@ -87,7 +87,7 @@ video:
 
 UML Diagram:
 
-<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/4e682a6d-0b8f-42be-b1b2-35e46f6018b9" width="1000">
+<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/737747de-cdab-4a4a-800c-32303cd3a9ae" width="1000">
 
 
 # Background and References
