@@ -30,19 +30,17 @@ key_investigators:
 ---
 
 # Project Description
-The visual DICOM browser adds query/retrieve/store capabilities for DICOM databases and visualize remote and local content with thumbnails.
-The widget is the union/enhancement of 3 CTK widgets: `ctkDICOMServerSettings`, `ctkDICOMQueryRetrievePanel`, `ctkDICOMBrowser` (visualize/filter the local content).
+The visual DICOM browser provides a new user interface for quick viewing and retrieval of patient images stored on remote DICOM servers. The new tool is optimized for clinical workflows where the focus is on all the images of a single patient - as opposed to the existing DICOM browsing experience, which was more suitable for bringing together images from many patients.
 
-The operations are executed by a scheduler in separate concurrent threads with a priority queue.
-The current supported operations are:
+Both server and local content at the same place and are visualized by thumbnails. All data is retrieved in the background using classic DIMSE networking (most commonly used protocols in hospitals), in multiple concurrently running threads. The currently supported operations are:
 
-- Filtering and navigation with thumbnails of local database and servers results
-- Import from file system to local database.
-- Query/Retrieve from servers (DIMSE `C-FIND/C-GET/C-MOVE`). All the operations are done in background and in parallel.
-- Storage listener.
-- Send (emits only a signal for the moment, requires external implementation).
-- Remove (only from local database, not from server).
-- Metadata exploration.
+- Browsing and filtering with thumbnails of content of local DICOM database and multiple remote DICOM servers.
+- Query/Retrieve data from servers (DIMSE `C-FIND`, `C-GET`, `C-MOVE` SCU). All the operations are done in background and in parallel. Downloaded data is automatically cached in the local DICOM database. A unique feature is the possibility to retrieve images using C-GET protocol (suitable for cases when many Slicer instances are running in docker containers) with a clinical PACS that only supports C-MOVE protocol (most clinical PACS), via a proxy server (such as the free Orthanc).
+- Import data from local files.
+- Receive data sent from remote PACS (DIMSE `C-STORE` SCP).
+- Send data to remote PACS (DIMSE `C-STORE` SCU).
+- Quick browsing of all DICOM metadata and pixel data.
+- Remove data from local database (not from server).
 
 The widget is currently an experimental feature in Slicer (DICOM module). Current Roadmap is at [link](https://github.com/commontk/CTK/issues/1162).
 
@@ -73,21 +71,21 @@ Finalize the ctk visual DICOM browser:
 # Illustrations
 screenshots:
 
-<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/38806dba-f1fa-4e71-8930-42fe7803ab2d" width="1000">
-<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/9554483b-0d56-41ea-8487-45373006880f" width="1000">
+<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/86088d74-650b-4139-8e1f-66d0794b73f7" width="1000">
+<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/00c4bf23-961b-407b-8730-085d54244a53" width="1000">
 
 video:
 
 <video
    autoplay muted loop
-   src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/599999af-f7f9-431a-b78f-a8052e285f38"
+   src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/01c5bb63-87e6-4e37-84e1-ce11b57f6bb5"
    style="width:1000px">
 </video>
 
 
 UML Diagram:
 
-<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/737747de-cdab-4a4a-800c-32303cd3a9ae" width="1000">
+<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/f115d6cc-9ca2-4f06-ac79-0001c565952e" width="1000">
 
 
 # Background and References
