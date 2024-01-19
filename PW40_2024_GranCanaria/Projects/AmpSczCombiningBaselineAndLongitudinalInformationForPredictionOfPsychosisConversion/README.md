@@ -18,6 +18,10 @@ key_investigators:
   affiliation: MGH
   country: USA
 
+- name: Ofer Pasternak
+  affiliation: MGH
+  country: USA
+  
 ---
 
 # Project Description
