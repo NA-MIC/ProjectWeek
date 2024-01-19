@@ -83,10 +83,10 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-01-17.
+Updated on 2024-01-19.
 
 1. Steve Pieper, Isomics, Inc., USA, (In-person, Confirmed)
-1. Theodore Aptekarev, Slicer Community, Montenegro, (In-person, Confirmed)
+1. Theodore Aptekarev, Slicer Community, Montenegro, (Online)
 1. Csaba Pinter, EBATINCA, Spain, (In-person, Confirmed)
 1. Attila Nagy, University of Szeged, Dept. of Medical Physics and Informatics, Hungary, (In-person)
 1. Rafael Palomar, Oslo University Hospital, Norway, (In-person, Confirmed)
@@ -211,6 +211,12 @@ Updated on 2024-01-17.
 1. Gabriella d'Albenzio, The Intervention Centre, Norway, (In-person)
 1. Mohamed bamba, Faculté de médecine de Nouakchott , Mauritania, (Online)
 1. Petros Koutsouvelis, Maastricht University, Netherlands, (In-person)
+1. Mohamed El Moctar, FMPOS, Mauritania, (Online)
+1. Hossein Rahmani, Maastricht University, Netherlands, (In-person)
+1. Vianney Muñoz-Jiménez, Universiad Autónoma del Estado de México, Mexico, (Online)
+1. Victor Manuel Montaño Serrano, Universidad Autónoma del Estado de México, Mexico, (Online)
+1. André Homeyer, Fraunhofer MEVIS, Germany, (Online)
+1. Monserrat Ríos Hernández, Universidad Autónoma del Estado de México, Mexico, (Online)
 
 <!-- Participants list end -->
 
