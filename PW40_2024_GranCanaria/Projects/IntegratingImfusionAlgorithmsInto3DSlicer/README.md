@@ -33,19 +33,33 @@ Our proposal is to create an extension in 3D-Slicer that exposes ImFusion algori
 
 The project plan can be broken down into the following concrete objectives:
 
-Plugin Infrastructure: Creation of Module/Plugin infrastructure for 3D Slicer ()
+1. Plugin Infrastructure: Creation of Module/Plugin infrastructure for 3D Slicer (`qSlicerLoadableModule`)
 
-Data Interface: Handling and conversion of DataSets ( <-> )
+2. Data Interface: Handling and conversion of DataSets (`vtkImageData` <-> `ImFusion::Data`)
 
-Algorithm Interface: accessing ImFusion’s list of compatible algorithms
+3. Algorithm Interface: accessing ImFusion’s list of compatible algorithms
 
-Algorithm Controller Integration: Integration of GUI and Logic for configuring algorithms () into 3D Slicer (, )
+4. Algorithm Controller Integration: Integration of GUI and Logic for configuring algorithms (`ImFusion::AlgorithmController`) into 3D Slicer (`qSlicerAbstractModuleWidget`, `vtkSlicerModuleLogic`)
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-None
+### Plugin Infrastructure
+- Integrate the ImFusionSDK libraries with the Slicer-Extension via CMake.
+
+### Data Interface
+- Convert from 3D Slicer to ImFusionSDK data representation
+- Convert from ImFusionSDK to 3D Slicer representation
+
+### Algorithm Interface
+- Access the list of algorithms in the ImFusionSDK
+- Filter by algorithms that are compatible with the loaded/selected data
+- Launch algorithms from 3D Slicer
+
+### Algorithm Controller Integration
+- Create an example algorithm controller in 3D slicer
+- Auto-generation in Slicer of ImFusion’s default algorithm-controllers
 
 ## Progress and Next Steps
 
