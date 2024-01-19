@@ -48,7 +48,7 @@ Possible longer-term ENH to discuss/work during the project week:
 - add data streaming from visual brower series widgets to Slicer volume nodes.
 - add jobs list UI (e.g. current status, actions to stop/force retry etc..., error report per job).
 - handle jobs queue in the scheduler by file (so we can restart the jobs/workers at application restart).
-- implementing send (i.e. adding `ctkDICOMSendJob`, `ctkDICOMSendWorker` and `ctkDICOMSend` with underlining DIMSE `DcmStorageSCU`).
+- implementing send in C++ at ctk level (i.e. adding `ctkDICOMSendJob`, `ctkDICOMSendWorker` and `ctkDICOMSend` with underlining DIMSE `DcmStorageSCU`). This would allow to use the background/parallel operations infrastructure for SEND as well.
 - add `DICOMweb`.
 
 ## Objective
