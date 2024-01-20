@@ -3,7 +3,7 @@ layout: pw40-project
 
 permalink: /:path/
 
-project_title: Multimodel registration
+project_title: Multimodal registration
 category: Other
 presenter_location: Online
 
