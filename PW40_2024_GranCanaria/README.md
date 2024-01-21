@@ -83,7 +83,7 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-01-19.
+Updated on 2024-01-21.
 
 1. Steve Pieper, Isomics, Inc., USA, (In-person, Confirmed)
 1. Theodore Aptekarev, Slicer Community, Montenegro, (Online)
@@ -217,6 +217,11 @@ Updated on 2024-01-19.
 1. Victor Manuel Montaño Serrano, Universidad Autónoma del Estado de México, Mexico, (Online)
 1. André Homeyer, Fraunhofer MEVIS, Germany, (Online)
 1. Monserrat Ríos Hernández, Universidad Autónoma del Estado de México, Mexico, (Online)
+1. Ole Vegard Solberg, SINTEF, Norway, (Online)
+1. Adriana H. Vilchis González, Facultad de Ingeniería UAEMex, Mexico, (Online)
+1. Juan Carlos Avila Vilchis , Facultad de Ingeniería UAEMex, Mexico, (Online)
+1. Enrique Hernandez Laredo, Universidad Autónoma del Estado de México, Mexico, (In-person)
+1. Ofer Pasternak, Harvard Medical School, USA, (In-person)
 
 <!-- Participants list end -->
 
