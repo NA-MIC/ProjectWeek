@@ -29,6 +29,10 @@ key_investigators:
   affiliation: Leidos
   country: USA
 
+- name: Justin Kirby
+  affiliation: Leidos
+  country: USA
+
 ---
 
 # Project Description
