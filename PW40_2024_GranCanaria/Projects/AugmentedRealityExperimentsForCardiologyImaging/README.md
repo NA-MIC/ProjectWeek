@@ -26,12 +26,22 @@ key_investigators:
 Explore tools for clinician review and patient education using smartphone browser-based augmented reality.
 There are two possible scenarios we could support:
 
+* Using existing SlicerHeart and SlicerVirtualReality extensions to support smartphone tracking
+* Exporting Slicer scene data to a web page for rendering locally in smartphone browser
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-A few of the features we'd like to explore:
+1. Determine how much work would be required to make a system that could be tested in clinical scenarios
+2. See what other people's experience has been in the feasibility and/or utility of such systems
 
+A few of the features we'd like to explore:
+* Using the a smartphone as a controller in SlicerVirtualReality
+* Communicating events from smartphone to Slicer to control rendering
+* Sending rendered images to phone vs. rendering in phone locally
+* Exporting data to a stand-alone scene that could be viewed on a smartphone (e.g. by emailing a link or generating a QR code)
+  
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
