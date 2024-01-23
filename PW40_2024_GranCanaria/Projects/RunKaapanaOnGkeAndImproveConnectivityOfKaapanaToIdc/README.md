@@ -3,13 +3,17 @@ layout: pw40-project
 
 permalink: /:path/
 
-project_title: Run Kaapana on GKE and improve connectivity of Kaapana to IDC
+project_title: Improve connectivity of Kaapana to IDC
 category: Cloud / Web
 presenter_location: Online
 
 key_investigators:
 
 - name: Hanno Gao
+  affiliation: DKFZ
+  country: Germany
+
+- name: Mikulas Bankovic
   affiliation: DKFZ
   country: Germany
 
@@ -27,29 +31,26 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-This project has two independent sub-projects that can be executed independently of each other:
+The aim of this project is to enhance the compatibility between Kaapana and IDC, specifically enabling Kaapana to interact with an external DICOMweb endpoint for image storage.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1.  Get Kaapana running on GKE
-2.  Improving interaction of Kaapana and IDC
+We aim to add an external DICOMweb-based server specifically, Google Healthcare API DICOM stores, in addition to the internal dcm4chee server, enhancing the ability of Kaapana to process external images.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-The next steps would be to try Kaapana with GKE: Therefore,
+The approach involves several steps:
 
-1. create a specific LoadBalancer.
-2. resolve occurring issues
-3. create deployment scripts
-4. create multi-node setup (one node with GPU, one node without)
-5. Run GPU tasks on GPU node, rest on CPU node.
-
-For Kaapana and IDC:
-Come up with a plan and possibilities how to improve the connectivity.
+1. **Establish the connection** from kaapana code-server platform to the external dicom server (REST?)
+2. Retrieve all dicom **metadata** from the **external** server
+3. Write a workflow to add **metadata** to kaapana **dashboard view**
+4. Retrieve dicom **thumbnail images** from the server
+5. Write a workflow to add them to **datasets view**
+6. **Flag** external dicoms to differentiate between **used storage DICOMWeb servers**.
 
 ## Progress and Next Steps
 
@@ -61,6 +62,8 @@ Come up with a plan and possibilities how to improve the connectivity.
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+Kaapana Datasets
+![Screenshot from 2024-01-23 15-10-36](https://github.com/NA-MIC/ProjectWeek/assets/33953801/4a63ff25-47b0-4b1f-bac6-994e5fb2b05a)
 
 *No response*
 
@@ -70,3 +73,8 @@ Come up with a plan and possibilities how to improve the connectivity.
      If possible, also add links to sample data, and to any relevant publications. -->
 
 *No response*
+Kaapana Docs: https://kaapana.readthedocs.io/en/stable/
+Kaapana Repo: https://github.com/kaapana/kaapana
+Google Healthcare API Dicomweb: https://cloud.google.com/healthcare-api/docs/how-tos/dicomweb
+Google Healthcare API: https://cloud.google.com/blog/topics/healthcare-life-sciences/getting-to-know-the-google-cloud-healthcare-api-part-1
+Google Dicomweb CLI https://github.com/GoogleCloudPlatform/healthcare-api-dicomweb-cli
