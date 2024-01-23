@@ -100,4 +100,4 @@ UML Diagram:
 
 [Roadmap](https://github.com/commontk/CTK/issues/1162)
 
-[Logging UI CTK PR](https://github.com/commontk/CTK/pull/1184)https://github.com/commontk/CTK/pull/1184
+[Logging UI CTK PR](https://github.com/commontk/CTK/pull/1184)
