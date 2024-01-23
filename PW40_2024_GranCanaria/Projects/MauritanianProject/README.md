@@ -53,6 +53,13 @@ key_investigators:
 
 The Mauritanian approach aims to make 3D Slicer accessible to a broader audience of users and researchers in the medical field. Various projects have been completed, initiated, or are currently under consideration, including:
 
+1. The anatomical atlas created by professors Idriss and Yahya in 2018 enabled medical students to visualize and quickly assimilate human body parts through the use of 3D Slicer.
+2. Other applications for generating 3D models of baby and expectant mother mannequins.
+3. Implementation and integration of three breast cancer segmentation methods by one of our researchers: An adaptive fuzzy C-means algorithm, An adaptive k-means algorithm, and an adaptive Otsu thresholding. Integration is underway. 
+4. Processing and segmentation of medical images with 3D Slicer and Deep Learning in the context of an integrated approach for analyzing various medical data from Mauritania. This is the subject of an ongoing doctoral thesis.
+5. Testing, correcting, and if necessary, completing the translation of 3D Slicer modules into Arabic.
+6. Other upcoming applications are planned.
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
@@ -71,9 +78,9 @@ The Mauritanian approach aims to make 3D Slicer accessible to a broader audience
 1.  Anatomical Atlas:
 2.  3D Model of Baby and Expectant Mother:
 3.  Introduction of 3 Segmentation Methods:
-    4 .Arabization of 3D Slicer:
-4.  Segmentation of Medical Images from Mauritania:
-5.  Other upcoming applications:
+4.  Arabization of 3D Slicer:
+5.  Segmentation of Medical Images from Mauritania:
+6.  Other upcoming applications:
 
 ## Progress and Next Steps
 
