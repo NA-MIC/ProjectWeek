@@ -99,3 +99,5 @@ UML Diagram:
 [Slicer PR](https://github.com/Slicer/Slicer/pull/7525)
 
 [Roadmap](https://github.com/commontk/CTK/issues/1162)
+
+[Logging UI CTK PR](https://github.com/commontk/CTK/pull/1184)https://github.com/commontk/CTK/pull/1184
