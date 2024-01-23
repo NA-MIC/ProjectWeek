@@ -4,7 +4,7 @@ layout: pw40-project
 permalink: /:path/
 
 project_title: Advancing SlicerHub - open issues and vision as part of a virtual hospital
-category: Cloud/web
+category: Cloud / Web
 presenter_location: Online
 
 key_investigators:
@@ -59,8 +59,7 @@ define work for the forthcoming project, the Virtual Hospital.
 
 # Background and References
 
-- OpenDx28 project, just finished, allowed to experiment in deployment and integration of services related to health. OpenDx28 Github organization is in the following link:
-https://github.com/OpenDx28
-- The specific repository for SlicerHub is: https://github.com/OpenDx28/3dslicerhub
-- The Docker image spawned by SlicerHub is at: https://github.com/OpenDx28/docker-slicer
-- This image depends on another, at: https://github.com/OpenDx28/docker-vnc-base
+- OpenDx28 project, just finished, allowed to experiment in deployment and integration of services related to health. OpenDx28 Github organization is at [https://github.com/OpenDx28](https://github.com/OpenDx28)
+- The specific repository for SlicerHub at [https://github.com/OpenDx28/3dslicerhub](https://github.com/OpenDx28/3dslicerhub)
+- The Docker image spawned by SlicerHub at [https://github.com/OpenDx28/docker-slicer](https://github.com/OpenDx28/docker-slicer)
+- This image depends on another, at [(https://github.com/OpenDx28/docker-vnc-base](https://github.com/OpenDx28/docker-vnc-base)
