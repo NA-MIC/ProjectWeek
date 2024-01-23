@@ -37,6 +37,13 @@ We planned to impart training and knowledge of SSM and available tools to projec
 
 Present an introductory presentation and series of tutorials for SSM, ShapeWorks, and its integration with Slicer.  The planned presentations and tutorials are as follows:
 
+ - Introduction to SSM and ShapeWorks (presentation)
+ - Slicer's ShapeWorks plugin interface (tutorial)
+ - Advanced pipeline: Slicer to ShapeWorks
+ - Additional SSM tools using ShapeWorks
+ - Advanced SSM in ShapeWorks
+
+
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
