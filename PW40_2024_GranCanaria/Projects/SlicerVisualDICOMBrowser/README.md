@@ -71,16 +71,12 @@ Finalize the ctk visual DICOM browser:
 # Illustrations
 screenshots:
 
-<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/86088d74-650b-4139-8e1f-66d0794b73f7" width="1000">
-<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/00c4bf23-961b-407b-8730-085d54244a53" width="1000">
+|Visual DICOM Browser | Jobs and Settings|
+|--- | ---|
+|<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/86088d74-650b-4139-8e1f-66d0794b73f7" width="1000"> | <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/971d3b2e-5fc6-422c-b57e-eb1c37e1b8b6" width="500">  <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/00c4bf23-961b-407b-8730-085d54244a53" width="500">|
 
-videos:
 
-<video
-   autoplay muted loop
-   src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/01c5bb63-87e6-4e37-84e1-ce11b57f6bb5"
-   style="width:1000px">
-</video>
+video:
 
 <video
    autoplay muted loop
