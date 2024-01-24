@@ -44,9 +44,8 @@ Both server and local content at the same place and are visualized by thumbnails
 
 The widget is currently an experimental feature in Slicer (DICOM module). Current Roadmap is at [link](https://github.com/commontk/CTK/issues/1162).
 
-Possible longer-term ENH to discuss/work during the project week:
+Possible long term ENH to discuss/work during the project week:
 - add data streaming from visual brower series widgets to Slicer volume nodes.
-- add jobs list UI (e.g. current status, actions to stop/force retry etc..., error report per job).
 - handle jobs queue in the scheduler by file (so we can restart the jobs/workers at application restart).
 - implementing send in C++ at ctk level (i.e. adding `ctkDICOMSendJob`, `ctkDICOMSendWorker` and `ctkDICOMSend` with underlining DIMSE `DcmStorageSCU`). This would allow to use the background/parallel operations infrastructure for SEND as well.
 - add `DICOMweb`.
@@ -54,8 +53,10 @@ Possible longer-term ENH to discuss/work during the project week:
 ## Objective
 Finalize the ctk visual DICOM browser:
 
-1. Get feedback from users/developers. Reference: [Roadmap](https://github.com/commontk/CTK/issues/1162).
-1. Discuss/start implementing the longterm ENH.
+1. Get feedback from users/developers.
+1. Implement streaming DCMTK logging per job to the Jobs logging UI (more info at [log UI PR](https://github.com/commontk/CTK/pull/1184)).
+1. Prioritize shortterm ENH-BUG fixes to do. See [Roadmap](https://github.com/commontk/CTK/issues/1162) for more info.  
+1. Discuss the long term ENH.
 
 ## Approach and Plan
 
