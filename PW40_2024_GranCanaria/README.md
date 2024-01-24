@@ -225,6 +225,7 @@ Updated on 2024-01-21.
 1. Juan Carlos Avila Vilchis , Facultad de Ingeniería UAEMex, Mexico, (Online)
 1. Enrique Hernandez Laredo, Universidad Autónoma del Estado de México, Mexico, (In-person)
 1. Ofer Pasternak, Harvard Medical School, USA, (In-person)
+1. Umang Pandey, Universidad Carlos III de Madrid, Spain, (Online)
 
 <!-- Participants list end -->
 
