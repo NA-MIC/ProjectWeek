@@ -74,7 +74,15 @@ When it comes to evaluating AI methods, it's important to have reproducible code
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-![Red (ground truth) and green (predicted) using nnUNet supervised baseline on PICAI dataset](https://github.com/NA-MIC/ProjectWeek/assets/59979551/c7545409-d451-4267-a0bc-989b59290a88)
+Using the pretrained nnU-Net supervised baseline from PICAI, on a patient from PICAI. Ground truth lesion segmentation is in red, and the predicted segmentation in green. 
+![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/c7545409-d451-4267-a0bc-989b59290a88)
+
+Using the pretrained nnU-Net semi-supervised baseline from PICAI, on a patient from QIN-Prostate-Repeatability. The ground truth lesion is in green, and the predicted bounding box in white.
+<img width="708" alt="nnunet_bounding_box" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/c91a256a-01c3-4660-90ef-c30a7f99b719">
+
+Using the MONAI Deploy MAP pre-trained model for prostate and lesion segmentation on a patient from Prostate-MRI-US-Biopsy.
+The ground truth lesion segmentation is on the left, and the predicted prostate gland segmentation and lesion segmentations are on the right.
+![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/ad06d628-d724-4c45-9c90-eed7a6cea499)
 
 # Background and References
 
