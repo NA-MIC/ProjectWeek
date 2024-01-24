@@ -41,13 +41,20 @@ Notes for discussion:
 1.  Enable the local 3DSlicer to launch from slicer://idc-browser/ URLs
 2.  Register the slicer://idc-browser/ protocol on Linux, Windows, and MacOS
 3.  Integrate the protocol registration for slicer://viewer/ into the 3DSlicer installation process for Linux and MacOS
+4.  Sequence of steps (under discussion) of how this should work when everything is done:
+   * user interacts with IDC Portal, which includes URLs at the study/series level for the types of data that can be handled by Slicer (exclude SM)
+   * when user clicks on a Slicer URL
+       * if user has Slicer installed, but no SlicerIDCBrowser extension - the only handler available is the default one - should it detect that extension is missing and inform user that it is needed?
+       * if user has Slicer and extension installed - open Slicer, select SlicerIDCBrowser, populate information in the GUI about what is being downloaded and automatically trigger the download and load into scene - need to discuss how to do error checking and alert user if certain series cannot be loaded
+       * if user does not have Slicer - probably nothing can be done, it won't work - 404
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1.  Incorporate  class in SlicerIDCBrowser code base
-2.  Handle registration of custom browser protocol automatically based on the underlying OS
+   * need to add support for progress reporting - Vamsi suggests to look at the number of files - or we can use total size of the downloaded files, since s5cmd creates multiple files during download
+3.  Handle registration of custom browser protocol automatically based on the underlying OS
 
 ## Progress and Next Steps
 
