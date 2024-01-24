@@ -91,6 +91,7 @@ The ground truth lesion segmentation is on the left, and the predicted prostate 
 ![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/c55ff897-e1e8-485c-b17f-0bd104f95a4e)
 
 Scrolling through slices of same patient as above: 
+
 ![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/8fc9b45d-48ce-443d-a951-0345b6f913ea)
 
 
