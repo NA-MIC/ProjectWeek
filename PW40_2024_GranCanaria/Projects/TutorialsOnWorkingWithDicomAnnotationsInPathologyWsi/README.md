@@ -21,10 +21,6 @@ key_investigators:
   affiliation: PixelMed
   country: USA
 
-- name: Curtis Lisle
-  affiliation: KnowledgeVis
-  country: USA
-
 - name: André Homeyer
   affiliation: Fraunhofer MEVIS
   country: Germany
