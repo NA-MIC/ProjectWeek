@@ -88,11 +88,12 @@ Using the pretrained nnU-Net semi-supervised baseline from PICAI, on a patient f
 
 Using the MONAI Deploy MAP pre-trained model for prostate and lesion segmentation on a patient from Prostate-MRI-US-Biopsy.
 The ground truth lesion segmentation is on the left, and the predicted prostate gland segmentation and lesion segmentations are on the right.
-![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/ad06d628-d724-4c45-9c90-eed7a6cea499)
+![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/c55ff897-e1e8-485c-b17f-0bd104f95a4e)
 
-Using the MONAI Deploy MAP pre-trained model for prostate and lesion segmentation on another patient from Prostate-MRI-US-Biopsy.
-The ground truth lesion segmentation is on the left, and the predicted prostate gland segmentation and lesion segmentations are on the right.
-![monai_deploy_prostate-mri-us-biopsy-2](https://github.com/NA-MIC/ProjectWeek/assets/59979551/93ca369d-68cc-4261-a74f-1d50658a83fc)
+Scrolling through slices of same patient as above: 
+![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/8fc9b45d-48ce-443d-a951-0345b6f913ea)
+
+
 
 # Background and References
 
