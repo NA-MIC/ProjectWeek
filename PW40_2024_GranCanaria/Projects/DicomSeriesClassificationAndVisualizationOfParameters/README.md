@@ -17,6 +17,14 @@ key_investigators:
   affiliation: Isomics, Inc.
   country: USA
 
+- name: Bálint Kovács
+  affiliation: DKFZ
+  country: Germany
+
+- name: Stefan Denner
+  affiliation: DKFZ
+  country: Germany 
+
 - name: Andrey Fedorov
   affiliation: Brigham and Women's Hospital
   country: USA
@@ -29,9 +37,9 @@ key_investigators:
 
 To use and develop AI methods, significant data curation is required. In some cases like prostate cancer segmentation, clinicians often use multiple MRI sequences for diagnosis such as T2, diffusion-weighted series, and derived maps.
 
-Unfortunately, the information describing the sequences is often missing or incorrect, as it's prone to errors from technicians. The proper sequence could be analyzed visually, but this is cumbersome if thousands or scans need to be analyzed. Therefore, automatic methods for determining the right series are of interest.
+Unfortunately, the information describing the sequences is often missing or incorrect, as it's prone to errors from technicians. The proper sequence could be analyzed visually, but this is cumbersome if thousands of scans need to be analyzed. Therefore, automatic methods for determining the right series are of interest.
 
-We propose methods to aid in the curation of DICOM data, as well as aids to help in visualization of DICOM parameters.
+We propose methods to aid in the curation of DICOM data, as well as aids to help in vizualization of DICOM parameters.
 
 ## Objective
 
@@ -44,25 +52,24 @@ We would like to develop approaches for aiding in the curation of data. The firs
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1.  Use packages such as [hiplot ](https://ai.meta.com/blog/hiplot-high-dimensional-interactive-plots-made-easy/) to visualize DICOM scanning parameters across different collections and modalities in IDC.
-2.  Develop approaches for data curation using AI - e.g. determine the scan sequence, or if endorectal coil is present, etc.
+3.  Develop approaches for data curation using AI - e.g. determine the scan sequence, or if endorectal coil is present, etc.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Started [repo here](https://github.com/deepakri201/DICOMTagViz/) for initial [hiplot](https://github.com/facebookresearch/hiplot) and [streamlit](https://github.com/streamlit) exploration of DICOM tags from QIN-Prostate-Repeatability
+1.  Started [repo here](https://github.com/deepakri201/DICOMTagViz/) for initial [hiplot](https://github.com/facebookresearch/hiplot) exploration of DICOM tags of T2 weighted axial series of prostate imaging collections from IDC 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-*No response*
+Hiplot vizualization of T2 weighted axial parameters from 5 different prostate cancer imaging collections in IDC
+![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/2d4d45b6-401c-4cfe-aeca-c2375e17b544)
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
+[GitHub repo](https://github.com/deepakri201/DICOMTagViz/)
 
 Some earlier work with parallel coordinates plots in Slicer:
 * https://github.com/pieper/SlicerMultiMapper
