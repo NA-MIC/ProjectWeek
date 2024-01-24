@@ -84,6 +84,10 @@ Using the MONAI Deploy MAP pre-trained model for prostate and lesion segmentatio
 The ground truth lesion segmentation is on the left, and the predicted prostate gland segmentation and lesion segmentations are on the right.
 ![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/ad06d628-d724-4c45-9c90-eed7a6cea499)
 
+Using the MONAI Deploy MAP pre-trained model for prostate and lesion segmentation on another patient from Prostate-MRI-US-Biopsy.
+The ground truth lesion segmentation is on the left, and the predicted prostate gland segmentation and lesion segmentations are on the right.
+![monai_deploy_prostate-mri-us-biopsy-2](https://github.com/NA-MIC/ProjectWeek/assets/59979551/93ca369d-68cc-4261-a74f-1d50658a83fc)
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
