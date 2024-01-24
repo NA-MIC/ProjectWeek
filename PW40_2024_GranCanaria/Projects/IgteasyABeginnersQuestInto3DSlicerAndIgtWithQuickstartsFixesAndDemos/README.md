@@ -9,11 +9,11 @@ presenter_location: In-person
 
 key_investigators:
 
-- name: Jose Carlos Mateo Pérez
+- name: Constantin Constantinescu
   affiliation: University of Las Palmas de Gran Canaria
   country: Spain
 
-- name: Constantin Constantinescu
+- name: Jose Carlos Mateo Pérez
   affiliation: University of Las Palmas de Gran Canaria
   country: Spain
 
@@ -27,6 +27,10 @@ key_investigators:
 
 - name: Juan Ruiz Alzola
   affiliation: University of Las Palmas de Gran Canaria
+  country: Spain
+
+  - name: David García Mato
+  affiliation: Apolo AI
   country: Spain
 
 ---
