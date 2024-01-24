@@ -25,6 +25,10 @@ key_investigators:
   affiliation: Senior Deep Learning Engineer at NVIDIA
   country: UK
 
+- name: Umang Pandey
+  affiliation: Universidad Carlos III de Madrid
+  country: Spain    
+
 ---
 
 # Project Description
