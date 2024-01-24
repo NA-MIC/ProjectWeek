@@ -16,6 +16,10 @@ key_investigators:
   affiliation: open health imaging foundation - OHIF
   country: Canada
 
+- name: Mo Al S’ad
+  affiliation: Imperial College of London
+  country: UK
+
 ---
 
 # Project Description
