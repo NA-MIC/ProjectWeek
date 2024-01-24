@@ -29,7 +29,7 @@ key_investigators:
   affiliation: University of Las Palmas de Gran Canaria
   country: Spain
 
-  - name: David García Mato
+- name: David García Mato
   affiliation: Apolo AI
   country: Spain
 
