@@ -65,6 +65,7 @@ Its basic functionality is demonstrated in this tutorial: <https://github.com/Im
 3.  refine organization of the underlying index and exposed metadata attributes
 4.  finish setting up GitHub actions to simplify updates and python package publishing
 5.  documentation
+6.  discuss with python packaging experts what is the recommended practice handling attachments/binary dependencies for a python package (ie, see [https://github.com/ImagingDataCommons/idc-index/issues/3](https://github.com/ImagingDataCommons/idc-index/issues/3) and [https://github.com/ImagingDataCommons/idc-index/issues/27](https://github.com/ImagingDataCommons/idc-index/issues/27))
 
 ## Progress and Next Steps
 
