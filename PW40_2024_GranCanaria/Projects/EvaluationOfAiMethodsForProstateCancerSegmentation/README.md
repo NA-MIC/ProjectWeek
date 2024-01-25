@@ -94,6 +94,11 @@ Scrolling through slices of same patient as above:
 
 ![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/8fc9b45d-48ce-443d-a951-0345b6f913ea)
 
+Using the MONAI Deploy MAP pre-trained model for prostate and lesion segmentation on a patient from ProstateX. 
+The ground truth lesion segmentation is on the left, and the predicted prostate gland segmentation and lesion segmentations are on the right.
+
+![monai_deploy_prostatex_0000](https://github.com/NA-MIC/ProjectWeek/assets/59979551/af44b9d3-74dd-4b3e-90fd-80daf8685850)
+
 
 
 # Background and References
