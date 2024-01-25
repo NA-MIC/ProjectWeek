@@ -21,6 +21,10 @@ key_investigators:
   affiliation: Fraunhofer MEVIS
   country: Germany
 
+- name: Leonard Nürnberg
+  affiliation: Maastricht University
+  country: Netherlands
+
 ---
 
 # Project Description
