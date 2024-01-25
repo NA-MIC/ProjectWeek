@@ -47,7 +47,7 @@ This project will explore the application of MONAI generative tools to data on t
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1.  Explore creating an  compatible with [MONAI Datasets](https://docs.monai.io/en/latest/data.html) using [idc-index](https://github.com/ImagingDataCommons/idc-index) to fetch data
+1.  Explore creating an `IDCDataset` compatible with [MONAI Datasets](https://docs.monai.io/en/latest/data.html) using [idc-index](https://github.com/ImagingDataCommons/idc-index) to fetch data
 2.  Investigate adapting [tutorial code](https://github.com/Project-MONAI/tutorials/tree/main/generative) to work with IDC data
 3.  Try running some small tests, such as running the [superresolution tutorials](https://github.com/Project-MONAI/GenerativeModels/blob/main/tutorials/generative/2d_super_resolution/2d_stable_diffusion_v2_super_resolution.ipynb) on IDC data
 4.  Document how IDC can be used with MONAI for research
