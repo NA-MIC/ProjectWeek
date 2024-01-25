@@ -64,9 +64,16 @@ We would like to develop approaches for aiding in the curation of data. The firs
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-Hiplot vizualization of T2 weighted axial parameters from 5 different prostate cancer imaging collections in IDC
 
-![hiplot_t2_recording_01_23_24_2](https://github.com/NA-MIC/ProjectWeek/assets/59979551/420c4733-c27e-4ef8-87a9-ebc35bb8e224)
+Hiplot visualization of T2 weighted axial parameters from 5 different prostate cancer imaging collections in IDC
+
+![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/420c4733-c27e-4ef8-87a9-ebc35bb8e224)
+
+Same hiplot but with rendering in the browser!
+
+![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/043542a8-99fb-42ad-8724-dc94588027c3)
+
+
 
 
 # Background and References
