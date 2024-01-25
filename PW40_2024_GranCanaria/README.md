@@ -86,7 +86,7 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-01-21.
+Updated on 2024-01-25.
 
 1. Steve Pieper, Isomics, Inc., USA, (In-person, Confirmed)
 1. Theodore Aptekarev, Slicer Community, Montenegro, (Online)
@@ -142,7 +142,7 @@ Updated on 2024-01-21.
 1. David Clunie, PixelMed (IDC), USA, (In-person, Confirmed)
 1. Federico Gnesotto, ImFusion GmbH, Germany, (In-person, Confirmed)
 1. Okeowo Adedoyin Esther , Lagos State University Teaching Hospital , Nigeria, (Online)
-1. Niklas Wahl, German Cancer Research Center (DKFZ), Germany, (In-person)
+1. Niklas Wahl, German Cancer Research Center (DKFZ), Germany, (In-person, Confirmed)
 1. Nora Penzel, Massachusetts General Hospital, Harvard Medical School, Boston, USA, (In-person, Confirmed)
 1. Deepa Krishnaswamy, Brigham and Women's Hospital, USA, (In-person, Confirmed)
 1. Martin Matilla, ImFusion GmbH, Germany, (In-person, Confirmed)
@@ -158,7 +158,7 @@ Updated on 2024-01-21.
 1. Lucia Salazar Carrasco, Minimally Invasive Surgery Center Jesús Usón, Cáceres, Spain, (Online)
 1. Marco Nolden, German Cancer Research Center (DKFZ), Heidelberg, Germany, (In-person, Confirmed)
 1. Christopher Bridge, Massachusetts General Hospital, USA, (In-person, Confirmed)
-1. Pablo Polosecki, IBM Research, USA, (In-person)
+1. Pablo Polosecki, IBM Research, USA, (In-person, Confirmed)
 1. Carl-Fredrik Westin, Harvard Medical School, USA, (In-person, Confirmed)
 1. Idafen Santana, EBATINCA, Spain, (In-person, Confirmed)
 1. Rudolf Bumm, Kantonsspital Graubünden, Switzerland, (In-person, Confirmed)
@@ -192,7 +192,7 @@ Updated on 2024-01-21.
 1. Mohamed Abdellahi Sidi Mohamed Blal, Université de Nouakchott , Mauritania, (Online)
 1. João Pedro Alves Januário, University os São Paulo, Brazil, (Online)
 1. Professor Klaus Maier-Hein, German Cancer Research Center (DKFZ), Germany, (In-person)
-1. Franesca Spadea, Karlsruhe Institute of Technology, Italy, (In-person)
+1. Francesca Spadea, Karlsruhe Institute of Technology, Italy, (In-person)
 1. Ashis Ravindran, DKFZ, Heidelberg, Germany, (Online)
 1. Imre János Barabás, MD, Semmelweis University, Hungary, (In-person)
 1. Mikael Brudfors , NVIDIA, UK, (In-person)
@@ -225,10 +225,30 @@ Updated on 2024-01-21.
 1. Juan Carlos Avila Vilchis , Facultad de Ingeniería UAEMex, Mexico, (Online)
 1. Enrique Hernandez Laredo, Universidad Autónoma del Estado de México, Mexico, (In-person)
 1. Ofer Pasternak, Harvard Medical School, USA, (In-person)
+1. Tae Young Park, KIST, South Korea, (Online)
+1. Aída García Limas, UAEMéx, Mexico, (Online)
+1. Mikhail Milchenko, Washington University in Saint Louis, USA, (Online)
+1. Fatimetou Hademine , Faculty of science and technology university of Nouakchott , Mauritania, (Online)
+1. Aichetou N’DIAYE, Université de Nouakchott, Mauritania, (Online)
+1. Mohamed Boullah Mohamed , University of Nouakchott , Mauritania, (Online)
+1. Abigail Mercado Ponciano, Universidad Autónoma del Estado de México , Mexico, (Online)
+1. Paula, Instituto Tecnológico de Canarias, Spain, (Online)
+1. David Garcia Mato, Apolo AI, Spain, (Online)
+1. Mikulas Bankovic, DKFZ, Germany, (Online)
+1. Khaled Younis, MedAiConsult, USA, (Online)
+1. Jess Tate, University of Utah, USA, (Online)
+1. Juan Carlos Prieto, University of North Carolina, USA, (Online)
+1. Stephen Schaumann, DKFZ Heidelberg, Germany, (Online)
+1. Kevin Guan, New York University, USA, (Online)
+1. Umang Pandey, Universidad Carlos III de Madrid, Spain, Spain, (Online)
+1. Felicia Alfano, Universidad Politécnica de Madrid, Spain, (Online)
+1. Mo Al Sa’d, Imperial College London, UK, (Online)
 
 <!-- Participants list end -->
 
 ## Statistics
+
+<img alt="Participation statistics" src="statistics.svg" width="500"/>
 
 ## Organizers
 
