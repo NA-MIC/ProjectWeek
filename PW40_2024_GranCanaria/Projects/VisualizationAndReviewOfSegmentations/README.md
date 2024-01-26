@@ -58,7 +58,18 @@ We would like to review this work, and showcase some results during project week
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-*No response*
+General points: 
+1. How do we evaluate segmentations without ground truth?
+2. What is also the best way to interpret our NLST segmentation results, using information we know about the data the pretrained model used? I think we should take a closer look at the training data to understand our results. For example clinical information, disease differences, etc.
+3. How do we do outlier detection on large, heterogenous datasets?
+4. What other radiomics features can we use besides volume? We are extracting the shape features, first order features, and general features from pyradiomics.
+5. How do we curate patients/segments to be used for further analysis? For instance, not including patients that have incomplete segmentations. 
+6. How do we make sure that we are correctly identifying the incorrect laterality of the organs? 
+   
+Specific points:  
+1. What analysis can we do for the lung regions? What features besides the volume can we interpret? Can we take advantage of the NLST clinical tables? (smoking vs non smoking, etc).
+2. For the vertebrae, are there heuristics we can do?
+3. Are there heuristics that we develop for NLST that will work for SynthSeg evaluation?
 
 # Illustrations
 
