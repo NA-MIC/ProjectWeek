@@ -64,7 +64,8 @@ General points:
 3. How do we do outlier detection on large, heterogenous datasets?
 4. What other radiomics features can we use besides volume? We are extracting the shape features, first order features, and general features from pyradiomics.
 5. How do we curate patients/segments to be used for further analysis? For instance, not including patients that have incomplete segmentations -- without having ground truth. 
-6. How do we make sure that we are correctly identifying cases where the laterality is incorrect?  
+6. How do we make sure that we are correctly identifying cases where the laterality is incorrect?
+7. Can we use information about the topology/atlas-based info to determine if segmentations are correct? Like we know left lower lobe is more inferior to left upper lobe. 
    
 Specific points:  
 1. What analysis can we do for the lung regions? What features besides the volume can we interpret? Can we take advantage of the NLST clinical tables? (smoking vs non smoking, etc).
