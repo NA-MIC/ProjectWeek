@@ -4,7 +4,7 @@ layout: pw40-project
 permalink: /:path/
 
 project_title: Tutorials on working with DICOM annotations in pathology WSI
-category: Segmentation / Classification / Landmarking
+category: DICOM
 presenter_location: In-person
 
 key_investigators:
