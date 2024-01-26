@@ -54,8 +54,7 @@ Possible long term ENH to discuss/work during the project week:
 Finalize the ctk visual DICOM browser:
 
 1. Get feedback from users/developers.
-1. Implement streaming DCMTK logging per job to the Jobs logging UI (more info at [log UI PR](https://github.com/commontk/CTK/pull/1184)).
-1. Prioritize shortterm ENH-BUG fixes to do. See [Roadmap](https://github.com/commontk/CTK/issues/1162) for more info.  
+1. Prioritize short term ENH-BUG fixes to do. See [Roadmap](https://github.com/commontk/CTK/issues/1162) for more info.  
 1. Discuss the long term ENH.
 
 ## Approach and Plan
@@ -65,9 +64,7 @@ Finalize the ctk visual DICOM browser:
 
 ## Progress and Next Steps
 
-1. ...
-1. ...
-
+1. A Job list UI has been implemented.
 
 # Illustrations
 screenshots:
