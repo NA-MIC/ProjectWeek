@@ -63,8 +63,8 @@ General points:
 2. What is also the best way to interpret our NLST segmentation results, using information we know about the data the pretrained model used? I think we should take a closer look at the training data to understand our results. For example clinical information, disease differences, etc.
 3. How do we do outlier detection on large, heterogenous datasets?
 4. What other radiomics features can we use besides volume? We are extracting the shape features, first order features, and general features from pyradiomics.
-5. How do we curate patients/segments to be used for further analysis? For instance, not including patients that have incomplete segmentations. 
-6. How do we make sure that we are correctly identifying the incorrect laterality of the organs? 
+5. How do we curate patients/segments to be used for further analysis? For instance, not including patients that have incomplete segmentations -- without having ground truth. 
+6. How do we make sure that we are correctly identifying cases where the laterality is incorrect?  
    
 Specific points:  
 1. What analysis can we do for the lung regions? What features besides the volume can we interpret? Can we take advantage of the NLST clinical tables? (smoking vs non smoking, etc).
