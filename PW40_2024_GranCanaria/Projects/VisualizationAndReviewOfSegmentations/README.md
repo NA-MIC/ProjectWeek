@@ -76,7 +76,6 @@ Specific points:
 Example of TotalSegmentator analysis on an NLST patient in OHIF. 
 ![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/604c7923-6f42-4865-8fe5-b18cd59231f6)
 
-
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
