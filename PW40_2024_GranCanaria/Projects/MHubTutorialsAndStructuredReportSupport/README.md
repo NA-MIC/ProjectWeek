@@ -35,6 +35,10 @@ Objective A
 Objective B
 1. Organize a break-out session for all interested developers. We can provide tutorials and answer specific questions on request. It would be great to know who is interested in submitting a model to MHub or using MHub models and gather questions in advance to provide customized tutorials.
 
+Other items suggested by @fedorov:
+* revisit MHub Colab notebook
+* continue discussions on how the specific series from IDC can be linked with the models, and how this can be exposed in the website and via some API
+
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
