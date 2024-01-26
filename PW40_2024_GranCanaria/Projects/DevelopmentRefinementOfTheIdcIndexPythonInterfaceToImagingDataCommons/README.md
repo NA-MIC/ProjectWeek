@@ -25,6 +25,10 @@ key_investigators:
   affiliation: Maastricht University
   country: Netherlands
 
+- name: Steve Pieper
+  affiliation: Isomics Inc
+  country: USA
+
 ---
 
 # Project Description
@@ -72,7 +76,9 @@ Its basic functionality is demonstrated in this tutorial: <https://github.com/Im
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-*No response*
+1. Refinement and testing to fix regressions in 0.2.9
+2. Discussed with Leo
+3. Discussion with @pieper re utility. Feedback: "Speaking for myself, this exercise made wish we had some api documentation for idc-index.  Also is there a way to report progress during the download?  Also some better error messages would help.   I tried pasting the collection name from the portal as the collection_id and I get a pyhon error about a manifest not existing.  I had to use the collection query to figure out what the mapping rule is.  It would be nice if the idc-index methods could include a mapping so that either version of the collection string is accepted.  Otherwise it worked well though and this is definitely a nice way to access the data!"
 
 # Illustrations
 
