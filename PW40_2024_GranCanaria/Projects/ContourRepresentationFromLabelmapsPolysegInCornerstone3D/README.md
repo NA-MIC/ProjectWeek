@@ -21,6 +21,11 @@ key_investigators:
 
 I've been working hard on implementing polySEG in cornerstone3D, and I'm happy to report that I've already implemented the following converters:
 
+- Labelmap to surface
+- Surface to labelmap
+- Contour to surface
+- Contour to labelmap
+
 However, we still have two converters remaining that seem to be more complex: surface to contour and labelmap to contour. We're excited to tackle these challenges and continue moving forward. This project aims to work on this
 
 ## Objective
