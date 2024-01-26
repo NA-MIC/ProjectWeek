@@ -4,7 +4,7 @@ layout: pw40-project
 permalink: /:path/
 
 project_title: Current state of DICOMweb for pathology
-category: Cloud / Web
+category: DICOM
 presenter_location: In-person
 
 key_investigators:
