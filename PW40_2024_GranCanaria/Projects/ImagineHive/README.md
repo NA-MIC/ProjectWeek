@@ -54,16 +54,16 @@ ImagineHive is currently used at the Weill Cornell Medicine/Presbyterian NY hosp
 ### HIVE front-end:
 | Patient selection | Imaging | 
 | --- | --- |
-| <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/0cd01923-2efe-4141-aefc-84d9716851cf" width="500"> | <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/9568cd8b-ec41-4b57-8541-ca3142707085" width="500"> |
+| <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/0cd01923-2efe-4141-aefc-84d9716851cf" width="400"> | <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/9568cd8b-ec41-4b57-8541-ca3142707085" width="400"> |
 
 ### SlicerHIVE:
 | Workspace selector | DICOM Visual Browser | 
 | --- | --- |
-|<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/06dec4f2-7e12-4b6e-8f08-feb2525749d2" width="500"> | <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/ca8c7182-dad0-4e4f-90e3-b508f690bc72" width="500">|
+| <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/06dec4f2-7e12-4b6e-8f08-feb2525749d2" width="400"> | <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/ca8c7182-dad0-4e4f-90e3-b508f690bc72" width="400"> |
 
 | Segmentation tools | Viewer |
 | --- | --- |
-| <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/47fd127e-bdf0-48c4-88a2-dd55ab088d52" width="500">| <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/bda9f033-1105-4333-8501-6add25476281" width="500"> |
+| <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/47fd127e-bdf0-48c4-88a2-dd55ab088d52" width="400"> | <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/bda9f033-1105-4333-8501-6add25476281" width="400"> |
 
 ### HIVE back-end:
 <p align="center">
