@@ -10,8 +10,17 @@ presenter_location: In-person
 key_investigators:
 
 - name: Rudolf Bumm
-  affiliation: KSGR Switzerland)
-  country: Steve Pieper (Isomics, Inc., USA
+  affiliation: KSGR 
+  country: Switzerland
+- name: Andras Lasso
+  affiliation: Queen's University
+  country: Canada
+- name: Andres Diaz-Pinto
+  affiliation: NVIDIA & King's College London
+  country: United Kingdom
+- name: Steve Pieper
+  affiliation: Isomics Inc
+  country: USA
 
 ---
 
