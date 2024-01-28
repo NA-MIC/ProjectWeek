@@ -25,12 +25,14 @@ key_investigators:
 
 Representation of anatomy in a virtual form is at the heart of clinical decision making, biomedical research, and medical training. Virtual anatomy is not limited to description of geometry but also requires appropriate and efficient labeling of regions - to define spatial relationships and interactions between anatomical objects; effective strategies for pointwise operations - to define local properties, biological or otherwise; and support for diverse data formats and standards - to facilitate exchange between clinicians, scientists, engineers, and the general public. Development of aeva, a free and open source software package (library, user interfaces, extensions) capable of automated and interactive operations for virtual anatomy annotation and exchange, is in response to these currently unmet requirements.
 
+The aeva suite currently consists of aevaSlicer (for segmentation and mesh generation) and aevaCMB for mesh and anatomy annotation.
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1.  Demo the current version of the aeva suite.
-2.  Collect feedback and ideas
+2.  Collect feedback and ideas.
 
 ## Approach and Plan
 
@@ -49,7 +51,9 @@ Representation of anatomy in a virtual form is at the heart of clinical decision
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-*No response*
+Example tutorial:
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/cFiqL-oqM64?si=TDUtf99SpUEQcKO5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Background and References
 
@@ -57,3 +61,4 @@ Representation of anatomy in a virtual form is at the heart of clinical decision
      If possible, also add links to sample data, and to any relevant publications. -->
 
 *   [aeva page](https://simtk.org/projects/aeva-apps)
+*   [aeva readthedocs](https://aeva.readthedocs.io/en/latest/)
