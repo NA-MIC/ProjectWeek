@@ -53,46 +53,43 @@ key_investigators:
 
 The Mauritanian approach aims to make 3D Slicer accessible to a broader audience of users and researchers in the medical field. Various projects have been completed, initiated, or are currently under consideration, including:
 
-1. The anatomical atlas created by professors Idriss and Yahya in 2018 enabled medical students to visualize and quickly assimilate human body parts through the use of 3D Slicer.
-2. Other applications for generating 3D models of baby and expectant mother mannequins.
-3. Implementation and integration of three breast cancer segmentation methods by one of our researchers: An adaptive fuzzy C-means algorithm, An adaptive k-means algorithm, and an adaptive Otsu thresholding. Integration is underway. 
-4. Processing and segmentation of medical images with 3D Slicer and Deep Learning in the context of an integrated approach for analyzing various medical data from Mauritania. This is the subject of an ongoing doctoral thesis.
-5. Testing, correcting, and if necessary, completing the translation of 3D Slicer modules into Arabic.
-6. Other upcoming applications are planned.
+- The anatomy atlases created by professors Idriss and Yahya in 2018 enabled medical students to visualize and quickly assimilate human body parts through the use of 3D Slicer.
+- Other applications for generating 3D models of baby and expectant mother mannequins.
+- Implementation and integration of three breast cancer segmentation methods by one of our researchers: An adaptive fuzzy C-means algorithm, An adaptive k-means algorithm, and an adaptive Otsu thresholding. Integration is underway.
+- Processing and segmentation of medical images with 3D Slicer and Deep Learning in the context of an integrated approach for analyzing various medical data from Mauritania. This is the subject of an ongoing doctoral thesis.
+- Other upcoming applications are planned.
+
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1.  Facilitate access to 3D Slicer for medical students to enhance understanding and manipulation of the human body.
-2.  Generate 3D models of baby and expectant mother mannequins.
-3.  Contribute to enriching breast cancer segmentation methods by introducing and comparing user choices in 3D Slicer.
-4.  Aim to make 3D Slicer usable by a wider audience of Mauritanian and Arabic-speaking users (practitioners, students, and researchers).
-5.  Explore cutting-edge techniques in medical image processing and segmentation, especially those based on Deep Learning, implement them, and evaluate performance.
-6.  Anticipate additional upcoming applications.
+- Generate 3D models of baby and expectant mother mannequins.
+- Contribute to enriching breast cancer segmentation methods by introducing and comparing user choices in 3D Slicer.
+- Explore cutting-edge techniques in medical image processing and segmentation, especially those based on Deep Learning, implement them, and evaluate performance.
+- Anticipate additional upcoming applications.
+
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1.  Anatomical Atlas:
-2.  3D Model of Baby and Expectant Mother:
-3.  Introduction of 3 Segmentation Methods:
-4.  Arabization of 3D Slicer:
-5.  Segmentation of Medical Images from Mauritania:
-6.  Other upcoming applications:
+- 3D Model of Baby and Expectant Mother
+- Introduction of 3D Segmentation Methods:
+- Segmentation of Medical Images from Mauritania:
+- Other upcoming applications:
+
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Progress of the anatomical atlas: ...
-2.  Progress in generating 3D models of the baby and expectant mother.
-3.  Progress in integrating the 3 segmentation methods.
-4.  Progress of the doctoral thesis: Segmentation of Medical Images from Mauritania.
-5.  Progress in contributing to the Arabic translation:
-6.  Other upcoming projects.
+- Progress in generating 3D models of the baby and expectant mother.
+- Progress in integrating the 3D segmentation methods.
+- Progress of the doctoral thesis: Segmentation of Medical Images from Mauritania.
+- Other upcoming projects.
+
 
 # Illustrations
 
@@ -105,4 +102,4 @@ The Mauritanian approach aims to make 3D Slicer accessible to a broader audience
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-*No response*
+[Previous ProjectWeek Page](https://projectweek.na-mic.org/PW33_2020_GranCanaria/Projects/AnatomicalAtlasesMauritania)
