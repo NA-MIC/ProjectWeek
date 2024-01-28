@@ -63,6 +63,7 @@ This project aims to clarify best practices and discuss possible fixes for linki
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Andrey summarized the implementation challenges in this issue - need to hear from @dclunie: [https://github.com/QIICR/dcmqi/issues/489](https://github.com/QIICR/dcmqi/issues/489)
 
 *No response*
 
