@@ -5,7 +5,7 @@ permalink: /:path/
 
 project_title: Development/refinement of the idc-index python interface to Imaging Data Commons
 category: Infrastructure
-presenter_location: In-person
+presenter_location: Remote
 
 key_investigators:
 
