@@ -5,7 +5,7 @@ permalink: /:path/
 
 project_title: Review of priorities and development planning of dcmqi
 category: DICOM
-presenter_location: In-person
+presenter_location: Remote
 
 key_investigators:
 
