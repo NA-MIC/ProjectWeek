@@ -5,7 +5,7 @@ permalink: /:path/
 
 project_title: Investigating the role of public imaging data in research
 category: Infrastructure
-presenter_location: In-person
+presenter_location: Remote
 
 key_investigators:
 
