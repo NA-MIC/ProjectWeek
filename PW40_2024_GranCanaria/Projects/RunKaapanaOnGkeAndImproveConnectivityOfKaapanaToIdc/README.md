@@ -51,6 +51,9 @@ The approach involves several steps:
 4. Retrieve dicom **thumbnail images** from the server
 5. Write a workflow to add them to **datasets view**
 6. **Flag** external dicoms to differentiate between **used storage DICOMWeb servers**.
+7. Enable using the data in dicom store as input for existing workflows in kaapana
+8. If possible, integrate **OHIF viewer** on kaapana with GCP dicom store
+
 
 ## Progress and Next Steps
 
@@ -62,8 +65,11 @@ The approach involves several steps:
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-Kaapana Datasets
+Kaapana datasets **thumbnail** view:
 ![Screenshot from 2024-01-23 15-10-36](https://github.com/NA-MIC/ProjectWeek/assets/33953801/4a63ff25-47b0-4b1f-bac6-994e5fb2b05a)
+
+Ohif Viewer:
+![Screenshot from 2024-01-29 09-14-51](https://github.com/NA-MIC/ProjectWeek/assets/33953801/eb30e056-3f55-47f6-9a06-cb9407348e56)
 
 *No response*
 
@@ -74,7 +80,11 @@ Kaapana Datasets
 
 *No response*
 Kaapana Docs: https://kaapana.readthedocs.io/en/stable/
+
 Kaapana Repo: https://github.com/kaapana/kaapana
+
 Google Healthcare API Dicomweb: https://cloud.google.com/healthcare-api/docs/how-tos/dicomweb
+
 Google Healthcare API: https://cloud.google.com/blog/topics/healthcare-life-sciences/getting-to-know-the-google-cloud-healthcare-api-part-1
+
 Google Dicomweb CLI https://github.com/GoogleCloudPlatform/healthcare-api-dicomweb-cli
