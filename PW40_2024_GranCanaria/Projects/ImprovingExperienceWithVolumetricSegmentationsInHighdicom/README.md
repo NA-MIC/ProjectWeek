@@ -31,7 +31,36 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-None
+### Background
+
+The DICOM Segmentation format is used to store image segmentations in DICOM format. Using DICOM Segmentations, which use the DICOM information model and can be communicated over DICOM interfaces, has many advantages when it comes to deploying automated segmentation algorithms in practice. DICOM Segmentations are especially flexible in many respects including the arrangement of the multiple frames that are present in the image. However, https://github.com/NA-MIC/ProjectWeek/issues/643 flexibility is sometimes criticized for making the processes of creating and parsing overly complex for "simple" cases, which are also typically the most commonly encountered.
+
+In particular, the case of a "3D volume" is very commonly encountered within segmentations. By "3D volume" I refer specifically to a segmentation in which frames are parallel and regularly spaced along a vector normal to each frame, possibly with multiple segments and, subject to discussion, with empty frames omitted from the volume.
+
+This topic was discussed as part of a broader discussion on possible improvements to the Segmentation IOD for the last project week on https://github.com/NA-MIC/ProjectWeek/issues/643#issuecomment-1582677841 issue and in particular this comment is relevant.
+
+This issue has been raised as one of particular interest by the Imaging Data Commons team. @dclunie @fedorov @pieper
+Proposal
+
+The proposed project is to investigate to what extent these issues can be simplified for users on two fronts:
+
+    By better tooling for working with segmentations, by adding special cases to the [highdicom](https://github.com/ImagingDataCommons/highdicom) python library to deal with 3D volumes.
+    By determining, in consultation with other DICOM experts at project week, whether additions or clarifications within the standard may be warranted.
+
+### Details
+
+Here is my initial attempt to lay out some of the issues to consider (some is adapted from the thread mentioned above):
+
+    A key goal is that a receiver of a DICOM segmentation object should be able to determine whether it is a volume without having to parse the per-frame metadata and perform calculations based on them. Additionally, in my opinion, it would be preferable to be able to determine the spacing between slices in all volume cases without needing to perform additional calculations.
+    There is already a mechanism by which the creator can convey that planes are equally spaced in 3D space by setting the [DimensionOrganizationType](https://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.7.6.17.html#table_C.7.6.17-1) to '3D'. This helps a bit, but does not require that SpacingBetweenSlices attribute be present in the SharedFunctionalGroupsSequence, so the receiver in the general case still needs to calculate the spacing for themselves. Neither does it actually require the ImageOrientationPatient to be present in the SharedFunctionalGroupsSequence. Furthermore, it does not specify which order the frames are stacked in (there are two options, top to bottom or bottom to top), nor does it specify whether multiple segments are allowed and if so what the dimension organization should be (i.e. does frame position or segment change most quickly as the frame number increases?). And lastly it is entirely optional to have the DimensionOrganizationType at all. So really the '3D' DimensionOrganization still leaves too much unnecessary flexibility in my opinion and is largely "toothless" without clarification or associated requirements.
+    The above is actually not specific to segmentations, but are general to all IODs that use multiple frames. The issues have been noted mostly with reference to segmentations perhaps because segmentations are one of the more widely used multiframe IODs. I mention this because any changes/clarifications to the standard would have wide-reaching effects.
+
+As a minimum (assuming no changes to the standard), I would propose that for project week I would make the following improvements to the highdicom library:
+
+    In the segmentation constructor, add logic to determine whether the input segmentation could be recorded as "3D", and if so, automatically store it as such with the maximum amount of useful information available to the receiver (i.e. include the SpacingBetweenSlices attribute).
+    Add a mechanism for a user to pass a 3D numpy array with an affine matrix to the constructor and have it stored as a "3D" segmentation.
+    Add a mechanism to determine whether a received segmentation is "3D", either using the DimensionOrganizationType, or if it is not present, by performing the required calculations on the metadata. If it is a volume, provide the user with a mechanism to access the affine matrix of the array, and retrieve a 3D numpy array of the segmentation with frames correctly sorted to match the affine matrix.
+    Hopefully work with the slicer team to prototype integrating this into slicer.
 
 ## Objective
 
