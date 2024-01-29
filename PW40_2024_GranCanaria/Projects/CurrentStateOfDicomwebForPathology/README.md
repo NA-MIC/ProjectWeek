@@ -69,4 +69,4 @@ DICOMweb™ defines a set of RESTful services for web-based medical imaging with
 
 - Repository [dicomslide](https://github.com/ImagingDataCommons/dicomslide)
 - Repository [wsidicom](https://github.com/imi-bigpicture/wsidicom)
-  Repository [dicomweb-client](https://github.com/ImagingDataCommons/dicomweb-client)
+- Repository [dicomweb-client](https://github.com/ImagingDataCommons/dicomweb-client)
