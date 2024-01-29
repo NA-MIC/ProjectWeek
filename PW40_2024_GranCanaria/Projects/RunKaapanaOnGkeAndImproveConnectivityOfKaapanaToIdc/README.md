@@ -71,14 +71,11 @@ Kaapana datasets **thumbnail** view:
 Ohif Viewer:
 ![Screenshot from 2024-01-29 09-14-51](https://github.com/NA-MIC/ProjectWeek/assets/33953801/eb30e056-3f55-47f6-9a06-cb9407348e56)
 
-*No response*
-
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-*No response*
 Kaapana Docs: https://kaapana.readthedocs.io/en/stable/
 
 Kaapana Repo: https://github.com/kaapana/kaapana
