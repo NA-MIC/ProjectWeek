@@ -62,7 +62,8 @@ This project aims at getting a detailed understanding of the capabilities of ava
 
 # Illustrations
 
-![Conceptual overview of DICOMweb](./dicomweb.png)
+![Conceptual overview of DICOMweb](./dicomweb.png) \
+*Conceptual overview of DICOMweb. Taken from: https://www.dicomstandard.org/using/dicomweb/capabilities.*
 
 # Background and References
 
