@@ -67,7 +67,7 @@ The **Discord** application is used to communicate between team members and orga
 ## Breakout sessions
 
 1. Monday: [DICOM](https://docs.google.com/document/d/1Rd9MxRHypCM-JEemvCd59NQyLvE_-tsbbxYXnBkYkxg/edit#heading=h.9f3umithmdm)
-1. Tuesday: 3D Slicer
+1. Tuesday: [3D Slicer](BreakoutSessions/Slicer/README.md)
 1. Wednesday: [Imaging Data Commons](https://docs.google.com/document/d/1GfzaiUcqLSTmqlumyny1yjJjGEViADwzFllr-sKNgl8/edit?usp=sharing)
 1. Thursday: [Future of Rendering in VTK, ITK and Slicer](BreakoutSessions/Rendering/README.md)
 
