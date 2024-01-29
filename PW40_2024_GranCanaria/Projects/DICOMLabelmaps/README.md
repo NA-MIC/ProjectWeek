@@ -15,6 +15,11 @@ key_investigators:
 - name: Andrey Fedorov
   affiliation: BWH
   country: USA
+  
+- name: David Clunie
+  affiliation: PixelMed (IDC)
+  country: USA
+  
 ---
 
 # Project Description
