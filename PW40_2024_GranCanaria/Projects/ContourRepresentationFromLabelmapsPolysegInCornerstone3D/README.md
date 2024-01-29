@@ -12,34 +12,56 @@ key_investigators:
 - name: Alireza Sedghi
   affiliation: OHIF
   country: Accolade Imaging, Canada
+- name: Mo Alasad
+  affiliation: XNAT, ICR
+  country: UK
 
 ---
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
-
-I've been working hard on implementing polySEG in cornerstone3D, and I'm happy to report that I've already implemented the following converters:
+We've been working hard on implementing polySEG in cornerstone3D, and currently we have implemented the following converters in a PR under review in Cornerstone3D:
 
 - Labelmap to surface
+
+
+https://github.com/NA-MIC/ProjectWeek/assets/7490180/fbf606ba-bdca-4071-8239-3af054e35d7e
+
+
+
 - Surface to labelmap
+
+
+
+https://github.com/NA-MIC/ProjectWeek/assets/7490180/f60b0d02-ce67-421b-ba29-ac0051f1b633
+
+
+
 - Contour to surface
+
+
+https://github.com/NA-MIC/ProjectWeek/assets/7490180/d3a79c5e-2a0d-4b8b-9030-46fe0af80e24
+
+
+
 - Contour to labelmap
 
-However, we still have two converters remaining that seem to be more complex: surface to contour and labelmap to contour. We're excited to tackle these challenges and continue moving forward. This project aims to work on this
+https://github.com/NA-MIC/ProjectWeek/assets/7490180/d92e5e17-3c20-4237-b94a-dbafbb6fda2c
+
+
+
+However, we still have two converters remaining that seem to be more complex: surface to contour and labelmap to contour. We're excited to tackle these challenges and continue moving forward. This project aims to work on this.
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
-1.  Finish the surface cutting in each slice in the viewport and provide proper API around it
-2.  Try to implement two versions one for rendering and one for editing
+1.  Finish the surface cutting in each slice in the viewport and provide proper API around it for precaching inside a webworker
+2.  Try to implement two implement a Edit version using our SVG rendering framework, and try to handle contour holes and islands
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-1.  Describe specific steps of **what you plan to do** to achieve the above described objectives.
+1. Convert the representations to Surface and cut through them to render in viewports
+2. For editing, get the intersections and travers to find a closed loop polygon
+3. Try to identify holes in order to render them as holes 
 
 ## Progress and Next Steps
 
