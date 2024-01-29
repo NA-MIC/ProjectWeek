@@ -105,8 +105,16 @@ DICOM-WSI: [https://dicom.nema.org/dicom/dicomwsi/](https://dicom.nema.org/dicom
 OpenSlide: [https://openslide.org/](https://openslide.org/)
 Test data can be downloaded there for some vendors.
 
-Imaging Data Commons has >23TB of DICOM WSI: [https://portal.imaging.datacommons.cancer.gov/explore/filters/?Modality_op=OR&Modality=SM](https://portal.imaging.datacommons.cancer.gov/explore/filters/?Modality_op=OR&Modality=SM)
+Imaging Data Commons has >23TB of DICOM WSI (converted from original SVS): [https://portal.imaging.datacommons.cancer.gov/explore/filters/?Modality_op=OR&Modality=SM](https://portal.imaging.datacommons.cancer.gov/explore/filters/?Modality_op=OR&Modality=SM)
+
+NEMA ftp server including WG 26 Connectathon ECDP 2023 data from vendors (some have issues; older data is more variable in quality): ftp://medical.nema.org/MEDICAL/Dicom/DataSets/WG26/
 
 ### Other Resources
 Test-Suite: TBD
+
 Link to Lean Study Host: [https://github.com/TIO-IKIM/LeanStudyHost](https://github.com/TIO-IKIM/LeanStudyHost)
+
+Validation tool (checks compliance with standard): [https://www.dclunie.com/dicom3tools/dciodvfy.html](https://www.dclunie.com/dicom3tools/dciodvfy.html)
+
+
+
