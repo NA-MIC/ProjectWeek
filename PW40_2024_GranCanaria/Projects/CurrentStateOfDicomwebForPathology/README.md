@@ -48,7 +48,7 @@ This project aims at getting a detailed understanding of the capabilities of ava
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1.  Get some practical experience with the libraries: wsidicom, dicomslide (both underlyingly using dicomweb_client)
+1.  Get practical experience with the libraries: wsidicom, dicomslide, openslide (both underlyingly using dicomweb_client)
 2.  Set-up document A
 3.  Set-up times to discuss during project week
 4.  Summarize discussion in document B
@@ -62,13 +62,12 @@ This project aims at getting a detailed understanding of the capabilities of ava
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![image](.dicomweb.png)
+![image](.wsi.png)
 
-*No response*
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
-
-*No response*
+- Repository [dicomslide](https://github.com/ImagingDataCommons/dicomslide)
+- Repository [wsidicom](https://github.com/imi-bigpicture/wsidicom)
+- Documentation [python-openslide](https://openslide.org/api/python/)
