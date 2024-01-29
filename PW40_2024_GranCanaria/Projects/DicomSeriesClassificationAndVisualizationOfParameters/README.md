@@ -30,7 +30,7 @@ key_investigators:
   country: USA
 
 - name: David Clunie
-  affiliation: PixelMed (IDC
+  affiliation: PixelMed (IDC)
   country: USA
   
 ---
