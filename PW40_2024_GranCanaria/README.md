@@ -86,7 +86,7 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-01-25.
+Updated on 2024-01-29.
 
 1. Steve Pieper, Isomics, Inc., USA, (In-person, Confirmed)
 1. Theodore Aptekarev, Slicer Community, Montenegro, (Online)
@@ -243,6 +243,21 @@ Updated on 2024-01-25.
 1. Umang Pandey, Universidad Carlos III de Madrid, Spain, Spain, (Online)
 1. Felicia Alfano, Universidad Politécnica de Madrid, Spain, (Online)
 1. Mo Al Sa’d, Imperial College London, UK, (Online)
+1. Mohamedou Ahmed Mahmoud , University of Nouakchott , Mauritania, (Online)
+1. El Hacen Mohamed Soueilem , Nouakchott University , Mauritania, (Online)
+1. Gordon Harris, MGH / OHIF, USA, (Online)
+1. Joel Zagoya, UAEMEX , Mexico, (Online)
+1. Birgitt Peeters, KU Leuven, Belgium, (Online)
+1. Jose Tadeo Borjas Gómez, Instituto de Investigación del Hospital Universitario La Paz, Spain, (Online)
+1. Andinet Enquobahrie, Kitware, USA, (Online)
+1. Mauro I. Dominguez, Independent, Argentina, (Online)
+1. Sankhesh Jhaveri, Kitware Inc., USA, (Online)
+1. García Matias Xitlaly , Universidad del Valle de México , Mexico, (Online)
+1. Mark Pearson, CNI Molecular Imaging, Australia, (Online)
+1. Maria Prosszer, GE Healthcare Hungary, Hungary, (Online)
+1. Andor Kenyeres, GE Healthcare, Hungary, (Online)
+1. Ágnes Kocsis, GE Healthcare Magyarország Kft., Hungary, (Online)
+1. Krisztian Koos, GE Healthcare, Hungary, (Online)
 
 <!-- Participants list end -->
 
