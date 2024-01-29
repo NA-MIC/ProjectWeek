@@ -35,7 +35,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-This project aims at getting a detailed understanding of the capabilities of available (Python) libraries and tools that implement DICOMweb and how they facilitate working with pathology whole-slide images (WSI) via DICOMweb services. The summarized knowledge will be the basis for discussions and help to decide what further work makes sense (e.g. new library, contributing specific functionality to an existing library etc.).
+DICOMweb™ defines a set of RESTful services for web-based medical imaging with DICOM. This project aims at getting a detailed understanding of the capabilities of available (Python) libraries and tools that implement DICOMweb and how they facilitate working with pathology whole-slide images (WSI) via DICOMweb services. The summarized knowledge will be the basis for discussions and help to decide what further work makes sense (e.g. new library, contributing specific functionality to an existing library etc.).
 
 ## Objective
 
