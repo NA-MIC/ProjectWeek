@@ -48,7 +48,7 @@ This project aims at getting a detailed understanding of the capabilities of ava
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1.  Get practical experience with the libraries: wsidicom, dicomslide, openslide (both underlyingly using dicomweb_client)
+1.  Get practical experience with the libraries: wsidicom, dicomslide (both underlyingly using dicomweb_client)
 2.  Set-up document A
 3.  Set-up times to discuss during project week
 4.  Summarize discussion in document B
