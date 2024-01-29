@@ -65,7 +65,7 @@ This project aims to clarify best practices and discuss possible fixes for linki
      If there are specific steps that you could not complete then you can describe them here, too. -->
 1. Andrey summarized the implementation challenges in this issue - need to hear from @dclunie: [https://github.com/QIICR/dcmqi/issues/489](https://github.com/QIICR/dcmqi/issues/489)
 
-*No response*
+2. Perhaps consider something like recent RT Structure Set addition to standard that added [SourceSeriesInformationSequence](https://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.8.8.5.html#para_a625a323-0d2f-4922-b292-6d81fb912774) and [SourceSeriesSequence](https://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.8.8.6.html#para_ccc7aad7-b3f7-4fdc-b498-5590a1983bdd) ([CP 2296 Provide additional ROI parameters to avoid parsing strings](https://dicom.nema.org/medical/dicom/Final/cp2296_ft_ProvideAdditionalROIParametersToAvoidParsingStrings.pdf))
 
 # Illustrations
 
