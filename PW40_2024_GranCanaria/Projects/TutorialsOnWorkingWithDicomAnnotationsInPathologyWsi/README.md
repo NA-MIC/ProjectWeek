@@ -62,7 +62,7 @@ If time permits we will continue working on nuclei annotations stored as DICOM M
 # Illustrations
 
 ![Overview DICOM structured reports IOD](./overview_dicom_sr.png) \
-*Overview DICOM structured reports IOD: Taken from https://doi.org/10.1038/s41467-023-37224-2.*
+*Overview DICOM structured reports IOD. Taken from https://doi.org/10.1038/s41467-023-37224-2.*
 
 # Background and References
 
