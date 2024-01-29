@@ -71,3 +71,6 @@ Documentation
 Code
 - [MHub-IO Logical Output](https://github.com/MHubAI/mhubio/blob/main/mhubio/core/RunnerOutput.py)
 
+Other stuff
+- [JSON Representation of DICOM Structured Reports (DICOM Supplement 219 Trial Use Draft)](https://www.dclunie.com/dicom-status/status.html#Supplement219) including [slides explaining the purpose](https://dicom.nema.org/medical/dicom/Supps/Frozen/sup219_fz_JSONSR_TrialUse_Slides_20200116.pptx) and [sample Java implementation of DICOM SR to/from JSON](https://www.dclunie.com/pixelmed/software/javadoc/com/pixelmed/dicom/JSONRepresentationOfStructuredReportObjectFactory.html) in [PixelMed toolkit](https://www.dclunie.com/pixelmed/software/index.html).
+
