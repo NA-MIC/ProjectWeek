@@ -24,6 +24,10 @@ key_investigators:
   affiliation: DKFZ
   country: Germany
 
+- name: Brianna Burton
+  affiliation: 3D Side SA
+  country: Belgium
+
 - name: Umang Pandey
   affiliation: Universidad Carlos III de Madrid
   country: Spain  
