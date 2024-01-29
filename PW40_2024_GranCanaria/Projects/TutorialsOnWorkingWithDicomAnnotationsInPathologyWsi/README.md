@@ -61,7 +61,8 @@ If time permits we will continue working on nuclei annotations stored as DICOM M
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![Overview DICOM structured reports IOD: Taken from https://doi.org/10.1038/s41467-023-37224-2.](./overview_dicom_sr.png)
+
 
 *No response*
 
