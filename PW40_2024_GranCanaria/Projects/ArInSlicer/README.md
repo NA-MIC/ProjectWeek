@@ -32,6 +32,10 @@ key_investigators:
   affiliation: Fundación Vicomtech
   country: Spain
 
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware
+  country: USA
+
 ---
 
 # Project Description
