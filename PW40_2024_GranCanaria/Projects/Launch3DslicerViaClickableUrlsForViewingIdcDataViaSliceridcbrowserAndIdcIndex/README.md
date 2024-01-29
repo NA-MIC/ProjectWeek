@@ -45,7 +45,7 @@ Notes for discussion:
    * user interacts with IDC Portal, which includes URLs at the study/series level for the types of data that can be handled by Slicer (exclude SM)
    * when user clicks on a Slicer URL
        * if user has Slicer installed, but no SlicerIDCBrowser extension - the only handler available is the default one - should it detect that extension is missing and inform user that it is needed?
-       * if user has Slicer and extension installed - open Slicer, select SlicerIDCBrowser, populate information in the GUI about what is being downloaded and automatically trigger the download and load into scene - need to discuss how to do error checking and alert user if certain series cannot be loaded
+       * if user has Slicer and extension installed - open Slicer, select SlicerIDCBrowser, populate information in the GUI about what is being downloaded and automatically trigger the download and load into scene - need to discuss how to do error checking and alert user if certain series cannot be loaded. @vkt1414 thinks it may add delay and should just load the downloaded data into scene.
        * if user does not have Slicer - probably nothing can be done, it won't work - 404
 
 ## Approach and Plan
@@ -54,20 +54,20 @@ Notes for discussion:
 
 1.  Incorporate  class in SlicerIDCBrowser code base
    * need to add support for progress reporting - Vamsi suggests to look at the number of files - or we can use total size of the downloaded files, since s5cmd creates multiple files during download
-3.  Handle registration of custom browser protocol automatically based on the underlying OS
+2.  Handle registration of custom browser protocol automatically based on the underlying OS
 
 ## Progress and Next Steps
-
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1.  A prototype independent of SlicerIDCBrowser is working but the method is not so user friendly
+1. SlicerIDCBrowser can now register the slicer://idc-browser/ protocol on Linux and Windows
+2. The downloading experience currently is dictated by the network speed
+3. Need to explore/handle the behavior when multiple versions of slicer are present on the user's system
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+## Demo on Windows 
+![NewMerge-ezgif com-video-to-gif-converter](https://github.com/NA-MIC/ProjectWeek/assets/115020590/61e49e50-65a3-4f26-88c9-e0e7a3c7893d)
 
-*No response*
+## Demo on Linux (Ubuntu)
+![Video_240129105420_Slice1-ezgif com-video-to-gif-converter](https://github.com/NA-MIC/ProjectWeek/assets/115020590/02c3957a-93d8-4f01-930f-c529e8de0758)
 
 # Background and References
 
