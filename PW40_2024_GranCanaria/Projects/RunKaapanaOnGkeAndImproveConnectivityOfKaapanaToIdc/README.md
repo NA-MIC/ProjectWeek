@@ -9,10 +9,6 @@ presenter_location: Online
 
 key_investigators:
 
-- name: Hanno Gao
-  affiliation: DKFZ
-  country: Germany
-
 - name: Mikulas Bankovic
   affiliation: DKFZ
   country: Germany
@@ -25,19 +21,28 @@ key_investigators:
   affiliation: BWH
   country: USA
 
+- name: Hanno Gao
+  affiliation: DKFZ
+  country: Germany
+
 ---
 
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
 
-The aim of this project is to enhance the compatibility between Kaapana and IDC, specifically enabling Kaapana to interact with an external DICOMweb endpoint for image storage.
+The aim of this project is to enhance the integration between Kaapana and IDC, specifically enabling Kaapana to interact with an external DICOMweb endpoint, as Google Healthcare API behind IDC for image storage.
+
+Kaapana is an open-source toolkit designed for platform provisioning in the field of medical data analysis. It leverages a variety of open-source tools relevant to the NA-MIC community, including OHIF Viewer, MITK, and nnU-Net segmentation tools. Kaapana uses DICOM for managing images, image-derived data, and metadata. It offers functionalities such as workflows for large-scale image processing, exploration, visualization, and curation of medical images, extensions for simple integration of new, customized algorithms and applications, an integrated PACS system, and extensive resource and system monitoring for administrators.
+
+NCI Imaging Data Commons (IDC) is a cloud-based repository of publicly available cancer imaging data co-located with the analysis and exploration tools and resources. IDC is a node within the broader NCI Cancer Research Data Commons (CRDC) infrastructure that provides secure access to a large, comprehensive, and expanding collection of cancer research data.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 We aim to add an external DICOMweb-based server specifically, Google Healthcare API DICOM stores, in addition to the internal dcm4chee server, enhancing the ability of Kaapana to process external images.
+We aim to achieve the same functionality with external dicomweb server as with we currently have with local dicomweb server.
 
 ## Approach and Plan
 
