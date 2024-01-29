@@ -36,10 +36,10 @@ define work for the forthcoming project, the Virtual Hospital.
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Showcase the current implementation to interested people.
-2. Explain the issues. Specially focus on executing Slicer multiple times in the same Kuberntes node.
+1. Show the deployed implementation to interested people.
+2. Explain issues. Mostly focus on executing Slicer multiple times in the same Kubernetes node with OpenGL accelerated by an nVidia card.
 3. Take note of possible approaches or solutions for the issues.
-4. Explain ideas for SlicerHub in the Virtual Hospital to interested people. From resource profiles, to preconfigured sessiones, etc.
+4. Explain ideas for SlicerHub in the Virtual Hospital to interested people. From resource profiles, to preconfigured sessions (with pre-loaded data), etc.
 5. Document new ideas or modify existing ones.
 
 ## Progress and Next Steps
