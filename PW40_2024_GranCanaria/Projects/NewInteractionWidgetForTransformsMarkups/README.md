@@ -55,4 +55,5 @@ This project aims to implement a new interaction handle widget that can be used 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-Current branch: <https://github.com/Sunderlandkyl/Slicer/tree/interaction_display_manager>
+- Installer: https://1drv.ms/u/s!Al0lwIPqdM2dgql4-5NkWigrmjeU8A?e=lIHd2H
+- Current branch: <https://github.com/Sunderlandkyl/Slicer/tree/interaction_display_manager>
