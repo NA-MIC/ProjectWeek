@@ -62,9 +62,8 @@ This project aims at getting a detailed understanding of the capabilities of ava
 
 # Illustrations
 
-![image](.dicomweb.png)
-![image](.wsi.png)
-
+![Conceptual overview of DICOMweb](./dicomweb.png)
+![Pathology whole-slide image (WSI)](./wsi.png)
 
 # Background and References
 
