@@ -10,22 +10,27 @@ presenter_location: In-person
 key_investigators:
 
 - name: Alicia Pose Díez de la Lastra
-  affiliation: Universidad Carlos III de Madrid, Spain
+  affiliation: Universidad Carlos III de Madrid
+  country: Spain
 
 - name: Mónica García Sevilla
-  affiliation: Universidad Carlos III de Madrid, Spain
+  affiliation: Universidad Carlos III de Madrid
+  country: Spain
 
 - name: Javier Pascau
-  affiliation: Universidad Carlos III de Madrid, Spain
+  affiliation: Universidad Carlos III de Madrid
+  country: Spain
 
 - name: Felix von Haxthausen
-  affiliation: Universidad Carlos III de Madrid, Spain
+  affiliation: Universidad Carlos III de Madrid
+  country: Spain
 
 - name: Amaia Iribar Zabala
-  affiliation: Fundación Vicomtech, Spain
+  affiliation: Fundación Vicomtech
 
 - name: Rafael Benito Herce
-  affiliation: Fundación Vicomtech, Spain
+  affiliation: Fundación Vicomtech
+  country: Spain
 
 ---
 
