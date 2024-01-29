@@ -26,7 +26,7 @@ This project aims to implement a new interaction handle widget that can be used 
 |----------|:-------------:|
 | ![image](https://github.com/NA-MIC/ProjectWeek/assets/9222709/aa0e1abb-ee47-478e-b712-a9cfd666b311) | ![image](https://github.com/NA-MIC/ProjectWeek/assets/9222709/f65d323f-e84c-481b-94c1-1001eb209ce5) |
 
-# New widget
+## New widget
 
 | Transforms| Markups |
 |----------|:-------------:|
