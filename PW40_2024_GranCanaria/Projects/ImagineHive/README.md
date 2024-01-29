@@ -20,11 +20,34 @@ key_investigators:
   affiliation: Perk Lab, Queen's University 
   country: Canada
 
+- name: Vahan Simonyan
+  affiliation:  DNA HIVE 
+  country: USA
+
+- name: Aram Petrosyan
+  affiliation: DNA HIVE 
+  country: USA
+
+- name: Jeffrey W Milsom
+  affiliation: Weill Cornell Medicine
+  country: USA
+
+- name: Bradley B Pua
+  affiliation: Weill Cornell Medicine
+  country: USA
+
+- name: Art Sedrakyan
+  affiliation: Weill Cornell Medicine
+  country: USA
+
+
 ---
 
 # Project Description
 
-ImagineHive is a data management and analytics platform for hospital environments consisting of:
+![image](https://github.com/NA-MIC/ProjectWeek/assets/7985338/dc3f2fbf-9057-4caf-9fb9-66d42e6394bd)
+
+[ImagineHive](https://www.dnahive.com/) is a data management and analytics platform for hospital environments consisting of:
 
 1. Web frontend to navigate, filter and edit patients data.
 1. HIVE server backend for storing and sharing data and run data analytics and processing workloads. HIVE is a massively parallel distributed computing environment where the distributed storage library is linked with computational.
@@ -33,7 +56,7 @@ ImagineHive is a data management and analytics platform for hospital environment
    * Viewer and markup tools for enhanced teamwork.
    * Automated segmentation tools.
 
-ImagineHive is currently used at the Weill Cornell Medicine/Presbyterian NY hospital for clinical pre-operation review and planning.
+ImagineHive is currently used at the Weill Cornell Medicine/Presbyterian NY hospital (CI3: center for intelligent image guided interventions at New York Presbyterian Hospital, New York, NY, USA) for clinical pre-operation review and planning.
 
 ## Objective
 
