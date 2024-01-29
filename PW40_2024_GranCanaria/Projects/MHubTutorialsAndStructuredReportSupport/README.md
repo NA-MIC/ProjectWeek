@@ -10,6 +10,9 @@ presenter_location: Onsite
 key_investigators:
 - name: Leonard Nürnberg
   affiliation: Maastricht University
+
+- name: Andrey Fedorov
+  affiliation: BWH, USA
 ---
 
 # Project Description
@@ -73,4 +76,5 @@ Code
 
 Other stuff
 - [JSON Representation of DICOM Structured Reports (DICOM Supplement 219 Trial Use Draft)](https://www.dclunie.com/dicom-status/status.html#Supplement219) including [slides explaining the purpose](https://dicom.nema.org/medical/dicom/Supps/Frozen/sup219_fz_JSONSR_TrialUse_Slides_20200116.pptx) and [sample Java implementation of DICOM SR to/from JSON](https://www.dclunie.com/pixelmed/software/javadoc/com/pixelmed/dicom/JSONRepresentationOfStructuredReportObjectFactory.html) in [PixelMed toolkit](https://www.dclunie.com/pixelmed/software/index.html).
+- dcmqi can be used to [create TID 1500 structured reports](https://qiicr.gitbook.io/dcmqi-guide/opening/cmd_tools/sr/tid1500writer) containing measurements derived from segmentations; this is the tool that was used in the recent paper/code for saving radiomics features: [https://github.com/ImagingDataCommons/nnU-Net-BPR-annotations](https://github.com/ImagingDataCommons/nnU-Net-BPR-annotations)
 
