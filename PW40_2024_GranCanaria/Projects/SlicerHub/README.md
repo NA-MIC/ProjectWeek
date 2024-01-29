@@ -8,15 +8,16 @@ category: Cloud / Web
 presenter_location: Online
 
 key_investigators:
+- name: Rafael Nebot Medina
+  affiliation: Instituto Tecnológico de Canarias (ITC)
+  country: Spain
+
 - name: Juan Ruiz Alzola
   affiliation: Universidad de Las Palmas de Gran Canaria
 
 - name: Paula Moreno Fajardo
-  affiliation: Instituto Tecnológico de Canarias (ITC)
-  country: Spain
-
-- name: Rafael Nebot Medina
   affiliation: ITC
+
 ---
 
 # Project Description
