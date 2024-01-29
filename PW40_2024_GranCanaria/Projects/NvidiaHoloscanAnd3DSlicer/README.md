@@ -18,6 +18,9 @@ key_investigators:
 - name: Rafael Palomar
   affiliation: NTNU
   country: Norway
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware
+  country: USA
 ---
 
 # Project Description
