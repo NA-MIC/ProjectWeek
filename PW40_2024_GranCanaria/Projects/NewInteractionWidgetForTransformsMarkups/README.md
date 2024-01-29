@@ -22,6 +22,7 @@ key_investigators:
 This project aims to implement a new interaction handle widget that can be used to modify linear transform nodes. This implementation will be based on the existing interaction handle pipeline in the Markups module, but with improvements to functionality and appearance. Both the transforms and markups interaction widgets will be derived from the same base class.
 
 ## Existing widgets
+
 | Transforms| Markups |
 |----------|:-------------:|
 | ![image](https://github.com/NA-MIC/ProjectWeek/assets/9222709/aa0e1abb-ee47-478e-b712-a9cfd666b311) | ![image](https://github.com/NA-MIC/ProjectWeek/assets/9222709/f65d323f-e84c-481b-94c1-1001eb209ce5) |
