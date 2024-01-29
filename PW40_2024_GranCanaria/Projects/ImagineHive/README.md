@@ -56,7 +56,7 @@ key_investigators:
    * Viewer and markup tools for enhanced teamwork.
    * Automated segmentation tools.
 
-ImagineHive is currently used at the Weill Cornell Medicine/Presbyterian NY hospital (CI3: center for intelligent image guided interventions at New York Presbyterian Hospital, New York, NY, USA) for clinical pre-operation review and planning.
+ImagineHive is currently used at the Weill Cornell Medicine/Presbyterian NY hospital (**CI3: center for intelligent image guided interventions at New York Presbyterian Hospital, New York, NY, USA**) for clinical pre-operation review and planning.
 
 ## Objective
 
