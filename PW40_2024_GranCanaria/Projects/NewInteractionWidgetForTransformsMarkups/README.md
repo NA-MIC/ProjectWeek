@@ -59,7 +59,7 @@ This project aims to implement a new interaction handle widget that can be used 
 | ![image](https://github.com/NA-MIC/ProjectWeek/assets/9222709/af25e92a-71e6-42de-b00f-21b9f1af701c) | ![image](https://github.com/NA-MIC/ProjectWeek/assets/9222709/e347f82e-ff57-4fca-86b5-b9d29414fb25) |
 
 <video
-  controls muted
+  autoplay loop controls muted
   src="https://github.com/NA-MIC/ProjectWeek/assets/9222709/43e2d906-a8c0-4909-b357-757d41457d7a"
   style="max-height:640px; min-height: 200px">
 </video>
