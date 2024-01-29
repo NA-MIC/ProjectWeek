@@ -69,4 +69,4 @@ This project aims at getting a detailed understanding of the capabilities of ava
 
 - Repository [dicomslide](https://github.com/ImagingDataCommons/dicomslide)
 - Repository [wsidicom](https://github.com/imi-bigpicture/wsidicom)
-- Documentation [python-openslide](https://openslide.org/api/python/)
+  Repository [dicomweb-client](https://github.com/ImagingDataCommons/dicomweb-client)
