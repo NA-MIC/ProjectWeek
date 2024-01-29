@@ -130,6 +130,20 @@ The main purpose is to develop a functional prototype that can take screenshots 
 ![Some more images](Example2.jpg)
 -->
 
+### Side-by-side
+
+English            |  Brazilian Portuguese | Spanish
+:-------------------------:|:-------------------------:|:-------------------------:
+![English-0](https://github.com/NA-MIC/ProjectWeek/assets/28208639/0dfc106e-5cea-4162-8eb5-94bbfb173605) | ![pt-0](https://github.com/NA-MIC/ProjectWeek/assets/28208639/285f1a5d-aa4a-4d93-9d4d-687369e58d78) | ![sp-0](https://github.com/NA-MIC/ProjectWeek/assets/28208639/ce2db67c-e84e-4d97-b55e-9c77b67a1f73)
+![en-1](https://github.com/NA-MIC/ProjectWeek/assets/28208639/73c39bab-b826-4b8d-9799-8c988cd65034) | ![pt-1](https://github.com/NA-MIC/ProjectWeek/assets/28208639/3ee96287-30d9-4df0-99a0-2c69baef94ed) | ![sp-1](https://github.com/NA-MIC/ProjectWeek/assets/28208639/b250f607-077d-4875-ac46-76d5661ea01e)
+![en-2](https://github.com/NA-MIC/ProjectWeek/assets/28208639/ef8caa09-2c73-427c-a7c6-dc8e3f2796fe) | ![pt-2](https://github.com/NA-MIC/ProjectWeek/assets/28208639/03e46bc3-6793-436e-a0c6-6901a69f7f8b) | ![sp-2](https://github.com/NA-MIC/ProjectWeek/assets/28208639/c8fdeab8-9e49-4d15-80fc-5f668a854ec9)
+![en-3](https://github.com/NA-MIC/ProjectWeek/assets/28208639/6afafe3e-5c6e-43fa-8762-2eda583c5bfe) | ![pt-3](https://github.com/NA-MIC/ProjectWeek/assets/28208639/255ef11a-1519-4c00-aa0d-f9a955a63bc9) | ![sp-3](https://github.com/NA-MIC/ProjectWeek/assets/28208639/7d376bd9-4ede-4b37-ab85-e5835ffffa71)
+![en-4](https://github.com/NA-MIC/ProjectWeek/assets/28208639/609f33bf-55b2-49c1-be43-9a83e022d9fc) | ![pt-4](https://github.com/NA-MIC/ProjectWeek/assets/28208639/c3a1b7d2-02b3-4b31-a5ac-de14549404ab) | ![sp-4](https://github.com/NA-MIC/ProjectWeek/assets/28208639/0a928595-1e7c-48a5-b7f0-eb98085c1dc4)
+
+
+
+
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
