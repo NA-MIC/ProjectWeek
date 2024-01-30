@@ -79,7 +79,8 @@ Its basic functionality is demonstrated in this tutorial: <https://github.com/Im
 1. Refinement and testing to fix regressions in 0.2.9
 2. Discussed with Leo
 3. Discussion with @pieper re utility. Feedback: "Speaking for myself, this exercise made wish we had some api documentation for idc-index.  Also is there a way to report progress during the download?  Also some better error messages would help.   I tried pasting the collection name from the portal as the collection_id and I get a pyhon error about a manifest not existing.  I had to use the collection query to figure out what the mapping rule is.  It would be nice if the idc-index methods could include a mapping so that either version of the collection string is accepted.  Otherwise it worked well though and this is definitely a nice way to access the data!"
-4. @pieper was curious if it was possible to retrieve instanace level urls from SeriesInstanceUID. @vkt1414 created a demo notebook  https://colab.research.google.com/drive/1va1xHMe1pgqZqp7RpI1VxqBKBOiGD-TW?usp=sharing
+4. @pieper was curious if it was possible to retrieve instanace level urls from SeriesInstanceUID. @vkt1414 created a demo notebook  https://colab.research.google.com/drive/1va1xHMe1pgqZqp7RpI1VxqBKBOiGD-TW?usp=sharing - added to the package as a new API endpoint
+5. need to have documentation (relevant discussion https://github.com/encode/httpx/discussions/1220)
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
