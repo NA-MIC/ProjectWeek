@@ -54,10 +54,8 @@ If time permits we will continue working on nuclei annotations stored as DICOM M
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1.  Describe specific steps you **have actually done**.
+1.  Set-up Google Healthcare DICOM store holding the available DICOM SR annotations.
+2.  
 
 # Illustrations
 
