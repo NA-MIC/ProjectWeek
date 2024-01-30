@@ -21,6 +21,8 @@ key_investigators:
 
 This project aims to implement a new interaction handle widget that can be used to modify linear transform nodes. This implementation will be based on the existing interaction handle pipeline in the Markups module, but with improvements to functionality and appearance. Both the transforms and markups interaction widgets will be derived from the same base class.
 
+The center of rotation for the transform node can be changed by holding ALT and clicking+dragging on one of the translation handles. The center of rotation can also be change in python using the "vtkMRMLTransformNode::SetCenterOfTransformation" function.
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
