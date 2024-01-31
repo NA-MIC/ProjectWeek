@@ -64,7 +64,7 @@ In addition, we will train a lung lobe and airway model which should be availabl
 
 4. The best models get automatically downloaded for each process
 5. They will be improved with further training 
-6. In future, we attempt to enable training for Auto3DSeg models in MONAILabel.
+6. In future, we attempt to enable training of Auto3DSeg models in MONAILabel.
 
    ![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/ea045d96-ab84-4469-86e0-acbd7bec01ad)
 
