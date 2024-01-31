@@ -60,10 +60,15 @@ Notes for discussion:
 2.  Handle registration of custom browser protocol automatically based on the underlying OS
 
 ## Progress and Next Steps
-1. SlicerIDCBrowser can now register the slicer://idc-browser/ protocol on Linux and Windows
+1. SlicerIDCBrowser can now register the slicer://idc-browser/ protocol on all three platforms MacOS, Linux, and Windows
 2. The downloading experience currently is dictated by the network speed
 3. Need to explore/handle the behavior when multiple versions of slicer are present on the user's system
+   
+   @pieper thoughts on this:
+   > My thought would be to have a script for each platform (maybe shell for mac/linux and .bat for windows) that would be launched by the url handler.  That script would launch Slicer with ` --no-main-window --python-script <select.py>` where select.py would implement the logic to find the currently running and installed Slicer's and put up a dialog box so the user can select the target.  Then it would either launch a new instance of the version of the user's choice, or it would send a signal to one of the running instances to load more data.  We'd need to discuss how best to send the signal.  It could be a literal operating system signal or it could be use something like the WebServer module so that running instances listen for these load requests.  We should think about what is the best and most useful way to impement this.
 
+    Umangs observations:
+    > If one has multiple slicer's installed along with the nighlty version. Link opens slicer for the highest stable version (All had the extension and module loaded). Would there be a way to choose at least between nightly and stable version?
 # Illustrations
 
 ## Demo on Windows 
