@@ -36,15 +36,16 @@ The Project Week team will continue to make improvements to the project page gen
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 1. Test out current page infrastructure
-
-*No response*
+2. Identify any issues and pain points
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-*No response*
+1. Identified a significant bug in the page generation for complicated pages: [issue](https://github.com/NA-MIC/ProjectWeek/issues/960).
+    1. Content sections with multiple types of content (headings, lists, html) were being discarded by the parser
+3. Reworked the issue parsing to be more flexible wrt the content of each section
 
 # Illustrations
 
