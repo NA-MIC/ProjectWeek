@@ -66,4 +66,4 @@ If time permits we will continue working on nuclei annotations stored as DICOM M
 
 - [DICOM Structured Reports](https://dicom.nema.org/dicom/2013/output/chtml/part20/sect_A.3.html)
 - Documentation [slideflow](https://slideflow.dev/)
-- Documentation [HistomicsTK]([https://github.com/DigitalSlideArchive/HistomicsTK](https://digitalslidearchive.github.io/HistomicsTK/api-docs.html)https://digitalslidearchive.github.io/HistomicsTK/api-docs.html)
+- Documentation [HistomicsTK](https://digitalslidearchive.github.io/HistomicsTK/api-docs.html)
