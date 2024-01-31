@@ -69,7 +69,7 @@ Public image data repositories and collections/datasets have been developed for 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-*No response*
+![Survey ad](./survey_ad.jpeg)
 
 # Background and References
 
