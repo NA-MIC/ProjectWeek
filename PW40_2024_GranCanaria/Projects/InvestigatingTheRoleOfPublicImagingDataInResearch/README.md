@@ -63,6 +63,7 @@ Public image data repositories and collections/datasets have been developed for 
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1.  Created initial document for the discussion of the survey, shared with Key Investigators: <https://docs.google.com/document/d/1iVmWebEOv17RAU1FcUefVo2UiOmOc1SK80OUOKQZhtA/edit?usp=sharing>
+2.  Distributed survey to the attendees: [http://tinyurl.com/public-data-survey](http://tinyurl.com/public-data-survey)
 
 # Illustrations
 
