@@ -59,10 +59,7 @@ A few of the features we'd like to explore:
 2. Updated https support with custom certificate that can be uploaded to android phone
 3. Tried demo controlling volume rendering with phone
 
- <iframe width="200" height="600" src="https://youtube.com/shorts/JeNtDT1LF6k?feature=share">
- </iframe>
-
-Or this shorts link: [https://youtube.com/shorts/JeNtDT1LF6k?feature=share](https://youtube.com/shorts/JeNtDT1LF6k?feature=share)
+WIP in this YouTube shorts link: [https://youtube.com/shorts/JeNtDT1LF6k?feature=share](https://youtube.com/shorts/JeNtDT1LF6k?feature=share)
 
 # Illustrations
 
