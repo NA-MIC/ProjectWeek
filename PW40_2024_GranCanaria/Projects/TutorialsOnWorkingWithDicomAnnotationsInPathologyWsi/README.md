@@ -35,7 +35,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-This project aims to create tutorials on how to work with DICOM annotations in pathology whole-slide images (WSIs). We will focus on region annotations stored as DICOM Structured Reports (SR) for a dataset of Rhabdomyosarcoma, which was recently ingested into the Imaging Data Commons (IDC).
+This project aims to create tutorials on how to work with DICOM annotations in pathology whole-slide images (WSIs). We will focus on region annotations stored as DICOM Structured Reports (SR) for a dataset of Rhabdomyosarcoma, which was recently ingested into the Imaging Data Commons (IDC). We want to create an easy-to-follow workflow that extracts images and annotations from the IDC and uses established (python) libraries for model training and evaluation.
 If time permits we will continue working on nuclei annotations stored as DICOM Microscopy Bulk Simple Annotations (MBSA). This work was started in the last project week in Montreal, but hindered by technical issues (see [here](https://projectweek.na-mic.org/PW39_2023_Montreal/Projects/TutorialsOnWorkingWithDicomAnnotationsInPathologyWholeSlideImages/)).
 
 ## Objective
@@ -50,7 +50,7 @@ If time permits we will continue working on nuclei annotations stored as DICOM M
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1.  Set-up Google Healthcare DICOM store holding the available DICOM SR annotations.
-2.  to be defined
+2.  Investigate which libraries are suitable to show-case an easy to follow workflow, e.g. slideflow or HistomicsTK.
 
 ## Progress and Next Steps
 
@@ -64,7 +64,6 @@ If time permits we will continue working on nuclei annotations stored as DICOM M
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
-
-*No response*
+- [DICOM Structured Reports](https://dicom.nema.org/dicom/2013/output/chtml/part20/sect_A.3.html)
+- Documentation [slideflow](https://slideflow.dev/)
+- Documentation [HistomicsTK](https://github.com/DigitalSlideArchive/HistomicsTK)
