@@ -103,6 +103,20 @@ jobs:
         directory_name=${{ steps.project_directory.outputs.name }}
         mkdir $event_name/Projects/$directory_name
     
+    - name: Bulk issue body
+      id: bulk
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        body=$(gh issue view ${{ github.event.issue.number }} --repo ${{ github.repository }} --json body --jq '.body')
+        trunc_body=${body##*Project Description}
+        echo "$trunc_body" > ${{ runner.temp }}/bulk.txt
+        
+
+    - name: Display bulk.txt
+      run: |
+        cat ${{ runner.temp }}/bulk.txt
+
     - name: Issue Forms Body Parser
       id: parse
       uses: zentered/issue-forms-body-parser@v2.0.0
@@ -111,12 +125,13 @@ jobs:
       id: extract
       run: |
         echo ${{ toJSON(steps.parse.outputs.data) }} | \
-        jq --arg title "${{ steps.project_issue.outputs.title }}" '{
+        jq --arg title "${{ steps.project_issue.outputs.title }}" --rawfile bulk "${{ runner.temp }}/bulk.txt" '{
           "title": $title,
           "category": .category.text,
           "presenter_location": .["presenter-location"].text,
           "description": .["project-description"].text,
           "objective": .objective.text,
+          "bulk": $bulk,
           "approach": .["approach-and-plan"].text,
           "progress": .["progress-and-next-steps"].text,
           "illustrations": .illustrations.text,
