@@ -36,7 +36,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 This project aims to implement MONAI Auto3DSeg in a 3DSlicer extension. This will enable fast inference with NVIDIA GPUs and CUDA and slower inference with CPU only.
-Auto3DSeg is a relatively new technique in the MONAI project and our first experiments have been successful inference is not as complicated as using the MONAOLabel inference function.\
+Auto3DSeg is a relatively new technique in the MONAI project and our first experiments have been successful. inference is not as complicated as using the MONAOLabel inference function.\
 A future aim is to integrate Auto3DSeg training into the MONAILabel extension.
 
 ## Objective
@@ -64,7 +64,7 @@ In addition, we will train a lung lobe and airway model which should be availabl
 
 4. The best models get automatically downloaded for each process
 5. They will be improved with further training 
-6. In future, we attempt to enable training of Auto3DSeg models in MONAILabel.
+6. In future, we attempt to enable your own training of Auto3DSeg models in MONAILabel.
 
    ![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/ea045d96-ab84-4469-86e0-acbd7bec01ad)
 
