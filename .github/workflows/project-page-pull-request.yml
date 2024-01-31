@@ -109,13 +109,47 @@ jobs:
         GH_TOKEN: ${{ github.token }}
       run: |
         body=$(gh issue view ${{ github.event.issue.number }} --repo ${{ github.repository }} --json body --jq '.body')
-        trunc_body=${body##*Project Description}
-        echo "$trunc_body" > ${{ runner.temp }}/bulk.txt
-        
+        echo "$body" > ${{ runner.temp }}/bulk.txt
 
     - name: Display bulk.txt
       run: |
         cat ${{ runner.temp }}/bulk.txt
+
+    - name: Split bulk
+      run: |
+        csplit ${{ runner.temp }}/bulk.txt \
+          '/^### Project Description/' \
+          '/^### Objective/' \
+          '/^### Approach and Plan/' \
+          '/^### Progress and Next Steps/' \
+          '/^### Illustrations/' \
+          '/^### Background and References/' \
+          -f ${{ runner.temp }}/project_pull_request_part_ -b "%02d.md"    
+
+    - name: Cleanup files
+      run: |
+        cat ${{ runner.temp }}/project_pull_request_part_01.md | sed "1 d" > ${{ runner.temp }}/description.md
+        cat ${{ runner.temp }}/project_pull_request_part_02.md | sed "1 d" > ${{ runner.temp }}/objective.md
+        cat ${{ runner.temp }}/project_pull_request_part_03.md | sed "1 d" > ${{ runner.temp }}/approach.md
+        cat ${{ runner.temp }}/project_pull_request_part_04.md | sed "1 d" > ${{ runner.temp }}/progress.md
+        cat ${{ runner.temp }}/project_pull_request_part_05.md | sed "1 d" > ${{ runner.temp }}/illustrations.md
+        cat ${{ runner.temp }}/project_pull_request_part_06.md | sed "1 d" > ${{ runner.temp }}/background.md
+
+    - name: Display clean files
+      run: | 
+        echo "Description:"       
+        cat ${{ runner.temp }}/description.md
+        echo "Objective:"       
+        cat ${{ runner.temp }}/objective.md
+        echo "Approach:"       
+        cat ${{ runner.temp }}/approach.md
+        echo "Progress:"       
+        cat ${{ runner.temp }}/progress.md
+        echo "Illustrations:"       
+        cat ${{ runner.temp }}/illustrations.md
+        echo "Background:"       
+        cat ${{ runner.temp }}/background.md
+
 
     - name: Issue Forms Body Parser
       id: parse
@@ -125,17 +159,22 @@ jobs:
       id: extract
       run: |
         echo ${{ toJSON(steps.parse.outputs.data) }} | \
-        jq --arg title "${{ steps.project_issue.outputs.title }}" --rawfile bulk "${{ runner.temp }}/bulk.txt" '{
+        jq --arg title "${{ steps.project_issue.outputs.title }}" \
+        --rawfile description "${{ runner.temp }}/description.md" \
+        --rawfile objective "${{ runner.temp }}/objective.md" \
+        --rawfile illustrations "${{ runner.temp }}/illustrations.md" \
+        --rawfile approach "${{ runner.temp }}/approach.md" \
+        --rawfile progress "${{ runner.temp }}/progress.md" \
+        --rawfile background "${{ runner.temp }}/background.md" '{
           "title": $title,
           "category": .category.text,
           "presenter_location": .["presenter-location"].text,
-          "description": .["project-description"].text,
-          "objective": .objective.text,
-          "bulk": $bulk,
-          "approach": .["approach-and-plan"].text,
-          "progress": .["progress-and-next-steps"].text,
-          "illustrations": .illustrations.text,
-          "background": .["background-and-references"].text,
+          "description": $description,
+          "objective": $objective,
+          "approach": $approach,
+          "progress": $progress,
+          "illustrations": $illustrations,
+          "background": $background,
           "investigators": [.["key-investigators"].list[].text |
             capture("(?<name>[^\\s]+(?:\\s[^\\s]+)*?)\\s*\\((?<affiliation>[^,]*)(?:,\\s*(?<country>[^)]*))?\\)") |
             {name, affiliation: (.affiliation // ""), country: (.country // "")}],
