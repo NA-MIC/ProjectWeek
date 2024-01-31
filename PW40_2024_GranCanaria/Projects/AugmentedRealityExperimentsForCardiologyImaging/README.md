@@ -55,7 +55,14 @@ A few of the features we'd like to explore:
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1. Resurrected WebServer tracker experiment
+2. Updated https support with custom certificate that can be uploaded to android phone
+3. Tried demo controlling volume rendering with phone
+
+ <iframe width="200" height="600" src="https://youtube.com/shorts/JeNtDT1LF6k?feature=share">
+ </iframe>
+
+Or this shorts link: [https://youtube.com/shorts/JeNtDT1LF6k?feature=share](https://youtube.com/shorts/JeNtDT1LF6k?feature=share)
 
 # Illustrations
 
