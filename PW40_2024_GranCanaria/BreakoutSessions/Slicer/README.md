@@ -23,6 +23,7 @@ key_investigators:
   country: Canada
 ---
 
-# Description
+# Links!!
 
-Placeholder page for documents related to the PW40 Slicer breakout session
+- [3D Slicer Status Presentation](https://docs.google.com/presentation/d/19uLjtQB34Rblg4sIK-kCcQ5ourwTFkO7LAonxixOHOg/edit?usp=sharing)
+- [3D Slicer Live Q&A Discourse](https://docs.google.com/document/d/1TtTgr3EvWi-P8AEG074CZGWFytE6ysLLxg6C-RD0Z44/edit?usp=sharing)
