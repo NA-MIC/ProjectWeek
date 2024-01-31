@@ -42,7 +42,7 @@ The center of rotation for the transform node can be changed by holding ALT and 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Created [installer](https://1drv.ms/u/s!Al0lwIPqdM2dgql4-5NkWigrmjeU8A?e=lIHd2H) for a version of 3D Slicer containing the new widget.
+1.  Created installer for a version of 3D Slicer containing the new widget. (See link in "Background and References" section).
 2.  Created [PR](https://github.com/Slicer/Slicer/pull/7562) to integrate changes into 3D Slicer. 
 
 # Illustrations
@@ -71,6 +71,8 @@ The center of rotation for the transform node can be changed by holding ALT and 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-- Installer: https://1drv.ms/u/s!Al0lwIPqdM2dgql4-5NkWigrmjeU8A?e=lIHd2H
+- Installers:
+  - V1: ~https://1drv.ms/u/s!Al0lwIPqdM2dgql4-5NkWigrmjeU8A?e=lIHd2H~
+  - V2: https://1drv.ms/u/s!Al0lwIPqdM2dgql7p_gc9DsbDt4New?e=crjT6A
 - Pull request: https://github.com/Slicer/Slicer/pull/7562
 - Current branch: <https://github.com/Sunderlandkyl/Slicer/tree/interaction_display_manager>
