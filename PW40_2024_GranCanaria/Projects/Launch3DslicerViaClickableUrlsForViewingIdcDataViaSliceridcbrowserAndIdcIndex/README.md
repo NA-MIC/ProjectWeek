@@ -72,6 +72,10 @@ Notes for discussion:
 ## Demo on Linux (Ubuntu)
 ![Video_240129105420_Slice1-ezgif com-video-to-gif-converter](https://github.com/NA-MIC/ProjectWeek/assets/115020590/02c3957a-93d8-4f01-930f-c529e8de0758)
 
+## Demo on MacOS
+![Untitled_Project_V3](https://github.com/NA-MIC/ProjectWeek/assets/115020590/46e36c57-6886-4e29-a37a-2accda22a68d)
+
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
