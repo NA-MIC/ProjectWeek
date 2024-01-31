@@ -33,6 +33,24 @@ key_investigators:
   affiliation: Leidos
   country: USA
 
+- name: Leonard Nürnberg
+  affiliation: Maastricht University
+  country: Netherlands
+
+- name: David Clunie
+  affiliation: PixemMed Publishing
+  country: USA
+
+- name: Deepa Krishnaswamy
+  affiliation: BWH
+  country: USA
+
+- name: Vamsi Thiriveedhi
+  affiliation: BWH
+  country: USA
+
+  
+
 ---
 
 # Project Description
@@ -69,7 +87,7 @@ Public image data repositories and collections/datasets have been developed for 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-![Survey ad](./survey_ad.jpeg)
+![Survey ad](./survey_ad.jpg)
 
 # Background and References
 
