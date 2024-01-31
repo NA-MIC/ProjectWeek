@@ -70,6 +70,14 @@ We want to discuss, improve and then merge the pull request for OpenAnatomy.
 
 Rudolf implemented the necessary code, changed the UI and created a Pull request
 
+We ran into several problems realizing this, finding the right apps in OMNIVERSE and in the end we work with OMNIVERSE Create app. 
+This loads a USDC file which can then be modified in Omniverse. 
+There only needs to be one strong server driving OMNIVERSE, underpowered clients can connect to the server via IP adress or even from the phone. 
+We are in the process of testing ththat all out, expect updates to this page in the next weeks. 
+
+![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/864ebdee-da23-43cb-b9fb-5fc9b41f5ae2)
+
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
