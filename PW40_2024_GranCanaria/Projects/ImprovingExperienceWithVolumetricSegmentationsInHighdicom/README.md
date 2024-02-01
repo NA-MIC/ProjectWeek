@@ -88,21 +88,21 @@ After discussing with @dclunie and @pieper, we have agreed that a correction pro
 - Precisely define what is meant by DimensionOrganizationType of “3D” in the case of the patient coordinate system:
     - All planes have the same ImageOrientationPatient. The ImageOrientationPatient shall be factored out into the SharedFunctionalGroupsSequence (and not appear in the PerFramesFunctionalGroupsSequence).
    - Planes shall be regularly spaced. The SpacingBetweenSlices must be found in the PixelMeasuresSequences within the SharedFunctionalGroups. All other pixel measures must also be shared between all frames.
-   - ImageOrientationPatient values shall follow the following rules: the ImagePositionPatient[n+1] at frame n+1 be 
+   - ImageOrientationPatient values shall follow the following rules (using numpy-like indexing):
+  
+     ImagePositionPatient[n+1] = ImagePositionPatient[n] + SpacingBetweenSlices * NormalVector
 
-ImagePositionPatient[n] + SpacingBetweenSlices * NormalVector
+     Where NormalVector is a unit vector found as the vector cross product of the two direction cosines:
 
-Where NormalVector is a unit vector found as the vector cross product of the two direction cosines:
+     NormalVector = ImageOrientationPatient[:3] x ImageOrientationPatient[3:]
 
-NormalVector = ImageOrientationPatient[:3] x ImageOrientationPatient[3:]
+     Note that this does imply that only one of the two possible ordering of planes is valid.
 
-Note that this does imply that one of the two possible ordering of planes is chosen.
+   -	ImagePositionPatient must be used as the only dimension index.
 
--	ImagePositionPatient must be used as the only dimension index.
-
-
-NOTE: The above DOES NOT allow for the creation of BINARY Segmentations with more than one segment, since the Referenced Segment Number would need to be included as a further dimension index and there would need to be further sets of frames for each segment, which would break the strict spatial ordering. We currently feel that this is okay given that we hope that LABELMAP will become the dominant segmentation, and allowing no further dimensions considerably simplifies things.
-
+Notes:
+- The above DOES NOT allow for the creation of BINARY Segmentations with more than one segment, since the Referenced Segment Number would need to be included as a further dimension index and there would need to be further sets of frames for each segment, which would break the strict spatial ordering. We currently feel that this is okay given that we hope that LABELMAP will become the dominant segmentation, and allowing no further dimensions considerably simplifies things.
+- If we are precisely defining "3D" for the patient coordinate system, we should probably give "3D_TEMPORAL" the same treatment. Presumably this would be as above, except that there would some standardized time dimension index too, and a specified ordering of frames along the two dimensions (3d position + time).
 
 # Illustrations
 
