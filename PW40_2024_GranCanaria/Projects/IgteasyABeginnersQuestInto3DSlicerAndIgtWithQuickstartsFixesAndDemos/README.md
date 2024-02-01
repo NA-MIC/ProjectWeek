@@ -32,7 +32,14 @@ key_investigators:
 - name: David García Mato
   affiliation: Apolo AI
   country: Spain
+  
+- name: Fatimetou Mohamed-Saleck
+  affiliation: University of Nouakchott
+  country: Mauritania
 
+ - name: Marie Ndiaye
+  affiliation: University Assane Seck of Ziguinchor
+  country: Senegal
 ---
 
 # Project Description
@@ -65,8 +72,19 @@ Addressing the steep learning curve for beginners in 3D Slicer and Image-Guided 
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
+Progress:
+1.  Setup a wiki page accessible online on https://slicer.scanstart.ro.
+2.  Defined a workflow for starting with Slicer IGT
+3.  Developed tutorials for Installing Optitrack(Motive), Trakstar(Cubes), Telemed(Ultrasound), Plus Server and 3D Slicer IGT
+5.  Developed tutorials for the calibration of tools using the optical tracker, in English and French
+6.  Explanations about Plus server, Scene recording, Transform Hierarchy
+7.  Tested our doumented method with Marie, a newbee in 3D Slicer
 
-1.  Describe specific steps you **have actually done**.
+Next steps:
+1. Perform the calibration with Trakstart Electromagnetic Tracker and create the coresponding tutorial
+2. Translate everything in Spanish
+3. Adding a tutorial for Metrics
+4. Adding a tutorial for developing a user interface
 
 # Illustrations
 
