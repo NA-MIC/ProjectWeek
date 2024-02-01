@@ -38,8 +38,8 @@ key_investigators:
   country: Mauritania
 
  - name: Marie Ndiaye
-  affiliation: University Assane Seck of Ziguinchor
-  country: Senegal
+   affiliation: University Assane Seck of Ziguinchor
+   country: Senegal
 ---
 
 # Project Description
