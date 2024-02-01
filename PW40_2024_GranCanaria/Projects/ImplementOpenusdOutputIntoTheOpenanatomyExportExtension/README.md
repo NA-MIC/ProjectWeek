@@ -77,6 +77,9 @@ We are in the process of testing that all out, expect updates to this page in th
 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/864ebdee-da23-43cb-b9fb-5fc9b41f5ae2)
 
+https://github.com/NA-MIC/ProjectWeek/assets/18140094/5e71f917-0897-427e-b786-4ee8192c8b3b
+
+
 
 # Illustrations
 
