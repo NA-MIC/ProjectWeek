@@ -86,7 +86,7 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-01-29.
+Updated on 2024-02-01.
 
 1. Steve Pieper, Isomics, Inc., USA, (In-person, Confirmed)
 1. Theodore Aptekarev, Slicer Community, Montenegro, (Online)
@@ -149,7 +149,7 @@ Updated on 2024-01-29.
 1. Mohamed Alalli Bilal, University Cheikh Anta diop of Dakar (Ecole superieure polytechnique), Mauritania, (Online)
 1. Leonard Nürnberg, Harvard AIM / Maastricht University, Netherlands, (In-person, Confirmed)
 1. Sam Horvath, Kitware, USA, (In-person, Confirmed)
-1. Marie NDIAYE, Université Assane Seck de Ziguinchor, Senegal, (Online)
+1. Marie NDIAYE, Université Assane Seck de Ziguinchor, Senegal, (In-person)
 1. Fabian Hörst, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Germany, (In-person, Confirmed)
 1. Jens Kleesiek, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Germany, (In-person, Confirmed)
 1. Joost van Griethuysen, The Netherlands Cancer Institute, Netherlands, (In-person, Confirmed)
@@ -258,6 +258,40 @@ Updated on 2024-01-29.
 1. Andor Kenyeres, GE Healthcare, Hungary, (Online)
 1. Ágnes Kocsis, GE Healthcare Magyarország Kft., Hungary, (Online)
 1. Krisztian Koos, GE Healthcare, Hungary, (Online)
+1. Eszter Kiss, GE Healthcare, Hungary, (Online)
+1. Hans Meine, Fraunhofer MEVIS, Germany, (Online)
+1. Sal Choueib, Ebatinca, Canada, (Online)
+1. Leonardo Campos, none, Brazil, (Online)
+1. Christian Herz, Children's Hospital of Philadelphia, USA, (Online)
+1. Subhra Sundar Goswami, Universidad Politecnica de Madrid, Spain, (Online)
+1. Matt McCormick, Kitware, USA, (Online)
+1. Fatou Bintou NDIAYE, Cheikh Anta Diop University of Dakar, Senegal, (Online)
+1. Mouhamed DIOP, Cheikh Anta Diop University of Dakar, Senegal, (Online)
+1. Mario Francisco Ramírez Pizaña, UVM, Mexico, (Online)
+1. Valeria Joselin Villanueva Reynoso , UVM , Mexico, (Online)
+1. Jesús Ángel Estévez Vázquez , UVM, Mexico, (Online)
+1. Eric Nicolas Cruz, Universidad del Valle de Mexico, Mexico, (Online)
+1. Edna Fonseca Díaz , Universidad del Valle de México , Mexico, (Online)
+1. Erick Emmanuel Callejo Rubio , Universiaas del Valle de Mexico , Mexico, (Undecided)
+1. Edna Fonseca Díaz , Universidad del Valle de México , Mexico, (Online)
+1. Edna Fonseca Díaz , Universidad del Valle de México , Mexico, (Undecided)
+1. Christian Jahir Flores González, Universidad del Valle de México, Mexico, (Online)
+1. María Fernanda Carmona Warnke, Universidad del Valle de México, Mexico, (Online)
+1. Gerardo Damián Villanueva Suárez, Universidad del Valle de México, Mexico, (Online)
+1. Maidelyn Isabella , UVM campus Toluca , Mexico, (Undecided)
+1. ANA GABRIELA SÁNCHEZ LARA , UVM , Mexico, (Online)
+1. Sandra Fabiola Olmos Domínguez , Universidad del Valle de México , Mexico, (Online)
+1. Melissa Padilla Sánchez , Universidad del valle de México , Mexico, (Online)
+1. Renata Valderrama D'oleire, Universidad del Valle de México, Mexico, (Online)
+1. Renata Valderrama D'oleire, Universidad del Valle de México, Mexico, (Online)
+1. Diana Karla Vilchis Jimenez , Universidad del Valle de México , Mexico, (Online)
+1. Aranza Daniela Garcia Rojas, Universidad del Valle de México, Mexico, (Undecided)
+1. Karol Rafael, Universidad del Valle de México , Mexico, (Online)
+1. Karla Paulina Sánchez , Uvm Toluca México , Mexico, (Online)
+1. Shreeraj Jadhav, Kitware Inc, USA, (Online)
+1. Rubi Gonzalez , Universidad del Valle de México, Mexico, (Online)
+1. Subhra Sundar Goswami, Universidad Politecnica de Madrid, Spain, (Online)
+1. Martín García , UVM, Mexico, (Online)
 
 <!-- Participants list end -->
 
