@@ -67,6 +67,8 @@ This project aims to clarify best practices and discuss possible fixes for linki
 
 2. Perhaps consider something like recent RT Structure Set addition to standard that added [SourceSeriesInformationSequence](https://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.8.8.5.html#para_a625a323-0d2f-4922-b292-6d81fb912774) and [SourceSeriesSequence](https://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.8.8.6.html#para_ccc7aad7-b3f7-4fdc-b498-5590a1983bdd) ([CP 2296 Provide additional ROI parameters to avoid parsing strings](https://dicom.nema.org/medical/dicom/Final/cp2296_ft_ProvideAdditionalROIParametersToAvoidParsingStrings.pdf))
 
+3. Steve and David discussed that a more general solution could be to enable OHIF to render segmentation on top of any data that shares the same FrameOfReferenceUID.  This would not require any change in DICOM or in the data and would benefit other usecases.  This topic will be researched during the next IDC viewers coordinatation meeting.
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
