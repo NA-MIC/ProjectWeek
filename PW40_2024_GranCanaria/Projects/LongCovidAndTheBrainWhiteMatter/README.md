@@ -105,11 +105,14 @@ As part of the project, we will demonstrate the method reconstructing new fiber 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  We were able to reconstruct the MFB of eight cases and successfully teach how to use 3DSlicer segmentation and tractography settings.
+1.  We were able to reconstruct the MFB of eight cases. 1st picture. 
+2.  We successfully taught how to use 3DSlicer segmentation and tractography settings. 2nd picture.
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. --><img width="507" alt="Screenshot 2024-02-01 at 3 40 38 PM" src="https://github.com/NA-MIC/ProjectWeek/assets/47013972/35d0c442-b8ce-4ded-90fd-9c73b636c91d">
+![tracts](https://github.com/NA-MIC/ProjectWeek/assets/47013972/bfda77ef-f995-4480-9853-f34716534b38)
+
 
 
 *No response*
