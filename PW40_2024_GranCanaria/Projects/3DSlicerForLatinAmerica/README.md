@@ -141,6 +141,8 @@ English            |  Brazilian Portuguese | Spanish
 ![en-4](https://github.com/NA-MIC/ProjectWeek/assets/28208639/609f33bf-55b2-49c1-be43-9a83e022d9fc) | ![pt-4](https://github.com/NA-MIC/ProjectWeek/assets/28208639/c3a1b7d2-02b3-4b31-a5ac-de14549404ab) | ![sp-4](https://github.com/NA-MIC/ProjectWeek/assets/28208639/0a928595-1e7c-48a5-b7f0-eb98085c1dc4)
 
 
+![IMG_2212-small](https://github.com/NA-MIC/ProjectWeek/assets/126077/d813b5bd-54bd-4131-8ba0-913c1feb949d)
+![IMG_2211-small](https://github.com/NA-MIC/ProjectWeek/assets/126077/878f89d1-de9f-4cba-9138-69467ca7d5c0)
 
 
 
