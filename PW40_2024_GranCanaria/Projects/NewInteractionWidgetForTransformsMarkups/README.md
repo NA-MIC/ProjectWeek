@@ -23,6 +23,8 @@ This project aims to implement a new interaction handle widget that can be used 
 
 The center of rotation for the transform node can be changed by holding ALT and clicking+dragging on one of the translation handles. The center of rotation can also be change in python using the "vtkMRMLTransformNode::SetCenterOfTransformation" function.
 
+Transforms can also be scaled uniformly by holding ALT and clicking+dragging on one of the scale handles.
+
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
