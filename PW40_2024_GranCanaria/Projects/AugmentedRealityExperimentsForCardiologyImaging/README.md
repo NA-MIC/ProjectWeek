@@ -64,7 +64,7 @@ WIP in this YouTube shorts link: [https://youtube.com/shorts/JeNtDT1LF6k?feature
 
 # Illustrations
 
- <iframe src="https://youtu.be/Dwza9Bbg4J4">
+ <iframe width="520" height="315" src="https://youtu.be/Dwza9Bbg4J4">
  </iframe>
 
 
