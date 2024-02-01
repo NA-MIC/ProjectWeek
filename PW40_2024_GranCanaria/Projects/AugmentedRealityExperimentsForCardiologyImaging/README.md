@@ -58,14 +58,15 @@ A few of the features we'd like to explore:
 1. Resurrected WebServer tracker experiment
 2. Updated https support with custom certificate that can be uploaded to android phone
 3. Tried demo controlling volume rendering with phone
+4. Showed demo to other prooject week attendees using another another android phone
 
 WIP in this YouTube shorts link: [https://youtube.com/shorts/JeNtDT1LF6k?feature=share](https://youtube.com/shorts/JeNtDT1LF6k?feature=share)
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+ <iframe src="[https://www.youtube.com/embed/ZWxE5QcGvE8](https://youtu.be/Dwza9Bbg4J4)">
+ </iframe>
 
-*No response*
 
 # Background and References
 
