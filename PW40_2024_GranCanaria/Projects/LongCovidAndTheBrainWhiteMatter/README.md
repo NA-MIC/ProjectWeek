@@ -45,6 +45,10 @@ key_investigators:
   affiliation: University in Jena
   country: Germany
 
+- name: Ofer Pasternak
+  affiliation: BWH
+  country: USA
+
 - name: Ed Yeterian
   affiliation: MGH
   country: USA
@@ -81,14 +85,14 @@ We are particularly interested in the brain white matter fiber system that we te
 
 While we have previously reconstructed the MFB, our new approach allows us to rebuild the streamlines reaching the brainstem. Using the Harvard Oxford Atlas (HOA, Rushmore et al., 2020), we will use whole brain tractography from 10 patients with long-COVID to select the Medial Forebrain Bundle (MFB) at its entire extension.
 
-As part of the project, we will demonstrate the method to reconstruct the MFB. We will offer tutorial of 3DSlicer of segmentation, reconstruction of brain white matter streamlines from whole brain tractography and video demonstration of the application of the Harvard Oxford Atlas.
+As part of the project, we will demonstrate the method reconstructing new fiber tracts using 3dSlicer. We will offer tutorial of 3DSlicer of segmentation, reconstruction of brain white matter streamlines.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1.  To test and apply a semi-automated approach to delineate a fiber tracts that reach the brain stem. Tractography in the brain stem is challenging as most fibers run parallel and very close to each other. Additionally, the  in nuclei of the brainstem from which tracts originate and are difficult to visualize.
-2.  Teach the semi-automated approach using the Harvard Oxford Atlas.
+2.  Give a tutorial of 3DSlicer segmentation and reconstruction of brain white matter streamlines, specially those connecting the thalamus, cerebellum, pons and frontal cortex.
 
 ## Approach and Plan
 
@@ -101,11 +105,12 @@ As part of the project, we will demonstrate the method to reconstruct the MFB. W
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  We were able to reconstruct the MFB of eight cases and successfully teach how to use 3DSlicer segmentation and tractography settings.
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+<!-- Add pictures and links to videos that demonstrate what has been accomplished. --><img width="507" alt="Screenshot 2024-02-01 at 3 40 38 PM" src="https://github.com/NA-MIC/ProjectWeek/assets/47013972/35d0c442-b8ce-4ded-90fd-9c73b636c91d">
+
 
 *No response*
 
@@ -114,4 +119,4 @@ As part of the project, we will demonstrate the method to reconstruct the MFB. W
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-In preparation: video on how to use Harvard Oxford Atlas for semi-automated delineation of fiber tracts whole brain tractography derived from diffusion MRI.
+
