@@ -65,8 +65,15 @@ Orbital fracture usually involve large areas in the floor and medial wall of the
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Currently making the landmark set of the plate to allow it only rotates around the posterior stop until the squared error with the orbital landmark set is minimized.
-2.  The challenging is to further rotate the plate until it sits above the unfractures bone of the orbit.
+1.  I am able to make the plate landmark set to rotate around a particular landmark, the posterior stop, to do a rigid registration by changing the rotation center from the centroid to the posterior stop and then do a singular value decomposistion to generate a transformation matrix.
+<img width="550" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/abf6e5da-b2e7-447e-921f-253c5e021505">
+
+2.  The imporved interaction handle widget by Kyle Sunderland (https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/NewInteractionWidgetForTransformsMarkups/) has lots of potential for fine tuning the plate position after an initial plate registration. I can drag the center of rotation of the handle to the posterior stop or set up a rotation center in Python to rotate the plate around the posterior stop. I will discuss with the surgeon I am working with about some potential usage and perhaps new development for the plate registration.
+
+<img width="550" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/98044f4e-d466-4379-bbed-828b63856dd4">
+
+
+3.  The challenging is to further rotate the plate until it sits above the unfractures bone of the orbit. 
 
 # Illustrations
 
@@ -78,7 +85,5 @@ Orbital fracture usually involve large areas in the floor and medial wall of the
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-
-Previous studies rely on commercial software BrainLab iPlan, and appears to be manual adjustment in a virtual environment: e.g., Schreurs et al. 2017: <https://doi.org/10.1371/journal.pone.0150162>
 
 *No response*
