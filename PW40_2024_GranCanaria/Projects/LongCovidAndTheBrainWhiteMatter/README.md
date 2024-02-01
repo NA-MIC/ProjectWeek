@@ -85,13 +85,13 @@ We are particularly interested in the brain white matter fiber system that we te
 
 While we have previously reconstructed the MFB, our new approach allows us to rebuild the streamlines reaching the brainstem. Using the Harvard Oxford Atlas (HOA, Rushmore et al., 2020), we will use whole brain tractography from 10 patients with long-COVID to select the Medial Forebrain Bundle (MFB) at its entire extension.
 
-As part of the project, we will demonstrate the method reconstructing new fiber tracts using 3dSlicer. We will offer tutorial of 3DSlicer of segmentation, reconstruction of brain white matter streamlines.
+As part of the project, we will demonstrate the method reconstructing new fiber tracts using 3dSlicer. We will offer tutorial of 3DSlicer of segmentation, reconstruction of brain white matter streamlines to new users.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1.  To test and apply a semi-automated approach to delineate a fiber tracts that reach the brain stem. Tractography in the brain stem is challenging as most fibers run parallel and very close to each other. Additionally, the  in nuclei of the brainstem from which tracts originate and are difficult to visualize.
+1.  To test and apply a semi-automated approach to delineate a fiber tracts that reach the brain stem. Tractography in the brain stem is challenging as most fibers run parallel and very close to each other. Additionally, the nuclei of the brainstem from which tracts originate and are difficult to visualize.
 2.  Give a tutorial of 3DSlicer segmentation and reconstruction of brain white matter streamlines, specially those connecting the thalamus, cerebellum, pons and frontal cortex.
 
 ## Approach and Plan
