@@ -1,4 +1,4 @@
-[---
+---
 layout: pw40-project
 
 permalink: /:path/
