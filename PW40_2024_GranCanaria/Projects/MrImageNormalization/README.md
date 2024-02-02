@@ -22,8 +22,8 @@ key_investigators:
   country: KIT - Karlsruher Institut für Technologie, Germany
   
 - name: Petros Koutsouvelis
-  affiliation:  Maastricht University
-  country:Netherlands
+  affiliation: Maastricht University
+  country: Netherlands
 ---
 
 # Project Description
