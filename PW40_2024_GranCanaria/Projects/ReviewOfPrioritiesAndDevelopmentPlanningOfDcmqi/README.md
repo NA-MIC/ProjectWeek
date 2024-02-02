@@ -63,8 +63,11 @@ The goal of this project would be to discuss what, if anything, could be done to
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
-
-*No response*
+1. Discussed revisions to API with Ralf, agreed on addressing https://github.com/QIICR/dcmqi/issues/390
+2. Revisited the topic of encoding background voxels, further discussions with David C will be needed https://github.com/QIICR/dcmqi/issues/490
+3. Confirmed with Ralf that github PRs to MITK is the proper mechanism for updating dcmqi version, current PR will be addressed 
+4. Spent some time cleaning up issue tracker.
+5. Started revising documentation. Need further discussions with adopters (Cosmin, Leo, Dennis) to make further progress.
 
 # Illustrations
 
