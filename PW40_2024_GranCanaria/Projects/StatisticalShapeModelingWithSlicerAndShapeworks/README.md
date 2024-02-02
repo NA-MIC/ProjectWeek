@@ -51,8 +51,8 @@ Present an introductory presentation and series of tutorials for SSM, ShapeWorks
 
 1.  Stable distributions of [ShapeWorks](https://github.com/SCIInstitute/ShapeWorks)
 2.  Alpha version [Slicer Plugin](https://github.com/SCIInstitute/ShapeworksSlicerExtension)
-3.  [Introduction to SSM and ShapeWorks]<https://drive.google.com/file/d/14BjjVVQvnLb7U5ItGcK190bItSLD2MGr/view?usp=share_link>
-4.  [ShapeWorks Bsic Usage, Slicer Plugin]<https://drive.google.com/file/d/1rPvfjvTGNLPnufJcb5qf3wM7jkdBIYMc/view?usp=share_link>
+3.  [Introduction to SSM and ShapeWorks]<https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_introduction.mp4>
+4.  [ShapeWorks Bsic Usage, Slicer Plugin]<https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_tutorial.mp4>
 5.  Consultations for individual shape modeling projects
 
 # Illustrations
@@ -62,9 +62,9 @@ Present an introductory presentation and series of tutorials for SSM, ShapeWorks
 ![ShapeWorks Pipeline Image](http://sciinstitute.github.io/ShapeWorks/latest/img/home/about-shapeworks.png)
 
 *Introduction to SSM and ShapeWorks*
-<p><video src="https://drive.google.com/file/d/14BjjVVQvnLb7U5ItGcK190bItSLD2MGr/view?usp=share_link" autoplay muted loop controls style="width:100%"></p>
+<p><video src="https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_introduction.mp4" autoplay muted loop controls style="width:100%"></p>
 *ShapeWorks Bsic Usage, Slicer Plugin*
-<p><video src="https://drive.google.com/file/d/1rPvfjvTGNLPnufJcb5qf3wM7jkdBIYMc/view?usp=share_link" autoplay muted loop controls style="width:100%"></p>
+<p><video src="https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_tutorial.mp4" autoplay muted loop controls style="width:100%"></p>
 
 # Background and References
 
