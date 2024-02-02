@@ -64,7 +64,8 @@ Discuss and collect ideas about the topic with the members of the Slicer communi
 
 This is the [link to the survey](https://forms.office.com/pages/responsepage.aspx?id=MQputG9_E068Y92AXThwLNqIaLm_1KxNh48F9SJl0cVUQURLMERSVEdZMTNYWVpYMlYzUERUTUk2Ni4u)
 
-![link](https://github.com/NA-MIC/ProjectWeek/assets/242559/77aa6e7a-7175-4d6b-b8bd-82ca509a3cd4)
+![kép](https://github.com/NA-MIC/ProjectWeek/assets/242559/9c3178b3-1029-4eb6-bb8f-05974bc02a6a)
+
 
 # Background and References
 
