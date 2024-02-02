@@ -108,8 +108,11 @@ Please, check the results of our implementation in the following video:
 OpenXR in 3D Slicer:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wq6ZNc8dqLo?si=RsCKjfBSC20FuM9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Although a little bit step-py, this video shows our current progress in the Birth Delivery Training app. (Transform messages are being sent from 3D Slicer to Unity)
 
 # Background and References
 
 All source code for the [AR in Slicer](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/ARinSlicer/) project is contained in [this GitHub repository](https://github.com/BSEL-UC3M/HoloLens2and3DSlicer-PedicleScrewPlacementPlanning.git)
+
+- [OpenIGTLink protocol](https://github.com/openigtlink/OpenIGTLink/blob/master/Documents/Protocol/index.md)
+- [OpenIGTLink python](https://github.com/lassoan/pyigtl)
+- [UWPOpenIGTLink](https://github.com/IGSIO/UWPOpenIGTLink)
