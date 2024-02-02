@@ -61,8 +61,7 @@ Integrating SOFA to Slicer may ease this process and offer a fully integrated pi
 2. A SOFA-OpenIGTLink extension was created to support sending simulation updates to 3D Slicer
 3. A Slicer-SOFA extension was created to automate the scene loading and creation of the communication channel with SOFA
 
- <iframe width="420" height="315" src="https://youtu.be/CKlYEeh0o8k">
- </iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/CKlYEeh0o8k?si=1sMoLypEWxzviiL7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  While the progress can still be considered more a demo than a generic infrastructure, we have established the first steps towards making Slicer-SOFA an extension that will allow to define, run and analyze simulation using SOFA.
 
