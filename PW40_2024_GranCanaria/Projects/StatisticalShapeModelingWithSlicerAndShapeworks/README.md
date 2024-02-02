@@ -83,7 +83,7 @@ Present an introductory presentation and series of tutorials for SSM, ShapeWorks
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-[ShapeWorks Repo](https://github.com/SCIInstitute/ShapeWorks)
-[ShapeWorks Documentation](http://sciinstitute.github.io/ShapeWorks/latest/)
-[ShapeWorks Plugin](https://github.com/SCIInstitute/ShapeworksSlicerExtension)
-[ShapeWorks References](http://sciinstitute.github.io/ShapeWorks/latest/users/papers.html)
+- [ShapeWorks Repo](https://github.com/SCIInstitute/ShapeWorks)
+- [ShapeWorks Documentation](http://sciinstitute.github.io/ShapeWorks/latest/)
+- [ShapeWorks Plugin](https://github.com/SCIInstitute/ShapeworksSlicerExtension)
+- [ShapeWorks References](http://sciinstitute.github.io/ShapeWorks/latest/users/papers.html)
