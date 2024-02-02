@@ -85,12 +85,12 @@ Next Steps/ToDo:
 
 Support for 4D multistack - DWI split by GE private tag:
 
- <iframe width="420" height="315" src="https://www.youtube.com/embed/KDeHW6Q8DPA">
+ <iframe width="900" height="600" src="https://www.youtube.com/embed/KDeHW6Q8DPA">
  </iframe>
 
 Support for 4D multistack - DCE split by Temporal Position Identifier
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/cbX-8jjtYM4">
+<iframe width="900" height="600" src="https://www.youtube.com/embed/cbX-8jjtYM4">
  </iframe>
 
 # Background and References
