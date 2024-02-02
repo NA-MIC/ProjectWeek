@@ -20,42 +20,14 @@ key_investigators:
 
 # Project Description
 
-We've been working hard on implementing polySEG in cornerstone3D, and currently we have implemented the following converters in a PR under review in Cornerstone3D:
-
-- Labelmap to surface
-
-
-https://github.com/NA-MIC/ProjectWeek/assets/7490180/fbf606ba-bdca-4071-8239-3af054e35d7e
-
-
-
-- Surface to labelmap
-
-
-
-https://github.com/NA-MIC/ProjectWeek/assets/7490180/f60b0d02-ce67-421b-ba29-ac0051f1b633
-
-
-
-- Contour to surface
-
-
-https://github.com/NA-MIC/ProjectWeek/assets/7490180/d3a79c5e-2a0d-4b8b-9030-46fe0af80e24
-
-
-
-- Contour to labelmap
-
-https://github.com/NA-MIC/ProjectWeek/assets/7490180/d92e5e17-3c20-4237-b94a-dbafbb6fda2c
-
-
+We've been working hard on implementing polySEG in cornerstone3D, and currently we have implemented the following converters in [a PR under review in Cornerstone3D](https://github.com/cornerstonejs/cornerstone3D/pull/844):
 
 However, we still have two converters remaining that seem to be more complex: surface to contour and labelmap to contour. We're excited to tackle these challenges and continue moving forward. This project aims to work on this.
 
 ## Objective
 
 1.  Finish the surface cutting in each slice in the viewport and provide proper API around it for precaching inside a webworker
-2.  Try to implement two implement a Edit version using our SVG rendering framework, and try to handle contour holes and islands
+2.  Try to implement two versions using our SVG rendering framework, and try to handle contour holes and islands
 
 ## Approach and Plan
 
@@ -65,20 +37,32 @@ However, we still have two converters remaining that seem to be more complex: su
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+<video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/assets/7490180/317ba288-c92c-4d43-98e2-5af61da71b42"
+   style="max-height:640px; min-height: 200px">
+ </video>
+ 
+1. I successfully completed the first task by using vtkClipClosedSurface to cut through the surface and render it as polyData within the viewport.
+2. Additionally, I implemented pre-caching of all slices within a web worker. This ensures that all cuts are calculated in advance, eliminating the need to wait for the user to scroll through each slice.
 
-1.  Describe specific steps you **have actually done**.
+
+**Next steps**
+- include to re-cache upong the orientation change, since we need to cancel the previous job on the worker and start a new one
+- Also We need to also add another representation to edit the contours via our contour SVG editing tools, I have got the code from Forrest Li (Kitware) for the vtkContourLoopExtraction and [created a PR to vtk.js here](https://github.com/Kitware/vtk-js/pull/3003)
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+
+
+
+
+
+
 
 *No response*
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
-
-*No response*
+https://github.com/PerkLab/PolySeg
+https://bitbucket.org/icrimaginginformatics/polyseg-wasm/src/master/
