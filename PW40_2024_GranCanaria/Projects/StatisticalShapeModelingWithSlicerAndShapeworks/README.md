@@ -64,11 +64,18 @@ Present an introductory presentation and series of tutorials for SSM, ShapeWorks
 # Session Recordings
 
 *Introduction to SSM and ShapeWorks*
-<p><video src="https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_introduction.mp4" autoplay muted loop controls style="width:100%"></p>
+<video
+   controls muted
+   src="https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_introduction.mp4"
+   style="max-height:640px; min-height: 200px">
+ </video>
   
 *ShapeWorks Bsic Usage, Slicer Plugin*
-<p><video src="https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_tutorial.mp4" autoplay muted loop controls style="width:100%"></p>
-
+<video
+   controls muted
+   src="https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_tutorial.mp4"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
 
 # Background and References
