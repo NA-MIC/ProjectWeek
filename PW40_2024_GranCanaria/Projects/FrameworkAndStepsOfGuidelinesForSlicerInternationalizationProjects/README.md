@@ -48,20 +48,23 @@ Discuss and collect ideas about the topic with the members of the Slicer communi
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1.  Describe specific steps of **what you plan to do** to achieve the above described objectives.
+1.  Create and possibly conduct a short survey on what directions we could take, what would be important to grasp. 
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  Created a form, and had it filled out by a good couple of people!
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![kép](https://github.com/NA-MIC/ProjectWeek/assets/242559/7c4611cf-0a3e-4d40-8efd-67533899fd76)
 
-*No response*
+And here is the link to the survey too:
+https://forms.office.com/pages/responsepage.aspx?id=MQputG9_E068Y92AXThwLNqIaLm_1KxNh48F9SJl0cVUQURLMERSVEdZMTNYWVpYMlYzUERUTUk2Ni4u
+
 
 # Background and References
 
