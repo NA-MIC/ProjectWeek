@@ -37,14 +37,15 @@ We are working on a Slicer extension for automated segmentation of individual te
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Clean up remaining bugs with the code.
-2.  Address issues on the extension submission checklist
+2. Address issues on the extension submission checklist
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
+1. Readme, tutorials and screenshots added.
+2. Opened [pull request](https://github.com/Slicer/ExtensionsIndex/pull/2000)
 
 # Illustrations
 
