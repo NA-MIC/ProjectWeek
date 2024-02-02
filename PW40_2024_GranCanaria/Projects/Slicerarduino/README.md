@@ -40,13 +40,19 @@ The extension is already deployed but several improvements can be made.
 
 1.  Edit SlicerArduino code having Arduino board with Bluetooth module on the side
 2.  Discuss with people about switching from pyserial to qt serial module
+3.  Manage connection drop
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  Bluetooth connection was investigated. Preliminary tests were done just by interfacing Arduino board with the computer, without including Slicer in the loop (for the moment).
+2.  Connection drop management is now implemented and working. Right now it is in a separate git branch, some code cleanup is required.
+    When the connection drops a vtkErrorEvent is invoked on the arduinoNode and a popup appears to the user.
+4.  QSerialPort is not included by default in the current Slicer build but it can be done.
+    Performance/feasibility tests have to be carried on to understand if migration is worth it.
+5.  We had a (very nice and useful) meeting to discuss SlicerArduino both from a developer and user point of view.
 
 # Illustrations
 
