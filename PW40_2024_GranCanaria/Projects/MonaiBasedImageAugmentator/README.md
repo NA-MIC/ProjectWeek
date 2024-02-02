@@ -62,7 +62,11 @@ It's designed to operate on a dataset of medical images and apply a series of sp
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 ![main](https://github.com/NA-MIC/ProjectWeek/assets/96300975/4f8e8daf-88e2-483b-9849-e19899fb9260)
 ![filled](https://github.com/NA-MIC/ProjectWeek/assets/96300975/cc595232-fb44-4ff3-84eb-4a5ef52ec10c)
+
+Files are saved as follows:
 ![output_folder](https://github.com/NA-MIC/ProjectWeek/assets/96300975/f69f0408-d680-4e60-8675-dfac3e0ac5ed)
+
+Example of image after transformation in the scene:
 ![output_scene](https://github.com/NA-MIC/ProjectWeek/assets/96300975/4a06470e-8a1a-4b6b-87ed-82913aecc528)
 
 
