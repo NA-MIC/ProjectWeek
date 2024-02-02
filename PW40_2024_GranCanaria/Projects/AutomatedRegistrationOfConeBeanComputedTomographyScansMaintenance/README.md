@@ -64,12 +64,13 @@ The different methods for automatic orientation and registration of 3D CBCT scan
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  We found that AREG is not working with the ITK version 5.4.rc2 and we suppose it is the reason why it is not working with itk-elastix 0.19.1.
-2.  Need to add library versions to the code according to best practices for Slicer Extensions.
+1. The module AREG is working inly with itk-elastix==0.17.1
+2. In the last release of SlicerAutomatedDentalTools, users are asked if they agree to change the libraries versions of their Slicer environment.
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![Screenshot from 2024-02-02 08-49-19](https://github.com/NA-MIC/ProjectWeek/assets/91120559/cca61e1d-e380-4acf-b904-cd9a78be8080)
 
 ![Workflow](https://github.com/lucanchling/ProjectWeek/assets/72148963/a6617e85-df6e-426f-ab4a-eef322453e7e)
 
