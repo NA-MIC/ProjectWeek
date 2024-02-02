@@ -49,6 +49,9 @@ key_investigators:
   affiliation: BWH
   country: USA
 
+- name: Rafael Palomar
+  affiliation: Oslo University Hospital
+  country: Norway
   
 
 ---
@@ -82,12 +85,17 @@ Public image data repositories and collections/datasets have been developed for 
 
 1.  Created initial document for the discussion of the survey, shared with Key Investigators: <https://docs.google.com/document/d/1iVmWebEOv17RAU1FcUefVo2UiOmOc1SK80OUOKQZhtA/edit?usp=sharing>
 2.  Distributed survey to the attendees: [http://tinyurl.com/public-data-survey](http://tinyurl.com/public-data-survey)
+3.  Advertised on LinkedIn, reachhed out directly, printed out paper fliers!
+4. Collected 25 responses so far (only 15 from PW40 attendees, out of 200+ registrants! PLEASE participate!)
+5. Results collected so far are [here](https://drive.google.com/file/d/1fyHA2HEJuTyOg-W1Ju_3ItyYr1qTgLbR/view?usp=sharing)
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 ![Survey ad](./survey_ad.jpg)
+
+![Current participation overview](./participation.jpg)
 
 # Background and References
 
