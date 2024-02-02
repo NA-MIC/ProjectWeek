@@ -59,6 +59,13 @@ aeva software suite currently consists of:
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+Selection demo:
+<video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/assets/25040869/60c8b158-65b2-40fe-9f3a-9245c6bd60a1"
+   style="max-height:640px; min-height: 200px">
+ </video>
+
 Example tutorial:
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/cFiqL-oqM64?si=TDUtf99SpUEQcKO5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
