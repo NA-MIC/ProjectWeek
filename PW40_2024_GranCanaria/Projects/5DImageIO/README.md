@@ -35,18 +35,18 @@ Slicer currently does not support reading/writing (IO) of 5D images. In the driv
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Use ITK metadata dictionary to change last dimension from `domain` to `time` or other "list" type
+2. Start working on 5D image reading
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Build branch in Debug mode on laptop
+2. Metadata dictionary is ignored when writing, or at least the "kinds" information
+3. Investigate `ITK` and `nrrd` code to find a way to set the last "kind"
+4. Manually edit NRRD header and see what SimpleITK reads it as
 
 # Illustrations
 
