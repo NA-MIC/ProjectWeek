@@ -126,9 +126,9 @@ The ground truth lesion segmentation is on the left, and the predicted prostate 
 
 Using the MONAI bundle and pretrained prostate158 model, on patients from ProstateX. The grountruth lesion is in green, and the predicted in red.
 
-<img width="708" alt="monai_bundle_prostatex1" src=https://github.com/NA-MIC/ProjectWeek/assets/32570021/cc641bb6-2b6a-4bdf-b2cd-9dfd82a4c758>
-<img width="708" alt="monai_bundle_prostatex2" src=https://github.com/NA-MIC/ProjectWeek/assets/32570021/ddc12fd3-3881-4a33-9eaf-8f2ac6a0e10b>
-<img width="708" alt="monai_bundle_prostatex3" src=https://github.com/NA-MIC/ProjectWeek/assets/32570021/42128aad-e6c5-4064-beda-c0e93e69b037>
+<img width="708" alt="monai_bundle_prostatex1" src="https://github.com/NA-MIC/ProjectWeek/assets/32570021/cc641bb6-2b6a-4bdf-b2cd-9dfd82a4c758">
+<img width="708" alt="monai_bundle_prostatex2" src="https://github.com/NA-MIC/ProjectWeek/assets/32570021/ddc12fd3-3881-4a33-9eaf-8f2ac6a0e10b">
+<img width="708" alt="monai_bundle_prostatex3" src="https://github.com/NA-MIC/ProjectWeek/assets/32570021/42128aad-e6c5-4064-beda-c0e93e69b037">
 
 # Background and References
 
