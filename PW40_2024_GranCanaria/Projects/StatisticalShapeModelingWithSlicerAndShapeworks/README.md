@@ -51,14 +51,20 @@ Present an introductory presentation and series of tutorials for SSM, ShapeWorks
 
 1.  Stable distributions of [ShapeWorks](https://github.com/SCIInstitute/ShapeWorks)
 2.  Alpha version [Slicer Plugin](https://github.com/SCIInstitute/ShapeworksSlicerExtension)
-3.  Beta version to be release this prior to Project Week
-4.  Walkthrough documents of the tutorials to published during the Project Week
+3.  [Introduction to SSM and ShapeWorks]<https://drive.google.com/file/d/14BjjVVQvnLb7U5ItGcK190bItSLD2MGr/view?usp=share_link>
+4.  [ShapeWorks Bsic Usage, Slicer Plugin]<https://drive.google.com/file/d/1rPvfjvTGNLPnufJcb5qf3wM7jkdBIYMc/view?usp=share_link>
+5.  Consultations for individual shape modeling projects
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+  <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 ![ShapeWorks Pipeline Image](http://sciinstitute.github.io/ShapeWorks/latest/img/home/about-shapeworks.png)
+
+*Introduction to SSM and ShapeWorks*
+<p><video src="https://drive.google.com/file/d/14BjjVVQvnLb7U5ItGcK190bItSLD2MGr/view?usp=share_link" autoplay muted loop controls style="width:100%"></p>
+*ShapeWorks Bsic Usage, Slicer Plugin*
+<p><video src="https://drive.google.com/file/d/1rPvfjvTGNLPnufJcb5qf3wM7jkdBIYMc/view?usp=share_link" autoplay muted loop controls style="width:100%"></p>
 
 # Background and References
 
