@@ -57,5 +57,5 @@ Slicer evolves at an amazing pace, and this makes the tutorials obsoleted pretty
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-The work began last year, now it's finalized
+
 
