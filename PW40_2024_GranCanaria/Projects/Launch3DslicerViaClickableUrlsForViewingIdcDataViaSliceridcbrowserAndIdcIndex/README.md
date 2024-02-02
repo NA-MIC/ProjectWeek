@@ -22,6 +22,10 @@ key_investigators:
   affiliation: Isomics
   country: USA
 
+- name: Andras Lasso
+  affiliation: Queens University, Canada
+  country: USA
+  
 - name: Umang Pandey
   affiliation: UCM3
   country: Spain
@@ -67,7 +71,14 @@ Notes for discussion:
    @pieper thoughts on this:
    > My thought would be to have a script for each platform (maybe shell for mac/linux and .bat for windows) that would be launched by the url handler.  That script would launch Slicer with ` --no-main-window --python-script <select.py>` where select.py would implement the logic to find the currently running and installed Slicer's and put up a dialog box so the user can select the target.  Then it would either launch a new instance of the version of the user's choice, or it would send a signal to one of the running instances to load more data.  We'd need to discuss how best to send the signal.  It could be a literal operating system signal or it could be use something like the WebServer module so that running instances listen for these load requests.  We should think about what is the best and most useful way to impement this.
 
-    Umangs observations:
+4. @lassoan suggested
+    -  To be able use a running slicer instance, to refer to this script to see https://github.com/lassoan/slicerio?tab=readme-ov-file#view-files-in-3d-slicer
+    -  Use Visual DICOM Browser widget while loading a study
+    -  Refer to his MONAI extension for reference to implementation of streaming logs to progress bar
+5. @Punzo suggested
+    -  refer to script repository in slicer for finding code
+    -  filter by patient id by using onPatients() to show the specific patient into Visual DICOM browser
+6. Umangs observations:
     > If one has multiple slicer's installed along with the nighlty version. Link opens slicer for the highest stable version (All had the extension and module loaded). Would there be a way to choose at least between nightly and stable version?
 # Illustrations
 
