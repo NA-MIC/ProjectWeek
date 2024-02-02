@@ -12,6 +12,10 @@ key_investigators:
 - name: Ashis Ravindran
   affiliation: DKFZ
   country: Germany
+  
+- name: Stephen Schaumann
+  affiliation: DKFZ
+  country: Germany
 
 ---
 
