@@ -3,7 +3,7 @@ layout: pw40-project
 
 permalink: /:path/
 
-project_title: Review IGT training related materials that could be used in training medicie students
+project_title: Review IGT training related materials that could be used in training medicine students
 category: IGT and Training
 presenter_location: In-person
 
