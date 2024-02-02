@@ -52,7 +52,7 @@ The approach involves several steps:
 
 1. **Establish the connection** from kaapana code-server platform to the external dicom server (REST?)
 2. Retrieve all dicom **metadata** from the **external** server
-3. Write a workflow to add **metadata** to kaapana **dashboard view**
+3. Write a workflow to add **metadata** to kaapana **opensearch meta dashboard view**
 4. Retrieve dicom **thumbnail images** from the server
 5. Write a workflow to add them to **datasets view**
 6. **Flag** external dicoms to differentiate between **used storage DICOMWeb servers**.
@@ -65,7 +65,10 @@ The approach involves several steps:
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  Implemented new dag and operator in kaapana workflow able to **import metadata** and **name the dataset**. (1-3)
+2.  Able to retrieve thumbnail images, but unable to integrate it to the kaapana yet, due to choosing the wrong path :D (4)
+3.  During import, I identify tags: **00080016 source entity title** and **00080026 source presentation address** as places where to store meta information, that these metadata are from external sources and address where it is possible to retrieve them. This will be reused later.
+4.  7-8 WIP
 
 # Illustrations
 
