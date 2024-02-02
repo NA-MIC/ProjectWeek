@@ -13,6 +13,10 @@ key_investigators:
   affiliation: Faculté de médecine de Nouakchott
   country: Université de Nouakchott, Mauritania
 
+- name: Sonia Pujol
+  affiliation: Brigham and Women’s Hospital and Harvard Medical School
+  country: USA
+
 - name: Fatimetou Mohamed-Saleck
   affiliation: Faculté des Sciences et Techniques
   country: Université de Nouakchott, Mauritania
