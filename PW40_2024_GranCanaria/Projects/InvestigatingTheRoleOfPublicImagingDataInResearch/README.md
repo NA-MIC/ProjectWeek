@@ -87,13 +87,15 @@ Public image data repositories and collections/datasets have been developed for 
 2.  Distributed survey to the attendees: [http://tinyurl.com/public-data-survey](http://tinyurl.com/public-data-survey)
 3.  Advertised on LinkedIn, reachhed out directly, printed out paper fliers!
 4. Collected 25 responses so far (only 15 from PW40 attendees, out of 200+ registrants! PLEASE participate!)
-5. Results collected so far are [here](https://drive.google.com/file/d/1fyHA2HEJuTyOg-W1Ju_3ItyYr1qTgLbR/view?usp=sharing)
+5. Results will be released after the survey is closed to avoid influencing responses!
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 ![Survey ad](./survey_ad.jpg)
+
+![Participants](./participants.jpg)
 
 ![Current participation overview](./participation.jpg)
 
