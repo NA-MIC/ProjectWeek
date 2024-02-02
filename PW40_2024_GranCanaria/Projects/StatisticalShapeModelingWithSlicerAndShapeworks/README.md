@@ -51,8 +51,8 @@ Present an introductory presentation and series of tutorials for SSM, ShapeWorks
 
 1.  Stable distributions of [ShapeWorks](https://github.com/SCIInstitute/ShapeWorks)
 2.  Alpha version [Slicer Plugin](https://github.com/SCIInstitute/ShapeworksSlicerExtension)
-3.  [Introduction to SSM and ShapeWorks]<https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_introduction.mp4>
-4.  [ShapeWorks Bsic Usage, Slicer Plugin]<https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_tutorial.mp4>
+3.  [Introduction to SSM and ShapeWorks](https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_introduction.mp4)
+4.  [ShapeWorks Bsic Usage, Slicer Plugin](https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_tutorial.mp4)
 5.  Consultations for individual shape modeling projects
 
 # Illustrations
