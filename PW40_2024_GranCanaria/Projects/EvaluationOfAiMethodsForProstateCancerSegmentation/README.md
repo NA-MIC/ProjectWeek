@@ -65,6 +65,9 @@ When it comes to evaluating AI methods, it's important to have reproducible code
 
 1.  We will do a literature/code repo search of the methods.
 2.  We will search for  appropriate data in IDC using the portal/BigQuery.
+3.  We will create a sample set of data from multiple prostate imaging collections, including T2, DWI, ADC and ground truth segmentations.
+4.  We will run inference using the 4 methods on these sample data sets and visualize in Slicer.
+5.  If possible we will perform quantitative evaluation. 
 
 ## Progress and Next Steps
 
@@ -82,17 +85,23 @@ When it comes to evaluating AI methods, it's important to have reproducible code
     - [Prostate-MRI-US-Biopsy ](https://portal.imaging.datacommons.cancer.gov/explore/filters/?collection_id=prostate_mri_us_biopsy)
 
 3. We have started evaluation of the PICAI supervised nnUNet baseline model and the MONAI Deploy MAP on their training data.
-4. We will take [Cosmin's work from PW38](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/tree/main/pcDetectionBundle/configs) on the MONAI bundle for prostate cancer segmentation. We'll make sure it works, and evaluate it on publicly available datasets including prostate158 and IDC data (continuation of [this](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/blob/main/MONAI_prostate158_cancer_qin_prost_rep.ipynb) notebook).  
+4. We will take [Cosmin's work from PW38](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/tree/main/pcDetectionBundle/configs) on the MONAI bundle for prostate cancer segmentation. We'll make sure it works, and evaluate it on publicly available datasets including IDC data (continuation of [this](https://github.com/ImagingDataCommons/idc-prostate-mri-analysis/blob/main/MONAI_prostate158_cancer_qin_prost_rep.ipynb) notebook).
+5. We have evaluated the two PICAI models on almost all of the 3 subsets of data.
+6. We've run the MONAI bundle on a subset of the 3 collections.
+7. We've also run the MONAI deploy MAP on a subset of the 3 collections. 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-Using the pretrained nnU-Net supervised baseline from PICAI, on a patient from PICAI. Ground truth lesion segmentation is in red, and the predicted segmentation in green. 
-![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/c7545409-d451-4267-a0bc-989b59290a88)
+*** PICAI nnUNet supervised *** 
 
-Using the pretrained nnU-Net semi-supervised baseline from PICAI, on a patient from QIN-Prostate-Repeatability. The ground truth lesion is in green, and the predicted bounding box in white.
+*** PICAI nnDetection semi-supervised *** 
+
+QIN-Prostate-Repeatability: The ground truth lesion is in green, and the predicted bounding box in white.
 <img width="708" alt="nnunet_bounding_box" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/c91a256a-01c3-4660-90ef-c30a7f99b719">
+
+*** MONAI Deploy MAP *** 
 
 Using the MONAI Deploy MAP pre-trained model for prostate and lesion segmentation on a patient from Prostate-MRI-US-Biopsy.
 The ground truth lesion segmentation is on the left, and the predicted prostate gland segmentation and lesion segmentations are on the right.
@@ -106,6 +115,8 @@ Using the MONAI Deploy MAP pre-trained model for prostate and lesion segmentatio
 The ground truth lesion segmentation is on the left, and the predicted prostate gland segmentation and lesion segmentations are on the right.
 
 ![monai_deploy_prostatex_0000](https://github.com/NA-MIC/ProjectWeek/assets/59979551/af44b9d3-74dd-4b3e-90fd-80daf8685850)
+
+*** MONAI bundle *** 
 
 Using the MONAI bundle and pretrained prostate158 model, on patients from ProstateX. The grountruth lesion is in green, and the predicted in red.
 ![monai_bundle_prostatex1](https://github.com/NA-MIC/ProjectWeek/assets/32570021/cc641bb6-2b6a-4bdf-b2cd-9dfd82a4c758)
