@@ -53,6 +53,17 @@ Other items suggested by @fedorov:
 1. Developers of MHub models must wrap all non-file outputs (e.g. prediction results or classification labels) in mhub-io objects and describe their semantics.
 1. MHub currently offers a JSONExporter module that can be used to query MHub's internal data representation and generate a customizable json (or csv).
 
+Results from PW40
+1. MHub SR Support
+    1. We will start by adding support the TID1500 DICOM SR template.
+    1. We will use parametrization of highdicom codes for simple annotation of model data.
+1. We developed new MHub tutorials for
+    1. [T1 - Run TotalSegmentator on IDC Collection](https://github.com/MHubAI/documentation/blob/main/tutorials/run_totalsegmentator_on_idc_collection/mhub_tutorial_001.md)
+    1. [T2 - Run Custom MHub Lung Segmentation Workflow on Chest CT in Nifti Format](https://github.com/MHubAI/documentation/blob/main/tutorials/run_lungmask_on_chestct_in_nifti_format/mhub_tutorial_002.md)
+1. We now have a full documentation for contributions to MHUb (use-case tutorial will follow soon ;))
+    1. [How to Contribute a Model to MHub](https://github.com/MHubAI/documentation/blob/main/documentation/mhub_contribution/contributing_a_model.md)   
+
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
