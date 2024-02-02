@@ -79,9 +79,9 @@ Upon arriving here, we found some different ways to address this problem, so fin
 
 ![ProgressDiagram](https://github.com/NA-MIC/ProjectWeek/assets/66890913/803249b1-eac1-4d40-8b3e-957cd021bb79)
 
-These days we have tried multiple approaches for displaying 3D Slicer information in 3D Slicer.
+These days we have tried multiple approaches for displaying 3D Slicer information in Microsoft Hololens 2 (HL2).
 These are the results:
-We have three options: Stream information to HoloLens 2 (HL2) from a computer, build an application directly in HL2, or use 3D Slicer.
+We have three options: Stream information to HoloLens 2 from a computer, build an application directly in HL2, or use 3D Slicer.
 ### 1. Computer
 #### 1.1. UWPOpenIGTLink
 JC provided us with a [Windows Runtime component](https://github.com/IGSIO/UWPOpenIGTLink) for OpenIGTLink. Upon building it (for x64 architecture, as we want to read it from a computer), it creates a Winmd that should provide direct access to the libraries. We tried both methods here: building the app for the computer and directly running it from the Unity editor. None of the options worked, as they are not Universal Windows Platforms.
