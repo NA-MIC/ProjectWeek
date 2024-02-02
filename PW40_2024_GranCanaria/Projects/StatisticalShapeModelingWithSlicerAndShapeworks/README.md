@@ -70,7 +70,7 @@ Present an introductory presentation and series of tutorials for SSM, ShapeWorks
    style="max-height:640px; min-height: 200px">
  </video>
   
-*ShapeWorks Bsic Usage, Slicer Plugin*
+*ShapeWorks Basic Usage, Slicer Plugin*
 <video
    controls muted
    src="https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_tutorial.mp4"
