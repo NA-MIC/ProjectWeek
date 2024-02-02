@@ -17,11 +17,11 @@ key_investigators:
   affiliation: Universidad Carlos III de Madrid
   country: Spain
 
-- name: Javier Pascau
+- name: Felix von Haxthausen
   affiliation: Universidad Carlos III de Madrid
   country: Spain
 
-- name: Felix von Haxthausen
+- name: Javier Pascau
   affiliation: Universidad Carlos III de Madrid
   country: Spain
 
@@ -76,8 +76,8 @@ This project has a double purpose:
 
 ## Progress and Next Steps
 
-1.  We have already identified useful literature regarding this topic.
-2.  We already have all mannequins and some prerecorded maneuvers.
+OpenXR in 3D Slicer:
+[![OpenXR integration in 3D Slicer with demonstration in birth delivery training](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 # Illustrations
 
