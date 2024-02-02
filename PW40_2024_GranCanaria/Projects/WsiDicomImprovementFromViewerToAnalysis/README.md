@@ -56,25 +56,52 @@ This project aims to test existing software solutions for vendor-agnostic WSI to
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Test Bench has been published under: [WSI-DICOM-TESTBench](https://github.com/FabianHoerst/WSI-DICOM-TESTBench)
+   
+   Tools and Notebooks are going to be updated soon
+3. Compared Tools:
+  
+    | OrthancWSIDicomizer                                         | bfconvert | dicom_wsi | GCP WSI to DICOM | pixelmed | IMI Big Picture |
+    |-------------------------------------------------------------|-----------|-----------|------------------|----------|-----------------|
+    | Working, but excessive metadata generation. Multiple edge cases with established tools (inconsistent compatibility) | Slow for large WSI, precompressed option results in color splits (shifted color due to RGB - YBR issue) | Too slow |Not checked yet | Still working for svs and tiff, stable backup solution | Decent solution, but ICC color profile is not transfered to the respective DICOM tags. Should not be that hard to fix. |          
 
-Next steps are to build the test suite in advance, prepare test data and begin to collect more tools
-
+4. Viewer
+   
+   ***Link:***
+    Find the code here: [Slim-Orthanc](https://github.com/diatools/slim-orthanc/)
+   
+    ***Tools Tested:***
+    Several viewers were tested, including the [Slim-Viewer](https://github.com/ImagingDataCommons/slim) (both native and with [OHIF](https://ohif.org/) integration), [OpenLayers](https://openlayers.org/), and integration with [Orthanc](https://www.orthanc-server.com/) as a PACS system (refer to Image 1).
+    
+    ***Performance Issues:***
+    During testing, performance issues were observed at high zoom levels, with delays attributed to extended wait times for server responses. The problem was identified in the WebDICOM adapter (refer to Image 2).
+    
+    ***Comparison with Another PACS System:***
+    In comparison with another PACS system ([DCM4CHE](https://www.dcm4che.org/)), no such performance issues were encountered.
+    
+    ***DICOM Web Plugin and Delays:***
+    The [DICOM Web plugin](https://www.orthanc-server.com/static.php?page=dicomweb) appears to introduce delays, possibly due to implementation issues, specifically with pathological microscopy images. This aspect will be further evaluated in the next project phase.
+    
+    ***Next Steps:***
+    The [healthcare-dicom-dicomweb-adapter](https://github.com/GoogleCloudPlatform/healthcare-dicom-dicomweb-adapter) will be evaluated as an alternative to the native DICOM-web plugin for Orthanc in the upcoming phase of the project.
+       
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-![idea](https://github.com/NA-MIC/ProjectWeek/assets/67600643/ff39403e-8dc6-411e-9f78-31189f242ea0)
+![idea](https://github.com/NA-MIC/ProjectWeek/assets/67600643/1c0d0f88-f302-4cd7-9499-b77be854411f)
+
+![result_slim](https://github.com/NA-MIC/ProjectWeek/assets/67600643/0955c066-ee14-4b64-8204-f64a66fa2bbf)
+
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-### Current known solutions for the WSI-DICOM Conversion: 
+### Overview of Tools for WSI-DICOM Conversion: 
 
-**thanks to @dclunie**
+**thanks to @dclunie and @fedorov**
 
 1. bfconvert (BioFormats):
    Converting a file to different format — Bio-Formats 7.1.0 documentation. 
