@@ -96,7 +96,13 @@ When it comes to evaluating AI methods, it's important to have reproducible code
 
 *** PICAI nnUNet supervised *** 
 
+ProstateX: The ground truth lesion is in green, and the predicted lesion in red. 
+<img width="387" alt="PICAI_nnUNet_ProstateX" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/aefe3d66-0a6e-4717-b074-0040031fa215">
+
 *** PICAI nnDetection semi-supervised *** 
+
+ProstateX: The ground truth lesion is in green, and the predicted bounding box in white. 
+<img width="387" alt="PICAI_nnDet_ProstateX" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/bd1f7eb6-2641-4c2e-9450-65d9aeb9d75a">
 
 QIN-Prostate-Repeatability: The ground truth lesion is in green, and the predicted bounding box in white.
 <img width="708" alt="nnunet_bounding_box" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/c91a256a-01c3-4660-90ef-c30a7f99b719">
@@ -123,8 +129,6 @@ Using the MONAI bundle and pretrained prostate158 model, on patients from Prosta
 <img width="708" alt="monai_bundle_prostatex1" src=https://github.com/NA-MIC/ProjectWeek/assets/32570021/cc641bb6-2b6a-4bdf-b2cd-9dfd82a4c758>
 <img width="708" alt="monai_bundle_prostatex2" src=https://github.com/NA-MIC/ProjectWeek/assets/32570021/ddc12fd3-3881-4a33-9eaf-8f2ac6a0e10b>
 <img width="708" alt="monai_bundle_prostatex3" src=https://github.com/NA-MIC/ProjectWeek/assets/32570021/42128aad-e6c5-4064-beda-c0e93e69b037>
-
-
 
 # Background and References
 
