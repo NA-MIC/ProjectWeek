@@ -103,9 +103,11 @@ ProstateX: The ground truth lesion is in green, and the predicted lesion in red.
 *** PICAI nnDetection semi-supervised *** 
 
 ProstateX: The ground truth lesion is in green, and the predicted bounding box in white. 
+
 <img width="387" alt="PICAI_nnDet_ProstateX" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/bd1f7eb6-2641-4c2e-9450-65d9aeb9d75a">
 
 QIN-Prostate-Repeatability: The ground truth lesion is in green, and the predicted bounding box in white.
+
 <img width="708" alt="nnunet_bounding_box" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/c91a256a-01c3-4660-90ef-c30a7f99b719">
 
 *** MONAI Deploy MAP *** 
