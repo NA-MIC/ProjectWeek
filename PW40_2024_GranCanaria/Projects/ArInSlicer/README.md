@@ -75,6 +75,8 @@ This project has a double purpose:
 8.  Replicate the movement of actual tools in our virtual models using the same OpenIGTLink bridge
 
 ## Progress and Next Steps
+Upon arriving here, we found some different ways to address this problem, so finally, we did not follow the original plan, but explored these other approaches:
+
 ![ProgressDiagram](https://github.com/NA-MIC/ProjectWeek/assets/66890913/0f4314e7-9161-4c8e-bb45-0660ca124d92)
 These days we have tried multiple approaches for displaying 3D Slicer information in 3D Slicer.
 These are the results:
@@ -87,21 +89,25 @@ JC provided us with a [Windows Runtime component](https://github.com/IGSIO/UWPOp
 We decided to build the original [OpenIGTLink protocol in C++](https://github.com/openigtlink/OpenIGTLink/blob/master/Documents/Protocol/index.md) for an x64 architecture and then create a wrapper in C# to read these libraries in Unity. This has the potential to work, although it requires quite a lot of hard work and could not be finished this week. We will keep on exploring this possibility during the next months.
 
 #### Python scripting
-It is possible to implement [python scripts in Unity](https://docs.unity3d.com/Packages/com.unity.scripting.python@6.0/manual/index.html). Theoretically, since there is a [python version for the OpenIGTLink protocol](https://github.com/lassoan/pyigtl), it should be possible to feed Unity with the OpenIGTLink Python library to seamlessly exchange all types of messages. Nevertheless, due to time constraints, we could not test this approach during this week. Maybe on next one...
+It is possible to implement [python scripts in Unity](https://docs.unity3d.com/Packages/com.unity.scripting.python@6.0/manual/index.html). Theoretically, since there is a [python version for the OpenIGTLink protocol](https://github.com/lassoan/pyigtl), it should be possible to feed Unity with the OpenIGTLink Python library to seamlessly exchange all types of messages. Nevertheless, due to time constraints, we could not test this approach during this week. Maybe on the next one...
 
 ### HoloLens 2
 The next alternative was to actually build the application on ARM64 architecture for HoloLens 2 using the [UWPOpenIGTLink](https://github.com/IGSIO/UWPOpenIGTLink). In this case, the Winmd can be read because HL2 is a Universal Windows Platform, so no wrapper is needed. Therefore, this option should be suitable too, and we might also work on it during the next months.
 
+### 3D Slicer
+Finally, now [OpenXR is finally available in 3D Slicer](https://github.com/KitwareMedical/SlicerVirtualReality), we also explored this path to stream information without depending from Unity.
+This worked and seamlessly displays the 3D view in 3D Slicer directly into HoloLens. Still, some factors should be improved:
+  - Registration between 3D Slicer and HoloLens 2 is not well managed, and models are usually rendered too far away from the user. Our current approach is to perform fiducial based registration to bring models closer.
+  - Models can be grabbed and dragged in the scene to see them from different perspectives. However, only near interaction is available (no far interaction, voice commands...) --yet!
+  - Models cannot be manipulated independently and they move as a block. To prevent this, so far, we simply "toggled selectable" those we didn't want to interact with.
+  - So far, no UI is visible from HL2 so the user cannot press buttons or interact with 3D Slicer interface from the glasses.
+  - None of this is officially available in any 3D Slicer release, but everything is working on our own built. 3D Slicer should be upgraded soon with these features once some issues are fixed, though.
+
+Please, check the results of our implementation in the following video:
+
 OpenXR in 3D Slicer:
-[![OpenXR integration in 3D Slicer with demonstration in birth delivery training](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wq6ZNc8dqLo?si=RsCKjfBSC20FuM9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Illustrations
-
-<video
- controls muted
- src="https://github.com/NA-MIC/ProjectWeek/assets/66890913/1a8500a1-6d84-4599-9cda-557fc288fc83"
- style="max-height:640px; min-height: 200px">
-</video>
 Although a little bit step-py, this video shows our current progress in the Birth Delivery Training app. (Transform messages are being sent from 3D Slicer to Unity)
 
 # Background and References
