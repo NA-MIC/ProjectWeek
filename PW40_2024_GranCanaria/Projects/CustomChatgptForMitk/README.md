@@ -54,7 +54,7 @@ Custom versions of ChatGPT for the users & developers of the Medical Imaging Int
     * Only available for ChatGPT Plus users. 
 2. We explored building our own (semi-)local solutions for retrieval-augmented generation.
     * Developed prototype web app based on Streamlit & Langchain (Python) libraries.
-    * Code publically available here:
+    * Code available here for adoption: https://github.com/ASHISRAVINDRAN/custom-chatbot-app
 3. Explored other online LLM solutions out there which works nicely with MITK.
     * ChatGPT knowledge is only until Jan 2022.
     * Phind.com seems updated & catered more towarding helping developers. 
