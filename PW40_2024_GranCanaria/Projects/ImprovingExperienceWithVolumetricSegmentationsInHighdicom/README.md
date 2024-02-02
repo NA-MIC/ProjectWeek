@@ -81,6 +81,12 @@ As a minimum (assuming no changes to the standard), I would propose that for pro
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
+     
+### Changes To `highdicom` Library
+
+See the associated [pull request](https://github.com/ImagingDataCommons/highdicom/pull/277) (currently a work in progress as a draft PR).
+
+### Changes to the DICOM Standard
 
 After discussing with @dclunie and @pieper, we have agreed that a correction proposal shall be drafted by @dclunie as a next step. Here are my notes on what this could include:
 
