@@ -75,6 +75,20 @@ This project has a double purpose:
 8.  Replicate the movement of actual tools in our virtual models using the same OpenIGTLink bridge
 
 ## Progress and Next Steps
+![ProgressDiagram](https://github.com/NA-MIC/ProjectWeek/assets/66890913/0f4314e7-9161-4c8e-bb45-0660ca124d92)
+These days we have tried multiple approaches for displaying 3D Slicer information in 3D Slicer.
+These are the results:
+We have three options: Stream information to HoloLens 2 (HL2) from a computer, build an application directly in HL2, or use 3D Slicer.
+### Computer
+#### UWPOpenIGTLink
+JC provided us with a [Windows Runtime component](https://github.com/IGSIO/UWPOpenIGTLink) for OpenIGTLink. Upon building it (for x64 architecture, as we want to read it from a computer) it creates a winmd that should provide direct access to the libraries. We tried both methods here: Building the app for the computer and directly running it from Unity editor. None of the options worked, as they are not Universal Windows Platforms.
+
+#### OpenIGTLink
+We decided to build the original [OpenIGTLink protocol in C++](https://github.com/openigtlink/OpenIGTLink/blob/master/Documents/Protocol/index.md) for an x64 architecture and then create a wrapper in C# to read these libraries in Unity. This has the potential to work, although it requires quite a lot of hard work and could not be finished this week. We will keep on exploring this possibility during the next months.
+
+#### Python scripting
+It is possible to implement [python scripts in Unity](https://docs.unity3d.com/Packages/com.unity.scripting.python@6.0/manual/index.html). Theoretically, since there is a [python version for the OpenIGTLink protocol](https://github.com/lassoan/pyigtl), it should be possible to feed Unity with the OpenIGTLink Python library to seamlessly exchange all types of messages. Nevertheless, due to time constraints, we could not test this approach during this week. Maybe on next one...
+
 
 OpenXR in 3D Slicer:
 [![OpenXR integration in 3D Slicer with demonstration in birth delivery training](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
