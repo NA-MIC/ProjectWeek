@@ -71,6 +71,8 @@ ImagineHive is currently used at the Weill Cornell Medicine/Presbyterian NY hosp
 ## Progress and Next Steps
 
 1. Update of Slicer's DICOM browser to be more friendly for patient-oriented clinical workflows (visual appearance, better responsiveness - see [details](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/SlicerVisualDICOMBrowser/).
+2. We had a meeting on Tuesday where we discussed the integration of customized 3DSlicer into web applications.
+3. We presented a demonstration of ImageHIVE on Thursday and collected feedback.
 
 # Illustrations
 
