@@ -48,7 +48,7 @@ DICOMweb™ defines a set of RESTful services for web-based medical imaging with
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1.  Get practical experience with the libraries: wsidicom, dicomslide (both underlyingly using dicomweb_client)
+1.  Get practical experience with the libraries: wsidicom, dicomslide (both underlyingly using dicomweb_client).
 2.  Set-up document A
 3.  Set-up times to discuss during project week
 4.  Summarize discussion in document B
