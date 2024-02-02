@@ -61,7 +61,7 @@ A recent advancement has been achieved with the development of a new extension. 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-*No response*
+![](https://drive.google.com/file/d/1YmX3jgm_9tjmsZGJIVcs328zHPlAg4Ut/view?usp=sharing)
 
 # Background and References
 
