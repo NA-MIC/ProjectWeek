@@ -46,7 +46,16 @@ Transforms can also be scaled uniformly by holding ALT and clicking+dragging on 
 
 1.  Created installer for a version of 3D Slicer containing the new widget. (See link in "Background and References" section).
 2.  Created [PR](https://github.com/Slicer/Slicer/pull/7562) to integrate changes into 3D Slicer.
-3.  Integrated into latest preview release!
+3.  Add options to enable/disable visualization of specific axes.
+4.  Add uniform scaling option.
+5.  Improved visualization based on feedback.
+6.  Integrated into latest preview release!
+
+### Next steps
+
+1. Use a simplified widget visualization when the user is not interacting with it.
+2. Add a shortcut to allow users to cancel the transformation.
+3. Add shortcut to enable snapping to angles.
 
 # Illustrations
 
