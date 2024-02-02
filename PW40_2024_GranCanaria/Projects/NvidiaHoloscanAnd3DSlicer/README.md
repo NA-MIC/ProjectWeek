@@ -58,4 +58,3 @@ The implementation for (2) will be made available on the [Holohub repository](ht
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 ![holoscan_3dslicer](https://github.com/NA-MIC/ProjectWeek/assets/6413806/c6e5969e-cccc-4228-9c60-e713ef776731)
-](https://developer.nvidia.com/holoscan-sdk)https://developer.nvidia.com/holoscan-sdk
