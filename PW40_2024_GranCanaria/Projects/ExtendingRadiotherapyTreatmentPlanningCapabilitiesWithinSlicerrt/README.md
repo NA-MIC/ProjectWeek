@@ -48,17 +48,30 @@ The goal is to allow full treatment planning on data loaded directly in Slicer, 
 3.  Update ExternalBeamPlanning Infrastructure to represent four-step planning process in slicerRT: Geometry Definition, Inverse Dose precomputation, Optimization, Forward dose calculation (already existing within ExternalBeamPlanning module in SlicerRT).
 
 ## Progress and Next Steps
-
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
+### Project week progress
+1. Prototype for treatment planning with matRad Python interface cleaned up in SlicerRT
+2. Enable forward calculation / conformal beam-wise planning using dose calculation and optimization as a dose engine
+3. Create infrastructure within SlicerRT for separating treatment planning into dose influence matrix calculation and optimization by introducing PlanOptimizers
+4. Prototype for storing dose influence matrices in BeamNodes using Eigen Sparse Matrices (ITKEigen3)
 
-*No response*
+### Next steps
+1. Concatenate dose influence matrices on Plan level
+2. Enable full IMRT within PlanOptimizers using dose influence matrix structure (maybe also implement a mock optimizer just applying uniform fluences)
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+### Prototype for beam-wise conformal planning:
+<img width="1280" alt="Prostate plan with SlicerRT" src="https://github.com/NA-MIC/ProjectWeek/assets/11944339/a02d4c7c-d771-4723-b07f-e84f2daea30a">
 
-*No response*
+### New widget elements / infrastructure for inverse planning:
+<img width="583" alt="Widget Extension" src="https://github.com/NA-MIC/ProjectWeek/assets/11944339/3fcc69a8-a5a0-4be8-8c61-3350bab83bbc">
+
+### Dose Influence storage accessible from Python for Beam Nodes:
+<img width="409" alt="Dose Influence Matrix accessibility" src="https://github.com/NA-MIC/ProjectWeek/assets/11944339/246a4b84-4e83-4241-9936-38197f708782">
+
 
 # Background and References
 
