@@ -59,6 +59,15 @@ A few of the features we'd like to explore:
 2. Updated https support with custom certificate that can be uploaded to android phone
 3. Tried demo controlling volume rendering with phone
 4. Showed demo to other prooject week attendees using another another android phone
+5. Created a [pull request](https://github.com/Slicer/Slicer/pull/7568) to add demo to Slicer
+6. Discussed plans to make the demo into a more useful tool
+   - Allow user to set relative position of themselves relative to the rendered scene
+   - Use touch screen to control rendering modes and other elements in the Slicer scene
+   - Transfer rendered images from Slicer to phone screen
+   - Set up QR code so phone can easily access Slicer WebServer
+   - Use websocket to minimize latency
+   - Perform further testing, possibly as part of AR/VR developer courses
+   - Define clinical scenarios and set up testing environment
 
 WIP in this YouTube shorts link: [https://youtube.com/shorts/JeNtDT1LF6k?feature=share](https://youtube.com/shorts/JeNtDT1LF6k?feature=share)
 
@@ -76,3 +85,4 @@ WIP in this YouTube shorts link: [https://youtube.com/shorts/JeNtDT1LF6k?feature
 *   Phone based tracking communicating with Slicer from earlier Project Week: <https://www.youtube.com/watch?v=kQKskHYlpQE>
 *   Use of Slicer's WebServer to host tracker data: <https://github.com/pieper/SlicerWeb/blob/master/WebServer/docroot/WebXR-controller/index.html>
 *   vtk.js based volume rendering demo compatible with Android smartphone AR tracking: <https://kitware.github.io/vtk-js/examples/WebXRVolume/WebXRVolume.html?xrSessionType=1&fileURL=https://data.kitware.com/api/v1/file/63fe3f237b0dfcc98f66a857/download&colorPreset=CT-AAA&rotateX=90&rotateY=180>
+*   Background on WebXR and device compatibility: https://immersive-web.github.io/webxr/explainer.html
