@@ -60,7 +60,7 @@ The extension is already deployed but several improvements can be made.
 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/4259198/28afb312-9ae4-4db7-a54a-09a2fc0a9585)
 
-![97f6abbf-30c6-4562-a96a-f2c6a6bfe922](https://github.com/NA-MIC/ProjectWeek/assets/4259198/e523bf25-cf5c-46e7-85f0-0fb0f3b03fc8)
+![image](https://github.com/NA-MIC/ProjectWeek/assets/4259198/e523bf25-cf5c-46e7-85f0-0fb0f3b03fc8)
 
 # Background and References
 
