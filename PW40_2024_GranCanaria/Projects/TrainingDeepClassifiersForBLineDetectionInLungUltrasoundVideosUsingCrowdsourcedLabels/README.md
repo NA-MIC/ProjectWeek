@@ -56,11 +56,12 @@ Produce models for classification and segmentation of lung ultrasound videos wit
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Collected manual classifications and segmentations from lung ultrasound experts
-2.  Collected crowdsourced classification opinions to form high-quality classifications of 4,030 ultrasound videos from 483 patients
-3.  Collected 177,000 crowdsourced segmentation opinions since last Friday (2024-01-26) to form high-quality segmentations of 8,500 frames (so far!) within the videos from 483 patients.
+Collected 330,000 (177,000 at start of PW40) crowdsourced segmentation opinions to form high-quality segmentations of 21,000 (8,500 at the start of PW40) frames within the videos from 483 patients.
 
-In progress: collecting ~2,000-3,000 additional high-quality frame segmentations per day.
+In progress: 
+1. Collecting ~3,000 additional high-quality frame segmentations per day with a target of 20,000 frames remaining which will be completed this month (41,000 total).
+2. Training video classification models on high-quality classifications of 4,030 ultrasound videos from 483 patients.
+3. Preparing training data for segmentation models.
 
 # Illustrations
 
