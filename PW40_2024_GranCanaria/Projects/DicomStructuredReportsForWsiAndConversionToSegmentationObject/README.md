@@ -71,7 +71,7 @@ In this project, we want to investigate and compare several approaches to conver
 
 1. Familiarized with the highdicom library for accessing the SR coordinates
 2. Switching to a more generic way for rendering the coordinates
-3. ```ruby
+```ruby
 for i in range(AnnotatetObjects3):
     Type=FileFull.ContentSequence[13].ContentSequence[i].ContentSequence[2].ConceptCodeSequence[0].CodeMeaning
     Coords3=FileFull.ContentSequence[13].ContentSequence[i].ContentSequence[3].GraphicData
@@ -85,7 +85,8 @@ for i in range(AnnotatetObjects3):
         color=(0,0,255)
     contours = np.array([[[abs(x), abs(y)] for x, y in zip(x_coords3, y_coords3)]], dtype=np.int32)
 ```
-4. ```ruby
+.
+```ruby
 sr = hd.sr.srread("/Users/maximilianfischer/ProjectsMountDir/CMU-1/Consistent/SR/DICOM/1E447C90/E88940CE/4E17833F.dcm")
 groups = sr.content.get_planar_roi_measurement_groups()
 groups[0].roi
