@@ -61,7 +61,7 @@ Transforms can also be scaled uniformly by holding ALT and clicking+dragging on 
 
 | Transforms| Markups |
 |----------|:-------------:|
-| ![image](https://github.com/NA-MIC/ProjectWeek/assets/9222709/af25e92a-71e6-42de-b00f-21b9f1af701c) | ![image](https://github.com/NA-MIC/ProjectWeek/assets/9222709/e347f82e-ff57-4fca-86b5-b9d29414fb25) |
+| ![image](https://github.com/NA-MIC/ProjectWeek/assets/9222709/dbc01ab4-31c0-4b17-b184-6e5c67c35bf7) | ![image](https://github.com/NA-MIC/ProjectWeek/assets/9222709/d0773aef-86d1-46de-9a21-afc53c54ecb8) |
 
 <video
   autoplay loop controls muted
