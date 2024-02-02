@@ -99,11 +99,11 @@ The Mauritanian approach aims to make 3D Slicer accessible to a broader audience
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-*We have developed an extension for 3D Slicer to perform medical image (volume) segmentation using the K-Means algorithm. Specifically, we have implemented an adaptive version of K-Means, which allows segmentation based on pixel intensity.
+We have developed an extension for 3D Slicer to perform medical image (volume) segmentation using the K-Means algorithm. Specifically, we have implemented an adaptive version of K-Means, which allows segmentation based on pixel intensity.
 
 We encountered several challenges during volume processing and rendering, as well as in finding alternatives to libraries like scikit-learn, NumPy, and OpenCV to integrate them into the 3D Slicer API.
 
-Ultimately, we successfully segmented the images using both the adaptive K-Means and the classic K-Means methods. However, these results still require improvement and testing on various types of medical images to ensure their reliability*
+Ultimately, we successfully segmented the images using both the adaptive K-Means and the classic K-Means methods. However, these results still require improvement and testing on various types of medical images to ensure their reliability
 
 
 **Adaptive Algorithm Result**
