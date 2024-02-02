@@ -1,5 +1,3 @@
-
-https://github.com/NA-MIC/ProjectWeek/assets/77610678/2c2c9984-abe2-4dcb-9f45-ff2332ba2402
 ---
 layout: pw40-project
 
