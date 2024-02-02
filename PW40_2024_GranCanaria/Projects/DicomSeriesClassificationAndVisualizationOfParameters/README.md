@@ -63,7 +63,11 @@ We would like to develop approaches for aiding in the curation of data. The firs
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Started [repo here](https://github.com/deepakri201/DICOMTagViz/) for initial [hiplot](https://github.com/facebookresearch/hiplot) exploration of DICOM tags of T2 weighted axial series of prostate imaging collections from IDC 
+1.  Started [repo here](https://github.com/deepakri201/DICOMTagViz/) for initial [hiplot](https://github.com/facebookresearch/hiplot) exploration of DICOM tags of T2 weighted axial series of prostate imaging collections from IDC
+2.  Had some very helpful discussions with David, Maria and Chris about understanding of parameters and previous work done in this area 
+3.  Created similar interactive plots for DWI and ADC across different prostate collections
+4.  Developed a hierarchical approach for classification of prostate scans, starting with ProstateX collection -- for T2 axial, DWI, ADC, and DCE classification.
+5.  We'll later try this out on other prostate collections. 
 
 # Illustrations
 
