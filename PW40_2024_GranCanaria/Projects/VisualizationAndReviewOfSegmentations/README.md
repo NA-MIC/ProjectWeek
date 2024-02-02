@@ -72,9 +72,7 @@ Specific points:
 2. For the vertebrae, are there heuristics we can do?
 3. Are there heuristics that we develop for NLST that will work for SynthSeg evaluation?
 
-************************************
 *** Work accomplished this weeek *** 
-************************************
 
 We had multiple sessions and discussions with Ron, where we: 
 - learned about anatomy
