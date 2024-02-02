@@ -109,16 +109,19 @@ QIN-Prostate-Repeatability: The ground truth lesion is in green, and the predict
 
 *** MONAI Deploy MAP *** 
 
-Using the MONAI Deploy MAP pre-trained model for prostate and lesion segmentation on a patient from Prostate-MRI-US-Biopsy.
-The ground truth lesion segmentation is on the left, and the predicted prostate gland segmentation and lesion segmentations are on the right.
+Using the MONAI Deploy MAP pre-trained model for prostate and lesion segmentation on a patient from Prostate-MRI-US-Biopsy. The ground truth lesion segmentation is on the left, and the predicted prostate gland segmentation and lesion segmentations are on the right.
+
 ![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/c55ff897-e1e8-485c-b17f-0bd104f95a4e)
 
 Scrolling through slices of same patient as above: 
 
 ![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/8fc9b45d-48ce-443d-a951-0345b6f913ea)
 
-Using the MONAI Deploy MAP pre-trained model for prostate and lesion segmentation on a patient from ProstateX. 
-The ground truth lesion segmentation is on the left, and the predicted prostate gland segmentation and lesion segmentations are on the right.
+Patient from QIN-Prostate-Repeatability: The ground truth lesion segmentation is on the left, and the predicted prostate gland segmentation and lesion segmentations are on the right.
+
+<img width="920" alt="MONAI_deploy_map_QIN-Prostate-Repeatability_patient_1_study_2" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/e35cf6ee-bae2-49de-ae05-2b5b7f0bf94d">
+
+Patient from ProstateX: The ground truth lesion segmentation is on the left, and the predicted prostate gland segmentation and lesion segmentations are on the right.
 
 ![monai_deploy_prostatex_0000](https://github.com/NA-MIC/ProjectWeek/assets/59979551/af44b9d3-74dd-4b3e-90fd-80daf8685850)
 
