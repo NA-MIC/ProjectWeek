@@ -66,12 +66,17 @@ The project plan can be broken down into the following concrete objectives:
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
-
+- After hitting various walls, we decided to implement a client (3D Slicer) - server (ImFusion) solution via OpenIGTLink
+- Workflow should be:
+  - Start ImFusion erver from 3D-Slicer on startup
+  - Send data to ImFusion server -> get algorithms compatible with data
+  - Select algorithm via GUI
+  - (Configure algorithm via GUI)
+  - Run Algorithm -> Data/Nodes are updated in 3D Slicer
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
+![SlicerApp-real_uQhrmYiNWQ](https://github.com/NA-MIC/ProjectWeek/assets/79929002/3a24b080-6c2a-4a4f-bb0a-3bea6fe07182)
 ![RegistrationModule powered by ImFusion Libraries in 3D Slicer](https://github.com/NA-MIC/ProjectWeek/assets/79929002/46c7efcb-990f-4e1e-b403-0a08c025e109)
 
 # Background and References
