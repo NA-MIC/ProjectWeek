@@ -52,7 +52,7 @@ It's designed to operate on a dataset of medical images and apply a series of sp
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Implemented interface for loading images and masks, choosing transformations and saving images.
+1.  Implemented graphic interface for loading images and masks, choosing transformations and saving images.
 2.  Implemented and tested MONAI spatial transformations such as Rotation, RandRotation, Flip, Resize.
 3.  Partially implemented input validation and MONAI intensity transformations, it will be completed in the future.
 4.  Partially implemented "Preview" feature, which allows the output of transformations to be viewed directly in the scene before saving them in the OS, will be completed in the future.
