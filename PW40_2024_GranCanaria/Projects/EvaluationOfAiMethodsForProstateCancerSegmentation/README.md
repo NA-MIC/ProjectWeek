@@ -114,6 +114,8 @@ The ground truth lesion segmentation is on the left, and the predicted prostate 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
+Our github repo with notebooks (WIP): https://github.com/deepakri201/prostateSeg
+
 This is a continuation of the work that Cosmin did at PW38: https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/MONAI_IDC_PCa_detection/  
 
 IDC getting started tutorials: https://github.com/ImagingDataCommons/IDC-Tutorials/tree/master/notebooks/getting_started
