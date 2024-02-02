@@ -95,7 +95,7 @@ Updated on 2024-02-01.
 1. Rafael Palomar, Oslo University Hospital, Norway, (In-person, Confirmed)
 1. Hathaichanok Parakarn, Khon Kaen University, Thailand, (Online)
 1. Tatpong Katanyukul, Khon Kaen University, Thailand, (Online)
-1. Andrey Fedorov, BWH, USA, (In-person, Confirmed)
+1. Andrey Fedorov, BWH, USA, (Remote, Confirmed)
 1. Hans Knutsson, Linkoping University, Sweden, (In-person, Confirmed)
 1. Juan Ruiz-Alzola, University of Las Palmas de Gran Canaria, Spain, (In-person, Confirmed)
 1. Lucas Sanchez Silva, USP, Brazil, (In-person, Confirmed)
