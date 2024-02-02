@@ -77,7 +77,8 @@ This project has a double purpose:
 ## Progress and Next Steps
 Upon arriving here, we found some different ways to address this problem, so finally, we did not follow the original plan, but explored these other approaches:
 
-![ProgressDiagram](https://github.com/NA-MIC/ProjectWeek/assets/66890913/0f4314e7-9161-4c8e-bb45-0660ca124d92)
+![ProgressDiagram](https://github.com/NA-MIC/ProjectWeek/assets/66890913/af4b179e-4d7d-4c4f-8878-c79b98e2de63)
+
 These days we have tried multiple approaches for displaying 3D Slicer information in 3D Slicer.
 These are the results:
 We have three options: Stream information to HoloLens 2 (HL2) from a computer, build an application directly in HL2, or use 3D Slicer.
