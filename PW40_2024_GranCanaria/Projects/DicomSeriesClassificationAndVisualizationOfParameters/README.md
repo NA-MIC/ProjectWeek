@@ -77,10 +77,9 @@ Same hiplot but with rendering in the browser!
 
 ![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/043542a8-99fb-42ad-8724-dc94588027c3)
 
-*****
+**** Workflow **** 
 
-
-
+![PRODICOM](https://github.com/NA-MIC/ProjectWeek/assets/59979551/970116c8-faa0-4945-8d77-55f61f7ef042)
 
 # Background and References
 
