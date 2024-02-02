@@ -77,7 +77,7 @@ This project has a double purpose:
 ## Progress and Next Steps
 Upon arriving here, we found some different ways to address this problem, so finally, we did not follow the original plan, but explored these other approaches:
 
-![ProgressDiagram](https://github.com/NA-MIC/ProjectWeek/assets/66890913/af4b179e-4d7d-4c4f-8878-c79b98e2de63)
+![ProgressDiagram](https://github.com/NA-MIC/ProjectWeek/assets/66890913/803249b1-eac1-4d40-8b3e-957cd021bb79)
 
 These days we have tried multiple approaches for displaying 3D Slicer information in 3D Slicer.
 These are the results:
