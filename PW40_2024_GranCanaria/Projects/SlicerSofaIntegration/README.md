@@ -57,10 +57,14 @@ Integrating SOFA to Slicer may ease this process and offer a fully integrated pi
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+1. We have discussed different architectures for the integration (Superbuild Extension, ROS2 and Client/Server through OpenIGTLink). We decided to implement the third alternative.
+2. A SOFA-OpenIGTLink extension was created to support sending simulation updates to 3D Slicer
+3. A Slicer-SOFA extension was created to automate the scene loading and creation of the communication channel with SOFA
 
-1.  Describe specific steps you **have actually done**.
+ <iframe width="420" height="315" src="https://youtu.be/CKlYEeh0o8k">
+ </iframe>
+
+ While the progress can still be considered more a demo than a generic infrastructure, we have established the first steps towards making Slicer-SOFA an extension that will allow to define, run and analyze simulation using SOFA.
 
 # Illustrations
 
