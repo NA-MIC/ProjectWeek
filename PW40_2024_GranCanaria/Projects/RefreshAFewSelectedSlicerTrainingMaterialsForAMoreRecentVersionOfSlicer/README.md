@@ -53,11 +53,9 @@ Slicer evolves at an amazing pace, and this makes the tutorials obsoleted pretty
 ![kép](https://github.com/NA-MIC/ProjectWeek/assets/242559/bc9090b3-e143-4a25-9cd0-6210c34e4734)
 
 
-
-
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 The work began last year, now it's finalized
-*No response*
+
