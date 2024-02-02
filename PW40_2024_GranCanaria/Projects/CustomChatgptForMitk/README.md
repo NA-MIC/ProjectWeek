@@ -50,9 +50,14 @@ Custom versions of ChatGPT for the users & developers of the Medical Imaging Int
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 * We created a CustomGPT inside ChatGPT for MITK. Introducing: MITK Buddy!
-  * URL:
+  * URL: https://chat.openai.com/g/g-E36xLFyf5-mitk-buddy 
   * Only available for ChatGPT Plus users. 
-* 
+* We explored building our own (semi-)local solutions for retrieval-augmented generation.
+  * Developed prototype web app based on Streamlit & Langchain (Python) libraries.
+  * Code publically available here:
+* Explored other online LLM solutions out there which works nicely with MITK.
+  * ChatGPT knowledge is only until Jan 2022.
+  * Phind.com seems updated & catered more towarding helping developers. 
 
 # Illustrations
 
