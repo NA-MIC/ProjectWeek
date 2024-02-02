@@ -46,24 +46,35 @@ To expose an already developed deep learning classifier in Slicer.
 
 1.  Identification of optimal classification parameters
 2.  Expose weights into Slicer
-3.  Generate extension (ask for approval?)
+3.  Generate extension
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+Done during this week:
+1.  Obtained pth file with the model for deep learning classification.
+2.  Implemented module extention in Slicer.
+3.  Tested if the same label obtained in testing was the same that appeared in output in Slicer.
+
+Future steps:
+1.  Integrating weight files for the specific classification (maybe giving to the clinicians the possibility to download locally the right weights for their specific tasks).
+2.  Specify what label score means.
+3.  Other modifications for a general usage of the extention.
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-*No response*
+<video
+   autoplay muted loop
+   src="https://github.com/NA-MIC/ProjectWeek/assets/112720518/b3aa2ef6-223c-4155-a0b5-d12a0b6b30d6"
+   style="width:1000px">
+</video>
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-
-*No response*
+GitHub Project Page: https://github.com/robsver/3DSlicerClassificator
+Classification score table for third molar extraction: Juodzbalys, Gintaras, and Povilas Daugela. "Mandibular third molar impaction: review of literature and a proposal of a classification." Journal of oral & maxillofacial research 4.2 (2013).
