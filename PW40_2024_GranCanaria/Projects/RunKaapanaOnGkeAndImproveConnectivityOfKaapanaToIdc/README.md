@@ -70,6 +70,9 @@ The approach involves several steps:
 3.  During import, I identify tags: **00080016 source entity title** and **00080026 source presentation address** as places where to store meta information, that these metadata are from external sources and address where it is possible to retrieve them. This will be reused later.
 4.  7-8 WIP
 
+![image](https://github.com/NA-MIC/ProjectWeek/assets/33953801/696ce517-7f43-4255-96c4-e6b712891a6d)
+
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
