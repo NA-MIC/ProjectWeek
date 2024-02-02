@@ -80,6 +80,9 @@ Notes for discussion:
     -  filter by patient id by using onPatients() to show the specific patient into Visual DICOM browser
 6. Umangs observations:
     > If one has multiple slicer's installed along with the nighlty version. Link opens slicer for the highest stable version (All had the extension and module loaded). Would there be a way to choose at least between nightly and stable version?
+7. The code is currently available at https://github.com/vkt1414/SlicerIDCBrowser and eventually may be available @ https://github.com/ImagingDataCommons/SlicerIDCBrowser
+8. Once the behavior of launching urls is refined in SlicerIDCBrowser, the goal is make atleast the registration of the slicer:// protocol available on Slicer directly
+   
 # Illustrations
 
 ## Demo on Windows 
