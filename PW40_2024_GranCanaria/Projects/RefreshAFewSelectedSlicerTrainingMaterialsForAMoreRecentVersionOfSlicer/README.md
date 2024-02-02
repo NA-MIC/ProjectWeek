@@ -48,7 +48,12 @@ Slicer evolves at an amazing pace, and this makes the tutorials obsoleted pretty
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-*No response*
+![kép](https://github.com/NA-MIC/ProjectWeek/assets/242559/50f877d3-dc97-41e1-8188-39e360e14438)
+![kép](https://github.com/NA-MIC/ProjectWeek/assets/242559/c76f2d3f-d15b-4cae-93d5-af62a8dce0da)
+![kép](https://github.com/NA-MIC/ProjectWeek/assets/242559/bc9090b3-e143-4a25-9cd0-6210c34e4734)
+
+
+
 
 # Background and References
 
