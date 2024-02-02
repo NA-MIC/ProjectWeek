@@ -50,7 +50,9 @@ There are various options, not yet sure which one is the best (or if there are o
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-None
+1. Worked with Kitware on building Slicer natively on Holoscan OS/hardware (progress, but not completed)
+2. Protytpe OpenIGTLink connection streaming slice/volume data through Holoscan
+3. Made connections for further development
 
 # Illustrations
 
