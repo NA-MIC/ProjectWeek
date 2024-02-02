@@ -65,7 +65,12 @@ This project will explore the application of MONAI generative tools to data on t
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1. Discussed the project with people at project week for feedback
+2. Contacted Mark Graham of KCL, a MONAI generative researcher/developer for advice
+3. Implemented a first pass combination of IDC data with MONAI generative notebook
+4. Ran tests on colab and workstations
+5. Adapted example data (8-bit) to dicom (16-bit) data to accomodate dynamic range differences
+6. Explored parallel and federated approaches
 
 # Illustrations
 
