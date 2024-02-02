@@ -58,7 +58,8 @@ The extension is already deployed but several improvements can be made.
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-*No response*
+![image](https://github.com/NA-MIC/ProjectWeek/assets/4259198/28afb312-9ae4-4db7-a54a-09a2fc0a9585)
+
 
 # Background and References
 
