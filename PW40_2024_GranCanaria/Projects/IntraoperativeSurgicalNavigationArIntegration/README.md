@@ -46,9 +46,13 @@ Design of Intra-operative surgical navigation framework combined with live calib
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Investigation of possible applications
-2.  Marker less tracking implementation
-3.  Camera system testing
+1.  Investigation of possible Surgical AR applications
+2.  Idea sharing
+3.  Networking
+4.  Knowledge transfer
+5.  Marker less tracking investigation
+
+
 
 # Illustrations
 
