@@ -20,10 +20,6 @@ key_investigators:
   affiliation: Brigham and Women's Hospital
   country: USA
 
-- name: Bálint Kovács
-  affiliation: DKFZ
-  country: Germany
-
 - name: Brianna Burton
   affiliation: 3D Side SA
   country: Belgium
@@ -31,6 +27,10 @@ key_investigators:
 - name: Laura Levy
   affiliation:
   country: Switzerland
+
+- name: Bálint Kovács
+  affiliation: DKFZ
+  country: Germany
 
 - name: Umang Pandey
   affiliation: Universidad Carlos III de Madrid
