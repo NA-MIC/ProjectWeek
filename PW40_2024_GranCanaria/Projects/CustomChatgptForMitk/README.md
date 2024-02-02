@@ -34,21 +34,25 @@ Even though the proposal is currently pitched for MITK, it could benefit other t
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-custom versions of ChatGPT for the users & developers of the Medical Imaging Interaction Toolkit (MITK)
+Custom versions of ChatGPT for the users & developers of the Medical Imaging Interaction Toolkit (MITK)
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-One of the easiest ways to materialize this proposal to use the OpenAI's custom GPT feature and expand on it.
+* One of the easiest ways to materialize this proposal to use the OpenAI's custom GPT feature and expand on it.
 <https://openai.com/blog/introducing-gpts>
+* Build deployable solutions outside ChatGPT.
+* Explore feasibility of chat LLM solutions out there for MITK users & dev.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
-
-*No response*
+* We created a CustomGPT inside ChatGPT for MITK. Introducing: MITK Buddy!
+  * URL:
+  * Only available for ChatGPT Plus users. 
+* 
 
 # Illustrations
 
