@@ -54,8 +54,9 @@ If time permits we will continue working on nuclei annotations stored as DICOM M
 
 ## Progress and Next Steps
 
-1.  Set-up Google Healthcare DICOM store holding the available DICOM SR annotations.
-2.  
+1. Set-up Google Healthcare DICOM store holding the available DICOM SR annotations.
+2. Investigating libraries suitable to show-case and easy to follow workflow took way more time than expected as most publicly available state-of-the-art algorithms don't work with DICOM images, neither do the work with DICOM annotation objects, like SR or SEG. Instead they usually require some specifically formatted csv file, which is very counterproductive to our main goal: providing easy workflows from DICOM annotations in the IDC to analysis algorithms. However, I had several valuable discussions about other people's best practices and summarized available libraries capabilities trying to figure out the main barriers that prevent direct usage of DICOM objects.
+3. [Documentation](https://docs.google.com/document/d/1xI9ZbZOk_nTz8YDP3xeozRspN1T-2zxQ79ecPufFfH0/edit?usp=sharing) and [Code](https://colab.research.google.com/drive/1aM3IgvPSk7OEzmg1YIoxGT-A4AaDxhqn?usp=drive_link) is still work-in-progress and will be extended after the Project Week. 
 
 # Illustrations
 
