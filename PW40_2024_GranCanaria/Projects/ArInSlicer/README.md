@@ -81,20 +81,20 @@ Upon arriving here, we found some different ways to address this problem, so fin
 These days we have tried multiple approaches for displaying 3D Slicer information in 3D Slicer.
 These are the results:
 We have three options: Stream information to HoloLens 2 (HL2) from a computer, build an application directly in HL2, or use 3D Slicer.
-### Computer
-#### UWPOpenIGTLink
+### 1. Computer
+#### 1.1. UWPOpenIGTLink
 JC provided us with a [Windows Runtime component](https://github.com/IGSIO/UWPOpenIGTLink) for OpenIGTLink. Upon building it (for x64 architecture, as we want to read it from a computer), it creates a Winmd that should provide direct access to the libraries. We tried both methods here: building the app for the computer and directly running it from the Unity editor. None of the options worked, as they are not Universal Windows Platforms.
 
-#### OpenIGTLink
+#### 1.2. OpenIGTLink
 We decided to build the original [OpenIGTLink protocol in C++](https://github.com/openigtlink/OpenIGTLink/blob/master/Documents/Protocol/index.md) for an x64 architecture and then create a wrapper in C# to read these libraries in Unity. This has the potential to work, although it requires quite a lot of hard work and could not be finished this week. We will keep on exploring this possibility during the next months.
 
-#### Python scripting
+#### 1.3. Python scripting
 It is possible to implement [python scripts in Unity](https://docs.unity3d.com/Packages/com.unity.scripting.python@6.0/manual/index.html). Theoretically, since there is a [python version for the OpenIGTLink protocol](https://github.com/lassoan/pyigtl), it should be possible to feed Unity with the OpenIGTLink Python library to seamlessly exchange all types of messages. Nevertheless, due to time constraints, we could not test this approach during this week. Maybe on the next one...
 
-### HoloLens 2
+### 2. Microsoft HoloLens 2
 The next alternative was to actually build the application on ARM64 architecture for HoloLens 2 using the [UWPOpenIGTLink](https://github.com/IGSIO/UWPOpenIGTLink). In this case, the Winmd can be read because HL2 is a Universal Windows Platform, so no wrapper is needed. Therefore, this option should be suitable too, and we might also work on it during the next months.
 
-### 3D Slicer
+### 3. 3D Slicer
 Finally, now [OpenXR is finally available in 3D Slicer](https://github.com/KitwareMedical/SlicerVirtualReality), we also explored this path to stream information without depending from Unity.
 This worked and seamlessly displays the 3D view in 3D Slicer directly into HoloLens. Still, some factors should be improved:
   - Registration between 3D Slicer and HoloLens 2 is not well managed, and models are usually rendered too far away from the user. Our current approach is to perform fiducial based registration to bring models closer.
