@@ -69,10 +69,34 @@ In this project, we want to investigate and compare several approaches to conver
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1.  Describe specific steps you **have actually done**.
+1. Familiarized with the highdicom library for accessing the SR coordinates
+2. Switching to a more generic way for rendering the coordinates
+3. ```ruby
+for i in range(AnnotatetObjects3):
+    Type=FileFull.ContentSequence[13].ContentSequence[i].ContentSequence[2].ConceptCodeSequence[0].CodeMeaning
+    Coords3=FileFull.ContentSequence[13].ContentSequence[i].ContentSequence[3].GraphicData
+    x_coords3 = [int((Coords3[i]-Origin_X)/spacing_x) for i in range(0, len(Coords3), 3)]
+    y_coords3 = [int((Coords3[i]-Origin_Y)/spacing_y) for i in range(1, len(Coords3), 3)]
+    if Type=='Tissue':
+        tissue_list.append([x_coords3,y_coords3])
+        color=(255,0,0)
+    else:
+        tumor_list.append([x_coords3,y_coords3])
+        color=(0,0,255)
+    contours = np.array([[[abs(x), abs(y)] for x, y in zip(x_coords3, y_coords3)]], dtype=np.int32)
+```
+4. ```ruby
+sr = hd.sr.srread("/Users/maximilianfischer/ProjectsMountDir/CMU-1/Consistent/SR/DICOM/1E447C90/E88940CE/4E17833F.dcm")
+groups = sr.content.get_planar_roi_measurement_groups()
+groups[0].roi
+groups[0].roi.value
+coords=[]
+for x in range(groups[0].roi.value.shape[0]):
+    coords.append([groups[0].roi.value[x][0],groups[0].roi.value[x][1]])
+```
+**Much shorter code!**
+5. Rendering still done with opencv, but planning to switch to rasterio. 
+6. Bioformats as new DICOM conversion library to be supported in Kaapana (currently mostly based on PixelMed.)
 
 # Illustrations
 
