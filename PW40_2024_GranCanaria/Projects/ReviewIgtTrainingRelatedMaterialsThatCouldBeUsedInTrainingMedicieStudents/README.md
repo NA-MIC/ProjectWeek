@@ -9,7 +9,7 @@ presenter_location: In-person
 
 key_investigators:
 
-- name: Attila Nagy,
+- name: Attila Nagy, Francesca Maria Spadea, Juan Ruiz Alzola, Javier Pascau, Gábor Fichtinger, Tina Kapur, Ron Kikinis, Rafael Palomar, Paolo Zaffino
   affiliation: University of Szeged
   country: Szeged, Hungary
 
@@ -26,7 +26,7 @@ Yet, it would be great, because the students like it, and could more easily be e
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1.  Objective A. Contact people who teach IGT as undegraduate courses. Make contacts, discuss good practices, exchange experiences.
+1.  Objective A. Contact people who teach IGT, or IGT-related applications as undegraduate courses. Make contacts, discuss good practices, exchange experiences.
 
 ## Approach and Plan
 
