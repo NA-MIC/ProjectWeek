@@ -64,7 +64,9 @@ Finalize the ctk visual DICOM browser:
 
 ## Progress and Next Steps
 
-1. A Job list UI has been implemented.
+1. A Job list UI has been implemented/tested.
+2. We had a demo on Tuesday and we discussed the roadmap in details.
+3. I have started implementating the feedback. See the [roadmap](https://github.com/commontk/CTK/issues/1162) for detailed informations. 
 
 # Illustrations
 screenshots:
