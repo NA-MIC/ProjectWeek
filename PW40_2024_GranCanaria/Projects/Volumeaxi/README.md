@@ -69,13 +69,21 @@ The first clinical application of Volume-AXI is related to dentistry, aiming to 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Actually trying different preprocessing of the CBCT scans on neural networks.
+1. Done different preprocessing steps on the CBCT scans.
+2. Tried to train with EfficientNetBN.
+
+Next step:
+
+1. Think about a new implementation of training. 
+2. Try to reduce the image to regions of interest.
+3. Use of transformations in the training loop to increase the dataset.
+
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![individualImage](https://github.com/NA-MIC/ProjectWeek/assets/91120559/1852a8b3-4162-4c3f-b0d7-c00a612e80fc)
 
-*No response*
 
 # Background and References
 
