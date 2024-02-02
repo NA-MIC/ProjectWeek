@@ -26,20 +26,20 @@ Yet, it would be great, because the students like it, and could more easily be e
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1.  Objective A. Describe **what you plan to achieve** in 1-2 sentences.
+1.  Objective A. Contact people who teach IGT as undegraduate courses. Make contacts, discuss good practices, exchange experiences.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1.  Describe specific steps of **what you plan to do** to achieve the above described objectives.
+1.  Approach people, have talks, take a look at already existing materials (if available).
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  Had talk, approached people and made great proges overall! :)
 
 # Illustrations
 
