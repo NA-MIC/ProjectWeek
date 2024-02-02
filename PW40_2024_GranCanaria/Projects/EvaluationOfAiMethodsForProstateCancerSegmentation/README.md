@@ -97,6 +97,7 @@ When it comes to evaluating AI methods, it's important to have reproducible code
 *** PICAI nnUNet supervised *** 
 
 ProstateX: The ground truth lesion is in green, and the predicted lesion in red. 
+
 <img width="387" alt="PICAI_nnUNet_ProstateX" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/aefe3d66-0a6e-4717-b074-0040031fa215">
 
 *** PICAI nnDetection semi-supervised *** 
