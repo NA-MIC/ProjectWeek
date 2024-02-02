@@ -3,7 +3,7 @@ layout: pw40-project
 
 permalink: /:path/
 
-project_title: Image Multimodal Database with AI Assisted Annotation
+project_title: Linkage of Multimodal Medical Databases using FHIR
 category: Infrastructure
 presenter_location: In-person
 
@@ -103,15 +103,22 @@ Next steps:
 
 # Illustrations
 
-## Aproach
+## Approach
 <!-- <img width="499" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/50300669/c6a540c4-77b5-4042-bf93-8b85fc4856ad"> -->
 ![ProjectWeekOverview](https://github.com/NA-MIC/ProjectWeek/assets/19309110/5bbcf1ee-c791-4f54-afc5-99c8e382c993)
 
 
 ## Mapping Tool
-<img width="953" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/49638920/27fda4fd-e3d2-4eb9-af65-cb3726a8429c">
+<!--<img width="953" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/49638920/27fda4fd-e3d2-4eb9-af65-cb3726a8429c">
 
-<img width="923" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/49638920/7a5443a3-f396-4b95-b1ab-a5b00135c96d">
+<img width="923" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/49638920/7a5443a3-f396-4b95-b1ab-a5b00135c96d">-->
+
+![FinalMMDGif](https://github.com/NA-MIC/ProjectWeek/assets/49638920/5daf092e-f3bd-4972-9320-373deee70c67)
+
+
+## Overview
+![DiagramMMDFHIR](https://github.com/NA-MIC/ProjectWeek/assets/49638920/d8becc40-fd2a-4e15-a9d2-5035c3480ddb)
+
 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
