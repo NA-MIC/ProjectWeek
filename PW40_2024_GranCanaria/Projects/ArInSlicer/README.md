@@ -117,3 +117,5 @@ All source code for the [AR in Slicer](https://projectweek.na-mic.org/PW38_2023_
 - [OpenIGTLink protocol](https://github.com/openigtlink/OpenIGTLink/blob/master/Documents/Protocol/index.md)
 - [OpenIGTLink python](https://github.com/lassoan/pyigtl)
 - [UWPOpenIGTLink](https://github.com/IGSIO/UWPOpenIGTLink)
+- Since I had no prior knowledge of building applications, I humbly created a Word document with all the steps we followed for each build. I hope you find it useful! [CreateOpenIGTLinkWrapperForUnity.docx](https://github.com/NA-MIC/ProjectWeek/files/14142020/CreateOpenIGTLinkWrapperForUnity.docx)
+
