@@ -102,6 +102,7 @@ for x in range(groups[0].roi.value.shape[0]):
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![pw38-dicom-wsi-conversion-and-model](PW40_2024_GranCanaria/Projects/DicomStructuredReportsForWsiAndConversionToSegmentationObject/Visualization.png)
 
 *No response*
 
