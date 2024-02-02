@@ -74,16 +74,23 @@ Label map implementation for DCMTK and then start with dcmqi support with Slicer
    2. Mitigate checks where necessary
    3. Implemented missing attribute "Spatial Locations Preserved"
 4. DCMTK: Successfully tested roundtrip for MONOCHROME2 Labelmaps produced by highdicom
-5. dcmqi: [Joel please add...]
-   1. Adapted to updated DCMTK pixel data and segment access API
+5. dcmqi:
+   1. Modified to handle the concept of multiple segmentations per frame.
+   2. Added search in each frame to find what segments are on the frame for `LABELMAP`s.
+   3. Modified to become tolerant of non-monotonically increasing `SegmentNumber`s and accept a
+      segment with `SegmentNumber` of `0`.
+   5. Adapted to updated DCMTK pixel data and segment access API
 
 Next steps:
 1. DCMTK:
    1. Test support for 16 bit segmentation pixel data (added but not tested yet)
    2. Add support for PALETTE COLOR model (palette is not imported / exported yet)
    3. Add unit tests for all color model / bit depth combinations
-2. dcmqi: [Joel please add...]
-   1. ...
+2. dcmqi:
+   1. Actualy link it against the new DCMTK run it and test it...
+   2. Performance can propably be improved significanly by not making a bunch of function
+      calls within tight loops.
+   4. Set up tests with LabelMap segmentation objects. 
 
 # Illustrations
 
