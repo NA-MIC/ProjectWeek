@@ -57,7 +57,14 @@ In this project we will implement predictive models that make use of both baseli
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1.  We implemented a number of similarity measures for multivariate longitudinal sequences.
+2.  We implemented the extension of multiple kernel learning to use these kernels in longitudinal datasets.
+3.  We curated a dataset from a semi-public source (NIH) with cross-sectional and longitudinal information.
+4.  We tried using the curared dataset to validate the new prediction method. We are currently finding some issues with the samples, which we are fixing.
+
+### Next steps:
+5.  Fix the issues with the proposed dataset.
+6.  Find a new dataset to make longitudinal predictions in a clinically usefull scenario (e.g. few visits)
 
 # Illustrations
 
