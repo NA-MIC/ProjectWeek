@@ -56,7 +56,7 @@ DICOMweb™ defines a set of RESTful services for web-based medical imaging with
 ## Progress and Next Steps
 
 1.  Prepared small Jupyter notebook [here](https://colab.research.google.com/drive/1WxOVtLOGwt7xSOy7SghbOWxcDzG_XAD4?usp=sharing) on how to get started with wsidicom vs. dicomslide to access data via DICOMweb
-2.  Summarized capabilities of both libraries beyond DICOMweb in a [Google Doc](https://docs.google.com/document/d/1qWjzwneL4em7fQYdCfaP6RG6AtmAz23o5ZARfCo1Evs/edit?usp=sharing).
+2.  Summarized capabilities of both libraries beyond DICOMweb in a Google Doc [here](https://docs.google.com/document/d/1qWjzwneL4em7fQYdCfaP6RG6AtmAz23o5ZARfCo1Evs/edit?usp=sharing).
 Both will be updated/extended after the project week as relevant work goes on. 
 
 # Illustrations
