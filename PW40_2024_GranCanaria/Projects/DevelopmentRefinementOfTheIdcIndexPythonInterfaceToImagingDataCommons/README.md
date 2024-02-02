@@ -33,6 +33,14 @@ key_investigators:
   affiliation: Kitware Inc
   country: USA
 
+- name: Daniela Schacherer
+  affiliation: Fraunhofer MEVIS
+  country: Germany
+
+- name: Chris Bridge
+  affiliation: MGH
+  country: USA
+
 ---
 
 # Project Description
