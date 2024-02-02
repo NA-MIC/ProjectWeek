@@ -1,3 +1,5 @@
+
+https://github.com/NA-MIC/ProjectWeek/assets/77610678/2c2c9984-abe2-4dcb-9f45-ff2332ba2402
 ---
 layout: pw40-project
 
@@ -20,7 +22,10 @@ key_investigators:
 - name: Maria Francesca Spadea
   affiliation: Institute of Biomedical Engineering
   country: KIT - Karlsruher Institut für Technologie, Germany
-
+  
+- name: Petros Koutsouvelis
+  affiliation:  Maastricht University
+  country:Netherlands
 ---
 
 # Project Description
@@ -48,17 +53,26 @@ A key step in medical image processing, particularly in MRI images, is normaliza
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Describe specific steps you **have actually done**.
+1. In this week I created the Extension for Normalization MRI Images with three normalization methods.
+2. In the created extension you can choose which method to use.
+3. Considering the first two proposed methods (Z-score and WhiteStripe) only the MRI image needs to be loaded and is normalized.
+4. Considering the third method (Nyul) one must load in addition to the image to be Normalized, the MRI dataset and only then is the image normalized.
+5. Future developments will be to implement new normalization methods proposed in the literature.  
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-*No response*
+<video
+   autoplay muted loop
+   src="httpsu://github.com/NA-MIC/ProjectWeek/assets/77610678/5bb87958-e7b0-4252-9d91-29e74fd91be6"
+   style="width:1000px">
+</video>
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-1.<https://github.com/jcreinhold/intensity-normalization>
+
+1.https://github.com/Micheladestito/ImageNormalizationSlicer
+2.<https://github.com/jcreinhold/intensity-normalization>
