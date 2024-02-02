@@ -19,6 +19,14 @@ key_investigators:
 - name: Juan Ruiz Alzola
   affiliation: ULPGC
   country: Spain
+
+- name: Rafael Nebot Medina
+  affiliation: Instituto Tecnológico de Canarias, SA
+  country: Spain
+
+- name: Davide Punzo
+  affiliation: Freelancer
+  country: France
 ---
 
 # Project Description
@@ -38,18 +46,17 @@ In this project we are looking to gather requirements, expectations, limitations
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Small breakout session about Slicer in web
+2. Small breakout session about SlicerHub (Rafael Nebot)
+3. Demo of ImagineHive (Davide)
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Explored several existing use cases in the breakout sessions
+2. Learned a lot about possible approches and problems
 
 # Illustrations
 
