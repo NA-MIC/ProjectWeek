@@ -29,6 +29,10 @@ key_investigators:
   affiliation: Isomics Inc
   country: USA
 
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware Inc
+  country: USA
+
 ---
 
 # Project Description
@@ -38,7 +42,7 @@ key_investigators:
 [`idc-index`](https://github.com/ImagingDataCommons/idc-index) is a lightweight python package that wraps mini-index of the data available in Imaging Data Commons and the s5cmd download tool. With this package, one can search basic attributes of IDC data, build subset and download corresponding files without login, and without setting up any prerequisites specific to either Google or AWS as easy as below:
 
 ```bash
-$ pip install 'idc-index==0.2.8'
+$ pip install 'idc-index==0.2.11'
 ```
 
 ```python
@@ -81,6 +85,33 @@ Its basic functionality is demonstrated in this tutorial: <https://github.com/Im
 3. Discussion with @pieper re utility. Feedback: "Speaking for myself, this exercise made wish we had some api documentation for idc-index.  Also is there a way to report progress during the download?  Also some better error messages would help.   I tried pasting the collection name from the portal as the collection_id and I get a pyhon error about a manifest not existing.  I had to use the collection query to figure out what the mapping rule is.  It would be nice if the idc-index methods could include a mapping so that either version of the collection string is accepted.  Otherwise it worked well though and this is definitely a nice way to access the data!"
 4. @pieper was curious if it was possible to retrieve instanace level urls from SeriesInstanceUID. @vkt1414 created a demo notebook  https://colab.research.google.com/drive/1va1xHMe1pgqZqp7RpI1VxqBKBOiGD-TW?usp=sharing - added to the package as a new API endpoint
 5. need to have documentation (relevant discussion https://github.com/encode/httpx/discussions/1220)
+6. Added API for getting intance-level URLs and viewer URLs
+7. Started working on the documentation
+8. JC is contributing a PR to refactor and introduce improvements to packaging and github actions https://github.com/ImagingDataCommons/idc-index/pull/32
+9. Discussed how to improve API with Leo and Steve; need to document specific usage scenarios of what the users would like to achieve, and use those to drive revisions of the API
+10. Discussed the scope of support of slide microscopy metadata queries - need to investigate how to best represent those, since these are instance-level attributes, while currently idc-index is series-based.
+```
+ContainerID,
+PixelSpacing,
+Rows,
+Columns,
+TotalPixelMatrixRows,
+TotalPixelMatrixColumns,
+ImageType,
+TransferSyntaxUID,
+SpecimenDescriptionSequence>
+PrimaryAnnotationStructureSequence(PASS)>Code scheme, value..
+SpecimenUID,
+and several others under PASS,
+SpecimenPrepStepContentItemSequence>Coding terms,
+OpticalPathSequence,
+IlluminationTypeCodeSequence,
+IlluminationColorCodeSequence,
+Wavelength,
+PyramidUID,
+PyramidLabel
+```
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
