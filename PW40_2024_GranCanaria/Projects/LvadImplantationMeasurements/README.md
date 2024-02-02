@@ -55,7 +55,7 @@ Collaboratively addressing the issue.
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-In progress...
+A recent advancement has been achieved with the development of a new extension. This extension is designed to utilize segmented anatomical structures of the heart as input data, leveraging this information to calculate the optimal position for the Left Ventricular Assist Device (LVAD). This innovative approach marks a significant step forward in the field, enhancing precision and efficiency in determining the most suitable placement for LVADs based on segmented anatomical data of the heart.
 
 # Illustrations
 
