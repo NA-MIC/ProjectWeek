@@ -15,11 +15,11 @@ key_investigators:
 - name: Andrey Fedorov
   affiliation: BWH
   country: USA
-  
+
 - name: David Clunie
   affiliation: PixelMed (IDC)
   country: USA
-  
+
 ---
 
 # Project Description
@@ -67,9 +67,23 @@ Label map implementation for DCMTK and then start with dcmqi support with Slicer
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. DCMTK: Updated (templated) pixel data structures to also accept 16 bit
+1. DCMTK: Updated all dependent classes (also some outside the segmentation code) to accept that as well
+3. DCMTK: Prepare code for labelmap support
+   1. Changed bookkeeping and access mechanism for segments (allow sparse numberings, allow 0)
+   2. Mitigate checks where necessary
+   3. Implemented missing attribute "Spatial Locations Preserved"
+4. DCMTK: Successfully tested roundtrip for MONOCHROME2 Labelmaps produced by highdicom
+5. dcmqi: [Joel please add...]
+   1. Adapted to updated DCMTK pixel data and segment access API
+
+Next steps:
+1. DCMTK:
+   1. Test support for 16 bit segmentation pixel data (added but not tested yet)
+   2. Add support for PALETTE COLOR model (palette is not imported / exported yet)
+   3. Add unit tests for all color model / bit depth combinations
+2. dcmqi: [Joel please add...]
+   1. ...
 
 # Illustrations
 
@@ -82,5 +96,7 @@ Label map implementation for DCMTK and then start with dcmqi support with Slicer
 
 - DICOM Supplement 243 "Label Map Segmentation": [PDF Download](https://dicom.nema.org/medical/dicom/Supps/Drafts/sup243_02_LabelMapSeg.pdf)
 - DCMTK: [Homepage](https://www.dcmtk.org) and [GitHub](https://github.com/DCMTK/dcmtk/)
+  - DCMTK version with labelmap enhancements: [Michael's GitHub](https://github.com/michaelonken/dcmtk/tree/Labelmap)
 - dcmqi: [Guide](https://qiicr.gitbook.io/dcmqi-guide/) and [GitHub](https://github.com/QIICR/dcmqi/)
+  - dcmqi with labelmap enhancements: [WIP PR on GitHub](https://github.com/QIICR/dcmqi/pull/491)
 - Slicer: [Homepage](https://www.slicer.org/) and [GitHub](https://github.com/Slicer/Slicer)
