@@ -71,28 +71,51 @@ This project aims to develop an open-source and ideally community-maintained sol
 2.  Creating a local development setup
     * Setup a local ORTHANC PACS server
     * Setup a local HAPI FHIR server
-<!-- 3.  U
-2.  Define an standardize (or extended in teh community) format to optimally store multimodal data  ( e.g. the Brain Imaging Data Structure BIDS format extension)
-3.  Create a mongoDB database for optimal storage
-4.  Configure ORTHANC server for visualization and integration prposes
-5.  (optional) Add possibility to export to an structured format, integrating Magnetic Resonance Imaging (MRI) (maybe in DICOM but would support NIFTI conversion), Electronic Health Records (EHR)...
-6.  Enable data anotation capabilites ( e.g.  OHIF viewer with MONAI label) -->
+3. Apply a quantitative image analysis method (radiomics) to the dataset
+4. Mapping of clinical & imaging data into the FHIR standard
+    * Retrieving of DICOM data via DICOM web from the PACS and map it into FHIR ImagingStudy resources
+    * Creation of a tool to be able to map clinical data from a CSV file into fitting FHIR resources
+    * Mapping radiomics results into FHIR objects
+    * Connecting all of the three sources into a FHIR server
+5. Visualize the information joined together to get an overview over the cohort in the dataset now enriched with quantitative image analysis results
+6. Integrate FHIR server and workflows into Kaapana
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.
-2.  Data curation
-3.  Basic ORTHANC server proptotyping
+1.  Creation of a [Github repository](https://github.com/pschader/NAMIC-PW24-Multimodel-Medical-Database) for joint development
+2.  Choosing the ([TCIA NSCLC](https://wiki.cancerimagingarchive.net/display/Public/NSCLC-Radiomics)) dataset for prototyping
+3.  Setup and configuration of the local development environment via Docker compose
+4.  Investiagtion how to map tabular data into FHIR resources
+   * [Fair4Health Data curation tool](https://github.com/fair4health/data-curation-tool): Works good for producing large scale mappings of tabular data into FHIR resources, but strongly dependant on terminology server. For our simple use case of providing researches with a fast tool to map multimodal data into FHIR resources it appears to be too complex.
+   * Creation of a simple webapp for loading CSV files and mapping the data into Patient & Observation FHIR resources.
+5.   Mapping of the DICOM resources into FHIR objects
+       * Creating a python script to fetch DICOM object from DICOM web API of the local ORTHANC server 
+       * Map the DICOM metadata of the studies to FHIR ImagingStudy resources using [FHIR resources python library](https://pypi.org/project/fhir.resources/)
+6. Create radiomics results from the segmentations of the dataset using Kaapana and the radiomics workflow and map those individual values into FHIR Observation resources
+
+Next steps: 
+1. Upload the FHIR data onto a FHIR server
+2. Visualization of the dataset
+3. Integration into Kaapana
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
+## Aproach
 <!-- <img width="499" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/50300669/c6a540c4-77b5-4042-bf93-8b85fc4856ad"> -->
 ![ProjectWeekOverview](https://github.com/NA-MIC/ProjectWeek/assets/19309110/5bbcf1ee-c791-4f54-afc5-99c8e382c993)
+
+
+## Mapping Tool
+<img width="953" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/49638920/27fda4fd-e3d2-4eb9-af65-cb3726a8429c">
+
+<img width="923" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/49638920/7a5443a3-f396-4b95-b1ab-a5b00135c96d">
+
+
+<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+
 
 # Background and References
 
@@ -105,4 +128,7 @@ This project aims to develop an open-source and ideally community-maintained sol
 *   [FHIR Server integration in Kaapana from PW38](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/KaapanaClinicalData/)
 *   [Kaapana](https://www.kaapana.ai/)
 *   [FHIR](https://www.hl7.org/fhir/)
-*   Datasets: [TCIA NSCLC](https://wiki.cancerimagingarchive.net/display/Public/NSCLC-Radiomics) 
+*   [FHIR resources python library](https://pypi.org/project/fhir.resources/)
+*   [Fair4Health Data curation tool](https://github.com/fair4health/data-curation-tool)
+*   Datasets: [TCIA NSCLC](https://wiki.cancerimagingarchive.net/display/Public/NSCLC-Radiomics)
+*   Project repository: [Github repository](https://github.com/pschader/NAMIC-PW24-Multimodel-Medical-Database)
