@@ -45,7 +45,8 @@ Transforms can also be scaled uniformly by holding ALT and clicking+dragging on 
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1.  Created installer for a version of 3D Slicer containing the new widget. (See link in "Background and References" section).
-2.  Created [PR](https://github.com/Slicer/Slicer/pull/7562) to integrate changes into 3D Slicer. 
+2.  Created [PR](https://github.com/Slicer/Slicer/pull/7562) to integrate changes into 3D Slicer.
+3.  Integrated into latest preview release!
 
 # Illustrations
 
@@ -75,6 +76,7 @@ Transforms can also be scaled uniformly by holding ALT and clicking+dragging on 
 
 - Installers:
   - V1: ~https://1drv.ms/u/s!Al0lwIPqdM2dgql4-5NkWigrmjeU8A?e=lIHd2H~
-  - V2: https://1drv.ms/u/s!Al0lwIPqdM2dgql7p_gc9DsbDt4New?e=crjT6A
+  - V2: ~https://1drv.ms/u/s!Al0lwIPqdM2dgql7p_gc9DsbDt4New?e=crjT6A~
+  - V3: Latest nightly build!
 - Pull request: https://github.com/Slicer/Slicer/pull/7562
 - Current branch: <https://github.com/Sunderlandkyl/Slicer/tree/interaction_display_manager>
