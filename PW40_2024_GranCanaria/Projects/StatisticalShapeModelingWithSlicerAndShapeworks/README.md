@@ -61,11 +61,15 @@ Present an introductory presentation and series of tutorials for SSM, ShapeWorks
 
 ![ShapeWorks Pipeline Image](http://sciinstitute.github.io/ShapeWorks/latest/img/home/about-shapeworks.png)
 
+# Session Recordings
+
 *Introduction to SSM and ShapeWorks*
 <p><video src="https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_introduction.mp4" autoplay muted loop controls style="width:100%"></p>
   
 *ShapeWorks Bsic Usage, Slicer Plugin*
 <p><video src="https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_tutorial.mp4" autoplay muted loop controls style="width:100%"></p>
+
+
 
 # Background and References
 
