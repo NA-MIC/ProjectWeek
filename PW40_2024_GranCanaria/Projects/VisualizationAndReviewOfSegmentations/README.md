@@ -72,10 +72,27 @@ Specific points:
 2. For the vertebrae, are there heuristics we can do?
 3. Are there heuristics that we develop for NLST that will work for SynthSeg evaluation?
 
+************************************
+*** Work accomplished this weeek *** 
+************************************
+
+We had multiple sessions and discussions with Ron, where we: 
+- learned about anatomy
+- tried to figure out what we could focus on for the NLST analysis and interpretation, and
+- brainstormed how to develop better pipelines to view our data and segmentations
+
+What we decided: 
+1. Focus on the liver and see if we can make correlations between liver health and lung cancer. For instance, fatty liver and cirrhosis and correlation with featuers we extract such as volume.
+2. Brainstorm and develop better ways to quickly visualize our segmentations -- using mrb file creation, CaseIterator, etc. 
+
 # Illustrations
 
-Example of TotalSegmentator analysis on an NLST patient in OHIF. 
+Example of TotalSegmentator analysis on an NLST patient in OHIF: 
 ![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/604c7923-6f42-4865-8fe5-b18cd59231f6)
+
+Example of liver analysis of NLST patient in Slicer:
+![2024-02-01-Scene](https://github.com/NA-MIC/ProjectWeek/assets/59979551/89b6ce27-f3bc-4016-ace3-57bce4d2959a)
+
 
 # Background and References
 
