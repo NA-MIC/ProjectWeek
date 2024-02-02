@@ -44,8 +44,9 @@ Yet, it would be great, because the students like it, and could more easily be e
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-*No response*
+![20240201_121733](https://github.com/NA-MIC/ProjectWeek/assets/242559/04fbad90-d016-42ba-82bf-0a863593064b)
+![20240131_163850](https://github.com/NA-MIC/ProjectWeek/assets/242559/4c885624-0673-4d4d-98d5-fd84576a8820)
+![20240201_142718](https://github.com/NA-MIC/ProjectWeek/assets/242559/87e27f0b-cd27-4d98-a678-a262a8f76191)
 
 # Background and References
 
