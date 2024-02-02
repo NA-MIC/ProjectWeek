@@ -64,7 +64,7 @@ A key step in medical image processing, particularly in MRI images, is normaliza
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 <video
    autoplay muted loop
-   src="httpsu://github.com/NA-MIC/ProjectWeek/assets/77610678/5bb87958-e7b0-4252-9d91-29e74fd91be6"
+   src="https://github.com/NA-MIC/ProjectWeek/assets/77610678/5bb87958-e7b0-4252-9d91-29e74fd91be6"
    style="width:1000px">
 </video>
 
