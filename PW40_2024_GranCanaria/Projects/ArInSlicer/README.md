@@ -81,7 +81,7 @@ These are the results:
 We have three options: Stream information to HoloLens 2 (HL2) from a computer, build an application directly in HL2, or use 3D Slicer.
 ### Computer
 #### UWPOpenIGTLink
-JC provided us with a [Windows Runtime component](https://github.com/IGSIO/UWPOpenIGTLink) for OpenIGTLink. Upon building it (for x64 architecture, as we want to read it from a computer) it creates a winmd that should provide direct access to the libraries. We tried both methods here: Building the app for the computer and directly running it from Unity editor. None of the options worked, as they are not Universal Windows Platforms.
+JC provided us with a [Windows Runtime component](https://github.com/IGSIO/UWPOpenIGTLink) for OpenIGTLink. Upon building it (for x64 architecture, as we want to read it from a computer), it creates a Winmd that should provide direct access to the libraries. We tried both methods here: building the app for the computer and directly running it from the Unity editor. None of the options worked, as they are not Universal Windows Platforms.
 
 #### OpenIGTLink
 We decided to build the original [OpenIGTLink protocol in C++](https://github.com/openigtlink/OpenIGTLink/blob/master/Documents/Protocol/index.md) for an x64 architecture and then create a wrapper in C# to read these libraries in Unity. This has the potential to work, although it requires quite a lot of hard work and could not be finished this week. We will keep on exploring this possibility during the next months.
@@ -89,6 +89,8 @@ We decided to build the original [OpenIGTLink protocol in C++](https://github.co
 #### Python scripting
 It is possible to implement [python scripts in Unity](https://docs.unity3d.com/Packages/com.unity.scripting.python@6.0/manual/index.html). Theoretically, since there is a [python version for the OpenIGTLink protocol](https://github.com/lassoan/pyigtl), it should be possible to feed Unity with the OpenIGTLink Python library to seamlessly exchange all types of messages. Nevertheless, due to time constraints, we could not test this approach during this week. Maybe on next one...
 
+### HoloLens 2
+The next alternative was to actually build the application on ARM64 architecture for HoloLens 2 using the [UWPOpenIGTLink](https://github.com/IGSIO/UWPOpenIGTLink). In this case, the Winmd can be read because HL2 is a Universal Windows Platform, so no wrapper is needed. Therefore, this option should be suitable too, and we might also work on it during the next months.
 
 OpenXR in 3D Slicer:
 [![OpenXR integration in 3D Slicer with demonstration in birth delivery training](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
