@@ -45,10 +45,10 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
 | Events | Registrants |
 |----|----|
-| [2024 January 29-February 2: Project Week 40](PW40_2024_GranCanaria/README.md) - Gran Canaria, Spain <br> | |
-| [2023 June 12-16: Project Week 39](PW39_2023_Montreal/README.md) - Online and Montreal, Canada <br> It recorded 154 registered attendees (from 23 countries, 46 first-timers | 154 |
-| [2023 January 30-February 3rd: Project Week 38](PW38_2023_GranCanaria/README.md) - Online and Gran Canaria, Spain <br>It recorded 251 registered attendees (from 30 countries, 52% first-timers.) | 251 |
-| [2022 June 27-July 1: Project Week 37](PW37_2022_Virtual/README.md) - Online <br> It recorded 117 registered attendees (from 20 countries, 41% first-timers.) | 117 || |
+| [2024 January 29-February 2: Project Week 40](PW40_2024_GranCanaria/README.md) - Gran Canaria, Spain <br> It recorded 204 registered attendees (from 29 countries, 51% first-timers). |204 |
+| [2023 June 12-16: Project Week 39](PW39_2023_Montreal/README.md) - Online and Montreal, Canada <br> It recorded 154 registered attendees (from 23 countries, 46% first-timers). | 154 |
+| [2023 January 30-February 3rd: Project Week 38](PW38_2023_GranCanaria/README.md) - Online and Gran Canaria, Spain <br>It recorded 251 registered attendees (from 30 countries, 52% first-timers). | 251 |
+| [2022 June 27-July 1: Project Week 37](PW37_2022_Virtual/README.md) - Online <br> It recorded 117 registered attendees (from 20 countries, 41% first-timers.) | 117 |
 | [2022 Jan 17-21: Project Week 36](PW36_2022_Virtual/README.md) - Online and Gran Canaria, Spain. <br> It recorded 131 registered attendees (from 26 countries, 44% first-timers.) | 131 |
 | [2021 June 28-July 2: Project Week 35](PW35_2021_Virtual/README.md) - Internet. <br> It recorded 140 registered attendees (from 23 countries, 44% first-timers.)|140|
 | [2020 December 14-18: Project Week 34](PW34_2020_Virtual/README.md) - Internet. <br> It recorded 204 registered attendees (from 26 countries and 101 institutions.)|204|
