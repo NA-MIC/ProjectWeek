@@ -52,12 +52,12 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 | [2022 Jan 17-21: Project Week 36](PW36_2022_Virtual/README.md) - Online and Gran Canaria, Spain. <br> It recorded 131 registered attendees (from 26 countries, 44% first-timers.) | 131 |
 | [2021 June 28-July 2: Project Week 35](PW35_2021_Virtual/README.md) - Internet. <br> It recorded 140 registered attendees (from 23 countries, 44% first-timers.)|140|
 | [2020 December 14-18: Project Week 34](PW34_2020_Virtual/README.md) - Internet. <br> It recorded 204 registered attendees (from 26 countries and 101 institutions.)|204|
-| [2020 January 20-24: Project Week 33](PW33_2020_GranCanaria/README.md) - Gran Canaria, Spain. <br>It recorded 66 Registrants (from 16 countries) who worked on 43 projects. | 66 |
+| [2020 January 20-24: Project Week 33](PW33_2020_GranCanaria/README.md) - Gran Canaria, Spain. <br>It recorded 66 registered attendees (from 16 countries) who worked on 43 projects. | 66 |
 | [2019 July 15-29: Project Week 32](PW32_2019_London_Canada/README.md) - Robarts Research, London, Canada. | 38 |
-| [2019 June 24-28 :Project Week 31](PW31_2019_Boston/README.md) - MIT, Cambridge, MA, USA. <br>It recorded 78 attendees, who worked on 47 projects and attended 5 breakout sessions. | 78 |
-| [2019 January 28-February 1: Project Week 30](PW30_2019_GranCanaria/README.md) - Gran Canaria, Spain. <br>It recorded 60 Registrants (from 13 countries) who worked on 33 projects. | 60 |
-| [2018 July 16-20: Project Week 29](PW29_2018_London_Canada/README.md) - Robarts Research Institute, London, Ontario, Canada. <br>It recorded 37 Registrants. This was a satellite event with a slight focus on new users and community expansion. | 37 |
-| [2018 June 25-29: Project Week 28](PW28_2018_GranCanaria/README.md) - Gran Canaria, Spain. <br>It recorded 58 Registrants, who worked on 31 projects.| 58 |
+| [2019 June 24-28 :Project Week 31](PW31_2019_Boston/README.md) - MIT, Cambridge, MA, USA. <br>It recorded 78 registered attendees, who worked on 47 projects and attended 5 breakout sessions. | 78 |
+| [2019 January 28-February 1: Project Week 30](PW30_2019_GranCanaria/README.md) - Gran Canaria, Spain. <br>It recorded 60 registered attendees (from 13 countries) who worked on 33 projects. | 60 |
+| [2018 July 16-20: Project Week 29](PW29_2018_London_Canada/README.md) - Robarts Research Institute, London, Ontario, Canada. <br>It recorded 37 registered attendees. This was a satellite event with a slight focus on new users and community expansion. | 37 |
+| [2018 June 25-29: Project Week 28](PW28_2018_GranCanaria/README.md) - Gran Canaria, Spain. <br>It recorded 58 registered attendees, who worked on 31 projects.| 58 |
 | [2018 January 8-12: Project Week 27](PW27_2018_Boston/README.md) - MIT, Cambridge, MA, USA. <br>It recorded 72 registered attendees, who worked on 52 projects and attended 5 breakout sessions. | 72 |
 | [2017 July 17-21: Project Week 26](PW26_2017_London_Canada/README.md) - Robarts Research Institute, London, ON, Canada. | 58 |
 | [2017 June 26-30: Project Week 25](https://www.na-mic.org/wiki/2017_Summer_Project_Week) - Catanzaro Lido, Calabria, Italy. <br>It recorded 51 registered attendees, who worked on 29 projects. | 51 |
