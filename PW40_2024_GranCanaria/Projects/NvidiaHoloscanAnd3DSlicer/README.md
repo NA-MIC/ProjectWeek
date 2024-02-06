@@ -21,6 +21,9 @@ key_investigators:
 - name: Jean-Christophe Fillion-Robin
   affiliation: Kitware
   country: USA
+- name: Shreeraj Jadhav
+  affiliation: Kitware
+  country: USA
 ---
 
 # Project Description
