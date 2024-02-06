@@ -20,6 +20,10 @@ key_investigators:
   affiliation: PixelMed (IDC)
   country: USA
 
+- name: Joël Spaltenstein
+  affiliation:  Agora Care SA
+  country: Switzerland
+
 ---
 
 # Project Description
