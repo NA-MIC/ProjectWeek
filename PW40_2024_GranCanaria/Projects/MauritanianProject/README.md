@@ -37,7 +37,7 @@ key_investigators:
   affiliation: Faculté des Sciences et Techniques
   country: Université de Nouakchott, Mauritania
 
-- name: Mohamedou
+- name: Mohamedou Ahmed Mahmoud
   affiliation: Faculté des Sciences et Techniques
   country: Université de Nouakchott, Mauritania
 
