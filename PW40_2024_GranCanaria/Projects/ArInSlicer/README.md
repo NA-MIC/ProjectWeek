@@ -119,3 +119,10 @@ All source code for the [AR in Slicer](https://projectweek.na-mic.org/PW38_2023_
 - [UWPOpenIGTLink](https://github.com/IGSIO/UWPOpenIGTLink)
 - Since I had no prior knowledge of building applications, I humbly created a Word document with all the steps we followed for each build. I hope you find it useful! [CreateOpenIGTLinkWrapperForUnity.docx](https://github.com/NA-MIC/ProjectWeek/files/14142020/CreateOpenIGTLinkWrapperForUnity.docx)
 
+
+# Acknowledgements
+Special thanks to JC for his assistance during the whole event.
+
+Research supported by projects PI122/00601 and AC20/00102  (Ministerio de Ciencia, Innovación y Universidades, Instituto de Salud Carlos III, Asociación Española Contra el Cáncer and European Regional Development Fund “Una manera de hacer Europa”), project PerPlanRT (under the frame of ERA PerMed), TED2021-129392B-I00 and TED2021-132200B-I00 (MCIN/AEI/10.13039/501100011033 and European Union “NextGenerationEU”/PRTR).
+![Acknowledgment](https://github.com/NA-MIC/ProjectWeek/assets/66890913/87b257bd-3d06-48fc-b0bb-ec0861af61fb)
+
