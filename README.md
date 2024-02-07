@@ -1,6 +1,6 @@
 ## Welcome to the main page for the Project Week events!
 
-### The [40th project week](PW40_2024_GranCanaria/README.md) will held Jan 29-Feb 2nd, 2024 in Las Palmas de Gran Canaria, Spain.
+### The [40th project week](PW40_2024_GranCanaria/README.md) was held Jan 29-Feb 2nd, 2024 in Las Palmas de Gran Canaria, Spain.
 
 ## Frequently Asked Questions
 
