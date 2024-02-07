@@ -72,5 +72,5 @@ A key step in medical image processing, particularly in MRI images, is normaliza
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-1.https://github.com/Micheladestito/ImageNormalizationSlicer
-2.<https://github.com/jcreinhold/intensity-normalization>
+1. https://github.com/Micheladestito/ImageNormalizationSlicer
+2. https://github.com/jcreinhold/intensity-normalization
