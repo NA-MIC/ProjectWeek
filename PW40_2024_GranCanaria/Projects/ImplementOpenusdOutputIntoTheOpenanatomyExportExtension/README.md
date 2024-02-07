@@ -105,9 +105,8 @@ NVIDIA Omniverse
 - [Universal Scene Description documentation](https://openusd.org/release/index.html)
 - [Omniverse Platform](https://www.nvidia.com/en-us/omniverse/)
 - [Pull request](https://github.com/PerkLab/SlicerOpenAnatomy/pull/19)
-- [Paraview already has basic (export only) Omniverse live sync](Paraview has already implemented it https://docs.omniverse.nvidia.com/connect/latest/paraview.html)
 - Live sync:
   - Requires [nucleus server](https://docs.omniverse.nvidia.com/nucleus/latest/workstation/installation.html)
-  - Would require development of a [connector for Slicer](https://docs.omniverse.nvidia.com/connect/latest/developing-connectors.html) (see [examples](https://docs.omniverse.nvidia.com/connect/latest/overview.html) for other applications)
+  - Would require development of a [connector for Slicer](https://docs.omniverse.nvidia.com/connect/latest/developing-connectors.html) See [list of applications](https://docs.omniverse.nvidia.com/connect/latest/overview.html) that support live sync. [Paraview already supports basic (export only) Omniverse live sync](https://docs.omniverse.nvidia.com/connect/latest/paraview.html).
   - [Tutorials](https://docs.omniverse.nvidia.com/dev-guide/latest/tutorials.html)
   - [Live sessions](https://docs.omniverse.nvidia.com/extensions/latest/ext_core/ext_live/sessions.html)
