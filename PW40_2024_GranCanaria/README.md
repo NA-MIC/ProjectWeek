@@ -20,13 +20,11 @@ project_categories:
 
 # Welcome to the web page for the 40th Project Week!
 
-[This event](https://projectweek.na-mic.org/PW40_2024_GranCanaria/README.html) will take place January 29 - February 2, 2024 in Las Palmas, Gran Canaria, Spain. Project Week 40 will be a hybrid event with a strong in-person component. More details will be posted on this page as the event approaches. If you have any questions, you can contact the [organizers](#organizers).
+[This event](https://projectweek.na-mic.org/PW40_2024_GranCanaria/README.html) took place January 29 - February 2, 2024 in Las Palmas, Gran Canaria, Spain. Project Week 40 was a hybrid event with a strong in-person component. If you have any questions, you can contact the [organizers](#organizers).
 
 ## Preparation meetings
 
-We hold weekly preparation meetings at 10am on Tuesdays on Zoom, starting November 21, 2023. The link will be posted here the week before.
-
-December 12 meeting: [Zoom link](https://NTNU.zoom.us/j/92717925334?pwd=bGh0ajhzMzh0S1lJaDdTQ0dHaGV5dz09)
+We held weekly preparation meetings at 10am on Tuesdays on Zoom, starting November 21, 2023. The links were posted here the week before.
 
 ## Venue
 
