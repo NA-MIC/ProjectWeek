@@ -107,7 +107,7 @@ This worked and seamlessly displays the 3D view in 3D Slicer directly into HoloL
 Please, check the results of our implementation in the following video:
 
 OpenXR in 3D Slicer:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wq6ZNc8dqLo?si=RsCKjfBSC20FuM9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rlEyJWCXmk8?si=3lV3HldXwxR98ssA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 # Background and References
