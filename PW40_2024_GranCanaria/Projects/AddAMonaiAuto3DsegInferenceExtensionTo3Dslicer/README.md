@@ -79,7 +79,7 @@ The extension
 - some models were split into smaller pieces to be able to run them on 8 GB VRAM or CPU
 - The overall quality of the models was largely improved
 
-![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/272cb28a-3736-498c-bc78-6db67610ed45)
+![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/8bfe7c55-045b-45f9-824f-513f4b9ea0fa)
 
 (using NVIDIA RTX Geforce 3070 Ti)
 
