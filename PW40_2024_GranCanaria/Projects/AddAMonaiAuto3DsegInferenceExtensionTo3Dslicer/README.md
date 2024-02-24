@@ -68,6 +68,22 @@ In addition, we will train a lung lobe and airway model which should be availabl
 
    ![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/ea045d96-ab84-4469-86e0-acbd7bec01ad)
 
+2/24/2024
+
+Andres and Andras achieved relevant progress working on the extension during the last weeks: 
+
+The extension 
+- is now much faster
+- has a wider range of available models
+- includes low res models which use less VRAM
+- some models were split into smaller pieces to be able to run them on 8 GB VRAM or CPU
+- The overall quality of the models was largely improved
+
+![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/272cb28a-3736-498c-bc78-6db67610ed45)
+
+(using NVIDIA RTX Geforce 3070 Ti)
+
+We´ll continue to add relevant models. 
 
 # Illustrations
 
