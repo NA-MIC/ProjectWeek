@@ -66,7 +66,7 @@ for undoBinding in undoKeyBindings:
   undoShortcut = qt.QShortcut(slicer.util.mainWindow())
   undoShortcut.setKey(undoBinding)
   undoShortcut.connect("activated()", onUndo)
-  undoShortcuts.append(undoShortcut)f
+  undoShortcuts.append(undoShortcut)
 
 toolBar = qt.QToolBar("Undo/Redo")
 toolBar.addAction(qt.QIcon(":/Icons/Medium/SlicerUndo.png"), "Undo", onUndo)
