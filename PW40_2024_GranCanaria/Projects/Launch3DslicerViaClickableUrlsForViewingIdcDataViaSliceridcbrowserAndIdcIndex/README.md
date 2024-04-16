@@ -64,7 +64,7 @@ Notes for discussion:
 2.  Handle registration of custom browser protocol automatically based on the underlying OS
 
 ## Progress and Next Steps
-1. SlicerIDCBrowser can now register the slicer://idc-browser/ protocol on all three platforms MacOS, Linux, and Windows
+1. [SlicerIDCBrowser](https://github.com/ImagingDataCommons/SlicerIDCBrowser) can now register the slicer://idc-browser/ protocol on all three platforms MacOS, Linux, and Windows
 2. The downloading experience currently is dictated by the network speed
 3. Need to explore/handle the behavior when multiple versions of slicer are present on the user's system
    
