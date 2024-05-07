@@ -1,13 +1,9 @@
 name: Proposal
 description: Issue template for creating an issue supporting discussion around a project concept or idea (Does NOT trigger page creation.  You will still need to create a project page later).
 title: "Proposal: "
-labels: ["proposal", "event:PW40_2024_GranCanaria"]
+labels: ["proposal", "event:PW41_2024_MIT"]
 assignees:
-  - drouin-simon
-  - piiq
-  - rafaelpalomar
   - sjh26
-  - tkapur
 
 body:
 - type: textarea
