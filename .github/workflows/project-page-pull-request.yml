@@ -54,7 +54,7 @@ jobs:
       id: event_info
       run: |
         # TODO: Extract event name from "event:NAME" label
-        event_name="PW40_2024_GranCanaria"
+        event_name="PW41_2024_MIT"
         echo "name=$event_name" >> $GITHUB_OUTPUT
 
     - uses: actions/checkout@v3
