@@ -13,8 +13,7 @@ The Project Week is a week-long hackathon of hands on activity in which medical 
 
 #### When, where, how much?
 
-PP i.e., pre-pandemic, the Project Week events were held in-person twice a year, January in Europe, and June at MIT, with ad-hoc meetings added occasionally. The registration fee for in-person events is approximately 350 (USD or Euro), and is used to cover coffee and food.
-DP i.e. during-pandemic, the Project Week events are being held online twice year a year.  There is no registration fee.
+The Project Week events are held twice a year, January in Europe, and June in North America, with ad-hoc meetings added occasionally. The registration fee for in-person events is approximately 500 (USD or Euro), and is used to cover breakfast, lunch, and coffee. 
 
 #### How does it work?
 
