@@ -17,7 +17,7 @@ The Project Week events are held twice a year, January in Europe, and June in No
 
 #### How does it work?
 
-Weekly videoconferences for preparation begin 8-12 weeks before an event. Potential participants propose projects during these meetings, and collaboratively create a list of projects that are of mutual interest. The projects include platform work, algorithm development, and biomedical applications. Through the course of the meetings, each participant selects one or more project teams and develops goals for the week. The first day of the Project Week itself begins with a 2-hour in-person introduction to all projects and participants. The rest of the week consists of a mix of working sessions and breakout sessions on special topics, as decided by the participants during the preparatory meetings.
+Weekly videoconferences for preparation begin 8 weeks before an event. Potential participants propose projects during these meetings, and collaboratively create a list of projects that are of mutual interest. The projects include platform work, algorithm development, and biomedical applications. Through the course of the meetings, each participant selects one or more project teams and develops goals for the week. The first day of the Project Week itself begins with a 2-hour  introduction to all projects and participants. The rest of the week consists of a mix of working sessions and breakout sessions on special topics, as decided by the participants during the preparatory meetings. The event concludes on the last (5th day) with a 2-hour progress report for all projects.
 
 #### Who can attend?
 
@@ -25,7 +25,7 @@ Project Weeks are open to all and publicly advertised. Email announcements are s
 
 #### Who should attend?
 
-This is harder to determine. Your best bet is to contact the organizers (see below) or attend a preparatory videoconference (see each Project Week page for details).
+Please attend a preparatory videoconference to determine if your project has resonance with the other participants who are planning to attend that particular event (see each Project Week page for details).
 
 #### What else?
 
