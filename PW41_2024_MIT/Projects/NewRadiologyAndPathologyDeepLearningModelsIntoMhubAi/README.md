@@ -76,8 +76,9 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-MONAI AutoSeg3D: https://github.com/Project-MONAI/tutorials/tree/main/auto3dseg
-Slicer Extension: https://github.com/lassoan/SlicerMONAIAuto3DSeg
+MONAI AutoSeg3D: [https://github.com/Project-MONAI/tutorials/tree/main/auto3dseg](https://github.com/Project-MONAI/tutorials/tree/main/auto3dseg)
 
-pathology model: https://github.com/knowledgevis/rms-infer-code-standalone
+Slicer Extension: [https://github.com/lassoan/SlicerMONAIAuto3DSeg](https://github.com/lassoan/SlicerMONAIAuto3DSeg)
+
+pathology model: [https://github.com/knowledgevis/rms-infer-code-standalone](https://github.com/knowledgevis/rms-infer-code-standalone)
 
