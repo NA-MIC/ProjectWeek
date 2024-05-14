@@ -77,7 +77,7 @@ The first clinical application of Volume-AXI is related to dentistry, aiming to 
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1.Trained preliminary models with SENets to classify the position of the impacted tooth
+1. Trained preliminary models with SENets to classify the position of the impacted tooth
 2. Implementation of GRAD-CAM with MONAI
 3. creation of Volume to visualize in 3D Slicer, slice by slice
 
