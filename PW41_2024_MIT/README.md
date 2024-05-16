@@ -48,6 +48,15 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
+Updated on 2024-05-16.
+
+1. Drouin, Simon, École de technologie supérieure, In Person
+1. Kapur, Tina, Brigham and Women's Hospital, Harvard Medical School, In Person
+1. Mohamedosman, Moaid, nan, In Person
+1. Moradkhani, Kaveh, École de technologie supérieure ÉTS, In Person
+1. Nürnberg, Leonard, MGB / Harvard, In Person
+1. VanOss, Jeff, BAMF Health, In Person
+
 <!-- Participants list end -->
 
 ## Statistics
