@@ -4,8 +4,8 @@
 - When you are ready, add a new entry in the list of **Projects** by creating a new `README.md` file in subfolder in `Projects` folder, and copying contents of [project description template][project-description-template] file into it. Step-by-step instructions for this are:
 
 1. Open [project description template][project-description-template] and copy its full content to the clipboard
-    * If the link does not work (https issues) please try [here](https://github.com/NA-MIC/ProjectWeek/blob/master/PW40_2024_GranCanaria/Projects/Template/README.md)
-3. Go back to [Projects](https://github.com/NA-MIC/ProjectWeek/tree/master/PW40_2024_GranCanaria/Projects) folder on GitHub
+    * If the link does not work (https issues) please try [here](https://github.com/NA-MIC/ProjectWeek/blob/master/PW41_2024_MIT/Projects/Template/README.md)
+3. Go back to [Projects](https://github.com/NA-MIC/ProjectWeek/tree/master/PW41_2024_MIT/Projects) folder on GitHub
 4. Click on "Create new file" button
 5. Type `YourProjectName/README.md`  
     - When naming the file, **please ensure there are no spaces/special characters in the folder or file name**
@@ -15,4 +15,4 @@
 
 
 [forum]: https://discourse.slicer.org/c/community/project-week
-[project-description-template]: https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW40_2024_GranCanaria/Projects/Template/README.md
+[project-description-template]: https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW41_2024_MIT/Projects/Template/README.md
