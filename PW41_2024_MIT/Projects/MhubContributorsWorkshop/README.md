@@ -3,7 +3,7 @@ layout: pw41-project
 
 permalink: /:path/
 
-project_title: MHub Contributors Workshop
+project_title: MHub Contributors
 category: Other
 presenter_location: In-person
 
