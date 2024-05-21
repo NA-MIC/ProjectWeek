@@ -58,8 +58,8 @@ Improving Miniconda Integration for Slicer Extensions: Our second objective is t
 Updating Modules Previously Unavailable on Windows Due to PyTorch3D: The third goal is to leverage the advancements made in the second objective to update several modules that were previously inaccessible on Windows due to PyTorch3D's limitations. Specifically, we aim to enhance:
 - SlicerDentalModelSeg: A module dedicated to the segmentation of teeth.
 - SlicerAutomatedDentalTools: Including two key components:
-        -  ALI_IOS: Automated Landmarks Identification for Intra Oral Scan.
-        -  AREG_IOS: Automated Registration of Intra Oral Scan.
+    -  ALI_IOS: Automated Landmarks Identification for Intra Oral Scan.
+    -  AREG_IOS: Automated Registration of Intra Oral Scan.
 
 
 
@@ -75,10 +75,10 @@ Updating Modules Previously Unavailable on Windows Due to PyTorch3D: The third g
 - Develop an Automated Installer for WSL2 Setup on Windows.
 - Create a Module to Streamline Miniconda for Slicer Extensions
 - Update Modules Previously Unavailable on Windows Due to PyTorch3D:
-        - SlicerDentalModelSeg: Adapt and validate the module for Windows
-        - SlicerAutomatedDentalTools:
-                   - ALI_IOS: Ensure compatibility and validate automated landmark identification.
-                   - AREG_IOS: Adapt and validate automated registration of intraoral scans.
+    - SlicerDentalModelSeg: Adapt and validate the module for Windows
+    - SlicerAutomatedDentalTools:
+    - ALI_IOS: Ensure compatibility and validate automated landmark identification.
+    - AREG_IOS: Adapt and validate automated registration of intraoral scans.
 - Conduct comprehensive testing and validation of all updated modules on Windows.
 
 
