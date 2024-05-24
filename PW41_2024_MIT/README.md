@@ -48,17 +48,23 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-05-21.
+Updated on 2024-05-24.
 
-1. Simon Drouin, École de technologie supérieure, In Person
-1. Tina Kapur, Brigham and Women's Hospital, Harvard Medical School, In Person
-1. Curtis Lisle, KnowledgeVis, LLC, In Person
-1. Moaid Mohamedosman, Unaffiliated, In Person
-1. Kaveh Moradkhani, École de technologie supérieure ÉTS, In Person
-1. Leonard Nürnberg, MGB / Harvard, In Person
-1. Steve Pieper, Isomics, Inc., In Person
-1. Csaba Pinter, EBATINCA, In Person
-1. Jeff VanOss, BAMF Health, In Person
+1. Ekaterina Akhmad, Maastricht University, Netherlands, In Person
+1. Felix Dorfner, Massachusetts General Hospital and Charité - Universitätsmedizin Berlin, USA, In Person
+1. Simon Drouin, École de technologie supérieure, Canada, In Person
+1. Bing-Xing Huo, Broad Institute, USA, In Person
+1. Tina Kapur, Brigham and Women's Hospital, Harvard Medical School, USA, In Person
+1. Rui Li, New York University, USA, In Person
+1. Curtis Lisle, KnowledgeVis, LLC, USA, In Person
+1. Moaid Mohamedosman, Unaffiliated, Egypt, In Person
+1. Kaveh Moradkhani, École de technologie supérieure ÉTS, Canada, In Person
+1. Leonard Nürnberg, MGB / Harvard, Netherlands, In Person
+1. Sam Pathak, NCI, USA, In Person
+1. Steve Pieper, Isomics, Inc., USA, In Person
+1. Csaba Pinter, EBATINCA, Spain, In Person
+1. Jeff VanOss, BAMF Health, USA, In Person
+1. Benoit Verreman, ÉTS, Canada, In Person
 
 <!-- Participants list end -->
 
