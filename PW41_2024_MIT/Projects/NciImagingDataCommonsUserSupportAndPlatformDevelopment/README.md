@@ -37,6 +37,10 @@ key_investigators:
   affiliation: Isomics Inc
   country: USA
 
+- name: Ron Kikinis
+  affiliation: BWH
+  country: USA
+
 ---
 
 # Project Description
