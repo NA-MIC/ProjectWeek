@@ -85,6 +85,7 @@ Over the last year, our group, in collaboration with members of the 3D Slicer co
 
 
 ![Picture1](https://github.com/NA-MIC/ProjectWeek/assets/49168951/81a8be1a-2648-49a7-ae30-c5043f56f677)
+
 Model creation for the analysis of personalized patient spinal loading predictions.
 
 
