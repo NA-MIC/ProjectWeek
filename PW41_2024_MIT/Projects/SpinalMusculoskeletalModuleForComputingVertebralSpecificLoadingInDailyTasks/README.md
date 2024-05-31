@@ -71,11 +71,11 @@ Over the last year, our group, in collaboration with members of the 3D Slicer co
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1) Established DL-based segmentation tools for vertebrae and spinal muscles
-2) Converted the computation and data management scripts to Python
-3) Created detailed documentation of the Python code
-4) Extensively validated and published the OpenSim spinal musculoskeletal model.  The model is open-source.
-5) will create a database of anonymized CT data from our cancer patient study
+1. Established DL-based segmentation tools for vertebrae and spinal muscles
+2. Converted the computation and data management scripts to Python
+3. Created detailed documentation of the Python code
+4. Extensively validated and published the OpenSim spinal musculoskeletal model.  The model is open-source.
+5. will create a database of anonymized CT data from our cancer patient study
 
 
 
