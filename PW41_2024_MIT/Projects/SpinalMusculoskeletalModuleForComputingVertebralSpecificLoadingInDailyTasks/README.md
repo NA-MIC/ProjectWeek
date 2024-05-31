@@ -51,15 +51,15 @@ Over the last year, our group, in collaboration with members of the 3D Slicer co
 
 
 1.	Discuss the current analysis and management scripts pipeline. Is it ready for integration? What parts are missing? Integration of the DL-based masks for generating data for the pipeline. 
-a.	The key gap for integration of DL segmentation data is translating DL-based masks into model-relevant information.
+    1.	The key gap for integration of DL segmentation data is translating DL-based masks into model-relevant information.
 
 2.	What issues must be solved for this integration within the extension mechanism? Build an integration plan emphasizing a framework for modularity and code expansion.
 
 3.	Possible avenues for slicer module(s) creation (the very ambitious version)
-a.	Create Slicer module (s) from the Python scripts.
-b.	Create a Slicer module to run-extract information from the DL models
-c.	Create a Slicer module to assemble the data file for the OpenSim modeler
-d.	Create an extension containing the modules.
+    1.	Create Slicer module (s) from the Python scripts.
+    2.	Create a Slicer module to run-extract information from the DL models
+    3.	Create a Slicer module to assemble the data file for the OpenSim modeler
+    4.	Create an extension containing the modules.
 
 4.	Discuss methods of results presentation.
 
