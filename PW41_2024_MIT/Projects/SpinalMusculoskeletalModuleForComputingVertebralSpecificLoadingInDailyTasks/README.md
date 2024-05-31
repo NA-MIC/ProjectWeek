@@ -13,6 +13,10 @@ key_investigators:
   affiliation: Beth Israel Deaconess Medical Center
   country: US
 
+- name: Dennis Anderson
+  affiliation: Beth Israel Deaconess Medical Center
+  country: US
+
 - name: Vy Hong
   affiliation: Technical University Munich
   country: Germany
