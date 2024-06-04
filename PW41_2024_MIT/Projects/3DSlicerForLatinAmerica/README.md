@@ -9,11 +9,14 @@ presenter_location: Online
 
 key_investigators:
 - name: Sonia Pujol
-  Brigham and Women's Hospital, Harvard Medical School
+  affiliation: Brigham and Women's Hospital, Harvard Medical School
+  country: USA
 
 - name: Person2 Doe2
   affiliation: University2
   country: Spain
+
+  
 ---
 
 # Project Description
