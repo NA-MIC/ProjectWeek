@@ -48,31 +48,42 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-05-31.
+Updated on 2024-06-04.
 
-1. Ekaterina Akhmad, Maastricht University, Netherlands, In Person
+1. Ekaterina Akhmad, Maastricht University, Netherlands, Virtual
 1. Ron Alkalay, Beth Israel Deaconess Medical Center, USA, In Person
 1. Tamaz Amiranashvili, University of Zurich, Switzerland, In Person
+1. Sylvain Bouix, École de technologie supérieure, Canada, In Person
 1. Charles Bricout, ETS, Canada, In Person
-1. Ghazal Danaee, École de technologie supérieure( ÉTS), Canada, In Person
-1. Chayanika Devi, University of Cincinnati, USA, In Person
+1. David Clunie, PixelMed, USA, Virtual
+1. Ghazal Danaee, École de technologie supérieure( ÉTS), Canada, Virtual
+1. sedigheh dargahi, École de technologie supérieure, Canada, Virtual
+1. Chayanika Devi, University of Cincinnati, USA, Virtual
 1. Felix Dorfner, Massachusetts General Hospital and Charité - Universitätsmedizin Berlin, USA, In Person
 1. Simon Drouin, École de technologie supérieure, Canada, In Person
-1. Bing-Xing Huo, Broad Institute, USA, In Person
-1. JANGRAE JO, University of Massachusetts, USA, In Person
+1. Andrey Fedorov, Brigham and Women's Hospital, USA, In Person
+1. Douglas Samuel Gonçalves, USP, Brazil, Virtual
+1. Bing-Xing Huo, Broad Institute, USA, Virtual
+1. JANGRAE JO, University of Massachusetts, USA, Virtual
 1. Tina Kapur, Brigham and Women's Hospital, Harvard Medical School, USA, In Person
-1. Rui Li, New York University, USA, In Person
+1. Rui Li, New York University, USA, Virtual
 1. Curtis Lisle, KnowledgeVis, LLC, USA, In Person
-1. Moaid Mohamedosman, Unaffiliated, Egypt, In Person
-1. Kaveh Moradkhani, École de technologie supérieure ÉTS, Canada, In Person
+1. Murat Maga, Seattle Childrens Research Institute, USA, Virtual
+1. Moaid Mohamedosman, Unaffiliated, Egypt, Virtual
+1. Kaveh Moradkhani, École de technologie supérieure ÉTS, Canada, Virtual
 1. Leonard Nürnberg, MGB / Harvard, Netherlands, In Person
-1. Sam Pathak, NCI, USA, In Person
+1. Umang Pandey, Clinica Universidad de Navarra, Madrid, Spain, Virtual
+1. Sam Pathak, NCI, USA, Virtual
 1. Steve Pieper, Isomics, Inc., USA, In Person
-1. Csaba Pinter, EBATINCA, Spain, In Person
-1. Divya Sain, Velsera, USA, In Person
-1. Jeff VanOss, BAMF Health, USA, In Person
-1. Benoit Verreman, ÉTS, Canada, In Person
-1. Murong Xu, Univerisity of Zurich, Switzerland, In Person
+1. Csaba Pinter, EBATINCA, Spain, Virtual
+1. Jarrett Rushmore, Boston University School of Medicine, USA, In Person
+1. Divya Sain, Velsera, USA, Virtual
+1. Attila Tanács, University of Szeged, Hungary, Virtual
+1. Pape mady Thiao, EMS, Senegal, Virtual
+2. Jeff VanOss, BAMF Health, USA, Virtual
+3. Benoit Verreman, ÉTS, Canada, In Person
+4. Murong Xu, Univerisity of Zurich, Switzerland, In Person
+5. Chi Zhang, Texas A&M University School of Dentistry, USA, In Person
 
 <!-- Participants list end -->
 
