@@ -24,6 +24,10 @@ key_investigators:
 - name: Steve Pieper
   affiliation: Isomics, Inc.
   country: USA
+
+- name: Csaba Pinter
+  affiliation: Ebacinca, S.L.
+  country: Spain
 ---
 
 # Project Description
