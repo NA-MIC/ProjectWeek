@@ -3,19 +3,14 @@ layout: pw41-project
 
 permalink: /:path/
 
-project_title: Write full project title here
-category: Uncategorized
+project_title: 3DSlicerForLatinAmerica
+category: Infrastructure
 presenter_location: Online
 
 key_investigators:
 - name: Sonia Pujol
   affiliation: Brigham and Women's Hospital, Harvard Medical School
   country: USA
-
-- name: Person2 Doe2
-  affiliation: University2
-  country: Spain
-
   
 ---
 
