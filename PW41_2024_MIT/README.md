@@ -48,11 +48,12 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-06-06.
+Updated on 2024-06-08.
 
 1. Ekaterina Akhmad, Maastricht University, Netherlands, Virtual
 1. Ron Alkalay, Beth Israel Deaconess Medical Center, USA, In Person
 1. Tamaz Amiranashvili, University of Zurich, Switzerland, In Person
+1. Dennis Anderson, Beth Israel Deaconess Medical Center, USA, In Person
 1. Theodore Aptekarev, Slicer Community, Montenegro, Virtual
 1. Sylvain Bouix, École de technologie supérieure, Canada, In Person
 1. Charles Bricout, ETS, Canada, In Person
@@ -65,6 +66,7 @@ Updated on 2024-06-06.
 1. Felix Dorfner, Massachusetts General Hospital and Charité - Universitätsmedizin Berlin, USA, In Person
 1. Simon Drouin, École de technologie supérieure, Canada, In Person
 1. Andrey Fedorov, Brigham and Women's Hospital, USA, In Person
+1. sara Fernandez Vidal, PARIS BRAIN INSTITUTE, France, In Person
 1. Douglas Samuel Gonçalves, USP, Brazil, Virtual
 1. Enrique Hernandez-Laredo, Universidad Autónoma del Estado de México, Mexico, Virtual
 1. Samantha Horvath, Kitware Inc, USA, In Person
@@ -72,6 +74,7 @@ Updated on 2024-06-06.
 1. JANGRAE JO, University of Massachusetts, USA, Virtual
 1. Tina Kapur, Brigham and Women's Hospital, Harvard Medical School, USA, In Person
 1. Andras Lasso, Queen's University, Canada, In Person
+1. kyuheon lee, korea university, Republic of Korea, Virtual
 1. Gaelle Leroux, University of Michigan, USA, In Person
 1. Rui Li, New York University, USA, Virtual
 1. Curtis Lisle, KnowledgeVis, LLC, USA, In Person
@@ -81,6 +84,7 @@ Updated on 2024-06-06.
 1. Kaveh Moradkhani, École de technologie supérieure ÉTS, Canada, Virtual
 1. Luiz Murta, University of São Paulo, Brazil, Virtual
 1. Leonard Nürnberg, MGB / Harvard, Netherlands, In Person
+1. Rafael Palomar, Oslo University Hospital, Norway, In Person
 1. Umang Pandey, Clinica Universidad de Navarra, Madrid, Spain, Virtual
 1. Sam Pathak, NCI, USA, Virtual
 1. Steve Pieper, Isomics, Inc., USA, In Person
@@ -90,10 +94,11 @@ Updated on 2024-06-06.
 1. Divya Sain, Velsera, USA, Virtual
 1. Lucas Sanchez Silva, Universidade de São Paulo, Brazil, Virtual
 1. Kyle Sunderland, Queen's University, Canada, In Person
+1. Baye Balla SY, Military Health School of Dakar, Senegal, Virtual
 1. Attila Tanács, University of Szeged, Hungary, Virtual
 1. Jess Tate, University of Utah, USA, Virtual
-1. Pape mady Thiao, EMS, Senegal, Virtual
 1. Pape mady Thiao, Unaffiliated, , Virtual
+1. Pape mady Thiao, EMS, Senegal, Virtual
 1. Tamas Ungi, Queen's University, Canada, In Person
 1. Jeff VanOss, BAMF Health, USA, Virtual
 1. Benoit Verreman, ÉTS, Canada, In Person
