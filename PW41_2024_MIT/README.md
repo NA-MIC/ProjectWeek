@@ -101,7 +101,6 @@ Updated on 2024-06-11.
 1. Baye Balla SY, Military Health School of Dakar, Senegal, Virtual
 1. Attila Tanács, University of Szeged, Hungary, Virtual
 1. Jess Tate, University of Utah, USA, Virtual
-1. Pape mady Thiao, Unaffiliated, , Virtual
 1. Pape mady Thiao, EMS, Senegal, Virtual
 1. Tamas Ungi, Queen's University, Canada, In Person
 1. Jeff VanOss, BAMF Health, USA, Virtual
