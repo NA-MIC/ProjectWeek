@@ -37,22 +37,25 @@ SlicerROS2 provides UI and API to communicate with other ROS nodes through Data 
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
-
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-
-
+The objectives of this project are as follows:
+1. **Improve existing implementation based on feedback from Slicer experts.** We will discuss use-cases with current and potential users in the community.
+2. **Explor options for binary distribution.** Since the module must be built against 3D Slicer with system SSL and specific versions of ROS2, it is not possible to be built as part of the nightly build process.
 
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+Questions discuss during the week:
+- Questions of future use
+  - Limited to robots or anything with a ROS2 interface (e.g. haptic devices, IMU, optical and magnetic trackers…)
+  - Other software packages: Gazebo, AMBF, US/CT/MRI simulators…
 
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-
-
+- Detailed questions
+  - Is multithreading possible?  Any other way to trigger a periodic computing task (now using QtTimer)
+  - vtkObjects all have a name and timestamp.  Is the name used in Slicer?  Can we have a timestamp that is not a counter?
+  - Improving unit testing, we have some but implementation seems clunky
+  - For binary distributions, is there a way to host build and/or tgz files?  I can host build on JHU computers.
+  - Is there an existing way to document code in modules, e.g. doxygen
+  - Small issues: QLatinString in 2 places breaks compiling on older Qt and likely useless, some missing const
 
 
 ## Progress and Next Steps
