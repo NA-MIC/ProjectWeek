@@ -12,28 +12,28 @@ key_investigators:
 - name: Junichi Tokuda
   affiliation: BWH
 
-- name: Laura Connolly
-  affiliation: JHU
-
 - name: Anton Deguet
-  affiliation: JHU
-
-- name: Simon Leonard
   affiliation: JHU
 
 - name: Steve Pieper
   affiliation: Isomics
 
+- name: Mariana Bernardes
+  affiliation: BWH
+
+- name: Laura Connolly
+  affiliation: Queen's University
+
+- name: Simon Leonard
+  affiliation: JHU
+
 ---
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+SlicerROS2 is an extension that enables direct communication between the Robot Operating System 2 (ROS2) and 3D Slicer. The ROS is a set of software libraries and tools for building robot applications. ROS2 has been developed and distrubted using an open-source model and widely used in the robotics community. The goal of SlicerROS2 is to facilitate the integration of 3D Slicer and ROS to build systems for image-guided robot-assisted intervention. 
 
-
-We will develop a demo system to highlight the features of the SlicerROS2 module.
-
-
+SlicerROS2 provides UI and API to communicate with other ROS nodes through Data Distribution Service (DDS), the publish-subscribe data transport middleware used in ROS2, allowing 3D Slicer to sychnonize its scen graph (MRML) with ROS's tf. It also has an interface to load a visual model of the robot onto the Slicer scene from robot description data in the URDF format published on the ROS system. 
 
 ## Objective
 
