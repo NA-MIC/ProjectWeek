@@ -53,8 +53,6 @@ The “Multimodal Registration Project” aims to develop a system capable of al
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-
-## Approach and Plan
 1. **Dataset Collection:**
    - Compil a comprehensive dataset consisting of MRI and CBCT files.
    - Perform manual approximation to align MRI and CBCT images initially.
@@ -85,9 +83,6 @@ The “Multimodal Registration Project” aims to develop a system capable of al
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
-
-
-## Progress and Next Steps
 
 ### Progress
 
