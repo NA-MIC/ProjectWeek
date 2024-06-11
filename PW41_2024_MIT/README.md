@@ -48,7 +48,7 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-06-08.
+Updated on 2024-06-11.
 
 1. Ekaterina Akhmad, Maastricht University, Netherlands, Virtual
 1. Ron Alkalay, Beth Israel Deaconess Medical Center, USA, In Person
@@ -57,6 +57,7 @@ Updated on 2024-06-08.
 1. Theodore Aptekarev, Slicer Community, Montenegro, Virtual
 1. Sylvain Bouix, École de technologie supérieure, Canada, In Person
 1. Charles Bricout, ETS, Canada, In Person
+1. Lucia Cevidanes, University of Michigan, USA, Virtual
 1. Jeanne Claret, University of Michigan, USA, In Person
 1. David Clunie, PixelMed, USA, Virtual
 1. Ghazal Danaee, École de technologie supérieure( ÉTS), Canada, Virtual
@@ -72,7 +73,9 @@ Updated on 2024-06-08.
 1. Samantha Horvath, Kitware Inc, USA, In Person
 1. Bing-Xing Huo, Broad Institute, USA, Virtual
 1. JANGRAE JO, University of Massachusetts, USA, Virtual
+1. Megha Kalia, Brigham and Womens, USA, In Person
 1. Tina Kapur, Brigham and Women's Hospital, Harvard Medical School, USA, In Person
+1. Ron Kikinis, Brigham and Women's Hospital, Harvard Medical School, USA, In Person
 1. Andras Lasso, Queen's University, Canada, In Person
 1. kyuheon lee, korea university, Republic of Korea, Virtual
 1. Gaelle Leroux, University of Michigan, USA, In Person
@@ -86,6 +89,7 @@ Updated on 2024-06-08.
 1. Leonard Nürnberg, MGB / Harvard, Netherlands, In Person
 1. Rafael Palomar, Oslo University Hospital, Norway, In Person
 1. Umang Pandey, Clinica Universidad de Navarra, Madrid, Spain, Virtual
+1. Taeyoung Park, Korea Institutes of Science and Technology (KIST), Republic of Korea, In Person
 1. Sam Pathak, NCI, USA, Virtual
 1. Steve Pieper, Isomics, Inc., USA, In Person
 1. Csaba Pinter, EBATINCA, Spain, Virtual
