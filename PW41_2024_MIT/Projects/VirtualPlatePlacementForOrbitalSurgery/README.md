@@ -40,6 +40,8 @@ We are developing a Slicer module to simulating registering titanium plate to or
 
 
 Make a module to allow the plate to properly sits above the bone at the orbital fracture site
+
+
 <img width="350" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/33c83ae5-5634-4f11-9a25-2a2b0e8f9087">
 
 
@@ -62,6 +64,7 @@ See below.
 
 
 I have complied existing methods in Slicer and VTK into one preliminary module [https://github.com/chz31/surgical_plate_registration](https://github.com/chz31/surgical_plate_registration) to do the semi-automatic registration:
+
 <img width="300" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/ea8a640f-883f-4ad7-98b9-aee000c6d327">
 
 1. An initial fiducial registration and a refined registration based on only allowing the plate to rotate while pivoting on the posterior stop, an important landmark for place the nail.
