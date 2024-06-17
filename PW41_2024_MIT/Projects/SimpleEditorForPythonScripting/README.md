@@ -65,7 +65,7 @@ No specific approach has been developed just yet.
 1. Describe specific steps you **have actually done**.
 
 So far we have a brief web-based mock-up from Steve Pieper:
-https://github.com/pieper/SlicerEditor
+[https://github.com/pieper/SlicerEditor](https://github.com/pieper/SlicerEditor)
 
 
 
@@ -85,5 +85,5 @@ https://github.com/pieper/SlicerEditor
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-https://discourse.slicer.org/t/support-python-text-highlighting-in-text-module/34511
+[https://discourse.slicer.org/t/support-python-text-highlighting-in-text-module/34511](https://discourse.slicer.org/t/support-python-text-highlighting-in-text-module/34511)
 
