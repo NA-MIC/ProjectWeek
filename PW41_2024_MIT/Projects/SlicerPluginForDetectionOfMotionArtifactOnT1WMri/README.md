@@ -4,7 +4,7 @@ layout: pw41-project
 permalink: /:path/
 
 project_title: Slicer Plugin for Detection of Motion Artifact on T1w MRI
-category: Other
+category: Quantification and Computation
 presenter_location: In-person
 
 key_investigators:
@@ -28,7 +28,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-We want to create a Slcier module to detect and / or quantify motion artifacts in T1 weighted MRI.
+We want to create a Slicer module to detect and / or quantify motion artifacts in T1 weighted MRI.
 
 
 

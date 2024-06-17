@@ -4,7 +4,7 @@ layout: pw41-project
 permalink: /:path/
 
 project_title: 'Susceptibility distortion correction in diffusion MRI dataset '
-category: Other
+category: Quantification and Computation
 presenter_location: Online
 
 key_investigators:

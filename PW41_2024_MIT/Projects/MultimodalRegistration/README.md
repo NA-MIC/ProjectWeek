@@ -4,7 +4,7 @@ layout: pw41-project
 permalink: /:path/
 
 project_title: Multimodal registration
-category: Other
+category: Registration
 presenter_location: In-person
 
 key_investigators:
@@ -21,7 +21,7 @@ key_investigators:
   affiliation: University of Michigan
   country: USA
 
-- name: Allemand David
+- name: Allemang David
   affiliation: Kitware
   country: USA
 

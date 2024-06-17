@@ -5,7 +5,7 @@ permalink: /:path/
 
 project_title: Using statistical shape modeling for improving 3D reconstruction of fetal ultrasound
   images
-category: Other
+category: Quantification and Computation
 presenter_location: In-person
 
 key_investigators:
