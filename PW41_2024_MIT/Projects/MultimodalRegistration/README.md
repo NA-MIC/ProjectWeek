@@ -4,7 +4,7 @@ layout: pw41-project
 permalink: /:path/
 
 project_title: Multimodal registration
-category: Registration
+category: Quantification and Computation
 presenter_location: In-person
 
 key_investigators:
