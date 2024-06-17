@@ -10,6 +10,7 @@ project_categories:
 - IGT and Training
 - Segmentation / Classification / Landmarking
 - Quantification and Computation
+- Registration
 - Cloud / Web
 - Infrastructure
 - Other

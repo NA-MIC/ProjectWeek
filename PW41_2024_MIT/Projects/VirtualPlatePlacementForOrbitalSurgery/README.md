@@ -4,7 +4,7 @@ layout: pw41-project
 permalink: /:path/
 
 project_title: Virtual plate placement for orbital surgery
-category: Other
+category: IGT and Training
 presenter_location: In-person
 
 key_investigators:

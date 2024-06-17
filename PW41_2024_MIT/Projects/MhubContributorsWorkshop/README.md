@@ -4,7 +4,7 @@ layout: pw41-project
 permalink: /:path/
 
 project_title: MHub Contributors
-category: Other
+category: Infrastructure
 presenter_location: In-person
 
 key_investigators:
