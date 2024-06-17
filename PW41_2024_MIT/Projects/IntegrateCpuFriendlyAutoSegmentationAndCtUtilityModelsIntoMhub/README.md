@@ -33,7 +33,9 @@ key_investigators:
 
 
 This project will aim to integrate two categories of models into [mhub.ai](mhub.ai)
+
 **1. CPU friendly (whole-body) auto-segmentation models**
+
 **2. CT utility model for image QA**
 
 
@@ -55,20 +57,20 @@ This project will aim to integrate two categories of models into [mhub.ai](mhub.
 
 
 **CPU-friendly auto-seg**
-Several auto-segmentation models have been integrated into slicer recently through https://github.com/lassoan/SlicerMONAIAuto3DSeg/releases/tag/ModelsTestResults
+Several auto-segmentation models have been integrated into slicer recently through [https://github.com/lassoan/SlicerMONAIAuto3DSeg/releases/tag/ModelsTestResults](https://github.com/lassoan/SlicerMONAIAuto3DSeg/releases/tag/ModelsTestResults)
 
 While the quick version of these models run fast on CPU, the slower versions take a couple of mins. It would be interesting to explore if CPU related optimizations would work to increase the speed and reduce memory of the full resolution versions while making the quick versions even faster. 
 
 Some initial thoughts on optimization techniques could include,
-1. Converting models to OpenVINO format for optimized inference on CPU (https://docs.openvino.ai/2024/home.html, https://docs.openvino.ai/2024/omz_demos_3d_segmentation_demo_python.html). This could provide faster inference and make models more lightweight offering a better user experience as well. 
+1. Converting models to OpenVINO format for optimized inference on CPU ([https://docs.openvino.ai/2024/home.html](https://docs.openvino.ai/2024/home.html), [https://docs.openvino.ai/2024/omz_demos_3d_segmentation_demo_python.html](https://docs.openvino.ai/2024/omz_demos_3d_segmentation_demo_python.html)). This could provide faster inference and make models more lightweight offering a better user experience as well. 
 
 2. For a majority of these auto-seg models, sliding window inferer implementation results in major differences in memory (with higher batch-size) and inference time (with larger overlap ratios). Is there an optimal configuration to save memory and increase speed? 
 3. Another ticket item is that the the memory consumption largely increases when predicting more output classes in the softmax, is there a way to efficienlty address this issue as well. Perhaps a more restrictive implementation of the sliding window inferer with a accuracy-efficiency trade-off?
-4. Distilling models to smaller ones that run faster (might be something that takes longer than PW): https://github.com/VaticanCameos99/knowledge-distillation-for-unet
+4. Distilling models to smaller ones that run faster (might be something that takes longer than PW): [https://github.com/VaticanCameos99/knowledge-distillation-for-unet](https://github.com/VaticanCameos99/knowledge-distillation-for-unet)
 
 
 **CT utility models**
-Implementing CT image inspection utility models, namely, body part regression - https://github.com/MIC-DKFZ/BodyPartRegression. This model allows determining the body part examined and if there are anomalies in certain slices in the processed image (nifti). 
+Implementing CT image inspection utility models, namely, body part regression - [https://github.com/MIC-DKFZ/BodyPartRegression](https://github.com/MIC-DKFZ/BodyPartRegression). This model allows determining the body part examined and if there are anomalies in certain slices in the processed image (nifti). 
 
 
 Integrating this into Mhub would allow users to perform this QA by providing DICOM inputs directly
@@ -183,6 +185,7 @@ There seems to be speed up with OV. More investigation needed for the exact patc
 
 
 BPREG:
+
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/10467804/db57f0d3-6e36-4bb1-85a8-93089f158f68)
 
 
@@ -194,8 +197,8 @@ BPREG:
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-1. https://github.com/lassoan/SlicerMONAIAuto3DSeg
-2. https://docs.openvino.ai/2024/home.html
-3. https://github.com/MIC-DKFZ/BodyPartRegression
-4. https://mhub.ai
+1. [https://github.com/lassoan/SlicerMONAIAuto3DSeg](https://github.com/lassoan/SlicerMONAIAuto3DSeg)
+2. [https://docs.openvino.ai/2024/home.html](https://docs.openvino.ai/2024/home.html)
+3. [https://github.com/MIC-DKFZ/BodyPartRegression](https://github.com/MIC-DKFZ/BodyPartRegression)
+4. [https://mhub.ai](https://mhub.ai)
 
