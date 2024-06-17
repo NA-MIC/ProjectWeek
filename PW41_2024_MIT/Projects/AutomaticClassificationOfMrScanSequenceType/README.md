@@ -82,6 +82,9 @@ _No response_
 
 
 [Progress from previous project week](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/DicomSeriesClassificationAndVisualizationOfParameters/)
+
 [Current work](https://openreview.net/forum?id=1GEz81GU3g)
+
 [Current code](https://github.com/deepakri201/DICOMScanClassification)
+
 
