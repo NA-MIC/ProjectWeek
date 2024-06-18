@@ -24,6 +24,10 @@ key_investigators:
   affiliation: Universidade de São Paulo
   country: Brazil
   
+- name: Paulo Eduardo de Barros Veiga
+  affiliation: Universidade de São Paulo
+  country: Brazil
+
 ---
 
 # Project Description
