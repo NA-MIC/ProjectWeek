@@ -28,6 +28,38 @@ key_investigators:
   affiliation: Universidade de São Paulo
   country: Brazil
 
+  - name: Adriana Herlinda Vilchis González
+  affiliation: Universida Autónoma del Estado de México
+  country: Mexico
+
+ - name: Enrique Hernández Laredo
+  affiliation: Universida Autónoma del Estado de México
+  country: Mexico
+
+- name: Victor Manuel Montaño Serrano
+  affiliation: Universida Autónoma del Estado de México
+  country: Mexico
+
+ - name: Monserrat Ríos-Hernández
+  affiliation: Universida Autónoma del Estado de México
+  country: Mexico
+
+- name: Juan Carlos Avila Vilchis
+  affiliation: Universida Autónoma del Estado de México
+  country: Mexico
+
+ - name: Vianney Muñoz Jiménez
+  affiliation: Universida Autónoma del Estado de México
+  country: Mexico
+
+- name: Mariana Alvarez-Carvajal
+  affiliation: Universida Autónoma del Estado de México
+  country: Mexico
+
+ - name: Valeria Gómez Valdes
+  affiliation: Universida Autónoma del Estado de México
+  country: Mexico
+
 ---
 
 # Project Description
