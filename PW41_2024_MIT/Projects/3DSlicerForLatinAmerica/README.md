@@ -12,6 +12,18 @@ key_investigators:
   affiliation: Brigham and Women's Hospital, Harvard Medical School
   country: USA
   
+- name: Luiz Murta
+  affiliation: Universidade de São Paulo
+  country: Brazil
+  
+- name: Douglas Samuel Gonçalves
+  affiliation: Universidade de São Paulo
+  country: Brazil
+
+- name: Lucas Sanchez Silva
+  affiliation: Universidade de São Paulo
+  country: Brazil
+  
 ---
 
 # Project Description
