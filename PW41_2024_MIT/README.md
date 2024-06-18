@@ -51,14 +51,16 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-06-14.
+Updated on 2024-06-18.
 
 1. Ekaterina Akhmad, Maastricht University, Netherlands, Virtual
 1. Ron Alkalay, Beth Israel Deaconess Medical Center, USA, In Person
 1. Tamaz Amiranashvili, University of Zurich, Switzerland, In Person
 1. Dennis Anderson, Beth Israel Deaconess Medical Center, USA, In Person
 1. Theodore Aptekarev, Slicer Community, Montenegro, Virtual
+1. Amene Asgari, Brigham and women’s hospital, USA, In Person
 1. Imre János Barabás, Semmelweis University, Hungary, In Person
+1. Owen Borders, Massachusetts General Hospital, USA, In Person
 1. Sylvain Bouix, École de technologie supérieure, Canada, In Person
 1. Charles Bricout, ETS, Canada, In Person
 1. Lucia Cevidanes, University of Michigan, USA, Virtual
@@ -84,6 +86,7 @@ Updated on 2024-06-14.
 1. Enrique Hernandez-Laredo, Universidad Autónoma del Estado de México, Mexico, Virtual
 1. Samantha Horvath, Kitware Inc, USA, In Person
 1. Bing-Xing Huo, Broad Institute, USA, Virtual
+1. Mike Jin, Brigham and Women's Hospital; Centaur Labs, USA, In Person
 1. JANGRAE JO, University of Massachusetts, USA, Virtual
 1. Megha Kalia, Brigham and Womens, USA, In Person
 1. Tina Kapur, Brigham and Women's Hospital, Harvard Medical School, USA, In Person
@@ -103,6 +106,7 @@ Updated on 2024-06-14.
 1. Leonard Nürnberg, MGB / Harvard, Netherlands, In Person
 1. Rafael Palomar, Oslo University Hospital, Norway, In Person
 1. Umang Pandey, Clinica Universidad de Navarra, Madrid, Spain, Virtual
+1. Tae Young Park, KIST, Republic of Korea, Virtual
 1. Sam Pathak, NCI, USA, Virtual
 1. Steve Pieper, Isomics, Inc., USA, In Person
 1. Csaba Pinter, EBATINCA, Spain, Virtual
@@ -117,12 +121,14 @@ Updated on 2024-06-14.
 1. Jess Tate, University of Utah, USA, Virtual
 1. Pape mady Thiao, EMS, Senegal, Virtual
 1. Pape mady Thiao, Unaffiliated, , Virtual
-1. Vamsi Thiriveedhi, Brigham and Women's Hospital, United States Minor Outlying Islands, In Person
+1. Vamsi Thiriveedhi, Brigham and Women's Hospital, USA, In Person
 1. Oshane Thomas, Seattle Children's Research Institute, USA, Virtual
 1. Junichi Tokuda, Brigham and Women's Hospital, USA, In Person
 1. Tamas Ungi, Queen's University, Canada, In Person
 1. Jeff VanOss, BAMF Health, USA, Virtual
 1. Benoit Verreman, ÉTS, Canada, In Person
+1. William Wells, BWH, USA, In Person
+1. Quinn Williams, Brigham and Woman's, USA, In Person
 1. Murong Xu, Univerisity of Zurich, Switzerland, In Person
 1. Chi Zhang, Texas A&M University School of Dentistry, USA, In Person
 
