@@ -28,11 +28,11 @@ key_investigators:
   affiliation: Universidade de São Paulo
   country: Brazil
 
-  - name: Adriana Herlinda Vilchis González
+- name: Adriana Herlinda Vilchis González
   affiliation: Universida Autónoma del Estado de México
   country: Mexico
 
- - name: Enrique Hernández Laredo
+- name: Enrique Hernández Laredo
   affiliation: Universida Autónoma del Estado de México
   country: Mexico
 
@@ -40,7 +40,7 @@ key_investigators:
   affiliation: Universida Autónoma del Estado de México
   country: Mexico
 
- - name: Monserrat Ríos-Hernández
+- name: Monserrat Ríos-Hernández
   affiliation: Universida Autónoma del Estado de México
   country: Mexico
 
@@ -48,7 +48,7 @@ key_investigators:
   affiliation: Universida Autónoma del Estado de México
   country: Mexico
 
- - name: Vianney Muñoz Jiménez
+- name: Vianney Muñoz Jiménez
   affiliation: Universida Autónoma del Estado de México
   country: Mexico
 
@@ -56,7 +56,7 @@ key_investigators:
   affiliation: Universida Autónoma del Estado de México
   country: Mexico
 
- - name: Valeria Gómez Valdes
+- name: Valeria Gómez Valdes
   affiliation: Universida Autónoma del Estado de México
   country: Mexico
 
