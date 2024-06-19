@@ -3,7 +3,7 @@ layout: pw41-project
 
 permalink: /:path/
 
-project_title: Multimodal registration
+project_title: Multimodal Registration MR2CBCT
 category: Quantification and Computation
 presenter_location: In-person
 
@@ -36,7 +36,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-The “Multimodal Registration Project” aims to develop a system capable of aligning different medical imaging modalities to enhance diagnostic accuracy and patient outcomes. By focusing on the registration of Cone Beam Computed Tomography (CBCT) with Magnetic Resonance Imaging (MRI), we seek to create a unified imaging model that offers comprehensive insights into patient anatomy and pathology.
+Temporomandibular joint (TMJ) disorders affect a significant portion of the population and can cause chronic pain and disability. Accurate diagnosis is crucial for effective treatment planning, but can be challenging due to the complex anatomy and limited visibility of soft tissue structures on Cone Beam CT (CBCT) scans. MRI provides superior soft tissue contrast including the articular disc, but requires separate acquisition and manual registration with CBCT for detailed bone degeneration assessments. This study proposes a novel AI algorithm combined with image processing techniques to automatically register MRI to CBCT images, enabling enhanced visualization and analysis of the TMJ complex.  By integrating MRI soft tissue information with CBCT bony details, this automated technique provides clinicians with a more comprehensive patient-specific 3D model of the TMJ to improve diagnostic accuracy and treatment planning.
 
 
 
@@ -45,7 +45,7 @@ The “Multimodal Registration Project” aims to develop a system capable of al
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. The objective is to register MRI images with CBCT data accurately.
+The “Multimodal Registration MR2CBCT Project” aims to develop a system capable to enhance diagnostic accuracy and patient outcomes by accurately aligning and overlaying the multimodal images while preserving anatomical details, building on Elastix registration tools.
 
 
 
@@ -56,6 +56,7 @@ The “Multimodal Registration Project” aims to develop a system capable of al
 1. **Dataset Collection:**
    - Compil a comprehensive dataset consisting of MRI and CBCT files.
    - Perform manual approximation to align MRI and CBCT images initially.
+   - Perform manual segmentation of the MRI.
 
 2. **Image Registration Strategy:**
    - The primary goal is to achieve precise registration between MRI and CBCT images. To accomplish this, we are exploring two main approaches:
@@ -72,7 +73,8 @@ The “Multimodal Registration Project” aims to develop a system capable of al
    - **Automated MRI Segmentation:**
      - Train a model to automate the segmentation process of MRI images.
    - **Elastix-Based Registration:**
-     - Use Elastix to train a model specifically for the registration between MRI and CBCT images based on the segmentation.
+     - Use Elastix to do the registration between MRI and CBCT images based on the segmentation.
+           - Invert MRI to facilitate the registration process with Elastix.
 3. **Validate:**
    - Validate the best method accuracy through rigorous testing against established benchmarks.
 
@@ -90,37 +92,37 @@ The “Multimodal Registration Project” aims to develop a system capable of al
    - We compiled a comprehensive dataset consisting of MRI and CBCT files.
    - Performed manual approximation to initially align MRI and CBCT images.
 
-#### First Approach:
-   - **Image Transformation Model:** 
-     - Developing and training a model to transform MRI images into CBCT-like images.
 
 #### Second Approach:
    - **Manual Segmentation:**
      - Conducted manual segmentation of MRI images as an initial step.
+   - **Elastix-Based Registration:**
+     - Working to use Elastix to do the registration between MRI and CBCT images using the manual segmentation. The MRI has been inverted to facilitate the registration process with Elastix.
 
 ### Next Steps
 
 #### First Approach:
    - **CBCT Registration:**
+     - Develop and train a model to transform MRI images into CBCT-like images.
      - After finalizing the transformation model, utilize existing tools to register the transformed CBCT images with actual CBCT images.
 
 #### Second Approach:
    - **Automated MRI Segmentation:**
-     - Once manual segmentation is complete, train a model to automate the segmentation process.
-   - **Elastix-Based Registration:**
-     - Use Elastix to train a model specifically for the registration between MRI and CBCT images.
+     - Train a model to automate the segmentation process.
 
 
 
 
 
 # Illustrations
+#### Manual Segmentation of the Cranial Base on an MRI
+![Manual Segmentation of the Cranial Base on an MRI](https://github.com/NA-MIC/ProjectWeek/assets/91245687/a4a73f38-5e28-4d32-a5ad-816cad73b118)
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+#### Invertion of an MRI
+![Invertion of an MRI](https://github.com/NA-MIC/ProjectWeek/assets/91245687/7b8e4f61-90cf-45e8-99de-7e461fc1365b)
 
-
-_No response_
-
+#### Manual Manual Approximation of an MRI on a CBCT
+![Manual Manual Approximation of an MRI on a CBCT](https://github.com/NA-MIC/ProjectWeek/assets/91245687/5c4211ce-e930-4bf0-b9d8-a1193a29ea0a)
 
 
 # Background and References
