@@ -87,9 +87,11 @@ Next steps :
 
 
 **QC Model Results**
+
 ![QC_DATA_1_TO_1_test_prediction_norm_confusion](https://github.com/NA-MIC/ProjectWeek/assets/91245912/fba985f2-eaa3-4afc-b156-223ff5a90561)
 
 **Example of GRAD-CAM in 3D-Slicer**
+
 <img width="684" alt="Screenshot 2024-06-14 at 10 12 44" src="https://github.com/NA-MIC/ProjectWeek/assets/91245912/4d99d283-8869-4e41-9e0f-5a883ddd104f">
 
 
