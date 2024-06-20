@@ -107,9 +107,11 @@ Next Step:
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+#### SlicerConda Icon
+<img src="https://github.com/NA-MIC/ProjectWeek/assets/91245687/0af07dd0-92a1-4231-9b57-9202f41d1d84" alt="SlicerConda Icon" width="300">
 
-### SlicerConda Icon
-<img src="https://github.com/NA-MIC/ProjectWeek/assets/91245687/0af07dd0-92a1-4231-9b57-9202f41d1d84" alt="CondaSetUp_icon_big_format" width="200" height="200">
+#### SlicerConda User Interface
+<img src="https://github.com/NA-MIC/ProjectWeek/assets/91245687/66dd6fa4-799c-424d-98e8-e26c79b68913" alt="SlicerConda User Interface">
 
 
 
