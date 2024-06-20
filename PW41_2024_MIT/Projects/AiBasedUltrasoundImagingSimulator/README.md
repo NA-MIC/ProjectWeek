@@ -39,19 +39,19 @@ We will discuss strategies to integrate AI-based ultrasound imaging simulators i
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-
-
+1. **Model** Improve the model - make the simulated ultrasound image more realistic
+2. **Architecture** Explore the fast way to package the model into applications.
 
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-
+1. Model improvement
+   - The current model doesn't take account of tissue attenuation properties. Explore the use of CT segmentation data (or total segmentator).
+   - To use the neuron network to accelerate the computation speed. (The current version is physics-based)
+2. Architecture
+   - Create an independent library for CT-ultrasound conversion. This library takes a 2D resampled CT data that is aligned to the (virtual) ultrasound probe, and generate a corresponding simulated ultrasound image.
+   - Integration with existing platforms, including Gazebo, Slicer, PLUS (to be discussed with the community)
+   - 
 
 
 
