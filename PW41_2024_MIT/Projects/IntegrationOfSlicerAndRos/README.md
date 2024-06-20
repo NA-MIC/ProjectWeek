@@ -33,13 +33,13 @@ key_investigators:
 
 SlicerROS2 is an extension that enables direct communication between the Robot Operating System 2 (ROS2) and 3D Slicer. The ROS is a set of software libraries and tools for building robot applications. ROS2 has been developed and distrubted using an open-source model and widely used in the robotics community. The goal of SlicerROS2 is to facilitate the integration of 3D Slicer and ROS to build systems for image-guided robot-assisted intervention. 
 
-SlicerROS2 provides UI and API to communicate with other ROS nodes through Data Distribution Service (DDS), the publish-subscribe data transport middleware used in ROS2, allowing 3D Slicer to sychnonize its scen graph (MRML) with ROS's tf. It also has an interface to load a visual model of the robot onto the Slicer scene from robot description data in the URDF format published on the ROS system. 
+SlicerROS2 provides UI and API to communicate with other ROS nodes through Data Distribution Service (DDS), the publish-subscribe data transport middleware used in ROS2, allowing 3D Slicer to sychnonize its scen graph (MRML) with ROS's [tf](https://wiki.ros.org/tf2). It also has an interface to load a visual model of the robot onto the Slicer scene from robot description data in the URDF format published on the ROS system. 
 
 ## Objective
 
 The objectives of this project are as follows:
 1. **Improve existing implementation based on feedback from Slicer experts.** We will discuss use-cases with current and potential users in the community.
-2. **Explor options for binary distribution.** Since the module must be built against 3D Slicer with system SSL and specific versions of ROS2, it is not possible to be built as part of the nightly build process.
+2. **Explore options for binary distribution.** Since the module must be built against 3D Slicer with system SSL and specific versions of ROS2, it is not possible to be built as part of the nightly build process.
 
 
 ## Approach and Plan
@@ -47,7 +47,7 @@ The objectives of this project are as follows:
 Questions discuss during the week:
 - Questions of future use
   - Limited to robots or anything with a ROS2 interface (e.g. haptic devices, IMU, optical and magnetic trackers…)
-  - Other software packages: Gazebo, AMBF, US/CT/MRI simulators…
+  - Other software packages: [Gazebo](https://gazebosim.org/home), [AMBF](https://github.com/WPI-AIM/ambf), US/CT/MRI simulators…
 
 - Detailed questions
   - Is multithreading possible?  Any other way to trigger a periodic computing task (now using QtTimer)
