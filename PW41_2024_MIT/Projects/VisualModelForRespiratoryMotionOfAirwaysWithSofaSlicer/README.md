@@ -78,8 +78,6 @@ Integration of a softbody physics simulation of lung movement during breathing i
 ![Current airway movement simulated with SOFA](https://github.com/NA-MIC/ProjectWeek/assets/63506358/2e408192-19b0-477f-8939-5a102cd10cff)
 
 
-
-
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
