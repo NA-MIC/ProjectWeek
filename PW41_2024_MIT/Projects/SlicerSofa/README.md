@@ -60,8 +60,12 @@ Slicer-SOFA was born during [PW40](https://projectweek.na-mic.org/PW40_2024_Gran
 
 <img src="https://github.com/NA-MIC/ProjectWeek/assets/1978682/bb53dde9-7baa-45cc-87df-aabd6d6ef35d" alt="slicer-sofa-logo" width=200px/>
 
+<video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/assets/66890913/8f257f29-fa9c-4319-8c49-4138003eba27"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
-https://github.com/NA-MIC/ProjectWeek/assets/1978682/9d34a012-14c7-4480-89ff-265b74b054c5
 
 
 
@@ -74,8 +78,8 @@ https://github.com/NA-MIC/ProjectWeek/assets/1978682/9d34a012-14c7-4480-89ff-265
 
 1. Engage with the community to understand the needs and possibilities
 2. Establish a roadmap for future development of the Slicer-SOFA extension
-  - Extension architecture to support simulation modules RafaelPalomar/Slicer-SOFA#15
-  -  Distribution of third-party libraries RafaelPalomar/Slicer-SOFA#14
+  - Extension architecture to support simulation modules [RafaelPalomar/Slicer-SOFA#15](https://github.com/RafaelPalomar/Slicer-SOFA/issues/15)
+  -  Distribution of third-party libraries [RafaelPalomar/Slicer-SOFA#14](https://github.com/RafaelPalomar/Slicer-SOFA/issues/14)
   - ...
 
 
