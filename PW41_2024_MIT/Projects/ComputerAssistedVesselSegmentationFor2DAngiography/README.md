@@ -3,7 +3,7 @@ layout: pw41-project
 
 permalink: /:path/
 
-project_title: computer assisted vessel segmentation for 2D angiography
+project_title: Computer assisted vessel segmentation for 2D angiography
 category: Segmentation / Classification / Landmarking
 presenter_location: In-person
 
