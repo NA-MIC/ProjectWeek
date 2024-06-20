@@ -83,10 +83,12 @@ I have complied existing methods in Slicer and VTK into one preliminary module [
 
 
 **Next steps:**
-1. Improving the use of the Interaction Transform Handle and intersection marker to more efficiently adjust plate position so that it sits just above the bone.
-2. Design measurements to quantify plate fitness.
-3. Deep learning-based segmentation for segmenting fractured orbit.
-4. Explore methods such as reinforcement learning and SOFA for actual simulating how the plate is placed.
+1. Improving the use of the Interaction Transform Handle and intersection marker to more efficiently adjust plate position so that it sits just above the bone. Converting transform matrix into standard descriptor: yaw, roll, and pitch.
+<img width="300" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/6ebf2b69-7a9c-4f8f-a3eb-1c236615f390">
+(from https://doi.org/10.1371/journal.pone.0150162)
+3. Design measurements to quantify plate fitness. Comparing the shape of the plate with the unfractured orbit.
+4. Deep learning-based segmentation for segmenting fractured orbit.
+5. Explore methods such as reinforcement learning and SOFA for actual simulating how the plate is placed.
 
 
 
@@ -107,6 +109,6 @@ _No response_
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-
-_No response_
+The repo for the current module: https://github.com/chz31/surgical_plate_registration
+Other studies using commercial software iPlan from BrainLab, which should still be based on manual adjustment: https://doi.org/10.1371/journal.pone.0150162 and https://doi.org/10.1016/j.cxom.2020.10.003
 
