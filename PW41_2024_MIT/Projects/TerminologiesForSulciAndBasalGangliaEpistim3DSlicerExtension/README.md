@@ -22,7 +22,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-We are rewritting the entire epiSTIM toolbox (for SEEG procedures) as a 3D Slicer Extension and adding additional features requested by the clinicians. One of them is the import of labelled sulcis from T1 Morphologist (in Brainvisa Toolbox). To procced, first we need to create a Terminologie for the sulci (and a cbtl? )
+We are rewritting the entire epiSTIM toolbox (for [SEEG procedures](https://en.wikipedia.org/wiki/Stereoelectroencephalography)) as a 3D Slicer Extension and adding additional features requested by the clinicians. One of them is the import of labelled sulcis from T1 Morphologist (in Brainvisa Toolbox). To procced, first we need to create a Terminologie for the sulci (and a cbtl? )
 
 
 
