@@ -47,9 +47,12 @@ I have written a C++ library for computer-assisted vessel segmentation in DSA im
 3. Talk to Slicer OpenGL gurus about OpenGL issues.
 4. Stub out a loadable Slicer module and try to get it to run. Add OpenGL functionality for specialized rendering if possible.
 
-https://github.com/NA-MIC/ProjectWeek/assets/120512991/ecb49930-a6d0-4508-a688-7a18841aa022
 
-
+<video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/assets/120512991/ecb49930-a6d0-4508-a688-7a18841aa022"
+   style="max-height:640px; min-height: 200px">
+</video>
 
 
 
