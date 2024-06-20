@@ -85,6 +85,7 @@ Volume(1) = {1};
 3. We generate optimized 3D mesh using Gmsh by running the following command
 `gmsh $geo_file -3 -optimize -format msh2`
 4. For calculating average BMD, we use the concept of shape functions to find which voxels belong to an element, and then we average among the values greater than 0. To do this, first, in 3D Slicer, we find the coordinates of voxels and the HU values. Then, for each element, a voxel will belong to the element if the summation of 4 shape functions at the voxel's location equals 1. For linear tetrahedrons, the shape function of each vortex is the volume of the tetrahedron made with three other vertices and the point. The below figure, for example, shows these volumes for an arbitrary point inside the element.
+
     ![Picture1](https://github.com/NA-MIC/ProjectWeek/assets/49168951/47d36e51-a130-4d2a-b25c-3283d44979da)   
     - We are eager to use any other approach for better numerical efficiency.
     - In this approach, each voxel is assessed based on the coordinates of its center. Is there any possibility that one can calculate partial inclusions of voxels in the element? This approach will give us the capability of going to the smaller resolutions. 
