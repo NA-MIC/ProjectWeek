@@ -35,8 +35,8 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-
-Temporomandibular joint (TMJ) disorders affect a significant portion of the population and can cause chronic pain and disability. Accurate diagnosis is crucial for effective treatment planning, but can be challenging due to the complex anatomy and limited visibility of soft tissue structures on Cone Beam CT (CBCT) scans. MRI provides superior soft tissue contrast including the articular disc, but requires separate acquisition and manual registration with CBCT for detailed bone degeneration assessments. This study proposes a novel AI algorithm combined with image processing techniques to automatically register MRI to CBCT images, enabling enhanced visualization and analysis of the TMJ complex.  By integrating MRI soft tissue information with CBCT bony details, this automated technique provides clinicians with a more comprehensive patient-specific 3D model of the TMJ to improve diagnostic accuracy and treatment planning.
+This project aims to develop a novel Slicer tool that combines machine learning with image processing technique with image processing techniques to automatically register MRI to CBCT images, enabling enhanced visualization and analysis of the TMJ complex.  By integrating MRI soft tissue information with CBCT bony details, this automated technique provides clinicians with a more comprehensive patient-specific 3D model of the TMJ to improve diagnostic accuracy and treatment planning. 
+Temporomandibular joint (TMJ) disorders affect a significant portion of the population and can cause chronic pain and disability. Accurate diagnosis is crucial for effective treatment planning, but can be challenging due to the complex anatomy and limited visibility of soft tissue structures on Cone Beam CT (CBCT) scans. MRI provides superior soft tissue contrast including the articular disc, but requires separate acquisition and manual registration with CBCT for detailed bone degeneration assessments. 
 
 
 
@@ -45,7 +45,7 @@ Temporomandibular joint (TMJ) disorders affect a significant portion of the popu
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-The “Multimodal Registration MR2CBCT Project” aims to develop a system capable to enhance diagnostic accuracy and patient outcomes by accurately aligning and overlaying the multimodal images while preserving anatomical details, building on Elastix registration tools.
+The “Multimodal Registration MR2CBCT Project” aims to develop a sequennce of image anlaysis preprocessing steps prior to accurately aligning and overlaying CBCT and MRI multimodal images, using Elastix registration tools.
 
 
 
@@ -54,7 +54,7 @@ The “Multimodal Registration MR2CBCT Project” aims to develop a system capab
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. **Dataset Collection:**
-   - Compil a comprehensive dataset consisting of MRI and CBCT files.
+   - Compile a comprehensive dataset consisting of MRI and CBCT files.
    - Perform manual approximation to align MRI and CBCT images initially.
    - Perform manual segmentation of the MRI.
 
@@ -69,14 +69,17 @@ The “Multimodal Registration MR2CBCT Project” aims to develop a system capab
 
 #### Second Approach:
    - **Manual Segmentation:**
-     - Conduct manual segmentation of MRI images as an initial step.
+     - Conduct automated segmentation of CBCT images as an initial step.
    - **Automated MRI Segmentation:**
      - Train a model to automate the segmentation process of MRI images.
    - **Elastix-Based Registration:**
      - Use Elastix to do the registration between MRI and CBCT images based on the segmentation.
            - Invert MRI to facilitate the registration process with Elastix.
+           - Normalized MRI and CBCT
 3. **Validate:**
    - Validate the best method accuracy through rigorous testing against established benchmarks.
+   - Create the Slicer module interface
+   - Write documentationsand examples 
 
 
 
@@ -92,15 +95,18 @@ The “Multimodal Registration MR2CBCT Project” aims to develop a system capab
    - We compiled a comprehensive dataset consisting of MRI and CBCT files.
    - Performed manual approximation to initially align MRI and CBCT images.
 
-
+2. **Image Registration Strategy:**
 #### Second Approach:
    - **Manual Segmentation:**
-     - Conducted manual segmentation of MRI images as an initial step.
+     - Conducted automated segmentation of CBCT images as an initial step.
+   - **Image Preprocessing:**
+     - Invert the gray scale level of the MRI
+     - Normalize the MRI and the CBCT 
    - **Elastix-Based Registration:**
      - Working to use Elastix to do the registration between MRI and CBCT images using the manual segmentation. The MRI has been inverted to facilitate the registration process with Elastix.
 
 ### Next Steps
-
+2. **Image Registration Strategy:**
 #### First Approach:
    - **CBCT Registration:**
      - Develop and train a model to transform MRI images into CBCT-like images.
@@ -109,6 +115,11 @@ The “Multimodal Registration MR2CBCT Project” aims to develop a system capab
 #### Second Approach:
    - **Automated MRI Segmentation:**
      - Train a model to automate the segmentation process.
+
+3. **Validate:**
+   - Validate the best method accuracy through rigorous testing against established benchmarks.
+   - Create the Slicer module interface
+   - Write documentationsand examples
 
 
 
