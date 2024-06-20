@@ -17,6 +17,10 @@ key_investigators:
   affiliation: Brigham and Women's Hospital
   country: US
 
+- name: Megha Kalia
+  affiliation: Brigham and Women's Hospital
+  country: US
+  
 - name: Andrey Fedorov
   affiliation: Brigham and Women's Hospital
   country: US
