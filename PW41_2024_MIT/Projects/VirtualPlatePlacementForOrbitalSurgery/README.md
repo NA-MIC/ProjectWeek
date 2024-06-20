@@ -112,6 +112,6 @@ _No response_
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-The repo for the current module: https://github.com/chz31/surgical_plate_registration
-Other studies using commercial software iPlan from BrainLab, which should still be based on manual adjustment: https://doi.org/10.1371/journal.pone.0150162 and https://doi.org/10.1016/j.cxom.2020.10.003
+The repo for the current module: [surgical_plate_registration](https://github.com/chz31/surgical_plate_registration)
+Other studies using commercial software iPlan from BrainLab, which should still be based on manual adjustment: [Schreur et al. 2017](https://doi.org/10.1371/journal.pone.0150162) and [Schreur et al. 2021](https://doi.org/10.1016/j.cxom.2020.10.003)
 
