@@ -101,9 +101,8 @@ Slicer-SOFA was born during [PW40](https://projectweek.na-mic.org/PW40_2024_Gran
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
-1. Describe specific steps you **have actually done**.
-
+* Tested Slicer-SOFA extension on mac os build
+    * Requires a local slicer build (tested on debug, see notes below for details)
 
 
 
@@ -123,4 +122,27 @@ _No response_
 
 
 _No response_
+
+# Notes
+
+## Mac OS build
+    * Configure and make:
+      ```
+      cmake \
+	      -DCMAKE_BUILD_TYPE:STRING=Debug \
+	      -DSlicer_DIR:PATH=${SLICER_BUILD} \
+      	-DCMAKE_OSX_DEPLOYMENT_TARGET:STRING=11.0 \
+      	../Slicer-SOFA
+
+      make -j50 |& tee log
+      ```
+  * Launch:
+    ```
+    export SLICERSOFA_DIR=/Users/pieper/slicer/latest/SOFA
+    export SLICER_DIR=/opt/s
+        SOFA_ROOT=${SLICERSOFA_DIR}/Slicer-SOFA-build/SOFA-build \
+        ${SLICER_DIR}/Slicer-build/Slicer \
+        --launcher-additional-settings ${DIR}/Slicer-SOFA-build/inner-build/AdditionalLauncherSettings.ini
+    ```
+  * Then paste a [script like this](https://github.com/pieper/Slicer-SOFA/blob/main/Experiments/lung.py) into the python console.
 
