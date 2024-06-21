@@ -45,7 +45,7 @@ The [Surface Landmark Extension](https://github.com/SlicerHeart/SlicerSurfaceMar
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
-[Initial grid projection](GridInitial.jpg)
+[Initial grid projection](GridInitial.png)
 -->
 
 # Background and References
