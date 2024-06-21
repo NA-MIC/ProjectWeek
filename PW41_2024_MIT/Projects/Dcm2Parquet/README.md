@@ -46,7 +46,7 @@ As of now, we are not aware of a tool other than Google Cloud's HealthCare API t
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Create a function to extract metadata at the series level first, assuming schema is inconsistent with in a series.
+1. Create a function to extract metadata at the series level first, assuming schema is consistent with in a series.
 2. Identify which columns and fields in the nested hierarchy, have inconsistent schema in a dataset, and choose most exhaustive datatype. For example b/w a string and array of strings, string datatype will be updated to array. Fill the missing columns, fields with nulls
 
 
