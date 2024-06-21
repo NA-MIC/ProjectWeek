@@ -17,6 +17,9 @@ key_investigators:
   affiliation: BWH
   country: USA
 
+- name: Steve Pieper
+  affiliation: Isomics, Inc.
+  country: USA
 ---
 
 # Project Description
