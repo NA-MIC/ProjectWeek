@@ -103,6 +103,9 @@ Slicer-SOFA was born during [PW40](https://projectweek.na-mic.org/PW40_2024_Gran
 
 * Tested Slicer-SOFA extension on mac os build
     * Requires a local slicer build (tested on debug, see notes below for details)
+    * Issues
+    	* Turning off Qt and OpenGL dependencies doesn't seem to work - it would be best to build just the core simulation and python wrapping.
+     	* Building in release mode didn't recognize libaries
 
 
 
