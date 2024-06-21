@@ -68,6 +68,8 @@ IDC provides a growing amount of publicly available cancer imaging data (>65TB a
 3. Work on priority aspects of the project: maintenance and improvement of SlicerIDCBrowser and idc-index, improvements of the documentation and other learning materials
 4. Improve/simplify access to the [NLST/TotalSegmentator analysis results](https://discourse.canceridc.dev/t/new-in-idc-v18-totalsegmentator-segmentations-and-radiomics-features-for-nlst-cts/582).
 5. Work on maintenance of dcmqi priority issues: https://github.com/QIICR/dcmqi/issues/489, python wrapper API
+6. MRTotalsegmenator SCT codes - Andras
+7. DCMTK upgrade in Slicer - JC
 
 
 ## Approach and Plan
