@@ -30,7 +30,7 @@ A grid-based semi-landmarking functionality comes up often as a request in conte
 
 ## Approach and Plan
 
-The [Surface Landmark Extension] (https://github.com/SlicerHeart/SlicerSurfaceMarkup/tree/master) developed by the Slicer Heart group provides the grid point structure that will be needed for this project. The remaining steps will be to:
+The [Surface Landmark Extension](https://github.com/SlicerHeart/SlicerSurfaceMarkup/tree/master) developed by the Slicer Heart group provides the grid point structure that will be needed for this project. The remaining steps will be to:
 1. Implement and test projection method to snap grid points to a model
 2. Implement methods to update grid points when a single point is moved manually
 3. Create a module to handle user interactions
@@ -45,7 +45,7 @@ The [Surface Landmark Extension] (https://github.com/SlicerHeart/SlicerSurfaceMa
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Initial grid projection](GridInitial.jpg)
+[Initial grid projection](GridInitial.jpg)
 -->
 
 # Background and References
