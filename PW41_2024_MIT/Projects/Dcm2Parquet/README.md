@@ -57,20 +57,18 @@ As of now, we are not aware of a tool other than Google Cloud's HealthCare API t
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Able to extract metadata at series level with out any problems. The [app](https://huggingface.co/spaces/vkt1414/dcm2parquet) reflects the progress made up to this point
+2. Next, inspired from how Bigquery displays the schema, we aim to replicate that. After, we will compare the common columns between Image series and determine if any data manipulation is necessary.
+   ![image](https://github.com/NA-MIC/ProjectWeek/assets/115020590/b18deb90-5934-436b-a04d-0a047b8e017c)
 
-
-_No response_
 
 
 
 # Illustrations
+We hosted the app on Hugging Face space at https://huggingface.co/spaces/vkt1414/dcm2parquet
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![image](https://github.com/NA-MIC/ProjectWeek/assets/115020590/30a0d0b3-13f7-4ad4-8ee1-0b8eb9a4c98a)
 
-
-_No response_
 
 
 
