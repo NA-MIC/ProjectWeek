@@ -25,7 +25,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-The goal of this project is to enhance the capabilities of Kaapana, an open-source platform, by enabling it to work seamlessly with DICOM data stored in Google Cloud's HealthCare API DICOM stores. Building upon the [previous](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/RunKaapanaOnGkeAndImproveConnectivityOfKaapanaToIdc/) project week's progress, we aim to further improve the connectivity and compatibility of Kaapana with Google's Healthcare API.
+The goal of this project is to enhance the capabilities of Kaapana, an open-source platform, by enabling it to work seamlessly with DICOM data stored in Google Cloud's HealthCare API DICOM stores. Currently, Kaapana relies on an internal dcm4chee DICOM, which means all of the data needs to be managed on the same VM as Kaapana itself, and in the situation where data already exists in an external DICOM store, it needs to be replicated to the Kaapana dcm4chee. We would like to make it possible to reuse existin Google Healthcare DICOM store without copying its content. Building upon the [previous](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/RunKaapanaOnGkeAndImproveConnectivityOfKaapanaToIdc/) project week's progress, we aim to further improve the connectivity and compatibility of Kaapana with Google's Healthcare API.
 
 
 
