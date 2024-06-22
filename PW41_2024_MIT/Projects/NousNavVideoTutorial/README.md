@@ -4,8 +4,8 @@ layout: pw41-project
 permalink: /:path/
 
 project_title: NousNav Video Tutorial
-category: Image-
-presenter_location: Online
+category: Image-Guided Therapy
+presenter_location: in person
 
 key_investigators:
 - name: Sonia Pujol
