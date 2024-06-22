@@ -28,6 +28,7 @@ The project aims to empower non-English speaking end-users to realize the full p
 1. Objective A. Validation of manual translations
 1. Objective B. Outreach to external Weblate contributors
 1. Objective C. Identification of international Slicer community members interested in new Slicer activities in their languages
+1. Objective D. Translation to French of SlicerIGT tutorials
 
 ## Approach and Plan
 
