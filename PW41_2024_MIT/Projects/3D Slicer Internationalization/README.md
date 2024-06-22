@@ -35,12 +35,10 @@ The project aims to empower non-English speaking end-users to realize the full p
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 ### Slicer Internationalization sessions with members of the Slicer community
-* Tuesday, June 25, 2:00-3:00 pm
-* Wednesday, June 26, 2:00-3:00 pm
-* Thursday, June 27, 2:00-3:00 pm
-
+* Tuesday, June 25, 1:30-2:30 pm Slicer Internationalization Session
+* Wednesday, June 26, 1:30-2:30 pm Slicer for Latin America Session
+* Thursday, June 27, 1:30-2:30 pm Joint Slicer Internationalization Session and Slicer for Latin America Session
   
-   
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
