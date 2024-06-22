@@ -11,32 +11,35 @@ key_investigators:
 - name: Sonia Pujol, PhD
   affiliation: Brigham and Women's Hospital, Harvard Medical School
 
-- name: Person2 Doe2
-  affiliation: University2
-  country: Spain
+- name: Mamadou Samba Camara, PhD
+  affiliation: Cheikh Anta Diop University
+  country: Senegal
 ---
 
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-The 3D Slicer internationalization project aims to empower non-English speaking end-users to realize the full potential of the platform by translating its user interface, tutorials and documentation to multiple languages.
+The project aims to empower non-English speaking end-users to realize the full potential of the platform by translating its user interface, tutorials and documentation to multiple languages.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Objective A. Validation of manual translations
+1. Objective B. Outreach to external Weblate contributors
+1. Objective C. Identification of international Slicer community members interested in new Slicer activities in their languages
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+### Slicer Internationalization sessions with members of the Slicer community
+* Tuesday, June 25, 2:00-3:00 pm
+* Wednesday, June 26, 2:00-3:00 pm
+* Thursday, June 27, 2:00-3:00 pm
 
+  
+   
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
