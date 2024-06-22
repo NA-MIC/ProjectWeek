@@ -3,7 +3,7 @@ layout: pw41-project
 
 permalink: /:path/
 
-project_title: Improve connectivity of Kaapana to IDCProject
+project_title: Implement support of external DICOM servers in Kaapana
 category: Cloud / Web
 presenter_location: In-person
 
@@ -25,11 +25,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-
 The goal of this project is to enhance the capabilities of Kaapana, an open-source platform, by enabling it to work seamlessly with DICOM data stored in Google Cloud's HealthCare API DICOM stores. Building upon the [previous](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/RunKaapanaOnGkeAndImproveConnectivityOfKaapanaToIdc/) project week's progress, we aim to further improve the connectivity and compatibility of Kaapana with Google's Healthcare API.
-
-
-
 
 
 
