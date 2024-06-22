@@ -84,7 +84,7 @@ The goal of this project is to empower the biomedical research community in Lati
 1. Verify if the Qt widgets are all marked as translatable and enclose the strings with the tr class. Also, verify the necessary configuration to add these strings in Weblate.
 2. The Slicer for Latin America translation team will work on translating the user manual and tutorials to guarantee that the Tutorial Maker module can be used by English, Portuguese, and Spanish users.
 3. The Slicer for Latin America engineering team will work with the Slicer developer community to solve the issues opened in the repository.
-4. The Slicer for Latin America translation team will work on translating the Tutorial Maker extension to Spanish and Portuguese using Slicer Weblate
+4. The Slicer for Latin America translation team will work on translating the MonaiLabel extension to Spanish and Portuguese using Slicer Weblate
 
 ## Progress and Next Steps
 
