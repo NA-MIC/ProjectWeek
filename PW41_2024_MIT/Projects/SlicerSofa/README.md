@@ -62,7 +62,7 @@ Slicer-SOFA was born during [PW40](https://projectweek.na-mic.org/PW40_2024_Gran
 
 <video
    controls muted
-   src="https://github.com/NA-MIC/ProjectWeek/assets/66890913/8f257f29-fa9c-4319-8c49-4138003eba27"
+   src="https://github.com/NA-MIC/ProjectWeek/assets/1978682/9d34a012-14c7-4480-89ff-265b74b054c5"
    style="max-height:640px; min-height: 200px">
  </video>
 
