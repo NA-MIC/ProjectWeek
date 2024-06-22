@@ -4,12 +4,13 @@ layout: pw41-project
 permalink: /:path/
 
 project_title: NousNav Video Tutorial
-category: Image-Guided Therapy
+category: IGT and Training
 presenter_location: in person
 
 key_investigators:
 - name: Sonia Pujol
   affiliation: Brigham and Women's Hospital, Harvard Medical School
+  country: USA
 
 - name: Colin Galvin
   affiliation: Brigham and Women's Hospital, Harvard Medical School
