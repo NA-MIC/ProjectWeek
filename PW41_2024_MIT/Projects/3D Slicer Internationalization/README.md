@@ -8,10 +8,10 @@ category: Infrastructure
 presenter_location: In-person and Online
 
 key_investigators:
-- name: Sonia Pujol, PhD
+- name: Sonia Pujol
   affiliation: Brigham and Women's Hospital, Harvard Medical School
 
-- name: Mamadou Samba Camara, PhD
+- name: Mamadou Samba Camara
   affiliation: Cheikh Anta Diop University
   country: Senegal
 ---
