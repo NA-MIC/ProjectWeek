@@ -14,6 +14,10 @@ key_investigators:
 - name: Mamadou Samba Camara
   affiliation: Cheikh Anta Diop University
   country: Senegal
+
+- name: Fatou Bintou Ndiaye
+  affiliation: Cheikh Anta Diop University
+  country: Senegal
 ---
 
 # Project Description
