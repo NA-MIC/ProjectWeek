@@ -24,7 +24,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-The MHub.ai project at Harvard has developed methods to execute machine learning models on medical images in an easy to use and standardized way.  There is already a Slicer plugin for running MHub.ai format models.  For this project, we propose to add two models of row different types to the MHub library. 
+The MHub.ai project at Harvard has developed methods to execute machine learning models on medical images in an easy to use and standardized way.  There is already a Slicer plugin for running MHub.ai format models.  For this project, we propose to add two models of different types to the MHub library. 
 
 
 
@@ -56,8 +56,9 @@ Step 2. Start converting a published pathology DNN model (Rhabdomyosarcoma segme
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
-
+1. We selected two of the MONAIAutoSeg3D models from the Slicer Extension and wrapped them using the MHub.ai framework as an exercise to learn the MHub approach.  As part of this process, we wrote a converter to produce the class descriptions used by MHub to describe model outputs from the original model descriptions. This approach could be used to convert other models later.
+   
+2. We started adapting a trained Rhabdomyosarcoma pathology model for MHub. the first part of the MHub pipeline works in our prototype but we arent processing the model ooutputs correctly yet. 
 
 
 
