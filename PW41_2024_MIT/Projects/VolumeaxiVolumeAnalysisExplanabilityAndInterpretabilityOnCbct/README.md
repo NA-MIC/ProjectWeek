@@ -35,8 +35,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-Artificial Intelligences offer a wide range of applications. There is more and more research about its uses in the medical field and especially on patient images. The question of trustworthiness is on every mind, every time a prediction is given. For that reason, we propose to develop **interpretable deep learning models** for the automated classification of impacted maxillary canines and assessment of root resorption in adjacent teeth using Cone-Beam Computed Tomography (CBCT). 
-Deep learning models based on Convolutional Neural Network (CNN) architectures were developed and evaluated for classifying impacted maxillary canine position and detecting root resorption. Gradient-weighted Class Activation Mapping (Grad-CAM) was integrated to generate visual explanations of the CNN predictions, enhancing interpretability and trustworthiness for clinical adoption.
+This project aims to develop interpretable deep learning models for the automated classification of impacted maxillary canines and assessment of dental root resorption in adjacent teeth using Cone-Beam Computed Tomography (CBCT). Impacted maxillary canines (IC) are a common clinical problem that can lead to complications if not diagnosed and treated early. We propose to develop a 3D slicer module, called Volume Analysis, eXplainability and Interpretability (Volume-AXI), with the goal of providing users  an explainable approach for classification of bone and teeth structural defects in CBCT scans gray-level images. We test various deep learning models based on Monai Convolutional Neural Network (CNN) architectures to classify  impacted maxillary canine position and detect root resorption. Gradient-weighted Class Activation Mapping (Grad-CAM) has already been  integrated to generate visual explanations of the CNN predictions, enhancing interpretability and trustworthiness for clinical adoption. 
 
 
 
@@ -45,11 +44,10 @@ Deep learning models based on Convolutional Neural Network (CNN) architectures w
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-We are using MONAI frameworks in this project.
+1. Classify tooth position within the bone using the Monai Densenet 121 and 201.
+2. Enhance Explainability and Interpretability of the Classification by generating salience maps  using  Monai GradCAM 
+3. Create the VolumeAXI 3D Slicer module and deploy the model as part toe the Slicer automated Dental tools extension
 
-1. Data Preparation and Pre-processing
-2. Integrate the developed AI algorithms with clinical workflows.
-3. Enhancing Explainability and Interpretability in Medical Imaging by deploying a module in 3D Slicer
 
 
 
@@ -59,14 +57,11 @@ We are using MONAI frameworks in this project.
 
 
 1. Data Preparation and Pre-processing
-
-2. Model Development and Training: Explore and select appropriate neural network architectures (e.g., ResNet, SENets) for image classification and feature visualization.
-
+2. Model Development and Training: Explore and select appropriate neural network architectures (e.g., ResNet, SENets, DenseNet) for image classification and feature visualization.
 3. Explainability and Visualization Techniques: Implement methods to make AI decisions transparent and understandable such as Grad-CAM.
-
 4. Validation and Testing
-
 5. Documentation and Training: Create comprehensive documentation and user guides explaining the functionality and benefits of the AI tools.
+
 
 
 
@@ -76,13 +71,16 @@ We are using MONAI frameworks in this project.
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Trained models with DenseNet architecture to classify the bucolingual position of the impacted maxillary canine and to classify the root resorption.
+1. Trained models with DenseNet architecture to classify the buccolingual position of the impacted maxillary canine.
 2. Implementation of GRAD-CAM with MONAI for visualization
-
-
+   
 Next Steps:
-1. Find the best hyper-parameters for the given application to improve the results
-2. Deploy a module or an extension in 3D Slicer 
+1. Test different architectures and methods to classify root resorption.
+2. Find the best hyper-parameters for the given applications to improve the results
+3. Clean and organise the code
+4. Deploy the models as a module extension in 3D Slicer
+5. Write the documentation and provide examples to use the code.
+
 
 
 # Illustrations
@@ -91,12 +89,9 @@ Next Steps:
 
 
 #### Well predicted case
-Class 1 predicted as a class 1. (right impacted canine)
-![Screenshot from 2024-06-18 11-59-48](https://github.com/NA-MIC/ProjectWeek/assets/91120559/16cadc2c-0a22-4257-af1a-d07e252888ac)
 
-The number of layers included change the precision of the focus on the tooth:
-![MN099_classIdx_1_slice_120](https://github.com/NA-MIC/ProjectWeek/assets/91120559/3664c3ba-4cea-4adf-83fe-724ff37c3682)
 
+![Position_grouped](https://github.com/NA-MIC/ProjectWeek/assets/91120559/46528c60-eb97-4011-953a-7d03f9671fbb)
 
 
 
