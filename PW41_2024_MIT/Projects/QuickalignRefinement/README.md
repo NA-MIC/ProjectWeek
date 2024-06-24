@@ -13,6 +13,10 @@ key_investigators:
   affiliation: SCRI
   country: USA
 
+- name: Murat Maga
+  affiliation: SCRI
+  country: USA
+
 ---
 
 # Project Description
