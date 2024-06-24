@@ -88,6 +88,7 @@ Updated on 2024-06-24.
 1. Felix Dorfner, Massachusetts General Hospital and Charité - Universitätsmedizin Berlin, USA, In Person
 1. Simon Drouin, École de technologie supérieure, Canada, In Person
 1. Moumen El-Melegy, Assiut University, Brigham and Women's Hospital, USA, In Person
+1. Zeinabou Babe Elemine, Cheikh Anta Diop University, Mauritania, Virtual
 1. Andrey Fedorov, Brigham and Women's Hospital, USA, In Person
 1. sara Fernandez Vidal, PARIS BRAIN INSTITUTE, France, In Person
 1. Jean-Christophe Fillion-Robin, Kitware, USA, In Person
@@ -127,6 +128,7 @@ Updated on 2024-06-24.
 1. Kaveh Moradkhani, École de technologie supérieure ÉTS, Canada, Virtual
 1. Pedro Moreira, Brigham and Women's Hospital, USA, In Person
 1. Luiz Murta, University of São Paulo, Brazil, Virtual
+1. Fatou Bintou NDIAYE, Université Cheikh Anta Diop of Dakar, Senegal, Virtual
 1. Leonard Nürnberg, MGB / Harvard, Netherlands, In Person
 1. Ballambat Suraj Pai, Brigham and Womens Hospital, USA, In Person
 1. Rafael Palomar, Oslo University Hospital, Norway, In Person
@@ -149,8 +151,8 @@ Updated on 2024-06-24.
 1. Baye Balla SY, Military Health School of Dakar, Senegal, Virtual
 1. Attila Tanács, University of Szeged, Hungary, Virtual
 1. Jess Tate, University of Utah, USA, Virtual
-1. Pape mady Thiao, EMS, Senegal, Virtual
 1. Pape mady Thiao, Unaffiliated, , Virtual
+1. Pape mady Thiao, EMS, Senegal, Virtual
 1. Vamsi Thiriveedhi, Brigham and Women's Hospital, USA, In Person
 1. Oshane Thomas, Seattle Children's Research Institute, USA, Virtual
 1. Junichi Tokuda, Brigham and Women's Hospital, USA, In Person
