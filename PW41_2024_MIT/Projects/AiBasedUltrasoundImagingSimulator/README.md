@@ -33,6 +33,7 @@ key_investigators:
 
 We will discuss strategies to integrate AI-based ultrasound imaging simulators in multiple platforms for medical robotics and IGT, including the Gazebo dynamic simulator and PLUS.
 
+Demo video is available at [GitHub](https://github.com/MXHsj/rus_sim_visuals/)
 
 
 ## Objective
