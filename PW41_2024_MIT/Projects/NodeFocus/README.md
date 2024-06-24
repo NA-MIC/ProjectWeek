@@ -10,10 +10,7 @@ presenter_location: In-person
 key_investigators:
 - name: Kyle Sunderland
   affiliation: Queen's University
-
-- name: Person2 Doe2
-  affiliation: University2
-  country: Spain
+  country: Canada
 ---
 
 # Project Description
