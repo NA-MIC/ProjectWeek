@@ -4,12 +4,13 @@ layout: pw41-project
 permalink: /:path/
 
 project_title: Methods for self-supervised depth estimation and motion estimation in coloscopy under deformation
-category: Uncategorized
+category: Quantification and Computation
 presenter_location: In-person
 
 key_investigators:
 - name: Megha Kalia
-  affiliation: Brigham and Women’s Hospital, Harvard Medical School, Boston, MA
+  affiliation: Brigham and Women’s Hospital, Harvard Medical School
+  county: USA
 
 ---
 
@@ -48,9 +49,9 @@ Coming Soon!
 
 # Background and References
 
-Dataset: http://cmic.cs.ucl.ac.uk/ColonoscopyDepth/Data/
-https://data.mendeley.com/datasets/cd2rtzm23r/1
-Monodepth2: https://github.com/nianticlabs/monodepth2
-TansUnet: https://github.com/Beckschen/TransUNet/tree/main/networks
+- [Dataset](http://cmic.cs.ucl.ac.uk/ColonoscopyDepth/Data/)
+- [https://data.mendeley.com/datasets/cd2rtzm23r/1](https://data.mendeley.com/datasets/cd2rtzm23r/1)
+- [Monodepth2](https://github.com/nianticlabs/monodepth2)
+- [TansUnet](https://github.com/Beckschen/TransUNet/tree/main/networks)
 
 
