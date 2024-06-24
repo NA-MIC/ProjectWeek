@@ -65,7 +65,7 @@ Since this study was performed, other methods aiming to segment MR abdominal org
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. [GitHub repo](https://github.com/deepakri201/mr_seg) for in progress colab notebooks 
 
 
 
