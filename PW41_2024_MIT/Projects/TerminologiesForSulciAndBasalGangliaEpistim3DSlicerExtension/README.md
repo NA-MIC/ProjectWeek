@@ -70,12 +70,13 @@ We are rewritting the entire epiSTIM toolbox (for [SEEG procedures](https://en.w
 ![image UYI0O2](https://github.com/NA-MIC/ProjectWeek/assets/26764989/aaa4d7a3-1203-4302-8eec-9d29af51a377)
 
 
-
+![nomenclature_translation](https://github.com/NA-MIC/ProjectWeek/commit/6841353632120e70538a60f36349e8496a98cdd0#diff-8a4420acbd429565305937535e42ed763684937750811cbf4dacafda52119a90)
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
+[Morphologist Pipeline](https://brainvisa.info/web/morphologist.html)
 
 
 _No response_
