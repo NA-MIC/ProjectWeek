@@ -5,9 +5,9 @@ redirect_from:
 - /PW41_2024_Boston/Readme.html
 
 project_categories:
+- IGT and Training
 - DICOM
 - VR/AR and Rendering
-- IGT and Training
 - Segmentation / Classification / Landmarking
 - Quantification and Computation
 - Registration
