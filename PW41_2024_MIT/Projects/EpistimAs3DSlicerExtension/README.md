@@ -4,7 +4,7 @@ layout: pw41-project
 permalink: /:path/
 
 project_title: epiSTIM as 3d slicer extension
-category: Other
+category: Segmentation
 presenter_location: Online
 
 key_investigators:
