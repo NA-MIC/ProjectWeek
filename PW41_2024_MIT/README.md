@@ -51,7 +51,7 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-06-22.
+Updated on 2024-06-24.
 
 1. Ekaterina Akhmad, Maastricht University, Netherlands, Virtual
 1. Ron Alkalay, Beth Israel Deaconess Medical Center, USA, In Person
@@ -62,6 +62,7 @@ Updated on 2024-06-22.
 1. Paul Baksic, INRIA - France, France, Virtual
 1. Mikulas Bankovic, German Cancer Research Center, Germany, Virtual
 1. Imre János Barabás, Semmelweis University, Hungary, In Person
+1. Mohamed Alalli Bilal, Université Nouakchott Al-Asriya, Mauritania, Virtual
 1. Owen Borders, Massachusetts General Hospital, USA, In Person
 1. Sylvain Bouix, École de technologie supérieure, Canada, In Person
 1. Charles Bricout, ETS, Canada, In Person
@@ -92,9 +93,11 @@ Updated on 2024-06-22.
 1. Jean-Christophe Fillion-Robin, Kitware, USA, In Person
 1. Sarah Frisken, Brigham and Women's Hospital, USA, In Person
 1. Colin Galvin, Brigham and Women's Hospital, USA, In Person
+1. Valeria Gomez Valdes, Slicer translation for Latin America- UAEMéx, Mexico, Virtual
 1. Douglas Samuel Gonçalves, USP, Brazil, Virtual
 1. Martin Gregorio, ICM, France, Virtual
 1. Michael Halle, Open Anatomy Project, USA, In Person
+1. Nazim Haouchine, BHW, USA, Virtual
 1. Ahmed Hassan, Harvard Medical School, Netherlands, In Person
 1. Carl Haugg, Harvard Medical School, USA, In Person
 1. Enrique Hernandez-Laredo, Universidad Autónoma del Estado de México, Mexico, Virtual
@@ -109,16 +112,20 @@ Updated on 2024-06-22.
 1. Deepa Krishnaswamy, Brigham and Women's Hospital, USA, In Person
 1. Andras Lasso, Queen's University, Canada, In Person
 1. kyuheon lee, korea university, Republic of Korea, Virtual
+1. Simon Leonard, Johns Hopkins University, USA, In Person
 1. Gaelle Leroux, University of Michigan, USA, In Person
 1. Rui Li, New York University, USA, Virtual
+1. Wenjie Liang, Maastricht University, Netherlands, Virtual
 1. Curtis Lisle, KnowledgeVis, LLC, USA, In Person
 1. Xihan Ma, Worcester Polytechnic Institute, USA, In Person
 1. Murat Maga, Seattle Childrens Research Institute, USA, Virtual
+1. Nikolaos Makris, Massachusetts General Hospital, USA, In Person
 1. Katie Mastrogiacomo, Brigham and Women's Hospital, USA, In Person
 1. Moaid Mohamedosman, Unaffiliated, Egypt, Virtual
 1. Reza Mojahed-Yazdi, AIM Lab, Brigham and Women Hospital, USA, In Person
 1. Victor Manuel Montaño Serrano, Universidad Autónoma del Estado de México, Mexico, Virtual
 1. Kaveh Moradkhani, École de technologie supérieure ÉTS, Canada, Virtual
+1. Pedro Moreira, Brigham and Women's Hospital, USA, In Person
 1. Luiz Murta, University of São Paulo, Brazil, Virtual
 1. Leonard Nürnberg, MGB / Harvard, Netherlands, In Person
 1. Ballambat Suraj Pai, Brigham and Womens Hospital, USA, In Person
@@ -154,6 +161,7 @@ Updated on 2024-06-22.
 1. William Wells, BWH, USA, In Person
 1. Quinn Williams, Brigham and Women's Hospital, USA, In Person
 1. Murong Xu, Univerisity of Zurich, Switzerland, In Person
+1. Khaled Younis, MedAiConsult, United States Minor Outlying Islands, Virtual
 1. Chi Zhang, Texas A&M University School of Dentistry, USA, In Person
 
 <!-- Participants list end -->
