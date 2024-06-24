@@ -73,7 +73,9 @@ The Ultrasound extension for Slicer contains modules for ultrasound video data p
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![2024-04-14_AnonymizeUltrasound_s](https://github.com/NA-MIC/ProjectWeek/assets/2071850/54294863-0a96-4a32-9e57-1a7c52e3db93)
 
+![2024-04-14_MmodeAnalysis_s](https://github.com/NA-MIC/ProjectWeek/assets/2071850/227b6f82-4e45-4767-9d19-c73a8bfc592b)
 
 _No response_
 
