@@ -4,7 +4,7 @@ layout: pw41-project
 permalink: /:path/
 
 project_title: Enhancing the SlicerMorph Hi-Res Screen Capture Module for 3D Slicer
-category: Other
+category: Infrastructure
 presenter_location: Online
 
 key_investigators:
@@ -94,5 +94,5 @@ Thus far, the first version of the HiRes Screen Capture module has been integrat
 
 The current version of HiRes Screen Capture can be found at:
 
-https://github.com/SlicerMorph/SlicerMorph/tree/master/HiResScreenCapture
+[https://github.com/SlicerMorph/SlicerMorph/tree/master/HiResScreenCapture](https://github.com/SlicerMorph/SlicerMorph/tree/master/HiResScreenCapture)
 
