@@ -48,7 +48,7 @@ This project week, we'd like to talk to more people, address limitations of our 
 
 
 1. We would like to discuss the limitations of our previous work, and brainstorm new ideas for automatic classification of the MR series type. 
-2. We would like to create an easy colab notebook for people to try out the methods 
+2. We would like to create an easy colab notebook for people to try out the methods - Try it out [here](https://github.com/deepakri201/DICOMScanClassification_pw41/blob/main/DICOMScanClassification_user_demo.ipynb)
 3. We would like to think about developing a more robust method
 
 
