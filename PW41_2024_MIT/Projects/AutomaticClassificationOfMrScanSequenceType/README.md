@@ -48,8 +48,8 @@ This project week, we'd like to talk to more people, address limitations of our 
 
 
 1. We would like to discuss the limitations of our previous work, and brainstorm new ideas for automatic classification of the MR series type. 
-2. We would like to create an easy colab notebook for people to try out the methods - Try it out [here](https://github.com/deepakri201/DICOMScanClassification_pw41/blob/main/DICOMScanClassification_user_demo.ipynb)
-3. We would like to think about developing a more robust method
+2. We would like to create an easy colab notebook for people to try out the methods
+4. We would like to think about developing a more robust method
 
 
 
@@ -69,7 +69,8 @@ This project week, we'd like to talk to more people, address limitations of our 
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. WIP [Colab notebook](https://github.com/deepakri201/DICOMScanClassification_pw41/blob/main/DICOMScanClassification_user_demo.ipynb) - we download data from IDC, and run inference using the three pretrained models. 
+2. WIP [HuggingFace space demo](https://huggingface.co/spaces/deepakri201/DICOMScanClassificationDemo) - we want the user to choose which data to download from IDC, and then will choose a pre-trained model to run inference 
 
 
 
