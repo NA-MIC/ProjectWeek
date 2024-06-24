@@ -1,4 +1,4 @@
-![image](https://github.com/NA-MIC/ProjectWeek/assets/18602669/4d245715-81f0-4929-ad8d-ca741a2c9ea9)---
+!---
 layout: pw41-project
 
 permalink: /:path/
@@ -70,6 +70,10 @@ No specific approach has been developed just yet.
 
 So far we have a brief web-based mock-up from Steve Pieper:
 [https://github.com/pieper/SlicerEditor](https://github.com/pieper/SlicerEditor)
+
+We also have a slicer module mock-up from Oshane Thomas:
+
+[https://github.com/oothomas/SlicerMorph/tree/downloading/SlicerEditor](https://github.com/oothomas/SlicerMorph/tree/downloading/SlicerEditor)
 
 
 
