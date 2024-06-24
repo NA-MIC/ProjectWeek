@@ -64,10 +64,10 @@ Step 2. Start converting a published pathology DNN model (Rhabdomyosarcoma segme
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+Below is a Slicer screenshot showing a segmentation created by an MHUb.ai model.  For this example, we took the low-res MONAIAutoSeg3D thoractic segmentation model from Andras' Slicer Extension and ported it to execute inside an MHub.ai workflow.  Others of the pre-trained AutoSeg models could also be ported with minimal effort. This model uses the SegResNet DNN from the MONAI project:
 
 
-_No response_
+<img width="953" alt="MONAIAutoSeg-in-MHub-result-thoracic" src="https://github.com/NA-MIC/ProjectWeek/assets/2152950/8de4f75b-a46e-4e4e-9e38-d80a4816b2e3">
 
 
 
