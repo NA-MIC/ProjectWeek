@@ -37,9 +37,8 @@ If you would like to offer suggestions or feedback on the current prototype, the
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Continue development of the node focus infrastructure.
-2. Get feedback from hands-on use to better improve the implementation.
-3. Improve visualization and performance.
+1. Analyze and discuss how the current design can be improved to work with the additional use-cases.
+2. Continue development of the node focus infrastructure.
 
 ## Progress and Next Steps
 
