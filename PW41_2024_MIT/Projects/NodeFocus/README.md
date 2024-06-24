@@ -48,7 +48,7 @@ If you would like to offer suggestions or feedback on the current prototype, the
 
 ## Progress and Next Steps
 
-- Prototype implementation can be found here: [https://github.com/Sunderlandkyl/Slicer/tree/focus_node_prototype](https://github.com/Sunderlandkyl/Slicer/tree/focus_node_prototype)
+- Prototype implementation can be found here: [https://github.com/Slicer/Slicer/compare/main...jcfr:focus_node_prototype_2](https://github.com/Slicer/Slicer/compare/main...jcfr:focus_node_prototype_2)
 - Brainstorm how the implementation can be improved to support the new use-cases.
 
 # Illustrations
@@ -67,4 +67,4 @@ Example showing models using a combobox:
 
 # Background and References
 
-- [Development branch](https://github.com/Sunderlandkyl/Slicer/tree/focus_node_prototype)
+- [Development branch](https://github.com/Slicer/Slicer/compare/main...jcfr:focus_node_prototype_2)
