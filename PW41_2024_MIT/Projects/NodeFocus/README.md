@@ -11,6 +11,16 @@ key_investigators:
 - name: Kyle Sunderland
   affiliation: Queen's University
   country: Canada
+
+key_investigators:
+- name: Andras Lasso
+  affiliation: Queen's University
+  country: Canada
+
+key_investigators:
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware
+  country: USA
 ---
 
 # Project Description
