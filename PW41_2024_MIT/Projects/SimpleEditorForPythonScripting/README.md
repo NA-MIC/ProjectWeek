@@ -1,4 +1,4 @@
----
+![image](https://github.com/NA-MIC/ProjectWeek/assets/18602669/4d245715-81f0-4929-ad8d-ca741a2c9ea9)---
 layout: pw41-project
 
 permalink: /:path/
@@ -77,6 +77,7 @@ So far we have a brief web-based mock-up from Steve Pieper:
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+![image](https://github.com/NA-MIC/ProjectWeek/assets/18602669/363df0c2-9135-44e2-b215-c272d6af1dd1)
 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/18602669/6b06a211-ce37-43db-a56d-64210185b576)
 
