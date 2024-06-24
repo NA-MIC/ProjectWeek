@@ -61,7 +61,13 @@ IDC provides a growing amount of publicly available cancer imaging data (>65TB a
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+1. Raise awareness about IDC, help users, collect feedback to help prioritize future development.
+2. Identify robust AI models that can be applied to IDC data to enrich IDC with annotations.
+3. Work on various issues related to the development of IDC platform and related software tools.
+   
+## Approach and Plan
 
+<!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Interact with current and prospective users to answer questions and collect feedback.
 2. Support any project that has a need for public datasets available for testing, cloud-based notebook implementations of the analysis, scaling up analysis to large cohorts within IDC.
@@ -70,16 +76,6 @@ IDC provides a growing amount of publicly available cancer imaging data (>65TB a
 5. Work on maintenance of dcmqi priority issues: https://github.com/QIICR/dcmqi/issues/489, python wrapper API
 6. MRTotalsegmenator SCT codes - Andras
 7. DCMTK upgrade in Slicer - JC
-
-
-## Approach and Plan
-
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-
-
 
 
 ## Progress and Next Steps
