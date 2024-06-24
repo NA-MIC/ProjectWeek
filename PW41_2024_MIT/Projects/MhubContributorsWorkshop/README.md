@@ -73,7 +73,7 @@ We have [detailed documentation](https://github.com/MHubAI/documentation/tree/ma
 
 2. **MHub.ai Model Deployment**
 We created a tutorial that guides through the implementation of a model into the universal MHub format.
-   - [T3 - Create the Thresholder Model for MHub]([https://github.com/MHubAI/documentation/blob/main/tutorials/run_totalsegmentator_on_idc_collection/mhub_tutorial_001.md](https://github.com/MHubAI/documentation/blob/main/tutorials/create_thresholder_model_for_mhub/mhub_tutorial_003.md))
+   - [T3 - Create the Thresholder Model for MHub](https://github.com/MHubAI/documentation/blob/main/tutorials/run_totalsegmentator_on_idc_collection/mhub_tutorial_001.md)
 
 4. **MHub.ai Contribution Process**
 MHub has a clearly defined contribution process. 
