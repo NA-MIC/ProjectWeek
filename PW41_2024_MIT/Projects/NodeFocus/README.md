@@ -48,7 +48,7 @@ If you would like to offer suggestions or feedback on the current prototype, the
 
 ## Progress and Next Steps
 
-- Prototype implementation can be found here: https://github.com/Sunderlandkyl/Slicer/tree/focus_node_prototype
+- Prototype implementation can be found here: [https://github.com/Sunderlandkyl/Slicer/tree/focus_node_prototype](https://github.com/Sunderlandkyl/Slicer/tree/focus_node_prototype)
 - Brainstorm how the implementation can be improved to support the new use-cases.
 
 # Illustrations
