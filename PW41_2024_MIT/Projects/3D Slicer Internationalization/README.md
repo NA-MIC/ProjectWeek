@@ -22,7 +22,11 @@ key_investigators:
 - name: Fatou Bintou Ndiaye
   affiliation: Cheikh Anta Diop University
   country: Senegal
-  
+
+- name: Mohamed Alalli Bilal 
+  affiliation: Nouakchott Al-Asriya University
+  country: Mauritania
+
 - name: Andras Lasso
   affiliation: Queen's University
   country: Canada
