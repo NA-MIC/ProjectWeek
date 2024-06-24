@@ -33,7 +33,7 @@ We will be working on integrating new icons, QSS support, and better dynamic the
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Get a working ligth /dark theme switch for icon sets
+1. Get a working light /dark theme switch for icon sets
 2. Use the newly developed icon set in Slicer
 3. Mov towards using QSS for styling
 
@@ -46,7 +46,7 @@ We will be working on integrating new icons, QSS support, and better dynamic the
 
 
 1. Investigate current methods for swapping out light and dark themes for icons.
-2. Work on putting together a QSS style implementation for the current Slicer Ligght / Dark themes
+2. Work on putting together a QSS style implementation for the current Slicer Light / Dark themes
 3. Investigate methods of orverrding the existing icon set
 4. Consolidate and icons and remove non-existent icons
 
