@@ -71,12 +71,16 @@ We plan to hold a workshop or break-out session where we demonstrate every step 
 1. **MHub.ai Documentation**
 We have [detailed documentation](https://github.com/MHubAI/documentation/tree/main) on [how to run a model](https://github.com/MHubAI/documentation/blob/main/documentation/mhub/run_mhub.md) in MHub and documentation on the individual [tools provided within the MHub-IO framework](https://github.com/MHubAI/documentation/blob/main/documentation/mhubio/mhubio_modules.md).
 
-2. **MHub.ai Contribution Process**
+2. **MHub.ai Model Deployment**
+We created a tutorial that guides through the implementation of a model into the universal MHub format.
+   - [T3 - Create the Thresholder Model for MHub]([https://github.com/MHubAI/documentation/blob/main/tutorials/run_totalsegmentator_on_idc_collection/mhub_tutorial_001.md](https://github.com/MHubAI/documentation/blob/main/tutorials/create_thresholder_model_for_mhub/mhub_tutorial_003.md))
+
+4. **MHub.ai Contribution Process**
 MHub has a clearly defined contribution process. 
 The requirements and the process are explained in our [documentation](https://github.com/MHubAI/documentation/blob/main/documentation/mhub_contribution/contributing_a_model.md).
 
-4. **MHub.ai Tutorials**
-We wrote two tutorials demonstrating how to run and customize MHub models based on public data from IDC and how to visualize and compare results in 3D Slicer.
+5. **MHub.ai Tutorials**
+We wrote two more tutorials demonstrating how to run and customize MHub models based on public data from IDC and how to visualize and compare results in 3D Slicer.
    - [T1 - Run TotalSegmentator on IDC Collection](https://github.com/MHubAI/documentation/blob/main/tutorials/run_totalsegmentator_on_idc_collection/mhub_tutorial_001.md)
    - [T2 - Run Custom MHub Lung Segmentation Workflow on Chest CT in Nifti Format
 ](https://github.com/MHubAI/documentation/blob/main/tutorials/run_lungmask_on_chestct_in_nifti_format/mhub_tutorial_002.md)
