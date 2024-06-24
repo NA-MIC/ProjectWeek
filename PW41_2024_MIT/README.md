@@ -26,8 +26,7 @@ Grier Rooms (34-401A, 34-401B), Building 34, 50 Vassar Street, Cambridge, MA
 
 ## Preparation meetings
 
-We held weekly preparation meetings at 10am on Tuesdays on Zoom, starting April 30, 2024. The links will be sent by email.
-
+We held weekly preparation meetings at 10am on Tuesdays on Zoom, starting April 30, 2024.
 ## Registration
 Register at the link [here](https://cvent.me/dldl10).
 
