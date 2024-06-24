@@ -27,6 +27,8 @@ key_investigators:
 
 Combining multiple segmentations from skilled annotators can improve accuracy when creating ground truth image segmentations.
 The Centaur annotation platform has new support for collecting and displaying annotations on DICOM studies using OHIF viewer.
+We are currently in the middle of a 1-month task of sourcing and creating segmentations for radiology findings from hundreds
+of annotators on 30,000 brain and abdominal CTs.
 
 ## Objective
 
@@ -54,6 +56,7 @@ for 3D cuboid segmentations.
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
+https://www.dropbox.com/scl/fi/0clde5ufr468jccyijk0n/Screenshot-2024-06-24-at-12.35.17-PM.png?rlkey=hefwskhabqlhlkmd9v32c8ky8&dl=0
 -->
 
 # Background and References
