@@ -41,7 +41,7 @@ We are initiating a multi-center (led by Dr. Emet Schneiderman) study to underst
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Use statistical shape modeling tools from Slicer and Kitware to refine 3D reconstruct of fetal faces based on ultrasonography.
+1. Use statistical shape modeling tools or other tools from Slicer and Kitware to refine 3D reconstruct of fetal faces based on ultrasonography. Aesthetics is also important because part of the goal is to make parents aware of the sleep treatment.
 
 
 
@@ -50,9 +50,10 @@ We are initiating a multi-center (led by Dr. Emet Schneiderman) study to underst
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Learn and explore techniques in statistical shape modeling and ultrasound image processing using 3D slicer and other tools developed by Kitware; set up a plan.
-2. Locate sample data for experimenting.
-3. Develop potential collaborations
+1. Segmentation of noisy US images
+2. Learn and explore techniques in statistical shape modeling and ultrasound image processing using 3D slicer and other tools developed by Kitware; set up a plan.
+3. Locate sample data for experimenting.
+4. Develop potential collaborations
 
 
 
@@ -84,5 +85,8 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-The most recent study: https://www.nature.com/articles/s41598-023-50386-9
+The most recent study is [Alomar et al. 2022]https://www.sciencedirect.com/science/article/pii/S0169260722002759 using new born babies to build a statistical model for US refinement.
+
+<img width="400" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/9a6e617c-23cc-4a9e-a59a-315cdb770796">
+
 
