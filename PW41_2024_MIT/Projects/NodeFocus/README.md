@@ -20,12 +20,19 @@ key_investigators:
 
 3D software applications often provide feedback mechanisms for selecting objects and showing users which objects they have selected, or are interacting with. This allows some visualizations to be hidden when the object is not in focus.
 
+During PW39, we worked on the initial visualization and implementation, however it has since become clear that we will need to account for additional use-cases such as VR and muli-user interaction.
+
 ## Objective
 
-This project aims to implement a similar node selection system in 3D Slicer, allowing users to:
+Analyze the existing prototype implementation and discuss ways that the design could be improved to account for the expanded use-cases.
 
+This new implementation should be able to handle the existing use-cases:
 - See the nodes that they are hovering over or interacting with in the various subject hierarchy trees or node selectors.
 - Select nodes by clicking on them in one of the views.
+
+As well as the new use-cases:
+- Multi-controller highlighting in VR.
+- Allow highlighting by multiple users.
 
 If you would like to offer suggestions or feedback on the current prototype, then come see me in-person.
 
@@ -40,11 +47,9 @@ If you would like to offer suggestions or feedback on the current prototype, the
 ## Progress and Next Steps
 
 - Prototype implementation can be found here: https://github.com/Sunderlandkyl/Slicer/tree/focus_node_prototype
-- Improve rendering of volumes + hard selection.
-- Implement picking of node types other than markups.
+- Brainstorm how the implementation can be improved to support the new use-cases.
 
 # Illustrations
-
 
 Example showing segmentations:
 
