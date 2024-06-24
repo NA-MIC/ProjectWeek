@@ -1,0 +1,65 @@
+---
+layout: pw41-project
+
+permalink: /:path/
+
+project_title: Aggregation of 3D Cuboid Annotations
+category: Segmentation / Classification / Landmarking
+presenter_location: In-person
+
+key_investigators:
+Tamas Ungi (Queen's University, Canada)
+Tina Kapur (Brigham and Women's Hospital, USA)
+Amene Asgari (Brigham and Women's Hospital, USA)
+
+- name: Mike Jin
+  affiliation: Brigham and Women's Hospital; Centaur Labs, USA
+
+- name: Tamas Ungi
+  affiliation: Queen's University, Canada
+
+- name: Amene Asgari
+  affiliation: Brigham and Women's Hospital; Centaur Labs, USA
+
+- name: Tina Kapur
+  affiliation: Brigham and Women's Hospital; Centaur Labs, USA
+
+---
+
+# Project Description
+
+Combining multiple segmentations from skilled annotators can improve accuracy when creating ground truth image segmentations.
+The Centaur annotation platform has new support for collecting and displaying annotations on DICOM studies using OHIF viewer.
+
+## Objective
+
+<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+
+We would like to extend an existing 2D clustering algorithm for combining multiple 2D segmentations to work
+for 3D cuboid segmentations.
+
+## Approach and Plan
+
+1. Create 3D representation objects for cuboid annotations submitted through OHIF viewer
+2. Implement clustering algorithm using a 3D instead of 2D distance metric
+
+## Progress and Next Steps
+
+<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
+     If there are specific steps that you could not complete then you can describe them here, too. -->
+
+1. Describe specific steps you **have actually done**.
+1. ...
+1. ...
+
+# Illustrations
+
+<!-- Add pictures and links to videos that demonstrate what has been accomplished.
+![Description of picture](Example2.jpg)
+![Some more images](Example2.jpg)
+-->
+
+# Background and References
+
+<!-- If you developed any software, include link to the source code repository.
+     If possible, also add links to sample data, and to any relevant publications. -->
