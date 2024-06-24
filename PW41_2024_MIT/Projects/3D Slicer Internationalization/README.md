@@ -22,6 +22,15 @@ key_investigators:
 - name: Fatou Bintou Ndiaye
   affiliation: Cheikh Anta Diop University
   country: Senegal
+  
+- name: Andras Lasso
+  affiliation: Queen's University
+  country: Canada
+
+- name: Steve Pieper
+  affiliation: Isomics
+  country: USA
+  
 ---
 
 # Project Description
