@@ -33,7 +33,9 @@ We will be working on integrating new icons, QSS support, and better dynamic the
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
+1. Get a working ligth /dark theme switch for icon sets
+2. Use the newly developed icon set in Slicer
+3. Mov towards using QSS for styling
 
 
 
@@ -43,7 +45,10 @@ We will be working on integrating new icons, QSS support, and better dynamic the
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
+1. Investigate current methods for swapping out light and dark themes for icons.
+2. Work on putting together a QSS style implementation for the current Slicer Ligght / Dark themes
+3. Investigate methods of orverrding the existing icon set
+4. Consolidate and icons and remove non-existent icons
 
 
 
@@ -62,9 +67,10 @@ We will be working on integrating new icons, QSS support, and better dynamic the
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![image](https://raw.githubusercontent.com/Slicer/slicer-media-assets/main/SlicerIcons/SlicerSVG/SeparateStyles/LightThemeIcons/SpatialProbes/SlicerSlicePlanesOptions.svg)
+![image](https://raw.githubusercontent.com/Slicer/slicer-media-assets/main/SlicerIcons/SlicerSVG/SeparateStyles/LightThemeIcons/Modules/SegmentEditorModule.svg)
+![image](https://raw.githubusercontent.com/Slicer/slicer-media-assets/main/SlicerIcons/SlicerSVG/SeparateStyles/LightThemeIcons/Modules/WelcomeModule.svg)
 
-
-_No response_
 
 
 
@@ -72,7 +78,6 @@ _No response_
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-
-
-_No response_
+- [Icon document](https://docs.google.com/document/d/1OYhRzBFjwT6dUOIDVL_II8ZQ8QUwDl68wbtt3eIV1ao/edit?usp=sharing)
+- [Repo](https://github.com/Slicer/slicer-media-assets)
 
