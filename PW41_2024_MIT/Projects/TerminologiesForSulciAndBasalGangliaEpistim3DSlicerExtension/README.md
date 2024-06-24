@@ -3,7 +3,7 @@ layout: pw41-project
 
 permalink: /:path/
 
-project_title: Terminologies for sulci and basal ganglia - epiSTIM 3D Slicer Extension
+project_title: Importing Labelled Sulci from Morphologist Pipeline (Brainvisa). Creating a new 3D Slicer terminologie
 category: Segmentation / Classification / Landmarking
 presenter_location: In-person
 
