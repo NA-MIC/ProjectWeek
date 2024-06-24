@@ -55,6 +55,10 @@ The project aims to empower non-English speaking end-users to realize the full p
 * Tuesday, June 25, 1:30-2:30 pm Slicer Internationalization Session
 * Wednesday, June 26, 1:30-2:30 pm Slicer for Latin America Session
 * Thursday, June 27, 1:30-2:30 pm Joint Slicer Internationalization Session and Slicer for Latin America Session
+
+International PW41 participants, please complete the [3D Slicer Internationalization form](https://forms.gle/h7b92rDzbUzFqL7d9)  to participate in the sessions.
+
+  
   
 ## Progress and Next Steps
 
