@@ -168,7 +168,7 @@ Updated on 2024-06-24.
 
 ## Statistics
 
-<img alt="Participation statistics" src="statistics.svg" width="500"/>
+<img alt="Participation statistics" src="statistics.svg" width="768"/>
 
 ## Organizers
 
