@@ -3,7 +3,7 @@ layout: pw41-project
 
 permalink: /:path/
 
-project_title: Methods for self-supervised depth estimation and motion estimation in coloscopy under deformation
+project_title: Methods for self-supervised depth estimation and motion estimation in colonoscopy under deformation
 category: Quantification and Computation
 presenter_location: In-person
 
@@ -22,7 +22,7 @@ Estimating Depth and localizing endoscope in surgical environment is critical in
 ## Objective
 
 
-1. Objective A. To build and run and train the FlowNet on colonoscopy dataset
+1. Objective A. To build and run and train the flowNet on colonoscopy dataset
 1. Objective B. To integrate the flowNet module in the Monodepth2 framework
 1. Objective C. To integrate and evaluate TransUnet blocks in Monodepth2 framework. 
 
@@ -30,12 +30,12 @@ Estimating Depth and localizing endoscope in surgical environment is critical in
 
 
 1. Run the Monodepth2 on the colonoscopy dataset. 
-1. Train the optical flow network on the coloscopic dataset
+1. Train the optical flow network on the colonoscopic dataset
 1. 
 
 ## Progress and Next Steps
 
-1. Run the model on the coloscopic dataset. 
+1. Run the model on the colonoscopic dataset. 
 2. Run TransUnet
 3. Replace the TransUnet in Monodepth2 and run on the dataset
 
