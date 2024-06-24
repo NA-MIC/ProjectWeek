@@ -168,6 +168,8 @@ Updated on 2024-06-24.
 
 ## Statistics
 
+<img alt="Participation statistics" src="statistics.svg" width="500"/>
+
 ## Organizers
 
 * [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)),
