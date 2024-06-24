@@ -60,6 +60,14 @@ key_investigators:
   affiliation: Universida Autónoma del Estado de México
   country: Mexico
 
+- name: Andras Lasso
+  affiliation: Queen's University
+  country: Canada
+
+- name: Steve Pieper
+  affiliation: Isomics Inc.
+  country: USA
+
 ---
 
 # Project Description
