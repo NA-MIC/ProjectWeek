@@ -59,7 +59,16 @@ We will be working on integrating new icons, QSS support, and better dynamic the
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Possible approach - External RCC
+    - Refactor out current resources into an external resource file
+    - [Dynamically Loaded Resources](https://doc.qt.io/qt-6/qresource.html#dynamic-resource-loading)
+    - Load dark vs. light resources at startup
+    - Pros
+        - Minimal changes to the Slicer core code (still using the resource system)
+    - Cons
+        - Icons can only be refreshed with a restart
+        - Build system will need to generate the rcc file instead of compiling in the resources
+        - Will need to add calls to register custom resources for modules and main application
 
 
 
