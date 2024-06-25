@@ -68,7 +68,7 @@ The “Multimodal Registration MR2CBCT Project” aims to develop a sequennce of
      - Utilize existing tools to register the transformed CBCT images with actual CBCT images.
 
 #### Second Approach:
-   - **Manual Segmentation:**
+   - **Automatic Segmentation:**
      - Conduct automated segmentation of CBCT images as an initial step.
    - **Automated MRI Segmentation:**
      - Train a model to automate the segmentation process of MRI images.
@@ -97,7 +97,7 @@ The “Multimodal Registration MR2CBCT Project” aims to develop a sequennce of
 
 2. **Image Registration Strategy:**
 #### Second Approach:
-   - **Manual Segmentation:**
+   - **Automated Segmentation:**
      - Conducted automated segmentation of CBCT images as an initial step.
    - **Image Preprocessing:**
      - Invert the gray scale level of the MRI
