@@ -4,7 +4,7 @@ layout: pw41-project
 permalink: /:path/
 
 project_title: Development of a haptic model for ultrasound-guided catheter insertion
-category: Uncategorized
+category: IGT and Training
 presenter_location: Online
 
 key_investigators:
