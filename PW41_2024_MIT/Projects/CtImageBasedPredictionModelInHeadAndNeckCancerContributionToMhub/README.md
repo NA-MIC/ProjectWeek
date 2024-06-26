@@ -86,6 +86,6 @@ _No response_
 
 
 - The model was developed by [CDS group at Maastricht University](https://github.com/MaastrichtU-CDS/hn_cnn/tree/main?tab=readme-ov-file#description )
-- Citation: https://doi.org/10.1038/s41598-023-45486-5 
+- [Citation](https://doi.org/10.1038/s41598-023-45486-5)
 - License:  MIT license
 
