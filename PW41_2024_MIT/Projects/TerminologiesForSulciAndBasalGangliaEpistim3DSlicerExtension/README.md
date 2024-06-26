@@ -81,7 +81,9 @@ We are rewritting the entire epiSTIM toolbox (for [SEEG procedures](https://en.w
 [BrainInfo Ontology API](http://braininfo.rprc.washington.edu/nnont.aspx)
 
 [How to create 3D Slicer Terminologies](https://github.com/lassoan/SlicerMONAIAuto3DSeg/blob/main/UsingStandardTerminology.md)
+
 [SNOMED-CT, DICOM use it](https://browser.ihtsdotools.org/?perspective=full&conceptId1=279348008&edition=MAIN/2024-06-01&release=&languages=en)
+
 [UBERON (multi especes ontologie)](https://obophenotype.github.io/uberon/current_release/)
 
 
