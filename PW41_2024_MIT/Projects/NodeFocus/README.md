@@ -49,7 +49,7 @@ If you would like to offer suggestions or feedback on the current prototype, the
 ## Progress and Next Steps
 
 - Prototype implementation can be found here: [https://github.com/Slicer/Slicer/compare/main...jcfr:focus_node_prototype_2](https://github.com/Slicer/Slicer/compare/main...jcfr:focus_node_prototype_2)
-- Brainstorm how the implementation can be improved to support the new use-cases.
+- Brainstorm how the implementation can be improved to support the new use-cases: [Google doc](https://docs.google.com/document/d/1vhjOxZ5KX_YTePz-7LkNNhU39hI4LmgxW9GlX5TyeLc/edit?usp=sharing).
 
 # Illustrations
 
