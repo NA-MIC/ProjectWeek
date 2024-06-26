@@ -84,7 +84,7 @@ We are rewritting the entire epiSTIM toolbox (for [SEEG procedures](https://en.w
 
 [SNOMED-CT, DICOM use it](https://browser.ihtsdotools.org/?perspective=full&conceptId1=279348008&edition=MAIN/2024-06-01&release=&languages=en)
 
-[UBERON (multi especes ontologie)](https://obophenotype.github.io/uberon/current_release/)
+[UBERON (multi especes ontology)](https://obophenotype.github.io/uberon/current_release/)
 
 
 _No response_
