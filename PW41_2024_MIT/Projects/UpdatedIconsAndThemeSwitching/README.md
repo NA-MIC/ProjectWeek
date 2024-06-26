@@ -84,11 +84,11 @@ We will be working on integrating new icons, QSS support, and better dynamic the
 ## Switching with external resources in test extension
 
 ### Slicer Dark:
-![SlicerDark](https://github.com/NA-MIC/ProjectWeek/assets/25040869/fbb2c794-a1d6-4bf4-b490-0c3fa7ddd341)
+![SlicerDarkUpdated](https://github.com/NA-MIC/ProjectWeek/assets/25040869/12767317-b88c-4340-8652-4b919d2da814)
 
 
 ### Slicer Light: 
-![SlicerLight](https://github.com/NA-MIC/ProjectWeek/assets/25040869/bdaa9be2-2b56-4357-bc36-ea95927a2d2b)
+![SlicerLightUpdated](https://github.com/NA-MIC/ProjectWeek/assets/25040869/a13bea8b-5e7a-4da0-af67-02849cbe810e)
 
 
 # Background and References
