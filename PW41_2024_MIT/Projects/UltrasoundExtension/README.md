@@ -65,9 +65,9 @@ The Ultrasound extension for Slicer contains modules for ultrasound video data p
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
-
-
+1. Tested anonymizer module on a new dataset.
+2. Added Time Series Annotation module documentation and screenshot.
+3. Working on NeedleGuide module (custom UI for interventions), WIP code available but not packaged in extension yet.
 
 
 # Illustrations
@@ -76,6 +76,8 @@ The Ultrasound extension for Slicer contains modules for ultrasound video data p
 ![2024-04-14_AnonymizeUltrasound_s](https://github.com/NA-MIC/ProjectWeek/assets/2071850/54294863-0a96-4a32-9e57-1a7c52e3db93)
 
 ![2024-04-14_MmodeAnalysis_s](https://github.com/NA-MIC/ProjectWeek/assets/2071850/227b6f82-4e45-4767-9d19-c73a8bfc592b)
+
+![TimeSeriesAnnotation_2024-06-27.png](https://raw.githubusercontent.com/ungi/SlicerUltrasound/b4c3fdea3025d2891f849a9061a89ca8cbb30b99/Screenshots/TimeSeriesAnnotation_2024-06-27.png)
 
 _No response_
 
