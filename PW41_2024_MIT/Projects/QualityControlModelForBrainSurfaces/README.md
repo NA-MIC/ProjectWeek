@@ -76,7 +76,7 @@ The project would be to create the extension of this QC model and the visualizat
 
 <video
    controls muted
-   src="https://github.com/NA-MIC/ProjectWeek/PW41_2024_MIT/Projects/QualityControlModelForBrainSurfaces/Slicer\ Video.mp4"
+   src="PW41_2024_MIT/Projects/QualityControlModelForBrainSurfaces/Slicer Video.mp4"
    style="max-height:640px; min-height: 200px">
  </video>
 
