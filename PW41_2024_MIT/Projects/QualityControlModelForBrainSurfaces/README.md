@@ -74,10 +74,10 @@ The project would be to create the extension of this QC model and the visualizat
 1. We are able to load the model (on Linux)
 2. We are able to run the prediction over a direcotry of subjects (on Linux)
 
-https://youtu.be/OSPbTEHicPQ
+## Video Demo
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/OSPbTEHicPQ">
-</iframe>
+[![Watch the video](image.png)](https://youtu.be/OSPbTEHicPQ)
+
 
 Next steps :
 1. Make sure that all preliminary steps have no issue
