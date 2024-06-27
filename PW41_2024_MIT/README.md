@@ -39,6 +39,8 @@ The **Discord** application is used to communicate between team members and orga
 
 ## Breakout sessions
 
+### [Slicer Platform Slides for PW 41](https://docs.google.com/presentation/d/1CX99cU3zJDzLC6PUA3Is07HckF98AxkGsYd6oojEv9o/edit?usp=sharing)
+
 ## Projects
 
 To learn how to create or update project pages, please refer to the [contributing project pages](ContributingProjectPages.md) section.
