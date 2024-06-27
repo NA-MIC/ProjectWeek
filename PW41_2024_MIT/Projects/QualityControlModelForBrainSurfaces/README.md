@@ -74,11 +74,10 @@ The project would be to create the extension of this QC model and the visualizat
 1. We are able to load the model (on Linux)
 2. We are able to run the prediction over a direcotry of subjects (on Linux)
 
-<video
-   controls muted
-   src="PW41_2024_MIT/Projects/QualityControlModelForBrainSurfaces/Slicer Video.mp4"
-   style="max-height:640px; min-height: 200px">
- </video>
+https://youtu.be/OSPbTEHicPQ
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/OSPbTEHicPQ">
+</iframe>
 
 Next steps :
 1. Make sure that all preliminary steps have no issue
