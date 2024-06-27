@@ -77,24 +77,15 @@ Since this study was performed, other methods aiming to segment MR abdominal org
 <!--![Comparison of MR segmentation methods on a subject from AMOS dataset](https://github.com/NA-MIC/ProjectWeek/assets/59979551/a65ae678-d7d7-4b29-9c26-26404a29f7de) -->
 
 Comparison of MR segmentation methods on a subject from AMOS dataset: 
-- Top left = ground truth expert segmentations
-- Top right = our approach
-- Bottom left = TotalSegmentator MRI
-- Bottom middle = MRSegmentator
-- Bottom right = our approach
+
+Top left = ground truth expert segmentations, top right = our approach 
+
+Bottom left = TotalSegmentator, bottom middle = MRSegmentator, bottom right = our approach
 
 <img src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/a65ae678-d7d7-4b29-9c26-26404a29f7de" width="1000">
 
-Comparison of MR segmentation methods on a subject from IDC TCGA-LIHC dataset: 
-- 3D = our approach
-- Bottom left = our approach
-- Bottom middle = TotalSegmentator MRI
-- Bottom right = MRSegmentator 
-<img width="1501" alt="tcga_lihc_3DSlicer" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/0ae22251-2719-4f82-9847-7dd6ec5e873f">
-
-
-
-_No response_
+**Dice distributions between AI segmentations and expert annotations on AMOS22 MR training split.**
+![image](https://github.com/NA-MIC/ProjectWeek/assets/72577931/9b2cc0dc-7a74-465c-b08e-e876e16db8e9)
 
 
 
