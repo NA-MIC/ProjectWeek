@@ -65,7 +65,9 @@ Since this study was performed, other methods aiming to segment MR abdominal org
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. [GitHub repo](https://github.com/deepakri201/mr_seg) for colab notebooks for evaluation of MR segmentation methods 
+1. [GitHub repo](https://github.com/deepakri201/mr_seg) for colab notebooks for evaluation of MR segmentation methods
+2. Look into methods like STAPLE for consensus of segmentations - WIP
+3. Perform a comparison of the methods to ground truth - WIP 
 
 
 
