@@ -99,7 +99,7 @@ The goal of this project is to empower the biomedical research community in Lati
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
+1. An incomplete ts file is committed to the SlicerLanguageTranslations repository—[Link to the Pull Request](https://github.com/Slicer/SlicerLanguageTranslations/pull/543/commits). Still need to mark some errors as translatable.
 1. ...
 1. ...
 
