@@ -65,7 +65,7 @@ Since this study was performed, other methods aiming to segment MR abdominal org
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. [GitHub repo](https://github.com/deepakri201/mr_seg) for in progress colab notebooks 
+1. [GitHub repo](https://github.com/deepakri201/mr_seg) for colab notebooks for evaluation of MR segmentation methods 
 
 
 
@@ -74,6 +74,7 @@ Since this study was performed, other methods aiming to segment MR abdominal org
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+![Comparison of MR segmentation methods on a subject from AMOS dataset](https://github.com/NA-MIC/ProjectWeek/assets/59979551/a65ae678-d7d7-4b29-9c26-26404a29f7de)
 
 _No response_
 
