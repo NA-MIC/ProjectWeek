@@ -71,8 +71,14 @@ The project would be to create the extension of this QC model and the visualizat
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. The model is ready (already trained)
-2. GRAD-CAM with MONAI is ready too
+1. We are able to load the model (on Linux)
+2. We are able to run the prediction over a direcotry of subjects (on Linux)
+
+<video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/PW41_2024_MIT/Projects/QualityControlModelForBrainSurfaces/Slicer\ Video.mp4"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
 Next steps :
 1. Make sure that all preliminary steps have no issue
