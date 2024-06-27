@@ -13,6 +13,14 @@ key_investigators:
   affiliation: BWH
   country: USA
 
+- name: Vamsi Krishna Thiriveedhi
+  affiliation: BWH
+  country: USA
+
+- name: Pedro Moreira
+  affiliation: BWH
+  country: USA
+
 - name: Cosmin Ciausu
   affiliation: BWH
   country: USA
