@@ -77,8 +77,8 @@ This project week, we'd like to talk to more people, address limitations of our 
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. WIP [Colab notebook](https://github.com/deepakri201/DICOMScanClassification_pw41/blob/main/DICOMScanClassification_user_demo.ipynb) - we download data from IDC, and run inference using the three pretrained models. 
-2. WIP [HuggingFace space demo](https://huggingface.co/spaces/deepakri201/DICOMScanClassificationDemo) - we want the user to choose which data to download from IDC, and then will choose a pre-trained model to run inference 
+1. [Colab notebook](https://github.com/deepakri201/DICOMScanClassification_pw41/blob/main/DICOMScanClassification_user_demo.ipynb) - we download data from IDC, and run inference using the three pretrained models. 
+2. [Check out our HuggingFace space demo!](https://huggingface.co/spaces/deepakri201/DICOMScanClassificationDemo) - we download data from IDC, and run inference using the three pretrained models. We display the classification results and the image used for classification. Later, we want to allow the user to upload their own images. 
 
 
 
@@ -87,10 +87,19 @@ This project week, we'd like to talk to more people, address limitations of our 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+HuggingFace space demo: 
+
+Here the user can select a specific collection --> patient --> study --> series to perform the classification. Then you run inference using the three models we developed. 
+<img width="1490" alt="DICOMClassification_demo1" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/8ae4b869-abaf-492b-b46d-f4b8fcb1bb89">
+
+Then the results of the classification are displayed, along with the image chosen for the classification. The user can also download the output colab notebook. 
+<img width="1490" alt="DICOMClassification_demo2" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/b57f8504-ad1c-4a17-8471-1e6c74cc4c79">
+
+Video of the HuggingFace space demo: 
+
+<img src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/b928fbb8-ce16-4838-ae59-2892824ff7f9" width="700">
 
 _No response_
-
-
 
 # Background and References
 

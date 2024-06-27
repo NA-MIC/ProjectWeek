@@ -57,12 +57,16 @@ If you are interested in similar topics, please join our project!
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-
-1. Describe specific steps you **have actually done**.
-
+1. Talked with several other project week participants about common interests in collaborative segmentation but did not learn of any existing work that we can build on directly.  A more common use case is large number of similar cases divided among annotators rather than annotators all working on a single large scan.
+2. Confirmed that all packages are working correctly in Slicer
+    1. git: confirmed that it's possible to create a git repo and commit seg.nrrd files from Slicer python
+    2. github: confirmed that operations like creating pull requests can be done from Slicer python
+    3. ome_zarr: can save any volume in zarr format (with pyramid), can also load, but slowly
+    4. s5cmd: can be used to transfer data to/from s3-compatible buckets on Jetstream2 (ceph object store running in openstack)
+    5. tensorstore: can load zarr from s3-compatible buckets very quickly
+3. Tested performance on a Jetstream VM:
+    1. Load volume (2110 x 677 x 666, 1.8 GB) from JS2 object store in about 5 seconds
+    2. Same code works on non-JS2 machines, but more slowly
 
 
 
@@ -77,9 +81,5 @@ _No response_
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
-
-
-_No response_
+Experiments: https://github.com/pieper/SlicerMorphoDepot/tree/main/Experiments
 

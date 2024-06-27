@@ -59,7 +59,7 @@ We will be working on integrating new icons, QSS support, and better dynamic the
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. External resource binaries
+1. Icon swap approach: External resource binaries
     - Refactor out current resources into an external resource file
     - [Dynamically Loaded Resources](https://doc.qt.io/qt-6/qresource.html#dynamic-resource-loading)
     - Load dark vs. light resources at startup
@@ -69,9 +69,15 @@ We will be working on integrating new icons, QSS support, and better dynamic the
         - Icons can only be refreshed with a restart
         - Build system will need to generate the rcc file instead of compiling in the resources
         - Will need to add calls to register custom resources for modules and main application
-
-
-
+2. Icon swap progress
+    - Created standalone example in [test extension](https://github.com/sjh26/SlicerIconSwitch)
+    - Created [branch](https://github.com/Slicer/Slicer/tree/icon-switching) for Slicer with WIP implementations for bundling external resources
+    - Setup external resources for loadable modules and libraries
+  
+3. Next steps
+    - Work on swapping bundled resources for Python (or an icon picker approach in code)
+    - Work on bugs with existing implementation (timing of loading resources for loadable modules, using SVGs as mouse cursors, Transform icon is being stubborn)
+    - Review approach with Slicer dev team, mainly  when / where the external resources are loaded at runtime, and where they are stored on disk
 
 # Illustrations
 
@@ -86,9 +92,13 @@ We will be working on integrating new icons, QSS support, and better dynamic the
 ### Slicer Dark:
 ![SlicerDarkUpdated](https://github.com/NA-MIC/ProjectWeek/assets/25040869/12767317-b88c-4340-8652-4b919d2da814)
 
+![DarkToolBar](https://github.com/NA-MIC/ProjectWeek/assets/25040869/ea3b494a-d07e-40ca-a47c-ad4139380551)
+
 
 ### Slicer Light: 
 ![SlicerLightUpdated](https://github.com/NA-MIC/ProjectWeek/assets/25040869/a13bea8b-5e7a-4da0-af67-02849cbe810e)
+
+![LightToolBar](https://github.com/NA-MIC/ProjectWeek/assets/25040869/fe36d249-a489-4a45-bfbf-5bd21c1183c2)
 
 
 # Background and References
@@ -98,4 +108,5 @@ We will be working on integrating new icons, QSS support, and better dynamic the
 - [Icon design document](https://docs.google.com/document/d/1OYhRzBFjwT6dUOIDVL_II8ZQ8QUwDl68wbtt3eIV1ao/edit?usp=sharing)
 - [Asset repo](https://github.com/Slicer/slicer-media-assets)
 - [Testing extension](https://github.com/sjh26/SlicerIconSwitch)
+- [WIP Slicer branch](https://github.com/Slicer/Slicer/tree/icon-switching)
 

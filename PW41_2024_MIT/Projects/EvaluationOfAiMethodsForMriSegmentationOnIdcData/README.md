@@ -65,7 +65,9 @@ Since this study was performed, other methods aiming to segment MR abdominal org
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. [GitHub repo](https://github.com/deepakri201/mr_seg) for in progress colab notebooks 
+1. [GitHub repo](https://github.com/deepakri201/mr_seg) for colab notebooks for evaluation of MR segmentation methods
+2. Look into methods like STAPLE for consensus of segmentations - WIP
+3. Perform a comparison of the methods to ground truth - WIP 
 
 
 
@@ -74,10 +76,32 @@ Since this study was performed, other methods aiming to segment MR abdominal org
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+<!--![Comparison of MR segmentation methods on a subject from AMOS dataset](https://github.com/NA-MIC/ProjectWeek/assets/59979551/a65ae678-d7d7-4b29-9c26-26404a29f7de) -->
 
-_No response_
+Comparison of MR segmentation methods on a subject from AMOS dataset: 
+- Top left = ground truth expert segmentations
+- Top right = our approach
+- Bottom left = TotalSegmentator
+- Bottom middle = MRSegmentator
+- Bottom right = our approach
+<img src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/a65ae678-d7d7-4b29-9c26-26404a29f7de" width="1000">
 
+Comparison of MR segmentation methods on a subject IDC TCGA-LIHC subject: 
+- 3D = our approach
+- Left = our approach
+- Middle = TotalSegmentator
+- Right = MRSegmentator
+<img width="1501" alt="tcga_lihc_3DSlicer" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/7d889425-75c8-4a84-8b5d-2f35bd5f920b">
 
+Comparison of MR segmentations on a subject from TotalSegmentator: 
+(ground truth in bold)
+- Top row = our approach
+- Middle row = TotalSegmentator
+- Bottom row = MRSegmentator 
+<img width="1507" alt="totalsegmentator_3DSlicer" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/3c9f1efb-2b20-446c-a08d-4f383dcdf19a">
+
+**Dice distributions between AI segmentations and expert annotations on AMOS22 MR training split.**
+![image](https://github.com/NA-MIC/ProjectWeek/assets/72577931/9b2cc0dc-7a74-465c-b08e-e876e16db8e9)
 
 # Background and References
 

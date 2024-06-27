@@ -60,10 +60,17 @@ Therefore I aim to add two often used risk prediction models (Sybil and CVD-risk
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+## Before PW
 
 1.  Getting more familiar with [Mhub.ai](https://mhub.ai/) infrastructure and documentation.
 2.  Going through [Mhub.ai](https://mhub.ai/) tutorials.
 
+
+## After PW
+
+1. Sybil - Cancer risk prediction Model - is wrapped in MHUB.ai Framerwork and pushed to [Mhub.ai](https://mhub.ai/).
+2. CVD-Risk-Estimator - CVD risk model - is still ongoing, however at last stage.
+3. Got More comfortable with [Mhub.ai](https://mhub.ai/) framework, and looking forward to add more models.
 
 
 # Illustrations
