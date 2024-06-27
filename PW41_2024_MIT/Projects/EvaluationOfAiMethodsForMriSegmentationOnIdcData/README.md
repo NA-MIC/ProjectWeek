@@ -74,7 +74,15 @@ Since this study was performed, other methods aiming to segment MR abdominal org
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-![Comparison of MR segmentation methods on a subject from AMOS dataset](https://github.com/NA-MIC/ProjectWeek/assets/59979551/a65ae678-d7d7-4b29-9c26-26404a29f7de)
+<!--![Comparison of MR segmentation methods on a subject from AMOS dataset](https://github.com/NA-MIC/ProjectWeek/assets/59979551/a65ae678-d7d7-4b29-9c26-26404a29f7de) -->
+
+Comparison of MR segmentation methods on a subject from AMOS dataset: 
+
+Top left = ground truth expert segmentations, top right = our approach 
+
+Bottom left = TotalSegmentator, bottom middle = MRSegmentator, bottom right = our approach
+
+<img src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/a65ae678-d7d7-4b29-9c26-26404a29f7de" width="1000">
 
 _No response_
 
