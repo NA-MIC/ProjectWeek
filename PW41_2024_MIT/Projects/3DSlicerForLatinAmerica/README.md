@@ -108,14 +108,18 @@ The goal of this project is to empower the biomedical research community in Lati
 
 4. This week has started the translation of the step-by-step Tutorial Maker guide into Spanish for Latin America. The goal is that this new module allows the creation of Tutorials for every user of the software. The progress of this translation until now is 80%. 
 
-
-4. Tutorial Maker creates three files with the same information (images, annotations, descriptions): markdown, html and pdf
+5. Tutorial Maker creates three files with the same information (images, annotations, descriptions): markdown, html and pdf
    
     <img width="150" alt="SlicerLA_PW41" src="https://github.com/NA-MIC/ProjectWeek/assets/111019594/9567deee-80c9-41c4-a345-49c2013c87bf">
 
 PDF example: 
 
 <img width="449" alt="pdf" src="https://github.com/NA-MIC/ProjectWeek/assets/111019594/392f4029-fc58-4e9c-93de-e7073fe14360">
+
+6. Translation of the tutorials to Portuguese with the interface in Portuguese.
+![image](https://github.com/NA-MIC/ProjectWeek/assets/28208639/1158351c-46b0-48a9-9728-755e47cab2ee)
+
+7. 
 
 # Background and References
 
