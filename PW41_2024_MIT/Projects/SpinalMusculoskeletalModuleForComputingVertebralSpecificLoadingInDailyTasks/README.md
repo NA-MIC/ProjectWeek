@@ -77,12 +77,18 @@ Over the last year, our group, in collaboration with members of the 3D Slicer co
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+During project week we:
+1. Created framework for saving 3D muscle and vertebral joint data as model creation information. 
+2. Troubleshooting and confirmed muscle measurements from DL masks matched expected results.  
+3. Established plan for defining OpenSim spine bodies and joints from segmentations
+  1. Identifying endplates of vertebral bodies via clustering. 
+  2. Use centroids of both full vertebral and vertebral body only segmentations to evaluate local vertebral orientation
 
-1. Established DL-based segmentation tools for vertebrae and spinal muscles
-2. Converted the computation and data management scripts to Python
-3. Created detailed documentation of the Python code
-4. Extensively validated and published the OpenSim spinal musculoskeletal model.  The model is open-source.
-5. will create a database of anonymized CT data from our cancer patient study
+Next steps: 
+1. Finalize downstream model creation code.
+2. Integration - multiple DL models + several measurement and model creation scripts 
+3. Test on multiple input scans. 
+4. Enable model creation in Slicer with an extension that will display key measurements to be used, and possibly have a method for editing /correcting obvious errors.
 
 
 
