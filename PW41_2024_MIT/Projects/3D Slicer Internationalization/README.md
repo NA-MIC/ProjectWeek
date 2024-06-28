@@ -74,4 +74,5 @@ International PW41 participants, please complete the [3D Slicer Internationaliza
 <img width="1728" alt="SlicerInternationalization_PW41_invitedTalk" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/66a0c77b-7379-4cd0-a4b0-94ba8ed84337">
 
 2. New Collaborations with Ecole Militaire de Santé and Université Gaston Berger, Senegal
+3. Future plans for a 3D Slicer Localization extension 
 
