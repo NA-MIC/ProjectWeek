@@ -106,6 +106,8 @@ The goal of this project is to empower the biomedical research community in Lati
 3. Tutorial Maker Demo
 <img width="1065" alt="Screenshot 2024-06-27 at 11 41 50 PM" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/f25354ef-fe4f-47b1-8979-134d738df279">
 
+Progress in resolving functional issues in the Tutorial Maker repository, such as changing the infrastructure to a more human-readable one: During the sessions a Demo of the Tutorial Maker module was shown, in which a stable version of the module was shown, where problems were solved, such as larger quantities in the drawing directions, elimination of undesirable effects of flashing on the screen when generating images, and the incorporation of the function of generating the tutorial in PDF format, previously limited to HTML and Md.
+
 4. This week has started the translation of the step-by-step Tutorial Maker guide into Spanish for Latin America. The goal is that this new module allows the creation of Tutorials for every user of the software. The progress of this translation until now is 80%. 
 
 5. Tutorial Maker creates three files with the same information (images, annotations, descriptions): markdown, html and pdf
