@@ -49,6 +49,8 @@ The [Surface Landmark Extension](https://github.com/SlicerHeart/SlicerSurfaceMar
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 
+-->
+
 ![Initial Grid](https://github.com/NA-MIC/ProjectWeek/assets/43060230/5294ce21-2d71-4c87-b2b5-e403847609ed)
 
 <video
@@ -56,9 +58,6 @@ The [Surface Landmark Extension](https://github.com/SlicerHeart/SlicerSurfaceMar
    src="https://github.com/NA-MIC/ProjectWeek/assets/43060230/98daa756-8c65-4eee-aa4d-f318cfc0648a"
    style="max-height:640px; min-height: 200px">
  </video>
-
-
--->
 
 # Background and References
 
