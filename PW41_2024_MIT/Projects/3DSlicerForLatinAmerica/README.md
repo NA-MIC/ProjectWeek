@@ -100,11 +100,13 @@ The goal of this project is to empower the biomedical research community in Lati
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. An incomplete ts file is committed to the SlicerLanguageTranslations repository—[Link to the Pull Request](https://github.com/Slicer/SlicerLanguageTranslations/pull/543/commits). Still need to mark some errors as translatable.
-1. Slicer for Latin America session
+2. Slicer for Latin America session
 
    <img width="666" alt="SlicerLA_PW41" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/56024eb3-7e6d-43f5-b11b-5e65a2711602">
-1. Tutorial Maker Demo
+3. Tutorial Maker Demo
 <img width="1065" alt="Screenshot 2024-06-27 at 11 41 50 PM" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/f25354ef-fe4f-47b1-8979-134d738df279">
+
+4. This week has started the translation of the step-by-step Tutorial Maker guide into Spanish for Latin America. The goal is that this new module allows the creation of Tutorials for every user of the software. The progress of this translation until now is 80%. 
 
 
 # Background and References
