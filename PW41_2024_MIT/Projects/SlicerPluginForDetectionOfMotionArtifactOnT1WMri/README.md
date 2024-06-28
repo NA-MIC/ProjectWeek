@@ -59,14 +59,22 @@ We want to create a Slicer module to detect and / or quantify motion artifacts i
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
-
-
-
+1. Review and improved the synthetic data generation pipeline
+   - Change magnitude of motion
+   - Change interpolation method
+2. Create a Slicer Module to expose pretrained models
+   - Inference in 0.5 seconds on CPU
+   - Light preprocessing
+   - Display full histogram output
+   - Keep history of motion metrics for comparison between files
+3. **Next Steps** :
+   - Ability to export history to CSV
+   - Connector with Comet.ml to retrieve models associated with specific experiment from Slicer     
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![Capture d'écran 2024-06-28 091535](https://github.com/NA-MIC/ProjectWeek/assets/28633686/3ad44c02-c05e-40a3-9735-4083cc5fcfbb)
 
 
 _No response_
