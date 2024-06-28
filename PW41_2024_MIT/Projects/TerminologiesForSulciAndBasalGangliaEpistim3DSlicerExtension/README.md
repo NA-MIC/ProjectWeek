@@ -57,7 +57,8 @@ We are rewritting the entire epiSTIM toolbox (for [SEEG procedures](https://en.w
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Import of anatomical labelled sulci ok.
+2. Terminology : work in progress !
 
 
 
@@ -66,7 +67,7 @@ We are rewritting the entire epiSTIM toolbox (for [SEEG procedures](https://en.w
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
+![Data Model epiSTIM]([)]()
 ![image UYI0O2](https://github.com/NA-MIC/ProjectWeek/assets/26764989/aaa4d7a3-1203-4302-8eec-9d29af51a377)
 
 
