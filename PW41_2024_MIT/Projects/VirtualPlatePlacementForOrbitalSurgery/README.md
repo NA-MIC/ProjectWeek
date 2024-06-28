@@ -107,11 +107,14 @@ Being able to use interaction handle to rotate the plate and real-time update co
 <img width="300" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/1ce948e5-0ac3-4b0f-a095-d216dc4d733b">
 
 # Video demo:
- <video
-   controls muted
-   src="https://github.com/chz31/surgical_plate_registration/blob/0ffed8e41d9d032bf5d834721aee5862d046684d/video4743404467.mp4"
-   style="max-height:640px; min-height: 200px">
- </video>
+<video
+  controls muted
+  src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/93b2d951-ac39-47e4-8613-d1f427291667"
+  style="max-height:640px; min-height: 200px">
+</video>
+
+https://youtu.be/4no8vEyKo5s
+
 
 ## Next steps
 1. Refine color-map and details for visual aid
