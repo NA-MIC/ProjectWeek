@@ -13,13 +13,9 @@ key_investigators:
   affiliation: EBATINCA
   country: Spain
 
-- name: Andrés Díaz Pinto
-  affiliation: NVidia
-  country: UK
-
-- name: Dániel Palkovics
-  affiliation: Dent.AI Medical Imaing
-  country: Hungary
+- name: Andrey Fedorov
+  affiliation: BWH
+  country: USA
 
 ---
 
@@ -59,8 +55,12 @@ Creating multi-label segmentation models is a challenge, because the deep learni
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
-
+1. Discussion with the people interested (Andrey)
+2. Create extension [SegmentationVerification]([url](https://github.com/cpinter/SlicerSegmentationVerification))
+3. Basic implementation is done
+4. Next steps
+    - Implement the show neighboring segments function
+    - Handle transformed segmentations
 
 
 
@@ -68,6 +68,7 @@ Creating multi-label segmentation models is a challenge, because the deep learni
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+![image](https://github.com/NA-MIC/ProjectWeek/assets/1325980/8637ee78-f228-4ba9-acc9-191d7709e3a1)
 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/1325980/f341b4ab-08a2-4c9d-86b7-554ad7f85fd8)
 
