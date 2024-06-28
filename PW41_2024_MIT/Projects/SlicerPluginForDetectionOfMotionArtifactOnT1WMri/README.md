@@ -69,7 +69,7 @@ We want to create a Slicer module to detect and / or quantify motion artifacts i
    - Keep history of motion metrics for comparison between files
 3. **Next Steps** :
    - Ability to export history to CSV
-   - Connector with Comet.ml to retrieve models associated with specific experiment from Slicer     
+   - Connector with [Comet.ml](https://www.comet.com) to retrieve models associated with specific experiment from Slicer     
 
 # Illustrations
 
