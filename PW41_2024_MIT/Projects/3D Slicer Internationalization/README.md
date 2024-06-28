@@ -70,8 +70,7 @@ International PW41 participants, please complete the [3D Slicer Internationaliza
      If there are specific steps that you could not complete then you can describe them here, too. -->
    <img width="803" alt="SlicerInternationalizationPW41" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/dabd6624-62d9-4651-b84d-7f7b8d84bfa9">
 
-1. Slicer Internationalization sessions
-   32 participants from five different countries participated in the PW41 Slicer internationalization sessions.
+1. 32 participants from five countries participated in the PW41 Slicer internationalization sessions.
 <img width="1728" alt="SlicerInternationalization_PW41_invitedTalk" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/66a0c77b-7379-4cd0-a4b0-94ba8ed84337">
 
 2. New Collaborations with Ecole Militaire de Santé and Université Gaston Berger, Senegal
