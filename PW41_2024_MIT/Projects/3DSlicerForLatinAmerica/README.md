@@ -103,8 +103,13 @@ The goal of this project is to empower the biomedical research community in Lati
 1. Slicer for Latin America session
 
    <img width="666" alt="SlicerLA_PW41" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/56024eb3-7e6d-43f5-b11b-5e65a2711602">
-1. Tutorial Maker Demo
+
+1. Progress in resolving functional issues in the Tutorial Maker repository, such as changing the infrastructure to a more human-readable one.
 <img width="1065" alt="Screenshot 2024-06-27 at 11 41 50 PM" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/f25354ef-fe4f-47b1-8979-134d738df279">
+
+During the sessions a Demo of the Tutorial Maker module was shown, in which a stable version of the module was shown, where problems were solved, such as larger quantities in the drawing directions, elimination of undesirable effects of flashing on the screen when generating images, and the incorporation of the function of generating the tutorial in PDF format, previously limited to HTML and Md.
+
+
 
 
 # Background and References
