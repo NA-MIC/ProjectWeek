@@ -102,7 +102,7 @@ ShapeAxi has demonstrated good performance on Cleft defects and to some extent c
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 User Interface
 
-<img width="605" src="https://github.com/lucieDLE/ProjectWeek/blob/master/PW41_2024_MIT/Projects/SlicerExtensionForShapeAnalysisForDentalApplicationsUsingShapeaxiModule/user_interface.png">
+<img width="605" src="https://raw.githubusercontent.com/lucieDLE/ProjectWeek/master/PW41_2024_MIT/Projects/SlicerExtensionForShapeAnalysisForDentalApplicationsUsingShapeaxiModule/user_interface.png">
 
 Condyles binary classification 
 
