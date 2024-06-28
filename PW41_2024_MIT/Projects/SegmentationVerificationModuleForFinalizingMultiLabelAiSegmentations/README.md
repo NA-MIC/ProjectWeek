@@ -66,8 +66,6 @@ Creating multi-label segmentation models is a challenge, because the deep learni
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-![image](https://github.com/NA-MIC/ProjectWeek/assets/1325980/8637ee78-f228-4ba9-acc9-191d7709e3a1)
-
 https://github.com/NA-MIC/ProjectWeek/assets/1325980/e452fb69-f95c-4e99-aab1-460949aa578c
 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/1325980/f341b4ab-08a2-4c9d-86b7-554ad7f85fd8)
