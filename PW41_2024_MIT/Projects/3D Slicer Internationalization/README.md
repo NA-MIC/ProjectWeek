@@ -75,14 +75,3 @@ International PW41 participants, please complete the [3D Slicer Internationaliza
 
 2. New Collaborations with Ecole Militaire de Santé and Université Gaston Berger, Senegal
 
-# Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
-
-# Background and References
-
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
