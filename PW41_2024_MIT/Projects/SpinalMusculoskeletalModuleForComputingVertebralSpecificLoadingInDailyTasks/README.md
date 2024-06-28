@@ -120,7 +120,7 @@ Model creation for the analysis of personalized patient spinal loading predictio
 ### 3. Cluster surface points to determine vertebral endplates
  <video
    controls muted
-   src="https://github.com/NA-MIC/ProjectWeek/assets/66890913/8f257f29-fa9c-4319-8c49-4138003eba27"
+   src="https://github.com/VyHong/ProjectWeek/assets/67245730/31f20f15-4b6c-4820-b90c-9e7791f45b1d"
    style="max-height:640px; min-height: 200px">
  </video>
 
