@@ -77,7 +77,7 @@ Questions discuss during the week:
       1. Added method to list all existing publishers and subscribers
       1. When user tries to create a publisher or subscriber with invalid name, display list of option (good for typos)
       1. Publishers and subscribers now have method `GetBlankMessage` so it's easier to create a payload in Python
-      1. Create a self-contained ROS2 package for US similuator in Gazebo that builds a minimal version of PlusLib/IGSIO/vtkAddon that contains launch models and launch files to teleoperate a UR-5 mounted with a US probe. 
+      1. Create a self-contained ROS2 package for US simulator in Gazebo that builds a minimal version of PlusLib/IGSIO/vtkAddon that contains launch models and launch files to teleoperate a UR-5 mounted with a US probe. 
 1. Discussions
    1. Possible feature requests for Slicer
       1. Saved history in Python interpreter (like iPython)
