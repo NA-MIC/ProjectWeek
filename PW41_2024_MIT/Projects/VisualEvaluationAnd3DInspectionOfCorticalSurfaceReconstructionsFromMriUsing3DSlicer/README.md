@@ -54,12 +54,25 @@ _No response_
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+Progress
 
+During the NA-MIC Project Weeks, significant progress was made in the following areas:
 
-1. Describe specific steps you **have actually done**.
+    
+**1- Neuroanatomy and Neurosegmentation Overview:** Attended sessions led by Professor Jarrett Rushmore on neuroanatomy, neurosegmentation, and the evaluation of brain structures.
+**2- Freesurfer Outputs Examination:** Analyzed the outputs of Freesurfer, identifying inaccuracies, such as regions mistakenly classified as cortical surface, like the hippocampus, and parts including gray matter instead of cortex.
+**3- Sinus Examination in MRA Images:** Investigated the presence and structure of sinuses in MRA images.
+**4-Model Comparison:** Compared the outputs of our model against those from Freesurfer and Vox2Cortex models, identifying strengths and weaknesses. Notably, Fastsurfer was found to be inferior to Freesurfer in certain cases.
+**5- Model Evaluation and Problem Identification:** Evaluated the outputs of our cortical surface reconstruction model at critical points, identifying various issues and areas for improvement.
+**6-3D Slicer Extension Development:** Developed approximately 70% of the extension for 3D Slicer to support cortical surface reconstruction tasks.
 
+Next Steps
+
+Moving forward, the following steps will be undertaken:
+
+    
+**1- Problem Resolution:** Address the issues identified during the visual evaluation of the model’s outputs, ensuring higher accuracy and structural integrity.
+**2- Extension Completion:** Finalize the development of the 3D Slicer extension to fully support the cortical surface reconstruction workflow.
 
 
 
