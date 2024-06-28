@@ -42,10 +42,15 @@ The objective is to develop a realistic haptic model for both the catheter inser
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Integration of Haply Inverse3 into Unity (without SOFA Framework) for a generic needle insertion prototype
-2. Implementation of a custom collision detection system using the Haply Inverse3
-3. Implementation of spring-based haptic model for generic needle insertion
-4. Incomplete : collision detection taking into account the whole shaft of the catheter needle, deformation of arm model used
+Progress
+1. Completed SOFA training course for getting started in SOFA development
+2. Equipped existing haptics project with InfinyTech3D's SOFA-Unity asset
+3. Implemented test scenes in SOFA
+
+Next steps
+1. Fix/understand reason for segfault error in collision test in SOFA
+2. Fix error on SOFA scene loading into Unity
+3. Integrate usage of Inverse3 haptic robot through SOFA in Unity and test out the haptics
 
 # Illustrations
 
@@ -53,6 +58,9 @@ The objective is to develop a realistic haptic model for both the catheter inser
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
+![image](https://github.com/NA-MIC/ProjectWeek/assets/35537740/f146afd7-081a-4c3c-b5dc-665243482a46)
+![image](https://github.com/NA-MIC/ProjectWeek/assets/35537740/bb533c6c-ba67-4968-812c-96990d7f5540)
+
 
 # Background and References
 
