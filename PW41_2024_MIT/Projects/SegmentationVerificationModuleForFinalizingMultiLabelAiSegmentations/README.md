@@ -56,7 +56,7 @@ Creating multi-label segmentation models is a challenge, because the deep learni
 
 
 1. Discussion with the people interested (Andrey)
-2. Create extension [SegmentationVerification]([url](https://github.com/cpinter/SlicerSegmentationVerification))
+2. Create extension [SegmentationVerification](https://github.com/cpinter/SlicerSegmentationVerification)
 3. Basic implementation is done
 4. Next steps
     - Implement the show neighboring segments function
