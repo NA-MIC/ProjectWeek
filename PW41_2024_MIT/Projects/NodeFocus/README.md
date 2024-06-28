@@ -3,7 +3,7 @@ layout: pw41-project
 
 permalink: /:path/
 
-project_title: Node focus in views
+project_title: Node focus and highlighting
 category: Infrastructure
 presenter_location: In-person
 
@@ -49,9 +49,21 @@ If you would like to offer suggestions or feedback on the current prototype, the
 ## Progress and Next Steps
 
 - Prototype implementation can be found here: [https://github.com/Slicer/Slicer/compare/main...jcfr:focus_node_prototype_2](https://github.com/Slicer/Slicer/compare/main...jcfr:focus_node_prototype_2)
-- Brainstorm how the implementation can be improved to support the new use-cases: [Google doc](https://docs.google.com/document/d/1vhjOxZ5KX_YTePz-7LkNNhU39hI4LmgxW9GlX5TyeLc/edit?usp=sharing).
+- Workshopped new design, vtkMRMLSelectionNode will be converted to a vtkMRMLDisplayableNode, and vtkMRMLSelectionDisplayNode will be created to control visualization options.
+- Initial implementation of the new displayable manager has now been implemented. Developers can add new non-singleton vtkMRMLSelection(Display)Node to control the selection visualization. Each selection node can have their own focus and display properties.
+
+### Next steps
+
+- Test alternative displayable manager implementation
+- Integrate changes in Slicer core
+- Improve outline rendering performance
+- Add and test focus visualization in VR
 
 # Illustrations
+
+Example showing multiple hard focus using multiple selection nodes:
+
+![image](https://github.com/NA-MIC/ProjectWeek/assets/9222709/27893e14-198a-4498-99a4-53b42d7b2e92)
 
 Example showing segmentations:
 
