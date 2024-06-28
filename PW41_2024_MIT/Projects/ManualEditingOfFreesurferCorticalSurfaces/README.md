@@ -53,13 +53,14 @@ _No response_
 
 
 
+
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
-
-
-_No response_
+1. Adapted the bash script for both Linux and MacOS
+2. Identified remaining areas where corrections are difficult to make: Hippocampus/Amygdala and temporal lobe
+3. Added the last part of FreeSurfer recon-all pipeline : statistics, overlays, etc.
 
 
 
@@ -67,8 +68,10 @@ _No response_
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+![2024-06-28_NAMICS_result_188347_white_pial_surfaces_sagittal_plane](https://github.com/NA-MIC/ProjectWeek/assets/131895621/5720cb03-898a-47f6-a0a2-8995ae79a7cb)
 
-_No response_
+
+![2024-06-28_NAMICS_result_188347_white_pial_surfaces_coronal_plane](https://github.com/NA-MIC/ProjectWeek/assets/131895621/da2d25d2-1a39-4016-a805-261dfee1dce9)
 
 
 
