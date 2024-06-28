@@ -9,11 +9,11 @@ presenter_location: In-person
 
 key_investigators:
 
-- name: Junichi Tokuda
-  affiliation: BWH
-
 - name: Xihan Ma
   affiliation: WPI
+
+- name: Junichi Tokuda
+  affiliation: BWH
 
 - name: Simon Leonard
   affiliation: JHU
