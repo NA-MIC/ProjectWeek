@@ -69,7 +69,7 @@ This project will aim to integrate two models into mhub.ai.
   - Segmentations are registered as DICOM-SEG and can easily compared to other segmentation models
     
 - DeepSpA is wrapped in the MhubAI framework and ready to be tested
--   Model produces both visual and classification outputs, both are organized and saved by mhub
+  - Model produces both visual and classification outputs, both are organized and saved by mhub
 
 
 ### After Project Week
