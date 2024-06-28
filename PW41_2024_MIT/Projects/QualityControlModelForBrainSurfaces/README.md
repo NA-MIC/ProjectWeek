@@ -76,7 +76,9 @@ The project would be to create the extension of this QC model and the visualizat
 
 ## Video Demo
 
-[![Watch the video](image.png)](https://youtu.be/OSPbTEHicPQ)
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/OSPbTEHicPQ">
+ </iframe>
 
 
 Next steps :
