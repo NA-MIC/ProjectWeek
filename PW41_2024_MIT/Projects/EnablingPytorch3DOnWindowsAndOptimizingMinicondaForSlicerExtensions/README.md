@@ -99,7 +99,7 @@ Progress :
 - Updated SlicerAutomatedDentalTools: ALI_IOS.
 
 Next Step:
-- Update SlicerAutomatedDentalTools: AREG_IOS.
+- Update FlexReg.
 
 
 
@@ -112,6 +112,12 @@ Next Step:
 
 #### SlicerConda User Interface
 <img src="https://github.com/NA-MIC/ProjectWeek/assets/91245687/66dd6fa4-799c-424d-98e8-e26c79b68913" alt="SlicerConda User Interface">
+
+### AREG Icon
+<img src="https://github.com/NA-MIC/ProjectWeek/assets/91245687/6adca0e0-dc15-4df0-ab37-78452bb81bff" alt="AREG Icon">
+
+### ALI Icon
+<img src="https://github.com/NA-MIC/ProjectWeek/assets/91245687/c81b7258-d1f9-4482-bf5c-0fdab1449b73" alt="ALI Icon">
 
 
 
