@@ -40,13 +40,23 @@ The [Surface Landmark Extension](https://github.com/SlicerHeart/SlicerSurfaceMar
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Projection method to snap Surface Markups to a model
+1. Developed projection method to snap Surface Markups to a model
+2. Implemented and compared methods for update/resampling of Surface Markups
+3. Developed a module to make user interactions more convenient
+4. Pushed [test version of module](https://github.com/SlicerMorph/SlicerMorph/tree/PlaceLandmarkGrid) to SlicerMorph repo. 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
 
 ![Initial Grid](https://github.com/NA-MIC/ProjectWeek/assets/43060230/5294ce21-2d71-4c87-b2b5-e403847609ed)
+
+<video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/assets/43060230/98daa756-8c65-4eee-aa4d-f318cfc0648a"
+   style="max-height:640px; min-height: 200px">
+ </video>
+
 
 -->
 
