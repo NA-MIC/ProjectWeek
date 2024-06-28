@@ -76,7 +76,8 @@ Questions discuss during the week:
       1. Allow to create subscribers and publishers using short names, i.e. `String` vs `vtkMRMLROS2PublisherStringNode`
       1. Added method to list all existing publishers and subscribers
       1. When user tries to create a publisher or subscriber with invalid name, display list of option (good for typos)
-      1. Publishers and subscribers now have method `GetBlankMessage` so it's easier to create a payload in Python  
+      1. Publishers and subscribers now have method `GetBlankMessage` so it's easier to create a payload in Python
+      1. Create a self-contained ROS2 package for US similuator in Gazebo that builds a minimal version of PlusLib/IGSIO/vtkAddon that contains launch models and launch files to teleoperate a UR-5 mounted with a US probe. 
 1. Discussions
    1. Possible feature requests for Slicer
       1. Saved history in Python interpreter (like iPython)
@@ -84,7 +85,8 @@ Questions discuss during the week:
    1. Distribution(s), pros and cons from user perspective
       1. Continue as-is, i.e. source code and users have to compile the module.  Pros: can add new messages.  Cons: have to compile Slicer from scratch, extensions are not available to download from kitware servers.
       1. Binary distribution with ROS2 core libraries added to Slicer super build.  Pros: ready to use, might even provide ROS2 support from Windows, MacOS, any linux instead of Ubuntu only.  Cons: harder to add custom messages without a compiler
-      1. Binary (bis).  If we figure out how to "super build" ROS2 core libraries (`rclcpp`), why not provide the Python wrappers too (`rclpy`) as a pip build.  At that point, could port existing features from C++ to Python.  A ROS2 pip build could be used outside Slicer. 
+      1. Binary (bis).  If we figure out how to "super build" ROS2 core libraries (`rclcpp`), why not provide the Python wrappers too (`rclpy`) as a pip build.  At that point, could port existing features from C++ to Python.  A ROS2 pip build could be used outside Slicer.
+      1. Simulate and evaluate US/Robot hand-eye calibration by inserting probe in the simulated image and then compare results to ground-truth from the simulation. Adding reference 3D markers to make the simulation more relevant to clinical applications.
 1. Next steps
    1. Investigate simple options to make source based distribution easier: provide Slicer and Slicer-SuperBuild, document how to compile and add extensions
    1. For any binary distribution, how hard would it be to compile all ROS2 dependencies from source for "super-building" or "piping" them
