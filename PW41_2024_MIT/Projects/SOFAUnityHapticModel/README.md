@@ -66,3 +66,7 @@ Next steps
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
+
+- https://www.sofa-framework.org/community/doc/
+- https://www.sofa-framework.org/community/doc/getting-started/video-tutorials/introduction-course/
+- https://infinytech3d.com/sapapi-unity3d/
