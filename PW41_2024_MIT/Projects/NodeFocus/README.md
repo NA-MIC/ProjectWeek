@@ -63,7 +63,7 @@ If you would like to offer suggestions or feedback on the current prototype, the
 
 Example showing multiple hard focus using multiple selection nodes:
 
-![image](https://github.com/NA-MIC/ProjectWeek/assets/9222709/27893e14-198a-4498-99a4-53b42d7b2e92)
+![image](https://github.com/NA-MIC/ProjectWeek/assets/9222709/1dddf50c-eea4-4e95-af1b-1ee95ae25564)
 
 Example showing segmentations:
 
