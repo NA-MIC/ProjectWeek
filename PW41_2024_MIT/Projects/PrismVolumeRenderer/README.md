@@ -46,14 +46,13 @@ From a developper's point of view, it is possible to add new volume rendering ef
 1. Commits of the week:
    1. [rearrange interface and fix bugs](https://github.com/ETS-vis-interactive/SlicerPRISMRendering/commit/1167ad4e5105587c3e48b4f901ef43d3835ddbe6)
    1. [prepare code for parameterNodeWrapper](https://github.com/ETS-vis-interactive/SlicerPRISMRendering/commit/33a08784d190a4fe750a12e9bd43918214a2ab53)
+1. Implemented a first version of the glass volume rendering effect (see illustration below)
 1. Discussed an architecture for an experimental volume rendering module that would enable the implementation of more complex effects.  
 
 # Illustrations
+Current version of the glass effect
+![Glass effect on brain vessels](glass-effect-on-brain-vessels.png)
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
 
 # Background and References
 
