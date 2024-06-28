@@ -72,11 +72,17 @@ This week, I will draft the algorithm for automatic LVAD positioning, incorporat
 1. Describe specific steps you **have actually done**.
 
 
+MONAI label based detailed heart segmentation.
+GUI based LVAD positioning module developement.
+
 
 
 # Illustrations
+<img width="1490" alt="Képernyőfotó 2024-06-28 - 9 35 18" src="https://github.com/NA-MIC/ProjectWeek/assets/40301975/efc2bfcd-7a51-4231-9a45-6c4eeab70316">
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+<img width="1238" alt="Képernyőfotó 2024-06-28 - 9 40 31" src="https://github.com/NA-MIC/ProjectWeek/assets/40301975/8f7e3361-ae61-4716-86e8-bad6039962df">
+
+<img width="1217" alt="Képernyőfotó 2024-06-28 - 9 46 40" src="https://github.com/NA-MIC/ProjectWeek/assets/40301975/d2cc7037-f7b4-4c46-9d97-c3cde0feebf7">
 
 
 _No response_
