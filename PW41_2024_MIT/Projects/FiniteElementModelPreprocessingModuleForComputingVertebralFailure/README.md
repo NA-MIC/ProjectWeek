@@ -93,9 +93,6 @@ Volume(1) = {1};
 
 
 
-    
-
-
 
 
 # Illustrations
@@ -111,6 +108,29 @@ Figure 2: Graphical summary of the intended pipeline..
 
 
 # Background and References
+
+**Extension Creation**
+<img width="1680" alt="Screenshot 2024-06-28 at 9 39 14 AM" src="https://github.com/NA-MIC/ProjectWeek/assets/56100029/864cbd08-0693-4aa5-867b-2ae1a775fcb3">
+
+**GMSH integration**
+<img width="992" alt="Screenshot 2024-06-28 at 10 11 55 AM" src="https://github.com/NA-MIC/ProjectWeek/assets/56100029/028217e3-907d-4ff1-ad90-d8b43b3360b0">
+
+**Visualization of Mesh in Slicer**
+<img width="1680" alt="Screenshot 2024-06-28 at 10 12 45 AM" src="https://github.com/NA-MIC/ProjectWeek/assets/56100029/225b9681-838c-408b-bb3f-09d5379d4c50">
+
+**Future Steps**
+- Add more advanced GMSH options for user
+  - Size fields
+  - Sampling Rate
+  - Rate of change
+  - etc.
+- Add functionality to interrogate CT volume for HU data to assign modulus values.
+- Add implementation into existing SegmentMesher
+
+<img width="675" alt="Screenshot 2024-06-28 at 10 13 54 AM" src="https://github.com/NA-MIC/ProjectWeek/assets/56100029/ea976b9a-f866-4f9e-b8c5-9f6b06aa08de">
+
+
+
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
