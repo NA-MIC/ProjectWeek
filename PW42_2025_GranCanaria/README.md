@@ -16,7 +16,7 @@ project_categories:
 - Other
 ---
 
-# Welcome to the web page for the 42st Project Week!
+# Welcome to the web page for the 42nd Project Week!
 
 [This event](https://projectweek.na-mic.org/PW42_2025_GranCanaria/README.html) will take place Jan 27th - Jan 31st, 2025 at Las Palmas, Gran Canaria, Spain, in person. More details will be posted on this page as the event approaches. If you have any questions, you can contact the [organizers](#organizers).
 
