@@ -69,7 +69,6 @@ We are rewritting the entire epiSTIM toolbox (for [SEEG procedures](https://en.w
 
 ![Data Model epiSTIM](epiSTIMDataModelWithLabelledSulciFromMorphologist.png)
 
-
 ![nomenclature_translation](nomenclature_translation.png)
 
 # Background and References
