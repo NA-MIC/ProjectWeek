@@ -66,7 +66,7 @@ Demo video is available at [GitHub](https://github.com/MXHsj/rus_sim_visuals/)
 - Progress
     1. Built pipeline to generate ```sound speed map``` and ```density map``` from CT total segmentation.
 
-        ![fig1](https://github.com/MXHsj/ProjectWeek/assets/31639301/378084c3-90fe-48ca-bdb5-bb0299c05800=x200)
+        ![fig1](https://github.com/MXHsj/ProjectWeek/assets/31639301/378084c3-90fe-48ca-bdb5-bb0299c05800)
 
     2. Built pipeline using k-wave to simulate B-mode ultrasound in 3-dimensional, i.e., the ultrasound beam thickness is taken into account. Tissue speed of sound and density are taken into acount in the simulation.
 
