@@ -65,11 +65,11 @@ During the NA-MIC Project Weeks, significant progress was made in the following 
 
 **3- Sinus Examination in MRA Images:** Investigated the presence and structure of sinuses in MRA images.
 
-**4-Model Comparison:** Compared the outputs of our model against those from Freesurfer and Vox2Cortex models, identifying strengths and weaknesses. Notably, Fastsurfer was found to be inferior to Freesurfer in certain cases.
+**4- Model Comparison:** Compared the outputs of our model against those from Freesurfer and Vox2Cortex models, identifying strengths and weaknesses. Notably, Fastsurfer was found to be inferior to Freesurfer in certain cases.
 
 **5- Model Evaluation and Problem Identification:** Evaluated the outputs of our cortical surface reconstruction model at critical points, identifying various issues and areas for improvement.
 
-**6-3D Slicer Extension Development:** Developed approximately 70% of the extension for 3D Slicer to support cortical surface reconstruction tasks.
+**6- 3D Slicer Extension Development:** Developed approximately 70% of the extension for 3D Slicer to support cortical surface reconstruction tasks.
 
 Next Steps
 
