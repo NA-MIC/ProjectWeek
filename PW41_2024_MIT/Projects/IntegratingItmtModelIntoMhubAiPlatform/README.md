@@ -52,9 +52,11 @@ The objective of this project is to successfully integrate and test the ITMT mod
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+During the week:
+  The integration script was prepared during the week.
 
-_No response_
-
+After the project week:
+  Debug the code from the original Repo and finalize the implementation on MHUB.AI
 
 
 # Illustrations
