@@ -67,6 +67,11 @@ We plan to hold a workshop or break-out session where we demonstrate every step 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+We currently host 27 segmentation, prediction and feature extraction models with 10+ more models under active development.
+
+<img width="1624" alt="Bildschirmfoto 2024-06-28 um 10 10 43" src="https://github.com/NA-MIC/ProjectWeek/assets/14541510/5e871498-a2a5-4e46-9981-233ef5a8cca0">
+
+To help our users contributing models to our platform we provide a detailed documentation and step-by-step tutorials:
 
 1. **MHub.ai Documentation**
 We have [detailed documentation](https://github.com/MHubAI/documentation/tree/main) on [how to run a model](https://github.com/MHubAI/documentation/blob/main/documentation/mhub/run_mhub.md) in MHub and documentation on the individual [tools provided within the MHub-IO framework](https://github.com/MHubAI/documentation/blob/main/documentation/mhubio/mhubio_modules.md).
