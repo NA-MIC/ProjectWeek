@@ -105,3 +105,12 @@ Model creation for the analysis of personalized patient spinal loading predictio
 
 •	[Evaluation of Load-To-Strength Ratios in Metastatic Vertebrae and Comparison With Age- and Sex-Matched Healthy Individuals](https://www.frontiersin.org/articles/10.3389/fbioe.2022.866970/full)
 
+# Results
+
+## Intervertebral centroid calculation
+
+1. Seperate vertebral body from existing segmentation
+2. Convert volume to surface
+3. Cluster surface points to determine vertebral endplates
+4. Calculate convex hull centroid between 2 endplates
+
