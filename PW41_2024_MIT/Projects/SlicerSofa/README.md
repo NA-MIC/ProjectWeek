@@ -46,7 +46,7 @@ key_investigators:
   country: USA
 
 - name: Quinn Williams
-  affiliation: Harvard University
+  affiliation: Brigham and Women's Hospital
   country: USA
 
 ---
