@@ -67,7 +67,9 @@ We are initiating a multi-center (led by Dr. Emet Schneiderman) study to underst
 1. Preparing grant application and data collection plans
 2. See above
 
-
+## PW Progress
+1. Potential collaborators: Haichong Zhang and Xihan Ma from WPI
+2. Find fetal facial features related to maternal sleep apnea that can only be quantified by 3D rather than standard 2D US imaging.
 
 
 # Illustrations
