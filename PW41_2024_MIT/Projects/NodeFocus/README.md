@@ -49,7 +49,7 @@ If you would like to offer suggestions or feedback on the current prototype, the
 ## Progress and Next Steps
 
 - Prototype implementation can be found here: [focus_pw_41](https://github.com/Sunderlandkyl/Slicer/tree/focus_pw_41).
-- Workshopped new design, vtkMRMLSelectionNode will be converted to a vtkMRMLDisplayableNode, and vtkMRMLSelectionDisplayNode will be created to control visualization options.
+- Developed new design, vtkMRMLSelectionNode will be converted to a vtkMRMLDisplayableNode, and vtkMRMLSelectionDisplayNode will be created to control visualization options.
 - Initial implementation of the new displayable manager has now been implemented. Developers can add new non-singleton vtkMRMLSelection(Display)Node to control the selection visualization. Each selection node can have their own focus and display properties.
 
 ### Next steps
