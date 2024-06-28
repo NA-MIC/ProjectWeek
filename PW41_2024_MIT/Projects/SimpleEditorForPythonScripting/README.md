@@ -75,6 +75,11 @@ We also have a slicer module mock-up from Oshane Thomas:
 
 [https://github.com/oothomas/SlicerMorph/tree/downloading/SlicerEditor](https://github.com/oothomas/SlicerMorph/tree/downloading/SlicerEditor)
 
+* This week we compared features and issues.  Althought we prefered the simplest approach, the features of monaco editor (the core of VS code) convinced us to go with that approach.
+* We developed a way to host monaco with out networking
+* We determined a small subset of monaco that is small enough to distribute in an extension
+* We tested with Sara and Chi and they like it!
+* We will make a stand-alone extension that can be used by SlicerMorph and other use cases
 
 
 # Illustrations
