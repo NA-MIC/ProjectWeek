@@ -44,12 +44,18 @@ creating a 3D mesh from generated depth values.
 
 # Illustrations
 
-HuggingFAce link: 
-
-Left : Ground Truth, Right : The Depth prediction. 
+Left : Ground Truth, Right : The 3D Depth prediction (Purple - Yellow : Farther - Close)
 
  <iframe width="420" height="315" src="https://youtu.be/PwY5dyqEEQA">
  </iframe>
+
+HuggingFAce link: https://huggingface.co/spaces/mkalia/DepthPoseEstimation
+
+Simple Upload and Predict 
+<img width="273" alt="upload_model" src="https://github.com/meghakalia/ProjectWeek/assets/64866412/048cae19-68f7-4f46-a11f-124668894be0">
+
+<img width="289" alt="depth_image_huggingface" src="https://github.com/meghakalia/ProjectWeek/assets/64866412/4c5ca604-b47f-483f-ac74-cb4c64973191">
+
 
 # Background and References
 
