@@ -80,14 +80,10 @@ IDC provides a growing amount of publicly available cancer imaging data (>65TB a
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-
-1. Describe specific steps you **have actually done**.
-
-
-
+1. Prepared initial version of the query to extract processing steps for slide microscopy (SM) images using DICOM metadata ([https://github.com/ImagingDataCommons/idc-index-data/pull/30](https://github.com/ImagingDataCommons/idc-index-data/pull/30)). When completed, this will allow selecting SM images by embedding method, staining (H&E), and fixative without using BigQuery, and with queries of significantly lower complexity as compared to querying full index.
+2. Implemented new feature in the dcmqi converter that allows including into DICOM SEG references to the segmented images when geometry of the segmentation is different from the image (e.g., when segmentation was done on the slices orthogonal to the segmented image) ([https://github.com/QIICR/dcmqi/issues/489](https://github.com/QIICR/dcmqi/issues/489)). Lacking this feature, ReMIND collection encoded images that are disconnected from the segmented MR images.
+3. Mapped model-specific segmentation labels for [OMAS](https://docs.google.com/spreadsheets/d/1pBicNskjMDJBnD3w4yAQroj8SGSAhDfA_TUK24dLEyc/edit?gid=1390863317#gid=1390863317) and [TotalSegmentator](https://docs.google.com/spreadsheets/d/1oEzXCmraoLgbbb5lNxWiHuYDza86aXxKqSUmUetwI7M/edit?gid=780795691#gid=780795691) to SNOMED-CT (related PRs [https://github.com/wasserth/TotalSegmentator/pull/324](https://github.com/wasserth/TotalSegmentator/pull/324) and [https://github.com/wasserth/TotalSegmentator/pull/325](https://github.com/wasserth/TotalSegmentator/pull/325)).
+4. Presented IDC updates at the Thu breakout session (see notes and references in [this document](https://docs.google.com/document/d/11IG53uKYePUlQFCUX6nFw4HqQDyt2jcLkvqjnHGNPCI/edit)).
 
 # Illustrations
 
