@@ -108,6 +108,9 @@ Figure 2: Graphical summary of the intended pipeline..
 
 
 # Background and References
+- [CT-based finite element simulating spatial bone damage accumulation predicts metastatic human vertebrae strength and stiffness](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1424553/abstract)
+
+# Results
 
 **Extension Creation**
 <img width="1680" alt="Screenshot 2024-06-28 at 9 39 14 AM" src="https://github.com/NA-MIC/ProjectWeek/assets/56100029/864cbd08-0693-4aa5-867b-2ae1a775fcb3">
@@ -120,11 +123,12 @@ Figure 2: Graphical summary of the intended pipeline..
 
 **Future Steps**
 - Add more advanced GMSH options for user
-  - Size fields
+  - Size fields (finer control over mesh size)
   - Sampling Rate
   - Rate of change
   - etc.
-- Add functionality to interrogate CT volume for HU data to assign modulus values.
+- Add functionality to interrogate CT volume for HU data to assign modulus values to each element.
+- Add QA functionality to evaluate and visualize mesh quality and fix bad elements.
 - Add implementation into existing SegmentMesher
 
 <img width="675" alt="Screenshot 2024-06-28 at 10 13 54 AM" src="https://github.com/NA-MIC/ProjectWeek/assets/56100029/ea976b9a-f866-4f9e-b8c5-9f6b06aa08de">
@@ -136,5 +140,5 @@ Figure 2: Graphical summary of the intended pipeline..
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-- [CT-based finite element simulating spatial bone damage accumulation predicts metastatic human vertebrae strength and stiffness](https://www.frontiersin.org/articles/10.3389/fbioe.2024.1424553/abstract)
+
 
