@@ -109,8 +109,28 @@ Model creation for the analysis of personalized patient spinal loading predictio
 
 ## Intervertebral centroid calculation
 
-1. Seperate vertebral body from existing segmentation
-2. Convert volume to surface
-3. Cluster surface points to determine vertebral endplates
-4. Calculate convex hull centroid between 2 endplates
+### 1. Seperate vertebral body from existing segmentation
+   
+![Screenshot 2024-06-27 215559](https://github.com/VyHong/ProjectWeek/assets/67245730/af1ea7cd-4eab-43ef-8fd9-945065a09774)
+![Screenshot 2024-06-27 215504](https://github.com/VyHong/ProjectWeek/assets/67245730/c3dc9282-38e0-486d-ba76-9be863ada80f)
+
+### 2. Convert volume to surface
+![Screenshot 2024-06-27 223435](https://github.com/VyHong/ProjectWeek/assets/67245730/9d717ed2-cf1f-47e4-9e73-6fe34f40eb7a)
+ 
+### 3. Cluster surface points to determine vertebral endplates
+ <video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/assets/66890913/8f257f29-fa9c-4319-8c49-4138003eba27](https://github.com/VyHong/ProjectWeek/assets/67245730/31f20f15-4b6c-4820-b90c-9e7791f45b1d"
+   style="max-height:640px; min-height: 200px">
+ </video>
+
+<video
+   controls muted
+   src="https://github.com/VyHong/ProjectWeek/assets/67245730/f01e4596-3cd7-4d84-b45b-2801e850fdd2"
+   style="max-height:640px; min-height: 200px">
+ </video>
+
+### 4. Calculate convex hull centroid between 2 endplates
+
+![Screenshot 2024-06-27 234732](https://github.com/VyHong/ProjectWeek/assets/67245730/2c0d1065-1b19-4517-9b6a-542a10916cd6)
 
