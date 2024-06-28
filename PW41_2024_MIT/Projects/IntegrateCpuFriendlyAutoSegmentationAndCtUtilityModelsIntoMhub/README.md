@@ -80,103 +80,32 @@ Integrating this into Mhub would allow users to perform this QA by providing DIC
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+### CPU friendly auto-seg
+Tested the abdominal-organs-v2.0.0 segmentation as the reported times on CPU were approx ~6 mins.
 
-1. Tested out an implementation of Pytorch CPU inference (similar to implementation in SlicerMONAIAuto3DSeg) against OpenVINO optimized implementation. 
-
-```python
-
-model = SegResNet(out_channels=1)
-model.to("cpu")
-
-# Initialize variables for benchmarking
-total_time = 0
-num_runs = 500
-
-# Set the model to evaluation mode
-model.eval()
-
-with torch.no_grad():
-    with autocast(enabled=True):
-        for _ in range(num_runs):
-            # Generate random input tensor
-            torch_input = torch.randn(1, 1, 64, 128, 128)
-            
-            # Measure inference time
-            start_time = time.time()
-            model(torch_input)
-            end_time = time.time()
-            
-            # Accumulate total inference time
-            total_time += end_time - start_time
-
-        # Calculate average inference time
-        avg_time = total_time / num_runs
-
-# Print the average execution time
-print(f"Average execution time over {num_runs} runs: {avg_time:.5f} seconds")
-
-```
-
-Result:
-`Average execution time over 100 runs: 0.24193 seconds`
+![New Note](https://github.com/NA-MIC/ProjectWeek/assets/10467804/0d9be486-dbf4-45fe-965c-15ad2b6053ae)
 
 
-```python
-# Initialize OpenVINO core and read the model
-core = ov.Core()
-model = core.read_model("segresnet.xml")
-compiled_model = core.compile_model(model, "CPU")
 
-# Create an infer request
-infer_request = compiled_model.create_infer_request()
-
-# Number of iterations for benchmarking
-num_iterations = 500
-execution_times = []
-
-# Generate random input tensor with the correct shape
-input_shape = (1, 1, 64, 128, 128)
-
-for i in range(num_iterations):
-    # Create tensor from external memory
-    torch_input = torch.randn(*input_shape)
-    input_tensor = ov.Tensor(array=torch_input.numpy(), shared_memory=True)
-    
-    # Measure inference time
-    start_time = time.time()
-    
-    # Set input tensor for model with one input
-    infer_request.set_input_tensor(input_tensor)
-    infer_request.start_async()
-    infer_request.wait()
-    
-    # Get output tensor for model with one output
-    output = infer_request.get_output_tensor()
-    output_buffer = output.data
-    
-    end_time = time.time()
-    execution_times.append(end_time - start_time)
-
-# Calculate average execution time
-avg_execution_time = sum(execution_times) / num_iterations
-print(f"Average execution time over {num_iterations} iterations: {avg_execution_time:.5f} seconds")
-```
-
-Result:
-`Average execution time over 100 iterations: 0.19558 seconds`
-
-There seems to be speed up with OV. More investigation needed for the exact patch-size that AutoSeg3D uses + for sliding window inference setting.
-
-2. Test out accuracy-speed trade-off for different configurations of sliding window inferer on TotalSegmentator test set. 
-3. Design an "optimal" sliding window inferer for CPU/GPU. For example, an overlap of 0.625 seems very high and might not impact results as much. 
-4. Implement a sandboxed environment for this inference.
-5. Implement sandboxed environment for Body Part Regression. 
-6. Run and test sandboxed environments on IDC data
-7. Package sandboxed environment in Mhub.ai templates
+#### Default CPU version:
+<img width="1624" alt="Screenshot 2024-06-27 at 19 40 24" src="https://github.com/NA-MIC/ProjectWeek/assets/10467804/62d1830c-99b6-4832-bdf4-864787115af9">
 
 
+#### OpenVINO compiled model (most significant gain) + Reducing overlap ratio:
+<img width="1624" alt="Screenshot 2024-06-27 at 18 54 49" src="https://github.com/NA-MIC/ProjectWeek/assets/10467804/e2eed2fd-c216-481d-bb57-05152cd11288">
+
+PS: OpenVINO models are FP16 compressed and are half the size. 
+
+### Body part regression
+![BPREG](https://github.com/NA-MIC/ProjectWeek/assets/10467804/11ec7e93-c747-46e3-a86e-049aba5c82d3)
+
+
+### Next Steps
+
+- Current conversion to OpenVINO is manually done for the abdominal model. This can be automated across models in a script and pushed to Github for download.
+- CPU benchmarked on is AMD, benchmark on Intel and ARM. 
+- Implement Mhub models for CPU friendly autoseg. and interface with Andras' SlicerMONIAAutoSeg3D extension (work on some slicer extension specifics). 
+- Complete conribution workflow for Bpreg - model is ready to go!
 
 # Illustrations
 
