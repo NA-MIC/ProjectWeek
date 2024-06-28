@@ -13,6 +13,12 @@ key_investigators:
   affiliation: Texas A&M University School of Dentistry
   country: USA
 
+- name: Kyle Sunderland
+  affiliation: Queen's University, Canada
+
+- name: Rafael Palomar
+  affiliation: Oslo University Hospital / NTNU, Norway 
+
 - name: Braedon Gunn
   affiliation: Texas A&M University School of Dentistry
   country: USA
@@ -94,7 +100,26 @@ I have complied existing methods in Slicer and VTK into one preliminary module [
 5. Explore methods such as reinforcement learning and SOFA for actual simulating how the plate is placed.
 
 
+## PW Progress
+Being able to use interaction handle to rotate the plate and real-time update colomap to highlight intersection and report intersection. This can provide visual aid for manual adjustment of plate position
 
+<img width="300" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/4f25bd9b-df51-4a84-b289-3a8032b90525"> <img width="250" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/3f5562b5-eaa5-4f5b-82ad-6b57a6cfa6e0">
+<img width="300" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/1ce948e5-0ac3-4b0f-a095-d216dc4d733b">
+
+# Video demo:
+ <video
+   controls muted
+   src="https://github.com/chz31/surgical_plate_registration/blob/0ffed8e41d9d032bf5d834721aee5862d046684d/video4743404467.mp4"
+   style="max-height:640px; min-height: 200px">
+ </video>
+
+## Next steps
+1. Refine color-map and details for visual aid
+2. Working with Rafael for using Slicer-SOFA:
+   - Deforming the plate:
+   - Simulating plate failure (e.g. the bone area for screwing the plate damaged and plate became loose; adapting/bending poor fitted plate introduces metal fatigue)
+   - Including soft-tissue
+3. Segmentation of fractured orbit?
 
 
 
