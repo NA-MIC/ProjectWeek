@@ -40,13 +40,13 @@ From a developper's point of view, it is possible to add new volume rendering ef
 2. It may be necessary to apply a gaussian filter to the volume before computing the gradient if the signal is too noisy to produce an interesting specular highlight.
 
 ## Progress and Next Steps
-
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
+1. Fixed minor bugs and inconsistencies in the interface update mechanism
+1. Rearranged the interface to be more user-friendly
+1. Updated the module to use the parameterNodeWrapper mechanism and simplify the interface update
+1. Commits of the week:
+   1. [rearrange interface and fix bugs](https://github.com/ETS-vis-interactive/SlicerPRISMRendering/commit/1167ad4e5105587c3e48b4f901ef43d3835ddbe6)
+   1. [prepare code for parameterNodeWrapper](https://github.com/ETS-vis-interactive/SlicerPRISMRendering/commit/33a08784d190a4fe750a12e9bd43918214a2ab53)
+1. Discussed an architecture for an experimental volume rendering module that would enable the implementation of more complex effects.  
 
 # Illustrations
 
