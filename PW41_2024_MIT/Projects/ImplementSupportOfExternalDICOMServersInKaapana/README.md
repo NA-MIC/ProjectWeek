@@ -53,27 +53,18 @@ The goal of this project is to enhance the capabilities of Kaapana, an open-sour
 
 ## Progress and Next Steps
 
-1. Miki is finishing the [PR](https://codebase.helmholtz.cloud/kaapana/kaapana/-/tree/feature/external_dicomweb_gcloud)
-2. Tested the airflow workflow to send dicom files from local storage to GCP Dicom store with GCP's dicomweb package
-3. Adapting to kaapana architechture is pending
-
-
-_No response_
-
-
+1. Currently authentication is handled by supplying a service account key as a string
+2. Miki mentioned that the [PR](https://codebase.helmholtz.cloud/kaapana/kaapana/-/tree/feature/external_dicomweb_gcloud) is now ready for testing.
+3. Vamsi created and tested an airflow workflow to send dicom files from local storage to GCP Dicom store with GCP's dicomweb package
+    -   Adapting to kaapana architechture is pending
+4. Vamsi is going to build and deploy from Miki's git branch to test
 
 # Illustrations
 Created a form for collecting the info about the GCP DICOM store
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/115020590/c32c112e-3a8c-4d9d-a106-170beeab9bb3)
 
 
-
-
 # Background and References
-
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
-
 
 [https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/RunKaapanaOnGkeAndImproveConnectivityOfKaapanaToIdc/](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/RunKaapanaOnGkeAndImproveConnectivityOfKaapanaToIdc/)
 
