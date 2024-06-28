@@ -148,3 +148,14 @@ Documentation and Presentation Preparation.
 
 Baquero, Baptiste, Maxime Gillot, Lucia Cevidanes, Najla Al Turkestani, Marcela Gurgel, Mathieu Leclercq, Jonas Bianchi et al. "Automatic Landmark Identification on IntraOralScans." In Workshop on Clinical Image-Based Procedures, pp. 32-42. Cham: Springer Nature Switzerland, 2022.
 
+
+# Results of the approach
+
+![image](https://github.com/NA-MIC/ProjectWeek/assets/7086191/02a65a32-940c-4284-b3d9-cb68d5789aff)
+![image](https://github.com/NA-MIC/ProjectWeek/assets/7086191/9bcde2d2-3209-4ba5-9d24-60bb97f91a27)
+
+<img width="797" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/7086191/cbb3688e-8158-479a-b468-cb42a22ee146">
+
+
+
+
