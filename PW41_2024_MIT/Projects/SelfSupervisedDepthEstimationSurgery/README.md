@@ -36,16 +36,20 @@ Estimating Depth and localizing endoscope in surgical environment is critical in
 ## Progress and Next Steps
 
 1. Run the model on the colonoscopic dataset. 
-2. Run TransUnet
-3. Replace the TransUnet in Monodepth2 and run on the dataset
+2. Self-supervised training with supervision from scale-invariant depth loss.
+3. Hosting the model on Huggingface
 
-1. Describe specific steps you **have actually done**.
-1. Initial implementation of optical flow network
-1. Replace the Unet with TransUnet and see its effect of depth and pose prediction
+Next Steps:
+creating a 3D mesh from generated depth values. 
 
 # Illustrations
 
-Coming Soon! 
+HuggingFAce link: 
+
+Left : Ground Truth, Right : The Depth prediction. 
+
+ <iframe width="420" height="315" src="https://youtu.be/PwY5dyqEEQA">
+ </iframe>
 
 # Background and References
 
