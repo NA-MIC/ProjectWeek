@@ -33,6 +33,9 @@ The objective of this project is to successfully integrate and test the ITMT mod
 
 
 
+![image](https://github.com/NA-MIC/ProjectWeek/assets/43614153/c24ffdcd-a183-4bd1-964d-382dfb6df0d3)
+
+
 
 ## Approach and Plan
 
