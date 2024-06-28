@@ -61,7 +61,7 @@ A model has been already trained to automatically segment scans in multi-paramet
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Leverage the existing SkinSegmentator Slicer extension as template
+1. Leverage the existing TotalSegmentator Slicer extension as template
 2. Create a small database that can be shared to test the algorithm in different settings
 3. Discuss with the NousNav development team for its integration
 
@@ -84,7 +84,8 @@ A model has been already trained to automatically segment scans in multi-paramet
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-![image](https://raw.githubusercontent.com/ReubenDo/SlicerSkinSegmentator/main/screenshots/example.png)
+<img width="1728" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/17268715/fc907ff6-8872-45ab-a619-2fc444cb0ba1">
+
 
 
 
