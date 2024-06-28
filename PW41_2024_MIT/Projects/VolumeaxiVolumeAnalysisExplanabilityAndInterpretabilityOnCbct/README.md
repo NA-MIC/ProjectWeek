@@ -73,12 +73,17 @@ This project aims to develop interpretable deep learning models for the automate
 
 1. Trained models with DenseNet architecture to classify the buccolingual position of the impacted maxillary canine.
 2. Implementation of GRAD-CAM with MONAI for visualization
-   
+
+Project Week Update:
+1. Evaluated various root resorption assessment techniques, concluding that alternative methods are required for optimal results.
+2. Conducted additional experiments on position classification to enhance current performance metrics.
+3. Initiated deployment of the VolumeAXI module.
+
 Next Steps:
-1. Test different architectures and methods to classify root resorption.
-2. Find the best hyper-parameters for the given applications to improve the results
-3. Clean and organise the code
-4. Deploy the models as a module extension in 3D Slicer
+1. Change pipeline direction to classify root resorption.
+2. Find the best hyper-parameters for the given applications to improve the results.
+3. Finish the module by implementing the interpretability.
+4. Clean and organise the code.
 5. Write the documentation and provide examples to use the code.
 
 
@@ -86,12 +91,16 @@ Next Steps:
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+### 3D Slicer Interface of VolumeAXI
+
+<img width="1308" alt="Screenshot 2024-06-28 at 9 33 30 AM" src="https://github.com/NA-MIC/ProjectWeek/assets/91120559/3e2c32ba-b2ee-4f95-8078-955afffb93a0">
 
 
 #### Well predicted case
 
 
 ![Position_grouped](https://github.com/NA-MIC/ProjectWeek/assets/91120559/46528c60-eb97-4011-953a-7d03f9671fbb)
+
 
 
 
