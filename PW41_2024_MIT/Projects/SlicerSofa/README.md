@@ -101,11 +101,14 @@ Slicer-SOFA was born during [PW40](https://projectweek.na-mic.org/PW40_2024_Gran
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+* Modifications towards the binary distribution of SlicerSOFA as an extension (rafaelpalomar/SlicerSOFA#22) by Jean-Christophe Fillion-Robin
 * Tested Slicer-SOFA extension on mac os build
     * Requires a local slicer build (tested on debug, see notes below for details)
     * Issues
     	* Turning off Qt and OpenGL dependencies doesn't seem to work - it would be best to build just the core simulation and python wrapping.
      	* Building in release mode didn't recognize libaries
+ * Added a reset simulation functionality (rafaelpalomar/SlicerSOFA#23) by Quinn Williams
+      
 
 
 
