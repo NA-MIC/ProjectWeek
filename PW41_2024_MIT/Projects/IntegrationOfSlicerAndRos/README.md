@@ -93,7 +93,11 @@ Questions discuss during the week:
       
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+Here we can see the robot model loaded with SlicerROS2 into the Slicer Scene.
+In this example the we have a transperineal needle robot guide inserting a biopsy needle to sample the prostate of a pig model.
+The scene also shows the intraoperative MRI images of the pig pelvis and segmentations of main anatomical structures.
+
+![smart_template_pig3](https://github.com/NA-MIC/ProjectWeek/assets/17165529/5d2a6f69-d882-415e-bb00-68329dff6750)
 
 
 _No response_
