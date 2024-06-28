@@ -74,8 +74,9 @@ A model has been already trained to automatically segment scans in multi-paramet
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-_No response_
-
+1. The Slicer extension has been implemented and is publicly available [here](https://github.com/ReubenDo/SlicerSkinSegmentator).
+2. The extension has been tested on CPU (MacOS and Windows) and GPU (Windows)
+3. The integration in NousNav is still pending.
 
 
 # Illustrations
