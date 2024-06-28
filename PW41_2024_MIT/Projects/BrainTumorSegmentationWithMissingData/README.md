@@ -71,7 +71,13 @@ The algorithm will not only segment the scans but also perform the required pre-
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-_No response_
+- nnUnet have been trained for two combinations of input (ceT1 + T1 and ceT1 + T1 + T2 + FLAIR).
+- Preprocessing has been implemented using base Slicer extensions.
+- The extension has been tested on Windows (GPU and CPU) and MacOS (CPU).
+- Next steps: clean the GitHub [repository](https://github.com/ReubenDo/SlicerTumorSegmentator).
+
+
+
 
 
 
@@ -81,6 +87,8 @@ _No response_
 
 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/17268715/24b9168d-832d-49e9-a6d9-fbe3d08a8870)
+
+<img width="576" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/17268715/fb31bd51-d301-4598-b05b-11af83acf5d1">
 
 
 
