@@ -10,13 +10,17 @@ presenter_location: In-person
 key_investigators:
 
 - name: Quinn Williams
-  affiliation: Brigham and Woman's Hospital
+  affiliation: Brigham and Women's Hospital
   country: USA
 
 - name: Steve Pieper
-  affiliation: Isomics
-  country: Inc., USA
+  affiliation: Isomics, Inc.
+  country: USA
 
+- name: Rafael Palomar
+  affiliation: Oslo University Hospital / NTNU
+  country: Norway
+  
 ---
 
 # Project Description
@@ -62,10 +66,16 @@ Integration of a softbody physics simulation of lung movement during breathing i
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Created lung and airway segmetations from pig CT scan
-2. Optimized airway mesh and created volumetric mesh
-3. Configured a SOFA simulation using the airway segmentation
-4. Created a diaphragm spring/damper force system to emulate airway movement
+1. Created a module for slicerSOFA extension
+2. Created scene for lung simulation with lung vtk mesh
+3. Created UI elements to control simulation parameters(breathing force, period, youngs modulus)
+4. Updated collision parameters for ribs
+
+Next steps:
+1. fix rib collisions
+2. allow rib movement during breathing
+3. fix simulation caching
+4. create a transformation for the airway segmentation based on the lung deformation
 
 
 
@@ -74,15 +84,35 @@ Integration of a softbody physics simulation of lung movement during breathing i
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+Current Lung Simulation in Slicer
+
+<video
+  controls muted
+  src="https://github.com/NA-MIC/ProjectWeek/assets/63506358/14216829-f656-432d-a001-b0d52a27e386"
+  style="max-height:640px; min-height: 200px">
+</video>
+
+
+
+
+
+
+Old Version in SOFA:
 
 ![Current airway movement simulated with SOFA](https://github.com/NA-MIC/ProjectWeek/assets/63506358/2e408192-19b0-477f-8939-5a102cd10cff)
+
+
 
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
+- Lung Simulation Module for slicerSOFA
+  - https://github.com/Quilliams85/Lung-Simulation-Module-SlicerSOFA.git
+  
+- Old airway sofa simulation
+  - [https://github.com/Quilliams85/Lung-Simulation-SNR-Lab.git](https://github.com/Quilliams85/Lung-Simulation-SNR-Lab.git)
+ 
 
-
-- [https://github.com/Quilliams85/Lung-Simulation-SNR-Lab.git](https://github.com/Quilliams85/Lung-Simulation-SNR-Lab.git)
 
