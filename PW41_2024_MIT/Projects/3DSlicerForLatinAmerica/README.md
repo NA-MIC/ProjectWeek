@@ -107,6 +107,14 @@ The goal of this project is to empower the biomedical research community in Lati
 <img width="1065" alt="Screenshot 2024-06-27 at 11 41 50 PM" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/f25354ef-fe4f-47b1-8979-134d738df279">
 
 
+4. Tutorial Maker creates three files with the same information (images, annotations, descriptions): markdown, html and pdf
+   
+    <img width="150" alt="SlicerLA_PW41" src="https://github.com/NA-MIC/ProjectWeek/assets/111019594/9567deee-80c9-41c4-a345-49c2013c87bf">
+
+PDF example: 
+
+<img width="449" alt="pdf" src="https://github.com/NA-MIC/ProjectWeek/assets/111019594/392f4029-fc58-4e9c-93de-e7073fe14360">
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
