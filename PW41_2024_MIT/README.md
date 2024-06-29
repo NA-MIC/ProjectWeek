@@ -56,7 +56,7 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-Updated on 2024-06-24.
+Updated on 2024-06-29.
 
 1. Ekaterina Akhmad, Maastricht University, Netherlands, Virtual
 1. Ron Alkalay, Beth Israel Deaconess Medical Center, USA, In Person
@@ -89,6 +89,7 @@ Updated on 2024-06-24.
 1. Chayanika Devi, University of Cincinnati, USA, Virtual
 1. Mouhamed DIOP, Cheikh Anta Diop University of Dakar, Senegal, Virtual
 1. Lucie Dole, Unaffiliated, , In Person
+1. Mauro Ignacio Dominguez, Independent, Argentina, Virtual
 1. Reuben Dorent, Brigham and Women's Hospital, USA, In Person
 1. Felix Dorfner, Massachusetts General Hospital and Charité - Universitätsmedizin Berlin, USA, In Person
 1. Simon Drouin, École de technologie supérieure, Canada, In Person
@@ -103,6 +104,7 @@ Updated on 2024-06-24.
 1. Douglas Samuel Gonçalves, USP, Brazil, Virtual
 1. Martin Gregorio, ICM, France, Virtual
 1. Michael Halle, Open Anatomy Project, USA, In Person
+1. Nazim Haouchine, BWH, USA, In Person
 1. Nazim Haouchine, BHW, USA, Virtual
 1. Ahmed Hassan, Harvard Medical School, Netherlands, In Person
 1. Carl Haugg, Harvard Medical School, USA, In Person
@@ -144,11 +146,14 @@ Updated on 2024-06-24.
 1. Csaba Pinter, EBATINCA, Spain, Virtual
 1. Juan Prieto, University of North Carolina, USA, In Person
 1. Sonia Pujol, Brigham and Women's Hospital, Harvard Medical School, USA, In Person
+1. Ciro Benito Raggio, Karlsruhe Institute of Technology (KIT), Germany, Virtual
 1. Aneesh Rangnekar, Memorial Sloan Kettering Cancer Center, USA, Virtual
+1. Domenico Riggio, Karlsruhe Institute of Technology, Germany, Virtual
 1. Monserrat Ríos-Hernández, Universidad Autónoma del Estado de México, Mexico, Virtual
 1. Sara Rolfe, Seattle Children's Research Institute, USA, In Person
 1. Jarrett Rushmore, Boston University School of Medicine, USA, In Person
 1. Divya Sain, Velsera, USA, Virtual
+1. Johanna Samuelsson, Velsera, Sweden, Virtual
 1. Lucas Sanchez Silva, Universidade de São Paulo, Brazil, Virtual
 1. Leonardo Seoane, Ochsner Health System, USA, In Person
 1. Zahra Soltani, Beth Israel Deaconess Medical Center, USA, Virtual
@@ -170,6 +175,7 @@ Updated on 2024-06-24.
 1. Murong Xu, Univerisity of Zurich, Switzerland, In Person
 1. Khaled Younis, MedAiConsult, United States Minor Outlying Islands, Virtual
 1. Chi Zhang, Texas A&M University School of Dentistry, USA, In Person
+1. Haichong Zhang, Worcester Polytechnic Institute, USA, In Person
 
 <!-- Participants list end -->
 
