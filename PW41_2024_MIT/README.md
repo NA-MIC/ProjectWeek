@@ -105,7 +105,6 @@ Updated on 2024-06-29.
 1. Martin Gregorio, ICM, France, Virtual
 1. Michael Halle, Open Anatomy Project, USA, In Person
 1. Nazim Haouchine, BWH, USA, In Person
-1. Nazim Haouchine, BHW, USA, Virtual
 1. Ahmed Hassan, Harvard Medical School, Netherlands, In Person
 1. Carl Haugg, Harvard Medical School, USA, In Person
 1. Enrique Hernandez-Laredo, Universidad Autónoma del Estado de México, Mexico, Virtual
@@ -161,7 +160,6 @@ Updated on 2024-06-29.
 1. Baye Balla SY, Military Health School of Dakar, Senegal, Virtual
 1. Attila Tanács, University of Szeged, Hungary, Virtual
 1. Jess Tate, University of Utah, USA, Virtual
-1. Pape mady Thiao, Unaffiliated, , Virtual
 1. Pape mady Thiao, EMS, Senegal, Virtual
 1. Vamsi Thiriveedhi, Brigham and Women's Hospital, USA, In Person
 1. Oshane Thomas, Seattle Children's Research Institute, USA, Virtual
