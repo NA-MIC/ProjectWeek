@@ -1,7 +1,7 @@
 ## Welcome to the main page for the Project Week events!
 
 
-### The [41st project week](PW41_2024_MIT/README.md) will be held June 24-28, 2024 at MIT in Cambridge, MA, USA.  
+### The [41st project week](PW41_2024_MIT/README.md) was held June 24-28, 2024 at MIT in Cambridge, MA, USA.  
 
 ## Frequently Asked Questions
 
