@@ -81,5 +81,5 @@ _No response_
 
 # Background and References
 
-Experiments: https://github.com/pieper/SlicerMorphoDepot/tree/main/Experiments
+Experiments: [https://github.com/pieper/SlicerMorphoDepot/tree/main/Experiments](https://github.com/Slicer/Slicer/issues/7653)
 
