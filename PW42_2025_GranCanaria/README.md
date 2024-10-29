@@ -16,20 +16,44 @@ project_categories:
 - Other
 ---
 
-# Welcome to the web page for the 42nd Project Week!
+# Welcome to the web page for the 40th Project Week!
 
-[This event](https://projectweek.na-mic.org/PW42_2025_GranCanaria/README.html) will take place Jan 27th - Jan 31st, 2025 at Las Palmas, Gran Canaria, Spain, in person. More details will be posted on this page as the event approaches. If you have any questions, you can contact the [organizers](#organizers).
-
-## Location
-
-TBA
+[This event](https://projectweek.na-mic.org/PW42_2025_GranCanaria/README.html) will take place Jan 27th - Jan 31st, 2025 at Las Palmas, Gran Canaria, Spain, in person. If you have any questions, you can contact the [organizers](#organizers).
 
 ## Preparation meetings
 
-TBA
+We held weekly preparation meetings at 10am on Tuesdays on Zoom, starting November 19, 2024. The links will be posted here the week before.
+
+## Venue
+
+| Hotel NH Imperial Playa |
+| -----|
+|<img src="NHIMperialPlaya.jpg" width="1000" height="688">|
+
+- **Recommended hotels (special rates) and maps**
+  - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
+    - Booking: [Discounted room block available](https://www.nh-hotels.com/es/event/namic-ws-intern)
+<!-- 
+  - NH Las Palmas Playa Las Canteras [Map](https://cutt.ly/vwkkTDE)
+    - Booking: [Discounted room block available](https://www.nh-hotels.com/es/event/grupo-na-mic-workshop)
+-->
+- **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
+  - Taxi (line at the airport)
+  - [Bus line 60](https://guaguasglobal.com/lineas-horarios/linea/?id=60)
+  - [Map: Airport - San Telmo bus station](https://www.google.com/maps/dir/Gran+Canaria+Airport,+GC-1,+s%2Fn,+35230+Las+Palmas+de+Gran+Canaria,+Las+Palmas/Estacion+De+Guaguas+SAN+TELMO,+35002+Las+Palmas+de+Gran+Canaria,+Las+Palmas/@28.0191886,-15.4859935,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xc40a266c3662d1d:0x824bcf7e159f85d4!2m2!1d-15.3874042!2d27.9289223!1m5!1m1!1s0xc40958500f0b3f5:0x3693fb0e3c418af2!2m2!1d-15.4158957!2d28.109201!3e3?entry=ttu)
+- The city has good bus/taxi service and is also walkable.
 
 ## Registration
-TBA
+
+- All participants (both remote and in-person) have to register using the a form, **TBA**.
+- Registration for **remote** participants is free.
+- Registration fee for **in person** participants will be 475€ per person until December 20, after that 500€.
+
+<!-- 
+**Important: The deadline for registration and payment of the fee is Jan 15th**. If you have problems with the payment or registration, contact [namic@ebatinca.com](mailto:namic@ebatinca.com).
+
+**Note:** EU regulations require 2FA for all payments. European banking standards and most credit cards support this by default. If your payment doesn't process due to 2FA issues, please reach out for a custom payment link at [namic@ebatinca.com](mailto:namic@ebatinca.com).
+<!-- 
 
 ## Discord
 The **Discord** application is used to communicate between team members and organize activities before and during Project Week. Please join the Project Week [Discord server](https://discord.gg/AkxzKvqMBp) as soon as possible and explore its functionality before the workshop. For more information on the use of Discord before and during Project Week, please visit [this page](../common/Discord.md).
