@@ -28,7 +28,7 @@ We held weekly preparation meetings at 10am on Tuesdays on Zoom, starting Novemb
 
 | Hotel NH Imperial Playa |
 | -----|
-|<img src="NHIMperialPlaya.jpg" width="1000" height="688">|
+|<img src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW40_2024_GranCanaria/NHIMperialPlaya.jpg" width="1000" height="688">|
 
 - **Recommended hotels (special rates) and maps**
   - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
