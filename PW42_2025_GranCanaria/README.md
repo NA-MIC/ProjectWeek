@@ -33,10 +33,12 @@ We held weekly preparation meetings at 10am on Tuesdays on Zoom, starting Novemb
 - **Recommended hotels (special rates) and maps**
   - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
     - Booking: [Discounted room block available](https://www.nh-hotels.com/es/event/namic-ws-intern)
+    - 
 <!--
   - NH Las Palmas Playa Las Canteras [Map](https://cutt.ly/vwkkTDE)
     - Booking: [Discounted room block available](https://www.nh-hotels.com/es/event/grupo-na-mic-workshop)
 -->
+
 - **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
   - Taxi (line at the airport)
   - [Bus line 60](https://guaguasglobal.com/lineas-horarios/linea/?id=60)
