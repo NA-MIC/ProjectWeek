@@ -47,9 +47,9 @@ We held weekly preparation meetings at 10am on Tuesdays on Zoom, starting Novemb
 
 ## Registration
 
-- All participants (both remote and in-person) have to register using the a form, **TBA**.
-- Registration for **remote** participants is free.
-- Registration fee for **in person** participants will be 475€ per person until December 20, after that 500€.
+- All participants have to register using the a form, **TBA**.
+- Registration fee for in person participants will be 475€ per person until December 20, after that 500€.
+- Remote participation will not be possible at this project week
 
 <!-- 
 **Important: The deadline for registration and payment of the fee is Jan 15th**. If you have problems with the payment or registration, contact [namic@ebatinca.com](mailto:namic@ebatinca.com).
