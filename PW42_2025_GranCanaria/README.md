@@ -48,7 +48,7 @@ We held weekly preparation meetings at 10am on Tuesdays on Zoom, starting Novemb
 ## Registration
 
 - All participants have to register using the a form, **TBA**.
-- Registration fee for in person participants will be 475€ per person until December 20, after that 500€.
+- Registration fee for in person participants will be 475€ per person until December 24, after that 500€. Use the following [link](https://es.social-commerce.io/8ThVtl) to conduct the payment.
 - Remote participation will not be possible at this project week
 
 <!-- 
