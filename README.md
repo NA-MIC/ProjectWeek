@@ -1,7 +1,7 @@
 ## Welcome to the main page for the Project Week events!
 
 
-### The [41st project week](PW41_2024_MIT/README.md) was held June 24-28, 2024 at MIT in Cambridge, MA, USA.  
+### The [42nd project week](PW42_2025_GranCanaria/README.md) will take place Jan 27-31, 2025 in Las Palmas, Gran Canaria, Spain.
 
 ## Frequently Asked Questions
 
