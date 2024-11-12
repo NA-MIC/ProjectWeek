@@ -47,7 +47,7 @@ We held weekly preparation meetings at 10am on Tuesdays on Zoom, starting Novemb
 
 ## Registration
 
-- All participants have to register using the a form, **TBA**.
+- All participants have to register using the a [form]([url](https://forms.gle/arhUT62h61XvvLKv6))
 - Remote participation will not be possible at this project week
 
 <!-- 
