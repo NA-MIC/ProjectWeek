@@ -26,9 +26,11 @@ We held weekly preparation meetings at 10am on Tuesdays on Zoom, starting Novemb
 
 ## Venue
 
-| Hotel NH Imperial Playa |
-| -----|
-|<img src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW40_2024_GranCanaria/NHIMperialPlaya.jpg" width="1000" height="688">|
+| <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW42_2025_GranCanaria/PW40_WorkArea.jpg?raw=true" width="1000" height="688"> |
+| ----- |
+
+| <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW42_2025_GranCanaria/PW40_Group.jpg?raw=true" width="492" height="344">  | <img src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW40_2024_GranCanaria/NHIMperialPlaya.jpg" width="492" height="344">  |
+| ----- | ----- |
 
 - **Recommended hotels (special rates) and maps**
   - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
