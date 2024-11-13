@@ -26,11 +26,9 @@ We held weekly preparation meetings at 10am on Tuesdays on Zoom, starting Novemb
 
 ## Venue
 
-| <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW42_2025_GranCanaria/PW40_WorkArea.jpg?raw=true" width="1000" height="688"> |
-| ----- |
+<img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW42_2025_GranCanaria/PW40_WorkArea.jpg?raw=true" width="1000" height="688">
 
 | <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW42_2025_GranCanaria/PW40_Group.jpg?raw=true" width="492" height="344">  | <img src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW40_2024_GranCanaria/NHIMperialPlaya.jpg" width="492" height="344">  |
-| ----- | ----- |
 
 - **Recommended hotels (special rates) and maps**
   - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
@@ -96,7 +94,6 @@ List of registered participants so far (names will be added here after processin
 * [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)),
 * [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//))
 * [@rafaelpalomar](https://github.com/rafaelpalomar) ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp))
-* [@piiq](https://github.com/piiq) ([Theodore Aptekarev](https://discourse.slicer.org/u/pll_llq))
 * [@sjh26](https://github.com/sjh26) ([Sam Horvath, PhD](https://www.kitware.com/samantha-horvath/))
 
 ## History
