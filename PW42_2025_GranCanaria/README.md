@@ -96,7 +96,7 @@ Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies, director of the Grupo 
 
 Csaba Pintér, PhD, CTO, [EBATINCA](https://ebatinca.com)
 
-[The EBATINCA team](https://ebatinca.com/en/empresa/team). For inquiries please send email to namic@ebatinca.com
+[The EBATINCA team](https://ebatinca.com/en/empresa/team). For inquiries please send email to <namic@ebatinca.com>
 
 ### Global Project Week organizing committee
 
