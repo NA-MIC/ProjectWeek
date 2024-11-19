@@ -50,11 +50,12 @@ We held weekly preparation meetings at 10am EST on Tuesdays on Zoom, starting No
 - All participants have to register using the [**form**](https://forms.gle/arhUT62h61XvvLKv6).
 - Remote participation will not be possible at this project week
 
-<!-- 
+ 
 **Important: The deadline for registration and payment of the fee is Jan 15th**. If you have problems with the payment or registration, contact [namic@ebatinca.com](mailto:namic@ebatinca.com).
 
 **Note:** EU regulations require 2FA for all payments. European banking standards and most credit cards support this by default. If your payment doesn't process due to 2FA issues, please reach out for a custom payment link at [namic@ebatinca.com](mailto:namic@ebatinca.com).
-<!-- 
+
+
 
 ## Discord
 The **Discord** application is used to communicate between team members and organize activities before and during Project Week. Please join the Project Week [Discord server](https://discord.gg/AkxzKvqMBp) as soon as possible and explore its functionality before the workshop. For more information on the use of Discord before and during Project Week, please visit [this page](../common/Discord.md).
