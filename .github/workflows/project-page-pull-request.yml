@@ -168,7 +168,6 @@ jobs:
         --rawfile background "${{ runner.temp }}/background.md" '{
           "title": $title,
           "category": .category.text,
-          "presenter_location": .["presenter-location"].text,
           "description": $description,
           "objective": $objective,
           "approach": $approach,

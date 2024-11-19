@@ -43,16 +43,6 @@ body:
     value: |
       _If you are unable to find a category that is suitable for your project, or believe that a specific category is missing, please discuss it with the organizers._
 
-- type: dropdown
-  attributes:
-    label: Presenter Location
-    description: Select whether the presenter will be In-person or Online.
-    options:
-      - In-person
-      - Online      
-  validations:
-    required: true
-
 - type: textarea
   attributes:
     label: Key Investigators
