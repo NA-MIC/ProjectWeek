@@ -22,7 +22,7 @@ project_categories:
 
 ## Preparation meetings
 
-We held weekly preparation meetings at 10am EST on Tuesdays on Zoom, starting November 19, 2024
+We hold weekly preparation meetings at 10AM EST (4PM CET) on Tuesdays on Zoom, starting November 19, 2024. The [Zoom link](https://NTNU.zoom.us/j/94105383302?pwd=alVLSG1ITVhSUmpqVG9VMkMwOURrUT09) is the same for all the meetings.
 
 ## Venue
 
