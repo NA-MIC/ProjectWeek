@@ -81,7 +81,15 @@ List of registered participants so far (names will be added here after processin
 
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
-
+1. Rafael Palomar, Oslo University Hospital, Norway
+1. Simon Drouin, École de technologie supérieure, Canada
+1. Steve Pieper, Isomics, Inc., USA
+1. Mamadou Samba CAMARA, Cheikh Anta Diop University of Dakar, Senegal
+1. Davide Punzo, Freelancer DNA HIVE, France
+1. Murat Maga, University of Washington, USA
+1. Constantin CONSTANTINESCU, Lucian Blaga University of Sibiu, Romania
+1. Juan Ruiz-Alzola, University of Las Palmas de Gran Canaria, Spain
+1. Tina Kapur, Brigham and Women's Hospital, Harvard Medical Schools, USA
 
 
 <!-- Participants list end -->
