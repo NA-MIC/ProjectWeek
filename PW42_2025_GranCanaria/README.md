@@ -90,7 +90,14 @@ List of registered participants so far (names will be added here after processin
 1. Constantin CONSTANTINESCU, Lucian Blaga University of Sibiu, Romania
 1. Juan Ruiz-Alzola, University of Las Palmas de Gran Canaria, Spain
 1. Tina Kapur, Brigham and Women's Hospital, Harvard Medical Schools, USA
-
+1. Sam Horvath, Kitware, USA
+1. Ciro Benito Raggio, Karlsruhe Instute of Tecnology, Germany
+1. Domenico Riggio, Karlsruhe Instute of Tecnology, Germany
+1. Thibault Pelletier, Kitware WAS, France
+1. Paolo Zaffino, Magna Graecia University of Catanzaro, Italy
+1. Murong Xu, University of Zurich, Switzerland
+1. Tamaz Amiranashvili, University of Zurich, Switzerland
+1. Hallee Wong, MIT, USA
 
 <!-- Participants list end -->
 
