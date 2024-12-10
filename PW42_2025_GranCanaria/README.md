@@ -98,6 +98,7 @@ List of registered participants so far (names will be added here after processin
 1. Murong Xu, University of Zurich, Switzerland
 1. Tamaz Amiranashvili, University of Zurich, Switzerland
 1. Hallee Wong, MIT, USA
+1. Bjoern Menze, University of Zurich, Switzerland
 
 <!-- Participants list end -->
 
