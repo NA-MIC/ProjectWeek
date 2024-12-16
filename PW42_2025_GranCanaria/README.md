@@ -99,6 +99,11 @@ List of registered participants so far (names will be added here after processin
 1. Tamaz Amiranashvili, University of Zurich, Switzerland
 1. Hallee Wong, MIT, USA
 1. Bjoern Menze, University of Zurich, Switzerland
+1. Francesca Spadea, Karlsruher Institut für Technologie, Germany
+1. Joost van Griethuysen, The Netherlands Cancer Institute, The Netherlands
+1. Lina Bucher, Karlsruher Institut für Technologie, Germany
+1. Sara Rolfe, Seattle Children's Research Institue, USA
+
 
 <!-- Participants list end -->
 
