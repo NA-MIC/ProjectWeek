@@ -103,7 +103,12 @@ List of registered participants so far (names will be added here after processin
 1. Joost van Griethuysen, The Netherlands Cancer Institute, The Netherlands
 1. Lina Bucher, Karlsruher Institut für Technologie, Germany
 1. Sara Rolfe, Seattle Children's Research Institue, USA
-
+1. Andrey Fedorov, Brigham and Women's Hospital, Harvard Medical Schools, USA
+1. Andras Lasso, Queen's University, Canada
+1. Gabor Fichtinger, Queen's University, Canada
+1. Kyle Sunderland, Queen's University, Canada
+1. Rebecca Hisey, Queen's University, Canada
+1. Jacqueline Foody, Mass Gen Brigham/Centaur Labs, USA
 
 <!-- Participants list end -->
 
