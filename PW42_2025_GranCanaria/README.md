@@ -32,7 +32,7 @@ We hold weekly preparation meetings at 10AM EST (4PM CET) on Tuesdays on Zoom, s
 
 - **Recommended hotels (special rates) and maps**
   - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
-    - Booking: Discounted room block no longer available
+    - Booking: [Discounted room block available](https://www.nh-hotels.com/es/event/namic-intern) **until December 31**!
 
 <!--
   - NH Las Palmas Playa Las Canteras [Map](https://cutt.ly/vwkkTDE)
