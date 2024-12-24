@@ -109,13 +109,19 @@ List of registered participants so far (names will be added here after processin
 1. Kyle Sunderland, Queen's University, Canada
 1. Rebecca Hisey, Queen's University, Canada
 1. Jacqueline Foody, Mass Gen Brigham/Centaur Labs, USA
-<!-- 1. Andres Diaz-Pinto, NVIDIA, UK (NO SE HA RECIBIDO EL PAGO)-->
+1. Andres Diaz-Pinto, NVIDIA, UK
 1. Csaba Pintér, EBATINCA, Spain
 1. Nayra Pumar Carreras, EBATINCA, Spain
 1. Mauro Ignacio Dominguez, Independent, Argentina
 1. Mike Jin, Harvard Medical School/Centaur Labs, USA
 1. David Clunie, PixelMed, USA
 1. Hyejeong Hong, Samsung Medical Center, South Korea
+1. Ron Kikinis, Brigham and Women's Hospital and Harvard Medical School, USA
+1. Zora Kikinis, Brigham and Women's Hospital and Harvard Medical School, USA
+1. Soyoung Lim, Samsung Medical Center, South Korea
+1. Niklas Wahl, DKFZ Heidelberg, Germany
+1. Jean-Christophe Fillion-Robin, Kitware Inc., USA
+1. Deepa Krishnaswamy, Brigham and Women's Hospital and Harvard Medical School, USA
 
 <!-- Participants list end -->
 
