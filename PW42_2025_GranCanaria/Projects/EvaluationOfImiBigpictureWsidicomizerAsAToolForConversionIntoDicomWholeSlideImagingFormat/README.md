@@ -30,7 +30,7 @@ key_investigators:
 
 DICOM standard is gaining acceptance in digital pathology imaging. Conversion of slide images into DICOM format can make the data more FAIR, improve quality and comprehensiveness of the associated metadata, and improve their interoperability with the commercial and open source tools implementing the standard. 
 
-DICOM format is used for slide microscopy images available in NCI Imaging Data Commons (IDC). Images submitted to IDC in the vendor-specific formats must be converted into DICOM representation, which is currently done using the PixelMed Toolkit based scripts available in https://github.com/ImagingDataCommons/idc-wsi-conversion.
+DICOM format is used for slide microscopy images available in NCI Imaging Data Commons (IDC). Images submitted to IDC in the vendor-specific formats must be converted into DICOM representation, which is currently done using the PixelMed Toolkit based scripts available in [https://github.com/ImagingDataCommons/idc-wsi-conversion](https://github.com/ImagingDataCommons/idc-wsi-conversion).
 
 Our goal is to migrate the DICOM WSI conversion to use community-supported open source tools. Based on our current assessment and experience, [imi-bigpicture/wsidicomizer](https://github.com/imi-bigpicture/wsidicomizer/) is the most promising tools available for this task. In this project we will work on evaluating this tool.
 
@@ -94,7 +94,7 @@ Background reading:
 * Clunie, D. A. DICOM format and protocol standardization-A core requirement for digital pathology success. Toxicol. Pathol. 49, 738–749 (2021). http://dx.doi.org/10.1177/0192623320965893
   
 Other related materials:
-* IDC Portal: https://portal.imaging.datacommons.cancer.gov/
+* IDC Portal: [https://portal.imaging.datacommons.cancer.gov/](https://portal.imaging.datacommons.cancer.gov/)
 * [conversion_mirax_dicom](https://github.com/ImagingDataCommons/conversion_mirax_dicom/blob/main/add_metadata.py) (currently, private repo)
-* Related earlier project from PW40: https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/WsiDicomImprovementFromViewerToAnalysis/
+* Related earlier project from PW40: [https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/WsiDicomImprovementFromViewerToAnalysis/](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/WsiDicomImprovementFromViewerToAnalysis/)
 
