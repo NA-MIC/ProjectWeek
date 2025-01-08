@@ -125,6 +125,7 @@ List of registered participants so far (names will be added here after processin
 1. Leonard Nürnberg, Harvard Medical School, Brigham and Women's Hospital, USA
 1. Douglas Samuel Gonçalves, University of São Paulo (USP), Brazil
 1. Lucas Sanchez Silva, University of São Paulo (USP), Brazil
+1. Gabriella d'Albenzio, Queen's University, Canada
 
 <!-- Participants list end -->
 
