@@ -25,13 +25,14 @@ key_investigators:
 
 Knowing the type of MRI scan is an important data curation step. For instance clinicians and developers need to know if a scan is T1 weighted, T2 weighted, diffusion, etc in order to make a diagnosis or develop an AI model. This curation can take a long time to do manually, especially if the fields in DICOM data are missing or incorrect. Some tools have been developed already, mostly for brain image classification, and only a few are available for abdominal/prostate areas. 
 
+![PW_41_image_radiology_cropped](https://github.com/user-attachments/assets/f15b3843-7800-4fdf-aa3e-fa9782928734)
+
 The past two project weeks, we've made some progress in developing tools for AI/ML classification of prostate MR scans. See our: 
 - [PW 41 page](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/AutomaticClassificationOfMrScanSequenceType/)
 - [PW 40 page](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/DicomSeriesClassificationAndVisualizationOfParameters/)
 - [paper here](https://openreview.net/forum?id=1GEz81GU3g) and [code here](https://github.com/deepakri201/DICOMScanClassification). 
 
 In this project week, we will focus on creating a 3DSlicer module. 
-
 
 
 ## Objective
@@ -50,8 +51,9 @@ In this project week, we will focus on creating a 3DSlicer module.
 
 
 1. We will first allow the user to pick a study from the DICOM database. 
-2. We will run inference using our pre-trained model on all the series in the study. 
-3. We will modify the layout automatically 
+2. We will run inference using our pre-trained prostate model on all the series in the study. 
+3. We will modify the layout automatically.
+4. If there is time, we will allow the user to choose a body part and appropriate model - there are models for brain MRI, and chest/abdominal MRI scan classification
 
 
 
@@ -71,8 +73,8 @@ In this project week, we will focus on creating a 3DSlicer module.
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+![PW_42_image_CNN_cropped](https://github.com/user-attachments/assets/b20ed579-95b0-4a32-8bde-96b61fc48efa)
 
-![PW_42_images](https://github.com/user-attachments/assets/12a8c113-15bd-4fdc-8be7-e0037ac25c86)
 
 
 
@@ -84,5 +86,6 @@ In this project week, we will focus on creating a 3DSlicer module.
 
 
 [PW 41 work](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/AutomaticClassificationOfMrScanSequenceType/) 
+
 [PW 40 work](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/DicomSeriesClassificationAndVisualizationOfParameters/)
 
