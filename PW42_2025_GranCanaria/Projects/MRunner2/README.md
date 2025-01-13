@@ -4,7 +4,7 @@ layout: pw42-project
 permalink: /:path/
 
 project_title: MRunner2 - MHub.ai for 3D Slicer
-category: Uncategorized
+category: Infrastructure
 
 key_investigators:
 - name: Leonard Nürnberg
@@ -44,10 +44,11 @@ Roadmap:
 - [ ] Store run information
 - [ ] Implement a model search 
 - [ ] Provide additional model information
-- [ ] Support for non-segmentation models (using the 3D Slicer table view or DICOM SR)
+- [ ] Docker SDK (Python) vs. Docker CLI (Subprocess)
 
 Ideas to be discussed:
 - [ ] Modularize extension such that it can be extended with specific configuration
+- [ ] Support for non-segmentation models (using the 3D Slicer table view or DICOM SR)
 
 # Illustrations
 
