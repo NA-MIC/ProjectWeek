@@ -127,6 +127,8 @@ List of registered participants so far (names will be added here after processin
 1. Lucas Sanchez Silva, University of São Paulo (USP), Brazil
 1. Gabriella d'Albenzio, Queen's University, Canada
 1. Maximilian Fischer, German Cancer Research Center, Germany
+1. Víctor Manuel Montaño Serrano, Universidad Autónoma del Estado de México, Mexico
+1. Juan Carlos Avila Vilchis, Universidad Autónoma del Estado de México, Mexico
 
 <!-- Participants list end -->
 
