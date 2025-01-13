@@ -41,8 +41,11 @@ Roadmap:
 - [x] ~~Run models on a remote server (via ssh)~~
 - [x] Display image information (~~version~~, disk space, ..)
 - [x] Update and delete images
+- [ ] Update the selected node in 3D Slicer (red, green, yellow) upon selection
+- [ ] Automatically display generated results after computation
 - [ ] Store run information
-- [ ] Implement a model search 
+- [x] Implement a simple text-based model search
+- [ ] Include output descriptors and model description in model search
 - [ ] Provide additional model information
 - [ ] Docker SDK (Python) vs. Docker CLI (Subprocess)
 
