@@ -129,6 +129,10 @@ List of registered participants so far (names will be added here after processin
 1. Maximilian Fischer, German Cancer Research Center, Germany
 1. Víctor Manuel Montaño Serrano, Universidad Autónoma del Estado de México, Mexico
 1. Juan Carlos Avila Vilchis, Universidad Autónoma del Estado de México, Mexico
+1. Javier Pascau, Universidad Carlos III de Madrid, Spain
+1. Marco Nolden, German Cancer Research Center (DKFZ), Germany
+1. Eléonore Germond, IMT Atlantique, France
+1. Attila Tanács, University of Szeged, Hungary
 
 <!-- Participants list end -->
 
