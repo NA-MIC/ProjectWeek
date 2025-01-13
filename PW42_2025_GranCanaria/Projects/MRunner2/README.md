@@ -39,8 +39,8 @@ Roadmap:
 - [x] Display a list of available mhubai images
 - [x] ~~Provide alternative backends (e.g., udocker)~~
 - [x] ~~Run models on a remote server (via ssh)~~
-- [ ] Display image information (version, disk space, ..)
-- [ ] Update and delete images
+- [x] Display image information (~~version~~, disk space, ..)
+- [x] Update and delete images
 - [ ] Store run information
 - [ ] Implement a model search 
 - [ ] Provide additional model information
