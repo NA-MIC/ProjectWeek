@@ -8,11 +8,11 @@ category: Infrastructure
 
 key_investigators:
 - name: Leonard Nürnberg
-  affiliation: AIM, MGB, UM
+  affiliation: Brigham and Women’s Hospital, Harvard Medical Schools, Maastricht University
   country: The Netherlands
 
 - name: Andrey Fedorov
-  affiliation: MGB
+  affiliation: Brigham and Women’s Hospital, Harvard Medical Schools
   country: USA
 ---
 
