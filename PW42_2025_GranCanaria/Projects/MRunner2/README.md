@@ -23,46 +23,36 @@ We will provide a new extension for 3D Slicer that allows to run models from MHu
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+This project aims to provide a 3D Slicer extension to run arbitrary MHub.ai models (segmentation) directly from Slicer by running the standard Dicom to Dicom workflow on a Dicom image and automatically importing the generated mask into Dicom memory without the need for any model-specific setup.
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+Our first version of the plugin ran a slicer specific nrrd-to-nrrd workflow. While this allowed to run any model directly on a loaded node, the generated results were not stored automatically and a slicer specific nrrd-to-nrrd workflow was required to support a specific MHub.ai model. In this iteration of the extension, we aim to improve on these constrains and add some useful features like GPU selection and image management.
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
-
+Roadmap:
 - [x] Run the default workflow (dicom-dicom) of MHub.ai models
 - [x] Add generated DICOMSEG files to the 3D Slicer DICOM store
 - [x] Conenct to the MHub.ai API to provide a list of available models
+- [x] Detect available GPUs and provide GPU selection
+- [x] Display a list of available mhubai images
 - [x] ~~Provide alternative backends (e.g., udocker)~~
 - [x] ~~Run models on a remote server (via ssh)~~
+- [ ] Display image information (version, disk space, ..)
+- [ ] Update and delete images
+- [ ] Store run information
 - [ ] Implement a model search 
 - [ ] Provide additional model information
 - [ ] Support for non-segmentation models (using the 3D Slicer table view or DICOM SR)
 
+Ideas to be discussed:
+- [ ] Modularize extension such that it can be extended with specific configuration
+
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![Bildschirmfoto 2025-01-10 um 20 02 28](https://github.com/user-attachments/assets/f14ed4e5-bc2a-46dc-a0f9-1a9f59bb16b1)
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
+*tbd*
