@@ -42,8 +42,8 @@ But the existing structure is too rigid, and often is missing terms. We need a f
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. To resolve this we have created an issue page: https://github.com/Slicer/Slicer/issues/6975
-2. and working towards resolving the identified issues: https://github.com/Slicer/Slicer/pull/8112
+1. To resolve this we have created an [issue page](https://github.com/Slicer/Slicer/issues/6975)
+2. and working towards resolving the [identified issues](https://github.com/Slicer/Slicer/pull/8112)
 
 
 
@@ -64,8 +64,7 @@ But the existing structure is too rigid, and often is missing terms. We need a f
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. there is a PR that address some of the issues. https://github.com/Slicer/Slicer/pull/8112
-
+1. there is a [PR](https://github.com/Slicer/Slicer/pull/8112) that address some of the issues. 
 
 
 
