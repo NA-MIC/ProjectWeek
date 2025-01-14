@@ -134,6 +134,7 @@ List of registered participants so far (names will be added here after processin
 1. Eléonore Germond,	IMT Atlantique,	France
 1. Attila Tanács,	University of Szeged,	Hungary
 
+
 <!-- Participants list end -->
 
 ## Statistics
