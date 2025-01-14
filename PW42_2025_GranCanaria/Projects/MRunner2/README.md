@@ -74,4 +74,3 @@ Updated UI and Model Search.
 - The MHub.ai [Documentation](https://github.com/MHubAI/documentation)
 - Guides for [model contributions](https://mhub.ai/contribute).
 - The [first version of the MRunner extension](https://github.com/MHubAI/SlicerMRunner).
-

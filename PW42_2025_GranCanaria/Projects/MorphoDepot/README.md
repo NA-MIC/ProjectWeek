@@ -9,13 +9,13 @@ presenter_location: In-person
 
 key_investigators:
 
-- name: Steve Pieper
-  affiliation: Isomics
-  country: Inc., USA
-
 - name: Murat Maga
   affiliation: Seattle Children's
   country: USA
+
+- name: Steve Pieper
+  affiliation: Isomics
+  country: Inc., USA
 
 - name: Andrey Fedorov
   affiliation: Brigham and Women's Hospital
@@ -29,9 +29,9 @@ key_investigators:
 
 We are developing tools for segmentation of biological specimens (e.g. 3D microCT of fish or snakes).  The idea is that a Lab Director will define a project, such as what scan to segment, what anatomical structures to segment, the terminologies to use, etc.  Students or lab members would be assigned to segment subsets of the data.  We want to leverage existing data management tools, such as github for organizing issues and contributions, and jetstream2 for hosting data and computation.
 
-There is a presentation about the ideas here: https://morphocloud.github.io/MorphoDepotDocs/
+There is a presentation about the ideas here: [https://morphocloud.github.io/MorphoDepotDocs/](https://morphocloud.github.io/MorphoDepotDocs/)
 
-And there is an existing extension here: https://github.com/MorphoCloud/SlicerMorphoDepot
+And there is an existing extension here: [https://github.com/MorphoCloud/SlicerMorphoDepot](https://github.com/MorphoCloud/SlicerMorphoDepot)
 
 We are interested in facilitating collaborative segmentation, including dividing a whole project into tasks, managing allocation to tasks to segmenters, managing/merging contributions, etc. 
 
@@ -85,4 +85,4 @@ MorphoDepotReview module lists pending pull requests and allows PI to accept edi
      If possible, also add links to sample data, and to any relevant publications. -->
 
 Previous Project Week work:
-* https://projectweek.na-mic.org/PW41_2024_MIT/Projects/MorphodepotCollaborativeSegmentationProjects/
+* [https://projectweek.na-mic.org/PW41_2024_MIT/Projects/MorphodepotCollaborativeSegmentationProjects/](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/MorphodepotCollaborativeSegmentationProjects/)

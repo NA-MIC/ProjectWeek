@@ -51,7 +51,7 @@ We hold weekly preparation meetings at 10AM EST (4PM CET) on Tuesdays on Zoom, s
 - Remote participation will not be possible at this project week
 - Registration costs 475€ (increases to 500€ after December 24), and includes coffee breaks, snacks, and lunch at the hotel for the entire week
  
-**Important: The deadline for registration and payment of the fee is Jan 15th**. If you have problems with the payment or registration, contact [namic@ebatinca.com](mailto:namic@ebatinca.com).
+**Important: The deadline for registration and payment of the fee is Jan 22nd** (extended one week). If you have problems with the payment or registration, contact [namic@ebatinca.com](mailto:namic@ebatinca.com).
 
 **Note:** EU regulations require 2FA for all payments. European banking standards and most credit cards support this by default. If your payment doesn't process due to 2FA issues, please reach out for a custom payment link at [namic@ebatinca.com](mailto:namic@ebatinca.com).
 
@@ -84,10 +84,10 @@ List of registered participants so far (names will be added here after processin
 1. Rafael Palomar, Oslo University Hospital, Norway
 1. Simon Drouin, École de technologie supérieure, Canada
 1. Steve Pieper, Isomics, Inc., USA
-1. Mamadou Samba CAMARA, Cheikh Anta Diop University of Dakar, Senegal
+1. Mamadou Samba Camara, Cheikh Anta Diop University of Dakar, Senegal
 1. Davide Punzo, Freelancer DNA HIVE, France
 1. Murat Maga, University of Washington, USA
-1. Constantin CONSTANTINESCU, Lucian Blaga University of Sibiu, Romania
+1. Constantin Constantinescu, Lucian Blaga University of Sibiu, Romania
 1. Juan Ruiz-Alzola, University of Las Palmas de Gran Canaria, Spain
 1. Tina Kapur, Brigham and Women's Hospital, Harvard Medical Schools, USA
 1. Sam Horvath, Kitware, USA
@@ -133,6 +133,9 @@ List of registered participants so far (names will be added here after processin
 1. Marco Nolden, German Cancer Research Center (DKFZ), Germany
 1. Eléonore Germond, IMT Atlantique, France
 1. Attila Tanács, University of Szeged, Hungary
+1. Adriana H. Vilchis González, Universidad Autnoma del Estado de México, Mexico
+1. Joël Spaltenstein, Agora Care SA, Switzerland
+1. Attila Nagy, University of Szeged, Hungary
 
 <!-- Participants list end -->
 
