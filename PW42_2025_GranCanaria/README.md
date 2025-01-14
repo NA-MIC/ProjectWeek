@@ -133,6 +133,7 @@ List of registered participants so far (names will be added here after processin
 1. Marco Nolden, German Cancer Research Center (DKFZ), Germany
 1. Eléonore Germond, IMT Atlantique, France
 1. Attila Tanács, University of Szeged, Hungary
+1. Adriana H. Vilchis González, Universidad Autnoma del Estado de México, Mexico
 
 <!-- Participants list end -->
 
