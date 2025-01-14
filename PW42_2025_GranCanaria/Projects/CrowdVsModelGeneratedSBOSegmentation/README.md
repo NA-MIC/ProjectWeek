@@ -12,7 +12,7 @@ key_investigators:
   country: USA
 
 - name: Tina Kapur
-  affiliation: MGA
+  affiliation: MGB
   country: USA
 ---
 
