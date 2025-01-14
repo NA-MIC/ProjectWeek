@@ -1,0 +1,9 @@
+policy:
+  - section:
+      - id: [draft-status]
+        block-list: ['None', 'Other']
+        label:
+          - name: 'draft'
+            keys: ['Draft - team will hold off on page creation']
+          - name: 'ready'
+            keys: ['Ready - team will start page creating immediately']
