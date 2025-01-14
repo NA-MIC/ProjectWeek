@@ -10,6 +10,9 @@ key_investigators:
 - name: Andres Diaz-Pinto
   affiliation: NVIDIA
   country: UK
+- name: Andras Lasso
+  affiliation: Queen's University
+  country: Canada  
 - name: Vishwesh Nath
   affiliation: NVIDIA
   country: US
