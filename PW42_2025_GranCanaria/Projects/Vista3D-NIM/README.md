@@ -7,12 +7,14 @@ project_title: Remote VISTA3D server (NIM) for CT segmentation
 category: Segmentation / Classification / Landmarking
 
 key_investigators:
-- name: Stephen Aylward
-  affiliation: NVIDIA
-
 - name: Andres Diaz-Pinto
   affiliation: NVIDIA
   country: UK
+
+- name: Stephen Aylward
+  affiliation: NVIDIA
+  country: USA
+
 
 ---
 
