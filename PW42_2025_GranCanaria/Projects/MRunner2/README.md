@@ -14,6 +14,11 @@ key_investigators:
 - name: Andrey Fedorov
   affiliation: Brigham and Women’s Hospital, Harvard Medical Schools
   country: USA
+
+- name: Hugo Aerts
+  affiliation: AIM Lab, Brigham and Women’s Hospital, Harvard Medical Schools
+  country: USA
+
 ---
 
 # Project Description
@@ -69,3 +74,4 @@ Updated UI and Model Search.
 - The MHub.ai [Documentation](https://github.com/MHubAI/documentation)
 - Guides for [model contributions](https://mhub.ai/contribute).
 - The [first version of the MRunner extension](https://github.com/MHubAI/SlicerMRunner).
+
