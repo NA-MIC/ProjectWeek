@@ -44,23 +44,24 @@ If you are interested in similar topics, please join our project!
 
 
 1. Networking: we would like to know how this fits with anyone else's projects and possibly collaborate
-2. Ideally test the current extension on real world use cases
-3. Talk with developers who are improving the terminologies and color modules about how to better structure our segmentations
-4. Bonus: if time brainstorm tools for comparing segmentations / reviewing and merging segmentations
-5. Bonus: work on MorphoDepotAccession module to make it easier to create segmentation task repositories
-6. Extra Bonus: Come up with plans on how to use collaboratively segmented datasets to train AI models (and iteratively refine them)
+2. Talk with developers who are improving the terminologies and color modules about how to better structure our segmentations
+3. Harden the infrastructure for Mac/Windows (install gh cli for users).
+4. Work on MorphoDepotAccession module to make it easier to create segmentation task repositories (design ideas are here: https://github.com/MorphoCloud/SlicerMorphoDepot/issues/10)
+5. Explore how to improve the GH tasks efficiency as querying through tags to find repos, issues and PRs can be slow and may not scale. 
+6. Bonus: if time brainstorm tools for comparing segmentations / reviewing and merging segmentations from team members more effectively.
+7. Extra Bonus: Come up with plans on how to use collaboratively segmented datasets to train AI models (and iteratively refine them)
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. Define/create a JSON schema for the mandatory metadata for each MorphoDepot archive. These should include specimen metadata, and some key imaging metadata.
+2. Explore how to create a staging area for data donors to upload their scenes (volume + segmentation, if exists) to be reviewed by MorphoDepot team (quality control, metadata check, etc).
+   
 
 ## Progress and Next Steps
-
-TBD
+1. Extension is fully functional and has been used in classroom with multiple users for basic segmentation tasks. (e.g., go to https://github.com/muratmaga/pinecone/issues and open an issue for yourself to test).
+2. Implement the MorphoDepotAccession
 
 
 # Illustrations
