@@ -8,6 +8,10 @@ category: Quantification and Computation
 
 key_investigators:
 
+- name: Csaba Pinter
+  affiliation: Ebatinca
+  country: S.L., Spain
+
 - name: Ron Alkalay
   affiliation: Beth Israel Deaconess Medical Center
   country: US
@@ -27,10 +31,6 @@ key_investigators:
 - name: Steve Pieper
   affiliation: Isomics
   country: Inc., USA
-
-- name: Csaba Pinter
-  affiliation: Ebacinca
-  country: S.L., Spain
 
 - name: Andras Lasso
   affiliation: Queen’s University
