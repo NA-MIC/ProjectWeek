@@ -4,7 +4,7 @@ layout: pw42-project
 permalink: /:path/
 
 project_title: Comparison of crowd sourced vs. model generated accuracy on abdominal ultrasound
-category: Uncategorized
+category: Segmentation / Classification / Landmarking
 
 key_investigators:
 - name: Jacqueline Foody, Mike Jin
@@ -13,6 +13,10 @@ key_investigators:
 
 - name: Mike Jin
   affiliation: Centaur Labs/MGB
+  country: USA
+
+- name: Hallee Wong
+  affiliation: MIT
   country: USA
 
 - name: Tina Kapur
