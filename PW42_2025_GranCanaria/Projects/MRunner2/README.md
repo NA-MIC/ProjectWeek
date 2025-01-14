@@ -52,11 +52,20 @@ Roadmap:
 Ideas to be discussed:
 - [ ] Modularize extension such that it can be extended with specific configuration
 - [ ] Support for non-segmentation models (using the 3D Slicer table view or DICOM SR)
+- [ ] Open Slicer and a specific model in MRunner2 from a link via the mhub.ai website (possible?)
 
 # Illustrations
 
 ![Bildschirmfoto 2025-01-10 um 20 02 28](https://github.com/user-attachments/assets/f14ed4e5-bc2a-46dc-a0f9-1a9f59bb16b1)
 
+Updated UI and Model Search.
+
+![Bildschirmfoto 2025-01-14 um 09 09 50](https://github.com/user-attachments/assets/5d277996-d491-4452-bf38-faed63b027ad)
+
+
 # Background and References
 
-*tbd*
+- The [MHub.ai model repository](https://mhub.ai/models)
+- The MHub.ai [Documentation](https://github.com/MHubAI/documentation)
+- Guides for [model contributions](https://mhub.ai/contribute).
+- The [first version of the MRunner extension](https://github.com/MHubAI/SlicerMRunner).
