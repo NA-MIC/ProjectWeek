@@ -48,6 +48,7 @@ If you are interested in similar topics, please join our project!
 3. Talk with developers who are improving the terminologies and color modules about how to better structure our segmentations
 4. Bonus: if time brainstorm tools for comparing segmentations / reviewing and merging segmentations
 5. Bonus: work on MorphoDepotAccession module to make it easier to create segmentation task repositories
+6. Extra Bonus: Come up with plans on how to use collaboratively segmented datasets to train AI models (and iteratively refine them)
 
 ## Approach and Plan
 
