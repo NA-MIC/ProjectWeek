@@ -8,19 +8,20 @@ assignees:
 body:
 
 - type: dropdown
+  id: draft-status
   attributes:
     label: Draft Status
     description: Select whether the project is ready to be created once this issue is submitted.
     options:
-      - Ready - team will start page creating immediately
-      - Draft - team will hold off on page creation    
+      - ready
+      - draft  
   validations:
     required: true
 
 - type: markdown
   attributes:
     value: |
-      _Please enter a project name in the title bar above this text. Format: "Project: Project Name"._
+      _Please enter a project name in the title bar above this text. Avoid special characters and parentheses. Format: "Project: Project Name"._
 
 - type: dropdown
   attributes:
