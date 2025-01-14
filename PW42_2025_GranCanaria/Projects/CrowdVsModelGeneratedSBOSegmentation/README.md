@@ -11,6 +11,10 @@ key_investigators:
   affiliation: Centaur Labs/MGB
   country: USA
 
+- name: Mike Jin
+  affiliation: Centaur Labs/MGB
+  country: USA
+
 - name: Tina Kapur
   affiliation: MGB
   country: USA
