@@ -16,6 +16,8 @@ key_investigators:
   affiliation: Brigham and Women's Hospital/Harvard Medical School
   country: USA
 
+- If you want to join please let me know :) 
+
 ---
 
 # Project Description
