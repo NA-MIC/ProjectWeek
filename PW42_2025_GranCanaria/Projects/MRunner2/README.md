@@ -14,6 +14,11 @@ key_investigators:
 - name: Andrey Fedorov
   affiliation: Brigham and Women’s Hospital, Harvard Medical Schools
   country: USA
+
+- name: Hugo Aerts
+  affiliation: AIM Lab, Brigham and Women’s Hospital, Harvard Medical Schools
+  country: USA
+
 ---
 
 # Project Description
@@ -34,7 +39,7 @@ Our first version of the plugin ran a slicer specific nrrd-to-nrrd workflow. Whi
 Roadmap:
 - [x] Run the default workflow (dicom-dicom) of MHub.ai models
 - [x] Add generated DICOMSEG files to the 3D Slicer DICOM store
-- [x] Conenct to the MHub.ai API to provide a list of available models
+- [x] Connect to the MHub.ai API to provide a list of available models
 - [x] Detect available GPUs and provide GPU selection
 - [x] Display a list of available mhubai images
 - [x] ~~Provide alternative backends (e.g., udocker)~~
