@@ -4,7 +4,7 @@ layout: pw42-project
 permalink: /:path/
 
 project_title: 3D and 2D Radiology Copilot Integration in 3D Slicer
-category: AI/Machine Learning
+category: Segmentation / Classification / Landmarking
 
 key_investigators:
 - name: Andres Diaz-Pinto
