@@ -5,11 +5,11 @@ redirect_from:
 - /PW42_2025_GranCanaria/Readme.html
 
 project_categories:
+- Infrastructure
 - IGT and Training
 - DICOM
 - VR/AR and Rendering
 - Segmentation / Classification / Landmarking
-- Infrastructure
 - Registration
 - Cloud / Web
 - Other
