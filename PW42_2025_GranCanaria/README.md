@@ -9,10 +9,10 @@ project_categories:
 - DICOM
 - VR/AR and Rendering
 - Segmentation / Classification / Landmarking
+- Infrastructure
 - Quantification and Computation
 - Registration
 - Cloud / Web
-- Infrastructure
 - Other
 ---
 
