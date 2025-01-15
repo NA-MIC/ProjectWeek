@@ -35,7 +35,7 @@ The National Lung Screening Trial (NLST) is one of the largest lung cancer colle
 
 There were several initiatives to add cancer nodule annotations to NLST data in IDC. One set of nodule segmentations was created from an AI model from [this initiative]([https://zenodo.org/records/10081112](https://zenodo.org/records/10081112)), but only a percentage of them have been  verified by an expert.
 
-However, there is one initiative from MIT (https://github.com/reginabarzilaygroup/Sybil) that had experts annotate center points and bounding boxes for nodules in NLST patients. Our plan is to convert these json annotations to DICOM Structured Reports, which can then be ingested into IDC and displayed. 
+However, there is one initiative from MIT ([https://github.com/reginabarzilaygroup/Sybil](https://github.com/reginabarzilaygroup/Sybil)) that had experts annotate center points and bounding boxes for nodules in NLST patients. Our plan is to convert these json annotations to DICOM Structured Reports, which can then be ingested into IDC and displayed. 
 
 
 
