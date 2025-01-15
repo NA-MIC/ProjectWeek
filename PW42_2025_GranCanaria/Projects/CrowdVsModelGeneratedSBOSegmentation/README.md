@@ -7,7 +7,7 @@ project_title: Comparison of crowd sourced vs. model generated accuracy on abdom
 category: Segmentation / Classification / Landmarking
 
 key_investigators:
-- name: Jacqueline Foody, Mike Jin
+- name: Jacqueline Foody
   affiliation: Centaur Labs/MGB
   country: USA
 
