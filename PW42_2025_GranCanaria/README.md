@@ -136,6 +136,7 @@ List of registered participants so far (names will be added here after processin
 1. Adriana H. Vilchis González, Universidad Autnoma del Estado de México, Mexico
 1. Joël Spaltenstein, Agora Care SA, Switzerland
 1. Attila Nagy, University of Szeged, Hungary
+1. Robin Peretzke, German Cancer Research Center, Germany
 
 <!-- Participants list end -->
 
