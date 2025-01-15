@@ -4,7 +4,7 @@ layout: pw42-project
 permalink: /:path/
 
 project_title: Creating Linux distro-agnostic binaries for Plastimatch
-category: Other
+category: Infrastructure
 
 key_investigators:
 
