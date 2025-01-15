@@ -10,10 +10,10 @@ project_categories:
 - VR/AR and Rendering
 - Segmentation / Classification / Landmarking
 - Infrastructure
-- Quantification and Computation
 - Registration
 - Cloud / Web
 - Other
+- Quantification and Computation
 ---
 
 # Welcome to the web page for the 42nd Project Week!
