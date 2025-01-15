@@ -89,7 +89,7 @@ _No response_
 
 
 Background reading: 
-- https://www.dicomstandard.org/using/dicomweb
+- [https://www.dicomstandard.org/using/dicomweb](https://www.dicomstandard.org/using/dicomweb)
 
 Further resources: 
 - Related earlier project from Project Week 40: [Current state of DICOMweb for pathology](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/CurrentStateOfDicomwebForPathology/).
