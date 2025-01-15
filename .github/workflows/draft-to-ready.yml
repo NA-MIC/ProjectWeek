@@ -22,5 +22,5 @@ jobs:
               issue_number: context.payload.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              name: ["ready"]
+              labels: ["ready"]
             })
