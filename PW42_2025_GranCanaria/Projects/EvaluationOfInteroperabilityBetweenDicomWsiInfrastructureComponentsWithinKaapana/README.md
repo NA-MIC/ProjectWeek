@@ -97,6 +97,7 @@ _No response_
 
 * Conversion routines for SR, ANN and fractional SEG developed by Chris Bridge / IDC: https://github.com/ImagingDataCommons/idc-sm-annotations-conversion/tree/main for the dataset available in https://zenodo.org/records/14041167
 * Tutorials created by Daniela in IDC for ANN and SR: https://github.com/ImagingDataCommons/IDC-Tutorials/tree/master/notebooks/pathomics (ANN) and https://github.com/ImagingDataCommons/IDC-Tutorials/tree/master/notebooks/collections_demos/rms_mutation_prediction (SR)
+* Support of external PACS (eg, Googe Healthcare DICOM stores) in Kaapana: https://codebase.helmholtz.cloud/kaapana/kaapana/-/merge_requests/415, https://codebase.helmholtz.cloud/kaapana/kaapana/-/issues/1191
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
