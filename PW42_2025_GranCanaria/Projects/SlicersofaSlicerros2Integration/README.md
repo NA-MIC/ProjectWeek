@@ -43,7 +43,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-licerSOFA and SlicerROS2 are two 3D Slicer extensions that bridge mechanical simulations and robotic applications with 3D Slicer. Their recent addition to the 3D Slicer ecosystem opens up new possibilities for developing robotic applications that simulate interactions with medical environments.
+SlicerSOFA and SlicerROS2 are two 3D Slicer extensions that bridge mechanical simulations and robotic applications with 3D Slicer. Their recent addition to the 3D Slicer ecosystem opens up new possibilities for developing robotic applications that simulate interactions with medical environments.
 
 In this project, we aim to create a proof-of-concept integration where a Phantom Omni, controlled by SlicerROS2, interacts with a soft organ through SlicerSOFA. We will examine and discuss aspects such as the interface between ROS and SOFA, as well as performance considerations, to guide the future development of robotic applications that integrate simulated environments in 3D Slicer.
 
