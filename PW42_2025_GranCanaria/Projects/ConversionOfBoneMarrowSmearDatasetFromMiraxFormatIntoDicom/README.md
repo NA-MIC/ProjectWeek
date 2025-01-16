@@ -50,7 +50,7 @@ In addition, this dataset contains extensive deep-learning generated nuclei anno
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 **Objective A**
-1. Implement and verify code for conversion of the .mrxs files as is into .dcm. 
+1. Implement and verify code for conversion of the .mrxs files as is into .dcm. See also this issue: https://github.com/imi-bigpicture/wsidicomizer/issues/56
 2. Add code for ingestion of metadata that are not obtained from the .mrxs files / correct potential falsely estimated metadata.
 3. Have a few successfully converted samples and be ready to run code on complete collection. 
 
