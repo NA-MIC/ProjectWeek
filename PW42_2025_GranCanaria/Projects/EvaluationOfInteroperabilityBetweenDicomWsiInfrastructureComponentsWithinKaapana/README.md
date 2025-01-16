@@ -95,6 +95,7 @@ _No response_
 
 # Background and References
 
+* Conversion routines for ANN and fractional SEG developed by Chris Bridge / IDC: https://github.com/ImagingDataCommons/idc-sm-annotations-conversion/tree/main for the dataset available in https://zenodo.org/records/14041167
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
