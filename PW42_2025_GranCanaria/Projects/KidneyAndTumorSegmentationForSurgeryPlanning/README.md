@@ -93,9 +93,7 @@ We would like to test improved methods for this task, and also define a good ter
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
+Example KiTS case from IDC:
+[https://viewer.imaging.datacommons.cancer.gov/viewer/1.3.6.1.4.1.14519.5.2.1.6919.4624.135173370342136417423953641748](https://viewer.imaging.datacommons.cancer.gov/viewer/1.3.6.1.4.1.14519.5.2.1.6919.4624.135173370342136417423953641748)
 
-
-_No response_
 
