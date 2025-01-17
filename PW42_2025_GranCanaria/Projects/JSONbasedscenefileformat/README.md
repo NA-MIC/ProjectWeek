@@ -29,7 +29,7 @@ The primary objective of this feature is to introduce support for **JSON format*
 1. Supporting a more structured format for the MRML file with explicit datatypes.
 2. Providing APIs in Slicer to facilitate collaborative features, such as retrieving and updating the status of individual nodes.
 
-With this setup, we would start a first step for future adoption and compatibility with standards like OpenUSD and Omniverse. For example, having MRML structured in JSON will make it much easier to convert nodes to OpenUSD.
+With this setup, we would start a first step for future adoption and compatibility with standards like OpenUSD and real-time collaborative toolkits (e.g. Omniverse). For example, having MRML structured in JSON will make it much easier to convert nodes to OpenUSD.
 
 ---
 
