@@ -45,10 +45,10 @@ As a result, the widget is now prepared for broader testing and feedback from bo
 
 1. Get feedback from users/developers.
 1. Prioritize the long term ENH based on the community need/interest. For example:
-	- Add support for DICOMweb
-  - Add support for DICOM frame set
-  - redesign the patient selection widget (currently a tab widget)
-  - ...
+   - Add support for DICOMweb
+   - Add support for DICOM frame set
+   - redesign the patient selection widget (currently a tab widget)
+   - ...
 
 
 ## Approach and Plan
