@@ -85,7 +85,9 @@ video:
    style="width:1000px">
 </video>
 
+UML Diagram:
 
+<img src="https://github.com/user-attachments/assets/7dbf8191-806e-4af9-871c-a578dd1e6051" width="1000">
 
 # Background and References
 
