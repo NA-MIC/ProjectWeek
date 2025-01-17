@@ -70,7 +70,20 @@ As a result, the widget is now prepared for broader testing and feedback from bo
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_No response_
+screenshots:
+
+|Visual DICOM Browser | Jobs and Settings|
+|--- | ---|
+|<img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/86088d74-650b-4139-8e1f-66d0794b73f7" width="1000"> | <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/971d3b2e-5fc6-422c-b57e-eb1c37e1b8b6" width="500">  <img src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/00c4bf23-961b-407b-8730-085d54244a53" width="500">|
+
+
+video:
+
+<video
+   autoplay muted loop
+   src="https://github.com/NA-MIC/ProjectWeek/assets/7985338/9bf4aa20-9c24-4673-8cc6-55039411bf68"
+   style="width:1000px">
+</video>
 
 
 
@@ -81,20 +94,33 @@ _No response_
 
 
 [PR](https://github.com/commontk/CTK/pull/1187)
+
 [PR](https://github.com/commontk/CTK/pull/1191)
+
 [PR](https://github.com/Slicer/Slicer/pull/7676)
+
 [PR](https://github.com/commontk/CTK/pull/1201)
+
 [PR](https://github.com/commontk/CTK/pull/1202)
+
 [PR](https://github.com/commontk/CTK/pull/1203)
+
 [PR](https://github.com/Slicer/Slicer/pull/7751)
+
 [PR](https://github.com/commontk/CTK/pull/1206)
+
 [PR](https://github.com/commontk/CTK/pull/1217)
+
 [PR](https://github.com/commontk/CTK/pull/1218)
+
 [PR](https://github.com/Slicer/Slicer/pull/7811)
+
 [PR](https://github.com/Slicer/Slicer/pull/7912)
+
 [PR](https://github.com/commontk/CTK/pull/1221)
 
 [PW40 Project](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/SlicerVisualDICOMBrowser/)
+
 [PW38 Project](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerVisualDICOMbrowser/)
 
 
