@@ -138,7 +138,8 @@ List of registered participants so far (names will be added here after processin
 1. Attila Nagy, University of Szeged, Hungary
 1. Robin Peretzke, German Cancer Research Center, Germany
 1. Klaus Maier-Hein, German Cancer Research Center, Germany
-   
+1. Sara Fernandez Vidal, Paris Brain Institute, France
+
 <!-- Participants list end -->
 
 ## Statistics
