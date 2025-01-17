@@ -9,7 +9,7 @@ category: Infrastructure
 key_investigators:
 
 - name: Davide Punzo
-  affiliation: freelance, DNA-HIVE
+  affiliation: freelancer, DNA-HIVE
   country: France
 
 - name: Andras Lasso
