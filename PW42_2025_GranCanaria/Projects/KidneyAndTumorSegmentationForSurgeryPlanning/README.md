@@ -82,6 +82,8 @@ We would like to test improved methods for this task, and also define a good ter
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+![image](https://github.com/user-attachments/assets/5ce6d0cb-dfe4-473e-a75a-8ad96c339975)
+
 
 ![Image](https://github.com/user-attachments/assets/e64fc125-1cc5-4cd8-8e92-b27d5f070a3a)
 
