@@ -93,3 +93,5 @@ In this project week, we will focus on creating a 3DSlicer module.
 
 [PW 40 work](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/DicomSeriesClassificationAndVisualizationOfParameters/)
 
+# Related work
+    - [dcm-classifier](https://github.com/BRAINSia/dcm-classifier)
