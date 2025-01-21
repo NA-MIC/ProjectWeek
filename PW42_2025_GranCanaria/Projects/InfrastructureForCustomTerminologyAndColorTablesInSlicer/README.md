@@ -44,6 +44,7 @@ But the existing structure is too rigid, and often is missing terms. We need a f
 
 1. To resolve this we have created an [issue page](https://github.com/Slicer/Slicer/issues/6975)
 2. and working towards resolving the [identified issues](https://github.com/Slicer/Slicer/pull/8112)
+3. Discuss how to [design and implement an infrastructure to share user-generated color tables (as well as custom terminologies, volume rendering presets, etc).](https://github.com/Slicer/Slicer/issues/6975#issuecomment-2581121209) 
 
 
 
