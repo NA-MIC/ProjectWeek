@@ -55,15 +55,16 @@ The SlicerSOFA project aims to integrate the SOFA (Simulation Open Framework Arc
    - [Slicer hangs after starting and stopping the simulation a few times](https://github.com/Slicer/SlicerSOFA/issues/29)
    - [SofaIGTLink Plugin Fails to Load on Windows Build](https://github.com/Slicer/SlicerSOFA/issues/33)
 
-3. Objective C. Expand the functionality by adding new SOFA plugins to the base Slicer-SOFA setup.
+3. Objective C. Expand the functionality by adding new SOFA plugins and abstraction layers to the base Slicer-SOFA setup.
    - [Add SOFA default demo as Slicer module](https://github.com/Slicer/SlicerSOFA/issues/37)
    - [Bump SOFA to v24.12](https://github.com/Slicer/SlicerSOFA/issues/36)
    - [Adding new plugins to base Slicer-SOFA](https://github.com/Slicer/SlicerSOFA/issues/30)
    - [Testing and sample data still relying on RafaelPalomar/SlicerSOFATestingData repository](https://github.com/Slicer/SlicerSOFA/issues/25)
+   - [Add abstraction layer for simplified SOFA scene generation](https://github.com/Slicer/SlicerSOFA/issues/40)
    
  4. Objective D. Implement a mechanism to specify a custom SOFA root directory via environment variables.
-   - [Add feature to specify custom SOFA_ROOT](https://github.com/Slicer/SlicerSOFA/issues/39)
-   - [Enable use of external SOFA and SOFA plugins](https://github.com/Slicer/SlicerSOFA/issues/32)
+     - [Add feature to specify custom SOFA_ROOT](https://github.com/Slicer/SlicerSOFA/issues/39)
+     - [Enable use of external SOFA and SOFA plugins](https://github.com/Slicer/SlicerSOFA/issues/32)
 
 
 
