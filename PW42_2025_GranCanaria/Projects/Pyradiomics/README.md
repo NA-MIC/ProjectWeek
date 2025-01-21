@@ -71,9 +71,9 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 Documentation
-- https://pyradiomics.readthedocs.io
-- https://cibuildwheel.pypa.io
+- [https://pyradiomics.readthedocs.io](https://pyradiomics.readthedocs.io)
+- [https://cibuildwheel.pypa.io](https://cibuildwheel.pypa.io)
 
 Source code
-- https://github.com/AIM-harvard/pyradiomics
-- https://github.com/AIM-harvard/slicerradiomics
+- [https://github.com/AIM-harvard/pyradiomics](https://github.com/AIM-harvard/pyradiomics)
+- [https://github.com/AIM-harvard/slicerradiomics](https://github.com/AIM-harvard/slicerradiomics)
