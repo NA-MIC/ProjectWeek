@@ -14,11 +14,11 @@ key_investigators:
 
 - name: Andrey Fedorov
   affiliation: Brigham and Women's Hospital/Harvard Medical School
-  country: USA
+  country: USA 
 
-- name: If you want to join please let me know :)
-  affiliation:
-  country: 
+- name: Joost van Griethuysen
+  affiliation: The Netherlands Cancer Institute
+  country: The Netherlands
 
 ---
 
