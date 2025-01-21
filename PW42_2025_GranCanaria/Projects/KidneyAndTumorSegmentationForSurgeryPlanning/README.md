@@ -62,7 +62,7 @@ We would like to test improved methods for this task, and also define a good ter
 
 1. Use test data from IDC ([KiTS data](https://kits-challenge.org/kits23/)) as a testbed.  See if there are other datasets we could use for testing.
 2. Meet with experts to discuss state-of-the-art approaches and find out about any existing kidney segmentation models we can try
-3. Experiment with [ScribblePrompt, MultiverSeg](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/DeployingScribblepromptAndMultiversegForInteractiveSegmentationAsA3DSlicerExtension/), and [Radiology Copilot](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/3Dand2DRadiologyCopilotIntegrationin3DSlicer/) for this task
+3. Experiment with [ScribblePrompt, MultiverSeg](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/DeployingScribblepromptAndMultiversegForInteractiveSegmentationAsA3DSlicerExtension/), [VISTA-3D](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/Vista3D-NIM/), and [Radiology Copilot](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/3Dand2DRadiologyCopilotIntegrationin3DSlicer/) for this task
 4. Get input from the IDC team and others on terminologies for this task
 
 
