@@ -83,5 +83,5 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-[1] Peretzke, Robin, et al. "atTRACTive: semi-automatic white matter tract segmentation using active learning." International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer Nature Switzerland, 2023.
+[1] Peretzke, Robin, et al. "atTRACTive: semi-automatic white matter tract segmentation using active learning." International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer Nature Switzerland, 2023. [arxiv version](https://arxiv.org/abs/2305.18905)
 
