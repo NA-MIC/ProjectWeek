@@ -139,6 +139,9 @@ List of registered participants so far (names will be added here after processin
 1. Robin Peretzke, German Cancer Research Center, Germany
 1. Klaus Maier-Hein, German Cancer Research Center, Germany
 1. Sara Fernandez Vidal, Paris Brain Institute, France
+1. Cristina Soriano, Digital Anatomics SL, Spain
+1. Maria Ordieres, Digital Anatomics SL, Spain
+1. Hans Knutsson, Linkoping University, Sweden
 
 <!-- Participants list end -->
 
