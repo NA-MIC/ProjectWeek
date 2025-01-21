@@ -3,7 +3,7 @@ layout: pw42-project
 
 permalink: /:path/
 
-project_title: OHIF Tools: StackScroll for fusion viewport, 4D interaction
+project_title: 'OHIF Tools: StackScroll for fusion viewport, 4D interaction'
 category: Infrastructure
 
 key_investigators:
