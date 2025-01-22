@@ -88,6 +88,7 @@ In this project week, we will focus on creating a 3DSlicer module.
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
+[Current GitHub repo](https://github.com/deepakri201/SlicerMRClass/)
 
 [PW 41 work](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/AutomaticClassificationOfMrScanSequenceType/) 
 
