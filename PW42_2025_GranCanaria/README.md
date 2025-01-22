@@ -46,10 +46,12 @@ We hold weekly preparation meetings at 10AM EST (4PM CET) on Tuesdays on Zoom, s
 - The city has good bus/taxi service and is also walkable.
 
 ## Registration
-
+<!--
 - All participants have to register using the [**form**](https://forms.gle/arhUT62h61XvvLKv6).
-- Remote participation will not be possible at this project week
 - Registration costs 475€ (increases to 500€ after December 24), and includes coffee breaks, snacks, and lunch at the hotel for the entire week
+-->
+- **Registration is now closed**
+- Remote participation will not be possible at this project week
  
 **Important: The deadline for registration and payment of the fee is Jan 22nd** (extended one week). If you have problems with the payment or registration, contact [namic@ebatinca.com](mailto:namic@ebatinca.com).
 
