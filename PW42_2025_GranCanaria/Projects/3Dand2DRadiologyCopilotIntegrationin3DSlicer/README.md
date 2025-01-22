@@ -56,7 +56,7 @@ This project aims to create the first 3D and 2D radiology copilot in 3D Slicer b
 
 # Illustrations
 
-
+![3](https://github.com/user-attachments/assets/10090a5c-1307-48ad-87a4-8f22e8a3331d)
 
 [video](https://github.com/user-attachments/assets/0d9fd2c6-ef26-4d14-851e-c761bb218ea7)
 
