@@ -59,6 +59,14 @@ key_investigators:
   affiliation: Universida Autónoma del Estado de México
   country: Mexico
 
+- name: Fatou Bintou Ndiaye
+  affiliation: University Cheikh Anta Diop
+  country: Senegal
+
+- name: Mohamed Alalli Bilal
+  affiliation: University Cheikh Anta Diop
+  country: Senegal
+
 - name: Andras Lasso
   affiliation: Queen's University
   country: Canada
