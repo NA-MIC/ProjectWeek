@@ -30,6 +30,10 @@ key_investigators:
 - name: Paulo Guilherme Pinheiro Pereira
   affiliation: Universidade de São Paulo
   country: Brazil
+
+- name: Mirela Teixeira Cazzolato
+  affiliation: Universidade de São Paulo
+  country: Brazil
   
 - name: Adriana Herlinda Vilchis González
   affiliation: Universida Autónoma del Estado de México
