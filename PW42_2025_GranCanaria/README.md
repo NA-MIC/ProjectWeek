@@ -144,6 +144,8 @@ List of registered participants so far (names will be added here after processin
 1. Cristina Soriano, Digital Anatomics SL, Spain
 1. Maria Ordieres, Digital Anatomics SL, Spain
 1. Hans Knutsson, Linkoping University, Sweden
+1. Meritxell Gomez Martinez, Fundacio Eurecat, Spain
+1. Daniela Schacherer, Fraunhofer Mevis, Germany
 
 <!-- Participants list end -->
 
