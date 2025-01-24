@@ -37,12 +37,9 @@ In addition, this dataset contains extensive deep-learning generated nuclei anno
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-
  1. **Objective A**: Have a working script for the conversion of the complete set of bone marrow smear WSI into DICOM format based on [wsidicomizer](https://github.com/imi-bigpicture/wsidicomizer).
  2. **Objective B**: Include clinical metadata in an IDC-conformant way.
- 3. **Objective C (optional)**: Have a script that converts the nuclei annotations into DICOM. 
-
-
+ 3. **Objective C (optional)**: Have a script that converts the nuclei annotations into DICOM. Consider this issue: https://github.com/imi-bigpicture/wsidicomizer/issues/56
 
 
 ## Approach and Plan
@@ -50,9 +47,11 @@ In addition, this dataset contains extensive deep-learning generated nuclei anno
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 **Objective A**
-1. Implement and verify code for conversion of the .mrxs files as is into .dcm. See also this issue: https://github.com/imi-bigpicture/wsidicomizer/issues/56
-2. Add code for ingestion of metadata that are not obtained from the .mrxs files / correct potential falsely estimated metadata.
-3. Have a few successfully converted samples and be ready to run code on complete collection. 
+1. Implement and verify code for basic conversion of the .mrxs files as is into .dcm.
+2. Investigate automatically filled metadata (including pixel spacing). wsidicomizer's default data can be found [here](https://github.com/imi-bigpicture/wsidicom/tree/ab16e38c678b4bb6eb8e2c670d4c7278c67edf03/wsidicom/metadata), an overview of attributes for VL Whole Slide Microscopy IOD [here](https://dicom.innolitics.com/ciods/vl-whole-slide-microscopy-image). 
+3. Add code for ingestion of metadata that are not obtained from the .mrxs files / correct potential falsely estimated metadata (via wsidicom API or JSON file).
+4. Verify correct conversion with dciodvfy on every file and dcentvfy on every set of files in a series. 
+5. Have a few successfully converted samples and be ready to run code on complete collection. 
 
 **Objective B**
 1. Prepare additional clinical and lab data as table such that they can be ingested into IDC as BigQuery table. 
@@ -68,15 +67,12 @@ In addition, this dataset contains extensive deep-learning generated nuclei anno
 1. Describe specific steps you **have actually done**.
 
 
-
-
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
-_No response_
-
+![Example image of bone marrow smears](./bone_marrow_smear.png) \
+*Example image of bone marrow smears. Taken from: https://doi.org/10.1177/1040638712452731.*
 
 
 # Background and References
