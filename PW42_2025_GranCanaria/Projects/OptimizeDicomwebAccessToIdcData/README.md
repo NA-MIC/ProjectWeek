@@ -32,7 +32,7 @@ key_investigators:
 
 As the DICOM standard is increasingly used in digital pathology imaging, conversion of available datasets from proprietary formats into DICOM format can make the data more FAIR and improve transparency and reproducibility of research conducted with these data. For this reason, the NCI Imaging Data Commons (IDC) hosts all its data in DICOM format.
 
-DICOMweb is a set of RESTful services that allows search, access and storage of DICOM objects via network. IDC data are also available (currently outdated, but soon to be updated) from a [DICOM store](https://cloud.google.com/healthcare-api/docs/resources/public-datasets/idc). This project aims to specifically try to optimize access to digital pathology IDC data via DICOMweb capable libraries ([wsidicom](), [dicomslide](), [ez-wsi-dicomweb](https://github.com/GoogleCloudPlatform/EZ-WSI-DICOMweb)) based on prior works on that issue. 
+DICOMweb™ is a set of RESTful services that allows search, access and storage of DICOM objects via network. IDC data are also available (currently outdated, but soon to be updated) from a [DICOM store](https://cloud.google.com/healthcare-api/docs/resources/public-datasets/idc). This project aims to specifically try to optimize access to digital pathology IDC data via DICOMweb capable libraries ([wsidicom](), [dicomslide](), [ez-wsi-dicomweb](https://github.com/GoogleCloudPlatform/EZ-WSI-DICOMweb)) based on prior works on that issue. 
 
 
 
@@ -60,8 +60,6 @@ DICOMweb is a set of RESTful services that allows search, access and storage of 
 2. Summarize results.  
 
 
-
-
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
@@ -77,9 +75,8 @@ DICOMweb is a set of RESTful services that allows search, access and storage of 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
-_No response_
-
+![Conceptual overview of DICOMweb](./dicomweb.png) \
+*Conceptual overview of DICOMweb. Taken from: https://www.dicomstandard.org/using/dicomweb/capabilities.*
 
 
 # Background and References
