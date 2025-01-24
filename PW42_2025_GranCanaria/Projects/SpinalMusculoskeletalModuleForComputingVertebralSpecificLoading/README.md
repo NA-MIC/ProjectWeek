@@ -105,6 +105,6 @@ TBD
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-1.	[Evaluation of Load-To-Strength Ratios in Metastatic Vertebrae and Comparison With Age- and Sex-Matched Healthy Individuals](https://www.frontiersin.org/articles/10.3389/fbioe.2022.866970/full)	
-2.	[Metastatic spine disease alters spinal load-to-strength ratios in patients compared to healthy individuals](https://www.medrxiv.org/content/10.1101/2025.01.06.25320075v1)
-
+1. [Evaluation of Load-To-Strength Ratios in Metastatic Vertebrae and Comparison With Age- and Sex-Matched Healthy Individuals](https://www.frontiersin.org/articles/10.3389/fbioe.2022.866970/full)	
+2. [Metastatic spine disease alters spinal load-to-strength ratios in patients compared to healthy individuals](https://www.medrxiv.org/content/10.1101/2025.01.06.25320075v1)
+3. [Automated Segmentation of Trunk Musculature with a Deep CNN Trained from Sparse Annotations in Radiation Therapy Patients with Metastatic Spine Disease](https://www.medrxiv.org/content/10.1101/2025.01.13.25319967v1)
