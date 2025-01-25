@@ -58,10 +58,29 @@ Next steps:
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+# Main Challenges
+
+Building and running 3D Slicer on the NVIDIA IGX box (ARM architecture) involves several significant challenges:
+
+1. **Qt Dependency**: There are no official Qt binary packages for arm64, requiring developers to build Qt from source. This process can trigger dependency errors and may force disabling of components such as QtWebEngine and QtPDF.
+
+2. **VTK Compilation**: VTK needs to be built with Qt and Python support on ARM, adding extra complexity to the build process.
+
+3. **CUDA Library Compatibility**: Some Holoscan applications that rely on CUDA have shown instability due to library differences, leading to crashes when deallocating memory.
+
+4. **Long-term Maintenance**: Maintaining these custom builds for ARM devices can pose a significant long-term effort unless a broader community helps to support and test the codebase.
+
+5. **Dependency Management**: Building Qt with necessary plugins like xcb for X11 support requires installing additional dependencies that are not always well-documented.
+
+6. **Component Disabling**: Some Qt components may need to be disabled due to build errors, potentially limiting functionality.
+
+These challenges highlight the complexity of porting 3D Slicer to ARM architecture and the need for careful consideration of the maintenance costs involved.
+
 # Background and References
+
+The effort to build 3D Slicer on ARM architecture is part of a broader initiative to expand the platform's compatibility and leverage the capabilities of modern ARM-based systems. This project aligns with the growing trend of ARM adoption in various computing environments, from mobile devices to high-performance computing.
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
 - [Slicer ARM-related Issues](https://github.com/Slicer/Slicer/issues?q=is%3Aissue+is%3Aopen+arm)
 - [NVIDIA IGX Platform](https://www.nvidia.com/en-gb/edge-computing/products/igx/)
-
