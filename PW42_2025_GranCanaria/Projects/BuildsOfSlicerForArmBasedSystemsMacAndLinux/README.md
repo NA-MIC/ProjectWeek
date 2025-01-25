@@ -74,7 +74,7 @@ Building and running 3D Slicer on the NVIDIA IGX box (ARM architecture) involves
 
 6. **Component Disabling**: Some Qt components may need to be disabled due to build errors, potentially limiting functionality.
 
-These challenges highlight the complexity of porting 3D Slicer to ARM architecture and the need for careful consideration of the maintenance costs involved.
+**Note:** 3D Slicer works on Mac with ARM architecture (Apple Silicon) primarily due to Apple's Rosetta 2 translation layer, which allows x86_64 applications to run on ARM-based Macs36. This translation layer is not available on other ARM-based architectures like the NVIDIA IGX. While 3D Slicer is not yet natively compiled for ARM on Mac, the Rosetta 2 emulation is efficient enough to provide good performance6. In contrast, other ARM-based systems like the IGX would require a native ARM build of 3D Slicer, which is not yet available.
 
 # Background and References
 
