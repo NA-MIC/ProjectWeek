@@ -24,6 +24,18 @@ key_investigators:
   affiliation: Isomics Inc
   country: USA
 
+- name: Andres Diaz-Pinto
+  affiliation: NVIDIA
+  country: UK
+
+- name: Tamaz Amiranashvili
+  affiliation: University of Zurich
+  country: Switzerland
+
+- name: Murong Xu
+  affiliation: University of Zurich
+  country: Switzerland
+
 ---
 
 # Project Description
@@ -71,11 +83,38 @@ We plan to summarize the results of the review in a publicly available document.
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Instructions for downloading initial sample of images:
 
+`pip install --upgrade idc-index`
 
-1. Describe specific steps you **have actually done**.
+```python
+test_series = \
+['1.2.840.113654.2.55.195946682403058845904768502826466194287', \
+ '1.2.840.113654.2.55.221581533879834196356530174246594024639', \
+ '1.2.840.113654.2.55.71263399928421039572326605504649736531', \
+ '1.2.840.113654.2.55.79318439085250760439172236218713769408', \
+ '1.2.840.113654.2.55.191661316001774647835097522264785668378', \
+ '1.2.840.113654.2.55.304075689731327662774315497031574106725', \
+ '1.2.840.113654.2.55.283399418711252976131557177419186072875', \
+ '1.2.840.113654.2.55.21461438679308812574178613217680405233', \
+ '1.2.840.113654.2.55.97114726565566537928831413367474015470', \
+ '1.2.840.113654.2.55.122344168497038128022524906545138736420', \
+ '1.2.840.113654.2.55.229650531101716203536241646069123704792', \
+ '1.2.840.113654.2.55.257926562693607663865369179341285235858', \
+ '1.3.6.1.4.1.14519.5.2.1.7009.9004.135383252566920035150987356231', \
+ '1.3.6.1.4.1.14519.5.2.1.7009.9004.315696884435641630605419115484', \
+ '1.3.6.1.4.1.14519.5.2.1.7009.9004.230644512623268816899910856967', \
+ '1.3.6.1.4.1.14519.5.2.1.7009.9004.330739122093904668699523188451', \
+ '1.3.6.1.4.1.14519.5.2.1.7009.9004.690272753571338193252806012518', \
+ '1.3.6.1.4.1.14519.5.2.1.7009.9004.310718458447911706151879406927']
+
+from idc_index import IDCClient 
+
+c= IDCClient()
+
+c.download_from_selection(downloadDir=".",seriesInstanceUID=test_series)
+```
+
 
 
 
