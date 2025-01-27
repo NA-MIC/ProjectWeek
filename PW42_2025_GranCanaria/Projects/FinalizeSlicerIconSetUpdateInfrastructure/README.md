@@ -64,6 +64,8 @@ TBD
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+[Light](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/FinalizeSlicerIconSetUpdateInfrastructure/LightThemeIconsIndex.html)
+[Dark](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/FinalizeSlicerIconSetUpdateInfrastructure/DarkThemeIconsIndex.html)
 
 _No response_
 
