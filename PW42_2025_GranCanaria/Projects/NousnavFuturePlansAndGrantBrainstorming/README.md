@@ -12,6 +12,10 @@ key_investigators:
   affiliation: Kitware
   country: USA
 
+- name: Steve Pieper
+  affiliation: Isomics
+  country: USA
+
 - name: Tina Kapur
   affiliation: BWH
   country: USA
@@ -23,7 +27,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-The NousNav project team will meet and discuss future goals for the project
+The NousNav project team will meet and discuss future goals for the project.
 
 
 
@@ -31,9 +35,7 @@ The NousNav project team will meet and discuss future goals for the project
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-
-TBD
-
+We plan to do a demo of the current system, and discuss future plans.
 
 
 ## Approach and Plan
@@ -41,7 +43,17 @@ TBD
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-TBD
+### Tasks:
+- Do a demo of the hardware / software available 
+    - Should be full system with camera
+- Deliver system to team traveling to Dakar
+   - Make sure they have the latest NousNav software
+   - Hand off hardware
+
+### Discussion Items
+- Funding sources
+- Regulatory approval approaches
+   - Design history file elements
 
 
 
