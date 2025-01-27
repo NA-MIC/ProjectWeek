@@ -33,6 +33,7 @@ key_investigators:
 
 This work is part of an NIH Trailblazer R21 grant to our team to develop and validate computational methods for quantifying pulmonary congestion using B-lines in heart failure patients from bedside lung ultrasound in emergency settings. Tools for automated quantification could help emergency department physicians more rapidly and frequently examine patients to assess progress and adjust treatment, resulting in improved care and patient outcomes.
 
+![grid_Case001_0](https://github.com/user-attachments/assets/87bd5a3e-9601-45fb-a1c1-c0cdc99a665f)
 
 
 ## Objective
