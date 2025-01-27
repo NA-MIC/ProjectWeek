@@ -93,7 +93,7 @@ The Julich-Brain is the foundation of the [Multilevel Human Brain Atlas](https:/
 
 
 
-Jülich Atlas 👍 https://www.fz-juelich.de/de/inm/inm-1/aktuelles/meldungen/complete-data-package-of-julich-brain-atlas-released
+[Jülich Atlas 👍](https://www.fz-juelich.de/de/inm/inm-1/aktuelles/meldungen/complete-data-package-of-julich-brain-atlas-released)
 
 
 _No response_
