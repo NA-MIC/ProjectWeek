@@ -75,11 +75,11 @@ There is a regression with how latest SlicerVR lights the scene, both with the o
 
 The following screenshots demonstrate shadows vs no shadows in OpenVR: 
 
-![Image](https://github.com/user-attachments/assets/ac45a49c-078f-4661-a645-81994a1fcfc5)
+![OpenVR_NoShadow](https://github.com/user-attachments/assets/713475e8-bd78-4f50-ba02-07a6b005145b)
 Left: Slicer view using OpenVR without shadows 
 Right: VR view (with back lights / without two sided lighting)
 
-![Image](https://github.com/user-attachments/assets/f39ce58a-36a3-4f22-87e0-9a389a87eb2d)
+![OpenVR_Shadow](https://github.com/user-attachments/assets/0211bdef-fe55-4d2f-8362-f61199e5c440)
 Left: Slicer view using OpenVR with shadows
 Right: VR view  (with back lights / without two sided lighting)
 
@@ -88,11 +88,11 @@ ________________________________________________________________________________
 
 The following screenshots demonstrate different lighting options in OpenXR: 
 
-![Image](https://github.com/user-attachments/assets/a12e9d9a-6ce9-427e-b274-044118f1c1a3)
+![OpenXR_NoShadow](https://github.com/user-attachments/assets/9e90309f-07d8-4669-8d06-80a33d177036)
 Left: Slicer view using OpenXR without shadows 
 Right: VR view (with back lights / without two sided lighting) 
 
-![Image](https://github.com/user-attachments/assets/750f488b-e02b-45ce-9772-762ae1924691)
+![OpenXR_Shadow](https://github.com/user-attachments/assets/10c3fd24-7c80-4a87-8a61-03c53d47ab85)
 Left: Slicer view using OpenXR without shadows 
 Right: VR view (without back lights / without two sided lighting) 
 
