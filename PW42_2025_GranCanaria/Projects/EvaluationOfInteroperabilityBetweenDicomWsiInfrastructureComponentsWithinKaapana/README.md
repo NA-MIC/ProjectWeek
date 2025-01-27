@@ -5,7 +5,7 @@ permalink: /:path/
 
 project_title: Evaluation of interoperability between DICOM WSI Infrastructure components within
   Kaapana
-category: Dicom
+category: Also Dicom
 
 key_investigators:
 
