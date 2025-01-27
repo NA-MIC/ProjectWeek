@@ -79,15 +79,15 @@ TBD
 
 <!-- Uploading "image.png"... -->
 ![Image](https://github.com/user-attachments/assets/0a21a2ac-2506-4410-9938-ddb537aa870f)
-
+**3D reconstruction from 2D X-rays**
 <!-- Uploading "image.png"... -->
 
 ![Image](https://github.com/user-attachments/assets/b292a716-6661-47fd-aaaa-c36d0deb0b2a)
+**Landmark detection and cobbs angle measurement**
+<!-- Uploading "image.png"... -->
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/bf310de0-a58d-414e-8222-bec0a382281f)
+**Curve correction simulation**
 
 # Background and References
 

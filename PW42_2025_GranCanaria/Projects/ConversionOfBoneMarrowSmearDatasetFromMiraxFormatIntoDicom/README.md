@@ -29,7 +29,7 @@ key_investigators:
 As the DICOM standard is increasingly used in digital pathology imaging, conversion of available datasets from proprietary formats into DICOM format can make the data more FAIR and improve transparency and reproducibility of research conducted with these data. For this reason, the NCI Imaging Data Commons (IDC) hosts all its data in DICOM format. 
 
 A set of bone marrow smear WSI available in MIRAX (.mrxs) format are to be ingested into the IDC. For that purpose they need to be converted into DICOM (.dcm) along with all available image and clinical metadata. 
-In addition, this dataset contains extensive deep-learning generated nuclei annotations (bounding boxes) that should also be converted in DICOM in a suitable way. 
+In addition, this dataset contains extensive deep-learning generated nuclei annotations (bounding boxes) that should also be converted into DICOM in a suitable way. 
 
 
 

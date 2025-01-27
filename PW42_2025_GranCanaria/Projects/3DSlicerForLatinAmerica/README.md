@@ -85,17 +85,17 @@ The project aims to empower the biomedical research community in Latin America b
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-1. Objective B. ...
-1. Objective C. ...
+1. Solve the existing GitHub issues related to core functionalities of the extension Tutorial Maker. For example, not handling clicks or widget resizing during annotations blocks the user from finishing the tutorial.
+2. Solve the existing GitHub issues raised during the African team tests. For example, buttons in the annotator that don't work properly, pdf exporter breaking the original format.
+3. Fix problems in existing tutorials. For example, some missing slides in the PDF.
+4. Improve the code's legibility and the extension's performance.
+5. Collect more feedback from the users on the event.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-1. ...
-1. ...
+1. All the tasks (issues) are designated to pairs in the team, during the project week we will keep in continuous touch to solve each of these problems and any problem raised during feedback in the project week.
 
 ## Progress and Next Steps
 
@@ -103,8 +103,6 @@ The project aims to empower the biomedical research community in Latin America b
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Describe specific steps you **have actually done**.
-1. ...
-1. ...
 
 # Illustrations
 
@@ -117,3 +115,6 @@ The project aims to empower the biomedical research community in Latin America b
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
+
+[TutorialMaker](https://github.com/SlicerLatinAmerica/SlicerTutorialMaker)
+The repository with all the code related to the extension. Feel free to open an issue or contribute! You can also download using the Extension Manager in the preview version of 3D Slicer.
