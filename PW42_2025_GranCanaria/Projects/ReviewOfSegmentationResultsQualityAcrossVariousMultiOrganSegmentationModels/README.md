@@ -64,22 +64,11 @@ Over time, some of the deficiencies in the segmentations produced by TotalSegmen
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-
-For any model to be evaluated, we need to have segmentation results available for the specific set of CT images from NLST. 
-
-At this moment, we have those for
-* TotalSegmentator v1
-* MOOSE
-
-We are hopeful to also get segmentations for those selected specific cases for the following (given the list of participants in PW):
-* OMAS (@aTamaz will you help?)
-* AutoSeg3D (@diazandr3s can you help?)
-
-We plan to use the SegmentationVerification extension developed by @cpinter in the PW41 earlier for the review (see [https://projectweek.na-mic.org/PW41_2024_MIT/Projects/SegmentationVerificationModuleForFinalizingMultiLabelAiSegmentations/](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/SegmentationVerificationModuleForFinalizingMultiLabelAiSegmentations/)).
-
-We plan to summarize the results of the review in a publicly available document.
-
-
+1. Identify set of cases to review.
+2. Collect results from various methods (currently have for MOOSE and TotalSegmentator).
+3. Review cases with Ron and David (using [SegmentationVerificationModule](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/SegmentationVerificationModuleForFinalizingMultiLabelAiSegmentations/)
+4. Identify more cases with failures, prepare interface/instructions how to help in identifying those.
+5. Summarize the results of the review in a publicly available document.
 
 ## Progress and Next Steps
 
@@ -126,13 +115,10 @@ c.download_from_selection(downloadDir=".",seriesInstanceUID=test_series)
 
 _No response_
 
-
-
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-
-
-_No response_
+* Krishnaswamy, D., Thiriveedhi, V. K., Ciausu, C., Clunie, D., Pieper, S., Kikinis, R. & Fedorov, A. Rule-based outlier detection of AI-generated anatomy segmentations. arXiv [eess.IV] (2024). at http://arxiv.org/abs/2406.14486
+* HuggingFace exploration dashboard: https://huggingface.co/spaces/ImagingDataCommons/CloudSegmentatorResults
 
