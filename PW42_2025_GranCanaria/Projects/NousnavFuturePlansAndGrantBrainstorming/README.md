@@ -71,6 +71,12 @@ TBD
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+![1000008250](https://github.com/user-attachments/assets/cfbd9ee0-1e4d-443e-a64d-6f13f7fe820d)
+
+![1000008251](https://github.com/user-attachments/assets/5a1fbe00-3417-49e6-a73b-44bc5328dcf4)
+
+![Screenshot 2025-01-27 05 52 43](https://github.com/user-attachments/assets/bf800ad3-ba49-49ba-bb6f-9a9b0539d945)
+
 
 _No response_
 
