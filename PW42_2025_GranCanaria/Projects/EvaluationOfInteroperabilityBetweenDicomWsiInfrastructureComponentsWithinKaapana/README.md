@@ -4,7 +4,7 @@ layout: pw42-project
 permalink: /:path/
 
 project_title: Evaluation of interoperability between DICOM WSI Infrastructure components within Kaapana
-category: DICOM
+category: Also DICOM
 
 key_investigators:
 
