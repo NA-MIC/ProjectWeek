@@ -54,11 +54,11 @@ In some cases the crowd successfully segmented the bowel and in others, they wer
 1. ...
 
 # Illustrations
+Crowd Segmentations:
+![crowd_example](https://github.com/user-attachments/assets/77cbd081-2fe6-4bef-906a-71ff70407eaa)
+Expert Segmentations:
+![expert_example](https://github.com/user-attachments/assets/ef8bba58-7080-40f2-ac9b-8874f8cc6418)
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
 
 # Background and References
 
