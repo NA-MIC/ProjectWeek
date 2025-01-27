@@ -61,11 +61,13 @@ Ideas to be discussed:
 
 # Illustrations
 
-![Bildschirmfoto 2025-01-10 um 20 02 28](https://github.com/user-attachments/assets/f14ed4e5-bc2a-46dc-a0f9-1a9f59bb16b1)
-
 Updated UI and Model Search.
 
 ![Bildschirmfoto 2025-01-14 um 09 09 50](https://github.com/user-attachments/assets/5d277996-d491-4452-bf38-faed63b027ad)
+
+Updated Model Information and Details.
+
+<img width="602" alt="Bildschirmfoto 2025-01-27 um 11 11 28" src="https://github.com/user-attachments/assets/2d8ba82e-a6f2-41c9-8c57-12cc3418bc77" />
 
 
 # Background and References
