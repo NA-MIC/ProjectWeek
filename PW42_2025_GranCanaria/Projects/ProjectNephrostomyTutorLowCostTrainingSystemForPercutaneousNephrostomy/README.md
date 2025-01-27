@@ -16,6 +16,10 @@ key_investigators:
   affiliation: Queen's University
   country: Canada
 
+- name: Kyle Sunderland
+  affiliation: Queen's University
+  country: Canada
+
 - name: Mamadou Camara
   affiliation: ESP
   country: Senegal
