@@ -23,7 +23,9 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-We intend to integrate the Julich Brain Atlas into our EpiSTIM 3D Slicer Extension.
+We intend to integrate the Julich Brain Atlas into our 3D Slicer Extension dedicaated to SEEG proceuder, called EpiSTIM.
+
+SEEG, or Stereo-Electroencephalography, is a medical procedure used to study epilepsy. It involves placing electrodes inside the brain to record its electrical activity. Neurologists use SEEG to find the exact areas of the brain causing seizures. It helps to decide the best treatment, like resection surgery or other therapies.
 
 EpiSTIM is a software project developed to assist neurosurgeons, neurologists and researchers in image processing tasks related to SEEG surgical procedures, from surgical stereotaxic planning to postoperative studies.
 
