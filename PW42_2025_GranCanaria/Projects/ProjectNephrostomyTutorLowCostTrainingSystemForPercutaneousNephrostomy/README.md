@@ -3,7 +3,7 @@ layout: pw42-project
 
 permalink: /:path/
 
-project_title: 'Project: Nephrostomy tutor low cost training system for percutaneous nephrostomy'
+project_title: 'Nephrostomy tutor low cost training system for percutaneous nephrostomy'
 category: IGT and Training
 
 key_investigators:
