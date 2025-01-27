@@ -16,6 +16,10 @@ key_investigators:
   affiliation: Isomics
   country: USA
 
+- name: Alex Golby
+  affiliation: BWH
+  country: USA
+
 - name: Tina Kapur
   affiliation: BWH
   country: USA
