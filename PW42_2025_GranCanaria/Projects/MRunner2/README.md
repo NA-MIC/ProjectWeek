@@ -46,18 +46,21 @@ Roadmap:
 - [x] ~~Run models on a remote server (via ssh)~~
 - [x] Display image information (~~version~~, disk space, ..)
 - [x] Update and delete images
-- [ ] Update the selected node in 3D Slicer (red, green, yellow) upon selection
+- [x] Update the selected node in 3D Slicer (red, green, yellow) upon selection
 - [ ] Automatically display generated results after computation
 - [ ] Store run information
 - [x] Implement a simple text-based model search
-- [ ] Include output descriptors and model description in model search
-- [ ] Provide additional model information
-- [ ] Docker SDK (Python) vs. Docker CLI (Subprocess)
+- [x] Include output descriptors and model description in model search
+- [x] Provide additional model information
+- [x] Disable models incompatible with extension (only segmentation models and single-input models aas of now)
+- [x] Show async raw output stream of MHub run command
 
 Ideas to be discussed:
+- [ ] Docker SDK (Python) vs. Docker CLI (Subprocess)
 - [ ] Modularize extension such that it can be extended with specific configuration
 - [ ] Support for non-segmentation models (using the 3D Slicer table view or DICOM SR)
 - [ ] Open Slicer and a specific model in MRunner2 from a link via the mhub.ai website (possible?)
+- [ ] Multi-Select (now possible with new History view) and modality check (for dynamic model compatibility)
 
 # Illustrations
 
