@@ -6,6 +6,7 @@ redirect_from:
 
 project_categories:
 - DICOM
+- Also DICOM
 - Infrastructure
 - IGT and Training
 - VR/AR and Rendering
