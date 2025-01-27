@@ -112,6 +112,7 @@ c.download_from_selection(downloadDir=".",seriesInstanceUID=test_series)
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+![Image](https://github.com/user-attachments/assets/64b08eb3-3cbb-48c7-a637-1e26cbba212d)
 
 _No response_
 
