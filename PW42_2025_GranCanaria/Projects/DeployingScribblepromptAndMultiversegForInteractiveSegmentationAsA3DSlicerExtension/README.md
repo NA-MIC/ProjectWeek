@@ -49,7 +49,7 @@ We will develop a 3D slicer extension to deploy two interactive segmentation mod
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. We will start by following the [tutorial](https://docs.google.com/presentation/d/1JXIfs0rAM7DwZAho57Jqz14MRn2BIMrjB17Uj_7Yztc/edit#slide=id.g420896289_0251) for developing a 3D slicer extension
+1. We will start by following the [tutorial](https://training.slicer.org/) for developing a 3D slicer extension
 
 
 
