@@ -66,13 +66,9 @@ The goal of this project is to implement a similar interface for surface renderi
 
 
 # Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-
-_No response_
-
-
+Custom volume rendering done in Unity VR, to be ported to VTK and 3D Slicer. The current implementation relies on Compute Shaders.
+<iframe width="640" height="360" src="https://youtu.be/YFl7LF5hWxI">
+ </iframe>
 
 # Background and References
 
