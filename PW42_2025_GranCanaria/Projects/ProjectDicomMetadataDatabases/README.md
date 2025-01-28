@@ -3,7 +3,7 @@ layout: pw42-project
 
 permalink: /:path/
 
-project_title: 'Project: DICOM metadata databases'
+project_title: 'DICOM metadata databases'
 category: DICOM
 
 key_investigators:
