@@ -82,6 +82,8 @@ But the existing structure is too rigid, and often is missing terms. We need a f
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+![image](https://github.com/user-attachments/assets/7deac812-bc55-4e88-8640-247f89429944)
+
 
 _No response_
 
