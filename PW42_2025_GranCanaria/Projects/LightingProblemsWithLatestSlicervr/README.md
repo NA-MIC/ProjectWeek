@@ -20,8 +20,8 @@ key_investigators:
   affiliation: CHOP
   country: USA
 
-- name: Kitware?
-  affiliation: Jc / Thibault
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware
 
 ---
 
@@ -100,6 +100,8 @@ Right: VR view (without back lights / without two sided lighting)
 
 
 # Background and References
+
+* [SlicerVirtualReality issue](https://github.com/KitwareMedical/SlicerVirtualReality/issues/182)
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
