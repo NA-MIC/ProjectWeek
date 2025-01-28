@@ -72,7 +72,7 @@ In addition, this dataset contains extensive deep-learning generated nuclei anno
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 ![Example image of bone marrow smears](./bone_marrow_smear.png) \
-*Example image of bone marrow smears. Taken from: https://doi.org/10.1177/1040638712452731.*
+*Example image of bone marrow smears. Taken from: [https://doi.org/10.1177/1040638712452731](https://doi.org/10.1177/1040638712452731).*
 
 
 # Background and References
