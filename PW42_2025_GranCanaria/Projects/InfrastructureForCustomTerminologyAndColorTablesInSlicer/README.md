@@ -85,9 +85,6 @@ But the existing structure is too rigid, and often is missing terms. We need a f
 ![image](https://github.com/user-attachments/assets/7deac812-bc55-4e88-8640-247f89429944)
 
 
-_No response_
-
-
 
 # Background and References
 
@@ -95,5 +92,7 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-_No response_
+* [Pull request](https://github.com/Slicer/Slicer/pull/8112)
+* Issue [#7593](https://github.com/Slicer/Slicer/issues/7593)
+* Issue [#6975](https://github.com/Slicer/Slicer/issues/6975)
 
