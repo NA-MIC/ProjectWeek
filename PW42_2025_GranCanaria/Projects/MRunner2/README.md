@@ -47,8 +47,8 @@ Roadmap:
 - [x] Display image information (~~version~~, disk space, ..)
 - [x] Update and delete images
 - [x] Update the selected node in 3D Slicer (red, green, yellow) upon selection
-- [ ] Automatically display generated results after computation
-- [ ] Store run information
+- [ ] Automatically display generated results after computation -> bug?
+- [ ] ~~Store run information~~
 - [x] Implement a simple text-based model search
 - [x] Include output descriptors and model description in model search
 - [x] Provide additional model information
