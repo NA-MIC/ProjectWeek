@@ -20,6 +20,9 @@ key_investigators:
 - name: Andras Lasso
   affiliation: Queen's University
   country: CA
+- name: Mauro I. Dominguez
+  affiliation: Independent
+  country: Argentina  
 - name: Robin Peretzke
   affiliation: German Cancer Research Center
   country: Germany  
@@ -78,6 +81,54 @@ Building and running 3D Slicer on the NVIDIA IGX box (ARM architecture) involves
 6. **Component Disabling**: Some Qt components may need to be disabled due to build errors, potentially limiting functionality.
 
 **Note:** 3D Slicer works on Mac with ARM architecture (Apple Silicon) primarily due to Apple's Rosetta 2 translation layer, which allows x86_64 applications to run on ARM-based Macs36. This translation layer is not available on other ARM-based architectures like the NVIDIA IGX. While 3D Slicer is not yet natively compiled for ARM on Mac, the Rosetta 2 emulation is efficient enough to provide good performance6. In contrast, other ARM-based systems like the IGX would require a native ARM build of 3D Slicer, which is not yet available.
+
+## Building Slicer in [Ubuntu 22.04 (x86)](https://slicer.readthedocs.io/en/latest/developer_guide/build_instructions/linux.html#ubuntu-22-04-jammy-jellyfish):
+
+This section provides instructions for building Slicer on x86 systems:
+
+0. Install the development tools and the support libraries:
+
+```console
+sudo apt update && sudo apt install git build-essential \
+  cmake cmake-curses-gui cmake-qt-gui \
+  libqt5x11extras5-dev qtmultimedia5-dev libqt5svg5-dev qtwebengine5-dev libqt5xmlpatterns5-dev qttools5-dev qtbase5-private-dev \
+  libxt-dev libssl-dev
+```
+
+1. Create a folder called Slicers where you will clone the Slicer repository and create the build directory:
+ 
+```console
+mkdir ~/Slicers
+cd ~/Slicers
+```
+
+2. Clone the Slicer repository:
+
+```console
+git clone https://github.com/Slicer/Slicer.git
+```
+3. Locate the Qt installation. It is typically found in /opt/qt/. For example: /opt/qt/5.15.2/gcc_64/lib/cmake/Qt5
+
+4. Run the following bash commands to set up the environment and build Slicer:
+
+```console
+# Set variables
+export Slicer_RELEASE_TYPE=Stable
+export SLICER_CODE_PATH=/home/$USER/Slicers/Slicer
+export SLICER_SUPERBUILD_PATH=/home/$USER/Slicers/SlicerR
+export SLICER_BUILD_PATH=$SLICER_SUPERBUILD_PATH/Slicer-build
+export NUMBER_OF_SLICER_COMPILATION_JOBS=2
+
+# Create build directory
+mkdir -p $SLICER_SUPERBUILD_PATH
+cd $SLICER_SUPERBUILD_PATH
+
+# Configure Slicer build
+cmake -DCMAKE_BUILD_TYPE:STRING=Release -DQt5_DIR:PATH=/opt/qt/5.15.2/gcc_64/lib/cmake/Qt5 $SLICER_CODE_PATH
+
+# Build Slicer
+time make -j$NUMBER_OF_SLICER_COMPILATION_JOBS
+```
 
 # Background and References
 
