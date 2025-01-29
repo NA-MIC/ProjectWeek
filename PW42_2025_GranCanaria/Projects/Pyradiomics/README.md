@@ -11,6 +11,10 @@ key_investigators:
 - name: Joost van Griethuysen
   affiliation: The Netherlands Cancer Institute
   country: The Netherlands
+  
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware Inc.
+  country: US
 
 ---
 
