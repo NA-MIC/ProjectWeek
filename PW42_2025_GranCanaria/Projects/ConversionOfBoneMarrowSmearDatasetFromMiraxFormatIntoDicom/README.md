@@ -87,6 +87,7 @@ Background reading:
 
 Further resources:
 - [IDC Portal](https://portal.imaging.datacommons.cancer.gov/)
+- Description of MIRAX format: [Introduction to MIRAX/MRXS](https://lists.andrew.cmu.edu/pipermail/openslide-users/2012-July/000373.html)
 - Conversion tool: [wsidicomizer](https://github.com/imi-bigpicture/wsidicomizer)
 - Useful tools for inspection/verification of DICOM files: [dcmtk](https://dicom.offis.de/en/dcmtk/dcmtk-tools/), [dicom3tools](https://www.dclunie.com/dicom3tools.html)
 - Related project from this project week: [Evaluation of imi-bigpicture/wsidicomizer as a tool for conversion into DICOM whole slide imaging format](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/EvaluationOfImiBigpictureWsidicomizerAsAToolForConversionIntoDicomWholeSlideImagingFormat/)
