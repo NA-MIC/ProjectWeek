@@ -54,11 +54,14 @@ Roadmap:
 - [x] Provide additional model information
 - [x] Disable models incompatible with extension (only segmentation models and single-input models aas of now)
 - [x] Show async raw output stream of MHub run command
+- [x] Display JSON and CSV files in Slicer Table view
+- [ ] Maintain a run history of generated output files
+- [ ] Organize all extension files into a single temp / user folder: input, output, logs, runs
 
 Ideas to be discussed:
 - [ ] Docker SDK (Python) vs. Docker CLI (Subprocess)
 - [ ] Modularize extension such that it can be extended with specific configuration
-- [ ] Support for non-segmentation models (using the 3D Slicer table view or DICOM SR)
+- [x] Support for non-segmentation models (using the 3D Slicer table view or DICOM SR)
 - [ ] Open Slicer and a specific model in MRunner2 from a link via the mhub.ai website (possible?)
 - [ ] Multi-Select (now possible with new History view) and modality check (for dynamic model compatibility)
 
