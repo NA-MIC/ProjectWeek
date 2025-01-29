@@ -105,10 +105,21 @@ https://github.com/Slicer/Slicer/pull/8141#issuecomment-2618876551
    - Introducing macros for automatic schema generation would be beneficial.
    - Exploring GraphQL support2 could enable batched updates through mutations3. Integration could leverage libraries such as cppgraphqlgen4, as libgraphqlparser5 appears unmaintained.
    - Investigate VTK serialization6 capabilities in recent versions, which might complement this work.
-
 1. The discussion with NVIDIA will be further explored to assess Slicer support and interoperability with OpenUSD/Omniverse for a medical real-time collaboration tool within Omniverse.
-
-
+1. Performance tests:
+    - a markups line:
+      - JSON: write to JSON string 0.000896823 ± 0.000277 sec, read from JSON string 0.0157257 ± 0.014451 sec   
+    - full scene with 100 markups lines:
+      - XML: write 0.00911713 ± 0.000674, read sec 0.13796 ± 0.038905 sec
+      - JSON: write 0.0467375 ± 0.020891, read sec 0.180462 ± 0.013206 sec
+      - i.e. speed factors are: ~5.13 in writing - ~1.31 in reading
+      - full scene writing could be optimized further, although the time for processing 100 markup lines is < 0.05 seconds.
+1. Adding Automated tests for
+    - [ ] vtkMRMLScene::Commit
+    - [ ] vtkMRMLScene::LoadIntoScene  
+    - [ ] vtkMRMLNode::WriteJSONToString
+    - [ ] vtkMRMLNode::ReadJSONFromString  
+  
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
