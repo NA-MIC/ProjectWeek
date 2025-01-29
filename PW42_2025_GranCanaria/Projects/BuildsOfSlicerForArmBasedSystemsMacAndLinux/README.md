@@ -94,6 +94,9 @@ sudo apt update && sudo apt install git build-essential \
   libqt5x11extras5-dev qtmultimedia5-dev libqt5svg5-dev qtwebengine5-dev libqt5xmlpatterns5-dev qttools5-dev qtbase5-private-dev \
   libxt-dev libssl-dev
 ```
+![running_x86_commands](https://github.com/user-attachments/assets/ecc6630f-5c72-432a-bdd2-02d66d151b73)
+
+
 
 1. Create a folder called Slicers where you will clone the Slicer repository and create the build directory:
  
