@@ -60,9 +60,20 @@ As a result, the widget is now prepared for broader testing and feedback from bo
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
- 
+1. Feedback has been collected:
+  - #### **Leonard Nürnberg:**  
+    - Add an option in settings to order series in the study widget by modality.  
+    - Automatically load the source volume when loading a segmentation.  
+    - Render SEG DICOM thumbnails (already a known issue).  
+    - Improve UI clarity regarding querying PACS servers vs. filtering the local database (e.g., display a dialog explaining the difference when a user opens the visual DICOM browser for the first time).  
+
+  - #### **Tina Kapur:**  
+    - Add a button to enable full-screen mode in the Visual DICOM browser.  
+    - Modify *Edit → Application Settings → DICOM → Thumbnail Size* (small, medium, large) to apply changes without requiring a restart.  
+    - Address UI performance issues when importing large cohorts (e.g., 490 patients with 3,931 DICOM series).  
+    - Implement support for ultrasound video visualization in the Visual DICOM browser (already a known issue, see [CTK issue #1162](https://github.com/commontk/CTK/issues/1162#long-termENH) and [Slicer Discourse thread](https://discourse.slicer.org/t/new-frame-set-table-in-the-dicom-database/35012)).  
+
+1. The 2025 roadmap priorities will be evaluated following an assessment of current funding opportunities.
 
 
 # Illustrations
@@ -95,31 +106,7 @@ UML Diagram:
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-[PR](https://github.com/commontk/CTK/pull/1187)
-
-[PR](https://github.com/commontk/CTK/pull/1191)
-
-[PR](https://github.com/Slicer/Slicer/pull/7676)
-
-[PR](https://github.com/commontk/CTK/pull/1201)
-
-[PR](https://github.com/commontk/CTK/pull/1202)
-
-[PR](https://github.com/commontk/CTK/pull/1203)
-
-[PR](https://github.com/Slicer/Slicer/pull/7751)
-
-[PR](https://github.com/commontk/CTK/pull/1206)
-
-[PR](https://github.com/commontk/CTK/pull/1217)
-
-[PR](https://github.com/commontk/CTK/pull/1218)
-
-[PR](https://github.com/Slicer/Slicer/pull/7811)
-
-[PR](https://github.com/Slicer/Slicer/pull/7912)
-
-[PR](https://github.com/commontk/CTK/pull/1221)
+[PR CTK 1187](https://github.com/commontk/CTK/pull/1187) - [PR CTK 1191](https://github.com/commontk/CTK/pull/1191) - [PR Slicer 7676](https://github.com/Slicer/Slicer/pull/7676) - [PR CTk 1201](https://github.com/commontk/CTK/pull/1201) - [PR CTK 1202](https://github.com/commontk/CTK/pull/1202) - [PR CTK 1203](https://github.com/commontk/CTK/pull/1203) - [PR Slicer 7751](https://github.com/Slicer/Slicer/pull/7751) - [PR CTK 1206](https://github.com/commontk/CTK/pull/1206) - [PR CTK 1217](https://github.com/commontk/CTK/pull/1217) - [PR CTK 1218](https://github.com/commontk/CTK/pull/1218) - [PR Slicer 7811](https://github.com/Slicer/Slicer/pull/7811) - [PR Sliceer 7912](https://github.com/Slicer/Slicer/pull/7912) - [PR CTK 1221](https://github.com/commontk/CTK/pull/1221)
 
 [PW40 Project](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/SlicerVisualDICOMBrowser/)
 
