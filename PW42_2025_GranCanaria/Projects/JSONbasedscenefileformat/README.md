@@ -16,6 +16,13 @@ key_investigators:
   affiliation: Queens University
   country: Canada
 
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware
+  country: US
+  
+- name: Andres Diaz-Pinto
+  affiliation: NVIDIA
+  country: UK
 ---
 
 # Project Description
@@ -92,18 +99,14 @@ With this setup, we would start a first step for future adoption and compatibili
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
- 
+1. Meeting done on Tuesday. Key notes taken by JC:
+https://github.com/Slicer/Slicer/pull/8141#issuecomment-2618876551
+   - Supporting partial updates to the scene is an interesting direction.
+   - Introducing macros for automatic schema generation would be beneficial.
+   - Exploring GraphQL support2 could enable batched updates through mutations3. Integration could leverage libraries such as cppgraphqlgen4, as libgraphqlparser5 appears unmaintained.
+   - Investigate VTK serialization6 capabilities in recent versions, which might complement this work.
 
-
-# Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-
-_No response_
-
+1. The discussion with NVIDIA will be further explored to assess Slicer support and interoperability with OpenUSD/Omniverse for a medical real-time collaboration tool within Omniverse.
 
 
 # Background and References
