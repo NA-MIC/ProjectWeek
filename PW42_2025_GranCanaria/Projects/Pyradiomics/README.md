@@ -51,9 +51,26 @@ with the latest python versions and build tools
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+- Update `pyproject.toml` and remove deprecated files (e.g. `setup.py`, `setup.cfg`, `requirements*.txt`, `MANIFEST`)
+- Run cookiecutter from [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/) separately and use it to update pyradiomics
+  structure.
+  - Change build system to scikit-build-core
+  - Build C-extensions using CMake
+  - Moves CI/CD from CircleCI/AppVeyor to GitHub Actions.
+- Create [PR #203](https://github.com/Grokzen/pykwalify/pull/203) in pykwalify to deal with deprecation warning. Ignore
+  this warning in the build process of pyradiomics for the time being.
+- Disable pre-commit part of CI pending the correct setup of CI/CD.
+- Local build & test now passing.
 
-
+ToDo:
+- [ ] Update CI configuration to match supported python versions enabled in CircleCI/AppVeyor builds.
+- [ ] Currently, CI is failing on METADATA mismatch in wheel generation. This is due to a mismatch in generated
+  version string (a version parsed from a metadata dir doesn't contain the date suffix, whereas the on in the generated
+  wheel does). Fix the version string error to allow CI to pass.
+- [ ] Add exceptions for style errors in pre-commit to allow it to pass initially. 
+- [ ] Later, apply style changes to make pyradiomics adhere to the configured style.
+- [ ] Review readthedocs documentation generation.
+- [ ] Review CD configuration to publish releases on tags pushed onto the master branch in the main repo.
 
 
 # Illustrations
@@ -77,3 +94,6 @@ Documentation
 Source code
 - [https://github.com/AIM-harvard/pyradiomics](https://github.com/AIM-harvard/pyradiomics)
 - [https://github.com/AIM-harvard/slicerradiomics](https://github.com/AIM-harvard/slicerradiomics)
+
+Misc
+- [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
