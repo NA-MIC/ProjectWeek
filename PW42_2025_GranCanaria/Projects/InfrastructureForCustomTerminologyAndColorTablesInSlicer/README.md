@@ -70,12 +70,13 @@ But the existing structure is too rigid, and often is missing terms. We need a f
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. there is a [PR](https://github.com/Slicer/Slicer/pull/8112) that address some of the issues.
+1. There is a [PR](https://github.com/Slicer/Slicer/pull/8112) that address some of the issues.
 2. We had a breakout session on Tuesday with all the key participants. Takeaway
     * The proposed design generally looks acceptable
     * Need a validator to be able to ensure compatibility with main ontologies
     * Need a proper documentation of the new features and their interactions with all data types and use cases
     * Fix bugs, finalize PR, allow people to test in 5.9
+3. Progress with the PR: small fixes and outstanding issues 
 
 
 # Illustrations
