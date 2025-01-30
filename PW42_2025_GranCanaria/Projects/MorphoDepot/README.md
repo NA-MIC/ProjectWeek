@@ -63,6 +63,15 @@ If you are interested in similar topics, please join our project!
 1. Extension is fully functional and has been used in classroom with multiple users for basic segmentation tasks. (e.g., go to https://github.com/muratmaga/pinecone/issues and open an issue for yourself to test).
 2. Implement the MorphoDepotAccession
 
+### During Project Week
+* Chance to discuss MorpoDepot with the wider community and meet with our research group (Murat, Steve, and Jc)
+* Agreement that Accession module will include the following technologies:
+    * A Slicer module that relies on the `gh` github command line tool to simplify accessioning data
+    * Use a JSON Schema to define accession metadata and create UI form: https://pieper.github.io/sites/schemaform/
+    * Use the new colortable with coded concepts infrastructure to define the segmentation to be performed on the specimen
+    * Create a service that will allow uploading of volume data of the specimen that is already in Slicer to an s3 bucket in zarr format by allocating a [presigned URL](https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-presigned-url.html) only to people whose github account has been previously approved as a MorphoDepot contributor.
+    * Then create a github repo for the specimen that includes the color table and the URL to the zarr bucket for use with the MorphoDepot system.  The repo will be based on a repository template that has the correct setting, like the MorpoDepot label and other properties.
+
 
 # Illustrations
 
