@@ -19,6 +19,14 @@ key_investigators:
 - name: Csaba Pintér
   affiliation: EBATINCA
   country: Spain
+  
+- name: Oscar Martin
+  affiliation: EBATINCA
+  country: Spain
+
+- name: Borja Fernandez
+  affiliation: EBATINCA
+  country: Spain
 
 ---
 
@@ -71,7 +79,8 @@ By combining the advanced machine learning models from TorchXRayVision with the 
 
 1. Creating a 3D Slicer Module
 2. Building the interface
-3. Including the TorchXRayVision models (work in progress)
+3. Including the TorchXRayVision models
+4. Incorporate mechanisms to facilitate the interpretability of the predictions made by the models
 
 
 
@@ -80,13 +89,21 @@ By combining the advanced machine learning models from TorchXRayVision with the 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![1](https://github.com/user-attachments/assets/e70dd149-885b-4674-ae5e-7f6a959d2084)
 
+![2](https://github.com/user-attachments/assets/a694a23c-aaf3-4e6f-8101-8f955bfe336f)
+
+![3](https://github.com/user-attachments/assets/87216562-bc43-4578-8295-7bbf95ba5450)
+
+![4](https://github.com/user-attachments/assets/a9306066-b7ae-4d10-afbf-2bf0c6a3f401)
 
 _No response_
 
 
 
 # Background and References
+
+https://github.com/mlmed/torchxrayvision
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
