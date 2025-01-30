@@ -73,7 +73,7 @@ As a result, the widget is now prepared for broader testing and feedback from bo
      - Patient selection UI is not optimal for a number of patient > 50 (already a known issue, https://github.com/commontk/CTK/issues/1162#Filtering)
      - Implement support for ultrasound video visualization in the Visual DICOM browser (already a known issue, see [CTK issue #1162](https://github.com/commontk/CTK/issues/1162#long-termENH) and [Slicer Discourse thread](https://discourse.slicer.org/t/new-frame-set-table-in-the-dicom-database/35012)).  
 
-1. The 2025 roadmap priorities will be evaluated following an assessment of current funding opportunities.
+1. The 2025 [roadmap](https://github.com/commontk/CTK/issues/1162) had been updated, but priorities will be evaluated following an assessment of current funding opportunities.
 
 
 # Illustrations
