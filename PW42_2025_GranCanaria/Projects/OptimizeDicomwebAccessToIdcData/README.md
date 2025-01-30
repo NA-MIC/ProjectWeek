@@ -23,6 +23,10 @@ key_investigators:
   affiliation: BWH
   country: USA
 
+- name: Joël Spaltenstein
+  affiliation: Agora Care SA
+  country: Switzerland
+
 ---
 
 # Project Description
