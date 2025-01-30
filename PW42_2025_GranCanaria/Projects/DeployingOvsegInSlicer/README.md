@@ -70,8 +70,7 @@ key_investigators:
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_No response_
-
+![Image](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/refs/heads/master/PW42_2025_GranCanaria/Projects/DeployingOvsegInSlicer/SlicerOvseg_screenshot.png)
 
 
 # Background and References
