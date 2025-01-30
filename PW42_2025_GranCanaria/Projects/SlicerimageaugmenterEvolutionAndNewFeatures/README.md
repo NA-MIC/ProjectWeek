@@ -67,7 +67,20 @@ Since the extension is officially available in the Extension Manager since versi
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+### New Features
+
+1. Enabled selection of specific samples for transformation preview
+2. Introduced regex support for defining patterns to locate images and masks
+
+
+### Revisions and Bug Fixes
+
+1. Refined available transformations to better align with MONAI documentation
+2. Improved exception handling for enhanced robustness
+3. Revised the UI for better consistency in components and layout
+4. Optimised and enhanced extension loading on first startup
+5. Fixed minor bugs
+6. Updated the extension logo
 
 
 
@@ -76,9 +89,17 @@ Since the extension is officially available in the Extension Manager since versi
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+## RegEx Support feature
 
-_No response_
+https://github.com/user-attachments/assets/8a22b015-96da-4b7a-a00a-e64e1e8626ee
 
+## New Preview Samples Selection feature
+
+
+https://github.com/user-attachments/assets/577d669f-8943-4d13-ad78-33e50ba77568
+
+## New Logo
+![ImageAugmenter](https://github.com/user-attachments/assets/93b0dc68-fb1c-4e87-a2e5-382ed70461bd)
 
 
 # Background and References
