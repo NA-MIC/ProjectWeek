@@ -99,26 +99,27 @@ With this setup, we would start a first step for future adoption and compatibili
 
 ## Progress and Next Steps
 
+### Progress
 1. Meeting done on Tuesday. Key notes taken by JC:
 https://github.com/Slicer/Slicer/pull/8141#issuecomment-2618876551
    - Supporting partial updates to the scene is an interesting direction.
-   - Introducing macros for automatic schema generation would be beneficial.
-   - Exploring GraphQL support2 could enable batched updates through mutations3. Integration could leverage libraries such as cppgraphqlgen4, as libgraphqlparser5 appears unmaintained.
-   - Investigate VTK serialization6 capabilities in recent versions, which might complement this work.
+   - Introducing `macros` for automatic schema generation would be beneficial.
+   - Exploring `GraphQL` support could enable batched updates through mutations. Integration could leverage libraries such as `cppgraphqlgen`, as `libgraphqlparser` appears unmaintained.
+   - Investigate VTK serialization capabilities in recent versions, which might complement this work.
 1. The discussion with NVIDIA will be further explored to assess Slicer support and interoperability with OpenUSD/Omniverse for a medical real-time collaboration tool within Omniverse.
-1. Performance tests:
-    - a markups line:
-      - JSON: write to JSON string 0.000896823 ± 0.000277 sec, read from JSON string 0.0157257 ± 0.014451 sec   
-    - full scene with 100 markups lines:
-      - XML: write 0.00911713 ± 0.000674, read sec 0.13796 ± 0.038905 sec
-      - JSON: write 0.0467375 ± 0.020891, read sec 0.180462 ± 0.013206 sec
-      - i.e. speed factors are: ~5.13 in writing - ~1.31 in reading
-      - full scene writing could be optimized further, although the time for processing 100 markup lines is < 0.05 seconds.
-1. Adding Automated tests for
-    - [ ] vtkMRMLScene::Commit
-    - [ ] vtkMRMLScene::LoadIntoScene  
-    - [ ] vtkMRMLNode::WriteJSONToString
-    - [ ] vtkMRMLNode::ReadJSONFromString  
+1. Testing reading/writing perfomances for the **Scene-Level** use case with 100 markups lines:
+   - XML: write 0.00911713 ± 0.000674, read sec 0.13796 ± 0.038905 sec
+   - JSON: write 0.0467375 ± 0.020891, read sec 0.180462 ± 0.013206 sec
+   - i.e. speed factors are: ~5.13 in writing - ~1.31 in reading
+   - full scene writing could be optimized further, although the time for processing 100 markup lines is < 0.05 seconds.
+
+
+### Next Steps
+1. When calling `WriteJSONToString` for `storageNodes`, we need to stringify certain parts of the node state information (for the single **Node Status - real-time collaboration** use case).  
+   - **Markups control points** use `vtkMRMLMarkupsJsonStorageNode`, which already utilizes the JSON format. However, the current infrastructure only allows saving this information to a file. We need to refactor `vtkMRMLMarkupsJsonStorageNode` to use `vtkMRMLMarkupsJsonWriter` for stringifying to a stream instead of a file, enabling access to its methods from Python.  
+   - **Volumes/Segmentations/Models**: For now, storing the file location should suffice, but in the future, we may need to pass `imageData` as a blob.  
+
+1. Add automated tests to cover all MRML nodes in Slicer core/modules.
   
 # Background and References
 
