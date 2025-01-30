@@ -90,4 +90,5 @@ Background reading:
 
 Further resources: 
 - Related earlier project from Project Week 40: [Current state of DICOMweb for pathology](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/CurrentStateOfDicomwebForPathology/).
+- Extensive tutorial notebook of ez-wsi_dicomweb: [Getting Started with EZ-WSI DICOMweb](https://colab.research.google.com/github/GoogleCloudPlatform/EZ-WSI-DICOMweb/blob/main/ez_wsi_demo.ipynb#scrollTo=pK9lTJaN9tuk)
 
