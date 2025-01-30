@@ -60,13 +60,13 @@ As a result, the widget is now prepared for broader testing and feedback from bo
 
 ## Progress and Next Steps
 
-1. Feedback has been collected:
-  - #### **Leonard Nürnberg:**  
+1. Feedback has been collected (generally positive!!!):
+  - **Leonard Nürnberg:**  
     - Add an option in settings to order series in the study widget by modality.  
     - Automatically load the source volume when loading a segmentation.  
     - Render SEG DICOM thumbnails (already a known issue, https://github.com/commontk/CTK/issues/1162#Thumbnailsserieswidgets).  
     - Improve UI clarity regarding querying PACS servers vs. filtering the local database (e.g., display a dialog explaining the difference when a user opens the visual DICOM browser for the first time).  
-  - #### **Tina Kapur:**  
+  - **Tina Kapur:**  
     - Add a button to enable full-screen mode in the Visual DICOM browser.  
     - Modify *Edit → Application Settings → DICOM → Thumbnail Size* (small, medium, large) to apply changes without requiring a restart.  
     - Address UI performance issues when importing large cohorts (e.g., 490 patients with 3,931 DICOM series).
