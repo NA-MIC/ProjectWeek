@@ -61,17 +61,17 @@ As a result, the widget is now prepared for broader testing and feedback from bo
 ## Progress and Next Steps
 
 1. Feedback has been collected (generally positive!!!):
-  - **Leonard Nürnberg:**  
-    - Add an option in settings to order series in the study widget by modality.  
-    - Automatically load the source volume when loading a segmentation.  
-    - Render SEG DICOM thumbnails (already a known issue, https://github.com/commontk/CTK/issues/1162#Thumbnailsserieswidgets).  
-    - Improve UI clarity regarding querying PACS servers vs. filtering the local database (e.g., display a dialog explaining the difference when a user opens the visual DICOM browser for the first time).  
-  - **Tina Kapur:**  
-    - Add a button to enable full-screen mode in the Visual DICOM browser.  
-    - Modify *Edit → Application Settings → DICOM → Thumbnail Size* (small, medium, large) to apply changes without requiring a restart.  
-    - Address UI performance issues when importing large cohorts (e.g., 490 patients with 3,931 DICOM series).
-    - Patient selection UI is not optimal for a number of patient > 50 (already a known issue, https://github.com/commontk/CTK/issues/1162#Filtering)
-    - Implement support for ultrasound video visualization in the Visual DICOM browser (already a known issue, see [CTK issue #1162](https://github.com/commontk/CTK/issues/1162#long-termENH) and [Slicer Discourse thread](https://discourse.slicer.org/t/new-frame-set-table-in-the-dicom-database/35012)).  
+   - **Leonard Nürnberg:**  
+     - Add an option in settings to order series in the study widget by modality.  
+     - Automatically load the source volume when loading a segmentation.  
+     - Render SEG DICOM thumbnails (already a known issue, https://github.com/commontk/CTK/issues/1162#Thumbnailsserieswidgets).  
+     - Improve UI clarity regarding querying PACS servers vs. filtering the local database (e.g., display a dialog explaining the difference when a user opens the visual DICOM browser for the first time).  
+   - **Tina Kapur:**  
+     - Add a button to enable full-screen mode in the Visual DICOM browser.  
+     - Modify *Edit → Application Settings → DICOM → Thumbnail Size* (small, medium, large) to apply changes without requiring a restart.  
+     - Address UI performance issues when importing large cohorts (e.g., 490 patients with 3,931 DICOM series).
+     - Patient selection UI is not optimal for a number of patient > 50 (already a known issue, https://github.com/commontk/CTK/issues/1162#Filtering)
+     - Implement support for ultrasound video visualization in the Visual DICOM browser (already a known issue, see [CTK issue #1162](https://github.com/commontk/CTK/issues/1162#long-termENH) and [Slicer Discourse thread](https://discourse.slicer.org/t/new-frame-set-table-in-the-dicom-database/35012)).  
 
 1. The 2025 roadmap priorities will be evaluated following an assessment of current funding opportunities.
 
