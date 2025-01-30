@@ -3,7 +3,7 @@ layout: pw42-project
 
 permalink: /:path/
 
-project_title: DICOM WSI
+project_title: DICOM WSI Interoperability with Kaapana
 category: DICOM
 
 key_investigators:
