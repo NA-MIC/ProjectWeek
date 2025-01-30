@@ -44,7 +44,7 @@ key_investigators:
 
 1. Create a Slicer extension
 2. Let the extension to install OvSeg via pip
-3. Let the extension pull the CT volume, run the inference and push back the segmentations
+3. Let the extension pull the CT volume, run the inference, and push back the segmentations
 
 
 
@@ -55,7 +55,12 @@ key_investigators:
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Ovseg can be successfully used in Slicer
+2. The code can be downloaded from [this GitHub repository](https://github.com/pzaffino/SlicerOvseg)
+
+3. We would like to include this extension in the Slicer Extension repository
+4. We need a logo
+5. We could decide to expose the extended ovseg version which provides more segmentations classes
 
 
 
