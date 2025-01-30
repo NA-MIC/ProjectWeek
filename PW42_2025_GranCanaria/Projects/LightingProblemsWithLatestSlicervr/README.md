@@ -63,8 +63,9 @@ There is a regression with how latest SlicerVR lights the scene, both with the o
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
-
+1. The Kitware team looked into the issue with OpenXR
+    * The issue seems to be the SRGB conversion. There is already a workaround possible, with a proper solution suggested ([see comment](https://github.com/KitwareMedical/SlicerVirtualReality/issues/182#issuecomment-2624608363))
+2. OpenVR support is being removed from Windows, so probably not worth trying to address the issue
 
 
 
