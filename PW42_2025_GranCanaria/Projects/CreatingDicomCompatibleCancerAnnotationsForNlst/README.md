@@ -75,15 +75,17 @@ We will first convert the json point annotations to DICOM Structured Reports. Th
 
 ![image](https://github.com/user-attachments/assets/2bd2dc91-378b-42fa-bc0b-47e5b8051064)
 
-
+2. We successfully created a DICOM Structured Report for holding the cancer annotation. 
 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+https://github.com/user-attachments/assets/429108eb-325c-4aeb-b65c-df7fa6283c00
 
-_No response_
+
+
 
 
 
