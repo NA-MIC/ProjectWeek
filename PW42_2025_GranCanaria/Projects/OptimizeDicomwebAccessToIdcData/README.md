@@ -56,7 +56,7 @@ DICOMweb™ is a set of RESTful services that allows search, access and storage 
 
 
 **Objective A**: 
-1. Summarize current state (document).
+1. Summarize current state.
 2. Implement DICOMweb access (problems have priorily been observed wrt authorization).
 
 **Objective B**: 
@@ -69,11 +69,13 @@ DICOMweb™ is a set of RESTful services that allows search, access and storage 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+**Objective A**: 
+1. Current state summarized in document (will be made public following PW).
+2. Created scripts for access with dicomslide, wsidicom, ez-wsi-dicom. 
 
-1. Describe specific steps you **have actually done**.
-
-
-
+**Objective B**:
+1. Time didn't permit further efficiency comparison. But based on previous results and discussions, it became clear that ez-wsi-dicom is currently the most efficient tool probably due to the use of multiple ways of parallelizing requests and caching.
+2. The main downside of ez-wsi-dicom is that it only works with Google DICOMweb stores. 
 
 # Illustrations
 
