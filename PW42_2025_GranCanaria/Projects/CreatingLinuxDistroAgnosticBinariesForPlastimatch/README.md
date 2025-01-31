@@ -63,7 +63,7 @@ During this week we will explore the possibility of creating a binary version of
 1. A bash script to compile Plastimatch and its dependencies has been written
 2. We decided to use ManyLinux 2.28 docker container as a building environment
 3. We found out the Plastimatch file probe fails to identify the dicomRT (this happens only when we move the binary)
-4. Now we know what led to the error, we are working on it
+4. We found out it was needed to set -DDCMTK_DEFAULT_DICT=builtin -DDCMTK_ENABLE_PRIVATE_TAGS=ON during DCMTK configuration step
 
 
 
