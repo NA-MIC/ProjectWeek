@@ -139,6 +139,11 @@ function rgbToHex(r, g, b) {
 }
 ```
 
+Feedback/features:
+* identified some issues in SegmentationReview module - Andrey will try to submit a PR
+* identified issues related to visualization of segmentations in Slicer - issue submitted https://github.com/Slicer/Slicer/issues/8190
+* would be really helpful to be able to show what structure cursor points to in 3d View (Ron seconds this!)
+* review of multiple segmentations is currently difficult - perhaps opportunity for improving SegmentationsReview module
 
 
 # Illustrations
