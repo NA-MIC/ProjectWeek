@@ -56,15 +56,28 @@ In addition, this dataset contains extensive deep-learning generated nuclei anno
 **Objective B**
 1. Prepare additional clinical and lab data as table such that they can be ingested into IDC as BigQuery table. 
 
-
+**Objective C (optional)**:
+1. Discuss and decide in what way available annotations can be best encoded in DICOM.
+2. Implement conversion pipeline for annotation conversion based on IDC annotation conversion code by Chris Bridge. 
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
+     
+**Objective A**:
+- We successfully wrote a conversion pipeline for .mrxs files into .dcm using wsidicomizer and have a couple of converted files. A few issues have been identified on the way, reported to wsidicomizer and mostly already been fixed by Erik Gabriellson.
 
+**Objective B**: 
+- to be done
 
-1. Describe specific steps you **have actually done**.
+**Objective C**:  
+- We discussed and decided that the best way to encode available annotations is in DICOM Microscopy Bulk Simple Annotations.
+
+**Next steps**:
+- Run conversion script on whole dataset.
+- Do Objective B: Prepare additional clinical and lab data as table such that they can be ingested into IDC as BigQuery table.
+- Finish and run annotation conversion pipeline. 
 
 
 # Illustrations
@@ -89,6 +102,7 @@ Further resources:
 - [IDC Portal](https://portal.imaging.datacommons.cancer.gov/)
 - Description of MIRAX format: [Introduction to MIRAX/MRXS](https://lists.andrew.cmu.edu/pipermail/openslide-users/2012-July/000373.html)
 - Conversion tool: [wsidicomizer](https://github.com/imi-bigpicture/wsidicomizer)
+- Annotation conversion scripts by Chris Bridge: [idc-sm-annotations-conversion](https://github.com/ImagingDataCommons/idc-sm-annotations-conversion/tree/0a5060d44e25f6cfa78074f0dde7a1ca1aa6bc53)
 - Useful tools for inspection/verification of DICOM files: [dcmtk](https://dicom.offis.de/en/dcmtk/dcmtk-tools/), [dicom3tools](https://www.dclunie.com/dicom3tools.html)
 - Related project from this project week: [Evaluation of imi-bigpicture/wsidicomizer as a tool for conversion into DICOM whole slide imaging format](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/EvaluationOfImiBigpictureWsidicomizerAsAToolForConversionIntoDicomWholeSlideImagingFormat/)
 - Related earlier project from PW40: [WSI-DICOM Improvement - From Viewer to Analysis](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/WsiDicomImprovementFromViewerToAnalysis/)
