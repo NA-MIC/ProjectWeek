@@ -3,7 +3,7 @@ layout: pw42-project
 
 permalink: /:path/
 
-project_title: MRunner2 - MHub.ai for 3D Slicer
+project_title: MHubRunner - MHub.ai for 3D Slicer (v2)
 category: Infrastructure
 
 key_investigators:
@@ -55,15 +55,15 @@ Roadmap:
 - [x] Disable models incompatible with extension (only segmentation models and single-input models aas of now)
 - [x] Show async raw output stream of MHub run command
 - [x] Display JSON and CSV files in Slicer Table view
-- [ ] Maintain a run history of generated output files
-- [ ] Organize all extension files into a single temp / user folder: input, output, logs, runs
+- [x] Maintain a run history of generated output files
+- [x] Organize all extension files into a single temp / user folder: input, output, logs, runs
 
 Ideas to be discussed:
 - [ ] Docker SDK (Python) vs. Docker CLI (Subprocess)
 - [ ] Modularize extension such that it can be extended with specific configuration
 - [x] Support for non-segmentation models (using the 3D Slicer table view or DICOM SR)
-- [ ] Open Slicer and a specific model in MRunner2 from a link via the mhub.ai website (possible?)
-- [ ] Multi-Select (now possible with new History view) and modality check (for dynamic model compatibility)
+- [ ] Open Slicer and a specific model in MHubRunner from a link via the mhub.ai website (possible?)
+- [x] Explore: Multi-Select (now possible with new History view) and modality check (for dynamic model compatibility)
 
 # Illustrations
 
@@ -74,7 +74,23 @@ Updated UI and Model Search.
 Updated Model Information and Details.
 
 <img width="602" alt="Bildschirmfoto 2025-01-27 um 11 11 28" src="https://github.com/user-attachments/assets/2d8ba82e-a6f2-41c9-8c57-12cc3418bc77" />
+<img width="698" alt="Bildschirmfoto 2025-01-30 um 15 02 04" src="https://github.com/user-attachments/assets/2fda7ed3-bbaa-4bce-8402-ddcca93ce4d1" />
 
+Search for models by segmentation ROI
+
+<img width="693" alt="Bildschirmfoto 2025-01-30 um 15 02 18" src="https://github.com/user-attachments/assets/22c422a9-e440-4f9c-93fa-9b713de5cc8c" />
+
+View and search for model modalities
+
+<img width="696" alt="Bildschirmfoto 2025-01-30 um 15 02 27" src="https://github.com/user-attachments/assets/285a1635-b52c-4983-a131-6076bf7f9273" />
+
+Run prediction models and display as table view
+
+<img width="1283" alt="Bildschirmfoto 2025-01-30 um 15 03 22" src="https://github.com/user-attachments/assets/2013a922-fa9b-40e9-9553-5ce3822d4a95" />
+
+Manage local images
+
+<img width="628" alt="Bildschirmfoto 2025-01-30 um 15 03 39" src="https://github.com/user-attachments/assets/fa73f7cc-8946-4a61-93e5-71726e9c1734" />
 
 # Background and References
 
