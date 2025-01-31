@@ -95,6 +95,11 @@ We will first convert the json point annotations to DICOM Structured Reports. Th
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
+[Current Google Colab notebook](https://colab.research.google.com/drive/1E_LkCbCqhJTLJ__TPMjNt7bx7tyL-cyw?usp=sharing)
 
-_No response_
+Resources from David Clunie: 
+1. [Understanding ImagePatientPosition and ImageOrientation](https://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_C.7.6.2.html)
+2. [DICOM SR for understanding planar annotations](https://www.researchgate.net/publication/353243563_DICOM_SR_for_communicating_planar_annotations_-_An_Imaging_Data_Commons_IDC_White_Paper)
+3. [OHIF github issues](https://github.com/OHIF/Viewers/issues/1215)
+
 
