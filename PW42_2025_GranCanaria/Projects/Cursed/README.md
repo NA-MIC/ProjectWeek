@@ -17,6 +17,7 @@ key_investigators:
   country: Heidelberg
 
 - name: Klaus Maier-Hein
+
   affiliation: German Cancer Research Center
   country: Heidelberg
 
@@ -86,7 +87,8 @@ Goal of this project is to evaluate all exchangeable components to ensure optima
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+<img width="1512" alt="Screenshot 2025-01-31 at 11 02 27" src="https://github.com/user-attachments/assets/43a43144-2570-46a9-87c4-2dc2489d084a" />
+
 
 
 _No response_
