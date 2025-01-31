@@ -120,6 +120,6 @@ _No response_
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-* Krishnaswamy, D., Thiriveedhi, V. K., Ciausu, C., Clunie, D., Pieper, S., Kikinis, R. & Fedorov, A. Rule-based outlier detection of AI-generated anatomy segmentations. arXiv [eess.IV] (2024). at http://arxiv.org/abs/2406.14486
-* HuggingFace exploration dashboard: https://huggingface.co/spaces/ImagingDataCommons/CloudSegmentatorResults
+* Krishnaswamy, D., Thiriveedhi, V. K., Ciausu, C., Clunie, D., Pieper, S., Kikinis, R. & Fedorov, A. Rule-based outlier detection of AI-generated anatomy segmentations. arXiv [eess.IV] (2024). at [http://arxiv.org/abs/2406.14486](http://arxiv.org/abs/2406.14486)
+* HuggingFace exploration dashboard: [https://huggingface.co/spaces/ImagingDataCommons/CloudSegmentatorResults](https://huggingface.co/spaces/ImagingDataCommons/CloudSegmentatorResults)
 
