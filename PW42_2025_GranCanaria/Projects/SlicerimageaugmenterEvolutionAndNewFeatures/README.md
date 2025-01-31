@@ -91,12 +91,24 @@ Since the extension is officially available in the Extension Manager since versi
 
 ## RegEx Support feature
 
-https://github.com/user-attachments/assets/8a22b015-96da-4b7a-a00a-e64e1e8626ee
+<video
+   controls muted
+   src="https://github.com/user-attachments/assets/8a22b015-96da-4b7a-a00a-e64e1e8626ee"
+   style="max-height:640px; min-height: 200px">
+ </video>
+
+
 
 ## New Preview Samples Selection feature
 
+<video
+   controls muted
+   src="https://github.com/user-attachments/assets/577d669f-8943-4d13-ad78-33e50ba77568"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
-https://github.com/user-attachments/assets/577d669f-8943-4d13-ad78-33e50ba77568
+
+
 
 ## New Logo
 ![ImageAugmenter](https://github.com/user-attachments/assets/93b0dc68-fb1c-4e87-a2e5-382ed70461bd)
