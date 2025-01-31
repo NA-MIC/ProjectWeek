@@ -69,17 +69,17 @@ We will develop a 3D slicer extension to deploy two interactive segmentation mod
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
-_No response_
-
-
+<video
+   controls muted
+   src="https://github.com/user-attachments/assets/3fdab347-2bd9-4640-8be7-9284d9f8925c"
+   style="max-height:640px; min-height: 200px">
+</video>
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-
-
+     
 Relevant Publications:
 
 Wong, H.E., Rakic, M., Guttag, J., & Dalca, A.V., (2024). ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image. In European Conference on Computer Vision. 
