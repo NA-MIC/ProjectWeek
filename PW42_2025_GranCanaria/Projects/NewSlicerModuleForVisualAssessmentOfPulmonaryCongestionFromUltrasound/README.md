@@ -60,17 +60,20 @@ We will spend Project Week developing the software to support these features and
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+1. We have added a new AnnotateUltrasound module to the Ultrasound extension that allows for easy annotation of sectors representing B-lines (indicating pulmonary congestion).
+2. As part of the public Anonymizer module, we have added a new button that uses an AI model to auto-detect the boundaries of the ultrasound image fan.
 
-_No response_
-
+   Next steps: we will work on adding OCR text detection to add an additional check that anonymized images don't contain any remaining PHI text prior to export.
 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+<img width="1704" alt="Screenshot 2025-01-31 at 11 17 38 AM" src="https://github.com/user-attachments/assets/80e53527-a968-4319-a9b0-c5b75f6bc8c0" />
 
-_No response_
+
+![image001](https://github.com/user-attachments/assets/90aeaef1-8d07-4efa-b434-830adacfc671)
 
 
 
