@@ -73,9 +73,43 @@ Goal of the project is to investigate existing and new approaches to handle the 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+1. Generate DICOM JSON representation of some TCIA datasets using pydicom
+2. Read about JSON and JSONB columns in SQLite
+3. Try different queries
 
-1. Describe specific steps you **have actually done**.
+> [!CAUTION]
+> SQLite's [arrow operator ->](https://sqlite.org/json1.html#jptr) seems to behave differently if the key consists solely of digits. This can lead to surprises when working with DICOM tags whose hexadecimal representation sometimes contains letters, but sometimes only digits ...
+ 
+```SQL
+-- Find all series which contain a LOCALIZER ImageType
+-- SQLite JSON
+SELECT DISTINCT
+ json_extract(jsonb_data, "$.0020000D.Value") 
+FROM
+ dicom_files, json_each (json_extract(jsonb_data, "$.00080008.Value") )
+ WHERE
+json_each.value IS 'LOCALIZER' 
+```
 
+
+```SQL
+-- Find all series which contain a LOCALIZER ImageType
+-- IDC BigQuery
+WITH
+ ImageTypeAgg AS (
+ SELECT
+   ARRAY_TO_STRING(ImageType,'/') AS image_type_str,
+   SeriesInstanceUID
+ FROM
+   `bigquery-public-data.idc_current.dicom_all` )
+SELECT
+ SeriesInstanceUID,
+ image_type_str
+FROM
+ ImageTypeAgg
+WHERE
+ image_type_str LIKE "%LOCALIZER%"
+```
 
 
 
