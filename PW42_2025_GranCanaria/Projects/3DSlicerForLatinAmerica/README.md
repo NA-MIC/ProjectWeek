@@ -140,7 +140,7 @@ The project aims to empower the biomedical research community in Latin America b
 | Slicer Developer Tutorial: Programming in Slicer. S. Pujol, S. Pieper | Segmentation for 3D printing. A. Nagy, C. Pintér |
 | --- | --- |
 | [Portuguese](https://slicerlatinamerica.github.io/media/Tutorials/Slicer5_Programando%20no%20Slicer_SPujol-SPieper.pdf) |  [Portuguese](https://slicerlatinamerica.github.io/media/Tutorials/Segmentation3DPrinting-ANagy-CPinter_pt-BR.pdf) |
-| [Spanish](https://slicerlatinamerica.github.io/media/Tutorials/Slicer5_ProgrammingTutorial_es-419.pdf) | |
+| [Spanish](https://slicerlatinamerica.github.io/media/Tutorials/Slicer5_ProgrammingTutorial_es-419.pdf) | [Spanish](https://slicerlatinamerica.github.io/media/Tutorials/SegmentationFor3DPrinting_es.pdf) |
 
 # Nexts Steps 
 
