@@ -76,7 +76,7 @@ In this project, we aim to create a proof-of-concept integration where a Phantom
 
 
 1. Setting up a base 3D Slicer, SlicerROS2 and SlicerSOFA.
-2. Loading a Phantom Omni robot model (https://slicer-ros2.readthedocs.io/en/latest/pages/robot-visualization.html#phantom-omni).
+2. Loading a Phantom Omni robot model ([https://slicer-ros2.readthedocs.io/en/latest/pages/robot-visualization.html#phantom-omni](https://slicer-ros2.readthedocs.io/en/latest/pages/robot-visualization.html#phantom-omni)).
 3. Creating a SOFA simulation for interaction between the robot and a soft organ.
 4. Bridging the robot manipulation with the simulation using SlicerSOFA.
 
@@ -99,8 +99,6 @@ In this project, we aim to create a proof-of-concept integration where a Phantom
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_No response_
-
 
 
 # Background and References
@@ -110,7 +108,7 @@ _No response_
 
 
 -  Connolly L, Kumar AS, Mehta KK, Al-Zogbi L, Kazanzides P, Mousavi P, Fichtinger G, Krieger A, Tokuda J, Taylor RH, Leonard S, Deguet A. SlicerROS2: A Research and Development Module for Image-Guided Robotic Interventions. IEEE Trans Med Robot Bionics. 2024 Nov;6(4):1334-1344. doi: 10.1109/TMRB.2024.3464683
-- SawSensablePhantom repository: https://github.com/jhu-saw/sawSensablePhantom
-- Phantom Omni in SlicerROS2: https://slicer-ros2.readthedocs.io/en/latest/pages/robot-visualization.html#phantom-omni
-- SlicerSOFA repository: https://github.com/Slicer/SlicerSOFA
+- SawSensablePhantom repository: [https://github.com/jhu-saw/sawSensablePhantom](https://github.com/jhu-saw/sawSensablePhantom)
+- Phantom Omni in SlicerROS2: [https://slicer-ros2.readthedocs.io/en/latest/pages/robot-visualization.html#phantom-omni](https://slicer-ros2.readthedocs.io/en/latest/pages/robot-visualization.html#phantom-omni)
+- SlicerSOFA repository: [https://github.com/Slicer/SlicerSOFA](https://github.com/Slicer/SlicerSOFA)
 
