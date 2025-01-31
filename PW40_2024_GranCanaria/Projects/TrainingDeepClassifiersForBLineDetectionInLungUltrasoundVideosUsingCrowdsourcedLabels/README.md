@@ -41,7 +41,7 @@ To demonstrate this, we will train deep learning B-line classification and segme
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-Produce models for classification and segmentation of lung ultrasound videos with comparable or improved performance to models trained on manual annotations from experts. 
+Produce models for classification and segmentation of lung ultrasound videos with comparable or improved performance to models trained on manual annotations from experts.
 
 ## Approach and Plan
 
@@ -58,7 +58,7 @@ Produce models for classification and segmentation of lung ultrasound videos wit
 
 Collected 330,000 (177,000 at start of PW40) crowdsourced segmentation opinions to form high-quality segmentations of 21,000 (8,500 at the start of PW40) frames within the videos from 483 patients.
 
-In progress: 
+In progress:
 1. Collecting ~3,000 additional high-quality frame segmentations per day with a target of 20,000 frames remaining which will be completed this month (41,000 total).
 2. Training video classification models on high-quality classifications of 4,030 ultrasound videos from 483 patients.
 3. Preparing training data for segmentation models.

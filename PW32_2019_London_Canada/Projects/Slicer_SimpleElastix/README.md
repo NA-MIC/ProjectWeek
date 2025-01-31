@@ -3,7 +3,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## SimpleElastix Slicer Integration
 
 ## Key Investigators
-- Patrick Carnahan (Robarts Research Institute) 
+- Patrick Carnahan (Robarts Research Institute)
 
 
 # Project Description
@@ -11,7 +11,7 @@ Modify the SimpleElastix project to seperate it from the SimpleITK build and ins
 SimpleElastix could then potentially be integrated into the SlicerElastix module to allow direct use of the Elastix registration filters from python.
 
 ## Objective
-1. Complete build configuration work to enable standalone python wrapping of elastix filters 
+1. Complete build configuration work to enable standalone python wrapping of elastix filters
 1. Integrate building of SimpleElastix fork into SlicerElastix to allow for easy use within Slicer
 
 
@@ -29,5 +29,3 @@ SimpleElastix could then potentially be integrated into the SlicerElastix module
 
 - Source code: https://github.com/pcarnah/SimpleElastix
 - Documentation: TODO
-
-

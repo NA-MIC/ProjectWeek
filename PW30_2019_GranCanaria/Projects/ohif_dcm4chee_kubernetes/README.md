@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Jonas Scherer (DKFZ)
 - Andrey Fedorov (BWH)
-- Erik Ziegler (Radical Imaging) 
+- Erik Ziegler (Radical Imaging)
 
 # Project Description
 
@@ -22,7 +22,7 @@ The aim of this project is to provide a simple environment in which a PACS (Dcm4
 
 ## Approach and Plan
 
-1. Setup Minikube with infrastructure components (Calico,Traefik...) 
+1. Setup Minikube with infrastructure components (Calico,Traefik...)
 2. Deploy OHIF and DCM4CHEe
 3. Add authentication with Keycloak and Security Proxy
 4. Create Helm chart for easy installation
@@ -119,12 +119,12 @@ You can find the project deployment in a **[GitHub Repo](https://github.com/jona
 ```cd /deployment```
 ```kubectl apply -f ./* ```
 
-3) Watch  ```kubectl get pods --all-namespaces``` 
+3) Watch  ```kubectl get pods --all-namespaces```
 -> all pods should be in the "running" state.
 This could take some time - don't worry if something is crashing - it will be restarted automatically..
 
 4) Go to <https://192.168.99.100:30443/>
-You should see the the login-page. 
+You should see the the login-page.
 The default credentials are:
 - For the normal login:
 username: **namic**
@@ -155,7 +155,7 @@ To push an example image to DCM4CHE with the **dcm4che-tools docker container**:
 - Right now, this will just work in Minikube (IPs, ports etc. are hard-coded)
 - Minikube is pretty slow
  We should make this compatible with any Kubernetes setup
-- OHIF viewer will be updated 
+- OHIF viewer will be updated
 - Instructions how to add a tls certificate
 
 

@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-The goal of this project is to extend 3D Slicer with tools to help biologists working with 3D specimen data. The SlicerMorph toolkit enables biologists to retrieve, visualize, measure, annotate, and perform geometric morphometric analyses from high-resolution specimen data both from volumetric scans (CTs and MRs) as well as from 3D surface scanners effectively within 3D Slicer. 
+The goal of this project is to extend 3D Slicer with tools to help biologists working with 3D specimen data. The SlicerMorph toolkit enables biologists to retrieve, visualize, measure, annotate, and perform geometric morphometric analyses from high-resolution specimen data both from volumetric scans (CTs and MRs) as well as from 3D surface scanners effectively within 3D Slicer.
 
 ## Objective
 

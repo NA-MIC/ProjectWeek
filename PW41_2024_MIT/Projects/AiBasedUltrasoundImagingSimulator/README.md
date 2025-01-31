@@ -53,7 +53,7 @@ Demo video is available at [GitHub](https://github.com/MXHsj/rus_sim_visuals/)
 2. Architecture
    - Create an independent library for CT-ultrasound conversion. This library takes a 2D resampled CT data that is aligned to the (virtual) ultrasound probe, and generate a corresponding simulated ultrasound image.
    - Integration with existing platforms, including Gazebo, Slicer, PLUS (to be discussed with the community)
-   - 
+   -
 
 
 
@@ -93,4 +93,3 @@ _No response_
 
 
 _No response_
-

@@ -35,7 +35,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-This project aims to develop interpretable deep learning models for the automated classification of impacted maxillary canines and assessment of dental root resorption in adjacent teeth using Cone-Beam Computed Tomography (CBCT). Impacted maxillary canines (IC) are a common clinical problem that can lead to complications if not diagnosed and treated early. We propose to develop a 3D slicer module, called Volume Analysis, eXplainability and Interpretability (Volume-AXI), with the goal of providing users  an explainable approach for classification of bone and teeth structural defects in CBCT scans gray-level images. We test various deep learning models based on Monai Convolutional Neural Network (CNN) architectures to classify  impacted maxillary canine position and detect root resorption. Gradient-weighted Class Activation Mapping (Grad-CAM) has already been  integrated to generate visual explanations of the CNN predictions, enhancing interpretability and trustworthiness for clinical adoption. 
+This project aims to develop interpretable deep learning models for the automated classification of impacted maxillary canines and assessment of dental root resorption in adjacent teeth using Cone-Beam Computed Tomography (CBCT). Impacted maxillary canines (IC) are a common clinical problem that can lead to complications if not diagnosed and treated early. We propose to develop a 3D slicer module, called Volume Analysis, eXplainability and Interpretability (Volume-AXI), with the goal of providing users  an explainable approach for classification of bone and teeth structural defects in CBCT scans gray-level images. We test various deep learning models based on Monai Convolutional Neural Network (CNN) architectures to classify  impacted maxillary canine position and detect root resorption. Gradient-weighted Class Activation Mapping (Grad-CAM) has already been  integrated to generate visual explanations of the CNN predictions, enhancing interpretability and trustworthiness for clinical adoption.
 
 
 
@@ -45,7 +45,7 @@ This project aims to develop interpretable deep learning models for the automate
 
 
 1. Classify tooth position within the bone using the Monai Densenet 121 and 201.
-2. Enhance Explainability and Interpretability of the Classification by generating salience maps  using  Monai GradCAM 
+2. Enhance Explainability and Interpretability of the Classification by generating salience maps  using  Monai GradCAM
 3. Create the VolumeAXI 3D Slicer module and deploy the model as part toe the Slicer automated Dental tools extension
 
 
@@ -112,4 +112,3 @@ Next Steps:
 
 
 [VolumeAXI repository](https://github.com/Jeanneclre/VolumeAXI)
-

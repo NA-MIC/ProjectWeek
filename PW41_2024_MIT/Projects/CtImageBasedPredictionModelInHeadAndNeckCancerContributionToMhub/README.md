@@ -20,7 +20,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-Head and neck cancers account for [nearly 4% of all cancers in the United States](https://www.cancer.gov/types/head-and-neck/head-neck-fact-sheet#how-can-people-who-have-had-head-and-neck-cancers-reduce-their-risk-of-developing-a-second-primary-new-cancer). Although there have been improvements in treatment and understanding of the disease, survival hasn't significantly improved in the last decades for the head neck cancer population in general. The CNN uses tumor delineations from the pre-treatment CT heard and neck scans to predict distant metastasis, loco-regional failure, and overall survival. 
+Head and neck cancers account for [nearly 4% of all cancers in the United States](https://www.cancer.gov/types/head-and-neck/head-neck-fact-sheet#how-can-people-who-have-had-head-and-neck-cancers-reduce-their-risk-of-developing-a-second-primary-new-cancer). Although there have been improvements in treatment and understanding of the disease, survival hasn't significantly improved in the last decades for the head neck cancer population in general. The CNN uses tumor delineations from the pre-treatment CT heard and neck scans to predict distant metastasis, loco-regional failure, and overall survival.
 
 The model is peer-reviewed and was [open-sourced published](https://github.com/MaastrichtU-CDS/hn_cnn/tree/main?tab=readme-ov-file#description) . While the model is open-sourced, it still requires some additional settings for its implementation. To make it easily available, it's interesting to add this model to the standardized I\O framework as MHub platform.
 
@@ -28,8 +28,8 @@ Model characteristics:
 - Model input: DICOM files of CT head and neck
 - Preprocessing steps: slice selection and cropping around the tumour region, transformation in png format.
 - Model output: prediction of loco-regional failure, overall survival and distant metastasis.
-- Metrics Table [3](https://www.nature.com/articles/s41598-023-45486-5#Tab3): 
-The performance of our network varied for different outcomes: 
+- Metrics Table [3](https://www.nature.com/articles/s41598-023-45486-5#Tab3):
+The performance of our network varied for different outcomes:
 -- the 2-year distant metastasis prediction had the highest AUC, around 0.90, across the training, validation, and testing sets;
 -- 4-year overall survival AUC 0.78;
 -- 2-year loco-regional failure prediction AUC.
@@ -55,7 +55,7 @@ Objective C. To be acquainted with the contribution pipeline in MHub.
 
 1. To go through the contribution pipeline of MHub platform
 2. To make it available through a standardized I/O framework.
-3. To test the excitability of the model in the framework 
+3. To test the excitability of the model in the framework
 
 
 
@@ -88,4 +88,3 @@ _No response_
 - The model was developed by [CDS group at Maastricht University](https://github.com/MaastrichtU-CDS/hn_cnn/tree/main?tab=readme-ov-file#description )
 - [Citation](https://doi.org/10.1038/s41598-023-45486-5)
 - License:  MIT license
-

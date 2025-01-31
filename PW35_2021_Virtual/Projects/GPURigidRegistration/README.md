@@ -11,8 +11,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!-- Add a short paragraph describing the project. -->
 With this project, we would like to add a new feature to Slicer.
 The goal of this project is to extract code from an opensource software for image-based neurosurgery guidance: IBIS Neuronav.
-This code in C++ aims to perform registration between different images using the GPU. It is located in an IBIS Neuronav 
-plugin. Then, it will be implemented in Slicer to be available for all users. 
+This code in C++ aims to perform registration between different images using the GPU. It is located in an IBIS Neuronav
+plugin. Then, it will be implemented in Slicer to be available for all users.
 
 ## Objective
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
@@ -32,7 +32,7 @@ plugin. Then, it will be implemented in Slicer to be available for all users.
 - Isolate the code from IBIS and Adapt the code to make it usable outside.
 - Creation of a specific library using Cmake.
 
-(You can find all the code on this github link : https://github.com/IbisNeuronav/GPURigidRegistrationLib) 
+(You can find all the code on this github link : https://github.com/IbisNeuronav/GPURigidRegistrationLib)
 2. Implementing functionality on Slicer :hourglass_flowing_sand:
 
 
@@ -41,6 +41,6 @@ plugin. Then, it will be implemented in Slicer to be available for all users.
 ![Registration on real time with GPU](gpu-rigid-reg.gif)
 # Background and References
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-- http://ibisneuronav.org 
-- https://github.com/IbisNeuronav/Ibis 
+- http://ibisneuronav.org
+- https://github.com/IbisNeuronav/Ibis
 - https://github.com/IbisNeuronav/GPURigidRegistrationLib

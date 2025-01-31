@@ -28,7 +28,7 @@ As of now, we are not aware of a tool other than Google Cloud's HealthCare API t
 
 ## Objective
 
-1. Convert DICOM header to parquet preserving the nesting 
+1. Convert DICOM header to parquet preserving the nesting
 2. Figure out a way to dynamically update schema and data manipulations necessary
 3. Make the tool available on Hugging Face by integrating with idc-index, to seamlessly experiment with existing data in IDC
 
@@ -64,4 +64,3 @@ We hosted the app on Hugging Face space at https://huggingface.co/spaces/vkt1414
 
 
 - [https://medium.com/expedia-group-tech/practical-schema-evolution-with-avro-c07af8ba1725](https://medium.com/expedia-group-tech/practical-schema-evolution-with-avro-c07af8ba1725)
-

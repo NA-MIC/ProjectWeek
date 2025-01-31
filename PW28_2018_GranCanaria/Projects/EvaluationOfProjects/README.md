@@ -13,12 +13,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ### Evaluation of projects: augmented reality system to be used in surgeries, software for orthognatic planning, simulator of bone sliding.
 
-The Canary Islands Institute of Technology (ITC) (http://www.itccanarias.org/web/) is an applied research Institute belonging to the Regional Government of Canary Islands (Spain). The ITC is active in different research fields. In particular, the Biomedical Engineering Department focuses on 3D-printed, custom-made implants for bone loss reconstruction and regeneration. 
+The Canary Islands Institute of Technology (ITC) (http://www.itccanarias.org/web/) is an applied research Institute belonging to the Regional Government of Canary Islands (Spain). The ITC is active in different research fields. In particular, the Biomedical Engineering Department focuses on 3D-printed, custom-made implants for bone loss reconstruction and regeneration.
 
 
   <img src="ITC_Presentation.png" width="400" height="360">
 Biomedical Engineering Department Workflow
-  
+
 During this workshop we plan to explore, together with the GTMA (Group of Medical Technology and Audiovisuals), the possibilities of 3DSlicer and its environment in three possible projects.
 
 Proposals:
@@ -53,17 +53,17 @@ SlicerCMF (CranioMaxiloFacial app) was preliminary evaluated, capabilities and e
 
 + Project #2: 'Augmented reality for patient-specific implant surgery'
 
-SlicerVR was considered. Our roadmap: 
+SlicerVR was considered. Our roadmap:
 - [x] Focus on spine surgery (worst-case scenario).
 - [ ] Assess intraoperative ultrasound for spine surgery, and perform 3D reconstruction using trackers.
 - [ ] Build an ultrasound phantom to validate the setup. It should include the spine and surrounding main vessels (aorta!)
 - [ ] Use VR to navigate the model and US-3D volume to locate blood vessels, muscle or cartilage during tumor resection
-  
+
 + Project #3: 'A simulator for the humerus and ulna articular surfaces'
 Postponed for reevaluation.
 
 + Project #4 (Bonus!):
-Slicer has proven to be very useful for "voxel printing" anatomical models, which is a 3D-printing technique that can provide very realistic results - 3D in full color, transparency, various degrees of elasticity - and that does not require segmentation, nor the creation of an STL file. Other multi-color 3D-printing techniques require one STL per color, and the colors are therefore "solid". Slicer can *effortlessly* perform the required 3D interpolation and slicing that is required for this technique. 
+Slicer has proven to be very useful for "voxel printing" anatomical models, which is a 3D-printing technique that can provide very realistic results - 3D in full color, transparency, various degrees of elasticity - and that does not require segmentation, nor the creation of an STL file. Other multi-color 3D-printing techniques require one STL per color, and the colors are therefore "solid". Slicer can *effortlessly* perform the required 3D interpolation and slicing that is required for this technique.
 
 ## Illustrations
 The following are real 3d-printed anatomical models - not renders - using "voxel printing"
@@ -79,4 +79,3 @@ Credit: C. Bader, D. Kolb, J. C. Weaver, S. Sharma, A. Hosny, J. Costa, N. Oxman
 ## Background and References
 
 + [Osteobionix](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Projects/EvaluationOfProjects/presentation%20letter%20ITC.pdf)
-

@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!-- Add a short paragraph describing the project. -->
 BWH team has been working with Physical Science Inc. on a new generation of robotic device for MRI-guided prostate biopsy.
 The new device has active 4-DOF needle guide that directs a biopsy needle to the target in the prostate based on the plan
-created on an intraprocedural MRI. 
+created on an intraprocedural MRI.
 
 ## Objective
 
@@ -43,6 +43,6 @@ and MRI scanner using [ROS-IGTL-Bridge](https://github.com/openigtlink/ROS-IGTL-
 -->
 
 # Background and References
-The study was funded in part by the National Institutes of Health (4R44CA224853, R01EB020667, R01CA235134, P41EB015898)and Siemens Healthneers. 
+The study was funded in part by the National Institutes of Health (4R44CA224853, R01EB020667, R01CA235134, P41EB015898)and Siemens Healthneers.
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->

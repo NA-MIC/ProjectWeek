@@ -36,7 +36,7 @@ Common markup requirements:
 
 1. Collect requirements
 1. Prepare infrastructure in Markups module for a new markup type.
-1. Implement markup curve 
+1. Implement markup curve
 
 ## Progress and Next Steps
 

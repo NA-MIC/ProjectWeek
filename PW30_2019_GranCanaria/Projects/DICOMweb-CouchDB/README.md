@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Lightweight DICOMweb Server with CouchDB 
+# Lightweight DICOMweb Server with CouchDB
 
 ## Key Investigators
 
@@ -9,11 +9,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andrey Fedorov (BWH) - interested to deploy and test the resulting platform
 - Markus Herrmann (CCDS)
 - Tobias Stein (DKFZ)
-- Marco Nolden (DKFZ) - optional CTK/C++ based client side testing 
+- Marco Nolden (DKFZ) - optional CTK/C++ based client side testing
 
 # Project Description
 
-This project aims to work on a prototype lightweight DICOM server that will support DICOMweb standard and host the DICOM files as JSON objects. It will leverage previous work on SlicerChronicle and dcmjs. 
+This project aims to work on a prototype lightweight DICOM server that will support DICOMweb standard and host the DICOM files as JSON objects. It will leverage previous work on SlicerChronicle and dcmjs.
 
 ## Objective
 
@@ -29,7 +29,7 @@ This project aims to work on a prototype lightweight DICOM server that will supp
 1. Review and define project ideas
     1. Consider how to encapsulate DICOMweb logic so that it facilitates use in servers, but also in testing and other scenarios
     1. Define a reasonable subset of DICOMweb that can be supported easily (at least basic QIDO/WADO/STOW RS)
-    1. Pick a nice web server infastructure that can easily implement rest api proxies 
+    1. Pick a nice web server infastructure that can easily implement rest api proxies
         1. maybe build on [express/pouchdb-server](https://github.com/pouchdb/pouchdb-server)
         1. also look at [fastify](https://www.fastify.io/)
     1. Find an easy way to host the service for development, testing, and demos
@@ -49,9 +49,9 @@ This project aims to work on a prototype lightweight DICOM server that will supp
         1. {s}/studies/{study}/series endpoint: Query for series
         1. {s}/studies/{study}/series/{series}/instances endpoint: Query for instances
     1. WADO
-        1. {s}/studies/{study}/series/{series}/instances/{instance} endpoint : WADO-URI Retrieve Instance 
+        1. {s}/studies/{study}/series/{series}/instances/{instance} endpoint : WADO-URI Retrieve Instance
         1. {s}/studies/{study}/metadata endpoint: Retrieve study metadata
- 
+
 1. JSON schemas defined for QIDO query responses for studies, series and instances level
 1. Implemented STOW using some parts from Dicomweb-client (https://github.com/dcmjs-org/dicomweb-client) and dcmjs (https://github.com/dcmjs-org/dcmjs)
 

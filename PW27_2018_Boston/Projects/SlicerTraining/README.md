@@ -12,8 +12,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - [Presentation](https://medtec4susdev.github.io/3DSlicerTrainingNetwork/projectdemo)
 
-The main objective is the creation of a training plan that could be adapted for 3DSlicer new users with both: medical and engineer profiles. This plan should consider the needs and particular characteristics in the developing countries of Cape Verde, Senegal and Mauritania.  
-In any case the training material sould be oriented to the creation of digital learning objects. 
+The main objective is the creation of a training plan that could be adapted for 3DSlicer new users with both: medical and engineer profiles. This plan should consider the needs and particular characteristics in the developing countries of Cape Verde, Senegal and Mauritania.
+In any case the training material sould be oriented to the creation of digital learning objects.
 
 ## Objective
 
@@ -33,7 +33,7 @@ In any case the training material sould be oriented to the creation of digital l
 + [3D Slicer Clinicians](https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/Projects/SlicerTraining/TrainingPlan_3DSlicer%2BPlus_en_v1_U.pdf)
 + [3D Slicer Engineers](https://github.com/NA-MIC/ProjectWeek/blob/master/PW27_2018_Boston/Projects/SlicerTraining/TrainingPlan_ImagingTechnologies_en_v1_T.pdf)
 1. There will be a first training workshop in March for professionals from Cape Verde, Senegal and Mauritania
-1. It is planned as the start point of future collaborations with the team of the MACbioIDi project 
+1. It is planned as the start point of future collaborations with the team of the MACbioIDi project
 
 # Illustrations
 

@@ -14,18 +14,18 @@ Back to [Projects List](../../README.md#ProjectsList)
 - David Garcia-Mato (Ebatinca S.L.)
 - Javier Gonzalez-Fernandez (ITC)
 - Natalia Arteaga-Marrero (IACTEC)
-- Oumar Kane 
-- Ablaye Tacko Diop 
-- Ousmane Dia 
-- Mame Abdoulaye Gueye 
-- Mouhamedi Bah 
-- Aliou Barry 
-- Cheikh Sidi Ethmane 
-- Edmée Clémence Mansilla 
+- Oumar Kane
+- Ablaye Tacko Diop
+- Ousmane Dia
+- Mame Abdoulaye Gueye
+- Mouhamedi Bah
+- Aliou Barry
+- Cheikh Sidi Ethmane
+- Edmée Clémence Mansilla
 - Estelle Tcheple Tuo
 - Geir Arne Tangen (SINTEF - Norway)
 - Javier Pascau (UC3M - Spain)
-- Juan León (HGUGM - Spain) 
+- Juan León (HGUGM - Spain)
 
 # Project Description
 

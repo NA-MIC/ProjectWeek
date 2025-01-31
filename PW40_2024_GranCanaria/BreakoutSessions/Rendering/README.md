@@ -38,7 +38,7 @@ The goal of this breakout session is to gather all parties interested in the fut
 
 ## During the Breakout Session
 
-Links and notes are organized at [https://hackmd.io/j0xxip3jR_O9220uJUjJKg](https://hackmd.io/j0xxip3jR_O9220uJUjJKg). It is a markdown based document we can collaboratively & interactively edit. 
+Links and notes are organized at [https://hackmd.io/j0xxip3jR_O9220uJUjJKg](https://hackmd.io/j0xxip3jR_O9220uJUjJKg). It is a markdown based document we can collaboratively & interactively edit.
 
 Once the breakout session is over, we will contribute the information back to this page. See [Notes](#notes) below.
 

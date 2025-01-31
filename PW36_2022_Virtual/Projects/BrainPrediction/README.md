@@ -31,7 +31,7 @@ We postulate that there is a relationship between the shape of ones head and the
 
 1. We have some MRI from the HCP Human Connectome Project
 1. Skin masks and Brain Masks were obtained from these MRIs using HDBET and FieldTrip toolbox
-1. Using these as ground truths, train a CNN model to see the feasibility 
+1. Using these as ground truths, train a CNN model to see the feasibility
 1. Implement TMS model on Slicer as a module
 1. Convert ground truth data into surface meshes
 1. Using the new mesh data, train a geometric CNN model and compare results
@@ -43,7 +43,7 @@ Not a lot of progress was made.
     - Has been resolved, will start training next week
 1. Started a TMS Prediction Module, Source below
     - Prediction is working
-    - Need to create post-processing script to return niftii 
+    - Need to create post-processing script to return niftii
 
 # Illustrations
 

@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Updates on SlicerCMF (CranioMaxilloFacial)  
+# Updates on SlicerCMF (CranioMaxilloFacial)
 
 ## Key Investigators
 

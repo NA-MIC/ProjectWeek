@@ -2,7 +2,7 @@
 
 # Key Investigators
 - Ahmed Mahran (Brigham and Women's Hospital)
-- Franklin King (Brigham and Women's Hospital) 
+- Franklin King (Brigham and Women's Hospital)
 - Nobuhiko Hata  (Brigham and Women's Hospital)
 - Jean-Christophe Fillion-Robin (Kitware Inc.)
 
@@ -11,7 +11,7 @@ Establish network communication between SRC and 3D Slicer to control MR's scan p
 Python script running a JSON-based proprietary is used to communicate between the MR scanner and 3Dslicer.
 
 ## Objective
-1. Establish Communication between MRI simulator and 3Dslicer 
+1. Establish Communication between MRI simulator and 3Dslicer
 2. Use volume reslice driver to Set a new scan position and orientation
 3. Reterieve DICOM images from simulator to 3Dslicer
 
@@ -28,7 +28,7 @@ Python script running a JSON-based proprietary is used to communicate between th
   * update infrastructure to
     * compute coverage
     * execute test using pytest, start/stop scanner simulator automatically
-    
+
 * Discussed approach to integrate the package with Slicer. Few options:
   * Switch the implementation to use [websocket-client](https://github.com/websocket-client/websocket-client) instead of [websockets](https://pypi.org/project/websockets/) so that it works with Python 2
   * Leverage OpenIGTLink to send data to Slicer

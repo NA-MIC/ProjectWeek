@@ -64,7 +64,7 @@ To learn the concepts that are needed to develop the three components of the pro
       - Qt groups boxes and radio buttons were created dynamically from the coded md file
    - I can load images for the quiz from the study browser .md file.
    - Python code to coordinate moving through the assigned images still to be coded
-   
+
 
 
 # Illustrations
@@ -91,4 +91,3 @@ To learn the concepts that are needed to develop the three components of the pro
 A similar project was designed for the ClearCanvas 2.0 workstation.
  Following is a link to the publication to show how it was used.
 https://www.sciencedirect.com/science/article/pii/S0360301615272239?via%3Dihub
-

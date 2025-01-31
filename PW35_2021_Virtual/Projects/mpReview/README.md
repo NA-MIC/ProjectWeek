@@ -60,4 +60,3 @@ In the past we have developed mpReview extension to streamline the manual annota
 ## Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-

@@ -18,7 +18,7 @@ key_investigators:
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-[In the previous project week](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerQSS/) we worked on integrating the qt-material package into a Slicer module. 
+[In the previous project week](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerQSS/) we worked on integrating the qt-material package into a Slicer module.
 
 This project is aimed on publishing the qt-material interface as an extension and tuning it for 3D Slicer and custom apps
 

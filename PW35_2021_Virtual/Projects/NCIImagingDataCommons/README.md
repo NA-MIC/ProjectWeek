@@ -166,7 +166,7 @@ auth.authenticate_user()
 # retrieve the cohort content run a direct SQL query against IDC DICOM metadata table
 %%bigquery --project=$<my_GCP_project_ID> cohort_df
 
-SELECT * 
+SELECT *
 FROM `<my_cohort_BQ_table>`
 
 # save the manifest as text file on the VM:

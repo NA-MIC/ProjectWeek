@@ -59,9 +59,9 @@ Having such an open-source model in 3d Slicer will significantly contribute to t
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1.	Create an open-source Slicer module integrating our group's 
+1.	Create an open-source Slicer module integrating our group's
     a)	Vertebrae and musculature DL segmentation models
-    b)	Python-based spinal musculoskeletal model preparation and management scripts 
+    b)	Python-based spinal musculoskeletal model preparation and management scripts
 for establishing patient-specific spinal model input files for analysis in the OpenSim environment.
 2.	Automate model creation in Open Sim based on the model input file.
 3.	Create tools for visualizing and presenting model results at the model skeleton and muscle structures for static simulations.
@@ -120,6 +120,6 @@ TBD
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-1. [Evaluation of Load-To-Strength Ratios in Metastatic Vertebrae and Comparison With Age- and Sex-Matched Healthy Individuals](https://www.frontiersin.org/articles/10.3389/fbioe.2022.866970/full)	
+1. [Evaluation of Load-To-Strength Ratios in Metastatic Vertebrae and Comparison With Age- and Sex-Matched Healthy Individuals](https://www.frontiersin.org/articles/10.3389/fbioe.2022.866970/full)
 2. [Metastatic spine disease alters spinal load-to-strength ratios in patients compared to healthy individuals](https://www.medrxiv.org/content/10.1101/2025.01.06.25320075v1)
 3. [Automated Segmentation of Trunk Musculature with a Deep CNN Trained from Sparse Annotations in Radiation Therapy Patients with Metastatic Spine Disease](https://www.medrxiv.org/content/10.1101/2025.01.13.25319967v1)

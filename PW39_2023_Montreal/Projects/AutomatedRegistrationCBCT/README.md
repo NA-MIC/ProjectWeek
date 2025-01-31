@@ -8,7 +8,7 @@ category: Segmentation / Classification / Landmarking
 presenter_location: In-person
 
 key_investigators:
-- name: Anchling Luc 
+- name: Anchling Luc
   affiliation: University of Michigan
 
 - name: Nathan Hutin
@@ -43,9 +43,9 @@ key_investigators:
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-Automated clinical decision support systems rely on accurate analysis of three-dimensional (3D) medical and dental images to assist clinicians in diagnosis, treatment planning, intervention, and assessment of growth and treatment effects. However, analyzing 3D images requires orientation and registration, which are tedious and error-prone tasks. 
+Automated clinical decision support systems rely on accurate analysis of three-dimensional (3D) medical and dental images to assist clinicians in diagnosis, treatment planning, intervention, and assessment of growth and treatment effects. However, analyzing 3D images requires orientation and registration, which are tedious and error-prone tasks.
 
-This project proposes two novel tools that can automatically perform the orientation and registration of 3D Cone-Beam Computed Tomography (CBCT) scans with high accuracy. Our work aims to reduce the sources of error in the 3D image processing workflow by automating these operations. These methods combine classical algorithmic approaches and AI-based models trained and tested on de-identified CBCT volumetric images. 
+This project proposes two novel tools that can automatically perform the orientation and registration of 3D Cone-Beam Computed Tomography (CBCT) scans with high accuracy. Our work aims to reduce the sources of error in the 3D image processing workflow by automating these operations. These methods combine classical algorithmic approaches and AI-based models trained and tested on de-identified CBCT volumetric images.
 
 The registration method is based on an automatic tool [AMASSS](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools) to perform a segmentation of the different regions of reference (described [here](#illustrations)) used for the regional voxel-based registration
 

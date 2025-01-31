@@ -102,7 +102,7 @@ ASO module provide a convenient user interface allowing to orient different type
 > <img src="https://user-images.githubusercontent.com/72148963/216385235-d691a8ea-abcc-47ad-85fa-169ff76d11ec.png" width="600"/>
 
 The input has to be IOS with teeth's segmentation.
-The teeth's segmentation can be automatically done using the [SlicerDentalModelSeg](https://github.com/DCBIA-OrthoLab/SlicerDentalModelSeg) extension. 
+The teeth's segmentation can be automatically done using the [SlicerDentalModelSeg](https://github.com/DCBIA-OrthoLab/SlicerDentalModelSeg) extension.
 The IOS files need to have in their name the type of jaw (Upper or Lower).
 
 **<ins>Test Files Available:**
@@ -116,7 +116,7 @@ You can either download them using the link or  by using the `Download Test File
 
 ### Reference:
 
-The user has to choose a folder containing a **Reference Gold File** with an oriented scan with landmarks. 
+The user has to choose a folder containing a **Reference Gold File** with an oriented scan with landmarks.
 You can either use your own files or download ours using the `Download Reference` button in the module `Input section`.
 | Input Type  | Reference Gold Files |
 | ----------- | ----------- |
@@ -126,9 +126,9 @@ You can either use your own files or download ours using the `Download Reference
 > To select the *Reference Folder* in the Extension just select your folder with Reference Data here:
 > <img src="https://user-images.githubusercontent.com/72148963/216386412-99f0f39c-6a18-427f-9e0a-c8a20b703602.png" width="600"/>
 
-### Landmark selection 
+### Landmark selection
 
-The user has to decide which **landmarks** he will use to run ASO. 
+The user has to decide which **landmarks** he will use to run ASO.
 
 | Input Type  | Landmarks Available |
 | ----------- | ----------- |
@@ -151,10 +151,10 @@ For CBCT:
 ### Models Selection
 
 For the **Fully-Automated** Mode, models are required as input, use the `Download Models` Button or follow the following instructions:
-  
+
 #### For CBCT ([Details](https://github.com/lucanchling/ASO#aso-cbct)):
 A *Pre-Orientation* and *ALI_CBCT* models are needed
-  
+
 > To add the *Pre-Orientation* models just download [PreASOModels.zip](https://github.com/lucanchling/ASO_CBCT/releases/download/v01_preASOmodels/PreASOModels.zip), unzip it and select it here:
 > <img src="https://user-images.githubusercontent.com/72148963/216419045-8bee40d9-3421-440a-81e3-255547704d47.png" width="600"/>
 
@@ -180,7 +180,7 @@ A *Pre-Orientation* and *ALI_CBCT* models are needed
 The implementation is based on iterative closest point's algorithm to execute a landmark-based registration. Some preprocessing steps are done to make the orientation works better (and are described respectively in **CBCT** and **IOS** part)
 
 ### ASO CBCT
-**Fully-Automated mode:** 
+**Fully-Automated mode:**
 1. a deep learning model is used to predict head orientation and correct it.
 Models are available for download ([Pre ASO CBCT Models](https://github.com/lucanchling/ASO_CBCT/releases/tag/v01_preASOmodels))
 
@@ -202,4 +202,3 @@ Nathan Hutin (University of Michigan), Luc Anchling (UoM), Felicia Miranda (UoM)
 It is covered by the Apache License, Version 2.0:
 
 http://www.apache.org/licenses/LICENSE-2.0
-

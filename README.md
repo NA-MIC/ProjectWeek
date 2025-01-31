@@ -13,7 +13,7 @@ The Project Week is a week-long hackathon of hands on activity in which medical 
 
 #### When, where, how much?
 
-The Project Week events are held twice a year, January in Europe, and June in North America, with ad-hoc meetings added occasionally. The registration fee for in-person events is approximately 500 (USD or Euro), and is used to cover breakfast, lunch, and coffee. 
+The Project Week events are held twice a year, January in Europe, and June in North America, with ad-hoc meetings added occasionally. The registration fee for in-person events is approximately 500 (USD or Euro), and is used to cover breakfast, lunch, and coffee.
 
 #### How does it work?
 
@@ -37,7 +37,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
 ## Upcoming Project Weeks
 
- [Project Week 42](PW42_2025_GranCanaria/README.md) will be held January 27 through January 31 2025, in person in at Las Palmas, Gran Canaria, Spain. 
+ [Project Week 42](PW42_2025_GranCanaria/README.md) will be held January 27 through January 31 2025, in person in at Las Palmas, Gran Canaria, Spain.
 
 
 ## Past Project Weeks
@@ -92,4 +92,3 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
 ---
 This page is hosted [from the NA-MIC organization's ProjectWeek repository on github.com](https://github.com/NA-MIC/ProjectWeek) and is published at [https://projectweek.na-mic.org](https://projectweek.na-mic.org)
-

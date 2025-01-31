@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 Python is getting the most widely used platform for medical image computing. It is important to make it easy to use and extend Slicer using Python.
 
-[Jupyter notebook](https://en.wikipedia.org/wiki/IPython) is an interactive shell for executing scripts and viewing execution results. During last project week in Gran Canaria, we have implemented [SlicerJupyter](https://github.com/Slicer/SlicerJupyter) extension, which allows creating Jupyter notebooks that use Slicer. 
+[Jupyter notebook](https://en.wikipedia.org/wiki/IPython) is an interactive shell for executing scripts and viewing execution results. During last project week in Gran Canaria, we have implemented [SlicerJupyter](https://github.com/Slicer/SlicerJupyter) extension, which allows creating Jupyter notebooks that use Slicer.
 
 ## Objective
 

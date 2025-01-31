@@ -20,5 +20,3 @@ Proposal about the areas to establish in order to organize the projects:
 - DICOM
 
 It could be interesting during the next preparatory meetings to have a brainstorming on breakout sessions topics
-
-

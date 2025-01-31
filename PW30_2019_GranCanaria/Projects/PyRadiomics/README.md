@@ -40,7 +40,7 @@ This project aims to develop and maintain the open source software PyRadiomics, 
 1. Done, voxel-wise extraction now available from the command line by setting switch `--mode` (`-m`) to `voxel`, stores feature maps as NRRD images. Merged into PyRadiomics in [PR #457](https://github.com/Radiomics/pyradiomics/pull/457)
 1. Radiomics features comparison sub-project.
 * developed a Jupyter Notebook for comparing USF radiomics results with pyradiomics (see [https://github.com/Radiomics/pyradiomics/tree/master/labs/pyradiomics-reproduce](https://github.com/Radiomics/pyradiomics/tree/master/labs/pyradiomics-reproduce)). Observed good agreement in one case, but very poor in another, where volume of the structure is very small (see fig. below). We think this is due to the different approaches to rasterizing RTSTRUCT contours. Comparison of texture features underway.
-* learned about the radiomics module in MITK [tutorial](http://docs.mitk.org/nightly/org_mitk_views_radiomicstutorial_gui_portal.html) and [detailed info](http://mitk.org/wiki/Phenotyping), will investigate consistency and agreement with IBSI, to be continued! 
+* learned about the radiomics module in MITK [tutorial](http://docs.mitk.org/nightly/org_mitk_views_radiomicstutorial_gui_portal.html) and [detailed info](http://mitk.org/wiki/Phenotyping), will investigate consistency and agreement with IBSI, to be continued!
 
 # Illustrations
 

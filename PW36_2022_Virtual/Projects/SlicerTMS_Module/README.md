@@ -12,8 +12,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Transcranial magnetic stimulation is a nonivasive procedure used for treating depression with magnetic and electric fields to stimulate nerve cells. 
-A TMS coil is slowly moved over the subject's head suface to target certain areas in the brain. 
+Transcranial magnetic stimulation is a nonivasive procedure used for treating depression with magnetic and electric fields to stimulate nerve cells.
+A TMS coil is slowly moved over the subject's head suface to target certain areas in the brain.
 Our project aims to develop a deep-learning powered software for real-time E-Field prediction and a visualization of TMS within 3D Slicer.
 
 ## Objective
@@ -30,7 +30,7 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 
 1. Connecting Slicer with a mobile phone via SlicerWeb (https://github.com/pieper/SlicerWeb)
 2. Explore WebXR: WebXR needs https, so either generate local certificate (https://blog.anvileight.com/posts/simple-python-http-server/) and make modifications in the SlicerWeb WebServer.py file. OR alternatively run with USB cable connected to computer (USB debugging in developer tools for Android. iPhone requires an Apple Developer Account for this)
-3. Evaluating different approaches for AR with WebXR by testing different libraries: ThreeJS, A-Frame or React. 
+3. Evaluating different approaches for AR with WebXR by testing different libraries: ThreeJS, A-Frame or React.
 4. Visualizing our created 'butterfly' TMS coil in WebXR: A-Frame only allows obj and gltf file formats as models, Threejs also more like stl files. A-Frame allowed only image-, location- and marker-based AR tracking. Recently, AR.js enables markerless AR. Using WebXR without a marker is still in early stages of development.
 5. Moving the TMS coil and scene by tapping on it on the mobile device.
 
@@ -62,13 +62,13 @@ Next steps:
 
 Phones need a Depth sensorto run AR/VR. A list of supported devices can be found here: https://developers.google.com/ar/devices
 
-On an Android Phone via USB: 
+On an Android Phone via USB:
 - PlayStore: Download Google VR Services and Google AR Services App
 - Update Chrome/Camera apps etc.
 - On the phone: Enable Developer tools (https://developer.android.com/studio/debug/dev-options) and USB debugging (description here: https://developer.chrome.com/docs/devtools/remote-debugging/)
 - Run chrome://inspect#devices in the browser on your computer and it should detect USB connected devices
 
-For iPhone: 
+For iPhone:
 - Mozilla offers a WebXR Emulator that can be downloaded from the Apple Store for any iPhone and iPad: https://labs.mozilla.org/projects/webxr-viewer/
 
 ## For Slicer TMS Module (see previous project week ![PW 35](https://github.com/NA-MIC/ProjectWeek/tree/master/PW35_2021_Virtual/Projects/TMS_Slicer_Module)):

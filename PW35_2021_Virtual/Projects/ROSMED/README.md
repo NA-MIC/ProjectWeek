@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Junichi Tokuda (Brigham and Women's Hospital)
 - Tamas Ungi (Queen’s University)
-- Axel Krieger (Johns Hopkins University) 
+- Axel Krieger (Johns Hopkins University)
 - Simon Leonard (Johns Hopkins University)
 - Mark Fuge (University of Maryland)
 - Lydia Al-Zogbi (Johns Hopkins University)
@@ -17,19 +17,19 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 The ultimate goal of this project is to provide a software platform to integrate medical image computing
 software (3D Slicer) into a system for image-guided robot-assisted interventions, in which 2D/3D medical
-images are used for planning, navigation, monitoring, and validation. 
+images are used for planning, navigation, monitoring, and validation.
 Examples of such robot-assisted systems include image-guided robotic needle-guide systems and surgical
 CAD/CAM systems. Those systems often require a wide range of image computing capabilities such as
 segmentation of anatomical structures, registration of multiple images, 2D/3D image visualization,
 image-based planning, and data sharing with the robot controller and the hospital’s picture archiving
 and communication systems (PACS). Integration of a solid medical image computing platform into a robotic
-system is becoming more important than ever with the growing interest in AI-based treatment planning and guidance. 
+system is becoming more important than ever with the growing interest in AI-based treatment planning and guidance.
 
 However, the engineering effort to implement those features is often underestimated in academic research
 due to limited engineering resources or the scope of the project. Fortunately, many of those features have
-already been implemented and validated in the research community and often distributed as open-source software. 
+already been implemented and validated in the research community and often distributed as open-source software.
 Therefore it has become essential for academic researchers to take advantage of those existing tools and
-incorporate them into their own research instead of reinventing the wheel. 
+incorporate them into their own research instead of reinventing the wheel.
 
 Our team has been integrating 3D Slicer and Robot Operating System using OpenIGTLink to achieve the above goal
 following [our first project](https://www.na-mic.org/wiki/2016_Winter_Project_Week/Projects/SlicerROSIntegration),
@@ -51,7 +51,7 @@ transition to the new ROS platform (ROS2).
 1. Run ROS2 on a universal robot arm (UR-10) at JHU.
 1. Prototype a new version of ROS-IGTL-Bridge
 1. Display a 3D model of the UR-10 on 3D Slicer, and synchronize its posture with the robot by sending the transform of each link.
- 
+
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
@@ -77,7 +77,7 @@ transition to the new ROS platform (ROS2).
 Tamas tried installing ROS2 on windows, but was not straightfoward. It might not be a viable solution for the workshop tutorial.
 
 ### First implementation of ROS2-OpenIGTLink bridge
-The original interface for ROS1 (ROS_IGTL_Bridge) has been modified for ROS2. The modified interface is now working with ROS 2 with limited capability (only supports text, transform, and point) 
+The original interface for ROS1 (ROS_IGTL_Bridge) has been modified for ROS2. The modified interface is now working with ROS 2 with limited capability (only supports text, transform, and point)
 - [Repository](https://github.com/openigtlink/ros2_igtl_bridge)
 - [Demo video](https://www.dropbox.com/s/sq5amxkrfjvmvaz/ros2_igtl_bridge_July_1_2021.mov?dl=0)
 

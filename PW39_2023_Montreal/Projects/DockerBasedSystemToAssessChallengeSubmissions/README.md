@@ -12,11 +12,11 @@ key_investigators:
 - name: Roya Khajavibajestani
   affiliation: Brigham and Women’s hospital
   country: USA
-  
+
 - name: Erik Ziegler
   affiliation: Yunu
   country: Netherland
-  
+
 - name: Ron Kikinis
   affiliation: Harvard Medical School
   country: USA
@@ -94,7 +94,7 @@ The structure of the project will be:
     ├── test                # A folder that contains an example submission for testing
     │   └── submission.csv  # In this example the participants will submit a csv file
     └── test.sh             # A script that runs your evaluation container on the test submission
-````  
+````
 evaluation.py.  is the file where we will extend the Evaluation class and implement the evaluation for our challenge. In this file, a new class has been created, and it is instantiated and run with:
 
 ````

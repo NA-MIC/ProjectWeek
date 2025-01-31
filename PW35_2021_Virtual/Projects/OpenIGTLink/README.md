@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# OpenIGTLink 
+# OpenIGTLink
 
 ## Key Investigators
 
@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-OpenIGTLink has been used to share data between software platforms (e.g., 3D Slicer, PLUS, ROS, etc..) in real-time for IGT applications. In this project, we will discuss new features that are potentially incoporated in the future versions of OpenIGTLink. 
+OpenIGTLink has been used to share data between software platforms (e.g., 3D Slicer, PLUS, ROS, etc..) in real-time for IGT applications. In this project, we will discuss new features that are potentially incoporated in the future versions of OpenIGTLink.
 
 ## Objective
 
@@ -32,13 +32,13 @@ OpenIGTLink has been used to share data between software platforms (e.g., 3D Sli
   - Junichi has recieved a new funding to use OpenIGTLink for medical robotics projects. OpenIGTLink is used to brdige Robot Operating System (ROS) and 3D Slicer. ROS uses its own messaging system (Data Distribution Service: DDS).
   - Issues in Brainlab connectivity
     - Brainlab's IGTLink interface was designed before Protocol version 2. Some of the messages are not fully complient with the current protocol.
-    - 3D Slicer's OpenIGTLink interface has been overhauled a few years ago. The old version had some workaround to handle non-complient messages from Brainlab. 
+    - 3D Slicer's OpenIGTLink interface has been overhauled a few years ago. The old version had some workaround to handle non-complient messages from Brainlab.
     - The new version relies on an external library (IGSIO) to handle high-level messaging scheme, which makes it harder to implement the workaround. Also the new version of interface does not accept some of the message types that used to be supported by the old versions.
 3. Zoom conference with Brainlab
   - BWH team (Sarah and Paxy) described the issues they are facing during clinical cases
   - Brainlab acknowledge one of the issues and could fix it. Another issue is related to the incomplient message format, and could be fixed without significant effort.
   - Potential new features e.g., DTI support etc. DTI support will require testing on the OpenIGTLink side, as it has never been used for such a purpose.
-  - 
+  -
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.

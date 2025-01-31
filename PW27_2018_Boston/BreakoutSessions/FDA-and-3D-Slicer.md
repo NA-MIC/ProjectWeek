@@ -23,7 +23,7 @@ The Slicer license allows commerial use:
 > The license does not impose restrictions on the use of the software.
 > 3D Slicer is NOT FDA approved. It is the users responsibility to ensure compliance with applicable rules and regulations.
 
-Open source software can be included in the package being registered, it's helpful to isolate modules/classes that are used. Testing has to incorporate verifying the functionality of that software. 
+Open source software can be included in the package being registered, it's helpful to isolate modules/classes that are used. Testing has to incorporate verifying the functionality of that software.
 
 ### 510(k)
 
@@ -46,7 +46,7 @@ In the Software section of the 510(k) application you have to provide:
 * Requirements Specification: developed from Clinical User Needs and Design Input
 * Software Design Document
   * Includes module level descriptions for the software
-  * Includes third party libraries: 
+  * Includes third party libraries:
 
 | Name    | Description | How Used in the Software |
 | ------- | ----------- | ------------------------ |

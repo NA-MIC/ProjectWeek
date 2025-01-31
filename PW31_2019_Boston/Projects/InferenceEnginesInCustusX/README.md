@@ -22,12 +22,12 @@ Running trained Deep Learning networks with inference engines. The focus will be
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Use the [FAST](https://github.com/smistad/FAST) library for inference engine support. 
+1. Use the [FAST](https://github.com/smistad/FAST) library for inference engine support.
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-The task of implementing support for multiple inference engines proved too large for Project Week. 
+The task of implementing support for multiple inference engines proved too large for Project Week.
 We ended up using the [OpenVINO Toolkit](https://docs.openvinotoolkit.org/) directly. The OpenVINO inference engine allows us to run the trained networks on the various Intel devices (CPU, GPU, FPFA, Movidius Stick, ...), so this choice still provides us with a decent multi-platform solution.
 
 
@@ -49,4 +49,3 @@ Currently we got several research projects where deep learning networks are crea
 We want to be able to run these networks from inside CustusX to allow a more seamless integration in the OR. Some projects require the deep learning networks to run in real time, and in these cases they will need to run them on inference engines.
 
 [Video: Highlighting nerves and blood vessels on ultrasound images](https://youtu.be/06HTxmmu0mg)
-

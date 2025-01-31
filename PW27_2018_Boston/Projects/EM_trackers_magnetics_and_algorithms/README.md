@@ -71,4 +71,3 @@ No new ones; see Background and References for old ones.
 - [traneus's breadboard 6DOF EM tracker](https://web.archive.org/web/20151002101401/http://home.comcast.net/~traneus/dry_emtrackertricoil.htm)
 - [traneus's PhD dissertation on an EM tracker](https://web.archive.org/web/20151002101400/http://home.comcast.net/~traneus/thesis.pdf)
 - [four figures in traneus's dissertation](https://web.archive.org/web/20151002101400/http://home.comcast.net/~traneus/thesifig.pdf)
-

@@ -60,4 +60,3 @@ Harmonus has developed Slicer extensions for MR guided prostate biopsy, supporti
 
 <!--Link for editing page when displayed in GitHub pages-->
 <a href="{{site.github.repository_url}}/edit/master/{{page.path}}">Edit this page on GitHub</a>
-

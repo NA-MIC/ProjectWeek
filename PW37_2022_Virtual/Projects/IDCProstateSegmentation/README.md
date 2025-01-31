@@ -9,14 +9,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Inference on prostate IDC data using [nnUnet](https://github.com/MIC-DKFZ/nnUNet) segmentation framework.  
+Inference on prostate IDC data using [nnUnet](https://github.com/MIC-DKFZ/nnUNet) segmentation framework.
 This framework provides an end to end segmentation pipeline, from pre-processing, data augmentation, hyper-parameter selection to post-processing, with variants of an Unet segmentation model.
 The Imaging Data Commons platform provides both labelled and unlabelled prostate scans collections.
 
 ## Objective
 
-1. Augment existing and applicable IDC collections with prostate segmentations obtained from nnUnet pre-trained models. 
-2. Investigate/analyze nnUnet framework generalizability to IDC data. 
+1. Augment existing and applicable IDC collections with prostate segmentations obtained from nnUnet pre-trained models.
+2. Investigate/analyze nnUnet framework generalizability to IDC data.
 
 ## Approach and Plan
 
@@ -26,14 +26,14 @@ The Imaging Data Commons platform provides both labelled and unlabelled prostate
 ## Progress and Next Steps
 
 1. Verification of nnUnet claimed results on prostate decathlon data, used for available pre-trained models.
-2. Inference on Qin-Prostate-Repeatability collection using a pre-trained nnUnet model on task05 imaging decathlon data : 
-  
+2. Inference on Qin-Prostate-Repeatability collection using a pre-trained nnUnet model on task05 imaging decathlon data :
+
    * 3d full-res model, T2 and ADC modalities, so there is a need to resample the input.
 
 3. Inference on Qin-Prostate-Repeatability collection using a different pre-trained nnUnet model, task 24 promise.
 
    * Easier to corner the resampling problem since this pre-trained model has only one input modality -- T2
-   
+
 3. Obtained good dice scores results on the 15 PatientID divided into two studies each using this model.
 4. Dealt with the Resampling/Converting issue -  slice spacing incorrect -- use of simpleITK instead of plastimatch
 

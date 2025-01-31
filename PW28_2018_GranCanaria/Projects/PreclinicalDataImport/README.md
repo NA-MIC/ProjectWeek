@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Improve/Test multivolume preclinical MRI data import (DCE, DTI). 
+# Improve/Test multivolume preclinical MRI data import (DCE, DTI).
 
 ## Key Investigators
 
@@ -21,7 +21,7 @@ Multivolume DICOM data from Bruker preclinical MRI scanners (Paravision version 
 ## Approach and Plan
 
 1. Collect examples of preclinical data.
-1. The first correction for DCE is to make sure the frame time in DCE MRI is not merely copied from the 'RepetitionTime' field in the DICOM files. Instead, this should be multiplied by the number of phase encoding steps. 
+1. The first correction for DCE is to make sure the frame time in DCE MRI is not merely copied from the 'RepetitionTime' field in the DICOM files. Instead, this should be multiplied by the number of phase encoding steps.
 1. As a prototype, implement a Matlab Bridge module "LoadBruker" that correctly loads all the various Bruker data sets.
 1. Implement the fixes in Python, either as one module for Bruker MRI data, or within the existing data loading modules, multivolumeimporter and DWIconvert.
 

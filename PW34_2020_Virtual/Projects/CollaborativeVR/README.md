@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-Virtual Reality (VR) has a great potential to facilitate communication between clinicians. For example, VR can be used to collaboratively plan a surgical case by manipulating 3D models derived from preoperative scans. Slicer already includes most of the components required to build prototypes for this kind of applications: 
+Virtual Reality (VR) has a great potential to facilitate communication between clinicians. For example, VR can be used to collaboratively plan a surgical case by manipulating 3D models derived from preoperative scans. Slicer already includes most of the components required to build prototypes for this kind of applications:
 - The Virtual Reality module can display everything from Slicer's 3D in VR
 - The VolumeRendering and PRISM Rendering modules enable advanced-programmable volume rendering
 - The OpenIGTLinkIF module and OpenIGTLink protocol enables communication of medical and tracking data between different devices running Slicer
@@ -19,7 +19,7 @@ The Goal of this discussion is to coordinate future development of the above mod
 ## Objective
 
 1. Review the current functionality of SlicerVR and PRISM Rendering
-1. Discuss planned near future developments in those modules 
+1. Discuss planned near future developments in those modules
 1. Lay out a vision for the future of interactive VR in Slicer
 1. Establish a protocol for Collaborative VR
 1. Points for discussion:

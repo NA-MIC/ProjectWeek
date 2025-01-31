@@ -38,7 +38,7 @@ marp: true
 * Spatial Registration: SRO
     * Linear and nonlinear with explicit frames of reference
 * Whole Slide Images: WSI
-    * Microscopy images, possibly multichannel with annotations in SR 
+    * Microscopy images, possibly multichannel with annotations in SR
 
 ---
 

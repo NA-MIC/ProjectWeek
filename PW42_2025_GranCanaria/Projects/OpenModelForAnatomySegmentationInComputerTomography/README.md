@@ -108,4 +108,3 @@ Next Steps:
 
 * Earlier PW41 project on this topic: [OMAS CT: Open Model for Anatomy Segmentation in Computer Tomography](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/OmasCtOpenModelForAnatomySegmentationInComputerTomography/)
 * Earlier work on mapping OMAS labels to SNOMED-CT: [spreadsheet](https://docs.google.com/spreadsheets/d/1pBicNskjMDJBnD3w4yAQroj8SGSAhDfA_TUK24dLEyc/edit?gid=1390863317#gid=1390863317)
-

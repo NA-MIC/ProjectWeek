@@ -70,13 +70,13 @@ key_investigators:
 <p float="left">
   <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_01.png?raw=true" width="30%">
   <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_04.png?raw=true" width="30%">
-  <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_02.png?raw=true" width="30%">  
+  <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_02.png?raw=true" width="30%">
 </p>
 
 <p float="left">
    <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_08.png?raw=true" width="40%">
    <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_06.png?raw=true" width="40%">
-   
+
 </p>
 
 <img width="50%" alt="resection" src="https://user-images.githubusercontent.com/75131750/216592014-82fc6c37-0b58-41dd-8a73-6ab97d1aede0.gif">

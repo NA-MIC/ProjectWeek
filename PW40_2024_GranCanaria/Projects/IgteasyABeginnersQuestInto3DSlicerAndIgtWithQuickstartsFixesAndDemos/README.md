@@ -32,7 +32,7 @@ key_investigators:
 - name: David García Mato
   affiliation: Apolo AI
   country: Spain
-  
+
 - name: Fatimetou Mohamed-Saleck
   affiliation: University of Nouakchott
   country: Mauritania

@@ -94,7 +94,7 @@ Next steps:
    1. Actualy link it against the new DCMTK run it and test it...
    2. Performance can propably be improved significanly by not making a bunch of function
       calls within tight loops.
-   4. Set up tests with LabelMap segmentation objects. 
+   4. Set up tests with LabelMap segmentation objects.
 
 # Illustrations
 

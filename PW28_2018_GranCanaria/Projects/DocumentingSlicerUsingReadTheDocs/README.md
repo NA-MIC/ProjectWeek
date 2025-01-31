@@ -28,7 +28,7 @@ Ultimately, all modules would have their documentation managed along side the Sl
 2. Document process to install Qt5 and build Slicer using it
 2. Discuss and work on migration of developer documentation.
 3. Setup documentation of [KitwareMedical/SlicerCustomAppTemplate](https://github.com/KitwareMedical/SlicerCustomAppTemplate) on readthedocs
-4. Create `sphinx-cmake` python package. A sphinx documentation framework plugin enabling project to easily document their build system. 
+4. Create `sphinx-cmake` python package. A sphinx documentation framework plugin enabling project to easily document their build system.
 
 ## Progress and Next Steps
 

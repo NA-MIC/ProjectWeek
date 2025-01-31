@@ -33,7 +33,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Approach and Plan
 
 * Complete and improve refactoring of command messages.
-* Embed information about images in the image message itself (currently sent as string messages to CustusX, see [PlusDeviceSet_Server_BkProFocusOem.xml](https://github.com/PlusToolkit/PlusLibData/blob/d2dcc2d2b8ad84eea14bd6147dcf289da1e4f405/ConfigFiles/PlusDeviceSet_Server_BkProFocusOem.xml) ) 
+* Embed information about images in the image message itself (currently sent as string messages to CustusX, see [PlusDeviceSet_Server_BkProFocusOem.xml](https://github.com/PlusToolkit/PlusLibData/blob/d2dcc2d2b8ad84eea14bd6147dcf289da1e4f405/ConfigFiles/PlusDeviceSet_Server_BkProFocusOem.xml) )
 * Fix limited length device names. Troncate long names and put complete name in meta-data.
 * Create a command-line example in OpenIGTLinkIO that implements a simple but complete tracked US session:
   * launch a PlusServer with a config that simulates US and includes tracking data
@@ -44,7 +44,7 @@ Back to [Projects List](../../README.md#ProjectsList)
   * Export acquired images before shutting down
 * Improve Plus server launcher
 * Possible extension: Add functionality for combining streams in the OpenIGTLinkIO client:
-  * Let's say you got one or more servers streaming several streams. Some of these streams may have to be combined in the client. It may be possible to add this functionality to OpenIGTLinkIO, so that users of the library don't have to create their own solutions. These combined tools may be similar to the combinations set up in the PLUS config file, but that may not be necssary, as the client may have other preferences, and OpenIGTLinkIO should not rely on the internal structures in PLUS. Examples: 
+  * Let's say you got one or more servers streaming several streams. Some of these streams may have to be combined in the client. It may be possible to add this functionality to OpenIGTLinkIO, so that users of the library don't have to create their own solutions. These combined tools may be similar to the combinations set up in the PLUS config file, but that may not be necssary, as the client may have other preferences, and OpenIGTLinkIO should not rely on the internal structures in PLUS. Examples:
     * PLUS streams ultrasound video, and some tracking hardware streams the positions of all the tools.
     * The setup uses a tool that supplies several positions at the same time.
     * Different hardware may all stream OpenIGTLink/OpenIGTLinkIO messages directly, and PLUS may not be used at all.
@@ -69,7 +69,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 ## Future work
 * Define a standard for Plus to timestamp every data item send it in the metadata.
-* vtkPlusDevice should include a container for metadata to be send. This way, each device type can register data that it sends with every message. Currently, this is done with FrameFields in vtkPlusUSDevice, but it should be generalized to all device types. The list of available properties is now defined in the new OpenIGTLinkIO igtlioUsSectorDefinitions. This should be moved to a more generic file that contains properties for all device types. 
+* vtkPlusDevice should include a container for metadata to be send. This way, each device type can register data that it sends with every message. Currently, this is done with FrameFields in vtkPlusUSDevice, but it should be generalized to all device types. The list of available properties is now defined in the new OpenIGTLinkIO igtlioUsSectorDefinitions. This should be moved to a more generic file that contains properties for all device types.
 * Create a handshaking protocol in OpenIGTLink that gives the users of the library information about the capabilities of both the client and the server. Like:
   * Max OpenIGTLink version
   * Max OpenIGTLink header version
@@ -77,7 +77,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 * Initial suggestion: Create a deviceNameLong field in the OpenIGTLink meta information field that provides the device name in a format that is not truncated. This is really a hack to fix a bug introduced by Plus. At the moment Plus don't follow the OpenIGTLink standard by not making sure that the deviceName is unique?
   * A better solution would probably be that Plus makes sure that deviceName is unique. Additional information should be added as meta data instead (transform pipeline etc.).
 * Implement support in OpenIGTLinkIO for combining streams into tools. The information needed for this can be set as meta data information. This recreation of tools combining multiple streams don't necessarily have to mirror the structures in the PLUS config file, and it have to be possible to combine streams from several sources at the same time (also from sources outside PLUS).
- 
+
 
 # Illustrations
 

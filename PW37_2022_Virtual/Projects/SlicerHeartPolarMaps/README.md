@@ -14,7 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <a href="url"><img src="https://user-images.githubusercontent.com/3187316/175366354-3aa45998-4a91-4d05-a3e4-f30ad784140f.png" align="left" width="150" ></a>
 
-This project aims to add polar map funcitonality to SlicerHeart. Polar maps provide a standardized 2D representation of the 3D LV myocardium for consistent comparisons across different patients or over time, and allow the entire LV to be viewed at once in a single 2D image. 
+This project aims to add polar map funcitonality to SlicerHeart. Polar maps provide a standardized 2D representation of the 3D LV myocardium for consistent comparisons across different patients or over time, and allow the entire LV to be viewed at once in a single 2D image.
 Polar maps are commonly used in:
 -nuclear imaging (PET, SPECT) to show perfusion or other radiotracer uptake
 -scar imaging (LGE MRI or LIE CT) to show contrast washout to identify regions of scar
@@ -87,5 +87,5 @@ More on the definition of the 17-segment model can be found in [this American He
 
 <a href="url"><img src="https://user-images.githubusercontent.com/3187316/175435343-31295965-07f2-411d-ac08-f2302581ab9b.PNG" align="left" width="200" ></a>
 
-All polar maps sample the basal and mid segments the same, but there are 3 different convensions to how to sample the apex. These are described in more detail in 
+All polar maps sample the basal and mid segments the same, but there are 3 different convensions to how to sample the apex. These are described in more detail in
   Lin, G. Sharat et al. “Automated Quantification of Myocardial Ischemia and Wall Motion Defects by Use of Cardiac SPECT Polar Mapping and 4-Dimensional Surface Rendering.” Journal of nuclear medicine technology 34.1 (2006): 3–17. Print.

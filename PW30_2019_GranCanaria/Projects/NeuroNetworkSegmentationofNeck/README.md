@@ -31,7 +31,7 @@ We want to implement a neural network based automatic segmentation algorithm to 
 ## Progress and Next Steps
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
-We made some segmentation mask in Slicer, using Segment editor's fill between slices tool. 
+We made some segmentation mask in Slicer, using Segment editor's fill between slices tool.
 - Few manually segmented images
 ![align="left"](minta.PNG)
 ![align="left"](image_00008.png)
@@ -45,10 +45,10 @@ We made some segmentation mask in Slicer, using Segment editor's fill between sl
 
 # Illustrations
  Keras, a neural network package in python:
-- https://keras.io/ 
+- https://keras.io/
 
 The U-net:
-- https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ 
+- https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 <!--Add pictures and links to videos that demonstrate what has been accomplished.-->
 
 <!--![Description of picture](Example2.jpg)-->
@@ -62,4 +62,3 @@ The U-net:
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
-

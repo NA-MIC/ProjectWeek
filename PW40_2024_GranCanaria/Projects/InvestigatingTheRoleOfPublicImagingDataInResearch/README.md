@@ -52,7 +52,7 @@ key_investigators:
 - name: Rafael Palomar
   affiliation: Oslo University Hospital
   country: Norway
-  
+
 
 ---
 

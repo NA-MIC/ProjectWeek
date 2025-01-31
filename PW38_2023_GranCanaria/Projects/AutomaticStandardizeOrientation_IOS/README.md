@@ -15,7 +15,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
- A correct relationship of the teeth in upper and lower dental arches of IntraOral Surface (IOS) scans depends on standardized spatial orientation 
+ A correct relationship of the teeth in upper and lower dental arches of IntraOral Surface (IOS) scans depends on standardized spatial orientation
 in an antero-posterior (yaw rotation), lateral (pitch rotation), and axial  (roll rotation) planes induced by  differences in acquisiton of  scans, growth and treatment. Serial IOSs have been used for evaluation and understanding of the changes resulting from
 interactions of groiwth and treatment, as dental position and movement can be quantified by 3D linear and angular measurements based on homologous landmarks.
 
@@ -27,7 +27,7 @@ This project develops a Slicer extension for Automated Standardized Orientation 
 2. Computation of the difference between the angles of these 3 lines and a new IOS and an IOS in a gold stardand orientation.
 3. Apply transform matrix to approximate the scans spatial orientation (pre-orientation)
 4. Compute ICP between the centroid of the 3 reference  teeth in each scan.
-5. Automatically Ccmpute occlusal landmarks on IOS r, using a deep learning landmark identification algorithm (ALIIOS). 
+5. Automatically Ccmpute occlusal landmarks on IOS r, using a deep learning landmark identification algorithm (ALIIOS).
 6. ASOIOS  then uses a landmark-based registration approach (ICP of he landmarks identified with ALIIOS) to automatically orient an IOS in a  standardized spatial orientation. Availabble options includes, user choice of orienting each IOS separately or by pair of dental arches in occlusion;users can also choose which tooth to use to orient the scan.
 
 Link to GitHub repository https://github.com/lucanchling/ASO
@@ -39,11 +39,11 @@ Link to GitHub repository https://github.com/lucanchling/ASO
 2. Receive feedback to improve my code and facilitate future maintenance
 3. Display error window
 4. Improve progress bar
-5. Document the code and read me file. 
+5. Document the code and read me file.
 6. Includetest cases
 
 ## Approach and plan
-1. Develop in collaboration with Luc Anchling [ASO_CBCT](../ASO_CBCT/REAMDED.md) a Slicer Module,ASO, that will be deployed as part of Slicer Automated  Dental Tools. 
+1. Develop in collaboration with Luc Anchling [ASO_CBCT](../ASO_CBCT/REAMDED.md) a Slicer Module,ASO, that will be deployed as part of Slicer Automated  Dental Tools.
 
 
 ## Progress and Next Steps
@@ -54,7 +54,7 @@ Link to GitHub repository https://github.com/lucanchling/ASO
 ### Next Step
 
 1.  Receive feedback to improve my code and facilitate future maintenance
-2.  Beta Extension for internal users testing prior to deployment 
+2.  Beta Extension for internal users testing prior to deployment
 
 # Illustrations
 ### User interface
@@ -64,7 +64,3 @@ Link to GitHub repository https://github.com/lucanchling/ASO
 Green : scan without orientation.
 Red : Scan at the 5th step.
 Yellow : Final Orientation.
-
-
-
-

@@ -25,7 +25,7 @@ key_investigators:
 
 A grid-based semi-landmarking functionality comes up often as a request in context of Slicer/SlicerMorph users. Currently this only exists in proprietary software packages. We aim to provide the following functionality:
 1. Objective A. Create a grid of equidistant landmark points can be projected onto a model surface
-2. Objective B. As individual landmark points are adjusted manually, the grid is updated and resampled. 
+2. Objective B. As individual landmark points are adjusted manually, the grid is updated and resampled.
 3. Objective C. A module will be created to support the user interactions
 
 ## Approach and Plan
@@ -43,7 +43,7 @@ The [Surface Landmark Extension](https://github.com/SlicerHeart/SlicerSurfaceMar
 1. Developed projection method to snap Surface Markups to a model
 2. Implemented and compared methods for update/resampling of Surface Markups
 3. Developed a module to make user interactions more convenient
-4. Pushed [test version of module](https://github.com/SlicerMorph/SlicerMorph/tree/PlaceLandmarkGrid) to SlicerMorph repo. 
+4. Pushed [test version of module](https://github.com/SlicerMorph/SlicerMorph/tree/PlaceLandmarkGrid) to SlicerMorph repo.
 
 # Illustrations
 

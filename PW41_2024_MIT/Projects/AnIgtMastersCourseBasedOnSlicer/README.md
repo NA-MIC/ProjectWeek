@@ -21,7 +21,7 @@ key_investigators:
 
 # Project Description
 
-The goal of this project is to improve the lecture and demo material for the Master's level at ETS Montreal entitled "Surgical Technologies" (see course website [here](https://www.etsmtl.ca/etudes/cours/gts880a), in French). 
+The goal of this project is to improve the lecture and demo material for the Master's level at ETS Montreal entitled "Surgical Technologies" (see course website [here](https://www.etsmtl.ca/etudes/cours/gts880a), in French).
 
 The objective of the "Surgical Technologies" course is to familiarize students with the technologies that enable the planning and execution of minimally invasive surgical operations. These technologies combine various medical imaging acquisition techniques, precise image processing, 3D tracking of surgical tools, and several mechanisms and algorithms that allow for the alignment and visualization of this information, enabling surgeons to perform the most precise and minimally invasive operations possible for their patients.
 
@@ -37,7 +37,7 @@ The practical work in the course is all based on the use of 3D Slicer.
 
 1. Identify existing tutorials that can help students of the course learn about the Slicer features they can take advantage of in their term project
 2. List existing surgical technologies that are not already covered in the class and determine whether a prototype can easily be built based on existing Slicer modules.
-3. List publicly available datasets that can be used to build IGT prototypes for different types of procedures. 
+3. List publicly available datasets that can be used to build IGT prototypes for different types of procedures.
 
 ## Approach and Plan
 
@@ -68,4 +68,3 @@ The practical work in the course is all based on the use of 3D Slicer.
 
 
 _No response_
-

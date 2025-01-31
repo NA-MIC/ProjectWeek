@@ -26,9 +26,9 @@ key_investigators:
 
 We will develop a 3D slicer extension to deploy two interactive segmentation models aimed at helping researchers and clinicians perform new segmentation tasks:
 
-[ScribblePrompt](https://scribbleprompt.csail.mit.edu/) is a deep learning model that enables users to interactively segment an image using scribbles, clicks, and bounding boxes. The model is designed to generalize to new labels and types of biomedical images and uses a lightweight UNet-based architecture so it runs quickly even without a GPU. 
+[ScribblePrompt](https://scribbleprompt.csail.mit.edu/) is a deep learning model that enables users to interactively segment an image using scribbles, clicks, and bounding boxes. The model is designed to generalize to new labels and types of biomedical images and uses a lightweight UNet-based architecture so it runs quickly even without a GPU.
 
-[MultiverSeg](https://multiverseg.csail.mit.edu/) extends this interactive approach to speed up the segmentation of sets of similar images. Using the same interaction types as ScribblePrompt (scribbles, clicks, bounding boxes), the system learns from each segmentation to improve subsequent predictions. Given enough similar example segmentations, MultiverSeg can also automatically segment new images without any user interaction. 
+[MultiverSeg](https://multiverseg.csail.mit.edu/) extends this interactive approach to speed up the segmentation of sets of similar images. Using the same interaction types as ScribblePrompt (scribbles, clicks, bounding boxes), the system learns from each segmentation to improve subsequent predictions. Given enough similar example segmentations, MultiverSeg can also automatically segment new images without any user interaction.
 
 
 
@@ -38,7 +38,7 @@ We will develop a 3D slicer extension to deploy two interactive segmentation mod
 
 
 1. Implement a 3D slicer extension for interactive segmentation with ScribblePrompt using scribbles, clicks, and bounding boxes
-2. Add MultiverSeg to the extension to enable interactive and automatic segmentation of sets of images (or slices from 3D volumes) 
+2. Add MultiverSeg to the extension to enable interactive and automatic segmentation of sets of images (or slices from 3D volumes)
 3. Compare to other interactive segmentation tools
 
 
@@ -79,13 +79,13 @@ We will develop a 3D slicer extension to deploy two interactive segmentation mod
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-     
+
 Relevant Publications:
 
-Wong, H.E., Rakic, M., Guttag, J., & Dalca, A.V., (2024). ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image. In European Conference on Computer Vision. 
+Wong, H.E., Rakic, M., Guttag, J., & Dalca, A.V., (2024). ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image. In European Conference on Computer Vision.
 [paper](https://arxiv.org/abs/2312.07381) [code](https://github.com/halleewong/ScribblePrompt)
 
-Wong, H.E., Ortiz, J.J.G., Guttag, J. & Dalca, A.V., (2024). MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance. arXiv preprint arXiv:2412.15058. 
+Wong, H.E., Ortiz, J.J.G., Guttag, J. & Dalca, A.V., (2024). MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance. arXiv preprint arXiv:2412.15058.
 [paper](https://arxiv.org/abs/2412.15058) [code](https://github.com/halleewong/MultiverSeg)
 
 Related 3D Slicer extensions:
@@ -95,4 +95,3 @@ Related 3D Slicer extensions:
 - [SAMM](https://github.com/bingogome/samm)
 - [TomoSAM](https://github.com/fedesemeraro/SlicerTomoSAM)
 - [SlicerSegmentWithSAM](https://github.com/mazurowski-lab/SlicerSegmentWithSAM)
-

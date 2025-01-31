@@ -7,7 +7,7 @@ Tool to anonymize a dataset of medical images.
 
 - Hina Shah (UNC Chapel Hill)
 - Juan Carolos Prieto (UNC Chapel Hill)
-- Fryderyk Kögl (BWH, TUM) 
+- Fryderyk Kögl (BWH, TUM)
 
 # Project Description
 
@@ -16,7 +16,7 @@ The very first step to make any medical data available to research community is 
 
 The proposed tool will:
 - Anonymize a dataset of images by deleting any identifiable metadata information
-- Have options to rename the files using either UUID or custom name. 
+- Have options to rename the files using either UUID or custom name.
 - Create a crosswalk to get the correspondence between anonymized and original files
 - Work as a standalone app or a slicer extension
 

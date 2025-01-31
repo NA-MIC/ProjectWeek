@@ -40,7 +40,7 @@ Finite element simulations of the spine allow insight into the effect of bone me
 
 In collaboration with MIT, our group established a damage-based FE framework to investigate the effect of bone metastatic lesions on the failure and, more recently, the post-failure mechanical response of the human spines in cancer patients. Based on our ongoing collaboration with members of the 3D Slicer community, our group has developed DL models for segmenting human thoracic and lumbar vertebrae in cancer patients and developed scripts for meshing and applying bone modules based on the CT data. We propose to integrate our DL segmentation models, the Gmsh open-source meshing application, work on optimizing our material allocation algorithm, and create a parser for input file for the FE simulations (ABAQUS, MIT-Summit) within an extension framework to enable the complete pipeline (CT-data- FE input model).
 
-Having such an open-source model in 3d Slicer will significantly contribute to the scientific and clinical community for cancer patient research and to studying the effect of vertebral fractures on morbidity not only in cancer patients but also in the elderly populations and surgical outcomes. 
+Having such an open-source model in 3d Slicer will significantly contribute to the scientific and clinical community for cancer patient research and to studying the effect of vertebral fractures on morbidity not only in cancer patients but also in the elderly populations and surgical outcomes.
 
 
 
@@ -59,7 +59,7 @@ Having such an open-source model in 3d Slicer will significantly contribute to t
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1.	Discuss the current analysis and management scripts pipeline. Integration of the DL-based masks for generating data for the pipeline. Visualization and optimization options of mesh quality and applied bone modulus. 
+1.	Discuss the current analysis and management scripts pipeline. Integration of the DL-based masks for generating data for the pipeline. Visualization and optimization options of mesh quality and applied bone modulus.
 a.	The key gap is how best to optimize the mesh-based material allocation, which requires the computation of bone properties at the location of each mesh element.
 2.	What issues must be solved for this integration within the extension mechanism? Build an integration plan emphasizing a framework for modularity and code expansion.
 3.	Discuss methods of results presentation.
@@ -74,7 +74,7 @@ a.	The key gap is how best to optimize the mesh-based material allocation, which
 
 We follow the following steps:
 1. The element size on the boundary is set manually: in 3DSlicer we use "Surface Toolbox" under "Surface Models" to increase the size of boundary elements in the .vtk file (change the Number of points in Uniform remesh) and save the .vtk file.
-2. We create and save a basic geo file to generate volume out of the .vtk file as below: 
+2. We create and save a basic geo file to generate volume out of the .vtk file as below:
 ```
 Merge "Model.vtk";
 //+
@@ -86,10 +86,10 @@ Volume(1) = {1};
 `gmsh $geo_file -3 -optimize -format msh2`
 4. For calculating average BMD, we use the concept of shape functions to find which voxels belong to an element, and then we average among the values greater than 0. To do this, first, in 3D Slicer, we find the coordinates of voxels and the HU values. Then, for each element, a voxel will belong to the element if the summation of 4 shape functions at the voxel's location equals 1. For linear tetrahedrons, the shape function of each vortex is the volume of the tetrahedron made with three other vertices and the point. The below figure, for example, shows these volumes for an arbitrary point inside the element.
 
-    ![Picture1](https://github.com/NA-MIC/ProjectWeek/assets/49168951/47d36e51-a130-4d2a-b25c-3283d44979da)   
+    ![Picture1](https://github.com/NA-MIC/ProjectWeek/assets/49168951/47d36e51-a130-4d2a-b25c-3283d44979da)
     - We are eager to use any other approach for better numerical efficiency.
-    - In this approach, each voxel is assessed based on the coordinates of its center. Is there any possibility that one can calculate partial inclusions of voxels in the element? This approach will give us the capability of going to the smaller resolutions. 
- 
+    - In this approach, each voxel is assessed based on the coordinates of its center. Is there any possibility that one can calculate partial inclusions of voxels in the element? This approach will give us the capability of going to the smaller resolutions.
+
 
 
 
@@ -138,7 +138,3 @@ Figure 2: Graphical summary of the intended pipeline..
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-
-
-
-

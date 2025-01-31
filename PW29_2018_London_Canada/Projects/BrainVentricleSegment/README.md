@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 * To divide the brain ventricles into a number of sub-reions and segment them by drawing a number of planes based on the known anatomical structures in the brain
 
 ## Objective
-1. Segmentation of the brain lateral ventricles. 
+1. Segmentation of the brain lateral ventricles.
 2. Segemenation of the sub-regions within laterla ventricles.
 
 ## Approach and Plan

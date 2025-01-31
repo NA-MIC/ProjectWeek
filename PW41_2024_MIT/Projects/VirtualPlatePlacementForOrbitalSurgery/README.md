@@ -17,7 +17,7 @@ key_investigators:
   affiliation: Queen's University, Canada
 
 - name: Rafael Palomar
-  affiliation: Oslo University Hospital / NTNU, Norway 
+  affiliation: Oslo University Hospital / NTNU, Norway
 
 - name: Braedon Gunn
   affiliation: Texas A&M University School of Dentistry
@@ -75,7 +75,7 @@ I have complied existing methods in Slicer and VTK into one preliminary module [
 
 1. An initial fiducial registration and a refined registration based on only allowing the plate to rotate while pivoting on the posterior stop, an important landmark for place the nail.
 
-**2. Use `VTKCollisionDetector()` and intersect marker to detect collision and mark the intersection** 
+**2. Use `VTKCollisionDetector()` and intersect marker to detect collision and mark the intersection**
 <img width="500" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/447f572c-8fa9-4deb-998d-7b6b469b1802">
 
 **3. Use `Probe Volume with Model ` to paint both the orbit and the plate to mark the overlapping areas.**
@@ -142,4 +142,3 @@ _No response_
 
 The repo for the current module: [surgical_plate_registration](https://github.com/chz31/surgical_plate_registration)
 Other studies using commercial software iPlan from BrainLab, which should still be based on manual adjustment: [Schreur et al. 2017](https://doi.org/10.1371/journal.pone.0150162) and [Schreur et al. 2021](https://doi.org/10.1016/j.cxom.2020.10.003)
-

@@ -9,7 +9,7 @@ Key Investigators
 - William Huang (NYU School of Medicine)
 - Andrey Fedorov (BWH, HMS)
 - Danielle Pace (MIT) (has put together a pipeline for preparing 3d printed models before, happy to share experience)
-- Anneke Meyer (University of Magdeburg, Germany) 
+- Anneke Meyer (University of Magdeburg, Germany)
 
 
 # Project Description
@@ -34,7 +34,7 @@ urethra,and rectal wall.
 
 ## Progress and Next Steps
 
-1. Learned and tested 3D Slicer segmentation tools.  Compared surface cut tool to manual segmentation and grow from seeds.  
+1. Learned and tested 3D Slicer segmentation tools.  Compared surface cut tool to manual segmentation and grow from seeds.
 
 2. Continue to work on workflow for segmentation and printing- discuss with Danielle Pace.
 
@@ -47,5 +47,3 @@ urethra,and rectal wall.
 
 * Wake N, Chandarana H, Huang WC, Taneja SS, Rosenkrantz AB. Application of anatomically accurate, patient-specific 3D printed models from MRI data in urological oncology. Clin Radiol. 2016;71(6):610-4. http://dx.doi.org/10.1016/j.crad.2016.02.012. http://www.clinicalradiologyonline.net/article/S0009-9260(16)00087-8/fulltext
 * Wake N, Rude T, Kang SK, et al. 3D printed renal cancer models derived from MRI data: application in pre-surgical planning. Abdom Radiol (NY). 2017;42(5):1501-9. http://dx.doi.org/10.1007/s00261-016-1022-2. https://link.springer.com/article/10.1007/s00261-016-1022-2
-
-

@@ -39,7 +39,7 @@ MorphoSource (M/S) is a publicly available repository for 3D media representing 
 ## Results
 1. Tested prototype design
 
-2. Identified an issue with the unpackaging of zip files that contains image sequence: When importing into Slicer, each image in the sequence is treated as an individual file. This can be changed using the load options, but getting to this step is very slow when the number of files is large. 
+2. Identified an issue with the unpackaging of zip files that contains image sequence: When importing into Slicer, each image in the sequence is treated as an individual file. This can be changed using the load options, but getting to this step is very slow when the number of files is large.
 
 3. Next steps: Resolve zip file import issue and refine display of metadata.
 

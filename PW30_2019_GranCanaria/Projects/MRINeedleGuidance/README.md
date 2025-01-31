@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-MRI guided devices have been designed for biopsies or other interventions. 
+MRI guided devices have been designed for biopsies or other interventions.
 The aim is to adapt Slicer for MR-guided needle placement procedures using MRI compatible robots.
 
 ## Objective
@@ -78,4 +78,3 @@ Development of a shoulder-mounted robot for MRI-guided needle placement
 + [SlicerIGT](http://www.slicerigt.org/wp/)
 + [OpenIGTLink](http://openigtlink.org/)
 + [SlicerDevelopmentToolbox](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/SlicerDevelopmentToolbox), and [Documentation](https://sdt.readthedocs.io/en/latest/index.html)
-

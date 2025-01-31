@@ -18,7 +18,7 @@ To receive information about this and future events please join the [Project Wee
 
 - **Dates:** June 25-29, 2018.
 - **Location:**
-  - Hosted by: [Universidad de Las Palmas de Gran Canaria](https://www.google.com/maps/place/University+of+Las+Palmas+de+Gran+Canaria/@28.0990225,-16.5409312,8z/data=!4m5!3m4!1s0xc409514173e77eb:0xbda0edfa5e221aaa!8m2!3d28.0990178!4d-15.4203257)  
+  - Hosted by: [Universidad de Las Palmas de Gran Canaria](https://www.google.com/maps/place/University+of+Las+Palmas+de+Gran+Canaria/@28.0990225,-16.5409312,8z/data=!4m5!3m4!1s0xc409514173e77eb:0xbda0edfa5e221aaa!8m2!3d28.0990178!4d-15.4203257)
   - [3D View/Map of venue location](https://bit.ly/2Hkm6Mi)
 - **REGISTRATION:** [Register here](https://www.fulp.es/na-mic-summer-event-2018). Registration Fee: €300.
 - **Hotel:** [Marriott Iberia](http://achotels.marriott.com/hotels/ac-hotel-iberia-las-palmas), [Parque](http://hotelparqueenlaspalmas.com/en/). Deadline to book at preferential rates is March 30, 2018.
@@ -28,11 +28,11 @@ To receive information about this and future events please join the [Project Wee
   - Taxi (line at the airport)
   - [Bus -line 60-](https://www.guaguasglobal.com/en/lineas-horarios/linea/)
     - [Airport-San Telmo bus station](https://www.google.es/maps/dir/Aeropuerto+de+Gran+Canaria,+Autopista+GC-1,+s%2Fn,+35230,+Las+Palmas/Estacion+De+Guaguas+SAN+TELMO,+Av.+Rafael+Cabrera,+30,+35002+Las+Palmas+de+Gran+Canaria,+Las+Palmas/@28.0183155,-15.5470931,11z/data=!4m17!4m16!1m5!1m1!1s0xc40a266c3662d1d:0x824bcf7e159f85d4!2m2!1d-15.3877066!2d27.9331848!1m5!1m1!1s0xc4095850670520b:0x5eef5b2e4c79e9e3!2m2!1d-15.415777!2d28.1092527!2m2!7e2!8j1529431200!3e3)
-    - [Paths-distances: San Telmo bus station - Hotels](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW28_2018_GranCanaria/Station-Hotels.png) 
-        
+    - [Paths-distances: San Telmo bus station - Hotels](https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW28_2018_GranCanaria/Station-Hotels.png)
+
 
 ## Local Organizing Committee
- 
+
 - Host: Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies at [Universidad de Las Palmas de Gran Canaria](http://www.ulpgc.es), Director of Medical and Audiovisual Technology Group (GTMA for Grupo de Tecnología Médica y Audiovisual), Research Institute in Biomedical and Health Sciences (IUIBS for Instituto Universitario de Investigación Biomédica y Sanitaria), Research Affiliate at the Canary Islands Instiute of Astrophysics.
 
 - Email Local Organzing Committee: [Juan Ruiz Alzola](mailto:juan.ruiz@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Maria Dolores Afonso Suarez](mailto:marilola.afonso@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28), [Asmaa Skareb](mailto:asmaa.skareb@ulpgc.es?cc=tkapur@bwh.harvard.edu&subject=ProjectWeek28)
@@ -40,7 +40,7 @@ To receive information about this and future events please join the [Project Wee
 
 - [Information about the Venue](https://medtec4susdev.github.io/ProjectDemoProgressing/)
 
-## **VENUE LOCATION** 
+## **VENUE LOCATION**
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)    [3D View/Map of venue location 25th June](https://www.google.com/maps/place/AC+Hotel+Iberia+Las+Palmas/@28.1112024,-15.4139154,240a,35y,279.49h,55.22t/data=!3m1!1e3!4m7!3m6!1s0x0:0xd874c662b7a1c59a!5m1!1s2018-06-30!8m2!3d28.1120498!4d-15.4172581)
 
@@ -48,7 +48,7 @@ To receive information about this and future events please join the [Project Wee
 
 ## INFOPACK
 
-- [Infopack](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Infopack%20-%20NAMIC%20SUMMER%20EVENT%202018.pdf)  
+- [Infopack](https://github.com/NA-MIC/ProjectWeek/blob/master/PW28_2018_GranCanaria/Infopack%20-%20NAMIC%20SUMMER%20EVENT%202018.pdf)
 
 ## Frequently Asked Questions
 
@@ -63,7 +63,7 @@ To receive information about this and future events please join the [Project Wee
 
 ## Preparatory Videoconferences
 
-- Zoom video conference: To join the videoconference, click [here](https://zoom.us/j/920891732) on Tuesdays, 10am Boston time, starting April 24, 2018 
+- Zoom video conference: To join the videoconference, click [here](https://zoom.us/j/920891732) on Tuesdays, 10am Boston time, starting April 24, 2018
 - Conference call notes: To access these, click [here](PreparatoryMeetingsNotes.md).
 
 ## Program
@@ -86,7 +86,7 @@ Visualization and Interoperability
 1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Simon Drouin, Csaba Pinter, Andras Lasso, Ole Vegard Solberg, Geir Arne Tangen)
 1. [Add 3D views linking capabilities](Projects/3DViewsLinking/README.md) (Davide Punzo, Andras Lasso, Steve Pieper, Jean-Christophe Fillion-Robin, Simon Drouin)
 1. [DICOMweb related projects: OHIFViewer, Siemens teamplay, ctkDICOMweb, using secure DICOMweb](Projects/DICOMweb/README.md) (Michael Kelm, Steve Pieper, Erik Ziegler, Marco Nolden, Jonas Scherer, Tina Kapur)
-1. [Raw Image Read and Display](Projects/RawImageGuess/README.md) (Attila Nagy, Csaba Pinter) 
+1. [Raw Image Read and Display](Projects/RawImageGuess/README.md) (Attila Nagy, Csaba Pinter)
 1. [Improve/Test multivolume preclinical MRI data import (DCE, DTI, ASL, T1 mapping](Projects/PreclinicalDataImport/README.md) (Sharon Peled, Andras Lasso, Lauren O'Donnell)
 1. [Conversion of Matlab Bridge modules to integrated 3DSlicer modules](Projects/MatlabToPython/README.md) (Sharon Peled, Andras Lasso)
 
@@ -129,7 +129,7 @@ Do not add your name to this list - it is maintained by the organizers based on 
 
 1. Sharon Peled, (@speled)(speled@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Davide Punzo, (@punzo)(punzodavide@hotmail.it) - Kapteyn Astronomical Institute, University of Groningen - Netherlands
-1. Csaba Pinter, (@cpinter)(csaba.pinter@queensu.ca) - Queen’s University - Canada 
+1. Csaba Pinter, (@cpinter)(csaba.pinter@queensu.ca) - Queen’s University - Canada
 1. Filip Szczepankiewicz, (filip.szczepankiewicz@gmail.com) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Tina Kapur, (@tkapur)(tkapur@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Mohamed El Moctar Septy (@msepty)(moksepty@yahoo.fr) - Faculté de Médecine, Université de Nouakchott Al Aasriya - Mauritania
@@ -138,7 +138,7 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Joseane Alexandre Da Rosa de Pina Ferreira (joseane.ferreira@han.gov.cv) - Hospital Agostinho Neto de Praia - Cabo Verde
 1. Artemisa Mendes Moreno (artemisa.moreno@docente.unicv.edu.cv) - Faculdade de Ciências e Tecnologia, Universidade de Cabo Verde - Cabo Verde
 1. Cheikh Tidiane Diop (chtdiop81@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal
-1. Oumar Kane (droumarkane@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal 
+1. Oumar Kane (droumarkane@gmail.com) - Centre Hospitalier National Fann Dakar - Senegal
 1. Babacar Diao (babacardiao104uro@yahoo.fr) - Ecole Militaire de Santé Dakar - Senegal
 1. Juan Ruiz Alzola (@jruizalz)(juan.ruiz@ulpgc.es) - University of Las Palmas de Gran Canaria / Instituto de Astrofísica de Canarias - Spain
 1. Jose Carlos Ruiz Luque (carlos.luque@ulpgc.es) - University of Las Palmas de Gran Canaria - Spain
@@ -167,15 +167,15 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Yolanda Martín Hernando (yolanda.martin@iac.es) - Instituto de Astrofísica de Canarias - Spain
 1. Enrique Villa Benito (evilla@iac.es) - Instituto de Astrofísica de Canarias - Spain
 1. Natalia Arteaga Marrero (narteaga@iac.es) - Instituto de Astrofísica de Canarias - Spain
-1. Michael Halle (@mhalle)(mhalle@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA 
+1. Michael Halle (@mhalle)(mhalle@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Yuri Ameida (yuri.almeida@m-iti.org) Madeira Madeira Interactive Technologies Institute - Portugal
 1. Marco Nolden (M.Nolden@Dkfz-Heidelberg.de) - German Cancer Research Center (DKFZ) - Germany
-1. Carl-Fredrik Westin (westin@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA 
+1. Carl-Fredrik Westin (westin@bwh.harvard.edu) - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Marko Rak (rak@isg.cs.ovgu.de) - University of Magdeburg - Germany
 1. Andrei Irimia (irimia@usc.edu) - University of Southern California - USA
 1. Anneke Meyer (anneke@isg.cs.uni-magdeburg.de) - University of Magdeburg - Germany
 1. Tina Vajsbaher (tina.vajsbaher@gmail.com) - University of Bremen - Germany
-1. Gino Gulamhussene (gino@isg.cs.ovgu.de) - Institute for Simulation and Graphics OvGU University Magdeburg - Germany 
+1. Gino Gulamhussene (gino@isg.cs.ovgu.de) - Institute for Simulation and Graphics OvGU University Magdeburg - Germany
 1. Sara Fernández Vidal (sara.fdezvidal@gmail.com) - ICM Institute - France
 1. Eric Bardinet (eric.bardinet@upmc.fr) - ICM Institute - France
 1. José Luis González-Mora (jlgonzal@ull.edu.es) - University of La Laguna - Spain
@@ -183,7 +183,7 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Donato Monopoli (dmonopoli@itccanarias.org) - Intituto Tecnológico de Canarias - Spain
 1. Javier González Fernández (jgonzalez@itccanarias.org) - Intituto Tecnológico de Canarias - Spain
 1. Michael Kelm (michael.kelm@siemens-healthineers.com) - Siemens Healthcare GmbH - Germany
-1. William Wells (sw@bwh.harvard.edu)  - Brigham and Women's Hospital and Harvard Medical School - USA 
+1. William Wells (sw@bwh.harvard.edu)  - Brigham and Women's Hospital and Harvard Medical School - USA
 1. Jonas Scherer (jonas.scherer@dkfz.de) - German Cancer Research Center (DKFZ) - Germany
 
 ## Statistics

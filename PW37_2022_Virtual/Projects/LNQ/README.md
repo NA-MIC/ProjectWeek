@@ -14,7 +14,7 @@ In this project we aim to investigate and build a MONAI Label APP to interactive
 
 ## Objective
 
-To create an end-to-end pipeline for interactive AI-assisted lymph node annotation using MONAI Label and 3D Slicer. 
+To create an end-to-end pipeline for interactive AI-assisted lymph node annotation using MONAI Label and 3D Slicer.
 
 ## Approach and Plan
 

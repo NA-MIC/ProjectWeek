@@ -10,11 +10,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Endre Vecsernyés (University of Szeged)
 - Andras Lasso (Queen’s University, Canada)
 - Jean-Christophe Fillion-Robin (Kitware Inc.)
- 
+
 # Project Description
 
-We want to do some airflow simulations in a finite element software but we didn't managed to import the 3D upper airway models which we made in the Slicer. 
- 
+We want to do some airflow simulations in a finite element software but we didn't managed to import the 3D upper airway models which we made in the Slicer.
+
 <!-- Add a short paragraph describing the project. -->
 
 ## Objective

@@ -11,15 +11,15 @@ Back to [Project Week](../../README.md)
 # Breakout Description
 
 <!-- Add a short paragraph describing the breakout and intended results. -->
-The goal of the project is to develop and disseminate state-of-the-art, high-resolution full brain anatomical atlases, based on the manual parcellation of 200 MRI images provided by the Human Connectome Project. 
-This atlas will be made compatible with anatomical nomenclature, easily portable to the majority of neuroscience tools and software platforms, and editable, so other experts can contribute their anatomical knowledge to the tool. 
+The goal of the project is to develop and disseminate state-of-the-art, high-resolution full brain anatomical atlases, based on the manual parcellation of 200 MRI images provided by the Human Connectome Project.
+This atlas will be made compatible with anatomical nomenclature, easily portable to the majority of neuroscience tools and software platforms, and editable, so other experts can contribute their anatomical knowledge to the tool.
 
 ## Agenda
 
 <!-- Describe topics and schedule. -->
 
 - 9:00-9:10 – Sylvain Bouix – Welcome – Status Update
-- 9:10-9:30 – Nikos Makris – Anatomical Brain Mapping 
+- 9:10-9:30 – Nikos Makris – Anatomical Brain Mapping
 - 9:30-9:50 – Jarrett Rushmore – Harvard Oxford Atlas in Human and Macaque
 - 9:50-10:15 - Discussion
 - 10:15-10:30 - Break

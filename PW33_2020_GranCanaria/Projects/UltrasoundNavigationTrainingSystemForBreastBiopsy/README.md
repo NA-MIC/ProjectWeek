@@ -36,7 +36,7 @@ We aiming at developing an affordable ultrasound navigation system for breast bi
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 <!-- Describe specific steps you **have actually done**. -->
-1. A tailor-made coarse approach to breast phantom using agar-agar gelatine was created. Its costs is below 8 USD and it is usable at room temperature for more than one week, time enough to complete an introductory course in this procedure. We also tested some common materials, available at home or in grocery stores, to mimic mammary tumors 
+1. A tailor-made coarse approach to breast phantom using agar-agar gelatine was created. Its costs is below 8 USD and it is usable at room temperature for more than one week, time enough to complete an introductory course in this procedure. We also tested some common materials, available at home or in grocery stores, to mimic mammary tumors
 1. The setup of the navigation system connecting both, ultrasound and tracking system to Slicer via PLUS Server has been completed.
 1. Customization of the user interface developed for the previous work on vessel insertion was considered good enough and therefore no change was needed.
 
@@ -48,15 +48,15 @@ We aiming at developing an affordable ultrasound navigation system for breast bi
 ![Phantom](breastPhantom.png)
 Custom breast phantom.
 <br/>
-<br/>  
+<br/>
 ![Tracking](positionTracking.jpg)
 OptiTrack V120:Duo position tracking system.
 <br/>
-<br/>  
+<br/>
 ![System](systemAndPhantoms.jpg)
 US Nav system. Test of position-tracking of tools and phantom ecogenicity.
 <br/>
-<br/>  
+<br/>
 ![detail](interfaceDetail.png)
 Detail of the user interface.
 

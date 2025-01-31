@@ -10,11 +10,11 @@ key_investigators:
 - name: Sonia Pujol
   affiliation: Brigham and Women's Hospital, Harvard Medical School
   country: USA
-  
+
 - name: Luiz Murta
   affiliation: Universidade de São Paulo
   country: Brazil
-  
+
 - name: Douglas Samuel Gonçalves
   affiliation: Universidade de São Paulo
   country: Brazil
@@ -22,7 +22,7 @@ key_investigators:
 - name: Lucas Sanchez Silva
   affiliation: Universidade de São Paulo
   country: Brazil
-  
+
 - name: Paulo Eduardo de Barros Veiga
   affiliation: Universidade de São Paulo
   country: Brazil
@@ -34,7 +34,7 @@ key_investigators:
 - name: Mirela Teixeira Cazzolato
   affiliation: Universidade de São Paulo
   country: Brazil
-  
+
 - name: Adriana Herlinda Vilchis González
   affiliation: Universida Autónoma del Estado de México
   country: Mexico
@@ -103,7 +103,7 @@ The project aims to empower the biomedical research community in Latin America b
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Fix core-related issues
-   
+
 | Old | New |
 | --- | --- |
 | ![image](https://github.com/user-attachments/assets/61f238dc-0352-403d-b909-ca03591524f0) | ![one](https://github.com/user-attachments/assets/d56da455-7fc8-46b5-afc5-7a591edd15d6) |
@@ -135,14 +135,14 @@ The project aims to empower the biomedical research community in Latin America b
 ![image](https://github.com/user-attachments/assets/f5bf233f-5b60-4c22-bef0-560afd150a9e)
 ![image](https://github.com/user-attachments/assets/8e073f1a-2d8c-4de5-9a63-1c05600610e9)
 
-5. Tutorials manually translated 
+5. Tutorials manually translated
 
 | Slicer Developer Tutorial: Programming in Slicer. S. Pujol, S. Pieper | Segmentation for 3D printing. A. Nagy, C. Pintér |
 | --- | --- |
 | [Portuguese](https://slicerlatinamerica.github.io/media/Tutorials/Slicer5_Programando%20no%20Slicer_SPujol-SPieper.pdf) |  [Portuguese](https://slicerlatinamerica.github.io/media/Tutorials/Segmentation3DPrinting-ANagy-CPinter_pt-BR.pdf) |
 | [Spanish](https://slicerlatinamerica.github.io/media/Tutorials/Slicer5_ProgrammingTutorial_es-419.pdf) | [Spanish](https://slicerlatinamerica.github.io/media/Tutorials/SegmentationFor3DPrinting_es.pdf) |
 
-# Nexts Steps 
+# Nexts Steps
 
 1. Merge all the work that was created during the PW
 2. Discuss and define what will be generated to the repositories

@@ -13,8 +13,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Transcranial magnetic stimulation is a nonivasive procedure used for treating depression with magnetic and electric fields to stimulate nerve cells. 
-A TMS coil is slowly moved over the subject's head suface to target certain areas in the brain. 
+Transcranial magnetic stimulation is a nonivasive procedure used for treating depression with magnetic and electric fields to stimulate nerve cells.
+A TMS coil is slowly moved over the subject's head suface to target certain areas in the brain.
 Our project aims to develop a deep-learning powered software for real-time E-Field prediction and a visualization of TMS within 3D Slicer.
 
 ## Objective
@@ -49,7 +49,7 @@ Real-time visualization of an electric field (E-field) for transcranial magnetic
 
 #### Started WebSocket Tests: we can interact with the red, green and yellow slices with the new websocket connection:
 
-<img src="./websocket_demo.png" width="350"> <img src="./websocket_demo_063022.png" width="350"> 
+<img src="./websocket_demo.png" width="350"> <img src="./websocket_demo_063022.png" width="350">
 
 #### So far, we tested some simple Javascript Face-Tracking via mobile Phone and redered the brain:
 
@@ -65,13 +65,13 @@ This project is related to: ../SlicerTMS_E-field
 
 Phones need a Depth sensor to run AR/VR. A list of supported devices can be found here: https://developers.google.com/ar/devices
 
-On an Android Phone via USB: 
+On an Android Phone via USB:
 - PlayStore: Download Google VR Services and Google AR Services App
 - Update Chrome/Camera apps etc.
 - On the phone: Enable Developer tools (https://developer.android.com/studio/debug/dev-options) and USB debugging (description here: https://developer.chrome.com/docs/devtools/remote-debugging/)
 - Run chrome://inspect#devices in the browser on your computer and it should detect USB connected devices
 
-For iPhone: 
+For iPhone:
 - Mozilla offers a WebXR Emulator that can be downloaded from the Apple Store for any iPhone and iPad: https://labs.mozilla.org/projects/webxr-viewer/
 
 ## For Slicer TMS Module (see previous project week [PW 36](https://github.com/NA-MIC/ProjectWeek/blob/master/PW36_2022_Virtual/Projects/SlicerTMS_Module/README.md)):

@@ -18,11 +18,11 @@ key_investigators:
 - name: Andras Lasso
   affiliation: Queen's University
   country: Canada
-  
+
 - name: Bill Clifford
   affiliation: Institute for Systems Biology
   country: USA
-  
+
 ---
 
 # Project Description

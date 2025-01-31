@@ -3,7 +3,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Wrist Kinematics from 4D CT
 
 ## Key Investigators
-- Puneet Kaur Ranota (Western University) 
+- Puneet Kaur Ranota (Western University)
 - Adam Rankin
 - Andras Lasso (PerkLab, Queen's)
 

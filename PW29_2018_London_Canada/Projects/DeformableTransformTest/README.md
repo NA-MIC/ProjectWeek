@@ -45,4 +45,3 @@ We have noticed in one application that registration using deformable transforms
 
 - Source code: https://github.com/ungi/DeformablePerformanceTest
 - [Test data (skull model)](https://1drv.ms/u/s!AhiABcbe1DBygplqTSr_rYWPhdOQeQ)
-

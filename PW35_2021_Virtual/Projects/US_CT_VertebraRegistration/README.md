@@ -9,7 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-This project aims at evaluating the feasibility of percutaneous US to CT image registration, on a porcine dataset, for minimally invasive spine surgery. 
+This project aims at evaluating the feasibility of percutaneous US to CT image registration, on a porcine dataset, for minimally invasive spine surgery.
 The goal is to combine the registration method for _open_ surgery implemented in IBIS with the segmentation/bone enhancement method in AIGT.
 
 ## Objective

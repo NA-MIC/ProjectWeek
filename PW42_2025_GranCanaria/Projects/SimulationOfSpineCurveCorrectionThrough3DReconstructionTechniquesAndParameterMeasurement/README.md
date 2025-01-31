@@ -41,7 +41,7 @@ Using 3D Slicer as a tool for modeling and parameter measurement, we aim to appl
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Obtain DRR projections from CT scans for the obtention of paired training data 
+1. Obtain DRR projections from CT scans for the obtention of paired training data
 2. Obtain precision measurmets for the 3D reconstructions (specially focused on the pedicle region)
 3. Automatize landmark indentification on the 2D image  for the Cobbs angle measurment and study the correlation with the reconstructed vertebrae curvature
 
@@ -64,9 +64,9 @@ We would like to generate a slicer extension that allows us to visualize and stu
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
-     
+
 1. Generate a custom layout for the joint visualization of:
-   
+
       a. Lateral XRay plus sagittal CT slices
 
       ![image](https://github.com/user-attachments/assets/4a94d739-baae-4e0f-b2ef-08d231fd27b4)
@@ -75,7 +75,7 @@ We would like to generate a slicer extension that allows us to visualize and stu
       b. AP XRay plus coronal CT slices
       ![image](https://github.com/user-attachments/assets/ec6dc6aa-eb9f-4d86-a75d-cb8a06fb59c1)
 
-  
+
 2. Automatically compute the landmarks for each vertebral segmentation
 
   ![image](https://github.com/user-attachments/assets/ca8b7702-8cd1-4ed8-b6ce-a505e49333ab)
@@ -115,4 +115,3 @@ Next steps:
 
 
 _No response_
-

@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Babacar Diao (Ecole Militaire de Santé Dakar - Senegal)
-- Michael Halle (Brigham and Women's Hospital) 
+- Michael Halle (Brigham and Women's Hospital)
 - Nayra Pumar (ULPGC – GTMA-IUIBS - MACbioIDi)
 - Juan Ruiz-Alzola (ULPGC - GTMA-IUIBS - MACbioIDi)
 
@@ -42,7 +42,7 @@ This project focuses on the development of an anatomical atlas of the abdomen an
 <img src="abdomen.png" width="700">
 Final version of the segmentation
 
-<img src="idiomas.png" width="700"> 
+<img src="idiomas.png" width="700">
 Language trasnlation and TA termn
 
 ## Background and References

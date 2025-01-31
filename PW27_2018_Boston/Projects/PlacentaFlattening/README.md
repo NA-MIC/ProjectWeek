@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Polina Golland (MIT)
 
 # Project Description
-The project seeks to flattened images of the placenta for visualization. Segemented placenta are mapped to a canonical template such as an ellipsoid for visualization of anatomy and function. 
+The project seeks to flattened images of the placenta for visualization. Segemented placenta are mapped to a canonical template such as an ellipsoid for visualization of anatomy and function.
 We aim to build a module in Slicer to establish correspondence between the original volume and the flattened one.
 ## Objective
 
@@ -27,7 +27,7 @@ We aim to build a module in Slicer to establish correspondence between the origi
 - Identified bugs in the transformation, it seems there is an inherent rotation that Slicer is unaware of so the field does not apply correctly.
 
 Next Steps:
-- Rotation on simple test cases 
+- Rotation on simple test cases
 - Rotation on transformed volumes
 - Develop visualization module
 

@@ -11,8 +11,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!-- Add a short paragraph describing the project. -->
 With this project, we would like to add a new feature to Slicer.
 The goal of this project is to extract code from an opensource software for image-based neurosurgery guidance: IBIS Neuronav.
-This code in C++ aims to perform registration between different images using the GPU. It is located in an IBIS Neuronav 
-plugin. Then, it will be implemented in Slicer to be available for all users. 
+This code in C++ aims to perform registration between different images using the GPU. It is located in an IBIS Neuronav
+plugin. Then, it will be implemented in Slicer to be available for all users.
 The objective of the second project is to recover another functionality in the same way: the conversion of a minc file into mha ([SequenceIO](https://github.com/IbisNeuronav/Ibis/tree/master/IbisPlugins/SequenceIO)).
 
 ## Long-term Objective
@@ -21,7 +21,7 @@ The objective of the second project is to recover another functionality in the s
 3. Create a Slicer module that replicates the functionality of Ibis using the independent library (TODO)
 
 2nd project (New)
-1. Extract the converter minc/mha (SequenceIO) code from IBIS Neuronav to an independent library 
+1. Extract the converter minc/mha (SequenceIO) code from IBIS Neuronav to an independent library
 2. Create a standalone command-line application to convert
 3. Create a Slicer module that replicates the functionality of Ibis using the independent library
 
@@ -43,7 +43,7 @@ The objective of the second project is to recover another functionality in the s
 3. Implementation of the solution in slicer. (Next Step)
 
  The second project
-1. Extract the converter minc/mha (SequenceIO) code from IBIS Neuronav to an independent library (in progress) [here](https://github.com/rggelel/SequenceIo) 
+1. Extract the converter minc/mha (SequenceIO) code from IBIS Neuronav to an independent library (in progress) [here](https://github.com/rggelel/SequenceIo)
 2. Make modifications for Ibis neuronav uses this library to avoid code duplication. (Next step)
 3. Implementation of the solution in slicer. (Next Step)
 

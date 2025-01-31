@@ -21,7 +21,7 @@ Link to the [Plugin](https://github.com/AIM-Harvard/SlicerMHubRunner/tree/docs).
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Discover how to run models in Slicer securely, conflict-free, and platform-independent. 
+1. Objective A. Discover how to run models in Slicer securely, conflict-free, and platform-independent.
 2. Objective B. Validate and customise our definitions of a generic I/O framework.
 3. Objective C. Document pros and cons of docker vs native python integration of the model, support with experimental results. Concerns re Docker communicated earlier:
   * Docker may be challenging to install and setup (org constraints, permissions, expertise)
@@ -55,5 +55,5 @@ Link to the [Plugin](https://github.com/AIM-Harvard/SlicerMHubRunner/tree/docs).
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
- 
+
 <img src="https://github.com/AIM-Harvard/SlicerMHubRunner/blob/main/MRunner/Resources/Icons/PluginOverview.png?raw=true" alt="Plugin Module Overview" width="670"/>

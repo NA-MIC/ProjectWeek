@@ -3,7 +3,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## 3D Slicer on ARM64 (with GPU support!)
 
 ## Key Investigators
-- Adam Rankin (Robarts Research Institute) 
+- Adam Rankin (Robarts Research Institute)
 
 # Project Description
 Compile and run Slicer on a [NanoPC-T4 SBC](http://wiki.friendlyarm.com/wiki/index.php/NanoPC-T4) with OpenGL ES support compiled and working.

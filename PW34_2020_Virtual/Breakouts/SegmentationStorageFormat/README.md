@@ -15,7 +15,7 @@ In this breakout session we try to come up with a consensus on how to best store
 1. Ron Kikinis (BWH)
 1. Theodore Aptekarev
 1. Mehran Azimbagirad
-1. Sam Horvath (Kitware) 
+1. Sam Horvath (Kitware)
 1. add your name here
 
 ## Current State
@@ -39,7 +39,7 @@ In this breakout session we try to come up with a consensus on how to best store
 ### Commonly used formats for annotation (markups - points, lines, curves, ...)
 
 - Slicer fcsv: good for problem-specific export, not well suited as archival format
-- Slicer markups json (https://github.com/Slicer/Slicer/blob/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.0.json) 
+- Slicer markups json (https://github.com/Slicer/Slicer/blob/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.0.json)
 - DICOM SR: limited and complicated, but standard
 - AIM: did not really take off, a new json format is being created
 - MetaIO:
@@ -69,10 +69,10 @@ In this breakout session we try to come up with a consensus on how to best store
 - Label JSON compatible with or using the [OME-NGFF "image-label" metadata](https://ngff.openmicroscopy.org/latest/#label-md)
 - NRRD replacement modeled after glTF
 - Use glTF and create a standard extension, see [TRAKO](https://github.com/bostongfx/trako) as an example. Why?
-  - NRRD taught us many things, but in 2020 we don’t need ad-hoc parsing. We have JSON. 
+  - NRRD taught us many things, but in 2020 we don’t need ad-hoc parsing. We have JSON.
   - Even if you have a robust parser for NRRD, extra key values need to be parsed manually.
-  - NRRD was designed to be w2not just human readable, but human writable. It permits all sorts of duplicate fields and values (signed long long int vs int64_t.  Really?  Keys with optional spaces in them?  Really?  “centers” and “centerings” as synonyms?  Really?). 
-  - It most likely isn’t UTF-8 compliant, so it can’t be internationalized. That’s important for segmentation labels from other languages. 
+  - NRRD was designed to be w2not just human readable, but human writable. It permits all sorts of duplicate fields and values (signed long long int vs int64_t.  Really?  Keys with optional spaces in them?  Really?  “centers” and “centerings” as synonyms?  Really?).
+  - It most likely isn’t UTF-8 compliant, so it can’t be internationalized. That’s important for segmentation labels from other languages.
   - It has corner cases in parsing. For example, if a field value has a space in front of it, it will get eaten.
   - It has extensibility, but it is limited.
   - NRRD is a little tricky to parse efficiently in JavaScript because there’s no guarantee that the image data is aligned to the data type.  For instance, floats might not be on a four byte boundary. This may lead to unnecessary copying of potentially large datasets.
@@ -115,7 +115,7 @@ Segment1_Tags:=Segmentation.Status:inprogress|TerminologyEntry:Segmentation cate
 Segmentation_ContainedRepresentationNames:=Binary labelmap|Closed surface|
 Segmentation_ConversionParameters:=Collapse labelmaps|1|Merge the labelmaps into as few shared labelmaps as possible 1 = created labelmaps will be shared if possible without overwriting each other.&Compute surface normals|1|Compute surface normals. 1 (default) = surface normals are computed. 0 = surface normals are not computed (slightly faster but produces less smooth surface display).&Crop to reference image geometry|0|Crop the model to the extent of reference geometry. 0 (default) = created labelmap will contain the entire model. 1 = created labelmap extent will be within reference image extent.&Decimation factor|0.0|Desired reduction in the total number of polygons. Range: 0.0 (no decimation) to 1.0 (as much simplification as possible). Value of 0.8 typically reduces data set size by 80% without losing too much details.&Fractional labelmap oversampling factor|1|Determines the oversampling of the reference image geometry. All segments are oversampled with the same value (value of 1 means no oversampling).&Joint smoothing|0|Perform joint smoothing.&Oversampling factor|1|Determines the oversampling of the reference image geometry. If it's a number, then all segments are oversampled with the same value (value of 1 means no oversampling). If it has the value "A", then automatic oversampling is calculated.&Reference image geometry|-0.9375000000000001;0;0;119.53100000000003;0;-0.9375000000000001;0;119.53099999999999;0;0;1.4000000000000001;-77.7;0;0;0;1;0;255;0;255;0;111;|Image geometry description string determining the geometry of the labelmap that is created in course of conversion. Can be copied from a volume, using the button.&Smoothing factor|0.2|Smoothing factor. Range: 0.0 (no smoothing) to 1.0 (strong smoothing).&Threshold fraction|0.5|Determines the threshold that the closed surface is created at as a fractional value between 0 and 1.&
 Segmentation_MasterRepresentation:=Binary labelmap
-Segmentation_ReferenceImageExtentOffset:=0 0 0 
+Segmentation_ReferenceImageExtentOffset:=0 0 0
 </pre>
 
 ### NGFF image-label example:

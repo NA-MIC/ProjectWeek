@@ -52,7 +52,7 @@ _Copied from [Slicer 5](../../Breakouts/Slicer5/README.md) breakout session page
 * Extract list of all contributors and ask on discourse which emails is preferred
 * Mantis:
   * Create redirect from mantisarchive.slicer.org/view.php?id=4681 to https://issues.slicer.org/view.php?id=4681
-  
+
 Post-release Action items:
 * Mantis:
   * Create static website with archived mantis issues

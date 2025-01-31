@@ -15,7 +15,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 About 1-2 in every 1000 babies are born with what's called clubfoot, the most common skeletal deformity in children.
 
 Clubfoot is well treated using a plaster casting method developed in the 1960s, but there is a potential to use
-3D scanning and printing techniques to make the process more efficient and cost-effective.  Also easier activities of 
+3D scanning and printing techniques to make the process more efficient and cost-effective.  Also easier activities of
 daily living for families with plastic instead of plaster casts.
 
 <!-- Add a short paragraph describing the project. -->
@@ -39,7 +39,7 @@ daily living for families with plastic instead of plaster casts.
 1. 3D printing the deformed clubfoot model
 1. Repeating the process until printing the normal cast
 
-![Approach](Approach.png) 
+![Approach](Approach.png)
 
 ## Progress and Next Steps
 
@@ -51,7 +51,7 @@ daily living for families with plastic instead of plaster casts.
   - Ideas:
     - Using off the shelf 3D scanners
       - Currently we are using this approach but the result is not good
-    - Molding the foot and CT scan the mold 
+    - Molding the foot and CT scan the mold
     - Using motion capture cameras/techniques
     - Using a parametrized generic 3D model (No need to scan)
 
@@ -68,7 +68,7 @@ daily living for families with plastic instead of plaster casts.
 |--------|------|
 | <img src="Before.png" alt="Before" width="400"/> | <img src="After.png" alt="After" width="400"/> |
 
-- **3D Print** 
+- **3D Print**
   - Cost Effectiveness
   - Easy to apply/clean/remove
 
@@ -83,8 +83,8 @@ daily living for families with plastic instead of plaster casts.
 # Files
 
 3D Models:
-- [Stage 0](Models/stage0.vtk) 
-- [Stage 3](Models/stage3.vtk) 
+- [Stage 0](Models/stage0.vtk)
+- [Stage 3](Models/stage3.vtk)
 
 # Background and References
 

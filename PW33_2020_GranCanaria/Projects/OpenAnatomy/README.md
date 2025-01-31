@@ -83,7 +83,7 @@ volumes: [{
 		slicePosition: [r, a, s] // can be null if off
 	}
 }]
-		
+
 annotation: {
 	label: "name of atlas"
 	author: // list, do we have this?

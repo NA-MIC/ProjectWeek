@@ -20,7 +20,7 @@ Having in mind the previous comments two Slicer modules were created:
 
 BoneReconstructionPlanner has been already used in 3 surgeries.
 
-DeformityCorrectionOsteotomyPlanner has achieved virtual surgical planning and patient-specific guides feature is on development. This module will be added to BoneReconstructionPlanner extension when it's ready. 
+DeformityCorrectionOsteotomyPlanner has achieved virtual surgical planning and patient-specific guides feature is on development. This module will be added to BoneReconstructionPlanner extension when it's ready.
 
 ## Objective
 
@@ -36,7 +36,7 @@ DeformityCorrectionOsteotomyPlanner has achieved virtual surgical planning and p
 
 For dental implant planning on BoneReconstructionPlanner:
 1. Make GUI to position/orient the dental implants.
-1. Define transforms from reconstructed-mandible to fibula 
+1. Define transforms from reconstructed-mandible to fibula
 1. Create drill guides on the fibula-surgical-guide using the previously created transforms for position/orientation.
 
 For kirschner wires planning on DeformityCorrectionOsteotomyPlanner:
@@ -99,4 +99,3 @@ For kirschner wires planning on DeformityCorrectionOsteotomyPlanner:
 [BoneReconstructionPlanner project](https://github.com/SlicerIGT/SlicerBoneReconstructionPlanner).
 
 [DeformityCorrectionOsteotomyPlanner project](https://github.com/mauigna06/SlicerDeformityCorrectionOsteotomyPlanner).
-

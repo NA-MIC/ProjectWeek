@@ -56,7 +56,7 @@ We plan to do a demo of the current system, and discuss future plans.
 
 
 ### Tasks:
-- Do a demo of the hardware / software available 
+- Do a demo of the hardware / software available
     - Should be full system with camera
 - Deliver system to team traveling to Dakar
    - Make sure they have the latest NousNav software
@@ -110,4 +110,3 @@ Previous Project Week Pages:
 - [PW 39](https://projectweek.na-mic.org/PW39_2023_Montreal/Projects/NousNavRelease/)
 - [PW 39 Tracked Ultrasound](https://projectweek.na-mic.org/PW39_2023_Montreal/Projects/TrackedUltrasoundIntegrationIntoNousnavALowCostNeuronavigationSystem/)
 - [PW 41 Skin Segmentation](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/SkinSurfaceSegmentationForNousnav/)
-

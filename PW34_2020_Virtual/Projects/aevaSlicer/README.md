@@ -17,5 +17,3 @@ aeva software suite currently consists of
 - aevaSlicer: aevaSlicer will be familiar to users of Slicer. The interface is customized and new features have been added to accommodate a workflow amenable to generation of surface and volume meshes of anatomy from medical images.
 
 - aeva: aeva will be familiar to users of ParaView and Computational Model Builder. The interface is customized and new features have been added to support operations for import and export of anatomical representations and for annotation (template based and freeform, including a powerful set of region selection).
-
-

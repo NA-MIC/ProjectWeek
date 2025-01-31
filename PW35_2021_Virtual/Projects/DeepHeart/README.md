@@ -15,7 +15,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Creation of a MONAILabel app for leaflet segmentation of heart valves in 3D echocardiographic (3DE) images. In particular, we have been developing AI models for segmentation of Tricuspid Valve leaflets in 3DE images of patients with Hypoplastic left heart syndrome (HLHS).  
+Creation of a MONAILabel app for leaflet segmentation of heart valves in 3D echocardiographic (3DE) images. In particular, we have been developing AI models for segmentation of Tricuspid Valve leaflets in 3DE images of patients with Hypoplastic left heart syndrome (HLHS).
 
 <!-- Add a short paragraph describing the project. -->
 
@@ -59,7 +59,7 @@ Creation of a MONAILabel app for leaflet segmentation of heart valves in 3D echo
 
 1. Use MONAI framework for replacing most of our custom code to minimize overhead
 2. Create MONAILabel app based on ported code
-3. Create custom UI for additional user inputs 
+3. Create custom UI for additional user inputs
 
 ## Progress and Next Steps
 

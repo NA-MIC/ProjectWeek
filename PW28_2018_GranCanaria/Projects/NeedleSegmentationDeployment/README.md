@@ -9,7 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Maria Francesca Spadea (Magna Graecia University, Catanzaro, Italy)
 
 ## Participating remotely
-- Guillaume Pernelle 
+- Guillaume Pernelle
 - Alireza Mehrtash
 
 # Project Description

@@ -16,7 +16,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-In many cases, a user will have DICOM P10 files and want to access them for viewing or analysis purposes in AWS.  
+In many cases, a user will have DICOM P10 files and want to access them for viewing or analysis purposes in AWS.
 Today this is typically done by loading these images into an open source DICOM server such as Orthanc or DCM4CHEE and accessed via the included DICOMweb interface.
 While these servers work, a simpler more scalable approach is possible for many access use cases by creating a static HTTP site in S3 with objects that correspond to DICOMweb responses.
 Amazon S3 is a highly scalable, highly available object store that is perfect to build serverless applications, like serving DICOMWeb client requests from MONAILabel.

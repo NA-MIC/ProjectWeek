@@ -1,13 +1,13 @@
 ![PW26](PW26.png)
 ## Welcome to the web page for the 26th Project Week!
 
-It is a pleasure to announce that the Western Slicer Project Week will be held in London, Ontario, Canada on July 17-21, 2017. This is the first extension Slicer project week that grew organically from a proposed visit of Dr. Nobuhiko Hata to Western. Enough interest existed to propose a small Slicer hackfest, which quickly grew into a full blown project week. With the expansion of the hackfest into a full project week, an additional meeting was arranged in conjunction with SPWW to discuss and develop image-guided therapy specific goals. Thus, this is also the inaugural Slicer IGT Project Week. 
+It is a pleasure to announce that the Western Slicer Project Week will be held in London, Ontario, Canada on July 17-21, 2017. This is the first extension Slicer project week that grew organically from a proposed visit of Dr. Nobuhiko Hata to Western. Enough interest existed to propose a small Slicer hackfest, which quickly grew into a full blown project week. With the expansion of the hackfest into a full project week, an additional meeting was arranged in conjunction with SPWW to discuss and develop image-guided therapy specific goals. Thus, this is also the inaugural Slicer IGT Project Week.
 This project week is an event endorsed by the MICCAI Society.
 
 ![GroupShot](GroupShot.jpg)
 
 ## Local Organizing Committee
- 
+
 - Host: [Terry Peters](http://www.robarts.ca/terry-peters), Robarts Scientist; Professor Medical Imaging; Medical Biophysics; Biomedical Engineering
 
 - Email Local Organizing Committee:
@@ -15,10 +15,10 @@ This project week is an event endorsed by the MICCAI Society.
 
 
 ## Resources
-This is a collection of resources submitted by attendees 
+This is a collection of resources submitted by attendees
 - Welcome presentation by Andras Lasso
 - Historical overview by Nobuhiko Hata
-- Python resources (thanks John Drozd!) 
+- Python resources (thanks John Drozd!)
   - http://cscircles.cemc.uwaterloo.ca/5-input/
   - https://www.jetbrains.com/pycharm/
   - http://www.datacarpentry.org/python-ecology-lesson/
@@ -77,16 +77,16 @@ Automated Segmentation of the human skull, face and airways from MRI dicom image
 
 ### Breakout sessions
 
-+ 3D Slicer introduction 
++ 3D Slicer introduction
   + 3D Slicer features overview (Andras Lasso)
-+ Segmentation 
++ Segmentation
   + Segment editor tutorials (video tutorial and slides)
   + Segment editor reference manual
-+ Slicelets 
++ Slicelets
   + Customizing 3D Slicer: slicelets/guidelets (Andras Lasso)
   + Slicer programming tutorial
   + VASST Lab Slicelet Template (Thanks Ying Li!)
-+ SlicerIGT 
++ SlicerIGT
   + PerkLab videos
 
 ## Registrants
@@ -206,5 +206,3 @@ Automated Segmentation of the human skull, face and airways from MRI dicom image
 57 John Baxter (Robarts Research Institute)
 
 58 Jean-Christophe Fillion-Robin (Kitware, Inc.)
-
-

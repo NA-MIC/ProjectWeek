@@ -19,7 +19,7 @@ key_investigators:
 - name: Jean-Christophe Fillion-Robin
   affiliation: Kitware
   country: USA
-  
+
 - name: Andres Diaz-Pinto
   affiliation: NVIDIA
   country: UK
@@ -98,7 +98,7 @@ With this setup, we would start a first step for future adoption and compatibili
 
 ### Progress
 - Draft [PR](https://github.com/Slicer/Slicer/pull/8141) is already functional. The primary advantage of using JSON is that arrays are printed in a standardized format, unlike the XML format, which uses a Slicer-specific structure that can vary between arrays, subject hierarchy items attributes, etc. Below is an example comparing the scene in XML and JSON formats:
- 
+
 | XML | JSON |
 |--- | ---|
 |<img src="https://github.com/user-attachments/assets/44f93b00-e287-4018-a563-bbf78aaaa8c0" width="500"> | <img src="https://github.com/user-attachments/assets/dabe1c07-7520-4f0c-ba32-132e5876118f" width="500"> |
@@ -116,22 +116,19 @@ https://github.com/Slicer/Slicer/pull/8141#issuecomment-2618876551
    - Investigate VTK serialization capabilities in recent versions, which might complement this work.
 - The discussion with NVIDIA will be further explored to assess Slicer support and interoperability with OpenUSD/Omniverse for a medical real-time collaboration tool within Omniverse.
 
-  
+
 ### Next Steps
-1. When calling `WriteJSONToString` for nodes with a `storageNode`, we need to stringify certain parts of the node state information (for the single **Node Status - real-time collaboration** use case).  
-   - **Markups** use `vtkMRMLMarkupsJsonStorageNode`, which already utilizes the JSON format. However, the current infrastructure only allows saving this information to a file. We need to refactor `vtkMRMLMarkupsNode` and `vtkMRMLMarkupsJsonStorageNode` to use `vtkMRMLMarkupsJsonWriter` for stringifying to a stream instead of a file, enabling access to its methods from Python. 
-   - **Transforms** use `vtkMRMLTransformStorageNode` -> `itk::TransformFileWriter` has the the same issue of the Markups writer. We would need to refactor at the `vtkMRMLNode` level to be able to switch between writing to file and to a stream. 
-   - **Volumes/Segmentations/Models**: For now, storing the file location should suffice, but in the future, we may need to pass `imageData` as a blob.  
+1. When calling `WriteJSONToString` for nodes with a `storageNode`, we need to stringify certain parts of the node state information (for the single **Node Status - real-time collaboration** use case).
+   - **Markups** use `vtkMRMLMarkupsJsonStorageNode`, which already utilizes the JSON format. However, the current infrastructure only allows saving this information to a file. We need to refactor `vtkMRMLMarkupsNode` and `vtkMRMLMarkupsJsonStorageNode` to use `vtkMRMLMarkupsJsonWriter` for stringifying to a stream instead of a file, enabling access to its methods from Python.
+   - **Transforms** use `vtkMRMLTransformStorageNode` -> `itk::TransformFileWriter` has the the same issue of the Markups writer. We would need to refactor at the `vtkMRMLNode` level to be able to switch between writing to file and to a stream.
+   - **Volumes/Segmentations/Models**: For now, storing the file location should suffice, but in the future, we may need to pass `imageData` as a blob.
 
 1. Add automated tests to cover all MRML nodes in Slicer core/modules.
 1. Investigate each feedback point gathered during the Tuesday meeting.
-  
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
 [PR](https://github.com/Slicer/Slicer/pull/8141)
-
-
-

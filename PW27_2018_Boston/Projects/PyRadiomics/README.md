@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
  - [Ahmed Hosny](https://github.com/ahmedhosny) <sup>1</sup>
  - [Steve Pieper](https://github.com/pieper) <sup>6</sup>
  - [Hugo Aerts (PI)](https://github.com/hugoaerts) <sup>1, 2</sup>
- 
+
 <sup>1</sup> Department of Radiation Oncology, Dana-Farber Cancer Institute, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.<br>
 <sup>2</sup> Department of Radiology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.<br>
 <sup>3</sup> Department of Radiology, Netherlands Cancer Institute, Amsterdam, The Netherlands.<br>
@@ -56,7 +56,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 [Related PR](https://github.com/Radiomics/pyradiomics/pull/338)
 - Designed a model definition configuration file and validation schemas
 
-TODO: 
+TODO:
 - Implement functionality to apply models
 - Add several model types (e.g. linear regression, logistic regression)
 
@@ -87,7 +87,7 @@ TODO:
 
 ### Objective #3
 
-![Slicer Radiomics new layout 1 (manual customization)](slicerRadiomics_layout1.png) 
+![Slicer Radiomics new layout 1 (manual customization)](slicerRadiomics_layout1.png)
 
 ![Slicer Radiomics new layout 2 (parameter file customization)](slicerRadiomics_layout2.png)
 

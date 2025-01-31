@@ -41,13 +41,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 The segmentation of medical and dental images is a fundamental step in automated clinical decision support systems.
-It supports the entire clinical workflow from diagnosis, therapy planning, intervention, and follow-up. 
-In this paper, we propose a novel tool to accurately process a full-face segmentation in about 5 minutes 
-that would otherwise require an average of 7h of manual work by experienced clinicians. 
+It supports the entire clinical workflow from diagnosis, therapy planning, intervention, and follow-up.
+In this paper, we propose a novel tool to accurately process a full-face segmentation in about 5 minutes
+that would otherwise require an average of 7h of manual work by experienced clinicians.
 This work focuses on the integration of the state-of-the-art UNEt TRansformers (UNETR)
-of the Medical Open Network for Artificial Intelligence (MONAI) framework. 
-We trained and tested our models using 618 de-identified Cone-Beam Computed Tomography (CBCT) volumetric images of the head 
-acquired with several parameters from different centers for a generalized clinical application. Our results on a 5-fold cross-validation 
+of the Medical Open Network for Artificial Intelligence (MONAI) framework.
+We trained and tested our models using 618 de-identified Cone-Beam Computed Tomography (CBCT) volumetric images of the head
+acquired with several parameters from different centers for a generalized clinical application. Our results on a 5-fold cross-validation
 showed high accuracy and robustness with an Dice up to 0.962 pm 0.02.
 
 ## Objective
@@ -64,7 +64,7 @@ showed high accuracy and robustness with an Dice up to 0.962 pm 0.02.
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Get the data merged by the clinicians for the skull.
-1. Use the begening of a slicer module to create a new one for AMASSS. 
+1. Use the begening of a slicer module to create a new one for AMASSS.
 1. Use new dataset to train new HD models.
 
 ## Progress and Next Steps
@@ -77,11 +77,11 @@ showed high accuracy and robustness with an Dice up to 0.962 pm 0.02.
 - A model has been trained to generate a segmentation of 5 skull structures (mandible, maxilla, cranial base, cervical vertebra and upper airway)
 - An other to segment the skin.
 
-1. For small field of view : 
+1. For small field of view :
 - A model for upper and lower root canal has been trained as well as HD mandible and maxilla
 - We still need data to train networks for crown and mandible canal segmentation
 
-1. To be more user friendly, the development of an AMASSS module for Slicer has been started in march. 
+1. To be more user friendly, the development of an AMASSS module for Slicer has been started in march.
 1. The UI of a slicer module was already started befor project week and has now been updated.
 1. We linked the UI with a CLI module to run the prediction/segmentation directly on the user computer through Slicer 5's  python 3.9
 1. The module has been tested locally with clinicians and is ready to be deployed as a Slicer module as a part of the slicer CMF extention

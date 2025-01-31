@@ -33,7 +33,7 @@ The objective is to develop a realistic haptic model for both the catheter inser
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. Describe specific steps of **what you plan to do** to achieve the above described objectives.-->
 
-1. Complete the SOFA Training introduction course 
+1. Complete the SOFA Training introduction course
 2. Follow InfinyTech3D integration guide for Unity integration of Inverse3
 3. Ask the slicer-sofa project community or the SOFA Framework community for input if needed
 

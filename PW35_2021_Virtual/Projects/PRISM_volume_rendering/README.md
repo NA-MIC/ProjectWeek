@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Simon Drouin, ETS Montreal
 - Steve Pieper, Isomics, Cambridge MA, USA
-- Kyle Sunderland, PerkLab, Queen’s University, Canada 
+- Kyle Sunderland, PerkLab, Queen’s University, Canada
 - Andrey Titov, ETS Montreal
 - Rafael Palomar, Oslo University Hospital / NTNU, Norway
 
@@ -20,7 +20,7 @@ The goal of this project is to enable the development of advanced 3D rendering t
 1. Facilitate the development and debugging of GPU shaders for Slicer
 2. Extend the principles introduced in the PRISM module to surface rendering and other types of rendering
 3. Integrate work by Kyle Sunderland on VTK GPU image filters (see branch [here](https://github.com/Sunderlandkyl/VTK/commits/vtkGPUImageFilter3)) so that the filters are usable in Slicer
-4. Integrate GPU filters with volume rendering in such a way that filtered volumes do not have to be transfered back to CPU memory before rendering 
+4. Integrate GPU filters with volume rendering in such a way that filtered volumes do not have to be transfered back to CPU memory before rendering
 
 ## Progress and Next Steps
 
@@ -30,7 +30,7 @@ The goal of this project is to enable the development of advanced 3D rendering t
     3. Development is difficult because the complete shader in not accessible
     4. Rafael: In Slicer, there is a need for a system that arbitrate the modification of shaders by different modules
     5. The Slicer shader property node is available only for volume rendering. The feature could easily be ported to surface rendering to facilitate the editing of surface shader
-1. Previous efforts by Simon Drouin were made to facilitate shader debugging. Code is available in [this branch](https://gitlab.kitware.com/drouin-simon/vtk/-/tree/volume-shader-readability). The code still needs work to enable a debug mode where shader code can be kept in memory with additional tags to facilitate development. 
+1. Previous efforts by Simon Drouin were made to facilitate shader debugging. Code is available in [this branch](https://gitlab.kitware.com/drouin-simon/vtk/-/tree/volume-shader-readability). The code still needs work to enable a debug mode where shader code can be kept in memory with additional tags to facilitate development.
 
 ### Next steps
 * Move vtkShaderProperties to the vtkMRMLDisplayNode level
@@ -50,4 +50,4 @@ The goal of this project is to enable the development of advanced 3D rendering t
 - Previous project weeks
   - https://projectweek.na-mic.org/PW30_2019_GranCanaria/Projects/GLSLShaders/
   - https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/MultiVolumeRendering/
-  - 
+  -

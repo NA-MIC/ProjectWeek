@@ -16,14 +16,14 @@ key_investigators:
   affiliation: Universidade de São Paulo
   country: Brazil
 
-- name: Adriana Herlinda Vilchis Gonzalez 
+- name: Adriana Herlinda Vilchis Gonzalez
   affiliation: Universidad Autónoma del Estado de México
   country: Mexico
- 
+
 - name: Enrique Hernandez Laredo
   affiliation: Universidad Autónoma del Estado de México
   country: Mexico
-  
+
 - name: Sonia Pujol
   affiliation: Brigham and Women's Hospital
   country: Harvard Medical School, USA
@@ -39,59 +39,59 @@ key_investigators:
 - name: João Pedro Alves Januário
   affiliation: Universidade de São Paulo
   country: Brazil
-  
+
 - name: Douglas Samuel Gonçalves
   affiliation: Universidade de São Paulo
   country: Brazil
-  
+
 - name: Paulo Eduardo de Barros Veiga
   affiliation: Universidade de São Paulo
   country: Brazil
-  
+
 - name: Diana Alejandra Mendoza Mora
   affiliation: Universidad Autónoma del Estado de México
-  country: Mexico 
-  
+  country: Mexico
+
 - name: Mariana Alvarez-Carvajal
   affiliation: Universidad Autónoma del Estado de México
   country: Mexico
- 
+
 - name: Gael Garcia
   affiliation: Universidad Autónoma del Estado de México
   country: Mexico
-  
+
 - name: Valeria Gómez Valdes
   affiliation: Universidad Autónoma del Estado de México
-  country: Mexico 
-  
+  country: Mexico
+
 - name: Abigail Mercado Ponciano
   affiliation: Universidad Autónoma del Estado de México
-  country: Mexico 
-  
+  country: Mexico
+
 - name: Nubia Sofía González Casanova
   affiliation: Universidad Autónoma del Estado de México
   country: Mexico
- 
+
 - name: Victor Manuel Montaño Serrano
   affiliation: Universidad Autónoma del Estado de México
   country: Mexico
-  
+
 - name: Vianney Muñoz Jiménez
   affiliation: Universidad Autónoma del Estado de México
-  country: Mexico   
-  
+  country: Mexico
+
 - name: Juan Carlos Avila Vilchis
   affiliation: Universidad Autónoma del Estado de México
-  country: Mexico   
-  
+  country: Mexico
+
 - name: Aída García Limas
   affiliation: Universidad Autónoma del Estado de México
-  country: Mexico   
-  
+  country: Mexico
+
 - name: Abigail Mercado Ponciano
   affiliation: Universidad Autónoma del Estado de México
-  country: Mexico   
-  
+  country: Mexico
+
 ---
 
 # Project Description

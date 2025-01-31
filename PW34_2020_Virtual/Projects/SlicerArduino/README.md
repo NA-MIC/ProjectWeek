@@ -23,7 +23,7 @@ A [journal paper](https://www.mdpi.com/2306-5354/7/3/109) about SlicerArduino ha
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Objective A. Show how SlicerArduino works.
-1. Objective B. 
+1. Objective B.
 
 ## Approach and Plan
 

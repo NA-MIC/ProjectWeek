@@ -15,7 +15,7 @@ key_investigators:
 - name: Andy Huynh
   affiliation: The University of Western Australia
   country: Australia
- 
+
 - name: Steve Pieper
   affiliation: Isomics, Inc.
   country: USA

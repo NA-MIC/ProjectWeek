@@ -1,12 +1,12 @@
 ## MONAI Label installation
 
-_as prepared for the Virtual MONAI Label workshop_  
-_June 22nd, 2022_  
+_as prepared for the Virtual MONAI Label workshop_
+_June 22nd, 2022_
 _Rudolf Bumm (KSGR)  and Andres Diaz-Pinto (NVIDIA)_
 
 The [Monailabel GitHub page is here.](https://github.com/Project-MONAI/MONAILabel)
 
-To run MONAI Label locally, you should have a computer with a medium/high-end NVIDIA GPU (16-24 GB totally available video RAM)  and CUDA available.   
+To run MONAI Label locally, you should have a computer with a medium/high-end NVIDIA GPU (16-24 GB totally available video RAM)  and CUDA available. 
 MONAI Label can also be run on CPU, but the performance will lack.  
 
 GPU compatibility:
@@ -19,7 +19,7 @@ Install Python 3.9 from Windows Store
 
 [Enable long path names in Windows 11](https://thegeekpage.com/make-windows-11-accept-file-paths-over-260-characters/)
 
-Use an elevated Powershell (admin mode)   
+Use an elevated Powershell (admin mode) 
 change to (cd) user directory (important, start in a directory with full read/write access) 
 
 ```
@@ -77,8 +77,8 @@ monailabel datasets # List sample datasets
 monailabel datasets --download --name Task06_Lung --output datasets
 ```
 
-Run Segmentation Model.  
-Options can be (deepedit|deepgrow|segmentation|segmentation\_spleen|all) in case of radiology app.  
+Run Segmentation Model.
+Options can be (deepedit|deepgrow|segmentation|segmentation\_spleen|all) in case of radiology app.
 You can also pass comma separate models like --conf models deepedit,segmentation
 
 ```
@@ -87,7 +87,7 @@ monailabel start_server --app apps/radiology --studies datasets/Task06_Lung/im
 
 Once you start the MONAI Label Server, by default it will be up and serving at [http://127.0.0.1:8000/](http://127.0.0.1:8000/). Open the serving URL in browser. It will provide you the list of Rest APIs available.
 
-**Known problems:** 
+**Known problems:**
 
 **Monai model-zoo API request fails**
 
@@ -101,9 +101,9 @@ Step 1: The model “.zip” file can be downloaded (via web browser, for exampl
 
 Step 2: Set values for two environment variable the server will use as an override:
 
-$Env:MONAI\_ZOO\_SOURCE = ‘local’  
-$Env:MONAI\_ZOO\_REPO = \< folder name >  
-  
+$Env:MONAI\_ZOO\_SOURCE = ‘local’
+$Env:MONAI\_ZOO\_REPO = \< folder name >
+
 Step 3: Start monailabel server
 
 ## Docker-based step by step installation:

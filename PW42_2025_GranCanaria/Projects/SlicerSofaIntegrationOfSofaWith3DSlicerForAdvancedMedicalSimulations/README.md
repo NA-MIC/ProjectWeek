@@ -59,7 +59,7 @@ The SlicerSOFA project aims to integrate the SOFA (Simulation Open Framework Arc
    - [Adding new plugins to base Slicer-SOFA](https://github.com/Slicer/SlicerSOFA/issues/30)
    - [Testing and sample data still relying on RafaelPalomar/SlicerSOFATestingData repository](https://github.com/Slicer/SlicerSOFA/issues/25)
    - [Add abstraction layer for simplified SOFA scene generation](https://github.com/Slicer/SlicerSOFA/issues/40)
-   
+
  4. Objective D. Implement a mechanism to specify a custom SOFA root directory via environment variables.
      - [Add feature to specify custom SOFA_ROOT](https://github.com/Slicer/SlicerSOFA/issues/39)
      - [Enable use of external SOFA and SOFA plugins](https://github.com/Slicer/SlicerSOFA/issues/32)
@@ -112,4 +112,3 @@ _No response_
 - [3D Slicer](https://www.slicer.org/)
 - [Slicer-SOFA PW 41 Project](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/SlicerSofa/)
 - [Slicer-SOFA PW 40 Project](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/SlicerSofaIntegration/)
-

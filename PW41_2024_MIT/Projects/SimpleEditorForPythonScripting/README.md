@@ -32,7 +32,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-A built-in simple text editor for python scripts has been discussed on the Slicer forum before. We would like to discuss design issues around this and hope to have a basic prototype (or two) by the end of PW. 
+A built-in simple text editor for python scripts has been discussed on the Slicer forum before. We would like to discuss design issues around this and hope to have a basic prototype (or two) by the end of PW.
 
 
 
@@ -100,4 +100,3 @@ We also have a slicer module mock-up from Oshane Thomas:
 
 
 [https://discourse.slicer.org/t/support-python-text-highlighting-in-text-module/34511](https://discourse.slicer.org/t/support-python-text-highlighting-in-text-module/34511)
-

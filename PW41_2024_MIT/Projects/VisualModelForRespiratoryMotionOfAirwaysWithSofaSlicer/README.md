@@ -20,7 +20,7 @@ key_investigators:
 - name: Rafael Palomar
   affiliation: Oslo University Hospital / NTNU
   country: Norway
-  
+
 ---
 
 # Project Description
@@ -110,9 +110,6 @@ Old Version in SOFA:
      If possible, also add links to sample data, and to any relevant publications. -->
 - Lung Simulation Module for slicerSOFA
   - https://github.com/Quilliams85/Lung-Simulation-Module-SlicerSOFA.git
-  
+
 - Old airway sofa simulation
   - [https://github.com/Quilliams85/Lung-Simulation-SNR-Lab.git](https://github.com/Quilliams85/Lung-Simulation-SNR-Lab.git)
- 
-
-

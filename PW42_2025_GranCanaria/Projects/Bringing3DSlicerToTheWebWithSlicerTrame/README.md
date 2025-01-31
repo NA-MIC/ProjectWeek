@@ -75,5 +75,3 @@ _No response_
 
 - trame : [https://kitware.github.io/trame/](https://kitware.github.io/trame/)
 - trame intro course : [https://kitware.github.io/trame/guide/intro/course.html](https://kitware.github.io/trame/guide/intro/course.html)
-
-

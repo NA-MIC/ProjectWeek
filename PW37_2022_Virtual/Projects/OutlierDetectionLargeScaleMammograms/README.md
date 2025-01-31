@@ -28,7 +28,7 @@ To contribute translations of the user'interface of 3D Slicer and its correspond
 
 # Illustrations
 [![Weblate Interface](./weblate.png)](./weblate.png)
-  
+
 [![Welcome_Module](./welcome_module.png)](./welcome_module.png)
 
 [![Models_Module](./models.png)](./models.png)

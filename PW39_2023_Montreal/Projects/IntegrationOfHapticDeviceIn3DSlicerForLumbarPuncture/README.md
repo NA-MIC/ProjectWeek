@@ -60,12 +60,12 @@ Steps that are already done:
 
 ![Screenshot (33)](https://github.com/NA-MIC/ProjectWeek/assets/117910171/98f78b7b-61c5-451c-9277-9b432ca00f41)
 
-   
+
 2.  Indicate with MarkUps the tissues which we want to feel.
 
 ![Screenshot (34)](https://github.com/NA-MIC/ProjectWeek/assets/117910171/b8117833-3df2-45f1-a7d4-f93dd315458c)
 
-   
+
 3.  Include in SlicerToTouch module the number of resistances, posiitons and force value for each tissue. This module generates a json file with all the information.
 
 ![Screenshot (43)](https://github.com/NA-MIC/ProjectWeek/assets/117910171/988cbfc0-0ba2-4ea1-b11a-9f279c83adb8)
@@ -76,7 +76,7 @@ Steps that are already done:
 4.  Using Unity in the background we read that file and automatically a new scene is created with the haptic materials. Also, at the same time, it sends the transform of the haptic device to slicer by OpenIGTlink, so you can see a needle moving.
 
 ![2023-06-14-16-09-55-Trim](https://github.com/NA-MIC/ProjectWeek/assets/117910171/34822062-8a61-4ade-b346-e6e5a6d8dee3)
-   
+
 
 
 What we are actually working on:
@@ -85,7 +85,7 @@ What we are actually working on:
 ![20230614-224421-HoloLens-Trim-Tr (1)](https://github.com/NA-MIC/ProjectWeek/assets/117910171/d66de98b-a539-4407-a489-fdf2aa398b0f)
 
 
-Next steps: 
+Next steps:
 
 1. Include metrics in order to analyze the procedure.
 2. Restrict the movement to just one axis once you are inside the back model.

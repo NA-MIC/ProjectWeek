@@ -3,11 +3,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Plus ultrasound simulation using kidney models
 
 ## Key Investigators
-- Lyla Mu (Western University) 
+- Lyla Mu (Western University)
 
 
 # Project Description
-<!-- Segment kidney, calyx, pyramid, blood vessels and other abdominal organs. Create 3D mesh models for ultrasound simulation using PLUS --> 
+<!-- Segment kidney, calyx, pyramid, blood vessels and other abdominal organs. Create 3D mesh models for ultrasound simulation using PLUS -->
 
 ## Objective
 1. Segment kidney, calyx, pyramid and blood vessels.
@@ -33,5 +33,3 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Source code: https://github.com/Lyla-M/UnityOpenIGTLink
 - Test data: Kidney CT https://github.com/neheller/kits19/tree/master/data/case_00000
-
-

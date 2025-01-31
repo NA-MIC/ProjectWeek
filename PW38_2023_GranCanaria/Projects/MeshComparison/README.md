@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Maria Francesca Spadea (Institute of Biomedical Engineering, KIT - Karlsruher Institut für Technologie, Germany)
 - Michela Destito (Magna Graecia University of Catanzaro, Italy)
 - Amerigo Giudice, the clinical mind behind the idea (Magna Graecia University of Catanzaro, Italy)
-- Anyone who wants to join (bring a coffee!) 
+- Anyone who wants to join (bring a coffee!)
 
 # Project Description
 
@@ -35,10 +35,10 @@ In the oral surgery field, it is important quantifying the level of swelling aft
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Created a proptype [extension](https://github.com/pzaffino/SlicerMeshVolumeComparison). This can be improved a lot, it is just a starting point. 
+1. Created a proptype [extension](https://github.com/pzaffino/SlicerMeshVolumeComparison). This can be improved a lot, it is just a starting point.
 1. The module is able to close open models (by using pymeshfix library)
 1. The module is able to compute volume difference and boolean difference (be careful, it could fail in some cases)
-1. Ask our clinical partner to test it on clinical scenario (feedbacks are more than welcome!) 
+1. Ask our clinical partner to test it on clinical scenario (feedbacks are more than welcome!)
 
 # Illustrations
 At the beginning of project week

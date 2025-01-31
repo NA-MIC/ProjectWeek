@@ -24,7 +24,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Progress and Next Steps
 
 - Implemented GLSL based bilateral filter
-- Started implementing infrastructure required for rendering to multiple targets in order to support GPU growcut algorithm 
+- Started implementing infrastructure required for rendering to multiple targets in order to support GPU growcut algorithm
 
 ### Result
 | Approach | Result |

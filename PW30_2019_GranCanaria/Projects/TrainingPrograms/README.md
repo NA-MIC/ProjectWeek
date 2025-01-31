@@ -15,7 +15,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Project Description
 
-The training project is, in this 30PW, in its third edition. New clinician professionals will work in order to develop new training material and study how to enhance and improve the use of 3DSlicer as a training tool. A common program and specific ones, for different countries. In the first edition (27PW NA-MIC) a common training programs was proposed and after a month it was implemented in a tricontinental  workshop. In the second edition (28PW NA-MIC) the professionals that attended the first one shared their experiences and planned specific training programs for their countries working in the transalaton of contents. 
+The training project is, in this 30PW, in its third edition. New clinician professionals will work in order to develop new training material and study how to enhance and improve the use of 3DSlicer as a training tool. A common program and specific ones, for different countries. In the first edition (27PW NA-MIC) a common training programs was proposed and after a month it was implemented in a tricontinental  workshop. In the second edition (28PW NA-MIC) the professionals that attended the first one shared their experiences and planned specific training programs for their countries working in the transalaton of contents.
 
 ## Objectives
 
@@ -34,8 +34,8 @@ The training project is, in this 30PW, in its third edition. New clinician profe
 
 1. We have delivered a Slicer course for African collaborators
 1. We have gathered information for each country to introduce the use of 3D Slicer as a tool for clinicians
-1. Since African countries have different needs and their students different profiles, different programs will be proposed. 
-1. We will develop reports for these different proposals and will study the impact of the whole process. 
+1. Since African countries have different needs and their students different profiles, different programs will be proposed.
+1. We will develop reports for these different proposals and will study the impact of the whole process.
 
 ## Illustrations
 

@@ -31,8 +31,8 @@ After the first edition of the training program (Slicer Ecosystems Education for
 27thPW NA-MIC we will be studying results  and prepare a new proposals according to the necessities of the involved countries:
 Cape Verde, Senegal, Mauritania, plus Mozambique and Azores.
 This plan will consider previous results and feedback from the professionals of these countries. We must not forget that in their
-countries some of them have already started with their own training programs. All of this will be considered in new plans, as well 
-as collaboation in other research projects. 
+countries some of them have already started with their own training programs. All of this will be considered in new plans, as well
+as collaboation in other research projects.
 
 ## Objectives
 
@@ -44,15 +44,15 @@ as collaboation in other research projects.
 
 ## Approach and Plan
 
-1. Study the results of the training sessions already completed. 
+1. Study the results of the training sessions already completed.
 
 
 ## Progress and Next Steps
 
-1. Plan a new training program for Mauritania. 
+1. Plan a new training program for Mauritania.
   - Train the trainers
 1. Plan a new training program for Mozambique
-  - Train the trainers 
+  - Train the trainers
     - Students at the university
     - Residents - profiles: General / Images / Surgeons
 1. Continue working in the development of training contents - learning objects - in: [English, French, Portuguese, Arabic, Spanish](https://mt4sd.ulpgc.es/slicer-int/index.php/P%C3%A1gina_principal)
@@ -81,4 +81,3 @@ Senegal training sessions.
 ## Background and References
 
 + [A Medical Imaging Computing Learning Program: Transitioning Towards The Medical Technology In Africa](https://library.iated.org/view/AFONSOSUAREZ2018AME)
-

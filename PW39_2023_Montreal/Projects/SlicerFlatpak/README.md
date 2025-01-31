@@ -74,5 +74,3 @@ The convenience of having a 3D Slicer Flatpak has been long discussed in the 3D 
 - Slicer Flatpak Repository: [RafaelPalomar/Slicer-Flatpak](https://github.com/RafaelPalomar/Slicer-Flatpak)
 - Slicer Flatpak Manifest and Repository: [RafaelPalomar/org.slicer.Slicer-flatpak-repository](https://github.com/RafaelPalomar/org.slicer.Slicer-flatpak-repository)
 - Flathub: [flathub.org](https://flathub.org)
-
-

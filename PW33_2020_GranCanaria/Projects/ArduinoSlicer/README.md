@@ -44,7 +44,7 @@ It can be useful for students and for not complex data/instruction stream.
 4. The first layer of code was written (thanks to Andras!)
 
    https://github.com/pzaffino/SlicerArduinoController
-   
+
 5. The next step will be to refine the link module and to start writing more modules (one for each possible application).
 
 # Illustrations

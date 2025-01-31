@@ -25,7 +25,7 @@ Sometimes unknown file formats are encountered that contain images. There are fr
 1. Add some more functionality.
 2. Add ideas so they can be implemented later.
 
-## Progress 
+## Progress
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 All basic image parameters can be set:
@@ -59,4 +59,4 @@ This is how the moddule looks as of 2019. 02. 01.
 - Documentation: In progress
 - Test data:
   - Available in the github repository
-  - 3D ultrasound from [Slicer forum](https://discourse.slicer.org/t/could-not-load-ultrasound-from-mvl-medison-file-format/3928/6?u=lassoan): [download from dropbox](https://www.dropbox.com/sh/azdck7h9e7b71dq/AACiHg-m-XPOhj2vs2_CFGK5a?dl=0) 
+  - 3D ultrasound from [Slicer forum](https://discourse.slicer.org/t/could-not-load-ultrasound-from-mvl-medison-file-format/3928/6?u=lassoan): [download from dropbox](https://www.dropbox.com/sh/azdck7h9e7b71dq/AACiHg-m-XPOhj2vs2_CFGK5a?dl=0)

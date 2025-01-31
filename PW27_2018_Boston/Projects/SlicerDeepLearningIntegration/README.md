@@ -31,4 +31,3 @@ Integrate a lung segmentation algorithm based on Deep Learning in Slicer.
 1. This integration was done through the CustomSlicerGenerator in MacOS and Linux.
 1. Luckily, it would be obsolete in Slicer 5!! A template with a Python distribution based on Anaconda or others may be used
 1. Also, we found out other extensions like DeepInfer and TOOMCAT that may be useful in the meantime
-

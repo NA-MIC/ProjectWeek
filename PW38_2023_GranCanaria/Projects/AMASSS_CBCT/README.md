@@ -42,10 +42,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 The segmentation of medical and dental images is a fundamental step in automated clinical decision support systems.
-It supports the entire clinical workflow from diagnosis, therapy planning, intervention, and follow-up. 
-In this paper, we propose a novel tool to accurately process a full-face segmentation in about 5 minutes that would otherwise require an average of 7h of manual work by experienced clinicians. 
-This work focuses on the integration of the state-of-the-art UNEt TRansformers (UNETR) of the Medical Open Network for Artificial Intelligence (MONAI) framework. 
-We trained and tested our models using 618 de-identified Cone-Beam Computed Tomography (CBCT) volumetric images of the head 
+It supports the entire clinical workflow from diagnosis, therapy planning, intervention, and follow-up.
+In this paper, we propose a novel tool to accurately process a full-face segmentation in about 5 minutes that would otherwise require an average of 7h of manual work by experienced clinicians.
+This work focuses on the integration of the state-of-the-art UNEt TRansformers (UNETR) of the Medical Open Network for Artificial Intelligence (MONAI) framework.
+We trained and tested our models using 618 de-identified Cone-Beam Computed Tomography (CBCT) volumetric images of the head
 acquired with several parameters from different centers for a generalized clinical application. Our results on a 5-fold cross-validation showed high accuracy and robustness with an Dice up to 0.962 pm 0.02.
 
 ## Objective

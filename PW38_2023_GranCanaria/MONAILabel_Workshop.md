@@ -35,7 +35,7 @@ MONAILabel itself is described [in this paper](https://arxiv.org/abs/2203.12362)
 * [3D Slicer and MONAI on AWS](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/) (2 minutes, Rudolf Bumm / Steve Pieper)
 * Preparation for Hands-on session on AWS (8 minutes, Qing Liu, Alex Lemm)
 * What clinical/research applications developing with MONAI Label and what's the general status of them (10 minutes each)
-  * Lungs: Rudolf Bumm 
+  * Lungs: Rudolf Bumm
   * Stroke: Ken Butcher
   * Cancer spines: Ron Alkalay
 * Deeper dive into application example use cases (15 minutes Andres Diaz-Pinto)
@@ -58,4 +58,3 @@ Note that right after this workshop  starting at 11am EST, Nvidia is holding two
 * The workshop will be recorded and made available.
 
 *Big thanks in advance to the AWS, NVIDIA, IDC, and Slicer teams for providing this activity!*
-

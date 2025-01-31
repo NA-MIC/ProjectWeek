@@ -25,7 +25,7 @@ key_investigators:
 - name: Andras Lasso
   affiliation: Queens University, Canada
   country: USA
-  
+
 - name: Umang Pandey
   affiliation: UCM3
   country: Spain
@@ -37,7 +37,7 @@ key_investigators:
 
 IDC (Imaging Data Commons) has several TB of radiology data that can be viewed with various tools, such as OHIF v2, v3, and Kitware’s VolView. However, one could argue that none of these tools can match the power and versatility of 3DSlicer, which offers a wide range of features for exploring and analyzing radiology data. Steve has come up with a brilliant idea to make 3DSlicer more accessible and user-friendly: a simple URL that can be clicked to launch 3DSlicer and load the desired IDC data. This project aims to ease the way we view IDC Data on 3DSlicer by making it as easy as clicking a link by extending the capabilities of the SlicerIDCBrowser extension.
 
-Notes for discussion: 
+Notes for discussion:
 * we could also have a mode where user clicking on IDC manifest would trigger Slicer opening and downloading the content of the manifest - this would be similar to TCIA manifest downloader. Need to think how to report progress, since for large cohorts it will take time, and s5cmd batch run does not provide the progress reporting means. TODO: link the s5cmd progress reporting issue
 * warn/communicate to the user download size on disk
 
@@ -67,7 +67,7 @@ Notes for discussion:
 1. [SlicerIDCBrowser](https://github.com/ImagingDataCommons/SlicerIDCBrowser) can now register the slicer://idc-browser/ protocol on all three platforms MacOS, Linux, and Windows
 2. The downloading experience currently is dictated by the network speed
 3. Need to explore/handle the behavior when multiple versions of slicer are present on the user's system
-   
+
    @pieper thoughts on this:
    > My thought would be to have a script for each platform (maybe shell for mac/linux and .bat for windows) that would be launched by the url handler.  That script would launch Slicer with ` --no-main-window --python-script <select.py>` where select.py would implement the logic to find the currently running and installed Slicer's and put up a dialog box so the user can select the target.  Then it would either launch a new instance of the version of the user's choice, or it would send a signal to one of the running instances to load more data.  We'd need to discuss how best to send the signal.  It could be a literal operating system signal or it could be use something like the WebServer module so that running instances listen for these load requests.  We should think about what is the best and most useful way to impement this.
 
@@ -82,10 +82,10 @@ Notes for discussion:
     > If one has multiple slicer's installed along with the nighlty version. Link opens slicer for the highest stable version (All had the extension and module loaded). Would there be a way to choose at least between nightly and stable version?
 7. The code is currently available at https://github.com/vkt1414/SlicerIDCBrowser and eventually may be available @ https://github.com/ImagingDataCommons/SlicerIDCBrowser
 8. Once the behavior of launching urls is refined in SlicerIDCBrowser, the goal is make atleast the registration of the slicer:// protocol available on Slicer directly
-   
+
 # Illustrations
 
-## Demo on Windows 
+## Demo on Windows
 ![NewMerge-ezgif com-video-to-gif-converter](https://github.com/NA-MIC/ProjectWeek/assets/115020590/61e49e50-65a3-4f26-88c9-e0e7a3c7893d)
 
 ## Demo on Linux (Ubuntu)

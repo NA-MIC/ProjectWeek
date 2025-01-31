@@ -12,4 +12,3 @@ body:
     description: Please provide a brief overview of the project, including the problem it aims to solve, and any expected outcomes.
   validations:
     required: true
-

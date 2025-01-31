@@ -40,7 +40,7 @@ Slicer users will be able to perform large / fast CT image AI segmentations on l
 (e.g., no GPU) machines.
 
 TLDR:
-Try the VISTA-3D module running on 
+Try the VISTA-3D module running on
 [NVIDIA VISTA3D NIM](https://build.nvidia.com/nvidia/vista-3d)
 
 We are proposing to make that service callable using a simple Slicer extension, to enable

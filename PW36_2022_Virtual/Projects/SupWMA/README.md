@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# A deep learning framework for superficial white matter parcellation, code release via SlicerDMRI 
+# A deep learning framework for superficial white matter parcellation, code release via SlicerDMRI
 
 ## Key Investigators
 
@@ -35,7 +35,7 @@ In this project week, we work on releasing the code of SupWMA. We provide the tr
 
 1. Release code and pre-trained model at: https://github.com/SlicerDMRI/SupWMA
 2. Provide the instruction of SupWMA framework usage
-3. Upload the testing sample and demonstration script. 
+3. Upload the testing sample and demonstration script.
 
 ## Progress and Next Steps
 
@@ -43,7 +43,7 @@ In this project week, we work on releasing the code of SupWMA. We provide the tr
 
 1. Code and pre-trained model were released
 2. Instruction, testing sample and demonstration script were provided
-3. Update the training details to help user train SupWMA on custom data. 
+3. Update the training details to help user train SupWMA on custom data.
 4. Intergate SupWMA into SlicerDMRI so that users can use it via Slicer interface.
 
 # Illustrations
@@ -67,7 +67,7 @@ In this project week, we work on releasing the code of SupWMA. We provide the tr
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
-<!-- 
+<!--
 [Tengfei Xue, Fan Zhang, Chaoyi Zhang, Yuqian Chen, Yang Song, Nikos Makris, Yogesh Rathi, Weidong Cai, Lauren J. O’Donnell. "SupWMA: consistent and efficient tractography parcellation of superficial white matter with deep learning." ISBI (2022).](Coming soon) -->
 
 Tengfei Xue, Fan Zhang, Chaoyi Zhang, Yuqian Chen, Yang Song, Nikos Makris, Yogesh Rathi, Weidong Cai, Lauren J. O’Donnell. "SupWMA: consistent and efficient tractography parcellation of superficial white matter with deep learning." ISBI (2022).

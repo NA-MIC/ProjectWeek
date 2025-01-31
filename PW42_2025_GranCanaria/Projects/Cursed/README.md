@@ -57,7 +57,7 @@ Goal of this project is to evaluate all exchangeable components to ensure optima
 
 1. Identification of available alternatives to visualize DICOM WSI files
 2. Test integration possibilities in Kaapana
-3. Document results 
+3. Document results
 
 
 
@@ -69,7 +69,7 @@ Goal of this project is to evaluate all exchangeable components to ensure optima
 
 1. Bind other viewing components like QuPath to the data storage in Kaapana
 2. Run dl-based analysis of DICOM WSI data with different reading libraries (openslide vs. wsidicom)
-3. Visualize exported results (e.g. heatmaps as StructuredReport) with external DICOM WSI viewers. 
+3. Visualize exported results (e.g. heatmaps as StructuredReport) with external DICOM WSI viewers.
 
 
 
@@ -80,7 +80,7 @@ Goal of this project is to evaluate all exchangeable components to ensure optima
 1. Setup of public Kaapana server in preparation of the DICOM conectathon at: 172.16.17.47
 2. Some progress in containerizing QuPath within Kaapana to serve as viewer from Objectstorage (NOT from PACS)
 3. Evaluating [https://github.com/huangch/openremoteslide](https://github.com/huangch/openremoteslide) as additional extension for communication with external server
-4. Testing some interoperability components for Zeiss WSI files. 
+4. Testing some interoperability components for Zeiss WSI files.
 
 
 
@@ -105,4 +105,3 @@ _No response_
 
 
 _No response_
-

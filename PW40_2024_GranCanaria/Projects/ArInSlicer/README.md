@@ -50,7 +50,7 @@ This project aims to optimize this issue. One option is to optimize how the syst
 
 To give some context to the project, we focus this time on Birth Delivery Training. Birth delivery training equips healthcare professionals with the necessary skills and knowledge to handle various scenarios during childbirth, ensuring the safety and well-being of both the mother and the newborn. This specialized training covers a spectrum of techniques, from normal deliveries to emergency interventions, preparing healthcare providers to manage complications effectively. Proper training enhances the capacity to recognize and address potential risks, fostering a timely response in critical situations.
 
-In this project we aim at creating a new solution for birth delivery training based on an optimized version of the previous [AR in Slicer](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/ARinSlicer/) project. This new app will enable collaborative teacher-student interaction with the holograms for a better learning experience. 
+In this project we aim at creating a new solution for birth delivery training based on an optimized version of the previous [AR in Slicer](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/ARinSlicer/) project. This new app will enable collaborative teacher-student interaction with the holograms for a better learning experience.
 
 ## Objective
 
@@ -125,4 +125,3 @@ Special thanks to JC for his assistance during the whole event.
 
 Research supported by projects PI122/00601 and AC20/00102  (Ministerio de Ciencia, Innovación y Universidades, Instituto de Salud Carlos III, Asociación Española Contra el Cáncer and European Regional Development Fund “Una manera de hacer Europa”), project PerPlanRT (under the frame of ERA PerMed), TED2021-129392B-I00 and TED2021-132200B-I00 (MCIN/AEI/10.13039/501100011033 and European Union “NextGenerationEU”/PRTR).
 ![Acknowledgments](https://github.com/NA-MIC/ProjectWeek/assets/66890913/5fd4c05f-0028-4a00-a364-69926fda79eb)
-

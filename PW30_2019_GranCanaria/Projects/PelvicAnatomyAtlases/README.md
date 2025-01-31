@@ -63,5 +63,3 @@ This project focuses on the development of anatomical atlases of the pelvic area
 
 
 ## Background and References
-
-

@@ -60,4 +60,3 @@ Unity Scenario video examples.
 
 + [Virtual Reality with Customized Positive Stimuli in a Cognitive-Motor Rehabilitation Task: A feasibility study with subacute stroke patients with mild cognitive impairment
 Mónica S. Cameirão, Fábio Pereira, Sergi Bermúdez i Badia](https://neurorehabilitation.m-iti.org/lab/wp-content/plugins/zotpress/lib/request/request.dl.php?api_user_id=161215&key=4ZQMQFB3&content_type=application/pdf)
-

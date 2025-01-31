@@ -20,7 +20,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-The MHub.ai is a platform for deploying deep learning models in medical imaging in a user-friendly and standardized environment. This project focuses on integrating the ITMT model (Automated Deep Learning TM-segmentation to accurately measure temporalis muscle thickness) into the MHub platform. 
+The MHub.ai is a platform for deploying deep learning models in medical imaging in a user-friendly and standardized environment. This project focuses on integrating the ITMT model (Automated Deep Learning TM-segmentation to accurately measure temporalis muscle thickness) into the MHub platform.
 
 
 
@@ -78,4 +78,3 @@ _No response_
 
 
 - [https://github.com/AIM-KannLab/itmt](https://github.com/AIM-KannLab/itmt)
-

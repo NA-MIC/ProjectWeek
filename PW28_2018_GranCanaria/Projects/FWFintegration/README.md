@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 Tensor-valued diffusion encoding is an emerging technique within diffusion MRI. The novelty lies in the multidimensional encoding of the diffussion process.
-To support such encoding, we must replace the conventional diffusion encoding sequence with arbitrary gradient waveforms that facilitate a large range of encoding strategies. 
+To support such encoding, we must replace the conventional diffusion encoding sequence with arbitrary gradient waveforms that facilitate a large range of encoding strategies.
 In doing so, we also need to store new kinds of experimental information to support traceability. In this project, we will extend the MRI pulse sequence to calculate and embed several necessary parameters in the DICOM header.
 
 # Constraints and Challenges
@@ -37,8 +37,8 @@ In doing so, we also need to store new kinds of experimental information to supp
 
 Objective 1 was prepared during Hackathon in Sweden by Isaiah Norton, and is almost complete.
 
-Next step: 
-Introduce C-code into pulse sequence, and test compilation conflicts. 
+Next step:
+Introduce C-code into pulse sequence, and test compilation conflicts.
 Translate "Load" type waveform, without rotations, into the WIP parameter space
 Complement waveform parameters (motion, acceleration, k0 nulling with maxwell terms, etc) and store in header
 

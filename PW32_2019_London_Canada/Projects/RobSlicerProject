@@ -1,19 +1,19 @@
 ## Write full project title here
 
 ## Key Investigators
-- Roberta Piazza, Visiting Graduate Student at Robarts Research Institute 
+- Roberta Piazza, Visiting Graduate Student at Robarts Research Institute
 
 
 # Project Description
 <!-- I am working on the electromagnetic sensorization strategy for a Conavi probe. This is an Ultrasound catheter used for
 intracardiac procedure. The idea is to use electromagnetic sensor on Conavi catheter, needle and guidewire to track them without
 using fluoroscopy. The sensors I use (NDI Aurora) cannot be bent, otherwise the signal they give is affected by errors. I want to
-verify if it is possible quantify this error and correct it--> 
+verify if it is possible quantify this error and correct it-->
 
 ## Objective
-1. Objective A. Create a module to calibrate sensorized tool (for example conavi probe). 
-1. Objective B. . 
-1. Objective C. Describe it in 1-2 sentences. 
+1. Objective A. Create a module to calibrate sensorized tool (for example conavi probe).
+1. Objective B. .
+1. Objective C. Describe it in 1-2 sentences.
 
 ## Approach and Plan
 

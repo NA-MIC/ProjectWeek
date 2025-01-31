@@ -18,7 +18,7 @@ Matlab Bridge is a very quick and convenient way to combine the display features
 
 ## Approach and Plan
 
-1. Investigate freeware to convert Matlab code to Python. 
+1. Investigate freeware to convert Matlab code to Python.
 1. Document a complete pipeline for Matlab-proficient non-developers on the process of creating a Python module.
 
 ## Progress and Next Steps
@@ -27,11 +27,11 @@ Progress
 - A couple of examples of Matlab Bridge modules with all their dependent functions were collected here:
 https://www.dropbox.com/sh/36vvhsi90z90arq/AACTInsRPBkQdhaH8jf_qml9a?dl=0
 
-- It was concluded that conversion needs to be done manually - Matlab to Python converters would not work well for this purpose. 
+- It was concluded that conversion needs to be done manually - Matlab to Python converters would not work well for this purpose.
 - The tutorial “Programming in Slicer4” by Sonia Pujol and Steve Pieper (https://www.dropbox.com/s/wrhrvvmplosiis1/Slicer4_ProgrammingTutorial_SPujol-SPieper_Nightly.pdf?dl=0#)
 was worked through and summarized in the following document for quick reference: https://www.dropbox.com/s/0wukoaesndf3ug4/SlicerPython.pdf?dl=0
 
-Next steps: 
+Next steps:
 - Add a summary of the tutorial “Developing and contributing extensions for 3D Slicer” by Andrey Fedorov, Jean-Christophe Fillion-Robin, and Steve Pieper (https://docs.google.com/presentation/d/1JXIfs0rAM7DwZAho57Jqz14MRn2BIMrjB17Uj_7Yztc/edit#slide=id.g420896289_0216) to the document.
 
 - Summarize essential Python for Matlab users and add to the document.

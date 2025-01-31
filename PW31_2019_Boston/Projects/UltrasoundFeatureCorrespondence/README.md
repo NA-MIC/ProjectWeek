@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-The overarching goal of this project is to use pre- and intra-operative imaging to help neurosurgeons determine whether gross total resection has been achieved.  
+The overarching goal of this project is to use pre- and intra-operative imaging to help neurosurgeons determine whether gross total resection has been achieved.
 
 ## Objective
 
@@ -44,9 +44,9 @@ The overarching goal of this project is to use pre- and intra-operative imaging 
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-1. Picture of the fiducial on the T2 pre-operative MRI image located on a sulcus 
+1. Picture of the fiducial on the T2 pre-operative MRI image located on a sulcus
 ![Picture of the fiducial on the T2 pre-operative MRI image located on a sulcus](ultrasound1.png)
-2. Picture of the pre-dura Ultrasound scan on top of the MRI scan showing the same fiducial on the sulcus 
+2. Picture of the pre-dura Ultrasound scan on top of the MRI scan showing the same fiducial on the sulcus
 ![Picture of the pre-dura Ultrasound scan on top of the MRI scan showing the same fiducial on the sulcus](ultrasound2.png)
 3. Screenshot of the pre-dura ultrasound with the fiducial on the sulcus
 ![Screenshot of the pre-dura ultrasound with the fiducial on the sulcus](ultrasound3.png)

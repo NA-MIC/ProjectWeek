@@ -1,14 +1,14 @@
 ## Overview
 
-The Accelerating Medicines Partnership (AMP®) program is a public-private partnership between the National Institutes of Health (NIH), the U.S. Food and Drug Administration (FDA), the European Medicines Agency (EMA), pharmaceutical and life science companies, non-profits and other organizations. The overarching aim of the AMP program is to improve our understanding of disease pathways and identify new and better targets for treatment. 
+The Accelerating Medicines Partnership (AMP®) program is a public-private partnership between the National Institutes of Health (NIH), the U.S. Food and Drug Administration (FDA), the European Medicines Agency (EMA), pharmaceutical and life science companies, non-profits and other organizations. The overarching aim of the AMP program is to improve our understanding of disease pathways and identify new and better targets for treatment.
 
-The AMP Schizophrenia (SCZ) program was launched in 2020 to address the critical need for more effective treatments for people with schizophrenia and related mental health conditions. 
+The AMP Schizophrenia (SCZ) program was launched in 2020 to address the critical need for more effective treatments for people with schizophrenia and related mental health conditions.
 
 ## The AMP SCZ Program Approach
 
-The aims of this 5-year $99.4 million global effort include developing tools that identify the early stages of risk for schizophrenia and predicting the likelihood of progression to psychosis and other outcomes. A related aim is to develop tools that can help researchers identify new targets for drug-based treatments that can be tested in clinical trials. 
+The aims of this 5-year $99.4 million global effort include developing tools that identify the early stages of risk for schizophrenia and predicting the likelihood of progression to psychosis and other outcomes. A related aim is to develop tools that can help researchers identify new targets for drug-based treatments that can be tested in clinical trials.
 
-The AMP SCZ program is managed by the Foundation for the National Institutes of Health (FNIH). More detailed information about the AMP SCZ program is available on the FNIH website. 
+The AMP SCZ program is managed by the Foundation for the National Institutes of Health (FNIH). More detailed information about the AMP SCZ program is available on the FNIH website.
 
 ## Study design
 
@@ -23,5 +23,3 @@ Cognitive assessments will be collected longitudinally at six, 12 and 24 months 
 The goal of AMP® SCZ is to facilitate drug development for the CHR population.
 
 https://www.ampscz.org
-
-

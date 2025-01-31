@@ -26,7 +26,7 @@ The aim of the project is to set up, train and evaluate a lung and airway server
 
 ## Approach and Plan
 
-fine tune the MONAI Label server  
+fine tune the MONAI Label server
 provide links
 
 ## How to set up a MONAI Label in Windows 11
@@ -56,17 +56,17 @@ Fig 1: MONAI Label inference after providing 2 high quality samples and training
 
 ![](https://lh3.googleusercontent.com/DmJb1FLEcoDjGLF0VkVvT7JIicjt10KYGdRbE1NSpvoXFH-CANWPuboDzpTehbe48iKEl9AQITmrd7XuwrQpefu7QeqbM4Q5soPRKyK8V6ZouS3js62eUNZ4BxIzhXgI5BPWHVI2cUBrQtI-ENNvBg)
 
-Fig 2: Status after providing 5 more high-quality labels and  training 1000 epochs /  5 iterations (1 h with RTX 3070 Ti), "deepedit" model:    
+Fig 2: Status after providing 5 more high-quality labels and  training 1000 epochs /  5 iterations (1 h with RTX 3070 Ti), "deepedit" model:  
 ML is able to divide right and left lungs as well as airways, but resolution is low.   
 
 ![](https://lh5.googleusercontent.com/MJwUyGBtI15UYL2OPc6LLyCUpKNpk_0G9GddXcovVYWKD_EXOlIWuWXthbkE-n4FPC-Ay_F-bNZ1EtWz5o9bR3Wzjf7OoUgMJZnejxoLejLW46gvxpUzCgDyx8nIEl3aI4U3T_biYB0Vm4tT7Mq0fQ)
 
-Fig 3: Status after labelling 17 more datasets, training another 1000 epochs /  22 iterations (6 h with RTX 3070 Ti), "segmentation" model:   
+Fig 3: Status after labelling 17 more datasets, training another 1000 epochs /  22 iterations (6 h with RTX 3070 Ti), "segmentation" model: 
 Much better resolution.  
 
 # ![](https://lh5.googleusercontent.com/kN_jvl7i-Osv662Yhh69wRg5nMS4PzdYQarTBGYe6gTyq6-1A-xAcxkUSdIlFiSdyr3WXxk_WQGfQKAuwCp2OAiHcN2irQfeW1-DsWDgx31aRzVDy6KwIQo1Yf955Dh3k4K0YuLEVfwNkOG9kPkjPQ)
 
-Fig 4: Autosegmentation after label correction, 500 epochs / 22 iterations training (1.5h RTX 3070 Ti):  
+Fig 4: Autosegmentation after label correction, 500 epochs / 22 iterations training (1.5h RTX 3070 Ti):
 Good result! 
 
 # Background and References

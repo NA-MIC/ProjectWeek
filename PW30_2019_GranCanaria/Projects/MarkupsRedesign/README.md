@@ -33,14 +33,14 @@ Plan is to integrate the reworked markups infrastructure and new markups during 
 
 - Davide Punzo has reworked markup point list widget:
 
-  [Pull request](https://github.com/Slicer/Slicer/pull/1079) 
-  
+  [Pull request](https://github.com/Slicer/Slicer/pull/1079)
+
   [Points video](https://www.dropbox.com/s/p8v1m7mgopsnrp4/Widget-rework.mkv?dl=0)
-  
+
   and added angle, line, open curve, and closed curve widgets.
-  
+
   [Open Curve video](https://www.dropbox.com/s/ap67lmxo0xh77h0/OpenCurve.mkv?dl=0)
- 
+
 - Andras and Sara tested and reported errors Davide fixed them
 - 17 of 27 known issues have been fixed. Open issues are mostly enhancements or problems in new features (not regressions in existing features).
 - Necessary VTK updates (double-click and selection event support) merged into Slicer/VTK

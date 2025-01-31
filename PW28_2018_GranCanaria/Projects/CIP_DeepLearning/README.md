@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Chest Imaging Platform: segmentation of lungs and pectoralis based on deep learning 
+# Chest Imaging Platform: segmentation of lungs and pectoralis based on deep learning
 
 ## Key Investigators
 

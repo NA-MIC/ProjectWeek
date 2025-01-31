@@ -47,7 +47,7 @@ Once build is fixed and the in-VR widget is added, arbitrary UI elements of Slic
 1. Build SlicerVR against VTK9 :heavy_check_mark:
     1. [KitwareMedical/SlicerVirtualReality#84](https://github.com/KitwareMedical/SlicerVirtualReality/pull/84): Update build system to support building against VTK9
     1. Created [KitwareMedical/VTKExternalModule](https://github.com/KitwareMedical/VTKExternalModule) for externally building any built-in or remote VTK module outside of the VTK source tree.
-    1. [vtk/vtk#8123](https://gitlab.kitware.com/vtk/vtk/-/merge_requests/8123): vtkModule: Do not generate files in source tree when building module externally 
+    1. [vtk/vtk#8123](https://gitlab.kitware.com/vtk/vtk/-/merge_requests/8123): vtkModule: Do not generate files in source tree when building module externally
 1. In-VR UI widgets
    1. Rebased VR widgets branch to the latest master to a [new branch](https://github.com/cpinter/SlicerVirtualReality/tree/virtual-widget-2)
    1. Built the SlicerVR branch succesfully with VTK9

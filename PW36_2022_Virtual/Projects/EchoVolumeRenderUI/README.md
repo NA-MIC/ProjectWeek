@@ -12,13 +12,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Add a short paragraph describing the project. -->
 
-In this project, we aim to rework the interface of the Echo Volume Render module in order to make it more intuitive and better adapted to clinical users' needs. 
+In this project, we aim to rework the interface of the Echo Volume Render module in order to make it more intuitive and better adapted to clinical users' needs.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-Update and polish the module's interface to improve its usability for clinical users. 
+Update and polish the module's interface to improve its usability for clinical users.
 
 ## Approach and Plan
 
@@ -27,7 +27,7 @@ Update and polish the module's interface to improve its usability for clinical u
 1. Have a good understanding of the Echo Volume Render's parameters
 1. Get input from users on what could be improved (Children's Hospital of Philadelphia (CHOP))
 1. Compare the module with commercial platforms to see which 3DE parameters are familiar to clinicians
-1. Determine the modifications to be made to improve the interface 
+1. Determine the modifications to be made to improve the interface
 1. Implement these modifications in the UI
 1. Send the updated interface to collaborators from CHOP to get feedback
 
@@ -37,7 +37,7 @@ Update and polish the module's interface to improve its usability for clinical u
 
 1. Discussion on previous versions of the module to understand the changes that have been made in the last 2 years
 1. Discussion with a collaborator from CHOP on aspects to be improved in the module
-1. Determined modifications that could potentially improve visualization of volume rendered 3DE : 
+1. Determined modifications that could potentially improve visualization of volume rendered 3DE :
     - Implement a [Phase Symmetry filter](https://pypi.org/project/itk-phasesymmetry/) to reduce noise in images while preserving anatomical details prior to volume rendering
     - Implement Gaussian filtering in the GPU
 

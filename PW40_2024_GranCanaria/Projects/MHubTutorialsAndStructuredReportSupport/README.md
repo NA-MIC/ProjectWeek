@@ -61,7 +61,7 @@ Results from PW40
     1. [T1 - Run TotalSegmentator on IDC Collection](https://github.com/MHubAI/documentation/blob/main/tutorials/run_totalsegmentator_on_idc_collection/mhub_tutorial_001.md)
     1. [T2 - Run Custom MHub Lung Segmentation Workflow on Chest CT in Nifti Format](https://github.com/MHubAI/documentation/blob/main/tutorials/run_lungmask_on_chestct_in_nifti_format/mhub_tutorial_002.md)
 1. We now have a full documentation for contributions to MHUb (use-case tutorial will follow soon ;))
-    1. [How to Contribute a Model to MHub](https://github.com/MHubAI/documentation/blob/main/documentation/mhub_contribution/contributing_a_model.md)   
+    1. [How to Contribute a Model to MHub](https://github.com/MHubAI/documentation/blob/main/documentation/mhub_contribution/contributing_a_model.md)
 
 
 # Illustrations
@@ -91,4 +91,3 @@ Code
 Other stuff
 - [JSON Representation of DICOM Structured Reports (DICOM Supplement 219 Trial Use Draft)](https://www.dclunie.com/dicom-status/status.html#Supplement219) including [slides explaining the purpose](https://dicom.nema.org/medical/dicom/Supps/Frozen/sup219_fz_JSONSR_TrialUse_Slides_20200116.pptx) and [sample Java implementation of DICOM SR to/from JSON](https://www.dclunie.com/pixelmed/software/javadoc/com/pixelmed/dicom/JSONRepresentationOfStructuredReportObjectFactory.html) in [PixelMed toolkit](https://www.dclunie.com/pixelmed/software/index.html).
 - dcmqi can be used to [create TID 1500 structured reports](https://qiicr.gitbook.io/dcmqi-guide/opening/cmd_tools/sr/tid1500writer) containing measurements derived from segmentations; this is the tool that was used in the recent paper/code for saving radiomics features: [https://github.com/ImagingDataCommons/nnU-Net-BPR-annotations](https://github.com/ImagingDataCommons/nnU-Net-BPR-annotations)
-

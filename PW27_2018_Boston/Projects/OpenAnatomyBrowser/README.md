@@ -22,9 +22,9 @@ The main objective of this project is to develop the open anatomy browser as a t
 
 ## Approach and Plan
 1. Refine a HAWG parser
-1. Study the framework and modules of oabrowser 
+1. Study the framework and modules of oabrowser
 1. Review other examples
-1. Investigate additional features to validate the prototypes 
+1. Investigate additional features to validate the prototypes
 
 ## Progress and Next Steps
 

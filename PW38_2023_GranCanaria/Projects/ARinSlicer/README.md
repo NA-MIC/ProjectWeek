@@ -17,7 +17,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Project Description
 Up to date, there has been a lack of software infrastructure to connect 3D Slicer to any augmented reality (AR) device. This project presents a novel connection approach using Microsoft HoloLens 2 and OpenIGTLink.
 This project has been developed in collaboration of [Universidad Carlos III de Madrid](https://biig-igt.uc3m.es/augmented-reality/) (Madrid, Spain) and Perk Lab in Queen's University.
-The current solution is implemented in a 3 elements system. It is composed by A Microsoft HoloLens 2 headset, the Unity software, and the 3D Slicer platform. 
+The current solution is implemented in a 3 elements system. It is composed by A Microsoft HoloLens 2 headset, the Unity software, and the 3D Slicer platform.
 
 ## Objective
 Create a universal module in 3D Slicer that sends all types of messages via OpenIGTLink.
@@ -26,7 +26,7 @@ Create a universal module in 3D Slicer that sends all types of messages via Open
 ## Approach and Plan
 1. 3D Slicer creates an OpenIGTLink server.
 2. Unity, containing the AR application, creates an OpenIGTLink client that connects to the server.
-3. When the application is executed in the Unity editor, it starts sending and receiving messages from 3D Slicer. Simultaneously, it wirelessly streams the app to Microsoft HoloLens 2 using Holographic Remoting. 
+3. When the application is executed in the Unity editor, it starts sending and receiving messages from 3D Slicer. Simultaneously, it wirelessly streams the app to Microsoft HoloLens 2 using Holographic Remoting.
 
 
 
@@ -63,6 +63,3 @@ Use this system for multiple HL2 interaction:
 ![Interaction2HL2_Simon_GIF](https://user-images.githubusercontent.com/66890913/216575916-e37b6a07-aab1-4710-b709-21ce56271eeb.gif)
 
 ![Interaction2HL2_Leo_GIF](https://user-images.githubusercontent.com/66890913/216621686-27d7ec42-8ad3-400c-b90c-da59a2a92358.gif)
-
-
-

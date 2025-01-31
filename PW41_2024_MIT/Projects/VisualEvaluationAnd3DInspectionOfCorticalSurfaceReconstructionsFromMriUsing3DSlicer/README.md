@@ -58,7 +58,7 @@ Progress
 
 During the NA-MIC Project Weeks, significant progress was made in the following areas:
 
-    
+
 **1- Neuroanatomy and Neurosegmentation Overview:** Attended sessions led by Professor Jarrett Rushmore on neuroanatomy, neurosegmentation, and the evaluation of brain structures.
 
 **2- Freesurfer Outputs Examination:** Analyzed the outputs of Freesurfer, identifying inaccuracies, such as regions mistakenly classified as cortical surface, like the hippocampus, and parts including gray matter instead of cortex.
@@ -75,7 +75,7 @@ Next Steps
 
 Moving forward, the following steps will be undertaken:
 
-    
+
 **1- Problem Resolution:** Address the issues identified during the visual evaluation of the model’s outputs, ensuring higher accuracy and structural integrity.
 
 **2- Extension Completion:** Finalize the development of the 3D Slicer extension to fully support the cortical surface reconstruction workflow.
@@ -98,4 +98,3 @@ _No response_
 
 
 _No response_
-

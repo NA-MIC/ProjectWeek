@@ -31,7 +31,7 @@
   {% endif %}
 
   {% assign pw_page_category = pw_page.category | default:"Uncategorized" %}
-  
+
   {% comment %}Force all non-matching projects to Uncategorized.{% endcomment %}
   {% unless page.project_categories contains pw_page_category %}
     {% assign pw_page_category = "Uncategorized" %}

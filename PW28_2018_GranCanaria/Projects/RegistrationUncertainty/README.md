@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 The overall goal is to use Gaussian process regression to estimate both deformations,
 as well as posterior distributions on deformations, from pairs of corresponding image
-features.  
+features.
 
 <!-- Add a short paragraph describing the project. -->
 
@@ -24,7 +24,7 @@ This week we will implement a radial basis function spline using convolution and
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. 
+1.
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->

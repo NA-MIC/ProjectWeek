@@ -7,7 +7,7 @@
     * If the link does not work (https issues) please try [here](https://github.com/NA-MIC/ProjectWeek/blob/master/PW41_2024_MIT/Projects/Template/README.md)
 3. Go back to [Projects](https://github.com/NA-MIC/ProjectWeek/tree/master/PW41_2024_MIT/Projects) folder on GitHub
 4. Click on "Create new file" button
-5. Type `YourProjectName/README.md`  
+5. Type `YourProjectName/README.md`
     - When naming the file, **please ensure there are no spaces/special characters in the folder or file name**
 6. Paste the previously copied content of project template page into your new `README.md`
 7. Update at least your project's __title, category, key investigators, location, and project description sections__

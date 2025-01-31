@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Pre-operative device placement holds a potential to characterize the anatomical relationship of cardiac device (valve/catheter) to the surrounding structures before actual surgery. The deformation and displacement of the device across the cardia cycle can also be assesed pre-operatively. 
+Pre-operative device placement holds a potential to characterize the anatomical relationship of cardiac device (valve/catheter) to the surrounding structures before actual surgery. The deformation and displacement of the device across the cardia cycle can also be assesed pre-operatively.
 
 ## Objective
 

@@ -38,7 +38,7 @@ version, fix known bugs and create a 3D Slicer extension.
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Creation of a 3D Bezier Markup.
-2. Meetings to decide on an integration strategy. 
+2. Meetings to decide on an integration strategy.
 
 ## Progress and Next Steps
 

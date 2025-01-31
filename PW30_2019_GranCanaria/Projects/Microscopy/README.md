@@ -46,12 +46,12 @@ Microscopy module.
 
 | Thresholding | Watershed |
 | -------------|-----------|
-| <img src="Figure1.1..png" width="400" height="250"> | <img src="Figure3.3.png" width="400" height="250"> | 
+| <img src="Figure1.1..png" width="400" height="250"> | <img src="Figure3.3.png" width="400" height="250"> |
 
 
 
 
-The other. 
+The other.
 
 | Watershed with markers for the different regions |
 | -----|
@@ -62,4 +62,3 @@ The other.
 
 + [Previous work in 3DSlicer](https://www.slicer.org/wiki/Documentation/Nightly/Extensions/IASEM)
 + [Segmentation of Microscopic Images](https://ieeexplore.ieee.org/document/6745404)
-

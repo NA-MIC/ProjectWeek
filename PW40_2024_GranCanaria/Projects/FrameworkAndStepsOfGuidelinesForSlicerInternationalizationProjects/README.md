@@ -48,7 +48,7 @@ Discuss and collect ideas about the topic with the members of the Slicer communi
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1.  Create and possibly conduct a short survey on what directions we could take, what would be important to grasp. 
+1.  Create and possibly conduct a short survey on what directions we could take, what would be important to grasp.
 
 ## Progress and Next Steps
 

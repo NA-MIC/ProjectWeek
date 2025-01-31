@@ -3,11 +3,11 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Interactive Segmentation Using the SegmentEditor
 
 ## Key Investigators
-- Houssem Gueziri (MNI) 
+- Houssem Gueziri (MNI)
 
 # Project Description
-<!-- Add a short paragraph describing the project. --> 
-Fast Delineation by Random Walker (FastDRaW) is a graph-based interactive segmentation approach implemented in Python. 
+<!-- Add a short paragraph describing the project. -->
+Fast Delineation by Random Walker (FastDRaW) is a graph-based interactive segmentation approach implemented in Python.
 This project aims at implementing a plugin in the SegmentEditor to perform FastDRaW in 3D Slicer.
 
 ## Objective
@@ -48,4 +48,4 @@ This project aims at implementing a plugin in the SegmentEditor to perform FastD
 
 - Source code: https://github.com/hgueziri/FastDRaW-Segmentation
 - Documentation: [FastDRaW paper](http://www.hifiv.ca/wp-houssem/wp-content/uploads/2016/09/FastDRaW_camera-ready.pdf)
-- Test data: 
+- Test data:

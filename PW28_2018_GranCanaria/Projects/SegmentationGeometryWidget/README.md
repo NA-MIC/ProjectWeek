@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Objective
 
 * Control over the geometry of the labelmap edited within the segmentation in Segment Editor is important, but so far the only possibility to specify it was by selecting the master volume before adding the first segment. This caused a lot of confusion.
-* If we had a widget to specify labelmap geometry from existing nodes and some advanced settings, then it would facilitate using finer segmentations without the Crop Volumes workaround, editing on oblique planes, and other cases of using special geometries. 
+* If we had a widget to specify labelmap geometry from existing nodes and some advanced settings, then it would facilitate using finer segmentations without the Crop Volumes workaround, editing on oblique planes, and other cases of using special geometries.
 
 ## Approach and Plan
 
@@ -25,7 +25,7 @@ Back to [Projects List](../../README.md#ProjectsList)
     * Model node
     * ROI node
 * Add button to Segment Editor module in the row of the master volume. When pressed, a dialog containing the widget is opened, and when OK'd, then the labelmaps are resampled
-* Replace reference image geometry button in segmentation conversion parameters dialog. It only saves the referfene image geometry conversion parameter, and doesn't do actual resampling. This means that it's only applied when explicitly converting to labelmap from other representation - as expected from how the advanced conversion parameters are set. 
+* Replace reference image geometry button in segmentation conversion parameters dialog. It only saves the referfene image geometry conversion parameter, and doesn't do actual resampling. This means that it's only applied when explicitly converting to labelmap from other representation - as expected from how the advanced conversion parameters are set.
 
 ## Progress and Next Steps
 

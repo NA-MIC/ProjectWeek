@@ -57,7 +57,7 @@ Accurate landmark identification is crucial in various dental procedures. Manual
 Data Collection: Use the 3DTeethLand-MICCAI2024 dataset, containing annotated 3D dental models.
 Model Development: Employ deep learning techniques, such as convolutional neural networks (CNNs), to develop the model.
 
-## Validation and Testing: 
+## Validation and Testing:
 
 Perform extensive testing with validation datasets to ensure robustness and accuracy.
 Software Integration: Collaborate with dental software developers for smooth integration.
@@ -79,17 +79,17 @@ Develop and validate an advanced AI model to accurately identify anatomical land
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-## Day 1 
+## Day 1
 
 ### Data Download & Preprocessing and Exploration
 
-Download the 3DTeethLand-MICCAI2024 dataset and explore the data structure. Visualize landmarks, surface models and setup the data for training. 
+Download the 3DTeethLand-MICCAI2024 dataset and explore the data structure. Visualize landmarks, surface models and setup the data for training.
 
 ## Day 2: Model Development, Training, and Testing
 
 ### ShapeAXI models for shape analysis
 
-Use point cloud (PC) and multi-view approaches for shape analysis. 
+Use point cloud (PC) and multi-view approaches for shape analysis.
 
 ### Initial Model Training:
 Begin training the model using the preprocessed dataset.
@@ -107,7 +107,7 @@ Begin training the model using the preprocessed dataset.
 
 Create a basic user interface in 3D Slicer.
 Documentation and Presentation Preparation.
-        
+
 ## Key Deliverables by End of Week:
 
 - Preprocessed and augmented dataset.
@@ -155,7 +155,3 @@ Baquero, Baptiste, Maxime Gillot, Lucia Cevidanes, Najla Al Turkestani, Marcela 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/7086191/9bcde2d2-3209-4ba5-9d24-60bb97f91a27)
 
 <img width="797" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/7086191/cbb3688e-8158-479a-b468-cb42a22ee146">
-
-
-
-

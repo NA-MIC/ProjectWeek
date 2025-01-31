@@ -53,7 +53,7 @@ During this project week, our goal is to develop use cases of training AI algori
 
 1.  Leverage information gained by applying inference using nnUNet prostate segmentation on several prostate imaging collections, for training pipelines.
 2.  Creation of whole prostate IDC training cohort: 45 T2W MRI scans and corresponding expert whole prostate annotations were used.
-3.  Creation of Google Colab use case showing how to build this cohort and begin a nnUNet training experiment. 
+3.  Creation of Google Colab use case showing how to build this cohort and begin a nnUNet training experiment.
 
 # Illustrations
 

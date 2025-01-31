@@ -85,4 +85,3 @@ GIF in case video does not show up:
 
 - [DeepEdit paper by Andrés](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LbnADQ0AAAAJ&citation_for_view=LbnADQ0AAAAJ:ns9cj8rnVeAC)
 - [Dent.AI 3D Guide software](https://www.youtube.com/watch?v=zs-0mZQLB48&ab_channel=DentAIMedicalImaging)
-

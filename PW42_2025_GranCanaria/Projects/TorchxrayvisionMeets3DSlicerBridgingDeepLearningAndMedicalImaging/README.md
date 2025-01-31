@@ -19,7 +19,7 @@ key_investigators:
 - name: Csaba Pintér
   affiliation: EBATINCA
   country: Spain
-  
+
 - name: Oscar Martin
   affiliation: EBATINCA
   country: Spain
@@ -63,7 +63,7 @@ By combining the advanced machine learning models from TorchXRayVision with the 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Create a Slicer Module 
+1. Create a Slicer Module
 2. Create an interface to upload X-Rays and perform automatic analysis
 3. Use TorchXRayVision framework to perform automatic analysis
 4. Compute heatmaps
@@ -111,5 +111,3 @@ Pathologies scores and heatmap validation:
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-
-

@@ -19,13 +19,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 MarkupConstraints is a Slicer module intended for Slicer extension developers to constrain
 and synchronize markups and control points of different nodes.
 
-The module has been developed to support Q3DCExtension, however I intend to expand it 
+The module has been developed to support Q3DCExtension, however I intend to expand it
 further for reuse in other interactive tools.
 
 ## Objective
 
 1. Robust constraints between control points in different vtkMRMLMarkupNode instances
-   * Support for constraining points between for example a line and fiducial markup is 
+   * Support for constraining points between for example a line and fiducial markup is
      very limited
 2. Detect dependency cycles and provide meaningful error messages
    * Slicer freezes indefinitely when updating constraints with cycles
@@ -40,7 +40,7 @@ further for reuse in other interactive tools.
 ## Progress
 
 * Created a Slicer module and logic with appropriate observers for applying constraints
-* Began refining API to support arbitrary constraints and dependencies (as means to 
+* Began refining API to support arbitrary constraints and dependencies (as means to
   resolve #1)
 * Fully resolved #1 with a robust API to define arbitrary constraints.
 * Created [architecture documentation][arch] and [API documentation][api] for build constraint functions.
@@ -66,6 +66,6 @@ Thanks to Kyle Sunderland (PerkLab) for his advice and inspiration!
 
 # Background and References
 
-Source code is hosted in [SlicerMarkupConstraints][repo]. 
+Source code is hosted in [SlicerMarkupConstraints][repo].
 
 [repo]: https://github.com/KitwareMedical/SlicerMarkupConstraints

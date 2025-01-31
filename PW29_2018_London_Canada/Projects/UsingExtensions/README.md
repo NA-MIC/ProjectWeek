@@ -22,7 +22,7 @@ Supervised machine learning methods require an input image with a corresponding 
 ## Progress and Next Steps
 
 - 3D images were loaded in as a Vector Volume, 2 points were used as inputs for tip and trajectory computation, then a needle model was created
-- The Volume Clip to Model module was used on the needle model to change the image to be white inside and black outside 
+- The Volume Clip to Model module was used on the needle model to change the image to be white inside and black outside
 - Since 2D images were loaded into Slicer as a Vector Volume, the Vector to Scalar Volume module was used to convert the images to use with 3D logic
 - 2D images do not have pixel spacing encoded, so a few "ctk.ctkDoubleSpinBox()" entry fields were added to accept user input
 

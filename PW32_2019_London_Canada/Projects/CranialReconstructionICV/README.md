@@ -7,7 +7,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 Post-cranial vault reconstruction, the skull often contains holes which makes existing automated processes of intracranial volume calculation not applicable.
-Goal is to find a faster way of calculating intracranial volume without manually delineating each slice while maintaining sufficient accuracy. 
+Goal is to find a faster way of calculating intracranial volume without manually delineating each slice while maintaining sufficient accuracy.
 
 ## Objective
 
@@ -22,4 +22,3 @@ Goal is to find a faster way of calculating intracranial volume without manually
 # Illustrations
 
 # Background and References
-

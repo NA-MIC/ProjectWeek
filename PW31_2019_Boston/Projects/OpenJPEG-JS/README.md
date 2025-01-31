@@ -58,4 +58,3 @@ There aren't any screenshots for cross-compiled code.
 [james]: https://github.com/jamesapetts
 [erik]: https://github.com/swederik
 [steve]: https://github.com/pieper
-

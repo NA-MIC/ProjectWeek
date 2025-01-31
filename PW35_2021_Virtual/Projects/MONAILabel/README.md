@@ -37,7 +37,7 @@ Introduce MONAI Label, create new Apps, and implement new features to facilitate
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Introduce MONAI Label in breakout session
-2. Implement the MONAI Label Apps 
+2. Implement the MONAI Label Apps
 3. Get more practice on the IDC
 4. Create DICOM datastore for MONAI Label
 5. Plan and discuss features to have in the OHIF plugin

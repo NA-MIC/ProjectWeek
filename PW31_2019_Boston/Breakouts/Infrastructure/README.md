@@ -3,7 +3,7 @@ Back to [Project Week](../../README.md)
 # Slicer Infrastructure Brainstorming
 
 * 4-5 pm Wednesday Jun 26, 2019
-* Room 32D-407 
+* Room 32D-407
 
 ## Organizers
 
@@ -59,13 +59,12 @@ to address new use cases and user communities.
   - better error / warning messages
   - on-the-fly resampling to fit in memory
 * Sweet spot seems to be looking at pyramid encoding options
-  - file formats like HDF 5 
+  - file formats like HDF 5
   - servers like dicomweb for larger data
   - there's some precedent but nothing completely standard at the moment
-  
+
 ## Keyframing
 
 * Good to build on ScreenCapture and Sequences
 * See if we can build something 'simple' something like powerpoint build effects in ScreenCapture
 * Longer term project to build a nice keyframe/timeline slider (Kitware will follow up with Murat on that)
-

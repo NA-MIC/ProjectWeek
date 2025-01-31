@@ -4,8 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Sonia Pujol, (Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA) 
-- Steve Pieper (Isomics Inc., Cambridge, MA, USA) 
+- Sonia Pujol, (Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA)
+- Steve Pieper (Isomics Inc., Cambridge, MA, USA)
 - Andras Lasso (Queen's University, Kingston, Canada)
 - Mamadou Camara (Cheikh Anta Diop University, Dakar, Senegal)
 - Adama Wade (Cheikh Anta Diop University, Dakar, Senegal)
@@ -18,13 +18,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-The goal of the project is to facilitate access to 3D Slicer in non-English speaking countries and foster global community engagement. The project is funded through an Essential Open Source Software for Science grant of the Chan Zuckerberg Initiative. 
+The goal of the project is to facilitate access to 3D Slicer in non-English speaking countries and foster global community engagement. The project is funded through an Essential Open Source Software for Science grant of the Chan Zuckerberg Initiative.
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. To identify members of the Slicer community interested in contributing translations in their native language. 
-1. Objective B. To connect Slicer Weblate to ReadTheDocs internationalization infrastructure 
+1. Objective A. To identify members of the Slicer community interested in contributing translations in their native language.
+1. Objective B. To connect Slicer Weblate to ReadTheDocs internationalization infrastructure
 
 ## Approach and Plan
 
@@ -40,7 +40,7 @@ The goal of the project is to facilitate access to 3D Slicer in non-English spea
 Describe specific steps you **have actually done**.
 1. We have made lots of progress on the translation of the DICOM, Models, Segmentation, and Volumes modules as well as the DICOM tutorial in french
 2. Some progress has been made with the extraction of the translatable strings in the Python code
-3. We set up test projects (main and translations) on ReadTheDocs to try out configurations and tools in order to determine the best fit for the documentation translation infrastructure, before applying those to the official Slicer documentation 
+3. We set up test projects (main and translations) on ReadTheDocs to try out configurations and tools in order to determine the best fit for the documentation translation infrastructure, before applying those to the official Slicer documentation
 4. We are experimenting with a file structure of one file per documentation section to ensure coherence in the order in which the sections are translated on Weblate
 5. An infrastructure is being set up to automatically mark translatable strings in the source code
 6. Tests are being made to come up with the best way to manage translations over different versions of Slicer

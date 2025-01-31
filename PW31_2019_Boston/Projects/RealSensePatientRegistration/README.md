@@ -10,10 +10,10 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-The goal of this project is to develop a module in Slicer for registering [Intel RealSense][realsense] depth data to a CT scan of a patient's 
-head and maintain this 
-tion using an optical marker. The module will use facial surface anatomy to perform initial 
-registration between the RealSense and a CT scan. An optical marker will be rigidly fixed to the patient's head within the 
+The goal of this project is to develop a module in Slicer for registering [Intel RealSense][realsense] depth data to a CT scan of a patient's
+head and maintain this
+tion using an optical marker. The module will use facial surface anatomy to perform initial
+registration between the RealSense and a CT scan. An optical marker will be rigidly fixed to the patient's head within the
 camera's field of view and used to preserve registration when the patient's face is no longer visible.
 
 ## Objective
@@ -26,7 +26,7 @@ Objective B: Maintain patient registration after face is no longer visible using
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Acquire depth images from the RealSense in Slicer and use them to generate a point cloud 
+1. Acquire depth images from the RealSense in Slicer and use them to generate a point cloud
 2. Determine how to stream these depth images and calculate the point cloud in real time
 3. Use a captured point cloud to verify the accuracy of the registration to a model
 4. Use Slicer to track an optical marker defined rigidly relative to the real time point cloud

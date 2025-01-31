@@ -14,43 +14,43 @@ key_investigators:
 - name: Luc Anchling
   affiliation: University of Michigan
   country: France
-  
+
 - name: Lucia Cevidanes
   affiliation: University of Michigan
   country: USA
-  
+
 - name: Selene Barone
   affiliation: University of Catanzaro
   country: Italy
-  
+
 - name: Juan Prieto
   affiliation: University of North Carolina
   country: USA
-  
+
 - name: Jonas Bianchi
   affiliation: University of Pacifique
   country: USA
-  
+
 - name: Marcela Gurgel
   affiliation: University of Michigan
   country: USA
-  
+
 - name: Najla Al Turkestani
   affiliation: University of Michigan
   country: USA
-  
+
 - name: Felicia Miranda
   affiliation: University of Sao Paulo
   country: Brezil
-  
+
 - name: Denise Curado
   affiliation: University of Michigan
   country: USA
-  
+
 - name: Kinjal Mavani
   affiliation: University of Michigan
   country: USA
-  
+
 - name: Kinjal Mavani
   affiliation: University of Michigan
   country: USA
@@ -58,25 +58,25 @@ key_investigators:
 - name: Margaret Eason
   affiliation: University of Michigan
   country: USA
-  
+
 - name: Aron Aliage del Castilo
   affiliation: University of Michigan
   country: USA
-  
+
 ---
 
 
 # Project Description
-This project propose a tool to automatically register intra oral scan of upper jaw. The method can register growth and non-growing patient. 
-The registration method is based on neural network to create a region of interest on the palate, and ICP (Iterest Closest Point) to register. 
-The neural network has been trained with extraction and non-extraction case, growing and non-growing patient to have robust neural network. 
+This project propose a tool to automatically register intra oral scan of upper jaw. The method can register growth and non-growing patient.
+The registration method is based on neural network to create a region of interest on the palate, and ICP (Iterest Closest Point) to register.
+The neural network has been trained with extraction and non-extraction case, growing and non-growing patient to have robust neural network.
 We will leave the option to the users to also register the mandible by applying the transformation matrix of the maxilla to the mandible.
 
-The actual code is on this [repository](https://github.com/HUTIN1/ALIDDM/tree/refactoring/py/Palete/CNN). 
+The actual code is on this [repository](https://github.com/HUTIN1/ALIDDM/tree/refactoring/py/Palete/CNN).
 
-## Objective 
+## Objective
 1. Start to implement automatic registration of IOS in Slicer
-2. Deploy Areg 
+2. Deploy Areg
 
 ## Approach And Plan
 1. Find a method to perform Automatic Registration of IOS
@@ -85,7 +85,7 @@ The actual code is on this [repository](https://github.com/HUTIN1/ALIDDM/tree/re
 
 
 ## Progress and Next Steps
-### Progress 
+### Progress
 1. Method and script working
 2. User Interface
 

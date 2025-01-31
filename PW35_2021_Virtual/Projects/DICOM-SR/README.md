@@ -34,7 +34,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 1. dcmjs already has full implementation for Length and Bidirectional
 2. aimapi has the draft implementation on for the conversion of AIM to DICOM-SR and back
-3. Got test data from Andrey ([https://www.dropbox.com/s/98rylgt25b2sm9r/planar_annotations.zip?dl=0]). 
+3. Got test data from Andrey ([https://www.dropbox.com/s/98rylgt25b2sm9r/planar_annotations.zip?dl=0]).
     - The sample has 1 prostate, one lung.
     - They have SCOORD and SCOORD3D instead of measurements to identify polyline and point respectively. dcmjs support is dependent on the measurement existance
     - for point dcmjs point object expects a CONTAINS:NUM:center => inferred from: SCOOR3D: point structure, whereas the sample point has CONTAINS:SCOORD3D:Image Region
@@ -44,7 +44,7 @@ Back to [Projects List](../../README.md#ProjectsList)
     - [Bidirectional](https://github.com/dcmjs-org/data/releases/tag/DICOMSR_CCC2018_Bidirectional)
     - [Point Planar](https://github.com/dcmjs-org/data/releases/tag/DICOMSR_Prostate_X)
     - [Bounding-box Planar](https://github.com/dcmjs-org/data/releases/tag/DICOMSR_PetCtLung_BB)
-5. Added reading [tests](https://github.com/dcmjs-org/dcmjs/blob/sr-update-aim/test/test_sr.js) for each shape 
+5. Added reading [tests](https://github.com/dcmjs-org/dcmjs/blob/sr-update-aim/test/test_sr.js) for each shape
 6. Added adapter [test sample](https://github.com/dcmjs-org/dcmjs/blob/sr-update-aim/test/test_adapters.js) for bidirectional
 7. Implemented freehand DICOMSR writing and reading. And tested it by the conversion of AIM to DICOMSR. [Freehand AIM](https://github.com/RubinLab/epadlite/blob/feature/dicomsr/test/data/sr/freehand.json) [Freehand DICOMSR](https://github.com/RubinLab/epadlite/blob/feature/dicomsr/test/data/sr/freehand.dcm)
     - It uses the TID 300 representation and adds the ROI multiple times for each calculation. David Clunie suggested we use TID 1401, put the ROI first and add the measurements as children. The discussion is on [github PR](https://github.com/dcmjs-org/dcmjs/pull/197). We will fix this as a future work but it needs more discussion about changing the implementation for other shapes and how to support the old DICOM SRs. We will add test cases when the implementation is finalized
@@ -55,7 +55,7 @@ Back to [Projects List](../../README.md#ProjectsList)
     - Segmentation implementation
     - The unit of pixel values are either SUV for PETs or HU (otherwise). I added pixelUnit support to the tool, but currently cornerstone tools doesn't support it so it defaults to this behavior
     - Multiple Measurement Groups/ROIs in one DICOMSR
-    - Point/Probe shape support 
+    - Point/Probe shape support
 
 # Illustrations
 

@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Anatomical Atlases Mauritania. 
+# Anatomical Atlases Mauritania.
 
 ## Key Investigators
 
@@ -14,7 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Mohamed Bamba (undergraduate, FM- UNA)
 - Yahya Abatna (undergraduate, FM- UNA)
 - Mariem Isselmou (undergraduate, FM- UNA)
-- Mohamed Aly Dedew (undergraduate, FM- UNA) 
+- Mohamed Aly Dedew (undergraduate, FM- UNA)
 - MOROCCO
 - Siham Alaoui (University Abdelmalek Essaâdi)
 - Mouhcine Madani (University Abdelmalek Essaâdi)
@@ -46,7 +46,7 @@ These atlases and their creation process will be used as training material in th
 ## Progress and Next Steps
 
 1. Atlases created for testing are already finished
-1. The Mauritanian team is creating new atlases 
+1. The Mauritanian team is creating new atlases
 1. Files to be uploaded to our server with the open anatomy browser are to be created
 1. It is a challenge to gather quality images to be segmented, so a main interest point for us is to gather these images for different parts of the body normal and with some kind of pathology to be segmented
 
@@ -59,4 +59,3 @@ These atlases and their creation process will be used as training material in th
 
 - [Pelvis Atlas project](https://projectweek.na-mic.org/PW30_2019_GranCanaria/Projects/PelvicAnatomyAtlases/)
 - [Atlas Development For Education project](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/AtlasDevelopmentForEducation/)
-

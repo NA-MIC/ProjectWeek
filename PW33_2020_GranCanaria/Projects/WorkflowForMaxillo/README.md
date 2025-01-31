@@ -17,7 +17,7 @@ Adapt an already existing workflow to Slicer. Currently it inolves MeshMixer and
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1.Take a look at the current way of doing it and see what (likely not too big ) adjustments need to be done to be able to achieve the same results from within Slicer. 
+1.Take a look at the current way of doing it and see what (likely not too big ) adjustments need to be done to be able to achieve the same results from within Slicer.
 
 
 ## Approach and Plan

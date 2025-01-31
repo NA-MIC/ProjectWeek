@@ -51,7 +51,7 @@ We hold weekly preparation meetings at 10AM EST (4PM CET) on Tuesdays on Zoom, s
 -->
 - **Registration is now closed**
 - Remote participation will not be possible at this project week
- 
+
 **Important: The deadline for registration and payment of the fee is Jan 22nd** (extended one week). If you have problems with the payment or registration, contact [namic@ebatinca.com](mailto:namic@ebatinca.com).
 
 **Note:** EU regulations require 2FA for all payments. European banking standards and most credit cards support this by default. If your payment doesn't process due to 2FA issues, please reach out for a custom payment link at [namic@ebatinca.com](mailto:namic@ebatinca.com).

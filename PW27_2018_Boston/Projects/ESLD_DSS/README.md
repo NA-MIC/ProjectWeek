@@ -31,7 +31,7 @@ We are using Partner's image database for a corpus of imaging data (liver diseas
 
 1. Understand standard/established clinical scores and effects/representation in medical imaging.
 1. Familiarize with the data from this study.
-1. Review and discuss current literature/ feature extraction approaches. 
+1. Review and discuss current literature/ feature extraction approaches.
 1. This is kind of a Project Kick-Off: Create a work plan how to approach this problem also beyond the scope of the project week.
 
 ## Approach and Plan
@@ -41,14 +41,14 @@ We are using Partner's image database for a corpus of imaging data (liver diseas
 
 ## Progress
 
-1. We had a first team meeting to bring together computer scientists and clinicians. 
+1. We had a first team meeting to bring together computer scientists and clinicians.
 1. Dr. Wall reviewed her progress in selecting a small set of optimal diseased and control patients. This process has been challenging because many people with liver disease have had surgery or tumor ablation that changes the liver morphology. It is also not possible to select only patients on 3T scanner before BWH began using EPIC (2015).
 1. Alireza Ziaei,  Raul San Jose, and Randy Gollub are assisting with RPDR querying and image retrieval.
 1. Jennifer worked on CITI training for IRB clearance to access the data. And talked with experts using PyRadiomics on MRI Data and their approaches on evaluating features (Michael Schwier and Joost van Griethuysen).
 
 ## Next Steps
 
-1. Lock down the image queying and retrieval pipeline.  
+1. Lock down the image queying and retrieval pipeline.
 1. Get deidentified data to University of Bremen team.
 1. Think hard about segmentation, machine learning, and analysis techniques for the data.
 

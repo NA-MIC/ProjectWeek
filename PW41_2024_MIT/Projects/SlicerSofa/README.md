@@ -108,7 +108,7 @@ Slicer-SOFA was born during [PW40](https://projectweek.na-mic.org/PW40_2024_Gran
     	* Turning off Qt and OpenGL dependencies doesn't seem to work - it would be best to build just the core simulation and python wrapping.
      	* Building in release mode didn't recognize libaries
  * Added a reset simulation functionality (rafaelpalomar/SlicerSOFA#23) by Quinn Williams
-      
+
 
 
 
@@ -151,4 +151,3 @@ _No response_
         --launcher-additional-settings ${DIR}/Slicer-SOFA-build/inner-build/AdditionalLauncherSettings.ini
     ```
   * Then paste a [script like this](https://github.com/pieper/Slicer-SOFA/blob/main/Experiments/lung.py) into the python console.
-

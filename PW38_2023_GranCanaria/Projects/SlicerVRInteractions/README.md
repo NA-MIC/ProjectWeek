@@ -25,7 +25,7 @@ Kitware and Robarts (Jean-Christophe Fillion Robin, Lucas Gandel, Sankhesh Jhave
 1. Fix the main controller interactions
     * Flying (joystick forward-backward)
     * Grab and move objects (trigger down and move)
-    * Two-controller world move/zoom (i.e. 3D pinch) 
+    * Two-controller world move/zoom (i.e. 3D pinch)
 2. Customization of controller buttons. Either via the
     * Method in-place (functions integrated [here](https://github.com/KitwareMedical/SlicerVirtualReality/pull/87), see also [here](https://github.com/KitwareMedical/SlicerVirtualReality/pull/83))
     * Json manifest files (see [here](https://github.com/Kitware/VTK/tree/master/Rendering/OpenVR))
@@ -49,7 +49,7 @@ Kitware and Robarts (Jean-Christophe Fillion Robin, Lucas Gandel, Sankhesh Jhave
 1. Cherry-picked said commits, built, and confirmed that the fly and grab&move features worked
 1. Confirmed that the actions manifest works on the HP Reverb 2 headset
 1. Started work towards restoring the "Pinch 3D" complex gesture (saving initial physical to world transform and manipulate world as the controllers move)
-1. Created coarse UML model of the relationship between SlicerVR and VTK VR to help troubleshoot the module. 
+1. Created coarse UML model of the relationship between SlicerVR and VTK VR to help troubleshoot the module.
 
 ![Class diagram SlicerVR vs VTK](slicer-vr-class-diagram-2.png)
 
@@ -65,7 +65,7 @@ https://user-images.githubusercontent.com/1325980/216611394-4e46ff9a-21b1-4e96-8
 [![SlicerVR example](https://i.ytimg.com/an_webp/F_UBoE4FaoY/mqdefault_6s.webp?du=3000&sqp=CN7D_50G&rs=AOn4CLDzwAi5yXSmiMEkmmgMkmwYpQJY3Q)](https://www.youtube.com/watch?v=F_UBoE4FaoY&t=153s&ab_channel=PerkLabResearch)
 
 [![SlicerVR collaborative example](https://i.ytimg.com/an_webp/Sw3JyKfvW6Q/mqdefault_6s.webp?du=3000&sqp=CJy8_50G&rs=AOn4CLDkH1pgzs3NCJqno3cJrc5lz8Oq-Q)](https://www.youtube.com/watch?v=Sw3JyKfvW6Q&ab_channel=EbatincaS.L.)
- 
+
 ![In-VR widget example](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/SlicerVRInfrastructure/VRWidget.gif)
 
 # Background and References

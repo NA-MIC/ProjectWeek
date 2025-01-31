@@ -16,7 +16,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 1. Setup readthedocs documentation
 1. Setup continuous integration
 
-<!-- 
+<!--
 ## Approach and Plan
 -->
 

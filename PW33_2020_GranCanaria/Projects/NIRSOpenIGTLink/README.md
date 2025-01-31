@@ -24,7 +24,7 @@ In this project, we will explore the possibility of communicating a proprietary 
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1.	Discuss the convenience of making our NIRS device OpenIGTLink-compliant.  
+1.	Discuss the convenience of making our NIRS device OpenIGTLink-compliant.
 2.	Select minimum set of queries/messages to implement.
 3.	Implement a simple 3DSlicer module showing control/interaction with NIRS device.
 
@@ -32,39 +32,39 @@ In this project, we will explore the possibility of communicating a proprietary 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
-- OpenIGTLink library was installed in NIRS device uProcessor (Raspberry Pi Zero) 
+- OpenIGTLink library was installed in NIRS device uProcessor (Raspberry Pi Zero)
 - TrackerServer example code was changed (myTrackerServer) to receive simulated position parameters from uController.
-- <a href="myTrackerServer.cxx"> myTrackerServer and ImageServer example code were implemented as services in the Raspberry Pi Zero to have a simple tracking and image servers </a>. 
-- SlicerOpenIGTLink module was installed in 3DSlicer to define connectors and visualize tracking and image data. 
+- <a href="myTrackerServer.cxx"> myTrackerServer and ImageServer example code were implemented as services in the Raspberry Pi Zero to have a simple tracking and image servers </a>.
+- SlicerOpenIGTLink module was installed in 3DSlicer to define connectors and visualize tracking and image data.
 - A minimum mechanism was successfully implemented in the NIRS device to communicate with 3D Slicer through OpenIGTLink protocol.
-- Raspberry pi Zero W + microcontroller combined system is an powerful and cheap option for making OpenIGTLink-compatible hardware and interacting with Slicer.   
+- Raspberry pi Zero W + microcontroller combined system is an powerful and cheap option for making OpenIGTLink-compatible hardware and interacting with Slicer.
 
 
 # Illustrations
-<img src="Diagrama2.png" width="652" height="356"> 
+<img src="Diagrama2.png" width="652" height="356">
 Fig. 1: Architecture (original figure at the beginning of workshop) .
 </p>
-<br>  
-<br>  
+<br>
+<br>
 
-<img src="Diagrama3.png" width="782" height="427"> 
+<img src="Diagrama3.png" width="782" height="427">
 Fig. 2: System architecture (detail). NIR light sensors/sources modules were not installed in the hardware setup used in this workshop.
 </p>
-<br>  
-<br>  
+<br>
+<br>
 
 
-<img src="3D-Slicer-4.11.0-2019-06-24-2020-01-23-18-32-24.gif" > 
-Fig. 3: Operation example. ImagerClient is running in the red window. TrackerClient is running in 3D window. Microcontroller is turned on ("operationmode" command) and off ("commandmode") by sending TCP/IP commands. TrackerClient receive position data when microcontroller is on.  
+<img src="3D-Slicer-4.11.0-2019-06-24-2020-01-23-18-32-24.gif" >
+Fig. 3: Operation example. ImagerClient is running in the red window. TrackerClient is running in 3D window. Microcontroller is turned on ("operationmode" command) and off ("commandmode") by sending TCP/IP commands. TrackerClient receive position data when microcontroller is on.
 </p>
-<br>  
-<br>  
+<br>
+<br>
 
-<img src="PICRASPIPROTO.jpg" width="800" height="600"> 
-Fig. 4: Hardware Setup used during the workshop.  
+<img src="PICRASPIPROTO.jpg" width="800" height="600">
+Fig. 4: Hardware Setup used during the workshop.
 </p>
-<br>  
-<br>  
+<br>
+<br>
 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.

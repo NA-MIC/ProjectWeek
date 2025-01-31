@@ -63,4 +63,3 @@ In general, the SlicerPipelines extension is meant to help improve efficiency wh
 - [Discourse post on SlicerPipelines](https://discourse.slicer.org/t/pipelines-in-3d-slicer/20107)
 - [Main Github Repository](https://github.com/KitwareMedical/SlicerPipelines)
 - [Github fork actively being developed](https://github.com/Connor-Bowley/SlicerPipelines)
-

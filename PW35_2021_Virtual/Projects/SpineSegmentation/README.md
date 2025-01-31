@@ -1,21 +1,21 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Development of Deep Learning Segmentation for Spines with Metastatic Disease 
+# Development of Deep Learning Segmentation for Spines with Metastatic Disease
 
 ## Key Investigators
 
 - Ron Alkalay (Beth Israel Deaconess Medical Center)
 - Curtis Lisle  (KnowledgeVis,LLC)
-- Andres Diaz-Pinto (Kings College Longon) 
+- Andres Diaz-Pinto (Kings College Longon)
 - Andras Lasso (Queens University)
 
 ## Project Description
 
-We have labeled CT data sets for lumbar and/or thoracic as well as full spine columns for 
-patients at baseline. For a good # of patients, we also have 3 and 6m follow-up CT, but these are 
-not yet labeled.  It would be great to get some help/advice regarding how to 
+We have labeled CT data sets for lumbar and/or thoracic as well as full spine columns for
+patients at baseline. For a good # of patients, we also have 3 and 6m follow-up CT, but these are
+not yet labeled.  It would be great to get some help/advice regarding how to
 speed up the segmentation for the labeling and extraction of volume information from the masks.
-The segmented volumes are needed for the analytical and computational modeling pipeline 
+The segmented volumes are needed for the analytical and computational modeling pipeline
 as part of a collaboration with MIT. Lytic spines present a special segmentation challenge because the interior of
 vertibrae have degraded and appear like surrounding tissue in CT scans.
 
@@ -23,9 +23,9 @@ vertibrae have degraded and appear like surrounding tissue in CT scans.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Setup MONAI-based neural network training on the labeled scans. 
-1. Objective B. Investigate using MONAILabel as a possibly better way to annotate new scans. 
-1. Objective C. Train a DNN on the labeled data.  Can this model be used in MONAILabel? 
+1. Objective A. Setup MONAI-based neural network training on the labeled scans.
+1. Objective B. Investigate using MONAILabel as a possibly better way to annotate new scans.
+1. Objective C. Train a DNN on the labeled data.  Can this model be used in MONAILabel?
 1. Objective D. Find a path forward to better annotation using DL-assisted segmentation.
 
 ## Approach and Plan
@@ -33,7 +33,7 @@ vertibrae have degraded and appear like surrounding tissue in CT scans.
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Start with publically available VerSe spine dataset.
-1. Evaluate MONAILabel from Andres using model trained on VerSe as a segmentation tool for these lytic spines.  How good is segmentation? 
+1. Evaluate MONAILabel from Andres using model trained on VerSe as a segmentation tool for these lytic spines.  How good is segmentation?
 1. Consider fine-tuning model in MONAILabel with lytic spines from our dataset
 1. Train model on only our lytic spines for comparison
 1. Install MONAILabel on GPU hardware at BI to setup for better annotation after project week
@@ -45,7 +45,7 @@ vertibrae have degraded and appear like surrounding tissue in CT scans.
 1. Received permission to share a few cases with collaborators
 1. Acquired GPU hardware.  Evaluated installing Linux, WSL, and Conda-on-windows. Settled on Windows
 2. Andres Diaz-Pinto used the VerSe spine dataset to create a MONAILabel vertebrae segmentation app
-3. Curt was able to install and run MONAILabel locally 
+3. Curt was able to install and run MONAILabel locally
 4. Andras Lasso helped with a script to fill internal holes in the vertebrae
 5. Segmentation Editor performance is improved with the VTK9 version of Slicer and Andras engineering fixes
 6. Curt started preparing for ML training of a network using Ron's improved annotations, but this is still in progress.
@@ -66,7 +66,7 @@ This protocol can be used to quickly and accurately segmentat the spine (each ve
 ![Description of picture](Example2.jpg)
 ![Some more images](Example2.jpg)
 -->
-Here is an example of how the degraded vertebrae look in CT scans and the challenges of segmentation in Slicer. 
+Here is an example of how the degraded vertebrae look in CT scans and the challenges of segmentation in Slicer.
 Note the interior holes because of the heterogeneous nature of the lytic bone.
 
 ![Sample lytic vertebrae](lytic-vertebrae-example.png)
@@ -92,4 +92,3 @@ Development was started for training a standalone neural network model, also usi
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
 [VerSe: A Vertebra Labelling and Segmentation Benchmark](https://www.researchgate.net/publication/338853005_VerSe_A_Vertebrae_Labelling_and_Segmentation_Benchmark).
-

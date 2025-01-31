@@ -20,7 +20,7 @@ This project aims to produce a flexible toolset for analysis of shape and form f
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Provide image import tools that support a broad range of image modalities and filetypes, including non-DICOM image outputs from research microCT scanners.  
+1. Provide image import tools that support a broad range of image modalities and filetypes, including non-DICOM image outputs from research microCT scanners.
 2. Support common preprocessing steps, that may be required before analysis, including downsampling very large files produced by research microCT scanners.
 3. Develop a module to implement Generalized Procrustes Analysis (GPA) and Principal Component Analysis (PCA) and visualize output statistics.
 
@@ -28,11 +28,11 @@ This project aims to produce a flexible toolset for analysis of shape and form f
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Custom image import tool 
+1. Custom image import tool
 2. Custom landmark file import tool
 3. Module to downsize images on import, optimized for speed.
 4. Module to downsize images on import, optimized for memory usage.
-5. Module to load large images, crop blank space, and saving ROI. 
+5. Module to load large images, crop blank space, and saving ROI.
 6. Module to perform GPA, PCA, and visualize statistical output
 
 ## Results

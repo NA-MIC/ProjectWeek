@@ -62,4 +62,3 @@ Result:
 <!--- Source code: https://github.com/YourUser/YourRepository  -->
 <!--- Documentation: https://link.to.docs  -->
 <!--- Test data: https://link.to.test.data  -->
-

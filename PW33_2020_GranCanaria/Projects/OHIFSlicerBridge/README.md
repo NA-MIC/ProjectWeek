@@ -23,7 +23,7 @@ Possible scenarios:
   * continue segmentation with Slicer Segment Editor
   * transfer results back to dicomweb server and continue review in OHIF
 * Other use cases?
-  
+
 ## Objectives
 
 Define use cases and explore implementation options.
@@ -35,7 +35,7 @@ Possible implementation plan:
   * passes in path to study, slocer downloads and loads the data ready to segment
   * opens new tab to slicer vnc
   * user can push segmentation results back to same study via dicomweb
-  
+
 List other requirements:
 * reasonable performance launching and using cloud slicer for segmentation
 * secured connection to Slicer
@@ -57,7 +57,7 @@ List other requirements:
 2. Implemented downloading of DICOM data to local Slicer from browser using dicomweb from a url: ```slicer://viewer/?studyUID=%202.16.840.1.113669.632.20.121711.10000158860&access_token=token_here&dicomweb_endpoint=http%3A%2F%2Fdemo.kheops.online%2Fapi&dicomweb_uri_endpoint=%20http%3A%2F%2Fdemo.kheops.online%2Fapi%2Fwado```
 <details>
  <summary>Registry key to associate Slicer application with "slicer://" custom URL</summary>
- 
+
  ```
  Windows Registry Editor Version 5.00
 
@@ -82,4 +82,3 @@ List other requirements:
 ![SlicerInOHIF](Untitled.png)
 
 ## Background and References
-

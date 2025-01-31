@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Virtual reality interface improvement 
+# Virtual reality interface improvement
 
 ## Key Investigators
 

@@ -36,7 +36,7 @@ Both server and local content are located at the same place and are visualized b
 
 The widget is currently an experimental feature in Slicer (DICOM module). Current Roadmap is at [link](https://github.com/commontk/CTK/issues/1162).
 
-**Over the past year, improvements have been made to the performance and stability of the widget (full references in [Background and References](#background-and-references)). 
+**Over the past year, improvements have been made to the performance and stability of the widget (full references in [Background and References](#background-and-references)).
 As a result, the widget is now prepared for broader testing and feedback from both users and developers.**
 
 ## Objective
@@ -55,23 +55,23 @@ As a result, the widget is now prepared for broader testing and feedback from bo
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Have a meeting/demo with people interested for colletting feedback.  
+1. Have a meeting/demo with people interested for colletting feedback.
 1. Prioritize/coordinated any future development based on the feedback.
 
 ## Progress and Next Steps
 
 1. Feedback has been collected (generally positive!!!):
-   - **Leonard Nürnberg:**  
-     - Add an option in settings to order series in the study widget by modality.  
-     - Automatically load the source volume when loading a segmentation.  
-     - Render SEG DICOM thumbnails (already a known issue, [https://github.com/commontk/CTK/issues/1162#Thumbnailsserieswidgets](https://github.com/commontk/CTK/issues/1162#Thumbnailsserieswidgets)).  
-     - Improve UI clarity regarding querying PACS servers vs. filtering the local database (e.g., display a dialog explaining the difference when a user opens the visual DICOM browser for the first time).  
-   - **Tina Kapur:**  
-     - Add a button to enable full-screen mode in the Visual DICOM browser.  
-     - Modify *Edit → Application Settings → DICOM → Thumbnail Size* (small, medium, large) to apply changes without requiring a restart.  
+   - **Leonard Nürnberg:**
+     - Add an option in settings to order series in the study widget by modality.
+     - Automatically load the source volume when loading a segmentation.
+     - Render SEG DICOM thumbnails (already a known issue, [https://github.com/commontk/CTK/issues/1162#Thumbnailsserieswidgets](https://github.com/commontk/CTK/issues/1162#Thumbnailsserieswidgets)).
+     - Improve UI clarity regarding querying PACS servers vs. filtering the local database (e.g., display a dialog explaining the difference when a user opens the visual DICOM browser for the first time).
+   - **Tina Kapur:**
+     - Add a button to enable full-screen mode in the Visual DICOM browser.
+     - Modify *Edit → Application Settings → DICOM → Thumbnail Size* (small, medium, large) to apply changes without requiring a restart.
      - Address UI performance issues when importing large cohorts (e.g., 490 patients with 3,931 DICOM series).
      - Patient selection UI is not optimal for a number of patient > 50 (already a known issue, [https://github.com/commontk/CTK/issues/1162#Filtering](https://github.com/commontk/CTK/issues/1162#Filtering))
-     - Implement support for ultrasound video visualization in the Visual DICOM browser (already a known issue, see [CTK issue #1162](https://github.com/commontk/CTK/issues/1162#long-termENH) and [Slicer Discourse thread](https://discourse.slicer.org/t/new-frame-set-table-in-the-dicom-database/35012)).  
+     - Implement support for ultrasound video visualization in the Visual DICOM browser (already a known issue, see [CTK issue #1162](https://github.com/commontk/CTK/issues/1162#long-termENH) and [Slicer Discourse thread](https://discourse.slicer.org/t/new-frame-set-table-in-the-dicom-database/35012)).
 
 1. The 2025 [roadmap](https://github.com/commontk/CTK/issues/1162) had been updated, but priorities will be evaluated following an assessment of current funding opportunities.
 
@@ -106,22 +106,20 @@ UML Diagram:
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-- [PR CTK 1187](https://github.com/commontk/CTK/pull/1187) 
-- [PR CTK 1191](https://github.com/commontk/CTK/pull/1191) 
-- [PR Slicer 7676](https://github.com/Slicer/Slicer/pull/7676) 
-- [PR CTk 1201](https://github.com/commontk/CTK/pull/1201) 
-- [PR CTK 1202](https://github.com/commontk/CTK/pull/1202) 
-- [PR CTK 1203](https://github.com/commontk/CTK/pull/1203) 
-- [PR Slicer 7751](https://github.com/Slicer/Slicer/pull/7751) 
-- [PR CTK 1206](https://github.com/commontk/CTK/pull/1206) 
-- [PR CTK 1217](https://github.com/commontk/CTK/pull/1217) 
-- [PR CTK 1218](https://github.com/commontk/CTK/pull/1218) 
-- [PR Slicer 7811](https://github.com/Slicer/Slicer/pull/7811) 
-- [PR Slicer 7912](https://github.com/Slicer/Slicer/pull/7912) 
+- [PR CTK 1187](https://github.com/commontk/CTK/pull/1187)
+- [PR CTK 1191](https://github.com/commontk/CTK/pull/1191)
+- [PR Slicer 7676](https://github.com/Slicer/Slicer/pull/7676)
+- [PR CTk 1201](https://github.com/commontk/CTK/pull/1201)
+- [PR CTK 1202](https://github.com/commontk/CTK/pull/1202)
+- [PR CTK 1203](https://github.com/commontk/CTK/pull/1203)
+- [PR Slicer 7751](https://github.com/Slicer/Slicer/pull/7751)
+- [PR CTK 1206](https://github.com/commontk/CTK/pull/1206)
+- [PR CTK 1217](https://github.com/commontk/CTK/pull/1217)
+- [PR CTK 1218](https://github.com/commontk/CTK/pull/1218)
+- [PR Slicer 7811](https://github.com/Slicer/Slicer/pull/7811)
+- [PR Slicer 7912](https://github.com/Slicer/Slicer/pull/7912)
 - [PR CTK 1221](https://github.com/commontk/CTK/pull/1221)
 
 - [PW40 Project](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/SlicerVisualDICOMBrowser/)
 
 - [PW38 Project](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerVisualDICOMbrowser/)
-
-

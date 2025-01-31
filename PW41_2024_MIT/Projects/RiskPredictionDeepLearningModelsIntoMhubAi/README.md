@@ -28,7 +28,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-[Mhub.ai](https://mhub.ai/)  is a framework to enhance reproducible research by standardizing models into Mhub containers that could be flexible and effortless to use. 
+[Mhub.ai](https://mhub.ai/)  is a framework to enhance reproducible research by standardizing models into Mhub containers that could be flexible and effortless to use.
 Therefore I aim to add two often used risk prediction models (Sybil and CVD-risk-estimator), to make it easy for the community to run such models through Mhub using a standardized way (by one simple command).
 
 
@@ -51,7 +51,7 @@ Therefore I aim to add two often used risk prediction models (Sybil and CVD-risk
 1.  Attending MHub workshop held at PW, so that I grasp best practices.
 2.  Start with a basic hands on -> [Mhub.ai](https://mhub.ai/)  converter from DICOM to NRRD.
 3.  Wrap the risk prediction models (Sybil / CVD-risk-estimator) for [Mhub.ai](https://mhub.ai/)  Framework.
-4.  Run the models on data using [Mhub.ai](https://mhub.ai/)  and Github, to compare the simplicity of the approach, efficiency (time and effort) and output.  
+4.  Run the models on data using [Mhub.ai](https://mhub.ai/)  and Github, to compare the simplicity of the approach, efficiency (time and effort) and output.
 
 
 
@@ -88,7 +88,6 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-- [Mhub](https://mhub.ai/) 
+- [Mhub](https://mhub.ai/)
 - [Sybil-Cancer Prediction Model](https://github.com/reginabarzilaygroup/Sybil/tree/main)
 - [CVD-Risk-Estimator](https://github.com/DIAL-RPI/CVD-Risk-Estimator/tree/master?tab=readme-ov-file)
-

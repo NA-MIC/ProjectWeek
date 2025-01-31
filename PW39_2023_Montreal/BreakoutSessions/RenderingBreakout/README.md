@@ -16,27 +16,27 @@ key_investigators:
 - name: Steve Pieper
   affiliation: Isomics, Inc.
   country: USA
-  
+
 - name: Murat Maga
   affiliation: University of Washington
   country: USA
-  
+
 - name: Andras Lasso
   affiliation: Queen's University
   country: Canada
-  
+
 - name: Sara Rolfe
   affiliation: Seattle Children's Research Institute
   country: USA
-  
+
 - name: Jean-Christophe Fillion-Robin
   affiliation: Kitware, Inc.
   country: USA
-  
+
 - name: Stephen Aylward
   affiliation: Kitware, Inc.
   country: USA
-  
+
 - name: Rafael Palomar
   affiliation: NTNU
   country: Norway
@@ -77,7 +77,7 @@ The goal of this breakout session is to gather all parties interested in the fut
 
 ## During the Breakout Session
 
-Links and notes are organized at [https://hackmd.io/Mq81LxbYTfqrwOBRjxrb6Q](https://hackmd.io/Mq81LxbYTfqrwOBRjxrb6Q). It is a markdown based document we can collaboratively & interactively edit. 
+Links and notes are organized at [https://hackmd.io/Mq81LxbYTfqrwOBRjxrb6Q](https://hackmd.io/Mq81LxbYTfqrwOBRjxrb6Q). It is a markdown based document we can collaboratively & interactively edit.
 
 Once the breakout session is over, we will contribute the information back to this page. See [Notes](#notes) below.
 
@@ -101,7 +101,7 @@ Once the breakout session is over, we will contribute the information back to th
   * New Slicer Mixed-Reality module (for Hololens remoting)
   * Support for OpenXR in Slicer Virtual Reality module
   * Status of WebXR in vtk.js
- 
+
 # Notes
 
 ## VTK C++: WebGPU
@@ -123,7 +123,7 @@ Questions:
 * multi-volume rendering
   * Will it be the default ? In the OpenGL backend, there were two backends.
   * vtkMultiVolume issues
-      * `SetVisibility` issue 
+      * `SetVisibility` issue
       * `UserMatrix` not taken into account for the first volume (issue) (works in `TestGPURayCastMultiVolumeOverlapping`)
       * Cropping
       * Shading
@@ -150,7 +150,7 @@ Notes:
   * https://virtualgl.org/
   * Idea would be to support Differential Rendering
       * https://towardsdatascience.com/differentiable-rendering-d00a4b0f14be
-      * 
+      *
 
 * Review meeting ?
 
@@ -206,7 +206,7 @@ See https://docs.google.com/presentation/d/1mrMe8w2G5hgRan0KzdwqrxgKGLfyR-h3mM7K
 
 _Contact: Stephen Aylward & Forrest Li @ Kitware_
 
-> The diversity and utility of cinematic volume rendering (CVR) for medical image visualisation have grown rapidly in recent years. At the same time, volume rendering on augmented and virtual reality systems is attracting greater interest with the advance of the WebXR standard. 
+> The diversity and utility of cinematic volume rendering (CVR) for medical image visualisation have grown rapidly in recent years. At the same time, volume rendering on augmented and virtual reality systems is attracting greater interest with the advance of the WebXR standard.
 
 See https://doi.org/10.1080/21681163.2022.2145239
 
@@ -228,8 +228,8 @@ Web:
 * ITK IO are compiled to WASM and re-used in vtk.js based web application
 * ITK-WASM is a building block for VTK-WASM
 
-OME-Zarr: 
-* https://www.biorxiv.org/content/10.1101/2023.02.17.528834v1 
+OME-Zarr:
+* https://www.biorxiv.org/content/10.1101/2023.02.17.528834v1
 * https://github.com/InsightSoftwareConsortium/itkwidgets/blob/main/examples/integrations/zarr/OME-NGFF-Brainstem-MRI.ipynb
 
 Slicer + Large Image Rendering:

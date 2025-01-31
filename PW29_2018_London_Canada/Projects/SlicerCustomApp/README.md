@@ -36,7 +36,7 @@ SlicerCustomAppTemplate is a starting point for creating a custom 3D Slicer-base
 
 * Improved `SlicerCustomAppTemplate` to support packaging of Superbuild based extension
 
-* Fixed [openigtlink/SlicerOpenIGTLink](https://github.com/openigtlink/SlicerOpenIGTLink) to support integration in Custom application. 
+* Fixed [openigtlink/SlicerOpenIGTLink](https://github.com/openigtlink/SlicerOpenIGTLink) to support integration in Custom application.
 
 * Next steps:
   * Move `qSlicerMainWindow`, `qSlicerAboutDialog` into `Slicer/Base/QtApp` for easier re-use

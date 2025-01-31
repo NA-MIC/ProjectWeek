@@ -14,7 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-* Review the newly exposed GLSL hooks in VTK as a mechanism to add features to Slicer's Volume Rendering 
+* Review the newly exposed GLSL hooks in VTK as a mechanism to add features to Slicer's Volume Rendering
 * Possible features to explore
   * Optimized performance/quality for multiple overlapping volumes
   * Custom clipping or other rendering features
@@ -66,7 +66,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 | ![](edge-and-shading.png) | ![](decluttered-crop.png) | ![](volume-carving-crop.png) |
 
 
-| Blood flow animation in PRISM |  |  | 
+| Blood flow animation in PRISM |  |  |
 | --- | --- | --- |
 | ![](flow-illustration-crop.png) |  |  |
 

@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 New release of the Chest Imaging Platform (last one supporting Python 2!).
 
-Chest Imaging Platform migration to Python 3. 
+Chest Imaging Platform migration to Python 3.
 
 
 ## Objective

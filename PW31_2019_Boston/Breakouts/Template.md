@@ -29,4 +29,3 @@ Back to [Project Week](../../README.md)
 # Results of Discussion
 
 <!-- To be filled out after the event. -->
-

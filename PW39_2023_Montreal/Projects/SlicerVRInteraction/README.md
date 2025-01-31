@@ -18,19 +18,19 @@ key_investigators:
 - name: Simon Drouin
   affiliation: ÉTS Montréal
   country: Canada
-  
+
 - name: Jean-Christophe Fillion-Robin
   affiliation: Kitware, Inc.
   country: USA
-  
+
 - name: Andrey Titov
   affiliation: ÉTS Montréal
   country: Canada
-  
+
 - name: Tina Nantenaina
   affiliation: ÉTS Montreal
   country: Canada
-  
+
 - name: Lea Vong
   affiliation: ÉTS Montréal
   country: Canada
@@ -52,9 +52,9 @@ Kitware and Robarts (Jean-Christophe Fillion Robin, Lucas Gandel, Sankhesh Jhave
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-In PW 37, basic interaction has been fixed. 
+In PW 37, basic interaction has been fixed.
 
-1. Fix the two-controller world move/zoom (i.e. 3D pinch) 
+1. Fix the two-controller world move/zoom (i.e. 3D pinch)
 2. Customization of controller buttons. Either via the
     * Method in-place (functions integrated [here](https://github.com/KitwareMedical/SlicerVirtualReality/pull/87), see also [here](https://github.com/KitwareMedical/SlicerVirtualReality/pull/83))
     * Json manifest files (see [here](https://github.com/Kitware/VTK/tree/master/Rendering/OpenVR))

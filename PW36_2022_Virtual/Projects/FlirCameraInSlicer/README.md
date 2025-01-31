@@ -33,9 +33,9 @@ Integration of Flir Thermal Camera in Slicer in order to capture and process ima
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. We have developed the interface class for the Flir thermal Camera with all necessary functions for connecting and capturing the images 
+1. We have developed the interface class for the Flir thermal Camera with all necessary functions for connecting and capturing the images
 1. We import the mentioned interface class into de Python of Slicer and we were able to capture images by simulating the camera
-1. We started to acquaint with the extensions of Slicer 
+1. We started to acquaint with the extensions of Slicer
 1. We will try to learn more about the abilities of Slicer extensions in order to apply them in Python
 
 

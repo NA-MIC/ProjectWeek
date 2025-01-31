@@ -58,7 +58,7 @@ Several relevant projects were presented during the DICOM breakout session on We
 * Andrey: Imaging Data Standardization for AI and Big Data applications [slides](http://bit.ly/2Wt9AxX)
 * Steve: Demonstrations of OHIF DICOM interoperability
 * Srikrishna Prasad: Use of DICOM in Siemens Teamplay
-* Marco Nolden, Tobias Stein: Use of DICOM in the *DKTK Joint Imaging Platform* and the [Segmentation Review System](https://drive.google.com/file/d/1NXiu18mCFXrIaEgQ1WdzBbmq9igIyZNN/view?usp=sharing) 
+* Marco Nolden, Tobias Stein: Use of DICOM in the *DKTK Joint Imaging Platform* and the [Segmentation Review System](https://drive.google.com/file/d/1NXiu18mCFXrIaEgQ1WdzBbmq9igIyZNN/view?usp=sharing)
 * Markus Herrmann: DICOM for Digital Pathology
 * Peter Oppermann and Hans Meine: DICOM on FIHR [notes](https://docs.google.com/document/d/1INqLOu4xOQN59_ifdMc7P8qhqb08SiY5LRs59kgCCRw), see [this project page](https://projectweek.na-mic.org/PW30_2019_GranCanaria/Projects/DICOMSRTID1500-FHIR/) for more info
 Both Markus and "DICOM on FIHR" use the [DICOM4QI](https://dicom4qi.readthedocs.io) datasets as reference for development.

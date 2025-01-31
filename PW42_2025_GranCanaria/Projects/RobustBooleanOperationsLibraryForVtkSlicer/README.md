@@ -31,7 +31,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-Support robust boolean operations for 2D triangle meshes inside VTK or Slicer through an external library. This would allow an alternative to current boolean operations engine, `vtkbool` (from Sandbox's extension CombineModels module), which is better than the default one of vtk but still unstable for complex meshes such as the ones used in the biomedical domain 
+Support robust boolean operations for 2D triangle meshes inside VTK or Slicer through an external library. This would allow an alternative to current boolean operations engine, `vtkbool` (from Sandbox's extension CombineModels module), which is better than the default one of vtk but still unstable for complex meshes such as the ones used in the biomedical domain
 
 
 
@@ -85,4 +85,3 @@ _No response_
 
 
 _No response_
-

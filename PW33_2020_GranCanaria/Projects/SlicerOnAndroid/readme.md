@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Attila Nagy  (University of Szeged)
 - Steve Pieper (Isomics)
-- 
+-
 
 # Project Description
 
@@ -17,7 +17,7 @@ Investigate the possibilities of portig Slicer to Android, to be used in a Deskt
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Put together a software environment with all the needed tools for cross-compilation and document it. 
+1. Put together a software environment with all the needed tools for cross-compilation and document it.
 1. Proof of concept work: compile an example Qt app for ARM64 and install and run it on phone.
 1. Once there, try to actually compile.
 

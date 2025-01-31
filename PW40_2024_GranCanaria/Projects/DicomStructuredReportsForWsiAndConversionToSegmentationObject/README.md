@@ -96,7 +96,7 @@ for x in range(groups[0].roi.value.shape[0]):
     coords.append([groups[0].roi.value[x][0],groups[0].roi.value[x][1]])
 ```
 **Much shorter code!**
-5. Rendering still done with opencv, but planning to switch to rasterio. 
+5. Rendering still done with opencv, but planning to switch to rasterio.
 6. Bioformats as new DICOM conversion library to be supported in Kaapana (currently mostly based on PixelMed.)
 
 # Illustrations

@@ -21,13 +21,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 Augmented Reality has increased its adoption in many areas with exciting benefits. Universidad Carlos III de Madrid (Madrid, Spain) has already worked in several medical projects
-based on AR (see their progress in https://biig-igt.uc3m.es/augmented-reality/). On these studies, they usually export information from Slicer to an alternative software (Unity). 
+based on AR (see their progress in https://biig-igt.uc3m.es/augmented-reality/). On these studies, they usually export information from Slicer to an alternative software (Unity).
 
 The ultimate goal of this project is to develop a new 3D Slicer module that will allow to use augmented reality directly in 3D Slicer. With it, it will be possible
 to centralize the working process, at the time of benefiting from all Slicer tools.
 
 Ebatinca S.L. in Las Palmas de Gran Canaria (Spain), has already started this project in collaboration with Kitware (France) and Universidad Carlos III de Madrid (Spain) and
-they all are currently developing OpenXR. 
+they all are currently developing OpenXR.
 
 ## Objective
 

@@ -67,7 +67,7 @@ Our progress was somewhat less than it could have been otherwise since we could 
     3.  We combined the baseline models with the baselien and follow-up clinical measures to get a rough estimate of their combined predictive power.
 3. We started implementing the "joint modelling" approach that combines standard survival analyses with linear mixed effects modeling.
 
-We learned that a significant number of converters (close to 40%) do so before there is a chance for a follow-up visit. This complicates the comparison between baseline and follow-up predictions. We also saw little advantage of combining baseline and follow-up information. The mild benefits of follow-up information resided in the follow-up values alone and not their change relative to baseline. 
+We learned that a significant number of converters (close to 40%) do so before there is a chance for a follow-up visit. This complicates the comparison between baseline and follow-up predictions. We also saw little advantage of combining baseline and follow-up information. The mild benefits of follow-up information resided in the follow-up values alone and not their change relative to baseline.
 Now that we have converged on an understanding of the dataset and the measures to be used for modeling, the next stepts involve estimations using "joint modeling". We hope to also create a python wrapper to these R packages that can be generally useful. A subsequent step would include multivariate modeling of trajectories.
 
 

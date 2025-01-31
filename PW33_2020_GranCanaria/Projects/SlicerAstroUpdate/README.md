@@ -35,7 +35,7 @@ Low priority:
 * [ ]  (9) Fix compilation of wcslib for windows for having SlicerAstro binaries for windows too.
 * [ ]  (10) Consider updating BBarolo from 1.4 to 1.5.
 
-Last two points will be addressed later on (tickets: [107][slicerastroissue107] and [108][slicerastroissue108]). 
+Last two points will be addressed later on (tickets: [107][slicerastroissue107] and [108][slicerastroissue108]).
 
 **All the 13 SlicerAstro modules are updated and properly working with current Slicer master branch (23/01/2020)!**
 
@@ -56,4 +56,3 @@ For more information refer to this [link](https://github.com/Punzo/SlicerAstro/w
 [slicerastroissue]: https://github.com/Punzo/SlicerAstro/issues/106
 [slicerastroissue107]: https://github.com/Punzo/SlicerAstro/issues/107
 [slicerastroissue108]: https://github.com/Punzo/SlicerAstro/issues/108
-

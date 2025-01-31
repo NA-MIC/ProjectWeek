@@ -27,7 +27,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-Majority of currently available deep learning (DL) cone-beam computed tomography (CBCT) segmentation models were trained on data of healthy, completely dentated patients. These models might not produce accurate segmentations of datasets with dentoalveolar hard tissue defects. Our group has perviously developed a Deep Learning-based model for the automatic segmentation of dental cone-beam computed tomography (CBCT) scans which was trained on CBCT images with dentoalveolar pathological processes [1][2]. The current model uses a two-staged SegResNet-based architecture from MONAILabel. Despite of the relatively low sample training data it produced sufficient accuracy (93% compared to semi-automatic segmentation). However, the model's robustness has to be improved. Using the MONAI Auto3DSeg framework and an enlarged training database the project aims to develop an improved model for the automatic segmentation of dental CBCT scans present with dentoalveolar pathological processes. 
+Majority of currently available deep learning (DL) cone-beam computed tomography (CBCT) segmentation models were trained on data of healthy, completely dentated patients. These models might not produce accurate segmentations of datasets with dentoalveolar hard tissue defects. Our group has perviously developed a Deep Learning-based model for the automatic segmentation of dental cone-beam computed tomography (CBCT) scans which was trained on CBCT images with dentoalveolar pathological processes [1][2]. The current model uses a two-staged SegResNet-based architecture from MONAILabel. Despite of the relatively low sample training data it produced sufficient accuracy (93% compared to semi-automatic segmentation). However, the model's robustness has to be improved. Using the MONAI Auto3DSeg framework and an enlarged training database the project aims to develop an improved model for the automatic segmentation of dental CBCT scans present with dentoalveolar pathological processes.
 
 
 
@@ -37,7 +37,7 @@ Majority of currently available deep learning (DL) cone-beam computed tomography
 
 
 We have previously trained a two-stage SegResNet-based model for the automatic segmentation of dental CBCT scans. The project was initiated at the [36th project week](https://projectweek.na-mic.org/PW36_2022_Virtual/Projects/AutomaticSegmentationofTeethandAlveolarBone/).
-The goal is to re-train the model including the new training data and the latest DL tools. 
+The goal is to re-train the model including the new training data and the latest DL tools.
 
 
 
@@ -96,4 +96,3 @@ A: semi-automatic segmentation, B: deep learning segmentation
 
 1. Hegyi, A., Somodi, K., Pintér, C., Molnár, B., Windisch, P., García-Mato, D., Diaz-Pinto, A., & Palkovics, D. (2024). Mesterséges intelligencia alkalmazása fogászati cone-beam számítógépes tomográfiás felvételek automatikus szegmentációjára [Automatic segmentation of dental cone-beam computed tomography scans using a deep learning framework]. Orvosi hetilap, 165(32), 1242–1251. [https://doi.org/10.1556/650.2024.33098](https://doi.org/10.1556/650.2024.33098)
 2. Palkovics, D., Hegyi, A., Molnar, B., Frater, M., Pinter, C., García-Mato, D., Diaz-Pinto, A., & Windisch, P. (2025). Assessment of hard tissue changes after horizontal guided bone regeneration with the aid of deep learning CBCT segmentation. Clinical oral investigations, 29(1), 59. [https://doi.org/10.1007/s00784-024-06136-w](https://doi.org/10.1007/s00784-024-06136-w)
-

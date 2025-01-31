@@ -53,7 +53,7 @@ The initial motivation for this project was to simplify creation of synthetic da
 Two possible solutions have been discussed for the implementation:
 1. Add functions to Markups Editor module in the SlicerMorph extension
 2. Add to Slicer core in the Markups module. Currently the interaction handles are disabled if any point is locked. This can be modified so that locked points remain fixed and unlocked points move when using a markup's interaction handles. This solution will not allow scaling since this is not currently supported for most Markup types.
-   
+
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.

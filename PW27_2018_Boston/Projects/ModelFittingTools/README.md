@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andrew Beers (MGH/HST)
 - Hans Meine (MEVIS)
 
-# Project Description 
+# Project Description
 
 ## Objective
 
@@ -56,7 +56,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
-- Projects considered to be (possibly) part of the refactored extension : 
+- Projects considered to be (possibly) part of the refactored extension :
     - https://github.com/millerjv/PkModeling
     - https://github.com/QIICR/T1Mapping
     - https://github.com/SlicerProstate/SlicerProstate/tree/master/DWModeling

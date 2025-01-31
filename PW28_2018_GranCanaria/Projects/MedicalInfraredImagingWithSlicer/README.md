@@ -36,12 +36,12 @@ It is intended mainly for monitoring of foot ulcers in diabetic patients. The in
 
 ## Progress and Next Steps
 
-<b> 1. Progress </b> 
+<b> 1. Progress </b>
 - Acquisition module has been finished
 - Initial version of the segmentation & registration modules have been developed
 - The new Slicer module for semi-automatic foot ulcer assessment is in progress
 
-<b> 2. Next steps </b> 
+<b> 2. Next steps </b>
 - To finish the module for semi-automatic foot ulcer assessment
 - To improve the camera calibration procedure
 - To test machine learning approaches for feet segmentation
@@ -62,7 +62,7 @@ Temperature Comparisons.
 
 ![](https://gph.is/2KwjY1v)
 
-## Acquisition and automatic registration & segmentation modules 
+## Acquisition and automatic registration & segmentation modules
 
 <img src="IMG_6630.jpg" width="450" height="320">
 

@@ -31,7 +31,7 @@ is to integrate FEniCS into a Slicer extension.
 
 1. Install FEniCS Python packages inside Slicer.
 1. Run FEniCS demo inside Slicer.
-1. Create Slicer FEniCS extension. 
+1. Create Slicer FEniCS extension.
 
 ## Progress and Next Steps
 

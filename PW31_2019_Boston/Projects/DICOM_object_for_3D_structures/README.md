@@ -15,9 +15,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Create and vizualise in DICOM module 3D distance map as a part of structure set.  
+1. Create and vizualise in DICOM module 3D distance map as a part of structure set.
 2. Additionally have iso-distance levels as structure labelmaps.
-1. GUI to select iso-distance levels. 
+1. GUI to select iso-distance levels.
 
 ## Approach and Plan
 

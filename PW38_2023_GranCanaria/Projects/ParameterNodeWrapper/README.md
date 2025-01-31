@@ -39,7 +39,7 @@ class VectorToScalarVolumeParameterNode:
 class VectorToScalarVolumeWidget(ScriptedLoadableModuleWidget):
   def setup(self):
     self._parameterNode = VectorToScalarVolumeParameterNode(self.logic.getParameterNode())
-    
+
   def updateParameterNodeFromGUI(self, caller=None, event=None):
     # Modify all properties in a single batch
     with slicer.util.NodeModify(self._parameterNode):
@@ -47,7 +47,7 @@ class VectorToScalarVolumeWidget(ScriptedLoadableModuleWidget):
       self._parameterNode.OutputVolume = self.ui.outputSelector.currentNode()
       self._parameterNode.ConversionMethod = self.ui.methodSelectorComboBox.currentData
       self._parameterNode.ComponentToExtract = self.ui.componentsSpinBox.value
-    
+
   def onApplyButton(self):
     self.logic.run(self._parameterNode.InputVolume,
                    self._parameterNode.OutputVolume,

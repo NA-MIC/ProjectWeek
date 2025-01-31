@@ -92,4 +92,3 @@ Rhu J, Choi GS, Kim MS, Kim JM, Joh JW. Image guidance using two-dimensional ill
 
 
 Oh, N., Kim, JH., Rhu, J. *et al.* Automated 3D liver segmentation from hepatobiliary phase MRI for enhanced preoperative planning. *Sci Rep* **13**, 17605 (2023). [https://doi.org/10.1038/s41598-023-44736-w](https://doi.org/10.1038/s41598-023-44736-w)
-

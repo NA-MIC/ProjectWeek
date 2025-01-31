@@ -16,13 +16,13 @@ research. The great success of 3D Slicer is now pushing the boundaries of
 research, making some research groups and companies regard 3D Slicer as a viable
 software for building medical devices that not only could support regular
 clinical workflows but also become commercial products. While the development of
-3D Slicer has been tailored towards research, its modular architecture makes the 
+3D Slicer has been tailored towards research, its modular architecture makes the
 development of industrial prototypes possible.
 
 The vision of Systole OS is the integration of 3D Slicer and related software (e.g,
 Plus Toolkit, MONAI Label and more!) in a free and open-source operating system
 based on GNU/Linux, with the aim to support the development and deployment of
-medical devices. 
+medical devices.
 
 ![Systole](systole.png)
 
@@ -30,7 +30,7 @@ Here are some of the features that we would like to leverage in
 Systole OS:
 
 ### Cutting-edge software
-  
+
 Systole OS is based on Gentoo Linux, which follows a rolling-release model
 providing up-to-date support out of box.
 
@@ -65,10 +65,10 @@ system with your own ovelay or override packages provided by Systole.
 The main objective for PW38 is the consolidation of the development achieved in [PW37](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SystoleOS) in Virtual Machines and Containers; this will enable researchers and developers to test the system and contribute to its development. This objective includes the generation of documentation to get started with the project.
 
 As secondary objectives we aim to continue advancing on the integration of 3D Slicer:
- 
+
  - Enabling Python support
  - Porting scripted modules
- 
+
 as well as the integration of allied technologies:
 
  - Plus Toolkit
@@ -111,10 +111,10 @@ Systole Overlay
 │   ├── AddScalarVolumes           |
 │   ├── ExtractSkeleton            |
 │   ├── ModelMaker                 |
-│   └── SlicerExecutionModel       | 
-├── Slicer-Loadable                
+│   └── SlicerExecutionModel       |
+├── Slicer-Loadable
 │   ├── Annotations                #Remove
-│   ├── Cameras                    #Needs update 
+│   ├── Cameras                    #Needs update
 │   ├── Colors                     |
 │   ├── Data                       |
 │   ├── DoubleArrays               |
@@ -191,4 +191,3 @@ Our most pressing issue right now is to integrate all the core modules and relea
 1. [SystoleOS project in PW37](https://github.com/NA-MIC/ProjectWeek/tree/master/PW37_2022_Virtual/Projects/SystoleOS)
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-

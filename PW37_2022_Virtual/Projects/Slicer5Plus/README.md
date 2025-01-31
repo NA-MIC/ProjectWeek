@@ -6,7 +6,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Sam Horvath (Kitware Inc.)
 - Andras Lasso (Queen's University, Kingston, Canada)
-- Steve Pieper (Isomics Inc., Cambridge, MA, USA) 
+- Steve Pieper (Isomics Inc., Cambridge, MA, USA)
 - Jean-Christophe Fillion-Robin (Kitware Inc.)
 
 # Project Description
@@ -17,7 +17,7 @@ During this project week, we would like to discuss a *broad* roadmap for major f
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Develop that starting point of the Slicer 6 roadmap 
+1. Develop that starting point of the Slicer 6 roadmap
 
 ## Approach and Plan
 
@@ -34,13 +34,13 @@ During this project week, we would like to discuss a *broad* roadmap for major f
     1. Modularization ("pip install slicer")
         - Heavily dependent on improved VTK remote module support
         - Exampe of current progress with VTK remote modules can be found in [SlicerLookingGlass](https://github.com/Kitware/LookingGlassVTKModule)
-        - This modularization will support 3D Slicer cloud projects as well as simplifying the build system 
+        - This modularization will support 3D Slicer cloud projects as well as simplifying the build system
     1. Distributing a Slicer SDK
         - Allowing development on C++ modules without building all of Slicer
         - We have been working on making VTK SDKs [available](https://vtk.org/files/wheel-sdks/)
-    1. Ability to update an installed Slicer version 
+    1. Ability to update an installed Slicer version
     1. Laying the groundwork for hybrid desktop / web Slicer applications
-1. Short term (Slicer minor releases in the next year) 
+1. Short term (Slicer minor releases in the next year)
     1. Using oriented image data support already available in VTK
     1. Extension auto updates (already available for preview)
     1. Expanding language support

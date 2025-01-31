@@ -9,7 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Louise Oram (The Intervention Centre, Oslo University Hospital; Oslo and Akershus University College)
 
 # Project Description
-  
+
 NorMIT-Plan is part of the **Nor**wegian centre for **M**inimally **I**nvasive Guided **T**hrerapy (NorMIT). The centre offers resources for medical technology research in minimally invasive therapies. NorMIT-Plan is a software package developed as a 3D Slicer extension which will provide tools for segmentation, 3D modeling and surgical plannif for liver resection procedures.
 
 ## Objective

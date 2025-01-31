@@ -38,4 +38,3 @@ Create a low-cost simulator for ultraosund-guided needle insertions with simulat
 - Source code: https://github.com/Lyla-M/SlicerWeek
 - Documentation: https://uwoca-my.sharepoint.com/:p:/g/personal/ymu2_uwo_ca/EXJa9eaoqh1KicOWnQV8bWsBKeiZLQC7Th-wl4dSaBbBJw?e=4BBl4O
 - Test data: https://link.to.test.data
-
