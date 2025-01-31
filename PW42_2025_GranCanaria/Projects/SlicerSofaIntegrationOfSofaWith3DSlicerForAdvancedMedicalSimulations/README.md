@@ -89,7 +89,7 @@ The SlicerSOFA project aims to integrate the SOFA (Simulation Open Framework Arc
 
 2. Update and expand SlicerSOFA
   - Update SOFA and SOFA Python 24.12 ([PR#42](https://github.com/Slicer/SlicerSOFA/pull/42))
-
+  - Add new SOFA plugins ([PR#42](https://github.com/Slicer/SlicerSOFA/pull/35))
 
 
 # Illustrations
