@@ -118,7 +118,7 @@ ORDER BY
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
+![](overview_label.png)
 
 
 # Background and References
