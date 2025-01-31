@@ -77,8 +77,12 @@ In this project week, we will focus on creating a 3DSlicer module.
 
 # Illustrations
 
+<video
+   controls muted
+   src="https://github.com/user-attachments/assets/79328d1d-ce78-4209-b98d-ad14e846e94c"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
-https://github.com/user-attachments/assets/79328d1d-ce78-4209-b98d-ad14e846e94c
 
 ![PW_42_image_CNN_cropped](https://github.com/user-attachments/assets/b20ed579-95b0-4a32-8bde-96b61fc48efa)
 
