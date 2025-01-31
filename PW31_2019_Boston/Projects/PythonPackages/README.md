@@ -31,7 +31,7 @@ The objective is to have a consistent interface / process for installing patyhon
 3. Document experience installing and using various python packages in Slicer
   * which ones work well with no problems
   * what properties of some packages lead to problems (e.g. conflicting dependencies)
- 
+
 
 ## Progress and Next Steps
 

@@ -17,7 +17,7 @@
 
 ## Approach and Plan
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
-1. The Levels of emotional awareness scale (LEAS) is used to assess social cognition. It has two parts: LEAS-self and LEAS-other, which are used to assess the ability to identify our own feeling and those of others, respectively. 
+1. The Levels of emotional awareness scale (LEAS) is used to assess social cognition. It has two parts: LEAS-self and LEAS-other, which are used to assess the ability to identify our own feeling and those of others, respectively.
 
 1. Previously we have shown correlations between gray matter and the LEAS score.
 
@@ -45,8 +45,8 @@ Potential white matter tracts of emotional awareness.
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 
 1. Malcolm JG, Shenton ME, Rathi Y. Filtered multitensor tractography. IEEE Trans Med Imaging. 2010 Sep;29(9):1664-75.  PMID: 20805043.
- 
+
 1. Zhang F, Wu Y, Norton I, Rigolo L, Rathi Y, Makris N, O'Donnell LJ. An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan. Neuroimage. 2018 Oct 1;179:429-447, PMID:29920375.
- 
+
 1. Martin Jáni, Zora Kikinis, et al., Neural Correlates of Emotional Awareness in Schizophrenia,
 Manuscript in preparation.

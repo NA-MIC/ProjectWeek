@@ -14,9 +14,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-The World Health Organization recommends a rate of cesareans inferior than 15%. 
+The World Health Organization recommends a rate of cesareans inferior than 15%.
 However, the actual rates in the US double this value, while the use of obstetrical instruments,
-a recommended alternative to cesareans but which requires high skill and experience, has significantly decreased in the latest years. 
+a recommended alternative to cesareans but which requires high skill and experience, has significantly decreased in the latest years.
 In this context there is a clear demand for simulators, with special interest in learning the correct use of Kielland’s forceps.
 
 In 2018, we developed a training software in 3D Slicer for the correct use of forceps.
@@ -42,7 +42,7 @@ The goal of this project is to translate this software into a Virtual Reality (V
 1. Visualize the simulators and forceps models in the VR scene. :heavy_check_mark:
 2. Define a correct starting viewpoint. :heavy_check_mark:
 3. Decide how to move the forceps with the VR controllers. :heavy_check_mark:
-4. Learn how to access buttons from the controllers. (Already tested although with Simon's version) ❗ 
+4. Learn how to access buttons from the controllers. (Already tested although with Simon's version) ❗
 5. Define a way of selecting the step for the procedure (assembly, presentation, initial placement, final placement). A panel could be a good idea.
 6. For each step, check whether the placement was correct or not. :heavy_check_mark: (2/6)
 7. Connect to the same scene from other device.
@@ -93,4 +93,3 @@ VR video: [https://youtu.be/Q8b7IehEQhE](https://youtu.be/Q8b7IehEQhE)
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 * [Publication of non-VR training system](https://link.springer.com/chapter/10.1007%2F978-3-030-01201-4_9)
 * [Video of non-VR training system](https://www.youtube.com/watch?v=EEasWbH1jZI)
-

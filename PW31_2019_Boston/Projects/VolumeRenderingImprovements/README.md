@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Matthew Jolley](http://www.chop.edu/doctors/jolley-matthew-a) (Children's Hospital of Philadelphia)
 - [Steve Pieper](http://www.spl.harvard.edu/pages/People/pieper) (Isomics)
 - [Csaba Pinter](http://perk.cs.queensu.ca/users/pinter) (Queen's University, Canada)
-- [Simon Drouin](http://nist.mni.mcgill.ca/?page_id=369) (Montreal Neurological Institute, Canada) 
+- [Simon Drouin](http://nist.mni.mcgill.ca/?page_id=369) (Montreal Neurological Institute, Canada)
 
 # Project Description
 

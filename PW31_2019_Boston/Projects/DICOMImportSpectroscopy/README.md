@@ -16,7 +16,7 @@ Algorithms have previous been coded in Matlab, and it is proposed their translat
 
 ## Objectives
 
-1. To implement a standard uploading mechanism of DICOM images and MR spectroscopic data in FMRSI module 
+1. To implement a standard uploading mechanism of DICOM images and MR spectroscopic data in FMRSI module
 
 ## Approach and Plan
 
@@ -32,7 +32,7 @@ Algorithms have previous been coded in Matlab, and it is proposed their translat
 
 ## Illustrations
 Fig. 1: FMRSI interface
-<img src="Diapositiva1.PNG" width="652" height="356"> 
+<img src="Diapositiva1.PNG" width="652" height="356">
 
 Fig. 2: Open Dialog
-<img src="Diapositiva2.PNG" width="652" height="356"> 
+<img src="Diapositiva2.PNG" width="652" height="356">

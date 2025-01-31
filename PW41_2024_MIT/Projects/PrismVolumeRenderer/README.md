@@ -15,16 +15,16 @@ key_investigators:
 - name: Aurélie Rasolomanana
   affiliation: ÉTS Montreal
   country: Canada
-  
+
 - name: Kylian Pasquereau
   affiliation: ÉTS Montreal
   country: Canada
-  
+
 ---
 
 # Project Description
 
-The PRISM extention aims at providing a list of advanced interactive volume rendering effects not available through the standard Volume Rendering module in Slicer. Users are able to experiment with the available effects either by rendering their own volume or by using the sample volumes provided for each of the effects. 
+The PRISM extention aims at providing a list of advanced interactive volume rendering effects not available through the standard Volume Rendering module in Slicer. Users are able to experiment with the available effects either by rendering their own volume or by using the sample volumes provided for each of the effects.
 
 From a developper's point of view, it is possible to add new volume rendering effects by adding a python script that defines the parameters of the effect and implements modifications to the standard volume rendering shader. The GUI for the effect is automatically generated from the list of parameters.
 
@@ -47,7 +47,7 @@ From a developper's point of view, it is possible to add new volume rendering ef
    1. [rearrange interface and fix bugs](https://github.com/ETS-vis-interactive/SlicerPRISMRendering/commit/1167ad4e5105587c3e48b4f901ef43d3835ddbe6)
    1. [prepare code for parameterNodeWrapper](https://github.com/ETS-vis-interactive/SlicerPRISMRendering/commit/33a08784d190a4fe750a12e9bd43918214a2ab53)
 1. Implemented a first version of the glass volume rendering effect (see illustration below)
-1. Discussed an architecture for an experimental volume rendering module that would enable the implementation of more complex effects.  
+1. Discussed an architecture for an experimental volume rendering module that would enable the implementation of more complex effects.
 
 # Illustrations
 Current version of the glass effect

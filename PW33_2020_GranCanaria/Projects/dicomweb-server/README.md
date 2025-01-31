@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Lightweight DICOMweb Server with CouchDB 
+# Lightweight DICOMweb Server with CouchDB
 
 ## Key Investigators
 
@@ -23,7 +23,7 @@ This project aims to build on prototype [lightweight DICOM server that was devel
   * search by reference (e.g. find all segmentations of this image)
   * extract cohorts by tag (e.g. find all CTs with .5mm pixel spacing)
   * represent workflow state (e.g. give list of all studies that do not have manual segmentations)
-* Work on improving performance 
+* Work on improving performance
 
 
 ## Approach and Plan

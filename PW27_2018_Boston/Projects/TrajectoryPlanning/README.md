@@ -34,7 +34,7 @@ Progress:
 5. Started playing with the "manual" modification of nodes and vtkpolydatas
 6. Started the process of building the core files of PILOT plugin along with Slicer (ongoing...)
 
-Next steps: 
+Next steps:
 
 1. Finish the build
 2. Link UI widgets to functions in the PILOT code

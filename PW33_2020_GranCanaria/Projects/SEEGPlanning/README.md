@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-Improuving StereoPlan STIM Slicer module for SEEG Procedures. 
+Improuving StereoPlan STIM Slicer module for SEEG Procedures.
 
 ## Key Investigators
 
@@ -23,7 +23,7 @@ In our center, since the end of 2017, surgery is conducted with the Rosa robot. 
 
 1. To put de code on python3 (2to3)
 2. To modify markups interaction behavior (migration doc)
-1. To add new features 
+1. To add new features
 
 ## Progress and Next Steps
 
@@ -33,7 +33,7 @@ In our center, since the end of 2017, surgery is conducted with the Rosa robot. 
 2. new feature : Spin around un axe avaiable from the widget epi-Plan (reformat Slice2RASMAtrix) == !! keyword shortcut (mac: command+option+drag)
 3. Much remains to be done.  SEEG procedure : add new features to fuse new modalities. DBS modules still in 3D Slicer 4.8 ...
 
-# Illustrations 
+# Illustrations
 
 1. Stereo-Plan Videos
 
@@ -59,5 +59,3 @@ E. Bardinet and  D. Hasboun. WSSFN 2019.
 
 Very  helpfull : migration doc
  ==>>  [migration doc]  (https://www.slicer.org/wiki/Documentation/Nightly/Developers/Tutorials/MigrationGuide/Slicer#Markups)
-
-

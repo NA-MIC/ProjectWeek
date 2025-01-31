@@ -45,7 +45,7 @@ Here are the steps using the GitHub web interface:
 3. You can now edit the page, add images by dragging and dropping, and more.
 
 4. Once done, click "Commit Changes", and follow the instructions to create a fork and a pull request to add your changes to the webpage. See this screenshot for reference: ![Screenshot 2023-06-12 10 50 50](https://github.com/NA-MIC/ProjectWeek/assets/25040869/180e81bb-d4f9-4f65-8569-a93192b2828e)
-  
+
 ## Videos in project pages
 
 Here are some steps to make sure all of your awesome videos render correctly:

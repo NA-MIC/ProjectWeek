@@ -22,11 +22,11 @@ We develop a method that identifies landmarks on dental crowns. The method must 
 
 Data come from clinician. All data are segmented manually or by SlicerDentalModelSeg (Slicer extension). Dataset create surface according to teeth’s number. Each surface is center on one tooth and scale according to the size of tooth. The dataset make a texture with normal of surface. The dataset make a texture where we can see a projection of landmark on the surface. For each batch the dataloader give two surface, one with normal texture and second one with landmark texture. We place cameras around the tooth in center on the 3D space. Each camera take a picture. We give images of surface with normal texture to the model. The lost function compare output of the model and images of surface with landmark texture. After we backward the model to improve him.
 
-Github repository : https://github.com/HUTIN1/ALIDDM/tree/refactoring 
+Github repository : https://github.com/HUTIN1/ALIDDM/tree/refactoring
 
 ## Objective
 
-1. Refactoring the code 
+1. Refactoring the code
 2. Found good parameter to get better prediction
 3. Train model for different landmark
 
@@ -49,5 +49,3 @@ Github repository : https://github.com/HUTIN1/ALIDDM/tree/refactoring
 
 ### Landmark Output Example
 ![ali_output](https://user-images.githubusercontent.com/72212416/215205073-dec0a8d1-72b1-4584-a12e-42b4e10e838e.png)
-
-

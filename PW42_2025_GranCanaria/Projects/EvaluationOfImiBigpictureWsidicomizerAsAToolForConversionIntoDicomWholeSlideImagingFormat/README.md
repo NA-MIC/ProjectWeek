@@ -32,7 +32,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-DICOM standard is gaining acceptance in digital pathology imaging. Conversion of slide images into DICOM format can make the data more FAIR, improve quality and comprehensiveness of the associated metadata, and improve their interoperability with the commercial and open source tools implementing the standard. 
+DICOM standard is gaining acceptance in digital pathology imaging. Conversion of slide images into DICOM format can make the data more FAIR, improve quality and comprehensiveness of the associated metadata, and improve their interoperability with the commercial and open source tools implementing the standard.
 
 DICOM format is used for slide microscopy images available in NCI Imaging Data Commons (IDC). Images submitted to IDC in the vendor-specific formats must be converted into DICOM representation, which is currently done using the PixelMed Toolkit based scripts available in [https://github.com/ImagingDataCommons/idc-wsi-conversion](https://github.com/ImagingDataCommons/idc-wsi-conversion).
 
@@ -129,7 +129,7 @@ ORDER BY
 Background reading:
 * Herrmann, M. D., Clunie, D. A., Fedorov, A., Doyle, S. W., Pieper, S., Klepeis, V., Le, L. P., Mutter, G. L., Milstone, D. S., Schultz, T. J., Kikinis, R., Kotecha, G. K., Hwang, D. H., Andriole, K. P., John Lafrate, A., Brink, J. A., Boland, G. W., Dreyer, K. J., Michalski, M., Golden, J. A., Louis, D. N. & Lennerz, J. K. Implementing the DICOM standard for digital pathology. J. Pathol. Inform. 9, 37 (2018). [http://dx.doi.org/10.4103/jpi.jpi_42_18](http://dx.doi.org/10.4103/jpi.jpi_42_18)
 * Clunie, D. A. DICOM format and protocol standardization-A core requirement for digital pathology success. Toxicol. Pathol. 49, 738–749 (2021). [http://dx.doi.org/10.1177/0192623320965893](http://dx.doi.org/10.1177/0192623320965893)
-  
+
 Other related materials:
 * IDC Portal: [https://portal.imaging.datacommons.cancer.gov/](https://portal.imaging.datacommons.cancer.gov/)
 * [conversion_mirax_dicom](https://github.com/ImagingDataCommons/conversion_mirax_dicom/blob/main/add_metadata.py) (currently, private repo)
@@ -137,4 +137,3 @@ Other related materials:
 * Code from Fabian Hörst experiments: [https://github.com/TIO-IKIM/PathoPatcher/blob/main/pathopatch/patch_extraction/patch_extraction.py](https://github.com/TIO-IKIM/PathoPatcher/blob/main/pathopatch/patch_extraction/patch_extraction.py)
 * Test samples used by wsidicomizer: [https://github.com/imi-bigpicture/wsidicomizer/blob/main/tests/download_test_images.py#L23-L60](https://github.com/imi-bigpicture/wsidicomizer/blob/main/tests/download_test_images.py#L23-L60)
 * [Google WSI transformation pipeline](https://github.com/GoogleCloudPlatform/medical-imaging/blob/main/pathology/transformation_pipeline/docs/digital_pathology_transformation_pipeline_to_dicom_spec.md)
-

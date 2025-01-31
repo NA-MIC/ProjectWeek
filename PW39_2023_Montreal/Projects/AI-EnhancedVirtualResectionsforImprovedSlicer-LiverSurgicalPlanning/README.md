@@ -17,7 +17,7 @@ key_investigators:
 - name: Andras Lasso
   affiliation: Queen's University
   country: Canada
-  
+
 - name: Rafael Palomar
   affiliation: The Intevention Centre (OUS)
   country: Norway
@@ -56,4 +56,3 @@ The primary aim of this project is to utilize artificial intelligence (AI) to en
 # Background and References
 [Saiti, E., and T. Theoharis. "Multimodal registration across 3D point clouds and CT-volumes." Computers & Graphics 106 (2022): 259-266.](https://www.sciencedirect.com/science/article/pii/S0097849322001121)
 [Sharma, Gopal, et al. "Parsenet: A parametric surface fitting network for 3d point clouds." Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part VII 16. Springer International Publishing, 2020.](https://graphics.stanford.edu/courses/cs348n-22-winter/PapersReferenced/ParSeNet%20A%20Parametric%20Surface%20Fitting%202003.12181.pdf)
-

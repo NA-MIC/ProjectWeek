@@ -12,8 +12,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Transcranial magnetic stimulation is a nonivasive procedure used for treating depression with magnetic and electric fields to stimulate nerve cells. 
-A TMS coil is slowly moved over the subject's head suface to target certain areas in the brain. 
+Transcranial magnetic stimulation is a nonivasive procedure used for treating depression with magnetic and electric fields to stimulate nerve cells.
+A TMS coil is slowly moved over the subject's head suface to target certain areas in the brain.
 Our project aims to develop a deep-learning powered software for real-time E-Field prediction and a visualization of TMS within 3D Slicer.
 
 ## Objective
@@ -35,7 +35,7 @@ Integrate the visualization process as a new module within the MRML scene archit
 2. Tested the rendering time of our visualization approach with renderer.GetLastRenderTimeInSeconds() resulted in an average of 0.8 milliseconds.
 3. Added a functionality to create fiducials and to move it along the brain model's surface.
 
-Next steps: 
+Next steps:
 - Replace the fiducial with a TMS coil model.
 - Compare with further methods for rendering time (vtkpointlocator, cppyy, manual with optimized storage)
 - Apply vector field visualization on tractography data / pick fibers (similar to [DBS Navigation](../DBSNavigation/README.md) ).

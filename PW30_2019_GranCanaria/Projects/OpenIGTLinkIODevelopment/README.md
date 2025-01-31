@@ -35,7 +35,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Future work
 
-* Improve robustness of pyIGTLink implementation and ensure support for both Python 2 and 3 
+* Improve robustness of pyIGTLink implementation and ensure support for both Python 2 and 3
 * Continue to maintain and develop Plus and OpenIGTLinkIO
 * If you have any questions or issues, feel free to submit an issue on [GitHub](https://github.com/PlusToolkit/PlusLib/issues)
 

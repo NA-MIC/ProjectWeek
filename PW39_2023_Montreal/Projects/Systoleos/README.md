@@ -84,4 +84,3 @@ Moving forward, our next steps include:
 - [SystoleOS Gentoo Overlay Repository](https://github.com/SystoleOS/gentoo-overlay): Repository for the SystoleOS Gentoo overlay.
 - [SystoleOS Infrastructure Repository](https://github.com/SystoleOS/infrastructure): Repository for the SystoleOS infrastructure project.
 - [SystoleOS Workflows Repository](https://github.com/SystoleOS/workflows): Repository for the SystoleOS workflows project.
-

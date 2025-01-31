@@ -22,7 +22,7 @@ Back to [Projects List](../../README.md#ProjectsList)
   - Remove remaining DMRI i/o code from Slicer core
 - Objective 2:
   - Test pip installation of dependency list in Qt5/VS2015 Slicer on Windows and Mac
-  - Discuss with Jc and other contributors 
+  - Discuss with Jc and other contributors
 
 ## Progress and Next Steps
 

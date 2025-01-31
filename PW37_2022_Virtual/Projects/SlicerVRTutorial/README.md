@@ -73,4 +73,4 @@ Interaction with objects
 
 # Background and References
 
-Link to the source code repository: https://github.com/monicagsevilla/SlicerVRTutorial 
+Link to the source code repository: https://github.com/monicagsevilla/SlicerVRTutorial

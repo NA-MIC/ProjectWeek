@@ -56,8 +56,8 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 [How to add this calendar to your own?](../common/Calendar.md)
 
 ## Projects [(How to add a new project?)](Projects/README.md)
-    
-### VR/AR and Rendering    
+
+### VR/AR and Rendering
 1. [Collaborative Slicer session](Projects/SlicerCollaboration/README.md) (Csaba Pinter, Mónica Garcia, Jean-Christophe Fillion-Robin)
 2. [AR in Slicer](Projects/AR_in_Slicer/README.md) (Alicia Pose Díez de la Lastra, Javier Pascau, Gabor Fichtinger, Andras Lasso, Adam Rankin, Csaba Pinter, Lucas Gandel, Jean-Christophe Fillion-Robin)
 3. [Slicer TMS Module](Projects/SlicerTMS_Module/README.md) (Loraine Franke, Lipeng Ning, Yogesh Rathi, Steve Pieper, Raymond Yang, Daniel Haehn)
@@ -65,7 +65,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Echo VolumeRender UI](Projects/EchoVolumeRenderUI/README.md) (Samuelle St-Onge, Simon Drouin, Andrey Titov)
 1. [Integration of Flir Thermal Camera](Projects/FlirCameraInSlicer) (Juan Bautista Ruis Alzola, Robabeh Salehiozoumchelouei, Mónica García Sevilla, Yousef Rajaeitabrizi)
 
-### Image-guided therapy and low cost systems   
+### Image-guided therapy and low cost systems
 1. [Low-Cost Ultrasound Training](Projects/LowCostUltrasoundTraining/README.md) (David Garcia, Csaba Pinter, Rebecca Hisey, Leah Groves, Ahmed Mahran, Matt McCormick, Steve Pieper, ...)
 1. [Slicer-Liver](Projects/SlicerLiver/README.md) (Rafael Palomar, Ole V. Solberg, Geir Arne Tangen, Gabriella D'Albenzio, Javier Pérez de Frutos)
 1. [Visualization of catheter path based on an electromagnetic tracking with TMR sensors](Projects/TMRCatheterNavigation/README.md) (Wenran Cai, Kazuaki Hara, Rina Nagano, Junichi Tokuda
@@ -85,7 +85,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 1. [Automatic Landmark Identification in 3D Cone-Beam Computed Tomography scans](Projects/ALICBCT/README.md) (Maxime Gillot, Baptiste Baquero, Antonio Ruellas, Marcela Gurgel, Elizabeth Biggs, Marilia Yatabe, Jonas Bianchi, Lucia Cevidanes, Juan Carlos Prieto)
 1. [ALIIOS - Automatic Landmarks Identification for Intra OralScans](Projects/ALIDDM/README.md) (Baptiste Baquero, Maxime Gillot, Lucia Cevidanes, Juan Carlos Prieto, Najla Al Turkestani, Marcela Gurgel, Camila Massaro, Aron Aliaga, Maria Antonia Alvarez Castrillon, Marilia Yatabe, Jonas Bianchi, Juan Fernando Aristizabal, Diego Rey, Antonio Ruellas)
 1. [Automatic Segmentation of Teeth and Alveolar bone using MONAI Label](Projects/AutomaticSegmentationofTeethandAlveolarBone/README.md) (Daniel Palkovics, Csaba Pinter, Andrés Diaz-Pinto)
-    
+
 ### SlicerDMRI
 1. [Anatomically informed UKF tractography](Projects/UKF/README.md) (Fan Zhang, Yogesh Rathi, Lauren J O'Donnell)
 1. [Deep Diffusion MRI Registration (DDMReg)](Projects/DDMReg/README.md) (Fan Zhang, William M. Wells III, Lauren J O'Donnell)
@@ -111,7 +111,7 @@ Adapted from https://stackoverflow.com/questions/31821974/support-user-time-zone
 Do not add your name to this list below. It is maintained by the organizers based on your registration. [Register here](https://forms.gle/1zE3pDs59sJ4ENP96).
 
 List of registered participants so far (names will be added here after processing registrations):
-    
+
 1.	Steve Pieper	,	Isomics, Inc.	,	USA
 1.	HINA SHAH	,	UNC Chapel Hill	,	USA
 1.	YAHYA TFEIL	,	UNIVERSITY OF NOUAKCHOTT ALASSRIYA	,	Mauritania
@@ -145,7 +145,7 @@ List of registered participants so far (names will be added here after processin
 1.	Leah Groves	,	Queens University 	,	Canada
 1.	xi cao	,	changshu hospital of chinese medicine	,	China
 1.	Sen Li	,	École de Technologie Supérieure	,	Canada
-1.	Khaled Younis 	,	Philips 	,	United States 
+1.	Khaled Younis 	,	Philips 	,	United States
 1.	Lina Mekki	,	Johns Hopkins University	,	United states
 1.	Yahia Megahed	,	University of Central Florida	,	USA
 1.	Étienne Léger	,	Brigham and Women's Hospital	,	Canada
@@ -200,7 +200,7 @@ List of registered participants so far (names will be added here after processin
 1.	Ron Alkalay	,	Beth Israel Deaconess Medical Center	,	USA
 1.	Sanni Henry Ananyi	,	Federal University of Technology Minna	,	Nigeria
 1.	Wenran Cai	,	University of Tokyo	,	Japan
-1.	Suleiman Jamila 	,	Federal University of Technology, Minna. 	,	Nigeria 
+1.	Suleiman Jamila 	,	Federal University of Technology, Minna. 	,	Nigeria
 1.	Idowu Abdulsemiu Babatunde	,	Federal University of Technology Minna Niger State	,	Nigeria
 1.	Nayra Pumar Carreras	,	Ebatinca	,	Spain
 1.	Manjula Herath	,	Malmo University	,	Sweden
@@ -215,7 +215,7 @@ List of registered participants so far (names will be added here after processin
 1.	Parikshit Juvekar	,	Brigham & Women's Hospital, Department of Neurosurgery	,	USA
 1.	James Petts	,	Ovela Solutions	,	United Kingdom
 1.	Fan Zhang	,	Brigham and Women's Hospital	,	USA
-1.	Keita	,	École Supérieure Polytechnique (ESP) de Dakar	,	Sénégal 
+1.	Keita	,	École Supérieure Polytechnique (ESP) de Dakar	,	Sénégal
 1.	Mamadou Moustapha DIAGNE 	,	ESP	,	Senegal
 1.	Gregory Fischer	,	WPI	,	USA
 1.	Javier Pascau	,	Universidad Carlos III de Madrid	,	Spain
@@ -241,17 +241,17 @@ List of registered participants so far (names will be added here after processin
 1.	Randy Gollub	,	MGH	,	USA
 1.	Luis 	,	University of Minho	,	Portugal
 1.	Igor Octaviano	,	Pontifical Catholic University of Minas Gerais	,	Brazil
-1.	Pape Mady THIAO	,	École militaire de santé de Dakar 	,	Sénégal 
+1.	Pape Mady THIAO	,	École militaire de santé de Dakar 	,	Sénégal
 1.  Carl-Fredrik Westin	,	Brigham and Womens Hospital	,	USA
-    
+
 ## Statistics
 * 131 Registered attendees
   * 43% first time attendees
 * 25 countries
-    
+
 <img src="images/attendees-per-country.png" alt="Attendees per country" width="600"/>
 <img src="images/timezones.png" alt="Attendees timezones" width="600"/>
-    
+
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
 Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).

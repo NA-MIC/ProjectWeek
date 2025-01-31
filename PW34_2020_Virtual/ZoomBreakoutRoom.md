@@ -8,4 +8,3 @@ Back to [Breakout Sessions](README.md#breakout-sessions)
 
 # List of breakout rooms
 ![](pw34-breakroom-list.png)
-

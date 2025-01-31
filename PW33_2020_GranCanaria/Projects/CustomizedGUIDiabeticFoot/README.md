@@ -13,7 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 This project is the next step  in the project [Medical Infrared Imaging with 3DSlicer](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/MedicalInfraredImagingWithSlicer/) presented during 28th PW NA-MIC. This research is the result of a collaboration between the IAC and the University of Las Palmas de Gran Canaria. The main objective is to develop a multichannel sensor prototype that runs in Slicer through PLUS Toolkit. This sensor is being designed to be used by the clinic staff in particular for medical diagnosis (at this time we are focused on foot ulcers in diabetic patients).
 
-The aim is to create a friendly customized interface for monitoring the foot ulcers in diabetic patients. 
+The aim is to create a friendly customized interface for monitoring the foot ulcers in diabetic patients.
  <!-- Moreover, the interface invokes the different steps for the diagnosis Thinking more lines-->
 
 
@@ -50,10 +50,10 @@ The aim is to create a friendly customized interface for monitoring the foot ulc
 We addressed our challenges with 3D Slicer and Plus community. The collaboration with the community, along this week has been quite succesfull and our project has achieve several goals.
 1. We have resolved our running and stopping problem with the Plus server thanks to Kyle.
 1. The leak issue when the customized application is closed was disccussed with Jean. He recommended following the current slicelet web page because the current implentation is old-fashion. (Figure 3)
-1. We talked with several colleages about the image orientation when the image is serializated in 3D slicer. Finally, we resolved this issue taking into account the image orientation generated in Plus toolkit.  
-1. The perfomannce was analyzed with the community but the final solution need further discution so it will be a goal for the next project week. We decided to use low frame rate to reduce the CPU utilization. 
+1. We talked with several colleages about the image orientation when the image is serializated in 3D slicer. Finally, we resolved this issue taking into account the image orientation generated in Plus toolkit.
+1. The perfomannce was analyzed with the community but the final solution need further discution so it will be a goal for the next project week. We decided to use low frame rate to reduce the CPU utilization.
 1. We need to evaluate the solution (combined images in different layers) that we found in the slicer script repository.
-1. The window/level volume is not updated in real-time, so it should be analyzed. We discussed several solutions with the community. 
+1. The window/level volume is not updated in real-time, so it should be analyzed. We discussed several solutions with the community.
 
 
 # Illustrations

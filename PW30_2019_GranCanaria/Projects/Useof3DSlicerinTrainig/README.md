@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Using 3D Slicer in University Biomedical Engineering Degrees 
+# Using 3D Slicer in University Biomedical Engineering Degrees
 
 ## Key Investigators
 
@@ -23,7 +23,7 @@ There are many possible approaches to get an understanding of such multidiscipli
 
 For example, programming and software engineering skills can be addressed by developing some Python modules within 3D Slicer. Image and data processing algorithms can also be implemented as laboratory classes within it. Image guided therapy applications could give an opportunity to better understand and leverage the convergence of image computing, electric and mechanical engineering around practical problems. The available DICOM support shows in a practical way the need for standardization and how to deal with it in the specific case of medical images. For more specific topics, such as medical imaging, medical image computing, surgical planning or computer-assisted medical intervention 3D Slicer provides an advanced platform where many different engineering aspects can be trained. Moreover, 3D Slicer also provides an excellent tool to teach specific medical topics, both in the medical and the biomedical engineering schools, such as for example, anatomy or some surgeries.
 
-The discussion should be kept as open as possible. Some universities might benefit by using Slicer in only one specific subject, while others could do it for different subjects across a university degree at any level (bachelor, master, PhD). 
+The discussion should be kept as open as possible. Some universities might benefit by using Slicer in only one specific subject, while others could do it for different subjects across a university degree at any level (bachelor, master, PhD).
 
 As a first element for discussion, a draft proposal is provided of a reference bachelor level degree in biomedical engineering. Its structure has been adopted by reviewing programs in different World universities. As a reference model, it should be adapted to the specific needs of each university and environment.
 
@@ -43,4 +43,3 @@ As a first element for discussion, a draft proposal is provided of a reference b
 3. Identify the proper role of 3D Slicer to improve biomedical engineering education.
 4. Agree on a strategy to provide high quality open access content and identify funding sources to develop it.
 5. Share continuously local experiences as they happen.
-

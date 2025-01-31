@@ -22,35 +22,35 @@ key_investigators:
 - name: Andras Lasso
   affiliation: Queen's University
   country: Canada
-  
+
 - name: Mamadou Camara
   affiliation: Université Cheikh Anta Diop
   country: Senegal
-  
-- name: Ahmedou Moulaye IDRISS  
+
+- name: Ahmedou Moulaye IDRISS
   affiliation: Faculté de Médecine, de Pharmacie et d’Odonto-Stomatologie, Université de Nouakchott
   country: Mauritania
-  
+
 - name: Mouhamed Diop
   affiliation: Université Cheikh Anta Diop
   country: Senegal
-  
+
 - name: Adama Rama Wade
   affiliation: Université Cheikh Anta Diop de Dakar
   country: Senegal
-  
+
 - name: Mohamed Alalli Bilal
   affiliation: Université Cheikh Anta Diop de Dakar
   country: Senegal
-  
+
 - name: Idrissa Seck
   affiliation: Université Cheikh Anta Diop de Dakar
   country: Senegal
-  
+
 - name: Papa ibra NDIAYE
   affiliation: Ecole Superieure Polytechnique, Université Cheikh Anta Diop de Dakar
   country: Senegal
-  
+
 - name: Pape Malick GUEYE
   affiliation: Université Cheikh Anta Diop de Dakar
   country: Senegal
@@ -58,11 +58,11 @@ key_investigators:
 - name: Fatou Bintou NDIAYE
   affiliation: Université Cheikh Anta Diop de Dakar
   country: Senegal
-  
+
 - name: Attila Nagy
   affiliation: University of Szeged
   country: Hungary
- 
+
 
 ---
 
@@ -104,7 +104,7 @@ Zoom link for all Slicer Internationalization sessions: https://etsmtl.zoom.us/j
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
-     
+
 * Daily Slicer Internationalization sessions with over 20 participants from Africa, Latin America, North America and Europe
 
 * Added the Module translation lookup table to the Slicer Language Packs repository. Click [here](https://github.com/Slicer/SlicerLanguagePacks/blob/main/Module%20translation%20lookup%20table.md) to view it!

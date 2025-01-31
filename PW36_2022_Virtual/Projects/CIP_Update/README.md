@@ -12,17 +12,17 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-The Chest Imaging Platform (CIP) is an extension to 3D Slicer. 
+The Chest Imaging Platform (CIP) is an extension to 3D Slicer.
 
 ![image](https://user-images.githubusercontent.com/18140094/149629677-6bea2a6f-835d-4ae8-8955-71995e7e716d.png)
 
-It integrates: 
+It integrates:
 - chest image processing functionality as a toolkit by exposing the CLIs
 - Slicer specific modules to provide user-friendly chest CT quantitative solutions
 - Visualization of scale-space particles and labelmaps
 - Integrated workflows to end-to-end clinical evaluation
 
-In the current preview versions of 3D Slicer (4.13.0) parts of CIP fail to load the following CIP modules because Slicer's "Editor" module has been removed.    
+In the current preview versions of 3D Slicer (4.13.0) parts of CIP fail to load the following CIP modules because Slicer's "Editor" module has been removed.
 
 CIP_CalciumScoring
 
@@ -50,52 +50,52 @@ The CIP extension currently uses legacy editor module, and charts infrastructure
 
 ## Objective
 
-- Replace the usage of the "Editor" module in CIP by something different, preferably the SegmentEditor. 
+- Replace the usage of the "Editor" module in CIP by something different, preferably the SegmentEditor.
 - Replace labelmaps with segmentations
-- Replace outdated fiducial calls (exceptions) 
+- Replace outdated fiducial calls (exceptions)
 - Replace the charts infrastructure
 
 
 ## Approach and Plan
 
-A fork and branch of SlicerCIP was created at https://github.com/rbumm/SlicerCIP/tree/Branch_CIPCompatSlicer5 to be used as the source base, all changes will later be included in a PR to https://github.com/acil-bwh/SlicerCIP.   
+A fork and branch of SlicerCIP was created at https://github.com/rbumm/SlicerCIP/tree/Branch_CIPCompatSlicer5 to be used as the source base, all changes will later be included in a PR to https://github.com/acil-bwh/SlicerCIP.
 
-Resolve compatibility problems step by step 
+Resolve compatibility problems step by step
 
 Deactivate non-working or outdated modules in Slicer 5
 
-## Considerations 
+## Considerations
 
 ## Progress and Next Steps
 
 01/06/22:
 
-Removing the "Editor" related imports from "Scripted/CIP_/CIP/ui/__init__.py" results in a complete CIP-startup in Slicer 4.13.0 without initial error messages. 
+Removing the "Editor" related imports from "Scripted/CIP_/CIP/ui/__init__.py" results in a complete CIP-startup in Slicer 4.13.0 without initial error messages.
 
-A github search revealed that "Editor" calls are being made from three of the above modules:  
+A github search revealed that "Editor" calls are being made from three of the above modules:
 
 - CIP_Calibration
 - CIP_ParenchymaSubtypeTrainingLabelling
-- CIP_BodyComposition 
+- CIP_BodyComposition
 
-01/11/22: 
+01/11/22:
 
 - CIP_Calibration is probably outdated.
-- CIP_ParenchymaSubtypeTrainingLabelling is outdated, probably redundant. 
-- CIP_BodyComposition is needed, but probably much better realized with AI segmentation 
+- CIP_ParenchymaSubtypeTrainingLabelling is outdated, probably redundant.
+- CIP_BodyComposition is needed, but probably much better realized with AI segmentation
 
 01/17/22: 12pm Meeting with Raul, Andras, Steve and Rudolf (Discord Red Slice)
 
-- Incompabilities between 4.13 and CIP seem to be caused by CIPLibrary 
+- Incompabilities between 4.13 and CIP seem to be caused by CIPLibrary
 - CIP, it's CLI functions and their history were demonstrated by @Raul
 - CIP_Calibration is not outdated.
-- CIP_ParenchymaSubtypeTrainingLabelling should be kept. 
+- CIP_ParenchymaSubtypeTrainingLabelling should be kept.
 - CIP_BodyComposition is needed and should be kept
 - CIP Toolkit functions should be included in a future SlicerCIP release
-- A CIPLibrary compatibility branch "4.13" or "5.0" will be created 
-- CIP GitHub write access was requested for @Andras to support merging, @Raul agreed 
-- As labelmaps are used throughout CIP in nearly every module we will discuss a Slicer-based solution for that problem tomorrow 
-  
+- A CIPLibrary compatibility branch "4.13" or "5.0" will be created
+- CIP GitHub write access was requested for @Andras to support merging, @Raul agreed
+- As labelmaps are used throughout CIP in nearly every module we will discuss a Slicer-based solution for that problem tomorrow
+
 01/18/22: 12pm Meeting with Raul, Andras, Rudolf (Discord Red Slice)
 
 - good follow up meeting
@@ -104,7 +104,7 @@ A github search revealed that "Editor" calls are being made from three of the ab
 - ParenchymaSubtypeTrainingLabelling was demonstrated by Raul
 - we decided to prioritize certain modules during CIP adaptation
 - ParenchymaAnalysis probably the next to go
-- Andras promised to look into CLI modules and letting them use segmentations instead of labelmaps as an input maybe automatically  
+- Andras promised to look into CLI modules and letting them use segmentations instead of labelmaps as an input maybe automatically
 - next meeting will be Thursday 11 am Red Slice
 
 # Final presentation start here
@@ -112,15 +112,15 @@ A github search revealed that "Editor" calls are being made from three of the ab
 01/20/22: 11am-12:30pm Meeting with Raul, Andras, Rudolf (Discord Red Slice)
 
 - The Chest Imaging Platform extension's "Calibrate" module has been finalized for Slicer 5 together with @lassoan and was demonstrated by @rbumm
--  see this [SlicerCIP GitHub fork](https://github.com/rbumm/SlicerCIP/tree/Branch_CIPCompatSlicer5) and [this commit](https://github.com/rbumm/SlicerCIP/commit/86c8173639a2ecc3c08993fa311625bec51378c9) 
+-  see this [SlicerCIP GitHub fork](https://github.com/rbumm/SlicerCIP/tree/Branch_CIPCompatSlicer5) and [this commit](https://github.com/rbumm/SlicerCIP/commit/86c8173639a2ecc3c08993fa311625bec51378c9)
 - will serve  as a skeleton to adopt the other CIP modules and is now fully functional
 - The "Calibration" widget uses a newly created segmentation for each volume instead of labelmaps
 - the segmentation can be edited in the embedded Segment Editor
-- before pressing "Calibrate" the segmentation is converted to a labelmap for the actual calibration in the logic()  
+- before pressing "Calibrate" the segmentation is converted to a labelmap for the actual calibration in the logic()
 - in addition, we developed a strategy on how to transform the other CIP modules to Slicer 5
 - non-working modules will be excluded from CMake to provide only those functional to the community
 - @Raul demonstrated new vessel segmentation techniques and answered many questions
-- @Raul agreed on giving @lassoan write access to the SlicerCIP GitHub repository 
+- @Raul agreed on giving @lassoan write access to the SlicerCIP GitHub repository
 
 # Illustrations
 
@@ -136,6 +136,3 @@ New Slicer 5 CIP "Calibration" module with embedded "SegmentEditor" instead of t
 https://chestimagingplatform.org/
 
 https://discourse.slicer.org/t/exporting-csv-with-parenchyma-analysis-module/10697/58?u=rbumm
-
-
-

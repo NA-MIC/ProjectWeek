@@ -14,7 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 I am working on a histology project with NCI, which is producing whole-slide images and deep-learning segmentation and analysis models. Our images are of a rare pediatric cancer called Rhabdomyosarcoma.
 
-Our group is in discussion with the IDC core team to import our images and models into IDC for others to use.  This Project Week project is about the process of converting a whole slide image (WSI) into DICOM for import and learning how to run models on histology images already managed by IDC.  
+Our group is in discussion with the IDC core team to import our images and models into IDC for others to use.  This Project Week project is about the process of converting a whole slide image (WSI) into DICOM for import and learning how to run models on histology images already managed by IDC.
 
 It is our hope that this will prepare us for converting our analytic models and submitting them to IDC later, after Project Week has completed.
 
@@ -24,7 +24,7 @@ It is our hope that this will prepare us for converting our analytic models and 
 
 1. Run the IDC-recommended DICOM conversion process for a pyramidal input image
 1. Execute existing analysis models (already in IDC) in Collab sessions
-1. Learn about analysis models can access different levels/tiles in a pyramidal DICOM file so we can modify our models to run within the IDC environment. 
+1. Learn about analysis models can access different levels/tiles in a pyramidal DICOM file so we can modify our models to run within the IDC environment.
 
 ## Approach and Plan
 
@@ -33,7 +33,7 @@ It is our hope that this will prepare us for converting our analytic models and 
 1. Acquire an anonymized WSI image, suitable for testing during Project Week
 1. Explore existing Histology collections in IDC. [See existing collections here](https://portal.imaging.datacommons.cancer.gov/explore/filters/?access=Public&Modality_op=OR&Modality=SM)
 1. Learn how to convert and submit a WSI image into the IDC
-1. Study how analysis models loaded in IDC access pyramidal DICOM files. Study existing models: [See Existing Model Examples](https://github.com/ImagingDataCommons/IDC-Examples/tree/master/notebooks/pathomics) 
+1. Study how analysis models loaded in IDC access pyramidal DICOM files. Study existing models: [See Existing Model Examples](https://github.com/ImagingDataCommons/IDC-Examples/tree/master/notebooks/pathomics)
 
 ## Progress and Next Steps
 

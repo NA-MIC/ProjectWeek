@@ -257,7 +257,7 @@ class TMSRecordDataModuleLogic(ScriptedLoadableModuleLogic):
 
   def saveRecording(self):
     savedScenesDirectory = self.saveScenesDirectory
-   
+
 
     recordingCollection = slicer.mrmlScene.GetNodesByClass( "vtkMRMLSequenceBrowserNode" )
     for nodeNumber in range( recordingCollection.GetNumberOfItems() ):
@@ -272,7 +272,7 @@ class TMSRecordDataModuleLogic(ScriptedLoadableModuleLogic):
       filename = self.fileName + os.extsep + "sqbr"
       filename = os.path.join( savedScenesDirectory, filename )
       slicer.util.saveNode(browserNode, filename)
-      
+
 
   def removeRecordingFromScene(self):
     slicer.mrmlScene.Clear()

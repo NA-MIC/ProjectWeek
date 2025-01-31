@@ -34,7 +34,7 @@ The goal of this project is to enhance the capabilities of Kaapana, an open-sour
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Build on the progress done by Miki from Kaapana team on the PR in progress 
+1. Build on the progress done by Miki from Kaapana team on the PR in progress
 2. Review GCP authentication's procedure currently implemented
 
 
@@ -46,7 +46,7 @@ The goal of this project is to enhance the capabilities of Kaapana, an open-sour
 
 
 1. Evaluate the current state of the feature by building docker images from the outstanding PR
-2. Impement GCP authentication by asking the user to upload a service account key file with necessary permissions 
+2. Impement GCP authentication by asking the user to upload a service account key file with necessary permissions
 
 
 
@@ -67,4 +67,3 @@ Created a form for collecting the info about the GCP DICOM store
 # Background and References
 
 [https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/RunKaapanaOnGkeAndImproveConnectivityOfKaapanaToIdc/](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/RunKaapanaOnGkeAndImproveConnectivityOfKaapanaToIdc/)
-

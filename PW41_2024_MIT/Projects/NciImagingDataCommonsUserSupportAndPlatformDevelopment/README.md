@@ -72,7 +72,7 @@ IDC provides a growing amount of publicly available cancer imaging data (>65TB a
 1. Raise awareness about IDC, help users, collect feedback to help prioritize future development.
 2. Identify robust AI models that can be applied to IDC data to enrich IDC with annotations.
 3. Work on various issues related to the development of IDC platform and related software tools.
-   
+
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
@@ -112,4 +112,3 @@ IDC provides a growing amount of publicly available cancer imaging data (>65TB a
 
 * Fedorov, A., Longabaugh, W. J. R., Pot, D., Clunie, D. A., Pieper, S. D., Gibbs, D. L., Bridge, C., Herrmann, M. D., Homeyer, A., Lewis, R., Aerts, H. J. W., Krishnaswamy, D., Thiriveedhi, V. K., Ciausu, C., Schacherer, D. P., Bontempi, D., Pihl, T., Wagner, U., Farahani, K., Kim, E. & Kikinis, R. National Cancer Institute Imaging Data Commons: Toward Transparency, Reproducibility, and Scalability in Imaging Artificial Intelligence. RadioGraphics (2023). [https://doi.org/10.1148/rg.230180](https://doi.org/10.1148/rg.230180)
 * Thiriveedhi, V. K., Krishnaswamy, D., Clunie, D., Pieper, S., Kikinis, R. & Fedorov, A. Cloud-based large-scale curation of medical imaging data using AI segmentation. Research Square (2024). [https://doi.org/10.21203/rs.3.rs-4351526/v1](https://doi.org/10.21203/rs.3.rs-4351526/v1)
-

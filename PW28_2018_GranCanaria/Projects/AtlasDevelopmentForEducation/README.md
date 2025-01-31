@@ -20,7 +20,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 This project aims to create different anatomical atlas. During this week it is planned the creation
 of an anatomic atlas of the pelvis of the human body, and a lung atlas. It will be used the 3DSlicer
 segment editor to create the models that later on will be displayed with the Open Anatomy Atlas for
-research and training purposes. It will also be evaluated the Chest Imaging Platform to segment lungs with 
+research and training purposes. It will also be evaluated the Chest Imaging Platform to segment lungs with
 tuberculosis disease, also for training purposes. (Data: pelvis -CT-, prostate -MRI- and tuberculosis -CT-)
 
 
@@ -28,7 +28,7 @@ tuberculosis disease, also for training purposes. (Data: pelvis -CT-, prostate -
 
 1. To segment the pelvis of the human body of a male subject (Images provided by the African countries).
 1. To segment lungs with tuberculosis disease (Images provided by the African countries).
-1. To create an anatomical atlas to be exported and use the Open Anatomy Atlas project to visualize the elements. 
+1. To create an anatomical atlas to be exported and use the Open Anatomy Atlas project to visualize the elements.
 1. To create a tool that helps putting all the files needed for the web atlas to work, toguether
 
 
@@ -55,7 +55,7 @@ tuberculosis disease, also for training purposes. (Data: pelvis -CT-, prostate -
 
 * Atlas assembly web tool
 
-<img src="tool0.jpg" height="200">   <img src="tool1.jpg" height="200"> 
+<img src="tool0.jpg" height="200">   <img src="tool1.jpg" height="200">
 
 
 ## Illustrations

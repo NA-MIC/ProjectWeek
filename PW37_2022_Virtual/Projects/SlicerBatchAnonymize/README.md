@@ -1,7 +1,7 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
 # Updates to Batch Anonymizer
-SlicerBatchAnonymize is a Slicer Extension that strips off metadata from dicom files, and converts them to various file formats. 
+SlicerBatchAnonymize is a Slicer Extension that strips off metadata from dicom files, and converts them to various file formats.
 The work during project week will involve investigating and creating prototypes for defacing in medical images, support and single file dicom export.
 
 ## Key Investigators
@@ -14,7 +14,7 @@ The work during project week will involve investigating and creating prototypes 
 
 <!-- Add a short paragraph describing the project. -->
 The very first step to make any medical data available to research community is it's anonymization. [SlicerBatchAnonymize](https://github.com/hina-shah/SlicerBatchAnonymize)
-is a 3D Slicer extension to anonymize a batch of DICOM images by stripping most of metadata (image information stays intact). 
+is a 3D Slicer extension to anonymize a batch of DICOM images by stripping most of metadata (image information stays intact).
 The tool currently provies a user-friendly UI, supports export to several popular research formats including DICOM series, and also generates a crosswalk files for future uses.
 
 
@@ -22,9 +22,9 @@ The tool currently provies a user-friendly UI, supports export to several popula
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Support export to a single DICOM file. 
+1. Support export to a single DICOM file.
 2. Investiage existing defacing methods
-3. Come up with a prototype for defacing of CBCT images. 
+3. Come up with a prototype for defacing of CBCT images.
 
 ## Approach and Plan
 

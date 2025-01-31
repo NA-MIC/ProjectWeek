@@ -1,6 +1,6 @@
 Back to [Projects List](../../FIXME.md#ProjectsList)
 
-# Medical Infrared Imaging with Slicer 
+# Medical Infrared Imaging with Slicer
 ## Key Investigators
 
 - Jorge Quintero-Nehrkorn (IACTEC - MACbioIDi)
@@ -22,7 +22,7 @@ This project is a research collaboration between the public research institute I
 
 ## Approach and Plan
 
-1. Create a new Slicer module for processing thermal infrared images. 
+1. Create a new Slicer module for processing thermal infrared images.
 2. Review segmentation, registration and other image processing techniques for foot ulcer detection with infrared images.
 3. Testing.
 4. Assessment of live video streaming using ffmpeg.
@@ -33,12 +33,12 @@ This project is a research collaboration between the public research institute I
 making progress.-->
 1. We have finished the integration of the Thermal Seek Pro camera in Plus Toolkit.
 
-2. We have continued the development of the thermal infrared images module. 
+2. We have continued the development of the thermal infrared images module.
 
 3. The next objetives are :
     - To finish the images registration.
     - To integrate new infrared cameras, like Thermal Expert Q1 camera.
-    - To add some different segmentation methods in order to perform a comparison. 
+    - To add some different segmentation methods in order to perform a comparison.
 
 # Illustrations
 

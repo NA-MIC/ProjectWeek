@@ -49,4 +49,3 @@ Click image to see movie:
 -->
 
 [steve]: https://github.com/pieper
-

@@ -30,12 +30,12 @@ key_investigators:
 
 This project will aim to integrate two models into mhub.ai.
 
-**1. MRSegmentator:** 
+**1. MRSegmentator:**
 - Is a segmentation model that can accurately segment 40 organs and structures in human MRI scans of the abdominal, pelvic and thorax regions. The model works on different sequence types, including T1- and T2-weighted, Dixon sequences and even CT images.
 - Paper: [https://arxiv.org/abs/2405.06463](https://arxiv.org/abs/2405.06463)
 
 **2. DeepSpA:**
-- Is classification model that incorporates anatomical awareness to detect radiographic sacroiliitis. Detecting radiographic sacroiliitis plays an essential role in diagnosing and classifying axial Spondyloarthritis (axSpA).  
+- Is classification model that incorporates anatomical awareness to detect radiographic sacroiliitis. Detecting radiographic sacroiliitis plays an essential role in diagnosing and classifying axial Spondyloarthritis (axSpA).
 - Paper: [https://arxiv.org/abs/2405.07369](https://arxiv.org/abs/2405.07369)
 
 
@@ -67,7 +67,7 @@ This project will aim to integrate two models into mhub.ai.
 ### During Project Week
 - MRSegmentator is wrapped in the MhubAI framework and ready to be tested
   - Segmentations are registered as DICOM-SEG and can easily compared to other segmentation models
-    
+
 - DeepSpA is wrapped in the MhubAI framework and ready to be tested
   - Model produces both visual and classification outputs, both are organized and saved by mhub
 
@@ -107,4 +107,3 @@ Illustrations of both models can be seen on their respective GitHub pages, linke
 **DeepSpA:**
 - Code: [https://github.com/FJDorfner/Anatomy-Aware-Classification-axSpA](https://github.com/FJDorfner/Anatomy-Aware-Classification-axSpA)
 - Paper: [https://arxiv.org/abs/2405.07369](https://arxiv.org/abs/2405.07369)
-

@@ -19,7 +19,7 @@ Automatedly map the associated texture image to the obj file when importing it i
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-When the obj file is imported into Slicer, Slicer will automatically call the Texture Model module from SlicerIGT to map the texture on the obj file without the need to import the texture image as a volumetric node and manually map it to the model using this module. 
+When the obj file is imported into Slicer, Slicer will automatically call the Texture Model module from SlicerIGT to map the texture on the obj file without the need to import the texture image as a volumetric node and manually map it to the model using this module.
 
 ## Approach and Plan
 

@@ -62,7 +62,7 @@ Over time, some of the deficiencies in the segmentations produced by TotalSegmen
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Review segmentation results for a sample of images from IDC NLST collection, documenting the problems, across the publicly available multi-organ segmentation models. 
+1. Review segmentation results for a sample of images from IDC NLST collection, documenting the problems, across the publicly available multi-organ segmentation models.
 
 
 
@@ -105,7 +105,7 @@ test_series = \
  '1.3.6.1.4.1.14519.5.2.1.7009.9004.690272753571338193252806012518', \
  '1.3.6.1.4.1.14519.5.2.1.7009.9004.310718458447911706151879406927']
 
-from idc_index import IDCClient 
+from idc_index import IDCClient
 
 c= IDCClient()
 
@@ -132,7 +132,7 @@ function colorCellsFromRGB() {
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
   var dataRange = sheet.getDataRange();
   var values = dataRange.getValues();
-  
+
   for (var i = 0; i < values.length; i++) {
     for (var j = 0; j < values[i].length; j++) {
       var cell = values[i][j];
@@ -171,4 +171,3 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 * Krishnaswamy, D., Thiriveedhi, V. K., Ciausu, C., Clunie, D., Pieper, S., Kikinis, R. & Fedorov, A. Rule-based outlier detection of AI-generated anatomy segmentations. arXiv [eess.IV] (2024). at [http://arxiv.org/abs/2406.14486](http://arxiv.org/abs/2406.14486)
 * HuggingFace exploration dashboard: [https://huggingface.co/spaces/ImagingDataCommons/CloudSegmentatorResults](https://huggingface.co/spaces/ImagingDataCommons/CloudSegmentatorResults)
-

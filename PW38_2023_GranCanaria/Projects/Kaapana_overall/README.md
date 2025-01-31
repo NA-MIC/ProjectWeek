@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Hans Meine (Fraunhofer MEVIS, Germany)
 - Klaus Kades (German Cancer Research Center, Germany)
 
-**[Project channel on Discord: #kaapana-idc-integration](https://discord.com/channels/843934857620357130/1069559070295588954)** 
+**[Project channel on Discord: #kaapana-idc-integration](https://discord.com/channels/843934857620357130/1069559070295588954)**
 
 # Project Description
 
@@ -42,7 +42,7 @@ In this project current, perspective and aspiring users of Kaapana will have the
 
 **Integration with GCP Healthcare DICOM stores** : right now we use dcm4chee as the DICOM server. This is problematic while deploying kaapana on the cloud, since 1) it is huge waste of resources: we already have our data in storage buckets, we need to replicate those files on attached disk (and attached storage is very expensive), then import into dcm4chee (which is very very very slow, and does not work for all types of DICOM objects - SRs are rejected); 2) I am not sure it is scalable to use dcm4chee. We can very easily set up a DICOM store under GCP Healthcare, which is cheaper, faster, is highly scalable, and can be accessed using standard DICOMweb interface with authentication. It would be extremely helpful to be able to use that GCP DICOM Store in place of dcm4chee. Related to [Connecting/Using Kaapana to Google Cloud/Google Health/Google FHIR](../KaapanaConnectingKaapanaToGoogleCloudAndHealthAndFHIR/README.md).
  * related [https://cloud.google.com/healthcare-api/docs/how-tos/dicomweb#healthcare-store-transaction-python](https://cloud.google.com/healthcare-api/docs/how-tos/dicomweb#healthcare-store-transaction-python)
- * break the task by creating a custom workflow that is intialized with the variables 1) series instanceUIDs to be processed; 2) DICOMweb endpoint; 3) credentials. Start with any workflow that interacts with dcm4chee. 
+ * break the task by creating a custom workflow that is intialized with the variables 1) series instanceUIDs to be processed; 2) DICOMweb endpoint; 3) credentials. Start with any workflow that interacts with dcm4chee.
 
 **Integration with IDC** : All of IDC data is available from public GCP buckets, egress is free. All you need is to have Google Cloud SDK https://cloud.google.com/sdk installed, and to do searching, one needs to have a GCP project and credentials. Maybe we can discuss this. Related to [Data and model exchange across different sources](../KaapanaDataAndModelExchangeAcrossDifferentSources/README.md).
 
@@ -61,7 +61,7 @@ In this project current, perspective and aspiring users of Kaapana will have the
 1. Set up latest kaapana `develop` instance on a linux laptop that was then used for development.
 2. GCP GKE was used by Jonas to investigate deployment on GKE.
 3. Debugged, finalized and tested 3D Slicer extension, integrated into Kaapana in this PR: [https://github.com/kaapana/kaapana/pull/14](https://github.com/kaapana/kaapana/pull/14)
-4. Discussed specific steps towards addressing the topics of interest discussed above, notes added in the above. 
+4. Discussed specific steps towards addressing the topics of interest discussed above, notes added in the above.
 5. Work on the topics above to continue after the PW!
 
 # Illustrations

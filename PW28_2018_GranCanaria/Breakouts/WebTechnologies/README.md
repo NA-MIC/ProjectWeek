@@ -1,6 +1,6 @@
 # Web Technologies Breakout
 * Overall goal is to leverage latest generations of hardware and software technologies for our medical research applications
-* 
+*
 
 # OHIF Demo
 * [OHIFViewer demo (temporary development server)](http://ohifviewer-staging.herokuapp.com/studylist)
@@ -23,4 +23,3 @@
 
 # See Also
 [Bio Image Suite Web](https://bioimagesuiteweb.github.io/webapp/)
-

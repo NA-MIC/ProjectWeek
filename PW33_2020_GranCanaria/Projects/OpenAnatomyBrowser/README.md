@@ -25,7 +25,7 @@ Make the Open Anatomy atlas browser more user friendly and more compatible with 
 1. Better understanding of common problems between React apps and vtkjs.
 1. Understanding of coordinate system mismatch between volumes and models (RAS models), will fix this problem going forward.
 1. Provided Andras with latest TA2 draft metadata for labeling atlases.
-1. Discussed translation of TA2 to Spanish with Juan Andres. 
+1. Discussed translation of TA2 to Spanish with Juan Andres.
 1. Worked on a preliminary export format for metadata from Slicer.
 1. Gained user feedback about metadata uses and atlas viewer needs.
 

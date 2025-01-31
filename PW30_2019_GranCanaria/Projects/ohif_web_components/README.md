@@ -60,7 +60,7 @@ create plugins for OHIF, and also to create custom projects like [prostatecancer
 1. Create a HelloWorld Extension with all types of modules and documentation
 1. Improve testing and continuous integration
 1. DICOM SR HTML Display Extension
-1. DICOM TID1500 Measurement Report Table extension 
+1. DICOM TID1500 Measurement Report Table extension
 1. Extract cornerstone plugin and add VTK extension
 
 # Background and References

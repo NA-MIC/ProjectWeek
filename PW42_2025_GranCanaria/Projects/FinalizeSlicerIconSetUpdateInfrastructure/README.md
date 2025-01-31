@@ -79,4 +79,3 @@ _No response_
 
 
 - [PW 41 Project Page](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/UpdatedIconsAndThemeSwitching/)
-

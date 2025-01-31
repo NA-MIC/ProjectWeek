@@ -15,7 +15,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 About 1-2 in every 1000 babies are born with what's called clubfoot, the most common skeletal deformity in children.
 
 Clubfoot is well treated using a plaster casting method developed in the 1960s, but there is a potential to use
-3D scanning and printing techniques to make the process more efficient and cost-effective.  Also easier activities of 
+3D scanning and printing techniques to make the process more efficient and cost-effective.  Also easier activities of
 daily living for families with plastic instead of plaster casts.
 
 ## Objective

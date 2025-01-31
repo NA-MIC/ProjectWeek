@@ -2,17 +2,17 @@
 
 ## Key Investigators
 - Hareem Nisar, Phd Candidate, Robarts research Institute
-- Roberta Piazza, Visiting Graduate Student at Robarts Research Institute 
+- Roberta Piazza, Visiting Graduate Student at Robarts Research Institute
 
 
 # Project Description
 The idea is to use electromagnetic sensor on Conavi catheter, needle and guidewire to track them without
-using fluoroscopy. 
+using fluoroscopy.
 
 
 ## Objective
-1. Objective A. Segment vessel from US catheter. 
-1. Objective B. Build vessel model. 
+1. Objective A. Segment vessel from US catheter.
+1. Objective B. Build vessel model.
 
 ## Approach and Plan
 

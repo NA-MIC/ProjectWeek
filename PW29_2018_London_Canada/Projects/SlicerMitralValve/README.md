@@ -3,7 +3,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## SlicerMitralValve
 
 ## Key Investigators
-- Patrick Carnahan (Robarts) 
+- Patrick Carnahan (Robarts)
 
 # Project Description
 This extension contains a collection of tools for aiding in patient-specific mitral valve modelling. Currently consists of components for registering bi-plane colour ultrasound into 3D, and interactive-automatically segmenting the mitral valve from 3D TEE data.
@@ -50,5 +50,3 @@ This extension contains a collection of tools for aiding in patient-specific mit
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 - Source code: https://github.com/pcarnah/SlicerMitralValve
-
-

@@ -20,7 +20,7 @@ key_investigators:
 - name: Maria Francesca Spadea
   affiliation: Institute of Biomedical Engineering
   country: KIT - Karlsruher Institut für Technologie, Germany
-  
+
 - name: Petros Koutsouvelis
   affiliation: Maastricht University
   country: Netherlands
@@ -55,7 +55,7 @@ A key step in medical image processing, particularly in MRI images, is normaliza
 2. In the created extension you can choose which method to use.
 3. Considering the first two proposed methods (Z-score and WhiteStripe) only the MRI image needs to be loaded and is normalized.
 4. Considering the third method (Nyul) one must load in addition to the image to be Normalized, the MRI dataset and only then is the image normalized.
-5. Future developments will be to implement new normalization methods proposed in the literature.  
+5. Future developments will be to implement new normalization methods proposed in the literature.
 
 # Illustrations
 

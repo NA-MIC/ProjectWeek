@@ -27,7 +27,7 @@ We want to create a Slicer module for stardazied conversion accuracy assessment.
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Write an extension that will quantify conversion accuracy. The code will be written in python. 
+1. Write an extension that will quantify conversion accuracy. The code will be written in python.
 
 ## Progress and Next Steps
 
@@ -35,7 +35,7 @@ We want to create a Slicer module for stardazied conversion accuracy assessment.
 
 1. The extension "ImageCompare" was created. For the moment is contains just a module for synthetic CT evaluation.
    More modules could be add later.
-   
+
 2. The extension in already available in the nigthly build (thanks JC and Andras!)
 
 # Illustrations

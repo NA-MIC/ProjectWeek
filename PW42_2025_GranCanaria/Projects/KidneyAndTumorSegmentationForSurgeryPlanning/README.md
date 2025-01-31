@@ -23,10 +23,10 @@ key_investigators:
 - name: Andres Diaz-Pinto
   affiliation: NVIDIA
   country: UK
-  
+
 - name: Mauro I. Dominguez
   affiliation: Independent
-  country: Argentina  
+  country: Argentina
 ---
 
 # Project Description
@@ -103,5 +103,3 @@ We would like to test improved methods for this task, and also define a good ter
 
 Example KiTS case from IDC:
 [https://viewer.imaging.datacommons.cancer.gov/viewer/1.3.6.1.4.1.14519.5.2.1.6919.4624.135173370342136417423953641748](https://viewer.imaging.datacommons.cancer.gov/viewer/1.3.6.1.4.1.14519.5.2.1.6919.4624.135173370342136417423953641748)
-
-

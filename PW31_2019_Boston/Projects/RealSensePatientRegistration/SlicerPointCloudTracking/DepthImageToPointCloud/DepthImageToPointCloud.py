@@ -69,10 +69,10 @@ class DepthImageToPointCloudWidget(ScriptedLoadableModuleWidget):
 
   def onApplyButton(self):
     logic = DepthImageToPointCloudLogic()
-    cameraParams = {"focalLength" : self.ui.focalLength.value, 
+    cameraParams = {"focalLength" : self.ui.focalLength.value,
                     "principlePointX" : self.ui.principlePointX.value,
                     "principlePointY" : self.ui.principlePointY.value}
-    pointCloudParams = {"thresholdLower" : self.ui.thresholdLower.value, 
+    pointCloudParams = {"thresholdLower" : self.ui.thresholdLower.value,
                     "thresholdUpper" : self.ui.thresholdUpper.value,
                     "depthScale" : self.ui.depthScale.value}
     logic.run(self.ui.inputSelector.currentNode(), self.ui.outputSelector.currentNode(), cameraParams, pointCloudParams)
@@ -132,13 +132,13 @@ class DepthImageToPointCloudLogic(ScriptedLoadableModuleLogic):
     polyData = generatePolyData(listOfPoints)
     pointCloudModel.SetAndObservePolyData(polyData)
 
-    {"focalLength" : self.ui.focalLength.value, 
+    {"focalLength" : self.ui.focalLength.value,
                     "principlePointX" : self.ui.principlePointX.value,
                     "principlePointY" : self.ui.principlePointY.value}
 
   #Takes a dim[0] by dim[1] numpy array, and returns a list of [X Y Z] coordinates
   def generate_pointcloud(self,depthData, cameraParams, pointCloudParams):
-    points = []    
+    points = []
     for i in range(0,depthData.shape[0],1):
         for j in range(0,depthData.shape[1],1):
             Z = depthData[i,j] / pointCloudParams['depthScale']
@@ -177,7 +177,7 @@ class DepthImageToPointCloudLogic(ScriptedLoadableModuleLogic):
 
     inputImage = inputVolume.GetImageData()
     imageDims = inputImage.GetDimensions()[0:2]
-    
+
     #Extract the vtkImageData from the vtkMRMLScalarVolumeNode
     extractFilterDepth = vtk.vtkImageExtractComponents()
     extractFilterDepth.SetInputData(inputImage)
@@ -194,7 +194,7 @@ class DepthImageToPointCloudLogic(ScriptedLoadableModuleLogic):
     polyData = self.generatePolyData(listOfPoints)
 
     outputVolume.SetAndObservePolyData(polyData)
- 
+
     logging.info('Processing completed')
 
     return True

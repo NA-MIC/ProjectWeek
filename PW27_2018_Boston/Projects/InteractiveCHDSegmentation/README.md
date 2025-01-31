@@ -13,7 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Objective
 
-1. Aim: segment all cardiac chambers and great vessels from cardiac MRI, for children with congenital heart disease. 
+1. Aim: segment all cardiac chambers and great vessels from cardiac MRI, for children with congenital heart disease.
 2. 20 training cases + large anatomical variability - remains a challenge for automatic segmentation.
 3. Approach: Integrate some interaction from the user, e.g. scribbles or landmarks.
 
@@ -37,4 +37,3 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!--Use this space for information that may help people better understand your project, like links to papers, source code, or data.-->
 
 - HVSMR Challenge Data: (http://segchd.csail.mit.edu)
-

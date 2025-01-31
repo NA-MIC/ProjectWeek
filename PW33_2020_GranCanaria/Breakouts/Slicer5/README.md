@@ -12,7 +12,7 @@ Back to [Project Week](../../README.md)
 - Andras Lasso (Queen's University)
 - Csaba Pinter (Ebatin S.L)
 - Jean-Christophe Fillion-Robin (Kitware Inc.)
-- Kyle Sunderland (Queen's University) 
+- Kyle Sunderland (Queen's University)
 - Steve Pieper (Isomics Inc.)
 - Sonia Pujol (Brigham and Women’s Hospital and Harvard Medical School)
 
@@ -85,7 +85,7 @@ Action Items (Jc):
 * Extract list of all contributors and ask on discourse which emails is preferred
 * Mantis:
   * Create redirect from mantisarchive.slicer.org/view.php?id=4681 to https://issues.slicer.org/view.php?id=4681
-  
+
 Post-release Action items:
 * Mantis:
   * Create static website with archived mantis issues
@@ -118,7 +118,7 @@ Notes:
 * after Github migration, we will transition to readthedocs and markdown
 
 Action items (Andras, Jc):
-* integrate https://github.com/Slicer/Slicer/pull/686 
+* integrate https://github.com/Slicer/Slicer/pull/686
 
 ### Slicer Training and Tutorials
 
@@ -128,7 +128,7 @@ Notes:
 * two use cases for tutorials
   * at home: website works well. For example, https://lassoan.github.io/SlicerSegmentationRecipes/
   * teaching: slides works well
-  
+
 Ideas:
 * every tutorial could have a discourse thread to post comment but on youtube video there is a comment section but there are no comments
 * generation of PDF from PPT slides could be automated
@@ -138,7 +138,7 @@ Action items:
   * Shared Drive: While non-kitware member can be added, the team drive can not be publicly visible. See https://support.google.com/a/thread/13540273?hl=en
   * Shared Folder: This can be visible by anyone with the link and non-kitware member can be added. Click [here](https://drive.google.com/drive/folders/1aU77cEqkEBl8764-IL-hdX067YYjZUE1?usp=sharing) to access the folder
 * update power point slides into shared folder. Create one folder per Slicer version (e.g 3.6, 4.0, 4.1, ...) (Sonia)
-  
+
 
 ### Default Theme
 
@@ -155,10 +155,10 @@ Notes:
 * Sequences module is now a very useful module and should be integrated into the code
 
 Questions:
-* Should the module be integrated as a [Slicer Remote module](https://www.slicer.org/wiki/Documentation/Nightly/Developers/Build_system/Remote_Module) or do we want to cherry pick the complete history ? 
+* Should the module be integrated as a [Slicer Remote module](https://www.slicer.org/wiki/Documentation/Nightly/Developers/Build_system/Remote_Module) or do we want to cherry pick the complete history ?
 
 Action items (Andras, 2 to 3 weeks):
-* Revisit MRML Copy API 
+* Revisit MRML Copy API
 * Integrate Sequences
 
 ### Extension description file
@@ -168,6 +168,6 @@ Notes:
 * Two steps:
   * (1) Update extension index changing format and extension. For now, keep backend working with s4ext
   * (2) de-duplication of metadata in CMakeLists.txt vs description file. Metadata will be extracted from the json file using CMake function
-  
+
 Action items (Jc, Sam):
 * Implement step 1

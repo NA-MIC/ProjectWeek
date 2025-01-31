@@ -49,24 +49,24 @@ This project aims at creating a minimal user interface oriented to museological 
 ![Some more images](interfaceSketch.png)<br/>
 Sketch of the interface.
 <br/>
-<br/>  
+<br/>
 ![Some more images](arduinoBoard.jpg)
 Arduino board with push buttons and trackballs.
 <br/>
-<br/> 
+<br/>
 
 ![Interface prototype with translated texts and corporate image](interf.png)<br/>
 Interface prototype with translated texts and corporate image
 <br/>
-<br/>  
+<br/>
 ![Museum logo](logo.png)<br/>
 Museum logo
 <br/>
-<br/> 
+<br/>
 ![Detail of the custom buttons](botonera.png)<br/>
 Detail of the custom buttons
 <br/>
-<br/> 
+<br/>
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->

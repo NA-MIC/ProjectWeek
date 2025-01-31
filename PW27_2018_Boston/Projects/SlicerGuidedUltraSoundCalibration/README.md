@@ -24,15 +24,15 @@ The main purpose of this project is to create a module that integrates an alread
 
 ## Progress and Next Steps
 1. Added a model node to show a sphere within the image on slicer
-2. Added a cross hair fiducial to collect the image coordinate from the center of the straw 
-3. Created a loable extension to connect the python module to the C++ code 
-4. Built slicer on my computer 
-5. Built openCV 3.3 
+2. Added a cross hair fiducial to collect the image coordinate from the center of the straw
+3. Created a loable extension to connect the python module to the C++ code
+4. Built slicer on my computer
+5. Built openCV 3.3
 6. Made the view Red view only
-7. Added inputs for ultrasound system IP address and port 
-8. Added ultrasound streaming and freeze buttons 
-9. Added ultrasound streaming and freezing capabilities to these buttons 
-10. Next steps: to intgrate the guided portion of the algorithm 
+7. Added inputs for ultrasound system IP address and port
+8. Added ultrasound streaming and freeze buttons
+9. Added ultrasound streaming and freezing capabilities to these buttons
+10. Next steps: to intgrate the guided portion of the algorithm
 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 

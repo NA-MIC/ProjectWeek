@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Anatomically informed UKF tractography 
+# Anatomically informed UKF tractography
 
 ## Key Investigators
 
@@ -26,7 +26,7 @@ In this project, we will include brain tissue segmentation maps into the existin
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. UI design for better usage of the seeding/stopping options 
+1. UI design for better usage of the seeding/stopping options
 1. CLI help documention
 
 ## Progress and Next Steps
@@ -59,4 +59,3 @@ Zhang, F., Breger, A., Cho, K. I. K., Ning, L., Westin, C. F., O’Donnell, L. J
 Reddy, C.P. and Rathi, Y., 2016. Joint Multi-Fiber NODDI Parameter Estimation and Tractography Using the Unscented Information Filter. Frontiers in Neuroscience, 10.
 
 Malcolm, J.G., Shenton, M.E. and Rathi, Y., 2010. Filtered multitensor tractography. IEEE transactions on medical imaging, 29(9), pp.1664-1675.
-

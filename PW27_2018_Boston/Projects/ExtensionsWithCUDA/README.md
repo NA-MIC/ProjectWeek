@@ -21,7 +21,7 @@ Provide an easy path for distributing extensions that use CUDA.
 
 1. Create sample CUDA extension
    1. Create simple CUDA extension "Slicer CUDA Probe"
-   1. Perform manual build, upload, and test 
+   1. Perform manual build, upload, and test
       1. https://www.slicer.org/wiki/Documentation/Nightly/Developers/Tutorials/BuildTestPackageDistributeExtensions
       1. https://www.slicer.org/wiki/Documentation/Nightly/Developers/Build_ExtensionsIndex
 1. Set up VM that matches factory, but with CUDA installed

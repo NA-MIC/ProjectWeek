@@ -37,7 +37,7 @@ Relate to:
 1. Look at the current state of Slicer and MITK integration in Kaapana (container and client/server interaction)
 ![image](https://user-images.githubusercontent.com/49161877/215472354-28e8e2bd-60c4-4bc5-9b20-69c98de61a80.png)
 2. Finish/adapt integration.
-3. Improve desktop (running in a browser) streaming solutions - (noVNC, guacamole...) in the Kaapana kubernetes cluster. 
+3. Improve desktop (running in a browser) streaming solutions - (noVNC, guacamole...) in the Kaapana kubernetes cluster.
 4. Create documented API for an interaction Kaapana with destop clients
 
 ## Progress and Next Steps

@@ -37,8 +37,8 @@ We will continue to develop scripts to adapt freesurfer procedures so that manua
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Improve code so it works better cross-platform 
-2. Identify remaining areas where corrections are difficult to make and improve 
+1. Improve code so it works better cross-platform
+2. Identify remaining areas where corrections are difficult to make and improve
 3. Use the modified surface in the downstream FreeSurfer pipelines
 
 
@@ -82,4 +82,3 @@ _No response_
 
 
 _No response_
-

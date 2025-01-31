@@ -33,7 +33,7 @@ However, we still have two converters remaining that seem to be more complex: su
 
 1. Convert the representations to Surface and cut through them to render in viewports
 2. For editing, get the intersections and travers to find a closed loop polygon
-3. Try to identify holes in order to render them as holes 
+3. Try to identify holes in order to render them as holes
 
 ## Progress and Next Steps
 
@@ -42,7 +42,7 @@ However, we still have two converters remaining that seem to be more complex: su
    src="https://github.com/NA-MIC/ProjectWeek/assets/7490180/317ba288-c92c-4d43-98e2-5af61da71b42"
    style="max-height:640px; min-height: 200px">
  </video>
- 
+
 1. I successfully completed the first task by using vtkClipClosedSurface to cut through the surface and render it as polyData within the viewport.
 2. Additionally, I implemented pre-caching of all slices within a web worker. This ensures that all cuts are calculated in advance, eliminating the need to wait for the user to scroll through each slice.
 

@@ -26,7 +26,7 @@ key_investigators:
 
 We are developing tools for segmentation of biological specimens (e.g. 3D microCT of fish or snakes).  The idea is that a Lab Director will define a project, such as what scan to segment, what anatomical structures to segment, the terminologies to use, etc.  Students or lab members would be assigned to segment subsets of the data.  We want to leverage existing data management tools, such as github for organizing issues and contributions, and jetstream2 for hosting data and computation.
 
-We are interested in facilitating collaborative segmentation, including dividing a whole project into tasks, managing allocation to tasks to segmenters, managing/merging contributions, etc. 
+We are interested in facilitating collaborative segmentation, including dividing a whole project into tasks, managing allocation to tasks to segmenters, managing/merging contributions, etc.
 
 If you are interested in similar topics, please join our project!
 
@@ -82,4 +82,3 @@ _No response_
 # Background and References
 
 Experiments: [https://github.com/pieper/SlicerMorphoDepot/tree/main/Experiments](https://github.com/pieper/SlicerMorphoDepot/tree/main/Experiments)
-

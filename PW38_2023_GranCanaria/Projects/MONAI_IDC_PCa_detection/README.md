@@ -15,7 +15,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 [MONAI Zoo] has a growing number of pre-trained models for solving a range of image analysis tasks. It is of interest to understand robustness of those models on independent datasets, evaluate their performance.
 
-[NCI Imaging Data Commons (IDC)]() has a growing number of imaging datasets, most of which do not have accompanying annotations, complicating downstream analysis. 
+[NCI Imaging Data Commons (IDC)]() has a growing number of imaging datasets, most of which do not have accompanying annotations, complicating downstream analysis.
 
 In this project we will demonstrate how an existing pre-trained MONAI model packaged as a bundle can be applied to a suitable subset of data from IDC, and how existing annotations can be used to validate results produced by this model.
 
@@ -31,19 +31,19 @@ In this project we will demonstrate how an existing pre-trained MONAI model pack
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Develop a Google Colab notebook that contains the following steps:
-  
+
   1. Install prerequisites and the MONAI bundle https://github.com/Project-MONAI/model-zoo/tree/dev/models/prostate_mri_anatomy.
-  
+
   1. Select applicable subset of MRI series from IDC (ProstateX and QIN-Prostate-Repeatability collections).
-  
+
   1. Convert images from DICOM to the format acceptable by the model.
-  
+
   1. Run inference.
-  
+
   1. Visualize results.
-  
+
   1. Perform quantitative evaluation of the results.
-  
+
   1. Convert results into DICOM representation, visualize in OHIF.
 
 2. Document performance of the model.
@@ -61,7 +61,7 @@ In this project we will demonstrate how an existing pre-trained MONAI model pack
 4. Multi-modal input : T2,ADC, DWI, understand acquisition process of DWI used for training
 5. Bundle creating thoughts : More extensive documentation about required parameters in inference.json and the relation between anatomy.json and inference.json should be provided.
 6. Document process of creating bundle, difficulties encountered
-8. Next steps : Confirm DSC results on prostate158 and evaluate on IDC data(DWI acquisition parameters -- QIN Prostate repeatability similar to prostate158 ?)       
+8. Next steps : Confirm DSC results on prostate158 and evaluate on IDC data(DWI acquisition parameters -- QIN Prostate repeatability similar to prostate158 ?)
 
 # Illustrations
 

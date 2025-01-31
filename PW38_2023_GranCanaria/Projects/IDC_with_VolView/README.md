@@ -13,7 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 [VolView](https://volview.kitware.com/) is an open source radiological viewer developed by Kitware that excels in 3D visualization. Currently, this viewer can be used to visualize files uploaded into the browser.
 
-[NCI Imaging Data Commons](https://imaging.datacommons.cancer.gov/) is a cloud-based repository of cancer imaging data, which among other features provides free access to the DICOM files curated in Google Storage public buckets. 
+[NCI Imaging Data Commons](https://imaging.datacommons.cancer.gov/) is a cloud-based repository of cancer imaging data, which among other features provides free access to the DICOM files curated in Google Storage public buckets.
 
 While IDC integrates OHIF and Slim viewers, the instances of the viewers maintained by IDC can only be used to visualize data in IDC. Users that want to visualize analysis results they produce in OHIF or Slim need to deploy their own instances of the viewers. That process is documented, but involves many steps and can be too difficult for many users. Furthermore, OHIF Viewer v2 used in IDC does not have any functionality to support 3D visualization.
 
@@ -64,7 +64,7 @@ In this project we want to investigate the use of existing VolView instance main
   ```
   * when CORS config is propagated, you should be able to open the images in Kitware hosted VolView instance using this URL format: `https://volview.netlify.app/?urls=https://storage.googleapis.com/<YOUR_BUCKET>/<YOUR_MANIFEST>.json`
   2. Reached out to Google Public Datasets Program support asking if CORS can be configured for the public IDC buckets to allow GET from VolView, waiting for the response.
-  
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished.
@@ -77,4 +77,3 @@ In this project we want to investigate the use of existing VolView instance main
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-

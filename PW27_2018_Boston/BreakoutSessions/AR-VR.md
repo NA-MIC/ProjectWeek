@@ -32,7 +32,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
   - By simulating mouse interactions all the effects could be used
   - New effects
     - Surface deformation: Grow ROI on segment surface then push or pull with modification function (VR possibly makes it actually usable by allowing quick evaluation of the result while changing the input, and seeing all in real 3D with depth)
-    
+
 - **Discussion**
   - Sam Jang recommendations: Keep focus on the model, not fly around; rotate or walk around; keep actions very consistent.
   - If elbow and wrist rests on some gel pad then fine manipulation is feasible
@@ -51,7 +51,7 @@ Back to [Breakout Sessions List](../README.md#BreakoutSessions)
   - From @curtislisle:
 During the VR interaction session at the recent Project Week, we discussed interaction modes.  I was reminded of early research by some former colleagues at Univ. of Central Florida.  Here is a URL and Bibliography to some of the work that might be of interest:
 https://www.mitpressjournals.org/doi/abs/10.1162/pres.1995.4.4.403
-This is the work I described about selecting a nearby object to establish a coordinate system transformation and move the world with respect to the eyepoint instead of flying the eyepoint towards the target object.  The point was made about simulation sickness when moving the eyepoint, but our lab's work indicated this paradigm of direct manipulation of the virtual environment was effective. 
+This is the work I described about selecting a nearby object to establish a coordinate system transformation and move the world with respect to the eyepoint instead of flying the eyepoint towards the target object.  The point was made about simulation sickness when moving the eyepoint, but our lab's work indicated this paradigm of direct manipulation of the virtual environment was effective.
 Some literature search of the PRESENCE journal might help us take advantage of some of  the earlier work.    It is nice to see that rendering and VR technology is finally more widely accessible.
 
 
@@ -68,7 +68,7 @@ Some literature search of the PRESENCE journal might help us take advantage of s
   - Orientation marker
 
 ### Proposed changes
-  
+
 - Excluding VR view from main layout management: Node reference parentLayoutNodeID in view nodes
   - None by default, meaning main layout. Set to node (e.g. itself) to indicate it's standalone and should not be managed
   - Abstract layout node class

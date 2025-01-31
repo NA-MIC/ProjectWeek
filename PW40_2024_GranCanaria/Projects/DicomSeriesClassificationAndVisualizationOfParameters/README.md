@@ -23,7 +23,7 @@ key_investigators:
 
 - name: Stefan Denner
   affiliation: DKFZ
-  country: Germany 
+  country: Germany
 
 - name: Andrey Fedorov
   affiliation: Brigham and Women's Hospital
@@ -64,10 +64,10 @@ We would like to develop approaches for aiding in the curation of data. The firs
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1.  Started [repo here](https://github.com/deepakri201/DICOMTagViz/) for initial [hiplot](https://github.com/facebookresearch/hiplot) exploration of DICOM tags of T2 weighted axial series of prostate imaging collections from IDC
-2.  Had some very helpful discussions with David, Maria and Chris about understanding of parameters and previous work done in this area 
+2.  Had some very helpful discussions with David, Maria and Chris about understanding of parameters and previous work done in this area
 3.  Created similar interactive plots for DWI and ADC across different prostate collections
 4.  Developed a hierarchical approach for classification of prostate scans, starting with ProstateX collection -- for T2 axial, DWI, ADC, and DCE classification.
-5.  We'll later try this out on other prostate collections. 
+5.  We'll later try this out on other prostate collections.
 
 # Illustrations
 
@@ -81,7 +81,7 @@ Same hiplot but with rendering in the browser!
 
 ![](https://github.com/NA-MIC/ProjectWeek/assets/59979551/043542a8-99fb-42ad-8724-dc94588027c3)
 
-**** Workflow **** 
+**** Workflow ****
 
 ![PRODICOM](https://github.com/NA-MIC/ProjectWeek/assets/59979551/970116c8-faa0-4945-8d77-55f61f7ef042)
 
@@ -114,5 +114,3 @@ Some earlier work on sequence classification:
 18.  T1 vs T2 MRI | T1and T2 MRI image comparison. mrimaster. Available from: https://mrimaster.com/t1-vs-t2-mri/
 19.  Pizarro R, Assemlal H-E, De Nigris D, Elliott C, Antel S, Arnold D, et al. Using Deep Learning Algorithms to Automatically Identify the Brain MRI Contrast: Implications for Managing Large Databases. Neuroinform. 2019;17(1):115–30. [doi:10.1007/s12021-018-9387-8](https://dx.doi.org/10.1007/s12021-018-9387-8)
 20.  Gauriau R, Bridge C, Chen L, Kitamura F, Tenenholtz NA, Kirsch JE, et al. Using DICOM Metadata for Radiological Image Series Categorization: a Feasibility Study on Large Clinical Brain MRI Datasets. J Digit Imaging. 2020 Jun;33(3):747–62. [doi:10.1007/s10278-019-00308-x](https://dx.doi.org/10.1007/s10278-019-00308-x)
-
-

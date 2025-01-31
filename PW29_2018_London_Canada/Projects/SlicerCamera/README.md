@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 Further developments in the SlicerCamera extension. Adding camera ray intersection capabilities and polishing up existing modules.
 
 ## Objective
-1. Finalize the camera ray intersection module (for calculating minimum distance between rays). 
+1. Finalize the camera ray intersection module (for calculating minimum distance between rays).
 1. Add documentation, icons, etc... to existing calibration module
 
 ## Approach and Plan
@@ -26,4 +26,3 @@ Further developments in the SlicerCamera extension. Adding camera ray intersecti
 # Background and References
 - Source code: https://github.com/VASST/SlicerCamera
 - Documentation: https://github.com/VASST/SlicerCamera
-

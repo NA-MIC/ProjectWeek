@@ -34,9 +34,9 @@ key_investigators:
 
 **ShapeAXI** is a shape analysis package that regroups many AI networks which use analysis via transformer networks or 2D convolutional neural networks.
 This package is available on Pypi and has been developed using Python and MONAI framework.
-The objective of ShapeAXI is to provide different architectures that can be used by anyone using his own data. 
+The objective of ShapeAXI is to provide different architectures that can be used by anyone using his own data.
 
-One of this network, called **SaxiRing**, has been used on the Adolescent Brain Cognitive Development (ABCD) data as a quality control (QC) model. One of the outputs of this architecture is a visual explanation from the regions of an input image that are most influential for the model's decision. 
+One of this network, called **SaxiRing**, has been used on the Adolescent Brain Cognitive Development (ABCD) data as a quality control (QC) model. One of the outputs of this architecture is a visual explanation from the regions of an input image that are most influential for the model's decision.
 
 The project would be to create the extension of this QC model and the visualization on 3D Slicer.
 
@@ -57,9 +57,9 @@ The project would be to create the extension of this QC model and the visualizat
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Create the extension into 3D-Slicer 
+1. Create the extension into 3D-Slicer
 2. Implement the Extension Logic (organise the code, develop the Logic Module, develop the User Interface (UI))
-3. Integrate the QC model 
+3. Integrate the QC model
 4. Integrate the GRAD-CAM
 4. Distribute the extension
 
@@ -110,4 +110,3 @@ Next steps :
 
 
 - [ShapeAXI](https://github.com/FlorianDAVAUX/ShapeAXI)
-

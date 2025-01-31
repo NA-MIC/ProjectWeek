@@ -13,10 +13,10 @@ key_investigators:
 
 - name: Tamas Ungi
   affiliation: Queen's University
-  
+
 - name: Rebecca Hisey
   affiliation: Queen's University
-  
+
 - name: Róbert Szabó
   affiliation: Queen's University / Óbuda University
 

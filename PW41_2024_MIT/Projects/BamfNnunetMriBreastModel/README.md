@@ -32,7 +32,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-We trained an nnUNet model to segment Breast, Fibroglandular Tissue, and Structural Tumor from MRI scans. We prepared the training set from multiple source such as [Breast-MRI-NACT-Pilot](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=22513764), [Duke-Breast-Cancer-MRI](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903), and [ISPY1-Tumor-SEG-Radiomics](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=101942541) 
+We trained an nnUNet model to segment Breast, Fibroglandular Tissue, and Structural Tumor from MRI scans. We prepared the training set from multiple source such as [Breast-MRI-NACT-Pilot](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=22513764), [Duke-Breast-Cancer-MRI](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903), and [ISPY1-Tumor-SEG-Radiomics](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=101942541)
 
 
 
@@ -89,4 +89,3 @@ Coming soon
 
 
 Coming soon
-

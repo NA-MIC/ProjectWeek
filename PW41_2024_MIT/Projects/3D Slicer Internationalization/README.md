@@ -23,7 +23,7 @@ key_investigators:
   affiliation: Cheikh Anta Diop University
   country: Senegal
 
-- name: Mohamed Alalli Bilal 
+- name: Mohamed Alalli Bilal
   affiliation: Nouakchott Al-Asriya University
   country: Mauritania
 
@@ -34,7 +34,7 @@ key_investigators:
 - name: Steve Pieper
   affiliation: Isomics
   country: USA
-  
+
 ---
 
 # Project Description
@@ -62,8 +62,8 @@ The project aims to empower non-English speaking end-users to realize the full p
 
 International PW41 participants, please complete the [3D Slicer Internationalization form](https://forms.gle/h7b92rDzbUzFqL7d9)  to participate in the sessions.
 
-  
-  
+
+
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
@@ -74,5 +74,4 @@ International PW41 participants, please complete the [3D Slicer Internationaliza
 <img width="1728" alt="SlicerInternationalization_PW41_invitedTalk" src="https://github.com/NA-MIC/ProjectWeek/assets/1847492/66a0c77b-7379-4cd0-a4b0-94ba8ed84337">
 
 2. New Collaborations with Ecole Militaire de Santé and Université Gaston Berger, Senegal
-3. Future plans for a 3D Slicer Localization extension 
-
+3. Future plans for a 3D Slicer Localization extension

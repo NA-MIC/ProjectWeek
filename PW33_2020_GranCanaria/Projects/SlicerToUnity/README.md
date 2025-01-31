@@ -19,7 +19,7 @@ Developing a real time viewer showing image data (e.g., segmentations, 3D models
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Establish a streaming connection between unity and 3D slicer 
+1. Establish a streaming connection between unity and 3D slicer
 2. Select Data that should be streamable (Meta data, dicom images, 3d models)
 3. Integrate the streamed data into Unity application
 
@@ -29,7 +29,7 @@ Developing a real time viewer showing image data (e.g., segmentations, 3D models
 
 1. Get an overview about pre-existing solutions (Web server Http streaming, OpenITGLink)
 2. Developing a slicer plug-in
-  * create new plugin 
+  * create new plugin
   * integrate streaming technology
   * select data to be streamed
   * put data into streamable format
@@ -45,7 +45,7 @@ Developing a real time viewer showing image data (e.g., segmentations, 3D models
 
 1. Look at pre-existing solutions (Web server Http streaming, OpenITGLink)
   * OpenITGLink seems a bit too much for our goals
-  * http streaming looks promising (https://github.com/pieper/SlicerWeb) 
+  * http streaming looks promising (https://github.com/pieper/SlicerWeb)
   * https://projectweek.na-mic.org/PW32_2019_London_Canada/Projects/KidneySegmentation/
   * AR/VR solutions with slicer: https://www.slicer.org/wiki/Documentation/Labs/Augmented_Reality_and_Virtual_Reality_support#Current_approaches
   * https://github.com/Lyla-M/UnityOpenIGTLink

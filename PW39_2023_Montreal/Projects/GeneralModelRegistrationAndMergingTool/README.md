@@ -57,10 +57,10 @@ We are thinking about expanding this module into its own system for other purpos
 1.  Current GUI testing version is here: <https://github.com/chz31/registration_test>. It implements rigid registration functions (RANSAC + ICP) and new ITK-based ALPACA module.
 <img width="800" alt="Screenshot 2023-06-14 at 4 34 06 PM" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/f31caab3-353f-4839-b442-108a2b6ac4ea">
 
-  
+
 2.  Testing the performance of the new ITK-based rigid registration function for more cases.
 3.  Currently, we are implementing CPD affine registration from the pycpd package.
-4.  Adding more new registration features in the future. 
+4.  Adding more new registration features in the future.
 
 # Illustrations
 

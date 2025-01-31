@@ -36,7 +36,7 @@ Support standardized data and AI model I/O interfaces in Kaapana.
      - generic support of MONAI Bundles (MONAI Label / MONAI Deploy / MONAI FL)
 - Standardized remote model execution, execution of models from modelhub.ai within Kaapana
 2. Integration/support of data sources:
-- TCIA download/(upload) into Kaapana 
+- TCIA download/(upload) into Kaapana
 - Integration with IDC: download of data via Google Cloud SDK
 3. Integration of new analysis tools into Kaapana
 4. Javascript/Python library client to communicate with Kaapana

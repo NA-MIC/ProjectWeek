@@ -20,7 +20,7 @@ key_investigators:
 - name: Steve Pieper
   affiliation: Isomics, Inc.
   country: USA
-  
+
 - name: Alireza Sedghi
   affiliation: Accolade Imaging, Inc.
   country: Canada
@@ -68,19 +68,19 @@ After conducting further tests, we discovered an additional observation regardin
 
 This finding underscores the importance of addressing the performance and stability concerns, not only for handling compressed images but also for handling larger uncompressed images. It emphasizes the need to optimize the OHIF viewer and its underlying components like cornerstoneWADOImageLoader and dicomParser to ensure robust performance across a wide range of image sizes.
 
-We have made significant progress in addressing various issues related to the OHIF viewer and its underlying components: 
+We have made significant progress in addressing various issues related to the OHIF viewer and its underlying components:
 
 * _OHIF Build with Proposed PR for Uncompressed Images:_ We successfully created an OHIF build incorporating the proposed pull request (PR) for uncompressed images. Previously, the demo ultrasound series would cause immediate failure and crash the browser. However, the proposed fix effectively resolved this issue, allowing smooth loading and scrolling through a multiframe image of approximately 600 MB without any problems.
 
 PR link: <https://github.com/cornerstonejs/cornerstoneWADOImageLoader/pull/454#issue-1287614710>
-       
+
 * _Handling Compressed Images:_
     * To address the issue with compressed images, we adapted a solution approach inspired by the provided PR link. While the original solution focused on uncompressed images, we applied a similar method within the dicomParser library to handle compressed images. Initially, the attempted solution did not yield the desired outcome. However, after further work and refinement, we were able to fix the issue and submit a PR to dicomParser.
     * _Successful Testing of Proposed PR with Compressed Images:_ We have successfully built and tested the proposed PR in ePAD using compressed images. This implementation resolved the crashing issue associated with compressed images, ensuring stable functionality.
     * _Deidentify Sample Dataset:_ Although we made efforts to create a deidentified sample dataset, we encountered challenges in blacking out the pixels. We are actively working on finding a solution to overcome this obstacle.
     * Configuration of dicomparser's sharedCopy Method: Alireza suggested making the dicomParser's sharedCopy method configurable with a useCopy option. This enhancement would provide other applications and users utilizing dicomparser with the flexibility to choose whether they want to use a copy or not. We will diligently work on implementing this suggestion and update the PR accordingly.
 
-Ticket link: <https://github.com/cornerstonejs/dicomParser/issues/248> 
+Ticket link: <https://github.com/cornerstonejs/dicomParser/issues/248>
 
 PR Link: <https://github.com/cornerstonejs/dicomParser/pull/251>
 
@@ -106,7 +106,7 @@ Sample multiframe loaded successfully with suggested improvements ![multiframe-u
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-     
+
 Uncompressed ultrasound image <https://github.com/emelalkim/sampledata/releases/tag/large_multiframe>
 
 Unfortunately we couldn't deidentify the compressed ultrasound images.
@@ -114,4 +114,3 @@ Unfortunately we couldn't deidentify the compressed ultrasound images.
 Related libraries:
 <https://github.com/cornerstonejs/cornerstoneWADOImageLoader>
 <https://github.com/cornerstonejs/dicomParser>
-

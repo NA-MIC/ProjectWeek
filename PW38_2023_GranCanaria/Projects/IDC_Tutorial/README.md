@@ -16,7 +16,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 
 
-[NCI Imaging Data Commons](https://imaging.datacommons.cancer.gov/) is a cloud-based repository of cancer imaging data, which among other features provides free access to the DICOM files curated in Google Storage public buckets. 
+[NCI Imaging Data Commons](https://imaging.datacommons.cancer.gov/) is a cloud-based repository of cancer imaging data, which among other features provides free access to the DICOM files curated in Google Storage public buckets.
 
 This workshop will introduce IDC and some recent related developments.
 
@@ -36,7 +36,7 @@ See agenda and notes for the workshop in [this document](https://docs.google.com
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. 
+1.
 
 ## Progress and Next Steps
 
@@ -57,4 +57,3 @@ See agenda and notes for the workshop in [this document](https://docs.google.com
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 * [PW38 IDC tutorial agenda and slides](https://docs.google.com/document/d/1HMmqVXSshEHf90Vu9LORaXVuoSpJzKxy7StrMBqfSdQ/edit?usp=sharing).
 * [Google Blog post about IDC](https://cloud.google.com/blog/topics/developers-practitioners/advancing-cancer-research-public-imaging-datasets-national-cancer-institute-imaging-data-commons) (released Feb 3, 2023)
-

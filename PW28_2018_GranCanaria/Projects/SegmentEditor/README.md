@@ -38,7 +38,7 @@ Back to [Projects List](../../README.md#ProjectsList)
   * Consider speeding up segmentation by using a stylus instead of a mouse, and explore faster ways of slice navigation (3D mouse, webcam tracking, etc?)
 * Brachytherapy needle segmentation in MRI for training deep learning models
   * Possible solution: Add "tube" mode from Markups to Models extension to Segment Editor, as an option to surface cut or a new effect in a new extension
-  * Deep learning training support: need cohort segmentation slicelet that allows configuring segment editor before segmenting first patient for simpler, less distracting user interface for easier usage and smoother and more reliable segmentation workflow  
+  * Deep learning training support: need cohort segmentation slicelet that allows configuring segment editor before segmenting first patient for simpler, less distracting user interface for easier usage and smoother and more reliable segmentation workflow
 * Minor help to multiple projects involving segmentation
 
 # Illustrations

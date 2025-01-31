@@ -37,7 +37,7 @@ Orbital fracture usually involve large areas in the floor and medial wall of the
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-1. Simulate the process of how surgeons would place the plate to fracture sites: 
+1. Simulate the process of how surgeons would place the plate to fracture sites:
 
     - Plate can only rotate as it is fixed at the landmark "posterior stop, which marks the orbital process of the palatine bone. This area is usually preserved in orbital fracture cases and the most important landmark to screw the plate.
     - ![image](https://github.com/NA-MIC/ProjectWeek/assets/80793828/ce362a75-ca3b-4953-94ff-20015473d77a)
@@ -45,8 +45,8 @@ Orbital fracture usually involve large areas in the floor and medial wall of the
 
 
     - Allow the plate sit above the unfractured area of the orbit rather than being superimposed with the orbit.
-  
-      
+
+
 2.  Interactive tool for fine tuning the plate registration, such as adding an interactive handler for the 3D model.
 
 3.  Automated segmentation of the fractured orbit as a future goal.
@@ -73,7 +73,7 @@ Orbital fracture usually involve large areas in the floor and medial wall of the
 <img width="550" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/98044f4e-d466-4379-bbed-828b63856dd4">
 
 
-3.  The challenging is to further rotate the plate until it sits above the unfractures bone of the orbit. 
+3.  The challenging is to further rotate the plate until it sits above the unfractures bone of the orbit.
 
 # Illustrations
 

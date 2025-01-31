@@ -1,6 +1,6 @@
 # Travel Guide: Las Palmas de Gran Canaria
 
-The city of Las Palmas de Gran Canaria has many cool places to discover. In this travel guide, you will find some tips from our team of local organizers. Contact us for more information. 
+The city of Las Palmas de Gran Canaria has many cool places to discover. In this travel guide, you will find some tips from our team of local organizers. Contact us for more information.
 
 <img src="https://user-images.githubusercontent.com/10816661/214398167-e6f13cd7-fd7f-4d24-9228-a26c7ee57e18.jpg" alt="drawing" width="1000"/>
 
@@ -32,6 +32,6 @@ Sport:
 
 ## Contact info
 
-For additional recommendations, tips or questions about the city/island, please contact **David García Mato** via email (david.garcia@ebatinca.com) or in person during the Project Week. 
+For additional recommendations, tips or questions about the city/island, please contact **David García Mato** via email (david.garcia@ebatinca.com) or in person during the Project Week.
 
 We are planning to create a dedicated Discord channel for travel tips and social activities.

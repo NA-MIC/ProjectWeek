@@ -9,11 +9,11 @@ presenter_location: In-person
 
 key_investigators:
 - name: Davide Punzo
-  affiliation: Freelancer 
+  affiliation: Freelancer
   country: France
-  
+
 - name: Andras Lasso
-  affiliation: Perk Labs 
+  affiliation: Perk Labs
   country: Canada
 
 - name: Steve Pieper
@@ -25,8 +25,8 @@ key_investigators:
   country: USA
 
 - name: anyone is welcome!
-  affiliation: 
-  country:   
+  affiliation:
+  country:
 ---
 
 # Project Description
@@ -54,19 +54,19 @@ Possible long term ENH to discuss/work during the project week:
 Finalize the ctk visual DICOM browser:
 
 1. Get feedback from users/developers.
-1. Prioritize short term ENH-BUG fixes to do. See [Roadmap](https://github.com/commontk/CTK/issues/1162) for more info.  
+1. Prioritize short term ENH-BUG fixes to do. See [Roadmap](https://github.com/commontk/CTK/issues/1162) for more info.
 1. Discuss the long term ENH.
 
 ## Approach and Plan
 
-1. Have a meeting/demo with people interested for colletting feedback.  
+1. Have a meeting/demo with people interested for colletting feedback.
 1. Prioritize/coordinated any future development based on the feedback.
 
 ## Progress and Next Steps
 
 1. A Job list UI has been implemented/tested.
 2. We had a demo on Tuesday and we discussed the roadmap in details.
-3. I have started implementating the feedback. See the [roadmap](https://github.com/commontk/CTK/issues/1162) for detailed informations. 
+3. I have started implementating the feedback. See the [roadmap](https://github.com/commontk/CTK/issues/1162) for detailed informations.
 
 # Illustrations
 screenshots:

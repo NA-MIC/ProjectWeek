@@ -22,7 +22,7 @@ To receive information and announcements about the events please join the [Slack
 + **Parking:** Visitor parking is available at $12/day (sorry!) in the nearby [hospital visitor parking garage](https://www.google.ca/maps/@43.0142363,-81.2750746,3a,75y,186.07h,100.01t/data=!3m5!1e1!3m3!1sVo_3mg5ibFW_kPnYjVOrPQ!2e0!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3DVo_3mg5ibFW_kPnYjVOrPQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D62.77921%26pitch%3D0%26thumbfov%3D100). University of Western Ontario parking information is available [here](https://www.uwo.ca/parking/find/visitor/index.html)
 
 ## Local Organizing Committee
- 
+
 - Host: [Terry Peters](http://www.robarts.ca/terry-peters), Robarts Scientist; Professor Medical Imaging; Medical Biophysics; Biomedical Engineering
 
 - Email Local Organizing Committee:
@@ -40,7 +40,7 @@ To receive information and announcements about the events please join the [Slack
 
 ## Program
 |   =    |Monday July 16 | Tuesday July 17 | Wednesday July 18 | Thursday July 19 | Friday July 20
-|:---:   |     :---:     |     :---:       |     :---:         |     :---:        |     :---:    
+|:---:   |     :---:     |     :---:       |     :---:         |     :---:        |     :---:
 |9:00    |               |                 |                   |                  |
 |10:00   |               | Segmentation tutorial/breakout  | Augmented/virtual reality demo/breakout  |                  |
 |11:00   |               |                 |                   |                  |   Project reviews

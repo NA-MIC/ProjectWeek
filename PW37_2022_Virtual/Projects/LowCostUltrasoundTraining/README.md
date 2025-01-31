@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 [**Ebatinca S.L.**](https://ebatinca.com/) is currently developing a **low-cost training platform for ultrasound imaging and ultrasound-guided procedures** in low- and middle-income countries. We are developing a 3D Slicer based application to perform training exercises and evaluate participants. The app is called [**TrainUS**](https://github.com/EBATINCA/TrainUS) and it is available with open-source license.
 
-Some basic features have already been developed: participant/recording management, hardware connection, selection of training exercises,... Currently, we are working on the development of basic exercises to train basic ultrasound skills. The app should be able to evaluate recordings made by users and to provide feedback about their performance. 
+Some basic features have already been developed: participant/recording management, hardware connection, selection of training exercises,... Currently, we are working on the development of basic exercises to train basic ultrasound skills. The app should be able to evaluate recordings made by users and to provide feedback about their performance.
 
 ## Objective
 
@@ -28,7 +28,7 @@ Once integrated, this module could serve as a reference/example for the developm
 1. Determine best way to manage recordings of ultrasound images and tracking data. Currently, we are saving the entire sequence browser node as .sqbr files which can then be easily imported into Slicer using the PerkTutor extension.
 2. Define best methodology to display exercise instructions to users: images vs video
 3. Discuss the usefulness of assessing performance metric values in "real-time" during sequence playback. Example: distance from needle tip to US plane. Real-time vs overall metrics.
-4. Integrate exercise into TrainUS app. 
+4. Integrate exercise into TrainUS app.
 5. Discuss best strategy to provide specific feedback to users based on recorded data from experts. Deep learning?
 
 ## Progress and Next Steps

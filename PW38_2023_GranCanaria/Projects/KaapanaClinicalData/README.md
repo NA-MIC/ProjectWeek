@@ -45,7 +45,7 @@ This projects aims to integrate clinical data better into the Kaapana medical im
 3. Draft a mapping from the clinical data from NSCLC-Radiomicss into FHIR Resources.
 5. Created Jupyther Notebook to create the the actual resources for imaging and clinical data and import them into the platforms FHIR Server.
 6. WiP: Translate the Jupyther Notebook into Workflow Operators to automate the import
-7. WiP: Wrap Radiomics Features 
+7. WiP: Wrap Radiomics Features
 8. WiP: Performe Joint Analysis
 
 # Illustrations

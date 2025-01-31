@@ -11,16 +11,16 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Andras Lasso (Perk Labs)
 
 # Project Description
-We are developing features to support the use of large-scale landmark sets generated automaticallly by SlicerMorph modules. The key functions 
+We are developing features to support the use of large-scale landmark sets generated automaticallly by SlicerMorph modules. The key functions
 needed by the SlicerMorph workflows are:
 1. Linking two or more landmark sets with identical landmark definitions and operating on them jointly
 2. Flexibly selecting and editing point sets in the 3D scene.
 3. Placing a grid of landmarks, constraining to a surface, and adjusting the point poisitions by dragging the grid across the surface.
 4. Improve performance when setting state of a large number of points (around 1000)
 
-The first function has not yet been attempted and we would like to develop a working prototype. Our second objective is implemented in the 
-[Markup Editor](https://github.com/SlicerMorph/Tutorials/tree/main/MarkupsEditor), a module in the SlicerMorph extension developed by Steve Pieper. Recently, this module has been failing for some cases. We would like to identify 
-when and why these bugs are occuring and come up with a plan to update the module. The third objective is partially implemented by the Surface Markups 
+The first function has not yet been attempted and we would like to develop a working prototype. Our second objective is implemented in the
+[Markup Editor](https://github.com/SlicerMorph/Tutorials/tree/main/MarkupsEditor), a module in the SlicerMorph extension developed by Steve Pieper. Recently, this module has been failing for some cases. We would like to identify
+when and why these bugs are occuring and come up with a plan to update the module. The third objective is partially implemented by the Surface Markups
 extension.  We would like to discuss future plans for the Surface Markups extensions and whether SlicerMorph user needs may be covered by the ongoing development.
 
 
@@ -31,7 +31,7 @@ extension.  We would like to discuss future plans for the Surface Markups extens
 1. Objective A. Prototype joint operations on linked landmark sets
 2. Objective B. Troubleshoot the Markup Editor and identify fixes
 3. Objective C. Identify overlap between Surface Markups development and SlicerMorph user needs.
-4. Objective D. Document plan to improve Markups module to improve performance when working with large number of points. 
+4. Objective D. Document plan to improve Markups module to improve performance when working with large number of points.
 
 ## Approach and Plan
 

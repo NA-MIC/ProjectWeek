@@ -10,7 +10,7 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Logistics
 - **Dates:** December 14-18, 2020.
-- **Location:** THE INTERNET 
+- **Location:** THE INTERNET
 - **Discourse Forum:** Please sign-up on the [discourse forum](https://discourse.slicer.org/c/community/project-week) to get updates and ask questions.
   - [Project week discourse topic](https://discourse.slicer.org/t/project-week-starts-tomorrow/15040) for less real-time conversation
 - **Slack:** [Invite Link](https://join.slack.com/t/namic-projectweek/shared_invite/zt-bmxjicl0-zWkWOV~Sp5lTh1dWhq4nYw)
@@ -33,11 +33,11 @@ Notes on the agenda:
   * An optional breakout session
 * **Tuesday's session** will be a discussion about
   * Features in 3D Slicer that are new since the last Project Week
-  * Design considerations that are relevant for end-to-end solutions (or customizable Slicer apps).  
+  * Design considerations that are relevant for end-to-end solutions (or customizable Slicer apps).
 * **Wednesday's session** question and answer session about 3D Slicer for users and developers, a "live" version of what takes place asynchronously on the Slicer discourse forum. See discussed questions and answers [here](Breakouts/LiveDiscourse/README.md).
 * **Thursday's session** will be a discussion on recent advancing in the web and cloud technologies that are being used to create browser based visualization applications and large open databases.
-* **Friday's session** will be a training workshop focused on fostering partnerships with researchers and clinicians in Western Africa. 
-* The detailed program for each session is available from the link in the embedded Google Calendar above. 
+* **Friday's session** will be a training workshop focused on fostering partnerships with researchers and clinicians in Western Africa.
+* The detailed program for each session is available from the link in the embedded Google Calendar above.
 * In addition to the scheduled presentations, projects may create separate breakout sessions to work in small groups after the end of the main session
   * Presenters and participants may use the chat function during the main session to request a breakout session with the designated person
   * A few breakout sessions have already been planned (see Breakout Sessions section below)
@@ -77,11 +77,11 @@ Notes on the agenda:
 
 ## Breakout Sessions:
 
-To learn how to join, leave or display list of breakout rooms. See [here](./ZoomBreakoutRoom.md). 
+To learn how to join, leave or display list of breakout rooms. See [here](./ZoomBreakoutRoom.md).
 
-1. Monday @ 3pm [Ultrasound Image Guided Therapy](https://docs.google.com/document/d/1laFD-GSYOq-mN0tLomYqcqLwrYXuwiMDU46AVToLcKE/edit) (Tamas Ungi, Tina Kapur, Simon Drouin) 
+1. Monday @ 3pm [Ultrasound Image Guided Therapy](https://docs.google.com/document/d/1laFD-GSYOq-mN0tLomYqcqLwrYXuwiMDU46AVToLcKE/edit) (Tamas Ungi, Tina Kapur, Simon Drouin)
 1. Tuesday @ 11am [Collaborative VR discussion](Projects/CollaborativeVR/README.md) (Csaba Pinter and Simon Drouin)
-1. Wednesday @ 11am EST Project/Room 10 & 11: Dan Marcus, XNAT + OHIF 
+1. Wednesday @ 11am EST Project/Room 10 & 11: Dan Marcus, XNAT + OHIF
 1. Wednesday @ 11am: Project 15 Landmark Curves for Brain Images  (Jarrett Rushmore, Kyle Sunderland)
 1. Wednesday @ 2pm. Project 12 MONAI: PyTorch-based, open-source framework for deep learning in healthcare imaging (Stephen Aylward)
 1. Thursday @ 11am. [Segmentation import/export/storage](Breakouts/SegmentationStorageFormat/README.md) (Andras Lasso)
@@ -228,7 +228,7 @@ List of registered participants so far (names will be added here after processin
 1.	David Manso Arcediano	,	Cella Medical Solutions 	,	Murcia	,	Spain
 1.	Mohamed aly Dedew	,	Faculty of medecine of Nouakchott 	,	Nouakchott 	,	Mauritania
 1.	Miguel Xochicale	,	King's College London	,	London	,	UK
-1.	Mahomed Sidique Abdul Cadar Dada 	,	Uem 	,	Maputo 	,	Moçambique 
+1.	Mahomed Sidique Abdul Cadar Dada 	,	Uem 	,	Maputo 	,	Moçambique
 1.	Tasos Raptis	,	National Technical University of Athens	,	Attiki	,	Greece
 1.	María Dolores Afonso Suárez	,	Universidad de Las Palmas de Gran Canaria	,	Canary Islands	,	Spain
 1.	Simon Doran	,	Institute of Cancer Research	,	Surrey	,	UK
@@ -287,7 +287,7 @@ List of registered participants so far (names will be added here after processin
 1.	Deise Caldas	,	Malta 	,	Saint Julians 	,	Malta
 1.	Steve Moore	,	Washington University	,	MO	,	USA
 1.	Cseh Martin	,	University of Szeged 3D Center	,	Csongrad	,	Hungary
-1.	Nasara Cabrera Abu 	,	Canary Islands Government 	,	Canary Islands 	,	Spain 
+1.	Nasara Cabrera Abu 	,	Canary Islands Government 	,	Canary Islands 	,	Spain
 1.	Sokhna Astou Gawane Thiam	,	Université Cheikh Anta Diop  	,	Sénégal	,	Sénégal
 1.	Jasmin Metzger	,	German Cancer Research Center	,	BW	,	Germany
 1.	Aron Helser	,	Kitware	,	NC	,	US
@@ -305,4 +305,3 @@ List of registered participants so far (names will be added here after processin
 * 101 institutions (82 academic, 18 industry, and 1 goverment)
 
 <img src="pw-registrants-country-stats-final.png" width="600" />
-

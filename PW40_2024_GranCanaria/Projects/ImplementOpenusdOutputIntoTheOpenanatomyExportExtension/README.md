@@ -10,7 +10,7 @@ presenter_location: In-person
 key_investigators:
 
 - name: Rudolf Bumm
-  affiliation: KSGR 
+  affiliation: KSGR
   country: Switzerland
 - name: Andras Lasso
   affiliation: Queen's University
@@ -70,14 +70,14 @@ We want to discuss, improve and then merge the pull request for OpenAnatomy.
 
 Rudolf implemented the necessary code, changed the UI and created a Pull request
 
-We ran into several problems realizing this, finding the right apps in OMNIVERSE and in the end we work with OMNIVERSE Create app. 
-This loads a USDC file which can then be modified in Omniverse. 
+We ran into several problems realizing this, finding the right apps in OMNIVERSE and in the end we work with OMNIVERSE Create app.
+This loads a USDC file which can then be modified in Omniverse.
 There only needs to be one strong server driving OMNIVERSE (>RTX 3090 with 24 GB VRAM - thank you AWS for providing the server instance), underpowered clients can connect to the server via IP adress or even from the phone (install OMNIVERSE Sreaming app)
-We are in the process of testing that all out, expect updates to this page in the next weeks. 
+We are in the process of testing that all out, expect updates to this page in the next weeks.
 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/864ebdee-da23-43cb-b9fb-5fc9b41f5ae2)
 
-Taking apart a 3D Slicer lung andtumor segmentation and visualize it in Omniverse: 
+Taking apart a 3D Slicer lung andtumor segmentation and visualize it in Omniverse:
 
 
 

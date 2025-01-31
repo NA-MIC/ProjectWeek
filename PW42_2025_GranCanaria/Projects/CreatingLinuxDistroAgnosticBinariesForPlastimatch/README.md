@@ -51,7 +51,7 @@ During this week we will explore the possibility of creating a binary version of
 
 1. Prepare a fresh build environment
 2. Compile Plastimatch from source
-3. Figure out how to bundle/embed the required libraries  
+3. Figure out how to bundle/embed the required libraries
 
 
 
@@ -85,4 +85,3 @@ _No response_
 
 
 - [https://gitlab.com/plastimatch/plastimatch](https://gitlab.com/plastimatch/plastimatch)
-

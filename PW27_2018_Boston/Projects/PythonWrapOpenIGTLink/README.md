@@ -29,7 +29,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 4. (Also had discussions regarding protocol design for the motivating project)
 
 ## Next Step
-1. Merge branch with OpenIGTLink 
+1. Merge branch with OpenIGTLink
 
 # Illustrations
 

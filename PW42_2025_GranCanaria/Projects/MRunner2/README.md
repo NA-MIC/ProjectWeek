@@ -23,7 +23,7 @@ key_investigators:
 
 # Project Description
 
-MHub.ai provides a collection of dockerized, DICOM compatible AI models. 
+MHub.ai provides a collection of dockerized, DICOM compatible AI models.
 We will provide a new extension for 3D Slicer that allows to run models from MHub.ai directly from within 3D Slicer.
 
 ## Objective

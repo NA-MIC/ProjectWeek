@@ -27,7 +27,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Progress and Next Steps
 
 * Liver Data-set (Scheherazade Kraß): Segmentation of lesion and vessels. Used for printing gel phantom for robotic intervention testing. Lesions are segmented using Grow from seeds and separated using Islands effect. Vessels segmented using global thresholding.
-** Test data: https://www.dropbox.com/sh/c28lajfutpnsjvp/AACvIhtMNJnsU9XHLPaAEZKMa?dl=0 
+** Test data: https://www.dropbox.com/sh/c28lajfutpnsjvp/AACvIhtMNJnsU9XHLPaAEZKMa?dl=0
 * Finger segmentation on MRI (Ahmedou Moulaye Idriss): for anatomical atlas purposes. Bones are OK to segment using Grow from seeds, but quite noisy, so maybe other effects could be as good or better. Vessel: contrast not very high, but there is local contrast - it can be tracked with a sphere brush with thresholding.
 * Pelvic organ segmentation (Babacar Diao): Updates on how to use new segmentation features in Slicer-4.10.1.
 

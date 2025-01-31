@@ -37,7 +37,7 @@ Make use of the OHIF plugin infrstructure.
 
 ![Example of GLSL GrowCut](GLSLGrowCut.png)
 
-* Prototype implementation: 
+* Prototype implementation:
 
 [![GrowCut prototype](https://img.youtube.com/vi/xmvVyftgNjY/0.jpg)](https://www.youtube.com/watch?v=xmvVyftgNjY "GrowCut prototype")
 
@@ -64,4 +64,3 @@ Make use of the OHIF plugin infrstructure.
 [ohif-extensions]: https://docs.ohif.org/advanced/extensions.html
 [ohif]: http://ohif.org/
 [james-magic]: https://github.com/JamesAPetts/OHIF-Viewer-XNAT/tree/xnatRoi-dev-vNext/Packages/icr-peppermint-tools
-

@@ -81,7 +81,7 @@ As a minimum (assuming no changes to the standard), I would propose that for pro
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
-     
+
 ### Changes To `highdicom` Library
 
 See the associated [pull request](https://github.com/ImagingDataCommons/highdicom/pull/277) (currently a work in progress as a draft PR).
@@ -95,7 +95,7 @@ After discussing with @dclunie and @pieper, we have agreed that a correction pro
     - All planes have the same ImageOrientationPatient. The ImageOrientationPatient shall be factored out into the SharedFunctionalGroupsSequence (and not appear in the PerFramesFunctionalGroupsSequence).
    - Planes shall be regularly spaced. The SpacingBetweenSlices must be found in the PixelMeasuresSequences within the SharedFunctionalGroups. All other pixel measures must also be shared between all frames.
    - ImageOrientationPatient values shall follow the following rules (using numpy-like indexing):
-  
+
      ImagePositionPatient[n+1] = ImagePositionPatient[n] + SpacingBetweenSlices * NormalVector
 
      Where NormalVector is a unit vector found as the vector cross product of the two direction cosines:

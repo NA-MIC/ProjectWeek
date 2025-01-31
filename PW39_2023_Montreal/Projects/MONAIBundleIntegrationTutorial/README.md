@@ -14,10 +14,10 @@ key_investigators:
   affiliation: KSGR
   country: Germany
 
-- name: Andres Dias-Pinto 
+- name: Andres Dias-Pinto
   affiliation: NVIDIA
   country: USA
-  
+
 - name: Andras Lasso
   affiliation: Queens University
   country: Canada
@@ -25,7 +25,7 @@ key_investigators:
 
 # Project Description
 
-NVIDIA AI-assisted annotation (AIAA) is no longer actively maintained and MONAI bundle has been established to load a wide selection of pre-trained models for radiology and pathology. 
+NVIDIA AI-assisted annotation (AIAA) is no longer actively maintained and MONAI bundle has been established to load a wide selection of pre-trained models for radiology and pathology.
 
 
 ## Objective
@@ -35,20 +35,20 @@ Our objective is to provide a detailed step-by-step description on how to use MO
 
 ## Step-by-Step Description
 
-Setting up an AWS EC2 Windows server in the cloud: 
+Setting up an AWS EC2 Windows server in the cloud:
 The detailed process [is described here](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCloud/).
 
 Install MONAILabel
 
-Do a “cd $home”, to the place where the  MONAILabel folder will be created. 
+Do a “cd $home”, to the place where the  MONAILabel folder will be created.
 
-Firstly, begin by uninstalling the existing MONAILabel and Monai installations, because as of 6/2023 we need a special MONAI version to make this word. 
+Firstly, begin by uninstalling the existing MONAILabel and Monai installations, because as of 6/2023 we need a special MONAI version to make this word.
 This is accomplished by running the following commands in the terminal:
 
     pip uninstall monailabel
     pip uninstall monai
 
-Then, follow to our outlined procedures for setting up MONAILabel from scratch. 
+Then, follow to our outlined procedures for setting up MONAILabel from scratch.
 Please refer to [these instructions](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/MONAILabelLung/MONAILabel_Installation.html), they can be found on our Project Week webpage 1.
 
 Follow these guidelines until reaching the command to set the MONAILabel script paths:
@@ -64,7 +64,7 @@ After a “cd $home”, where the  MONAILabel folder is located, the start_serve
     monailabel start_server --app MONAILabel/sample-apps/monaibundle --studies c:/Data/Task06_Lung/imagesTr --conf models lung_nodule_ct_detection
 
 
-possible arguments for "conf models" are: 
+possible arguments for "conf models" are:
 
 lung_nodule_ct_detection\
 pancreas_ct_dints_segmentation\
@@ -78,7 +78,7 @@ wholeBrainSeg_Large_UNEST_segmentation\
 
 After this command, the correct and requested model is automatically loaded from the [Monai Model Zoo](https://monai.io/model-zoo.html), which is a highly commendable feature.
 
-Then proceeded to test the setup with the 3D Slicer and the MONAILabel extension using the CT Chest dataset. 
+Then proceeded to test the setup with the 3D Slicer and the MONAILabel extension using the CT Chest dataset.
 
 It is great to see that the AI successfully detects some nodules!
 
@@ -91,13 +91,13 @@ During the workshop, create the wholeBody_ct_segmentation MONAILabel model on an
 
 ![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/06d8146a-4d0e-4a6d-a7d3-59158f773647)
 
-We'll attempt using the server simultaneously from various places while documenting the installation procedure. 
+We'll attempt using the server simultaneously from various places while documenting the installation procedure.
 
-The IP address of the MONAILabel server is http://52.209.177.211:8000/. During the Project week (Monday through Wednesday), the server will be accessible daily from 2 p.m. to 4 p.m. local time. 
+The IP address of the MONAILabel server is http://52.209.177.211:8000/. During the Project week (Monday through Wednesday), the server will be accessible daily from 2 p.m. to 4 p.m. local time.
 
 ## Progress and Next Steps
 
-We held three workshops during the conference with good success. In each of the workshops we were able to 
+We held three workshops during the conference with good success. In each of the workshops we were able to
 
 - reliably connect to the AWS server instance
 - start MONAILabel
@@ -180,9 +180,6 @@ Here is a list of the bundles from the [MONAI Model Zoo page](https://monai.io/m
 
 
 # Background and References
-     
+
      https://docs.monai.io/en/stable/bundle_intro.html
      https://monai.io/model-zoo.html
-     
-
-

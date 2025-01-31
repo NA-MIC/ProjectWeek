@@ -8,12 +8,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Raúl San José (BWH)
 
 # Project Description
-Integrate a lung segmentation algorithm based on Deep Learning (Keras+Tensorflow) into the Chest Imaging Platform. 
+Integrate a lung segmentation algorithm based on Deep Learning (Keras+Tensorflow) into the Chest Imaging Platform.
 The goal is to make available in Slicer this and other similar tools based on Deep Learning.
 
 ## Objective
 
-1. Integrate a Lung Segmentation algorithm based on Deep Learning in the Chest Imaging Platform. 
+1. Integrate a Lung Segmentation algorithm based on Deep Learning in the Chest Imaging Platform.
 1. Make available these and other similar tools in Slicer
 
 ## Approach and Plan

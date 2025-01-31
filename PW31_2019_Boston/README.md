@@ -11,11 +11,11 @@ View this page on [https://projectweek.na-mic.org/PW31_2019_Boston/](https://pro
 
 ## Logistics
 - **Dates:** June 24-28, 2019
-- **Location:** MIT Bldg. 34, room numbers 401A&B (Grier conference room), 50 Vassar Street, Cambridge MA 
+- **Location:** MIT Bldg. 34, room numbers 401A&B (Grier conference room), 50 Vassar Street, Cambridge MA
 - **Hotels:** No rooms are reserved.  Please ask on [discourse forum](https://discourse.slicer.org/c/community/project-week) if you have questions.
 - **Registration**: Fee is USD 350.  Register using [this link](https://www.regonline.com/registration/Checkin.aspx?EventID=2555870).
 - [Frequently Asked Questions](https://projectweek.na-mic.org/#frequently-asked-quesions)
-- **Slack Channel:** [Invite Link](https://join.slack.com/t/namic-projectweek/shared_invite/enQtNjY5MDEwMDMxMDcyLTkyNjA4MmQxMjFkZWNmMTMwNjliYzk5ZGExZTdiNmJlZWFjNzE0MWRiMmYzMTIzNzk0NDVkNWM3MGIzMDlkMTU) 
+- **Slack Channel:** [Invite Link](https://join.slack.com/t/namic-projectweek/shared_invite/enQtNjY5MDEwMDMxMDcyLTkyNjA4MmQxMjFkZWNmMTMwNjliYzk5ZGExZTdiNmJlZWFjNzE0MWRiMmYzMTIzNzk0NDVkNWM3MGIzMDlkMTU)
 
 
 ## Projects [(How to add a new project?)](Projects/README.md)
@@ -130,9 +130,9 @@ List of registered participants so far (names will be added here after processin
 1. COLTON BARR	,	PERK LAB, Queens, Canada
 1. OLE VEGARD SOLBERG	,	SINTEF, Trondheim, Norway
 1. JANNE BEATE BAKENG	,	SINTEF, Trondheim, Norway
-1. POLINA GOLLAND	,	MIT 
-1. MAZDAK ABULNAGA	,	MIT 
-1. RUIZHI LIAO	,	MIT 
+1. POLINA GOLLAND	,	MIT
+1. MAZDAK ABULNAGA	,	MIT
+1. RUIZHI LIAO	,	MIT
 1. DANIEL BROWN	,	RADICAL IMAGING
 1. JAMES PETTS	,	THE INSTITUTE OF CANCER  RESEARCH, LONDON
 1. GREGORY SHARP	,	MASSACHUSETTS GENERAL HOSPITAL
@@ -143,7 +143,7 @@ List of registered participants so far (names will be added here after processin
 1. STEVE PIEPER	,	ISOMICS, INC.
 1. OMAR TOUTOUNJI	,	MED-I-LAB, Queens, Canada
 1. SYLVAIN BOUIX	,	BRIGHAM AND WOMEN'S HOSPITAL
-1. DANIELLE PACE	,	MIT 
+1. DANIELLE PACE	,	MIT
 1. JARRETT RUSHMORE	,	BOSTON UNIVERSITY SCHOOL OF MEDICINE
 1. BENJAMIN ZWICK	,	INTELLIGENT SYSTEM FOR MEDICINE LABORATORY, THE UNIVERSITY OF WESTERN AUSTRALIA
 1. ADAM WITTEK	,	INTELLIGENT SYSTEM FOR MEDICINE LABORATORY, THE UNIVERSITY OF WESTERN AUSTRALIA
@@ -205,4 +205,3 @@ List of registered participants so far (names will be added here after processin
 1. SARAH FRISKEN,	BRIGHAM AND WOMEN'S HOSPITAL
 1. SRINIVAS SRIDHAR,	NORTHEASTERN UNIVERSITY
 <!-- ORGANIZERS: please edit REGISTRANTS.md -->
-

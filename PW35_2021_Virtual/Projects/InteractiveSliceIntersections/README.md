@@ -29,7 +29,7 @@ Details:
 
 A sketch is shown on the "Illustrations" section below.
 
-More information in this GitHub issue: [here](https://github.com/Slicer/Slicer/issues/5544) 
+More information in this GitHub issue: [here](https://github.com/Slicer/Slicer/issues/5544)
 
 ## Objective
 
@@ -37,7 +37,7 @@ More information in this GitHub issue: [here](https://github.com/Slicer/Slicer/i
 
 1. Create base classes to control interaction handles.
 
-2. Develop the interactive slice intersections mode. 
+2. Develop the interactive slice intersections mode.
 
 3. Customize slice interaction handles.
 
@@ -72,11 +72,11 @@ More information in this GitHub issue: [here](https://github.com/Slicer/Slicer/i
 3. Implement interaction handles test case for manipulating transform nodes. :heavy_check_mark:
 
     **BEFORE**
-    
+
     <img src="TransformInteraction_Cube.gif" alt="BEFORE" width="800"/>
-    
-    **AFTER** 
-    
+
+    **AFTER**
+
     <img src="TransformInteraction_Handles.gif" alt="AFTER" width="800"/>
 
 4. Create new classes to render interaction handles for interactive slice intersection: vtkMRMLSliceIntersectionInteractionWidget and vtkMRMLSliceIntersectionInteractionRepresentation. :heavy_check_mark:
@@ -84,7 +84,7 @@ More information in this GitHub issue: [here](https://github.com/Slicer/Slicer/i
 5. Add new option in ViewersToolbar to select interactive slice intersection mode. This option is only enabled and visible when slice intersection mode is active. :heavy_check_mark:
 
     <img src="Image_Toolbar.png" alt="drawing" width="600"/>
-    
+
 6. Render interaction handles in slice views and enable interactions.
 
    <img src="https://user-images.githubusercontent.com/10816661/131369045-a2644744-e8cb-413a-b145-99181e4e141e.gif" alt="HANDLES" width="800"/>
@@ -105,9 +105,9 @@ https://user-images.githubusercontent.com/10816661/150459600-ba59f51b-b2aa-499d-
 
 # Background and References
 
-- GitHub issue: [here](https://github.com/Slicer/Slicer/issues/5544) 
+- GitHub issue: [here](https://github.com/Slicer/Slicer/issues/5544)
 
-- Slicer branch for interactive slice intersection: [here](https://github.com/dgmato/Slicer) 
+- Slicer branch for interactive slice intersection: [here](https://github.com/dgmato/Slicer)
 
 - Current branch for migration of interaction handles: [here](https://github.com/Sunderlandkyl/Slicer/tree/interaction_display_manager)
 

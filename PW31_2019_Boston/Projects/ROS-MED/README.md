@@ -9,7 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 We will extend the tutorial on ROS-MED, a platform for medical robotics research based on ROS and 3D Slicer.
-Specifically, we will find out a way to import the robot model from CAD software. We will use a needle guide manipulator for MR-guided prostate biopsy (Smart Template) as an example project. 
+Specifically, we will find out a way to import the robot model from CAD software. We will use a needle guide manipulator for MR-guided prostate biopsy (Smart Template) as an example project.
 
 Details of ROS-MED can be found in [our recent workshop at International Symposium on Medical Robotics](https://rosmed.github.io/)
 

@@ -16,7 +16,7 @@
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Integrate Freesurfer file formats.  
+1. Integrate Freesurfer file formats.
     Freesurfer is a program used to generate brain surfaces from MRI data.  Freesurfer file formats use their own coordinate space and thus do not seamlessly integrate with the MRI files read by Slicer.  The objective is to make freesurfer file formats easily accessible within Slicer.
 2. Sulcal Drawing
 The use of 3D tools to draw and delimit brain sulci depends on freesurfer input (number 1) and an algorithm to draw on sulci and extract the lines in coordinate space.  The goal is to troubleshoot this process.
@@ -65,7 +65,7 @@ The use of 3D tools to draw and delimit brain sulci depends on freesurfer input 
     - Submit extension to extensions index
     - Remove FreeSurfer classes from Slicer core
 1. Documentation
-    - Integrate labeling manuals with the Neurosegmentation module as dockable panels for each structure 
+    - Integrate labeling manuals with the Neurosegmentation module as dockable panels for each structure
 1. Case Management
     - Implement mechanisms for editing/reviewer feedback
     - Allow repository selection
@@ -87,4 +87,3 @@ https://github.com/PerkLab/SlicerFreeSurferImporter
 http://www.freesurfer.net/pub/docs/wiki/mris_pmake.help.xml.html
 
 https://github.com/PerkLab/NeuroSegmentation/tree/version_control
-

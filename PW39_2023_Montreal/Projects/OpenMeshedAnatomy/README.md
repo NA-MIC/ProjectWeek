@@ -11,7 +11,7 @@ key_investigators:
 - name: Andy Huynh
   affiliation: The University of Western Australia
   country: Australia
-  
+
 - name: Michael Halle
   affiliation: Surgical Planning Lab (SPL)
   country: United States
@@ -83,10 +83,10 @@ Objective C:
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-The Open Anatomy Project website: https://www.openanatomy.org/.  
-Open Anatomy Project's Brain Atlas: https://github.com/mhalle/spl-brain-atlas.  
-SlicerOpenAnatomy: https://github.com/PerkLab/SlicerOpenAnatomy.  
-SlicerAtlasEditor: https://github.com/andy9t7/SlicerAtlasEditor.  
-SlicerCBM: https://github.com/SlicerCBM/SlicerCBM.  
+The Open Anatomy Project website: https://www.openanatomy.org/.
+Open Anatomy Project's Brain Atlas: https://github.com/mhalle/spl-brain-atlas.
+SlicerOpenAnatomy: https://github.com/PerkLab/SlicerOpenAnatomy.
+SlicerAtlasEditor: https://github.com/andy9t7/SlicerAtlasEditor.
+SlicerCBM: https://github.com/SlicerCBM/SlicerCBM.
 
 [1] S. J. Owen, M. L. Staten, and M. C. Sorensen, “Parallel hexahedral meshing from volume fractions,” _Engineering with Computers_, vol. 30, no. 3, pp. 301–313, Jul. 2014, doi: [10.1007/s00366-012-0292-8](https://doi.org/10.1007/s00366-012-0292-8).

@@ -27,7 +27,7 @@ prototypes of our resection planning algorithms into 3D Slicer.
 
 1. Integrate the components developed during the [last
    ProjectWeek](https://github.com/NA-MIC/ProjectWeek/tree/master/PW35_2021_Virtual/Projects/Slicer-Liver
-   "Slicer-Liver in the last ProjectWeek") in a resection planning working prototype. 
+   "Slicer-Liver in the last ProjectWeek") in a resection planning working prototype.
 
 2. Add a Slicer module for computation of liver vascular territories.
 

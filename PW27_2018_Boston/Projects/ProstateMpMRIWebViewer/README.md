@@ -14,7 +14,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 1. Building a web application for reviewing and scoring multi-parametric MRI of prostate
 1. Add support for reading and writing DICOM objects
-1. Creating user interaction capabilities for the viewer (placing fiducial, measurements) 
+1. Creating user interaction capabilities for the viewer (placing fiducial, measurements)
 1. Add support for saving the PIRADS reporting
 
 ## Approach and Plan
@@ -28,7 +28,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ### Progress
 1. Built PIRADS trainer using OHIF Standalone Viewer packages
 1. Added the tools (zoom, levels, pan, fiducials) and hanging protocol for the prostate study
-1. Added reporting UI for PIRADS reporting 
+1. Added reporting UI for PIRADS reporting
 1. Tested on a sample of ProstateX dataset
 
 ### Next Steps
@@ -39,7 +39,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 1. Enhancing the reporting UI, SVG for clicking prostate zones
 1. Enhancing the feedback to give more detailed message(e.g., how close the distance is)
 1. Adding support for 4D DCE images (prefetching across time and scrolling between volumes)
-1. Improve Ktrans colormap  
+1. Improve Ktrans colormap
 
 # Illustrations
 
@@ -59,7 +59,3 @@ Click on the image below for the video demo:
 1. https://github.com/pieper/dcmjs
 1. https://github.com/OHIF
 1. https://github.com/cornerstonejs/cornerstoneTools
-
-
-
-

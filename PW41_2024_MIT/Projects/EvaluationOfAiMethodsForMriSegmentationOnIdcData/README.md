@@ -20,7 +20,7 @@ key_investigators:
 - name: Megha Kalia
   affiliation: Brigham and Women's Hospital
   country: US
-  
+
 - name: Andrey Fedorov
   affiliation: Brigham and Women's Hospital
   country: US
@@ -67,7 +67,7 @@ Since this study was performed, other methods aiming to segment MR abdominal org
 
 1. [GitHub repo](https://github.com/deepakri201/mr_seg) for colab notebooks for evaluation of MR segmentation methods
 2. Look into methods like STAPLE for consensus of segmentations - WIP
-3. Perform a comparison of the methods to ground truth - WIP 
+3. Perform a comparison of the methods to ground truth - WIP
 
 
 
@@ -78,7 +78,7 @@ Since this study was performed, other methods aiming to segment MR abdominal org
 
 <!--![Comparison of MR segmentation methods on a subject from AMOS dataset](https://github.com/NA-MIC/ProjectWeek/assets/59979551/a65ae678-d7d7-4b29-9c26-26404a29f7de) -->
 
-Comparison of MR segmentation methods on a subject from AMOS dataset: 
+Comparison of MR segmentation methods on a subject from AMOS dataset:
 - Top left = ground truth expert segmentations
 - Top right = our approach
 - Bottom left = TotalSegmentator
@@ -86,18 +86,18 @@ Comparison of MR segmentation methods on a subject from AMOS dataset:
 - Bottom right = our approach
 <img src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/a65ae678-d7d7-4b29-9c26-26404a29f7de" width="1000">
 
-Comparison of MR segmentation methods on a subject IDC TCGA-LIHC subject: 
+Comparison of MR segmentation methods on a subject IDC TCGA-LIHC subject:
 - 3D = our approach
 - Left = our approach
 - Middle = TotalSegmentator
 - Right = MRSegmentator
 <img width="1501" alt="tcga_lihc_3DSlicer" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/7d889425-75c8-4a84-8b5d-2f35bd5f920b">
 
-Comparison of MR segmentations on a subject from TotalSegmentator: 
+Comparison of MR segmentations on a subject from TotalSegmentator:
 (ground truth in bold)
 - Top row = our approach
 - Middle row = TotalSegmentator
-- Bottom row = MRSegmentator 
+- Bottom row = MRSegmentator
 <img width="1507" alt="totalsegmentator_3DSlicer" src="https://github.com/NA-MIC/ProjectWeek/assets/59979551/3c9f1efb-2b20-446c-a08d-4f383dcdf19a">
 
 **Dice distributions between AI segmentations and expert annotations on AMOS22 MR training split.**
@@ -109,11 +109,10 @@ Comparison of MR segmentations on a subject from TotalSegmentator:
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-- Our method 
+- Our method
   - [Towards Automatic Abdominal MRI Organ Segmentation: Leveraging Synthesized Data Generated From CT Labels](https://arxiv.org/abs/2403.15609)
 - New published methods
   - [MRSegmentator: Robust Multi-Modality Segmentation of 40 Classes in MRI and CT Sequences](https://arxiv.org/pdf/2405.06463)
   - [TotalSegmentator MRI: Sequence-Independent Segmentation of 59 Anatomical Structures in MR images ](https://arxiv.org/abs/2405.19492)
   - [MRISegmentator-Abdomen: A Fully Automated Multi-Organ and Structure Segmentation Tool for T1-weighted Abdominal MRI](https://arxiv.org/abs/2405.05944)
   - [TotalVibeSegmentator: Full Torso Segmentation for the NAKO and UK Biobank in Volumetric Interpolated Breath-hold Examination Body Images](https://arxiv.org/abs/2406.00125)
-

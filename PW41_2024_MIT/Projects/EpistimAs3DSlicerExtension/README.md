@@ -36,7 +36,7 @@ key_investigators:
 
 We are proposing a new extension to 3D Slicer designed to help clinicians and researchers to manage neuroimaging data needed for SEEG procedures. This is a 3d slicer extension that is based on former code from the epiSTIM project by Sara Fernandez Vidal.
 
-**SEEG Introduction** : Intracerebral electrodes are used in the context of stereo-electroencephalography (SEEG) recordings in patients with pharmacoresistant epilepsy. SEEG is an invasive method used to determine which anatomical structures of the brain generate epileptic seizures. SEEG is usually used when non-invasive explorations are inconclusive. A precise localization and 3D visualization of brain anatomy is crucial to precisely plan intracerebral electrode trajectories and then localize the origine and spreading of the seizures. 
+**SEEG Introduction** : Intracerebral electrodes are used in the context of stereo-electroencephalography (SEEG) recordings in patients with pharmacoresistant epilepsy. SEEG is an invasive method used to determine which anatomical structures of the brain generate epileptic seizures. SEEG is usually used when non-invasive explorations are inconclusive. A precise localization and 3D visualization of brain anatomy is crucial to precisely plan intracerebral electrode trajectories and then localize the origine and spreading of the seizures.
 
 
 
@@ -58,8 +58,8 @@ Bundle all our previous sparse code into a self-contained slicer extension that 
 Our previous work focused on converting existing code (epiSTIM) into user friendly slicer modules that loosely work with each other. We used the software docker to bundle parts of the processing to improve portability and version handling. Docker images were used to run Brainvisa, Freesurfer and Fastsurfer, sMRIprep, and more.
 
 **Plan**
-- Clean up the current code and create a general repo of all our individual modules. 
-- Research the process of bundling our modules into an extension. 
+- Clean up the current code and create a general repo of all our individual modules.
+- Research the process of bundling our modules into an extension.
 - Build the extension.
 - Determine a platform for the application to run on : Personal computers of clinicians or a server.
 
@@ -120,7 +120,7 @@ key_investigators:
 
 We are proposing a new extension to 3D Slicer designed to help clinicians and researchers to manage neuroimaging data needed for SEEG procedures. This is a 3d slicer extension that is based on former code from the epiSTIM project by Sara Fernandez Vidal.
 
-**SEEG Introduction** : Intracerebral electrodes are used in the context of stereo-electroencephalography (SEEG) recordings in patients with pharmacoresistant epilepsy. SEEG is an invasive method used to determine which anatomical structures of the brain generate epileptic seizures. SEEG is usually used when non-invasive explorations are inconclusive. A precise localization and 3D visualization of brain anatomy is crucial to precisely plan intracerebral electrode trajectories and then localize the origine and spreading of the seizures. 
+**SEEG Introduction** : Intracerebral electrodes are used in the context of stereo-electroencephalography (SEEG) recordings in patients with pharmacoresistant epilepsy. SEEG is an invasive method used to determine which anatomical structures of the brain generate epileptic seizures. SEEG is usually used when non-invasive explorations are inconclusive. A precise localization and 3D visualization of brain anatomy is crucial to precisely plan intracerebral electrode trajectories and then localize the origine and spreading of the seizures.
 
 
 
@@ -142,8 +142,8 @@ Bundle all our previous sparse code into a self-contained slicer extension that 
 Our previous work focused on converting existing code (epiSTIM) into user friendly slicer modules that loosely work with each other. We used the software docker to bundle parts of the processing to improve portability and version handling. Docker images were used to run Brainvisa, Freesurfer and Fastsurfer, sMRIprep, and more.
 
 **Plan**
-- Clean up the current code and create a general repo of all our individual modules. 
-- Research the process of bundling our modules into an extension. 
+- Clean up the current code and create a general repo of all our individual modules.
+- Research the process of bundling our modules into an extension.
 - Build the extension.
 - Determine a platform for the application to run on : Personal computers of clinicians or a server.
 
@@ -178,4 +178,3 @@ Several key modules have already been written for the SEEG pipeline. Some are to
 
 
 _No response_
-

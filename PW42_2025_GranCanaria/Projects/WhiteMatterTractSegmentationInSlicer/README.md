@@ -54,11 +54,11 @@ Investigating and incorporating additional (semi-)automatic tract segmentation a
 
 1. The first step involves exploring the SlicerDMRI architecture, existing documentation, and module-building workflows. Efforts will focus on understanding the integration of relevant libraries and updating packages as needed. This step is fundamental for further developing.
 
-2. Work will focus on enabling basic operations, such as boolean interactions between fibers and ROIs. 
+2. Work will focus on enabling basic operations, such as boolean interactions between fibers and ROIs.
 
 3. The aim is to explore and implement additional tract segmentation algorithms that align with the SlicerDMRI framework.
 
-   
+
 <img width="668" alt="Screenshot 2025-01-31 at 09 58 20" src="https://github.com/user-attachments/assets/98cb9ecf-2520-4760-84e5-0294763a3c4e" />
 
 
@@ -100,4 +100,3 @@ _No response_
 
 
 [1] Peretzke, Robin, et al. "atTRACTive: semi-automatic white matter tract segmentation using active learning." International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer Nature Switzerland, 2023. [arxiv version](https://arxiv.org/abs/2305.18905)
-

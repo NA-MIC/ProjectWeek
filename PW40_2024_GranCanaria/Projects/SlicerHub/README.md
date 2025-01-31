@@ -22,7 +22,7 @@ key_investigators:
 
 # Project Description
 
-From the experience of developing SlicerHub (present at 38th edition of NA-MIC) within OpenDx28 project, using Teide HPC infrastructure, open issues and future vision should be discussed to 
+From the experience of developing SlicerHub (present at 38th edition of NA-MIC) within OpenDx28 project, using Teide HPC infrastructure, open issues and future vision should be discussed to
 define work for the forthcoming project, the Virtual Hospital.
 
 ## Objective
@@ -30,7 +30,7 @@ define work for the forthcoming project, the Virtual Hospital.
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 1. Talk with experts present at the workshop to gather information to formulate possible solutions to having multiple Kubernetes pods using OpenGL in the same node.
-2. Open discussion to define and take note of vision and specific desirable features of having SlicerHub in a virtual hospital. 
+2. Open discussion to define and take note of vision and specific desirable features of having SlicerHub in a virtual hospital.
 
 ## Approach and Plan
 

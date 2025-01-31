@@ -23,13 +23,13 @@ prototypes of our resection planning algorithms into 3D Slicer.
 ## Objectives
 
    - Liver resection planning:
-   
+
       1. Integration of volumetric analysis for resections
       2. Improve the UI for managing resections
-     
+
    - Computation of vascular territories:
-   
-      1. Calculation of vascular liver-segments based on multiple vascular systems (hepatic arterial/vein, portal vein) 
+
+      1. Calculation of vascular liver-segments based on multiple vascular systems (hepatic arterial/vein, portal vein)
       2. Structuring of data for the liver module – implementing object hierarchy
       3. Storing and reloading of module data
       4. User-friendly GUI for liver module – optimize for clinical use.
@@ -41,7 +41,7 @@ week. Some of the objectives are based on new functionality that has been tested
 but not integrated yet, while some other objectives are refinement of
 functionality previusly integrated in [Slicer-Liver
 PW36](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/Slicer-Liver
- 
+
 ## Illustrations
 
 <img src="https://github.com/ALive-research/Slicer-Liver/blob/master/Screenshots/Slicer-Liver_screenshot_01.png?raw=true" width="50%">
@@ -84,7 +84,7 @@ In this project week, we have changed the user interaction to use segmentations 
 
 There is a PR for adding this extension to the extension manager. This be effective when we prepare a tutorial video on the use of the extension.
 
-There are still standard features (e.g., volumetry computation) and new research features (e.g, risk maps visualization, new planning algorithms) that we would like to implement in future Project Weeks. 
+There are still standard features (e.g., volumetry computation) and new research features (e.g, risk maps visualization, new planning algorithms) that we would like to implement in future Project Weeks.
 
 # Background and References
 1. [Slicer-Liver PW36](https://github.com/NA-MIC/ProjectWeek/tree/master/PW36_2022_Virtual/Projects/Slicer-Liver) (January 2022)

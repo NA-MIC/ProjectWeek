@@ -82,4 +82,3 @@ key_investigators:
 1. [https://github.com/ThomasBudd/ovseg/](https://github.com/ThomasBudd/ovseg/)
 2. [https://www.repository.cam.ac.uk/items/d7d9011c-2518-4a7a-8b85-01b086d672fc](https://www.repository.cam.ac.uk/items/d7d9011c-2518-4a7a-8b85-01b086d672fc)
 3. [https://eurradiolexp.springeropen.com/articles/10.1186/s41747-023-00388-z](https://eurradiolexp.springeropen.com/articles/10.1186/s41747-023-00388-z)
-

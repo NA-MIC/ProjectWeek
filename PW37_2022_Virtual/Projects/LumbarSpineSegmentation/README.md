@@ -135,14 +135,14 @@ Taking into account the low number of images used for training, the results are 
 # Work in progress
 
 * Separate the Al Khalil dataset into two different ones: vertebrae (5 tags, 1 to 5) and discs (4 tags, 1 to 4) and train separatedly
-* Put the CHU dataset in the same coordinate system than Al Khalil and use the L1 to L5 segments to increase the number of images available for training the vertebrae segmentation: 32 from Al Khalil + 23 from CHU = 55 volumes. 
+* Put the CHU dataset in the same coordinate system than Al Khalil and use the L1 to L5 segments to increase the number of images available for training the vertebrae segmentation: 32 from Al Khalil + 23 from CHU = 55 volumes.
 * Train the model for the vertebrae with the 55 images for 5 tags, using the segmentation and deep edit and compare results.
 * Train the model for the discs with the 32 images for 4 tags, using the segmentation and deep edit and compare results.
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-* Al Khalil dataset: [Multi-scanner and multi-modal lumbar vertebral body and intervertebral disc segmentation database](https://www.nature.com/articles/s41597-022-01222-8) 
+* Al Khalil dataset: [Multi-scanner and multi-modal lumbar vertebral body and intervertebral disc segmentation database](https://www.nature.com/articles/s41597-022-01222-8)
 * CHU dataset: [Annotated T2-weighted MR images of the Lower Spine](https://zenodo.org/record/22304#.Yr7nSXZ_paY)
 
 # Acknowledgments

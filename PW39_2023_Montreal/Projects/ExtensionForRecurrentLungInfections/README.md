@@ -5,16 +5,16 @@ permalink: /:path/
 redirect_from:
 - /PW39_2023_Montreal/Projects/ExtensionForRecurrentLungInfections/README.html
 
-project_title: extension for recurrent lung infections 
+project_title: extension for recurrent lung infections
 category: Segmentation / Classification / Landmarking
 presenter_location: Online
 
 key_investigators:
 
 - name: Pape Mady Thiao
-  affiliation: école militaire de santé de Dakar 
+  affiliation: école militaire de santé de Dakar
   country: Sénégal
-  
+
 - name: Sonia Pujol
   affiliation: Brigham and Women's Hospital, Harvard Medical School
   country: USA

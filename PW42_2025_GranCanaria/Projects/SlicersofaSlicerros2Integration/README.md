@@ -111,4 +111,3 @@ In this project, we aim to create a proof-of-concept integration where a Phantom
 - SawSensablePhantom repository: [https://github.com/jhu-saw/sawSensablePhantom](https://github.com/jhu-saw/sawSensablePhantom)
 - Phantom Omni in SlicerROS2: [https://slicer-ros2.readthedocs.io/en/latest/pages/robot-visualization.html#phantom-omni](https://slicer-ros2.readthedocs.io/en/latest/pages/robot-visualization.html#phantom-omni)
 - SlicerSOFA repository: [https://github.com/Slicer/SlicerSOFA](https://github.com/Slicer/SlicerSOFA)
-

@@ -20,7 +20,7 @@ key_investigators:
 # Project Description
 
 NousNav is an ongoing project led by Dr. Alex Golby at Brigham and Women's Hospital to build and disseminate a low-cost neuronavigation system for brain surgery.
-The video tutorial aims to provide end-users with step-by-step guidance on how to set up and use NousNav. 
+The video tutorial aims to provide end-users with step-by-step guidance on how to set up and use NousNav.
 
 ## Objective
 

@@ -11,7 +11,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-CERRx is an Octave/MATLAB-based software platform for developing and sharing research results using radiation therapy treatment planning and imaging informatics. "sliCERR" is being developed to facilitate the use of CERRx's radiotherapy and image analysis functionality. The extension we envision, "sliCERR", will provide scripted modules for data I/O operations, and will run analysis routines from CERRx. 
+CERRx is an Octave/MATLAB-based software platform for developing and sharing research results using radiation therapy treatment planning and imaging informatics. "sliCERR" is being developed to facilitate the use of CERRx's radiotherapy and image analysis functionality. The extension we envision, "sliCERR", will provide scripted modules for data I/O operations, and will run analysis routines from CERRx.
 
 ## Objective
 
@@ -31,8 +31,8 @@ CERRx is an Octave/MATLAB-based software platform for developing and sharing res
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Use of specialized functions in CERR such as Deep Learning-based image segmentation and radiomics texture mapping, demonstrated in Jupyter notebooks publicly available on GitHub. 
-2. GUI is in development 
+1. Use of specialized functions in CERR such as Deep Learning-based image segmentation and radiomics texture mapping, demonstrated in Jupyter notebooks publicly available on GitHub.
+2. GUI is in development
 3. Expand wiki documentation for setup and usage
 
 # Illustrations

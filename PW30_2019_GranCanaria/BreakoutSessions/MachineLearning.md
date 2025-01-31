@@ -101,8 +101,8 @@ Deepak:
   - ITK-based tools could be added for translation, rotation, bspline deformation etc.
   - Others provide some data augmentation:
     - Niftynet
-    - NVidia DALI: https://github.com/NVIDIA/DALI 
-    - DKFZ BatchGenerator. See https://github.com/MIC-DKFZ/batchgenerators#readme 
+    - NVidia DALI: https://github.com/NVIDIA/DALI
+    - DKFZ BatchGenerator. See https://github.com/MIC-DKFZ/batchgenerators#readme
 
 ![](./MachineLearning_BreakoutSession.jpg)
 
@@ -132,4 +132,3 @@ Related efforts:
   * For questions, michael.grauer@kitware.com, jcfr@kitware.com
   * Poster available [here](https://data.kitware.com/api/v1/file/5c4ef2628d777f072b1a5324/download).
   * This is along the lines of annotation creation, display, inter annotator agreement, spatiotemporal clustering, audits, workflows, crowdsourcing, cloud hosting with scalability and availability.
-

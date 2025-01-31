@@ -16,7 +16,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-1. Design and create a dedicated neuroanatomy segmentation module 
+1. Design and create a dedicated neuroanatomy segmentation module
 1. Adopt an approach for sulcal definition
 
 ## Approach and Plan
@@ -40,7 +40,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - New functionalities for [Surface Assisted Cortical Parcellation](https://www.dropbox.com/s/go5q8p49akuj4p8/CMA-SurfaceAssistedCorticalParcellation-Manual.pdf?dl=0)
 1. Identified requirements to draw lines in sulcal pits
-1. Presented the underlying principles for cortical parcellation (cortical ribbon is being parcellted using a combination of fiducial landmarks representing a set of planes and sulcal lines) 
+1. Presented the underlying principles for cortical parcellation (cortical ribbon is being parcellted using a combination of fiducial landmarks representing a set of planes and sulcal lines)
 
 # Illustrations
 ![](Segmentation1.png)

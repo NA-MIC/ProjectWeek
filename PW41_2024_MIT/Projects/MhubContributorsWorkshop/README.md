@@ -30,7 +30,7 @@ key_investigators:
 
 MHub.ai is a platform for deep-learning models in medical imaging. We aim to make AI in medical imaging as simple as possible. Therefore, all MHub models need zero set-ups, can be run with a single command, have a standardized IO interface, run directly on DICOM data, are fully customizable to run on other data types and file structures, are tested and reproducible, and run entirely offline. MHub also provides a toolbox to support developers with data conversion, organization, and standardization tasks.
 
-We want to demonstrate **WHY** bundling models in the MHub standard, make them as simple as possible to use, and provide a valuable resource to the community. 
+We want to demonstrate **WHY** bundling models in the MHub standard, make them as simple as possible to use, and provide a valuable resource to the community.
 
 Furthermore, we're thrilled to show **HOW** any model or algorithm can be wrapped into an MHub container. We plan to show the process, explain the tools we use, answer questions, and provide assistance and guidance to those who want to use or contribute to an MHub model.
 
@@ -81,7 +81,7 @@ We created a tutorial that guides through the implementation of a model into the
    - [T3 - Create the Thresholder Model for MHub](https://github.com/MHubAI/documentation/blob/main/tutorials/run_totalsegmentator_on_idc_collection/mhub_tutorial_001.md)
 
 4. **MHub.ai Contribution Process**
-MHub has a clearly defined contribution process. 
+MHub has a clearly defined contribution process.
 The requirements and the process are explained in our [documentation](https://github.com/MHubAI/documentation/blob/main/documentation/mhub_contribution/contributing_a_model.md).
 
 5. **MHub.ai Tutorials**
@@ -119,4 +119,3 @@ To dive deeper, you can find the developer documentation, tutorials, and the imp
 - [Models repository](https://github.com/MHubAI/mdoels)
 - [Documentation](https://github.com/MHubAI/documentation)
 - [Tutorials](https://github.com/MHubAI/documentation/tree/main/tutorials)
-

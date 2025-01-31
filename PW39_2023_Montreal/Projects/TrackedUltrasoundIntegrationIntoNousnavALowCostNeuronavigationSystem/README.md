@@ -14,23 +14,23 @@ key_investigators:
 - name: Colton Barr
   affiliation: Queen's University / Brigham and Women's Hospital
   country: Canada
-  
+
 - name: Sarah Frisken
   affiliation: Brigham and Women's Hospital
   country: USA
-  
+
 - name: Sonia Pujol
   affiliation: Brigham and Women's Hospital
   country: USA
-  
+
 - name: Steve Pieper
   affiliation: Isomics, Inc.
   country: USA
-  
+
 - name: Tina Kapur
   affiliation: Brigham and Women's Hospital
   country: USA
-  
+
 - name: Tamas Ungi
   affiliation: Queen's University
   country: Canada

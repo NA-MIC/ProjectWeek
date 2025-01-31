@@ -46,5 +46,5 @@ Implement and integrate robust interactions using both touchscreen gestures and 
 
 # Background and References
 
-- [WIP Slicer branch](https://github.com/Sunderlandkyl/Slicer/tree/gesture_interaction4) 
+- [WIP Slicer branch](https://github.com/Sunderlandkyl/Slicer/tree/gesture_interaction4)
 - [WIP VTK branch](https://github.com/Sunderlandkyl/VTK/tree/slicer_qt_gestures2)

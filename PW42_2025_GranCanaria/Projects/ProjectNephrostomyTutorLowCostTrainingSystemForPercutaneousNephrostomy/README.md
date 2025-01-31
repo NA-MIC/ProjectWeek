@@ -105,4 +105,3 @@ https://github.com/user-attachments/assets/74945fc2-c866-4739-8a3b-3a295c87484c
 
 
 [Feasibility of video‐based skill assessment for percutaneous nephrostomy training in Senegal](https://pmc.ncbi.nlm.nih.gov/articles/PMC11665799/)
-

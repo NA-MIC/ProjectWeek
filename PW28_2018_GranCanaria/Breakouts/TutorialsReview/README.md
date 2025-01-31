@@ -19,7 +19,7 @@
   * Downloads
 * Jupyter Notebooks
   * Some experiments on making Slicer work as a kernel for Jupyter
- 
+
  ## Desired Features
  * Standardized formats using well designed templates
  * Globally accessible
@@ -55,9 +55,8 @@
    * References to publications
    * Funding sources
    * Sample data
- 
+
  ## Ideas
- 
+
  * Collect feedback from outsiders
  * Tutorial Generator extension
- 

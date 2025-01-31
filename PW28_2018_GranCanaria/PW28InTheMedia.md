@@ -14,7 +14,7 @@
 - [Azarplus](http://www.azarplus.com/2018-06-26/la-genetica-es-fundamental-en-el-desarrollo-de-la-ludopatia/16615/noticia/)
 
 
-- [20180625 RTVC - 21'10''](http://www.rtvc.es/television/multimedia/Telenoticias%201-46/25-06-18-1876.aspx#.WzYOONJKjIV) 
+- [20180625 RTVC - 21'10''](http://www.rtvc.es/television/multimedia/Telenoticias%201-46/25-06-18-1876.aspx#.WzYOONJKjIV)
 
 - [Casa África](http://www.casafrica.es/agenda_europa_africa.jsp?DS318.PROID=903669)
 

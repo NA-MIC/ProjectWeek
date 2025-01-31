@@ -53,7 +53,7 @@ aeva software suite currently consists of:
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1.  Demo and on Tuesday went well.
-2.  THe team made good progress creating new demo videos 
+2.  THe team made good progress creating new demo videos
 
 # Illustrations
 

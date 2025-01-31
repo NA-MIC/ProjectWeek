@@ -100,13 +100,13 @@ It also generates template for an extension
   ![image](https://user-images.githubusercontent.com/7490180/150410992-9738437d-1222-4b64-a33f-860a150cbec8.png)
 
 
-3) `add-mode <mode-name>` will install any ohif-mode that has been published on npm registry and make it available on OHIF. 
+3) `add-mode <mode-name>` will install any ohif-mode that has been published on npm registry and make it available on OHIF.
 
 
   ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/7490180/150447751-1428c1d0-26a4-4079-a99e-942ca7d11352.gif)
 
 
-After installation the mode becomes avaiable. 
+After installation the mode becomes avaiable.
 
 4) `remove-mode <mode-name>`
 
@@ -118,7 +118,7 @@ After installation the mode becomes avaiable.
 
 6) OHIF website update
 
-Using Github GraphQL we showcase a list of modes that are published on the npm registry. 
+Using Github GraphQL we showcase a list of modes that are published on the npm registry.
 
 ![image](https://user-images.githubusercontent.com/7490180/149446827-ece3aa65-32a5-439d-803b-0492ad964a42.png)
 

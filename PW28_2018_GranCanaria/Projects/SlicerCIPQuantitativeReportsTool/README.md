@@ -23,7 +23,7 @@ Slicer CIP has been conceived as a workstation for radiologists, but is also sui
 
 ## Objective
 
-1. Extend and generalize last year report tool to be used in all SlicerCIP modules. 
+1. Extend and generalize last year report tool to be used in all SlicerCIP modules.
 
 ## Approach and Plan
 

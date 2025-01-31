@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Davide Punzo (Freelancer, France) 
+- Davide Punzo (Freelancer, France)
 - Andras Lasso (Perk Labs, Canada)
 - Anyone is welcome to join
 
@@ -39,4 +39,3 @@ Add the concept of active viewport in 3DSlicer
 
 
 # Background and References
-

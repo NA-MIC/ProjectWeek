@@ -27,9 +27,9 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-[ImageAugmenter](https://github.com/ciroraggio/SlicerImageAugmenter) is a 3D Slicer extension that provides a simple interface to apply over 20 simultaneous MONAI transforms (spatial, intensity, etc.) to medical image datasets without programming. 
+[ImageAugmenter](https://github.com/ciroraggio/SlicerImageAugmenter) is a 3D Slicer extension that provides a simple interface to apply over 20 simultaneous MONAI transforms (spatial, intensity, etc.) to medical image datasets without programming.
 
-It makes medical image augmentation more accessible, allowing a wider range of users to improve the performance of DL models in medical image analysis by increasing the number of samples available for training. 
+It makes medical image augmentation more accessible, allowing a wider range of users to improve the performance of DL models in medical image analysis by increasing the number of samples available for training.
 
 Since the extension is officially available in the Extension Manager since version 5.7.0 (current Preview Release), the idea is to fix known bugs, improve various aspects and add new features before the extension will be available in the stable release of 3D Slicer.
 
@@ -55,7 +55,7 @@ Since the extension is officially available in the Extension Manager since versi
 
 1. Check all GUI components and/or dynamically load some components
 2. Better handling of generic exceptions by preventing the interface from crashing and requiring a manual restart
-3. Analyze MONAI documentation regarding available transformations for better interpretation of parameters 
+3. Analyze MONAI documentation regarding available transformations for better interpretation of parameters
 4. Added a drop-down menu in preview mode to select the sample to which the selected transformations will be applied and previewed
 5. Networking with other people during the PW
 
@@ -123,4 +123,3 @@ Since the extension is officially available in the Extension Manager since versi
 - [SlicerImageAugmenter Repository](https://github.com/ciroraggio/SlicerImageAugmenter)
 - [SlicerImageAugmenter Journal Article - Software X, Volume 28, December 2024](https://doi.org/10.1016/j.softx.2024.101923)
 - [SlicerImageAugmenter Website](https://ciroraggio.github.io/SlicerImageAugmenter/)
-

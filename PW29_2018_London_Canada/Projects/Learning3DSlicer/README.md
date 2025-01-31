@@ -20,7 +20,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Approach and Plan
 
 1. Attend the segmentation and IGT sessions.
-1. Try making a module for data acquisition through TEE 
+1. Try making a module for data acquisition through TEE
 1. Implement my Jupyter notebook code directly into Slicer
 
 
@@ -31,5 +31,3 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Illustrations
 
 # Background and References
-
-

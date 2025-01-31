@@ -33,9 +33,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. The team has made substantial progress on integration UKF tractography and WM labeling tools (BWH team) with existing functionality to identify cerebral microbleeds (USC team). 
-2. An approach to identify, analyze and quantify changes in FA along major WM fasciculi of the brain was agreed upon and prototyped. 
-3. Testing and validation of integrated workflows was performed and the two teams made progress on identifying goals for future collaboration. 
+1. The team has made substantial progress on integration UKF tractography and WM labeling tools (BWH team) with existing functionality to identify cerebral microbleeds (USC team).
+2. An approach to identify, analyze and quantify changes in FA along major WM fasciculi of the brain was agreed upon and prototyped.
+3. Testing and validation of integrated workflows was performed and the two teams made progress on identifying goals for future collaboration.
 
 # Illustrations
 
@@ -49,8 +49,6 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-1. Di Fan, Nikhil N. Chaudhari, Kenneth A. Rostowsky, Maria Calvillo, Sean K. Lee, Nahian F. Chowdhury, Fan Zhang, Lauren J. O’Donnell and Andrei Irimia. Post-Traumatic Cerebral Microhemorrhages and Their Effects upon White Matter Connectivity in the Aging Human Brain[C]. 41th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2019).  
-2. Isaiah Norton, Ibn Essayed, Fan Zhang, Sonia Pujol, Alex Yarmarkovich, Alexandra Golby, Gordon Kindlmann, Demian Wasserman, Raul San José Estepar, Yogesh Rathi, Steve Pieper, Ron Kikinis, Hans Johnson, Carl-Fredrik Westin, and Lauren J. O'Donnell. 2017. “SlicerDMRI: Open Source Diffusion MRI Software for Brain Cancer Research.” Cancer Research, 77, 21, Pp. e101–103. 
+1. Di Fan, Nikhil N. Chaudhari, Kenneth A. Rostowsky, Maria Calvillo, Sean K. Lee, Nahian F. Chowdhury, Fan Zhang, Lauren J. O’Donnell and Andrei Irimia. Post-Traumatic Cerebral Microhemorrhages and Their Effects upon White Matter Connectivity in the Aging Human Brain[C]. 41th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2019).
+2. Isaiah Norton, Ibn Essayed, Fan Zhang, Sonia Pujol, Alex Yarmarkovich, Alexandra Golby, Gordon Kindlmann, Demian Wasserman, Raul San José Estepar, Yogesh Rathi, Steve Pieper, Ron Kikinis, Hans Johnson, Carl-Fredrik Westin, and Lauren J. O'Donnell. 2017. “SlicerDMRI: Open Source Diffusion MRI Software for Brain Cancer Research.” Cancer Research, 77, 21, Pp. e101–103.
 3. Fan Zhang, Ye Wu, Isaiah Norton, Laura Rigolo, Yogesh Rathi, Nikos Makris, and Lauren J. O'Donnell. 2018. “An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan.” NeuroImage, 179, Pp. 429-447.
-
-

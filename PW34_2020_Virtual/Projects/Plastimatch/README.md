@@ -8,7 +8,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Plastimatch is a registration and image processing software that runs either standalone or as a Slicer extension within SlicerRT.  
+Plastimatch is a registration and image processing software that runs either standalone or as a Slicer extension within SlicerRT.
 Over the past several years, there have been improvements in plastimatch that have not been migrated to 3D Slicer.
 
 ## Objective

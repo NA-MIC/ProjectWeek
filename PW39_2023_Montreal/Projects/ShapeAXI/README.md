@@ -18,39 +18,39 @@ key_investigators:
 - name: Luc Anchling
   affiliation: University of Michigan
   country: France
-  
+
 - name: Lucia Cevidanes
   affiliation: University of Michigan
   country: USA
-  
+
 - name: Selene Barone
   affiliation: University of Catanzaro
   country: Italy
-  
+
 - name: Jonas Bianchi
   affiliation: University of Pacifique
   country: USA
-  
+
 - name: Marcela Gurgel
   affiliation: University of Michigan
   country: USA
-  
+
 - name: Najla Al Turkestani
   affiliation: University of Michigan
   country: USA
-  
+
 - name: Felicia Miranda
   affiliation: University of Sao Paulo
   country: Brezil
-  
+
 - name: Denise Curado
   affiliation: University of Michigan
   country: USA
-  
+
 - name: Kinjal Mavani
   affiliation: University of Michigan
   country: USA
-  
+
 - name: Kinjal Mavani
   affiliation: University of Michigan
   country: USA
@@ -58,7 +58,7 @@ key_investigators:
 - name: Margaret Eason
   affiliation: University of Michigan
   country: USA
-  
+
 - name: Aron Aliage del Castilo
   affiliation: University of Michigan
   country: USA
@@ -94,7 +94,7 @@ ShapeAXI is an innovative project that focuses on advancing the field of shape a
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Develop algorithms for shape analysis, incorporating deep learning techniques, computer vision, and geometric modeling.
-3. Create a user-friendly 3D Slicer extension with a software interfaces for creating the explainability maps on shapes after classification. 
+3. Create a user-friendly 3D Slicer extension with a software interfaces for creating the explainability maps on shapes after classification.
 4. Enhance interpretability through techniques like visual explanations and feature attribution methods.
 5. Validate the developed algorithms and tools through extensive experiments and benchmarking against existing methods.
 6. Foster open-source collaboration by releasing software libraries, datasets, and benchmarks.
@@ -132,7 +132,7 @@ ShapeAXI is an innovative project that focuses on advancing the field of shape a
 ![01 Final_Classificationfold0_test_prediction_norm_confusion](https://github.com/juanprietob/ProjectWeek/assets/7086191/0cf38ad9-0e34-4cb2-a7ed-fb4a7b146b1e)
 ![01 Final_Classificationfold0_test_prediction_roc](https://github.com/juanprietob/ProjectWeek/assets/7086191/7f9c650c-d561-4cb4-9dcd-2011cba8b95c)
 
-## Explainability 
+## Explainability
 
 <video
   controls muted

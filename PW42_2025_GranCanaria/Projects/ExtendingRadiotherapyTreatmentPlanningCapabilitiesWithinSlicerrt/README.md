@@ -70,7 +70,7 @@ Last year, we managed rudimentary treatment planning capabilities - this year, t
 4. Extension of pyRadPlan/SlicerRT interface to handle multiple beams
 5. First fully intensity-modulated photon and proton plans
 
-## Next steps 
+## Next steps
 1. Performance improvement in data transfers
 2. Improve GUI flexibility
 3. PR & Code Review SlicerRT
@@ -78,7 +78,7 @@ Last year, we managed rudimentary treatment planning capabilities - this year, t
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-## Extended ExternalBeamPlanning Interface with Optimization Settings 
+## Extended ExternalBeamPlanning Interface with Optimization Settings
 ![Photons_5Beams_Plan](https://github.com/user-attachments/assets/25df44e6-0e2b-4972-9958-7305172993d3)
 
 ## 5 beam photon plan with SlicerRT pyRadPlan interface:
@@ -95,4 +95,3 @@ Last year, we managed rudimentary treatment planning capabilities - this year, t
 
 - [https://pypi.org/project/pyRadPlan](https://pypi.org/project/pyRadPlan)
 - [https://github.com/e0404/matRad](https://github.com/e0404/matRad)
-

@@ -30,11 +30,11 @@ The aim is to integrate an algorithm, which is based on Deep Learning, for foot 
 ## Progress and Next Steps
 * [x]  **Integrate dependencies**
   * [x] Libtorch (Pytorch C++ API)
-  * [x] PCL (Point Cloud Library) 
+  * [x] PCL (Point Cloud Library)
   * [x] SuperBuild option
 * [x]  **PyTorch modules to TorchScript**
   * [x] Convert PyTorch modules to TorchScript
-  * [x] Load a TorchScript model in the extension 
+  * [x] Load a TorchScript model in the extension
 * [ ]  **Feet segmentation algorithm**
   * [x] Deep Learning segmentation
     * [x]  *Convert VTK images to tensor*
@@ -45,12 +45,12 @@ The aim is to integrate an algorithm, which is based on Deep Learning, for foot 
     * [x]  *Geometry plane segmentation*
     * [x]  *Improve Deep Learning results*
   * [ ] Apply the resulting mask
-  
-  
+
+
   ### To do:
   *  Fixes an error when returning the point cloud data to a VTK Image
   *  Include Windows support in SuperBuild option
-  *  Test strategies based on point cloud processing in VTK in order to remove PCL dependency 
+  *  Test strategies based on point cloud processing in VTK in order to remove PCL dependency
 
 # Illustrations
 ![Workflow](images/Workflow.png "Proposed workflow")
@@ -92,4 +92,3 @@ specifically planes.
 [2] [TorchScript tutorial](https://pytorch.org/tutorials/beginner/Intro_to_TorchScript_tutorial.html)
 
 [3] [Diabetic Foot Extension](https://github.com/SolidusAbi/DiabeticFootExtension). Repository with the extension that includes the "SuperBuild" option and the developed module.
-

@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Anatomical Atlases Senegal. 
+# Anatomical Atlases Senegal.
 
 ## Key Investigators
 
@@ -52,4 +52,3 @@ These atlases and their creation process will be used as training material in th
 
 - [Pelvis Atlas project](https://projectweek.na-mic.org/PW30_2019_GranCanaria/Projects/PelvicAnatomyAtlases/)
 - [Atlas Development For Education project](https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/AtlasDevelopmentForEducation/)
-

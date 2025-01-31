@@ -33,9 +33,9 @@ The aim of this project is to mitigate susceptibility distortions in dMRI datase
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Objective A. Simplifying dMRI acquisition protocols by utilizing just one of the blip-up or blip-down image as input for the model. This approach can reduce scan time, potentially halving the duration of dMRI acquisitions. 
+1. Objective A. Simplifying dMRI acquisition protocols by utilizing just one of the blip-up or blip-down image as input for the model. This approach can reduce scan time, potentially halving the duration of dMRI acquisitions.
 
-2. Objective B. Facilitating more precise analysis and promoting advancements in our understanding of brain by equipping researchers with more efficient and accurate tools. 
+2. Objective B. Facilitating more precise analysis and promoting advancements in our understanding of brain by equipping researchers with more efficient and accurate tools.
 
 
 
@@ -80,4 +80,3 @@ No response
 
 
 _No response_
-

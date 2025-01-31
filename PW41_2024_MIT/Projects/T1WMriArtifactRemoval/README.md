@@ -37,7 +37,7 @@ I will train a Generative Convolutional Neural Network to remove artifacts (moti
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. In the end, I plan to have a trained deep learning model and statistics on its performance. 
+1. In the end, I plan to have a trained deep learning model and statistics on its performance.
 
 
 
@@ -46,7 +46,7 @@ I will train a Generative Convolutional Neural Network to remove artifacts (moti
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. I will write a Python program to generate artificial artifacts on TW1 MRI images. I will then train a CNN with the images with artificial artifacts as the input, and the original images without the artifacts as the output. Its performance will be evaluated on real data. 
+1. I will write a Python program to generate artificial artifacts on TW1 MRI images. I will then train a CNN with the images with artificial artifacts as the input, and the original images without the artifacts as the output. Its performance will be evaluated on real data.
 
 
 
@@ -76,4 +76,3 @@ _No response_
 
 
 _No response_
-

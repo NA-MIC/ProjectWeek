@@ -81,7 +81,7 @@ slicer.util.mainWindow().addToolBar(toolBar)
 
 1. Fixed issue with camera movements creating unnecessary undo states: [Slicer/5e460ad](https://github.com/Slicer/Slicer/commit/5e460add5b9163fb2f80e33037624c97f5b4d7f4).
 2. Continue to receive feedback and bug reports on the current implementation.
-3. Add option to enable/disable undo from application settings in Slicer. 
+3. Add option to enable/disable undo from application settings in Slicer.
 
 # Illustrations
 

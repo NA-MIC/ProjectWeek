@@ -23,7 +23,7 @@ We propose a novel approach that reformulates anatomical landmark detection as a
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Retrain the different models with new data 
+1. Retrain the different models with new data
 1. Do some maintenance on the previously made code
 
 ## Approach and Plan

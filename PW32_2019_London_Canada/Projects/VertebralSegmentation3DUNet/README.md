@@ -3,7 +3,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Write full project title here
 
 ## Key Investigators
-- Geoff Klein (U of T) 
+- Geoff Klein (U of T)
 
 # Project Description
 Use a previously trained 3D U-Net from Keras to segment vertebral bodies from CT scans.

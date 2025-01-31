@@ -10,46 +10,46 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-The aim of this project is to acquire and visualize electrophysiological biosignals on 3D Slicer via Arduino, 
-as these biosignals can provide information about the subject's physiological data that can complement other 
+The aim of this project is to acquire and visualize electrophysiological biosignals on 3D Slicer via Arduino,
+as these biosignals can provide information about the subject's physiological data that can complement other
 applications based on image analysis. In particular, the module "EMGArduino" makes it possible to use the subject's
 electromyogram (EMG) to control the movement of a 3D model.
 
 ## Objective
 
 Objective 1. Establish an interface between Slicer and Arduino to acquire electrophysiological signals.
-Objective 2. The streaming and visualization of the electrophysiological biosignals in Slicer in the time domain in terms of voltage amplitude. 
+Objective 2. The streaming and visualization of the electrophysiological biosignals in Slicer in the time domain in terms of voltage amplitude.
 Objective 3. Send commands from EMG signals to Slicer to control movements of 3D models loaded into the 3D scene (e.g. antropomorphic hand).
 
 ## Approach and Plan
 
-1. First of all, it is necessary to have an electronic board for the acquisition and conditioning of electrophysiological 
+1. First of all, it is necessary to have an electronic board for the acquisition and conditioning of electrophysiological
    signals whose output can be connected to an Arduino board. In this project, the MySignals SW eHealth and Medical IoT Development Platform
    (Libelium) [2] has been used. However, any electonic signal acquisition pcb that is suitably designed for electrofisiological
-   biosignal preprocessing can be used.  
+   biosignal preprocessing can be used.
 
 2. Development of the Arduino IDE code for the acquisition of EMG signals.
- 
-3. There is a Slicer extension called ArduinoController and develovep by Paolo Zafinno et al. (Department of Clinical 
-   and Experimental Medicine, University “Magna Graecia” of Catanzaro) [1] that allows to connect and receive/send 
+
+3. There is a Slicer extension called ArduinoController and develovep by Paolo Zafinno et al. (Department of Clinical
+   and Experimental Medicine, University “Magna Graecia” of Catanzaro) [1] that allows to connect and receive/send
    data from/to Arduino boards. Based on this extension, it is possible to create a module that uses the Arduino to receive
    data from a subject's electrophysiological signals (e.g. EMG) and transfer them to 3D Slicer.
 
 4. Adaptation of the module created to load 3D models into the 3D scenes of the Slicer.
 
 5. Interaction with the uploaded 3D models and the Arduino output data as a function of the acquired subject EMG biosignal
-   voltage amplitude variations. 
+   voltage amplitude variations.
 
 ## Progress and Next Steps
 
 1. Once we had an electronic PCB for the acquisition (Fig.1) and processing of the electrophysiological signal, the corresponding IDE
-   code was developed and loaded onto the Arduino board. This code also allows the visualisation of the EMG signal on a TFT screen 
+   code was developed and loaded onto the Arduino board. This code also allows the visualisation of the EMG signal on a TFT screen
    integrated in the acquisition PCB (Video 1) and the transmission of data to a Slicer module (Fig.2).
 
 2. The visualisation of the EMG signal in the slicer scene was done through the ArduinoController module [1] (Video 2).
 
 3. The next step will focus on creating a module that allows loading 3D models into the Slicer scene and controlling/setting
-   some of its parameters (such as position or colour) directly depending on the voltage variation of the EMG signal of the subject. 
+   some of its parameters (such as position or colour) directly depending on the voltage variation of the EMG signal of the subject.
 
 
 # Illustrations
@@ -74,8 +74,7 @@ Objective 3. Send commands from EMG signals to Slicer to control movements of 3D
 
 # Background and References
 
-[1] Zaffino P, Merola A, Leuzzi D, Sabatino V, Cosentino C, Spadea MF. SlicerArduino: A Bridge between Medical 
+[1] Zaffino P, Merola A, Leuzzi D, Sabatino V, Cosentino C, Spadea MF. SlicerArduino: A Bridge between Medical
     Imaging Platform and Microcontroller. Bioengineering. 2020 Sep;7(3):109.)
 
 [2] MySignals - eHealth and Medical IoT Development Platform. Libelium. Video: https://www.youtube.com/watch?v=MiMDOT-Wt4w
-

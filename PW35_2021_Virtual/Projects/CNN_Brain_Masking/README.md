@@ -66,7 +66,7 @@ HD-BET Accurate segmentation (5 model ensemble)
 
 [EasyReg](https://github.com/uncbiag/easyreg) |
 [HD-BET](https://github.com/MIC-DKFZ/HD-BET) |
-[Auto Net](https://github.com/SadeghMSalehi/AutoContextCNN) 
+[Auto Net](https://github.com/SadeghMSalehi/AutoContextCNN)
 
 Anatomical Data Augmentation via Fluid-based Image Registration Zhengyang Shen, Zhenlin Xu, Sahin Olut, Marc Niethammer. MICCAI 2020.
 

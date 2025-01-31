@@ -29,18 +29,18 @@ NA-MIC Project Week 2020-12-16, 12-2pm EST
     * Short answer: No. You would need to perform a segmentation or place markups fiducials on the visible surface to measure.
     * Longer answer: placing fiducials on volume rendering is possible, also segmentation based on opacity could possibly be done. Fiducials are placed at 50% opacity.
     * Follow up questions:
-        * Which picker is used ?  
+        * Which picker is used ?
             Software picker is used to place markups. In the future, we could re-evaluate to make picking faster.
-        * Can we adjust the 50% threshold ?  
+        * Can we adjust the 50% threshold ?
             Adjusting the transfer function may be an alternative approach.
     * Comments / suggestions:
         * Add presets for CBCT
         * MicroCT does volume render but it’s tricky to adjust depending if 8-bit or 16-bit
 * Documentation is quite fragmented ([ReadTheDocs](https://www.google.com/url?q=https://slicer.readthedocs.io/en/latest/&sa=D&ust=1608152866183000&usg=AOvVaw1qaL9prP4aEkFKp6l-XXV0), [wiki](https://www.google.com/url?q=https://www.slicer.org/wiki/Documentation/Nightly&sa=D&ust=1608152866183000&usg=AOvVaw0viYLr3r0tTLETqJzzR7pt)). Can I do something to help?
-    * (Jc) We currently focus on moving documentation to readthedocs and updating the wiki to add links “redirecting” to the readthedocs. We would greatly benefit from help to:  
-        (a) move documentation of module to readthedocs,  
-        (b) review the description of existing modules and update them.  
-        (c) mark deprecated content on the wiki as “historical”. This is done by using the [historical](https://www.google.com/url?q=https://www.slicer.org/wiki/Template:Historical&sa=D&ust=1608152866184000&usg=AOvVaw1-MGgsjSNbcYn4-EZNrKKv)template. For an example of use, see [this page](https://www.google.com/url?q=https://www.slicer.org/wiki/Slicer:git-svn&sa=D&ust=1608152866184000&usg=AOvVaw1IOdB6qBUnLBDbKoHbYcoM),  
+    * (Jc) We currently focus on moving documentation to readthedocs and updating the wiki to add links “redirecting” to the readthedocs. We would greatly benefit from help to:
+        (a) move documentation of module to readthedocs,
+        (b) review the description of existing modules and update them.
+        (c) mark deprecated content on the wiki as “historical”. This is done by using the [historical](https://www.google.com/url?q=https://www.slicer.org/wiki/Template:Historical&sa=D&ust=1608152866184000&usg=AOvVaw1-MGgsjSNbcYn4-EZNrKKv)template. For an example of use, see [this page](https://www.google.com/url?q=https://www.slicer.org/wiki/Slicer:git-svn&sa=D&ust=1608152866184000&usg=AOvVaw1IOdB6qBUnLBDbKoHbYcoM),
         (d) improve the extension wizard to to include template for documentation (we would need to discuss this during the weekly hangout)
     * Comments / Suggestions:
         * Ron: Add last modified timestamp to documentation page

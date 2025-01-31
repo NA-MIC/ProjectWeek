@@ -18,7 +18,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-The project is to send results produced in OHIF to an IHE Report Creator using the Integrated Reporting Applications (IRA) profile.  
+The project is to send results produced in OHIF to an IHE Report Creator using the Integrated Reporting Applications (IRA) profile.
 
 
 
@@ -75,4 +75,3 @@ _No response_
 - IHE IRA: https://profiles.ihe.net/RAD/IRA/
 - IHE IMR: https://profiles.ihe.net/RAD/IMR/
 - FHIRcast: https://fhircast.org
-

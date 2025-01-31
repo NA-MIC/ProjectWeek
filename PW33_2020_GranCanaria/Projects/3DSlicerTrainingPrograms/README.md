@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# 3D Slicer Training Programs. 
+# 3D Slicer Training Programs.
 
 ## Key Investigators
 
@@ -24,7 +24,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-In this edition of the training project, new professionals will work in order to develop new training material and study how to enhance and improve the use of 3DSlicer as a training tool. We intend to create new training tools as new atlases and study its use in the African countries of Senegal and Mauritania. It will also be included the proposal of a training program for Universities in Morocco and other projects that could arise. 
+In this edition of the training project, new professionals will work in order to develop new training material and study how to enhance and improve the use of 3DSlicer as a training tool. We intend to create new training tools as new atlases and study its use in the African countries of Senegal and Mauritania. It will also be included the proposal of a training program for Universities in Morocco and other projects that could arise.
 
 ## Objective
 
@@ -38,7 +38,7 @@ In this edition of the training project, new professionals will work in order to
 
 ## Progress and Next Steps
 
-1. Initial training have been delivered for the African collaborators, including newcomers from Morocco 
+1. Initial training have been delivered for the African collaborators, including newcomers from Morocco
 1. In these training sessions the African collaborators experienced have been advised
 1. Information to draft the introduction of the development of 3D Slicer modules for engineers
 1. The creation of multidisciplinary workgroups, with medicine and engineer degree students have been planned

@@ -75,7 +75,7 @@ and fully connected shallow neural network).
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-Vessel parts of the carotid syphon. 
+Vessel parts of the carotid syphon.
 
 <img width="809" alt="Image" src="https://github.com/user-attachments/assets/3931d350-55c3-4286-a6af-d0bc249e2e96" />
 
@@ -88,4 +88,3 @@ Vessel parts of the carotid syphon.
 
 
 _No response_
-

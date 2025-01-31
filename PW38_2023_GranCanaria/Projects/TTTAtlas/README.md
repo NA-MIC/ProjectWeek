@@ -8,15 +8,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Idafen Santana (ULPGC)
 - Mario Monzón (ULPGC)
 - Aday Melián (ULPGC)
-- Miguel Ángel Rodríguez (ULPGC) 
+- Miguel Ángel Rodríguez (ULPGC)
 - Pablo Castellano (ULPGC)
 - Jose Carlos Mateo (ULPGC)
 - Nayra Pumar
 - Babacar Diao
-- Christine Sokhna  
-- Magate Gueye  
-- Charles Diem  
-- Khedijetou Vilaly  
+- Christine Sokhna
+- Magate Gueye
+- Charles Diem
+- Khedijetou Vilaly
 - Bella Konan
 
 # Project Description
@@ -53,15 +53,15 @@ This project aims to provide the tools and knowledge for generating a comprehens
 2. Meet & discusions with Nayra Pumar, researcher who has already work in affordable custom atlases [PAPER: Affordable Custom Three-Dimensional Anatomy Atlases](https://ieeexplore.ieee.org/document/9033044)
 
 
-3. Meet & discussion with [Babacar Diao](https://mt4sd.ulpgc.es/es/equipo/instituciones/babacar-diao/), physician who has created and used them as learning tools: 
+3. Meet & discussion with [Babacar Diao](https://mt4sd.ulpgc.es/es/equipo/instituciones/babacar-diao/), physician who has created and used them as learning tools:
     - They work with Slicer3D for making the creation of 3D Models from real world CT images, segmentation and they use Slicer software as the atlas itself.
 
     - This is an affordable way of create and apply on student classes realistic atlases based on real life humans
 
-    - The drawback of this way of using atlas is that it needs a little formation in the users on Slicer3D usage 
+    - The drawback of this way of using atlas is that it needs a little formation in the users on Slicer3D usage
 
     - In the other hand this allows students to be able to improve and make better atlases from the previous work
-    
+
     - As conclussion, he has found out by several classes and teaching sessions that the students classifications improves while using atlases as learning tools comparing to others that don't use it
 
 4. Technical deconstruction of an Atlas. We have divided the concept of digital atlas into these features/needs:
@@ -80,7 +80,7 @@ This project aims to provide the tools and knowledge for generating a comprehens
 
     - Languages
         - Depending on the use we could have different language options or we may need only the native language
-        
+
     - Data validation
         - If we are working with anatomic tools for learning, we cannot allow bad information, we need a system to check every model and pieces in the human body is well named and well modeled.
 
@@ -89,15 +89,15 @@ This project aims to provide the tools and knowledge for generating a comprehens
 6. We made a research of open source atlases and related content to anatomic learning tools and we have recopilated/developed this tools for each layer:
     - 3D Contents provider
         - [Slicer3D](https://www.slicer.org/)
-        - [Open anatomy](https://www.openanatomy.org/) 
+        - [Open anatomy](https://www.openanatomy.org/)
         - [z-Anatomy](https://www.z-anatomy.com/)
         - [BodyParts](https://lifesciencedb.jp/bp3d/)
-    
+
     - Content adapter
         - [BodyParts3D (Anatomography)](https://lifesciencedb.jp/bp3d/)
 
     - Languages
-        - [Terminologia Anatomica](https://ta2viewer.openanatomy.org/) 
+        - [Terminologia Anatomica](https://ta2viewer.openanatomy.org/)
         - [Wikipedia]()
         - Custom medical translations (Depends on medic profile for each iteration)
 
@@ -111,7 +111,7 @@ This project aims to provide the tools and knowledge for generating a comprehens
         - We created some tests using z-Anatomy full body to check the power required on web rendering from mobile devices. (Image #4)
 
 7. We have been working last year on creating atlas and human based apps using Unity3D as learning tools.
-    - We have identified that the challenges we have faced are common challenges in this kind of content 
+    - We have identified that the challenges we have faced are common challenges in this kind of content
     - We have created some helping software to aid us to modify and adapt the anatomy for our needs using web technologies:
         - Anatomic Tree Adapter: Web application to reorganize all z-Anatomy models as we need into our custom apps. (Image #3)
 
@@ -119,7 +119,7 @@ This project aims to provide the tools and knowledge for generating a comprehens
 
 8. Conclusions and next steps:
     - When we started creating atlases, we decided to use Slicer with the OpenAnatomy only as exporter of all content for the use into Unity3D and Three.JS apps.
-    - We have found out during this week that Slicer3D is more useful than we valued on the early stages of our projects: 
+    - We have found out during this week that Slicer3D is more useful than we valued on the early stages of our projects:
         - It can be used as Atlas itself for teaching anatomy with succesful cases as we talked to Babacar Diao
         - It can create human anatomy models by CT segmentations and render them, then edit and polish to iterate and get the most realistic models of humans and then easily export to other engines or apps.
         - VR and AR experiences are features supported by Slicer3D natively

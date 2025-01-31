@@ -6,8 +6,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Hareem Nisar (Robarts / Western Uni.)
 
 # Project Description
-An ultrasound image-based tool tracking system using passive markers to provide image guidance during intracardiac interventions. 
-We aim to design a passive marker design for surgical tools so that they appear uniquely on the ultrasound images. This unique marker configuration can be used to calculate the tool’s pose. 
+An ultrasound image-based tool tracking system using passive markers to provide image guidance during intracardiac interventions.
+We aim to design a passive marker design for surgical tools so that they appear uniquely on the ultrasound images. This unique marker configuration can be used to calculate the tool’s pose.
 Using deep learning to estimate the pose of tool from the ultrasound images
 
 ## Objective
@@ -26,7 +26,7 @@ TBC
 
 # Illustrations
 
-Coming soon.. 
+Coming soon..
 
 # Background and References
 

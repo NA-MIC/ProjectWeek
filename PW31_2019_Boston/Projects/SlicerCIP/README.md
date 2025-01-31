@@ -30,7 +30,7 @@ Migrate the SlicerCIP extension to the last Slicer stable release, and "pave the
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. SlicerCIP is now available in the Slicer 4.10 Release.
-2. Pre-packaged SlicerCIP is also available in chestimagingplatform.org 
+2. Pre-packaged SlicerCIP is also available in chestimagingplatform.org
 
 # Illustrations
 ![Chest Imaging Platform website](SlicerCIP.png)

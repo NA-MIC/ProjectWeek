@@ -35,7 +35,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Slicer is now part of the [awesome-healthcare](https://github.com/kakoni/awesome-healthcare#imaging) list.
 - See also [What is an awesome list ?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
-- Should we create an `awesome-medical-data` list ? 
+- Should we create an `awesome-medical-data` list ?
 
 # Illustrations
 

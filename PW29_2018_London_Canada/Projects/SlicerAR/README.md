@@ -17,7 +17,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-1. 
+1.
 
 ## Progress and Next Steps
 
@@ -38,4 +38,3 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
-

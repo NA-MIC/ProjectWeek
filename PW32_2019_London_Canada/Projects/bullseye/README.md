@@ -3,8 +3,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Bullseye - Computer Vision for the glenoid implant in total shoulder arthroplasty
 
 ## Key Investigators
-- David M. Burns, MD, PhD(c) (Sunnybrook Research Institute) 
-- Samuel C.P. Newhook, BASc (Sunnybrook Research Institute) 
+- David M. Burns, MD, PhD(c) (Sunnybrook Research Institute)
+- Samuel C.P. Newhook, BASc (Sunnybrook Research Institute)
 - Cari Whyne, PhD (Sunnybrook Research Institute)
 
 # Project Description
@@ -17,14 +17,14 @@ Positioning of the glenoid component in total shoulder arthroplasty is a challen
 ## Approach and Plan
 
 1. Targeting the automation of intra-operative image processing steps. These are as follows:
-    1. Segmentation of tracker and glenoid from intra-operative optical image 
+    1. Segmentation of tracker and glenoid from intra-operative optical image
     2. Pre-alignment for optical tracker registration
-    3. Optical tracker registration (surface based) 
+    3. Optical tracker registration (surface based)
     4. Validation of tracker registration (visual / numeric)
     5. Pre-alignment for glenoid optical image to pre-operative mesh model
-    6. Glenoid registration (surface based) 
+    6. Glenoid registration (surface based)
     7. Validation of glenoid registration (visual / numeric)
-    8. Visualize prediction 
+    8. Visualize prediction
 2. Define data flow for each step (inputs and outputs)
 3. Create modules for each step or grouping of 2-3 steps
 4. Create a workflow module for linking steps (handle workflow logic)

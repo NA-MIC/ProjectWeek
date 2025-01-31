@@ -30,7 +30,7 @@ Update SlicerAstro to Slicer 5
  - The Astro sample data were hosted on the kitware server, which has been closed. Thijs has collected again the sample data, but we need to host them in github and update the links.
  - the slice view factory (to customize slice view widget, astronomical WCS coordinates, etc...) seems not working or the code has to be updated. Other methods from base classes changed and needs to be updated:
     - qMRMLSliceAstroControllerWidgetPrivate::init
- - SlicerAstro uses in many places the old box annotation node (AnnotationROI), we need to migrate it to the new box markups node. Many methods are broken ans several features will not work: 
+ - SlicerAstro uses in many places the old box annotation node (AnnotationROI), we need to migrate it to the new box markups node. Many methods are broken ans several features will not work:
    - qSlicerAstroVolumeModuleWidget::onCalculateRMS
    - all the methos in the analysis modules that uses the ROIbox to get the boundaries for the computations (statistics, masking, etc...)
  - PV Diagram and PV Slice tools hangs and then crashes. This is related to modifications to the markups infrastructure from Slicer4 to Slicer5.

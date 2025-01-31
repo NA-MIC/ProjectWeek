@@ -8,28 +8,28 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Idafen Santana (ULPGC)
 - Mario Monzón (ULPGC)
 - María Rosa Rodríguez (ULPGC)
-- Marie Ndiaye  y Sidi el Wafi 
-- Mamadou Samba Camara 
-- Adama Faye 
-- Idy Diop 
-- Mouahmed Diop 
-- Papa Alioune Cisse 
-- Youssou Faye 
-- Mame Diarra Sy 
-- Ahmed Dhahara Kane 
+- Marie Ndiaye  y Sidi el Wafi
+- Mamadou Samba Camara
+- Adama Faye
+- Idy Diop
+- Mouahmed Diop
+- Papa Alioune Cisse
+- Youssou Faye
+- Mame Diarra Sy
+- Ahmed Dhahara Kane
 - Attila Tanács (University of Szeged)
 - Attila Nagy (University of Szeged)
 
 # Project Description
 
-In order to meet the demand for professionals in the field of computer assisted medical imaging, manufacturing and interventions, universities need to set up courses that provide students with the necessary knowledge and skills. Designing a university course on this topic requires careful consideration of the syllabus and design materials that will be used. This project will explore how universities can create a syllabus and design material for a course on computer assisted medical imaging, manufacturing and interventions using open source technology. 
+In order to meet the demand for professionals in the field of computer assisted medical imaging, manufacturing and interventions, universities need to set up courses that provide students with the necessary knowledge and skills. Designing a university course on this topic requires careful consideration of the syllabus and design materials that will be used. This project will explore how universities can create a syllabus and design material for a course on computer assisted medical imaging, manufacturing and interventions using open source technology.
 
 ## Objective
 
-1. Define the topics that should be covered in the syllabus 
-1. Select learning resources and bibliography to support the course contents 
-1. Design materials to be used in the lessons based on open source technologies 
-1. Develop common contents to facilitate exchange of personnel and students from different countries 
+1. Define the topics that should be covered in the syllabus
+1. Select learning resources and bibliography to support the course contents
+1. Design materials to be used in the lessons based on open source technologies
+1. Develop common contents to facilitate exchange of personnel and students from different countries
 
 ## Approach and Plan
 
@@ -39,7 +39,7 @@ In order to meet the demand for professionals in the field of computer assisted 
 
 ## Progress and Next Steps
 
-We have designed the following syllabus proposal: 
+We have designed the following syllabus proposal:
 
 **Computer Assisted Medical Imaging and Interventions (60 hours – 6 ECTS)**
 
@@ -50,7 +50,7 @@ An introductory course that uses 3D Slicer to demonstrate all the necessary conc
   - Subjects 2 trough 9 use Slicer Notebooks on Jupyter Lab
   - Subject 10 develops an introductory application using Slicer
 
-- 20 hours (2 ECTS) to develop a practical use-case on 3D Slicer as a self-contained application. Projects offered: 
+- 20 hours (2 ECTS) to develop a practical use-case on 3D Slicer as a self-contained application. Projects offered:
   - Creating a Virtual Reality application in Slicer
   - Integration of a deep learning model to segment medical images
   - Developing a module for image guided therapy (IGT)
@@ -66,7 +66,7 @@ An introductory course that uses 3D Slicer to demonstrate all the necessary conc
       <li>Computed Tomography (CT)</li>
       <li>Magnetic Resonance Imaging (MRI)</li>
     </ol>
-    
+
 2.	Loading, storing & visualizing medical images
     <ol type="a">
       <li>File formats commonly used with images (general intro, not specific to medical imaging)</li>
@@ -77,7 +77,7 @@ An introductory course that uses 3D Slicer to demonstrate all the necessary conc
       <li>Surface vs volume rendering (general intro, not specific to medical imaging)</li>
       <li>Putting it all together with 3D Slicer</li>
     </ol>
-       
+
  3. Segmentation of medical images (2D and 3D)
     <ol type="a">
       <li>Computer-assisted manual segmentation</li>
@@ -85,7 +85,7 @@ An introductory course that uses 3D Slicer to demonstrate all the necessary conc
       <li>Contour and surface extraction from image segments</li>
       <li>Putting it all together with 3D Slicer</li>
     </ol>
-    
+
  4. Working with physical models in medical applications
     <ol type="a">
       <li>An introduction to 3D printing for medical applications</li>
@@ -93,7 +93,7 @@ An introductory course that uses 3D Slicer to demonstrate all the necessary conc
       <li>Commercial manikins for clinical training </li>
       <li>Virtualizing phantoms and manikins</li>
     </ol>
-    
+
  5. Building and rendering scenes with VR/AR in medical applications
     <ol type="a">
       <li>Importing virtual models of medical devices and clinical environments</li>
@@ -102,7 +102,7 @@ An introductory course that uses 3D Slicer to demonstrate all the necessary conc
       <li>An introduction to collaborative VR </li>
       <li>Putting it all together with 3D Slicer </li>
     </ol>
-    
+
  6. Registration of medical image data
     <ol type="a">
       <li>2D and 3D image registration</li>
@@ -128,7 +128,7 @@ An introductory course that uses 3D Slicer to demonstrate all the necessary conc
       <li>An introduction to inference with Pytorch and Monailabel</li>
       <li>Putting it all together with 3D Slicer </li>
     </ol>
-    
+
  9. An introduction to image guided therapy (IGT)
     <ol type="a">
       <li>Geometrical transforms</li>
@@ -136,7 +136,7 @@ An introductory course that uses 3D Slicer to demonstrate all the necessary conc
       <li>Intraoperative imaging</li>
       <li>Putting it all together with 3D Slicer and the Plus Toolkit: building navigation systems</li>
     </ol>
-    
+
 10. Building simple medical applications with 3D Slicer (IGT)
     <ol type="a">
       <li>An introduction to the SW architecture of 3D Slicer</li>
@@ -146,9 +146,9 @@ An introductory course that uses 3D Slicer to demonstrate all the necessary conc
       <li>Taking advantage of the available logic in 3D Slicer</li>
       <li>Putting it all together in a simple 3D Slicer application</li>
     </ol>
-    
+
 **Use cases (20 hours)**
-    
+
 The projects offered are based on the concepts studied in subjects 5, 8 and 9:
 
 1.	Creating a Virtual Reality application in Slicer (Subject 5):
@@ -160,12 +160,12 @@ The projects offered are based on the concepts studied in subjects 5, 8 and 9:
 
 2.	Segmentation of medical images using neural networks (Subject 8):
     <ol type="a">
-      <li>Develop a module in 3D Slicer to run the inference of a PyTorch model for the segmentation of medical images.</li>  
+      <li>Develop a module in 3D Slicer to run the inference of a PyTorch model for the segmentation of medical images.</li>
     </ol>
 
 3.	Developing a Python module for image guided therapy (IGT) (Subject 9):
     <ol type="a">
-        <li>The objective is to create a module in 3D Slicer to load navigation data and perform fiducial-based registration.</li>  
+        <li>The objective is to create a module in 3D Slicer to load navigation data and perform fiducial-based registration.</li>
      </ol>
 
 

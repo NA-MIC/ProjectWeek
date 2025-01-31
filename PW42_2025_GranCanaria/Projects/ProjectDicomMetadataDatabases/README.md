@@ -28,19 +28,19 @@ key_investigators:
 
 
 
-Medical imaging applications and systems which manage  large collections of DICOM images usually need some kind of database to allow for browsing and selecting images or image collections, to support curation and control of ML training tasks, batch analysis etc.  
+Medical imaging applications and systems which manage  large collections of DICOM images usually need some kind of database to allow for browsing and selecting images or image collections, to support curation and control of ML training tasks, batch analysis etc.
 Goal of the project is to investigate existing and new approaches to handle the metadata of large image collections for different purposes, create experimental setups, and report on results.
 
-- DICOM objects contains rich metadata  
-    
-- depending on the use case, record linkage to non-imaging data might be an additional requirement  
-    
-- extracted metadata can be represented in different JSON styles, stored in document databases like CouchDB, Apache OpenSearch etc..  
-    
-- there is a FHIR imaging study ([https://www.hl7.org/fhir/imagingstudy.html](https://www.hl7.org/fhir/imagingstudy.html)), FHIR data could be stored in FHIR stores, or regular SQL databases …  
-    
-- custom approaches, like the CTK DICOM database, or IDC's representation in BigQuery; one has also observed flattened FHIR in SQL databases, combined with object stores etc.  
-    
+- DICOM objects contains rich metadata
+
+- depending on the use case, record linkage to non-imaging data might be an additional requirement
+
+- extracted metadata can be represented in different JSON styles, stored in document databases like CouchDB, Apache OpenSearch etc..
+
+- there is a FHIR imaging study ([https://www.hl7.org/fhir/imagingstudy.html](https://www.hl7.org/fhir/imagingstudy.html)), FHIR data could be stored in FHIR stores, or regular SQL databases …
+
+- custom approaches, like the CTK DICOM database, or IDC's representation in BigQuery; one has also observed flattened FHIR in SQL databases, combined with object stores etc.
+
 - DICOM to JSON could be done according to the DICOM JSON model ([https://dicom.nema.org/medical/dicom/current/output/chtml/part18/chapter\_F.html](https://dicom.nema.org/medical/dicom/current/output/chtml/part18/chapter_F.html)) , e.g. using DCMTK, or custom approaches, but also generic metadata extractors like Apache Tika could be an option
 
 
@@ -61,8 +61,8 @@ Goal of the project is to investigate existing and new approaches to handle the 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. put DICOM JSON in JSON columns of sqlite or postgres, test jsonpath and similar  
-2. create FHIR imaging studies, put to FHIR endpoint or other databases  
+1. put DICOM JSON in JSON columns of sqlite or postgres, test jsonpath and similar
+2. create FHIR imaging studies, put to FHIR endpoint or other databases
 3. Connect with out-of-the-box visualization solutions for e.g. json documents
 
 
@@ -111,7 +111,7 @@ ORDER BY
 
 ```SQL
 -- Count number of series per modality
--- IDC BigQuery 
+-- IDC BigQuery
 SELECT
  Modality,
  COUNT(DISTINCT(SeriesInstanceUID)) AS num_series
@@ -124,16 +124,16 @@ ORDER BY
 ```
 
 ### Find all series which contain a LOCALIZER ImageType
- 
+
 ```SQL
 -- Find all series which contain a LOCALIZER ImageType
 -- SQLite JSON
 SELECT DISTINCT
- json_extract(jsonb_data, "$.0020000D.Value") 
+ json_extract(jsonb_data, "$.0020000D.Value")
 FROM
  dicom_files, json_each (json_extract(jsonb_data, "$.00080008.Value") )
  WHERE
-json_each.value IS 'LOCALIZER' 
+json_each.value IS 'LOCALIZER'
 ```
 
 
@@ -168,10 +168,10 @@ Ideas for future experiments:
 - replace numeric tag values with names, makes queries more readable but might also increase database size
 - compare performance and size with PostgreSQL
 - use alternative JSON structure from the proposed [DICOM Supplement 219](https://dicom.nema.org/medical/dicom/Supps/Frozen/sup219_fz_14_JSONSR.pdf) , [Presentation](https://dicom.nema.org/medical/dicom/Supps/Frozen/sup219_fz_JSONSR_TrialUse_Slides_20200116.pptx) . There is also a trial implementation by @dclunie which could be evaluated for this.
-- 
-- 
+-
+-
 
- 
+
 
 
 
@@ -223,37 +223,37 @@ for root,dirs,files in os.walk(crawl_directory):
     for file_name in files:
         dicom_file_path = os.path.join(root,file_name)
         json_data = ""
-        
+
         # check if file is already in the database
         cursor.execute("SELECT filename FROM dicom_files WHERE filename = ?", (dicom_file_path,))
         data=cursor.fetchone()
-        
+
         if data:
             continue
 
         try:
             ds = pydicom.dcmread(dicom_file_path)
             json_data = ds.to_json_dict(bulk_data_element_handler=bulk_data_handler)
-            
+
             # print(json_data)
 
         except pydicom.errors.InvalidDicomError:
             print("Skipped %s", dicom_file_path)
             continue
-                     
+
         cursor.execute('''
         INSERT INTO dicom_files (filename, jsonb_data )
         VALUES ( ? , jsonb( ? ) )
         ''', (dicom_file_path, json.dumps(json_data) ) )
-        
+
         conn.commit()
-                
+
         print(f"Inserted DICOM file: {dicom_file_path}")
-        
+
 conn.close()
 ```
 
-https://github.com/nolden/namic-pw24/ 
+https://github.com/nolden/namic-pw24/
 
 
 # Illustrations
@@ -277,16 +277,15 @@ _No response_
 
 
 
-- Opensearch dashboards  
-- [https://www.metabase.com/](https://www.metabase.com/)  
-- [https://superset.apache.org/](https://superset.apache.org/)  
-- [https://python.langchain.com/v0.1/docs/modules/model\_io/output\_parsers/types/json/](https://python.langchain.com/v0.1/docs/modules/model_io/output_parsers/types/json/)  
-- [https://echarts.apache.org/examples/en/index.html\#chart-type-line](https://echarts.apache.org/examples/en/index.html#chart-type-line)  
-- [https://projectweek.na-mic.org/PW41\_2024\_MIT/Projects/Dcm2Parquet/](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/Dcm2Parquet/)   
-- [\[2407.09064\] Multi-Modal Dataset Creation for Federated Learning with DICOM Structured Reports](https://arxiv.org/abs/2407.09064)   
-- [https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/dicom-data-transformation-mapping](https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/dicom-data-transformation-mapping)  
-- [https://github.com/pydicom/pydicom/issues/2187](https://github.com/pydicom/pydicom/issues/2187)  
-- Potential example queries for experiments: [https://docs.google.com/document/d/1qC5\_qUFBQ2HmEjfYQa9WaH1Y-erMlfis00bbU8UPnRs/edit?tab%3Dt.0%23heading%3Dh.ti11twc8h457\&sa=D](https://www.google.com/url?q=https://docs.google.com/document/d/1qC5_qUFBQ2HmEjfYQa9WaH1Y-erMlfis00bbU8UPnRs/edit?tab%3Dt.0%23heading%3Dh.ti11twc8h457&sa=D&source=docs&ust=1737743914441474&usg=AOvVaw0MsdEgNMafuMPSajRC6WNP)  
+- Opensearch dashboards
+- [https://www.metabase.com/](https://www.metabase.com/)
+- [https://superset.apache.org/](https://superset.apache.org/)
+- [https://python.langchain.com/v0.1/docs/modules/model\_io/output\_parsers/types/json/](https://python.langchain.com/v0.1/docs/modules/model_io/output_parsers/types/json/)
+- [https://echarts.apache.org/examples/en/index.html\#chart-type-line](https://echarts.apache.org/examples/en/index.html#chart-type-line)
+- [https://projectweek.na-mic.org/PW41\_2024\_MIT/Projects/Dcm2Parquet/](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/Dcm2Parquet/)
+- [\[2407.09064\] Multi-Modal Dataset Creation for Federated Learning with DICOM Structured Reports](https://arxiv.org/abs/2407.09064)
+- [https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/dicom-data-transformation-mapping](https://learn.microsoft.com/en-us/industry/healthcare/healthcare-data-solutions/dicom-data-transformation-mapping)
+- [https://github.com/pydicom/pydicom/issues/2187](https://github.com/pydicom/pydicom/issues/2187)
+- Potential example queries for experiments: [https://docs.google.com/document/d/1qC5\_qUFBQ2HmEjfYQa9WaH1Y-erMlfis00bbU8UPnRs/edit?tab%3Dt.0%23heading%3Dh.ti11twc8h457\&sa=D](https://www.google.com/url?q=https://docs.google.com/document/d/1qC5_qUFBQ2HmEjfYQa9WaH1Y-erMlfis00bbU8UPnRs/edit?tab%3Dt.0%23heading%3Dh.ti11twc8h457&sa=D&source=docs&ust=1737743914441474&usg=AOvVaw0MsdEgNMafuMPSajRC6WNP)
 - [https://learn.canceridc.dev/cookbook/bigquery](https://learn.canceridc.dev/cookbook/bigquery)
 - [https://github.com/bebbi/dcm-organize](https://github.com/bebbi/dcm-organize)
-

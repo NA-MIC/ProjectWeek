@@ -73,7 +73,7 @@ We will be working on integrating new icons, QSS support, and better dynamic the
     - Created standalone example in [test extension](https://github.com/sjh26/SlicerIconSwitch)
     - Created [branch](https://github.com/Slicer/Slicer/tree/icon-switching) for Slicer with WIP implementations for bundling external resources
     - Setup external resources for loadable modules and libraries
-  
+
 3. Next steps
     - Work on swapping bundled resources for Python (or an icon picker approach in code)
     - Work on bugs with existing implementation (timing of loading resources for loadable modules, using SVGs as mouse cursors, Transform icon is being stubborn)
@@ -95,7 +95,7 @@ We will be working on integrating new icons, QSS support, and better dynamic the
 ![DarkToolBar](https://github.com/NA-MIC/ProjectWeek/assets/25040869/ea3b494a-d07e-40ca-a47c-ad4139380551)
 
 
-### Slicer Light: 
+### Slicer Light:
 ![SlicerLightUpdated](https://github.com/NA-MIC/ProjectWeek/assets/25040869/a13bea8b-5e7a-4da0-af67-02849cbe810e)
 
 ![LightToolBar](https://github.com/NA-MIC/ProjectWeek/assets/25040869/fe36d249-a489-4a45-bfbf-5bd21c1183c2)
@@ -109,4 +109,3 @@ We will be working on integrating new icons, QSS support, and better dynamic the
 - [Asset repo](https://github.com/Slicer/slicer-media-assets)
 - [Testing extension](https://github.com/sjh26/SlicerIconSwitch)
 - [WIP Slicer branch](https://github.com/Slicer/Slicer/tree/icon-switching)
-

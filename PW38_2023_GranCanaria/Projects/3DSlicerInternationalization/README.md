@@ -4,8 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Sonia Pujol, (Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA) 
-- Steve Pieper (Isomics Inc., Cambridge, MA, USA) 
+- Sonia Pujol, (Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA)
+- Steve Pieper (Isomics Inc., Cambridge, MA, USA)
 - Andras Lasso (Queen's University, Kingston, Canada)
 - Mamadou Camara (Cheikh Anta Diop University, Dakar, Senegal)
 - Mouhamed DIOP (Cheikh Anta Diop University, Dakar, Senegal)
@@ -20,14 +20,14 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-The goal of the project is to facilitate access to 3D Slicer in non-English speaking countries and foster global community engagement. 
-The project is funded through two Essential Open Source Software for Science awards of the Chan Zuckerberg Initiative. 
+The goal of the project is to facilitate access to 3D Slicer in non-English speaking countries and foster global community engagement.
+The project is funded through two Essential Open Source Software for Science awards of the Chan Zuckerberg Initiative.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. To identify members of the global Slicer community interested in new Slicer activities in their language 
+1. To identify members of the global Slicer community interested in new Slicer activities in their language
 2. To run daily translation hackathons in the languages represented at PW38
 3. To implement an infrastructure for the internationalization of CTK-based code in 3D Slicer
 4. To automate Qt download in Slicer Language Packs Extension
@@ -37,13 +37,13 @@ The project is funded through two Essential Open Source Software for Science awa
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
  Daily Slicer internationalization session from 10 am to 11 am EST with members of the Slicer community
- 
- Anyone is welcome to join the session that will be held online: 
- 
+
+ Anyone is welcome to join the session that will be held online:
+
  * **Tuesday, Jan.31**: https://meet.google.com/umd-avcb-xom
  * **Wednesday, Feb.1st**: same Zoom link as for the preparation meetings and breakout sessions
  * **Thursday, Feb. 2nd**: same Zoom link as for the preparation meetings and breakout sessions
- 
+
  New international members, please fill in the [PW38 Slicer internationalization form](https://forms.gle/iinkdKvN4ZG2vv2o6) prior to joining the session.
 
 ## Progress and Next Steps

@@ -15,42 +15,42 @@ Automatic Quantification 3D Components
 The Automatic Quantification 3D Components(AQ3DC) was developed during Namic-project 37 is now available in Slicer Q3DC extension.
 
 The Automatic Quantification 3D Components(AQ3DC) aims to provide a user-friendly automated tool that decrease user time for extraction of quantitative
-image analysis features. 
+image analysis features.
 AQ3DC is a Slicer extension to automatically compute lists of measurements seleted by users for a single case or a whole
-study sample, at one or more time points. 
-The current implementation is aimed at automatic computation of 3D components like distances (AP, RL and SI) 
-between points, points to line, midpoint between two points or angles (Pitch, Roll and Yaw), interpretation of directionality,which can be further extended to any type of desired computation/quantitative image analysis. The design of the user interface is currently aimed at quantification of craniofacial dental,  skeletal and soft tissue structures. 
+study sample, at one or more time points.
+The current implementation is aimed at automatic computation of 3D components like distances (AP, RL and SI)
+between points, points to line, midpoint between two points or angles (Pitch, Roll and Yaw), interpretation of directionality,which can be further extended to any type of desired computation/quantitative image analysis. The design of the user interface is currently aimed at quantification of craniofacial dental,  skeletal and soft tissue structures.
 
-This project to to get input regarding : 
-1. refactoring of the code to maintainable and more robust 
+This project to to get input regarding :
+1. refactoring of the code to maintainable and more robust
 2. discuss updates that solve AQ3DC's issues
 3. verify remaining duplicates and hard coded components
-4. add tests to the module 
+4. add tests to the module
 5. add user documentation.
 
 
 
 - Project link : https://github.com/DCBIA-OrthoLab/Q3DCExtension
-- Refactoring link : https://github.com/HUTIN1/Q3DCExtension 
+- Refactoring link : https://github.com/HUTIN1/Q3DCExtension
 
 
 
 ## Objectives
 
 - A. Receive guidance on whether the new types help encapsulate certain components in the code.
-- B. Receive guidance on how to correct overload of the Python protocols for Group_landmark, MyList, and MyDict. 
-- C. Receive input regarding how to improve other utilities like Line, Measure, Point, etc. 
+- B. Receive guidance on how to correct overload of the Python protocols for Group_landmark, MyList, and MyDict.
+- C. Receive input regarding how to improve other utilities like Line, Measure, Point, etc.
 - D.  Clarify new functionalites added to resolve issues or improve flexibility:
   - Added Midpoints meaning (interpretation of direction);
-  - Added choice of complamteray angel  greater than 90 degress 
+  - Added choice of complamteray angel  greater than 90 degress
   - Added new functionality that allows users to upload landmark legends as excel files. This modifies the currently deployed AQ3DC code that displays only specific craniofacial dental,  skeletal and soft tissue structure landmarks that were hard coded, and any different landmarks would appear as "other" landmarks.
-  - Added report error to detect where in the computation or lanmdmark list files an error  occured. This help users to identify if  for nay patient or landmark  their files have typos or missing data. 
+  - Added report error to detect where in the computation or lanmdmark list files an error  occured. This help users to identify if  for nay patient or landmark  their files have typos or missing data.
 - E. Update Readme in Github  DCBIA/Orhtolab
 - F. Create documentation on SlicerCMF ( https://cmf.slicer.org/)
 
 ## Approach and Plan
 
-1. Completed Users beta test of AQ3DC's refactoring 
+1. Completed Users beta test of AQ3DC's refactoring
 2. Review code's robustness and clarity
 3. Pull requests the code.
 4. Update SlicerCMF workflow to document and integrate with AQ3DC.
@@ -67,10 +67,10 @@ This project to to get input regarding :
 
 1. Add class test
 1. Make the new types help encapsulate certain components in the code.
-2. Correct overload of the Python protocols for Group_landmark, MyList, and MyDict. 
+2. Correct overload of the Python protocols for Group_landmark, MyList, and MyDict.
 3. Improve other utilities like Line, Measure, Point, etc. Update SlicerCMF workflow to document and integrate with AQ3DC.
 4. Verify remaining duplicates and hard coded components
-5- Add tests to the module 
+5- Add tests to the module
 6- Add user documentation.
 7. Update README
 8- Pull request

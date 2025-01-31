@@ -4,7 +4,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators
 
-- Davide Punzo (Freelancer, France) 
+- Davide Punzo (Freelancer, France)
 - Andras Lasso (Perk Labs, Canada)
 - Gabriel Kwiecinski Antunes (WebKriativa, Brazil)
 - Ralf Floca (German Cancer Research Center, Germany; remote)
@@ -19,7 +19,7 @@ Implement a visual DICOM browser with thumbnails and query/retrieve/store capabi
 Have a simple user-friendly interface to query/retrieve/store from a DICOM server.
 The user interface would render series thumbnails so the users can easily navigate the DICOM database
 (see illustrations for a first UI Design prototype).
-Moreover, perfomance needs to be boosted as much as possible: 
+Moreover, perfomance needs to be boosted as much as possible:
 
 1) fetch metadata only when strictly required (e.g. get series metadata only when the user clicks and opens a study item of the list)
 
@@ -43,8 +43,8 @@ Moreover, perfomance needs to be boosted as much as possible:
      - UI: display list of studies per patient with thumbnails. Show server and local content together (server content will have a small cloud icon)
        - for avoing any bottleneck, we will optimize the fecthing of metadata and data by downloading only when strictly required
          - we will get only few attributes at study level (StudyID, Study Description, Patient Birth Date and Patient Sex) when querying with a Patient Name or MRN
-         - once a Patient is selected, and the user has the list of the studies 
-         - for each study item, we will download only few attributes from the series metadata and instances that we need for the thumbnails (Series Descriptin, Modality, Rows, Columns, and the "middle" instance Data fro the thumbnail rendering) 
+         - once a Patient is selected, and the user has the list of the studies
+         - for each study item, we will download only few attributes from the series metadata and instances that we need for the thumbnails (Series Descriptin, Modality, Rows, Columns, and the "middle" instance Data fro the thumbnail rendering)
      - improvement of the networking API:
         - methods to retrieve instances metadata and DICOM files
         - allow to query study and series metadata separately
@@ -55,9 +55,9 @@ Moreover, perfomance needs to be boosted as much as possible:
    - NOTE K: the logic to define which is the instance to use for rendering the series thumbnail is still unclear. In the prototype we are sorting the instances using the frame number and using the "middle" one. However this is not reliable. We asked David Clunie and the only way it is to compute the order from the Image Position Patient and Orientation and for 4D datasets we need to use also the time informations.
 
 3) Progress:
-  - I have started adding the missing features in CTK: querying/retrieving at instances level, separating the query of attributes at the level of studies and series. 
+  - I have started adding the missing features in CTK: querying/retrieving at instances level, separating the query of attributes at the level of studies and series.
   - Next stesps are:
-    - redo the UI designed in Python for the prototype in C++ (CTK) 
+    - redo the UI designed in Python for the prototype in C++ (CTK)
     - implement the async/parallel priority pool manager for query/retrieve/store from/to localDICOMDatabase and server
     - stream the the data from the localDICOMDatabase to 3DSlicer into volumeNodes
 

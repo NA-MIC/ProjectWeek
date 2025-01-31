@@ -13,12 +13,12 @@
             Francisco J. Marcano Serrano (fmarcano@ull.edu.es)
             David Diaz Martin (ddiazmar@ull.edu.es)
         NA-MIC 2020, January 20-24th - Las Palmas de Gra Canaria - Spain
-  
+
      1. GetRandomMatrix was modified to receive position parameters phi & theta
      2. OUR_INPUT_FIFO_NAME was defined with the name of the FIFO device used for collecting data from the microcontroller
      3. makeFIFO, openFIFO, closeFIFO and readFIFO functions, added.
-     4. Machine state implemented in readFIFO to handle read data properly 
-     5. Two more parameters for program invocation. 
+     4. Machine state implemented in readFIFO to handle read data properly
+     5. Two more parameters for program invocation.
 =========================================================================*/
 
 #include <iostream>
@@ -106,7 +106,7 @@ float readFIFO(float *phi, float*theta){
             c = rx_buffer[0];
 	    // sscanf((const char *)rx_buffer,"%f,%f",phi,theta);
             // printf("FIFO read : %f , %f\n", *phi, *theta);
-	   
+
 	    switch(STATE_READ){
 	    case WAIT_FOR_HEADER_HIGH :
 		if(c == 0xFF){
@@ -135,18 +135,18 @@ float readFIFO(float *phi, float*theta){
 		}
 		break;
 	    case WAIT_FOR_PHI:
-		*phi = (3.0/255.0) * (float)c; 
+		*phi = (3.0/255.0) * (float)c;
 		STATE_READ = WAIT_FOR_THETA;
 		break;
 	    case WAIT_FOR_THETA:
-		*theta = (3.0/255.0) * (float)c; 
+		*theta = (3.0/255.0) * (float)c;
 		SEND_TO_CLIENT = 1;
 		STATE_READ = WAIT_FOR_HEADER_HIGH;
             	printf("%f , %f;  ",*phi,*theta);
 		break;
 	    default:
 		break;
-            } 
+            }
 
 	    return(0);
         }
@@ -200,7 +200,7 @@ int main(int argc, char* argv[])
     }
 
   igtl::Socket::Pointer socket;
-  makeFIFO();	
+  makeFIFO();
   openFIFO();
   STATE_READ = WAIT_FOR_HEADER_HIGH;
   while (1)
@@ -209,7 +209,7 @@ int main(int argc, char* argv[])
     //------------------------------------------------------------
     // Waiting for Connection
     socket = serverSocket->WaitForConnection(1000);
-    
+
     if (socket.IsNotNull()) // if client connected
     {
 	for (int i = 0; i<slotSize*rps ; i++){
@@ -224,15 +224,15 @@ int main(int argc, char* argv[])
         		socket->Send(transMsg->GetPackPointer(), transMsg->GetPackSize());
         		igtl::Sleep(interval); // wait
         		// igtl::Sleep(1); // wait
-			SEND_TO_CLIENT = 0; 
+			SEND_TO_CLIENT = 0;
 		}
 
 	}
     }
-   } 
+   }
   //------------------------------------------------------------
   // Close connection (The example code never reachs to this section ...)
-  
+
   socket->CloseSocket();
 
 }
@@ -260,7 +260,6 @@ void GetRandomTestMatrix(igtl::Matrix4x4& matrix,float *phi, float *theta)
   matrix[0][3] = position[0];
   matrix[1][3] = position[1];
   matrix[2][3] = position[2];
-  
+
   igtl::PrintMatrix(matrix);
 }
-

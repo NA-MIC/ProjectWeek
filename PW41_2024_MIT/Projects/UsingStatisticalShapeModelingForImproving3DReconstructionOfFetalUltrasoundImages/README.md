@@ -32,7 +32,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-We are initiating a multi-center (led by Dr. Emet Schneiderman) study to understand the impact of maternal obstructive sleep apnea (OSA) and different treatment plans (i.e., mouth appliances) on both pregnant women and fetuses, including fetal craniofacial dysmorphology and growth issues. A large sample size of ultrasound images will be collected. However, the fetuses may have different poses and partial face covered, and the ultrasonographic images have lots of noise. We are interested in using statistical modeling to refine 3D segmentation to diagnose fetal orofacial dysmorphology, reconstruct 3D growth trajectories, explore epigenetic effects of facial growth problems and dysmorphology, predict newborn facial shapes, etc. 
+We are initiating a multi-center (led by Dr. Emet Schneiderman) study to understand the impact of maternal obstructive sleep apnea (OSA) and different treatment plans (i.e., mouth appliances) on both pregnant women and fetuses, including fetal craniofacial dysmorphology and growth issues. A large sample size of ultrasound images will be collected. However, the fetuses may have different poses and partial face covered, and the ultrasonographic images have lots of noise. We are interested in using statistical modeling to refine 3D segmentation to diagnose fetal orofacial dysmorphology, reconstruct 3D growth trajectories, explore epigenetic effects of facial growth problems and dysmorphology, predict newborn facial shapes, etc.
 
 
 
@@ -90,5 +90,3 @@ _No response_
 The most recent study is [Alomar et al. 2022]https://www.sciencedirect.com/science/article/pii/S0169260722002759 using new born babies to build a statistical model for US refinement.
 
 <img width="400" alt="image" src="https://github.com/NA-MIC/ProjectWeek/assets/80793828/9a6e617c-23cc-4a9e-a59a-315cdb770796">
-
-

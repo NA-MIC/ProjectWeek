@@ -47,7 +47,7 @@ These are notes from PW#27 Preparation Hangouts held weekly on Tuesdays at 10am 
 
 * Main topic: Gran Canaria Team projects
 * Administrivia: should we use this to help people copy the template page to make their own project page? https://www.mediawiki.org/wiki/Extension:Duplicator
-* Discourse sub community? 
+* Discourse sub community?
   * Subscribe, see the welcome page below. google, github, Facebook are all supported authentication options so people can one-click use their existing accounts if they want:
   * https://discourse.slicer.org/t/welcome-to-the-3d-slicer-forum/8
   * After logging in, visit: https://discourse.slicer.org/c/community/project-week, and click the “Watching” button to enable notifications:

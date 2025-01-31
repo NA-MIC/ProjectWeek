@@ -20,7 +20,7 @@ key_investigators:
 - name: Umang Pandey
   affiliation: Universidad Carlos III de Madrid
   country: Spain
-      
+
 - name: Philipp Schader
   affiliation: DKFZ
   country: Germany
@@ -41,9 +41,9 @@ key_investigators:
 Despite various existing solutions for DICOM Medical Database, (e.g. Kaapana, XNAT server, ...) these systems lack capablities to accompany the imaging data with medical records.
 However, (to the best of our limited knowledge) there exist very few open sources solutions that can store multimodal data (DICOM, Electronic Health Records, REDCAP questionnaires & FHIR) for clinical research.
 
-FHIR represents a globally recognized standard for the interoperable exchange and integration of medical information. Adopting FHIR in medical image analysis enables more in-depth analysis by combining clinical information with imaging data. Moreover, it facilitates the representation of analysis results in a standardized format. 
+FHIR represents a globally recognized standard for the interoperable exchange and integration of medical information. Adopting FHIR in medical image analysis enables more in-depth analysis by combining clinical information with imaging data. Moreover, it facilitates the representation of analysis results in a standardized format.
 
-Initial steps towards adopting FHIR within medical image analysis platforms have been taken during the [38th Project week](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/KaapanaClinicalData/). 
+Initial steps towards adopting FHIR within medical image analysis platforms have been taken during the [38th Project week](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/KaapanaClinicalData/).
 
 However, aspects like the general mapping of tabular data into FHIR resources remains challenging which should be addressed in this project as well as the joint visualization of results from computational image analysis together with clinical data from the patients.
 
@@ -92,11 +92,11 @@ This project aims to develop an open-source and ideally community-maintained sol
    * [Fair4Health Data curation tool](https://github.com/fair4health/data-curation-tool): Works good for producing large scale mappings of tabular data into FHIR resources, but strongly dependant on terminology server. For our simple use case of providing researches with a fast tool to map multimodal data into FHIR resources it appears to be too complex.
    * Creation of a simple webapp for loading CSV files and mapping the data into Patient & Observation FHIR resources.
 5.   Mapping of the DICOM resources into FHIR objects
-       * Creating a python script to fetch DICOM object from DICOM web API of the local ORTHANC server 
+       * Creating a python script to fetch DICOM object from DICOM web API of the local ORTHANC server
        * Map the DICOM metadata of the studies to FHIR ImagingStudy resources using [FHIR resources python library](https://pypi.org/project/fhir.resources/)
 6. Create radiomics results from the segmentations of the dataset using Kaapana and the radiomics workflow and map those individual values into FHIR Observation resources
 
-Next steps: 
+Next steps:
 1. Upload the FHIR data onto a FHIR server
 2. Visualization of the dataset
 3. Integration into Kaapana

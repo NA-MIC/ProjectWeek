@@ -59,4 +59,3 @@ We are working on a Slicer extension for automated segmentation of individual te
      If possible, also add links to sample data, and to any relevant publications. -->
 
 [GitHub Repository](https://github.com/KitwareMedical/SlicerCBCTToothSegmentation)
-

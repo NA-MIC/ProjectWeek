@@ -18,7 +18,7 @@ project_categories:
 
 # Welcome to the web page for the 41st Project Week!
 
-[This event](https://projectweek.na-mic.org/PW41_2024_Boston/README.html) took place June 24th - June 28th, 2024 at MIT, Cambridge, MA. Project Week 41 was a hybrid event with a strong in-person component. 
+[This event](https://projectweek.na-mic.org/PW41_2024_Boston/README.html) took place June 24th - June 28th, 2024 at MIT, Cambridge, MA. Project Week 41 was a hybrid event with a strong in-person component.
 
 ## Location
 

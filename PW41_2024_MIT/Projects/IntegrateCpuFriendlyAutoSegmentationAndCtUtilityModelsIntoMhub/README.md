@@ -59,18 +59,18 @@ This project will aim to integrate two categories of models into [mhub.ai](mhub.
 **CPU-friendly auto-seg**
 Several auto-segmentation models have been integrated into slicer recently through [https://github.com/lassoan/SlicerMONAIAuto3DSeg/releases/tag/ModelsTestResults](https://github.com/lassoan/SlicerMONAIAuto3DSeg/releases/tag/ModelsTestResults)
 
-While the quick version of these models run fast on CPU, the slower versions take a couple of mins. It would be interesting to explore if CPU related optimizations would work to increase the speed and reduce memory of the full resolution versions while making the quick versions even faster. 
+While the quick version of these models run fast on CPU, the slower versions take a couple of mins. It would be interesting to explore if CPU related optimizations would work to increase the speed and reduce memory of the full resolution versions while making the quick versions even faster.
 
 Some initial thoughts on optimization techniques could include,
-1. Converting models to OpenVINO format for optimized inference on CPU ([https://docs.openvino.ai/2024/home.html](https://docs.openvino.ai/2024/home.html), [https://docs.openvino.ai/2024/omz_demos_3d_segmentation_demo_python.html](https://docs.openvino.ai/2024/omz_demos_3d_segmentation_demo_python.html)). This could provide faster inference and make models more lightweight offering a better user experience as well. 
+1. Converting models to OpenVINO format for optimized inference on CPU ([https://docs.openvino.ai/2024/home.html](https://docs.openvino.ai/2024/home.html), [https://docs.openvino.ai/2024/omz_demos_3d_segmentation_demo_python.html](https://docs.openvino.ai/2024/omz_demos_3d_segmentation_demo_python.html)). This could provide faster inference and make models more lightweight offering a better user experience as well.
 
-2. For a majority of these auto-seg models, sliding window inferer implementation results in major differences in memory (with higher batch-size) and inference time (with larger overlap ratios). Is there an optimal configuration to save memory and increase speed? 
+2. For a majority of these auto-seg models, sliding window inferer implementation results in major differences in memory (with higher batch-size) and inference time (with larger overlap ratios). Is there an optimal configuration to save memory and increase speed?
 3. Another ticket item is that the the memory consumption largely increases when predicting more output classes in the softmax, is there a way to efficienlty address this issue as well. Perhaps a more restrictive implementation of the sliding window inferer with a accuracy-efficiency trade-off?
 4. Distilling models to smaller ones that run faster (might be something that takes longer than PW): [https://github.com/VaticanCameos99/knowledge-distillation-for-unet](https://github.com/VaticanCameos99/knowledge-distillation-for-unet)
 
 
 **CT utility models**
-Implementing CT image inspection utility models, namely, body part regression - [https://github.com/MIC-DKFZ/BodyPartRegression](https://github.com/MIC-DKFZ/BodyPartRegression). This model allows determining the body part examined and if there are anomalies in certain slices in the processed image (nifti). 
+Implementing CT image inspection utility models, namely, body part regression - [https://github.com/MIC-DKFZ/BodyPartRegression](https://github.com/MIC-DKFZ/BodyPartRegression). This model allows determining the body part examined and if there are anomalies in certain slices in the processed image (nifti).
 
 
 Integrating this into Mhub would allow users to perform this QA by providing DICOM inputs directly
@@ -94,7 +94,7 @@ Tested the abdominal-organs-v2.0.0 segmentation as the reported times on CPU wer
 #### OpenVINO compiled model (most significant gain) + Reducing overlap ratio:
 <img width="1624" alt="Screenshot 2024-06-27 at 18 54 49" src="https://github.com/NA-MIC/ProjectWeek/assets/10467804/e2eed2fd-c216-481d-bb57-05152cd11288">
 
-PS: OpenVINO models are FP16 compressed and are half the size. 
+PS: OpenVINO models are FP16 compressed and are half the size.
 
 ### Body part regression
 ![BPREG](https://github.com/NA-MIC/ProjectWeek/assets/10467804/11ec7e93-c747-46e3-a86e-049aba5c82d3)
@@ -103,8 +103,8 @@ PS: OpenVINO models are FP16 compressed and are half the size.
 ### Next Steps
 
 - Current conversion to OpenVINO is manually done for the abdominal model. This can be automated across models in a script and pushed to Github for download.
-- CPU benchmarked on is AMD, benchmark on Intel and ARM. 
-- Implement Mhub models for CPU friendly autoseg. and interface with Andras' SlicerMONIAAutoSeg3D extension (work on some slicer extension specifics). 
+- CPU benchmarked on is AMD, benchmark on Intel and ARM.
+- Implement Mhub models for CPU friendly autoseg. and interface with Andras' SlicerMONIAAutoSeg3D extension (work on some slicer extension specifics).
 - Complete conribution workflow for Bpreg - model is ready to go!
 
 # Illustrations
@@ -130,4 +130,3 @@ BPREG:
 2. [https://docs.openvino.ai/2024/home.html](https://docs.openvino.ai/2024/home.html)
 3. [https://github.com/MIC-DKFZ/BodyPartRegression](https://github.com/MIC-DKFZ/BodyPartRegression)
 4. [https://mhub.ai](https://mhub.ai)
-

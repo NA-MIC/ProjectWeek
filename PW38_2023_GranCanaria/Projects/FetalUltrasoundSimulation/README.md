@@ -25,7 +25,7 @@ Identifying the fetal position is specially important during forceps-assisted de
 ## Project Description
 The goal of this project is to generate fake ultrasound images that can be used during medical training. These images should be as realistic as possible to enable trainees to correctly identify the fetus position in the simulated ultrasound images.
 
-PLUS Toolkit already offers a [tool](http://perk-software.cs.queensu.ca/plus/doc/nightly/user/DeviceUsSimulator.html) to generate fake ultrasound images based on 3D models. However, a general problem is that one needs to provide acoustic properties of each 3D model/tissue for the ultrasound image generation. 
+PLUS Toolkit already offers a [tool](http://perk-software.cs.queensu.ca/plus/doc/nightly/user/DeviceUsSimulator.html) to generate fake ultrasound images based on 3D models. However, a general problem is that one needs to provide acoustic properties of each 3D model/tissue for the ultrasound image generation.
 
 ## Objective
 1. Test ultrasound simulation tool offered by PLUS Toolkit and visualize simulated images and models in 3D Slicer.
@@ -36,7 +36,7 @@ PLUS Toolkit already offers a [tool](http://perk-software.cs.queensu.ca/plus/doc
 ## Approach and Plan
 Development of tool to assign tissue acoustic properties:
 1. Use the Total Segmentator to create the 3D models with assigned organ definition based on CT data.
-2. Create and define a lookup table (LUT) that assigns the accoustic properties to each organ label. 
+2. Create and define a lookup table (LUT) that assigns the accoustic properties to each organ label.
 3. Develop a tool or module that generates the config file based on the models and the LUT.
 
 ## Progress and Next Steps
@@ -65,6 +65,6 @@ Still, a major subject for future research remains: Usage of tissue segmentation
 
 - Training system for forceps-assisted delivery developed in 3D Slicer by Universidad Carlos III de Madrid: [VIDEO](https://www.youtube.com/watch?v=EEasWbH1jZI)
 
-- García-Sevilla, M. et al. (2018). Performance Evaluation to Improve Training in Forceps-Assisted Delivery. In: , et al. OR 2.0 Context-Aware Operating Theaters, Computer Assisted Robotic Endoscopy, Clinical Image-Based Procedures, and Skin Image Analysis. CARE CLIP OR 2.0 ISIC 2018 2018 2018 2018. Lecture Notes in Computer Science(), vol 11041. Springer, Cham. https://doi.org/10.1007/978-3-030-01201-4_9- 
+- García-Sevilla, M. et al. (2018). Performance Evaluation to Improve Training in Forceps-Assisted Delivery. In: , et al. OR 2.0 Context-Aware Operating Theaters, Computer Assisted Robotic Endoscopy, Clinical Image-Based Procedures, and Skin Image Analysis. CARE CLIP OR 2.0 ISIC 2018 2018 2018 2018. Lecture Notes in Computer Science(), vol 11041. Springer, Cham. https://doi.org/10.1007/978-3-030-01201-4_9-
 
 - Sherer, D.M., Miodovnik, M., Bradley, K.S. and Langer, O. (2002), Intrapartum fetal head position II: comparison between transvaginal digital examination and transabdominal ultrasound assessment during the second stage of labor. Ultrasound Obstet Gynecol, 19: 264-268. https://doi.org/10.1046/j.1469-0705.2002.00656.x

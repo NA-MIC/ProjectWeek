@@ -31,9 +31,9 @@ key_investigators:
 
 # Project Description
 
-SlicerROS2 is an extension that enables direct communication between the Robot Operating System 2 (ROS2) and 3D Slicer. The ROS is a set of software libraries and tools for building robot applications. ROS2 has been developed and distrubted using an open-source model and widely used in the robotics community. The goal of SlicerROS2 is to facilitate the integration of 3D Slicer and ROS to build systems for image-guided robot-assisted intervention. 
+SlicerROS2 is an extension that enables direct communication between the Robot Operating System 2 (ROS2) and 3D Slicer. The ROS is a set of software libraries and tools for building robot applications. ROS2 has been developed and distrubted using an open-source model and widely used in the robotics community. The goal of SlicerROS2 is to facilitate the integration of 3D Slicer and ROS to build systems for image-guided robot-assisted intervention.
 
-SlicerROS2 provides UI and API to communicate with other ROS nodes through Data Distribution Service (DDS), the publish-subscribe data transport middleware used in ROS2, allowing 3D Slicer to sychnonize its scen graph (MRML) with ROS's [tf](https://wiki.ros.org/tf2). It also has an interface to load a visual model of the robot onto the Slicer scene from robot description data in the URDF format published on the ROS system. 
+SlicerROS2 provides UI and API to communicate with other ROS nodes through Data Distribution Service (DDS), the publish-subscribe data transport middleware used in ROS2, allowing 3D Slicer to sychnonize its scen graph (MRML) with ROS's [tf](https://wiki.ros.org/tf2). It also has an interface to load a visual model of the robot onto the Slicer scene from robot description data in the URDF format published on the ROS system.
 
 ## Objective
 
@@ -77,7 +77,7 @@ Questions discuss during the week:
       1. Added method to list all existing publishers and subscribers
       1. When user tries to create a publisher or subscriber with invalid name, display list of option (good for typos)
       1. Publishers and subscribers now have method `GetBlankMessage` so it's easier to create a payload in Python
-      1. Create a self-contained ROS2 package for US simulator in Gazebo that builds a minimal version of PlusLib/IGSIO/vtkAddon that contains launch models and launch files to teleoperate a UR-5 mounted with a US probe. 
+      1. Create a self-contained ROS2 package for US simulator in Gazebo that builds a minimal version of PlusLib/IGSIO/vtkAddon that contains launch models and launch files to teleoperate a UR-5 mounted with a US probe.
 1. Discussions
    1. Possible feature requests for Slicer
       1. Saved history in Python interpreter (like iPython)
@@ -90,7 +90,7 @@ Questions discuss during the week:
 1. Next steps
    1. Investigate simple options to make source based distribution easier: provide Slicer and Slicer-SuperBuild, document how to compile and add extensions
    1. For any binary distribution, how hard would it be to compile all ROS2 dependencies from source for "super-building" or "piping" them
-      
+
 # Illustrations
 
 Here we can see the robot model loaded with SlicerROS2 into the Slicer Scene.
@@ -111,4 +111,3 @@ _No response_
 
 
 _No response_
-

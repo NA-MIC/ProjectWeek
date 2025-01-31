@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-The goal of this project is to create and evaluate variants of a CNN for multi-label segmentation of prostate zones in MR images. The prostate zones are essential for lesion classification and therapy planning. 
+The goal of this project is to create and evaluate variants of a CNN for multi-label segmentation of prostate zones in MR images. The prostate zones are essential for lesion classification and therapy planning.
 After successful segmentation, a sector map could be extracted that is used for PI-RADS reporting. This has the potential to automate and better standardize prostate lesion location reporting.
 
 ## Objective
@@ -48,4 +48,3 @@ After successful segmentation, a sector map could be extracted that is used for 
 - Source code: https://github.com/YourUser/YourRepository
 - Documentation: https://link.to.docs
 - Test data: https://link.to.test.data
-

@@ -39,7 +39,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-Terminologies module are meant to give a structure around using pre-determined set of anatomical and developmental terms for segmentation tasks. This is meant to avoid potential typos for people not familiar with anatomical terminology (e.g., humerus vs humorous, sagittal vs saggital) and give a consistent look and feel (e.g., assign consistent colors to a segmentation across multiple datasets). 
+Terminologies module are meant to give a structure around using pre-determined set of anatomical and developmental terms for segmentation tasks. This is meant to avoid potential typos for people not familiar with anatomical terminology (e.g., humerus vs humorous, sagittal vs saggital) and give a consistent look and feel (e.g., assign consistent colors to a segmentation across multiple datasets).
 
 But the existing structure is too rigid, and often is missing terms. We need a flexible structure for people to create and use their own terms when the existing terminiologies are insufficient
 
@@ -52,7 +52,7 @@ But the existing structure is too rigid, and often is missing terms. We need a f
 
 1. To resolve this we have created an [issue page](https://github.com/Slicer/Slicer/issues/6975)
 2. and working towards resolving the [identified issues](https://github.com/Slicer/Slicer/pull/8112)
-3. Discuss how to [design and implement an infrastructure to share user-generated color tables (as well as custom terminologies, volume rendering presets, etc).](https://github.com/Slicer/Slicer/issues/6975#issuecomment-2581121209) 
+3. Discuss how to [design and implement an infrastructure to share user-generated color tables (as well as custom terminologies, volume rendering presets, etc).](https://github.com/Slicer/Slicer/issues/6975#issuecomment-2581121209)
 
 ## Approach and Plan
 
@@ -76,7 +76,7 @@ But the existing structure is too rigid, and often is missing terms. We need a f
     * Need a validator to be able to ensure compatibility with main ontologies
     * Need a proper documentation of the new features and their interactions with all data types and use cases
     * Fix bugs, finalize PR, allow people to test in 5.9
-3. Progress with the PR: small fixes and outstanding issues 
+3. Progress with the PR: small fixes and outstanding issues
 
 
 # Illustrations
@@ -96,4 +96,3 @@ But the existing structure is too rigid, and often is missing terms. We need a f
 * [Pull request](https://github.com/Slicer/Slicer/pull/8112)
 * Issue [#7593](https://github.com/Slicer/Slicer/issues/7593)
 * Issue [#6975](https://github.com/Slicer/Slicer/issues/6975)
-

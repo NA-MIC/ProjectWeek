@@ -90,7 +90,7 @@ Updating Modules Previously Unavailable on Windows Due to PyTorch3D: The third g
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-Progress : 
+Progress :
 - Completed Initial Research on PyTorch3D and WSL2 Compatibility
 - Successfully ran PyTorch3D on WSL2
 - Created an installer for WSL2
@@ -129,4 +129,3 @@ Next Step:
 
 
 _No response_
-

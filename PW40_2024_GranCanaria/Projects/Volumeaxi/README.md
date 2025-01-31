@@ -13,7 +13,7 @@ key_investigators:
   affiliation: University of Michigan
   country: USA
 
-- name: Gaëlle Leroux 
+- name: Gaëlle Leroux
   affiliation: University of Michigan
   country: USA
 
@@ -39,7 +39,7 @@ key_investigators:
 
 Volume Analysis, eXplainability and Interpretability, Volume-AXI, is an explainability approach for classification of bone and teeth structural defects in CBCT scans gray-level images. We propose to develop interpretable AI algorithms to visualize diagnostic features in dental and craniofacial conditions. This work is built on neural network models in Python, specifically using the MONAI framework,
 
-The first clinical application of Volume-AXI is related to dentistry, aiming to identify the position of tooth impaction and damage to adjacente structures. 
+The first clinical application of Volume-AXI is related to dentistry, aiming to identify the position of tooth impaction and damage to adjacente structures.
 
 ## Objective
 
@@ -74,7 +74,7 @@ The first clinical application of Volume-AXI is related to dentistry, aiming to 
 
 Next step:
 
-1. Think about a new implementation of training. 
+1. Think about a new implementation of training.
 2. Try to reduce the image to regions of interest.
 3. Use of transformations in the training loop to increase the dataset.
 

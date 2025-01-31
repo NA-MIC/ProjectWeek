@@ -1,15 +1,15 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-## Fetal Brain Segmentation and Volumization    
+## Fetal Brain Segmentation and Volumization
 
 ## Key Investigators
 - Estee Goldberg (Biomedical Engineering, Western University)
-- Denis Kikinov (Software Engineering, Western University) 
-- Wenyao Xia (Medical Biophysics, Robarts Research Institute) 
+- Denis Kikinov (Software Engineering, Western University)
+- Wenyao Xia (Medical Biophysics, Robarts Research Institute)
 
 
 # Project Description
-<!-- Add a short paragraph describing the project. --> 
+<!-- Add a short paragraph describing the project. -->
 This will be a tool to segment the fetal brain from the a fetal MRI. Afterwards the fetal brain will be compiled into a brain volume for later comparisons.
 
 
@@ -17,7 +17,7 @@ This will be a tool to segment the fetal brain from the a fetal MRI. Afterwards 
 
 1. Take any fetal MRI image
 1. Semiautomatically segment the fetal brain
-1. Semiautomatically produce a brain volume for the segmented brain 
+1. Semiautomatically produce a brain volume for the segmented brain
 
 ## Approach and Plan
 
@@ -31,12 +31,12 @@ This will be a tool to segment the fetal brain from the a fetal MRI. Afterwards 
 <!--Describe progress and next steps in a few bullet points as you are making progress.-->
 ### Progress
 
-After some search we found no automatic modules or extensions that work for fetal MRIs. As such we have experimented with ways to manually segment and get a volume. We had some success with segment editor's semiautomatic segmentation, just a lot of corrections were required. 
+After some search we found no automatic modules or extensions that work for fetal MRIs. As such we have experimented with ways to manually segment and get a volume. We had some success with segment editor's semiautomatic segmentation, just a lot of corrections were required.
 
 
 ### Next Steps
 
-Implement program as a module in 3D Slicer. 
+Implement program as a module in 3D Slicer.
 
 # Illustrations
 

@@ -84,4 +84,3 @@ We will spend Project Week developing the software to support these features and
 
 
 1. Asgari-Targhi et al. (2024).  Can Crowdsourced Annotations Improve AI-based Congestion Scoring For Bedside Lung Ultrasound?  MICCAI 2024.  ([link](https://papers.miccai.org/miccai-2024/paper/3582_paper.pdf) to paper)
-

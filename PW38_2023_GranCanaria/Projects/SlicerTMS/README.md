@@ -13,8 +13,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Transcranial magnetic stimulation is a nonivasive procedure used for treating depression with magnetic and electric fields to stimulate nerve cells. 
-A TMS coil is slowly moved over the subject's head suface to target certain areas in the brain. 
+Transcranial magnetic stimulation is a nonivasive procedure used for treating depression with magnetic and electric fields to stimulate nerve cells.
+A TMS coil is slowly moved over the subject's head suface to target certain areas in the brain.
 Our project aims to develop a deep-learning powered software for real-time E-Field prediction and a visualization of TMS within 3D Slicer.
 
 ## Objective
@@ -22,7 +22,7 @@ Our project aims to develop a deep-learning powered software for real-time E-Fie
 Real-time visualization of an electric field (E-field) for transcranial magnetic stimulation (TMS) on the brain surface, visualization through an AR app (over browser).
 
 ## Approach and Plan
-What is done so far: 
+What is done so far:
 1. We created a TMS module in Slicer mapping NifTi file onto brain mesh with 3D TMS coil that can be moved by the user.
 2. OpenIGTLinkIF is used to transfer data (E-Field from TMS) into 3D Slicer
 3. Connected 3DSlicer to the web browser using our newly implemented secure WebSocket from https://github.com/liampaulhus/slicerWebWSS-WIP
@@ -57,13 +57,13 @@ What is done so far:
 
 Phones need a Depth sensor to run AR/VR. A list of supported devices can be found here: https://developers.google.com/ar/devices
 
-On an Android Phone via USB: 
+On an Android Phone via USB:
 - PlayStore: Download Google VR Services and Google AR Services App
 - Update Chrome/Camera apps etc.
 - On the phone: Enable Developer tools (https://developer.android.com/studio/debug/dev-options) and USB debugging (description here: https://developer.chrome.com/docs/devtools/remote-debugging/)
 - Run chrome://inspect#devices in the browser on your computer and it should detect USB connected devices
 
-For iPhone: 
+For iPhone:
 - Mozilla offers a WebXR Emulator that can be downloaded from the Apple Store for any iPhone and iPad: https://labs.mozilla.org/projects/webxr-viewer/
 
 ## For the full SlicerTMS Module and instructions see our [repository](https://github.com/lorifranke/SlicerTMS)

@@ -68,7 +68,7 @@ Its basic functionality is demonstrated in this tutorial: <https://github.com/Im
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1.  Raise awareness about 
+1.  Raise awareness about
 2.  Improve functionality
 3.  Collect feedback to prioritize future developments
 

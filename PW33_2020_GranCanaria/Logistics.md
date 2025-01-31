@@ -9,12 +9,12 @@
 |<img src="NHImperial.png" width="700" height="350">|
 
 - **Recommended hotels (special rates) and maps**
-    - Booking: [NH Imperial Playa](https://www.nh-hoteles.es/event/na-mic-workshop) Link available until: December 19, 2020 
+    - Booking: [NH Imperial Playa](https://www.nh-hoteles.es/event/na-mic-workshop) Link available until: December 19, 2020
     - [NH Imperial Playa Map](https://cutt.ly/twjO0PO)
     - Booking: [NH Las Palmas Playa Las Canteras](https://www.nh-hoteles.es/event/na-mic-workshop-2020) Link available until: December 19, 2020
     - [NH Las Palmas Playa Las Canteras Map](https://cutt.ly/vwkkTDE)
     - Booking after December 19, 2020 by email to: <a href="mailto:o.martinez@nh-hotels.com&subject=ProjectWeek33_NHBooking"> ProjectWeek33 NHBooking</a>
-   
+
 - **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
     - Taxi (line at the airport)
     - [Bus -line 60-](https://www.guaguasglobal.com/en/lineas-horarios/linea/)
@@ -54,7 +54,7 @@ Juan Ruiz Alzola, Maria Dolores Afonso Suarez, Asmaa Skareb.</a>
   * The academic authority signing on behalf the host center is *Prof. Félix Tobajas, Subdirector de Estudiantes, Movilidad y Prácticas Externas,
 Escuela de Ingeniería de Telecomunicación y Electrónica (Mobility Deputy Director, Telecommunication and Electrical Engineering School),
 Universidad de Las Palmas de Gran Canaria*.
-  * Once properly prepared and signed the application at the applicant's home institution, it should be sent by email to:<a href="mailto:sempe.eite@ulpgc.es?cc=juan.ruiz@ulpgc.es, marilola.afonso@ulpgc.es, 
+  * Once properly prepared and signed the application at the applicant's home institution, it should be sent by email to:<a href="mailto:sempe.eite@ulpgc.es?cc=juan.ruiz@ulpgc.es, marilola.afonso@ulpgc.es,
 asmaa.skareb@ulpgc.es&subject=ProjectWeek30_ErasmusMobility"> SempeEite</a>
 
 3. The application will be processed by the host center and the outcome will be reported in a few days.

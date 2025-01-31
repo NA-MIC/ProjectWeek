@@ -20,14 +20,14 @@ Connect SPINE with XNAT.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Objective A. Understand the API and data structured exposed by XNAT 
+1. Objective A. Understand the API and data structured exposed by XNAT
 1. Objective B. Define configuration parameters to be used when connecting/replicating data from XNAT to SPINE
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Understand the API and data structured exposed by XNAT in order to get access and extract data 
+1. Understand the API and data structured exposed by XNAT in order to get access and extract data
 1. Test the API exposed by XNAT in a real scenario
 1. Implement a replication protocol to import data from XNAT
 

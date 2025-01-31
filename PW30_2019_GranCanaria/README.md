@@ -6,7 +6,7 @@
 <tr>
     <td> <img src="NA-MIC3.jpg" width="450" height="300"> </td>
     <td> <img src="NA-MIC4.jpg" width="450" height="300"> </td>
-</tr>    
+</tr>
 <tr>
     <td> <img src="NA-MIC1.jpg" width="450" height="225"> </td>
     <td> <img src="NA-MIC2.jpg" width="450" height="225"> </td>
@@ -27,11 +27,11 @@ Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](htt
 
 ## Photo Album
 
-This is our second Project Week in Las Palmas. [Photos Project Week 30 in a Google Drive folder](https://drive.google.com/drive/folders/19nuPjpcHGNKOfJZozDwPeHQaYxmU3Mjq?usp=sharing) 
+This is our second Project Week in Las Palmas. [Photos Project Week 30 in a Google Drive folder](https://drive.google.com/drive/folders/19nuPjpcHGNKOfJZozDwPeHQaYxmU3Mjq?usp=sharing)
 
 [Google Photos album](https://photos.app.goo.gl/qv1mgzwbugnhf1iw8)
 
-30 PW NA-MIC in [the media](PW30InTheMedia.md) 
+30 PW NA-MIC in [the media](PW30InTheMedia.md)
 
 First project wek in Las Palmas. [Project Week 28](https://projectweek.na-mic.org/PW28_2018_GranCanaria/) was held in this location as well, and captured in [Photos Project Week 28](https://drive.google.com/drive/folders/1Gh2L26K96d3jzpT7LReaPWAbc1Ao815p?usp=sharing), and [coverage by the local media](../PW28_2018_GranCanaria/PW28InTheMedia.md).
 

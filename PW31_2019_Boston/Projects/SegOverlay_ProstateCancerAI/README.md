@@ -9,7 +9,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 - [Steve Pieper][steve] ([Isomics, Inc.][Isomics])
 - [Erik Ziegler][erik] ([Radical Imaging][radical])
 - [Danny Brown][danny] ([Radical Imaging][radical])
-- [Anneke Meyer][anneke] 
+- [Anneke Meyer][anneke]
 - [Alireza Sedghi][alireza] ([Medical Informatics Lab][med-i-lab])
 - [Parvin Mousavi][parvin] ([Medical Informatics Lab][med-i-lab])
 

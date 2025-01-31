@@ -41,7 +41,7 @@ A few of the features we'd like to explore:
 * Communicating events from smartphone to Slicer to control rendering
 * Sending rendered images to phone vs. rendering in phone locally
 * Exporting data to a stand-alone scene that could be viewed on a smartphone (e.g. by emailing a link or generating a QR code)
-  
+
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->

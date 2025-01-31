@@ -12,7 +12,7 @@ key_investigators:
 - name: Houssem Gueziri
   affiliation: Montreal Neurological Institute and Hopital
   country: Canada
-  
+
 - name: Mohammadreza Eskandari
   affiliation: Montreal Neurological Institute and Hopital
   country: Canada
@@ -42,8 +42,8 @@ This project aims to add a multimodal nonlinear registration plugin to Slicer. T
 # Background and References
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
 [1] De Nigris, D., et al., 2014. SymBA: Diffeomorphic Registration Based on Gradient Orientation Alignment and Boundary Proximity of Sparsely Selected Voxels. In Biomedical Image Registration: 6th International Workshop, WBIR 2014, London, UK, July 7-8, 2014. Proceedings 6 (pp. 21-30). [link](https://link.springer.com/chapter/10.1007/978-3-319-08554-8_3)
-- http://ibisneuronav.org 
-- https://github.com/IbisNeuronav/Ibis 
+- http://ibisneuronav.org
+- https://github.com/IbisNeuronav/Ibis
 
 # Illustrations
 

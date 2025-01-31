@@ -16,11 +16,11 @@ key_investigators:
 - name: Simon Drouin
   affiliation: 'École de Technologie Supérieure '
   country: Montreal , Canada
-  
+
 - name: Jose Carlos Mateo Pérez
   affiliation: 'Universidad de Las Palmas de Gran Canaria'
   country: Gran Canaria , Spain
-  
+
 - name: Pablo Sergio Castellano Rodríguez
   affiliation: 'Universidad de Las Palmas de Gran Canaria'
   country: Gran Canaria , Spain
@@ -117,13 +117,3 @@ It worked!
 
 # Conclusions
 The system seems to be easily transferable to any AR or VR headset as long as it can be connected to Unity, either via wifi or with a cable
-
-
-
-
-
-
-
-
-
-

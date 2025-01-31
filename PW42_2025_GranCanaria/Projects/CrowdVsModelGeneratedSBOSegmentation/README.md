@@ -83,15 +83,15 @@ Example of Expert Segmentations Demonstrating Bowel Diameter: <br>
 
 # Relevant Publications:
 
-Wong, H.E., Ortiz, J.J.G., Guttag, J. & Dalca, A.V., (2024). MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance. arXiv preprint arXiv:2412.15058. 
+Wong, H.E., Ortiz, J.J.G., Guttag, J. & Dalca, A.V., (2024). MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance. arXiv preprint arXiv:2412.15058.
 [paper](https://arxiv.org/abs/2412.15058) [code](https://github.com/halleewong/MultiverSeg)
 <br>
 @misc{wong2024scribblepromptfastflexibleinteractive,
-      title={ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image}, 
+      title={ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image},
       author={Hallee E. Wong and Marianne Rakic and John Guttag and Adrian V. Dalca},
       year={2024},
       eprint={2312.07381},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2312.07381}, 
+      url={https://arxiv.org/abs/2312.07381},
 }

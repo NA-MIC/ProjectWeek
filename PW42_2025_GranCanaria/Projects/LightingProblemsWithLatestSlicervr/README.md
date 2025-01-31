@@ -74,10 +74,10 @@ There is a regression with how latest SlicerVR lights the scene, both with the o
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-The following screenshots demonstrate shadows vs no shadows in OpenVR: 
+The following screenshots demonstrate shadows vs no shadows in OpenVR:
 
 ![OpenVR no shadows](OpenVR_NoShadow.png)
-Left: Slicer view using OpenVR without shadows 
+Left: Slicer view using OpenVR without shadows
 Right: VR view (with back lights / without two sided lighting)
 
 ![OpenVR_Shadow](OpenVR_Shadow.png)
@@ -87,15 +87,15 @@ Right: VR view  (with back lights / without two sided lighting)
 
 __________________________________________________________________________________________________________
 
-The following screenshots demonstrate different lighting options in OpenXR: 
+The following screenshots demonstrate different lighting options in OpenXR:
 
 ![OpenXR_NoShadow](OpenXR_NoShadow.png)
-Left: Slicer view using OpenXR without shadows 
-Right: VR view (with back lights / without two sided lighting) 
+Left: Slicer view using OpenXR without shadows
+Right: VR view (with back lights / without two sided lighting)
 
 ![OpenXR_Shadow](OpenXR_Shadow.png)
-Left: Slicer view using OpenXR without shadows 
-Right: VR view (without back lights / without two sided lighting) 
+Left: Slicer view using OpenXR without shadows
+Right: VR view (without back lights / without two sided lighting)
 
 
 
@@ -109,4 +109,3 @@ Right: VR view (without back lights / without two sided lighting)
 
 
 For those who have access to SlicerHeart internals, this is the link to the issue: [https://github.com/JolleyLab/Internal/issues/205#event-14879920416](https://github.com/JolleyLab/Internal/issues/205#event-14879920416)
-

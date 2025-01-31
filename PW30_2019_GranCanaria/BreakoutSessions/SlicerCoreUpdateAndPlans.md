@@ -14,5 +14,3 @@ Lookup day and time on the [calendar](../README.md#program-calendar).
 ## Meeting minutes
 
 Meeting minutes will be added here.
-
-

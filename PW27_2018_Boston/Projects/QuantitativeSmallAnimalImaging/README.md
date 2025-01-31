@@ -10,15 +10,15 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-For this project, we aim to bring small animal MR datasets in DICOM format and repeat the process developed for the 
+For this project, we aim to bring small animal MR datasets in DICOM format and repeat the process developed for the
 QIICR program to segment a lesion (a Neuroendocrine Tumor in this case), convert the segmentation to a DICOM segmentation
 using the DCMQI slicer extension, and finally measure the segmentation using the Quantitative Reporting module.  Our aim
-is to develop a set of repeatable analysis steps we can put into place to analyze additional datasets in our lab. 
+is to develop a set of repeatable analysis steps we can put into place to analyze additional datasets in our lab.
 
 ## Objective
 
 1. Develop a set of processing steps for lesion analysis that are repeatable for other small animal datasets.  Access if
-clinical tools from the QIICR program will apply to small animal MR datasets as well. 
+clinical tools from the QIICR program will apply to small animal MR datasets as well.
 
 ## Approach and Plan
 
@@ -35,9 +35,9 @@ to clinical scanners.
 - Follow excellent QIICR tutorial instructions
 - DCMQI conversion to DICOM segmentation object failed during the first attempt. Consulted Andrey.
 - One of slices from the Phillips small animal scanner was identified with inconsistent header contents compared to other slices.
-- Change made to DCMQI to accommodate this dataset. 
+- Change made to DCMQI to accommodate this dataset.
 - Reprocessed successfully and measured DICOM segmentation object using Quantitative Reporting module
-- Build and trained a CNN using Keras. Consulted with Alireza about how to connect with DeepInfer. 
+- Build and trained a CNN using Keras. Consulted with Alireza about how to connect with DeepInfer.
 - Planning to complete DeepInfer integration of our new model over the coming weeks.
 
 # Illustrations
@@ -53,4 +53,3 @@ to clinical scanners.
 
 - Documentation: http://qiicr.org/dcmqi-guide/tutorials/intro.html
 - Documentation: https://qiicr.gitbooks.io/dicom4qi/
-

@@ -83,4 +83,3 @@ QuickAlign is a SlicerMorph module used to temporarily fix alignment in two 3D v
 [Endoscopy example](https://github.com/Slicer/Slicer/blob/main/Modules/Scripted/Endoscopy/Endoscopy.py#L1080)
 
 [ViewPoint example](https://github.com/SlicerIGT/SlicerIGT/blob/master/Viewpoint/Viewpoint.py)
-

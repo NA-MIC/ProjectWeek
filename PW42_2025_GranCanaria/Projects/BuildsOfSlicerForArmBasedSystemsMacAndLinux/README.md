@@ -22,10 +22,10 @@ key_investigators:
   country: CA
 - name: Mauro I. Dominguez
   affiliation: Independent
-  country: Argentina  
+  country: Argentina
 - name: Robin Peretzke
   affiliation: German Cancer Research Center
-  country: Germany  
+  country: Germany
 ---
 
 # Project Description
@@ -137,7 +137,7 @@ sudo apt update && sudo apt install git build-essential \
 
 
 1. Create a folder called Slicers where you will clone the Slicer repository and create the build directory:
- 
+
 ```console
 mkdir ~/Slicers
 cd ~/Slicers

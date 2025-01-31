@@ -76,5 +76,5 @@ Future steps:
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-1. GitHub Project Page: https://github.com/robsver/3DSlicerClassificator 
+1. GitHub Project Page: https://github.com/robsver/3DSlicerClassificator
 2. Classification score table for third molar extraction: Juodzbalys, Gintaras, and Povilas Daugela. "Mandibular third molar impaction: review of literature and a proposal of a classification." Journal of oral & maxillofacial research 4.2 (2013).

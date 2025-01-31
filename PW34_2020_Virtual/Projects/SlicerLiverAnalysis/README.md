@@ -10,7 +10,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Add a short paragraph describing the project. -->
 
-This project will kick-start the development of the *SlicerLiverAnalysis* extension that will be developed through the [ALive project](https://alive-research.no). The objective of the SlicerLiverAnalysis extension is to provide researchers with tools to perform liver analytics towards planning of liver interventions (resections, ablations). At this point in the project we need to port early prototypes of our resection planning algorithms into 3D Slicer, which may require enabling new infrastructure in Slicer (particularly for handling pluggable markups from modules other than the Markups module). 
+This project will kick-start the development of the *SlicerLiverAnalysis* extension that will be developed through the [ALive project](https://alive-research.no). The objective of the SlicerLiverAnalysis extension is to provide researchers with tools to perform liver analytics towards planning of liver interventions (resections, ablations). At this point in the project we need to port early prototypes of our resection planning algorithms into 3D Slicer, which may require enabling new infrastructure in Slicer (particularly for handling pluggable markups from modules other than the Markups module).
 
 ## Objective
 

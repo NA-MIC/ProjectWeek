@@ -19,13 +19,13 @@ research. The great success of 3D Slicer is now pushing the boundaries of
 research, making some research groups and companies regard 3D Slicer as a viable
 software for building medical devices that not only could support regular
 clinical workflows but also become commercial products. While the development of
-3D Slicer has been tailored towards research, its modular architecture makes the 
+3D Slicer has been tailored towards research, its modular architecture makes the
 development of industrial prototypes possible.
 
 The vision of Systole OS is the integration of 3D Slicer and related software (e.g,
 Plus Toolkit, MONAI Label and more!) in a free and open-source operating system
 based on GNU/Linux, with the aim to support the development and deployment of
-medical devices. 
+medical devices.
 
 ![Systole](systole.png)
 
@@ -33,7 +33,7 @@ Here are some of the features that we would like to leverage in
 Systole OS:
 
 ### Cutting-edge software
-  
+
 Systole OS is based on Gentoo Linux, which follows a rolling-release model
 providing up-to-date support out of box.
 
@@ -65,8 +65,8 @@ system with your own ovelay or override packages provided by Systole.
 
 ## Objective
 
-In PW37 we aim to take the first steps towards the creation of the Systole 
-overlay, which is a set of packages containing an installable version of 
+In PW37 we aim to take the first steps towards the creation of the Systole
+overlay, which is a set of packages containing an installable version of
 3D Slicer and its dependences.
 
 ## Approach and Plan
@@ -93,4 +93,3 @@ When it comes to the development of Systole OS itself, the first efforts will go
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-

@@ -1,11 +1,11 @@
 <PlusConfiguration version="2.3">
 
   <DataCollection StartupDelaySec="1.0" >
-    <DeviceSet 
+    <DeviceSet
       Name="PlusServer: Intel RealSense camera "
       Description="Broadcasting acquired RGB and Depth video through PlusServer from Intel RealSense 3D camera"
 	/>
-  
+
     <Device
       Id="VideoDevice"
       Type="IntelRealSense"
@@ -41,7 +41,7 @@
       </OutputChannels>
     </Device>
   </DataCollection>
-  
+
   <PlusOpenIGTLinkServer MaxNumberOfIgtlMessagesToSend="1" MaxTimeSpentWithProcessingMs="50" ListeningPort="18947" SendValidTransformsOnly="true" OutputChannelId="VideoStreamRGB">
         <DefaultClientInfo>
             <MessageTypes>
@@ -59,7 +59,7 @@
             </VideoNames>
         </DefaultClientInfo>
     </PlusOpenIGTLinkServer>
-	
+
 	<PlusOpenIGTLinkServer MaxNumberOfIgtlMessagesToSend="1" MaxTimeSpentWithProcessingMs="50" ListeningPort="18950" SendValidTransformsOnly="true" OutputChannelId="VideoStreamDEPTH">
         <DefaultClientInfo>
             <MessageTypes>
@@ -76,8 +76,8 @@
 				</Video>
             </VideoNames>
         </DefaultClientInfo>
-    </PlusOpenIGTLinkServer> 
-	
-	
+    </PlusOpenIGTLinkServer>
+
+
 
 </PlusConfiguration>

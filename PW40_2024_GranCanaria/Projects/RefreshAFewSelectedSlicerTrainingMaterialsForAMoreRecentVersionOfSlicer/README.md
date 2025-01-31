@@ -42,7 +42,7 @@ Slicer evolves at an amazing pace, and this makes the tutorials obsoleted pretty
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1.  Redid the whole 3D printing material, brought it up-to-date, created screenshots, explored new ways to do things in Slicer (right-click menus, enhancements in the Data module, etc), and added these to the tutorial.  
+1.  Redid the whole 3D printing material, brought it up-to-date, created screenshots, explored new ways to do things in Slicer (right-click menus, enhancements in the Data module, etc), and added these to the tutorial.
 
 # Illustrations
 
@@ -57,5 +57,3 @@ Slicer evolves at an amazing pace, and this makes the tutorials obsoleted pretty
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-
-

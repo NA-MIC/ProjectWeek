@@ -113,5 +113,5 @@ Slicer Discourse References:
 
 VTK References:
 1. VTK PBR [https://www.kitware.com/vtk-pbr/](https://www.kitware.com/vtk-pbr/)
-1. PBR integration in Paraview [https://www.kitware.com/physically-based-rendering-improvements-in-paraview/](https://www.kitware.com/physically-based-rendering-improvements-in-paraview/) 
+1. PBR integration in Paraview [https://www.kitware.com/physically-based-rendering-improvements-in-paraview/](https://www.kitware.com/physically-based-rendering-improvements-in-paraview/)
 1. Related merge request for VTK [https://gitlab.kitware.com/vtk/vtk/-/merge_requests/5584](https://gitlab.kitware.com/vtk/vtk/-/merge_requests/5584)

@@ -42,7 +42,7 @@ This proposal is a joint collaboration work: [M-ITI](https://www.m-iti.org/) and
 
 ## Illustrations
 
-| Prototype from PW28th| 3D Model for 30PW| 
+| Prototype from PW28th| 3D Model for 30PW|
 | ---------------------|------------------|
 | <img src="PelvisQuiz.png" width="256" height="153"> | <img src="BrainModel.jpg" width="180" height="180"> |
 
@@ -54,11 +54,11 @@ Unity Scenario video examples.
 
 30 PW NA-MIC Implementation.
 
-| Main menu| Highscore| 
+| Main menu| Highscore|
 | ---------|----------|
 | <img src="F1.png" width="500" height="250"> | <img src="F2.png" width="500" height="250"> |
 
-| Question example | End game + New High Score Entry | 
+| Question example | End game + New High Score Entry |
 | -----------------|---------------------|
 | <img src="F3.png" width="500" height="250"> | <img src="F4.png" width="500" height="250"> |
 
@@ -73,4 +73,3 @@ Unity Scenario video examples.
 Mónica S. Cameirão, Fábio Pereira, Sergi Bermúdez i Badia](https://neurorehabilitation.m-iti.org/lab/wp-content/plugins/zotpress/lib/request/request.dl.php?api_user_id=161215&key=4ZQMQFB3&content_type=application/pdf)
 
 + Review work from [Summer Project Week 2013](https://na-mic.org/wiki/2013_Project_Week:WebbasedAnatomicalTeachingFrameworkSummer2013).  [Live Demo](http://fnndsc.github.com/babybrain)
-

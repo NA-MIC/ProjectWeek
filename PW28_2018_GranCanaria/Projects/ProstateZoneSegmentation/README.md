@@ -15,14 +15,14 @@ The goal of this project is to evaluate and extend variants of a volumetric CNN 
 
 ## Objective
 
-1. Results have to get better and become more stable to be reliable. 
+1. Results have to get better and become more stable to be reliable.
 
 ## Approach and Plan
 
-1. Extend data augmentation (translation and scaling). 
+1. Extend data augmentation (translation and scaling).
 1. Explore network extensions (deeper network, more filters).
 1. Add more regulatrizers to prevent overfitting and evaluate their effect on the outcome.
-1. Initialize a new approach: Generative Adverserial Network? 
+1. Initialize a new approach: Generative Adverserial Network?
 
 ## Progress and Next Steps
 1. split up data into training and validation sets so that they have more equally distributed anatomy characteristics -> did not improve output much

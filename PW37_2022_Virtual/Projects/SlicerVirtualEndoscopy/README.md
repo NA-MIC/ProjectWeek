@@ -33,7 +33,7 @@ The current Endoscopy module requires the already extracted surface as input. Th
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. It's currently already on github. 
+1. It's currently already on github.
 
 ## Progress and Next Steps
 
@@ -52,5 +52,3 @@ The current Endoscopy module requires the already extracted surface as input. Th
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository. If possible, also add links to sample data, and to any relevant publications. -->
-
-

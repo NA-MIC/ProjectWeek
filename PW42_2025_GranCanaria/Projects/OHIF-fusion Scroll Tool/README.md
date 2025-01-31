@@ -81,4 +81,3 @@ Investigate whether these can be easily implemented in the main project.
 
 - [Ohif main repo](https://github.com/OHIF/Viewers)
 - [Cornerstone3D repo](https://github.com/cornerstonejs/cornerstone3D)
-

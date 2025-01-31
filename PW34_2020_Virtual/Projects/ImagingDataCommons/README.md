@@ -13,7 +13,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 <!-- Add a short paragraph describing the project. -->
 
  [National Cancer Institute (NCI) Imaging Data Commons (IDC)](https://portal.imaging.datacommons.cancer.gov) is a cloud-based resource within [NCI Cancer Research Data Commons (CRDC)](https://datacommons.cancer.gov/) that connects researchers with cancer imaging datasets, resources for exploring those datasets and identifying relevant cohorts, and other components of CRDC that will host additional data types and support computation on the defined cohorts.
- 
+
 [Project inroductory slides](https://docs.google.com/presentation/d/1ZZI4R-D9og4eFBydERHSPLkX5WGcaJX7j5gjj_l_Q0I/edit?usp=sharing)
 
 ## Objective

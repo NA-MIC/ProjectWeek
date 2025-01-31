@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - Mauro I. Dominguez
-- Theodore Aptekarev 
+- Theodore Aptekarev
 - Csaba Pinter
 - Andras Lasso
 

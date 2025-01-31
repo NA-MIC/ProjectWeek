@@ -19,7 +19,7 @@ Please fill out the [post-Project Week](https://forms.gle/E4ETUPXkKt3iFxvJ7) sur
 * Initial **project presentations** started at **9am on Zoom**, on Zoom. Each team delegated a member to present their projects in no more than 2 minutes using no other visual support than the project page on GitHub (no time to switch screen sharing)
 * Participants who did not have a project, could find a project they were interested in and contacted team members through their Discord channel.
 * Breakout sessions start every day at **9am on Zoom** (links in the calendar below)
-* Work in **project teams** happened throughout the week with communication between team members taking place on **Discord**. 
+* Work in **project teams** happened throughout the week with communication between team members taking place on **Discord**.
 * The week ended with **project results presentation (9am on Friday)**. Again, each team delegated one member to present their results in a maximum of 2 minutes. The project page was used as a visual support for the presentation.
 
 ##  Agenda

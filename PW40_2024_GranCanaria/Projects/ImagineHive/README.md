@@ -9,23 +9,23 @@ presenter_location: In-person
 
 key_investigators:
 - name: Davide Punzo
-  affiliation: Freelancer, DNA HIVE 
-  country: France   
+  affiliation: Freelancer, DNA HIVE
+  country: France
 
 - name: Mauro Domínguez
   affiliation: Freelancer, DNA HIVE
   country: Argentina
 
 - name: Andras Lasso
-  affiliation: Perk Lab, Queen's University 
+  affiliation: Perk Lab, Queen's University
   country: Canada
 
 - name: Vahan Simonyan
-  affiliation:  DNA HIVE 
+  affiliation:  DNA HIVE
   country: USA
 
 - name: Aram Petrosyan
-  affiliation: DNA HIVE 
+  affiliation: DNA HIVE
   country: USA
 
 - name: Jeffrey W Milsom
@@ -100,5 +100,5 @@ ImagineHive is currently used at the Weill Cornell Medicine/Presbyterian NY hosp
 <p align="center"><i><a href="https://doi.org/10.1093/database/baw022">source: Vahan et al. 2016</a></i></p>
 
 # Background and References
-- [HIVE paper](https://doi.org/10.1093/database/baw022) 
+- [HIVE paper](https://doi.org/10.1093/database/baw022)
 - [HIVE FDA](https://github.com/FDA/fda-hive)

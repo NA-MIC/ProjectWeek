@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Long-COVID: Study Design and Delineation of Fiber Tracts of the Brainstem 
+# Long-COVID: Study Design and Delineation of Fiber Tracts of the Brainstem
 
 ## Key Investigators
 
@@ -12,7 +12,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-Symptoms of long-COVID19 might linger for several weeks or months after the initial infection by the SARS-CoV-2 virus. Symptoms are headache, problems with memory and concentration, anxiety, extreme fatigue, chest pain or tightness, gastrointestinal symptoms and difficulty sleeping. In addition, abnormal immune response to viral infection is reported in patients with long-COVID. A dysfunctional brainstem might explain the neuropsychiatric, and autonomic symptoms as a consequence of abnormal immune response. 
+Symptoms of long-COVID19 might linger for several weeks or months after the initial infection by the SARS-CoV-2 virus. Symptoms are headache, problems with memory and concentration, anxiety, extreme fatigue, chest pain or tightness, gastrointestinal symptoms and difficulty sleeping. In addition, abnormal immune response to viral infection is reported in patients with long-COVID. A dysfunctional brainstem might explain the neuropsychiatric, and autonomic symptoms as a consequence of abnormal immune response.
 
 ## Objective
 
@@ -34,8 +34,8 @@ Symptoms of long-COVID19 might linger for several weeks or months after the init
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Segmentation of the Nucleus Tractus Solitarius (solitary complex)–Area Postrema (NTS-AP). 
-NTS-AP plays an impotant role in neuro-immune regulatory loops and autonomic reflexes. 
+1. Segmentation of the Nucleus Tractus Solitarius (solitary complex)–Area Postrema (NTS-AP).
+NTS-AP plays an impotant role in neuro-immune regulatory loops and autonomic reflexes.
 
 2. Delineated the Medial Forebrain Bundle (MFB) and Dorsal Longitudinal Fiber (DLF) within the brainstem in the postmortem dMRI data set.
 3. Run whole brain tractography on the 3T data set.
@@ -54,7 +54,7 @@ NTS-AP plays an impotant role in neuro-immune regulatory loops and autonomic ref
 # Background and References
 
 3D Exploration of the Brainstem in 50-Micron Resolution MRI
-Richard Jarrett Rushmore, Peter Wilson-Braun, George Papadimitriou, Isaac Ng, Yogesh Rathi, Fan Zhang , Lauren Jean O'Donnell, Marek Kubicki, Sylvain Bouix, Edward Yeterian , Jean-Jacques Lemaire, Evan Calabrese, G Allan Johnson, Ron Kikini, Nikos Makris  
+Richard Jarrett Rushmore, Peter Wilson-Braun, George Papadimitriou, Isaac Ng, Yogesh Rathi, Fan Zhang , Lauren Jean O'Donnell, Marek Kubicki, Sylvain Bouix, Edward Yeterian , Jean-Jacques Lemaire, Evan Calabrese, G Allan Johnson, Ron Kikini, Nikos Makris
 Frontiers in Neuroanatomy, 2020
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7538715/
@@ -65,5 +65,3 @@ Bianca Besteher, Marlene Machnik, Marie Troll, Antonia Toepffer, Ani Zerekidze, 
 Psychiatry Res. 2022
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9444315/pdf/main.pdf
-
-

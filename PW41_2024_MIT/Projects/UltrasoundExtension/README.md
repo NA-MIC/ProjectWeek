@@ -32,7 +32,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-The Ultrasound extension for Slicer contains modules for ultrasound video data processing. 
+The Ultrasound extension for Slicer contains modules for ultrasound video data processing.
 
 
 
@@ -90,4 +90,3 @@ _No response_
 
 
 [Source code of the extension](https://github.com/SlicerUltrasound/SlicerUltrasound)
-

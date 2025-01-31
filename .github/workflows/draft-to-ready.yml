@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       issues: write
-    
+
     steps:
       - name: Add "ready" label
         uses: actions/github-script@v6

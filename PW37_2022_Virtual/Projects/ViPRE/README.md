@@ -37,4 +37,3 @@ Our project aims to develop a Slicer module, called ViPRE, an open-source softwa
 
 
 # Background and References
-

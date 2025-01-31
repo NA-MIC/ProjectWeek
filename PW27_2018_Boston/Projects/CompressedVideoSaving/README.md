@@ -63,4 +63,3 @@ Next steps
 - [Ipad for image-guided neurosurgery](http://digital-library.theiet.org/content/journals/10.1049/htl.2017.0062?crawler=true&mimetype=application/pdf&tags=noindex)
 <!-- Documentation: https://link.to.docs -->
 <!-- Test data: https://link.to.test.data -->
-

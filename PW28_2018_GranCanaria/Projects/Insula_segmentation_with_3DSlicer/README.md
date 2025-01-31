@@ -15,7 +15,7 @@ To parcellate accurately the Insula into each principal anatomic units. Specific
 ## Objective
 
 Using a T1 MRI dataset of the Human Connectome Project (HCP) we volumetrically measured the aINS and pINS.
-This was achieved using the T1 MRI and the Slicer 3D software in two steps. First, by defining the precise anatomy of the insula by identifying the morphology of the insular sulci which are visible and second, by parcellating the two subunits of the insula, labeling and measuring their volumes them. 
+This was achieved using the T1 MRI and the Slicer 3D software in two steps. First, by defining the precise anatomy of the insula by identifying the morphology of the insular sulci which are visible and second, by parcellating the two subunits of the insula, labeling and measuring their volumes them.
 
 
 1. To segment in each coronal slice the aINS and pINS ROIs in order to measure the number of voxels in each ROI per coronal slice.
@@ -44,10 +44,10 @@ Implement a method to accurately parcellate the anatomical structure Insula of R
 
 Procedure:
 
-To optimize accuracy, reliability and overall time needed, we studied several combinations of the tools available in the Segment Editor, interacting with the developers. 
+To optimize accuracy, reliability and overall time needed, we studied several combinations of the tools available in the Segment Editor, interacting with the developers.
 After several attempts using Segment editor tools 'threshold painting', 'grow from seeds', 'watershed', 'fill between the slices', 'tracing level' the actual results were obtained as follows:
 
-1) On a T1 MRI image, using the Segment Editor module, we used 3 segments (via "add" icon). The first segment was for the background, the second for the whole Insula and the third for the separation between the two subunits of the insula, i.e., aINS and pINS. 
+1) On a T1 MRI image, using the Segment Editor module, we used 3 segments (via "add" icon). The first segment was for the background, the second for the whole Insula and the third for the separation between the two subunits of the insula, i.e., aINS and pINS.
 To establish accurately the borders of aINS and pINS we traced the Circular sulcus and the Central sulcus of the Insula as follows. First, we used three sagittal images where these sulci were visually well-identifiable.
 Consequently, these sulci were detected on coronal sections as a series of dots, which served as our key anatomical landmarks for the segmentation of aINS and pINS. More specifically, the circular sulcus of the insula determined the outer boarder of the insula in its entirety and the the Central sulcus (cesi) determined the for border between anterior and posterior Insula (coronal view).
 

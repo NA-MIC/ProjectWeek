@@ -13,11 +13,11 @@ key_investigators:
 - name: Mehrdad Asadi
   affiliation: Concordia University
   country: Canada
-  
+
 - name: Étienne Léger
   affiliation: Montreal Neurological Institute
   country: Canada
-  
+
 - name: Bahar Jahani
   affiliation: Concordia University
   country: Canada
@@ -66,7 +66,7 @@ MARIN demo, with Ibis:
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-Article: Léger, É., Reyes, J., Drouin, S., Popa, T., Hall, J. A., Collins, D. L., Kersten-Oertel, M., "MARIN: an Open Source Mobile Augmented Reality Interactive Neuronavigation System", International Journal of Computer Assisted Radiology and Surgery (2020). 
+Article: Léger, É., Reyes, J., Drouin, S., Popa, T., Hall, J. A., Collins, D. L., Kersten-Oertel, M., "MARIN: an Open Source Mobile Augmented Reality Interactive Neuronavigation System", International Journal of Computer Assisted Radiology and Surgery (2020).
 https://doi.org/10.1007/s11548-020-02155-6
 
 Source code repository: [MARIN](https://github.com/AppliedPerceptionLab/MARIN/tree/master)

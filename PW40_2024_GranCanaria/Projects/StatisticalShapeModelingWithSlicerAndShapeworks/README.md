@@ -69,7 +69,7 @@ Present an introductory presentation and series of tutorials for SSM, ShapeWorks
    src="https://www.sci.utah.edu/~shapeworks/doc-resources/mp4s/PW40_SW_introduction.mp4"
    style="max-height:640px; min-height: 200px">
  </video>
-  
+
 *ShapeWorks Basic Usage, Slicer Plugin*
 <video
    controls muted

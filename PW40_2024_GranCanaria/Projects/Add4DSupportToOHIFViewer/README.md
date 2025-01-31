@@ -35,7 +35,7 @@ weighted imaging (DWI) and dynamic contrast enhanced (DCE) CT/MR.
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. Get a feel for how OHIF creates display sets for displaying data using cornerstone. 
+1. Get a feel for how OHIF creates display sets for displaying data using cornerstone.
 1. Create functionality to split a given display set into multiple subsets based on the value in a provide DICOM tag
    (e.g. TemporalPositionIdentifier (0020, 0100) or DiffusionBValue (0018, 9087)).
 1. *Optional* Create functionality to detect if a display set is "4D", and provide a list of valid tags that can be
@@ -46,7 +46,7 @@ weighted imaging (DWI) and dynamic contrast enhanced (DCE) CT/MR.
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Create a local instance of OHIF viewer
-1. Create a toy dataset containing 3D, valid 4D and "invalid" 4D data (e.g. DICOM volume consisting of differently 
+1. Create a toy dataset containing 3D, valid 4D and "invalid" 4D data (e.g. DICOM volume consisting of differently
    angled subvolumes) to test/view functionality.
 1. Create OHIF viewer extension to test/develop functionality, create mode to allow interaction with the extension.
 1. Create functionality for splitting dataset (first on single or few known tags, no checking)
@@ -60,7 +60,7 @@ weighted imaging (DWI) and dynamic contrast enhanced (DCE) CT/MR.
 
 1. OHIF viewer installed locally and ready for testing/customization.
 1. Created local DCM4CHEE instance with toy data from Amsterdam and IDC
-1. 4D viewport created for OHIF/cornerstone3D (in OHIF [PR #3664](https://github.com/OHIF/Viewers/pull/3664), 
+1. 4D viewport created for OHIF/cornerstone3D (in OHIF [PR #3664](https://github.com/OHIF/Viewers/pull/3664),
    [cornerstone3D commit 42054522](https://github.com/cornerstonejs/cornerstone3D/commit/42054522680083aada25737d5e64fb22c24cb424)).
 1. Expand cornerstone functionality for splitting datasets into different frames [Cornerstone3D PR #1055](https://github.com/cornerstonejs/cornerstone3D/pull/1055).
 1. Fix bug in OHIF viewer breaking the scrollbar in `SidePanel` [da595489](https://github.com/JoostJM/Viewers/commit/da5954896a3efa0d42beb782087352758460fdad).
@@ -69,7 +69,7 @@ weighted imaging (DWI) and dynamic contrast enhanced (DCE) CT/MR.
 Next Steps/ToDo:
 
 1. During testing, a new use case emerged: Singe SeriesInstanceUID, but 2 valid 4D stacks,
-   identifiable by ImageType. To correctly handle this use case, data needs to be first split by 
+   identifiable by ImageType. To correctly handle this use case, data needs to be first split by
    ImageType, then by frame identifier (in this case TemporalPositionIndex).
 1. Additional ToDo's as specified in OHIF [PR #3664](https://github.com/OHIF/Viewers/pull/3664), concerning updates of
    the 4D datapanel GUI, and only displaying it when a valid 4D dataset is active.

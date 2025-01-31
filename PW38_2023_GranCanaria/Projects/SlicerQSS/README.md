@@ -30,7 +30,7 @@ Currently 3D Slicer support both QStyle based styling and QtStylesheets.  To imp
 
 1. Create QSS files for the existing Slicer Dark / Light themes
 1. Integrate qt-material package to support Material styles through python
-1. Create a SlicerThemes (?) extension which pulls in qt-material and add glue code 
+1. Create a SlicerThemes (?) extension which pulls in qt-material and add glue code
 
 ## Progress and Next Steps
 

@@ -11,12 +11,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 # Project Description
 
-The Visible Human Project produced a large data set of physical cross sections, MR, and CT of a human cadaver. 
-This data has been freely available but not redistributable for more almost two decades. Karl Heinz Hoehne from University of Hamburg 
-segmented the data and made beautiful rendering of the data in his VoxelMan system.  He has made his segmentation available for open use, and we hope it 
+The Visible Human Project produced a large data set of physical cross sections, MR, and CT of a human cadaver.
+This data has been freely available but not redistributable for more almost two decades. Karl Heinz Hoehne from University of Hamburg
+segmented the data and made beautiful rendering of the data in his VoxelMan system.  He has made his segmentation available for open use, and we hope it
 will allow us to redistribute the original data.
 
-See: 
+See:
 * [Visible Human Project home page](https://www.nlm.nih.gov/research/visible/visible_human.html)
 * [VHP description from Wikipedia](https://en.wikipedia.org/wiki/Visible_Human_Project)
 * [VoxelMan gallery](https://www.voxel-man.com/gallery/visible-human/)

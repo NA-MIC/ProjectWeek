@@ -75,7 +75,7 @@ jobs:
         echo "directory_name [$directory_name]"
 
         echo "name=$directory_name" >> $GITHUB_OUTPUT
-        
+
     - name: Check if project already exists
       id: check_project_exists
       run: |
@@ -96,13 +96,13 @@ jobs:
           ## Project Page Pull Request Creation
           :stop_sign: **STOPPED**: Project already exists
         edit-mode: replace
-    
+
     - name: Create project directory
       run: |
         event_name=${{ steps.event_info.outputs.name }}
         directory_name=${{ steps.project_directory.outputs.name }}
         mkdir $event_name/Projects/$directory_name
-    
+
     - name: Bulk issue body
       id: bulk
       env:
@@ -124,7 +124,7 @@ jobs:
           '/^### Progress and Next Steps/' \
           '/^### Illustrations/' \
           '/^### Background and References/' \
-          -f ${{ runner.temp }}/project_pull_request_part_ -b "%02d.md"    
+          -f ${{ runner.temp }}/project_pull_request_part_ -b "%02d.md"
 
     - name: Cleanup files
       run: |
@@ -136,18 +136,18 @@ jobs:
         cat ${{ runner.temp }}/project_pull_request_part_06.md | sed "1 d" > ${{ runner.temp }}/background.md
 
     - name: Display clean files
-      run: | 
-        echo "Description:"       
+      run: |
+        echo "Description:"
         cat ${{ runner.temp }}/description.md
-        echo "Objective:"       
+        echo "Objective:"
         cat ${{ runner.temp }}/objective.md
-        echo "Approach:"       
+        echo "Approach:"
         cat ${{ runner.temp }}/approach.md
-        echo "Progress:"       
+        echo "Progress:"
         cat ${{ runner.temp }}/progress.md
-        echo "Illustrations:"       
+        echo "Illustrations:"
         cat ${{ runner.temp }}/illustrations.md
-        echo "Background:"       
+        echo "Background:"
         cat ${{ runner.temp }}/background.md
 
 
@@ -263,4 +263,3 @@ jobs:
             repo: context.repo.repo,
             name: ["project:create"]
           })
-

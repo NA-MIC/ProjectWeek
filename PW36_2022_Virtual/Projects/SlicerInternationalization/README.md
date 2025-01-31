@@ -4,8 +4,8 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Key Investigators & Translators
 
-- Sonia Pujol (Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA) 
-- Steve Pieper (Isomics Inc., Cambridge, MA, USA) 
+- Sonia Pujol (Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA)
+- Steve Pieper (Isomics Inc., Cambridge, MA, USA)
 - Andras Lasso (Queen's University, Kingston, Canada)
 - Mamadou Camara (Université Cheikh Anta Diop, Dakar, Senegal)
 - Ibrahima Fall (Université Cheikh Anta Diop, Dakar, Senegal)
@@ -24,13 +24,13 @@ Back to [Projects List](../../README.md#ProjectsList)
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-The goal of the project is to increase access to 3D Slicer in non-English speaking countries to foster global community engagement. The project is funded through an Essential Open Source Software for Science grant of the Chan Zuckerberg Initiative. 
+The goal of the project is to increase access to 3D Slicer in non-English speaking countries to foster global community engagement. The project is funded through an Essential Open Source Software for Science grant of the Chan Zuckerberg Initiative.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-To identify members of the Slicer community interested in contributing translations in their native language. 
+To identify members of the Slicer community interested in contributing translations in their native language.
 
 ## Approach and Plan
 

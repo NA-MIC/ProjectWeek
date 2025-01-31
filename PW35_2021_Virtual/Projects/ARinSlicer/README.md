@@ -18,9 +18,9 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 <!-- Add a short paragraph describing the project. -->
 Augmented Reality has increase its adoption in many areas with exciting benefits. Universidad Carlos III de Madrid (Madrid, Spain) has already worked in several medical projects
-based on AR (see their progress in https://biig-igt.uc3m.es/augmented-reality/). On these studies, they usually export information from Slicer to an alternative software (Unity). 
+based on AR (see their progress in https://biig-igt.uc3m.es/augmented-reality/). On these studies, they usually export information from Slicer to an alternative software (Unity).
 
-The ultimate goal of this project is to check if it is possible to incorporate this technology directly to 3D Slicer in order to centralize the working process, at the time 
+The ultimate goal of this project is to check if it is possible to incorporate this technology directly to 3D Slicer in order to centralize the working process, at the time
 of benefiting from all Slicer tools.
 
 ## Objective
@@ -56,7 +56,7 @@ The immediate actions to take are listed there in the TODOS section: 1. and 2. s
 
 4. Alicia and Naghmeh additionally talked about connecting 3D Slicer and Unity in real time to send transformations between them. [Here](https://github.com/Lyla-M/UnityOpenIGTLink), [here](https://github.com/franklinwk/OpenIGTLink-Unity) and [here](https://github.com/thomasMuender/SlicerToUnity) you can find two GitHub projects that explain how to achieve this connection via OpenIGTLink.
 
-5. Alicia and Étienne met again after Project Week to discuss further about Étienne's work. He tracks a tool connected to Plus and Slicer via OpenIGTLink. He managed to send this information, in real-time, to a self-developed AR tablet application ([MARIN](https://github.com/AppliedPerceptionLab/MARIN)) using [IBIS](https://github.com/IbisNeuronav/Ibis). Everything is programmed in Qt (check out the Qt creator from Qt.io to start programming in Qt). 
+5. Alicia and Étienne met again after Project Week to discuss further about Étienne's work. He tracks a tool connected to Plus and Slicer via OpenIGTLink. He managed to send this information, in real-time, to a self-developed AR tablet application ([MARIN](https://github.com/AppliedPerceptionLab/MARIN)) using [IBIS](https://github.com/IbisNeuronav/Ibis). Everything is programmed in Qt (check out the Qt creator from Qt.io to start programming in Qt).
 
 
 

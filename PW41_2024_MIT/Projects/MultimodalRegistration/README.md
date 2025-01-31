@@ -35,8 +35,8 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-This project aims to develop a novel Slicer tool that combines machine learning with image processing technique with image processing techniques to automatically register MRI to Cone Beam CT (CBCT) images, enabling enhanced visualization and analysis of the TMJ complex.  By integrating MRI soft tissue information with CBCT bony details, this automated technique provides clinicians with a more comprehensive patient-specific 3D model of the TMJ to improve diagnostic accuracy and treatment planning. 
-Temporomandibular joint (TMJ) disorders affect a significant portion of the population and can cause chronic pain and disability. Accurate diagnosis is crucial for effective treatment planning, but can be challenging due to the complex anatomy and limited visibility of soft tissue structures on Cone Beam CT (CBCT) scans. MRI provides superior soft tissue contrast including the articular disc, but requires separate acquisition and manual registration with CBCT for detailed bone degeneration assessments. 
+This project aims to develop a novel Slicer tool that combines machine learning with image processing technique with image processing techniques to automatically register MRI to Cone Beam CT (CBCT) images, enabling enhanced visualization and analysis of the TMJ complex.  By integrating MRI soft tissue information with CBCT bony details, this automated technique provides clinicians with a more comprehensive patient-specific 3D model of the TMJ to improve diagnostic accuracy and treatment planning.
+Temporomandibular joint (TMJ) disorders affect a significant portion of the population and can cause chronic pain and disability. Accurate diagnosis is crucial for effective treatment planning, but can be challenging due to the complex anatomy and limited visibility of soft tissue structures on Cone Beam CT (CBCT) scans. MRI provides superior soft tissue contrast including the articular disc, but requires separate acquisition and manual registration with CBCT for detailed bone degeneration assessments.
 
 
 
@@ -62,7 +62,7 @@ The “Multimodal Registration MR2CBCT Project” aims to develop a sequennce of
    - The primary goal is to achieve precise registration between MRI and CBCT images. To accomplish this, we are exploring two main approaches:
 
 #### First Approach:
-   - **Image Transformation Model:** 
+   - **Image Transformation Model:**
      - Develop and train a model to transform MRI images into CBCT-like images.
    - **CBCT Registration:**
      - Utilize existing tools to register the transformed CBCT images with actual CBCT images.
@@ -79,7 +79,7 @@ The “Multimodal Registration MR2CBCT Project” aims to develop a sequennce of
 3. **Validate:**
    - Validate the best method accuracy through rigorous testing against established benchmarks.
    - Create the Slicer module interface
-   - Write documentationsand examples 
+   - Write documentationsand examples
 
 
 
@@ -89,7 +89,7 @@ The “Multimodal Registration MR2CBCT Project” aims to develop a sequennce of
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-### Previous work 
+### Previous work
 
 **Dataset Collection:**
    - We compiled a comprehensive dataset consisting of MRI and CBCT files.
@@ -101,10 +101,10 @@ The “Multimodal Registration MR2CBCT Project” aims to develop a sequennce of
      - Conducted automated segmentation of CBCT images as an initial step.
    - **Image Preprocessing:**
      - Invert the gray scale level of the MRI
-     - Normalize the MRI and the CBCT 
+     - Normalize the MRI and the CBCT
    - **Elastix-Based Registration:**
      - Working to use Elastix to do the registration between MRI and CBCT images using the manual segmentation. The MRI has been inverted to facilitate the registration process with Elastix.
-    
+
 ### Progress this week
 - Harmonization of Mutilmodal MRI and Cone Beam CT (CBCT) / monai normalization
 - Registration evaluation metrics : loss function (SSIM,NNC,NMI)
@@ -126,7 +126,7 @@ The “Multimodal Registration MR2CBCT Project” aims to develop a sequennce of
    - Validate the Motimodal Registration result through rigorous testing.
    - Create the Slicer module interface
    - Write documentation and examples
-  
+
 
 
 
@@ -148,4 +148,3 @@ The “Multimodal Registration MR2CBCT Project” aims to develop a sequennce of
 
 
 _No response_
-

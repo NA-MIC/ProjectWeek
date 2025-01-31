@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-### Longitudinal analysis of white matter connectivity changes prompted by concussions 
+### Longitudinal analysis of white matter connectivity changes prompted by concussions
 
 ## Key Investigators
 
@@ -19,7 +19,7 @@ Concussions (also known as mild traumatic brain injuries, or mTBIs) have relativ
 
 ## Approach and Plan
 
-The two PIs held preliminary discussions to identify Slicer modules and other software which can be used to automatically trace white matter fasciculi in dMRI volumes acquired from patients with concussions. It was agreed that the methodologies developed by the O'Donnell research group could have substantial potential for the longitudinal analysis being undertaken by the Irimia Laboratory at USC. One direction of particular interest involves the application of streamline analysis and atlas-based fiber labeling to identify perilesional fibers whose integrity could be affected by the breakdown of the blood-brain barrier (BBB). 
+The two PIs held preliminary discussions to identify Slicer modules and other software which can be used to automatically trace white matter fasciculi in dMRI volumes acquired from patients with concussions. It was agreed that the methodologies developed by the O'Donnell research group could have substantial potential for the longitudinal analysis being undertaken by the Irimia Laboratory at USC. One direction of particular interest involves the application of streamline analysis and atlas-based fiber labeling to identify perilesional fibers whose integrity could be affected by the breakdown of the blood-brain barrier (BBB).
 
 ## Progress and Next Steps
 
@@ -35,7 +35,7 @@ The PIs agreed to perform a feasibility assessment in order to determine the bes
 
 # Background and References
 
-More information on research being conducted in the Irimia Laboratory at USC can be found at [www.andrei-irimia.com]. 
+More information on research being conducted in the Irimia Laboratory at USC can be found at [www.andrei-irimia.com].
 
 More information about the white matter atlas and clustering from Dr. O'Donnell's group can be found at [http://dmri.slicer.org/atlases/]
 

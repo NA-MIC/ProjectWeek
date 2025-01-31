@@ -8,7 +8,7 @@
 
 # Project Description
 
-3D stereophotogrammetry has becoming increasingly common in biomedical and clinical fields as an economic, fast, flexible and safe (non-invasive, no radiation) way to achieve accurate 3D surface models. In particular, photogrammetry can acquire realistic surface texture that allows researchers and clinicians to accurately assess traits and placing landmarks. 
+3D stereophotogrammetry has becoming increasingly common in biomedical and clinical fields as an economic, fast, flexible and safe (non-invasive, no radiation) way to achieve accurate 3D surface models. In particular, photogrammetry can acquire realistic surface texture that allows researchers and clinicians to accurately assess traits and placing landmarks.
 
 To further reduce the cost and faciliate the use of photogrammetry, we want to build an open-source pipeline for photogrammetry in 3D Slicer for from digital image post-processing to photogrammetric 3d mesh reconstruction and texturing that incorporate open-source software and packages. Eventually, we will also create guidelines for clinicians and researchers, espically using mobile devices (e.g., smart phone), for Slicer-based photogrammetry.
 
@@ -56,11 +56,11 @@ To further reduce the cost and faciliate the use of photogrammetry, we want to b
 <p/>
 
 4. Future directions:
-* Merge texture images properly: 
+* Merge texture images properly:
   * I did not merge all 111 texture images because Blender requires me to add the same texture mapping node for every image. It appears that we can do python scripting in Blender. Thus, it might be useful to explore looping through every image using python and later connect to Slicer.
    * Find a proper way to merge texture to retain the resolution. I'm also checking with the ODM people to see if they can do it.
 * Follwing Andras' suggestion, directly access vtkRenderer() in Slicer scene to have stable rendering.
-* Steve suggested geometry accuracy is more important than visual fidelity at this moment and we can archiving images for adding more algorithms in the future, such as machine learning. For the near future, we can focus on first getting a pipeline based on ODM. In the long run, we should definitely consider adding machine/deep learning algorithms, for example, to image registration, which is the foundation of geometric & texture accuracy in structure-from-motion photogrammetry. This can also greatly improve the efficieny of photo taking. Currently, we have to take a lot photos carefully to ensure proper registration but it is still tricky. We will have more discussions with Murat. 
+* Steve suggested geometry accuracy is more important than visual fidelity at this moment and we can archiving images for adding more algorithms in the future, such as machine learning. For the near future, we can focus on first getting a pipeline based on ODM. In the long run, we should definitely consider adding machine/deep learning algorithms, for example, to image registration, which is the foundation of geometric & texture accuracy in structure-from-motion photogrammetry. This can also greatly improve the efficieny of photo taking. Currently, we have to take a lot photos carefully to ensure proper registration but it is still tricky. We will have more discussions with Murat.
 * We will also discuss how much we can rely on Slicer & how much we have to use 3rd party software & packages.
 
 
@@ -87,7 +87,7 @@ Example point cloud exported from webODM and loaded in Slicer using [this code](
 
 1. The repository for SlicerPhotoGram: [https://github.com/SlicerMorph/PhotoGram](https://github.com/SlicerMorph/PhotoGram).
 
-2. Currently, we have created a script [output_cropped_image.py](https://github.com/SlicerMorph/PhotoGram/blob/main/output_cropped_images.py) for loading digital image sequnece as a volume, crop each image using ROI tool for reducing background noise, and export each cropped slice as a tiff image. 
+2. Currently, we have created a script [output_cropped_image.py](https://github.com/SlicerMorph/PhotoGram/blob/main/output_cropped_images.py) for loading digital image sequnece as a volume, crop each image using ROI tool for reducing background noise, and export each cropped slice as a tiff image.
 
 3. WebODM for photogrammetry that rely on OpenCV and OpenSFM: [https://www.opendronemap.org/docs/](https://www.opendronemap.org/docs/) and [https://github.com/OpenDroneMap/WebODM](https://github.com/OpenDroneMap/WebODM).
 

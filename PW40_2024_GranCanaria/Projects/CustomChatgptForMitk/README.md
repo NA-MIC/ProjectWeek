@@ -12,7 +12,7 @@ key_investigators:
 - name: Ashis Ravindran
   affiliation: DKFZ
   country: Germany
-  
+
 - name: Stephen Schaumann
   affiliation: DKFZ
   country: Germany
@@ -49,7 +49,7 @@ Custom versions of ChatGPT for the users & developers of the Medical Imaging Int
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 1. We created a CustomGPT inside ChatGPT for MITK users. Introducing: *MITK Buddy* !
-    * URL: https://chat.openai.com/g/g-E36xLFyf5-mitk-buddy 
+    * URL: https://chat.openai.com/g/g-E36xLFyf5-mitk-buddy
     * Only available for ChatGPT Plus users and, upper limit on data.
     * -> Promising results (see image below), showing feasibility of the basic idea. However, this solution is not suitable for access within the application.
 2. We explored building our own (semi-)local solutions for retrieval-augmented generation.
@@ -70,7 +70,7 @@ Custom versions of ChatGPT for the users & developers of the Medical Imaging Int
 
 2. Locally deployable web-app solution based on OpenAI GPT4. Can be locked out of any external knowledge.
    ![MITK OpenAI](./MITK_local.png)
-   
+
 
 # Background and References
 

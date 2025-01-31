@@ -15,7 +15,7 @@ key_investigators:
 - name: Saima Safdar
   affiliation: The University of Western Australia
   country: Australia
-  
+
 - name: Andy Huynh
   affiliation: The University of Western Australia
   country: Australia

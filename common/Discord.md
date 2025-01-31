@@ -14,7 +14,7 @@ After Discord installation, please open the [Discord server link](https://discor
 
 ![](https://user-images.githubusercontent.com/18140094/149007887-704b51b2-2eac-4569-a7f0-739a8e1e72d5.png)
 
-The left panel lists text and voice/video channels. Each project gets its own text channel to chat and exchange links about the project progress. Additional text channels can be used by anyone for general announcements (#announcements), general discussion (#Lobby-1), gathering people for social event (#social), asking admins for the creation of a text channel for your project (#request-a-project-channel) or posting a job ad (#job-board). Voice channels are virtual meeting rooms that can be booked by creating an event or used spontaneously when available. Additional voice channels (Lobbys) can be used to gather randomly and chat. 
+The left panel lists text and voice/video channels. Each project gets its own text channel to chat and exchange links about the project progress. Additional text channels can be used by anyone for general announcements (#announcements), general discussion (#Lobby-1), gathering people for social event (#social), asking admins for the creation of a text channel for your project (#request-a-project-channel) or posting a job ad (#job-board). Voice channels are virtual meeting rooms that can be booked by creating an event or used spontaneously when available. Additional voice channels (Lobbys) can be used to gather randomly and chat.
 
 ## Project history
 
@@ -63,7 +63,7 @@ To be able to look at the screen someone else shares, you need to click "LIVE" Â
 
 ## Get rid of that annoying channel sounds?
 
-Go "User settings" (see below) and switch all those off: 
+Go "User settings" (see below) and switch all those off:
 
 ![](https://user-images.githubusercontent.com/18140094/149826117-3440c17e-70af-4e69-bb4c-ff2888c2fee5.png)
 
@@ -88,4 +88,3 @@ Go "User Settings"
 Go "Voice & Video" and select the correct input and output devices. When you are done, click ESC (right top symbol on screenshot)Â 
 
 ![](https://user-images.githubusercontent.com/18140094/149098459-b0207149-5fe9-4f24-a1d9-708592ee2dd2.png)
-

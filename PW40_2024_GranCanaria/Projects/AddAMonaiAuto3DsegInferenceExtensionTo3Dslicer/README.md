@@ -27,7 +27,7 @@ key_investigators:
 
 - name: Umang Pandey
   affiliation: Universidad Carlos III de Madrid
-  country: Spain    
+  country: Spain
 
 ---
 
@@ -58,21 +58,21 @@ In addition, we will train a lung lobe and airway model which should be availabl
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Andras developed a new extension MONAI Auto3DSeg
-2. It can be downloaded via the extension manager. 
+2. It can be downloaded via the extension manager.
 3. Andres created 3 Auto3DSeg models already to enable direct inference with CT datasets
    ![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/10bcc813-c4e6-4e6a-ae8e-0d3cf51b0ab3)
 
 4. The best models get automatically downloaded for each process
-5. They will be improved with further training 
+5. They will be improved with further training
 6. In future, we attempt to enable your own training of Auto3DSeg models in MONAILabel.
 
    ![image](https://github.com/NA-MIC/ProjectWeek/assets/18140094/ea045d96-ab84-4469-86e0-acbd7bec01ad)
 
 2/24/2024
 
-Andres and Andras achieved relevant progress working on the extension during the last weeks: 
+Andres and Andras achieved relevant progress working on the extension during the last weeks:
 
-The extension 
+The extension
 - is now much faster
 - has a wider range of available models
 - includes low res models which use less VRAM
@@ -83,7 +83,7 @@ The extension
 
 (using NVIDIA RTX Geforce 3070 Ti)
 
-We´ll continue to add relevant models. 
+We´ll continue to add relevant models.
 
 # Illustrations
 

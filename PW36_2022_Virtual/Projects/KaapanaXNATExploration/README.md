@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Investigation of Kaapana and XNAT as platforms for data management and collaborative research  
+# Investigation of Kaapana and XNAT as platforms for data management and collaborative research
 
 ## Key Investigators
 

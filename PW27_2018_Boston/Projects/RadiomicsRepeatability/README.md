@@ -21,7 +21,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 ## Approach and Plan
 
-1. Review/discuss approaches from current literature 
+1. Review/discuss approaches from current literature
 1. Investigate the results on the Prostate MRI test-retest data
 1. Draft a paper on pyradiomics repeatability evaluated on the Prostate MRI test-retest data
 

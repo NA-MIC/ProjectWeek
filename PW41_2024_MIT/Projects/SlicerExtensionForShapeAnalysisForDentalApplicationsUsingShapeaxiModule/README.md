@@ -48,7 +48,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-ShapeAXI is a shape analysis package integrating different models for shape analysis. 
+ShapeAXI is a shape analysis package integrating different models for shape analysis.
 ShapeAxi has demonstrated good performance on Cleft defects and to some extent condylar shape degeneration. We propose to create an extension of classification for different datasets.
 
 
@@ -86,11 +86,11 @@ ShapeAxi has demonstrated good performance on Cleft defects and to some extent c
 
 1. Progress
 - Models have been trained for cleft and. condyles
-- Newest models are being tested on airways (4 classes) 
+- Newest models are being tested on airways (4 classes)
 - A little work has been done on the extension
 2. Next steps
-- Make sure all preliminary steps have no issue 
-- Integrating shapeaxi package 
+- Make sure all preliminary steps have no issue
+- Integrating shapeaxi package
 - Testing of UI to improve accessibility
 
 
@@ -104,7 +104,7 @@ User Interface
 
 <img width="605" src="https://raw.githubusercontent.com/lucieDLE/ProjectWeek/master/PW41_2024_MIT/Projects/SlicerExtensionForShapeAnalysisForDentalApplicationsUsingShapeaxiModule/user_interface.png">
 
-Condyles binary classification 
+Condyles binary classification
 
 <img width="605" alt="Screenshot 2024-06-19 at 3 06 19 PM" src="https://github.com/NA-MIC/ProjectWeek/assets/61992838/e0742171-b0b1-4ec5-860b-855eefd9b8fb">
 
@@ -123,4 +123,3 @@ Cleft severity classification
 
 
 - [https://github.com/DCBIA-OrthoLab/ShapeAXI](https://github.com/DCBIA-OrthoLab/ShapeAXI)
-

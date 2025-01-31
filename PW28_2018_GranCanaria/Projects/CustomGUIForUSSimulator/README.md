@@ -32,11 +32,11 @@ The main goal of this project is to develop a custom graphic user interface (GUI
 We defined several sketches and chose the better sketch which satisfied the user requirements:
    - US images in 2D viewer
    - 3D scene for the training system (tools and phantom)
-   - IGT connection management (buttons and text) 
+   - IGT connection management (buttons and text)
 
-In first proposal, we implemented the chosen user interface in slicelet module. The slicelet provides a simple way to customize the user interface but our real-time requirement is not fulfilled.    
+In first proposal, we implemented the chosen user interface in slicelet module. The slicelet provides a simple way to customize the user interface but our real-time requirement is not fulfilled.
 
-In second proposal, we developed the user interface in Guidelet module after the Perklab team's suggestion. This guidelet is better suited to real-time applications and, hence, we decided to implement this alternative solution. The user interface is based on the template provided by the Guidelet module.  
+In second proposal, we developed the user interface in Guidelet module after the Perklab team's suggestion. This guidelet is better suited to real-time applications and, hence, we decided to implement this alternative solution. The user interface is based on the template provided by the Guidelet module.
 
 In this week, we developed a fully operational interface that can be used as GUI for our US simulator training system instead of the standard 3D Slicer one. We consider that the new, simpler interface is more suitable to include the simulator in training course for students.  Moreover, we learnt the way to modify sensitive aspects such as viewer layout, buttons, check boxes and other widgets, in anticipation of the changes that clinicians and users may request or suggest in the future.
 
@@ -66,7 +66,7 @@ GUI in Slicelet version
 
 GUI in Guidelet version
 
-  
+
 
 <!--![Description of picture](Example2.jpg)-->
 

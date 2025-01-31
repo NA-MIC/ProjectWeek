@@ -91,8 +91,7 @@ Currently, DeCA exists as a prototype that can be run within 3D Slicer. We have 
 
 Source: [https://github.com/smrolfe/DeCA](https://github.com/smrolfe/DeCA)
 
-Publications: 
+Publications:
 - Rolfe, S. M., and A. Murat Maga. "DeCA: A Dense Correspondence Analysis Toolkit for Shape Analysis." International Workshop on Shape in Medical Imaging. Cham: Springer Nature Switzerland, 2023.
 
 - Rolfe, S. M., Mao, D., & Maga, A. M. (2024). Streamlining Asymmetry Quantification in Fetal Mouse Imaging: A Semi-Automated Pipeline Supported by Expert Guidance. bioRxiv, 2024-10.
-

@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 ## Key Investigators
 
 - [Juan-Carlos Prieto](https://github.com/juanprietob) (University of North Carolina)
-- [Nina Tubau](https://github.com/ninatubau) (University of Michigan) 
+- [Nina Tubau](https://github.com/ninatubau) (University of Michigan)
 
 # Project Description
 

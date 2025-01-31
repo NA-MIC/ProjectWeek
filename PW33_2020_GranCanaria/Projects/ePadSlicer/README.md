@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# ePAD/Slicer Bridge and Segmentation Plugin 
+# ePAD/Slicer Bridge and Segmentation Plugin
 
 ## Key Investigators
 
@@ -32,7 +32,7 @@ Open dockerized Slicer from ePad, open segmentation plugin and save the segmetat
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Update [SlicerChronicle](https://github.com/pieper/SlicerChronicle) to python3 and Slicer 4.11 
+1. Update [SlicerChronicle](https://github.com/pieper/SlicerChronicle) to python3 and Slicer 4.11
 1. Generalize plan to work with locally running Slicer with Chronicle enabled (same code will work with cloud Slicer with or without docker container)
 1. Update json job request file format
 1. Test with local dicomweb-server

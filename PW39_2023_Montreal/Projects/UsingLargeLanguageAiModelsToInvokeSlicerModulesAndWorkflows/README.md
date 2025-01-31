@@ -56,15 +56,15 @@ The goal of this project proposal is to schedule a meeting during Project Week t
 
 ## Progress and Next Steps
 
-*   There is already work underway in our community with large language models.  Some of this work was demonstrated during our meeting this week.  
+*   There is already work underway in our community with large language models.  Some of this work was demonstrated during our meeting this week.
 *   We researched several open-source LLM repositories that allow connection to external APIs (Application Programming Interfaces), such as what Slicer has with the web interface
 *   A productive meeting was held this week.  Rudolf showed how Slicer documentation could be used to fine tune a LLM as a question-answering system (see attached notebook shared on Slicer discourse).  Justin discussed the work on LLMs for IDC Query.  We discussed training LLMs on documentation will be easier in the short term, since changes in the Slicer state (change in the MRML tree after running a model) is hard to represent semantically. Theodore demonstrated how the browser extension of GPT4 gives better answers than the base model.
 *   We achieved our goal of an initial meeting. During the meeting we discussed the "nearer term" goals of training an LLM to answer questions about 3D Slicer.  General invocation of Slicer modules in a workflow is farther off yet, since it is hard to define the semantics of Slicer modules. Therefore, the LLM wouldn't be able to reliably learn how to compose a workflow of Slicer API calls.
-*   Thanks for everyone's contributions to this brainstorming session.  The interactive demonstrations were appreciated. 
+*   Thanks for everyone's contributions to this brainstorming session.  The interactive demonstrations were appreciated.
 
- 
+
 # Illustrations
-The technology to train and inference large language models is changing.  Formerly, all data was in the permanent training set and used to directly train internal model weights.  Now documents are vectorized and used for searching during the inference process, as illustrated below. LLMs are developing to have APIs that can be used to incorporate these run-time searchable documents 
+The technology to train and inference large language models is changing.  Formerly, all data was in the permanent training set and used to directly train internal model weights.  Now documents are vectorized and used for searching during the inference process, as illustrated below. LLMs are developing to have APIs that can be used to incorporate these run-time searchable documents
 ![LLMTechStack](https://data.kitware.com/api/v1/file/648af6ae488633cbb1275d6a/download)
 
 In addition to this trend, some LLMs (Gorilla, for example)) are designed to be able to search pre-processed API descriptions and then invoke external APIs during the inferencing step.  The photo below shows how external APIs to convert speech to text, generate images, etc. are available for the LLM to use during inferencing:
@@ -80,7 +80,7 @@ Hugging Face has a new API called "Agents" that is designed to use tools accordi
 
 Thoughts on how the advent of LLMs can change our interface to complex software: <https://nickarner.com/notes/llm-powered-assistants-for-complex-interfaces-february-26-2023/>
 
-Early work in the commmunity to automatically generate Imaging Data Commons BigQueries from free text prommpts: <https://discourse.canceridc.dev/t/text2cohort-a-new-llm-toolkit-to-query-idc-database-using-natural-language-queries/>.  This solution exhibits some hallucination, which has been addressed by the work Justin is engaged with. 
+Early work in the commmunity to automatically generate Imaging Data Commons BigQueries from free text prommpts: <https://discourse.canceridc.dev/t/text2cohort-a-new-llm-toolkit-to-query-idc-database-using-natural-language-queries/>.  This solution exhibits some hallucination, which has been addressed by the work Justin is engaged with.
 
 **Using Slicer documentation as searchable content for GPT:** A link to Rudolf's ipython notebook that he presented during our meeting. Slicer docs were vectorized and used by the Langchain tools to assist GPT to provide better answers:
 https://discourse.slicer.org/t/langchain-query-the-complete-3d-slicer-documentation-script-repository-and-faq-pdf-and-html-with-openai-llm/28746/6

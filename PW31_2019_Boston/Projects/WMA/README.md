@@ -23,8 +23,8 @@ Software for data-driven white matter parcellation
 1. Improve user documentation and results checking documentation based on user feedback.
 1. Investigate alternatives for documentation.
 1. Create batch script to run entire pipeline.
-1. Update all versions of documentation; remove unused. 
-1. http://dmri.slicer.org/whitematteranalysis/ 
+1. Update all versions of documentation; remove unused.
+1. http://dmri.slicer.org/whitematteranalysis/
 1. https://projects.iq.harvard.edu/whitematteranalysis/publications
 
 ## Approach and Plan
@@ -40,7 +40,7 @@ Software for data-driven white matter parcellation
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE. If there are specific steps that you could not complete then you can describe them here, too. -->
 
 1. Batch script for running the fiber clustering pipeline is done.
-1. Tested by mutltiple collaborators. 
+1. Tested by mutltiple collaborators.
 1. Documentation of step-by-step instructions is done. It currently in a Google Doc and needs to be released donline soon.
 
 # Illustrations
