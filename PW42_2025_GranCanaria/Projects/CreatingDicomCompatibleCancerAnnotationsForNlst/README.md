@@ -82,12 +82,11 @@ We will first convert the json point annotations to DICOM Structured Reports. Th
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
-
-https://github.com/user-attachments/assets/e2fa70b3-4422-492c-b82c-9e6193003385
-
-
-
+<video
+   controls muted
+   src="https://github.com/user-attachments/assets/e2fa70b3-4422-492c-b82c-9e6193003385"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
 
 # Background and References
