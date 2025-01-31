@@ -67,7 +67,7 @@ The Julich-Brain is the foundation of the [Multilevel Human Brain Atlas](https:/
 
 
 
-I  spent the most time exploring the latest Julich dataset published on EBRAIN and adapting the formats of certain annotations, colormaps and ontologies (thanks to Mura) to 3D Slicer. In the first figure you can see one of the labelsmap in the MNI template.
+I  spent the most time exploring the latest Julich dataset published on EBRAIN and adapting the formats of certain annotations, colormaps and ontologies (thanks to Murat Maga) to 3D Slicer. In the first figure you can see one of the labelsmap in the MNI template.
 And in the second one the Julich anotations in the Freesurfer Fsaverage template in the pial and inflate surfaces.
 
 #### Next Steps
