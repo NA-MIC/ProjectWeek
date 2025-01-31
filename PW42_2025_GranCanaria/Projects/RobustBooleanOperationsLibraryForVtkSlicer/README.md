@@ -17,12 +17,12 @@ key_investigators:
   country: Canada
 
 - name: Steve Pieper
-  affiliation: Isomics
-  country: Inc., USA
+  affiliation: Isomics Inc.
+  country: USA
 
 - name: Jean-Christophe Fillion-Robin
   affiliation: Kitware Inc.
-  country: US
+  country: USA
 
 ---
 

@@ -22,11 +22,11 @@ key_investigators:
 
 - name: Steve Pieper
   affiliation: Isomics Inc.
-  country: US
+  country: USA
 
 - name: Junichi Tokuda
   affiliation: Brigham and Women's Hospital
-  country: US
+  country: USA
 
 - name: Laura Connolly
   affiliation: Queen's University
@@ -34,7 +34,7 @@ key_investigators:
 
 - name: Anton Deguet
   affiliation: Johns Hopkins University
-  country: US
+  country: USA
 
 ---
 

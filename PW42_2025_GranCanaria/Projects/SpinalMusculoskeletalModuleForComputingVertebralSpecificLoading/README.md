@@ -9,16 +9,16 @@ category: Quantification and Computation
 key_investigators:
 
 - name: Csaba Pinter
-  affiliation: Ebatinca
-  country: S.L., Spain
+  affiliation: Ebatinca S.L.
+  country: Spain
 
 - name: Ron Alkalay
   affiliation: Beth Israel Deaconess Medical Center
-  country: US
+  country: USA
 
 - name: Dennis Anderson
   affiliation: Beth Israel Deaconess Medical Center
-  country: US
+  country: USA
 
 - name: Vy Hong
   affiliation: Technical University Munich
@@ -29,12 +29,12 @@ key_investigators:
   country: Germany
 
 - name: Steve Pieper
-  affiliation: Isomics
-  country: Inc., USA
+  affiliation: Isomics Inc.
+  country: USA
 
 - name: Andras Lasso
   affiliation: Queen’s University
-  country: Canada?
+  country: Canada
 
 - name: Ron Kikinis
   affiliation: Brigham and Women’s Hospital and Harvard Medical School

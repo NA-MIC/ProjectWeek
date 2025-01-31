@@ -16,8 +16,8 @@ key_investigators:
   country: USA
 
 - name: Steve Pieper
-  affiliation: Isomics
-  country: Inc., USA
+  affiliation: Isomics Inc.
+  country: USA
 
 - name: Andrey Fedorov
   affiliation: BWH

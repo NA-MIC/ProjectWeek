@@ -18,7 +18,7 @@ key_investigators:
 
 - name: Jean-Christophe Fillion-Robin
   affiliation: Kitware
-  country: US
+  country: USA
   
 - name: Andres Diaz-Pinto
   affiliation: NVIDIA
