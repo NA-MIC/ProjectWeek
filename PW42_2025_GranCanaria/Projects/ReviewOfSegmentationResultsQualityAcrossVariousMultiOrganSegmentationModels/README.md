@@ -36,6 +36,10 @@ key_investigators:
   affiliation: University of Zurich
   country: Switzerland
 
+- name: Klaus Maier-Hein
+  affiliation: DKFZ
+  country: Germany
+
 ---
 
 # Project Description
@@ -108,8 +112,9 @@ c.download_from_selection(downloadDir=".",seriesInstanceUID=test_series)
 3. Collected results from Auto3DSeg and OMAS, in addition to TotalSegmentator v1 and MOOSE for the test sample.
 4. Finished [SNOMED mapping for OMAS](https://docs.google.com/spreadsheets/d/1pBicNskjMDJBnD3w4yAQroj8SGSAhDfA_TUK24dLEyc/edit?gid=1390863317#gid=1390863317).
 5. Harmonized mapping from model-specific labels to SNOMED-CT codes and consistent colors for Auto3DSeg and MOOSE (see CSV files [here](https://github.com/NA-MIC/ProjectWeek/tree/master/PW42_2025_GranCanaria/Projects/ReviewOfSegmentationResultsQualityAcrossVariousMultiOrganSegmentationModels)) - [Google Sheet with current mapping](https://docs.google.com/spreadsheets/d/10VNy3kjaeXOgCRSgInCKH014134ZbD5Ezju7zZvVCRY/edit?gid=0#gid=0). Didn't finish this for OMAS!
-6. Explored Slicer capabilities for joint visualization of the segmentation results.
-7. Co-authored with Perplexity a Google Apps script for coloring Google Sheets cells based on the RGB string - helpful for quickly evaluating color selection.
+6. Explored Slicer capabilities for joint visualization of the segmentation results, identified relevant features thanks to Steve!
+7. Received Multitalent model segmentation results from Klaus Maier-Hein.
+8. Co-authored with Perplexity a Google Apps script for coloring Google Sheets cells based on the RGB string - helpful for quickly evaluating color selection.
 
 ![](ts_a3ds_m.jpg)
 ![](ts_gaps.jpg)
