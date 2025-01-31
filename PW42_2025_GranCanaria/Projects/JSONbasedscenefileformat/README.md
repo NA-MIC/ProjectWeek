@@ -84,14 +84,11 @@ With this setup, we would start a first step for future adoption and compatibili
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
 1. Get feedback on the current preliminary implementation [PR](https://github.com/Slicer/Slicer/pull/8141) and work a final design for the JSON based node status/scene file format.
+2. Discuss real-time collaboration toolkits for medical application (e.g. Omniverse)
 
 
 ## Approach and Plan
-
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 1. Have a meeting/demo with people interested for colletting feedback.
 1. Work on the final design of the JSON based node status/scene file format.
@@ -100,27 +97,34 @@ With this setup, we would start a first step for future adoption and compatibili
 ## Progress and Next Steps
 
 ### Progress
-1. Meeting done on Tuesday. Key notes taken by JC:
-[https://github.com/Slicer/Slicer/pull/8141#issuecomment-2618876551](https://github.com/Slicer/Slicer/pull/8141#issuecomment-2618876551)
-   - Supporting partial updates to the scene is an interesting direction.
+- Draft [PR](https://github.com/Slicer/Slicer/pull/8141) is already functional. The primary advantage of using JSON is that arrays are printed in a standardized format, unlike the XML format, which uses a Slicer-specific structure that can vary between arrays, subject hierarchy items attributes, etc. Below is an example comparing the scene in XML and JSON formats:
+ 
+| XML | JSON |
+|--- | ---|
+|<img src="https://github.com/user-attachments/assets/44f93b00-e287-4018-a563-bbf78aaaa8c0" width="500"> | <img src="https://github.com/user-attachments/assets/dabe1c07-7520-4f0c-ba32-132e5876118f" width="500"> |
+
+- Testing reading/writing perfomances for the **Scene-Level** use case with 100 markups lines:
+   - XML: write 0.009117 ± 0.000674 sec, read 0.137960 ± 0.038905 sec
+   - JSON: write 0.046738 ± 0.020891 sec, read 0.180462 ± 0.013206 sec
+   - Relative performance factors are ~5.13x slower for writing and ~1.31x slower for reading when using JSON compared to XML.
+   - Scene writing could be optimized further, although the time for processing 100 markup lines is < 0.05 seconds. Further investigation is needed to estimate perfomances on very large scenes.
+- Meeting done on Tuesday. Key notes taken by JC:
+https://github.com/Slicer/Slicer/pull/8141#issuecomment-2618876551
+   - Supporting partial updates to the scene is an interesting direction, particularly with Node Status printing/updating to enable partial node modifications.
    - Introducing `macros` for automatic schema generation would be beneficial.
    - Exploring `GraphQL` support could enable batched updates through mutations. Integration could leverage libraries such as `cppgraphqlgen`, as `libgraphqlparser` appears unmaintained.
    - Investigate VTK serialization capabilities in recent versions, which might complement this work.
-1. The discussion with NVIDIA will be further explored to assess Slicer support and interoperability with OpenUSD/Omniverse for a medical real-time collaboration tool within Omniverse.
-1. Testing reading/writing perfomances for the **Scene-Level** use case with 100 markups lines:
-   - XML: write 0.00911713 ± 0.000674, read sec 0.13796 ± 0.038905 sec
-   - JSON: write 0.0467375 ± 0.020891, read sec 0.180462 ± 0.013206 sec
-   - i.e. speed factors are: ~5.13 in writing - ~1.31 in reading
-   - full scene writing could be optimized further, although the time for processing 100 markup lines is < 0.05 seconds.
+- The discussion with NVIDIA will be further explored to assess Slicer support and interoperability with OpenUSD/Omniverse for a medical real-time collaboration tool within Omniverse.
 
-
+  
 ### Next Steps
 1. When calling `WriteJSONToString` for `storageNodes`, we need to stringify certain parts of the node state information (for the single **Node Status - real-time collaboration** use case).  
-   - **Markups** use `vtkMRMLMarkupsJsonStorageNode`, which already utilizes the JSON format. However, the current infrastructure only allows saving this information to a file. We need to refactor `vtkMRMLMarkupsJsonStorageNode` to use `vtkMRMLMarkupsJsonWriter` for stringifying to a stream instead of a file, enabling access to its methods from Python.
-   - **Transforms** use `vtkMRMLTransformStorageNode` -> `itk::TransformFileWriter` has the the same issue of the Markups writer.
+   - **Markups** use `vtkMRMLMarkupsJsonStorageNode`, which already utilizes the JSON format. However, the current infrastructure only allows saving this information to a file. We need to refactor `vtkMRMLMarkupsNode` and `vtkMRMLMarkupsJsonStorageNode` to use `vtkMRMLMarkupsJsonWriter` for stringifying to a stream instead of a file, enabling access to its methods from Python. 
+   - **Transforms** use `vtkMRMLTransformStorageNode` -> `itk::TransformFileWriter` has the the same issue of the Markups writer. We would need to refactor at the `vtkMRMLNode` to be able to switch between writing to file and to a stream. 
    - **Volumes/Segmentations/Models**: For now, storing the file location should suffice, but in the future, we may need to pass `imageData` as a blob.  
 
 1. Add automated tests to cover all MRML nodes in Slicer core/modules.
+1. Investigate each feedback point gathered during the Tuesday meeting.
   
 # Background and References
 
@@ -128,7 +132,6 @@ With this setup, we would start a first step for future adoption and compatibili
      If possible, also add links to sample data, and to any relevant publications. -->
 
 [PR](https://github.com/Slicer/Slicer/pull/8141)
-
 
 
 
