@@ -150,5 +150,4 @@ A few shortcomings:
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     This project relies on the "Builds of Slicer for ARM-based systems Mac and Linux" project [https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/BuildsOfSlicerForArmBasedSystemsMacAndLinux/]
+This project relies on the "Builds of Slicer for ARM-based systems Mac and Linux" project [[https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/BuildsOfSlicerForArmBasedSystemsMacAndLinux/](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/BuildsOfSlicerForArmBasedSystemsMacAndLinux/)]
