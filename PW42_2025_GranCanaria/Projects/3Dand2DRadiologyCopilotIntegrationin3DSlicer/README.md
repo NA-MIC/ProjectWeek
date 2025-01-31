@@ -64,8 +64,8 @@ This project aims to create the first 3D and 2D radiology copilot in 3D Slicer b
 
 # Background and References
 
-- NVIDIA Holoscan SDK: https://github.com/nvidia-holoscan/holoscan-sdk
-- East River Imaging: https://eastriverimaging.com/
-- NVIDIA: www.nvidia.com
-- RadImageNet dataset: https://www.radimagenet.com/
-- MONAI VILA-M3 paper: https://arxiv.org/pdf/2411.12915
+- [NVIDIA Holoscan SDK](https://github.com/nvidia-holoscan/holoscan-sdk)
+- [East River Imaging](https://eastriverimaging.com/)
+- [NVIDIA](www.nvidia.com)
+- [RadImageNet dataset](https://www.radimagenet.com/)
+- [MONAI VILA-M3 paper](https://arxiv.org/pdf/2411.12915)
