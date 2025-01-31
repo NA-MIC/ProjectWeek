@@ -13,11 +13,12 @@ key_investigators:
   country: Italy
 
 - name: Andrey Fedorov
-  affiliation: Brigham and Women's Hospital
-  country: Harvard Medical Schools, USA
+  affiliation: Brigham and Women's Hospital, Harvard Medical Schools
+  country: USA
 
 - name: Jean-Christophe Fillion-Robin
-  affiliation: Kitware Inc., US
+  affiliation: Kitware Inc.
+  country: USA
 
 ---
 

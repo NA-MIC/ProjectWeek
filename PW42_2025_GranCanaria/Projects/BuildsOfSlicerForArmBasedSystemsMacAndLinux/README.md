@@ -10,13 +10,13 @@ key_investigators:
   country: UK
 - name: Steve Pieper
   affiliation: Isomics
-  country: US
+  country: USA
 - name: Rafael Palomar
   affiliation: OUH
   country: Norway
 - name: Jean-Christophe Fillion-Robin
   affiliation: Kitware
-  country: US
+  country: USA
 - name: Andras Lasso
   affiliation: Queen's University
   country: CA

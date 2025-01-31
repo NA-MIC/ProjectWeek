@@ -18,11 +18,11 @@ key_investigators:
 
 - name: Steve Pieper
   affiliation: Isomics Inc.
-  country: US
+  country: USA
 
 - name: Jean-Christophe Fillion-Robin
   affiliation: Kitware Inc.
-  country: US
+  country: USA
 
 - name: Andras Lasso
   affiliation: Queen's University
@@ -30,7 +30,7 @@ key_investigators:
 
 - name: Sam Horvath
   affiliation: Kitware Inc
-  country: US
+  country: USA
 
 ---
 

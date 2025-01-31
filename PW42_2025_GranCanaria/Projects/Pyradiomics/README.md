@@ -14,7 +14,7 @@ key_investigators:
   
 - name: Jean-Christophe Fillion-Robin
   affiliation: Kitware Inc.
-  country: US
+  country: USA
 
 ---
 

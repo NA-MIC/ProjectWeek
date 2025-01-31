@@ -9,11 +9,11 @@ category: Segmentation / Classification / Landmarking
 key_investigators:
 
 - name: Mike Jin
-  affiliation: Centaur Labs
-  country: Brigham and Women's Hospital, USA
+  affiliation: Centaur Labs, Brigham and Women's Hospital
+  country: USA
 
 - name: Tamas Ungi
-  affiliation: Queens University
+  affiliation: Queens's University
   country: Canada
 
 - name: Fahimeh Fooladgar

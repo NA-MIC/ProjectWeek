@@ -15,13 +15,13 @@ key_investigators:
   country: Canada  
 - name: Vishwesh Nath
   affiliation: NVIDIA
-  country: US
+  country: USA
 - name: Nigel Nelson
   affiliation: NVIDIA
-  country: US
+  country: USA
 - name: Sean Huver
   affiliation: NVIDIA
-  country: US
+  country: USA
 - name: Mingxin Zheng
   affiliation: NVIDIA
   country: China

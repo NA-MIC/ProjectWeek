@@ -13,8 +13,8 @@ key_investigators:
   country: Spain
 
 - name: Andras Lasso
-  affiliation: PerkLab
-  country: Queen's, Canada
+  affiliation: PerkLab, Queen's University
+  country: Canada
 
 - name: Matt Jolley
   affiliation: CHOP
