@@ -79,7 +79,7 @@ Our goal is to migrate the DICOM WSI conversion to use community-supported open 
   * https://github.com/imi-bigpicture/wsidicomizer/issues/118
   * https://github.com/imi-bigpicture/wsidicomizer/issues/123
 6. Discussed various issues related to conversion and shared experience; reached agreement `wsidicomizer` is the best choice given combined experience, and very good support from Erik.
-7. Identified issues in `dicom3tools` building it in Colab VM - fixed by David Clunie (link to the final notebook to be shared later).
+7. Identified issues in `dicom3tools` building it in Colab VM - fixed by David Clunie ([notebook](https://colab.research.google.com/drive/17Ce67NY3dhoIPKLBdgouSIESwgoRG0P_?usp=sharing)).
 
 Query for selecting samples from IDC based on `TransferSyntaxUID` applied to the base layer of the image pyramid:
 
