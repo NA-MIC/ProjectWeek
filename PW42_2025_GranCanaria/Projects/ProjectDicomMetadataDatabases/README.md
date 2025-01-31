@@ -79,6 +79,51 @@ Goal of the project is to investigate existing and new approaches to handle the 
 
 > [!CAUTION]
 > SQLite's [arrow operator ->](https://sqlite.org/json1.html#jptr) seems to behave differently if the key consists solely of digits. This can lead to surprises when working with DICOM tags whose hexadecimal representation sometimes contains letters, but sometimes only digits ...
+
+### Count images per modality
+
+```SQL
+SELECT COUNT(*) AS [Number of records], json_extract(jsonb_data, "$.00080060.Value")
+FROM dicom_files
+GROUP BY json_extract(jsonb_data, "$.00080060.Value");
+```
+It's also possible to create an index on fields, e.g. for modality
+
+```SQL
+CREATE INDEX modality ON dicom_files (json_extract(jsonb_data, "$.00080060.Value") );
+```
+
+### Count number of series per modality
+
+```SQL
+-- Count number of series per modality
+-- SQLite
+SELECT
+ json_extract(jsonb_data, "$.00080060.Value"),
+ COUNT(DISTINCT(json_extract(jsonb_data, "$.0020000D.Value"))) AS num_series
+FROM
+ dicom_files
+GROUP BY
+ json_extract(jsonb_data, "$.00080060.Value")
+ORDER BY
+ num_series desc
+```
+
+```SQL
+-- Count number of series per modality
+-- IDC BigQuery 
+SELECT
+ Modality,
+ COUNT(DISTINCT(SeriesInstanceUID)) AS num_series
+FROM
+ `bigquery-public-data.idc_current.dicom_all`
+GROUP BY
+ Modality
+ORDER BY
+ num_series desc
+```
+
+### Find all series which contain a LOCALIZER ImageType
  
 ```SQL
 -- Find all series which contain a LOCALIZER ImageType
