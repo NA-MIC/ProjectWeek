@@ -79,7 +79,7 @@ Goal of this project is to evaluate all exchangeable components to ensure optima
 
 1. Setup of public Kaapana server in preparation of the DICOM conectathon at: 172.16.17.47
 2. Some progress in containerizing QuPath within Kaapana to serve as viewer from Objectstorage (NOT from PACS)
-3. Evaluating https://github.com/huangch/openremoteslide as additional extension for communication with external server
+3. Evaluating [https://github.com/huangch/openremoteslide](https://github.com/huangch/openremoteslide) as additional extension for communication with external server
 4. Testing some interoperability components for Zeiss WSI files. 
 
 
