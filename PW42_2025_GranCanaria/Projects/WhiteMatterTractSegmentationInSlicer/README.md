@@ -58,6 +58,9 @@ Investigating and incorporating additional (semi-)automatic tract segmentation a
 
 3. The aim is to explore and implement additional tract segmentation algorithms that align with the SlicerDMRI framework.
 
+   
+<img width="668" alt="Screenshot 2025-01-31 at 09 58 20" src="https://github.com/user-attachments/assets/98cb9ecf-2520-4760-84e5-0294763a3c4e" />
+
 
 
 
@@ -67,7 +70,16 @@ Investigating and incorporating additional (semi-)automatic tract segmentation a
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Started building a 3D Slicer extension for atTRACTive (interactive white matter tract segmentation with active learning).
+2. Implemented preprocessing necessary for classification, such as resampling fibers to an equal number of points.
+3. Worked on the frontend-implemented interactor; users are now able to annotate subsets of single fibers from the initial input data.
+
+   <img width="1235" alt="Screenshot 2025-01-31 at 10 06 27" src="https://github.com/user-attachments/assets/34a18a8b-e32c-4c01-b7d8-4f94030857f0" />
+
+
+4. TBD: Implement the classification and active learning setup in the backend
+
+
 
 
 
