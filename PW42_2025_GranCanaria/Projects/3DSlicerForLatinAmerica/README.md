@@ -75,6 +75,10 @@ key_investigators:
   affiliation: Isomics Inc.
   country: USA
 
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware Inc.
+  country: USA
+
 ---
 
 # Project Description
@@ -111,13 +115,18 @@ The project aims to empower the biomedical research community in Latin America b
 
 2. Code improvement
 
-- Creation of a GitHub Action to run the tests of the extension on pushing main or develop
+- Creation of a GitHub Action to run the tests of the extension either on pushing `main` or `develop`, or when a pull request is created.
 
 | Old | New |
 | --- | --- |
 | ![image](https://github.com/user-attachments/assets/34c7d441-1039-4105-906f-5054b79bbdfd) | ![image](https://github.com/user-attachments/assets/bde1d39d-b2e5-47be-a137-66fc30e9f08c) |
 
+  - Related pull requests:
+    - [SlicerTutorialMaker#67](https://github.com/SlicerLatinAmerica/SlicerTutorialMaker/pull/67): `BUG: Prevent test_TutorialMaker1 from being detected as a unittest case`
+    - [SlicerTutorialMaker#68](https://github.com/SlicerLatinAmerica/SlicerTutorialMaker/pull/68): `ENH: Streamline execution of tests downloading Slicer`
+
 - Review the approach FileMDHTML to export HTML and print PDF. [Commit](https://github.com/SlicerLatinAmerica/SlicerTutorialMaker/commit/4ae712601ffed42a7d39b96dc89f2212dd4caf22)
+
 - Review the TutorialGUI approach to open Annotator and manipulate the events more reliably. Adding new features.
 ![ArrowShowcase](https://github.com/user-attachments/assets/aa88cd04-5584-4aa9-957c-92712fecab24)
 
