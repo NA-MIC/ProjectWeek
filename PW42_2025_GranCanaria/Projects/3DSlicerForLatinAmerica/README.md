@@ -123,6 +123,10 @@ The project aims to empower the biomedical research community in Latin America b
 
 ![image](https://github.com/user-attachments/assets/81f8f7b9-77bc-426d-b564-7035c7449834) | ![image](https://github.com/user-attachments/assets/91e9c0dc-dd5b-4f59-ba4d-ddf9480ba6a7)
 
+- Add new features like the ability to select and add screenshots more than one time
+![image](https://github.com/user-attachments/assets/4181dbc5-cf40-4b28-8dc5-7b9a1360b51b)
+
+
 3. Use case (WIP)
 
 - BoneReconstructionPlannerTutorial - Mauro Dominguez [Repository](https://github.com/SlicerLatinAmerica/TestSlicerTutorials/blob/feature/add_bone_reconstruction_planner_tutorial/Tutorials/BoneReconstructionPlannerTutorial/BoneReconstructionPlannerTutorial.py)
