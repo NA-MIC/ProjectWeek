@@ -59,7 +59,9 @@ to the configure line.
 
 - ld complained about ZLIB, likely because the build system tried to use a different zlib, so we have to force ITK to use the Android NDK zlib.
 Example (several similar others popped up too):
+```
 ld.lld: error: version script assignment of 'ZLIB_1.2.0' to symbol 'compressBound' failed: symbol not defined
+```
 It is fixed by:
 ```cmake
 	-DITK_USE_SYSTEM_ZLIB=ON
@@ -159,4 +161,4 @@ A few shortcomings:
 
 # Background and References
 
-This project relies on the [["Builds of Slicer for ARM-based systems Mac and Linux"] project (https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/BuildsOfSlicerForArmBasedSystemsMacAndLinux/)]
+This project relies on the ["Builds of Slicer for ARM-based systems Mac and Linux"] project (https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/BuildsOfSlicerForArmBasedSystemsMacAndLinux/)
