@@ -59,7 +59,13 @@ In literature Waihrich et al. proposed to use 2D X-Ray to measure angles of vess
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+- Generating vessel cross-section tables for all studies using VMTK.
+- Sampling vessel cross-section values at 9 given centerline points
+around the middle point.
+- 9 centerline points determine 8 line sections that determine 7 angles.
+- Table is generated for all 49 studies containing 9 + 8 features.
+- Next step is to use this values for classification (possibly using SVM
+and fully connected shallow neural network).
 
 
 
