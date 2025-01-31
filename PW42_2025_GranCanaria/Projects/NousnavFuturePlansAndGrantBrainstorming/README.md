@@ -67,7 +67,10 @@ We plan to do a demo of the current system, and discuss future plans.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-TBD
+- Tested the hardware, ready to go to Dakar
+- Meeting with regulatory consultant to discuss initial steps toward FDA and CE approval
+    - We have worked out a good approach for the US approval
+    - Gathered initial templates for the design history file
 
 
 

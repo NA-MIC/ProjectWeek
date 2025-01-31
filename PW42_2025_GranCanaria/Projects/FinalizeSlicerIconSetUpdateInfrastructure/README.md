@@ -56,7 +56,8 @@ We will be continuing the work to integrate the new icon set into 3D Slicer.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-TBD
+1. Reviewed final icon set from Wendy
+2. CLeaned up PR - should be ready to go now
 
 
 
