@@ -64,31 +64,28 @@ Last year, we managed rudimentary treatment planning capabilities - this year, t
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Updated to the latest version of pyRadPlan for Python native dose calculation and inverse planning
+2. Extension of SlicerRT infrastructure to manage Plan Optimizers & Objectives
+3. Add pyRadPlan Optimization Interface & Objective Interface
+4. Extension of pyRadPlan/SlicerRT interface to handle multiple beams
+5. First fully intensity-modulated photon and proton plans
 
-
-
-
-
-
+## Next steps 
+1. Performance improvement in data transfers
+2. Improve GUI flexibility
+3. PR & Code Review SlicerRT
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+## Extended ExternalBeamPlanning Interface with Optimization Settings 
+![Photons_5Beams_Plan](https://github.com/user-attachments/assets/25df44e6-0e2b-4972-9958-7305172993d3)
 
+## 5 beam photon plan with SlicerRT pyRadPlan interface:
+![Photons_5Beams](https://github.com/user-attachments/assets/4bc2bd58-83ca-433c-8669-51a6937af3e2)
 
-## Status from 2024 Project Week in Gran Canaria
-### Prototype for beam-wise conformal planning:
-<img width="1280" alt="Prostate plan with SlicerRT" src="https://github.com/NA-MIC/ProjectWeek/assets/11944339/a02d4c7c-d771-4723-b07f-e84f2daea30a">
-
-### New widget elements / infrastructure for inverse planning:
-<img width="583" alt="Widget Extension" src="https://github.com/NA-MIC/ProjectWeek/assets/11944339/3fcc69a8-a5a0-4be8-8c61-3350bab83bbc">
-
-### Dose Influence storage accessible from Python for Beam Nodes:
-<img width="409" alt="Dose Influence Matrix accessibility" src="https://github.com/NA-MIC/ProjectWeek/assets/11944339/246a4b84-4e83-4241-9936-38197f708782">
-
-
+## Dose Influence storage accessible from Python for Beam Nodes:
+![Photons_5Beams_DVH](https://github.com/user-attachments/assets/8195eb7d-c6cc-4498-90a1-1f7a4439181e)
 
 # Background and References
 
