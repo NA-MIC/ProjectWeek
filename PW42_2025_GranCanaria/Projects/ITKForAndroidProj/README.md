@@ -52,8 +52,8 @@ Several problems were encountered:
 - ITK’s CMake configuration tries to determine whether libc++ (LLVM C++ standard library) is available when cross-compiling for Android, but the test fails due to the lack of a runtime execution environment. Since Android cross-compilation cannot execute tests on the build machine, we need to manually provide the expected results.
 It is fixed by addig
 ```cmake
- -D_libcxx_run_result=0 \
--D_libcxx_run_result__TRYRUN_OUTPUT="" \
+	-D_libcxx_run_result=0 \
+	-D_libcxx_run_result__TRYRUN_OUTPUT="" \
 ```
 to the configure line.
 
@@ -62,7 +62,7 @@ Example (several similar others popped up too):
 ld.lld: error: version script assignment of 'ZLIB_1.2.0' to symbol 'compressBound' failed: symbol not defined
 It is fixed by:
 ```cmake
--DITK_USE_SYSTEM_ZLIB=ON
+	-DITK_USE_SYSTEM_ZLIB=ON
 ```
 
 - Android does not provide iconv, so it had to be built, as GDCM needs it.
@@ -119,31 +119,31 @@ This means that the compiler throws errors in:
 
 This could be overcome by forcing CMake to override the far macro by adding this flag to the configure line:
 ```
--DCMAKE_C_FLAGS="-Dfar=far_nifti" \
+	-DCMAKE_C_FLAGS="-Dfar=far_nifti" \
 ```
 
 So the final configure line was this:
 ```cmake
 cmake  -DCMAKE_TOOLCHAIN_FILE=$ANDROID_HOME/ndk/28.0.12916984/build/cmake/android.toolchain.cmake \
-      -S /home/attila/ITK \
-	    -B /home/attila/ITK/itk-build \
-	    -DANDROID_ABI=arm64-v8a \
-      -DANDROID_PLATFORM=android-21 \
-      -DCMAKE_BUILD_TYPE=Release \
-      -DBUILD_SHARED_LIBS=ON \
-      -DITK_BUILD_DEFAULT_MODULES=ON \
-      -DITK_WRAP_PYTHON=OFF \
-	    -DCMAKE_CROSSCOMPILING_EMULATOR="" \
-	    -DHAVE_CLOCK_GETTIME_RUN=1 \
-	    -DITK_USE_SYSTEM_ZLIB=ON \
-	    -D_libcxx_run_result=0 \
-      -D_libcxx_run_result__TRYRUN_OUTPUT="" \
-	    -DGDCM_USE_SYSTEM_ICONV=ON \
-  	  -DCMAKE_C_FLAGS:STRING="-I/home/attila/libiconv-1.18/android-build/include -Dfar=far_nifti" \
-      -DCMAKE_CXX_FLAGS:STRING="-Dfar=far_nifti" \
-      -DCMAKE_EXE_LINKER_FLAGS="-L/home/attila/libiconv-1.18/android-build/lib /home/attila/libiconv-1.18/android-build/lib/libiconv.so" \
-      -DCMAKE_SHARED_LINKER_FLAGS="-L/home/attila/libiconv-1.18/android-build/lib /home/attila/libiconv-1.18/android-build/lib/libiconv.so"
-      -DGDCM_ICONV_INCLUDE_DIR=/home/attila/libiconv-1.18/android-build/include
+	-S /home/attila/ITK \
+	-B /home/attila/ITK/itk-build \
+	-DANDROID_ABI=arm64-v8a \
+	-DANDROID_PLATFORM=android-21 \
+	-DCMAKE_BUILD_TYPE=Release \
+	-DBUILD_SHARED_LIBS=ON \
+	-DITK_BUILD_DEFAULT_MODULES=ON \
+	-DITK_WRAP_PYTHON=OFF \
+	-DCMAKE_CROSSCOMPILING_EMULATOR="" \
+	-DHAVE_CLOCK_GETTIME_RUN=1 \
+	-DITK_USE_SYSTEM_ZLIB=ON \
+	-D_libcxx_run_result=0 \
+	-D_libcxx_run_result__TRYRUN_OUTPUT="" \
+	-DGDCM_USE_SYSTEM_ICONV=ON \
+	-DCMAKE_C_FLAGS:STRING="-I/home/attila/libiconv-1.18/android-build/include -Dfar=far_nifti" \
+	-DCMAKE_CXX_FLAGS:STRING="-Dfar=far_nifti" \
+	-DCMAKE_EXE_LINKER_FLAGS="-L/home/attila/libiconv-1.18/android-build/lib /home/attila/libiconv-1.18/android-build/lib/libiconv.so" \
+	-DCMAKE_SHARED_LINKER_FLAGS="-L/home/attila/libiconv-1.18/android-build/lib /home/attila/libiconv-1.18/android-build/lib/libiconv.so"
+	-DGDCM_ICONV_INCLUDE_DIR=/home/attila/libiconv-1.18/android-build/include
 ```
 
 A few shortcomings:
