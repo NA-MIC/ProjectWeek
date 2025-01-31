@@ -119,11 +119,17 @@ The project aims to empower the biomedical research community in Latin America b
 
 - Review the approach FileMDHTML to export HTML and print PDF. [Commit](https://github.com/SlicerLatinAmerica/SlicerTutorialMaker/commit/4ae712601ffed42a7d39b96dc89f2212dd4caf22)
 - Review the TutorialGUI approach to open Annotator and manipulate the events more reliably. Adding new features.
+![ArrowShowcase](https://github.com/user-attachments/assets/aa88cd04-5584-4aa9-957c-92712fecab24)
 
-3. Use case
+![image](https://github.com/user-attachments/assets/81f8f7b9-77bc-426d-b564-7035c7449834) | ![image](https://github.com/user-attachments/assets/91e9c0dc-dd5b-4f59-ba4d-ddf9480ba6a7)
 
-- BoneReconstructionPlannerTutorial - Mauro Dominguez
-- 
+3. Use case (WIP)
+
+- BoneReconstructionPlannerTutorial - Mauro Dominguez [Repository](https://github.com/SlicerLatinAmerica/TestSlicerTutorials/blob/feature/add_bone_reconstruction_planner_tutorial/Tutorials/BoneReconstructionPlannerTutorial/BoneReconstructionPlannerTutorial.py)
+
+![image](https://github.com/user-attachments/assets/54dd3cd7-6457-4dc7-a266-da222b813018)
+![image](https://github.com/user-attachments/assets/f5bf233f-5b60-4c22-bef0-560afd150a9e)
+![image](https://github.com/user-attachments/assets/8e073f1a-2d8c-4de5-9a63-1c05600610e9)
 
 5. Tutorials manually translated 
 
@@ -131,6 +137,12 @@ The project aims to empower the biomedical research community in Latin America b
 | --- | --- |
 | [Portuguese](https://slicerlatinamerica.github.io/media/Tutorials/Slicer5_Programando%20no%20Slicer_SPujol-SPieper.pdf) |  [Portuguese](https://slicerlatinamerica.github.io/media/Tutorials/Segmentation3DPrinting-ANagy-CPinter_pt-BR.pdf) |
 | [Spanish](https://slicerlatinamerica.github.io/media/Tutorials/Slicer5_ProgrammingTutorial_es-419.pdf) | |
+
+# Nexts Steps 
+
+1. Merge all the work that was created during the PW
+2. Discuss and define what will be generated to the repositories
+3. Discuss and define how the other extensions will extends TutorialMaker to create tutorials
 
 # Illustrations
 
