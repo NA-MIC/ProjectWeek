@@ -20,6 +20,13 @@ key_investigators:
   affiliation: Children's National
   country: USA
 
+- name: Andres Diaz-Pinto
+  affiliation: NVIDIA
+  country: UK
+  
+- name: Mauro I. Dominguez
+  affiliation: Independent
+  country: Argentina  
 ---
 
 # Project Description
@@ -71,12 +78,11 @@ We would like to test improved methods for this task, and also define a good ter
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
+* Worked with Andres on testing [Auto3DSeg challeng-winning models using KiTS model](https://arxiv.org/pdf/2310.04110).  [Ready for merging to SlicerMONAIAuto3DSeg](https://github.com/lassoan/SlicerMONAIAuto3DSeg/pull/93).
+* Mauro tested the [Renal Structures from Contrast Enhanced CT](https://monai.io/model-zoo.html#:~:text=Renalstructures%20cect%20segmentation,enhanced%20CT%20image) model and [developed instructions](https://gist.github.com/mauigna06/133567c0e8c9134920bf737d6d2608bb) for use.
+* Shared ideas and common requirements with [nephrostomy training project](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/ProjectNephrostomyTutorLowCostTrainingSystemForPercutaneousNephrostomy/)
 
-
-1. Describe specific steps you **have actually done**.
-
-
-
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/6f2cfda0-f6d8-455d-92d9-aaddad43185f" />
 
 # Illustrations
 
