@@ -108,5 +108,5 @@ Right: VR view (without back lights / without two sided lighting)
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-For those who have access to SlicerHeart internals, this is the link to the issue: https://github.com/JolleyLab/Internal/issues/205#event-14879920416
+For those who have access to SlicerHeart internals, this is the link to the issue: [https://github.com/JolleyLab/Internal/issues/205#event-14879920416](https://github.com/JolleyLab/Internal/issues/205#event-14879920416)
 
