@@ -106,7 +106,7 @@ c.download_from_selection(downloadDir=".",seriesInstanceUID=test_series)
 
 2. 1 session with Ron looking at the initial result for just one case. Issues identified: 1) unrealistic anatomy and large gap between ribs and and [erector spinae](https://www.kenhub.com/en/library/anatomy/erector-spinae-muscles); 2) incorrect segmentation of some vertebrae; 3) large gaps between the structure; 4) segmentation is too coarse.
 3. Collected results from Auto3DSeg and OMAS, in addition to TotalSegmentator v1 and MOOSE for the test sample.
-4. Harmonized mapping from model-specific labels to SNOMED-CT codes and consistent colors for Auto3DSeg and MOOSE (see CSV files [here](https://github.com/NA-MIC/ProjectWeek/tree/master/PW42_2025_GranCanaria/Projects/ReviewOfSegmentationResultsQualityAcrossVariousMultiOrganSegmentationModels)). Didn't finish this for OMAS!
+4. Harmonized mapping from model-specific labels to SNOMED-CT codes and consistent colors for Auto3DSeg and MOOSE (see CSV files [here](https://github.com/NA-MIC/ProjectWeek/tree/master/PW42_2025_GranCanaria/Projects/ReviewOfSegmentationResultsQualityAcrossVariousMultiOrganSegmentationModels)) - [Google Sheet with current mapping](https://docs.google.com/spreadsheets/d/10VNy3kjaeXOgCRSgInCKH014134ZbD5Ezju7zZvVCRY/edit?gid=0#gid=0). Didn't finish this for OMAS!
 5. Explored Slicer capabilities for joint visualization of the segmentation results.
 6. Co-authored with Perplexity a Google Apps script for coloring Google Sheets cells based on the RGB string - helpful for quickly evaluating color selection.
 
