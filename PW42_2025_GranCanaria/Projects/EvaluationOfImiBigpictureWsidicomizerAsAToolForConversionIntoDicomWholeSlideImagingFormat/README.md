@@ -84,7 +84,6 @@ Our goal is to migrate the DICOM WSI conversion to use community-supported open 
 Query for selecting samples from IDC based on `TransferSyntaxUID` applied to the base layer of the image pyramid:
 
 ```sql
-  #select TotalPixelMatrixColumns from `bigquery-public-data.idc_current.dicom_all`
 WITH
   RankedRows AS (
   SELECT
