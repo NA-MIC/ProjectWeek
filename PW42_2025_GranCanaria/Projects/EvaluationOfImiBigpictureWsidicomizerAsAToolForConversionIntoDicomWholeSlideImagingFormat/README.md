@@ -120,9 +120,6 @@ ORDER BY
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_No response_
-
-
 
 # Background and References
 
