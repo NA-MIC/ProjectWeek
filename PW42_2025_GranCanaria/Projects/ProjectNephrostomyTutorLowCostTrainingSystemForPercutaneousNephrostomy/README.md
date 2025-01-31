@@ -76,9 +76,13 @@ Working to integrate recent developments on AI-based volume reconstruction from 
 
 
 1. Low-cost phantom created.
-2. Initial ultrasound segmentations in progress.
+2. Integrated real-time UNet predictions into Nephrostomy tutor
+3. Updated visualizations to show predictions
+4. Initial ultrasound segmentations in progress.
 
-
+Next steps:
+1. Collect and segment more ultrasound kidney scans
+2. Train an effective model
 
 
 # Illustrations
