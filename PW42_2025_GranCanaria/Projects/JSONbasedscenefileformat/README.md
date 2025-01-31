@@ -101,7 +101,7 @@ With this setup, we would start a first step for future adoption and compatibili
 
 ### Progress
 1. Meeting done on Tuesday. Key notes taken by JC:
-https://github.com/Slicer/Slicer/pull/8141#issuecomment-2618876551
+[https://github.com/Slicer/Slicer/pull/8141#issuecomment-2618876551](https://github.com/Slicer/Slicer/pull/8141#issuecomment-2618876551)
    - Supporting partial updates to the scene is an interesting direction.
    - Introducing `macros` for automatic schema generation would be beneficial.
    - Exploring `GraphQL` support could enable batched updates through mutations. Integration could leverage libraries such as `cppgraphqlgen`, as `libgraphqlparser` appears unmaintained.
