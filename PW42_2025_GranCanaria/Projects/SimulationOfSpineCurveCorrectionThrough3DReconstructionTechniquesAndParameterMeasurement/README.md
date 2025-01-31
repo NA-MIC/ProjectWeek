@@ -53,9 +53,9 @@ Using 3D Slicer as a tool for modeling and parameter measurement, we aim to appl
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
+We would like to generate a slicer extension that allows us to visualize and study the correlation between the 2D and 3D images and automatically obtain spine curve measurements.
 
 
-**TBD** 
 
 
 
@@ -64,10 +64,29 @@ Using 3D Slicer as a tool for modeling and parameter measurement, we aim to appl
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
+     
+1. Generate a custom layout for the joint visualization of:
+   
+      a. Lateral XRay plus sagittal CT slices
+
+      ![image](https://github.com/user-attachments/assets/4a94d739-baae-4e0f-b2ef-08d231fd27b4)
 
 
-TBD 
-2. Describe specific steps you **have actually done**.
+      b. AP XRay plus coronal CT slices
+      ![image](https://github.com/user-attachments/assets/ec6dc6aa-eb9f-4d86-a75d-cb8a06fb59c1)
+
+  
+2. Automatically compute the landmarks for each vertebral segmentation
+
+  ![image](https://github.com/user-attachments/assets/ca8b7702-8cd1-4ed8-b6ce-a505e49333ab)
+3. Compute the curvature measurements and show them on the images: we have implemented the computation of 2D angles (Cobbs angle & Kyphosis/Lordosis curvature)
+
+![image](https://github.com/user-attachments/assets/1e5bad4d-957c-4e4a-beae-cee2c337ef90)
+
+![image](https://github.com/user-attachments/assets/be8dbc1a-2a2b-47a0-900d-15d31227847f)
+
+Next steps:
+ · Compute the 3D curvature by interpolating the vertebral centers of mass and study the correlation with the 2D curvatures
 
 
 
