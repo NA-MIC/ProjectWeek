@@ -98,7 +98,9 @@ And integrate the Julich in our SEEG toolbox.
 <img width="1658" alt="Capture d’écran 2025-01-31 à 10 17 35" src="https://github.com/user-attachments/assets/61bf5308-c105-4187-9fb1-9fc070b2c274" />
 
 
+<img width="1247" alt="Capture d’écran 2025-01-31 à 10 49 16" src="https://github.com/user-attachments/assets/7baba491-e787-44e4-917d-b4a7acbf8521" />
 
+<img width="823" alt="Capture d’écran 2025-01-31 à 10 50 37" src="https://github.com/user-attachments/assets/e2b0fcf4-260c-4782-ac5e-41f576757d1c" />
 
 
 # Background and References
