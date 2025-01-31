@@ -51,18 +51,23 @@ Several problems were encountered:
 
 - ITK’s CMake configuration tries to determine whether libc++ (LLVM C++ standard library) is available when cross-compiling for Android, but the test fails due to the lack of a runtime execution environment. Since Android cross-compilation cannot execute tests on the build machine, we need to manually provide the expected results.
 It is fixed by addig
-	    -D_libcxx_run_result=0 \
-      -D_libcxx_run_result__TRYRUN_OUTPUT="" \
+```cmake
+ -D_libcxx_run_result=0 \
+-D_libcxx_run_result__TRYRUN_OUTPUT="" \
+```
 to the configure line.
 
 - ld complained about ZLIB, likely because the build system tried to use a different zlib, so we have to force ITK to use the Android NDK zlib.
 Example (several similar others popped up too):
 ld.lld: error: version script assignment of 'ZLIB_1.2.0' to symbol 'compressBound' failed: symbol not defined
 It is fixed by:
+```cmake
 -DITK_USE_SYSTEM_ZLIB=ON
+```
 
 - Android does not provide iconv, so it had to be built, as GDCM needs it.
 After some play, it was easy, and it could be compilaed, and later linked into ITK by using the following ENV vars and configure line:
+```
 export ANDROID_NDK_HOME=/home/attila/Android/Sdk/ndk/28.0.12916984
 export TOOLCHAIN=$ANDROID_NDK_HOME/toolchains/llvm/prebuilt/linux-x86_64
 export TARGET=aarch64-linux-android
@@ -74,17 +79,19 @@ export CXX=$TOOLCHAIN/bin/$TARGET$API-clang++
 export LD=$TOOLCHAIN/bin/ld
 export RANLIB=$TOOLCHAIN/bin/llvm-ranlib
 export STRIP=$TOOLCHAIN/bin/llvm-strip
-
+```
+```
 ./configure --host=$TARGET --prefix=$PWD/android-build --disable-static --enable-shared
-
+```
 The built iconv of course had to be set in the cmake configure stage:
-  	  -DGDCM_USE_SYSTEM_ICONV=ON \
-	    -DCMAKE_C_FLAGS:STRING="-I/home/attila/libiconv-1.18/android-build/include -Dfar=far_nifti" \
-      -DCMAKE_CXX_FLAGS:STRING="-Dfar=far_nifti" \
-      -DCMAKE_EXE_LINKER_FLAGS="-L/home/attila/libiconv-1.18/android-build/lib /home/attila/libiconv-1.18/android-build/lib/libiconv.so" \
-      -DCMAKE_SHARED_LINKER_FLAGS="-L/home/attila/libiconv-1.18/android-build/lib /home/attila/libiconv-1.18/android-build/lib/libiconv.so"
-      -DGDCM_ICONV_INCLUDE_DIR=/home/attila/libiconv-1.18/android-build/include
-
+```cmake
+	-DGDCM_USE_SYSTEM_ICONV=ON \
+	-DCMAKE_C_FLAGS:STRING="-I/home/attila/libiconv-1.18/android-build/include -Dfar=far_nifti" \
+	-DCMAKE_CXX_FLAGS:STRING="-Dfar=far_nifti" \
+	-DCMAKE_EXE_LINKER_FLAGS="-L/home/attila/libiconv-1.18/android-build/lib /home/attila/libiconv-1.18/android-build/lib/libiconv.so" \
+	-DCMAKE_SHARED_LINKER_FLAGS="-L/home/attila/libiconv-1.18/android-build/lib /home/attila/libiconv-1.18/android-build/lib/libiconv.so"
+	-DGDCM_ICONV_INCLUDE_DIR=/home/attila/libiconv-1.18/android-build/include
+```
 
 There was another problem:
 On Android, far is sometimes defined as a macro (especially in <sys/types.h> or <math.h>) for compatibility with legacy 16-bit platforms.
@@ -111,7 +118,9 @@ This means that the compiler throws errors in:
 ```
 
 This could be overcome by forcing CMake to override the far macro by adding this flag to the configure line:
+```
 -DCMAKE_C_FLAGS="-Dfar=far_nifti" \
+```
 
 So the final configure line was this:
 ```cmake
@@ -150,4 +159,4 @@ A few shortcomings:
 
 # Background and References
 
-This project relies on the "Builds of Slicer for ARM-based systems Mac and Linux" project [[https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/BuildsOfSlicerForArmBasedSystemsMacAndLinux/](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/BuildsOfSlicerForArmBasedSystemsMacAndLinux/)]
+This project relies on the [["Builds of Slicer for ARM-based systems Mac and Linux"] project (https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/BuildsOfSlicerForArmBasedSystemsMacAndLinux/)]
