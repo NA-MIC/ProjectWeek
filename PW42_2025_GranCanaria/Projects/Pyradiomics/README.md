@@ -65,13 +65,14 @@ with the latest python versions and build tools
   this warning in the build process of pyradiomics for the time being.
 - Disable pre-commit part of CI pending the correct setup of CI/CD.
 - Local build & test now passing.
+- [CI passing](https://github.com/JoostJM/pyradiomics/actions/runs/13038103168) on pull request branch
 
 ToDo:
-- [ ] Update CI configuration to match supported python versions enabled in CircleCI/AppVeyor builds.
-- [ ] Currently, CI is failing on METADATA mismatch in wheel generation. This is due to a mismatch in generated
+- [x] Update CI configuration to match supported python versions enabled in CircleCI/AppVeyor builds.[PyRadiomics PR #898](https://github.com/AIM-Harvard/pyradiomics/pull/898)
+- [x] Currently, CI is failing on METADATA mismatch in wheel generation. This is due to a mismatch in generated
   version string (a version parsed from a metadata dir doesn't contain the date suffix, whereas the on in the generated
   wheel does). Fix the version string error to allow CI to pass.
-- [ ] Add exceptions for style errors in pre-commit to allow it to pass initially. 
+- [x] Add exceptions for style errors in pre-commit to allow it to pass initially. [PyRadiomics issue #899](https://github.com/AIM-Harvard/pyradiomics/issues/899)
 - [ ] Later, apply style changes to make pyradiomics adhere to the configured style.
 - [ ] Review readthedocs documentation generation.
 - [ ] Review CD configuration to publish releases on tags pushed onto the master branch in the main repo.
@@ -81,8 +82,7 @@ ToDo:
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
-_No response_
+![image](https://github.com/user-attachments/assets/39564879-e69a-42fd-85ed-d11d12b37b66)
 
 
 
