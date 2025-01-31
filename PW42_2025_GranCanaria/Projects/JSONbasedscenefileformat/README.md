@@ -118,9 +118,9 @@ https://github.com/Slicer/Slicer/pull/8141#issuecomment-2618876551
 
   
 ### Next Steps
-1. When calling `WriteJSONToString` for `storageNodes`, we need to stringify certain parts of the node state information (for the single **Node Status - real-time collaboration** use case).  
+1. When calling `WriteJSONToString` for nodes with a `storageNode`, we need to stringify certain parts of the node state information (for the single **Node Status - real-time collaboration** use case).  
    - **Markups** use `vtkMRMLMarkupsJsonStorageNode`, which already utilizes the JSON format. However, the current infrastructure only allows saving this information to a file. We need to refactor `vtkMRMLMarkupsNode` and `vtkMRMLMarkupsJsonStorageNode` to use `vtkMRMLMarkupsJsonWriter` for stringifying to a stream instead of a file, enabling access to its methods from Python. 
-   - **Transforms** use `vtkMRMLTransformStorageNode` -> `itk::TransformFileWriter` has the the same issue of the Markups writer. We would need to refactor at the `vtkMRMLNode` to be able to switch between writing to file and to a stream. 
+   - **Transforms** use `vtkMRMLTransformStorageNode` -> `itk::TransformFileWriter` has the the same issue of the Markups writer. We would need to refactor at the `vtkMRMLNode` level to be able to switch between writing to file and to a stream. 
    - **Volumes/Segmentations/Models**: For now, storing the file location should suffice, but in the future, we may need to pass `imageData` as a blob.  
 
 1. Add automated tests to cover all MRML nodes in Slicer core/modules.
