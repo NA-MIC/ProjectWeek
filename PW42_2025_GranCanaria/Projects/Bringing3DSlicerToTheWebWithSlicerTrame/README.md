@@ -73,7 +73,7 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-trame : https://kitware.github.io/trame/
-trame intro course : https://kitware.github.io/trame/guide/intro/course.html
+- trame : [https://kitware.github.io/trame/](https://kitware.github.io/trame/)
+- trame intro course : [https://kitware.github.io/trame/guide/intro/course.html](https://kitware.github.io/trame/guide/intro/course.html)
 
 
