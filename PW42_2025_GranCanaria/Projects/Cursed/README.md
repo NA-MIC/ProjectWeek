@@ -74,11 +74,12 @@ Goal of this project is to evaluate all exchangeable components to ensure optima
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Setup of public Kaapana server in preparation of the DICOM conectathon at: 172.16.17.47
+2. Some progress in containerizing QuPath within Kaapana to serve as viewer from Objectstorage (NOT from PACS)
+3. Evaluating https://github.com/huangch/openremoteslide as additional extension for communication with external server
+4. Testing some interoperability components for Zeiss WSI files. 
 
 
 
