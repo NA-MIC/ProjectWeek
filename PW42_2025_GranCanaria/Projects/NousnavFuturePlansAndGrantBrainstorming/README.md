@@ -12,6 +12,14 @@ key_investigators:
   affiliation: Kitware
   country: USA
 
+- name: Rebecca Hisey
+  affiliation: Queen's University
+  country: Canada
+
+- name: Gabriella d'Albenzio
+  affiliation: Queen's University
+  country: Canada
+
 - name: Steve Pieper
   affiliation: Isomics
   country: USA
