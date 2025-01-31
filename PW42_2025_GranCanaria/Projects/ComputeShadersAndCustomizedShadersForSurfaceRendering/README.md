@@ -75,5 +75,5 @@ Custom volume rendering done in Unity VR, to be ported to VTK and 3D Slicer. The
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-* Related previous project: https://projectweek.na-mic.org/PW41_2024_MIT/Projects/PrismVolumeRenderer/
+* Related previous project: [https://projectweek.na-mic.org/PW41_2024_MIT/Projects/PrismVolumeRenderer/](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/PrismVolumeRenderer/)
 
