@@ -68,14 +68,17 @@ In this project week, we will focus on creating a 3DSlicer module.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. We have created an CNN that uses both image+metadata information to classify a scan into T1w, T2w, diffusion and apparent diffusion coefficient maps. 
+1. We have created an CNN that uses both image+metadata information to classify a scan into T1w, T2w, diffusion and apparent diffusion coefficient maps.
+2. We load data into the DICOM database, and allow the user to choose a specific patient + study 
+3. We list all the series, and show which ones can be classified using the model 
 
 
 
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+
+https://github.com/user-attachments/assets/79328d1d-ce78-4209-b98d-ad14e846e94c
 
 ![PW_42_image_CNN_cropped](https://github.com/user-attachments/assets/b20ed579-95b0-4a32-8bde-96b61fc48efa)
 
