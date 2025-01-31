@@ -88,17 +88,21 @@ By combining the advanced machine learning models from TorchXRayVision with the 
 
 # Illustrations
 
+Loading the X-Ray Image:
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 ![1](https://github.com/user-attachments/assets/e70dd149-885b-4674-ae5e-7f6a959d2084)
 
+Running automatic analysis:
 ![2](https://github.com/user-attachments/assets/a694a23c-aaf3-4e6f-8101-8f955bfe336f)
 
+View segmentation:
 ![3](https://github.com/user-attachments/assets/87216562-bc43-4578-8295-7bbf95ba5450)
 
-![4](https://github.com/user-attachments/assets/a9306066-b7ae-4d10-afbf-2bf0c6a3f401)
+Pathologies scores and heatmap validation:
+![4](https://github.com/user-attachments/assets/7965821f-d508-4f1d-bdc8-8063e78adef0)
 
-_No response_
 
+![5](https://github.com/user-attachments/assets/c114764a-ddbc-4054-9fa4-bfe701ea6287)
 
 
 # Background and References
@@ -108,6 +112,4 @@ _No response_
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-
-_No response_
 
