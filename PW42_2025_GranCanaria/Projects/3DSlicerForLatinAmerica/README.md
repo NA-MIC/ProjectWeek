@@ -102,14 +102,37 @@ The project aims to empower the biomedical research community in Latin America b
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Describe specific steps you **have actually done**.
+1. Fix core-related issues
+   
+| Old | New |
+| --- | --- |
+| ![image](https://github.com/user-attachments/assets/61f238dc-0352-403d-b909-ca03591524f0) | ![one](https://github.com/user-attachments/assets/d56da455-7fc8-46b5-afc5-7a591edd15d6) |
+| ![image](https://github.com/user-attachments/assets/65cd72c9-ddc4-4511-9b05-8bd0e6e31a9f) | ![image](https://github.com/user-attachments/assets/9a2bf575-c500-42f2-92df-e42d658f60fa) |
+
+2. Code improvement
+
+- Creation of a GitHub Action to run the tests of the extension on pushing main or develop
+
+| Old | New |
+| --- | --- |
+| ![image](https://github.com/user-attachments/assets/34c7d441-1039-4105-906f-5054b79bbdfd) | ![image](https://github.com/user-attachments/assets/bde1d39d-b2e5-47be-a137-66fc30e9f08c) |
+
+- Review the approach FileMDHTML to export HTML and print PDF. [Commit](https://github.com/SlicerLatinAmerica/SlicerTutorialMaker/commit/4ae712601ffed42a7d39b96dc89f2212dd4caf22)
+- Review the TutorialGUI approach to open Annotator and manipulate the events more reliably. Adding new features.
+
+3. Use case
+
+- BoneReconstructionPlannerTutorial - Mauro Dominguez
+- 
+
+5. Tutorials manually translated 
+
+| Slicer Developer Tutorial: Programming in Slicer. S. Pujol, S. Pieper | Segmentation for 3D printing. A. Nagy, C. Pintér |
+| --- | --- |
+| [Portuguese](https://slicerlatinamerica.github.io/media/Tutorials/Slicer5_Programando%20no%20Slicer_SPujol-SPieper.pdf) |  [Portuguese](https://slicerlatinamerica.github.io/media/Tutorials/Segmentation3DPrinting-ANagy-CPinter_pt-BR.pdf) |
+| [Spanish](https://slicerlatinamerica.github.io/media/Tutorials/Slicer5_ProgrammingTutorial_es-419.pdf) | |
 
 # Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
 
 # Background and References
 
