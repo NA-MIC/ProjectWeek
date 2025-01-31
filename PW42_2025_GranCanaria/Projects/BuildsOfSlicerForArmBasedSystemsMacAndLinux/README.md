@@ -54,10 +54,47 @@ During the Slicer Week, we plan to have a working 3D Slicer version on ARM archi
 1. Initiated project planning and team coordination.
 2. Secured access to NVIDIA IGX box for development and testing purposes.
 3. Began preliminary research on existing ARM-related issues in the Slicer GitHub repository.
+4. Environment setup on the NVIDIA IGX box.
+5. Build scripts published at https://gist.github.com/jcfr/487f5d846bc86e374969be5565c6d95e
+6. Slicer built on Ubuntu 22.04 (aarch64) ✨✅
+
+```
+$ uname -a
+Linux demos-NVIDIA-IGX-Orin-Development-Kit 5.15.0-1012-nvidia-tegra-igx #12-Ubuntu SMP Wed Apr 24 15:57:28 UTC 2024 aarch64 aarch64 aarch64 GNU/Linux
+```
+
+```
+$ cd ~/Projects
+$ ./build-CTKAppLauncher.sh
+[...]
+[100%] Built target CTKAppLauncher
+Install the project...
+-- Install configuration: "Release"
+-- Up-to-date: /home/demos/Projects/CTKAppLauncher-install/bin/CTKAppLauncher
+-- Up-to-date: /home/demos/Projects/CTKAppLauncher-install/CMake/ctkAppLauncher.cmake
+-- Up-to-date: /home/demos/Projects/CTKAppLauncher-install/CMake/ctkAppLauncher-configure.cmake
+-- Up-to-date: /home/demos/Projects/CTKAppLauncher-install/bin/CTKAppLauncherSettings.ini.in
+-- Up-to-date: /home/demos/Projects/CTKAppLauncher-install/./CTKAppLauncherConfig.cmake
+
+$ ./build-tbb.sh
+[...]
+[100%] Built target tbb
+Install the project...
+-- Install configuration: "Release"
+-- Up-to-date: /home/demos/Projects/tbb-install/lib/libtbb.so.12.15
+-- Up-to-date: /home/demos/Projects/tbb-install/lib/libtbb.so.12
+-- Up-to-date: /home/demos/Projects/tbb-install/lib/libtbb.so
+[...]
+
+$ ./build-Slicer.sh
+[...]
+[ 99%] No install step for 'Slicer'
+[ 99%] Forcing configure step for 'Slicer'
+[100%] Completed 'Slicer'
+[100%] Built target Slicer
+```
 
 Next steps:
-- Set up development environment on the NVIDIA IGX box.
-- Start the compilation process of 3D Slicer on ARM architecture.
 - Begin testing basic functionality and identify initial challenges.
 
 # Illustrations
