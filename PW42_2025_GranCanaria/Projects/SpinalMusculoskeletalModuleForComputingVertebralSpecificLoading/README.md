@@ -83,15 +83,30 @@ TBD
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+**Progress**:
+- **Landmark Identification**: Using segmentations of vertebrae, we identified critical points such as joint centroids and body centroids.
+- **Local Coordinate Frames**: Defined subject-specific biomechanical models in OpenSim by creating local coordinate frames for vertebral bodies and intervertebral joints.
+- **Integration into OpenSim**: Successfully exported the identified landmarks into OpenSim models, enabling personalized musculoskeletal analyses.
 
-1. Describe specific steps you **have actually done**.
-TBD
+**Next Steps**:
+1. Consider multiple methods for identifying the points and landmarks used.
+2. Display resulting frames (joint centers and axes) within 3D Slicer along with spine segmentations, incorporating methods for viewing and correction before exporting to OpenSim.
+3. Improve visualization and QA of OpenSim models:
+   - Export vertebral segmentations into files and use them in the OpenSim visualizer.
+   - Visualize OpenSim models in Slicer for side-by-side comparisons.
 
 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![vertebra_segmentation_front](https://github.com/user-attachments/assets/4d27c9a9-fa4b-46c6-8981-77bffcbbfdec)
+![vertebra_segmentation_side](https://github.com/user-attachments/assets/538d45be-a9cc-4c6a-9f15-cda61b96a3b7)
+![subregion_segmentation_side](https://github.com/user-attachments/assets/78402110-338b-428d-b454-6d7ecac93315)
+![poi_in_vertebra](https://github.com/user-attachments/assets/cc99a5de-fb5d-46c4-a859-364975daded0)
+![open_sim_spine_model_front](https://github.com/user-attachments/assets/63c9c325-dd71-4cf2-b233-28eba349d7bf)
+![open_sim_spine_model_side](https://github.com/user-attachments/assets/8fb7d50f-a84e-40e4-87c0-158c85f437bd)
+![open_sim_fulll_body](https://github.com/user-attachments/assets/139b93c0-ff4d-46b2-957e-8bff813ebc84)
 
 
 ![PW42 project page Graphic](https://github.com/user-attachments/assets/767c0b03-0dcf-4e05-b179-b476099c2a68)
