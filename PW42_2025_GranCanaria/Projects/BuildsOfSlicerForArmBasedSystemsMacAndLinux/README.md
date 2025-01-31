@@ -55,8 +55,9 @@ During the Slicer Week, we plan to have a working 3D Slicer version on ARM archi
 2. Secured access to NVIDIA IGX box for development and testing purposes.
 3. Began preliminary research on existing ARM-related issues in the Slicer GitHub repository.
 4. Environment setup on the NVIDIA IGX box.
-5. Build scripts published at https://gist.github.com/jcfr/487f5d846bc86e374969be5565c6d95e
-6. Slicer built on Ubuntu 22.04 (aarch64) ✨✅
+5. Build scripts published at [https://gist.github.com/jcfr/487f5d846bc86e374969be5565c6d95e](https://gist.github.com/jcfr/487f5d846bc86e374969be5565c6d95e)
+6. Submitted Slicer pull request updating external project to support externally built TBB libraries. See [PR-8202](https://github.com/Slicer/Slicer/pull/8202)
+7. Slicer built on Ubuntu 22.04 (aarch64) ✨✅
 
 ```
 $ uname -a
