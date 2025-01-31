@@ -35,7 +35,7 @@ Currently, DeCA exists as a prototype that can be run within 3D Slicer. We have 
 
 
 1. Objective A. Implement an improved workflow for the DeCA module
-2. Objective B.. Publish DeCA extension
+2. Objective B. Publish DeCA extension
 
 
 
@@ -59,6 +59,12 @@ Currently, DeCA exists as a prototype that can be run within 3D Slicer. We have 
 
 
 1. Document changes from initial user testing
+2. Meetings to discuss workflow/interface and future applications to new datasets
+3. Completion of user interface changes with two fully automated workflows
+4. Updates to GUI support and logic functions to support new workflow
+5. Landmark subsetting function added to DeCAL
+6. Testing of DeCAL dense landmarking
+
 
 
 
@@ -71,6 +77,8 @@ Currently, DeCA exists as a prototype that can be run within 3D Slicer. We have 
 
 <img width="600" alt="DeCA prototype" src="https://github.com/user-attachments/assets/18504eca-2b44-4362-93b7-c953c514b0cd" />
 
+<img width="416" alt="DeCA new workflow interface" src="https://github.com/user-attachments/assets/e9a71b20-0764-44ce-b9ac-568580b1df73" />
+<img width="419" alt="DeCAL new workflow interface" src="https://github.com/user-attachments/assets/4893ab39-8321-485f-8435-64218a0320c8" />
 
 
 
