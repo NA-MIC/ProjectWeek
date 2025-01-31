@@ -42,7 +42,6 @@ key_investigators:
 The SlicerSOFA project aims to integrate the SOFA (Simulation Open Framework Architecture) with 3D Slicer, enhancing the capabilities of medical simulations by providing advanced physics and interaction models. For this PW we aim to consolidate the first release through the 3D Slicer Extension Manager and establish a dialogue with the community to bring this project forward.
 
 
-
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
@@ -51,7 +50,6 @@ The SlicerSOFA project aims to integrate the SOFA (Simulation Open Framework Arc
 1. Objective A. Engage with the 3D Slicer  and SOFA communities on the future development of Slicer-SOFA.
 
 2. Objective B. Resolve existing bugs and improve the stability of the integration.
-   - [Bug in SparseGridSimulation.py](https://github.com/Slicer/SlicerSOFA/issues/38)
    - [Slicer hangs after starting and stopping the simulation a few times](https://github.com/Slicer/SlicerSOFA/issues/29)
    - [SofaIGTLink Plugin Fails to Load on Windows Build](https://github.com/Slicer/SlicerSOFA/issues/33)
 
@@ -86,9 +84,11 @@ The SlicerSOFA project aims to integrate the SOFA (Simulation Open Framework Arc
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+1. Resolve existing bugs and improve the stability of the integration
+  - New issue Found: [Problem loading SlicerSOFA on MS Windows installations with existing SOFA installations](https://github.com/Slicer/SlicerSOFA/issues/41). ([PR#43](https://github.com/Slicer/SlicerSOFA/pull/43))
 
-TBD
-
+2. Update and expand SlicerSOFA
+  - Update SOFA and SOFA Python 24.12 ([PR#42](https://github.com/Slicer/SlicerSOFA/pull/42))
 
 
 
