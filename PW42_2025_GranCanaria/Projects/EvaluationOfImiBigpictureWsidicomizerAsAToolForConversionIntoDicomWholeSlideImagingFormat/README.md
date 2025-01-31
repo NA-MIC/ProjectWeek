@@ -65,11 +65,17 @@ Our goal is to migrate the DICOM WSI conversion to use community-supported open 
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-
-1. Describe specific steps you **have actually done**.
+1. Set up conversion code in python (simple), confirmed conversion approach is consistent between what we use in IDC and what Max is using in Kaapana (`wsidicomizer` Python function - not command line tool).
+2. Prepared queries for selecting test images from IDC. Mapping to the source file in vendor format is stored in a private tag `(0009,1001)` (source non-DICOM files are in private buckets in IDC).
+3. Identified problems in selecting samples based on `TransferSyntaxUID` - did not realize initially it can vary across instances within the same series!
+4. Identified numerous very strange images in IDC - will need to investigate this further.
+5. Started testing `wsidicomizer`, tested with JPEG and uncompressed samples.
+6. Identified and reported converter issues, several of which have already been resolved (kudos to Erik Gabrielsson, `wsidicomizer` maintainer!):
+  * https://github.com/imi-bigpicture/wsidicomizer/issues/117
+  * https://github.com/imi-bigpicture/wsidicomizer/issues/118
+  * https://github.com/imi-bigpicture/wsidicomizer/issues/123
+6. Discussed various issues related to conversion and shared experience; reached agreement `wsidicomizer` is the best choice given combined experience, and very good support from Erik.
+7. Identified issues in `dicom3tools` building it in Colab VM - fixed by David Clunie (link to the final notebook to be shared later).
 
 
 
