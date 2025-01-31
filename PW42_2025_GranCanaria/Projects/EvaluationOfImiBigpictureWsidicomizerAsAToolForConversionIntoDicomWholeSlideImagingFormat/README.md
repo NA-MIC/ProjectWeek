@@ -21,6 +21,10 @@ key_investigators:
   affiliation: Pixelmed Publishing
   country: USA
 
+- name: Max Fischer
+  affiliation: DKFZ
+  country: Germany
+
 ---
 
 # Project Description
@@ -77,7 +81,38 @@ Our goal is to migrate the DICOM WSI conversion to use community-supported open 
 6. Discussed various issues related to conversion and shared experience; reached agreement `wsidicomizer` is the best choice given combined experience, and very good support from Erik.
 7. Identified issues in `dicom3tools` building it in Colab VM - fixed by David Clunie (link to the final notebook to be shared later).
 
+Query for selecting samples from IDC based on `TransferSyntaxUID` applied to the base layer of the image pyramid:
 
+```sql
+  #select TotalPixelMatrixColumns from `bigquery-public-data.idc_current.dicom_all`
+WITH
+  RankedRows AS (
+  SELECT
+    SeriesInstanceUID,
+    StudyInstanceUID,
+    TotalPixelMatrixColumns*TotalPixelMatrixRows AS totalPixels,
+    TransferSyntaxUID,
+    ROW_NUMBER() OVER (PARTITION BY SeriesInstanceUID ORDER BY TotalPixelMatrixColumns*TotalPixelMatrixRows DESC) AS rn
+  FROM
+    `bigquery-public-data.idc_current.dicom_all`
+  WHERE
+    Modality = "SM" and collection_id not like "%htan%")
+SELECT
+  TransferSyntaxUID,
+  StudyInstanceUID,
+  SeriesInstanceUID,
+  totalPixels,
+  concat("https://viewer.imaging.datacommons.cancer.gov/slim/studies/",StudyInstanceUID,"/series/",SeriesInstanceUID)
+FROM
+  RankedRows
+WHERE
+  rn = 1
+  # Explicit VR Little Endian
+  AND TransferSyntaxUID = "1.2.840.10008.1.2.1"
+
+ORDER BY
+  totalPixels ASC
+```
 
 
 # Illustrations
