@@ -95,6 +95,7 @@ And integrate the Julich in our SEEG toolbox.
 
 #### Jülich Brain Atlas in 3D Slicer
 
+<img width="1658" alt="Capture d’écran 2025-01-31 à 10 17 35" src="https://github.com/user-attachments/assets/61bf5308-c105-4187-9fb1-9fc070b2c274" />
 
 
 
