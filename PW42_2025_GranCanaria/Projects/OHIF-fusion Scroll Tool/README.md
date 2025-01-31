@@ -50,18 +50,27 @@ Investigate whether these can be easily implemented in the main project.
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+- Identified & reported bugs in Viewport colorbar
+  - [#4743](https://github.com/OHIF/Viewers/issues/4743): Mouse action is exactly opposite for PET data, compared to window-level tool in the viewport.
+  - [#4744](https://github.com/OHIF/Viewers/issues/4744): Changing colormap of fusion volume applies change to background volume.
+- Create PR proposing fix for the 2nd bug ([#4746](https://github.com/OHIF/Viewers/pull/4746)).
+- Create Cornerstone3D tool: [ReferenceProbe](https://github.com/JoostJM/cornerstone3D/tree/feat/reference-probe)
+  - Using click & dragging in a viewport, show corresponding location in other viewports (jumping slices as necessary).
+- Create FusionStackScroll tool: [FusionStackScroll](https://github.com/JoostJM/cornerstone3D/tree/feat/fusion-stack-scroll)
+  - Extends StackScroll tool: delta X adjusts opacity of overlay volume in fusion viewport.
 
-1. Describe specific steps you **have actually done**.
-
-
-
+### Next Steps:
+- Adjust StackScroll to allow switching timepoints in dynamic volume in delta X direction.
+  - In case of Dynamic volume, determine directin (X or Y) of largest change --> Only adjust in this direction (i.e. either stack position or timepoint)
+- Investigate option of combining multiple tools on the mouse buttons by adding modifiers (Ctrl, Alt).
+  - Change cursor on hover + modifier to provide tooltip indicating function.
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
-_No response_
+## Reference Probe
+![Screenshot from 2025-01-31 11-52-14](https://github.com/user-attachments/assets/a79ddaa6-e201-43cf-831d-8b0b4490f388)
 
 
 
@@ -70,4 +79,6 @@ _No response_
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
+- [Ohif main repo](https://github.com/OHIF/Viewers)
+- [Cornerstone3D repo](https://github.com/cornerstonejs/cornerstone3D)
 
