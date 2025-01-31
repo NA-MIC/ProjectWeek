@@ -119,6 +119,7 @@ c.download_from_selection(downloadDir=".",seriesInstanceUID=test_series)
 ![](ts_a3ds_m.jpg)
 ![](ts_gaps.jpg)
 ![](t8.gif)
+![](broken_ribs.jpg)
 
 
 ```js
