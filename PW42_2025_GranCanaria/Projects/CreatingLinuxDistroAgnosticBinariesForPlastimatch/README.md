@@ -16,6 +16,9 @@ key_investigators:
   affiliation: Brigham and Women's Hospital
   country: Harvard Medical Schools, USA
 
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware Inc., US
+
 ---
 
 # Project Description
@@ -45,8 +48,8 @@ During this week we will explore the possibility of creating a binary version of
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Prepare a fresh linux virtual machine
-2. Compile plastimatch from source
+1. Prepare a fresh build environment
+2. Compile Plastimatch from source
 3. Figure out how to bundle/embed the required libraries  
 
 
@@ -57,7 +60,10 @@ During this week we will explore the possibility of creating a binary version of
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. A bash script to compile Plastimatch and its dependencies has been written
+2. We decided to use ManyLinux 2.28 docker container as a building environment
+3. We found out the Plastimatch file probe fails to identify the dicomRT (this happens only when we move the binary)
+4. Now we know what led to the error, we are working on it
 
 
 
