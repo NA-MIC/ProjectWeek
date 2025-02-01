@@ -43,6 +43,7 @@ Since the summer of 2023, the medical center's research team has been transition
 
 3. We also intend to improve the manual script currently used for volume and dice score tables. Enhancements will include allowing one-click copy-paste functionality and saving results directly as Excel files for easier review.
 
+**[Project Proposal PPT ->](https://docs.google.com/presentation/d/1kLeWb436ZpJCnbPZJxa0f1xVZAY0btyB/edit?usp=drive_link&ouid=117843046046586749971&rtpof=true&sd=true)** 
 
 
 
@@ -60,11 +61,40 @@ Since the summer of 2023, the medical center's research team has been transition
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+Our workflow diagram for Liver Cancer Surgery 3D Images and AI data (before participating Project Week 2025)
+
+<img width="3412" alt="Image" src="https://github.com/user-attachments/assets/7d81e77a-829c-4ef9-b257-2f9d18ed3410" />
 
 
-1. Describe specific steps you **have actually done**.
+Our workflow diagram for Living Donor Liver Transplantation Surgery 3D Images and AI data (before participating Project Week 2025)
+
+<img width="3476" alt="Image" src="https://github.com/user-attachments/assets/e1f33145-b40b-4f9a-985e-a7fe96f677f9" />
+
+
+[Day 1-2] Studied and studying tutorial documents on devleoping Slicer Extension. + Tested making modules with "Extension Wizard"
+https://training.slicer.org/ 
+https://slicer.readthedocs.io/en/latest/developer_guide/index.html
+
+
+
+[Day 2-5] Began developing the Liver Volumetry module for LDLT, which calculates the Graft-to-Recipient Weight Ratio (GRWR) to assist in selecting the optimal liver donor among candidates. The GRWR is a key parameter in liver transplantation, ensuring that the donated liver graft is of adequate size to support the recipient’s metabolic needs.
+
+![Image](https://github.com/user-attachments/assets/7efe841f-37a5-4b55-bd95-83baec421e62)
+
+Studied and studying the [Bone Reconstruction Planner module from SlicerIGT](https://github.com/SlicerIGT/SlicerBoneReconstructionPlanner/blob/main/BoneReconstructionPlanner/BoneReconstructionPlanner.py#L423) for reference (thanks to Mauro I. Dominguez).
+
+Tasks:
+Designing the UI using Qt Designer
+Implementing signal/slot connections
+
+
+Next Steps
+1. Finalize module logic for LDLT donor volumetry and test.
+2. Finalize module UI for Liver Cancer Surgery module, logic and test.
+3. After making the module, upload it to Slicer extension market. ((https://github.com/Slicer/ExtensionsIndex/tree/main)
+
+
+
 
 
 
@@ -74,11 +104,17 @@ Since the summer of 2023, the medical center's research team has been transition
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-![Image](https://github.com/user-attachments/assets/c148b8cb-068c-46d9-8a8a-f4934c0a7ada)
+![Image](https://github.com/user-attachments/assets/76d91735-6e44-486a-84d2-0d2bb599a4cc)
 
-![Image](https://github.com/user-attachments/assets/af809947-9b15-418e-811e-6534927ba75d)
+https://github.com/user-attachments/assets/0776a062-2128-4773-84de-8c3174e869ed
 
-![Image](https://github.com/user-attachments/assets/dec01856-0947-4d03-95a9-9d763a03b6d5)
+![Image](https://github.com/user-attachments/assets/485e8a96-ff90-406a-a792-c2fc97408c78)
+
+![Image](https://github.com/user-attachments/assets/576e7253-d77e-4f9b-8449-01b229c8e3e8)
+
+![Image](https://github.com/user-attachments/assets/e5ef5fc4-5dd5-43d8-90d3-a04117170f58)
+
+![Image](https://github.com/user-attachments/assets/e4a1f9c8-f0d3-4642-ae44-1b8baacc4e6a)
 
 
 
@@ -92,3 +128,4 @@ Rhu J, Choi GS, Kim MS, Kim JM, Joh JW. Image guidance using two-dimensional ill
 
 
 Oh, N., Kim, JH., Rhu, J. *et al.* Automated 3D liver segmentation from hepatobiliary phase MRI for enhanced preoperative planning. *Sci Rep* **13**, 17605 (2023). [https://doi.org/10.1038/s41598-023-44736-w](https://doi.org/10.1038/s41598-023-44736-w)
+
