@@ -28,6 +28,15 @@ key_investigators:
 - name: Wenqi Li
   affiliation: NVIDIA
   country: UK
+- name: Xueyan Mei
+  affiliation: Mount Sinai
+  country: USA
+- name: Zelong Liu
+  affiliation: Mount Sinai
+  country: USA
+- name: Tim Deyer
+  affiliation: East River Imaging
+  country: USA  
 ---
 
 # Project Description
