@@ -102,25 +102,28 @@ Next steps:
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-# Main Challenges
+# Main Challenges from previous Project Week 2024
 
-Building and running 3D Slicer on the NVIDIA IGX box (ARM architecture) involves several significant challenges:
+Building and running 3D Slicer on the NVIDIA IGX box (ARM architecture) involves several steps:
 
-1. **Qt Dependency**: There are no official Qt binary packages for arm64, requiring developers to build Qt from source. This process can trigger dependency errors and may force disabling of components such as QtWebEngine and QtPDF.
+1. **Qt**: There are no Qt binary packages for arm64. 
 
-2. **VTK Compilation**: VTK needs to be built with Qt and Python support on ARM, adding extra complexity to the build process.
+2. **CTKAppLauncher** This launcher is needed to set up Qt paths so that dynamically-loaded Qt libraries can be found. Since Qt paths are not set up for the launcher itself, the launcher has to be built statically (all the libraries has to be linked into the executable). We don’t build CTKAppLauncher executable as part of the Slicer build process because static linking of Qt libraries would require a paid Qt license. [Link to comments](https://discourse.slicer.org/t/how-to-modify-ctkapplauncherlib/32972/3)
 
-3. **CUDA Library Compatibility**: Some Holoscan applications that rely on CUDA have shown instability due to library differences, leading to crashes when deallocating memory.
+3. **Threading Building Blocks (TBB)** This has to be built agains the Qt version available on the system
 
-4. **Long-term Maintenance**: Maintaining these custom builds for ARM devices can pose a significant long-term effort unless a broader community helps to support and test the codebase.
+4. **VTK**: VTK needs to be built with Qt and Python support on ARM.
 
-5. **Dependency Management**: Building Qt with necessary plugins like xcb for X11 support requires installing additional dependencies that are not always well-documented.
+5. **CUDA Library Compatibility**: Some Holoscan applications that rely on CUDA have shown instability due to library differences, leading to crashes when deallocating memory.
 
-6. **Component Disabling**: Some Qt components may need to be disabled due to build errors, potentially limiting functionality.
+6. **Long-term Maintenance**: Maintaining these custom builds for ARM devices can pose a significant long-term effort unless a broader community helps to support and test the codebase.
 
-**Note:** 3D Slicer works on Mac with ARM architecture (Apple Silicon) primarily due to Apple's Rosetta 2 translation layer, which allows x86_64 applications to run on ARM-based Macs36. This translation layer is not available on other ARM-based architectures like the NVIDIA IGX. While 3D Slicer is not yet natively compiled for ARM on Mac, the Rosetta 2 emulation is efficient enough to provide good performance6. In contrast, other ARM-based systems like the IGX would require a native ARM build of 3D Slicer, which is not yet available.
+7. **Component Disabling**: Some Qt components may need to be disabled due to build errors, potentially limiting functionality.
 
-## Building Slicer in [Ubuntu 22.04 (x86)](https://slicer.readthedocs.io/en/latest/developer_guide/build_instructions/linux.html#ubuntu-22-04-jammy-jellyfish):
+**Note:** 3D Slicer works on Mac with ARM architecture (Apple Silicon) primarily due to Apple's Rosetta 2 translation layer, which allows x86_64 applications to run on ARM-based Macs36. This translation layer is not available on other ARM-based architectures like the NVIDIA IGX. While 3D Slicer is not yet natively compiled for ARM on Mac, the Rosetta 2 emulation is efficient enough to provide good performance. In contrast, other ARM-based systems like the IGX would require a native ARM build of 3D Slicer, which is not yet available.
+
+
+## General Notes: Building Slicer in [Ubuntu 22.04 (x86)](https://slicer.readthedocs.io/en/latest/developer_guide/build_instructions/linux.html#ubuntu-22-04-jammy-jellyfish):
 
 This section provides instructions for building Slicer on x86 systems:
 
@@ -132,9 +135,6 @@ sudo apt update && sudo apt install git build-essential \
   libqt5x11extras5-dev qtmultimedia5-dev libqt5svg5-dev qtwebengine5-dev libqt5xmlpatterns5-dev qttools5-dev qtbase5-private-dev \
   libxt-dev libssl-dev
 ```
-![running_x86_commands](https://github.com/user-attachments/assets/ecc6630f-5c72-432a-bdd2-02d66d151b73)
-
-
 
 1. Create a folder called Slicers where you will clone the Slicer repository and create the build directory:
 
@@ -170,6 +170,7 @@ cmake -DCMAKE_BUILD_TYPE:STRING=Release -DQt5_DIR:PATH=/opt/qt/5.15.2/gcc_64/lib
 # Build Slicer
 time make -j$NUMBER_OF_SLICER_COMPILATION_JOBS
 ```
+
 
 # Background and References
 
