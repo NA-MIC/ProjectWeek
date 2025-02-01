@@ -51,10 +51,10 @@ This project aims to create the first 3D and 2D radiology copilot in 3D Slicer b
 
 ## Approach and Plan
 
-1. Create a new 3D Slicer module that can communicate with REST APIs - Repository: [https://github.com/diazandr3s/VLM/tree/radcopilot/plugins/RadCoPilot_Slicer](https://github.com/Project-MONAI/VLM/tree/main/plugins/RadCoPilot_Slicer)
+1. Create a new 3D Slicer module that can communicate with REST APIs
 2. Integrate the private model trained by East River Imaging and NVIDIA using the RadImageNet dataset.
 3. Implement support for the MONAI VILA-M3 model.
-4. Develop a user interface within the module to allow sending 3D volumes, asking questions, and displaying copilot insights. [https://github.com/Project-MONAI/VLM/pull/64](https://github.com/Project-MONAI/VLM/pull/64)
+4. Develop a user interface within the module to allow sending 3D volumes, asking questions, and displaying copilot insights.
 5. Optimize the module's performance using the NVIDIA Holoscan platform.
 
 ## Progress and Next Steps
@@ -62,10 +62,12 @@ This project aims to create the first 3D and 2D radiology copilot in 3D Slicer b
 1. Initial project setup and team coordination completed.
 2. Research on integrating REST APIs within 3D Slicer modules conducted.
 3. Preliminary design of the user interface drafted.
+4. Repository: [https://github.com/Project-MONAI/VLM/tree/main/plugins/RadCoPilot_Slicer](https://github.com/Project-MONAI/VLM/tree/main/plugins/RadCoPilot_Slicer)
 
 # Illustrations
 
-![3](https://github.com/user-attachments/assets/10090a5c-1307-48ad-87a4-8f22e8a3331d)
+![updatedSlicerModule](https://github.com/user-attachments/assets/4c2bb0cb-0367-4758-bbb6-786283206c73)
+
 
 [video](https://github.com/user-attachments/assets/0d9fd2c6-ef26-4d14-851e-c761bb218ea7)
 
