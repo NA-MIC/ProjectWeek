@@ -52,18 +52,20 @@ We will develop a 3D slicer extension to deploy two interactive segmentation mod
 1. We will start by following the [tutorial](https://training.slicer.org/) for developing a 3D slicer extension
 
 
-
-
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Adapted the [SlicerSegmentWithSAM](https://github.com/mazurowski-lab/SlicerSegmentWithSAM) extension to use ScribblePrompt
+2. Added support for storing and retrieving the previous prediction for each slice to use as input when updating the segmentation
+3. Added support for positive and negative scribble inputs
 
-
-
+Next Steps:
+1. Add support for bounding box inputs 
+2. Test and debug MultiverSeg predictions for slice-by-slice segmentation of volumes
+3. Refactor the extension to integrate into SegmentEditor instead of being a standalone module
 
 # Illustrations
 
