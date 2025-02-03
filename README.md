@@ -1,7 +1,7 @@
 ## Welcome to the main page for the Project Week events!
 
 
-### The [42nd project week](PW42_2025_GranCanaria/README.md) will take place Jan 27-31, 2025 in Las Palmas, Gran Canaria, Spain.
+### The [42nd project week](PW42_2025_GranCanaria/README.md) took place Jan 27-31, 2025 in Las Palmas, Gran Canaria, Spain.
 
 ## Frequently Asked Questions
 
