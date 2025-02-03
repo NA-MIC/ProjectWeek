@@ -30,7 +30,7 @@ Segmenting small bowel from abdominal ultrasound images is a challenging task, e
 
 ## Objective
 
-1. Objective A. Implement MultiverSeg for predictions on abdominal ultrasound images.
+1. Objective A. Implement [MultiverSeg](https://multiverseg.csail.mit.edu/) for predictions on abdominal ultrasound images.
 2. Objective B. Evaluate the accuracy of the model for generating segmentations relative to the crowd consensus by comparing the resulting bowel diameters.
 
 ## Approach and Plan
@@ -85,13 +85,6 @@ Example of Expert Segmentations Demonstrating Bowel Diameter: <br>
 
 Wong, H.E., Ortiz, J.J.G., Guttag, J. & Dalca, A.V., (2024). MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance. arXiv preprint arXiv:2412.15058.
 [paper](https://arxiv.org/abs/2412.15058) [code](https://github.com/halleewong/MultiverSeg)
-<br>
-@misc{wong2024scribblepromptfastflexibleinteractive,
-      title={ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image},
-      author={Hallee E. Wong and Marianne Rakic and John Guttag and Adrian V. Dalca},
-      year={2024},
-      eprint={2312.07381},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2312.07381},
-}
+
+Wong, H.E., Rakic, M., Guttag, J., & Dalca, A.V., (2024). ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image. In European Conference on Computer Vision.
+[paper](https://arxiv.org/abs/2312.07381) [code](https://github.com/halleewong/ScribblePrompt)
