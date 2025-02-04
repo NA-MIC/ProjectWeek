@@ -64,6 +64,18 @@ This project aims to create the first 3D and 2D radiology copilot in 3D Slicer b
 3. Preliminary design of the user interface drafted.
 4. Repository: [https://github.com/Project-MONAI/VLM/tree/main/plugins/RadCoPilot_Slicer](https://github.com/Project-MONAI/VLM/tree/main/plugins/RadCoPilot_Slicer)
 
+## Next Steps:
+
+### For RadViLLA server:
+
+- In the server, create a session so loading volume and resizing doesn't need to happen every time the user send a prompt
+- Cache the volume so inference is faster
+
+### VILA-M3:
+
+- [Current server](https://github.com/Project-MONAI/VLM/pull/66) using NVCF doesn't accept volumes in the cloud with HTTPS. Change this flag or make sure it also accepts volumes hosted using HTTP
+- Get the current slice and send it to the prompt request rather than keeping it hard coded in the server
+
 # Illustrations
 
 ![updatedSlicerModule](https://github.com/user-attachments/assets/4c2bb0cb-0367-4758-bbb6-786283206c73)
