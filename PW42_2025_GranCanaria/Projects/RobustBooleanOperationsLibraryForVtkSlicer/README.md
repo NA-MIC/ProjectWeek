@@ -62,19 +62,29 @@ Support robust boolean operations for 2D triangle meshes inside VTK or Slicer th
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Tested `geogram` successfully with mesh that made `vtkbool` fail
-2. Current progress on effort integrating geogram boolean operations here.
-3. Table that compares most "popular" boolean operations libraries from the [awesome geometry processing](https://github.com/zishun/awesome-geometry-processing#general-libraries) projects list:
+1. Table that compares most "popular" boolean operations libraries from the [awesome geometry processing](https://github.com/zishun/awesome-geometry-processing#general-libraries) projects list:
 [https://docs.google.com/spreadsheets/d/1tWbNuMz7vTIB2efFZE7YdT4vBmRb45DdQlqy_kda32k/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1tWbNuMz7vTIB2efFZE7YdT4vBmRb45DdQlqy_kda32k/edit?usp=sharing)
-
+2. Tested `geogram` successfully with mesh that made `vtkbool` fail
+3. Edited the CombineModels module to allow other boolean operations backend, `manifold` through `trimesh` python module
+4. Discussed with the team how to expose geogram library to Slicer, mostly CMake related issues.
+5. Achieved creation of a CLI module to execute geogram boolean operations that will be later added to Sandbox extensions
+6. Next steps are to make all these alternative backends available on CombineModels module as a PRs. This will involve modifying Sandbox extension to be a superbuild extension
 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+## Boolean operation example
 
-_No response_
+![Boolean operation example](boolean_operation_inputs.png)
+
+![Boolean operation result](boolean_operation_results.png)
+
+## Working CLI module exposing geogram
+
+![geogram_CLI_module](https://github.com/user-attachments/assets/2e0846bd-bfd1-4884-be77-91dbb6a80741)
+
 
 
 
@@ -84,4 +94,7 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-_No response_
+- [Geogram's boolean operations](https://github.com/BrunoLevy/geogram/wiki/BooleanOps)
+- [Manifold's boolean operations](https://github.com/elalish/manifold/wiki/Manifold-Library#mesh-boolean)
+- [Trimesh (exposes manifold)](https://github.com/mikedh/trimesh)
+
