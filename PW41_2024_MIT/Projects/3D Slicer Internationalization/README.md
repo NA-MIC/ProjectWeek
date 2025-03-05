@@ -40,7 +40,7 @@ key_investigators:
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-The project aims to empower non-English speaking end-users to realize the full potential of the platform by translating its user interface, tutorials and documentation to multiple languages.
+The project aims to develop a novel software infrastructure to enable the localization of 3D Slicer into multiple languages. 
 
 ## Objective
 
