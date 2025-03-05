@@ -83,7 +83,7 @@ key_investigators:
 
 # Project Description
 
-The project aims to empower the biomedical research community in Latin America by localizing 3D Slicer to Spanish and Portuguese and improving tutorial localization infrastructure.
+The goal of this project is twofold: first, to leverage 3D Slicer’s internationalization infrastructure to localize the software into Spanish and Portuguese, and second, to develop a novel software infrastructure for localizing tutorials.
 
 ## Objective
 
