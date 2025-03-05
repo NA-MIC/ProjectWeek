@@ -70,7 +70,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-The goal of the project is to facilitate access to 3D Slicer in non-English speaking countries and foster global community engagement.
+The project aims to develop a novel software infrastructure to enable the localization of 3D Slicer into multiple languages.
 
 ## Objective
 
