@@ -27,7 +27,7 @@ The project is funded through two Essential Open Source Software for Science awa
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-1. To identify members of the global Slicer community interested in new Slicer activities in their language
+1. To identify members of the Slicer community interested in new Slicer activities in their language
 2. To run daily translation hackathons in the languages represented at PW38
 3. To implement an infrastructure for the internationalization of CTK-based code in 3D Slicer
 4. To automate Qt download in Slicer Language Packs Extension
