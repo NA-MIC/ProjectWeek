@@ -17,6 +17,7 @@ project_categories:
 ---
 
 # Welcome to the web page for the 43rd Project Week!
+<img src="images/pw39-event-photos.jpg" height="200">
 
 [This event](https://projectweek.na-mic.org/PW43_2025_Montreal/README.html) will take place June 23rd - June 27th, 2025 in Montreal, Canada, in person. More details will be posted on this page as the event approaches. If you have any questions, you can contact the [organizers](#organizers).
 
@@ -26,7 +27,7 @@ project_categories:
 
 ## Preparation meetings
 
-TBA
+We hold weekly online preparation meetings before the workshop. The meetings will start on April 29 2025 and will happen every week until the start of the workshop. If you plan to attend Project Week 43, please also attend the preparation meetings. These meetings can be used to introduce yourself, find a project you want to participate in during the workshop or propose one yourself and find collaborators.
 
 ## Registration
 TBA
