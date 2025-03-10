@@ -1,6 +1,6 @@
 Back to [Projects List](../../README.md#ProjectsList)
 
-# Slicer on Android
+# Adapt an already existing workflow in maxillofacial reconstructive surgery to Slicer
 
 ## Key Investigators
 
