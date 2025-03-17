@@ -14,6 +14,10 @@ key_investigators:
 - name: Attila Tanács
   affiliation: University of Szeged
   country: Hungary
+
+  - name: Steve Pieper
+  affiliation: Isomics Inc.
+  country: USA
 ---
 
 # Project Description
