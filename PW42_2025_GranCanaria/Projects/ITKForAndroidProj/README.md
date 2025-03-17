@@ -15,7 +15,7 @@ key_investigators:
   affiliation: University of Szeged
   country: Hungary
 
-  - name: Steve Pieper
+- name: Steve Pieper
   affiliation: Isomics Inc.
   country: USA
 ---
