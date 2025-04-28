@@ -1,7 +1,7 @@
 ## Welcome to the main page for the Project Week events!
 
 
-### The [42nd project week](PW42_2025_GranCanaria/README.md) took place Jan 27-31, 2025 in Las Palmas, Gran Canaria, Spain.
+### The [43rd project week](PW43_2025_Montreal/README.md) will take place on Jun 23-27, 2025 in Montreal, Quebec, Canada.
 
 ## Frequently Asked Questions
 
@@ -37,8 +37,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
 ## Upcoming Project Weeks
 
- [Project Week 42](PW42_2025_GranCanaria/README.md) will be held January 27 through January 31 2025, in person in at Las Palmas, Gran Canaria, Spain.
-
+ [Project Week 43](PW43_2025_Montreal/README.md) will take place on Jun 23-27, 2025, in person in Montreal, Quebec, Canada.
 
 ## Past Project Weeks
 
