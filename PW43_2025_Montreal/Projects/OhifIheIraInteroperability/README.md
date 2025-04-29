@@ -1,5 +1,5 @@
 ---
-layout: pw42-project
+layout: pw43-project
 
 permalink: /:path/
 
