@@ -13,8 +13,9 @@ body:
     label: Draft Status
     description: Select whether the project is ready to be created once this issue is submitted.
     options:
-      - Ready - team will start page creating immediately
       - Draft - team will hold off on page creation
+      - Ready - team will start page creating immediately
+      
   validations:
     required: true
 
