@@ -9,7 +9,7 @@ category: Infrastructure
 key_investigators:
 
 - name: Martin Bellehumeur
-  affiliation: Germany
+  affiliation: Radical Imaging, Germany
 
 ---
 
@@ -42,7 +42,7 @@ The project is to send results produced in OHIF to an IHE Report Creator using t
 
 The teams interested in participating would be provided with a FHIRcast hub account and OHIF code to help them send a FHIR Observation or ImagingStudySelection to the reporting system. The results would appear in the reporting application in a DiagnosticReport object and could be sent to an EHR.
 
-
+A Rad AI account will be available for validation of sending the FHIR observations into the DiagnosticReport.
 
 
 ## Progress and Next Steps
