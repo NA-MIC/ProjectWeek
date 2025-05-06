@@ -45,15 +45,12 @@ body:
     value: |
       _If you are unable to find a category that is suitable for your project, or believe that a specific category is missing, please discuss it with the organizers._
 
-- type: markdown
-  attributes:
-    value: |
-      *Please note the formatting on the Key Investigators list:*
-      `- Firstname Lastname (Affiliation, Country)`
-
 - type: textarea
   attributes:
     label: Key Investigators
+    description: |
+      *Please note the formatting on the Key Investigators list:*
+      `- Firstname Lastname (Affiliation, Country)`
     placeholder: |
       - FirstName1 LastName1 (Affiliation, Country)
       - FirstName2 LastName2 (Affiliation, Country)
