@@ -46,7 +46,7 @@ The **Discord** application is used to communicate between team members and orga
 
 To learn how to create or update project pages, please refer to the [contributing project pages](ContributingProjectPages.md) section.
 
-{% include projects.md %}
+{% include projects_noloc.md %}
 
 ## Registrants
 
