@@ -27,7 +27,7 @@ project_categories:
 
 ## Preparation meetings
 
-We hold weekly online preparation meetings before the workshop. The meetings will start on April 29 2025 and will happen every week until the start of the workshop. If you plan to attend Project Week 43, please also attend the preparation meetings. These meetings can be used to introduce yourself, find a project you want to participate in during the workshop or propose one yourself and find collaborators.
+We hold weekly online preparation meetings before the workshop. The meetings will start on April 29 2025 and will happen every week, on Tuesday at 10am ET until the start of the workshop. If you plan to attend Project Week 43, please also attend the preparation meetings. These meetings can be used to introduce yourself, find a project you want to participate in during the workshop or propose one yourself and find collaborators. You can join the meetings using the following [zoom link](https://etsmtl.zoom.us/j/82098172682?pwd=OHXPL5SlaLt817CzeBu8C1Pu21PvqW.1).
 
 ## Registration
 TBA
