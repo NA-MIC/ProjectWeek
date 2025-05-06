@@ -74,7 +74,6 @@ This would allow the SOFA community to leverage Slicer's existing infrastructure
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
-/pull/35))
 
 TBD
 
