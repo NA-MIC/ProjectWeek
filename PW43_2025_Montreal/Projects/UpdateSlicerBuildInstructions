@@ -1,0 +1,14 @@
+# Improve Slicer build instructions
+Building a custom version of slicer has become increasingly difficult.  
+    - Identify how to install Qt on an arm based apple M4 computer.
+    - Identify how to install Qt on Ubuntu 24.04 linux computer.
+
+
+# Investigate the status of moving to Qt6 
+Provide support/testing environments for migration to Qt6.
+
+# Investigate updating TCLAP to build cleanly, perhaps update to latest version of TCLAP.
+
+# Motivation
+I'd like to prepare Slicer for future versions of ITK, but configuring a stable build environiment has been more challenging that expected (primarily regarding Qt 5 requirements).
+
