@@ -30,7 +30,7 @@ project_categories:
 We hold weekly online preparation meetings before the workshop. The meetings will start on April 29 2025 and will happen every week, on Tuesday at 10am ET until the start of the workshop. If you plan to attend Project Week 43, please also attend the preparation meetings. These meetings can be used to introduce yourself, find a project you want to participate in during the workshop or propose one yourself and find collaborators. You can join the meetings using the following [zoom link](https://etsmtl.zoom.us/j/82098172682?pwd=OHXPL5SlaLt817CzeBu8C1Pu21PvqW.1).
 
 ## Registration
-TBA
+You can register for PW43 using the form [here](https://thepointofsale.com/tickets/namic-project-week-43). The registration fee is 400 CAN$ (approx. 290 US$ or 255 Euros) + 21.71 $CAN payment platform fees. It covers lunch for the 5 days of the workshop plus coffee and snacks throughout the day. 
 
 ## Discord
 The **Discord** application is used to communicate between team members and organize activities before and during Project Week. Please join the Project Week [Discord server](https://discord.gg/AkxzKvqMBp) as soon as possible and explore its functionality before the workshop. For more information on the use of Discord before and during Project Week, please visit [this page](../common/Discord.md).
