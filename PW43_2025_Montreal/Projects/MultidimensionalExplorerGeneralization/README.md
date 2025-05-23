@@ -63,7 +63,7 @@ Although we have some hand-coded examples for specific projects, it could be of 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-An example visualization: https://storage.googleapis.com/sdp-lnq-site/site/index.html
+An example visualization: [https://storage.googleapis.com/sdp-lnq-site/site/index.html](https://storage.googleapis.com/sdp-lnq-site/site/index.html)
 
 
 
