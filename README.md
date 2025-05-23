@@ -39,7 +39,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
  [Project Week 43](PW43_2025_Montreal/README.md) will take place on Jun 23-27, 2025, in person in Montreal, Quebec, Canada.
  
- [Project Week 44](PW44_2026_GranCanaria/README.md) will take place on Jan 19-23 (TBD!), 2026, in person in Las Palmas de Gran Canaria, Spain.
+ [Project Week 44](PW44_2026_GranCanaria/README.md) will take place on Jan 26-30 (TBD!), 2026, in person in Las Palmas de Gran Canaria, Spain.
 
 ## Past Project Weeks
 
