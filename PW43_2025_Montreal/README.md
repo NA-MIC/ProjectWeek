@@ -25,9 +25,12 @@ project_categories:
 
 École de Technologie Supérieure (ETS), Montreal, Canada
 
-## Preparation meetings
+## How to participate
 
-We hold weekly online preparation meetings before the workshop. The meetings will start on April 29 2025 and will happen every week, on Tuesday at 10am ET until the start of the workshop. If you plan to attend Project Week 43, please also attend the preparation meetings. These meetings can be used to introduce yourself, find a project you want to participate in during the workshop or propose one yourself and find collaborators. You can join the meetings using the following [zoom link](https://etsmtl.zoom.us/j/82098172682?pwd=OHXPL5SlaLt817CzeBu8C1Pu21PvqW.1).
+* We hold weekly online preparation meetings before the workshop (Tuesdays 10am ET, from April 29 until the start of the workshop, [zoom link](https://etsmtl.zoom.us/j/82098172682?pwd=OHXPL5SlaLt817CzeBu8C1Pu21PvqW.1) 
+* These meetings are an opportunity to introduce yourself, find a project you want to participate in during the workshop or propose one yourself and find collaborators. You will also find out more about how the workshop works. 
+* If you have a project in mind already, you can create a draft of your project page in just a few minutes using the form [here](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=sjh26&labels=project%2Cevent%3APW43_2025_Montreal&projects=&template=project.yml&title=Project%3A+). The project description will help drive the discussion during preparation meetings.
+* **Register as soon as possible** to help us plan the number of attendees (see instructions below)
 
 ## Registration
 You can register for PW43 using the form [here](https://thepointofsale.com/tickets/namic-project-week-43). The registration fee is 400 CAN$ (approx. 290 US$ or 255 Euros) + 21.71 $CAN payment platform fees. It covers lunch for the 5 days of the workshop plus coffee and snacks throughout the day. 
