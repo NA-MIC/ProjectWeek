@@ -25,6 +25,7 @@ Orbital fracture repair commonly used preformed/contoured plates. ProprietaryVir
 
 **Current procedures:**
 1. Alignment using the Interaction Transform Handle: rotate around the "posterior stop" landmark until the plate sits just above the. Real-time heatmap using Probe Model with Volume module and VTK collision detector can mark intersections to aid plate position adjustment.
+
 <p>
 <img src="https://github.com/user-attachments/assets/b79071c2-5518-418f-9c8e-99d3b005ab35" width="160"/> 
 <img src="https://github.com/user-attachments/assets/6191ae2a-1631-42ba-a454-e1c50a75318b6" width="170"/> 
@@ -32,7 +33,9 @@ Orbital fracture repair commonly used preformed/contoured plates. ProprietaryVir
 <img src="https://github.com/user-attachments/assets/50178264-6ab7-4bf8-b596-24dfd9344a5f" width="180"/> 
 </p>
 
+
 2. Reconstructing the fractured orbit using the mirror of the contralateral side: use DentalSegmentator to segment the bone. Use point cloud-based rigid registration plus deformable registration to align the mirrored orbit to the fractured one.
+
 <p>
 <img src="https://github.com/user-attachments/assets/790efb9d-8838-4b48-bbd1-0f714eed0da6" width="180"/> 
 <img src="https://github.com/user-attachments/assets/65be864e-4556-4bdd-af5b-68371d8c752d" width="160"/> 
@@ -40,6 +43,7 @@ Orbital fracture repair commonly used preformed/contoured plates. ProprietaryVir
 </p>
 
 3. Measuring fit by projecting fiducial points on plate edges to the reconstructed orbit. Fit is based on overall distances. Overall distance map can also be used. These distances can also be used to highlight largest deviation.
+
 <p>
 <img src="https://github.com/user-attachments/assets/62e02a60-b94d-4ddd-9cdb-55e9ffc53cea" width="180"/> 
 <img src="https://github.com/user-attachments/assets/c94f156f-c6a8-4570-ac2d-0b20a9021761" width="200"/> 
