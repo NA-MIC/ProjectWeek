@@ -59,9 +59,13 @@ List of registered participants so far (names will be added here after processin
 
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
-
-
-
+1. Simon Drouin, ETS, Canada
+1. Rafael Palomar, Oslo University Hospital, Norway
+1. Ron Kikinis, Brigham and Women’s Hospital and Harvard Medical School, United States
+1. Steve Pieper, Isomics, Inc., United States
+1. Adam Wittek, UWA, Australia
+1. Sajjad Arzemanzadeh, UWA, Australia
+1. Liam O'Connor, Concordia University - Applied Perception Lab, Canada
 <!-- Participants list end -->
 
 ## Statistics
