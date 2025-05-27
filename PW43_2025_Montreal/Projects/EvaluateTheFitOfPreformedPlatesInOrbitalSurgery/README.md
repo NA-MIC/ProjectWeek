@@ -27,7 +27,7 @@ Orbital fracture repair commonly used preformed/contoured plates. ProprietaryVir
 1. Alignment using the Interaction Transform Handle: rotate around the "posterior stop" landmark until the plate sits just above the. Real-time heatmap using Probe Model with Volume module and VTK collision detector can mark intersections to aid plate position adjustment.
 
 <p>
-<img src="https://github.com/user-attachments/assets/b79071c2-5518-418f-9c8e-99d3b005ab35" width="160"/> 
+<img src="https://github.com/user-attachments/assets/b79071c2-5518-418f-9c8e-99d3b005ab35" width="160"/><br> 
 <img src="https://github.com/user-attachments/assets/6191ae2a-1631-42ba-a454-e1c50a75318b6" width="170"/> 
 <img src="https://github.com/user-attachments/assets/76affefe-9e47-48c7-aa54-53a65f05f13f" width="200"/> 
 <img src="https://github.com/user-attachments/assets/50178264-6ab7-4bf8-b596-24dfd9344a5f" width="180"/> 
