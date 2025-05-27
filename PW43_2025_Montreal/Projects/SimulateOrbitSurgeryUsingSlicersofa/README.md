@@ -34,7 +34,7 @@ key_investigators:
 Simulating orbital fracture repair process using SlicerSOFA.
 
 <p>
-<img src="https://github.com/user-attachments/assets/5c46f298-f059-4c4c-8114-4f21906f9dd2" width="200"/><br>
+<img src="https://github.com/user-attachments/assets/5c46f298-f059-4c4c-8114-4f21906f9dd2" width="200"/>
 </p>
 
 Surgical Guidance using MatrixOrbital preformed plates from DePuy Synthesis: https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates
