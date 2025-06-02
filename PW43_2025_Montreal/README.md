@@ -71,6 +71,9 @@ List of registered participants so far (names will be added here after processin
 1. Chi Zhang, Texas A&M College of Dentistry, United States
 1. Martin Bellehumeur, Bellehumeur Engineering, Germany
 1. Mostafa Jamshidian, The University of Western Australia (UWA) , Australia
+1. Ihssene Brahimi, ETS, Canada
+1. Andrey Titov, ETS, Canada
+1. Richard Rushmore, Harvard Medical School, United States
 <!-- Participants list end -->
 
 ## Statistics
