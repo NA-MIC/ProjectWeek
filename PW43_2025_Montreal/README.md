@@ -47,6 +47,8 @@ The **Discord** application is used to communicate between team members and orga
 
 ## Projects
 
+Begin creating your project page [here](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=sjh26&labels=project%2Cevent%3APW43_2025_Montreal&projects=&template=project.yml&title=Project%3A+)!
+
 To learn how to create or update project pages, please refer to the [contributing project pages](ContributingProjectPages.md) section.
 
 {% include projects_noloc.md %}
