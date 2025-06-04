@@ -79,6 +79,11 @@ List of registered participants so far (names will be added here after processin
 1. Vitor Azevedo Padovani, ETS, Canada
 1. Benoît Verreman, ETS, Canada
 1. Mauricio Juárez, ETS, Canada
+1. Andras Lasso, Queen's University, Canada
+1. Deepa Krishnaswamy, Brigham and Women’s Hospital and Harvard Medical School, United States
+1. Étienne Léger, McGill University, Canada
+1. Hassan Rivaz, Concordia, Canada
+1. Olivia Radcliffe, Queen's University, Canada
 <!-- Participants list end -->
 
 ## Statistics
