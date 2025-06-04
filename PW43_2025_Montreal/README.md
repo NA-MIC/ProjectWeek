@@ -75,7 +75,7 @@ List of registered participants so far (names will be added here after processin
 1. Mostafa Jamshidian, The University of Western Australia (UWA) , Australia
 1. Ihssene Brahimi, ETS, Canada
 1. Andrey Titov, ETS, Canada
-1. Richard Rushmore, Harvard Medical School, United States
+1. Richard Rushmore, Boston University, United States
 1. Vitor Azevedo Padovani, ETS, Canada
 1. Benoît Verreman, ETS, Canada
 1. Mauricio Juárez, ETS, Canada
