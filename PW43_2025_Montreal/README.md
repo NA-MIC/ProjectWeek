@@ -69,7 +69,8 @@ List of registered participants so far (names will be added here after processin
 1. Sajjad Arzemanzadeh, UWA, Australia
 1. Liam O'Connor, Concordia University - Applied Perception Lab, Canada
 1. Andriy Fedorov, Brigham and Women’s Hospital and Harvard Medical School, United States
-1. Sara Suri, University of Iowa, United States
+1. Ivan Johnson-Eversoll, University of Iowa, United States
+1. Hans Johnson, University of Iowa, United States
 1. Chi Zhang, Texas A&M College of Dentistry, United States
 1. Martin Bellehumeur, Bellehumeur Engineering, Germany
 1. Mostafa Jamshidian, The University of Western Australia (UWA) , Australia
@@ -84,6 +85,8 @@ List of registered participants so far (names will be added here after processin
 1. Étienne Léger, McGill University, Canada
 1. Hassan Rivaz, Concordia, Canada
 1. Olivia Radcliffe, Queen's University, Canada
+1. Lena Giebeler, RWTH Aachen University and Brigham and Women’s Hospital, United States
+1. Maxime Bouthillier, Université de Montréal, Canada
 <!-- Participants list end -->
 
 ## Statistics
