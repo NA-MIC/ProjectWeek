@@ -87,6 +87,8 @@ List of registered participants so far (names will be added here after processin
 1. Olivia Radcliffe, Queen's University, Canada
 1. Lena Giebeler, RWTH Aachen University and Brigham and Women’s Hospital, United States
 1. Maxime Bouthillier, Université de Montréal, Canada
+1. Ahmed Rekik, ETS, Canada
+1. Sylvain Bouix, ETS, Canada
 <!-- Participants list end -->
 
 ## Statistics
