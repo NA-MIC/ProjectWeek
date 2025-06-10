@@ -84,7 +84,7 @@ List of registered participants so far (names will be added here after processin
 1. Deepa Krishnaswamy, Brigham and Women’s Hospital and Harvard Medical School, United States
 1. Étienne Léger, McGill University, Canada
 1. Hassan Rivaz, Concordia, Canada
-1. Olivia Radcliffe, Queen's University, Canada
+1. Amoon Jamzad, Queen's University, Canada
 1. Lena Giebeler, RWTH Aachen University and Brigham and Women’s Hospital, United States
 1. Maxime Bouthillier, Université de Montréal, Canada
 1. Ahmed Rekik, ETS, Canada
