@@ -16,7 +16,7 @@ key_investigators:
   affiliation: Isomics
   country: USA
 
-- name: Ron Kikinins
+- name: Ron Kikinis
   affiliation: Brigham and Women's Hospital
   country: USA
 
