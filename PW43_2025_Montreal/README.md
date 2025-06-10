@@ -89,6 +89,9 @@ List of registered participants so far (names will be added here after processin
 1. Maxime Bouthillier, Université de Montréal, Canada
 1. Ahmed Rekik, ETS, Canada
 1. Sylvain Bouix, ETS, Canada
+1. Isabel Frolick, McGill University, Canada
+1. Elise Donszelmann-Lund, McGill University, Canada
+1. Hyung Tae Park, Truabutment, inc., United States
 <!-- Participants list end -->
 
 ## Statistics
