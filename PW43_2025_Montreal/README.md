@@ -92,6 +92,12 @@ List of registered participants so far (names will be added here after processin
 1. Isabel Frolick, McGill University, Canada
 1. Elise Donszelmann-Lund, McGill University, Canada
 1. Hyung Tae Park, Truabutment, inc., United States
+1. Junichi Tokuda, Brigham and Women's Hospital, United States
+1. Enzo Tulissi, University of Michigan, United States
+1. Alban Gaydamour, University of Michigan, United States
+1. Lucia Cevidanes, University of Michigan, United States
+1. Kyle Sunderland, Queen's University, Canada
+1. Naomi Catwell, ETS, Canada
 <!-- Participants list end -->
 
 ## Statistics
