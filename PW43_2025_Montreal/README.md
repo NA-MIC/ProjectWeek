@@ -25,7 +25,7 @@ project_categories:
 
 École de Technologie Supérieure (ETS), Montreal, Canada - **E Building**
 
-The images below show how to get to the PW39 conference room. If you Google "ETS", it will take you to the main building of the university (1). You need to walk about 200 meters to get to the building called "Maison des étudiants" (2). Enter the building and either climb the stairs or take the elevator on the right to reach the second floor(3). From there, you should easily find the registration desk. The conference room for PW39 is right beside.
+The images below show how to get to the Project Week 43 conference room. If you Google "ETS", it will take you to the main building of the university (1). You need to walk about 200 meters to get to the building called "Maison des étudiants" (2). Enter the building and either climb the stairs or take the elevator on the right to reach the second floor(3). From there, you should easily find the registration desk. 
 
 Venue entrance on Google Maps: [https://goo.gl/maps/xNedgMBt4C6jwiCu5](https://goo.gl/maps/xNedgMBt4C6jwiCu5)
 
