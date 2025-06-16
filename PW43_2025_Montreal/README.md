@@ -67,8 +67,8 @@ List of registered participants so far (names will be added here after processin
 1. Steve Pieper, Isomics, Inc., United States
 1. Adam Wittek, UWA, Australia
 1. Sajjad Arzemanzadeh, UWA, Australia
-1. Liam O'Connor, Concordia University - Applied Perception Lab, Canada
-1. Andriy Fedorov, Brigham and Women’s Hospital and Harvard Medical School, United States
+1. Liam O'Connor, Concordia University, Canada
+1. Andrey Fedorov, Brigham and Women’s Hospital and Harvard Medical School, United States
 1. Ivan Johnson-Eversoll, University of Iowa, United States
 1. Hans Johnson, University of Iowa, United States
 1. Chi Zhang, Texas A&M College of Dentistry, United States
@@ -76,19 +76,19 @@ List of registered participants so far (names will be added here after processin
 1. Mostafa Jamshidian, The University of Western Australia (UWA) , Australia
 1. Ihssene Brahimi, ETS, Canada
 1. Andrey Titov, ETS, Canada
-1. Richard Rushmore, Boston University, United States
+1. Jarrett Rushmore, Boston University, United States
 1. Vitor Azevedo Padovani, ETS, Canada
 1. Benoît Verreman, ETS, Canada
 1. Mauricio Juárez, ETS, Canada
 1. Andras Lasso, Queen's University, Canada
 1. Deepa Krishnaswamy, Brigham and Women’s Hospital and Harvard Medical School, United States
 1. Étienne Léger, McGill University, Canada
-1. Hassan Rivaz, Concordia, Canada
+1. Nicholas Kawwas, Concordia University, Canada
 1. Amoon Jamzad, Queen's University, Canada
 1. Lena Giebeler, RWTH Aachen University and Brigham and Women’s Hospital, United States
 1. Maxime Bouthillier, Université de Montréal, Canada
 1. Ahmed Rekik, ETS, Canada
-1. Sylvain Bouix, ETS, Canada
+1. Tina Nomena Herimino Nantenaina, ETS, Canada
 1. Isabel Frolick, McGill University, Canada
 1. Elise Donszelmann-Lund, McGill University, Canada
 1. Hyung Tae Park, Truabutment, inc., United States
@@ -98,6 +98,12 @@ List of registered participants so far (names will be added here after processin
 1. Lucia Cevidanes, University of Michigan, United States
 1. Kyle Sunderland, Queen's University, Canada
 1. Naomi Catwell, ETS, Canada
+1. Jean-Christophe Fillion-Robin, Kitware, United States
+1. Samantha Horvath, Kitware, United States
+1. Houssem Gueziri, TÉLUQ University, Canada
+1. Rui Li, New York University, United States
+1. Tina Kapur, Brigham and Womens Hospital, United States
+1. Sylvain Bouix, École de technologie supérieure, Canada
 <!-- Participants list end -->
 
 ## Statistics
