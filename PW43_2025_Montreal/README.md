@@ -50,6 +50,7 @@ The **Discord** application is used to communicate between team members and orga
 
 ## Breakout sessions
 
+[Day 1 - Slicer Workflow Breakout](https://docs.google.com/document/d/12XuYPVuRgy4RTuIabSIjy_sRrYSliewKhcbB1zJgXVI/edit?usp=sharing)
 
 ## Projects
 
