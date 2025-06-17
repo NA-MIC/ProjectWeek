@@ -66,7 +66,7 @@ To overcome these limitations, this project focuses on designing a transform-iso
 - Design rendering pipelines capable of displaying volumes, overlays, and models along the panoramic curve
 
 5. Plan for GeneralReformat Integration
-- Analyze the structure introduced in PR [#8148] (GeneralReformat module)
+- Analyze the structure introduced in PR [#8148](https://github.com/Slicer/Slicer/pull/8148) (GeneralReformat module)
 - Design interface compatibility for future functional convergence
 
 
@@ -76,7 +76,7 @@ To overcome these limitations, this project focuses on designing a transform-iso
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-- Analyzed merged PR [#8148] and structure of GeneralReformat
+- Analyzed merged PR [#8148](https://github.com/Slicer/Slicer/pull/8148) and structure of GeneralReformat
 - Initiate CPR-specific view and layout architecture
 - Define class-level design documents and rendering flow
 

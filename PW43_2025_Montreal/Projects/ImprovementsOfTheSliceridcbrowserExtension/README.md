@@ -23,7 +23,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-The goal is to improve functionality of https://github.com/ImagingDataCommons/SlicerIDCBrowser.
+The goal is to improve functionality of [https://github.com/ImagingDataCommons/SlicerIDCBrowser](https://github.com/ImagingDataCommons/SlicerIDCBrowser).
 
 
 
@@ -72,5 +72,5 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-https://portal.imaging.datacommons.cancer.gov/
+- [https://portal.imaging.datacommons.cancer.gov/](https://portal.imaging.datacommons.cancer.gov/)
 
