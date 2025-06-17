@@ -62,7 +62,7 @@ The current workflow is tedious. My goal is to simplify the process.
 1. Objective A. Design UI to simplify fractured orbit reconstruction step
 2. Objective B. Improve fit measurements. 
 3. Objective C. Segmentation of fractured and intact orbits. Orbital bones are two thin. DentalSegmentator performs well, but sometimes only a boundary between maxillary sinus & orbit is preserved.
-4. Objective D. Explore using SlicerSOFA to bend the plate and fit snuggly to the orbit. See project page: https://github.com/NA-MIC/ProjectWeek/issues/1459
+4. Objective D. Explore using SlicerSOFA to bend the plate and fit snuggly to the orbit. See project page: [https://github.com/NA-MIC/ProjectWeek/issues/1459](https://github.com/NA-MIC/ProjectWeek/issues/1459)
 
 
 
@@ -120,7 +120,7 @@ Transconjunctival approach for retracting orbital tissue. From: https://surgeryr
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-Surgical Guidance using MatrixOrbital preformed plates from DePuy Synthesis: https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates
+Surgical Guidance using MatrixOrbital preformed plates from DePuy Synthesis: [https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates](https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates)
 
-Orbital floor and wall fracture repair guidance: https://surgeryreference.aofoundation.org/cmf/pediatric-trauma/midface/orbital-floor/reconstruction
+Orbital floor and wall fracture repair guidance: [https://surgeryreference.aofoundation.org/cmf/pediatric-trauma/midface/orbital-floor/reconstruction](https://surgeryreference.aofoundation.org/cmf/pediatric-trauma/midface/orbital-floor/reconstruction)
 
