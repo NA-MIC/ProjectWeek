@@ -51,8 +51,11 @@ The **Discord** application is used to communicate between team members and orga
 ## Breakout sessions
 
 [Day 1 - Slicer Workflow Breakout](BreakoutSessions/Workflows/README.md)
+
 [Day 2 - Slicer Update Breakout](BreakoutSessions/Slicer/README.md)
+
 [Day 3 - Neuroanatomy Breakout](BreakoutSessions/Neuroanatomy/README.md)
+
 [Day 4 - AR-VR and Rendering Breakout](BreakoutSessions/ARVRRendering/README.md)
 
 ## Projects
