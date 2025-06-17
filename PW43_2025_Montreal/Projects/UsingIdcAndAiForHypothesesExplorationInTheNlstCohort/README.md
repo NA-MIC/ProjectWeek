@@ -105,8 +105,11 @@ Plot from the [Krishnaswamy et al. 2024](http://arxiv.org/abs/2406.14486) study 
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-[1] Thiriveedhi, V. K., Krishnaswamy, D., Clunie, D., Pieper, S., Kikinis, R. & Fedorov, A. Cloud-based large-scale curation of medical imaging data using AI segmentation. Research Square (2024). https://doi.org/10.21203/rs.3.rs-4351526/v1
-[2] Thiriveedhi, V. K., Krishnaswamy, D., Clunie, D. & Fedorov, A. TotalSegmentator segmentations and radiomics features for NCI Imaging Data Commons CT images. (2024). https://doi.org/10.5281/zenodo.8347012
-[3] Weiss, J., Bernatz, S., Johnson, J., Thiriveedhi, V., Mak, R. H., Fedorov, A., Lu, M. T. & Aerts, H. J. W. Opportunistic assessment of steatotic liver disease in lung cancer screening eligible individuals. J. Intern. Med. (2025). https://doi.org/10.1111/joim.20053
-[4] Krishnaswamy, D., Thiriveedhi, V. K., Ciausu, C., Clunie, D., Pieper, S., Kikinis, R. & Fedorov, A. Rule-based outlier detection of AI-generated anatomy segmentations. arXiv [eess.IV] (2024). at http://arxiv.org/abs/2406.14486
+[1] Thiriveedhi, V. K., Krishnaswamy, D., Clunie, D., Pieper, S., Kikinis, R. & Fedorov, A. Cloud-based large-scale curation of medical imaging data using AI segmentation. Research Square (2024). [https://doi.org/10.21203/rs.3.rs-4351526/v1](https://doi.org/10.21203/rs.3.rs-4351526/v1)
+
+[2] Thiriveedhi, V. K., Krishnaswamy, D., Clunie, D. & Fedorov, A. TotalSegmentator segmentations and radiomics features for NCI Imaging Data Commons CT images. (2024). [https://doi.org/10.5281/zenodo.8347012](https://doi.org/10.5281/zenodo.8347012)
+
+[3] Weiss, J., Bernatz, S., Johnson, J., Thiriveedhi, V., Mak, R. H., Fedorov, A., Lu, M. T. & Aerts, H. J. W. Opportunistic assessment of steatotic liver disease in lung cancer screening eligible individuals. J. Intern. Med. (2025). [https://doi.org/10.1111/joim.20053](https://doi.org/10.1111/joim.20053)
+
+[4] Krishnaswamy, D., Thiriveedhi, V. K., Ciausu, C., Clunie, D., Pieper, S., Kikinis, R. & Fedorov, A. Rule-based outlier detection of AI-generated anatomy segmentations. arXiv [eess.IV] (2024). at [http://arxiv.org/abs/2406.14486](http://arxiv.org/abs/2406.14486)
 

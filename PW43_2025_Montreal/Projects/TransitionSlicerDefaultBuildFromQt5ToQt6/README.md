@@ -93,5 +93,6 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-* https://github.com/Slicer/Slicer/issues/6388
+* [Slicer Issue](https://github.com/Slicer/Slicer/issues/6388)
+* [Build Instructions PW43](https://projectweek.na-mic.org/PW43_2025_Montreal/Projects/SlicerBuildInstructionUpdates/)
 

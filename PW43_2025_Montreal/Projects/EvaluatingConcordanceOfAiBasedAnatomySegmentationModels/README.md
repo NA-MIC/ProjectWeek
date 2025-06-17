@@ -95,11 +95,16 @@ The Slicer Segmentation Verification Module Extension currently:
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 An interactive poster with a summary of the results and the current state of the project can be found at the following link:
-https://www.dropbox.com/scl/fi/c84sm9djytyi80jk2ixfa/giebeler.lena.pptx?rlkey=g3sf82zuv5fgmuog0an3dsy96&dl=0
+[https://www.dropbox.com/scl/fi/c84sm9djytyi80jk2ixfa/giebeler.lena.pptx?rlkey=g3sf82zuv5fgmuog0an3dsy96&dl=0](https://www.dropbox.com/scl/fi/c84sm9djytyi80jk2ixfa/giebeler.lena.pptx?rlkey=g3sf82zuv5fgmuog0an3dsy96&dl=0)
 
 **Current Status of the Slicer Segmentation Verification Module Extension:**
 
-https://github.com/user-attachments/assets/44b9d5e9-f88c-4c82-9bcf-879a62702d38
+
+<video
+  controls muted
+  src="https://github.com/user-attachments/assets/44b9d5e9-f88c-4c82-9bcf-879a62702d38"
+  style="max-height:640px; min-height: 200px">
+</video>
 
 
 
@@ -112,7 +117,7 @@ https://github.com/user-attachments/assets/44b9d5e9-f88c-4c82-9bcf-879a62702d38
 
 * This project is continuing earlier PW42 project ["Review of segmentation results quality across various multi-organ segmentation models"]( https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/ReviewOfSegmentationResultsQualityAcrossVariousMultiOrganSegmentationModels/)
 * [My fork of the Segmentation Verification Module](https://github.com/LenaGiebeler/SlicerSegmentationVerification)
-  * PR adding new features upstream: https://github.com/cpinter/SlicerSegmentationVerification/pull/3
+  * PR adding new features upstream: [https://github.com/cpinter/SlicerSegmentationVerification/pull/3](https://github.com/cpinter/SlicerSegmentationVerification/pull/3)
 * AI segmentation models (Git repositories): 
   * [TotalSegmentator](https://github.com/wasserth/TotalSegmentator)
   * [Auto3DSeg](https://github.com/Project-MONAI/tutorials/tree/main/auto3dseg)
