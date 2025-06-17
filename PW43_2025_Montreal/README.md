@@ -118,6 +118,7 @@ List of registered participants so far (names will be added here after processin
 1. Tina Kapur, Brigham and Womens Hospital, United States
 1. Sylvain Bouix, École de technologie supérieure, Canada
 1. Hamze Rasaee, Concordia University, Canada
+1. Tamas Ungi, 	ClaroNav Kolahi Inc, Canada
 <!-- Participants list end -->
 
 ## Statistics
