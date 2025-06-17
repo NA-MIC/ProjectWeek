@@ -22,4 +22,9 @@ The goals of this breakout session is to discuss the upcoming changes in the ren
 * Status of SlicerVirtualReality and upcoming development, AR-VR hmd support
 * Customizable interaction in SlicerVirtualReality
 
+## References
+[Notes from PW40](https://projectweek.na-mic.org/PW40_2024_GranCanaria/BreakoutSessions/Rendering/)
+[Notes from PW39](https://projectweek.na-mic.org/PW39_2023_Montreal/BreakoutSessions/RenderingBreakout/)
+[Slicer WebGPU project from PW37](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/SlicerWGPU/)(Steve Piper)
+
 # Notes
