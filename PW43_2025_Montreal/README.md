@@ -121,6 +121,7 @@ List of registered participants so far (names will be added here after processin
 1. Tamas Ungi, ClaroNav Kolahi Inc, Canada
 1. Sean Chen, ClaroNav Kolahi Inc, Canada
 1. Juntae Park, AIRS Inc., South Korea
+1. Benjamin Zwick, UWA, Australia
 <!-- Participants list end -->
 
 ## Statistics
