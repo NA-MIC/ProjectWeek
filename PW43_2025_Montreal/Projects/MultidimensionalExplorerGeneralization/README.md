@@ -18,7 +18,6 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-
 Several projects involve looking at clinical and imaging data for large collections, resulting in a multidimensional data space that can be difficult to quickly comprehend.
 
 This project explores the use of eCharts with Slicer to make interactive visualizations of this kind of data.
@@ -26,25 +25,24 @@ This project explores the use of eCharts with Slicer to make interactive visuali
 Although we have some hand-coded examples for specific projects, it could be of interest to create a more generic tool using the Slicer dicomDatabase, tables, markups, and other data sources to generate visualizations.
 
 
-
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
+During Project Week I would like to brainstorm with the community about various use cases and requirements.  From this I would like to determine what kind of core features would support these and how they could be bundled and exposed in a Slicer extension.
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-
-
-
+Since the current "UI" for creating these visualizations is a text editor the ability to explore the data in this way is limited to people with both Python and JavaScript expertise.  I would like to see if there are ways to build infrastructure to make it easier to apply these techniques with less programming required.  It's possible that LLM tools like Gemini or DeepSeek can already perform this task.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-
-
+1. Identify use cases and discuss:
+    * [TMJ Dashboard]([url](https://projectweek.na-mic.org/PW43_2025_Montreal/Projects/ExtractionOfOrofacialPainComorbiditiesFromClinicalNotesUsingLargeLanguageModels/))
+    * [Data from IDC]([url](https://projectweek.na-mic.org/PW43_2025_Montreal/Projects/UsingIdcAndAiForHypothesesExplorationInTheNlstCohort/))
+    * Others TBD at project week
+2. See how easy it would be to adapt the code for these use case and also see how hard it would be for people to create their own interactive charts for their data.
+3. Try auto-generating these charts using LLM technology
 
 
 ## Progress and Next Steps
@@ -63,7 +61,20 @@ Although we have some hand-coded examples for specific projects, it could be of 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-An example visualization: [https://storage.googleapis.com/sdp-lnq-site/site/index.html](https://storage.googleapis.com/sdp-lnq-site/site/index.html)
+An example parallel coordinates visualization: [https://storage.googleapis.com/sdp-lnq-site/site/index.html](https://storage.googleapis.com/sdp-lnq-site/site/index.html).
+In this example, Slicer is used to pre-render thumbnails for interactive exploration, and clicking on the link takes you to an IDC-hosted viewer to see the full dataset.  This allow the full interactive chart to be hosted in a google storage bucket.
+
+Previous experiments with parallel coordinates charts leveraged the qSlicerWebWidget to support bidirectional communication between the JavaScript-based parallel coordinates chart and the Python-based Slicer visualization.
+
+* In this example, measures of tissue microstructure for dozens of whitematter tracts for hundreds of patients can be interactively compared.  Screenshots of each structure are shown as you mouse over the chart and clicking on a particular one loads the corresponding 3D file into Slicer.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/I4bytomQrao">
+ </iframe>
+
+* In this example a multiparametric MRI scan of a patient with a brain tumor is shown in Slicer and statistics from different volumes are shown in the parallel coordinates chart.  The video shows the two-way interaction of the chart with the volume visualization.  For example, when regions are selected in Slicer using the Segment Editor, the signal intensities are plotted on the chart in colors corresponding to the segment color.  Alternatively, the user can select combinations like high fractional anisotropy and low mean diffusivity and Slicer displays all voxels meeting that criterion as an overlay on all the images.  The goal is for clinical researchers to be able to explore the 3D anatomical distribution of tissues with different signal properties in and around the tumor.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Y4MyThyeIPs">
+ </iframe>
 
 
 
