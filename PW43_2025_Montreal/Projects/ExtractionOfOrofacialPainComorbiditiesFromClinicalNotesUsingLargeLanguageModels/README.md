@@ -62,7 +62,7 @@ Temporomandibular Disorders (TMDs) are often linked with complex comorbidities t
 
 
 1. Annotate clinical notes with summaries across 56 comorbidity criteria.
-2. Fine-tune LLMs such as `facebook/bart-large-cnn` using chunked note inputs.
+2. Fine-tune LLMs such as `facebook/bart-large-cnn` and `deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B` using chunked note inputs.
 3. Generate structured outputs and compile them into a CSV.
 4. Visualize cohort-level trends using a Python-based dashboard.
 5. Evaluate model performance and deploy the tool to be accessible in 3D Slicer.
@@ -75,11 +75,10 @@ Temporomandibular Disorders (TMDs) are often linked with complex comorbidities t
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Deidentified clinical notes were obtained and manually summarized for 112 patients; a total of 500 are planned.
-2. Fine-tuned `facebook/bart-large-cnn` on these summaries to generate structured outputs across 56 comorbidity fields.
+1. Deidentified clinical notes were obtained and manually summarized for 500 patients.
+2. Fine-tuned `facebook/bart-large-cnn` and `deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B` on these summaries to generate structured outputs across 56 comorbidity fields.
 3. Generated CSV outputs from model summaries and created a dashboard to visualize cohort-level patterns.
-4. Currently working on fine-tuning larger models and expanding the dataset.
-5. Next steps include completing 500 patient summaries, comparing model performance, and deploying the tool for use in 3D Slicer.
+4. Next steps include comparing model performance, and deploying the tool for use in 3D Slicer.
 
 
 
@@ -87,10 +86,34 @@ Temporomandibular Disorders (TMDs) are often linked with complex comorbidities t
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+### Table 1. Metrics from BART training
+|    | ROUGE-1    | ROUGE-2    | ROUGE-L    | ROUGE-Lsum |
+|--------|----------|----------|----------|----------|
+| Fold 1 | 83.68    | 71.99    | 83.50    | 83.49    |
+| Fold 2 | 83.48    | 73.40    | 83.11    | 83.14    |
+| Fold 3 | 84.93    | 74.23    | 84.38    | 84.57    |
+| Fold 4 | 85.50    | 74.73    | 85.11    | 85.21    |
+| Fold 5 | 85.47    | 74.64    | 84.98    | 85.01    |
+| **Average** | **84.61** | **73.80** | **84.22** | **84.29** |
 
-![Dashboard summary from first 112 cases](https://github.com/user-attachments/assets/3985d794-0522-4a94-8417-7bbc7cf7cf8d)
+### Table 2. Metrics from DeepSeek training
+|    | ROUGE-1    | ROUGE-2    | ROUGE-L    | ROUGE-Lsum |
+|--------|----------|----------|----------|----------|
+| Fold 1 | 86.55    | 86.49    | 86.53    | 86.54    |
+| Fold 2 | 84.90    | 84.79    | 84.86    | 84.82    |
+| Fold 3 | 86.08    | 86.09    | 86.10    | 86.11    |
+| Fold 4 | 85.96    | 85.91    | 85.95    | 85.92    |
+| Fold 5 | 85.21    | 85.70    | 85.17    | 85.21    |
+| **Average** | **85.74** | **85.70** | **85.72** | **85.72** |
 
+### Figure 1. Dashboard summary from 500 cases extracted manually
+![Dashboard summary from 500 cases extracted manually](https://github.com/user-attachments/assets/29e17ece-13d4-417a-ae64-955ce6d66cfc)
 
+### Figure 2. Dashboard summary from 500 cases extracted by fine-tuned BART
+![Dashboard summary from 500 cases extracted automatically by BART](https://github.com/user-attachments/assets/b0edb217-d825-4a37-ac95-3226689d7c1a)
+
+### Figure 3. Dashboard summary from 500 cases extracted by fine-tuned DeepSeek
+![Dashboard summary from 500 cases extracted automatically by DeepSeek](https://github.com/user-attachments/assets/54e0cb4b-d307-4b38-ba45-02f99a906ed4)
 
 # Background and References
 
@@ -99,5 +122,5 @@ Temporomandibular Disorders (TMDs) are often linked with complex comorbidities t
 
 
 - Github Page: https://github.com/DCBIA-OrthoLab/MedEx
-- Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, and Luke Zettlemoyer. 2020. BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 7871–7880, Online. Association for Computational Linguistics.
-
+- Lewis M, Liu Y, Goyal N, et al. BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020;7871–7880.
+- DeepSeek-AI, Guo D, Yang D, et al. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. Preprint at arXiv. 2025. Available from: https://arxiv.org/pdf/2501.12948.
