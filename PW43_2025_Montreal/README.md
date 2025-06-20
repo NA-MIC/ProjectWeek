@@ -122,6 +122,9 @@ List of registered participants so far (names will be added here after processin
 1. Sean Chen, ClaroNav Kolahi Inc, Canada
 1. Juntae Park, AIRS Inc., South Korea
 1. Benjamin Zwick, UWA, Australia
+1. Raphaël Christin, McGill University, Canada
+1. Taeyoung Ted  Park, Truabutment, inc., South Korea
+1. Maha Kesibi, Queen's University, Canada
 <!-- Participants list end -->
 
 ## Statistics
