@@ -41,6 +41,15 @@ Venue entrance on Google Maps: [https://goo.gl/maps/xNedgMBt4C6jwiCu5](https://g
 ## Registration
 You can register for PW43 using the form [here](https://thepointofsale.com/tickets/namic-project-week-43). The registration fee is 400 CAN$ (approx. 290 US$ or 255 Euros) + 21.71 $CAN payment platform fees. It covers lunch for the 5 days of the workshop plus coffee and snacks throughout the day. 
 
+## Remote participation
+For members of the community that are unable to attend Project Week in person this time, it will be possible to watch the main sessions that will be broadcast on Zoom: 
+1. Project introduction (Monday 10am ET)
+2. What's new in Slicer breakout session (Tuesday 10am ET)
+3. Project results presentation (Friday 10am ET)
+Use the this [zoom link](https://etsmtl.zoom.us/j/82098172682?pwd=OHXPL5SlaLt817CzeBu8C1Pu21PvqW.1) to joint.
+
+A smaller conference room will be available throughout the week for other breakout sessions and meetings between on-site teams and remote participants. The room can be joined using the following [zoom link](https://etsmtl.zoom.us/j/98174045874?pwd=WTy1O4Q24f1jaanNelkZssymq6af2b.1).
+
 ## Discord
 The **Discord** application is used to communicate between team members and organize activities before and during Project Week. Please join the Project Week [Discord server](https://discord.gg/AkxzKvqMBp) as soon as possible and explore its functionality before the workshop. For more information on the use of Discord before and during Project Week, please visit [this page](../common/Discord.md).
 
