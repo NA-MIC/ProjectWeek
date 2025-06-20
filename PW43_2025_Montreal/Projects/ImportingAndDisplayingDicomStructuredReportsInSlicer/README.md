@@ -87,7 +87,7 @@ We will create SRs to hold points and bounding boxes, and modify the DICOMTID150
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-[Slicer discourse discussion](https://discourse.slicer.org/t/loading-and-displaying-dicom-structured-reports/42754/7)
-[My fork of QuantitativeReporting](https://github.com/deepakri201/QuantitativeReporting/blob/master/DICOMPlugins/DICOMTID1500Plugin.py)
-[Creating SRs from last project week](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/CreatingDicomCompatibleCancerAnnotationsForNlst/)
+- [Slicer discourse discussion](https://discourse.slicer.org/t/loading-and-displaying-dicom-structured-reports/42754/7)
+- [My fork of QuantitativeReporting](https://github.com/deepakri201/QuantitativeReporting/blob/master/DICOMPlugins/DICOMTID1500Plugin.py)
+- [Creating SRs from last project week](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/CreatingDicomCompatibleCancerAnnotationsForNlst/)
 

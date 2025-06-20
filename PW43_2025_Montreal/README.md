@@ -116,8 +116,15 @@ List of registered participants so far (names will be added here after processin
 1. Houssem Gueziri, TÉLUQ University, Canada
 1. Rui Li, New York University, United States
 1. Tina Kapur, Brigham and Womens Hospital, United States
-1. Sylvain Bouix, École de technologie supérieure, Canada
+1. Sylvain Bouix, ETS, Canada
 1. Hamze Rasaee, Concordia University, Canada
+1. Tamas Ungi, ClaroNav Kolahi Inc, Canada
+1. Sean Chen, ClaroNav Kolahi Inc, Canada
+1. Juntae Park, AIRS Inc., South Korea
+1. Benjamin Zwick, UWA, Australia
+1. Raphaël Christin, McGill University, Canada
+1. Taeyoung Ted  Park, Truabutment, inc., South Korea
+1. Maha Kesibi, Queen's University, Canada
 <!-- Participants list end -->
 
 ## Statistics

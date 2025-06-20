@@ -120,7 +120,6 @@ Temporomandibular Disorders (TMDs) are often linked with complex comorbidities t
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-
-- Github Page: https://github.com/DCBIA-OrthoLab/MedEx
-- Lewis M, Liu Y, Goyal N, et al. BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020;7871–7880.
-- DeepSeek-AI, Guo D, Yang D, et al. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. Preprint at arXiv. 2025. Available from: https://arxiv.org/pdf/2501.12948.
+- Github Page: [https://github.com/DCBIA-OrthoLab/MedEx](https://github.com/DCBIA-OrthoLab/MedEx)
+- Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, and Luke Zettlemoyer. 2020. BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension. *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*, pages 7871–7880.
+- DeepSeek-AI, Guo D, Yang D, et al. DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning. Preprint at *arXiv*, 2025. Available from: [https://arxiv.org/pdf/2501.12948](https://arxiv.org/pdf/2501.12948).

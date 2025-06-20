@@ -25,7 +25,9 @@ key_investigators:
 
 The goal of this project is to implement segment-aware carving mechanism, that will make it possible to clip specific user-defined segments when rendering a medical volume. This will allow users to create very customized visualizations tailored for specific needs, like anatomy learning or preoperative planning. Eventually, the goal is to add a VR interactions, as demonstrated in this video:
 
-https://www.youtube.com/watch?v=YFl7LF5hWxI
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/YFl7LF5hWxI">
+</iframe>
 
 
 

@@ -36,7 +36,7 @@ Simulating orbital fracture repair process using SlicerSOFA.
 <p>
 <img src="https://github.com/user-attachments/assets/5c46f298-f059-4c4c-8114-4f21906f9dd2" width="200"/></p>
 
-Surgical Guidance using MatrixOrbital preformed plates from DePuy Synthesis: https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates
+Surgical Guidance using MatrixOrbital preformed plates from DePuy Synthesis: [https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates](https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates)
 
 
 
@@ -104,7 +104,7 @@ Surgical Guidance using MatrixOrbital preformed plates from DePuy (see below for
 
 <img src="https://github.com/user-attachments/assets/66a054ca-7751-4fe7-8c82-94ab1da61509" width="200"/>
 
-Transconjunctival approach for retracting orbital tissue. From: https://surgeryreference.aofoundation.org/cmf/pediatric-trauma/midface/orbital-floor/reconstruction
+Transconjunctival approach for retracting orbital tissue. From: [https://surgeryreference.aofoundation.org/cmf/pediatric-trauma/midface/orbital-floor/reconstruction](https://surgeryreference.aofoundation.org/cmf/pediatric-trauma/midface/orbital-floor/reconstruction)
 
 
 
@@ -115,5 +115,5 @@ Transconjunctival approach for retracting orbital tissue. From: https://surgeryr
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-Surgical Guidance using MatrixOrbital preformed plates from DePuy Synthesis: https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates
+Surgical Guidance using MatrixOrbital preformed plates from DePuy Synthesis: [https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates](https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates)
 
