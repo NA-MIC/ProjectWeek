@@ -64,7 +64,7 @@ This would allow the SOFA community to leverage Slicer's existing infrastructure
  
 4. Objective D. Bug fixing ([#44](https://github.com/slicer/slicersofa/issues/44)) and MacOS package fixing
 
-5. Objective D. Discuss other topics of interest to potential SlicerSOFA users.
+5. Objective E. Discuss other topics of interest to potential SlicerSOFA users.
 
 ## Approach and Plan
 
