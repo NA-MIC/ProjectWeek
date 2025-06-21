@@ -31,6 +31,14 @@ key_investigators:
 - name: Sam Horvath
   affiliation: Kitware Inc
   country: USA
+  
+- name: Naomi Catwell
+  affiliation: ÉTS
+  country: Canada
+  
+- name: Chi Zhang
+  affiliation: Texas A&M School of Dentistry
+  country: USA
 
 ---
 
@@ -40,22 +48,23 @@ key_investigators:
 
 
 The SlicerSOFA project has already been integrated as a Slicer extension, providing core functionality including python bindings and many examples.
-We'd now like to take the next steps to determine default funcationality and determine how we want to enable applications that use the extension.
+We'd now like to take the next steps to determine default funcationality and determine how we want to enable applications that use the extension. In addition we will tackle some of the issues that need a fix, most notably, the MacOS extension packaging which to date is not available.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Objective A. Define what SOFA plugins should be enabled for the extension.
+1. Objective A. Define what SOFA plugins should be enabled for the extension and update the packaged SOFA to the lastest possible version (SOFA is currently in v25.06, while SlicerSOFA still uses v24.06).
 
 2. Objective B. See if we can build a template for SlicerSOFA-based extensions that can provide custom C++ SOFA plugins.
 This would allow the SOFA community to leverage Slicer's existing infrastructure for cross-platform testing and distribution.
 
 3. Objective C. Discuss/prototype parallel processing architectures to optimize overlap of simulation and rendering for best interactive performance.
+ 
+4. Objective D. Bug fixing ([#44](https://github.com/slicer/slicersofa/issues/44)) and MacOS package fixing
 
- 4. Objective D. Discuss other topics of interest to potential SlicerSOFA users.
-
+5. Objective D. Discuss other topics of interest to potential SlicerSOFA users.
 
 ## Approach and Plan
 
@@ -66,8 +75,10 @@ This would allow the SOFA community to leverage Slicer's existing infrastructure
 2. Discuss and possibly prototype a C++ SOFA plugin in a SuperBuild extension that depends on SlicerSOFA
 
 3. Discuss various client/server and message passing options, such as an http-based protocol, RPyC, or others.
+   
+4. Improve the SlicerSOFA (and possibly SOFA) CMake infrastructure to enable MacOS packaging. Review SlicerSOFA python infrastructure in connection with the SoftTissueSimulation and [#44](https://github.com/Slicer/SlicerSOFA/issues/44) 
 
-4. Reach out to other Project Week attendess who express interest.
+6. Reach out to other Project Week attendess who express interest.
 
 
 ## Progress and Next Steps
