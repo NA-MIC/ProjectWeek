@@ -88,8 +88,9 @@ Will add on Thursday night!
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
-_No response_
+<p align="center">
+  <img src="SlicerAnonymizer.png" width="800"/>
+</p>
 
 
 
