@@ -48,8 +48,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-
-We have developed an anonymization module for B-model ultrasound in 3D Slicer that can be used interactively or in batch mode. We would like to test it on data from different groups at PW. If you have any data, please let us know.
+SlicerUltrasound is a 3D Slicer extension that currently includes two modules: Annotate, which supports expert labeling of image findings, and Anonymize, which removes both metadata-embedded PHI and burned-in text from DICOM images. The Anonymize module, the focus of this project, has been used at Brigham and Women’s Hospital (BWH), Lahey Hospital, and Indiana Methodist to remove PHI from over 1,000 patient exams. The Anonymizer module allows users to import DICOM ultrasound images from a local network folder and apply probe-specific masking templates to remove burned-in identifiers. Users specify the transducer type—curvilinear or phased array—which determines the expected fan shape. By marking three or four points on the image, the module interpolates the imaging sector and masks any visual PHI outside this region while preserving diagnostically relevant content. This flexible, semi-automated approach supports consistent anonymization across large datasets while accommodating variations in ultrasound geometry.
 
 
 
