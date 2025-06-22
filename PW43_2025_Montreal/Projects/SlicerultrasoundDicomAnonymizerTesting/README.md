@@ -16,6 +16,10 @@ key_investigators:
   affiliation: Queens
   country: Canada
 
+- name: Fahimeh Fooladgar
+  affiliation: UBC
+  country: Canada
+
 - name: Shreyas Puducheri
   affiliation: BWH
   country: USA
@@ -57,8 +61,7 @@ SlicerUltrasound is a 3D Slicer extension that currently includes two modules: A
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-
+Our team members are onsite as well as working virtually to fix [open issues] (https://github.com/SlicerUltrasound/SlicerUltrasound/issues) in the software to make it more user friendly, and to test AI models for automated fan segmentation.
 
 
 
@@ -67,8 +70,7 @@ SlicerUltrasound is a 3D Slicer extension that currently includes two modules: A
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-
+We will be working on the open issues list and happy to discuss it with any PW43 participants who are interested. 
 
 
 
@@ -97,6 +99,6 @@ _No response_
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
+https://github.com/SlicerUltrasound
 
-_No response_
 
