@@ -16,6 +16,32 @@ key_investigators:
   affiliation: Queens
   country: Canada
 
+- name: Shreyas Puducheri
+  affiliation: BWH
+  country: USA
+
+- name: Matt Alves
+  affiliation: BWH
+  country: USA
+
+- name: Caroline Schissel
+  affiliation: Lahey
+  country: USA
+
+- name: Maha Kesibi
+  affiliation: Queens
+  country: Canada
+
+- name: David Dinh
+  affiliation: SlicerUltrasound Team
+  country: USA
+
+- name: Atin Malaviya
+  affiliation: SlicerUltrasound Team
+  country: USA
+  
+
+
 ---
 
 # Project Description
