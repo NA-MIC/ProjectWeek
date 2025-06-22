@@ -80,8 +80,7 @@ We will be working on the open issues list and happy to discuss it with any PW43
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
-
+Will add on Thursday night!
 
 
 
