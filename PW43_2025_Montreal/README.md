@@ -134,6 +134,8 @@ List of registered participants so far (names will be added here after processin
 1. Raphaël Christin, McGill University, Canada
 1. Taeyoung Ted  Park, Truabutment, inc., South Korea
 1. Maha Kesibi, Queen's University, Canada
+1. Lipeng Ning, Brigham and Women’s Hospital and Harvard Medical School, United States
+1. Kaveh Moradkhani, ETS, Canada
 <!-- Participants list end -->
 
 ## Statistics
