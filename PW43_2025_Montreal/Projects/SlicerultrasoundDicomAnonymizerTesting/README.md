@@ -3,7 +3,7 @@ layout: pw43-project
 
 permalink: /:path/
 
-project_title: SlicerUltrasound DICOM Anonymizer Testing
+project_title: SlicerUltrasound DICOM Anonymizer
 category: DICOM
 
 key_investigators:
