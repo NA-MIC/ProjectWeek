@@ -5,7 +5,7 @@ permalink: /:path/
 
 project_title: Extraction of Orofacial Pain Comorbidities from Clinical Notes Using Large Language
   Models
-category: Infrastructure
+category: Quantification and Computation
 
 key_investigators:
 
