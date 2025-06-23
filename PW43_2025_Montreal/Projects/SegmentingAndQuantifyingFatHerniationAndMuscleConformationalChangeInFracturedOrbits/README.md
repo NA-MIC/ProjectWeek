@@ -19,11 +19,9 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-Segmentation of orbital soft tissue and bones are difficult because the structures are small and thin, boundaries of muscles, nerves, and fat tissue are not clear and highly sensitive to the quality of CT images. Orbital fracture poses unique challenges due to conditions including orbital floors and medial walls cracking like egg shells, muscle conformations and size changes (e.g., entrapment), altered globe positions (e.g., enophthalmos), and orbital fat and soft tissue herniation into sinuses. 
+Segmentation of orbital soft tissue and bones are difficult because the structures are small and thin and boundaries are not well defined in medical CT scans. Fractured orbits introduced additional challenges, including cracked and isolated bones, muscle conformational changes (e.g., shape and size), fat herniation into adjacent sinuses, and hematoma. Detecting and delineating these conditions are crucial for surgical decision making and planning.
 
-Manual segmentation is very time consuming and requires a high level of understanding of radiology and anatomy. Therefore, it is difficult to recruit enough labor to prepare for the ground truth and training dataset.
-
-TotalSegmentator is the only ready-to-use module that incorporate segmenting extraocular muscles. However, there is no citation and validation of the accuracy. The literatures are also scarce. and virtually no study focuses on multi-structure segmentation for the fractured orbit.
+Manual segmentation of orbit is laborious and technical. The available deep learning tools are scarce. TotalSegmentator recently included a model for segmenting extraocular muscles but it might only be based on about twenty manual segmentations with no peer-reviewed publications. Boundaries between some muscles (e.g., superiour rectus & levator palpebrae) cannot be validated due to CT image qualities. A company from Finland has a model for segmenting orbital tissue but they did not incorporate fractured conditions. Consequently, fat is indistinguishable from blood in herniation cases.
 
 
 
@@ -32,10 +30,9 @@ TotalSegmentator is the only ready-to-use module that incorporate segmenting ext
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Find a repeatable solution to manual segmenting orbital soft tissue for ground truth, particularly fractured orbit. 
-2. Find a repeatable way to determine the anterior boundary of orbital fat, which usually continuous with the eyelid and is blurred. Accurately quantifying orbital fat volume has its clinical significance for inferring trauma, herniation, inflammation, etc. Retracting orbital fat is also critical in orbital fracture repair.
-3. Find a repeatable way to represent thin orbital floor, which is sometimes only marked by the boundary between maxillary sinus & orbital soft tissue.
-4. Initially deep learning segmentation training by incorporating fractured orbit to augment the training dataset. Locating open-source images of good orbital scans.
+1. Create repeatable semi-automatic approaches for accurately segmenting orbital tissue, including thin bone & soft tissue, especially in fractured conditions
+2. Creating repeatable metrics based on segmentation results to detect and quantify tissue changes to aid decision making
+3. Stretching goal: validate TotalSegmentaor results and initiate deep learning segmentation development.
 
 
 
@@ -44,8 +41,11 @@ TotalSegmentator is the only ready-to-use module that incorporate segmenting ext
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. For extraocular muscles, perhaps first focus on muscles that usually show changes (e.g., entrapment, enlargement, etc.) associated with fractures, such as medial & inferior rectus.
-2. Currently using grow from seeds to segment overall soft tissue and herniation. Extraocular muscles retouched from TotalSegmentator results. Orbital fat is from using overall orbital content subtract the extraocular muscles and the globe.
+1. Use TotalSegmentator as a start point to correct its results, then add fat tissue with a focus of differentiating herniated fat vs. blood (Grow-from-Seeds appear to perform well).
+2. Focus on detecting and quantifying fat herniation and inferior rectus muscle (also medial rectus) conformational changes because they are most frequently used in decision making.
+3. Fat herniation: register the contralateral side to the fractured side to quantify herniation using Hausdorf distance, distance map, etc.
+4. Inferior rectus m.: perhaps connecting centroids of each slice to draw its basic shape and use cross section area to quantify sizes.
+5. Consulting people at PW to prepare for deep learning segmentation model training, including how to efficiently creating training dataset.
 
 
 
