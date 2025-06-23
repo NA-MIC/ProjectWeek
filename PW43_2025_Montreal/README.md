@@ -136,6 +136,8 @@ List of registered participants so far (names will be added here after processin
 1. Maha Kesibi, Queen's University, Canada
 1. Lipeng Ning, Brigham and Women’s Hospital and Harvard Medical School, United States
 1. Kaveh Moradkhani, ETS, Canada
+1. Daniel Haehn, UMass Boston, United States
+1. Paul Baksic, Centre Inria de l'Université de Lorraine, France
 <!-- Participants list end -->
 
 ## Statistics
