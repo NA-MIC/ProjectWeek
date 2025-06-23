@@ -19,7 +19,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-Working on updating the icons in 3D Slicer
+We will be continuing the work to integrate the new icon set into 3D Slicer.
 
 
 
@@ -28,7 +28,7 @@ Working on updating the icons in 3D Slicer
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
+1. Finalize icon switching logic initially developed in last project week
 
 
 
@@ -38,7 +38,9 @@ Working on updating the icons in 3D Slicer
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
+1. Review icon switching approach from last PW
+2. Finish remaining work items and create a PR on Slicer Core
+3. Create dependent PR with the actual updated icons
 
 
 
@@ -49,17 +51,15 @@ Working on updating the icons in 3D Slicer
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
-
-
 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+[Light](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/FinalizeSlicerIconSetUpdateInfrastructure/LightThemeIconsIndex.html)
 
-_No response_
+[Dark](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/FinalizeSlicerIconSetUpdateInfrastructure/DarkThemeIconsIndex.html)
 
 
 
@@ -69,5 +69,5 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-_No response_
-
+- [PW 41 Project Page](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/UpdatedIconsAndThemeSwitching/)
+- [PW 42 Project Page](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/FinalizeSlicerIconSetUpdateInfrastructure/)
