@@ -46,7 +46,7 @@ For members of the community that are unable to attend Project Week in person th
 1. Project introduction (Monday 10am ET)
 2. What's new in Slicer breakout session (Tuesday 10am ET)
 3. Project results presentation (Friday 10am ET)
-Use the this [zoom link](https://etsmtl.zoom.us/j/82098172682?pwd=OHXPL5SlaLt817CzeBu8C1Pu21PvqW.1) to joint.
+Use the this [zoom link](https://etsmtl.zoom.us/j/82098172682?pwd=OHXPL5SlaLt817CzeBu8C1Pu21PvqW.1) to join.
 
 A smaller conference room will be available throughout the week for other breakout sessions and meetings between on-site teams and remote participants. The room can be joined using the following [zoom link](https://etsmtl.zoom.us/j/98174045874?pwd=WTy1O4Q24f1jaanNelkZssymq6af2b.1).
 
