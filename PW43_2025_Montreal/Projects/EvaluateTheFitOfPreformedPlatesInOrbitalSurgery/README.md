@@ -98,7 +98,9 @@ The current workflow is tedious. My goal is to simplify the process.
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+Johnson&Johnson DePuy Synthesis preformed titanium plate: <br>
+<img src="https://github.com/user-attachments/assets/f1402cf8-5581-4835-a829-133c03cfc594" width="300"/>
+<img src="https://github.com/user-attachments/assets/8b631448-c285-4c72-8609-75d3190db24f" width="300"/>
 
 <p>
 <img src="https://github.com/user-attachments/assets/5c46f298-f059-4c4c-8114-4f21906f9dd2" width="200"/>
