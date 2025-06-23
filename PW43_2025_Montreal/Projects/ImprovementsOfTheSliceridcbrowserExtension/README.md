@@ -9,12 +9,12 @@ category: Infrastructure
 key_investigators:
 
 - name: Andrey Fedorov
-  affiliation: BWH
+  affiliation: Brigham and Women's Hospital
   country: USA
 
 - name: Kyle Sunderland
-  affiliation: Queen's
-  country: USA
+  affiliation: Queen's University
+  country: Canada
 
 ---
 
@@ -22,8 +22,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-
-The goal is to improve functionality of [https://github.com/ImagingDataCommons/SlicerIDCBrowser](https://github.com/ImagingDataCommons/SlicerIDCBrowser).
+[SlicerIDCBrowser](https://github.com/ImagingDataCommons/SlicerIDCBrowser) is a 3D Slicer extension for exploring and downloading over 85TB of freely available image data from [NCI Imaging Data Commons](https://portal.imaging.datacommons.cancer.gov/explore). This project is about updating and improving this extension to make it more usable and easier to maintain.
 
 
 
@@ -31,9 +30,8 @@ The goal is to improve functionality of [https://github.com/ImagingDataCommons/S
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-
 1. Plan refactoring of the extension
-2. Improve features (progress reporting, simplify download, add auto load)
+2. Improve features: add download progress reporting, simplify download by automatically detecting whether identifier specified by the user is collection/patient/study/series, support automatic loading of the images.
 
 
 
@@ -42,10 +40,9 @@ The goal is to improve functionality of [https://github.com/ImagingDataCommons/S
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Need to discuss with @Sunderlandkyl first - BWH-Queen's subcontract is underway!
-
-
-
+1. Discuss with Kyle overall organization of the extension, estimate effort.
+2. Meet with the users to collect feedback.
+3. Prioritize development and start working on implementation.
 
 ## Progress and Next Steps
 
