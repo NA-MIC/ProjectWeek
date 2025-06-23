@@ -4,7 +4,7 @@ layout: pw43-project
 permalink: /:path/
 
 project_title: Automated Bone Segmentation and 3D Modelling using Tracked 2D Ultrasound Imaging
-category: DICOM
+category: IGT and Training
 
 key_investigators:
 
