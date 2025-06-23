@@ -37,7 +37,7 @@ SimCortex is a deep-learning framework that simultaneously reconstructs all four
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Objective A. **Fine‐tune SimCortex with high‐quality, manually labeled data **
+1. Objective A. **Fine‐tune SimCortex with high‐quality, manually labeled data**
 A. We will fine-tune the pre‐trained SimCortex model to 50 expert‐annotated MRI segmentations, aiming to improve its ability to generate anatomically accurate, collision‐free cortical surfaces.
 
 2. Objective B. **Compare outputs from multiple fine‐tuned configurations against the FreeSurfer‐trained baseline using geometric metrics**
@@ -52,13 +52,13 @@ A. We will load and inspect the cortical meshes from each configuration using 3D
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-
-	•	**Preprocessing:** Convert 50 manually segmented MRI datasets into a format compatible with the SimCortex framework through a preprocessing pipeline.
-	•	**Model Fine-Tuning:** Fine-tune the SimCortex model using the preprocessed manual datasets to improve anatomical accuracy and generalization.
-	•	**Evaluation Metrics:**  Evaluate Model performance across configurations using quantitative metrics.
-	•	**Baseline Comparison:** Compare results with the baseline SimCortex model originally trained on FreeSurfer-generated segmentations.
-	•	**Expert Review:** Collaborate with Professor Jarrett Rushmore (neuroanatomy expert) to visually inspect the cortical reconstructions for anatomical plausibility.
-	•	**Configuration Selection:** Identify optimal configurations based on combined quantitative performance and expert-guided visual assessment.
+	
+1. **Preprocessing:** Convert 50 manually segmented MRI datasets into a format compatible with the SimCortex framework through a preprocessing pipeline.
+2. **Model Fine-Tuning:** Fine-tune the SimCortex model using the preprocessed manual datasets to improve anatomical accuracy and generalization.
+3. **Evaluation Metrics:**  Evaluate Model performance across configurations using quantitative metrics.
+4. **Baseline Comparison:** Compare results with the baseline SimCortex model originally trained on FreeSurfer-generated segmentations.
+5. **Expert Review:** Collaborate with Professor Jarrett Rushmore (neuroanatomy expert) to visually inspect the cortical reconstructions for anatomical plausibility.
+6. **Configuration Selection:** Identify optimal configurations based on combined quantitative performance and expert-guided visual assessment.
 
 
 
