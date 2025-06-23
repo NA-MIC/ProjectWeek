@@ -89,24 +89,26 @@ Temporomandibular Disorders (TMDs) are often linked with complex comorbidities t
 
 
 ### Table 1. Metrics from BART training
-|  Fold  | ROUGE-1    | ROUGE-2    | ROUGE-L    | ROUGE-Lsum |
-|---|-----|-----|-----|-----|
-| Fold 1 | 83.68    | 71.99    | 83.50    | 83.49    |
-| Fold 2 | 83.48    | 73.40    | 83.11    | 83.14    |
-| Fold 3 | 84.93    | 74.23    | 84.38    | 84.57    |
-| Fold 4 | 85.50    | 74.73    | 85.11    | 85.21    |
-| Fold 5 | 85.47    | 74.64    | 84.98    | 85.01    |
-| Average | 84.61 | 73.80 | 84.22 | 84.29 |
+
+|Fold|ROUGE-1|ROUGE-2|ROUGE-L|ROUGE-L sum|
+|---|---|---|---|---|
+|Fold1|83.68|71.99|83.50|83.49|
+|Fold2|83.48|73.40|83.11|83.14|
+|Fold3|84.93|74.23|84.38|84.57|
+|Fold4|85.50|74.73|85.11|85.21|
+|Fold5|85.47|74.64|84.98|85.01|
+|Average|84.61|73.80|84.22|84.29|
 
 ### Table 2. Metrics from DeepSeek training
-|  Fold | ROUGE-1    | ROUGE-2    | ROUGE-L    | ROUGE-Lsum |
-|---|-----|-----|-----|-----|
-| Fold 1 | 86.55    | 86.49    | 86.53    | 86.54    |
-| Fold 2 | 84.90    | 84.79    | 84.86    | 84.82    |
-| Fold 3 | 86.08    | 86.09    | 86.10    | 86.11    |
-| Fold 4 | 85.96    | 85.91    | 85.95    | 85.92    |
-| Fold 5 | 85.21    | 85.70    | 85.17    | 85.21    |
-| Average | 85.74 | 85.70 | 85.72 | 85.72 |
+
+|Fold|ROUGE-1|ROUGE-2|ROUGE-L|ROUGE-L sum|
+|---|---|---|---|---|
+|Fold1|86.55|86.49|86.53|86.54|
+|Fold2|84.90|84.79|84.86|84.82|
+|Fold3|86.08|86.09|86.10|86.11|
+|Fold4|85.96|85.91|85.95|85.92|
+|Fold5|85.21|85.70|85.17|85.21|
+|Average|85.74|85.70|85.72|85.72|
 
 ### Figure 1. Dashboard summary from 500 cases extracted manually
 ![Dashboard summary from 500 cases extracted manually](https://github.com/user-attachments/assets/29e17ece-13d4-417a-ae64-955ce6d66cfc)
