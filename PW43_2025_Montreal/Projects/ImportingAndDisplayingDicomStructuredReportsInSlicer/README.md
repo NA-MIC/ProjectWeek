@@ -84,8 +84,7 @@ We will create SRs to hold points and bounding boxes, and modify the DICOMTID150
 Example of a DICOM SR with points - ProstateX biopsy target points
 <img width="1508" alt="ProstateX_point" src="https://github.com/user-attachments/assets/1ecccd9c-94eb-4dcf-a9a7-c27acc6af019" />
 
-Example of a DICOM SR with bounding boxes - Sybil lesion annotations for NLST 
-https://github.com/user-attachments/assets/d8976a62-3a53-4de9-a78f-00fb6d6c8920
+![Example of a DICOM SR with bounding boxes - Sybil lesion annotations for NLST](https://github.com/user-attachments/assets/d8976a62-3a53-4de9-a78f-00fb6d6c8920)
 
 Example of a DICOM SR with lines 
 <img width="1428" alt="Image" src="https://github.com/user-attachments/assets/cd8a5926-90b1-4e18-8d96-651bcbd2bc6a" />
