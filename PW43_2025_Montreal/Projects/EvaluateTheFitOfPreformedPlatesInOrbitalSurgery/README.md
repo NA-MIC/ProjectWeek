@@ -28,11 +28,10 @@ Orbital fracture repair commonly used preformed/contoured plates. ProprietaryVir
 
 <p>
 <img src="https://github.com/user-attachments/assets/b79071c2-5518-418f-9c8e-99d3b005ab35" width="160"/><br> 
-<img src="https://github.com/user-attachments/assets/6191ae2a-1631-42ba-a454-e1c50a75318b6" width="170"/> 
+<img src="https://github.com/user-attachments/assets/5ad6eaaf-a707-407d-a1c4-43da9f25df8c" width="170"/> 
 <img src="https://github.com/user-attachments/assets/76affefe-9e47-48c7-aa54-53a65f05f13f" width="200"/> 
 <img src="https://github.com/user-attachments/assets/50178264-6ab7-4bf8-b596-24dfd9344a5f" width="180"/> 
 </p>
-
 
 2. Reconstructing the fractured orbit using the mirror of the contralateral side: use DentalSegmentator to segment the bone. Use point cloud-based rigid registration plus deformable registration to align the mirrored orbit to the fractured one.
 
