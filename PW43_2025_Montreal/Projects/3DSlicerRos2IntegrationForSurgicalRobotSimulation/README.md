@@ -100,4 +100,6 @@ However, the use of OTS comes with considerable cost and practical limitations. 
 
 - [SlicerROS2](https://slicer-ros2.readthedocs.io/en/v1.0/index.html)
 - [ROS2 Jazzy](https://docs.ros.org/en/jazzy/index.html)
+- [https://drive.google.com/file/d/1RaTsGjUCuYQjolq8KW-ABr_gGIWw4BRO/view?usp=drive_link](https://drive.google.com/file/d/1RaTsGjUCuYQjolq8KW-ABr_gGIWw4BRO/view?usp=drive_link)
+- [https://rosmed.github.io/tutorials/smarttemplate/](https://rosmed.github.io/tutorials/smarttemplate/)
 
