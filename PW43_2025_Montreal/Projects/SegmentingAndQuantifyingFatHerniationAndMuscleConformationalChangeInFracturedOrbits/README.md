@@ -11,7 +11,12 @@ key_investigators:
 
 - name: Chi Zhang
   affiliation: Texas A&M College of Dentistry
-
+- name: Caelan Ducommun
+  affiliation: Texas A&M College of Dentistry
+- name: Gwen Tran
+  affiliation: Texas A&M College of Dentistry
+- name: Andrew Read-Fuller
+  affiliation: Texas A&M College of Dentistry
 ---
 
 # Project Description
