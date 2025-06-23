@@ -11,6 +11,9 @@ key_investigators:
 - name: Chi Zhang
   affiliation: Texas A&M College of Dentistry
 
+- name: Braedon Gunn
+  affiliation: Texas A&M College of Dentistry
+
 - name: Andrew Read-Fuller
   affiliation: Texas A&M College of Dentistry
 
