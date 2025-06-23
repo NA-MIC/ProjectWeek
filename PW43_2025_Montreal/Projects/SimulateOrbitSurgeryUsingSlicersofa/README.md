@@ -36,7 +36,7 @@ Simulating orbital fracture repair process using SlicerSOFA.
 <p>
 <img src="https://github.com/user-attachments/assets/5c46f298-f059-4c4c-8114-4f21906f9dd2" width="200"/></p>
 
-Surgical Guidance using MatrixOrbital preformed plates from DePuy Synthesis: [https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates](https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates)
+Surgical Guidance using MatrixOrbital preformed plates from Johnson&Johnson DePuy Synthesis: [https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates](https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates)
 
 
 
@@ -45,11 +45,9 @@ Surgical Guidance using MatrixOrbital preformed plates from DePuy Synthesis: [ht
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Objective A. Create a volumetric model of the plate using SegmentMesher and bend it using SlicerSOFA. The challenge is the complicated plate geometry (meshed plate).
-2. Objective B. Deform a simple orbital tissue volumetric model using SlicerSOFA.
-3. Objective C. Retract orbital tissue model within the orbit to create space.
-4. Objective D. Auto-segmentation of fractured orbit and tissue. Currently using TotalSegmentator to segment the globe and extraocular muscles. The performance for fractured orbit, especially more severe cases, need to be explored. Orbital fat tissue and maxillary sinus also need to be added to the model.
-
+1. Learn programing using SlicerSofa. Deform a simple orbital tissue model.
+2. Load and deform multiple models and create a simple simulation of lifting orbital tissue using a scoope-like tool.
+3. Stretching goal: create a volumetric model of the meshed plate and bend it using SlicerSOFA
 
 
 
