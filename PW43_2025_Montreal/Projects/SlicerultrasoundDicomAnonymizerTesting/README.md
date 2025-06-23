@@ -43,6 +43,14 @@ key_investigators:
 - name: Atin Malaviya
   affiliation: SlicerUltrasound Team
   country: USA
+
+- name: Sam Horvath
+  affiliation: Kitware
+  country: USA
+
+- name: Jean-Christophe Fillion-Robin
+  affiliation: Kitware
+  country: USA
   
 
 
