@@ -61,7 +61,7 @@ SlicerUltrasound is a 3D Slicer extension that currently includes two modules: A
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-Our team members are onsite as well as working virtually to fix [open issues] (https://github.com/SlicerUltrasound/SlicerUltrasound/issues) in the software to make it more user friendly, and to test AI models for automated fan segmentation.
+Our team members are onsite as well as working virtually to fix [open issues](https://github.com/SlicerUltrasound/SlicerUltrasound/issues) in the software to make it more user friendly, and to test AI models for automated fan segmentation.
 
 
 
@@ -99,6 +99,6 @@ Will add on Thursday night!
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-https://github.com/SlicerUltrasound
+- [https://github.com/SlicerUltrasound](https://github.com/SlicerUltrasound)
 
 

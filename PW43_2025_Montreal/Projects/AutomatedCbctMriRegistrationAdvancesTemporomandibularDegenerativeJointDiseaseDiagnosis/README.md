@@ -76,6 +76,6 @@ Accurate registration between CBCT and MRI scans offers complementary visualizat
 
 ### Background and References
 
-- TorchReg: https://github.com/codingfisch/torchreg
-- Elastix: https://github.com/SuperElastix/elastix
-- Github: https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools
+- [TorchReg](https://github.com/codingfisch/torchreg)
+- [Elastix](https://github.com/SuperElastix/elastix)
+- [Github](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools)

@@ -82,9 +82,11 @@ SlicerSOFA and SlicerROS are two paradigm extensions integrating Slicer with ext
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
-https://github.com/user-attachments/assets/3b37050c-74b6-4bac-a5c5-c0a7e37366a8
-
+<video
+   controls muted
+   src="https://github.com/user-attachments/assets/3b37050c-74b6-4bac-a5c5-c0a7e37366a8"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
 
 # Background and References
@@ -93,5 +95,4 @@ https://github.com/user-attachments/assets/3b37050c-74b6-4bac-a5c5-c0a7e37366a8
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-_No response_
 

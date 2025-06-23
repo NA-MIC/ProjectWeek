@@ -90,7 +90,7 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-[SlicerTMS GitHub Repository](https://github.com/SlicerTMS/SlicerTMS)
-[3D Slicer](https://github.com/Slicer/Slicer)
-[Real-Time Visualization of TMS-evoked Potentials PW 40 Project](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/RealTimeVisualizationOfTmsEvokedPotentials/)
+- [SlicerTMS GitHub Repository](https://github.com/SlicerTMS/SlicerTMS)
+- [3D Slicer](https://github.com/Slicer/Slicer)
+- [Real-Time Visualization of TMS-evoked Potentials PW 40 Project](https://projectweek.na-mic.org/PW40_2024_GranCanaria/Projects/RealTimeVisualizationOfTmsEvokedPotentials/)
 
