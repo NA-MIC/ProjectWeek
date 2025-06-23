@@ -116,9 +116,9 @@ Transconjunctival approach for retracting orbital tissue. From: [https://surgery
 
 # Background and References
 
-Initial Project Week version [](https://projectweek.na-mic.org/PW41_2024_MIT/)
+Initial Project Week version [https://projectweek.na-mic.org/PW41_2024_MIT/](https://projectweek.na-mic.org/PW41_2024_MIT/)
 
-Github for the customized rbitSurgerySim extension: [](https://github.com/chz31/orbitSurgerySim)
+Github for the customized rbitSurgerySim extension: [https://github.com/chz31/orbitSurgerySim](https://github.com/chz31/orbitSurgerySim)
 
 Surgical Guidance using MatrixOrbital preformed plates from DePuy Synthesis: [https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates](https://www.jnjmedtech.com/en-US/product/matrixorbital-preformed-orbital-plates)
 
