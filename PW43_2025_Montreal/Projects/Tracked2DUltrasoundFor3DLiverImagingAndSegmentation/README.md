@@ -4,7 +4,7 @@ layout: pw43-project
 permalink: /:path/
 
 project_title: Tracked 2D Ultrasound for 3D Liver Imaging and Segmentation
-category: DICOM
+category: IGT and Training
 
 key_investigators:
 
