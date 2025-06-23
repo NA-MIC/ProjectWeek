@@ -92,5 +92,5 @@ Objective A. 3D Slicer Module that faciliate manual segmentation, classification
 
 [https://github.com/neuropoly/slicer-manual-annotation](https://github.com/neuropoly/slicer-manual-annotation)
 
-[https://drive.google.com/drive/folders/1xVPfhznA60xt0YCgDhgdMWWbDP8-3LTK?usp=sharing] (https://drive.google.com/drive/folders/1xVPfhznA60xt0YCgDhgdMWWbDP8-3LTK?usp=sharing)
+[https://drive.google.com/drive/folders/1xVPfhznA60xt0YCgDhgdMWWbDP8-3LTK?usp=sharing](https://drive.google.com/drive/folders/1xVPfhznA60xt0YCgDhgdMWWbDP8-3LTK?usp=sharing)
 
