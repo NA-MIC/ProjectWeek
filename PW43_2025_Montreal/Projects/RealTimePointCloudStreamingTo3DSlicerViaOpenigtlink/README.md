@@ -9,8 +9,13 @@ category: Infrastructure
 key_investigators:
 
 - name: Vitor Azevedo Padovani
-  affiliation: Researcher
-  country: Brazil
+  affiliation: TELUQ University
+  country: Canada
+  
+- name: Houssem Gueziri
+  affiliation: TELUQ University
+  country: Canada
+  
 
 ---
 
