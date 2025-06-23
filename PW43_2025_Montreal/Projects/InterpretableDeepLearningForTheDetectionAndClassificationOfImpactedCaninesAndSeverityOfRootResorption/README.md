@@ -17,11 +17,11 @@ key_investigators:
   affiliation: University of Michigan
   country: USA
 
-- name: 'name: Juan Prieto'
+- name: Juan Prieto
   affiliation: University of North Carolina
   country: USA
 
-- name: 'name: Jonas Bianchi'
+- name: Jonas Bianchi
   affiliation: University of Pacific
   country: USA
 
