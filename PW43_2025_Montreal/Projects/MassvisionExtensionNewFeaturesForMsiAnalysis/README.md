@@ -4,7 +4,7 @@ layout: pw43-project
 permalink: /:path/
 
 project_title: 'MassVision extension: new features for MSI analysis'
-category: Other
+category: Quantification and Computation
 
 key_investigators:
 

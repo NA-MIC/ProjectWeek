@@ -4,7 +4,7 @@ layout: pw43-project
 permalink: /:path/
 
 project_title: 3D Slicer–ROS2 Integration for Surgical Robot Simulation
-category: Other
+category: IGT and Training
 
 key_investigators:
 

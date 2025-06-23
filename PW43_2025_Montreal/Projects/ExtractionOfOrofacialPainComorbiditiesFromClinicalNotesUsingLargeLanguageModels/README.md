@@ -96,7 +96,7 @@ Temporomandibular Disorders (TMDs) are often linked with complex comorbidities t
 | Fold 3 | 84.93    | 74.23    | 84.38    | 84.57    |
 | Fold 4 | 85.50    | 74.73    | 85.11    | 85.21    |
 | Fold 5 | 85.47    | 74.64    | 84.98    | 85.01    |
-| **Average** | **84.61** | **73.80** | **84.22** | **84.29** |
+| Average | 84.61 | 73.80 | 84.22 | 84.29 |
 
 ### Table 2. Metrics from DeepSeek training
 |    | ROUGE-1    | ROUGE-2    | ROUGE-L    | ROUGE-Lsum |
@@ -106,7 +106,7 @@ Temporomandibular Disorders (TMDs) are often linked with complex comorbidities t
 | Fold 3 | 86.08    | 86.09    | 86.10    | 86.11    |
 | Fold 4 | 85.96    | 85.91    | 85.95    | 85.92    |
 | Fold 5 | 85.21    | 85.70    | 85.17    | 85.21    |
-| **Average** | **85.74** | **85.70** | **85.72** | **85.72** |
+| Average | 85.74 | 85.70 | 85.72 | 85.72 |
 
 ### Figure 1. Dashboard summary from 500 cases extracted manually
 ![Dashboard summary from 500 cases extracted manually](https://github.com/user-attachments/assets/29e17ece-13d4-417a-ae64-955ce6d66cfc)

@@ -4,7 +4,7 @@ layout: pw43-project
 permalink: /:path/
 
 project_title: Dedicated CPR View for Dental Panoramic Visualization in 3D Slicer
-category: Other
+category: VR/AR and Rendering
 
 key_investigators:
 
