@@ -40,7 +40,7 @@ Manual segmentation of orbit is laborious and technical. The available deep lear
 ## Objective
 1. Create repeatable semi-automatic approaches for accurately segmenting orbital tissue, including thin bone & soft tissue, especially in fractured conditions
 2. Creating repeatable metrics based on segmentation results to detect and quantify tissue changes to aid decision making
-3. Stretching goal: validate TotalSegmentaor results and initiate deep learning segmentation development.
+3. Stretching goal: validate TotalSegmentaor results and initiate deep learning segmentation development. Detecting and segmentting fractures.
 
 
 
@@ -50,7 +50,7 @@ Manual segmentation of orbit is laborious and technical. The available deep lear
 2. Focus on detecting and quantifying fat herniation and inferior rectus muscle (also medial rectus) conformational changes because they are most frequently used in decision making.
 3. Fat herniation: register the contralateral side to the fractured side to quantify herniation using Hausdorf distance, distance map, etc.
 4. Inferior rectus m.: perhaps connecting centroids of each slice to draw its basic shape and use cross section area to quantify sizes.
-5. Consulting people at PW to prepare for deep learning segmentation model training, including how to efficiently creating training dataset.
+5. Consulting people at PW to prepare for deep learning segmentation model training for detection and segmentation, including how to efficiently creating training dataset.
 
 
 
