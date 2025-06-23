@@ -31,6 +31,11 @@ Venue entrance on Google Maps: [https://goo.gl/maps/xNedgMBt4C6jwiCu5](https://g
 
 <img src="images/PW43-venue.png" height="200">
 
+## Wifi
+**Network name**: ETS-NAMIC-Invite
+**User name**: ets-namic-invite@etsmtl.ca 
+**password**: EY5VRT
+
 ## How to participate
 
 * We hold weekly online preparation meetings before the workshop (Tuesdays 10am ET, from April 29 until the start of the workshop, [zoom link](https://etsmtl.zoom.us/j/82098172682?pwd=OHXPL5SlaLt817CzeBu8C1Pu21PvqW.1) 
