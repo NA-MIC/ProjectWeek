@@ -56,6 +56,7 @@ The SlicerTMS project has been developed to predict the electric field induced b
 2. Objective B. Develop and test an example on the integration of the SimNIBS solver. 
 3. Objective C. Validate and update the sampling algorithms in SlicerTMS and improve the file I/O strategy for vector nifti files.
 4. Objective D. Discuss and improve the integration with neuronavigation and other fast segmentation and meshing techniques.
+5. Objective E. Investigate the use of markerless tracking of the patient head and TMS probe for neuronavigation.
 
 
 
