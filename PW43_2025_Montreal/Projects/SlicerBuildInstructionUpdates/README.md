@@ -40,7 +40,7 @@ Building a custom version of Slicer has become increasingly complex.
 Strech Goals 
 1. Stretch Goal -- Setup building a large number of extensions to facilitate preparation for ITKv6 C++17  (while maintaining backward compatibility).
 2. Investigate updating TCLAP to build cleanly, perhaps update to the latest version of TCLAP.
-3. Investigate the status of moving to Qt6.  Provide support/testing environments for migration to Qt6.  https://projectweek.na-mic.org/PW43_2025_Montreal/Projects/TransitionSlicerDefaultBuildFromQt5ToQt6/
+3. Investigate the status of moving to Qt6.  Provide support/testing environments for migration to Qt6.  [https://projectweek.na-mic.org/PW43_2025_Montreal/Projects/TransitionSlicerDefaultBuildFromQt5ToQt6/](https://projectweek.na-mic.org/PW43_2025_Montreal/Projects/TransitionSlicerDefaultBuildFromQt5ToQt6/)
 
 ## Approach and Plan
 
@@ -50,8 +50,9 @@ Strech Goals
 ## Progress and Next Steps
 
 1. Downloaded Slicer source code, tried to build on mac M4 computer.
-2. Updates to allow for building with CMake 4+ https://github.com/Slicer/Slicer/pull/8491
-```bash
+2. Updates to allow for building with CMake 4+ [https://github.com/Slicer/Slicer/pull/8491](https://github.com/Slicer/Slicer/pull/8491)
+
+``` bash
 # Install older version of cmake with homebrew on mac
 brew uninstall cmake
 # Find and download the formula for the cmake version you wish to install 
