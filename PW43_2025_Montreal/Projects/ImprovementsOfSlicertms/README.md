@@ -28,6 +28,14 @@ key_investigators:
   affiliation: The University of Western Australia
   country: Australia
 
+- name: Satya Barak
+  affiliation: The University of Western Australia
+  country: Australia
+
+- name: Cameron Paterson
+  affiliation: The University of Western Australia
+  country: Australia
+
 ---
 
 # Project Description
