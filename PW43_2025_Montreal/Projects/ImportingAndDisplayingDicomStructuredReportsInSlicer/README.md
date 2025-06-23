@@ -15,6 +15,10 @@ key_investigators:
 - name: Steve Pieper
   affiliation: Isomics
   country: USA
+  
+- name: Chris Bridge 
+  affiliation: Massachusetts General Hospital 
+  country: USA  
 
 - name: Ron Kikinis
   affiliation: Brigham and Women's Hospital
