@@ -4,7 +4,7 @@ layout: pw43-project
 permalink: /:path/
 
 project_title: 'MassVision extension: new features for MSI analysis'
-category: Quantification and Computation
+category: Other
 
 key_investigators:
 
@@ -28,8 +28,9 @@ MassVision is an extension in 3D Slicer for end-to-end AI-driven analysis of Mas
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-
+1. Add new functionalities to the to the extension
+2. Optimize the current code and UI
+3. Update the documentation
 
 
 
@@ -37,9 +38,15 @@ MassVision is an extension in 3D Slicer for end-to-end AI-driven analysis of Mas
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-
+1. Add statistical analysis capabilities
+    - Box/p-val
+    - ANOVA
+    - Vplcano
+2. Add MixUp augmentation for dataset balancing
+3. Add export data to imzML
+4. Update volume naming for single-ion visualization
+5. Update subplot arrangement for thumbnail views
+6. Update the user manual for changes after revision
 
 
 
@@ -49,7 +56,7 @@ MassVision is an extension in 3D Slicer for end-to-end AI-driven analysis of Mas
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. MassVision version 1.0 is up and running
 
 
 
@@ -59,7 +66,9 @@ MassVision is an extension in 3D Slicer for end-to-end AI-driven analysis of Mas
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_No response_
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jamzad/SlicerMassVision/main/MassVision.png" alt="logo" width="30%"/>
+</p>
 
 
 
@@ -69,5 +78,7 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-[MassVision Repo](https://github.com/jamzad/SlicerMassVision)
+MassVision repo [https://github.com/jamzad/SlicerMassVision](https://github.com/jamzad/SlicerMassVision)
+
+MassVision manual [https://slicermassvision.readthedocs.io/](https://slicermassvision.readthedocs.io/)]
 
