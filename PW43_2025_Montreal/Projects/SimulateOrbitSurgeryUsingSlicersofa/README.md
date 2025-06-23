@@ -24,6 +24,9 @@ key_investigators:
   affiliation: INRIA
   country: France
 
+- name: Andrew Read-Fuller
+  affiliation: Texas A&M College of Dentistry
+
 ---
 
 # Project Description
