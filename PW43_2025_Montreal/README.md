@@ -5,8 +5,8 @@ redirect_from:
 - /PW43_2025_Montreal/Readme.html
 
 project_categories:
-- IGT and Training
 - DICOM
+- IGT and Training
 - VR/AR and Rendering
 - Segmentation / Classification / Landmarking
 - Quantification and Computation
