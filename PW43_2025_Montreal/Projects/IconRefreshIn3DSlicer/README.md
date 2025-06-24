@@ -38,9 +38,9 @@ We will be continuing the work to integrate the new icon set into 3D Slicer.
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Review icon switching approach from last PW
-2. Finish remaining work items and create a PR on Slicer Core
-3. Create dependent PR with the actual updated icons
+1. Rebase slicer integration branch and test with extension
+2. Add in all new icons available from assets (w/updates)
+3. List bugs/issues with current approach
 
 
 
