@@ -39,9 +39,10 @@ We will be continuing the work to integrate the new icon set into 3D Slicer.
 
 
 1. Rebase slicer integration branch and test with extension
-2. Add in all new icons available from assets (w/updates)
-3. Work on Python module approach
-4. List bugs/issues with current approach
+2. Demo both programed and UI file based icon usage in extension
+3. Add in all new icons available from assets (w/updates)
+4. Work on Python module approach
+5. List bugs/issues with current approach
 
 
 
