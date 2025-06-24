@@ -10,9 +10,9 @@ key_investigators:
   affiliation: Kitware
 
 ---
-# Description
+# Slicer Status Update
 
-Breakout Session Description
+[Slides](https://docs.google.com/presentation/d/1hGwzeJkBrqgCCywOtmEkEllCzsSHHGH6mXi5lDqRhC8/edit?usp=sharing)
 
 ## Topics
 
