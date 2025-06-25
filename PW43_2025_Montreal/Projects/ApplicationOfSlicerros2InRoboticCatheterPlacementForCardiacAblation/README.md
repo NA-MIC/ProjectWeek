@@ -28,35 +28,23 @@ key_investigators:
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
-
-
 We investigate the use of SlicerROS2 to simulate robotic catheter in the heart anatomy for cardiac ablation. 
 
 
 
 ## Objective
-
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
-
 1. We will develop a tool to configure robotic catheter and generate URDF data, 
 2. Test the URDF for visualization in RViz/3D Slicer and dynamic simulation in the Gazebo simulator.
 
-
-
-
 ## Approach and Plan
-
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-
-
-
+1. Write a script to generate a URDF file to model the kinematic and visual models of the catheter.
+2. Load the model onto the Gazebo dynamic simulator
+3. Visualize the simulation outcome on 3D Slicer using SlicerROS2
+4. (Optional) Create a 3D geometric model of the cardiovascular structures on 3D Slicer, and incorporate into the scene on the Gazebo simulator.
 
 ## Progress and Next Steps
+
+
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
