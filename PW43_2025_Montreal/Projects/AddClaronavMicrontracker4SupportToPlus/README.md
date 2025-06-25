@@ -65,7 +65,7 @@ During this project week we will work on integrating support for the ClaroNav Mi
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Generated Plus MicronTracker 4.1 package: https://github.com/PlusToolkit/PlusLib/actions/runs/15842387536/artifacts/3389393270
+1. Generated Plus MicronTracker 4.1 package: [https://github.com/PlusToolkit/PlusLib/actions/runs/15842387536/artifacts/3389393270](https://github.com/PlusToolkit/PlusLib/actions/runs/15842387536/artifacts/3389393270)
 
 
 

@@ -83,10 +83,10 @@ TODO
 - [3D Slicer GitHub Repository](https://github.com/Slicer/Slicer)
 
 AppImage:
-- [AppImage | Linux apps that run anywhere](https://appimage.org/)
+- [AppImage - Linux apps that run anywhere](https://appimage.org/)
 - [AppImage Best Practices](https://docs.appimage.org/packaging-guide/index.html)
 - [linuxdeploy - AppImage creation tool](https://github.com/linuxdeploy/linuxdeploy)
 
 Misc:
 - [Qt 5 Application Deployment on Linux](https://doc.qt.io/qt-5/linux-deployment.html)
-- [Qt for Linux/X11 - Deployment | Qt 6](https://doc.qt.io/qt-6/linux-deployment.html)
+- [Qt for Linux/X11 - Deployment - Qt 6](https://doc.qt.io/qt-6/linux-deployment.html)

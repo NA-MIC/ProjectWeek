@@ -45,7 +45,7 @@ We investigate the use of SlicerROS2 to simulate robotic catheter in the heart a
 ## Progress and Next Steps
 ### Generating a URDF file
 
-* https://github.com/tokjun/cath_urdf_generator
+* [https://github.com/tokjun/cath_urdf_generator](https://github.com/tokjun/cath_urdf_generator)
 
 A Python script to generate a XACRO file (which can be converted to URDF) for a flexible catheter has been prototyped. The script models a flexible catheter as serial links connected via universal joints and rotary springs. The user can provide parameters to define the serieal links, including N, D, L1, L2, L3, K, and M to mimic the mechanical behavior of the flexible catheter with N links and N-1 universal joints. The serial link consists of the first and the last links representing the tip and the base links, and the bending section conssiting of the remaining (N-2) links. Each joint has rotary springs with a spring constant of K that generate torques to bring it back to the straight positions, when the joint is rotated by the external force. D is the outer diameter of the catheter. L1, L2, and L3 are the lengths of the tip link, the bending section, and the base link. The total weight of the catheter is M.
 

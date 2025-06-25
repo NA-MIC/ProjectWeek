@@ -63,7 +63,7 @@ AnnotateUltrasound is a 3D Slicer extension designed to help users label and seg
 
 We collaborate closely with several physicians who use AnnotateUltrasound in their clinical and research workflows. Their feedback directly shapes the module’s features and usability, ensuring a user-centered design. We regularly incorporate their suggestions for new features and improvements based on their real-world experiences.
 
-More about the module here: https://github.com/SlicerUltrasound/SlicerUltrasound/
+More about the module here: [https://github.com/SlicerUltrasound/SlicerUltrasound/](https://github.com/SlicerUltrasound/SlicerUltrasound/)
 
 
 
