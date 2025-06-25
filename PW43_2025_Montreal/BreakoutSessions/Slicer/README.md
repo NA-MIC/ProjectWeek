@@ -16,6 +16,6 @@ key_investigators:
 
 ## Topics
 
-Add your questions in [this document](https://projectweek.na-mic.org/PW43_2025_Montreal/BreakoutSessions/Slicer/) and they will be discussed during the breakout
+Add your questions in [this document](https://docs.google.com/document/d/12_s_XYz0ks1VG-IVJu6UJZBRGkrNcAjDo-fUPREo3DQ/edit?tab=t.0) and they will be discussed during the breakout
 
 # Notes
