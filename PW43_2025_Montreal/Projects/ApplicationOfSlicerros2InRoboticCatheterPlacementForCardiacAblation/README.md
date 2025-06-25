@@ -49,15 +49,27 @@ We investigate the use of SlicerROS2 to simulate robotic catheter in the heart a
 
 A Python script to generate a XACRO file (which can be converted to URDF) for a flexible catheter has been prototyped. The script models a flexible catheter as serial links connected via universal joints and rotary springs. The user can provide parameters to define the serieal links, including N, D, L1, L2, L3, K, and M to mimic the mechanical behavior of the flexible catheter with N links and N-1 universal joints. The serial link consists of the first and the last links representing the tip and the base links, and the bending section conssiting of the remaining (N-2) links. Each joint has rotary springs with a spring constant of K that generate torques to bring it back to the straight positions, when the joint is rotated by the external force. D is the outer diameter of the catheter. L1, L2, and L3 are the lengths of the tip link, the bending section, and the base link. The total weight of the catheter is M.
 
+To generate a catheter XACRO file,
+~~~~
+$ python3 catheter_urdf_generator.py --N 12 --D 0.003 --L1 0.20 --L2 0.5 --L3 0.05 --K 0.2 --M 0.5 --output my_catheter.xacro
+~~~~
+The URDF can be published in the ROS network using the following command:
+~~~~
+$ source /opt/ros/jazzy/setup.bash
+$ ros2 run robot_state_publisher robot_state_publisher --ros-args -p robot_description:="$( xacro /home/junichi/igtdev/cath_urdf_generator/my_catheter.xacro )"
+~~~~
+To visualize using RViz and control the joint angles with the joint_state_publisher_gui, open a new terminal and use the following commands:
+~~~~
+$ source /opt/ros/jazzy/setup.bash
+$ ros2 run joint_state_publisher_gui joint_state_publisher_gui 
+~~~~
+Open another terminal and launch RViz:
+~~~~
+$ source /opt/ros/jazzy/setup.bash
+$ ros2 run rviz2 rviz2
+~~~~
+![rviz_catheter](https://github.com/user-attachments/assets/2997eaeb-f2ce-45e8-8073-bee21ce492d7)
 
-
-
-
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-
-1. Describe specific steps you **have actually done**.
 
 
 
