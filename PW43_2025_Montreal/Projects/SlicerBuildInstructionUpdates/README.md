@@ -14,6 +14,9 @@ key_investigators:
 - name: Cavan Riley
   affiliation: University of Iowa -- Working from Iowa
 
+- name: Benjamin Zwick
+  affiliation: University of Western Australia
+
 - name: Slicer Core Developers
   affiliation: Jean-Christophe Fillion-Robin / Others ??
 
@@ -27,8 +30,9 @@ common issues that arise in different environments.
 
 ## Improve Slicer build instructions
 Building a custom version of Slicer has become increasingly complex.  
-    - Identify how to install Qt on an ARM-based Apple M4 computer.
-    - Identify how to install Qt on a Ubuntu 24.04 Linux computer.
+    - Identify how to install Qt 6 on an ARM-based Apple M4 computer.
+    - Identify how to install Qt 6 on a Ubuntu 24.04 Linux computer.
+    - Identify how to install Qt 6 on a Debian 12 Bookworm Linux computer.
 
 ## Objective
 
@@ -36,6 +40,7 @@ Building a custom version of Slicer has become increasingly complex.
 2. To prepare Slicer for future versions of ITK, but configuring a stable build environment has been more challenging than expected (primarily regarding Qt 5 requirements). 
 3. Update BRAINSTools support in Slicer
 4. Have Slicer build succesfully with CMake 4.0
+5. Update [SlicerBuildEnvironment](https://github.com/Slicer/SlicerBuildEnvironment) instructions to configure, build and package Slicer for Linux.
 
 Strech Goals 
 1. Stretch Goal -- Setup building a large number of extensions to facilitate preparation for ITKv6 C++17  (while maintaining backward compatibility).
