@@ -53,7 +53,7 @@ SlicerSOFA and SlicerROS are two paradigm extensions integrating Slicer with ext
 
 
 1. Objective A. Prototyping of a needle insertion example using SlicerSOFA with the Cosserat plugin and SlicerROS. This prototype will be used to test the feasibility of the integration and possible bottlenecks
-
+2. Objective B. Document the installation process so it can be done easily.
 
 
 
@@ -88,11 +88,18 @@ SlicerSOFA and SlicerROS are two paradigm extensions integrating Slicer with ext
    style="max-height:640px; min-height: 200px">
  </video>
 
+ <video
+   controls muted
+   src="https://github.com/user-attachments/assets/cc08e231-97f0-4384-a11c-e192f94d44b0"
+   style="max-height:640px; min-height: 200px">
+ </video>
+ 
+ In this video, the needle is represented by the fine yellow line. 
+
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-
 
 
