@@ -74,9 +74,9 @@ During this project week we will work on integrating support for the ClaroNav Mi
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+<img src="https://github.com/user-attachments/assets/a0e80c73-11a9-4d74-9d9d-5443cf3dc2d1" alt="MicronTracker 4" width="500"/>
 
-![MicronTracker 4](https://github.com/user-attachments/assets/a0e80c73-11a9-4d74-9d9d-5443cf3dc2d1)
-
+![20250625_133833](https://github.com/user-attachments/assets/72251628-4b85-4e02-b519-9d33e5e475cc)
 
 
 # Background and References
