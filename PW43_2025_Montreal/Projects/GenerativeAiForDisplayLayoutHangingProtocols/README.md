@@ -84,10 +84,14 @@ The request for the hanging protocol object would be done by the worklist or the
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-TBD
+I did not make progress on the original project but worked on a volume cropping (clipping?)  tool for Cornerstore3D/OHIF that was requested by a customer.
+The customer wants the tool to be given back to open source so it will be available shorthly:
 
+![image](https://github.com/user-attachments/assets/5f316009-dcb1-4f82-895a-da06a19f5e1d)
 
+Next step I will attend Eusomii conference in October and try to find radiologist interested in GenAI for hanging protocols.
 
+I will attend the next NA-MIC in Las Palmas and prototype something beforehand.
 
 # Illustrations
 
