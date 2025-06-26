@@ -15,6 +15,10 @@ key_investigators:
 - name: Steve Pieper
   affiliation: Isomics
   country: USA
+
+- name: Andras Lasso
+  affiliation: Queen's University
+  country: Canada
   
 - name: Chris Bridge 
   affiliation: Massachusetts General Hospital 
@@ -57,7 +61,7 @@ We will create SRs to hold points and bounding boxes, and modify the DICOMTID150
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1.  Create SRs for the ProstateX (csv from TCIA) and NLST (Sybil) collections. 
+1. Create SRs for the ProstateX (csv from TCIA) and NLST (Sybil) collections. 
 2. Modify the DICOMTID1500Plugin.py in [QuantitativeReporting](https://github.com/QIICR/QuantitativeReporting/blob/master/DICOMPlugins/DICOMTID1500Plugin.py) to read these SRs and display as markups. 
 3. Show a table holding the measurements. 
 4. Display the markups appropriately in the subject hierarchy. 
@@ -72,8 +76,8 @@ We will create SRs to hold points and bounding boxes, and modify the DICOMTID150
 
 1. We have created SRs for ProstateX (points) and NLST Sybil (bounding boxes). 
 2. We have modified the plugin to load points, boxes, and lines. 
-3. We need to load the appropriate reference DICOM files/have a popup to choose the series to display. 
-4. We need to load the markups in a folder in the subject hierarchy. 
+3. We have loaded the markups in a folder in the subject hierarchy, and have displayed the table.
+4. We are working on loading the correct referenced series. 
 
 
 
