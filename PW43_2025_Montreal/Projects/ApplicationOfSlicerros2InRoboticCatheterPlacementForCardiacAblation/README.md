@@ -51,7 +51,7 @@ A Python script to generate a XACRO file (which can be converted to URDF) for a 
 
 To generate a catheter XACRO file,
 ~~~~
-$ python3 catheter_urdf_generator.py --N 12 --D 0.003 --L1 0.20 --L2 0.5 --L3 0.05 --K 0.2 --M 0.5 --output my_catheter.xacro
+$ python3 catheter_urdf_generator.py --N 12 --D 0.003 --L1 0.20 --L2 0.5 --L3 0.05 --K 0.2 --M 0.5 --output my_catheter
 ~~~~
 The URDF can be published in the ROS network using the following command:
 ~~~~
@@ -71,6 +71,9 @@ $ ros2 run rviz2 rviz2
 ![rviz_catheter](https://github.com/user-attachments/assets/2997eaeb-f2ce-45e8-8073-bee21ce492d7)
 
 
+## Dynamic Simulation with Gazebo and 3D Slicer
+
+![dynamic simulation](https://youtu.be/upqZboU-ong)
 
 
 
