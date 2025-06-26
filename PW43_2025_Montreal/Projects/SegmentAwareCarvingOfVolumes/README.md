@@ -15,6 +15,10 @@ key_investigators:
 - name: Simon Drouin
   affiliation: ÉTS
   country: Canada
+  
+- name: Liam O'Connor
+  affiliation: Concordia University
+  country: Canada
 
 ---
 
@@ -45,9 +49,8 @@ The goal of this project is to implement segment-aware carving mechanism, that w
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Decide upon the best architecture (OpenGL or WebGPU) to achieve the task
-2. Implement segment-awake clipping
-3. Add VR interactions 
+1. Create a a basic architecture using the currently existing OpenGL that allows chaining multiple compute shaders and then to visualize the computed image
+2. Implement segment-awake clipping visualization using the computer shader chaining pipeline
 
 
 
@@ -58,8 +61,8 @@ The goal of this project is to implement segment-aware carving mechanism, that w
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. This project has already been implemented in Unity, and the goal of this project is to port it to 3D Slicer. However, the Unity implementation relies a lot on compute shader
-2. An approach to fill a volume shader and then pass to to the fragment shader has been tested, however, 
+1. This project has already been implemented in Unity, and the goal of this project is to port it to 3D Slicer. However, the Unity implementation relies a lot on compute shaders.
+2. An approach to fill a volume in an OpenGL a compute shader has been tested, and this result can then be displayed by writing the output to an existing multi-component volume. However, to access the texture ID of this multi-component volume, a loadable C++ is required, which has already been made.
 
 
 
