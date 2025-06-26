@@ -95,7 +95,7 @@ On RViz, open the `Displays` frame (should be on the left panel of the window if
 4. The catheter model should appear on the 3D viewer.
 
 [![dynamic simulation](https://img.youtube.com/vi/upqZboU-ong/0.jpg)](https://www.youtube.com/watch?v=upqZboU-ong)
-
+(NOTE: The screen video is slow because of the recording, but it was smooth when running without screen recording)
 
 
 # Illustrations
