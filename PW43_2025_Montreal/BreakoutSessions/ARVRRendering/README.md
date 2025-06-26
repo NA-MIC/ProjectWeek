@@ -8,10 +8,12 @@ project_title: AR-VR and Rendering
 key_investigators:
 - name: Simon Drouin
   affiliation: ETS
-- name: Steve Piper
-  affiliation: Isomic inc.
+- name: Steve Pieper
+  affiliation: Isomic Inc.
 - name: Rafael Palomar
   affiliation: OUH / NTNU
+- name: Sankhesh Jhaveri
+  affiliation: Kitware Inc.
 
 ---
 # Description
