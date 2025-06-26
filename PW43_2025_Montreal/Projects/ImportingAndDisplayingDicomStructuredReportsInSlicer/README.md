@@ -73,13 +73,21 @@ We will create SRs to hold points and bounding boxes, and modify the DICOMTID150
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
 1. We have created SRs for ProstateX (points) and NLST Sybil (bounding boxes). 
 2. We have modified the plugin to load points, boxes, and lines. 
-3. We have loaded the markups in a folder in the subject hierarchy, and have displayed the table.
-4. We are working on loading the correct referenced series. 
+3. We have loaded the markups in a folder in the subject hierarchy and have displayed the table.
+4. Currently, we are working on loading the correct referenced series. 
 
+I had some good discussions this week with Ron, Steve, and Andras about how to improve the extension. 
 
+Summary of the discussion: 
+- How to effectively display the different annotations
+- How to store data describing each of the annotations - node attributes vs table
+- Improvements in the subject hierarchy - making sure table/markups are linked to the series/study 
+- How this interface can be used to later save SRs
+- How this work can fit into the larger scheme of data exploration 
+- How to modify and preconfigure the layout for each of the types of annotations, for instance, below for bounding boxes: 
+- <img width="963" alt="Screenshot 2025-06-25 at 1 37 56 PM" src="https://github.com/user-attachments/assets/1b8d855b-f4bf-4f17-a06d-c1be873904dc" />
 
 # Illustrations
 
