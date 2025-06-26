@@ -94,24 +94,21 @@ On RViz, open the `Displays` frame (should be on the left panel of the window if
 3. Click `Load robot` (use default parameters).
 4. The catheter model should appear on the 3D viewer.
 
+# Illustrations
+
+
 [![dynamic simulation](https://img.youtube.com/vi/upqZboU-ong/0.jpg)](https://www.youtube.com/watch?v=upqZboU-ong)
 (NOTE: The screen video is slow because of the recording, but it was smooth when running without screen recording)
 
 
-# Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-
-_No response_
-
-
-
 # Background and References
+1. SlicerROS2 Repository: https://github.com/rosmed/slicer_ros2_module
+2. SlicerROS2 Documentation: https://slicer-ros2.readthedocs.io/en/v1.0/
+3. SlicerROS2 Tutorials: https://rosmed.github.io/tutorials/
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
+# Acknowledgements
+
+This work is supported in part by NIH (R01EB020667, R01EB034359, R01EB036015, R01CA235134, P41EB028741).
 
 
-_No response_
 
