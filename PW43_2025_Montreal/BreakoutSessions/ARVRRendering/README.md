@@ -67,8 +67,8 @@ The implementation uses a sphere of influence that selectively clips volumes bas
 - History of transition of technologies (OpenVR - OpenXR) with some uncertainty in the development towards the future.
 - It is partially working but different rusers have had different experiences using it.
 - @SimonDrouin raised an issue with manipulation of Markups in OpenVR/XR. Some of the markups handles (particularly the ROI) seem to be 2D facing the camera. This could be causing problems in the context of VR/AR (rendering issue). Interaction with Markups is known to not work (@AndrasLasso).
-- Details about mapping of controller actions to VTK events. See https://github.com/KitwareMedical/SlicerVirtualReality/blob/master/DeveloperGuide.md
-- Meta Quest is not supported out of the box yet in OpenXR, but could be done using the following documentation: https://www.kitware.com/using-vtk-with-the-meta-quest/
+- Details about mapping of controller actions to VTK events, see [this page](https://github.com/KitwareMedical/SlicerVirtualReality/blob/master/DeveloperGuide.md)
+- Meta Quest is not supported out of the box yet in OpenXR, but could be done using [this documentation](https://www.kitware.com/using-vtk-with-the-meta-quest/)
 - Future for SlicerVirtualReality:
   - There is currently not grant to support development and maintenance
   - There is interest by multiple parties (Chi Zhang, Ron Kikinis, Simon Drouin, Sylvain Bouix) to fix problems and optimize the experience for a limitted set of use cases with common requirements that all include exploring patient scans
