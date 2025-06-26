@@ -72,8 +72,7 @@ $ ros2 run rviz2 rviz2
 
 
 ## Dynamic Simulation with Gazebo and 3D Slicer
-
-![dynamic simulation](https://youtu.be/upqZboU-ong)
+[![dynamic simulation](https://img.youtube.com/vi/upqZboU-ong/0.jpg)](https://www.youtube.com/watch?v=upqZboU-ong)
 
 
 
