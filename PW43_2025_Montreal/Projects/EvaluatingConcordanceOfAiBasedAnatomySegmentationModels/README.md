@@ -60,8 +60,8 @@ During this Project Week, we will improve upon and extend the previous analysis 
    * learn about other observed or potential errors we should investigate
    * discuss approaches for selecting representative test data sample from NLST
    * collect feedback, observations, and suggestions for improvement
-3. Improve and extend the analysis based on this discussion
-4. Secondary: Slicer Segmentation Verification module extension used for visual comparison 
+2. Improve and extend the analysis based on this discussion
+3. Secondary: Slicer Segmentation Verification module extension used for visual comparison 
    * revisit loading of DICOM SEG as Segmentation and see if any optimizations can be implemented to the code to speed up Segmentation node creation (need to profile the load process further first)
    * discuss developed new features designed to simplify the process of comparison of the results from different models
    * discuss possible improvements to the performance of populating Segmentation node loaded from DICOM SEG
@@ -76,7 +76,7 @@ During this Project Week, we will improve upon and extend the previous analysis 
 Current Status of our Analysis:
 - Preliminary results show excellent agreement for the lungs.
 - Inconsistencies were found in the segmentation of vertebrae and ribs:  4 out of 6 models produce invalid or anatomically implausible segmentations for these structures.
--  Only one model, Moose, includes segmentation of the costovertebral joints (rib-to-spine connections).
+- Only one model, Moose, includes segmentation of the costovertebral joints (rib-to-spine connections).
 - OMAS uses a different anatomical definition for the heart compared to the other models, leading to differences in the heart segmentation.
 
 The Slicer Segmentation Verification Module Extension currently:
@@ -86,6 +86,34 @@ The Slicer Segmentation Verification Module Extension currently:
 - Adds functionality to automatically link 3D views via checkbox.
 - Provides option to link 2D views using a checkbox.
 - Enables displaying only segmentation outlines in 2D slice views.
+
+Over the past week, I discussed with community members how my extension could be improved and how the project could be adapted for use in other workflows. A key outcome of these conversations was the positive response to the dynamic layout configuration.
+
+**Suggested Improvements for the Extension - Key Points:**
+* Providing an overview table of which segmentations are shown in the different views.
+* Increasing the line thickness of the 2D outlines when only outlines are displayed, as they can sometimes be difficult to see.
+* Making the layout more flexible (e.g., allowing 3D views to be placed on the right side as well).
+* Simplifying the layout into a more user-friendly version.
+* Adding information to the module about which models the extension has been tested with and clearly stating that the extension currently only supports DICOM input.
+* Including cross-referencing.
+
+**Analysis – Key Points**
+* In discussions about the analysis, it became clear that the vertebra segmentation issues observed in Auto3DSeg also occur in other datasets.
+* A suggested improvement was to manually segment a few CT scans in order to have at least a small set of ground truth data.
+    * This is not going to be pursued due to limited resources and the time required.
+* It was also suggested that including the surface area of each structure in the analysis could be valuable.
+
+
+**Dashboard Development:**
+To identify a representative test sample for repeating our analysis, we started building a dashboard to better understand the distribution of metadata across the dataset.
+From the clinical data, we included Age, Gender, Race, and Smoking status. In addition, we incorporated Manufacturer, ManufacturerModelName, Convolution Kernel, Pixel Spacing, and Slice Thickness.
+Initially, we began developing the dashboard using Google Looker Studio, but it quickly became apparent that Looker only offers few plots and has limitations when displaying data with high variability such as Pixel Spacing (which has over 500 unique values). For this reason, we transitioned to Dash. One drawback of Dash, however, is that it requires deploying a local server for use.
+
+
+**Future Work**
+* We plan to improve the extension based on the feedback and suggestions we received from the community.
+* Once the extension is more robust, we aim to publish it
+* Conduct our analysis on a larger and more representative dataset, which we will define based on insights gained from the metadata dashboard.
 
 
 
