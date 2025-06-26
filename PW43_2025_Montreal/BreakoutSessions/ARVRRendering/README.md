@@ -19,12 +19,21 @@ The goals of this breakout session is to discuss the upcoming changes in the ren
 
 ## Topics
 * Status of the transition between OpenGL and WebGPU as the rendering backend of VTK
-* Status of SlicerVirtualReality and upcoming development, AR-VR hmd support
-* Customizable interaction in SlicerVirtualReality
+  * Andrey's Demo of Anatomy Carve extension (port of Unity project, project page [here](https://projectweek.na-mic.org/PW43_2025_Montreal/Projects/SegmentAwareCarvingOfVolumes/))
+  * MVP for volume rendering: run a compute shader on a volume texture with output to an RGBA buffer that can be volume rendered.
+  * Support for an arbitrary number of input channels
+  * Gradient precomputation
+* Status of SlicerVirtualReality
+  * Stability issues: interaction and markups 
+  * Funding ideas to maintain the extension in the long term
+  * Possible improvement
+    * Support for GUI in VR (Show entire Slicer interface?)
+    * Support for video Passthrough
+    * Custom interaction for various use cases (a more outside-in experience as opposed to the current inside-out immersive experience)
 
 ## References
-[Notes from PW40](https://projectweek.na-mic.org/PW40_2024_GranCanaria/BreakoutSessions/Rendering/)
-[Notes from PW39](https://projectweek.na-mic.org/PW39_2023_Montreal/BreakoutSessions/RenderingBreakout/)
-[Slicer WebGPU project from PW37](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/SlicerWGPU/)(Steve Piper)
+* [Notes from PW40](https://projectweek.na-mic.org/PW40_2024_GranCanaria/BreakoutSessions/Rendering/)
+* [Notes from PW39](https://projectweek.na-mic.org/PW39_2023_Montreal/BreakoutSessions/RenderingBreakout/)
+* [Slicer WebGPU project from PW37](https://projectweek.na-mic.org/PW37_2022_Virtual/Projects/SlicerWGPU/)(Steve Piper)
 
 # Notes
