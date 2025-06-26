@@ -60,9 +60,11 @@ This project aims to work on VR interaction with tractograms in 3D Slicer. The g
 
 
 1. Users can now select and resize the ROI box in VR using the controller, which enables manual cleaning of fibers by adjusting the region of interest.
-
-
-
+1. Different bugs where identified
+  1. It was determined that the ROI is only moved relative to the controller translation, which explain why the box is not following the laser. This could be fixed by taking into account the rotation of the controller
+  2. Usability issues and rendering artifacts come from a very low framerate that results from an incompatibility between the new Markup system in Slicer and SlicerVirtualReality
+1. The short-term solution to the bug is to use a simple polygonal model as a ROI for fiber clipping instead of a ROI markup.
+2. A script that illustrates how this can be done in Python is available [here](https://gist.github.com/drouin-simon/e2b5ecf77d53697e2e20c1d8fd016ea3).
 
 # Illustrations
 
