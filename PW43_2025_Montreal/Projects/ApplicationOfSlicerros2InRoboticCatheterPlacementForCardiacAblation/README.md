@@ -87,7 +87,12 @@ On RViz, open the `Displays` frame (should be on the left panel of the window if
 3. Click `OK` to close the dialog box.
 4. Under `Robot Model`, click the right column for `Description Topic` and choose `/robot_description`.
 5. Under `Global Options`, click the right column for `Fixed Frame` and choose `base_link`.
-6. 
+
+3D Slicer with SlicerROS2 can import the robot description from the ROS network and display the catheter model with the following steps:
+1. Open the SlicerROS2 module.
+2. Click `Add new robot`.
+3. Click `Load robot` (use default parameters).
+4. The catheter model should appear on the 3D viewer.
 
 [![dynamic simulation](https://img.youtube.com/vi/upqZboU-ong/0.jpg)](https://www.youtube.com/watch?v=upqZboU-ong)
 
