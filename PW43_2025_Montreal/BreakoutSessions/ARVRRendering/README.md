@@ -11,7 +11,7 @@ key_investigators:
 - name: Steve Piper
   affiliation: Isomic inc.
 - name: Rafael Palomar
-  affiliation: NTNU
+  affiliation: OUH / NTNU
 
 ---
 # Description
