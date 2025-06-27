@@ -88,4 +88,4 @@ Overlay illustrations highlight the differences between ground truth and predict
 
 ### 🔍 Zoomed-In View
 
-![Whole-Brain Surface Overlay](visual_results_2.jpg)
+![Whole-Brain Surface Overlay](visual_results_3.png)
