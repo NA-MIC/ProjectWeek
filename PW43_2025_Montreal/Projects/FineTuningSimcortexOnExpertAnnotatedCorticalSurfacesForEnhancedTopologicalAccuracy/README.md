@@ -53,7 +53,7 @@ SimCortex is a deep-learning framework that reconstructs all four cortical surfa
 
 ## Progress and Next Steps
 
-We fine-tuned the pre-trained SimCortex model (`SimCortex_M`) using 50 high-quality, expert-annotated MRI segmentations. The model was evaluated against the original SimCortex baseline using multiple geometric and topological metrics, including **Chamfer Distance**, **Hausdorff Distance (HD)**, **Average Symmetric Surface Distance (ASSD)**, and **Self-Intersection Fraction (SIF)**.
+We fine-tuned the pre-trained SimCortex model (`SimCortex_M`) using 50 high-quality, expert-annotated MRI segmentations. The model was evaluated against the original SimCortex baseline using geometric and topological metrics, including **Chamfer Distance**, **Hausdorff Distance (HD)**, **Average Symmetric Surface Distance (ASSD)**, and **Self-Intersection Fraction (SIF)**.
 
 Both **quantitative** and **visual evaluations** demonstrate the benefits of fine-tuning:
 
