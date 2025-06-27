@@ -62,17 +62,20 @@ However, the use of OTS comes with considerable cost and practical limitations. 
 
 
 
-## Progress and Next Steps
-
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
+### Progress and Next Steps
 
 - Created a basic URDF model of the AIRED Stewart-platform robot
 - Verified URDF-based visualization in ROS2 RViz
-- Create an SDF model of the AIRED robot based on the existing URDF model
-- Implement ROS2–3D Slicer communication for pose exchange
-- Test real-time motion simulation in both RViz and 3D Slicer using keyboard input
+
+![Image](https://github.com/user-attachments/assets/0c8b3cbb-fc25-4b54-8ae5-d1742d387233)
+
+  - Implemented ROS2–3D Slicer communication for pose exchange
+  - Test real-time motion simulation in both RViz and 3D Slicer 
+    - https://drive.google.com/file/d/1_45UmCQrpRSdvIDcFHZ1BOmo3fDaGMv_/view?usp=drive_link
+
+- Next Steps
+  - Implement and test bidirectional data communication between ROS2 and the robot
+  - Evaluate the precision of 6-DoF motion of the robot
 
 
 
