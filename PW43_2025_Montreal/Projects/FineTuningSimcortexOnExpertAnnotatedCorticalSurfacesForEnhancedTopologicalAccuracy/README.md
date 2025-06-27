@@ -69,13 +69,13 @@ Both **quantitative** and **visual evaluations** demonstrate the benefits of fin
 
 ## 📊 Quantitative Evaluation Results
 
-This Figure illustrates the differences between ground truth and predictions.
+The table below compares baseline and fine-tuned model performance across all surfaces.
 
 ![Quantitative Comparison Table](comparison_table.png)
 
 ## 🧠 Visual Comparison of Cortical Surfaces
 
-Overlay illustrations highlight the differences between ground truth and predictions.
+This Figure illustrates the differences between ground truth and predictions.
 
 - **Turquoise:** Manual ground truth
 - **Red:** Fine-tuned model (SimCortex_M)
