@@ -3,7 +3,7 @@ layout: pw43-project
 
 permalink: /:path/
 
-project_title: SlicerUltrasound Extension - adding user requested features to AnnotateUltrasound
+project_title: SlicerUltrasound Extension Development - New features
 category: DICOM
 
 key_investigators:
@@ -59,12 +59,13 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-AnnotateUltrasound is a 3D Slicer extension designed to help users label and segment important features, such as B-lines and the pleura, in lung ultrasound scan videos. The module provides an interactive interface for annotating ultrasound frames with sector annotations,, managing multiple raters, and saving structured annotation data for research or clinical studies. It streamlines the process of reviewing ultrasound sequences, drawing lines to mark anatomical structures, and tracking annotation progress, making it easier to generate high-quality labeled datasets for machine learning or analysis.
+**AnnotateUltrasound** is a 3D Slicer extension that enables structured sector annotation of lung ultrasound video clips, focusing on features such as pleura lines and B-lines. It provides an intuitive interface for frame-by-frame annotation, supports multiple raters, and saves annotation data for future research and machine learning.
 
 We collaborate closely with several physicians who use AnnotateUltrasound in their clinical and research workflows. Their feedback directly shapes the module’s features and usability, ensuring a user-centered design. We regularly incorporate their suggestions for new features and improvements based on their real-world experiences.
 
-More about the module here: [https://github.com/SlicerUltrasound/SlicerUltrasound/](https://github.com/SlicerUltrasound/SlicerUltrasound/)
+This week, we focused on incorporating user-requested features to improve efficiency, usability, and comparative analysis of annotations.
 
+More about the module: [https://github.com/SlicerUltrasound/SlicerUltrasound](https://github.com/SlicerUltrasound/SlicerUltrasound)
 
 
 ## Objective
@@ -72,20 +73,32 @@ More about the module here: [https://github.com/SlicerUltrasound/SlicerUltrasoun
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Frame-by-Frame Pleura Percentage Comparison: Display, for each rater, the frame with the highest pleura percentage directly in the rater table, and store this value in the annotation JSON, updating it automatically with any annotation changes.
-2. Label Annotation Comparison: Add label annotation data to the rater table so users can compare both label and line annotations across raters in a single view.
-3. Improved Line Endpoint Visualization: Reduce the size of line endpoints in the annotation interface to help users more precisely mark the edges of pleura and B-lines, minimizing annotation variability.
 
+1. **Frame-by-Frame Pleura Percentage Comparison**  
+   - Display pleura percentage per frame.
+   - Highlight the frame with the highest pleura coverage for each rater in the rater table.
 
+2. **Annotation Time Tracking**  
+   - Track and display time each rater spends annotating, to support workload analysis and training evaluation.
+
+3. **Adjudication Mode**
+   - Introduce an adjudicator workflow for validating or invalidating rater annotations and generating final consensus annotations.
+
+4. **Label Annotation Comparison**  
+   - Add label data to the rater table to allow comparison of both line and label annotations.
+
+5. **Improved Line Endpoint Visualization**  
+   - Refine endpoint markers to support more precise annotations.
 
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-
+- Update the AnnotateUltrasound logic to compute and store pleura percentages per frame and clip.
+- Extend UI tables to display these values, with live updates as annotations change.
+- Integrate a timer using `QTimer` and idle detection (from the UserStatistics module) to track annotation time and store it in JSON.
+- Modify endpoint visuals for clearer frame annotation.
+- Add an adjudicator mode for validating annotations across raters, including new UI tools and changes to the annotation file structure to store validated results
 
 
 
@@ -94,18 +107,47 @@ More about the module here: [https://github.com/SlicerUltrasound/SlicerUltrasoun
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+**Completed**
+- **Annotation Timer**  
+  - Tracks time per rater, auto-pauses on inactivity  
+  - Displays timer in MM:SS format  
+  - Saves to annotation JSON
 
-1. Describe specific steps you **have actually done**.
+- **Pleura Percentage Display**  
+  - Shows per-frame pleura percentages in annotation table  
+  - Highlights max pleura frame in rater table with frame index  
+  - Values stored in annotation JSON
 
+- Added **Adjudicator Mode** for validating annotations across raters  
+  - UI tools for validate/invalidate actions (+ keyboard shortcuts)  
+  - Saves to `.adjudication.json` file with adjudicator metadata (status, timestamp)  
+  - Updates schema to support final validated annotations  
 
-
-
+**In Progress**
+- Refine UI for adjudication visibility and toggles
+- Add the Sandbox/UserStatistics module as a dependency
+- Testing edge cases and fine-tuning timer and pleura calculations  
+- Adding the label annotation to the UI in the rater table
+- Get user feedback from clinicians for final usability tweaks
+  
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_No response_
+Pleura percentage saving per frame and populating rater table:
+
+https://github.com/user-attachments/assets/b084e190-6eeb-4ec2-b0e9-2f07cf737c3a
+
+Timer demo:
+
+Label annotation and populating rater tbale:
+<img width="395" alt="labels" src="https://github.com/user-attachments/assets/82875613-02be-4548-b1d6-46c52103ed35" /><img width="395" alt="labels in rater table" src="https://github.com/user-attachments/assets/496c3132-91d1-4512-849d-b49a0fdf05c3" />
+
+
+
+
+
 
 
 
@@ -114,6 +156,8 @@ _No response_
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
+- Source Code: [https://github.com/SlicerUltrasound/SlicerUltrasound](https://github.com/SlicerUltrasound/SlicerUltrasound)
+- Related Extension: [Sandbox – UserStatistics module](https://github.com/Slicer/SlicerSandbox)
 
 _No response_
 
