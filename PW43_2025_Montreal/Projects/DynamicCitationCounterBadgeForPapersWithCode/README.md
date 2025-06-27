@@ -52,7 +52,7 @@ Dynamic citation counter badges display up-to-date citation counts, making it ea
 
 1. Project was successful 
 2. Implementation here:
-https://gist.github.com/mauigna06/81a593644ec46e520adf4a7561d2075e
+[https://gist.github.com/mauigna06/81a593644ec46e520adf4a7561d2075e](https://gist.github.com/mauigna06/81a593644ec46e520adf4a7561d2075e)
 3. Use `badgeCreator` function on python
 
 
@@ -76,9 +76,9 @@ https://gist.github.com/mauigna06/81a593644ec46e520adf4a7561d2075e
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-- https://shields.io/badges/dynamic-json-badge
-- https://www.semanticscholar.org/
-- https://openalex.org/
-- https://www.crossref.org/
-- https://github.com/SlicerIGT/SlicerBoneReconstructionPlanner/tree/main#bonereconstructionplanner
+- [https://shields.io/badges/dynamic-json-badge](https://shields.io/badges/dynamic-json-badge)
+- [https://www.semanticscholar.org/](https://www.semanticscholar.org/)
+- [https://openalex.org/](https://openalex.org/)
+- [https://www.crossref.org/](https://www.crossref.org/)
+- [https://github.com/SlicerIGT/SlicerBoneReconstructionPlanner/tree/main#bonereconstructionplanner](https://github.com/SlicerIGT/SlicerBoneReconstructionPlanner/tree/main#bonereconstructionplanner)
 
