@@ -142,7 +142,8 @@ https://github.com/user-attachments/assets/b084e190-6eeb-4ec2-b0e9-2f07cf737c3a
 Timer demo:
 
 Label annotation and populating rater tbale:
-<img width="395" alt="labels" src="https://github.com/user-attachments/assets/82875613-02be-4548-b1d6-46c52103ed35" /><img width="395" alt="labels in rater table" src="https://github.com/user-attachments/assets/496c3132-91d1-4512-849d-b49a0fdf05c3" />
+<img width="395" alt="labels" src="https://github.com/user-attachments/assets/82875613-02be-4548-b1d6-46c52103ed35" />
+<img width="395" alt="labels in rater table" src="https://github.com/user-attachments/assets/496c3132-91d1-4512-849d-b49a0fdf05c3" />
 
 
 
