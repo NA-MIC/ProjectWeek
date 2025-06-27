@@ -16,6 +16,10 @@ key_investigators:
   affiliation: Queen's University
   country: Canada
 
+- name: Steve Pieper
+  affiliation: Isomics Inc.
+  country: USA
+
 ---
 
 # Project Description
