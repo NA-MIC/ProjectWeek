@@ -76,7 +76,7 @@ For the registration, we will implement a published and validated MRI-ultrasound
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_No response_
+[NAMIC_Demo_480.mov.zip](https://github.com/user-attachments/files/20949532/NAMIC_Demo_480.mov.zip)
 
 
 
