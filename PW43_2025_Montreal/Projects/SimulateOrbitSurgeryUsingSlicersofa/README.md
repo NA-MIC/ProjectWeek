@@ -87,7 +87,12 @@ Currently, I was able to do a simple simulation in SOFA. Models are prepared in 
 
 1. General plan is to first learn and design simulation and SOFA, followed by doing simulation using basic SlicerSOFA function in a Slicer scene by simple scripting, and then learn simulation at the SlicerSofa module level.
 2. Move & rotate objects using keybaord. Simplify simulation.<br>
-[![Watch the video](https://youtu.be/QgoJxyJ06to)](https://youtu.be/QgoJxyJ06to)
+
+
+[Watch the video](https://www.youtube.com/watch?v=QgoJxyJ06to):
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/QgoJxyJ06to">
+ </iframe>
 
 
 3. Using SlicerHeart Baffle Planner to create a 2D model roughly capture the shape of the plate and use Shell plugin for simulate plate bending: <br>

@@ -83,4 +83,4 @@ This project explores the real-time streaming of dynamic 3D point clouds or surf
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-https://github.com/Vitor-Padovani/surfaceStreamer.git
+[https://github.com/Vitor-Padovani/surfaceStreamer.git](https://github.com/Vitor-Padovani/surfaceStreamer.git)

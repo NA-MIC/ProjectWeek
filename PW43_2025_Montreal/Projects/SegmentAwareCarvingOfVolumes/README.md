@@ -67,7 +67,7 @@ The goal of this project is to implement segment-aware carving mechanism, that w
 4. The editor makes it possible to add a 'clipping sphere' to the scene. This clipping sphere is created using a point markup and a radius value can be set in the editor. The clipping sphere is then used in a compute shader to clip into the different segments within the volume. If the sphere clips into a voxel it sets the intensity value of said voxel to 0.
 5. The clipping sphere uses a 'mask' to only clip certain segements in the volume. Whether the the segment will be clipped depends on the segment visibility value in the Segment Editor, which can be changed in real time.
 6. The module was published online and is accessible in the Extension Manager:
-   - https://github.com/andrey-titov/SlicerAnatomyCarve
+   - [https://github.com/andrey-titov/SlicerAnatomyCarve](https://github.com/andrey-titov/SlicerAnatomyCarve)
 
 Future work:
 1. The rendering needs to be polished to reduce the antialiasing on the segments and make it look better.

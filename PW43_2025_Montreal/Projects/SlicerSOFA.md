@@ -87,8 +87,8 @@ This would allow the SOFA community to leverage Slicer's existing infrastructure
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 - Point 4:
-  - One PR has been opened on SOFA to globally specify OUTPUT_DIRECTORY for runtime, archive and library material https://github.com/sofa-framework/sofa/pull/5558
-  - One PR has been opened on SOFA to globally specify the RELOCATION path for plugins, applications and projects https://github.com/sofa-framework/sofa/pull/5562
+  - One PR has been opened on SOFA to globally specify OUTPUT_DIRECTORY for runtime, archive and library material [https://github.com/sofa-framework/sofa/pull/5558](https://github.com/sofa-framework/sofa/pull/5558)
+  - One PR has been opened on SOFA to globally specify the RELOCATION path for plugins, applications and projects [https://github.com/sofa-framework/sofa/pull/5562](https://github.com/sofa-framework/sofa/pull/5562)
 
 # Illustrations
 
