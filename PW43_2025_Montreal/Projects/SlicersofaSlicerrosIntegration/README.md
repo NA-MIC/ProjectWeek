@@ -73,8 +73,7 @@ SlicerSOFA and SlicerROS are two paradigm extensions integrating Slicer with ext
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
-
+1. Wrote the scripts and put together a github repository (https://github.com/eleonore2001/SlicerSOFA-SlicerROS) with the scripts / models / demos. 
 
 
 
