@@ -3,8 +3,7 @@ layout: pw43-project
 
 permalink: /:path/
 
-project_title: Fine-Tuning SimCortex on Expert-Annotated Cortical Surfaces for Enhanced Topological
-  Accuracy
+project_title: Fine-Tuning SimCortex on Expert-Annotated Cortical Surfaces for Enhanced Topological Accuracy
 category: Segmentation / Classification / Landmarking
 
 key_investigators:
@@ -18,75 +17,75 @@ key_investigators:
   country: Canada
 
 - name: Jarrett Rushmore
-  affiliation: 'Boston University Medical '
+  affiliation: Boston University Medical
   country: USA
-
 ---
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+SimCortex is a deep-learning framework that reconstructs all four cortical surfaces (left/right white matter and pial) from T1-weighted MRI, with a focus on minimizing inter-surface collisions and self-intersections while maintaining high geometric fidelity. To improve robustness and generalization, we fine-tune SimCortex—originally trained on FreeSurfer-generated segmentations—using a set of 50 expert-annotated MRI volumes.
 
+---
 
-SimCortex is a deep-learning framework that simultaneously reconstructs all four cortical surfaces (left/right white-matter and pial) from T1-weighted MRI, with a focus on minimizing inter-surface collisions and self-intersections while maintaining high geometric fidelity. To further improve robustness and generalization, we will fine-tune SimCortex—initially trained using FreeSurfer-generated segmentations—on an expert-annotated set of 50 manually segmented MRI volumes.
+## Objectives
 
+1. **Fine‐tune SimCortex with high‐quality, manually labeled data**  
+   Fine-tune the pre‐trained SimCortex model using 50 expert‐annotated MRI segmentations to improve anatomical accuracy and reduce geometric artifacts.
 
+2. **Compare fine‐tuned variants against the baseline**  
+   Evaluate several fine‐tuned configurations using geometric metrics (Chamfer Distance, ASSD, HD) and topological consistency (SIF), and compare them to the baseline SimCortex model.
 
-## Objective
+3. **Visually validate reconstructions in 3D Slicer**  
+   Load predicted cortical surfaces into 3D Slicer and assess anatomical plausibility with expert guidance.
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
-
-
-1. Objective A. **Fine‐tune SimCortex with high‐quality, manually labeled data**
-A. We will fine-tune the pre‐trained SimCortex model to 50 expert‐annotated MRI segmentations, aiming to improve its ability to generate anatomically accurate, collision‐free cortical surfaces.
-
-2. Objective B. **Compare outputs from multiple fine‐tuned configurations against the FreeSurfer‐trained baseline using geometric metrics**
-A. We will run several fine‐tuning variants and quantitatively evaluate collision rate, self‐intersection fraction, Chamfer distance, ASSD, and HD, directly comparing each to the original FreeSurfer‐trained model.
-
-3. Objective C. **Visually evaluate reconstructed surfaces in 3D‐Slicer to confirm anatomical plausibility**
-A. We will load and inspect the cortical meshes from each configuration using 3D Slicer.
-
-
+---
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+1. **Preprocessing:** Convert expert-segmented MRI volumes into a format compatible with SimCortex.
+2. **Model Fine-Tuning:** Use manual segmentations to fine-tune the original SimCortex model.
+3. **Evaluation:** Measure Chamfer, ASSD, HD, and %SIF for each configuration.
+4. **Baseline Comparison:** Compare all metrics with the baseline SimCortex model.
+5. **Expert Review:** Collaborate with Prof. Jarrett Rushmore for visual validation.
+6. **Selection:** Choose the best configuration based on both quantitative metrics and expert review.
 
-	
-1. **Preprocessing:** Convert 50 manually segmented MRI datasets into a format compatible with the SimCortex framework through a preprocessing pipeline.
-2. **Model Fine-Tuning:** Fine-tune the SimCortex model using the preprocessed manual datasets to improve anatomical accuracy and generalization.
-3. **Evaluation Metrics:**  Evaluate Model performance across configurations using quantitative metrics.
-4. **Baseline Comparison:** Compare results with the baseline SimCortex model originally trained on FreeSurfer-generated segmentations.
-5. **Expert Review:** Collaborate with Professor Jarrett Rushmore (neuroanatomy expert) to visually inspect the cortical reconstructions for anatomical plausibility.
-6. **Configuration Selection:** Identify optimal configurations based on combined quantitative performance and expert-guided visual assessment.
-
-
+---
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+We fine-tuned the pre-trained SimCortex model (`SimCortex_M`) using 50 high-quality, expert-annotated MRI segmentations. The model was evaluated against the original SimCortex baseline using multiple geometric and topological metrics, including **Chamfer Distance**, **Hausdorff Distance (HD)**, **Average Symmetric Surface Distance (ASSD)**, and **Self-Intersection Fraction (SIF)**.
 
+Both **quantitative** and **visual assessments** demonstrate the benefits of fine-tuning:
 
-1. Describe specific steps you **have actually done**.
+- `SimCortex_M` achieves **lower errors** across all evaluated metrics.
+- The **red surface** (fine-tuned) shows better alignment with the **turquoise manual ground truth**, while the **yellow surface** (baseline) exhibits greater deviation.
+- These results confirm that using expert-labeled data leads to improved anatomical and topological accuracy.
 
+## 🚀 Future Direction
 
-
+- As a next step, we plan to develop a more robust version of SimCortex as a **dedicated 3D Slicer extension**. This extension will aim to produce high-fidelity cortical surfaces with **minimal inter-surface collisions** and **eliminated self-intersections**, enhancing its usability for both clinical and research workflows.
+---
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+## 📊 Quantitative Evaluation Results
 
+The table below compares baseline and fine-tuned model performance across all surfaces.
 
-_No response_
+![Quantitative Comparison Table](comparison_table.png)
 
+## 🧠 Visual Comparison of Cortical Surfaces
 
+Overlay illustrations highlight the differences between ground truth and predictions.
 
-# Background and References
+- **Turquoise:** Manual ground truth
+- **Red:** Fine-tuned model (SimCortex_M)
+- **Yellow:** Baseline model (SimCortex)
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
+###  🧩 Full Brain View
 
+![Zoomed-In Surface Overlay](visual_results_1.png)
 
-_No response_
+### 🔍 Zoomed-In View
 
+![Whole-Brain Surface Overlay](visual_results_2.jpg)
