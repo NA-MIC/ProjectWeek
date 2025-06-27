@@ -96,7 +96,7 @@ Currently, I was able to do a simple simulation in SOFA. Models are prepared in 
 [![Watch the video](https://youtu.be/QgoJxyJ06to)](https://youtu.be/iLCJW_BHsg8) <br>
 
 4. Testing simple simulation via import Sofa in Slicer Scene<br>
-[![Watch the video]([https://youtu.be/3xOu1HUu0Uc])(https://youtu.be/3xOu1HUu0Uc) 
+[![Watch the video]([https://youtu.be/3xOu1HUu0Uc)](https://youtu.be/3xOu1HUu0Uc) 
 
 # Illustrations
 
