@@ -65,7 +65,7 @@ During this project week we will work on integrating support for the ClaroNav Mi
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Integrated changes to support building with MicronTracker 4.1 (https://github.com/PlusToolkit/PlusBuild/commits/master/?author=Sunderlandkyl&since=2025-06-22&until=2025-06-26) (https://github.com/PlusToolkit/PlusLib/pull/1236)
+1. Integrated changes to support building with MicronTracker 4.1 ([https://github.com/PlusToolkit/PlusBuild/commits/master/?author=Sunderlandkyl&since=2025-06-22&until=2025-06-26](https://github.com/PlusToolkit/PlusBuild/commits/master/?author=Sunderlandkyl&since=2025-06-22&until=2025-06-26))([https://github.com/PlusToolkit/PlusLib/pull/1236](https://github.com/PlusToolkit/PlusLib/pull/1236))
 1. Generated Plus MicronTracker 4.1 package: [https://github.com/PlusToolkit/PlusLib/actions/runs/15842387536/artifacts/3389393270](https://github.com/PlusToolkit/PlusLib/actions/runs/15842387536/artifacts/3389393270)
 1. Created tool templates for the stylus and "reference" (cup)
 1. Successfully Connected to the camera using Plus + Slicer.

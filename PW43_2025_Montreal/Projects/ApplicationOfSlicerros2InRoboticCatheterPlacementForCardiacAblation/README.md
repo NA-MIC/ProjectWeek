@@ -102,9 +102,9 @@ On RViz, open the `Displays` frame (should be on the left panel of the window if
 
 
 # Background and References
-1. SlicerROS2 Repository: https://github.com/rosmed/slicer_ros2_module
-2. SlicerROS2 Documentation: https://slicer-ros2.readthedocs.io/en/v1.0/
-3. SlicerROS2 Tutorials: https://rosmed.github.io/tutorials/
+1. [SlicerROS2 Repository](https://github.com/rosmed/slicer_ros2_module)
+2. [SlicerROS2 Documentation](https://slicer-ros2.readthedocs.io/en/v1.0/)
+3. [SlicerROS2 Tutorials](https://rosmed.github.io/tutorials/)
 
 # Acknowledgements
 

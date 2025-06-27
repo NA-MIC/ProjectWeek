@@ -136,13 +136,18 @@ More about the module: [https://github.com/SlicerUltrasound/SlicerUltrasound](ht
 
 
 Pleura percentage saving per frame and populating rater table:
-
-https://github.com/user-attachments/assets/b084e190-6eeb-4ec2-b0e9-2f07cf737c3a
+<video
+   controls muted
+   src="https://github.com/user-attachments/assets/b084e190-6eeb-4ec2-b0e9-2f07cf737c3a"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
 Timer demo:
-
-
-https://github.com/user-attachments/assets/916eefb3-f4f7-489a-adae-0780b1454cc5
+<video
+   controls muted
+   src="https://github.com/user-attachments/assets/916eefb3-f4f7-489a-adae-0780b1454cc5"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
 
 Label annotation and populating rater tbale:
