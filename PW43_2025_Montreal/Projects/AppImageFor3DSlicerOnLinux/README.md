@@ -16,7 +16,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-This project aims to create a portable AppImage distribution of 3D Slicer for Linux systems. AppImage is a universal software package format that allows applications to run on various Linux distributions without installation, making 3D Slicer more accessible and easier to deploy across different Linux environments. The project will streamline the distribution process and reduce dependency conflicts that users often encounter when installing 3D Slicer on different Linux distributions.
+This project aims to create a portable AppImage or Flatpak distribution of 3D Slicer for Linux systems. AppImage and Flatpak are universal software package formats that allow applications to run on various Linux distributions, making 3D Slicer more accessible and easier to deploy across different Linux environments. The project will streamline the distribution process and reduce dependency conflicts that users often encounter when installing 3D Slicer on different Linux distributions.
 
 ## Objective
 
