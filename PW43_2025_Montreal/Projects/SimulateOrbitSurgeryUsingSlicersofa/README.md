@@ -90,12 +90,13 @@ Currently, I was able to do a simple simulation in SOFA. Models are prepared in 
 [![Watch the video](https://youtu.be/QgoJxyJ06to)](https://youtu.be/QgoJxyJ06to)
 
 
-3. Using SlicerHeart Baffle Planner to create a 2D model roughly capture the shape of the plate and use Shell plugin for simulate plate bending: 
-[![Watch the video](https://youtu.be/QgoJxyJ06to)](https://youtu.be/iLCJW_BHsg8)
+3. Using SlicerHeart Baffle Planner to create a 2D model roughly capture the shape of the plate and use Shell plugin for simulate plate bending: <br>
+![Screenshot from 2025-06-27 02-43-11](https://github.com/user-attachments/assets/fd6b900b-9900-4c83-b0d7-1adf572208e1) <br>
 
-4. Testing simple simulation via import Sofa in Slicer Scene
-https://youtu.be/3xOu1HUu0Uc
-[![Watch the video]([https://youtu.be/3xOu1HUu0Uc])(https://youtu.be/3xOu1HUu0Uc)
+[![Watch the video](https://youtu.be/QgoJxyJ06to)](https://youtu.be/iLCJW_BHsg8) <br>
+
+4. Testing simple simulation via import Sofa in Slicer Scene<br>
+[![Watch the video]([https://youtu.be/3xOu1HUu0Uc])(https://youtu.be/3xOu1HUu0Uc) 
 
 # Illustrations
 
