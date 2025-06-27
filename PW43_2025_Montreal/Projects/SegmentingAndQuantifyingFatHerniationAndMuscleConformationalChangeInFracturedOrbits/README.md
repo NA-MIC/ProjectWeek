@@ -58,6 +58,8 @@ Manual segmentation of orbit is laborious and technical. The available deep lear
 ## Progress and Next Steps
 
 1. Testing nnInitiatve to prepare manual segmentation and potential traning dataset. Continue develop a repeatable workflow for orbital fracture cases. <br>
+![Screenshot from 2025-06-26 22-57-11](https://github.com/user-attachments/assets/df1d8512-6fdb-4090-895e-2fdcd2c509ef)
+
 ![Screenshot from 2025-06-26 23-41-36](https://github.com/user-attachments/assets/26bc4612-22cf-4400-a99e-816356722af6)
 ![Screenshot from 2025-06-26 23-42-56](https://github.com/user-attachments/assets/cf9dc043-0c9a-4323-87ee-6b5db2fd5a0f)
 
