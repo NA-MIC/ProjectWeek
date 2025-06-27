@@ -71,7 +71,7 @@ This project aims to work on VR interaction with tractograms in 3D Slicer. The g
 
  <video
    controls muted
-   src="demo3red.mp4"
+   src="https://github.com/NA-MIC/ProjectWeek/blob/89634eb23b86b608310e375117b4ff1d9791eb63/PW43_2025_Montreal/Projects/TractographyVr/demo3red.mp4"
    style="max-height:640px; min-height: 200px">
  </video>
 
