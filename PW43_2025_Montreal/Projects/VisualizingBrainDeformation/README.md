@@ -79,7 +79,7 @@ For the registration, we will implement a published and validated MRI-ultrasound
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-https://mcgill-my.sharepoint.com/:v:/g/personal/etienne_leger_mcgill_ca/EYxMVat9qgxHnoQ-7JhEq_0BCcxIrsJj4NhBqJVAEP02cQ?e=57a12U&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[https://mcgill-my.sharepoint.com/:v:/g/personal/etienne_leger_mcgill_ca/EYxMVat9qgxHnoQ-7JhEq_0BCcxIrsJj4NhBqJVAEP02cQ?e=57a12U&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://mcgill-my.sharepoint.com/:v:/g/personal/etienne_leger_mcgill_ca/EYxMVat9qgxHnoQ-7JhEq_0BCcxIrsJj4NhBqJVAEP02cQ?e=57a12U&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 
