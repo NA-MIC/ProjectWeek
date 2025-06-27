@@ -69,7 +69,7 @@ Both **quantitative** and **visual evaluations** demonstrate the benefits of fin
 
 ## 📊 Quantitative Evaluation Results
 
-The table below compares baseline and fine-tuned model performance across all surfaces.
+This Figure illustrates the differences between ground truth and predictions.
 
 ![Quantitative Comparison Table](comparison_table.png)
 
