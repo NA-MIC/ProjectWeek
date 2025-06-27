@@ -85,28 +85,34 @@ This would allow the SOFA community to leverage Slicer's existing infrastructure
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
-### Progress of the MacOS pacakaging for SlicerSOFA
-There is new infrastructure in Slicer to enable the MacOS package of SlicerSOFA. The changes have been largely merged and still need to be tested. 
-  - One PR has been opened on SOFA to globally specify OUTPUT_DIRECTORY for runtime, archive and library material [sofa-framework/sofa#5558](https://github.com/sofa-framework/sofa/pull/5558).
-  - One PR has been opened on SOFA to globally specify the RELOCATION path for plugins, applications and projects [sofa-framework/sofa#5562](https://github.com/sofa-framework/sofa/pull/5562).
-  - One PR has been opened on Slicer for adding CMake infrastructure supporting `rpath` manipulation on third-party libraries for MacOS [Slicer/Slicer#8516](https://github.com/Slicer/Slicer/pull/8516).
-  - One commited change (fix) to align SOFA with the Slicer infrastructure [Slicer/SOFA-f698e29](https://github.com/Slicer/sofa/commit/f698e29e66e24c702e665c9fb80822731dd31407). 
-  - One PR has been merged on SlicerSOFA for fixing the MacOS package [Slicer/SlicerSOFA#48](https://github.com/Slicer/SlicerSOFA/pull/48)./
-  - The implications of these changes go beyond SlicerSOFA, as they establish a good base for Superbuild extensions packaging complex third-party libraries to be successfully packaged as Slicer extensions.
+### macOS Packaging for SlicerSOFA
 
-### Use of RpyC
-  - We have successfully prototyped an example for the use of RpyC for remote procedure calls to a remote SOFA server. (see files here https://github.com/bakpaul/TestScenes)
-  - We have discussed about the correct form of leveraging a SlicerSOFA based on RpyC without a final conclusion.
+Significant progress has been made toward enabling macOS packaging for SlicerSOFA. Most required infrastructure changes have been implemented and are pending final testing. The following contributions have been made:
+
+* A PR was opened on SOFA to globally define `OUTPUT_DIRECTORY` for runtime, archive, and library targets: [sofa-framework/sofa#5558](https://github.com/sofa-framework/sofa/pull/5558).
+* Another PR was opened to globally set `RELOCATION` paths for plugins, applications, and projects: [sofa-framework/sofa#5562](https://github.com/sofa-framework/sofa/pull/5562).
+* A PR was submitted to Slicer to introduce CMake infrastructure for `rpath` manipulation of third-party libraries on macOS: [Slicer/Slicer#8516](https://github.com/Slicer/Slicer/pull/8516).
+* A committed fix aligned the SOFA fork used in Slicer with recent infrastructure improvements: [Slicer/sofa@f698e29](https://github.com/Slicer/sofa/commit/f698e29e66e24c702e665c9fb80822731dd31407).
+* A PR has been merged in the SlicerSOFA repository to fix macOS packaging: [Slicer/SlicerSOFA#48](https://github.com/Slicer/SlicerSOFA/pull/48).
+
+> These updates not only benefit SlicerSOFA but also lay a solid foundation for packaging other SuperBuild-based extensions that rely on complex third-party libraries.
+
+### RPyC Integration
+
+* A working prototype was developed using [RPyC](https://rpyc.readthedocs.io/en/latest/) to enable remote procedure calls to a SOFA server. See proof-of-concept implementation here: [bakpaul/TestScenes](https://github.com/bakpaul/TestScenes) repository.
+* Ongoing discussions have explored how SlicerSOFA could best leverage RPyC for distributed processing, but no final design decision has been made.
 
 ### Review of current SlicerSOFA build options
-  - Our colleagues from the SOFA framework have been working on new adaptations of the SOFA CMake infrastructure to make SOFA more modular on its inclusion in other projects
-  - After the fix of MacOS packaging, there will be a review of options for improving the way SOFA is built and deployed in SlicersOFA
+
+* The SOFA team has been actively refactoring their CMake infrastructure to improve modularity and facilitate integration into external projects like SlicerSOFA.
+* Once macOS packaging support is finalized, we plan to review and refine how SOFA is built and deployed within SlicerSOFA, potentially simplifying the configuration process.
 
 ### SlicerSOFA documentation
-  - Feedback from the Slicer community suggested an urgent need for establishing a documentaion of the SlicerSOFA project.
-  - During ProjectWeek43, we have established the infrastructure for a readthedocs documentation of the project and initial content has been added
 
-### Illustrations
+* Community feedback has highlighted the urgent need for better documentation for SlicerSOFA.
+* During Project Week 43, we created a [Read the Docs](https://readthedocs.org/) site for SlicerSOFA and began populating it with initial content to support onboarding and usage.
+
+# Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
