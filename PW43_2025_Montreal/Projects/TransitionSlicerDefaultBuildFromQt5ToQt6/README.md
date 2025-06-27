@@ -76,6 +76,23 @@ This effort lays the groundwork for supporting native builds on macOS ARM system
 * Target Qt Version: Qt 6.9
 * Initial focus is on enabling Slicer and its dependencies to build on macOS arm64 with Qt6. Work is ongoing across the main Slicer repository, key dependencies, and related infrastructure.
 
+
+### Status of Qt6 & macOS arm64 support
+
+|                | Status | Progress | What              |
+|----------------|--------|----------|-------------------|
+| PythonQt       | ⏳    | 95%      | Qt6 & macOS arm64 |
+| qRestAPI       | ✅    | 100%     | Qt6 & macOS arm64 |
+| QtTesting      | ⏳    | 95%      | Qt6 & macOS arm64 |
+| CTK            | ⏳    | 5%       | Qt6 & macOS arm64 |
+| CTKAPPLAUNCHER |       |          | Qt6 & macOS arm64 |
+| VTK            | ✅    | 100%     | Qt6 & macOS arm64 |
+| Slicer         |       |          | Qt6 & macOS arm64 |
+| teem           | ✅    | 100%     | macOS arm64 |
+| rapidjson      | ✅    | 100%     | macOS arm64 |
+| OpenSSL        | ✅    | 100%     | macOS arm64 |
+
+
 ### Slicer Updates
 
 * CMake and Build System
