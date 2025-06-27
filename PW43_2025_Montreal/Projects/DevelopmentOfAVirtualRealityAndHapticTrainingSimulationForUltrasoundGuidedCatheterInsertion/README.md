@@ -88,7 +88,7 @@ Pilot testing
 1. Success in getting enough people for the mini-longitudinal pilot test
 2. Lots of great feedback (thanks!)
 3. Need more people for the short pilot test for needle deviation strategies (come try the simulation!)
-4. ![image](https://github.com/user-attachments/assets/51a376e0-ea72-4e47-85e5-07961f5f37e0)
+![image](https://github.com/user-attachments/assets/51a376e0-ea72-4e47-85e5-07961f5f37e0)
 
 
 # Illustrations
