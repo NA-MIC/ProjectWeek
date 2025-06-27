@@ -32,6 +32,7 @@ key_investigators:
 
 1. Plan refactoring of the extension
 2. Improve features: add download progress reporting, simplify download by automatically detecting whether identifier specified by the user is collection/patient/study/series, support automatic loading of the images.
+3. A discussion with Ben Zwick resurrected earlier ideas about embedding [IDC portal explore page](https://portal.imaging.datacommons.cancer.gov/explore/) in Slicer directly, and injecting functionality to trigger Slicer open directly from that embedded page. Will prioritize development of that feature, see https://github.com/ImagingDataCommons/SlicerIDCBrowser/issues/52.
 
 
 
