@@ -153,6 +153,7 @@ Label annotation and populating rater tbale:
 
 Adjudication support:
 
+
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4272e305-4f83-4f07-80fd-fbaadd03e158" width="48%" alt="Adjudicator Tools" />
   <img src="https://github.com/user-attachments/assets/5bd09a90-0209-41d1-a0d9-f7b82e58ee3a" width="48%" alt="Populated Rater Table" />
