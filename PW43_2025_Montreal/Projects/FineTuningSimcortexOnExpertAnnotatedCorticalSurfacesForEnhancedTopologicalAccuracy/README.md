@@ -90,4 +90,4 @@ Overlay illustrations highlight the differences between ground truth and predict
 ![Whole-Brain Surface Overlay](visual_results_3.png)
 
 ###  🧠 Reconstructed Cortical Surfaces (Fine-Tuned Model)
-![Whole-Brain Surface Overlay](Reconstracted_Surfaces.png)
+![Whole-Brain Surface Overlay](Reconstracted_Surfaces_1.png)
