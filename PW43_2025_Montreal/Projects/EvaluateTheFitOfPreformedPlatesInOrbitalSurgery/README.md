@@ -93,7 +93,7 @@ The current workflow is tedious. My goal is to simplify the process.
 1. Demonstrated for workflow and collected suggestions for further improvement and simplification
 2. Add instant distant map during plate position adjustment. Tried texture map alignment.
 3. Add more visual support to highlight differences between different plates
-4. Start to collect data from plates from two vendors and prepare for manuscript.
+4. Start to collect data from plates from two vendors, gather further user feedback, and prepare for manuscript.
 
 
 
