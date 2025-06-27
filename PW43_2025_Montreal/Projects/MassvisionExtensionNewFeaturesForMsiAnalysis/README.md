@@ -4,7 +4,7 @@ layout: pw43-project
 permalink: /:path/
 
 project_title: 'MassVision extension: new features for MSI analysis'
-category: Other
+category: Quantification and Computation
 
 key_investigators:
 
@@ -38,16 +38,13 @@ MassVision is an extension in 3D Slicer for end-to-end AI-driven analysis of Mas
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Add statistical analysis capabilities
-    - Box/p-val
+1. Add statistical analysis tab
+    - Data distribution
+    - Boxplot
     - ANOVA
-    - Vplcano
-2. Add MixUp augmentation for dataset balancing
-3. Add export data to imzML
-4. Update volume naming for single-ion visualization
-5. Update subplot arrangement for thumbnail views
-6. Update the user manual for changes after revision
-
+    - t-test
+    - Volcano plot
+    - Interactive table/plot
 
 
 ## Progress and Next Steps
@@ -57,6 +54,7 @@ MassVision is an extension in 3D Slicer for end-to-end AI-driven analysis of Mas
 
 
 1. MassVision version 1.0 is up and running
+2. The statistical analysis tab has been implemented successfully
 
 
 
@@ -70,6 +68,11 @@ MassVision is an extension in 3D Slicer for end-to-end AI-driven analysis of Mas
   <img src="https://raw.githubusercontent.com/jamzad/SlicerMassVision/main/MassVision.png" alt="logo" width="30%"/>
 </p>
 
+ <video
+   controls muted
+   src="https://github.com/user-attachments/assets/2e7ac063-ef64-4830-9a2d-1427ad3af593"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
 
 # Background and References
