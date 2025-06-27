@@ -143,6 +143,7 @@ List of registered participants so far (names will be added here after processin
 1. Kaveh Moradkhani, ETS, Canada
 1. Daniel Haehn, UMass Boston, United States
 1. Paul Baksic, Centre Inria de l'Université de Lorraine, France
+1. Mauro Ignacio Dominguez, Independent, Argentina
 <!-- Participants list end -->
 
 ## Statistics
