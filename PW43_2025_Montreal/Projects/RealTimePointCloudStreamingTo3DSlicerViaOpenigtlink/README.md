@@ -61,17 +61,21 @@ This project explores the real-time streaming of dynamic 3D point clouds or surf
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-- Local development environment with OpenIGTLinkIO, VTK, and 3D Slicer already set up
-
+- Local development environment with OpenIGTLink, VTK, and 3D Slicer already set up
+- Configurable plane dimensions and wave parameters
+- Pre-calculated wave animation frames for smooth playback
+- Point cloud as VTK Poly Data through OpenIGTLink (900 points at ~30 FPS)
+- Point cloud as VTK Points through OpenIGTLink (900 points at ~20 FPS)
+- Point cloud as OpenIGTLink Image (100.000 points at ~60 FPS)
 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-
-_No response_
-
+![PolyDataToSlicer](https://github.com/user-attachments/assets/bdc2cb51-08c4-467d-89a6-844b46e17796)
+![PointsToSlicer](https://github.com/user-attachments/assets/23d49396-a136-4f65-8755-10e06c75bc5f)
+![PointsAsImageToSlicer](https://github.com/user-attachments/assets/7c9dc5df-60ff-4137-bf7f-fe01ac8d2460)
+![PointsAsImageUnpackedToSlicer](https://github.com/user-attachments/assets/3bd53216-38c6-451c-b534-89835d64fdde)
 
 
 # Background and References
@@ -79,6 +83,4 @@ _No response_
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-
-_No response_
-
+https://github.com/Vitor-Padovani/surfaceStreamer.git
