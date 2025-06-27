@@ -27,8 +27,6 @@ Discussion topics:
 - Tasks that a workflow should contain: curation, annotation, review, comparing multiple annotations, classification
 - Involvement and use of other software like OHIF
 
-# Notes from Ivan
-
 # CART Base Classes: Generic Iterator Framework for 3D Slicer
 
 ## Overview
