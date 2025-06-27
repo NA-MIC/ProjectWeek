@@ -77,10 +77,23 @@ In this project we aim to improve materials/resources that accompany the dataset
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Developed a [new tutorial notebook](https://tinyurl.com/y87pusa4) describing access to the TotalSegmentator-derived measurements, and demonstrating how to combine those with clinical data and image acquisition parameters.
+2. Iterated on the development of the Tableau and Plotly notebooks, those are not yet ready for general availability.
+3. Worked on exploring clinically-relevant questions using TotalSegmentator-derived measurements.
+  1. Used Gemini to analyze the existing literature and suggest possible directions for exploration, as summarized in [this document](https://tinyurl.com/2vdsep3b).
+  2. Selected investigation of longitudinal changes in the Lower Left Lung Lobe (LLLL) as the question of interest.
+  3. Developed BigQuery queries to combine relevant attributes (measuremeents, demographics, acquisition) into a single table. Implemented rules to clean the data (remove patients with incomplete longitudinal history, select scans that have complete coverage of the lung based on availability of C7 and T12 vertebrae).
+  4. Developed [notebook](https://tinyurl.com/3sfunh44) exploring the hypothesis and visualizing relevant data. No strong signal was identified for the selected question, but the data can now be used more easily for exploring any other similar hypotheses.
+  5. Learned a bit about about human anatomy, and found interesting cases that appear to be correctly segmented by TotalSegmentator but "highly unusual" based on the LLLL volume, per perplexity dot ai.
+  6. Further clinical data can be requested from [CDAS](https://cdas.cancer.gov/nlst/) - unfortunately, some key demographics data, such as patient weight and height is not included in the public offering.
+
+Check out [this notebook](https://tinyurl.com/3sfunh44) if you want to know more about the below!
   
+<img width="913" alt="image" src="https://github.com/user-attachments/assets/dc5cf7a0-ed13-4a66-bf94-4a5c8995287d" />
 
+<img width="1015" alt="image" src="https://github.com/user-attachments/assets/091602a8-b786-4776-8cba-a9360c0e7998" />
 
+<img width="1013" alt="image" src="https://github.com/user-attachments/assets/ffc9a1ea-35c3-48df-b9fd-bb0560e27c32" />
 
 
 # Illustrations
