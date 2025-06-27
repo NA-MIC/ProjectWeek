@@ -90,11 +90,11 @@ The current workflow is tedious. My goal is to simplify the process.
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Demonstrated for workflow and collected suggestions for further improvement and simplification
+2. Add instant distant map during plate position adjustment. Tried texture map alignment.
+3. Add more visual support to highlight differences between different plates
+4. Start to collect data from plates from two vendors and prepare for manuscript.
 
-
-1. Describe specific steps you **have actually done**.
 
 
 
