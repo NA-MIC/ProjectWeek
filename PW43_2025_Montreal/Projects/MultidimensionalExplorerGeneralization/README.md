@@ -47,13 +47,14 @@ Since the current "UI" for creating these visualizations is a text editor the ab
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-
-1. Describe specific steps you **have actually done**.
-
-
+1. Made a [sample script](https://gist.github.com/pieper/04b72eb1a60192a33c207fb73d9f7170) for echart parallel coordinates to demo IDC data exploration in a qSlicerWebWidget.
+    * The demo uses the idc_index package to summarize a high level view of IDC data
+    * Gist is posted as a reference
+    * Determined a limit to the size of data that can be displayed in a qSlicerWebWidget (around 1000) but 60K can be displayed when loaded in chrome.  Workaround TBD.
+    * Chrome demo with full dataset hosted here: https://pieper.github.io/sites/idc-chart/
+2. Talked with TMJ and IDC teams as planned and got more ideas for applications of this technique
+3. Talked with MassVision team (Amoon) and shared mutual enthusiasm for prettier and more interactive plots and plan to continue collaboration
+4. Learned that there's a [pyecharts](https://pyecharts.org/#/) package that may be easier to use than current javascript wrapping (but may also make debugging harder)
 
 
 # Illustrations
