@@ -62,7 +62,7 @@ Both **quantitative** and **visual evaluations** demonstrate the benefits of fin
 - These results confirm that using expert-labeled data leads to improved anatomical and topological accuracy.
 
 ## 🚀 Future Direction
--  As a next step, we plan to develop a more robust version of SimCortex as a **3D Slicer extension**. This extension will aim to produce more accurate cortical surfaces with **minimal inter-surface collisions** and **eliminate self-intersections**, enhancing its usability for both clinical and research workflows.
+-   As a next step, we plan to develop a more robust version of SimCortex as a **3D Slicer extension**. This extension will aim to produce more accurate cortical surfaces with **minimal inter-surface collisions** and **eliminate self-intersections**, enhancing its usability for both clinical and research workflows.
 ---
 
 # Illustrations
