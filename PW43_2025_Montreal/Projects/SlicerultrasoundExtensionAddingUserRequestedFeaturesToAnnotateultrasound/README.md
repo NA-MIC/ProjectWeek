@@ -158,14 +158,11 @@ Label annotation and populating rater tbale:
 
 Adjudication support:
 
-
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/4272e305-4f83-4f07-80fd-fbaadd03e158" width="48%" alt="Adjudicator Tools" />
-  <img src="https://github.com/user-attachments/assets/5bd09a90-0209-41d1-a0d9-f7b82e58ee3a" width="48%" alt="Populated Rater Table" />
-</p>
-
+<img width="352" alt="adjudicator-tools" src="https://github.com/user-attachments/assets/c3d61cf3-a1bf-47ce-bbc7-f27af37c712f" />
 
 <img width="1480" alt="validating-annotation-lines" src="https://github.com/user-attachments/assets/d8e455e8-6d5b-4867-8dc3-a5d5235c5d16" />
+
+
 
 
 Current keyboard shortcuts:
