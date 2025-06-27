@@ -49,10 +49,8 @@ key_investigators:
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
-_No response_
-
-
+1. Andrey and Kyle discussed plans for improving the extension and defined priorities for the immediate development in https://github.com/ImagingDataCommons/SlicerIDCBrowser/milestone/1.
+3. Kyle contributed improvements to reduce delays to the startup of the extension in https://github.com/ImagingDataCommons/SlicerIDCBrowser/pull/51.
 
 # Illustrations
 
