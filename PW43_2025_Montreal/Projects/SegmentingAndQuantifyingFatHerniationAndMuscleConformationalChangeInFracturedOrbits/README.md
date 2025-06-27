@@ -57,11 +57,17 @@ Manual segmentation of orbit is laborious and technical. The available deep lear
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+1. Testing nnInitiatve to prepare manual segmentation and potential traning dataset. Continue develop a repeatable workflow for orbital fracture cases. <br>
+![Screenshot from 2025-06-26 23-41-36](https://github.com/user-attachments/assets/26bc4612-22cf-4400-a99e-816356722af6)
+![Screenshot from 2025-06-26 23-42-56](https://github.com/user-attachments/assets/cf9dc043-0c9a-4323-87ee-6b5db2fd5a0f)
 
 
-1. Describe specific steps you **have actually done**.
+3. Using the centroid of each slice of inferior rectus to create a curve (subsampled to 20 points). The shape of the curve, such as maximum curvature, might be able to detect muscle conformational change related to surgical decision, such as simple logistic regression.<br>
+Unfractured side <br>
+![Screenshot from 2025-06-27 01-00-41](https://github.com/user-attachments/assets/d4046e22-d9de-4090-a159-0e37105db479)
+![Screenshot from 2025-06-27 01-02-50](https://github.com/user-attachments/assets/9400ace4-b85c-469d-a0ec-fb72d93778c4)
+
+4. Still difficult to quantify fat herniation, though nnInteractive and Grow from Seeds can capture it well. The reason is because the anterior boundary of the fat tissue is arbitrarily delineated and asymmetry of orbits.
 
 
 
