@@ -75,8 +75,9 @@ In the context of Project Week, the aim is to improve the simulation with skin d
 
 Development
 
-1. Hooking the Unity simulation up to IGT directly in Slicer to use the Grid transform method
-2. Send the updated deformed mesh continuously back to Unity using PolyData message
+1.Explored multiple strategies (Cosserat Strategy, SlicerSOFA Strategy, Shader Deformation Strategy, etc.)
+2. Hooking the Unity simulation up to IGT directly in Slicer to use the Grid transform method
+3. Send the updated deformed mesh continuously back to Unity using PolyData message
 ![Screenshot 2025-06-26 102642](https://github.com/user-attachments/assets/41a6026e-6bfc-4cc0-837c-82221589da1a)
 
 4. Test to see if the ultrasound image is deformed appropriately
