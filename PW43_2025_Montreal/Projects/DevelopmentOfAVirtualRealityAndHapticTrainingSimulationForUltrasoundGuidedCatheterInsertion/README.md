@@ -72,9 +72,21 @@ In the context of Project Week, the aim is to improve the simulation with skin d
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. [Project Week 41](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/SOFAUnityHapticModel/) - familiarisation with SOFA and a first integration of SOFA into Unity
+
+Development
+
+1. Hooking the Unity simulation up to IGT directly in Slicer to use the Grid transform method
+2. Send the updated deformed mesh continuously back to Unity using PolyData message
+![Screenshot 2025-06-26 102642](https://github.com/user-attachments/assets/41a6026e-6bfc-4cc0-837c-82221589da1a)
+
+4. Test to see if the ultrasound image is deformed appropriately
+5. Apply the deformation upon needle insertion as well
+6. User testing
 
 
+Pilot testing
+1. Success in getting enough people for the mini-longitudinal pilot test
+2. Need more people for the short pilot test for needle deviation strategies (come try the simulation!)
 
 # Illustrations
 
@@ -95,5 +107,5 @@ In the context of Project Week, the aim is to improve the simulation with skin d
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-_No response_
+[Project Week 41](https://projectweek.na-mic.org/PW41_2024_MIT/Projects/SOFAUnityHapticModel/) - familiarisation with SOFA and a first integration of SOFA into Unity
 
