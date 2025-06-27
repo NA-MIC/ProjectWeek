@@ -75,13 +75,27 @@ The SlicerTMS project has been developed to predict the electric field induced b
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+A very productive week!
+* We tested and expanded our RPyC-based integration of SimNIBS with 3D Slicer for simulation of TMS.
+* A small test model (~22K tetrahedra) can be simulated in real-time in SlicerTMS with a SimNIBS back end.
+* A "clinical grade" simulation (~4M tetrahedra) can be simulated in about 3 seconds a frame.
+* A reduced resolution field simulation with a full resolution anatomical display can be displayed in approximately 1 second per frame.
+* The simulation was extended to include additional TMS coil configurations and display of the model in 3D Slicer.
+  
+![image](https://github.com/user-attachments/assets/c09f2676-030f-4843-96db-e36f68d0f73f)
 
-
-TBD
-
-
+Next steps:
+* Now we can extend our previous work by training and testing our real-time deep learning approximations to the FEM results "head to head" in a common software environment to assess accuracy and performance tradeoffs
+* We have ordered navigation equipment so we can leverage the NousNav infrastructure to simulate navigated TMS
+* We will work to incorporate our previous work into the new integrated framework:
+    * We will experiment with volume rendering and other e-field visualization methods
+    * We will explore the integration of SlicerDMRI tractography technology to investigate the white matter tracts influenced by TMS therapy
+* We will extend our previous work
+    * We will work to integrate new segmentation methods, such as the new version of SynthSeg that can generate full-head tissue segmentations for a wider range of input data, possibly making patient-specific head models less expensive and thus expanding the availability of more precise TMS
+    * We will test novel tetrahedral mesh generation technology being developed by Will Schroeder at Kitware based on Sarah Frisken's SurfaceNets approach
+    * We will work with the NousNav team to optimize the price/performance of tracking cameras and related technologies in the hopes of making patient-specific neuronavigated TMS more widely available, with the possible outcome of improved patient response to therapy
+    * We will work with neurology and other specialties to better understand the challenges and potential applications
+    * We will streamline the user interface to facilitate experiments in these areas
 
 
 # Illustrations
