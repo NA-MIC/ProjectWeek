@@ -55,7 +55,7 @@ SimCortex is a deep-learning framework that reconstructs all four cortical surfa
 
 We fine-tuned the pre-trained SimCortex model (`SimCortex_M`) using 50 high-quality, expert-annotated MRI segmentations. The model was evaluated against the original SimCortex baseline using multiple geometric and topological metrics, including **Chamfer Distance**, **Hausdorff Distance (HD)**, **Average Symmetric Surface Distance (ASSD)**, and **Self-Intersection Fraction (SIF)**.
 
-Both **quantitative** and **visual assessments** demonstrate the benefits of fine-tuning:
+Both **quantitative** and **visual evaluations** demonstrate the benefits of fine-tuning:
 
 - `SimCortex_M` achieves **lower errors** across all evaluated metrics.
 - The **red surface** (fine-tuned) shows better alignment with the **turquoise manual ground truth**, while the **yellow surface** (baseline) exhibits greater deviation.
