@@ -31,11 +31,11 @@ key_investigators:
 - name: Sam Horvath
   affiliation: Kitware Inc
   country: USA
-  
+
 - name: Naomi Catwell
   affiliation: ÉTS
   country: Canada
-  
+
 - name: Chi Zhang
   affiliation: Texas A&M School of Dentistry
   country: USA
@@ -61,7 +61,7 @@ We'd now like to take the next steps to determine default funcationality and det
 This would allow the SOFA community to leverage Slicer's existing infrastructure for cross-platform testing and distribution.
 
 3. Objective C. Discuss/prototype parallel processing architectures to optimize overlap of simulation and rendering for best interactive performance.
- 
+
 4. Objective D. Bug fixing ([#44](https://github.com/slicer/slicersofa/issues/44)) and MacOS package fixing
 
 5. Objective E. Discuss other topics of interest to potential SlicerSOFA users.
@@ -75,7 +75,7 @@ This would allow the SOFA community to leverage Slicer's existing infrastructure
 2. Discuss and possibly prototype a C++ SOFA plugin in a SuperBuild extension that depends on SlicerSOFA
 
 3. Discuss various client/server and message passing options, such as an http-based protocol, RPyC, or others.
-   
+
 4. Improve the SlicerSOFA (and possibly SOFA) CMake infrastructure to enable MacOS packaging. Review SlicerSOFA python infrastructure in connection with the SoftTissueSimulation and [#44](https://github.com/Slicer/SlicerSOFA/issues/44) 
 
 6. Reach out to other Project Week attendess who express interest.
