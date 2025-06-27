@@ -84,6 +84,10 @@ In the context of Project Week, the aim is to improve the simulation with skin d
 ![Image](https://github.com/user-attachments/assets/6d74833a-af17-41ed-9cbe-fd084dabb651)
 
 
+"Analytical approximation" of probe-tissue interaction to experiment with tissue displacement, using [this code](https://github.com/pieper/SlicerSOFA/blob/07a77dcf24980475ac0c0c7736b71f142db46491/Experiments/arm.py) developed during Project Week.  While this method is not physically realistic, it represents a real-time approximation that may be adapted for use in training systems.  A more complex simulation can possibly make use of the linear and nonlinear transformation hierarchy worked out in this example.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/41RBgAflDH4">
+ </iframe>
 
 # Background and References
 
