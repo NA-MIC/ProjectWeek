@@ -101,12 +101,15 @@ Develop and validate a deep learning model capable of accurately localizing 12 a
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+![1](https://github.com/user-attachments/assets/a0b3aefa-b304-4f8b-9c72-2bf83dd4564c)
+
+![2](https://github.com/user-attachments/assets/23996352-97ab-4291-9e17-6f8a5d8505ce)
 
 
-_No response_
+![3](https://github.com/user-attachments/assets/90b751d8-47e8-4321-a439-3081f8ed08ec)
 
 
+![4](https://github.com/user-attachments/assets/81c5257a-f68b-45f1-911a-43705a197ce5)
 
 # Background and References
 
