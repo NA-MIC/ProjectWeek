@@ -95,7 +95,7 @@ There is new infrastructure in Slicer to enable the MacOS package of SlicerSOFA.
   - The implications of these changes go beyond SlicerSOFA, as they establish a good base for Superbuild extensions packaging complex third-party libraries to be successfully packaged as Slicer extensions.
 
 ### Use of RpyC
-  - We have successfully prototyped an example for the use of RpyC for remote procedure calls to a remote SOFA server.
+  - We have successfully prototyped an example for the use of RpyC for remote procedure calls to a remote SOFA server. (see files here https://github.com/bakpaul/TestScenes)
   - We have discussed about the correct form of leveraging a SlicerSOFA based on RpyC without a final conclusion.
 
 ### Review of current SlicerSOFA build options
