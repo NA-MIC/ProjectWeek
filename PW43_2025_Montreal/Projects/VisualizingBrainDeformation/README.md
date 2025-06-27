@@ -67,7 +67,11 @@ For the registration, we will implement a published and validated MRI-ultrasound
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Started implementing registration pipeline as a 3D Slicer Module.
+1. Displacement visualization (in mm) with configurable colour maps
+2. Cursor glyph shows displacement
+4. Allow UI to change opacity, threshold colour maps
+5. Visualize where the ultrasound data exists on the MRI
+6. Insert landmarks to visualize
 
 
 
@@ -75,8 +79,9 @@ For the registration, we will implement a published and validated MRI-ultrasound
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+https://mcgill-my.sharepoint.com/:v:/g/personal/etienne_leger_mcgill_ca/EYxMVat9qgxHnoQ-7JhEq_0BCcxIrsJj4NhBqJVAEP02cQ?e=57a12U&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-[NAMIC_Demo_480.mov.zip](https://github.com/user-attachments/files/20949532/NAMIC_Demo_480.mov.zip)
+
 
 
 
