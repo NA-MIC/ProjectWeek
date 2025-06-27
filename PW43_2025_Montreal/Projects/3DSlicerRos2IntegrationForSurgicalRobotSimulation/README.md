@@ -8,14 +8,13 @@ category: IGT and Training
 
 key_investigators:
 
-- name: Joonho Seo
-  affiliation: KIMM
-  country: South Korea
-
 - name: Juntae Park
   affiliation: AIRS
   country: South Korea
-
+  
+- name: Joonho Seo
+  affiliation: KIMM
+  country: South Korea
 ---
 
 # Project Description
@@ -54,14 +53,11 @@ However, the use of OTS comes with considerable cost and practical limitations. 
   - Use ROS2 topics to establish bidirectional communication between ROS2 and 3D Slicer
 
 - Simulate and verify robot motion
-
+- 
   - Send simulated pose commands via keyboard inputs
   - Monitor robot motion in RViz and 3D Slicer during simulation
 
     
-
-
-
 ### Progress and Next Steps
 
 - Created a basic URDF model of the AIRED Stewart-platform robot
@@ -71,9 +67,11 @@ However, the use of OTS comes with considerable cost and practical limitations. 
 
   - Implemented ROS2–3D Slicer communication for pose exchange
   - Test real-time motion simulation in both RViz and 3D Slicer 
-    - https://drive.google.com/file/d/1_45UmCQrpRSdvIDcFHZ1BOmo3fDaGMv_/view?usp=drive_link
+    - https://www.youtube.com/watch?v=FtWf1xCiFFY
+      
+      [![Watch the video](https://img.youtube.com/vi/FtWf1xCiFFY/0.jpg)](https://www.youtube.com/watch?v=FtWf1xCiFFY)
 
-- Next Steps
+- Future Work
   - Implement and test bidirectional data communication between ROS2 and the robot
   - Evaluate the precision of 6-DoF motion of the robot
 
