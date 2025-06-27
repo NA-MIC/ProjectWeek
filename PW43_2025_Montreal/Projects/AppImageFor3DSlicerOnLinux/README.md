@@ -3,7 +3,7 @@ layout: pw43-project
 
 permalink: /:path/
 
-project_title: AppImage for 3D Slicer on Linux
+project_title: AppImage, Flatpak, etc. for packaging 3D Slicer on Linux
 category: Infrastructure
 
 key_investigators:
@@ -44,6 +44,10 @@ This project aims to create a portable AppImage distribution of 3D Slicer for Li
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+1. Learnt that AppImage is not very suitable, and Flatpak is difficult to get working with e.g. the Extension Manager.
+2. Decided to use existing `make package` for now.
+3. Updated the [SlicerBuildEnvironment](https://github.com/Slicer/SlicerBuildEnvironment) instructions for building 3D Slicer, Slicer Custom Apps and Slicer extensions (See the [Slicer Build Instruction Updates project](https://projectweek.na-mic.org/PW43_2025_Montreal/Projects/SlicerBuildInstructionUpdates/) for more details).
+
 TODO
 <!-- 1. **Initial research and planning phase completed** - analyzed AppImage format requirements and 3D Slicer's current Linux build process. -->
 <!-- 1. **Set up development environment** with necessary AppImage tools (linuxdeploy, appimagetool) and tested basic AppImage creation workflow. -->
@@ -79,13 +83,17 @@ TODO
 
 3D Slicer:
 - [3D Slicer Official Website](https://www.slicer.org/)
-- [GNU/Linux systems — 3D Slicer documentation](https://slicer.readthedocs.io/en/latest/developer_guide/build_instructions/linux.html)
 - [3D Slicer GitHub Repository](https://github.com/Slicer/Slicer)
+- [GNU/Linux systems — 3D Slicer documentation](https://slicer.readthedocs.io/en/latest/developer_guide/build_instructions/linux.html)
+- [SlicerBuildEnvironment](https://github.com/Slicer/SlicerBuildEnvironment)
 
 AppImage:
 - [AppImage - Linux apps that run anywhere](https://appimage.org/)
 - [AppImage Best Practices](https://docs.appimage.org/packaging-guide/index.html)
 - [linuxdeploy - AppImage creation tool](https://github.com/linuxdeploy/linuxdeploy)
+
+Flatpak:
+- [Flatpak—the future of application distribution](https://flatpak.org/)
 
 Misc:
 - [Qt 5 Application Deployment on Linux](https://doc.qt.io/qt-5/linux-deployment.html)
