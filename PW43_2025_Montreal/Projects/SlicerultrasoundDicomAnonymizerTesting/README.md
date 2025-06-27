@@ -88,8 +88,7 @@ We will be working on the open issues list and happy to discuss it with any PW43
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-Will add on Thursday night!
-
+During PW43 we completed manual de-identification (fan segmentation by clicking on the corners of the fan) for 100 patient exams, and tested our AI system on them. Some rough edges, no pun intended, were revealed, which we plan to complete and before PW44. See illustration in the lower figure below.
 
 
 # Illustrations
