@@ -77,7 +77,7 @@ The table below compares baseline and fine-tuned model performance across all su
 
 This Figure illustrates the differences between ground truth and predictions.
 
-- **Turquoise:** Manual ground truth
+- **Cyan:** Manual ground truth
 - **Red:** Fine-tuned model (SimCortex_M)
 - **Yellow:** Baseline model (SimCortex)
 
