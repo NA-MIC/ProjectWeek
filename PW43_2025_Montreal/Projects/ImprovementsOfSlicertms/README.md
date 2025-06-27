@@ -76,6 +76,8 @@ The SlicerTMS project has been developed to predict the electric field induced b
 ## Progress and Next Steps
 
 A very productive week!
+* We discussed our TMS work with the community in relation to other navigation, TMS, and FEM projects
+* We investigated and now better understand SimNIBS mesh file format conventions for gray/white matter and other tissue
 * We tested and expanded our RPyC-based integration of SimNIBS with 3D Slicer for simulation of TMS.
 * A small test model (~22K tetrahedra) can be simulated in real-time in SlicerTMS with a SimNIBS back end.
 * A "clinical grade" simulation (~4M tetrahedra) can be simulated in about 3 seconds a frame.
