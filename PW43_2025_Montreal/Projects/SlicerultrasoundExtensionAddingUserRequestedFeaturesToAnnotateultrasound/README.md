@@ -156,8 +156,13 @@ Label annotation and populating rater tbale:
 <img width="395" alt="labels in rater table" src="https://github.com/user-attachments/assets/496c3132-91d1-4512-849d-b49a0fdf05c3" />
 
 
-Adjudication support:
+Adjudication video:
 
+<video
+  controls muted
+  src="https://github.com/user-attachments/assets/fb2da3a9-3cbe-4237-a40c-6e4d963b44bb"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
 
 https://github.com/user-attachments/assets/d3cb237e-92d7-4a67-87ff-18c41fe003cd
@@ -165,10 +170,6 @@ https://github.com/user-attachments/assets/d3cb237e-92d7-4a67-87ff-18c41fe003cd
 
 
 <img width="352" alt="adjudicator-tools" src="https://github.com/user-attachments/assets/c3d61cf3-a1bf-47ce-bbc7-f27af37c712f" />
-
-<img width="1480" alt="validating-annotation-lines" src="https://github.com/user-attachments/assets/d8e455e8-6d5b-4867-8dc3-a5d5235c5d16" />
-
-
 
 
 Current keyboard shortcuts:
