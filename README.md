@@ -1,7 +1,7 @@
 ## Welcome to the main page for the Project Week events!
 
 
-### The [43rd project week](PW43_2025_Montreal/README.md) will take place on Jun 23-27, 2025 in Montreal, Quebec, Canada.
+### The 44th Project Week will take place on Jan 26-30, 2026, in person in Las Palmas de Gran Canaria, Spain.
 
 ## Frequently Asked Questions
 
