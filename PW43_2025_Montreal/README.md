@@ -19,7 +19,8 @@ project_categories:
 # Welcome to the web page for the 43rd Project Week!
 <img src="images/pw39-event-photos.jpg" height="200">
 
-[This event](https://projectweek.na-mic.org/PW43_2025_Montreal/README.html)  took place June 23rd - June 27th, 2025 in Montreal, Canada, in person. 
+Summary: 
+[This event](https://projectweek.na-mic.org/PW43_2025_Montreal/README.html)  took place June 23rd - June 27th, 2025 in Montreal, Canada. 56 participants worked on 41 projects.  
 
 ## Location
 
