@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+Back to <a href="../../#projects">Projects List</a>
+
+<h1>{{ page.project_title }}</h1>
+
+<h2>Key Investigators</h2>
+
+<ul>
+{% if page.key_investigators %}
+  {% for investigator in page.key_investigators %}
+  <li>{{ investigator.name }} ({{ investigator.affiliation }}{% if investigator.country %}, {{ investigator.country }}{% endif %})</li>
+  {% endfor %}
+{% endif %}
+</ul>
+
+{{ content }}
+
+</div>

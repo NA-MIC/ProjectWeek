@@ -18,30 +18,17 @@ project_categories:
 
 # Welcome to the web page for the 43rd Project Week!
 
-[This event](https://projectweek.na-mic.org/PW44_2026_GranCanaria/README.html) will take place January 26th - 30th, 2026 in Las Palmas de Gran Canaria, Spain, in person. More details will be posted on this page as the event approaches. If you have any questions, you can contact the [organizers](#organizers).
+[This event](https://projectweek.na-mic.org/PW44_2026_GranCanaria/README.html) will take place June 23rd - June 27th, 2025 in Montreal, Canada, in person. More details will be posted on this page as the event approaches. If you have any questions, you can contact the [organizers](#organizers).
 
 ## Location
 
-<img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW42_2025_GranCanaria/PW40_WorkArea.jpg?raw=true" width="1000">
-
-| <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW42_2025_GranCanaria/PW40_Group.jpg?raw=true" width="492">  | <img src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW40_2024_GranCanaria/NHIMperialPlaya.jpg" width="492">  |
-
-- **Recommended hotels (special rates) and maps**
-  - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
-    - Booking: Discounted room block not available any more
-
-- **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
-  - Taxi (line at the airport)
-  - [Bus line 60](https://guaguasglobal.com/lineas-horarios/linea/?id=60)
-  - [Map: Airport - San Telmo bus station](https://www.google.com/maps/dir/Gran+Canaria+Airport,+GC-1,+s%2Fn,+35230+Las+Palmas+de+Gran+Canaria,+Las+Palmas/Estacion+De+Guaguas+SAN+TELMO,+35002+Las+Palmas+de+Gran+Canaria,+Las+Palmas/@28.0191886,-15.4859935,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xc40a266c3662d1d:0x824bcf7e159f85d4!2m2!1d-15.3874042!2d27.9289223!1m5!1m1!1s0xc40958500f0b3f5:0x3693fb0e3c418af2!2m2!1d-15.4158957!2d28.109201!3e3?entry=ttu)
-- The city has good bus/taxi service and is also walkable.
+École de Technologie Supérieure (ETS), Montreal, Canada
 
 ## Preparation meetings
 
 TBA
 
 ## Registration
-
 TBA
 
 ## Discord
@@ -78,13 +65,6 @@ List of registered participants so far (names will be added here after processin
 <!-- <img alt="Participation statistics" src="statistics.svg" width="768"/> -->
 
 ## Organizers
-
-### Local organizing committee
-* Juan Ruiz-Alzola, PhD, Professor of Imaging Technologies, director of the Grupo de Tecnología Médica y Audiovisual (GTMA), [Instituto Universitario de Investigaciones Biomédicas y Sanitarias (IUIBS)](https://www.iuibs.ulpgc.es/), [Universidad de Las Palmas de Gran Canaria (ULPGC)](https://www.ulpgc.es/)
-* Csaba Pintér, PhD, [EBATINCA](https://ebatinca.com)
-* [The EBATINCA team](https://ebatinca.com/en/empresa/team). For inquiries please send email to <namic@ebatinca.com>
-
-### Global Project Week organizing committee
 
 * [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)),
 * [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//))
