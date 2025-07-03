@@ -16,7 +16,7 @@ project_categories:
 - Other
 ---
 
-# Welcome to the web page for the 43rd Project Week!
+# Welcome to the web page for the 44th Project Week!
 
 [This event](https://projectweek.na-mic.org/PW44_2026_GranCanaria/README.html) will take place January 26th - 30th, 2026 in Las Palmas de Gran Canaria, Spain, in person. More details will be posted on this page as the event approaches. If you have any questions, you can contact the [organizers](#organizers).
 
