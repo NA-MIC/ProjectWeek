@@ -39,6 +39,8 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
  [Project Week 44](PW44_2026_GranCanaria/README.md) will take place on Jan 26-30, 2026, in person in Las Palmas de Gran Canaria, Spain.
 
+ Project Week 45 will take place on June 22-26, 2026, in person at MIT, Boston, USA. 
+
 ## Past Project Weeks
 
 | Events | Registrants |
