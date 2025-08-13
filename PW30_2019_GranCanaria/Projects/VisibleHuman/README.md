@@ -19,7 +19,7 @@ will allow us to redistribute the original data.
 See:
 * [Visible Human Project home page](https://www.nlm.nih.gov/research/visible/visible_human.html)
 * [VHP description from Wikipedia](https://en.wikipedia.org/wiki/Visible_Human_Project)
-* [VoxelMan gallery](https://www.voxel-man.com/gallery/visible-human/)
+* [VoxelMan gallery](https://www.virtual-body.org/gallery/visible-human/)
 
 ## Objective
 
