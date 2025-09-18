@@ -48,7 +48,9 @@ The **Discord** application is used to communicate between team members and orga
 
 ## Breakout sessions
 
-[3D Slicer Breakout Slides](https://docs.google.com/presentation/d/1q_dP4Ck28sK-rlAP9kEdnO5EzTCplyrJH_EIPfb1onU/edit?usp=sharing)
+- [3D Slicer Breakout Slides](https://docs.google.com/presentation/d/1q_dP4Ck28sK-rlAP9kEdnO5EzTCplyrJH_EIPfb1onU/edit?usp=sharing)
+- Web and AI Breakout Slides: [Slicer trame Slides](https://docs.google.com/presentation/d/1gTIz15EWea-isQs1ucngV1z8jJMTo_YYOp6midE6ipo/edit?usp=sharing)
+
 
 ## Projects
 
