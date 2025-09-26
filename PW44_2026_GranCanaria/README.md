@@ -94,4 +94,4 @@ List of registered participants so far (names will be added here after processin
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
-Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](http://perk.cs.queensu.ca/sites/perkd7.cs.queensu.ca/files/Kapur2016.pdf).
+Community-Based Open-Access Hackathons: the NA-MIC and 3D Slicer Experience](https://labs.cs.queensu.ca/perklab/wp-content/uploads/sites/3/2024/02/Kapur2016.pdf).
