@@ -65,6 +65,6 @@ Use this system for multiple HL2 interaction:
 ![Interaction2HL2_Leo_GIF](https://user-images.githubusercontent.com/66890913/216621686-27d7ec42-8ad3-400c-b90c-da59a2a92358.gif)
 
 ## Acknowledgements
-Research supported by projects PI122/00601 and AC20/00102  (Ministerio de Ciencia, Innovación y Universidades, Instituto de Salud Carlos III, Asociación Española Contra el Cáncer and European Regional Development Fund / EU “Una manera de hacer Europa”), project PerPlanRT (under the frame of ERA PerMed), TED2021-129392B-I00 (MCIU/AEI/10.13039/501100011033 and European Union “NextGenerationEU”/PRTR).
-<img width="4400" height="49" alt="image" src="https://github.com/user-attachments/assets/c4d375b1-db08-41b0-a5f2-e265484e07da" />
+Research supported by projects PI122/00601 and AC20/00102  (Ministerio de Ciencia, Innovación y Universidades, Instituto de Salud Carlos III, Asociación Española Contra el Cáncer and European Regional Development Fund / EU “Una manera de hacer Europa”), project PerPlanRT (under the frame of ERA PerMed), TED2021-129392B-I00, TED2021-132200B-I00 and PID2023-149604OB-I00 (MCIU/AEI/10.13039/501100011033 and European Union “NextGenerationEU”/PRTR) and Comunidad de Madrid (MAGERIT-CM TEC-2024/COM-44 and Multiannual Agreement with UC3M SAFEDELIVERY-CM-UC3M).
+
 
