@@ -38,7 +38,7 @@ project_categories:
 
 ## Preparation meetings
 
-TBA
+Preparations meetings will be at 10 AM EDT and start Tuesday, November 18 2025.  [Zoom Link](https://etsmtl.zoom.us/j/98196156238?pwd=q6SKGglkISvueUC2Xy2z38oBz6QKtn.1)
 
 ## Registration
 
