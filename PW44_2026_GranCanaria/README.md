@@ -42,7 +42,13 @@ Preparations meetings will be at 10 AM EDT and start Tuesday, November 18 2025. 
 
 ## Registration
 
-TBA
+- All participants have to register using the **form, TBA**
+- Remote participation will not be possible at this project week
+- Registration costs 480€ (increases to 525€ after December 21), and includes coffee breaks, snacks, and lunch at the hotel for the entire week
+
+**Important: The deadline for registration and payment of the fee is Jan 16th**. If you have problems with the payment or registration, contact [namic@ebatinca.com](mailto:namic@ebatinca.com).
+
+<!-- **Note:** EU regulations require 2FA for all payments. European banking standards and most credit cards support this by default. If your payment doesn't process due to 2FA issues, please reach out for a custom payment link at [namic@ebatinca.com](mailto:namic@ebatinca.com). -->
 
 ## Discord
 The **Discord** application is used to communicate between team members and organize activities before and during Project Week. Please join the Project Week [Discord server](https://discord.gg/AkxzKvqMBp) as soon as possible and explore its functionality before the workshop. For more information on the use of Discord before and during Project Week, please visit [this page](../common/Discord.md).
