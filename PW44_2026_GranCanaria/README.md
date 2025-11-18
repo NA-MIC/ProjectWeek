@@ -42,7 +42,7 @@ Preparations meetings will be at 10 AM EDT and start Tuesday, November 18 2025. 
 
 ## Registration
 
-- All participants have to register using the **form, TBA**
+- All participants have to register using the **[form](https://docs.google.com/forms/d/e/1FAIpQLSf4yuY5J9Wc45U1XD2g8_F3DdKxwrco4vL8C1ded7e_d7wReA/viewform?usp=header)**
 - Remote participation will not be possible at this project week
 - Registration costs 480€ (increases to 525€ after December 21), and includes coffee breaks, snacks, and lunch at the hotel for the entire week
 
