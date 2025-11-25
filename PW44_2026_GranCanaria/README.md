@@ -28,7 +28,7 @@ project_categories:
 
 - **Recommended hotels (special rates) and maps**
   - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
-    - Booking: Discounted room block not available any more
+    - Booking: Booking link TBA
 
 - **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
   - Taxi (line at the airport)
