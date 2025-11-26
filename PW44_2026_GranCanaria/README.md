@@ -28,7 +28,7 @@ project_categories:
 
 - **Recommended hotels (special rates) and maps**
   - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
-    - Booking: Booking link TBA
+    - Booking: [Discounted hotel rooms booking link](https://www.nh-hotels.com/es/event/jornadas-namic)
 
 - **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
   - Taxi (line at the airport)
