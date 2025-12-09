@@ -75,7 +75,16 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
-
+1. Steve Pieper, Isomics, Inc., USA
+1. Ron Kikinis, Brigham and Women's Hospital, Harvard Medical School, USA
+1. Zora Kikinis, Brigham and Women's Hospital, Harvard Medical School, USA
+1. Elise Donszelmann-Lund, McGill University, Canada
+1. Martin Bellehumeur, Bellehumeur Engineering, Germany
+1. Simon Drouin, École de Technologie Supérieure, Canada
+1. Attila Nagy, University of Szeged, Hungary
+1. Juan Ruiz-Alzola, University of Las Palmas de Gran Canaria, Spain
+1. Lina Bucher, Karlsruher Institut für Technologie (KIT), Germany
+1. Thibault Pelletier, Kitware Europe, France
 
 <!-- Participants list end -->
 
