@@ -46,8 +46,6 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
 # Cast
 ## A Standard for Real-Time Front-End Integration of Healthcare Application 
 
@@ -70,30 +68,28 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 
 ## Introduction
 
-Cast is a standard protocol for enabling real-time event synchronization and communication across multiple healthcare applications. Built upon the foundational architecture of FHIRcast, Cast extends beyond FHIR-specific data and context management to support a wide range of healthcare data formats, user interactions, and event types.
+Cast is a standard protocol for enabling real-time event synchronization and communication across multiple healthcare applications. Built upon the foundational architecture of FHIRCast, Cast extends beyond FHIR-specific data and context management to support a wide range of healthcare data formats, user interactions, and event types.
 
 It serves as an umbrella standard that encompasses specialized variants such as FHIRCast (for FHIR context management), DICOMCast (for DICOM data exchange), NAVICast (for surgical navigation), and other domain-specific implementations. All variants share the same core infrastructure while defining specialized event types for their domains (see [Cast Ecosystem](#cast-ecosystem) below).
 
-The primary goal of Cast is to enable seamless, real-time coordination between disparate healthcare applications through a flexible event-driven architecture that supports diverse use cases beyond traditional CCOW based context synchronization.
+The primary goal of Cast is to enable real-time coordination between disparate healthcare applications through a flexible event-driven architecture that supports diverse use cases beyond traditional CCOW based context synchronization.
 
 ### Background
 
-Healthcare environments typically involve multiple specialized applications working together to support clinical workflows. These applications need to communicate and coordinate in real-time, sharing events such as user interactions, data exchanges, state changes, and workflow transitions.
+Healthcare environments sometimes involve multiple specialized applications working together to support clinical workflows. These applications need to communicate and coordinate in real-time, sharing events such as user interactions, data exchanges, state changes, and workflow transitions.  A typical scenario is radiology reporting where a worklist, viewer, reporting, EMR integrate to produice the report. 
 
 FHIRcast provides a solid foundation for FHIR-based context management, focusing specifically on synchronizing FHIR resource context across applications. However, the healthcare ecosystem includes many non-FHIR data formats, such as DICOM, proprietary systems, legacy applications, and use cases that extend beyond context management. Cast addresses this by providing a flexible, extensible framework that supports:
 
 - **User Interaction Events**: Mouse clicks, keyboard input, navigation, UI state changes
-- **Data Exchange Events**: DICOM data synchronization (potentially called DICOMCast), HL7 messages, proprietary formats
+- **Data Exchange Events**: FHIR, DICOM data synchronization (potentially called DICOMCast), HL7 V2 messages, proprietary formats
 - **Workflow Events**: Task assignments, status updates, notifications
 - **Any Custom Event Types**: Domain-specific events defined by applications
 
-Unlike FHIRcast, Cast is not limited to context management or FHIR data. It provides a general-purpose event distribution mechanism that can be used for any type of real-time communication between healthcare applications.
+Cast's supports **bi-directional WebSocket communication**. This enables low-latency, "gaming style" interactions where applications can exchange events in real-time with minimal delay, supporting use cases such as collaborative viewing, synchronized navigation, and interactive workflows that require immediate feedback and coordination.
 
-A key technical differentiator is Cast's support for **bi-directional WebSocket communication**, which FHIRcast does not provide. This enables low-latency, "gaming style" interactions where applications can exchange events in real-time with minimal delay, supporting use cases such as collaborative viewing, synchronized navigation, and interactive workflows that require immediate feedback and coordination.
+Cast also supports **collaborative multi-user workflows** through the hub's ability to group users together within sessions. The hub can coordinate multiple users, allowing them to share events and synchronize their applications in real-time. This enables scenarios such as tumor board meetings, where multiple radiologists and clinicians can simultaneously view and interact with the same DICOM study, with measurements, annotations, and navigation synchronized across all participants'own  viewers.
 
-Cast also supports **collaborative multi-user workflows** through the hub's ability to group users together within sessions. The hub can coordinate multiple users, allowing them to share events and synchronize their applications in real-time. This enables scenarios such as tumor review board meetings, where multiple radiologists and clinicians can simultaneously view and interact with the same DICOM study, with measurements, annotations, and navigation synchronized across all participants' viewers.
-
-The hub-based architecture provides **flexible integration** because applications do not need to connect directly to each other—they only need to reach the hub. This enables applications running on different platforms and locations to seamlessly participate in the same workflow. For example, a 3D Slicer application running on trqane in the cloud can communicate with a mobile device application, a web-based viewer, or local camera control , all through the hub without requiring direct network connections between them.
+The hub-based architecture provides **flexible integration** because applications do not need to connect directly to each other—they only need to reach the hub. This enables applications running on different platforms and locations to seamlessly participate in the same workflow. For example, a 3D Slicer application running on trane in the cloud can communicate with a mobile device application, a web-based viewer, or local camera control , all through the hub without requiring direct network connections between them.
 
 ### Cast Ecosystem
 
@@ -434,10 +430,10 @@ Cast defines a set of standard event types, but also supports custom event types
 ```
 
 #### Patient Events
-
+The exiuting FHIRcast events are:
 - **`patient-open`**: A patient record has been opened
 - **`patient-close`**: A patient record has been closed
-- **`patient-select`**: A patient has been selected from a list
+
 
 **Payload Example:**
 ```json
@@ -452,71 +448,6 @@ Cast defines a set of standard event types, but also supports custom event types
       "value": "MRN-12345"
     }
   ]
-}
-```
-
-#### DICOM Events (DICOMCast)
-
-Cast can be used for DICOM data exchange and synchronization, potentially called DICOMCast. These events support real-time DICOM data sharing:
-
-- **`dicom-study-received`**: A new DICOM study has been received
-- **`dicom-study-view`**: An imaging study is being viewed
-- **`dicom-study-select`**: An imaging study has been selected
-- **`dicom-series-view`**: A DICOM series is being viewed
-- **`dicom-instance-view`**: A DICOM instance is being viewed
-- **`dicom-data-update`**: DICOM metadata has been updated
-
-**Payload Example:**
-```json
-{
-  "format": "dicom",
-  "studyId": "study-456",
-  "studyInstanceUID": "1.2.840.113619.2.55.3.1234567890",
-  "modality": "CT",
-  "bodyPart": "CHEST",
-  "studyDate": "2024-01-15",
-  "patientId": "pat-001",
-  "dicomAttributes": {
-    "PatientName": "DOE^JOHN",
-    "PatientID": "12345",
-    "Modality": "CT",
-    "StudyDescription": "CHEST CT"
-  }
-}
-```
-
-#### Document Events
-
-- **`document-open`**: A clinical document has been opened
-- **`document-select`**: A document has been selected
-- **`document-close`**: A document has been closed
-
-**Payload Example:**
-```json
-{
-  "documentId": "doc-789",
-  "documentType": "progress-note",
-  "title": "Progress Note - 2024-01-15",
-  "author": "Dr. Smith",
-  "date": "2024-01-15T10:00:00Z",
-  "patientId": "pat-001"
-}
-```
-
-#### Order Events
-
-- **`order-select`**: An order has been selected
-- **`order-view`**: An order is being viewed
-- **`order-update`**: An order has been updated
-
-**Payload Example:**
-```json
-{
-  "orderId": "order-321",
-  "orderType": "laboratory",
-  "status": "active",
-  "orderedDate": "2024-01-15T09:00:00Z",
-  "patientId": "pat-001"
 }
 ```
 
@@ -537,94 +468,6 @@ workflow:task-completed
 dicom:image-annotation-added
 ```
 
-Note: While FHIRcast focuses on FHIR context events, Cast supports any event type, making it suitable for user interactions, DICOM data exchange (DICOMCast), workflow events, and any custom domain-specific events.
-
----
-
-## Data Formats
-
-Cast is designed to support multiple data formats, not limited to FHIR.
-
-### Supported Formats
-
-#### FHIR Resources
-
-When working with FHIR data, Cast uses standard FHIR resource formats:
-
-```json
-{
-  "resourceType": "Patient",
-  "id": "pat-001",
-  "name": [{
-    "family": "Doe",
-    "given": ["John"]
-  }],
-  "birthDate": "1980-01-15"
-}
-```
-
-#### Proprietary Formats
-
-Cast supports proprietary data formats through a flexible payload structure:
-
-```json
-{
-  "format": "proprietary",
-  "system": "legacy-ehr",
-  "data": {
-    "patient_number": "12345",
-    "last_name": "Doe",
-    "first_name": "John"
-  }
-}
-```
-
-#### Legacy Formats
-
-For legacy systems, Cast can wrap data in a standardized envelope:
-
-```json
-{
-  "format": "legacy",
-  "system": "mainframe-system",
-  "data": "BASE64_ENCODED_LEGACY_DATA",
-  "metadata": {
-    "encoding": "EBCDIC",
-    "recordType": "patient"
-  }
-}
-```
-
-#### DICOM
-
-For imaging data, Cast supports DICOM attributes:
-
-```json
-{
-  "format": "dicom",
-  "studyInstanceUID": "1.2.840.113619.2.55.3.1234567890",
-  "seriesInstanceUID": "1.2.840.113619.2.55.3.1234567890.1",
-  "sopInstanceUID": "1.2.840.113619.2.55.3.1234567890.1.1",
-  "attributes": {
-    "PatientName": "DOE^JOHN",
-    "PatientID": "12345",
-    "Modality": "CT"
-  }
-}
-```
-
-### Format Negotiation
-
-Applications can negotiate data formats during subscription:
-
-```json
-{
-  "eventTypes": ["patient-open"],
-  "preferredFormats": ["fhir", "proprietary"],
-  "callbackUrl": "https://app.example.com/cast/callback"
-}
-```
-
 The Cast Hub will attempt to provide data in the preferred format, falling back to available formats if necessary.
 
 ---
@@ -637,7 +480,7 @@ Security is paramount in healthcare applications. Cast implements multiple secur
 
 Cast uses **OAuth 2.0** for authentication:
 
-1. Applications authenticate with the Cast Hub using OAuth 2.0
+1. Applications authenticate with the enterprise authentication server
 2. Access tokens are required for all API calls
 3. Tokens are validated on each request
 4. Token refresh mechanisms are supported
@@ -648,7 +491,6 @@ Authorization is enforced at multiple levels:
 
 - **Subscription Authorization**: Only authorized applications can subscribe to events
 - **Event Authorization**: Applications can only publish events they are authorized to publish
-- **Data Authorization**: Access to specific patient data is controlled by authorization policies
 
 ### Transport Security
 
@@ -676,298 +518,6 @@ Cast implementations should comply with:
 
 ---
 
-## Implementation Guidelines
-
-### Hub Implementation
-
-When implementing a Cast Hub:
-
-1. **Scalability**: Design for horizontal scaling to handle multiple concurrent sessions
-2. **Reliability**: Implement redundancy and failover mechanisms
-3. **Performance**: Optimize for low-latency event delivery
-4. **Monitoring**: Implement comprehensive logging and monitoring
-5. **Error Handling**: Provide clear error messages and recovery mechanisms
-
-### Event Publisher Implementation
-
-When implementing an Event Publisher:
-
-1. **Event Timing**: Publish events immediately when they occur
-2. **Event Completeness**: Include all relevant data in event payloads
-3. **Error Recovery**: Handle hub unavailability gracefully
-4. **Session Management**: Properly manage session lifecycle
-5. **Event Type Design**: Design event types that clearly represent the occurrence
-
-### Event Subscriber Implementation
-
-When implementing an Event Subscriber:
-
-1. **Subscription Management**: Subscribe to events during application initialization
-2. **Event Processing**: Process events asynchronously to avoid blocking the UI
-3. **Data Validation**: Validate received event data before processing
-4. **Fallback Behavior**: Handle missing or invalid event data gracefully
-5. **Reconnection Logic**: Implement automatic reconnection if connection is lost
-6. **Idempotency**: Design event handlers to be idempotent when possible
-
-### Best Practices
-
-- **Idempotency**: Design event handlers to be idempotent
-- **Versioning**: Use versioned APIs to support evolution
-- **Testing**: Implement comprehensive testing, including integration tests
-- **Documentation**: Document custom event types and data formats
-- **Error Handling**: Implement robust error handling and user feedback
-
----
-
-## Examples
-
-### Example 1: Patient Event Synchronization
-
-**Scenario**: An EHR system opens a patient record, and a clinical decision support tool needs to update its display.
-
-**Step 1: Subscriber Subscribes**
-```http
-POST /cast/v1/subscribe HTTP/1.1
-Host: cast.example.com
-Authorization: Bearer {token}
-Content-Type: application/json
-
-{
-  "eventTypes": ["patient-open"],
-  "callbackUrl": "https://cds.example.com/cast/callback",
-  "sessionId": "session-12345"
-}
-```
-
-**Step 2: Source Publishes Event**
-```http
-POST /cast/v1/event HTTP/1.1
-Host: cast.example.com
-Authorization: Bearer {token}
-Content-Type: application/json
-
-{
-  "eventType": "patient-open",
-  "timestamp": "2024-01-15T10:30:00Z",
-  "source": "ehr-system",
-  "sessionId": "session-12345",
-  "payload": {
-    "patientId": "pat-001",
-    "patientName": "John Doe",
-    "dateOfBirth": "1980-01-15",
-    "mrn": "MRN-12345"
-  }
-}
-```
-
-**Step 3: Hub Notifies Subscriber**
-```http
-POST /cast/callback HTTP/1.1
-Host: cds.example.com
-Content-Type: application/json
-
-{
-  "eventType": "patient-open",
-  "timestamp": "2024-01-15T10:30:00Z",
-  "source": "ehr-system",
-  "sessionId": "session-12345",
-  "payload": {
-    "patientId": "pat-001",
-    "patientName": "John Doe",
-    "dateOfBirth": "1980-01-15",
-    "mrn": "MRN-12345"
-  }
-}
-```
-
-### Example 2: DICOM Data Exchange (DICOMCast)
-
-**Scenario**: A radiologist selects a CT study in a PACS viewer, and a reporting system needs to load the corresponding report. This demonstrates DICOM data exchange using Cast.
-
-**Event Publication:**
-```json
-{
-  "eventType": "study-select",
-  "timestamp": "2024-01-15T11:00:00Z",
-  "source": "pacs-viewer",
-  "sessionId": "session-12345",
-  "payload": {
-    "format": "dicom",
-    "studyId": "study-456",
-    "studyInstanceUID": "1.2.840.113619.2.55.3.1234567890",
-    "modality": "CT",
-    "bodyPart": "CHEST",
-    "studyDate": "2024-01-15",
-    "patientId": "pat-001"
-  }
-}
-```
-
-### Example 3: Bi-Directional WebSocket Implementation
-
-**Connection with Low-Latency Bi-Directional Communication:**
-```javascript
-const ws = new WebSocket('wss://cast.example.com/cast/v1/ws');
-
-ws.onopen = () => {
-  // Subscribe to events
-  ws.send(JSON.stringify({
-    action: 'subscribe',
-    eventTypes: ['patient-open', 'study-view', 'user-click'],
-    sessionId: 'session-12345'
-  }));
-};
-
-// Receive events from other applications (low-latency)
-ws.onmessage = (event) => {
-  const message = JSON.parse(event.data);
-  if (message.eventType === 'patient-open') {
-    updatePatientDisplay(message.payload);
-  } else if (message.eventType === 'user-click') {
-    handleUserInteraction(message.payload);
-  }
-};
-
-// Publish events to other applications (bi-directional)
-function publishEvent(eventType, payload) {
-  ws.send(JSON.stringify({
-    action: 'publish',
-    eventType: eventType,
-    timestamp: new Date().toISOString(),
-    source: 'my-application',
-    sessionId: 'session-12345',
-    payload: payload
-  }));
-}
-
-// Example: Publish user interaction in real-time
-document.getElementById('button').addEventListener('click', () => {
-  publishEvent('user-click', {
-    elementId: 'button',
-    coordinates: { x: 150, y: 200 }
-  });
-});
-```
-
-This example demonstrates Cast's bi-directional WebSocket capability, enabling low-latency "gaming style" interactions where applications can both publish and receive events simultaneously over the same connection, unlike FHIRcast which does not support this capability.
-
-### Example 4: User Interaction Event
-
-**Scenario**: A user clicks a button in one application, and other applications need to respond to this interaction.
-
-**Event:**
-```json
-{
-  "eventType": "user-click",
-  "timestamp": "2024-01-15T12:00:00Z",
-  "source": "ehr-system",
-  "sessionId": "session-12345",
-  "payload": {
-    "elementId": "print-report-button",
-    "elementType": "button",
-    "coordinates": {"x": 150, "y": 200},
-    "user": "dr-smith"
-  }
-}
-```
-
-### Example 5: Custom Event Type
-
-**Scenario**: A pharmacy system wants to notify other systems when a medication review is completed.
-
-**Event:**
-```json
-{
-  "eventType": "pharmacy:medication-review-complete",
-  "timestamp": "2024-01-15T12:00:00Z",
-  "source": "pharmacy-system",
-  "sessionId": "session-12345",
-  "payload": {
-    "patientId": "pat-001",
-    "reviewId": "review-789",
-    "reviewer": "Dr. Pharmacist",
-    "reviewDate": "2024-01-15T12:00:00Z",
-    "findings": {
-      "drugInteractions": 2,
-      "dosingIssues": 0,
-      "allergyWarnings": 1
-    }
-  }
-}
-```
-
-### Example 6: Collaborative Multi-User Workflow - Tumor Review Board Meeting
-
-**Scenario**: Multiple radiologists and clinicians participate in a tumor review board meeting. The Cast Hub groups all participants into the same session, enabling synchronized viewing of DICOM studies and measurements across all participants' viewers.
-
-**Setup**: All participants join session `tumor-review-2024-01-15`:
-
-**Participant 1 (Dr. Smith) navigates to a DICOM study:**
-```json
-{
-  "eventType": "dicom-study-select",
-  "timestamp": "2024-01-15T14:00:00Z",
-  "source": "pacs-viewer-dr-smith",
-  "sessionId": "tumor-review-2024-01-15",
-  "userId": "dr-smith",
-  "payload": {
-    "format": "dicom",
-    "studyInstanceUID": "1.2.840.113619.2.55.3.1234567890",
-    "modality": "CT",
-    "bodyPart": "CHEST"
-  }
-}
-```
-
-**The Cast Hub broadcasts this event to all participants in the session, synchronizing all viewers to the same study.**
-
-**Participant 2 (Dr. Jones) makes a measurement:**
-```json
-{
-  "eventType": "dicom:measurement-added",
-  "timestamp": "2024-01-15T14:05:00Z",
-  "source": "pacs-viewer-dr-jones",
-  "sessionId": "tumor-review-2024-01-15",
-  "userId": "dr-jones",
-  "payload": {
-    "studyInstanceUID": "1.2.840.113619.2.55.3.1234567890",
-    "seriesInstanceUID": "1.2.840.113619.2.55.3.1234567890.1",
-    "measurement": {
-      "type": "tumor-size",
-      "value": "2.5 cm",
-      "coordinates": {"x": 150, "y": 200},
-      "annotation": "Primary tumor"
-    }
-  }
-}
-```
-
-**The Cast Hub broadcasts this measurement event to all participants, so all viewers display the same measurement simultaneously.**
-
-**Participant 3 (Dr. Williams) navigates to a specific slice:**
-```json
-{
-  "eventType": "dicom:slice-navigate",
-  "timestamp": "2024-01-15T14:07:00Z",
-  "source": "pacs-viewer-dr-williams",
-  "sessionId": "tumor-review-2024-01-15",
-  "userId": "dr-williams",
-  "payload": {
-    "studyInstanceUID": "1.2.840.113619.2.55.3.1234567890",
-    "seriesInstanceUID": "1.2.840.113619.2.55.3.1234567890.1",
-    "instanceNumber": 45,
-    "windowCenter": 40,
-    "windowWidth": 400
-  }
-}
-```
-
-**All participants' viewers automatically navigate to the same slice with the same window/level settings.**
-
-This example demonstrates how Cast's hub-based architecture enables collaborative multi-user workflows, where the hub groups users together in a session and coordinates event distribution, ensuring all participants' applications remain synchronized in real-time.
-
----
-
 ## References
 
 ### Related Standards
@@ -978,11 +528,6 @@ This example demonstrates how Cast's hub-based architecture enables collaborativ
 - **WebSocket**: [RFC 6455](https://tools.ietf.org/html/rfc6455) - The WebSocket Protocol
 - **DICOM**: [https://www.dicomstandard.org/](https://www.dicomstandard.org/) - Digital Imaging and Communications in Medicine
 
-### Additional Resources
-
-- Cast Implementation Guide (to be published)
-- Cast Conformance Profiles (to be published)
-- Cast Test Suite (to be published)
 
 
 
