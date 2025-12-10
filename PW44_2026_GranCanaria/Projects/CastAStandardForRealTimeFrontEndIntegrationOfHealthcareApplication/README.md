@@ -37,7 +37,8 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Real-time integration of OHIF and Slicer 
+1. Real-time integration of OHIF and Slicer
+2. Slicer sending study description to Rad AI reporting?
 
 
 
@@ -76,18 +77,18 @@ The primary goal of Cast is to enable real-time coordination between disparate h
 
 ### Background
 
-Healthcare environments sometimes involve multiple specialized applications working together to support clinical workflows. These applications need to communicate and coordinate in real-time, sharing events such as user interactions, data exchanges, state changes, and workflow transitions.  A typical scenario is radiology reporting where a worklist, viewer, reporting, EMR integrate to produice the report. 
+Healthcare environments sometimes involve multiple specialized applications working together to support clinical workflows. These applications need to communicate and coordinate in real-time, sharing events such as user interactions, data exchanges, state changes, and workflow transitions.  A typical scenario is radiology reporting where a worklist, viewer, reporting and EMR integrate to produce the diagnostic report. This workflow is defined in the IHE Integrated Reporting Applications profile.
 
 FHIRcast provides a solid foundation for FHIR-based context management, focusing specifically on synchronizing FHIR resource context across applications. However, the healthcare ecosystem includes many non-FHIR data formats, such as DICOM, proprietary systems, legacy applications, and use cases that extend beyond context management. Cast addresses this by providing a flexible, extensible framework that supports:
 
-- **User Interaction Events**: Mouse clicks, keyboard input, navigation, UI state changes
+- **User Interaction Events**: Mouse clicks, keyboard input, controller input,  navigation, UI state changes
 - **Data Exchange Events**: FHIR, DICOM data synchronization (potentially called DICOMCast), HL7 V2 messages, proprietary formats
 - **Workflow Events**: Task assignments, status updates, notifications
 - **Any Custom Event Types**: Domain-specific events defined by applications
 
-Cast's supports **bi-directional WebSocket communication**. This enables low-latency, "gaming style" interactions where applications can exchange events in real-time with minimal delay, supporting use cases such as collaborative viewing, synchronized navigation, and interactive workflows that require immediate feedback and coordination.
+Cast supports **bi-directional WebSocket communication**. This enables low-latency, "gaming style" interactions where applications can exchange events in real-time with minimal delay, supporting use cases such as collaborative viewing, synchronized navigation, and interventional workflows that require immediate feedback and coordination.
 
-Cast also supports **collaborative multi-user workflows** through the hub's ability to group users together within sessions. The hub can coordinate multiple users, allowing them to share events and synchronize their applications in real-time. This enables scenarios such as tumor board meetings, where multiple radiologists and clinicians can simultaneously view and interact with the same DICOM study, with measurements, annotations, and navigation synchronized across all participants'own  viewers.
+Cast also supports **collaborative multi-user workflows** through the hub's ability to group users together within sessions. The hub can coordinate multiple users, allowing them to share events and synchronize their applications in real-time. This enables scenarios such as tumor board meetings, where multiple radiologists and clinicians can simultaneously view and interact with the same DICOM study, with measurements, annotations, and navigation synchronized across all participants own viewers.
 
 The hub-based architecture provides **flexible integration** because applications do not need to connect directly to each other—they only need to reach the hub. This enables applications running on different platforms and locations to seamlessly participate in the same workflow. For example, a 3D Slicer application running on trane in the cloud can communicate with a mobile device application, a web-based viewer, or local camera control , all through the hub without requiring direct network connections between them.
 
