@@ -85,6 +85,9 @@ List of registered participants so far (names will be added here after processin
 1. Juan Ruiz-Alzola, University of Las Palmas de Gran Canaria, Spain
 1. Lina Bucher, Karlsruher Institut für Technologie (KIT), Germany
 1. Thibault Pelletier, Kitware Europe, France
+1. Csaba Pintér, Ebatinca SL, Spain
+1. Attila Tanács, University of Szeged, Hungary
+1. Hamid Alavi, University of Twente, The Netherlands
 
 <!-- Participants list end -->
 
