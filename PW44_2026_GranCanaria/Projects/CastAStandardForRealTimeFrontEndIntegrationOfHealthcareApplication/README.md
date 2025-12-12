@@ -37,14 +37,22 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Real-time integration of OHIF and Slicer
-2. Slicer sending study description to Rad AI reporting?
+1. Real-time integration of OHIF, Slicer , 6DOF controllers.
+2. Multi-user workflows.
+
 
 
 
 
 ## Approach and Plan
 
+1. Add the cast hub api to the existing Slicer Web server.
+2. Test the OHIF client with the Slicer hub.
+3. Add a cast client to Slicer.
+4. Test the Slicers client with the Slicer and Medplum hub.
+ 
+
+   
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 # Cast
@@ -69,11 +77,11 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 
 ## Introduction
 
-Cast is a standard protocol for enabling real-time event synchronization and communication across multiple healthcare applications. Built upon the foundational architecture of FHIRCast, Cast extends beyond FHIR-specific data and context management to support a wide range of healthcare data formats, user interactions, and event types.
+Cast is a standard protocol for real-time client to client event communication across healthcare applications. Built upon the foundational architecture of FHIRCast, Cast extends beyond FHIR-specific data and context management to support a wide range of healthcare data formats, user interactions, controller inputs and event types.
+DICOMweb,DICOM,FHIR and HL7v2 are client to server protocols.  Client to client protocols differ because they often deal with temporary objects such as user interactions.  Even when FHIR or DICOM data exchange is exchanged, it is usually to refer an existing object or initiate a new object that may or may not be saved to the server.  For example, a DICOM annotation can be communicated but may or may not become part of a structured report.
 
-It serves as an umbrella standard that encompasses specialized variants such as FHIRCast (for FHIR context management), DICOMCast (for DICOM data exchange), NAVICast (for surgical navigation), and other domain-specific implementations. All variants share the same core infrastructure while defining specialized event types for their domains (see [Cast Ecosystem](#cast-ecosystem) below).
+Cast serves as an umbrella standard that encompasses specialized variants such as FHIRCast (for FHIR context management), DICOMCast (for DICOM data exchange), NAVICast (for surgical navigation), and other domain-specific implementations. All variants share the same core infrastructure while defining specialized event types for their domains (see [Cast Ecosystem](#cast-ecosystem) below).
 
-The primary goal of Cast is to enable real-time coordination between disparate healthcare applications through a flexible event-driven architecture that supports diverse use cases beyond traditional CCOW based context synchronization.
 
 ### Background
 
@@ -81,7 +89,7 @@ Healthcare environments sometimes involve multiple specialized applications work
 
 FHIRcast provides a solid foundation for FHIR-based context management, focusing specifically on synchronizing FHIR resource context across applications. However, the healthcare ecosystem includes many non-FHIR data formats, such as DICOM, proprietary systems, legacy applications, and use cases that extend beyond context management. Cast addresses this by providing a flexible, extensible framework that supports:
 
-- **User Interaction Events**: Mouse clicks, keyboard input, controller input,  navigation, UI state changes
+- **User Interaction Events**: Mouse clicks, keyboard input, 6DOF controller input,  navigation, UI state changes
 - **Data Exchange Events**: FHIR, DICOM data synchronization (potentially called DICOMCast), HL7 V2 messages, proprietary formats
 - **Workflow Events**: Task assignments, status updates, notifications
 - **Any Custom Event Types**: Domain-specific events defined by applications
@@ -90,7 +98,7 @@ Cast supports **bi-directional WebSocket communication**. This enables low-laten
 
 Cast also supports **collaborative multi-user workflows** through the hub's ability to group users together within sessions. The hub can coordinate multiple users, allowing them to share events and synchronize their applications in real-time. This enables scenarios such as tumor board meetings, where multiple radiologists and clinicians can simultaneously view and interact with the same DICOM study, with measurements, annotations, and navigation synchronized across all participants own viewers.
 
-The hub-based architecture provides **flexible integration** because applications do not need to connect directly to each other—they only need to reach the hub. This enables applications running on different platforms and locations to seamlessly participate in the same workflow. For example, a 3D Slicer application running on trane in the cloud can communicate with a mobile device application, a web-based viewer, or local camera control , all through the hub without requiring direct network connections between them.
+The hub-based architecture provides **flexible integration** because applications do not need to connect directly to each other—they only need to reach the hub. This enables applications running on different platforms and locations to seamlessly participate in the same workflow. For example, a 3D Slicer application running on trame in the cloud can communicate with a mobile device application, a web-based viewer, or local camera control , all through the hub without requiring direct network connections between them.
 
 ### Cast Ecosystem
 
@@ -136,7 +144,6 @@ Cast enables healthcare applications to:
 
 - **Distribute Events**: Share events of any type across multiple applications in real-time
 - **Support Multiple Data Formats**: Handle FHIR resources, DICOM data, proprietary formats, legacy data structures, and other healthcare standards
-- **Enable Interoperability**: Facilitate seamless communication between diverse healthcare systems
 - **Support User Interactions**: Broadcast user interaction events for coordinated UI behavior
 - **Enable Data Exchange**: Support real-time data synchronization, such as DICOM data exchange (potentially called DICOMCast)
 - **Enable Low-Latency Interactions**: Support bi-directional WebSocket communication for "gaming style" low-latency interactions, enabling immediate feedback and synchronized collaborative workflows
