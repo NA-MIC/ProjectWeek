@@ -37,20 +37,19 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Real-time integration of OHIF, Slicer , 6DOF controllers.
+1. Real-time integration of OHIF, Slicer , 6DOF controllers, navigation controllers.
 2. Multi-user workflows.
-
 
 
 
 
 ## Approach and Plan
 
-1. Add the cast hub api to the existing Slicer Web server.
-2. Test the OHIF client with the Slicer hub.
-3. Add a cast client to Slicer.
-4. Test the Slicers client with the Slicer and Medplum hub.
- 
+1. Add the cast hub api to the Slicer Web Server module.
+2. Add an entry for the cast hub in the Web Server static page for hub admin page
+3. Update the "DICOM Database Browser"  OHIF client with the cast client extension in the Web Server static page.
+4. Add a cast client to Slicer and controller devices.
+
 
    
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
@@ -78,7 +77,7 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 ## Introduction
 
 Cast is a standard protocol for real-time client to client event communication across healthcare applications. Built upon the foundational architecture of FHIRCast, Cast extends beyond FHIR-specific data and context management to support a wide range of healthcare data formats, user interactions, controller inputs and event types.
-DICOMweb,DICOM,FHIR and HL7v2 are client to server protocols.  Client to client protocols differ because they often deal with temporary objects such as user interactions.  Even when FHIR or DICOM data exchange is exchanged, it is usually to refer an existing object or initiate a new object that may or may not be saved to the server.  For example, a DICOM annotation can be communicated but may or may not become part of a structured report.
+DICOMweb,DICOM,FHIR and HL7v2 are client to server protocols.  Client to client protocols differ because they often deal with temporary objects such as user interactions.  Even when FHIR or DICOM data exchange is exchanged, it is usually to refer an existing object or initiate a new object that may or may not be saved to the server.  For example, a DICOM annotation can be communicated but may or may not become part of a DICOM structured report.
 
 Cast serves as an umbrella standard that encompasses specialized variants such as FHIRCast (for FHIR context management), DICOMCast (for DICOM data exchange), NAVICast (for surgical navigation), and other domain-specific implementations. All variants share the same core infrastructure while defining specialized event types for their domains (see [Cast Ecosystem](#cast-ecosystem) below).
 
@@ -143,13 +142,11 @@ All Cast variants share the same core hub-based architecture, protocol, and infr
 Cast enables healthcare applications to:
 
 - **Distribute Events**: Share events of any type across multiple applications in real-time
-- **Support Multiple Data Formats**: Handle FHIR resources, DICOM data, proprietary formats, legacy data structures, and other healthcare standards
+- **Support Multiple Data Formats**: Handle FHIR resources, DICOM data, OpenEHR, proprietary formats, legacy data structures, and other healthcare standards
 - **Support User Interactions**: Broadcast user interaction events for coordinated UI behavior
-- **Enable Data Exchange**: Support real-time data synchronization, such as DICOM data exchange (potentially called DICOMCast)
-- **Enable Low-Latency Interactions**: Support bi-directional WebSocket communication for "gaming style" low-latency interactions, enabling immediate feedback and synchronized collaborative workflows
-- **Support Collaborative Multi-User Workflows**: Enable the hub to group multiple users together in sessions, allowing them to share events and synchronize their applications in real-time for collaborative scenarios such as tumor review board meetings
+- **Enable Low-Latency Interactions**: Support bi-directional WebSocket communication for  low-latency interactions, enabling immediate feedback and synchronized collaborative workflows
+- **Support Collaborative Multi-User Workflows**: Enable the hub to group multiple users together in sessions, allowing them to share events and synchronize their applications in real-time for collaborative scenarios such as tumor review board meetings.
 - **Enable Flexible Integration**: Provide hub-based connectivity where applications only need to connect to the hub (not to each other), enabling applications on different platforms (workstations, mobile devices, web browsers, servers) and locations to seamlessly participate in the same workflow
-- **Enhance Workflow Efficiency**: Enable real-time coordination and reduce manual data entry and synchronization
 
 ### Scope
 
@@ -486,7 +483,7 @@ Security is paramount in healthcare applications. Cast implements multiple secur
 
 ### Authentication
 
-Cast uses **OAuth 2.0** for authentication:
+Cast  authentication:
 
 1. Applications authenticate with the enterprise authentication server
 2. Access tokens are required for all API calls
@@ -532,7 +529,6 @@ Cast implementations should comply with:
 
 - **FHIRcast**: [http://hl7.org/fhir/fhircast.html](http://hl7.org/fhir/fhircast.html) - The foundational standard upon which Cast is based. Note: FHIRcast focuses on FHIR context management, while Cast extends beyond context to support any type of event including user interactions and DICOM data exchange (DICOMCast).
 - **HL7 FHIR**: [http://hl7.org/fhir/](http://hl7.org/fhir/) - Fast Healthcare Interoperability Resources
-- **OAuth 2.0**: [RFC 6749](https://tools.ietf.org/html/rfc6749) - The OAuth 2.0 Authorization Framework
 - **WebSocket**: [RFC 6455](https://tools.ietf.org/html/rfc6455) - The WebSocket Protocol
 - **DICOM**: [https://www.dicomstandard.org/](https://www.dicomstandard.org/) - Digital Imaging and Communications in Medicine
 
