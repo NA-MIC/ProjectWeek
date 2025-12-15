@@ -45,12 +45,13 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 
 ## Approach and Plan
 
-1. Add the cast hub api to the Slicer Web Server module.
-2. Add an entry for the cast hub in the Web Server static page for hub admin page
-3. Update the "DICOM Database Browser"  OHIF client with the cast client extension in the Web Server static page.
-4. Add a cast client to Slicer and controller devices.
-
-
+1. Add the Cast hub api to the Slicer Web Server module.
+     * Collaborate on a AI prompt that generates the hub.
+3. Add an entry for the Cast hub in the Web Server static page for hub admin page.
+4. Update the "DICOM Database Browser"  OHIF client with the Cast client extension in the Web Server static page.
+    * [OHIF Cast extension](https://github.com/mbellehumeur/fhircast) 
+6. Add a Cast client to Slicer and controller devices.
+7. Have a multi-user (party line) session with OHIF and Slicer.
    
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
@@ -77,7 +78,7 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 ## Introduction
 
 Cast is a standard protocol for real-time client to client event communication across healthcare applications. Built upon the foundational architecture of FHIRCast, Cast extends beyond FHIR-specific data and context management to support a wide range of healthcare data formats, user interactions, controller inputs and event types.
-DICOMweb,DICOM,FHIR and HL7v2 are client to server protocols.  Client to client protocols differ because they often deal with temporary objects such as user interactions.  Even when FHIR or DICOM data exchange is exchanged, it is usually to refer an existing object or initiate a new object that may or may not be saved to the server.  For example, a DICOM annotation can be communicated but may or may not become part of a DICOM structured report.
+DICOM, DICOMweb, FHIR and HL7v2 are server to server and client to server protocols. Client to client protocols differ because they often deal with temporary objects such as user interactions.  Even when FHIR or DICOM data exchange is exchanged, it is usually to refer an existing object or initiate a new object that may or may not be saved to the server.  For example, a DICOM annotation can be communicated but may or may not become part of a DICOM structured report.
 
 Cast serves as an umbrella standard that encompasses specialized variants such as FHIRCast (for FHIR context management), DICOMCast (for DICOM data exchange), NAVICast (for surgical navigation), and other domain-specific implementations. All variants share the same core infrastructure while defining specialized event types for their domains (see [Cast Ecosystem](#cast-ecosystem) below).
 
