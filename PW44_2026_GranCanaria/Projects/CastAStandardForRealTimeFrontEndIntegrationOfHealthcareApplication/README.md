@@ -46,12 +46,13 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 ## Approach and Plan
 
 1. Add the Cast hub api to the Slicer Web Server module.
-     * Collaborate on a AI prompt that generates the hub.
+     * Collaborate on a [AI prompt that generates the hub](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
 2. Add an entry for the Cast hub in the Web Server static page for hub admin page.
 3. Update the "DICOM Database Browser"  OHIF client with the Cast client extension in the Web Server static page.
-    * [OHIF Cast extension](https://github.com/mbellehumeur/fhircast) 
+    * [OHIF Cast extension](https://github.com/mbellehumeur/fhircast)
+    * Add a slicer viewport to OHIF?
 4. Add a Cast client to Slicer and controller devices.
-5. Have a multi-user (party line) session with OHIF and Slicer.
+5. Have a multi-user (tumor board like) session with OHIF and Slicer.
    
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
