@@ -88,6 +88,13 @@ List of registered participants so far (names will be added here after processin
 1. Csaba Pintér, Ebatinca SL, Spain
 1. Attila Tanács, University of Szeged, Hungary
 1. Hamid Alavi, University of Twente, The Netherlands
+1. Ciro Benito Raggio, Karlsruhe Institute of Technology, Germany
+1. Francesca Spadea, Karlsruhe Institute of Technology, Germany
+1. Andras Lasso, Queen's University, Canada
+1. Isabel Frolick, McGill University, Canada
+1. Deepa Krishnaswamy, Brigham and Women's Hospital, Harvard Medical School, USA
+1. Domenico Riggio, Karlsruhe Institute of Technology,  Germany
+1. Álvaro Falcón Santana, Instituto de Microelectrónica Aplicada (IUMA) - Universidad de Las Palmas de Gran Canaria (ULPGC)
 
 <!-- Participants list end -->
 
