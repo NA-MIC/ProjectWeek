@@ -47,11 +47,11 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 
 1. Add the Cast hub api to the Slicer Web Server module.
      * Collaborate on a AI prompt that generates the hub.
-3. Add an entry for the Cast hub in the Web Server static page for hub admin page.
-4. Update the "DICOM Database Browser"  OHIF client with the Cast client extension in the Web Server static page.
+2. Add an entry for the Cast hub in the Web Server static page for hub admin page.
+3. Update the "DICOM Database Browser"  OHIF client with the Cast client extension in the Web Server static page.
     * [OHIF Cast extension](https://github.com/mbellehumeur/fhircast) 
-6. Add a Cast client to Slicer and controller devices.
-7. Have a multi-user (party line) session with OHIF and Slicer.
+4. Add a Cast client to Slicer and controller devices.
+5. Have a multi-user (party line) session with OHIF and Slicer.
    
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
@@ -87,7 +87,7 @@ Cast serves as an umbrella standard that encompasses specialized variants such a
 
 Healthcare environments sometimes involve multiple specialized applications working together to support clinical workflows. These applications need to communicate and coordinate in real-time, sharing events such as user interactions, data exchanges, state changes, and workflow transitions.  A typical scenario is radiology reporting where a worklist, viewer, reporting and EMR integrate to produce the diagnostic report. This workflow is defined in the IHE Integrated Reporting Applications profile.
 
-FHIRcast provides a solid foundation for FHIR-based context management, focusing specifically on synchronizing FHIR resource context across applications. However, the healthcare ecosystem includes many non-FHIR data formats, such as DICOM, proprietary systems, legacy applications, and use cases that extend beyond context management. Cast addresses this by providing a flexible, extensible framework that supports:
+FHIRcast provides a solid foundation for FHIR-based context management, focusing specifically on synchronizing FHIR resource context across applications. However, the healthcare ecosystem includes many non-FHIR data formats, such as DICOM, openEHR and use cases that extend beyond context management such has navigation controllers, VR controllsers, joysticks and footswitches.  Cast addresses this by providing a flexible, extensible framework that supports:
 
 - **User Interaction Events**: Mouse clicks, keyboard input, 6DOF controller input,  navigation, UI state changes
 - **Data Exchange Events**: FHIR, DICOM data synchronization (potentially called DICOMCast), HL7 V2 messages, proprietary formats
