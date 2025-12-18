@@ -99,6 +99,7 @@ Cast supports **bi-directional WebSocket communication**. This enables low-laten
 
 Cast also supports **collaborative multi-user workflows** through the hub's ability to group users together within sessions. The hub can coordinate multiple users, allowing them to share events and synchronize their applications in real-time. This enables scenarios such as tumor board meetings, where multiple radiologists and clinicians can simultaneously view and interact with the same DICOM study, with measurements, annotations, and navigation synchronized across all participants own viewers.
 
+![Cast-conferencing 001](https://github.com/user-attachments/assets/f8c2c606-b43a-4c8e-9f2d-e29516a688b6)
 The hub-based architecture provides **flexible integration** because applications do not need to connect directly to each other—they only need to reach the hub. This enables applications running on different platforms and locations to seamlessly participate in the same workflow. For example, a 3D Slicer application running on trame in the cloud can communicate with a mobile device application, a web-based viewer, or local camera control , all through the hub without requiring direct network connections between them.
 
 ### Cast Ecosystem
