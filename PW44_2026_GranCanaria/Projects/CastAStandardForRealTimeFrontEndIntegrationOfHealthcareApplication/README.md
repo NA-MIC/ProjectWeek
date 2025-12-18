@@ -265,7 +265,7 @@ This architecture enables flexible integration scenarios, such as:
 
 **Events** are notifications that represent any occurrence of interest in a healthcare application. Events have:
 
-- **Event Type**: A string identifier (e.g., `patient-open`, `user-click`, `dicom-study-received`, `workflow-task-assigned`)
+- **Event Type**: A string identifier (e.g., `patient-open`, `imagingStudy-open`, `navi-pointer-updated`)
 - **Timestamp**: When the event occurred
 - **Source**: The application that generated the event
 - **Payload**: Event-specific data (format varies by event type and use case)
