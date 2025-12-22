@@ -99,6 +99,12 @@ List of registered participants so far (names will be added here after processin
 1. Gabor Fichtinger, Queen's University, Canada
 1. Gabriella d'Albenzio, School of Computing, Queen's University, Canada
 1. Alejandro Rodríguez Moreno, Ebatinca SL, Spain
+1. Paolo Zaffino, Magna Graecia University of Catanzaro, Italy
+1. Lorena Romeo, Magna Graecia University of Catanzaro, Italy
+1. Ebrahim Ebrahim, Kitware, Inc. USA
+1. Elena Scalbi, Politecnico di Milano, Italy
+1. Lena Giebeler, RWTH Aachen University, Germany
+1. Carlos Allende Prieto, Instituto de Astrofisica de Canarias, Spain
 
 <!-- Participants list end -->
 
