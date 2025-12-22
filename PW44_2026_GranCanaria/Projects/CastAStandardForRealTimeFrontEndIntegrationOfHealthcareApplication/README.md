@@ -37,23 +37,26 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Real-time integration of OHIF, Slicer , 6DOF controllers, navigation controllers.
-2. Multi-user workflows.
-
-
+1. Enhance front-end integration of OHIF, Slicer and trame-slicer.
+2. Enable multi concurrent user workflows with OHIF and/or Slicer.
 
 
 ## Approach and Plan
 
-1. Add the Cast hub api to the Slicer Web Server module.
-     * Collaborate on a [AI prompt that generates the hub](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
+1. Add the Cast hub api to the Slicer Web Server module with a [AI prompt that generates the hub](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
+2. Add a Cast client to slicer and trame-slicer with a [AI prompt that generates the client service](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
+4. Implement events:
+   *  patient-open/close
+   *  imagingstudy-open/close
+   *  annotation-update
+   *  segmentationdisplay-on/off
+   *  scene-update
+  
+5. Update the "DICOM Database Browser"  OHIF client in the Slicer Web module with a Cast client extension.
+    * Add a trame-slicer viewport to OHIF and configure hanging protocol.
+    * Have OHIF with trame-slicer hanging protocol open/close studies (PACS with advanced viewer scenario).
 
-2. Add a Cast client to slicer that automatically subscribes to imagingstudy-open/close .
-3. Update the "DICOM Database Browser"  OHIF client with the Cast client extension in the Web Server static page.
-    * [OHIF Cast extension](https://github.com/mbellehumeur/fhircast)
-    * Add a slicer viewport to OHIF?
-4. Add a Cast client  controller devices.
-5. Have a multi-user (tumor board like) session with OHIF and Slicer.
+6. Have a multi-user (tumor board like) session with OHIF and Slicer.
    
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
@@ -102,7 +105,6 @@ Cast also supports **collaborative multi-user workflows** through the hub's abil
 
 ![Cast-conferencing 001](https://github.com/user-attachments/assets/f8c2c606-b43a-4c8e-9f2d-e29516a688b6)
 
-See also demo here from hackathon: (min 5:00 to 12:00 https://www.youtube.com/watch?v=Je5GMelw1-Q).
 
 The hub-based architecture provides **flexible integration** because applications do not need to connect directly to each other—they only need to reach the hub. This enables applications running on different platforms and locations to seamlessly participate in the same workflow. For example, a 3D Slicer application running on trame in the cloud can communicate with a mobile device application, a web-based viewer, or local camera control , all through the hub without requiring direct network connections between them.
 
