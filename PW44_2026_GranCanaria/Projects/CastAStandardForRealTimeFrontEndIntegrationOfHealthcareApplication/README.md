@@ -44,10 +44,10 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 ## Approach and Plan
 
 1. Add  Cast hub API to Slicer WebServer with a [AI prompt that generates the hub](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
-   <img width="1643" height="1192" alt="image" src="https://github.com/user-attachments/assets/815fb5c3-a5d1-46b3-8167-e9951e0e30f4" />
+   <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/815fb5c3-a5d1-46b3-8167-e9951e0e30f4" />
 
 2. Add a Cast client to slicer and trame-slicer with a [AI prompt that generates the client service](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
-  <img width="627" height="922" alt="image" src="https://github.com/user-attachments/assets/9144d264-722b-4e08-8843-18babe3f2040" />
+  <img width="310" height="460" alt="image" src="https://github.com/user-attachments/assets/9144d264-722b-4e08-8843-18babe3f2040" />
 
 3. Implement events:
    *  patient-open/close
