@@ -47,15 +47,17 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
    <img width="1643" height="1192" alt="image" src="https://github.com/user-attachments/assets/815fb5c3-a5d1-46b3-8167-e9951e0e30f4" />
 
 3. Add a Cast client to slicer and trame-slicer with a [AI prompt that generates the client service](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
-4. Implement events:
+  <img width="627" height="922" alt="image" src="https://github.com/user-attachments/assets/9144d264-722b-4e08-8843-18babe3f2040" />
+
+5. Implement events:
    *  patient-open/close
    *  imagingstudy-open/close
    *  annotation-update (measurements,markups,...)
   
-5. Add a trame-slicer viewport to OHIF with trame-react and configure hanging protocol.
+6. Add a trame-slicer viewport to OHIF with trame-react and configure hanging protocol.
     * Have OHIF with trame-slicer hanging protocol open/close studies (PACS with advanced viewer scenario).
 
-6. Have a multi-user session with OHIF and Slicer (tumor board or staff/resident scenario).
+7. Have a multi-user session with OHIF and Slicer (tumor board or staff/resident scenario).
    
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
