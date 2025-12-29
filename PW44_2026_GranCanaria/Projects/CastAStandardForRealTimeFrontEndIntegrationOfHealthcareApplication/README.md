@@ -37,26 +37,25 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Enhance front-end integration of OHIF, Slicer and trame-slicer.
+1. Coninue enhancing front-end integration of OHIF, Slicer and trame-slicer.
 2. Enable multi concurrent user workflows with OHIF and/or Slicer.
 
 
 ## Approach and Plan
 
-1. Add the Cast hub api to the Slicer Web Server module with a [AI prompt that generates the hub](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
-2. Add a Cast client to slicer and trame-slicer with a [AI prompt that generates the client service](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
+1. Add  Cast hub module to Slicer with a [AI prompt that generates the hub](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
+   <img width="1643" height="1192" alt="image" src="https://github.com/user-attachments/assets/815fb5c3-a5d1-46b3-8167-e9951e0e30f4" />
+
+3. Add a Cast client to slicer and trame-slicer with a [AI prompt that generates the client service](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
 4. Implement events:
    *  patient-open/close
    *  imagingstudy-open/close
-   *  annotation-update
-   *  segmentationdisplay-on/off
-   *  scene-update
+   *  annotation-update (measurements,markups,...)
   
-5. Update the "DICOM Database Browser"  OHIF client in the Slicer Web module with a Cast client extension.
-    * Add a trame-slicer viewport to OHIF and configure hanging protocol.
+5. Add a trame-slicer viewport to OHIF with trame-react and configure hanging protocol.
     * Have OHIF with trame-slicer hanging protocol open/close studies (PACS with advanced viewer scenario).
 
-6. Have a multi-user (tumor board like) session with OHIF and Slicer.
+6. Have a multi-user session with OHIF and Slicer (tumor board or staff/resident scenario).
    
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
