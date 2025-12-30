@@ -37,27 +37,29 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Continue enhancing front-end integration of OHIF, Slicer and trame-slicer.
-2. Enable multi concurrent user workflows with OHIF and/or Slicer.
+1. Continue enhancing front-end integration of OHIF and Slicer.
+2. Enable multi-user workflows with OHIF and Slicer.
 
 
 ## Approach and Plan
 
 1. Add  Cast hub API to Slicer WebServer with a [AI prompt that generates the hub](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
+   
+   <img width="350" height="360" alt="image" src="https://github.com/user-attachments/assets/8ab0138b-301f-4942-8d74-91e568c1c8fe" />
    <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/815fb5c3-a5d1-46b3-8167-e9951e0e30f4" />
 
-2. Add a Cast client to slicer and trame-slicer with a [AI prompt that generates the client service](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
-  <img width="310" height="460" alt="image" src="https://github.com/user-attachments/assets/9144d264-722b-4e08-8843-18babe3f2040" />
+3. Add a Cast client to slicer with a [AI prompt that generates the client service](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
+   <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/c139d73c-fee6-403b-b0ae-24a469f402d8" />
 
-3. Implement events:
+4. Implement events:
    *  patient-open/close
    *  imagingstudy-open/close
    *  annotation-update (measurements,markups,...)
   
-4. Add a trame-slicer viewport to OHIF with trame-react and configure hanging protocol.
+5. Add a trame-slicer viewport to OHIF with trame-react and configure hanging protocol.
     * Have OHIF with trame-slicer hanging protocol open/close studies (PACS with advanced viewer scenario).
 
-5. Have a multi-user session with OHIF and Slicer (tumor board or staff/resident scenario).
+6. Have a multi-user session with OHIF and Slicer (tumor board or staff/resident scenario).
    
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
