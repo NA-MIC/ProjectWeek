@@ -49,7 +49,7 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
    <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/815fb5c3-a5d1-46b3-8167-e9951e0e30f4" />
 
 3. Add a Cast client to slicer with a [AI prompt that generates the client service](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
-   <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/c139d73c-fee6-403b-b0ae-24a469f402d8" />
+   <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/22d11b1b-43fa-48ea-811f-8ac1a00899ac" />
 
 4. Implement events:
    *  patient-open/close
