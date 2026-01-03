@@ -37,22 +37,37 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Real-time integration of OHIF, Slicer , 6DOF controllers, navigation controllers.
-2. Multi-user workflows.
-
-
+1. Continue developing front-end integration of OHIF and Slicer.
+2. Try using the standard FHIRcast pub/sub front-end messaging infrastructure for non-FHIR related data and events.
+3. Enable multi-user workflows with OHIF and Slicer.
 
 
 ## Approach and Plan
 
-1. Add the Cast hub api to the Slicer Web Server module.
-     * Collaborate on a [AI prompt that generates the hub](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
-2. Add an entry for the Cast hub in the Web Server static page for hub admin page.
-3. Update the "DICOM Database Browser"  OHIF client with the Cast client extension in the Web Server static page.
-    * [OHIF Cast extension](https://github.com/mbellehumeur/fhircast)
-    * Add a slicer viewport to OHIF?
-4. Add a Cast client to Slicer and controller devices.
-5. Have a multi-user (tumor board like) session with OHIF and Slicer.
+1. Add  Cast hub API to Slicer WebServer with a [AI prompt that generates the hub](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
+   
+   <img width="350" height="360" alt="image" src="https://github.com/user-attachments/assets/8ab0138b-301f-4942-8d74-91e568c1c8fe" />
+   <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/815fb5c3-a5d1-46b3-8167-e9951e0e30f4" />
+
+3. Add a Cast client to slicer with a [AI prompt that generates the client service](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
+   <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/22d11b1b-43fa-48ea-811f-8ac1a00899ac" />
+
+4. Implement events:
+   *  patient-open/close
+   *  imagingstudy-open/close
+   *  annotation-update (measurements,markups,...)
+   
+   Three users working on the same annotation: <video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/assets/66890913/8f257f29-fa9c-4319-8c49-4138003eba27](https://github.com/user-attachments/assets/2c3d490c-08c5-4f85-8633-828589a953ce"
+   style="max-height:640px; min-height: 200px">
+ </video>
+  
+
+5. Add a trame-slicer viewport to OHIF with trame-react and configure hanging protocol.
+    * Have OHIF with trame-slicer hanging protocol open/close studies (PACS with advanced viewer scenario).
+
+6. Have a multi-user session with OHIF and Slicer (tumor board or attending/resident scenario).
    
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
@@ -98,6 +113,9 @@ FHIRcast provides a solid foundation for FHIR-based context management, focusing
 Cast supports **bi-directional WebSocket communication**. This enables low-latency, "gaming style" interactions where applications can exchange events in real-time with minimal delay, supporting use cases such as collaborative viewing, synchronized navigation, and interventional workflows that require immediate feedback and coordination.
 
 Cast also supports **collaborative multi-user workflows** through the hub's ability to group users together within sessions. The hub can coordinate multiple users, allowing them to share events and synchronize their applications in real-time. This enables scenarios such as tumor board meetings, where multiple radiologists and clinicians can simultaneously view and interact with the same DICOM study, with measurements, annotations, and navigation synchronized across all participants own viewers.
+
+![Cast-conferencing 001](https://github.com/user-attachments/assets/f8c2c606-b43a-4c8e-9f2d-e29516a688b6)
+
 
 The hub-based architecture provides **flexible integration** because applications do not need to connect directly to each other—they only need to reach the hub. This enables applications running on different platforms and locations to seamlessly participate in the same workflow. For example, a 3D Slicer application running on trame in the cloud can communicate with a mobile device application, a web-based viewer, or local camera control , all through the hub without requiring direct network connections between them.
 
@@ -260,7 +278,7 @@ This architecture enables flexible integration scenarios, such as:
 
 **Events** are notifications that represent any occurrence of interest in a healthcare application. Events have:
 
-- **Event Type**: A string identifier (e.g., `patient-open`, `user-click`, `dicom-study-received`, `workflow-task-assigned`)
+- **Event Type**: A string identifier (e.g., `patient-open`, `imagingStudy-open`, `navi-pointer-updated`)
 - **Timestamp**: When the event occurred
 - **Source**: The application that generated the event
 - **Payload**: Event-specific data (format varies by event type and use case)
