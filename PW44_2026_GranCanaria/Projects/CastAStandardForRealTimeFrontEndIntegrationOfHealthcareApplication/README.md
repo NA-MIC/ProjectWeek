@@ -56,7 +56,14 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
    *  patient-open/close
    *  imagingstudy-open/close
    *  annotation-update (measurements,markups,...)
+   
+   Three users working on the same annotation: <video
+   controls muted
+   src="https://github.com/NA-MIC/ProjectWeek/assets/66890913/8f257f29-fa9c-4319-8c49-4138003eba27](https://github.com/user-attachments/assets/2c3d490c-08c5-4f85-8633-828589a953ce"
+   style="max-height:640px; min-height: 200px">
+ </video>
   
+
 5. Add a trame-slicer viewport to OHIF with trame-react and configure hanging protocol.
     * Have OHIF with trame-slicer hanging protocol open/close studies (PACS with advanced viewer scenario).
 
