@@ -37,8 +37,9 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Continue enhancing front-end integration of OHIF and Slicer.
-2. Enable multi-user workflows with OHIF and Slicer.
+1. Continue developing front-end integration of OHIF and Slicer.
+2. Try using the standard FHIRcast pub/sub front-end messaging infrastructure for non-FHIR related data and events.
+3. Enable multi-user workflows with OHIF and Slicer.
 
 
 ## Approach and Plan
@@ -59,7 +60,7 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 5. Add a trame-slicer viewport to OHIF with trame-react and configure hanging protocol.
     * Have OHIF with trame-slicer hanging protocol open/close studies (PACS with advanced viewer scenario).
 
-6. Have a multi-user session with OHIF and Slicer (tumor board or staff/resident scenario).
+6. Have a multi-user session with OHIF and Slicer (tumor board or attending/resident scenario).
    
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
