@@ -105,6 +105,9 @@ List of registered participants so far (names will be added here after processin
 1. Elena Scalbi, Politecnico di Milano, Italy
 1. Lena Giebeler, RWTH Aachen University, Germany
 1. Carlos Allende Prieto, Instituto de Astrofisica de Canarias, Spain
+1. Rafael Palomar, NTNU / Oslo University Hospital, Norway
+1. Kyle Sunderland, Queen's University, Canada
+1. Chi Zhang, Texas A&M University College of Dentistry, USA
 
 <!-- Participants list end -->
 
