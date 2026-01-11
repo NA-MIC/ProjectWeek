@@ -109,6 +109,7 @@ List of registered participants so far (names will be added here after processin
 1. Kyle Sunderland, Queen's University, Canada
 1. Chi Zhang, Texas A&M University College of Dentistry, USA
 1. Andrey Fedorov, Brigham and Women's Hospital, USA
+1. Andy Huynh, Talk2View, Australia
 
 <!-- Participants list end -->
 
