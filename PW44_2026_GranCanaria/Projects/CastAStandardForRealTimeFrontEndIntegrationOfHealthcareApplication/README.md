@@ -37,17 +37,24 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Continue developing front-end integration of OHIF and Slicer.
-2. Use the standard FHIRcast pub/sub websocket hub front-end messaging infrastructure for non-FHIR related data and events.
-3. Enable multi-user workflows with OHIF and Slicer.
+1. Continue the development front-end integration of OHIF and Slicer.
+2. Use the standard FHIRcast  websocket hub  messaging infrastructure for non-FHIR related data/events and real-time front-end intergration.
+3. Enable multi-user workflows.
 
 
 ## Approach and Plan
 
-1. Add  Cast hub API to Slicer WebServer with a [AI prompt that generates the hub](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
-   
-   <img width="350" height="360" alt="image" src="https://github.com/user-attachments/assets/8ab0138b-301f-4942-8d74-91e568c1c8fe" />
-   <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/815fb5c3-a5d1-46b3-8167-e9951e0e30f4" />
+1. Add  Cast hub API to Slicer Web Server with a [AI prompt that generates the hub](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
+ 
+ 
+ <img width="273" height="208" alt="image" src="https://github.com/user-attachments/assets/9b4eff43-739f-4785-8ce1-3c0c1c3a8a53" />
+ 
+  <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/fdccb08e-754d-4c26-902d-9fa34e3a48f9" />
+
+   <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e9f47e26-48c8-4fd5-9815-c7abdffc6ca9" />
+
+
+
 
 3. Add a Cast client to slicer with a [AI prompt that generates the client service](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
    <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/22d11b1b-43fa-48ea-811f-8ac1a00899ac" />
@@ -94,7 +101,9 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 ## Introduction
 
 Cast is a standard protocol for real-time client to client event communication across healthcare applications. Built upon the foundational architecture of FHIRCast, Cast extends beyond FHIR-specific data and context management to support a wide range of healthcare data formats, user interactions, controller inputs and event types.
-DICOM, DICOMweb, FHIR and HL7v2 are server to server and client to server protocols. Client to client protocols differ because they often deal with temporary objects such as user interactions.  Even when FHIR or DICOM data exchange is exchanged, it is usually to refer an existing object or initiate a new object that may or may not be saved to the server.  For example, a DICOM annotation can be communicated but may or may not become part of a DICOM structured report.
+DICOM, DICOMweb, FHIR and HL7v2 are server to server and client to server protocols. 
+
+Cast is a client to client protocol. Client to client protocols differ because they often deal with temporary objects such as user interactions.  Even when FHIR or DICOM data exchange is exchanged, it is usually to refer an existing object or initiate a new object that may or may not be saved to the server.  For example, a DICOM annotation can be communicated but may or may not become part of a DICOM structured report.
 
 Cast serves as an umbrella standard that encompasses specialized variants such as FHIRCast (for FHIR context management), DICOMCast (for DICOM data exchange), NAVICast (for surgical navigation), and other domain-specific implementations. All variants share the same core infrastructure while defining specialized event types for their domains (see [Cast Ecosystem](#cast-ecosystem) below).
 
