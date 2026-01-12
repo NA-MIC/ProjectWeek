@@ -47,23 +47,32 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 1. Add  Cast hub API to Slicer Web Server with a [AI prompt that generates the hub](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
  
  
- <img width="273" height="208" alt="image" src="https://github.com/user-attachments/assets/9b4eff43-739f-4785-8ce1-3c0c1c3a8a53" />
+   <img width="273" height="208" alt="image" src="https://github.com/user-attachments/assets/9b4eff43-739f-4785-8ce1-3c0c1c3a8a53" />
  
-  <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/fdccb08e-754d-4c26-902d-9fa34e3a48f9" />
+   <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/fdccb08e-754d-4c26-902d-9fa34e3a48f9" />
 
    <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e9f47e26-48c8-4fd5-9815-c7abdffc6ca9" />
 
 
 
-
 3. Add a Cast client to slicer with a [AI prompt that generates the client service](https://github.com/mbellehumeur/cast/blob/main/cast-hub-ai-prompt).
-   <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/22d11b1b-43fa-48ea-811f-8ac1a00899ac" />
+   <img width="618" height="317" alt="image" src="https://github.com/user-attachments/assets/e70ff9da-32c3-453c-981f-f9d9638a0b09" />
+
+   <img width="592" height="516" alt="image" src="https://github.com/user-attachments/assets/cc3eaa71-96a8-4e32-b34b-76731e14f55a" />
+
+  
+
 
 4. Implement events:
    *  patient-open/close
    *  imagingstudy-open/close
    *  annotation-update (measurements,markups,...)
-   
+
+  One user drving three applications:
+
+
+  
+
    Three users working on the same annotation:
 
       <iframe width="800" height="400" src="https://youtube.com/embed/O-M0Y9JHcoQ" >
@@ -155,10 +164,7 @@ Cast serves as an umbrella standard that encompasses specialized "Cast" variants
 - **FHIRCast**: Specialized for FHIR resource context management and synchronization
 - **DICOMCast**: Specialized for DICOM data exchange and imaging workflow synchronization
 - **NAVICast**: Specialized for surgical navigation and real-time guidance systems
-- **Other Variants**: The Cast framework is extensible, allowing for domain-specific variants such as:
-  - LabCast (laboratory workflows)
-  - PharmCast (pharmacy workflows)
-  - Any other specialized Cast implementation
+- **Other Variants**: The Cast framework is extensible, allowing for domain-specific variants.
 
 All Cast variants share the same core hub-based architecture, protocol, and infrastructure, but define specialized event types and payloads for their specific domains. This allows applications to participate in multiple Cast variants simultaneously, enabling comprehensive workflow integration across different healthcare domains.
 
@@ -278,277 +284,6 @@ This architecture enables flexible integration scenarios, such as:
 - A 3D Slicer application on a workstation communicating with a mobile tablet viewer
 - A web-based EHR system coordinating with a server-based PACS
 - Multiple applications across different networks collaborating in a single session
-
----
-
-## Core Concepts
-
-### Events
-
-**Events** are notifications that represent any occurrence of interest in a healthcare application. Events have:
-
-- **Event Type**: A string identifier (e.g., `patient-open`, `imagingStudy-open`, `navi-pointer-updated`)
-- **Timestamp**: When the event occurred
-- **Source**: The application that generated the event
-- **Payload**: Event-specific data (format varies by event type and use case)
-
-Events can represent:
-- User interactions (clicks, keyboard input, navigation)
-- Data changes (patient records, imaging studies, documents)
-- Workflow events (task assignments, status updates)
-- System events (errors, notifications, state changes)
-- Custom domain-specific events
-
-### Sessions
-
-A **Session** represents a logical grouping of applications and users working together. All applications in a session can publish and subscribe to events within that session. 
-
-Sessions enable **collaborative multi-user workflows** where the Cast Hub groups multiple users together, allowing them to share events and synchronize their applications in real-time. For example, in a tumor review board meeting, multiple radiologists and clinicians can join the same session, and when one participant navigates to a specific DICOM study or makes a measurement, all other participants' viewers are automatically synchronized to the same view and measurement.
-
-Sessions can be:
-- **Single-user sessions**: One user with multiple applications
-- **Multi-user sessions**: Multiple users collaborating together, with the hub coordinating event distribution to all participants
-
-### Subscriptions
-
-A **Subscription** is a request from an application to receive notifications for specific event types. Subscriptions include:
-
-- **Event Types**: Which events the application wants to receive
-- **Callback URL**: Where to send notifications (for HTTP-based subscriptions)
-- **Authentication**: Credentials for secure communication
-
----
-
-## Protocol Specification
-
-### Transport
-
-Cast supports multiple transport mechanisms:
-
-- **WebSockets**: For real-time, bidirectional communication (recommended). Unlike FHIRcast, Cast fully supports bi-directional WebSocket connections, enabling low-latency "gaming style" interactions where applications can publish and receive events simultaneously with minimal overhead. This is essential for use cases requiring immediate feedback, such as collaborative viewing, synchronized navigation, and interactive workflows.
-- **HTTP/HTTPS**: For RESTful API interactions
-- **Server-Sent Events (SSE)**: For unidirectional event streaming
-
-### Base URL Structure
-
-```
-https://{hub-host}/cast/{version}/
-```
-
-Example:
-```
-https://cast.example.com/cast/v1/
-```
-
-### API Endpoints
-
-#### Subscribe to Events
-
-```
-POST /cast/v1/subscribe
-```
-
-**Request Body:**
-```json
-{
-  "eventTypes": ["patient-open", "study-view"],
-  "callbackUrl": "https://app.example.com/cast/callback",
-  "sessionId": "session-12345"
-}
-```
-
-**Response:**
-```json
-{
-  "subscriptionId": "sub-67890",
-  "expires": "2024-12-31T23:59:59Z"
-}
-```
-
-#### Unsubscribe from Events
-
-```
-DELETE /cast/v1/subscribe/{subscriptionId}
-```
-
-#### Publish Event
-
-```
-POST /cast/v1/event
-```
-
-**Request Body:**
-```json
-{
-  "eventType": "patient-open",
-  "timestamp": "2024-01-15T10:30:00Z",
-  "source": "ehr-system",
-  "sessionId": "session-12345",
-  "payload": {
-    "patientId": "pat-001",
-    "patientName": "John Doe",
-    "mrn": "MRN-12345"
-  }
-}
-```
-
-### WebSocket Protocol
-
-Cast's WebSocket protocol supports **full bi-directional communication**, enabling applications to both publish and receive events over the same connection. This is a key differentiator from FHIRcast, which does not support bi-directional WebSockets. The bi-directional capability enables low-latency "gaming style" interactions where events can be exchanged with minimal delay, supporting real-time collaborative workflows.
-
-For WebSocket connections, the protocol uses JSON messages:
-
-**Subscribe Message:**
-```json
-{
-  "action": "subscribe",
-  "eventTypes": ["patient-open", "study-view"],
-  "sessionId": "session-12345"
-}
-```
-
-**Publish Event Message (Client to Hub):**
-```json
-{
-  "action": "publish",
-  "eventType": "patient-open",
-  "timestamp": "2024-01-15T10:30:00Z",
-  "source": "ehr-system",
-  "sessionId": "session-12345",
-  "payload": {
-    "patientId": "pat-001",
-    "patientName": "John Doe"
-  }
-}
-```
-
-**Event Notification Message (Hub to Client):**
-```json
-{
-  "eventType": "patient-open",
-  "timestamp": "2024-01-15T10:30:00Z",
-  "source": "ehr-system",
-  "sessionId": "session-12345",
-  "payload": {
-    "patientId": "pat-001",
-    "patientName": "John Doe"
-  }
-}
-```
-
-Applications can simultaneously send events to the hub and receive events from other applications over the same WebSocket connection, enabling true real-time bidirectional communication with minimal latency.
-
----
-
-## Event Types
-
-Cast defines a set of standard event types, but also supports custom event types for extensibility. Unlike FHIRcast, which focuses on FHIR context events, Cast supports any type of event including user interactions, data exchanges, and workflow events.
-
-### Standard Event Types
-
-#### User Interaction Events
-
-- **`user-click`**: A user clicked on an element
-- **`user-navigate`**: A user navigated to a different view or page
-- **`user-input`**: A user entered data in a form or field
-- **`ui-state-change`**: The UI state changed (e.g., panel opened/closed, tab switched)
-
-**Payload Example:**
-```json
-{
-  "elementId": "patient-search-button",
-  "elementType": "button",
-  "coordinates": {"x": 150, "y": 200},
-  "timestamp": "2024-01-15T10:30:00Z"
-}
-```
-
-#### Patient Events
-The exiuting FHIRcast events are:
-- **`patient-open`**: A patient record has been opened
-- **`patient-close`**: A patient record has been closed
-
-
-**Payload Example:**
-```json
-{
-  "patientId": "pat-001",
-  "patientName": "John Doe",
-  "dateOfBirth": "1980-01-15",
-  "mrn": "MRN-12345",
-  "identifiers": [
-    {
-      "system": "http://hospital.example.com/mrn",
-      "value": "MRN-12345"
-    }
-  ]
-}
-```
-
-### Custom Event Types
-
-Applications can define custom event types using the format:
-
-```
-{domain}:{event-name}
-```
-
-Examples:
-```
-radiology:worklist-update
-pharmacy:medication-review
-user:mouse-move
-workflow:task-completed
-dicom:image-annotation-added
-```
-
-The Cast Hub will attempt to provide data in the preferred format, falling back to available formats if necessary.
-
----
-
-## Security
-
-Security is paramount in healthcare applications. Cast implements multiple security measures to protect Protected Health Information (PHI).
-
-### Authentication
-
-Cast  authentication:
-
-1. Applications authenticate with the enterprise authentication server
-2. Access tokens are required for all API calls
-3. Tokens are validated on each request
-4. Token refresh mechanisms are supported
-
-### Authorization
-
-Authorization is enforced at multiple levels:
-
-- **Subscription Authorization**: Only authorized applications can subscribe to events
-- **Event Authorization**: Applications can only publish events they are authorized to publish
-
-### Transport Security
-
-All communications must use:
-
-- **HTTPS**: For HTTP-based communications (TLS 1.2 or higher)
-- **WSS**: For WebSocket connections (WebSocket Secure)
-- **Certificate Validation**: Proper certificate validation must be implemented
-
-### Data Protection
-
-- **Encryption in Transit**: All data is encrypted during transmission
-- **Encryption at Rest**: Cast Hub implementations should encrypt stored data
-- **Audit Logging**: All events and access attempts should be logged
-- **PHI Minimization**: Only necessary data should be included in events
-
-### Compliance
-
-Cast implementations should comply with:
-
-- **HIPAA**: Health Insurance Portability and Accountability Act
-- **HITECH**: Health Information Technology for Economic and Clinical Health Act
-- **GDPR**: General Data Protection Regulation (where applicable)
-- **Local Regulations**: Applicable regional healthcare data protection laws
 
 ---
 
