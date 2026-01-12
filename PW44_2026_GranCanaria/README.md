@@ -110,6 +110,8 @@ List of registered participants so far (names will be added here after processin
 1. Chi Zhang, Texas A&M University College of Dentistry, USA
 1. Andrey Fedorov, Brigham and Women's Hospital, USA
 1. Andy Huynh, Talk2View, Australia
+1. Alexandra Ertl, German Cancer Research Center (DKFZ), Germany
+1. Maximilian Fischer, German Cancer Research Center (DKFZ), Germany
 
 <!-- Participants list end -->
 
