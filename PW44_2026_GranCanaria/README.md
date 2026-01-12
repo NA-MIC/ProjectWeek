@@ -112,6 +112,7 @@ List of registered participants so far (names will be added here after processin
 1. Andy Huynh, Talk2View, Australia
 1. Alexandra Ertl, German Cancer Research Center (DKFZ), Germany
 1. Maximilian Fischer, German Cancer Research Center (DKFZ), Germany
+1. Carl-Fredrik Westin, Harvard Medical School, Brigham and Women's Hospital, USA
 
 <!-- Participants list end -->
 
