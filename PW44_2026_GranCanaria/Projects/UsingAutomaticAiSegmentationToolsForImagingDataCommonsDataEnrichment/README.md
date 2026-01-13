@@ -21,6 +21,9 @@ key_investigators:
   affiliation: LMU
   country: Germany
 
+- name: Ron Kikinis
+  affiliation: BWH
+  country: USA
 ---
 
 # Project Description
