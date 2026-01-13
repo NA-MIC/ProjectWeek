@@ -32,7 +32,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-https://github.com/K-Dense-AI/claude-scientific-skills introduces a development pattern to describe tools and resources usable in scientific research via a human-readable document, accompanied by code samples and recipes covering key functionality of the resource. Further, the company maintaining that repository makes the resulting skills accessible via MCP server, which could be connected with an agentic dev platform to improve quality of responses. The goal of this project is to add a new skill to the aforementioned repo to cover [Imaging Data Commons](https://learn.canceridc.dev/).
+[claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) introduces a development pattern to describe tools and resources usable in scientific research via a human-readable document, accompanied by code samples and recipes covering key functionality of the resource. Further, the company maintaining that repository makes the resulting skills accessible via MCP server, which could be connected with an agentic dev platform to improve quality of responses. The goal of this project is to add a new skill to the aforementioned repo to cover [Imaging Data Commons](https://learn.canceridc.dev/).
 
 
 
@@ -41,7 +41,7 @@ https://github.com/K-Dense-AI/claude-scientific-skills introduces a development 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. IDC skill is available in https://github.com/K-Dense-AI/claude-scientific-skills
+1. IDC skill is available in [https://github.com/K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
 2. Feedback and use cases collected from the community
 
 

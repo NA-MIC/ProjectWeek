@@ -75,5 +75,5 @@ For the Lymph Node Quantification project we want to analyze and share head and 
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-* https://en.wikipedia.org/wiki/Facial_lymph_nodes
+* [Facial lymph nodes - Wikipedia](https://en.wikipedia.org/wiki/Facial_lymph_nodes)
 

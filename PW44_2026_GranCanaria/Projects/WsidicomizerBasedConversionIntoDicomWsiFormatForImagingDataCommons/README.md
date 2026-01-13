@@ -28,9 +28,9 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-This project is motivated by the operational needs of the [Imaging Data Commons](https://learn.canceridc.dev/) to have a sustainable mechanisms supported by open-source software for harmonizing various slide microscopy images in vendor-specific representations into DICOM Whole Slide Imaging format. Our current procedures is not sustainable, since they rely on the PixelMed tools by David Clunie, which are based on a coding style and build process that has not changed since initiated over 20 years ago, unfortunately have "bus factor" of 1, and are not open for community contributions. We started using `wsidicomizer` https://github.com/imi-bigpicture/wsidicomizer as a replacement, but there are gaps in the functionality to be remedied, and additional testing that needs to be done before we can consider operational switch.
+This project is motivated by the operational needs of the [Imaging Data Commons](https://learn.canceridc.dev/) to have a sustainable mechanisms supported by open-source software for harmonizing various slide microscopy images in vendor-specific representations into DICOM Whole Slide Imaging format. Our current procedures is not sustainable, since they rely on the PixelMed tools by David Clunie, which are based on a coding style and build process that has not changed since initiated over 20 years ago, unfortunately have "bus factor" of 1, and are not open for community contributions. We started using [`wsidicomizer`](https://github.com/imi-bigpicture/wsidicomizer) as a replacement, but there are gaps in the functionality to be remedied, and additional testing that needs to be done before we can consider operational switch.
 
-This project is the continuation of the earlier project at PW42 2025: https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/EvaluationOfImiBigpictureWsidicomizerAsAToolForConversionIntoDicomWholeSlideImagingFormat/ 
+This project is the continuation of the [earlier project at PW42 2025](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/EvaluationOfImiBigpictureWsidicomizerAsAToolForConversionIntoDicomWholeSlideImagingFormat/). 
 
 
 

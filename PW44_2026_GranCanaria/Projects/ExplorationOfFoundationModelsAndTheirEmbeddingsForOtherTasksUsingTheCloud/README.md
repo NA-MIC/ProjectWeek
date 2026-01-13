@@ -63,7 +63,7 @@ How could it relate to Slicer and Imaging Data Commons (IDC)? Given a sample pat
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. We will see if Google Cloud Platform BigQuery (BQ) can be used to store the embeddings: https://docs.cloud.google.com/bigquery/docs/vector-search-intro and https://docs.cloud.google.com/bigquery/docs/vector-index
+1. We will see if Google Cloud Platform BigQuery (BQ) can be used to store the embeddings: [vector-search-intro](https://docs.cloud.google.com/bigquery/docs/vector-search-intro) and [vector-index](https://docs.cloud.google.com/bigquery/docs/vector-index)
 2. Next, we will create an interactive plot to explore embeddings and any clustering in a low-dimensional space. We will let the user click on points to open up an OHIF link with the original image data. 
 3. We will investigate whether vector search or a similarity search can be performed to find similar patients. 
 

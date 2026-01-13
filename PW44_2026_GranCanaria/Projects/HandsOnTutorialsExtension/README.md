@@ -89,6 +89,6 @@ Part of the curriculum tree in the commercial app that we propose to adapt to Sl
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-* The commercial app in question: https://ebatinca.com/productos/start
-* The current training material for Slicer core: https://training.slicer.org/
+* The commercial app in question: [https://ebatinca.com/productos/start](https://ebatinca.com/productos/start)
+* The current training material for Slicer core: [https://training.slicer.org/](https://training.slicer.org/)
 

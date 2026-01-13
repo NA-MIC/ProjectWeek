@@ -82,6 +82,6 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-- trame-slicer library: https://github.com/KitwareMedical/trame-slicer
-- Slicer trame extension: https://github.com/KitwareMedical/SlicerTrame
+- trame-slicer library: [https://github.com/KitwareMedical/trame-slicer](https://github.com/KitwareMedical/trame-slicer)
+- Slicer trame extension: [https://github.com/KitwareMedical/SlicerTrame](https://github.com/KitwareMedical/SlicerTrame)
 
