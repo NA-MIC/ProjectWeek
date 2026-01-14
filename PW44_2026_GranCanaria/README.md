@@ -115,6 +115,7 @@ List of registered participants so far (names will be added here after processin
 1. Carl-Fredrik Westin, Harvard Medical School, Brigham and Women's Hospital, USA
 1. Robin Peretzke, German Cancer Research Center (DKFZ), Germany
 1. Paul Baksic, Inria, France
+1. Leonard Nürnberg, Maastricht University, The Netherlands
 
 <!-- Participants list end -->
 
