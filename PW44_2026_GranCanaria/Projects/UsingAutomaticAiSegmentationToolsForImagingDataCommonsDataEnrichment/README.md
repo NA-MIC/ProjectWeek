@@ -64,6 +64,7 @@ In addition, the 3DSlicer [CrossSegmentationExplorer](https://github.com/Imaging
 2. Run MOOSE on that subset and extract radiomic features
 3. Analyze feature distributions to detect outliers
 4. Visually review outlier cases in Slicer
+5. Compare muscle segmentation with https://github.com/MuscleMap/MuscleMap (also https://github.com/Eddowesselink/SlicerMuscleMap for Slicer)
 
 
 
