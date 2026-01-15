@@ -9,6 +9,10 @@ presenter_location:
 
 key_investigators:
 
+- name: Martin Bellehumeur
+  affiliation: Bellehumeur Engineering
+  country: Germany
+
 ---
 
 # Project Description
