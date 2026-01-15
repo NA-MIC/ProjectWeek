@@ -65,7 +65,7 @@ In addition, the 3DSlicer [CrossSegmentationExplorer](https://github.com/Imaging
 3. Analyze feature distributions to detect outliers
 4. Visually review outlier cases in Slicer
 5. Compare muscle segmentation with https://github.com/MuscleMap/MuscleMap (also https://github.com/Eddowesselink/SlicerMuscleMap for Slicer)
-
+6. Side-project stretch goal: assemble a whole-body single volume image for Visible Human and prepare segmentations from various tools for the resulting image.
 
 
 
