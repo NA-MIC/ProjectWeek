@@ -46,7 +46,7 @@ For the Lymph Node Quantification project we want to analyze and share head and 
 
 
 * Figure out if existing MR defacing tools can be used for this, perhaps by mapping the CT to MR
-
+* Explore the state of the art in [Facial animation systems](https://research.nvidia.com/labs/amri/projects/gaia/)
 
 
 ## Progress and Next Steps
@@ -67,6 +67,9 @@ For the Lymph Node Quantification project we want to analyze and share head and 
 
 <img width="500" height="349" alt="Image" src="https://github.com/user-attachments/assets/b93bf4ce-485d-46c6-af8b-bda41197eb1b" />
 
+We will use the [CTHead](https://drive.google.com/file/d/1a0tt9_Uu7whrYs2VKbBezwKi7gJGG823/view?usp=sharing) sample data for experiments.
+
+<img width="1005" height="904" alt="image" src="https://github.com/user-attachments/assets/86c88b58-2874-435f-90ef-111bb53fb808" />
 
 
 # Background and References
@@ -76,4 +79,5 @@ For the Lymph Node Quantification project we want to analyze and share head and 
 
 
 * [Facial lymph nodes - Wikipedia](https://en.wikipedia.org/wiki/Facial_lymph_nodes)
+
 
