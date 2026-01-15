@@ -116,6 +116,7 @@ List of registered participants so far (names will be added here after processin
 1. Robin Peretzke, German Cancer Research Center (DKFZ), Germany
 1. Paul Baksic, Inria, France
 1. Leonard Nürnberg, Maastricht University, The Netherlands
+1. Sam Horvath, Kitware, USA
 
 <!-- Participants list end -->
 
