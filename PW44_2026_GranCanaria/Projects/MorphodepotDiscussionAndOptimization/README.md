@@ -10,8 +10,12 @@ presenter_location:
 key_investigators:
 
 - name: Steve Pieper
-  affiliation: Isomics
-  country: Inc., USA
+  affiliation: Isomics, Inc.
+  country: USA
+
+-- name: Murat Maga (Virtual)
+  affiliation: Seattle Children's
+  country: USA
 
 ---
 
