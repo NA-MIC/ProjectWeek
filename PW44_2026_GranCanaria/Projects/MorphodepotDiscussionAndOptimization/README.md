@@ -10,7 +10,7 @@ presenter_location:
 key_investigators:
 
 - name: Steve Pieper
-  affiliation: Isomics, Inc.
+  affiliation: Isomics
   country: USA
 
 -- name: Murat Maga (Virtual)
