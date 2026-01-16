@@ -13,7 +13,7 @@ key_investigators:
   affiliation: Isomics
   country: USA
 
--- name: Murat Maga
+- name: Murat Maga
   affiliation: Seattle Children's
   country: USA
 
