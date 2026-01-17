@@ -81,5 +81,5 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-_No response_
+Preprint describing the project: https://arxiv.org/abs/2601.00030
 
