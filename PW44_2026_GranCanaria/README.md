@@ -118,6 +118,7 @@ List of registered participants so far (names will be added here after processin
 1. Leonard Nürnberg, Maastricht University, The Netherlands
 1. Sam Horvath, Kitware, USA
 1. Arthur Chakwizira, Brigham and Women's Hospital, Harvard Medical School, USA
+1. Ben Zwick, The University of Western Australia / Talk2View, Australia
 
 <!-- Participants list end -->
 
