@@ -25,6 +25,10 @@ key_investigators:
   affiliation: AIM Lab
   country: USA
 
+- name: Michael Halle
+  affiliation: SPL/BWH
+  country: USA
+
 ---
 
 # Project Description
