@@ -40,6 +40,7 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 1. Continue the development front-end integration of OHIF and Slicer.
 2. Use the standard FHIRcast  websocket hub  messaging infrastructure for non-FHIR related data/events and real-time front-end intergration.
 3. Enable multi-user workflows.
+4. Help 3D Slicer developers connect to Cast/FHIRCast.
 
 
 ## Approach and Plan
@@ -52,12 +53,13 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
    *  patient-open/close
    *  imagingstudy-open/close
    *  annotation-update (measurements,markups,...)
-   *  scene-update
+   *  sceneview-update
 
 4. Do some scene mirroring using scene-update OHIF/OHIF and OHIF/3DSlicver
 
-5. Have a multi-user session with OHIF and Slicer (tumor board or attending/resident scenario).
-   *  Use [OHIF client for  Project Week 44](https://white-hill-0dd101903.6.azurestaticapps.net/)  
+5. Make a small tutorial.
+   *  Use [Test bench for  Project Week 44](https://white-hill-0dd101903.6.azurestaticapps.net/)
+   *  Invite and support developers to connect their application.
    
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
@@ -141,12 +143,31 @@ Cast serves as an umbrella standard that encompasses specialized "Cast" variants
 
 
 
-# Illustrations
-   <img width="273" height="208" alt="image" src="https://github.com/user-attachments/assets/9b4eff43-739f-4785-8ce1-3c0c1c3a8a53" />
-   <img width="1558" height="482" alt="image" src="https://github.com/user-attachments/assets/9f6109fd-287b-4951-86a7-0aa6951591c3" />
-<img width="1545" height="1194" alt="image" src="https://github.com/user-attachments/assets/5e6b77d3-3400-4efd-a271-f42863ff115f" />
 
+
+# Illustrations
+
+Cast API in Web Server module:
+
+   <img width="273" height="208" alt="image" src="https://github.com/user-attachments/assets/9b4eff43-739f-4785-8ce1-3c0c1c3a8a53" />
+
+Accessing the admin and test client pages from the test workbench:
+   <img width="1558" height="482" alt="image" src="https://github.com/user-attachments/assets/9f6109fd-287b-4951-86a7-0aa6951591c3" />
+
+Cast admin page:
+
+   <img width="1545" height="1194" alt="image" src="https://github.com/user-attachments/assets/5e6b77d3-3400-4efd-a271-f42863ff115f" />
+
+
+
+
+Test client:
 <img width="1555" height="1188" alt="image" src="https://github.com/user-attachments/assets/4f7a6121-2864-47f2-a877-81f18eb501a2" />
+
+
+
+
+Conference portal:
 
 <img width="652" height="891" alt="image" src="https://github.com/user-attachments/assets/0b7894dd-697a-4444-8d47-5f8ebd92d950" />
 
