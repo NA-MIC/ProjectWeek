@@ -84,6 +84,7 @@ _No response_
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-
-_No response_
+Mike Halle's IDC skill: 
+ * https://github.com/mhalle/idc-skill/
+ * https://github.com/mhalle/idc-skill/releases/latest/download/idc-skill.skill
 
