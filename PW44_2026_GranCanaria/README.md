@@ -46,7 +46,7 @@ Preparations meetings will be at 10 AM EDT and start Tuesday, November 18 2025. 
 - Remote participation will not be possible at this project week
 - Registration costs 480€ (increases to 525€ after December 21), and includes coffee breaks, snacks, and lunch at the hotel for the entire week
 
-**Important: The deadline for registration and payment of the fee is Jan 16th**. If you have problems with the payment or registration, contact [namic@ebatinca.com](mailto:namic@ebatinca.com).
+**Important: The <ins>extended</ins> deadline for registration and payment of the fee is <ins>Jan 22nd</ins>**. If you have problems with the payment or registration, contact [namic@ebatinca.com](mailto:namic@ebatinca.com).
 
 <!-- **Note:** EU regulations require 2FA for all payments. European banking standards and most credit cards support this by default. If your payment doesn't process due to 2FA issues, please reach out for a custom payment link at [namic@ebatinca.com](mailto:namic@ebatinca.com). -->
 
@@ -119,6 +119,7 @@ List of registered participants so far (names will be added here after processin
 1. Sam Horvath, Kitware, USA
 1. Arthur Chakwizira, Brigham and Women's Hospital, Harvard Medical School, USA
 1. Ben Zwick, The University of Western Australia / Talk2View, Australia
+1. David Haberl, Zenta, Austria
 
 <!-- Participants list end -->
 
