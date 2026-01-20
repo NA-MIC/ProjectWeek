@@ -40,7 +40,7 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 1. Continue the development front-end integration of OHIF and Slicer.
 2. Use the standard FHIRcast  websocket hub  messaging infrastructure for non-FHIR related data/events and real-time front-end intergration.
 3. Enable multi-user workflows.
-4. Help 3D Slicer developers connect to Cast/FHIRCast.
+4. Invite and support 3D Slicer developers who want to connect to Cast/FHIRCast.
 
 
 ## Approach and Plan
@@ -58,7 +58,7 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 4. Do some scene mirroring using scene-update OHIF/OHIF and OHIF/3DSlicver
 
 5. Make a small tutorial.
-   *  Use [Test bench for  Project Week 44](https://white-hill-0dd101903.6.azurestaticapps.net/)
+   *  Use [Test bench for  Project Week 44](https://cast-hub-g6abetanhjesb6cx.westeurope-01.azurewebsites.net/api/hub/admin) and [client](https://na-mic-projectweek44-g0g4a5c5dgc5dcf3.westeurope-01.azurewebsites.net/)
    *  Invite and support developers to connect their application.
    
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
