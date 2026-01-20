@@ -146,20 +146,24 @@ Accessing the admin and test client pages from the test workbench:
 
 Cast admin page:
 
-   <img width="1545" height="1194" alt="image" src="https://github.com/user-attachments/assets/5e6b77d3-3400-4efd-a271-f42863ff115f" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5e6b77d3-3400-4efd-a271-f42863ff115f" />
+
+
 
 
 
 
 Test client:
-<img width="1555" height="1188" alt="image" src="https://github.com/user-attachments/assets/4f7a6121-2864-47f2-a877-81f18eb501a2" />
+
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/4f7a6121-2864-47f2-a877-81f18eb501a2" />
 
 
 
 
 Conference portal:
 
-<img width="652" height="891" alt="image" src="https://github.com/user-attachments/assets/0b7894dd-697a-4444-8d47-5f8ebd92d950" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/0b7894dd-697a-4444-8d47-5f8ebd92d950" />
 
 
 
@@ -183,7 +187,8 @@ _No response_
 
 ## References
 
-### Related Standards
+https://projectweek.na-mic.org/PW33_2020_GranCanaria/Projects/OHIFSlicerBridge/
+
 
 - **FHIRcast**: [http://hl7.org/fhir/fhircast.html](http://hl7.org/fhir/fhircast.html) - The foundational standard upon which Cast is based. Note: FHIRcast focuses on FHIR context management, while Cast extends beyond context to support any type of event including user interactions and DICOM data exchange (DICOMCast).
 - **HL7 FHIR**: [http://hl7.org/fhir/](http://hl7.org/fhir/) - Fast Healthcare Interoperability Resources
