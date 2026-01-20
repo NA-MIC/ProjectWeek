@@ -55,6 +55,7 @@ Currently DICOM support in extensions is written to a json file in the slicer re
 3. Update 3D Slicer core to query the list of available extensions to find an extension that can handle the current modality. (Kyle has the branch already)
 4. Integrate this PR with other efforts to update the extension manager (extensions tiers, multiple categories, etc. - see https://github.com/girder/slicer_package_manager/pull/124)
 5. Update SlicerIDCBrowser?
+6. Need to revisit QuantitativeReporting DICOM plugin - it won't be able to load segmentation of a SM image!
 
 
 ## Progress and Next Steps
