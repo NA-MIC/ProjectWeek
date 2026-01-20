@@ -43,18 +43,21 @@ Provide volume orientation control when the rotate tool is rotating the clipping
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-Seek advice on implenetation (VTK, cornerstone,....)
+Seek advice on implementation (VTK, cornerstone,....)
 
 
 
 
 ## Progress and Next Steps
 
+
+VTK polygon cornerstone tool that adds edges and corners to the existing AnnotatedCube.
+[Cornerstone Tool test in OHIF](https://na-mic-projectweek44-g0g4a5c5dgc5dcf3.westeurope-01.azurewebsites.net/viewer?StudyInstanceUIDs=2.16.840.1.114362.1.11972228.22789312658.616067305.306.2&hangingProtocolId=primary3D)
+
+
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
-1. Describe specific steps you **have actually done**.
 
 
 
