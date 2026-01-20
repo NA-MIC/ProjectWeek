@@ -187,7 +187,7 @@ _No response_
 
 ## References
 
-https://projectweek.na-mic.org/PW33_2020_GranCanaria/Projects/OHIFSlicerBridge/
+[https://projectweek.na-mic.org/PW33_2020_GranCanaria/Projects/OHIFSlicerBridge/](https://projectweek.na-mic.org/PW33_2020_GranCanaria/Projects/OHIFSlicerBridge/)
 
 
 - **FHIRcast**: [http://hl7.org/fhir/fhircast.html](http://hl7.org/fhir/fhircast.html) - The foundational standard upon which Cast is based. Note: FHIRcast focuses on FHIR context management, while Cast extends beyond context to support any type of event including user interactions and DICOM data exchange (DICOMCast).

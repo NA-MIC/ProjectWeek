@@ -53,7 +53,7 @@ Currently DICOM support in extensions is written to a json file in the slicer re
     - Ex:
     ```"(Modality == 'SEG') or (SOPClassUID == '1.2.840.10008.5.1.4.1.1.30') or (Modality == 'SR' and (SOPClassUID == '1.2.840.10008.5.1.4.1.1.88.22' or SOPClassUID == '1.2.840.10008.5.1.4.1.1.88.33'))"```
 3. Update 3D Slicer core to query the list of available extensions to find an extension that can handle the current modality. (Kyle has the branch already)
-4. Integrate this PR with other efforts to update the extension manager (extensions tiers, multiple categories, etc. - see https://github.com/girder/slicer_package_manager/pull/124)
+4. Integrate this PR with other efforts to update the extension manager (extensions tiers, multiple categories, etc. - see [https://github.com/girder/slicer_package_manager/pull/124](https://github.com/girder/slicer_package_manager/pull/124))
 5. Update SlicerIDCBrowser?
 6. Need to revisit QuantitativeReporting DICOM plugin - it won't be able to load segmentation of a SM image!
 
@@ -84,6 +84,6 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-https://github.com/girder/slicer_package_manager
-https://pypi.org/project/rule-engine/
+- [https://github.com/girder/slicer_package_manager](https://github.com/girder/slicer_package_manager)
+- [https://pypi.org/project/rule-engine/](https://pypi.org/project/rule-engine/)
 

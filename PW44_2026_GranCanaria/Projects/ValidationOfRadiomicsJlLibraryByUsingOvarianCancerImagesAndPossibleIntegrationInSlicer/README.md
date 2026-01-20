@@ -89,8 +89,8 @@ Of course any suggestion is more than welcome.
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-- Radiomics.jl official page: https://www.radiomicsjl.org
-- Radiomics.jl source code: https://github.com/pzaffino/Radiomics.jl
-- Pyradiomics documentation: https://pyradiomics.readthedocs.io
-- Pyradiomics source code: https://github.com/AIM-Harvard/pyradiomics/tree/master
+- Radiomics.jl official page: [https://www.radiomicsjl.org](https://www.radiomicsjl.org)
+- Radiomics.jl source code: [https://github.com/pzaffino/Radiomics.jl](https://github.com/pzaffino/Radiomics.jl)
+- Pyradiomics documentation: [https://pyradiomics.readthedocs.io](https://pyradiomics.readthedocs.io)
+- Pyradiomics source code: [https://github.com/AIM-Harvard/pyradiomics/tree/master](https://github.com/AIM-Harvard/pyradiomics/tree/master)
 

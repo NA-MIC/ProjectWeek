@@ -85,6 +85,6 @@ ClassAnnotation is an extension designed to support users during medical image a
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-- Source code: https://github.com/lorenaromeo/SlicerClassAnnotation
-- Demo (video): https://drive.google.com/file/d/1aquVa_120tXwTltVutA9tb2mD2o8SCwK/view?usp=sharing
+- Source code: [https://github.com/lorenaromeo/SlicerClassAnnotation](https://github.com/lorenaromeo/SlicerClassAnnotation)
+- Demo (video): [https://drive.google.com/file/d/1aquVa_120tXwTltVutA9tb2mD2o8SCwK/view?usp=sharing](https://drive.google.com/file/d/1aquVa_120tXwTltVutA9tb2mD2o8SCwK/view?usp=sharing)
 

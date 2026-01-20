@@ -89,6 +89,6 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 Mike Halle's IDC skill (works with Claude Code and Claude platform/web/mobile)
- * https://github.com/mhalle/idc-skill/
- * https://github.com/mhalle/idc-skill/releases/latest/download/idc-skill.skill
+ * [https://github.com/mhalle/idc-skill/](https://github.com/mhalle/idc-skill/)
+ * [https://github.com/mhalle/idc-skill/releases/latest/download/idc-skill.skill](https://github.com/mhalle/idc-skill/releases/latest/download/idc-skill.skill)
 

@@ -43,7 +43,7 @@ Provide the opportunity to project week attendees to add or update  a language t
 Attendees who want to add/update a language can add themselves to the project with the language they target.  
 The AI language translation will be available soon after at:
 
-https://na-mic-projectweek44-g0g4a5c5dgc5dcf3.westeurope-01.azurewebsites.net/
+[https://na-mic-projectweek44-g0g4a5c5dgc5dcf3.westeurope-01.azurewebsites.net/](https://na-mic-projectweek44-g0g4a5c5dgc5dcf3.westeurope-01.azurewebsites.net/)
 
 The language can be selected in the "Preferences"  section of the top right sprocket icon.
 During the conference, project participants can schedule a 1 hour meeting with Martin to correct the translation.
