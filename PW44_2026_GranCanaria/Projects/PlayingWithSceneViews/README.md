@@ -15,12 +15,15 @@ key_investigators:
 
 - name: Andras Lasso
   affiliation: Queen's University
+  country: Canada
 
 - name: Kyle Sunderland
-  affiliation: 'Queen's University'
+  affiliation: Queen's University
+  country: Canada
 
 - name: Martin Bellehumeur
-  affiliation: 'Bellehumeur Engineering'
+  affiliation: Bellehumeur Engineering
+  country: Germany
 
 ---
 
