@@ -17,7 +17,10 @@ key_investigators:
   affiliation: Queen's University
 
 - name: Kyle Sunderland
-  affiliation: ' Queen''s University'
+  affiliation: 'Queen's University'
+
+- name: Martin Bellehumeur
+  affiliation: 'Bellehumeur Engineering'
 
 ---
 
