@@ -74,49 +74,6 @@ Cast is a client to client protocol. Client to client protocols differ because t
 Cast serves as an umbrella standard that encompasses specialized variants such as FHIRCast (for FHIR context management), DICOMCast (for DICOM data exchange), NAVICast (for surgical navigation), and other domain-specific implementations. All variants share the same core infrastructure while defining specialized event types for their domains (see [Cast Ecosystem](#cast-ecosystem) below).
 
 
-### Background
-
-Healthcare environments sometimes involve multiple specialized applications working together to support clinical workflows. These applications need to communicate and coordinate in real-time, sharing events such as user interactions, data exchanges, state changes, and workflow transitions.  A typical scenario is radiology reporting where a worklist, viewer, reporting and EMR integrate to produce the diagnostic report. This workflow is defined in the IHE Integrated Reporting Applications profile.
-
-FHIRcast provides a solid foundation for FHIR-based context management, focusing specifically on synchronizing FHIR resource context across applications. However, the healthcare ecosystem includes many non-FHIR data formats, such as DICOM, openEHR and use cases that extend beyond context management such has navigation controllers, VR controllsers, joysticks and footswitches.  Cast addresses this by providing a flexible, extensible framework that supports:
-
-- **User Interaction Events**: Mouse clicks, keyboard input, 6DOF controller input,  navigation, UI state changes
-- **Data Exchange Events**: FHIR, DICOM data synchronization (potentially called DICOMCast), HL7 V2 messages, proprietary formats
-- **Workflow Events**: Task assignments, status updates, notifications
-- **Any Custom Event Types**: Domain-specific events defined by applications
-
-Cast supports **bi-directional WebSocket communication**. This enables low-latency, "gaming style" interactions where applications can exchange events in real-time with minimal delay, supporting use cases such as collaborative viewing, synchronized navigation, and interventional workflows that require immediate feedback and coordination.
-
-Cast also supports **collaborative multi-user workflows** through the hub's ability to group users together within sessions. The hub can coordinate multiple users, allowing them to share events and synchronize their applications in real-time. This enables scenarios such as tumor board meetings, where multiple radiologists and clinicians can simultaneously view and interact with the same DICOM study, with measurements, annotations, and navigation synchronized across all participants own viewers.
-
-
-The hub-based architecture provides **flexible integration** because applications do not need to connect directly to each other—they only need to reach the hub. This enables applications running on different platforms and locations to seamlessly participate in the same workflow. For example, a 3D Slicer application running on trame in the cloud can communicate with a mobile device application, a web-based viewer, or local camera control , all through the hub without requiring direct network connections between them.
-
-### Cast Ecosystem
-
-Cast serves as an umbrella standard that encompasses specialized "Cast" variants for different healthcare domains and use cases:
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                          │
-│                                    Cast                                                  │
-│                              (Core Standard)                                             │
-│                                                                                          │
-│  ┌──────────────────┐  ┌──────────────────────┐  ┌──────────────────┐  ┌────────────┐    │
-│  │                  │  │                      │  │                  │  │            │    │
-│  │   FHIRCast       │  │     DICOMCast        │  │    NAVICast      │  │   Other    │    │
-│  │                  │  │                      │  │                  │  │   Cast     │    │
-│  │ FHIR Context     │  │ DICOM Data Exchange  │  │   Surgical       │  │ Variants   │    │
-│  │   Management     │  │    (Front-end)       │  │   Navigation     │  │            │    │
-│  │                  │  │                      │  │                  │  │(Extensible)│    │
-│  └──────────────────┘  └──────────────────────┘  └──────────────────┘  └────────────┘    │
-│                                                                                          │
-└──────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-
-
-
 
 
 
@@ -128,7 +85,17 @@ Cast serves as an umbrella standard that encompasses specialized "Cast" variants
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Getting started:
+    - Open the OHIF client and note your user name in the top right corner.  See note on mock authentication and standalone applicaton below. 
+    - In the sprocket icon, open the Cast admin portal.  Note the subscribtion for your subscriber (application) and the topic matching your user.
+    - In the sprokect icon, open the Cast test client.  The test client will have the topic prefilled with you user.
+    - Click the Subscribe button.  The subscription will appear in the admin portal.
+    - Click the Publish button.  The imagingstudy-open event will cause the OHIF client to open the study in the message.
+    - Change the event to imagingstudy-close and Publish.  The OHIF client will close the study.
+  
+   - Open a second OHIF client on the same computer or on a tablet.  It will show up in the admin portal with its  user.
+   - Open the conference portal in the sproket icon.  Choose a title and choose both the PC and tablet user.
+   - Check that all three clients receive and send imaging-study open/close messages.
 
 
 
@@ -184,6 +151,50 @@ _No response_
 
 
 # Background and References
+
+## Background
+
+Healthcare environments sometimes involve multiple specialized applications working together to support clinical workflows. These applications need to communicate and coordinate in real-time, sharing events such as user interactions, data exchanges, state changes, and workflow transitions.  A typical scenario is radiology reporting where a worklist, viewer, reporting and EMR integrate to produce the diagnostic report. This workflow is defined in the IHE Integrated Reporting Applications profile.
+
+FHIRcast provides a solid foundation for FHIR-based context management, focusing specifically on synchronizing FHIR resource context across applications. However, the healthcare ecosystem includes many non-FHIR data formats, such as DICOM, openEHR and use cases that extend beyond context management such has navigation controllers, VR controllsers, joysticks and footswitches.  Cast addresses this by providing a flexible, extensible framework that supports:
+
+- **User Interaction Events**: Mouse clicks, keyboard input, 6DOF controller input,  navigation, UI state changes
+- **Data Exchange Events**: FHIR, DICOM data synchronization (potentially called DICOMCast), HL7 V2 messages, proprietary formats
+- **Workflow Events**: Task assignments, status updates, notifications
+- **Any Custom Event Types**: Domain-specific events defined by applications
+
+Cast supports **bi-directional WebSocket communication**. This enables low-latency, "gaming style" interactions where applications can exchange events in real-time with minimal delay, supporting use cases such as collaborative viewing, synchronized navigation, and interventional workflows that require immediate feedback and coordination.
+
+Cast also supports **collaborative multi-user workflows** through the hub's ability to group users together within sessions. The hub can coordinate multiple users, allowing them to share events and synchronize their applications in real-time. This enables scenarios such as tumor board meetings, where multiple radiologists and clinicians can simultaneously view and interact with the same DICOM study, with measurements, annotations, and navigation synchronized across all participants own viewers.
+
+
+The hub-based architecture provides **flexible integration** because applications do not need to connect directly to each other—they only need to reach the hub. This enables applications running on different platforms and locations to seamlessly participate in the same workflow. For example, a 3D Slicer application running on trame in the cloud can communicate with a mobile device application, a web-based viewer, or local camera control , all through the hub without requiring direct network connections between them.
+
+### Cast Ecosystem
+
+Cast serves as an umbrella standard that encompasses specialized "Cast" variants for different healthcare domains and use cases:
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                          │
+│                                    Cast                                                  │
+│                              (Core Standard)                                             │
+│                                                                                          │
+│  ┌──────────────────┐  ┌──────────────────────┐  ┌──────────────────┐  ┌────────────┐    │
+│  │                  │  │                      │  │                  │  │            │    │
+│  │   FHIRCast       │  │     DICOMCast        │  │    NAVICast      │  │   Other    │    │
+│  │                  │  │                      │  │                  │  │   Cast     │    │
+│  │ FHIR Context     │  │ DICOM Data Exchange  │  │   Surgical       │  │ Variants   │    │
+│  │   Management     │  │    (Front-end)       │  │   Navigation     │  │            │    │
+│  │                  │  │                      │  │                  │  │(Extensible)│    │
+│  └──────────────────┘  └──────────────────────┘  └──────────────────┘  └────────────┘    │
+│                                                                                          │
+└──────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+
+
 
 ## References
 
