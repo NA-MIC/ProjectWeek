@@ -40,7 +40,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-[claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) introduces a development pattern to describe tools and resources usable in scientific research via a human-readable document, accompanied by code samples and recipes covering key functionality of the resource. Further, the company maintaining that repository makes the resulting skills accessible via MCP server, which could be connected with an agentic dev platform to improve quality of responses. The goal of this project is to add a new skill to the aforementioned repo to cover [Imaging Data Commons](https://learn.canceridc.dev/).
+Agent Skills are folders of instructions, scripts, and resources that agents can load when relevant to perform specialized tasks. [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) introduces a development pattern to describe such skills for tools and resources usable in scientific research via a human-readable document, accompanied by code samples and recipes covering key functionality of the resource. Further, the company maintaining that repository makes the resulting skills accessible via MCP server, which could be connected with an agentic dev platform to improve quality of responses. The goal of this project is to add a new skill to the aforementioned repo to cover [Imaging Data Commons](https://learn.canceridc.dev/).
 
 
 
