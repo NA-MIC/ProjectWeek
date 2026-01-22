@@ -79,7 +79,7 @@ List of registered participants so far (names will be added here after processin
 1. Ron Kikinis, Brigham and Women's Hospital, Harvard Medical School, USA
 1. Zora Kikinis, Brigham and Women's Hospital, Harvard Medical School, USA
 1. Elise Donszelmann-Lund, McGill University, Canada
-1. Martin Bellehumeur, Bellehumeur Engineering, Germany
+1. Martin Bellehumeur, Radical Imaging, Germany
 1. Simon Drouin, École de Technologie Supérieure, Canada
 1. Attila Nagy, University of Szeged, Hungary
 1. Juan Ruiz-Alzola, University of Las Palmas de Gran Canaria, Spain
