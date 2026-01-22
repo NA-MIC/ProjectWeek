@@ -89,8 +89,10 @@ _No response_
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
+Coding agents learning materials:
+* https://github.com/agentsmd/agents.md
+* https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/
+* https://github.com/affaan-m/everything-claude-code
 
 Mike Halle's IDC skill (works with Claude Code and Claude platform/web/mobile)
  * [https://github.com/mhalle/idc-skill/](https://github.com/mhalle/idc-skill/)
