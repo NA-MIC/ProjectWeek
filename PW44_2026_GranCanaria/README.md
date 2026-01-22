@@ -120,6 +120,8 @@ List of registered participants so far (names will be added here after processin
 1. Arthur Chakwizira, Brigham and Women's Hospital, Harvard Medical School, USA
 1. Ben Zwick, The University of Western Australia / Talk2View, Australia
 1. David Haberl, Zenta, Austria
+1. Javier Pascau, Universidad Carlos III de Madrid, Spain
+1. Alicia Pose Díez de la Lastra, Universidad Carlos III de Madrid, Spain
 
 <!-- Participants list end -->
 
