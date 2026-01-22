@@ -75,6 +75,7 @@ Agent Skills are folders of instructions, scripts, and resources that agents can
 
 1. Set up Claude.AI with the `claude-scientific-skills` MCP server, experiment.
 2. Started setting up the skill layout and deciding what should be covered.
+3. Submitted PR with the initial skill: https://github.com/K-Dense-AI/claude-scientific-skills/pull/35
 
 
 
