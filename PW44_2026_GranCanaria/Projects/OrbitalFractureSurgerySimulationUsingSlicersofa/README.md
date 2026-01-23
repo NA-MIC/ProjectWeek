@@ -57,7 +57,8 @@ Using SlicerSOFA to simulate orbital fracture repair using titanium plate.
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-Work on two separate scenes: 
+Work on two separate scenes:
+
 **1. Soft tissue retraction:**
 - Goal: move the retractor to create a gap sufficient to insert the plate
 - Challenges: collision in a confined space; proper mechanical models of different tissue types
@@ -72,6 +73,8 @@ Work on two separate scenes:
 
 **3. Run a demo scene in SlicerSOFA**
 - How to integrate Slicer methods to facilitate mechanical model preparation and interaction, such as controller
+
+**4. Planning for benchmarking and validation: what is considered as "success" at this stage?**
 
 
 
