@@ -10,7 +10,7 @@ presenter_location:
 key_investigators:
 
 - name: Martin Bellehumeur
-  affiliation: Bellehumeur Engineering
+  affiliation: Radical Imaging
   country: Germany
 
 ---
@@ -20,7 +20,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-OHIF  i18n translation tags were recently updated with @500 additional tags so that all labels are now covered.  This means that AI can easily add new languages but we need someone to validate it and fix errors like “DICOM store” translated to “Magasin DICOM” for example. 
+OHIF  i18n translation tags were recently updated with many additional tags so that pratically all labels are  covered.  This means that AI can easily add new languages but we need someone to validate it and fix errors like “DICOM store” translated to “Magasin DICOM” for example. 
 
 
 
