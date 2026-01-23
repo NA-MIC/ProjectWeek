@@ -34,6 +34,8 @@ key_investigators:
 
 Using SlicerSOFA to simulate orbital fracture repair using titanium plate.
 
+Virtual planning in oral and maxillofacial surgery (OMFS) is primary based on static models using proprietary software for implant customization design and navigation. However, soft tissue behaviors were usally unknown. However, many OMFS surgeons are not aware the value of physics simulation. An important reason is that simulation is less scalable and requires heavy engineering to prepare a scene. SlicerSOFA can address this issue by integration Slicer and SOFA.
+
 <img src="https://github.com/user-attachments/assets/b8f775ea-4360-415b-9279-d44d7ecadbd2" width="200">
 <img src="https://github.com/user-attachments/assets/da97f07b-c505-4d63-92de-7eeb9a6d89c6" width="200">
 <img src="https://github.com/user-attachments/assets/7fe6a8b3-3b5f-45d2-8959-00356edbb846" width="200">
