@@ -10,7 +10,7 @@ presenter_location:
 key_investigators:
 
 - name: Martin Bellehumeur
-  affiliation: Bellehumeur Engineering
+  affiliation: Radical Imaging
   country: Germany
 
 - name: Steve Pieper
@@ -38,7 +38,7 @@ Standardize  Real-Time Front-End Integration of Healthcare Application
 
 
 1. Continue the development front-end integration of OHIF and Slicer.
-2. Use the standard FHIRcast  websocket hub  messaging infrastructure for non-FHIR related data/events and real-time front-end intergration.
+2. Use the standard FHIRcast  websocket hub  messaging infrastructure for non-FHIR related data/events and real-time front-end integration.
 3. Enable multi-user workflows.
 4. Invite and support 3D Slicer developers who want to connect to Cast/FHIRCast.
 
@@ -86,7 +86,7 @@ Cast serves as an umbrella standard that encompasses specialized variants such a
 
 
 1. Getting started:
-    - Open the OHIF client and note your user name in the top right corner.  See note on mock authentication and standalone applicaton below. 
+    - Open the [OHIF client](https://cast-hub-g6abetanhjesb6cx.westeurope-01.azurewebsites.net/api/hub/admin) and note your user name in the top right corner.  
     - In the sprocket icon, open the Cast admin portal.  Note the subscribtion for your subscriber (application) and the topic matching your user.
     - In the sprokect icon, open the Cast test client.  The test client will have the topic prefilled with you user.
     - Click the Subscribe button.  The subscription will appear in the admin portal.
@@ -97,9 +97,10 @@ Cast serves as an umbrella standard that encompasses specialized variants such a
    - Open the conference portal in the sproket icon.  Choose a title and choose both the PC and tablet user.
    - Check that all three clients receive and send imaging-study open/close messages.
 
+Regarding authentication:  Most 3D slicer applications may not need user management.  In that case, you can set the Cast API in single-user mode using the reset buttom on the bottom right.  This will make the mock authentication to always return user id/topic 'SINGLE-USER'.  In this way, all aplications connecting work on the same topic.
 
 
-
+<img width="320" height="115" alt="image" src="https://github.com/user-attachments/assets/1c38e1f3-c415-44f6-9888-f370684bb29c" />
 
 
 # Illustrations
@@ -109,7 +110,8 @@ Cast API in Web Server module:
    <img width="273" height="208" alt="image" src="https://github.com/user-attachments/assets/9b4eff43-739f-4785-8ce1-3c0c1c3a8a53" />
 
 Accessing the admin and test client pages from the test workbench:
-   <img width="1558" height="482" alt="image" src="https://github.com/user-attachments/assets/9f6109fd-287b-4951-86a7-0aa6951591c3" />
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/4b261445-c33e-465e-b3c3-096cbe5dd2af" />
+
 
 Cast admin page:
 
@@ -182,7 +184,7 @@ Cast serves as an umbrella standard that encompasses specialized "Cast" variants
 │                                                                                          │
 │  ┌──────────────────┐  ┌──────────────────────┐  ┌──────────────────┐  ┌────────────┐    │
 │  │                  │  │                      │  │                  │  │            │    │
-│  │   FHIRCast       │  │     DICOMCast        │  │    NAVICast      │  │   Other    │    │
+│  │   FHIRCast       │  │     DICOMCast        │  │    IGT Cast      │  │   Other    │    │
 │  │                  │  │                      │  │                  │  │   Cast     │    │
 │  │ FHIR Context     │  │ DICOM Data Exchange  │  │   Surgical       │  │ Variants   │    │
 │  │   Management     │  │    (Front-end)       │  │   Navigation     │  │            │    │
