@@ -22,7 +22,7 @@ key_investigators:
   country: Canada
 
 - name: Martin Bellehumeur
-  affiliation: Bellehumeur Engineering
+  affiliation: Radical Imaging
   country: Germany
 
 ---
