@@ -97,7 +97,7 @@ Cast serves as an umbrella standard that encompasses specialized variants such a
    - Open the conference portal in the sproket icon.  Choose a title and choose both the PC and tablet user.
    - Check that all three clients receive and send imaging-study open/close messages.
 
-Regarding authentication:  Most 3D slicer applications may not need user management.  In that case, you can set the Cast API in single-user mode using the reset buttom on the bottom right.  This will make the mock authentication to always return user id/topic 'SINGLE-USER'.  In this way, all aplications connecting work on the same topic.
+Regarding authentication:  Most 3D slicer integrations may not need user management.  In that case, you can set the Cast API in single-user mode using the reset buttom on the bottom right.  This will make the mock authentication to always return user id/topic 'SINGLE-USER'.  In this way, all applications work on the same topic.
 
 
 <img width="320" height="115" alt="image" src="https://github.com/user-attachments/assets/1c38e1f3-c415-44f6-9888-f370684bb29c" />
