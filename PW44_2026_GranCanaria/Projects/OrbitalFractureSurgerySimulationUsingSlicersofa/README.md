@@ -106,7 +106,7 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-Orbital fracture repair introduction: https://surgeryreference.aofoundation.org/cmf/trauma/midface/orbit-floor/reconstruction#general-considerations
+Orbital fracture repair introduction: [AO Surgery Reference - Orbital Floor Reconstruction](https://surgeryreference.aofoundation.org/cmf/trauma/midface/orbit-floor/reconstruction#general-considerations)
 
 Related previous PW pages: [Evaluate the fit of preformed plates in orbital surgery
 ](https://projectweek.na-mic.org/PW43_2025_Montreal/Projects/EvaluateTheFitOfPreformedPlatesInOrbitalSurgery/) and [Simulate orbit surgery using SlicerSOFA](https://projectweek.na-mic.org/PW43_2025_Montreal/Projects/SimulateOrbitSurgeryUsingSlicersofa/)

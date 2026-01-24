@@ -70,5 +70,5 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-The respective publication is currently under review for MIDL 2026 (https://openreview.net/forum?id=G2Dpy3hayS)
+The respective publication is currently under review for MIDL 2026 ([OpenReview submission](https://openreview.net/forum?id=G2Dpy3hayS))
 

@@ -75,7 +75,7 @@ Agent Skills are folders of instructions, scripts, and resources that agents can
 
 1. Set up Claude.AI with the `claude-scientific-skills` MCP server, experiment.
 2. Started setting up the skill layout and deciding what should be covered.
-3. Submitted PR with the initial skill: https://github.com/K-Dense-AI/claude-scientific-skills/pull/35
+3. Submitted PR with the initial skill: [claude-scientific-skills PR #35](https://github.com/K-Dense-AI/claude-scientific-skills/pull/35)
 
 
 
@@ -91,9 +91,9 @@ _No response_
 # Background and References
 
 Coding agents learning materials:
-* https://github.com/agentsmd/agents.md
-* https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/
-* https://github.com/affaan-m/everything-claude-code
+* [agents.md](https://github.com/agentsmd/agents.md)
+* [How to write a great agents.md: lessons from over 2,500 repositories](https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/)
+* [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
 Mike Halle's IDC skill (works with Claude Code and Claude platform/web/mobile)
  * [https://github.com/mhalle/idc-skill/](https://github.com/mhalle/idc-skill/)
