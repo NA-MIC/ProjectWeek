@@ -13,6 +13,10 @@ key_investigators:
   affiliation: DKFZ
   country: Heidelberg
 
+- name: Maximilian Fischer
+  affiliation: DKFZ
+  country: Heidelberg
+
 ---
 
 # Project Description
