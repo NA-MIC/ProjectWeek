@@ -22,7 +22,7 @@ key_investigators:
 
 Make an orientation marker for OHIF whose 26 surfaces (6 faces, 8 corners and 12 edges) can be clicked to reorient the volume in 3D/VRT viewport.
 
-<img width="339" height="293" alt="Image" src="https://github.com/user-attachments/assets/d9a50e00-74ba-4549-93a7-6d34229c4c18" />
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/d9a50e00-74ba-4549-93a7-6d34229c4c18" />
 
 
 
@@ -42,30 +42,14 @@ Provide volume orientation control when the rotate tool is rotating the clipping
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-Seek advice on implementation (VTK, cornerstone,....)
-
+Seek advice on implementation.
 
 
 
 ## Progress and Next Steps
 
-
-
-## Orientation Controller Tool with VTK Widget Approach
-
-### Summary
-
-Adds an interactive orientation controller for 3D volume viewports using a VTK.js widget. Provides a clickable 26-faced polyhedron (rhombicuboctahedron) for reorienting the camera and visualizing orientation.
-
-### Description
-
-The OrientationController tool displays an interactive orientation marker in volume3d viewports. Users can click faces to reorient the camera and see the current orientation.
-
-### VTK Widget Approach
-
-Uses a VTK.js-based widget architecture:
-
-#### Architecture Overview
+Implementing a cornerstone tool named "Orientation controller' for volume 3D viewports.
+It uses a VTK.js-based widget architecture.
 
 1. **`vtkOrientationControllerWidget`** (`packages/tools/src/utilities/vtkjs/OrientationControllerWidget/`)
    - Core widget managing VTK actors and interaction
@@ -100,7 +84,7 @@ Uses a VTK.js-based widget architecture:
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-<img width="1438" height="1004" alt="image" src="https://github.com/user-attachments/assets/fcb867a9-42dd-417f-951d-2e0bf3c03a05" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/fcb867a9-42dd-417f-951d-2e0bf3c03a05" />
 
 _No response_
 
@@ -113,7 +97,7 @@ _No response_
 
 # Acknowledgements
 
-This project is supported by [Frei Universitat Berlin](https://www.fu-berlin.de/en/index.html)
+This project is supported by [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html)
 
 
 _No response_
