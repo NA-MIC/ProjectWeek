@@ -26,7 +26,7 @@ About 7% of COVID-19 survivors experience long-lasting symptoms known as long-CO
 
 The brain white matter fiber tract of interest to us is the dorsal vagal complex-corticolimbic fiber system (DVC-CLFS), which connects the brainstem and the frontal brain areas (Kikinis et al. 2024). 
 
-<img width="468" height="157" alt="image" src="https://github.com/user-attachments/assets/a8511bd9-6960-48e0-a10c-c657c46d6884" />
+
 
 
 
@@ -36,9 +36,7 @@ The brain white matter fiber tract of interest to us is the dorsal vagal complex
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-In the past project weeks, we have established the protocol for delineating the fiber tract from MRI images using 3D Slicer. During this week, I will reconstruct the fiber tract from additional study subjects.
-
-<img width="468" height="55" alt="image" src="https://github.com/user-attachments/assets/84d0644d-5fea-4710-9815-33eb78c15cd9" />
+Reconstruction of the DVC-CLFS fiber tract in study subjects using 3DSlicer.
 
 
 
@@ -51,7 +49,7 @@ In the past project weeks, we have established the protocol for delineating the 
 
 I will use diffusion and structural MRI, specifically whole-brain tractography and T1 images, from subjects with and without long-COVID to identify the DVC-CLFS fiber tract in its entirety, extending from the frontal lobe to the brainstem.
 
-<img width="468" height="76" alt="image" src="https://github.com/user-attachments/assets/350d7de8-d314-40bc-95a0-7744ae2b8dd2" />
+
 
 
 
@@ -63,7 +61,8 @@ I will use diffusion and structural MRI, specifically whole-brain tractography a
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. In the past project weeks, we have established the protocol for delineating the fiber tract from MRI images using 3D Slicer.
+2. During this week, I will reconstruct the fiber tract from additional study subjects.
 
 
 
@@ -74,9 +73,7 @@ I will use diffusion and structural MRI, specifically whole-brain tractography a
 
 <img width="468" height="533" alt="image" src="https://github.com/user-attachments/assets/12007fc5-7f9c-4ea1-8e71-21ae046ec721" />
 
-<img width="468" height="76" alt="image" src="https://github.com/user-attachments/assets/84cec519-11fc-4b9d-8be5-2f172da24c19" />
-
-_No response_
+Reconstruction of the DVC-CLFS fiber tract (white) using whole-brain tractography and FreeSurfer-generated parcellations using 3D Slicer tool and its extensions.
 
 
 
@@ -85,6 +82,10 @@ _No response_
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
+Investigating the Structural Network Underlying Brain-Immune Interactions Using Combined Histopathology and Neuroimaging: A Critical Review for Its Relevance in Acute and Long COVID-19.
+Kikinis et al. 2024,
+https://pubmed.ncbi.nlm.nih.gov/38590789/
 
-_No response_
+
+
 
