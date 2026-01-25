@@ -70,6 +70,10 @@ _No response_
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+<img width="657" height="162" alt="image" src="https://github.com/user-attachments/assets/a591c303-29fc-46ab-a439-c32be843be89" />
+
+
+<img width="646" height="618" alt="image-1" src="https://github.com/user-attachments/assets/4f78cb31-b6c0-4b22-9a63-0cbe8a0552bf" />
 
 
 _No response_
