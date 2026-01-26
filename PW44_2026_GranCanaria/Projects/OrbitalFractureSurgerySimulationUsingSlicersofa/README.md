@@ -64,6 +64,7 @@ Work on two separate scenes:
 **1. Soft tissue retraction:**
 - Goal: move the retractor to create a gap sufficient to insert the plate
 - Challenges: collision in a confined space; proper mechanical models of different tissue types
+- Creating a single multi-material model
 
 <img src="https://github.com/user-attachments/assets/8ef946f4-00ff-4e3d-b0ce-126b367299fc" width="200">
 <img src="https://github.com/user-attachments/assets/5aa60cab-99d4-48c3-9d09-7eeef7470867" width="250">
