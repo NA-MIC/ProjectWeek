@@ -27,6 +27,8 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
+![SlicerVirtualReality Logo](https://github.com/KitwareMedical/SlicerVirtualReality/raw/master/SlicerVirtualReality.png)
+
 
 Currently SlicerVR is usable with OpenVR/OpenXR, however there are some pending issues:
 - Performance
