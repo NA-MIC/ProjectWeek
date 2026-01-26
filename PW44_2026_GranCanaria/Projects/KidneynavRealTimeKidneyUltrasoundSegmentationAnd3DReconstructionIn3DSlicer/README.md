@@ -78,10 +78,8 @@ During this Project Week, we want to validate the module in a real live scanning
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
-_No response_
+![KidneyNav](https://github.com/user-attachments/assets/25fa7367-8c2f-4506-8d56-5a2cd1663fe3)
 
 
 
