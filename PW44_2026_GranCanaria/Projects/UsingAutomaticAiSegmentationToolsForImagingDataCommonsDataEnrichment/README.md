@@ -98,5 +98,6 @@ _No response_
 - Imaging Data Commons [documentation](https://learn.canceridc.dev/) [portal](https://portal.imaging.datacommons.cancer.gov/explore/)
 - Preprint: ["In Search of Truth: Evaluating Concordance of AI-Based Anatomy Segmentation Models"](https://www.arxiv.org/pdf/2512.15921)
 - 3DSlicer [CrossSegmentationExplorer](https://github.com/ImagingDataCommons/CrossSegmentationExplorer) extension
+- BigQuery table ID for NLST series-level metadata: idc-external-031.nlst_capstone2025.series_level_characteristics
 - This project is continuing earlier PW42 project [“Review of segmentation results quality across various multi-organ segmentation models”](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/ReviewOfSegmentationResultsQualityAcrossVariousMultiOrganSegmentationModels/) and PW43 project ["Evaluating concordance of AI-based anatomy segmentation models"](https://projectweek.na-mic.org/PW43_2025_Montreal/Projects/EvaluatingConcordanceOfAiBasedAnatomySegmentationModels/)
 
