@@ -25,6 +25,14 @@ key_investigators:
   affiliation: Karlsruhe Institute of Technology
   country: Germany
 
+- name: Steve Pieper
+  affiliation: Isomics
+  country: USA
+
+- name: Ron Kikinis
+  affiliation: BWH
+  country: USA
+
 ---
 
 # Project Description
