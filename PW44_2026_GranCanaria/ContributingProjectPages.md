@@ -12,7 +12,7 @@ With the [Project Week GitHub Issue page](https://github.com/NA-MIC/ProjectWeek/
 
 1. [Create a Project](https://github.com/NA-MIC/ProjectWeek/issues/new?assignees=sjh26&labels=project%2Cevent%3A{{ event_name }}&projects=&template=project.yml&title=Project%3A+) issue: If you are ready to create your page, you can simply create a “Project” issue. This issue will allow you to fill out a convenient form to provide the necessary details.  The Project Week website team will then review the issue and trigger the page creation pull request.
 
-2. [Create the project page yourself using the template](Projects/README.md): If you prefer to create the Project Page yourself, you can still do so by using the provided template and submitting a pull request.
+2. [Create the project page yourself using the template](Projects/Template/README.md): If you prefer to create the Project Page yourself, you can still do so by using the provided template and submitting a pull request.
 
 ## Project Creation Tips
 
