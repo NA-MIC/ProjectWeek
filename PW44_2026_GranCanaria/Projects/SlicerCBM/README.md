@@ -9,12 +9,12 @@ presenter_location: In-person
 
 key_investigators:
 
-- name: Benjamin Zwick
-  affiliation: The University of Western Australia
+- name: Ben Zwick
+  affiliation: The University of Western Australia and Talk2View
   country: Australia
 
 - name: Andy Huynh
-  affiliation: The University of Western Australia
+  affiliation: Talk2View
   country: Australia
 
 ---
@@ -66,19 +66,25 @@ SlicerCBM is an extension for 3D Slicer that provides tools for creating and sol
 
 - [#8](https://github.com/SlicerCBM/SlicerCBM/issues/8): TODO list for submitting extension
 - [#41](https://github.com/SlicerCBM/SlicerCBM/issues/41): Fix gmsh Python package import
+- [#45](https://github.com/SlicerCBM/SlicerCBM/issues/45): Check installation of all Python packages
 - [#73](https://github.com/SlicerCBM/SlicerCBM/issues/73): Fix installation issues
 - [#75](https://github.com/SlicerCBM/SlicerCBM/issues/75): Investigate Windows support
 
 ### 2. Update documentation
 
+- [#34](https://github.com/SlicerCBM/SlicerCBM/issues/34): Put modules in categories
+- [#39](https://github.com/SlicerCBM/SlicerCBM/issues/39): Use Segmentations module instead of Model Maker
 - [#55](https://github.com/SlicerCBM/SlicerCBM/issues/55): Improve documentation and website
 
 ### 3. Fix bugs and improve code
 
+- [#48](https://github.com/SlicerCBM/SlicerCBM/issues/48): Fix MVoxMeshGenerator module's handling of arguments
 - [#61](https://github.com/SlicerCBM/SlicerCBM/issues/61): Keep data in MRML nodes
+- [#62](https://github.com/SlicerCBM/SlicerCBM/issues/62): Fix Fusion/CreateSkullAndScalpSegments module
 - [#64](https://github.com/SlicerCBM/SlicerCBM/issues/64): Fix MTLEDSimulator
 - [#65](https://github.com/SlicerCBM/SlicerCBM/issues/65): Fix FuzzyClassification module
 - [#67](https://github.com/SlicerCBM/SlicerCBM/issues/67): Fix BrainMaterialProperties module
+- [#68](https://github.com/SlicerCBM/SlicerCBM/issues/68): Use consistent units (mm) for length
 - [#70](https://github.com/SlicerCBM/SlicerCBM/issues/70): Fix SkullGenerator module
 - [#72](https://github.com/SlicerCBM/SlicerCBM/issues/72): Use VTK mesh formats
 - [#76](https://github.com/SlicerCBM/SlicerCBM/issues/76): Fix long lines
@@ -86,7 +92,8 @@ SlicerCBM is an extension for 3D Slicer that provides tools for creating and sol
 
 ### 4. Add automated tests
 
-- ...
+- Write unit tests for core modules
+- Set up CI/CD pipeline for automated testing
 
 # Illustrations
 
@@ -120,7 +127,7 @@ Sample data:
 - Zwick BF, Safdar S, Bourantas GC, Joldes GR, Hyde DE, Warfield SK,
   Wittek A, Miller K. Data for patient-specific solution of the
   electrocorticography forward problem in deforming brain [Data
-  set]. Zenodo; 2022. <https://zenodo.org/record/7687631>
+  set]. Zenodo; 2022. <https://doi.org/10.5281/zenodo.7687631>
 
 Publications:
 
@@ -147,6 +154,14 @@ Publications:
   framework for patient-specific modelling of tumour resection-induced
   brain shift. Comput Biol Med. 2022;143:105271.
   <https://doi.org/10.1016/j.compbiomed.2022.105271>
+
+- Safdar S, Zwick BF, Bourantas G, Joldes GR, Warfield SK, Hyde DE,
+  Wittek A, Miller K. Automatic Framework for Patient-Specific
+  Biomechanical Computations of Organ Deformation: An Epilepsy (EEG)
+  Case Study. In: Nielsen PMF, Nash MP, Li X, Miller K, Wittek A,
+  editors. Computational Biomechanics for Medicine. Cham: Springer
+  International Publishing; 2022. p. 75–89.
+  <https://doi.org/10.1007/978-3-031-09327-2_5>
 
 Previous Project Weeks:
 
