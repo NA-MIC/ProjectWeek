@@ -54,6 +54,12 @@ For the Lymph Node Quantification project we want to analyze and share head and 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+### Mockups
+
+### Area to be defaced
+
+<img width="1008" height="377" alt="image" src="https://github.com/user-attachments/assets/bb1f2597-e68e-416f-a87f-619629f95674" />
+
 
 ### Open Questions
 
