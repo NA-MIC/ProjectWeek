@@ -3,8 +3,8 @@ layout: pw44-project
 
 permalink: /:path/
 
-project_title: Python dependencies in extensions, and dmri population analysis library bridge
-category: Computation
+project_title: DMRI population analysis library bridge
+category: Quantification and Computation
 presenter_location: 
 
 key_investigators:
