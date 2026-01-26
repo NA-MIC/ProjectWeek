@@ -45,23 +45,16 @@ Currently SlicerVR is usable with OpenVR/OpenXR, however there are some pending 
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-
-Improve the state of VR support in Slicer.
-
-
-
+Bring SlicerVR to stable, usable performance and complete basic interaction support.
 
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-
-1. Test the current performance and behavior of interactions with SlicerVR
-2. Implement fixes targeting the issues.
-3. Iterate
-
-
-
+1. Profile and baseline performance (CPU, GPU, FPS in representative scenes)
+2. Fix highest-impact performance issues (markups, widgets, volume rendering)
+3. Add missing OpenXR controller input mapping
+4. Iterate with testing in real scenes
 
 ## Progress and Next Steps
 
@@ -70,9 +63,6 @@ Improve the state of VR support in Slicer.
 
 
 1. Performance update for Markups bypassing depth check for visible points ([Slicer#8979](https://github.com/Slicer/Slicer/pull/8979)) ([SlicerVirtualReality#185](https://github.com/KitwareMedical/SlicerVirtualReality/pull/185))
-
-
-
 
 # Illustrations
 
