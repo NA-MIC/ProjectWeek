@@ -47,6 +47,7 @@ For the Lymph Node Quantification project we want to analyze and share head and 
 
 * Figure out if existing MR defacing tools can be used for this, perhaps by mapping the CT to MR
 * Explore the state of the art in [Facial animation systems](https://research.nvidia.com/labs/amri/projects/gaia/)
+* A more recent paper referencing the Milchenko paper [Deidentification of CT head images](https://pmc.ncbi.nlm.nih.gov/articles/PMC10406725/pdf/12021_2023_Article_9631.pdf)
 
 
 ## Progress and Next Steps
