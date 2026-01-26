@@ -1,0 +1,106 @@
+---
+layout: pw44-project
+
+permalink: /:path/
+
+project_title: SlicerCBM - Computational Biophysics for Medicine in 3D Slicer
+category: Quantification and Computation
+presenter_location: In-person
+
+key_investigators:
+
+- name: Benjamin Zwick
+  affiliation: The University of Western Australia
+  country: Australia
+
+- name: Andy Huynh
+  affiliation: The University of Western Australia
+  country: Australia
+
+---
+
+# Project Description
+
+<!-- Add a short paragraph describing the project. -->
+
+SlicerCBM is an extension for 3D Slicer that provides tools for creating and solving computational models of biophysical systems and processes with a focus on clinical and biomedical applications. Features include grid generation, assignment of material properties and boundary conditions, and solvers for biomechanical modeling and biomechanics-based non-rigid image registration.
+
+## Objective
+
+<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+
+1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
+1. Objective B. ...
+1. Objective C. ...
+
+## Approach and Plan
+
+<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+
+1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
+1. ...
+1. ...
+
+## Progress and Next Steps
+
+<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
+     If there are specific steps that you could not complete then you can describe them here, too. -->
+
+1. Describe specific steps you **have actually done**.
+1. ...
+1. ...
+
+# Illustrations
+
+<!-- Add pictures and links to videos that demonstrate what has been accomplished.
+![Description of picture](Example2.jpg)
+![Some more images](Example2.jpg)
+-->
+
+# Background and References
+
+<!-- If you developed any software, include link to the source code repository.
+     If possible, also add links to sample data, and to any relevant publications. -->
+
+Code repository and documentation:
+
+- <https://github.com/SlicerCBM/SlicerCBM>
+- <https://slicercbm.org>
+
+Sample data:
+
+- Zwick BF, Safdar S, Bourantas GC, Joldes GR, Hyde DE, Warfield SK,
+  Wittek A, Miller K. Data for patient-specific solution of the
+  electrocorticography forward problem in deforming brain [Data
+  set]. Zenodo; 2022. <https://zenodo.org/record/7687631>
+
+Publications:
+
+- Zwick BF, Safdar S, Bourantas GC, Joldes GR, Hyde DE, Warfield SK,
+  Wittek A, Miller K. Image data and computational grids for
+  computing brain shift and solving the electrocorticography
+  forward problem. Data in Brief. 2023;48:109122.
+  <https://doi.org/10.1016/j.dib.2023.109122>
+
+- Safdar S, Zwick BF, Yu Y, Bourantas GC, Joldes GR, Warfield SK,
+  Hyde DE, Frisken S, Kapur T, Kikinis R, Golby A, Nabavi A,
+  Wittek A, Miller K. SlicerCBM: automatic framework for
+  biomechanical analysis of the brain. Int J CARS. 2023.
+  <https://doi.org/10.1007/s11548-023-02881-7>
+
+- Zwick BF, Bourantas GC, Safdar S, Joldes GR, Hyde DE, Warfield SK,
+  Wittek A, Miller K. Patient-specific solution of the
+  electrocorticography forward problem in deforming
+  brain. NeuroImage. 2022;263:119649.
+  <https://doi.org/10.1016/j.neuroimage.2022.119649>
+
+- Yu Y, Safdar S, Bourantas GC, Zwick BF, Joldes GR, Kapur T, Frisken
+  S, Kikinis R, Nabavi A, Golby A, Wittek A, Miller K. Automatic
+  framework for patient-specific modelling of tumour resection-induced
+  brain shift. Comput Biol Med. 2022;143:105271.
+  <https://doi.org/10.1016/j.compbiomed.2022.105271>
+
+Previous Project Weeks:
+
+- [PW39 SlicerCBM](https://projectweek.na-mic.org/PW39_2023_Montreal/Projects/SlicerCBM/)
+- [PW38 SlicerCBM](https://projectweek.na-mic.org/PW38_2023_GranCanaria/Projects/SlicerCBM/)
