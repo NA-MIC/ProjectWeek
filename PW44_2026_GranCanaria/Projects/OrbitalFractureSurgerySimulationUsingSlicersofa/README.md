@@ -76,6 +76,8 @@ Work on two separate scenes:
 **3. Run a demo scene in SlicerSOFA**
 - How to integrate Slicer methods to facilitate mechanical model preparation and interaction, such as controller
 
+- Demo scene "tap the eyeball"
+
  <video
    controls muted
    src="https://github.com/user-attachments/assets/0b93f9aa-dabe-4870-8e73-00c9a834fc28"
