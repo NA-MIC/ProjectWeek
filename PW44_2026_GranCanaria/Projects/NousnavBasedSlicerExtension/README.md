@@ -56,7 +56,13 @@ The goal of this project is to create a Slicer Extension (tentative name SlicerN
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
+1. PRIORITY: Clear out pending NousNav todos and prepare a new release
+    1. Autosave / segmentation lag
+    1. Other issues from Sonia
+1. Refactor modules to a new extension: SlicerOpenNav
+1. Test build with refactored modules
+1. Code modernization
+    1. Parameter node usage
 
 
 
