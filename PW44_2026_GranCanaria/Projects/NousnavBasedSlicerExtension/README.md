@@ -51,7 +51,7 @@ The goal of this project is to create a Slicer Extension (tentative name SlicerN
 
 
 
-## Objective
+## Tasks
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
@@ -61,20 +61,10 @@ The goal of this project is to create a Slicer Extension (tentative name SlicerN
     1. Other issues from Sonia
 1. Refactor modules to a new extension: SlicerOpenNav
 1. Test build with refactored modules
+1. Test extension with latest Slicer version
 1. Code modernization
+    1. Update NousNav to latested Slicer
     1. Parameter node usage
-
-
-
-
-## Approach and Plan
-
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-
-
 
 
 ## Progress and Next Steps
@@ -93,8 +83,6 @@ The goal of this project is to create a Slicer Extension (tentative name SlicerN
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_No response_
-
 
 
 # Background and References
@@ -103,5 +91,4 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-_No response_
-
+- 
