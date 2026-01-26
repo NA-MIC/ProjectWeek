@@ -95,7 +95,6 @@ List of registered participants so far (names will be added here after processin
 1. Deepa Krishnaswamy, Brigham and Women's Hospital, Harvard Medical School, USA
 1. Domenico Riggio, Karlsruhe Institute of Technology,  Germany
 1. Álvaro Falcón Santana, Instituto de Microelectrónica Aplicada (IUMA) - Universidad de Las Palmas de Gran Canaria (ULPGC), Spain
-1. Tina Kapur, Brigham and Women's Hospital, Harvard Medical School, USA
 1. Gabor Fichtinger, Queen's University, Canada
 1. Gabriella d'Albenzio, School of Computing, Queen's University, Canada
 1. Alejandro Rodríguez Moreno, Ebatinca SL, Spain
