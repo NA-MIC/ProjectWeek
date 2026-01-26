@@ -23,7 +23,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-SlicerCBM is an extension for 3D Slicer that provides tools for creating and solving computational models of biophysical systems and processes with a focus on clinical and biomedical applications. Features include grid generation, assignment of material properties and boundary conditions, and solvers for biomechanical modeling and biomechanics-based non-rigid image registration.
+SlicerCBM (Computational Biophysics for Medicine in 3D Slicer) is an extension for 3D Slicer that provides tools for creating and solving computational models of biophysical systems and processes with a focus on clinical and biomedical applications. Features include segmentation, mesh generation, assignment of material properties (mechanical and electrical) and boundary conditions, and solvers for biomechanical modeling, electrical field modeling (EEG forward problem), and biomechanics-based non-rigid image registration.
 
 ## Objective
 
