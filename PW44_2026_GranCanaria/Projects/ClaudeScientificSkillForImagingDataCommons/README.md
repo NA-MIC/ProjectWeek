@@ -90,6 +90,8 @@ _No response_
 
 # Background and References
 
+* IDC forum post put together using the developed skill: https://discourse.canceridc.dev/t/locating-fractional-dicom-segmentations-in-idc/776
+
 Coding agents learning materials:
 * [agents.md](https://github.com/agentsmd/agents.md)
 * [How to write a great agents.md: lessons from over 2,500 repositories](https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/)
@@ -98,4 +100,5 @@ Coding agents learning materials:
 Mike Halle's IDC skill (works with Claude Code and Claude platform/web/mobile)
  * [https://github.com/mhalle/idc-skill/](https://github.com/mhalle/idc-skill/)
  * [https://github.com/mhalle/idc-skill/releases/latest/download/idc-skill.skill](https://github.com/mhalle/idc-skill/releases/latest/download/idc-skill.skill)
+
 
