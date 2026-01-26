@@ -47,7 +47,7 @@ Currently DICOM support in extensions is written to a json file in the slicer re
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Update Slicer ExtensionsIndex to include DICOM related metadata, update schema (Kyle has the branch)
+1. Update Slicer ExtensionsIndex to include DICOM related metadata, update schema ([See branch here](https://github.com/Sunderlandkyl/ExtensionsIndex/tree/dicom_support_rule))
 2. Update [Slicer Package Manager](https://github.com/girder/slicer_package_manager) to handle additional DICOM support metadata
     - This can be done by specifying a [rule-engine](https://pypi.org/project/rule-engine/) string that can be used to define extension compatibility with Modality and SOPClassUID.
     - Ex:
