@@ -40,18 +40,18 @@ SlicerCBM is an extension for 3D Slicer that provides tools for creating and sol
 
 ### 1. Submit to Extension Index
 
-- Complete submission requirements
-- Address reviewer feedback
+- Complete submission requirements ([#8](https://github.com/SlicerCBM/SlicerCBM/issues/8))
+- Fix installation issues
 
 ### 2. Update documentation
 
 - Rewrite tutorials on slicercbm.org ([#55](https://github.com/SlicerCBM/SlicerCBM/issues/55))
-- Add module usage examples
 
 ### 3. Fix bugs and improve code
 
 - Fix critical module bugs
 - Improve Slicer integration (MRML nodes, VTK formats)
+- Enable stricter linting ([#77](https://github.com/SlicerCBM/SlicerCBM/issues/77))
 
 ### 4. Add automated tests
 
@@ -64,6 +64,8 @@ SlicerCBM is an extension for 3D Slicer that provides tools for creating and sol
 
 ### 1. Submit to Extension Index
 
+- [#8](https://github.com/SlicerCBM/SlicerCBM/issues/8): TODO list for submitting extension
+- [#41](https://github.com/SlicerCBM/SlicerCBM/issues/41): Fix gmsh Python package import
 - [#73](https://github.com/SlicerCBM/SlicerCBM/issues/73): Fix installation issues
 - [#75](https://github.com/SlicerCBM/SlicerCBM/issues/75): Investigate Windows support
 
@@ -78,6 +80,9 @@ SlicerCBM is an extension for 3D Slicer that provides tools for creating and sol
 - [#65](https://github.com/SlicerCBM/SlicerCBM/issues/65): Fix FuzzyClassification module
 - [#67](https://github.com/SlicerCBM/SlicerCBM/issues/67): Fix BrainMaterialProperties module
 - [#70](https://github.com/SlicerCBM/SlicerCBM/issues/70): Fix SkullGenerator module
+- [#72](https://github.com/SlicerCBM/SlicerCBM/issues/72): Use VTK mesh formats
+- [#76](https://github.com/SlicerCBM/SlicerCBM/issues/76): Fix long lines
+- [#77](https://github.com/SlicerCBM/SlicerCBM/issues/77): Enable stricter ruff linting
 
 ### 4. Add automated tests
 
