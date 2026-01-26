@@ -96,5 +96,5 @@ Future developments will focus on:
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-- Steve Pieper, SlicerGetFEM, https://github.com/pieper/SlicerGetFEM
+- Steve Pieper, SlicerGetFEM, (https://github.com/pieper/SlicerGetFEM)[[https://github.com/pieper/SlicerGetFEM]
 
