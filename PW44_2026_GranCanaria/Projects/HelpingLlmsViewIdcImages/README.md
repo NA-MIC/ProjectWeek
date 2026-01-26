@@ -30,7 +30,7 @@ The Imaging Data Commons is filled with imaging data, but idc-index and database
 
 
 1. A standalone python CLI for displaying an image or mosaic from an IDC series. 
-2. A Claude Skill (or an extension of an existing skill) that teached an LLM to look at IDC images.
+2. A Claude Skill (or an extension of an existing skill) that teaches an LLM to look at IDC images.
 
 
 
