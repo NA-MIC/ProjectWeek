@@ -27,7 +27,7 @@ key_investigators:
 
 Bug description:
 1. Sync a parameter node to a qtMRLComboBox node.
-2. Add the parameter node to a subjectHierarchy node. Both the parameter Node and the qtMRMLComboBox node set to 'None'.
+2. Add the parameter node to a subjectHierarchy folder. Both the parameter Node and the qtMRMLComboBox node set to 'None'.
 
  [Slicer Discourse thread](https://discourse.slicer.org/t/slicer-5-10-qmrmlsubjecthierarchycombobox-turned-to-none-but-no-issue-with-5-8-1/45203/5)
 
