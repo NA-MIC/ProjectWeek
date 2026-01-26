@@ -21,8 +21,7 @@ key_investigators:
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
-
+<iframe width="420" height="315" src="https://www.youtube.com/embed/YFl7LF5hWxI"></iframe>
 
 3D Slicer has the potential to be a powerful dissemination platform for novel 3D rendering methods targeted at medical imaging. However, its complex architecture is challenging for most experienced graphics programmers. It is difficult to create extensions that implement novel graphics pipeline without mastering a large portion of the Slicer architecture.
 
