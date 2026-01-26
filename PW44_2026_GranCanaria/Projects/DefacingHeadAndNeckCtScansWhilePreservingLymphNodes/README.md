@@ -58,7 +58,14 @@ For the Lymph Node Quantification project we want to analyze and share head and 
 
 ### Area to be defaced
 
+* Closed curve snapped to model surface
+
 <img width="1008" height="377" alt="image" src="https://github.com/user-attachments/assets/bb1f2597-e68e-416f-a87f-619629f95674" />
+
+* Dynamic modeling applied to suface wrap solidfy model
+* 
+<img width="440" height="476" alt="image" src="https://github.com/user-attachments/assets/95876794-4d8e-414b-8e9e-f9361d6fe97a" />
+
 
 
 ### Open Questions
