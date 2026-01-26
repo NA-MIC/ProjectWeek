@@ -111,10 +111,10 @@ key_investigators:
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
-https://github.com/user-attachments/assets/ade8677a-3917-4ddd-ba65-ca6881cff4e3
-
-
+<video
+  controls muted
+  src="https://github.com/user-attachments/assets/ade8677a-3917-4ddd-ba65-ca6881cff4e3">
+</video>
 
 # Background and References
 
