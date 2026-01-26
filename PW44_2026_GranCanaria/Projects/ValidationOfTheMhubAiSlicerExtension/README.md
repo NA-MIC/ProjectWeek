@@ -74,7 +74,7 @@ A core part of this project is to collect user feedback in a structured way (set
 <p float="left">
   <img height="500" alt="Bildschirmfoto 2026-01-26 um 12 10 40" src="https://github.com/user-attachments/assets/18a28dc9-386a-4a04-a3a7-f4bd69ab346e" />
   <img height="500" alt="Bildschirmfoto 2026-01-26 um 12 11 48" src="https://github.com/user-attachments/assets/413917c6-6f2f-49d3-8412-293b1078747f" />
-</p>p>
+</p>
 
 
 # Background and References
