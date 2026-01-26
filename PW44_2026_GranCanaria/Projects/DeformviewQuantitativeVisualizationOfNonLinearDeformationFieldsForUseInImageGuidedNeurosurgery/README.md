@@ -127,8 +127,17 @@ Voxel-wise magnitude of non-linear deformation between preoperative T2-FLAIR MRI
 <img src="https://github.com/user-attachments/assets/72cd8330-0b6c-4e1b-bed4-29fcaef86351" width="500" alt="Displacement magnitude map" />
 
 ---
+
+**Overlay of Displacement Magnitude (Colour Map) & Current 3D Slicer Transform Visualizer Module (Glyphs)
+
+The current Transform Visualizer module (core 3D Slicer module) visualizes deformation as glyphs (arrows), grid, and contour. When integrated together, it is more intuitive where deformation has occurred (DeformView) and the direction of deformation (Transform Visualizer).
+<img width="500" alt="NAMIC-Overlay" src="https://github.com/user-attachments/assets/7f059022-35c2-41d7-ae36-b223d832a4a6" />
+
+
+---
 **Jacobian determinant magnitude map**  
 Visual of the Jacobian map, where red indicates tissue expansion and blue is tissue compression, as a percentage. This is the same data as the above displacement magnitude example.
+
 
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/85204f95-f9d9-46bf-b656-2ed5951b3d25" />
 
