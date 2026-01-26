@@ -77,6 +77,7 @@ We will use the [CTHead](https://drive.google.com/file/d/1a0tt9_Uu7whrYs2VKbBezw
 
 
 * [Facial lymph nodes - Wikipedia](https://en.wikipedia.org/wiki/Facial_lymph_nodes)
+* [Paper describing defacing by adding variable thickness epidermis](https://pmc.ncbi.nlm.nih.gov/articles/PMC3538950/pdf/nihms407349.pdf)
 
 ## Inspirations
 
