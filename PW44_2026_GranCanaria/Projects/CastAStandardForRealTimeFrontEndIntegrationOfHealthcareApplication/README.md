@@ -86,7 +86,7 @@ Cast serves as an umbrella standard that encompasses specialized variants such a
 
 
 1. Getting started:
-    - Open the [OHIF client](https://cast-hub-g6abetanhjesb6cx.westeurope-01.azurewebsites.net/api/hub/admin) and note your user name in the top right corner.  
+    - Open the [OHIF client](https://na-mic-projectweek44-g0g4a5c5dgc5dcf3.westeurope-01.azurewebsites.net/) and note your user name in the top right corner.  
     - In the sprocket icon, open the Cast admin portal.  Note the subscribtion for your subscriber (application) and the topic matching your user.
     - In the sprokect icon, open the Cast test client.  The test client will have the topic prefilled with you user.
     - Click the Subscribe button.  The subscription will appear in the admin portal.
@@ -144,7 +144,14 @@ Conference portal:
 
   <iframe width="800" height="400" src="https://youtube.com/embed/O-M0Y9JHcoQ" ></iframe>
   
+  
    
+   Cast components:
+
+
+   
+   <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fa278c4d-4199-4a19-807e-41aa19acb59a" />
+
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
