@@ -78,7 +78,7 @@ Work on two separate scenes:
 
  <video
    controls muted
-   src="[examples_Screencast from 01-23-2026 04_40_03 PM.webm](https://github.com/user-attachments/assets/0b93f9aa-dabe-4870-8e73-00c9a834fc28)"
+   src="https://github.com/user-attachments/assets/0b93f9aa-dabe-4870-8e73-00c9a834fc28"
    style="max-height:640px; min-height: 200px">
  </video>
 
