@@ -74,10 +74,26 @@ We will use the [CTHead](https://drive.google.com/file/d/1a0tt9_Uu7whrYs2VKbBezw
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
 
 
 * [Facial lymph nodes - Wikipedia](https://en.wikipedia.org/wiki/Facial_lymph_nodes)
+
+## Inspirations
+
+### "Phantom of the Opera" deidentification:
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/9cf6fd85-43c6-4e12-9de7-a7ded3f9c485" />
+
+### "Venetian Masquerade" deidentification:
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c7aad156-f783-47bb-8e3a-125bbb1edb97" />
+
+### "Traditional medical publication" deidentification:
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f6d69bb7-3356-4334-813b-e6eea7862bb4" />
+
+
+
+
 
 
