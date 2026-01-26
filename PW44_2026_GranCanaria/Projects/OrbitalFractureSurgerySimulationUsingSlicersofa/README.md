@@ -76,7 +76,15 @@ Work on two separate scenes:
 **3. Run a demo scene in SlicerSOFA**
 - How to integrate Slicer methods to facilitate mechanical model preparation and interaction, such as controller
 
+ <video
+   controls muted
+   src="[examples_Screencast from 01-23-2026 04_40_03 PM.webm](https://github.com/user-attachments/assets/0b93f9aa-dabe-4870-8e73-00c9a834fc28)"
+   style="max-height:640px; min-height: 200px">
+ </video>
+
+
 **4. Planning for benchmarking and validation: what is considered as "success" at this stage?**
+
 
 
 
