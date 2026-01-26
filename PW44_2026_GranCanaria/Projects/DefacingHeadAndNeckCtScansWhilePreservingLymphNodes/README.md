@@ -55,7 +55,12 @@ For the Lymph Node Quantification project we want to analyze and share head and 
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+### Open Questions
+
+* What are the state-of-the-art definitions for facial deidentitication and how do they intersect with our requirements?
+* What primitives exist in the Slicer ecosystem that can be used as building blocks, such as landmark detection, image manipulation, and segmentation to make a robust pipeline.
+* Can we use exising infrastructure or is it better to build something custom.
+
 
 
 
