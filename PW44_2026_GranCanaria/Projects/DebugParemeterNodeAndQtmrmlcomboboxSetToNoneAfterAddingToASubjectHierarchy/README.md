@@ -125,7 +125,7 @@ shComboBox.currentNode(): None
 parameter.selectedFiducial: None
 ```
 
-
+If qt combobox signal is blocked using `qt.QSignalBlocker`, then parameter node will not be set to 'None'
 
 
 
