@@ -73,10 +73,6 @@ I will use diffusion and structural MRI, specifically whole-brain tractography a
 
 Reconstruction of the DVC-CLFS fiber tract (white) using whole-brain tractography and FreeSurfer-generated parcellations using 3D Slicer tool and its extensions.
 
-<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/95b7585f-c40c-464a-bbd1-f1ccf8a14f40" />
-
-
-
 
 # Background and References
 
