@@ -62,7 +62,7 @@ A core part of this project is to collect user feedback in a structured way (set
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Please fill this form to test the extension: https://forms.office.com/Pages/ResponsePage.aspx?id=AUGsYwXdcUe81i4qVCHl-qLmGEsaj-pFrsfxy3-hTudUQ0lKR0xZVjlCMFlNNlY3OTRSV1NFN0tQQi4u
+1. Please fill [this form if you want to test the MHub.ai 3D Slicer extension](https://forms.office.com/Pages/ResponsePage.aspx?id=AUGsYwXdcUe81i4qVCHl-qLmGEsaj-pFrsfxy3-hTudUQ0lKR0xZVjlCMFlNNlY3OTRSV1NFN0tQQi4u)
 
 
 
