@@ -31,6 +31,7 @@ key_investigators:
 Currently SlicerVR is usable with OpenVR/OpenXR, however there are some pending issues:
 - Performance
     - Adding markups to the scene causes an immediate drop in framerate and rendering artifacts
+    - Visualization of interaction handles results in performance issues
     - Volume rendering with multi-component images/sequences causes a drop in framerate when the camera is close to the volume
  
 - Interaction
