@@ -64,15 +64,20 @@ SlicerCBM is an extension for 3D Slicer that provides tools for creating and sol
 
 ### 1. Submit to Extension Index
 
-- ...
+- [#73](https://github.com/SlicerCBM/SlicerCBM/issues/73): Fix installation issues
+- [#75](https://github.com/SlicerCBM/SlicerCBM/issues/75): Investigate Windows support
 
 ### 2. Update documentation
 
-- ...
+- [#55](https://github.com/SlicerCBM/SlicerCBM/issues/55): Improve documentation and website
 
 ### 3. Fix bugs and improve code
 
-- ...
+- [#61](https://github.com/SlicerCBM/SlicerCBM/issues/61): Keep data in MRML nodes
+- [#64](https://github.com/SlicerCBM/SlicerCBM/issues/64): Fix MTLEDSimulator
+- [#65](https://github.com/SlicerCBM/SlicerCBM/issues/65): Fix FuzzyClassification module
+- [#67](https://github.com/SlicerCBM/SlicerCBM/issues/67): Fix BrainMaterialProperties module
+- [#70](https://github.com/SlicerCBM/SlicerCBM/issues/70): Fix SkullGenerator module
 
 ### 4. Add automated tests
 
