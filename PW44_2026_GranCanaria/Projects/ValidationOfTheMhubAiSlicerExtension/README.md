@@ -71,9 +71,10 @@ A core part of this project is to collect user feedback in a structured way (set
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
-<img width="602" height="698" alt="Image" src="https://github.com/user-attachments/assets/512662a2-a339-41f8-8d0c-0a3c86ed79b4" />
-
+<p float="left">
+  <img height="500" alt="Bildschirmfoto 2026-01-26 um 12 10 40" src="https://github.com/user-attachments/assets/18a28dc9-386a-4a04-a3a7-f4bd69ab346e" />
+  <img height="500" alt="Bildschirmfoto 2026-01-26 um 12 11 48" src="https://github.com/user-attachments/assets/413917c6-6f2f-49d3-8412-293b1078747f" />
+</p>p>
 
 
 # Background and References
