@@ -63,9 +63,16 @@ For the Lymph Node Quantification project we want to analyze and share head and 
 <img width="1008" height="377" alt="image" src="https://github.com/user-attachments/assets/bb1f2597-e68e-416f-a87f-619629f95674" />
 
 * Dynamic modeling applied to suface wrap solidfy model
-* 
+
 <img width="440" height="476" alt="image" src="https://github.com/user-attachments/assets/95876794-4d8e-414b-8e9e-f9361d6fe97a" />
 
+* Facial blur
+
+<img width="798" height="508" alt="image" src="https://github.com/user-attachments/assets/b3c02fc2-2d83-4b3d-b2ce-e89b3186f67a" />
+
+* Extra blur
+
+<img width="677" height="481" alt="image" src="https://github.com/user-attachments/assets/acb70748-22ba-45fd-a85e-954d9ac39d9c" />
 
 
 ### Open Questions
