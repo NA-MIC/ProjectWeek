@@ -139,8 +139,8 @@ The current Transform Visualizer module (core 3D Slicer module) visualizes defor
 **Jacobian determinant magnitude map**  
 Visual of the Jacobian map, where red indicates tissue expansion and blue is tissue compression, as a percentage. This is the same data as the above displacement magnitude example.
 
+<img width="700" alt="Jacobian_mag" src="https://github.com/user-attachments/assets/4b01baf2-ddc9-44da-b8c2-9a5b81b702b8" />
 
-<img width="800" alt="Image" src="https://github.com/user-attachments/assets/85204f95-f9d9-46bf-b656-2ed5951b3d25" />
 
 ---
 
