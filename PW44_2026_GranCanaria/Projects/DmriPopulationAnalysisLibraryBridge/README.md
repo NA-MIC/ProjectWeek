@@ -11,7 +11,11 @@ key_investigators:
 
 - name: Ebrahim Ebrahim
   affiliation: Kitware
-  country: US
+  country: USA
+
+- name: Arthur Chakwizira
+  affiliation: BWH
+  country: USA
 
 ---
 
@@ -20,7 +24,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-We've been working on a python library, currently (badly) named [abcdmicro](https://github.com/brain-microstructure-exploration-tools/abcd-microstructure-pipelines/), for diffusion MRI population analysis. Its goal is to make it easy to have the tools you need for processing population brain diffusion MRI in one convenient-to-set-up python package, with normally disparate processing steps getting linked together nicely. Slicer isn't where one would typically do large population analysis, but it is an excellent for visualizing examples while putting together a pipeline, and it's excellent for interacting with results. For this reason, I'd like to look into bridging abcdmicro with Slicer. This is somewhat related to the above, because it would be yet another example of an extension that has external python dependencies.
+We've been working on a python library, currently (badly) named [abcdmicro](https://github.com/brain-microstructure-exploration-tools/abcd-microstructure-pipelines/), for diffusion MRI population analysis. Its goal is to make it easy to have the tools you need for processing population brain diffusion MRI in one convenient-to-set-up python package, with normally disparate processing steps getting linked together nicely. Slicer isn't where one would typically do large population analysis, but it is an excellent for visualizing examples while putting together a pipeline, and it's excellent for interacting with results. For this reason, I'd like to look into bridging abcdmicro with Slicer.
 
 
 
