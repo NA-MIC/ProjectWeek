@@ -21,6 +21,10 @@ key_investigators:
   affiliation: Kitware
   country: USA
 
+- name: Andras Lasso
+  affiliation: Queen's
+  country: Canada
+
 ---
 
 # Project Description
@@ -418,7 +422,7 @@ Here is a legend to interpret the terms I've put in the table:
                <td>SlicerNNInteractive</td>
                <td style="background-color: #dddddd">simple</td>
                <td style="background-color: #eeeeee">top level</td>
-               <td style="background-color: #ccffcc; color: #006600">display, blocking-prevention</td>
+               <td style="background-color: #ccffcc; color: #006600">display, blocking-prevention, isolated</td>
           </tr>
           <tr>
                <td>SlicerNNUnet</td>
@@ -663,15 +667,29 @@ Further points that I'd like to follow up on:
 
 - I found some [thoughts from JC](https://github.com/Slicer/Slicer/issues/7171) that I'd like to look over carefully.
 - On that note, besides _checking_, _triggering_, and _installing_, I think there is also the problem of how to _specify_ dependencies.
+- I had forgotten about [this work by David](https://github.com/Slicer/Slicer/issues/7707). This could help with the _triggering_ question in particular. One consideration is to not make things too opaque so as to make debugging difficult (e.g. say a module import fails; will the error be incomprehensible?)
 - What about the problem of conflicts between requirements of different extensions? For an example see the mess that was caused by the conflict between the total segmentator and NNUnet extensions.
 - When extension unit tests are running, they have the ability to influence each other's slicer python environment. It would be nice if there were some way to revert the slicer python environment before each extension test begins. This is out of the scope of the present project but we can consider how it might be done.
+
+### Refined next steps
+
+A plan of attack:
+
+- Come up with a dependency specification format. Use [JC's commentary](https://github.com/Slicer/Slicer/issues/7171) and AI help to find the best solution. Consider the strange dependency conflict handling that takes place in [NNUnet](https://github.com/KitwareMedical/SlicerNNUnet/blob/e44b00883e8f373c72bf79c50455bd2c776ed8cf/SlicerNNUnet/SlicerNNUNetLib/InstallLogic.py#L32) and [Total Segmentator](https://github.com/lassoan/SlicerTotalSegmentator/blob/2e5f9c3aa38365cc63eba2f3c8ea1c2e2b79acd8/TotalSegmentator/TotalSegmentator.py#L745), or whether we can handle bringing the [currently isolated docker environment and requirements in NNInteractive](https://github.com/coendevente/SlicerNNInteractive/tree/76545192e1a925f911a31dea72802ad04d089072/server) into slicer's python. 
+- Come up with a solution to the *checking* problem, referencing the extensions with the *version* tag in the table above and with some AI help.
+- Come up with a solution to the *triggering* problem, referencing [David's work](https://github.com/Slicer/Slicer/issues/7707) and some AI help.
+- Come up with a solution to the *installation* problem by addressing the following:
+  - Display: Progress reporting, the option to prompt the user about what is happening and whether they want to proceed, showStatusMessage, busy cursor if not running in background. Reference the extensions with the *display* tag above.
+  - Blocking prevention approach. Reference the extensions with the *blocking-prevention* tag above.
+- Consider whether there is room to appraoch the problem of "environment reversion" for the sake of extension testing.
+- Implementation
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_No response_
+_Coming soon..._
 
 
 
