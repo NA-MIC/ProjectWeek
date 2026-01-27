@@ -51,9 +51,9 @@ _No response_
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-
-
+### Meeting: Ron, Kyle, Andras and Martin - Tuesday 27th @ 10AM
+  - User options are too complicated
+    - Options should be simpler, Ex: it is not clear what "Capture display nodes" means
 
 
 ## Progress and Next Steps
@@ -61,24 +61,16 @@ _No response_
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
-1. Describe specific steps you **have actually done**.
-
-
-
+1. Simplify user options for Scene Views dialog
+    - Capture display nodes -> Save display settings
+    - Capture view nodes -> Save view layout
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 <img width="657" height="162" alt="image" src="https://github.com/user-attachments/assets/a591c303-29fc-46ab-a439-c32be843be89" />
 
-
 <img width="646" height="618" alt="image-1" src="https://github.com/user-attachments/assets/4f78cb31-b6c0-4b22-9a63-0cbe8a0552bf" />
-
-
-_No response_
-
-
 
 # Background and References
 
