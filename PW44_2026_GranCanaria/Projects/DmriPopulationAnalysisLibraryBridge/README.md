@@ -51,8 +51,27 @@ We've been working on a python library, currently (badly) named [abcdmicro](http
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-_No response_
+2026-01-27
 
+[Added two example notebooks](https://github.com/brain-microstructure-exploration-tools/abcd-microstructure-pipelines/pull/117) to abcdmicro. This helps introduce the functionality.
+
+One notebook works up through NODDI estimation and tract segmentation for a particular subject:
+
+![NODDI estimate for a particular subject](noddi-example.png)
+
+![Tract segmentation example](tractseg-example.png)
+
+The other demonstrates multimodal population template construction:
+
+![FA and MD population templates](multimodal-template-example.png)
+
+In a discussion with Arthur, here are some future directions we identified as valuable:
+
+- Adding more pre-processing such as motion correction, gibbs ringing correction, etc.
+- Incorporating strucural mri processing and handling co-registration
+- Adding more microstructure models
+- Support DICOM as an on-disk format, and consider having dicom-nifti conversion
+- Adding (optional?) experimental parameters to DWI class (or a subclass?) to support things like time-dependent diffusion mri
 
 
 # Illustrations
@@ -60,7 +79,7 @@ _No response_
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_No response_
+_Coming soon..._
 
 
 
