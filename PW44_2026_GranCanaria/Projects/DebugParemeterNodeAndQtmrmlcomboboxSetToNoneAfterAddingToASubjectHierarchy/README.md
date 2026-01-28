@@ -52,14 +52,8 @@ Here is a sample script that connect a qtMRMLComboBox node to a parameter node, 
 
 ```
 import slicer, qt
-from slicer.parameterNodeWrapper import parameterNodeWrapper
-
-@parameterNodeWrapper
-class SHTestParameters:
-    selectedFiducial: slicer.vtkMRMLMarkupsFiducialNode
 
 dialog = qt.QDialog(slicer.util.mainWindow())
-dialog.setWindowTitle("SHComboBox move -> GUI reset -> Param wipe test")
 layout = qt.QVBoxLayout(dialog)
 
 shComboBox = slicer.qMRMLSubjectHierarchyComboBox()
@@ -73,34 +67,19 @@ layout.addWidget(shComboBox)
 runButton = qt.QPushButton("Move selected node into folder (triggers reset)")
 layout.addWidget(runButton)
 
-parameterNode = slicer.mrmlScene.AddNewNodeByClass("vtkMRMLScriptedModuleNode", "SHCombo_ParamNode_Test")
-parameter = SHTestParameters(parameterNode)
-
 shNode = slicer.vtkMRMLSubjectHierarchyNode.GetSubjectHierarchyNode(slicer.mrmlScene)
 
 def printState(tag):
     print(f"\n[{tag}]")
     print("  shComboBox.currentItem():", shComboBox.currentItem())
-    print("  shComboBox.currentNode():", shComboBox.currentNode())
-    print("  parameter.selectedFiducial:", parameter.selectedFiducial)
+    print("  shComboBox.currentNode():", repr(shComboBox.currentNode()))  
 
-# sync combo box to the parameter node similar to the original module
-def onComboChanged(itemId):
-    node = shNode.GetItemDataNode(itemId)
-    parameter.selectedFiducial = node
-    printState("Combo changed (GUI->param sync fired)")
-
-shComboBox.connect("currentItemChanged(vtkIdType)", onComboChanged)
-
-#Add the parameter node to a folder
+# Add the parameter node to a folder
 def onRun():
     currentItemID = shComboBox.currentItem()
     if currentItemID == 0:
         print("No selection (currentItemID==0)")
         return
-
-    # seed parameter node explicitly (like your "store orbitLm/plateLm first")
-    parameter.selectedFiducial = shNode.GetItemDataNode(currentItemID)
 
     printState("BEFORE MOVE")
 
@@ -109,7 +88,7 @@ def onRun():
 
     printState("AFTER MOVE (post SetItemParent)")
 
-runButton.connect("clicked()", onRun)
+runButton.clicked.connect(onRun)
 
 dialog.show()
 dialog.raise_()
