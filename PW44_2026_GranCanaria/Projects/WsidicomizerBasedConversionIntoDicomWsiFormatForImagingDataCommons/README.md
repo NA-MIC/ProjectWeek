@@ -72,7 +72,7 @@ This project is the continuation of the [earlier project at PW42 2025](https://p
 
 
 _No response_
-## Curious examples of preventable failures of the coding agent
+## Curious examples of failures of Claude
 
 * remind to check documentation in the prompt?
 <img width="600" height="430" alt="image" src="https://github.com/user-attachments/assets/a8e4d117-a619-4ac2-9cbb-460b2120835c" />
