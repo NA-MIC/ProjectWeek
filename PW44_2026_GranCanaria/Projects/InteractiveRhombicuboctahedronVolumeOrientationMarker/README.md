@@ -70,7 +70,7 @@ It uses a VTK.js-based widget architecture.
    - Manages tool lifecycle (enable/disable)
    - Handles configuration updates and viewport synchronization
 
-[Test in OHIF](https://na-mic-projectweek44-g0g4a5c5dgc5dcf3.westeurope-01.azurewebsites.net/viewer?StudyInstanceUIDs=2.16.840.1.114362.1.11972228.22789312658.616067305.306.2&hangingProtocolId=primary3D)
+
 
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
@@ -84,7 +84,7 @@ It uses a VTK.js-based widget architecture.
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/fcb867a9-42dd-417f-951d-2e0bf3c03a05" />
+  <iframe width="800" height="400" src="https://youtube.com/embed/OV3VP9rfzz4" ></iframe
 
 _No response_
 
