@@ -86,6 +86,7 @@ This time, we aim to follow a similar approach, this time with Magic Leap 2, wit
 
 
 1. Bring both a HoloLens 2 and a Magic Leap 2 headsets to PW.
+2. Also tested with Viture Luma Ultra with Neckband - confirmed that Unity SDK can be used to develop Viture apps and should be able to use core code as Magic Leap 2
 
 
 
