@@ -25,6 +25,10 @@ key_investigators:
   affiliation: Queen's
   country: Canada
 
+- name: Michael Halle
+  affiliation: BWH
+  country: USA
+
 ---
 
 # Project Description
@@ -60,8 +64,6 @@ Many Slicer extension developers have to deal with the problem of external pytho
 
 
 ### Table of existing practices
-
-2026-01-26
 
 I've broken down the problem of external Python dependency into three components:
 
@@ -651,8 +653,6 @@ Here is a legend to interpret the terms I've put in the table:
 
 ### Next steps
 
-2026-01-26
-
 In the table above, the green cells are the items I think are worth revisiting and learning from for this project.
 
 Other things I found while looking through these that I'd like to consider:
@@ -671,6 +671,15 @@ Further points that I'd like to follow up on:
 - What about the problem of conflicts between requirements of different extensions? For an example see the mess that was caused by the conflict between the total segmentator and NNUnet extensions.
 - When extension unit tests are running, they have the ability to influence each other's slicer python environment. It would be nice if there were some way to revert the slicer python environment before each extension test begins. This is out of the scope of the present project but we can consider how it might be done.
 
+### uv
+
+Using `uv` instead of `pip` could provide a huge speedup and unlock many more possibilities. [Mike's AI generated summary](https://gist.github.com/mhalle/c2e752467d960a123f42ea459c09f73e) provides some inspiration:
+
+- As a first step, we can see if `uv` can be bundled with Slicer. We can add it to the superbuild (but then we are dealing with rust), or we can install it from the wheel. Replacing `pip` by `uv pip` is in instant win in terms of speed.
+- Exciting possibilities follow:
+  - `uv` _workspaces_ can be used to look at python dependencies of a _set_ of Slicer extensions and come up with a single common resolution before actually installing anything. This could be used at Slicer build time on all indexed Slicer extensions. Or it can be used whenever a user is installing a new extension on the set of all their installed extensions.
+  - `uv`'s lock files and ability to roll back to snapshots may solve the problem reverting the Slicer python environment to a clean one while testing each extension.
+
 ### Refined next steps
 
 A plan of attack:
@@ -683,6 +692,287 @@ A plan of attack:
   - Blocking prevention approach. Reference the extensions with the *blocking-prevention* tag above.
 - Consider whether there is room to appraoch the problem of "environment reversion" for the sake of extension testing.
 - Implementation
+- Experimental bonus objectives: `uv`, conflicts between extensions, reverting the environment for tests.
+
+### Plan for implementation
+
+#### Dependency specification
+
+##### File format
+
+For Slicer extensions, I believe `requirements.txt` is the right way to specify python dependency requirements.
+
+_Why not pyproject.toml?_
+
+- Semantics: In a `pyproject.toml` one declares a _package's_ dependencies. This suggests you're defining a distributable package with a name, version, and build backend. Slicer extensions aren't python packages. In a Slicer extension we are just specifying "install these things into this environment," which is exactly what a `requirements.txt` is.
+- Directness: The `requirements.txt` format *is* pip's input format. So it removes the need for a translation layer.
+- Extra baggage: pyproject.toml strongly suggests `[project]` metadata like `name`, `version`, `[build-system]`, etc, which are not relevant.
+- Constraints: `pip install -c constraints.txt` is how pip handles dependency conflicts across multiple extensions. Even with `pyproject.toml` you'd still need a separate constraints.txt file.
+- This approach still works if `uv` is adopted:
+  - `uv` supports requirements.txt: `uv pip compile requirements.txt -o requirements.lock` generates resolved lock files
+  - When doing `uv pip compile` the lock file that we get is essentially in a requirements.txt format. The TOML `uv.lock` format is only used with `uv lock` or `uv sync` (which are things you'd probably use mainly for managing actual python projects).
+  - To resolve multiple files we can do `uv pip compile a.txt b.txt -c constraints.txt` without the need for any of the extra `pyproject.toml` metadata
+
+##### Python object
+
+A dependency can be represented by a `packaging.requirements.Requirement`. A `list` of such things is what we should get when we load a `requirements.txt` file (or a `constraints.txt` file).
+
+- This is the kind of object that `pip` is using internally to represent requirements.
+- This handles the requirement syntax (version specifiers, extras, markers, URLs)
+
+Example of how to load a requirements file:
+
+```py
+from packaging.requirements import Requirement
+
+def load_requirements(path):
+    """Load requirements.txt into list of Requirement objects."""
+    reqs = []
+    with open(path) as f:
+        for line in f:
+            line = line.strip()
+            # Skip comments, empty lines, and pip options (-r, -c, --index-url, etc.)
+            if line and not line.startswith("#") and not line.startswith("-"):
+                reqs.append(Requirement(line))
+    return reqs
+```
+
+#### Checking
+
+One can do a pip `--dry-run` to use pip's way of checking, but then we need to call a subprocess which has some overhead.
+Unlike _installation_, dependency _checking_ is an operation that might get called upon frequently.
+It would be good to do it in pure python.
+It does get a bit complicated mainly because of the possibility of extras in a `Requirement`,
+but it's not that bad; here is how `slicer.util.pip_check` might work:
+
+```python
+from importlib.metadata import version, requires, PackageNotFoundError
+from packaging.requirements import Requirement
+from packaging.markers import default_environment
+
+
+def pip_check(req : Requirement|list[Requirement], _seen=None) -> bool:
+    """Check if requirement(s) are satisfied.
+
+    For requirements with extras like package[extra1,extra2]>=1.0, this:
+    1. Checks if the base package is installed at an acceptable version
+    2. Finds which dependencies are activated by the requested extras
+    3. Recursively verifies those dependencies are satisfied
+
+    Markers (e.g., "; sys_platform == 'win32'") are evaluated - if a marker
+    doesn't apply to the current environment, the requirement is considered
+    satisfied (since it doesn't need to be installed).
+
+    Args:
+        req: Either a Requirement object or a list of Requirement objects
+        _seen: Internal parameter for tracking circular dependencies
+
+    Returns:
+        True if all requirements are satisfied, False otherwise
+
+    Example:
+        from packaging.requirements import Requirement
+
+        # Single requirement
+        req = Requirement("numpy>=1.20")
+        if pip_check(req):
+            print("numpy is satisfied")
+
+        # Multiple requirements
+        reqs = [
+            Requirement("numpy>=1.20"),
+            Requirement("pandas[excel]>=2.0"),
+        ]
+        if pip_check(reqs):
+            print("All requirements satisfied")
+    """
+    if _seen is None:
+        _seen = set()
+
+    # Handle list of requirements, sharing _seen across all of them
+    if isinstance(req, list):
+        return all(pip_check(r, _seen) for r in req)
+
+    # Check if requirement's marker applies to current environment
+    # If not, consider it satisfied (doesn't need to be installed here)
+    if req.marker is not None:
+        env = default_environment()
+        if not req.marker.evaluate(env):
+            return True
+
+    # Avoid rechecking the same requirement
+    key = (req.name.lower(), frozenset(req.extras))
+    if key in _seen:
+        return True
+    _seen.add(key)
+
+    # Check if base package is installed at acceptable version
+    try:
+        installed = version(req.name)
+    except PackageNotFoundError:
+        return False
+    if installed not in req.specifier:
+        return False
+
+    # If no extras then we are done
+    if not req.extras:
+        return True
+
+    # Find dependencies activated by the requested extras
+    dep_strings = requires(req.name) or []
+    env = default_environment()
+    activated = []
+
+    for dep_str in dep_strings:
+        dep = Requirement(dep_str)
+        if dep.marker is None:
+            continue
+
+        # Check if any requested extra activates this dependency
+        for extra in req.extras:
+            if dep.marker.evaluate({**env, "extra": extra}):
+                # Strip marker before recursive check - we've already determined it applies
+                dep_str_no_marker = str(dep).split(';')[0].strip()
+                activated.append(Requirement(dep_str_no_marker))
+                break  # Don't check other extras for same dep
+
+    # Recursively verify all activated dependencies
+    return all(pip_check(dep, _seen) for dep in activated)
+```
+
+#### Triggering
+
+For the **triggering** problem I propose an explicit checker function followed by non-top-level imports. Maybe [the `LazyImportGroup` approach](https://github.com/Slicer/Slicer/issues/7707) can be considered for later, but for now I think something clear and simple is needed. The `LazyImportGroup` cleverly intercepts your first use of an imported module to trigger installation behind the scenes. It's elegant, but the magic does reduce transparency for everyday Slicer extension developers, making debugging more difficult. For IDE support and type checking, one can use the `TYPE_CHECKING` pattern to declare imports at the top of the file, which type checkers see but which doesn't run at runtime.
+
+Here's how `slicer.util.pip_ensure` might work:
+
+```py
+from packaging.requirements import Requirement
+
+
+def pip_ensure(
+    requirements: list[Requirement],
+    prompt: bool = True,
+    requester: str | None = None,
+    skip_in_testing: bool = True,
+    show_progress: bool = True,
+) -> None:
+    """Ensure requirements are satisfied, installing if needed.
+
+    Call at the point where dependencies are actually needed (e.g., onApplyButton).
+
+    Args:
+        requirements: List of Requirement objects to check/install
+        prompt: If True, show confirmation dialog before installing
+        requester: Name shown in dialog to identify who is requesting the packages
+            (e.g., "TotalSegmentator", "MyFilter", "console script")
+        skip_in_testing: If True (default), skip installation when Slicer is running
+            in testing mode (slicer.app.testingEnabled()). This prevents tests from
+            modifying the Python environment. Set to False if your test explicitly
+            needs to verify installation behavior.
+        show_progress: If True (default), show progress dialog during installation
+            with status updates and collapsible log details. If False, show only
+            a busy cursor. Since pip_ensure already shows a confirmation dialog,
+            showing progress during installation provides a consistent user experience.
+
+    Raises:
+        RuntimeError: If user declines installation or installation fails
+
+    Example:
+        reqs = slicer.util.load_requirements(Path(__file__).parent / "requirements.txt")
+        slicer.util.pip_ensure(reqs, requester="MyExtension")
+        import some_package
+    """
+    import logging
+
+    missing = [req for req in requirements if not pip_check(req)]
+
+    if not missing:
+        return  # all satisfied
+
+    # skip installation in testing mode to avoid modifying the environment
+    if skip_in_testing and slicer.app.testingEnabled():
+        missing_str = ", ".join(str(req) for req in missing)
+        logging.info(f"Testing mode is enabled: skipping pip_ensure for [{missing_str}]")
+        return
+
+    if prompt:
+        package_list = "\n".join(f"• {req}" for req in missing)
+        title = f"{requester} - Install Python Packages" if requester else "Install Python Packages"
+        count = len(missing)
+        message = (
+            f"{count} Python package{'s' if count != 1 else ''} "
+            f"need{'s' if count == 1 else ''} to be installed.\n\n"
+            f"This will modify Slicer's Python environment. Continue?"
+        )
+        if not slicer.util.confirmOkCancelDisplay(message, title, detailedText=package_list):
+            raise RuntimeError("User declined package installation")
+
+    # Install missing packages with optional progress display
+    pip_install_with_progress(
+        [str(req) for req in missing],
+        show_progress=show_progress,
+        requester=requester,
+    )
+```
+
+The `pip_install_with_progress` is explained in [the Installing section below](#installing). Since `pip_ensure` already shows a confirmation dialog to the user by default, showing progress during the subsequent installation provides a consistent experience as the default.
+
+##### Example usage
+
+Say you have a `Resources/requirements.txt` in your Slicer module and it contains
+
+```txt
+scikit-image>=0.21
+```
+
+Here's how you might use `pip_ensure` to trigger install if needed:
+
+```py
+from typing import TYPE_CHECKING
+
+if TYPE_CHECKING:
+    import skimage
+
+...
+
+class MyFilterWidget(ScriptedLoadableModuleWidget):
+
+    ...
+
+    def onApplyButton(self):
+        reqs = slicer.util.load_requirements(self.resourcePath("requirements.txt")) # say this contains "scikit-image>=0.21", for example
+        slicer.util.pip_ensure(reqs, requester="MyFilter")
+        import skimage
+
+        filtered = skimage.filters.gaussian(array, sigma=2.0)
+        ...
+```
+
+#### Installing
+
+We will build upon `slicer.util.pip_install` to help solve two problems:
+
+- _Blocking prevention_: Avoid blocking the UI. Optional, and again off by default.
+- _Progress display_: Show progress to the user. Optional, off by default so that no one's extensions change their behavior unexpectedly.
+
+Blocking prevention is technical.
+We will build this into `slicer.util.pip_install` by using a QTimer-based polling approach inspired by SlicerMONAIAuto3DSeg.
+A full AI-generated proposal to start with is [here](plans/blocking-prevention-proposal.html).
+
+Progress display is not technical, but involves lot of considerations. A full AI-generated proposal to start with is [here](plans/display-proposal.html).
+
+I think stuffing progress display functionality into `pip_install` does not make sense.
+`pip_install` could remain a low-level building block (with the ability to be non-blocking), while `pip_install_with_progress` could be a high-level utility that always waits for completion while showing a modal dialog. Mixing these in one function would create confusing interactions. For example what should `pip_install(blocking=False, show_progress=True)` do when the caller expects an immediate return but the progress dialog expects to block until completion? It also feels a bit messy to stuff so much Qt gui code into `pip_install` itself.
+
+Here is what these two changes end up meaning for Slicer extension developers, if they are succesfully implemented:
+
+- First, `pip_install` gets optional `blocking=False` mode with `logCallback` and `completedCallback` parameters, allowing advanced users to build custom installation UIs or run pip in the background while keeping the application fully responsive.
+- Second, the new `pip_install_with_progress()` function provides an out-of-the-box installation experience with a modal progress dialog showing an animated progress bar, status updates, and a collapsible details panel containing the full pip log. Additionally there would be error handling that displays the complete log if installation fails. For most extension developers, `pip_install_with_progress()` is the recommended choice for user-facing installations, while the enhanced `pip_install()` remains available for scripting, automation, or custom UI needs.
+
+### Implementation notes
+
+As the above plan is executed, I will take notes on progress and modifications here.
 
 # Illustrations
 
