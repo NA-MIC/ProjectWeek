@@ -51,8 +51,6 @@ We've been working on a python library, currently (badly) named [abcdmicro](http
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-2026-01-27
-
 [Added two example notebooks](https://github.com/brain-microstructure-exploration-tools/abcd-microstructure-pipelines/pull/117) to abcdmicro. This helps introduce the functionality.
 
 One notebook works up through NODDI estimation and tract segmentation for a particular subject:
