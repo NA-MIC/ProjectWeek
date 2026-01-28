@@ -84,6 +84,10 @@ We have implemented the core functionality of the DeformView module, including d
 
 We conducted a user study with 10 non-expert participants (average 2.9 years of imaging research experience) to evaluate module functionality. Participants compared DeformView to the existing 3D Slicer Transform Visualizer across four attributes: helpfulness in comprehension, interpretability, intuitiveness, and user confidence, using Likert ratings and the System Usability Scale. On average, DeformView was rated higher across all categories (mean: 4.1/5.0 vs 3.2/5.0), with statistically significant improvements in helpfulness (p=0.008) and intuitiveness (p=0.027). Overall, 80% of participants preferred DeformView over the existing module, confirming the value of our visualization approach.
 
+#### Native Apple Silicon Mac Build
+<img width="454" height="371" alt="image" src="https://github.com/user-attachments/assets/d06771dd-edc0-4d53-8b58-ef250698447d" />
+
+
 
 ### Next Steps
 
