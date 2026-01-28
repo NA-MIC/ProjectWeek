@@ -138,13 +138,20 @@ Conference portal:
 
 
 
-  One user driving three applications:
+  
 
   Three users working on the same annotation:
 
   <iframe width="800" height="400" src="https://youtube.com/embed/O-M0Y9JHcoQ" ></iframe>
-  
-  
+
+
+
+
+  Loading a 3D Slicer scene view into OHIF with the 'GET' feature:
+
+  <iframe width="800" height="400" src="https://youtube.com/embed/LtsLDKQ2Bzw" ></iframe>
+    
+
    
    Cast components:
 
