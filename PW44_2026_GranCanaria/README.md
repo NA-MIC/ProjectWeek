@@ -38,6 +38,8 @@ project_categories:
   - [Map: Airport - San Telmo bus station](https://www.google.com/maps/dir/Gran+Canaria+Airport,+GC-1,+s%2Fn,+35230+Las+Palmas+de+Gran+Canaria,+Las+Palmas/Estacion+De+Guaguas+SAN+TELMO,+35002+Las+Palmas+de+Gran+Canaria,+Las+Palmas/@28.0191886,-15.4859935,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xc40a266c3662d1d:0x824bcf7e159f85d4!2m2!1d-15.3874042!2d27.9289223!1m5!1m1!1s0xc40958500f0b3f5:0x3693fb0e3c418af2!2m2!1d-15.4158957!2d28.109201!3e3?entry=ttu)
 - The city has good bus/taxi service and is also walkable.
 
+[Google Photos Album](https://photos.app.goo.gl/xsBojsMjNqvp9FD19)
+
 ## Preparation meetings
 
 Preparations meetings will be at 10 AM EDT and start Tuesday, November 18 2025.  [Zoom Link](https://etsmtl.zoom.us/j/98196156238?pwd=q6SKGglkISvueUC2Xy2z38oBz6QKtn.1)
