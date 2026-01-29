@@ -63,7 +63,7 @@ The goal of this project is to create a Slicer Extension (tentative name SlicerN
 1. Test build with refactored modules
 1. Test extension with latest Slicer version
 1. Code modernization
-    1. Update NousNav to latested Slicer
+    1. Update NousNav to latest Slicer
     1. Parameter node usage
 
 
@@ -73,7 +73,20 @@ The goal of this project is to create a Slicer Extension (tentative name SlicerN
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. NousNav 1.1
+    1. Finished pending todos from Sonia Pujol (usability of Patients module)
+    1. NousNav 1.1.0 tagged
+    1. NousNav 1.1.0 installer generated - needs testing before release is created
+1. SlicerOpenNav
+    1. Generated from NousNav modules, with history preserved
+    1. Works from:
+        1. Build tree
+        1. Installation
+        1. Source Tree
+1. SlicerOpenNav -> NousNav
+    1. NousNav refactored to use SlicerOpenNav (on branch)
+    1. Home module will remain as customization point
+
 
 
 
@@ -90,5 +103,4 @@ The goal of this project is to create a Slicer Extension (tentative name SlicerN
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-
-- 
+- [SlicerOpenNav](https://github.com/NousNav/SlicerOpenNav)
