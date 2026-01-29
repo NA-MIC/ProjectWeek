@@ -4,7 +4,7 @@ layout: pw44-project
 permalink: /:path/
 
 project_title: Make ClassAnnotation Extension Multi-Label and collaborative
-category: Infrastructure
+category: Segmentation / Classification / Landmarking
 presenter_location: 
 
 key_investigators:
