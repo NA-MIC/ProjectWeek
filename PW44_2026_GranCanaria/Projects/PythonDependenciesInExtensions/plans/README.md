@@ -1,1 +1,0 @@
-The markdown files in here are generally AI-generated and not necessarily meant for human consumption. Unlike my main project page which is meant for human consumption.

@@ -77,7 +77,7 @@ In a discussion with Arthur, here are some future directions we identified as va
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_Coming soon..._
+_Coming soon?_
 
 
 
