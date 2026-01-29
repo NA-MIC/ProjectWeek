@@ -13,6 +13,7 @@ project_categories:
 - Registration
 - Cloud / Web
 - Infrastructure
+- AI
 - Other
 ---
 
