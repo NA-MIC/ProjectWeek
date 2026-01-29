@@ -90,10 +90,12 @@ The transformation is incrementally applied to the moving image over 10 discrete
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/5bdb3c02-7af9-46bb-913b-5931a946d39e"
+    src="![67A58AE3-3EEA-472D-B9CF-1A7CB33BB8E0_4_5005_c](https://github.com/user-attachments/assets/08b14d36-66fc-4757-8d6b-7f0eccd1c19b)"
     width="70%"
   />
 </p>
+
+
 
 ### Fixed Remaining (Known) Bugs and Functional Errors
 
