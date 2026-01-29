@@ -54,7 +54,8 @@ _No response_
 ### Meeting: Ron, Kyle, Andras and Martin - Tuesday 27th @ 10AM
   - User options are too complicated
     - Options should be simpler, Ex: it is not clear what "Capture display nodes" means
-
+  - When users load a scene view, we should indicate what scene view has been loaded
+  - Previous/Next button to move between scene views 
 
 ## Progress and Next Steps
 
