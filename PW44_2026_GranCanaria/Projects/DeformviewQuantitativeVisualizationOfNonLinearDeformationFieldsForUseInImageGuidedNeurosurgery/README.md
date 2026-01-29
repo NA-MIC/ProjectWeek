@@ -88,8 +88,10 @@ We plan to address the remaining bugs (that we know of), get user feedback, and 
 
 The transformation is incrementally applied to the moving image over 10 discrete steps. This creates a sliding scale of the transform applied to the underlying image at discrete quantities (ie: 0.1x full transform, 0.2x final transform, etc.) 
 
-![](increment_project_page.gif)
+<!-- ![](increment_project_page.gif) -->
 
+
+https://github.com/user-attachments/assets/a7def86b-730b-4f77-9f9a-d078bb9b40a0
 
 
 
