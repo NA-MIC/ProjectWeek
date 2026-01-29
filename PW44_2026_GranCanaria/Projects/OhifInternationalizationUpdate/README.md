@@ -58,7 +58,7 @@ During the conference, project participants can schedule a 1 hour meeting with M
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+Catalan language was added to OHIF.
 
 
 
@@ -67,6 +67,9 @@ During the conference, project participants can schedule a 1 hour meeting with M
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+# Acknowledgements
+
+This translation is supported by Jordi Piera i Jiménez, Director of the Digital Health Strategy for Catalonia
 
 _No response_
 
