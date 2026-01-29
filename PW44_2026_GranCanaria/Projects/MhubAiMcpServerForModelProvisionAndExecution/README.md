@@ -4,7 +4,7 @@ layout: pw44-project
 permalink: /:path/
 
 project_title: MHub.ai MCP server for Model Provision and Execution
-category: Other
+category: AI
 presenter_location: 
 
 key_investigators:
