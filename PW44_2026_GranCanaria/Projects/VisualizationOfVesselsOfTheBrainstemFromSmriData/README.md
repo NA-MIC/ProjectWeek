@@ -34,7 +34,7 @@ The brain white matter fiber tract of interest to us is the dorsal vagal complex
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-Reconstruction of the DVC-CLFS fiber tract in study subjects using 3DSlicer.
+Reconstruction of the DVC-CLFS fiber tract in study subjects with and without long-COVID.
 
 
 
@@ -45,7 +45,7 @@ Reconstruction of the DVC-CLFS fiber tract in study subjects using 3DSlicer.
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-I will use diffusion and structural MRI, specifically whole-brain tractography and T1 images, from subjects with and without long-COVID to identify the DVC-CLFS fiber tract in its entirety, extending from the frontal lobe to the brainstem.
+I will use diffusion and structural MRI, specifically whole-brain tractography (UKF tractography) and FreeSurfer parcellations, to segment the DVC-CLFS fiber tract in its entirety, extending from the frontal lobe to the brainstem, using 3DSlicer tools.
 
 
 
@@ -59,8 +59,11 @@ I will use diffusion and structural MRI, specifically whole-brain tractography a
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. In the past project weeks, we have established the protocol for delineating the fiber tract from MRI images using 3D Slicer.
-2. During this week, I will reconstruct the fiber tract from additional study subjects.
+1. In the past project weeks, we established a standardized protocol for segmenting the anatomically accurate DVC-CLFS fiber tract from MRI images using 3D Slicer.
+2. By the end of this week, I have segmented the fiber tract from 20 study subjects.
+3. Next: Segmentation of the fiber tract in 100 more study subjects.
+4. Next: To establish the relationship between this specific fiber tract and long-COVID symptoms, diffusion measures—fractional anisotropy (FA), radial diffusivity (RD), mean diffusivity (MD), and free water (FW) — will be extracted from the streamlines of the DVC-CLFS tract. These metrics will be used for statistical analyses and correlated with neuropsychiatric long-COVID symptom scores, including measures of cognition and fatigue.
+  
 
 
 
@@ -71,7 +74,7 @@ I will use diffusion and structural MRI, specifically whole-brain tractography a
 
 <img width="468" height="533" alt="image" src="https://github.com/user-attachments/assets/12007fc5-7f9c-4ea1-8e71-21ae046ec721" />
 
-Reconstruction of the DVC-CLFS fiber tract (white) using whole-brain tractography and FreeSurfer-generated parcellations using 3D Slicer tool and its extensions.
+Segmentation of the DVC-CLFS fiber tract (white) from the UKF whole-brain tractography and FreeSurfer-generated parcellations using 3D Slicer tool and its extensions.
 
 
 # Background and References
