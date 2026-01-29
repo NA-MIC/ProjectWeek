@@ -11,10 +11,10 @@ project_categories:
 - Segmentation / Classification / Landmarking
 - Quantification and Computation
 - Registration
-- Infrastructure
 - AI
 - Cloud / Web
 - Other
+- Infrastructure
 ---
 
 # Welcome to the web page for the 44th Project Week!
