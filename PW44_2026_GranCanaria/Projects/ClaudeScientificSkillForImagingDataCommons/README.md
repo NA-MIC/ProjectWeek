@@ -33,6 +33,10 @@ key_investigators:
   affiliation: Frederick National Lab
   country: USA
 
+- name: Leonard Nürnberg
+  affiliation: AIM Lab
+  country: USA
+
 ---
 
 # Project Description
@@ -76,7 +80,15 @@ Agent Skills are folders of instructions, scripts, and resources that agents can
 1. Set up Claude.AI with the `claude-scientific-skills` MCP server, experiment.
 2. Started setting up the skill layout and deciding what should be covered.
 3. Submitted PR with the initial skill: [claude-scientific-skills PR #35](https://github.com/K-Dense-AI/claude-scientific-skills/pull/35) (this has now been merged!)
-
+4. Published standalone skill [https://github.com/ImagingDataCommons/idc-claude-skill](https://github.com/ImagingDataCommons/idc-claude-skill)
+5. Discussed with Mike (who merged it with his own skill for IDC!); suggestions for improvement:
+  * keep the main skill small, break out details into references
+  * look into Mike's skill for managing skill versioning
+  * need to investigate improvements to how IDC BigQuery parquet files are organized, noted in [https://github.com/ImagingDataCommons/etl_flow/issues/130](https://github.com/ImagingDataCommons/etl_flow/issues/130)
+  * need to work on idc-index improvements: publish indices in GCS bucket ([idc-index #229](https://github.com/ImagingDataCommons/idc-index/issues/229)), add radiomics features table ([idc-index #230](https://github.com/ImagingDataCommons/idc-index/issues/229)), support search via remote parquet file ([idc-index #331](https://github.com/ImagingDataCommons/idc-index/issues/231).
+6. Tested to address use case from Leo (how many CT scans does NLST have, how many of those are segmented with TotalSegmentator); lessons learned:
+  * GPT-4o model is useless (eg, within the same response corrects its own mistake in one code snippet but not the other)!
+  * GPT-5-codex was able to answer the questions correctly, supported by correct python code, from the first try
 
 
 # Illustrations
@@ -90,6 +102,7 @@ _No response_
 
 # Background and References
 
+* standalone skill: [https://github.com/ImagingDataCommons/idc-claude-skill](https://github.com/ImagingDataCommons/idc-claude-skill)
 * [IDC forum post on finding fractional DICOM SEG in IDC](https://discourse.canceridc.dev/t/locating-fractional-dicom-segmentations-in-idc/776) put together using the developed skill
 
 Coding agents learning materials:
