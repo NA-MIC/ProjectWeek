@@ -21,9 +21,14 @@ key_investigators:
   affiliation: Isomics, Inc.
   country: USA
 
+- name: Mike Halle
+  affiliation: Brigham and Women's Hospital
+  country: USA
+
 - name: Suraj Pai
   affiliation: Brigham and Women's Hospital
   country: USA
+
 
 ---
 
