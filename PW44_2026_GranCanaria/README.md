@@ -12,8 +12,8 @@ project_categories:
 - Quantification and Computation
 - Registration
 - Infrastructure
-- Cloud / Web
 - AI
+- Cloud / Web
 - Other
 ---
 
