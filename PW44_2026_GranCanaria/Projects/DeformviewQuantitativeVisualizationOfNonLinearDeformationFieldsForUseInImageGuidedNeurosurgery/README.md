@@ -17,19 +17,7 @@ key_investigators:
 - name: Elise Donszelmann-Lund
   affiliation: McGill University
   country: Canada
-
-- name: Étienne Léger
-  affiliation: McGill University
-  country: Montreal Neurological Institute, Canada
-
-- name: Raphäel Christin
-  affiliation: McGill University
-  country: Canada
-
-- name: Kaleem Siddiqi
-  affiliation: McGill University
-  country: Centre of Intelligent Machines, Canada
-
+  
 - name: D. Louis Collins
   affiliation: McGill University
   country: Montreal Neurological Institute, Canada
@@ -70,7 +58,25 @@ Slicer tools, to improve user understanding and confidence.
 1. We will systematically test DeformView across representative datasets (focusing on IGNS-focused data - ReMIND, RESECT, BITE, etc.) and use cases to identify and resolve software bugs. We will ask attendees to use the module to identify common workflows, areas of improvement. We will also perform stress and destructive testing.
 2. User-centered design and feedback: We will conduct structured feedback sessions with expert users, non-expert users, and clinicians, using our targeted questionnaires and short tasks to identify desired features and usability gaps. We will lead discussions with attendees to identify areas of improvement and feature prioritization.
 
+### Plan for Project Week 
+We have implemented the core functionality of the DeformView module, including dense deformation visualization, Jacobian-based expansion/compression maps, and voxel-wise readout on cursor hover. Initial testing confirms that primary visualization goals have been achieved, with only minor usability and stability issues remaining.
 
+We conducted a user study with 10 non-expert participants (average 2.9 years of imaging research experience) to evaluate module functionality. Participants compared DeformView to the existing 3D Slicer Transform Visualizer across four attributes: helpfulness in comprehension, interpretability, intuitiveness, and user confidence, using Likert ratings and the System Usability Scale. On average, DeformView was rated higher across all categories (mean: 4.1/5.0 vs 3.2/5.0), with statistically significant improvements in helpfulness (p=0.008) and intuitiveness (p=0.027). Overall, 80% of participants preferred DeformView over the existing module, confirming the value of our visualization approach.
+
+We plan to address the remaining bugs (that we know of), get user feedback, and engage in discussions with Slicer developers to optimize our module:
+1. Colour Map and Legend Modifications
+- Fix legend scale reload bug
+- Resolve remaining default colour map behaviour, consistent default colour levels when loading new maps
+- Interaction between legend and colour level/window controls
+- Clarity of colour map loading and switching- add descriptive text under the “Color Map” selector
+
+2. Jacobian-Specific Visualization Controls
+- Jacobian colour legend labels
+- Set Jacobian window and level to constant values to ensure consistent interpretation
+
+3. User Interface and Readability Improvements
+- Adjust cursor text size for improved readability
+- Implement a full reset of default settings, not limited to window/level
 
 
 ## Progress and Next Steps
@@ -78,45 +84,214 @@ Slicer tools, to improve user understanding and confidence.
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+### Introduced the 'Increment Transform' feature
 
-### Progress
-We have implemented the core functionality of the DeformView module, including dense deformation visualization, Jacobian-based expansion/compression maps, and voxel-wise readout on cursor hover. Initial testing confirms that primary visualization goals have been achieved, with only minor usability and stability issues remaining.
-
-We conducted a user study with 10 non-expert participants (average 2.9 years of imaging research experience) to evaluate module functionality. Participants compared DeformView to the existing 3D Slicer Transform Visualizer across four attributes: helpfulness in comprehension, interpretability, intuitiveness, and user confidence, using Likert ratings and the System Usability Scale. On average, DeformView was rated higher across all categories (mean: 4.1/5.0 vs 3.2/5.0), with statistically significant improvements in helpfulness (p=0.008) and intuitiveness (p=0.027). Overall, 80% of participants preferred DeformView over the existing module, confirming the value of our visualization approach.
-
-#### Native Apple Silicon Mac Build
-<img width="454" height="371" alt="image" src="https://github.com/user-attachments/assets/d06771dd-edc0-4d53-8b58-ef250698447d" />
+The transformation is incrementally applied to the moving image over 10 discrete steps. This creates a sliding scale of the transform applied to the underlying image at discrete quantities (ie: 0.1x full transform, 0.2x final transform, etc.) 
 
 
+# Video here
 
-### Next Steps
 
-TODO: 
+### Fixed Remaining (Known) Bugs and Functional Errors
+
 1. Colour Map and Legend Modifications
-
-- Reduce legend text size 
-- Investigate and fix legend scale reload bug
+- Fix legend scale reload bug
 - Resolve remaining default colour map behaviour, consistent default colour levels when loading new maps
 - Interaction between legend and colour level/window controls
 - Clarity of colour map loading and switching- add descriptive text under the “Color Map” selector
 
 2. Jacobian-Specific Visualization Controls
-
 - Jacobian colour legend labels
-- Set Jacobian window and level to constant values to ensure consistent interpretation -  fixed scaling (check that we want this)
-
+- Set Jacobian window and level to constant values to ensure consistent interpretation
 
 3. User Interface and Readability Improvements
 - Adjust cursor text size for improved readability
 - Implement a full reset of default settings, not limited to window/level
-- Should colour be 'color' in the UI? Americanize.
+
+# Full Demo Video here
+
+### Slicer Build on Mac (Silicon) + Documentation
+
+Worked with Steve to get a local build of 3D Slicer on OSX (Silicon). Also wrote documentation to configure, build, run, and debug 3D Slicer from source on macOS (ARM64) using Qt6 and Xcode.
+
+#### Current Recipe for Slicer
+
+##### My config:
+```
+frolick@IsabelMacBook % sw_vers
+ProductName:		macOS
+ProductVersion:		15.7.3
+BuildVersion:		24G419
+
+frolick@IsabelMacBook % qmake --version 
+QMake version 3.1
+Using Qt version 6.10.1 in /opt/homebrew/lib
+
+frolick@IsabelMacBook % cmake --version
+cmake version 3.31.5
+
+CMake suite maintained and supported by Kitware (kitware.com/cmake).
+
+```
+
+##### Prerequisites
+
+###### Install Qt6
+
+Verify Qt6 Install
+```
+qmake --version
+```
+
+1. If not installed, Install Qt6 (via Homebrew)
+```
+brew install qt@6
+```
+2. Add Qt6 to shell environment:
+```
+echo 'export PATH="/opt/homebrew/opt/qt@6/bin:$PATH"' >> ~/.zshrc
+echo 'export CMAKE_PREFIX_PATH="/opt/homebrew/opt/qt@6:$CMAKE_PREFIX_PATH"' >> ~/.zshrc
+```
+3. Reload shell:
+```
+source ~/.zshrc
+```
+
+4. Verify Qt6 installation:
+```
+qmake --version
+```
+
+###### Install Xcode Command Line Tools
+```
+xcode-select --install
+```
+
+###### Install XCode (not strictly necessary (?) but I couldn't do it without XCode Desktop)
+
+If installing full Xcode from the App Store:
+
+1. Install Xcode from App Store 
+
+2. Set it as the active developer directory:
+```
+sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
+```
+3. Accept the license:
+```
+sudo xcodebuild -license accept
+```
+
+4. Verify:
+```
+xcodebuild -version
+xcode-select -p
+```
+
+Else, check the SDK path used by Xcode:
+```
+xcrun --show-sdk-path
+```
+---
+
+##### Directory Setup
+
+Create build directories and set ownership:
+```
+sudo mkdir -p /opt/scmake /opt/scd
+sudo chown -R $(whoami) /opt/scmake /opt/scd
+```
+
+##### Create Build Script
+
+```
+vim build_slicer.sh
+```
+
+Paste:
+```
+#!/bin/bash
+
+# Configuration
+SLICER_SOURCE_DIR="$HOME/slicer/latest/Slicer"
+SLICER_BUILD_DIR="/opt/scd"
+SLICER_SUPERBUILD_DIR="/opt/scmake"
+
+# Create directories
+mkdir -p "$SLICER_BUILD_DIR"
+mkdir -p "$SLICER_SUPERBUILD_DIR"
+
+# Clone Slicer source if it doesn't exist
+if [ ! -d "$SLICER_SOURCE_DIR" ]; then
+    echo "Cloning Slicer repository..."
+    mkdir -p "$(dirname "$SLICER_SOURCE_DIR")"
+    git clone https://github.com/Slicer/Slicer.git "$SLICER_SOURCE_DIR"
+fi
+
+cd "$SLICER_SUPERBUILD_DIR"
+
+# Configure with CMake
+cmake \
+  -DCMAKE_OSX_ARCHITECTURES=arm64 \ 
+  -DSlicer_REQUIRED_QT_VERSION="6.10" \ # CHANGEME: Qt version (qmake --version)
+  -DCMAKE_BUILD_TYPE:STRING=Debug \
+  -DSlicer_USE_SimpleITK:BOOL=OFF \
+  -DSlicer_BUILD_I18N_SUPPORT:BOOL=OFF \
+  -DSlicer_BUILD_DICOM_SUPPORT:BOOL=OFF \
+  -DSlicer_VTK_SMP_IMPLEMENTATION_TYPE:STRING=Sequential \
+  -DCMAKE_OSX_DEPLOYMENT_TARGET:STRING=15.7 \ # CHANGEME: OSX version (About this Mac -> macOS)
+  -DCMAKE_OSX_SYSROOT:STRING="$(xcrun --show-sdk-path)" \
+  "$SLICER_SOURCE_DIR"
+
+# Build (use -j for parallel jobs, -k to keep going on errors)
+make -j10 -k
+```
 
 
-4. Stability and Bug Fixes
+##### Run Build
 
-- Fix crash when two images are overlaid (temp mitigation -> set one image to 0% opacity on module entry)
+```
+cd /opt/scmake
+chmod +x ./build_slicer.sh
+./build_slicer.sh
+```
 
 
+--- 
+
+##### Running Slicer Locally
+
+###### Option 1: Navigate to the build directory, make, launch:
+Executable path: /opt/scmake/Slicer-build/Slicer
+
+```
+cd /opt/scmake/Slicer-build
+make -j8 #Optional rebuild to show local changes
+./Slicer
+```
+
+###### Option 2: Run on XCode with Debugging
+
+1. Create a Dummy Xcode Project
+  Xcode requires an open project in order to attach a debugger.
+  1. Open Xcode
+  2. File → New → Project
+  3. Create a Command Line Tool project (macOS)
+  4. Enter an Organization Name (required!)
+
+2. Get the Slicer Process ID (PID)
+   1. Open local Slicer through the build directory (following the steps in Option 1)
+   2. In Python Interactor:
+      ```
+      import os
+      os.getpid()
+      ```
+      Copy the PID
+3. Attach the Debugger
+   In Xcode:
+   1. Debug → Attach to Process by Name or PID…
+   2. Paste the PID
+   3. Now you can attach process and use debugger functionality (breakpoints, etc.) as usual
 
 
 
