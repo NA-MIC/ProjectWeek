@@ -11,8 +11,8 @@ project_categories:
 - Segmentation / Classification / Landmarking
 - Quantification and Computation
 - Registration
-- Cloud / Web
 - Infrastructure
+- Cloud / Web
 - AI
 - Other
 ---
