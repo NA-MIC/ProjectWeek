@@ -100,7 +100,7 @@ Overview of project:
 <img width="960" height="540" alt="overview" src="https://github.com/user-attachments/assets/477f71aa-07b9-428b-b246-a3941e0733d6" />
 
 Sample of connectome plot and showing the query image: 
-<img width="1495" height="783" alt="connectome_image" src="https://github.com/user-attachments/assets/cdee6e22-2c54-4395-a07f-1e08a1a70d31" />
+<img width="80%" alt="connectome_image" src="https://github.com/user-attachments/assets/cdee6e22-2c54-4395-a07f-1e08a1a70d31" />
 
 Demonstration of content-based image retrieval: 
 <video
