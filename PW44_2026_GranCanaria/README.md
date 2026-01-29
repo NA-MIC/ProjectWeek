@@ -127,6 +127,7 @@ List of registered participants so far (names will be added here after processin
 1. Javier Pascau, Universidad Carlos III de Madrid, Spain
 1. Alicia Pose Díez de la Lastra, Universidad Carlos III de Madrid, Spain
 1. Michael Halle, Brigham and Women's Hospital, USA
+1. Hans Knutsson, Linköping University, Sweden
 
 <!-- Participants list end -->
 
