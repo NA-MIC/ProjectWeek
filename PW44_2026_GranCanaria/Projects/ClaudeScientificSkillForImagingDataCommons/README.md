@@ -4,7 +4,7 @@ layout: pw44-project
 permalink: /:path/
 
 project_title: claude-scientific-skill for Imaging Data Commons
-category: Other
+category: AI
 presenter_location: 
 
 key_investigators:
