@@ -90,7 +90,7 @@ The transformation is incrementally applied to the moving image over 10 discrete
 
 <p align="center">
   <img
-    src="![67A58AE3-3EEA-472D-B9CF-1A7CB33BB8E0_4_5005_c](https://github.com/user-attachments/assets/08b14d36-66fc-4757-8d6b-7f0eccd1c19b)"
+    src="![](increment_project_page.gif)"
     width="70%"
   />
 </p>
