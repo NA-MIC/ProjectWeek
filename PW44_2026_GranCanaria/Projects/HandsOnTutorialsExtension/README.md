@@ -68,9 +68,42 @@ The hands-on tutorials guide the users through a certan sequence of steps using 
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Development of the tutorial extension was initiated and is currently hosted in the following repository: https://github.com/xskere/SlicerTutorial.
 
+2. A dependency system was used to control tutorial accessibility and to build the tutorial tree, ensuring that tutorials which depend on others (e.g., `Tutorial_002` depending on `Tutorial_001`) can only be accessed once their prerequisites are completed.
 
+3. The tutorial system is built around a state machine structure; initially, all step logic was implemented inside the `enter()` function with setup and validator functions defined elsewhere, which made maintenance and updates difficult.
+
+4. Based on feedback (notably from Andras), the tutorial authoring model was refactored to improve readability, sustainability, and maintainability while preserving the original state machine design.
+
+5. Each tutorial is now defined as a fixed sequence of steps written linearly, where every step has a dedicated setup function and a validator function.
+
+6. For each step, the setup function prepares the tutorial state, followed by a validator function that determines whether the step has been successfully completed.
+
+7. Each step is appended to a `steps` array as a dictionary that contains required metadata describing how the step behaves and how it is validated:
+Each step dictionary includes a pointer to the setup function, a pointer to the validator function, a `completed` boolean flag (defaulting to `False`), and a short textual `description` used to guide the user if validation fails.
+An optional `module` field can also be included in the step dictionary to restrict tooltip visibility to a specific module, which is only necessary when the tooltip is attached to widgets that exist in that module.
+
+8. Each tutorial step operates in one of two validation modes: continuous validation, where the validator function runs repeatedly until the condition is met, or manual validation, where the validator is only triggered when the user clicks “Go next step”.
+
+9. Continuous validation is enabled by calling `self.timerCheck()` at the end of the step’s setup function.
+
+10. At present, two simple mock tutorials are fully functional: one demonstrates continuous validation and the other demonstrates manual, user-triggered validation.
+
+11. Three additional tutorials currently exist as placeholders, containing three steps each where the validator always returns `True`.
+
+12. Tutorial progress is persisted locally in the file `%LOCALAPPDATA%/NA-MIC/Slicer/Tutorials/tutorialProgress.json`.
+
+13. The progress file stores a JSON object where each tutorial has a `completed` state and an `enabled` flag that controls whether the tutorial appears in the tutorial tree.
+
+14. If a tutorial is disabled, it is hidden from the tutorial tree, and any tutorials that depended on it will instead inherit its dependency chain.
+
+15. Investigation was done to augment the functionality of these tutorials, for example:
+
+- The TutorialMaker extension could be extended to automatically generate review slides after each step once validation succeeds, allowing users to revisit completed steps without rerunning the entire tutorial.
+- Tutorials are currently linear and do not support navigating back to previous steps.
+- Non-linear navigation could be implemented in the future using scene views to save and restore the application state at each step.
+- Scene views can be created and restored programmatically, enabling step-by-step state restoration by index or by name.
 
 
 # Illustrations
