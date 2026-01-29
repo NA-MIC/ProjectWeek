@@ -10,10 +10,7 @@ project_categories:
 - VR/AR and Rendering
 - Segmentation / Classification / Landmarking
 - Quantification and Computation
-- Registration
-- AI
 - Cloud / Web
-- Other
 - Infrastructure
 ---
 
