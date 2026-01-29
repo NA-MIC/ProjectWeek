@@ -65,13 +65,14 @@ Many Slicer extension developers have to deal with the problem of external pytho
 
 ### Table of existing practices
 
-I've broken down the problem of external Python dependency into three components:
+I've broken down the problem of external Python dependency into four components:
 
+- **Specification:** How do we represent Python dependency requirements?
 - **Checking:** How do we check whether the dependency requirements are already met by the environment?
 - **Triggering:** What causes the requirement installation process to start?
 - **Installing:** How do we carry out requirement installation?
 
-The table below includes all 94 extensions that are currently in the [Slicer extension index](https://github.com/Slicer/ExtensionsIndex) and that have some external python dependencies to deal with, and my best quick guess as to how they approach each of the problems above.
+The table below includes all 94 extensions that are currently in the [Slicer extension index](https://github.com/Slicer/ExtensionsIndex) and that have some external python dependencies to deal with, and my best quick guess as to how they approach three of the problems above.
 Here is a legend to interpret the terms I've put in the table:
 
 - **Checking:**
@@ -666,7 +667,6 @@ Other things I found while looking through these that I'd like to consider:
 Further points that I'd like to follow up on:
 
 - I found some [thoughts from JC](https://github.com/Slicer/Slicer/issues/7171) that I'd like to look over carefully.
-- On that note, besides _checking_, _triggering_, and _installing_, I think there is also the problem of how to _specify_ dependencies.
 - I had forgotten about [this work by David](https://github.com/Slicer/Slicer/issues/7707). This could help with the _triggering_ question in particular. One consideration is to not make things too opaque so as to make debugging difficult (e.g. say a module import fails; will the error be incomprehensible?)
 - What about the problem of conflicts between requirements of different extensions? For an example see the mess that was caused by the conflict between the total segmentator and NNUnet extensions.
 - When extension unit tests are running, they have the ability to influence each other's slicer python environment. It would be nice if there were some way to revert the slicer python environment before each extension test begins. This is out of the scope of the present project but we can consider how it might be done.
@@ -957,10 +957,9 @@ We will build upon `slicer.util.pip_install` to help solve two problems:
 - _Progress display_: Show progress to the user. Optional, off by default so that no one's extensions change their behavior unexpectedly.
 
 Blocking prevention is technical.
-We will build this into `slicer.util.pip_install` by using a QTimer-based polling approach inspired by SlicerMONAIAuto3DSeg.
-A full AI-generated proposal to start with is [here](plans/blocking-prevention-proposal.html).
+We will build this into `slicer.util.pip_install` by using a QTimer-based polling approach [inspired by SlicerMONAIAuto3DSeg](https://github.com/lassoan/SlicerMONAIAuto3DSeg/blob/b92cb839f0a78fc5fddceda433a9b8facd2a0e35/MONAIAuto3DSeg/MONAIAuto3DSegLib/process.py#L51).
 
-Progress display is not technical, but involves lot of considerations. A full AI-generated proposal to start with is [here](plans/display-proposal.html).
+Progress display will involve creating a modal dialog containing a progress bar and an expandable details section.
 
 I think stuffing progress display functionality into `pip_install` does not make sense.
 `pip_install` could remain a low-level building block (with the ability to be non-blocking), while `pip_install_with_progress` could be a high-level utility that always waits for completion while showing a modal dialog. Mixing these in one function would create confusing interactions. For example what should `pip_install(blocking=False, show_progress=True)` do when the caller expects an immediate return but the progress dialog expects to block until completion? It also feels a bit messy to stuff so much Qt gui code into `pip_install` itself.
@@ -972,14 +971,28 @@ Here is what these two changes end up meaning for Slicer extension developers, i
 
 ### Implementation notes
 
-As the above plan is executed, I will take notes on progress and modifications here.
+The above plan was consolidated into a set of instructions for Claude to execute upon.
+
+It ran with `--dangerously-skip-permissions` inside an isolated docker environment where it had only a Slicer source tree and build tree to play with and test its implementation. When it was done, I requested unit tests following the style and philosophy of existing ones for `slicer.util`, a self-review based on some similar past pull requests, and useful documentation updates.
+
+Discussions led to a few changes to the design:
+
+- Combine `pip_install_with_progress` into `pip_install`, because we may actually want to make the modal progress dialog become the default behavior for everyone using `pip_install`.
+- When non-blocking and not showing a dialog, still have the option to show updates in the status bar
+- Guard against multiple simultaneous pip installs
+- Add handling of [constraints](https://pip.pypa.io/en/latest/user_guide/#constraints-files)
+- Incorporate a nicer way pip install with `--no-deps` for some dependencies (e.g. to potentially make [things like this](https://github.com/KitwareMedical/SlicerNNUnet/blob/e44b00883e8f373c72bf79c50455bd2c776ed8cf/SlicerNNUnet/SlicerNNUNetLib/InstallLogic.py#L288) easier to express)
+
+[This PR is the outcome!](https://github.com/Slicer/Slicer/pull/9010)
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_Coming soon..._
+![](01.png)
+
+![](02.png)
 
 
 
@@ -989,5 +1002,10 @@ _Coming soon..._
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-- The [SlicerOpenLIFU](https://github.com/OpenwaterHealth/SlicerOpenLIFU) extension is where I have most recently applied what I know about handling python dependencies. But it could be so much better.
+- [Pull request that came out of this work](https://github.com/Slicer/Slicer/pull/9010)
 
+Prior related work and ideas:
+
+- https://github.com/Slicer/Slicer/issues/7171
+- https://github.com/Slicer/Slicer/issues/7707
+- https://github.com/Slicer/Slicer/pull/8181
