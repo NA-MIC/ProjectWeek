@@ -3,7 +3,7 @@ layout: pw44-project
 
 permalink: /:path/
 
-project_title: GetFEM Slicer integration - Forward and Inverse Lung Deformation Modeling
+project_title: GetFEM Slicer integration Forward and Inverse Lung Deformation Modeling
 category: Other
 presenter_location: 
 
