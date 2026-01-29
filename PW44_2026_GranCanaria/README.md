@@ -5,8 +5,8 @@ redirect_from:
 - /PW44_2026_GranCanaria/Readme.html
 
 project_categories:
-- AI
 - IGT and Training
+- AI
 - DICOM
 - VR/AR and Rendering
 - Segmentation / Classification / Landmarking
