@@ -88,9 +88,12 @@ We plan to address the remaining bugs (that we know of), get user feedback, and 
 
 The transformation is incrementally applied to the moving image over 10 discrete steps. This creates a sliding scale of the transform applied to the underlying image at discrete quantities (ie: 0.1x full transform, 0.2x final transform, etc.) 
 
-
-# Video here
-
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/5bdb3c02-7af9-46bb-913b-5931a946d39e"
+    width="70%"
+  />
+</p>
 
 ### Fixed Remaining (Known) Bugs and Functional Errors
 
@@ -108,7 +111,27 @@ The transformation is incrementally applied to the moving image over 10 discrete
 - Adjust cursor text size for improved readability
 - Implement a full reset of default settings, not limited to window/level
 
-# Full Demo Video here
+##### Full Demo Video here
+
+
+### Started Integration of DeformView and Transforms Visualizer Module
+
+Local UI changes have begun, no functionality is attached yet. Implementing a 'sparse' tab (current functionality) and a 'dense' tab (added functionality) - but open to feedback.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b0cc065d-97f5-4f22-a7b6-7b2c2ff61e64" width="100%"><br>
+      <b>Sparse Visualization Tab UI (current Transforms Visualizer functionality)</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8a12f53f-4d10-481e-8b64-d89fff406e24" width="100%"><br>
+      <b>Dense Visualization Tab UI (DeformView added functionality)</b>
+    </td>
+  </tr>
+</table>
+
+
 
 ### Slicer Build on Mac (Silicon) + Documentation
 
