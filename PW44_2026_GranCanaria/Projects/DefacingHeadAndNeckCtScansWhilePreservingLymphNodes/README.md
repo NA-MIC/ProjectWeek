@@ -52,9 +52,13 @@ For the Lymph Node Quantification project we want to analyze and share head and 
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
+* Created mockups of the areas to be obscured
+* Discussed the core issues with several project week attendees (Thank you Andras, David, Alexandra!)
+* Created plan to test the nnU-Net based landmark detection system on the lymph node preserving face and ear definition
+    * Help test the new extension on private data
+* Test existing public data on David's Zenta defacing model for CT data
+* Consider a custom version of Zenta's model that preserves lymph nodes (submandibular and submental)
+  
 ### Mockups
 
 ### Area to be defaced
