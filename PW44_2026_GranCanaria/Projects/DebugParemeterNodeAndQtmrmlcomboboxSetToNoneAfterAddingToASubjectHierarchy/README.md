@@ -3,8 +3,7 @@ layout: pw44-project
 
 permalink: /:path/
 
-project_title: Debug - Paremeter Node and qtMRMLComboBox set to 'None' after adding to a subject
-  hierarchy
+project_title: Subject hierarchy combobox selection bug
 category: Infrastructure
 presenter_location: 
 
@@ -91,8 +90,6 @@ def onRun():
 runButton.clicked.connect(onRun)
 
 dialog.show()
-dialog.raise_()
-dialog.activateWindow()
 ```
 
 <img width="477" height="195" alt="Image" src="https://github.com/user-attachments/assets/fb1dc7c1-f782-49a3-9688-9da18e58a1c1" />
@@ -113,9 +110,10 @@ If qt combobox signal is blocked using `qt.QSignalBlocker`, then parameter node 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
-
-
+1. First finding is that the bug is simpler than seemed originally, and the parameter node is not needed, self-contained test script simplified
+2. Actual bug confirmed: when an SH item is reparented in the logic that is selected in a view (tree view or combobox), then that selection is cleared. The reason is that when reparenting, the item is first removed then re-inserted under the new parent
+3. [PR](https://github.com/Slicer/Slicer/pull/9009) opened about possible solution - behavior turns out to be wrong in a different way
+4. Proper reparenting seems to involve wrapping the steps between `beginMoveRows` and `endMoveRows`. This will probably be the correct solution if we can me it work (first attempt is not robust, something is missing)
 
 
 
