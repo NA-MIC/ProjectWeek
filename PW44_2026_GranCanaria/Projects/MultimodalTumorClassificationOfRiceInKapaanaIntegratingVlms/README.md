@@ -4,7 +4,7 @@ layout: pw44-project
 permalink: /:path/
 
 project_title: Multimodal tumor classification of RICE in Kapaana - integrating VLMs
-category: Infrastructure
+category: Segmentation / Classification / Landmarking
 presenter_location: 
 
 key_investigators:
