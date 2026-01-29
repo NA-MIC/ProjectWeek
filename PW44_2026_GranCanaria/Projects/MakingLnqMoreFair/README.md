@@ -4,7 +4,7 @@ layout: pw44-project
 permalink: /:path/
 
 project_title: Making LNQ more FAIR
-category: Infrastructure
+category: Quantification and Computation
 presenter_location: 
 
 key_investigators:
