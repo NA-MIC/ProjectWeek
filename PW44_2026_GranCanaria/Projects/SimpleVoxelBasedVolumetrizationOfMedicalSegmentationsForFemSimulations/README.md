@@ -4,7 +4,7 @@ layout: pw44-project
 permalink: /:path/
 
 project_title: Simple Voxel-Based Volumetrization of Medical Segmentations for FEM simulations
-category: Other
+category: Segmentation / Classification / Landmarking
 presenter_location: 
 
 key_investigators:
