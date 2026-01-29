@@ -83,6 +83,12 @@ How could it relate to Slicer and Imaging Data Commons (IDC)? Given a sample pat
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
+Demonstration of content-based image retrieval: 
+https://github.com/user-attachments/assets/4b424bbb-330c-449e-9a17-02eb4632d936
+
+
+
+
 
 
 
