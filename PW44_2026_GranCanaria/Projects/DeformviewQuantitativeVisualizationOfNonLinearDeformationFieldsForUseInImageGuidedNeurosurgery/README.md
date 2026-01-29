@@ -84,6 +84,11 @@ We plan to address the remaining bugs (that we know of), get user feedback, and 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+### Updated Our Module README 
+
+We'll make our GitHub public for interested parties in the coming days. See GitHub Repo here: https://github.com/elisedl1/BrainshiftModule
+
+
 ### Introduced the 'Increment Transform' feature
 
 The transformation is incrementally applied to the moving image over 10 discrete steps. This creates a sliding scale of the transform applied to the underlying image at discrete quantities (ie: 0.1x full transform, 0.2x final transform, etc.) 
