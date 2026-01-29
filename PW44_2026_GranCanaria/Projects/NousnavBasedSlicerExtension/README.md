@@ -95,7 +95,7 @@ The goal of this project is to create a Slicer Extension (tentative name SlicerN
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
+<img src="https://raw.githubusercontent.com/NousNav/SlicerOpenNav/refs/heads/main/SlicerOpenNav.svg" width="256" height="256" alt="SlicerOpenNav">
 
 
 # Background and References
