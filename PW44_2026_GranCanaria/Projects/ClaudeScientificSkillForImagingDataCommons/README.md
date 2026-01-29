@@ -86,9 +86,14 @@ Agent Skills are folders of instructions, scripts, and resources that agents can
   * look into Mike's skill for managing skill versioning
   * need to investigate improvements to how IDC BigQuery parquet files are organized, noted in [https://github.com/ImagingDataCommons/etl_flow/issues/130](https://github.com/ImagingDataCommons/etl_flow/issues/130)
   * need to work on idc-index improvements: publish indices in GCS bucket ([idc-index #229](https://github.com/ImagingDataCommons/idc-index/issues/229)), add radiomics features table ([idc-index #230](https://github.com/ImagingDataCommons/idc-index/issues/229)), support search via remote parquet file ([idc-index #331](https://github.com/ImagingDataCommons/idc-index/issues/231).
+  * it is a known issue that Claude struggles dealing with too many skills (incorrect skill matching etc)
 6. Tested to address use case from Leo (how many CT scans does NLST have, how many of those are segmented with TotalSegmentator); lessons learned:
   * GPT-4o model is useless (eg, within the same response corrects its own mistake in one code snippet but not the other)!
   * GPT-5-codex was able to answer the questions correctly, supported by correct python code, from the first try
+7. Discussed usage issues with K-Dense-AI devs (via slack)
+  * they are aware of Claude struggling when number of skills grows over 300 (although in my experience, even 140+ seems to be too much already, at least when accessed via their MCP)
+  * discussed issues related to managing skill independently vs as part of their repo
+  * see [https://k-densecommunity.slack.com/archives/C09RL3JRBSB/p1769554262310839](https://k-densecommunity.slack.com/archives/C09RL3JRBSB/p1769554262310839) to join the discussion and learn more
 
 
 # Illustrations
