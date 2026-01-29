@@ -82,30 +82,27 @@ How could it relate to Slicer and Imaging Data Commons (IDC)? Given a sample pat
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
-Demonstration of content-based image retrieval: 
-https://github.com/user-attachments/assets/4b424bbb-330c-449e-9a17-02eb4632d936
-
-
-
-
-
-
-
-
+1. We first explored the embeddings in a low-dimensiontal space using UMAP, but we couldn't see any visible clusters.
+2. Then, we used BigQuery vector search from Google Cloud to try content-based image retrieval. This worked, but was not efficient. 
+3. Then, we decided to precompute distances between these embeddings.
+4. We used Apache e-charts to show results from querying a patient and finding the top 5 matches. 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+Overview of project: 
+<img width="960" height="540" alt="overview" src="https://github.com/user-attachments/assets/477f71aa-07b9-428b-b246-a3941e0733d6" />
 
-Initial analysis (no cloud) of using embeddings for lung cancer histology classification: 
-<img width="412" height="326" alt="Image" src="https://github.com/user-attachments/assets/bd9434d2-80bb-4309-9f74-5d5d18b319c8" />
+Sample of connectome plot and showing the query image: 
+<img width="1495" height="783" alt="connectome_image" src="https://github.com/user-attachments/assets/cdee6e22-2c54-4395-a07f-1e08a1a70d31" />
 
-Initial analysis (no cloud) of using embeddings for lung cancer staging classification: 
-<img width="412" height="326" alt="Image" src="https://github.com/user-attachments/assets/4ddbf08d-e352-4c26-9c70-51d6bbbed3b9" />
-
-
+Demonstration of content-based image retrieval: 
+<video
+   controls muted
+   src="https://github.com/user-attachments/assets/4b424bbb-330c-449e-9a17-02eb4632d936"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
 # Background and References
 
