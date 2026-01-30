@@ -67,23 +67,26 @@ SlicerMouseMaster is a 3D Slicer extension for advanced mouse customization, but
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. ...
+1. Submitted extension to Slicer Extensions Index ([PR #2308](https://github.com/Slicer/ExtensionsIndex/pull/2308))
+2. Created comprehensive documentation site with user guide, developer guide, and API reference
+3. Implemented automated screenshot generation for documentation via CI
+4. Added support for Logitech MX Master 3S and MX Master 4 mice
+5. Created default presets for common workflows (Segment Editor, Markups, Volume Rendering)
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![Main UI](https://raw.githubusercontent.com/benzwick/SlicerMouseMaster/main/Screenshots/main-ui.png)
+
+*MouseMaster module interface showing mouse selection, preset management, and button mappings*
 
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-Code repository:
-
-- <https://github.com/benzwick/SlicerMouseMaster>
+- Source code: <https://github.com/benzwick/SlicerMouseMaster>
+- Documentation: <https://benzwick.github.io/SlicerMouseMaster>
+- Extensions Index PR: <https://github.com/Slicer/ExtensionsIndex/pull/2308>
 
 ## Features
 
@@ -91,7 +94,7 @@ Code repository:
 - **Mouse Profiles**: Built-in support for popular mice with auto-detection
 - **Workflow Presets**: Save and share button configurations for different tasks
 - **Context-Sensitive Bindings**: Different mappings per Slicer module
-- **Cross-Platform**: Works on Windows, macOS, and Linux
+- **Cross-Platform**: Works on Linux. Not tested on macOS or Windows.
 
 ## Supported Mice
 
