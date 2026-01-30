@@ -13,6 +13,9 @@ key_investigators:
   affiliation: Brigham and Women's Hospital
   country: Harvard Medical School, USA
 
+- name: Carl-Fredrik Westin
+  affiliation: Brigham and Women's Hospital
+  country: Harvard Medical School, USA
 ---
 
 # Project Description
@@ -64,19 +67,12 @@ Develop a gradient waveform optimiser that allows targeting specific tissue char
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-Stochastically generated waveforms from previous work, designed for the MAGNUS MRI scanner.
-<img width="858" height="293" alt="Image" src="https://github.com/user-attachments/assets/61e1977f-4604-4df5-8c96-921b1cdec0bd" />
+Example waveforms from the new optimiser, illustrating both the gradient in time and the encoding power spectrum. These waveforms are optimised for specificity to restricted diffusion (cell size) and they are designed for the MAGNUS MRI scanner with a maximum gradient strength of 300 mT/m.
 
 
 
+<img width="674" height="744" alt="image" src="https://github.com/user-attachments/assets/9bddf89c-8539-4f7e-bf7c-61957deb83ba" />
 
-Example waveforms from the new optimiser, illustrating both the gradient in time and the encoding power spectrum. These waveforms are optimised for specificity to restricted diffusion (cell size).
-
-
-
-
-
-<img width="700" height="901" alt="Image" src="https://github.com/user-attachments/assets/7c066a36-402e-43ff-84d0-3db6ee172348" />
 
 
 
