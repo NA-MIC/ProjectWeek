@@ -86,11 +86,16 @@ Bring SlicerVR to stable, usable performance and complete basic interaction supp
 
 ### Color issue
 
-<img width="1505" height="798" alt="image" src="https://github.com/user-attachments/assets/117d767c-c04a-489d-899f-c1e3c55b208e" />
+#### Before
+
+![](VRBadColors.png)
 Left: Slicer view using OpenXR without shadows Right: VR view (with back lights / without two sided lighting)
 
+#### Now
 
+In latest Slicer Preview Release: colors are the same in desktop rendering and VR headset.
 
+![](LatestSlicerVRCorrectColors.png)
 
 
 # Background and References
