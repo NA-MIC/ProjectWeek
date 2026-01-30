@@ -150,6 +150,13 @@ Local UI changes have begun, no functionality is attached yet. Implementing a 's
 
 Worked with Steve to get a local build of 3D Slicer on OSX (Silicon). Also wrote documentation to configure, build, run, and debug 3D Slicer from source on macOS (ARM64) using Qt6 and Xcode.
 
+<img
+  src="https://github.com/user-attachments/assets/56d00342-6869-43ad-8035-f480e3ae3f6e"
+  alt="Slicer-PR-Doc"
+  width="600"
+/>
+
+
 #### Current Recipe for Slicer
 
 ##### My config:
