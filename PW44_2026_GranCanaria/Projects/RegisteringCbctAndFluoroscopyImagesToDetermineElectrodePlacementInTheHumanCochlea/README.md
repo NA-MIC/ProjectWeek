@@ -27,11 +27,11 @@ key_investigators:
   country: Canada, ON
   
 - name: Roland Nagy (remote)
-  affiliation: University of Szege
+  affiliation: University of Szeged
   country: Hungary
 
 - name: Ádám Perényi (remote)
-  affiliation: University of Szege
+  affiliation: University of Szeged
   country: Hungary
 ---
 
@@ -94,7 +94,6 @@ Also, created a small anonymization Slicer extension that will fit our later wor
 Progress:
 Anonymization moudle UI:
 <iframe width="960" height="540" src="https://www.youtube.com/embed/L2dJuvdan_0"> </iframe>
-
 
 Anonymization moudle UI:
  ![](https://github.com/user-attachments/assets/f8629ab0-713c-4ffa-a4b4-0ca0cd36ca65)
