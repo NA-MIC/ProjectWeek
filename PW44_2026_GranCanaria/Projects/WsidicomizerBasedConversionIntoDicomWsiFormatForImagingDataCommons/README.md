@@ -67,7 +67,7 @@ CSV Files → CCDIMetadataLoader → DomainMetadata → MetadataBuilder → WsiD
              (SQLite)
 ```
 
-1. Set up [exploration repository](https://github.com/fedorov/pw44-wsi-conversion) that included code base from various related conversion tools 
+1. Set up [exploration repository](https://github.com/fedorov/pw44-wsi-conversion) that included code base from various related conversion tools and conversion scripts I worked on earlier
 2. Identified relevant sample earlier converted in IDC from the [CCDI-MCI collection](https://portal.imaging.datacommons.cancer.gov/explore/filters/?collection_id=CCDI&collection_id=ccdi_mci), which was selected as the initial target for development
 3. Used Claude Code and Copilot to independently develop plan and initial implementation for migrating from pixelmed (see `copilot_solution` and `claude_solution`) in the repo
 4. Used Claude Code and Copilot to independently scritinize both solution and summarize pros and cos (see reports in the top level of the repo)
