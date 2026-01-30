@@ -93,8 +93,7 @@ Goal: Efficiently correct only unreliable segmentations.
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
-1. Describe specific steps you **have actually done**.
+We will make the codes available at https://github.com/BoneHub/BoneHub-Segmentation
 
 
 
