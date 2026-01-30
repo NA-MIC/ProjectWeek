@@ -60,9 +60,13 @@ Skill download: <https://github.com/mhalle/idc-series-preview/releases/latest/do
 
 # Illustrations
 
-"Find the bottom of the lungs in an IDC NLST series".
+"Find the bottom of the lungs in an IDC NLST series":
 
 ![Base of lungs](nlst_lung_bases_v070.jpg)
+
+Contrast Mosaic:
+
+![Contrast mosaic](nlst_contrast_full.jpg)
 
 # Background and References
 
