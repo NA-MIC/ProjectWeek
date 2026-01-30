@@ -63,26 +63,63 @@ SlicerAdaptiveBrush is a segment editor effect extension for 3D Slicer that prov
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+### Completed
 
-1. ...
+1. **Extension Index Submission (In Progress)**
+   - CI/CD pipeline with GitHub Actions for automated builds
+   - Extension not yet in the Slicer Extension Index
+
+2. **Documentation**
+   - Full documentation site live at [benzwick.github.io/SlicerAdaptiveBrush](https://benzwick.github.io/SlicerAdaptiveBrush/)
+   - [Getting Started Tutorial](https://benzwick.github.io/SlicerAdaptiveBrush/user_guide/getting_started.html) with 10-step workflow
+   - [Algorithms Guide](https://benzwick.github.io/SlicerAdaptiveBrush/user_guide/algorithms.html) covering all 7 algorithms
+   - [Parameter Wizard Guide](https://benzwick.github.io/SlicerAdaptiveBrush/user_guide/parameter_wizard.html) for interactive setup
+   - Developer documentation for optimization, testing, and recipes
+   - Auto-generated screenshots from test suite
+
+3. **Performance Optimization**
+   - Implemented PerformanceCache with gradient and threshold caching
+   - Undo/redo integration with single save per stroke
+   - Cache statistics and hit rate logging
+
+4. **GPU Acceleration**
+   - Backend selector UI prepared (Auto/CPU/GPU)
+   - GPU implementation deferred to v2.0+
+
+### Next Steps
+
+- Complete Extension Index submission
+- Parameter optimization and testing for different image modalities (CT, MRI T1/T2, PET) and tissue types (tumor, bone, vessels, brain tissue)
+- Testing with [Imaging Data Commons](https://portal.imaging.datacommons.cancer.gov/) data using Claude skills:
+  - [ImagingDataCommons/idc-claude-skill](https://github.com/ImagingDataCommons/idc-claude-skill)
+  - [mhalle/idc-skill](https://github.com/mhalle/idc-skill)
+  - [benzwick/imaging-data-commons-skill](https://github.com/benzwick/imaging-data-commons-skill)
+  - See also: [claude-scientific-skill for Imaging Data Commons](../ClaudeScientificSkillForImagingDataCommons/) project
+- Mouse shortcuts can be configured using [SlicerMouseMaster](../SlicerMouseMaster/) for workflow optimization
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished.
-![Description of picture](Example2.jpg)
-![Some more images](Example2.jpg)
--->
+![Selecting Adaptive Brush effect](https://benzwick.github.io/SlicerAdaptiveBrush/_images/getting_started_005_select_adaptive_brush.png)
+
+*Selecting the Adaptive Brush effect in Segment Editor*
+
+![Painting with Adaptive Brush](https://benzwick.github.io/SlicerAdaptiveBrush/_images/getting_started_008_paint.png)
+
+*Painting a brain tumor segmentation - the brush adapts to image boundaries*
+
+![3D visualization of segmentation](https://benzwick.github.io/SlicerAdaptiveBrush/_images/getting_started_010_view_in_3d.png)
+
+*3D surface rendering of the segmented tumor*
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
+Code repository: <https://github.com/benzwick/SlicerAdaptiveBrush>
 
-Code repository:
+Documentation: <https://benzwick.github.io/SlicerAdaptiveBrush/>
 
-- <https://github.com/benzwick/SlicerAdaptiveBrush>
+- [Getting Started Tutorial](https://benzwick.github.io/SlicerAdaptiveBrush/user_guide/getting_started.html)
+- [Algorithms Guide](https://benzwick.github.io/SlicerAdaptiveBrush/user_guide/algorithms.html)
+- [Parameter Wizard](https://benzwick.github.io/SlicerAdaptiveBrush/user_guide/parameter_wizard.html)
 
 ## Features
 
