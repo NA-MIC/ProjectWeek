@@ -55,33 +55,29 @@ The goal of this projet is to generate a proof of concept of the potential provi
 4. In the loadable module, implement a class that derives from vtkGPUVolumeRaycastMapper but is able to take a volume already in the GPU as an input.
 5. Modify the pipeline of the module developed in the first step to filter the input volume and pass it on to the volume rendering mapper.
 
-
-
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+The project to create a simple shader as an input to volume rendering using LayerDisplayableManager turned into a reflection on the future of rendering in Slicer.
 
-
-1. Describe specific steps you **have actually done**.
-
-
-
+* Solution explored are the following:
+	* **Simple**: Create a GPU processing pipeline and make mapper inputs more flexible
+		* Pros: simple. Kyle Sunderland's vtkGPUImageFilter can be used as a basis. Minor changes can be made to each mapper to accept the output of GPU filters as their inputs, and make the number of inputs more flexible.
+		* Cons: Many GPU mapper are extremely complicated because they package too much functionality in the same class. They are difficult to modify and it is difficult to convince maintainers to accept changes that can affect other projects.
+	* **Extreme**: Replace VTK altogether
+		* Pros: possibly a lighter rendering engine, possibility to fully embrace modern graphics software designs.
+		* Cons: lots of work, risk of 
+	* **Middle Ground**: replace main VTK rendering classes (Surface, Volume) + GPU processing pipeline
+		* Pros: Can start with existing code and simplify, introduces sufficient flexibility and has the potential to yield results shortly.
+		* Cons: Rendering classes no longer supported by Kitware.
 
 # Illustrations
+Proposed simple architecture for volume rendering in the **Middle ground** solution above
+<img width="500" alt="Screenshot 2026-01-30 093325" src="https://github.com/user-attachments/assets/ea5a7157-7df3-4a2f-9d86-bbac16c9142e" />
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-
-_No response_
-
-
+The new architecture opens the possibility of creating rendering graphs, like in many CGI software and game engines.
+<img width="500" alt="7334bfaa111f61fc01e73dbd568e39429fde1fcc" src="https://github.com/user-attachments/assets/52a714d4-5883-458e-a526-b3de402abecb" />
 
 # Background and References
-
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
-
 
 - [Layer Displayable Manager on GitHub](https://github.com/KitwareMedical/SlicerLayerDisplayableManager) 
 - [vtkGPUImageFilters](https://github.com/Sunderlandkyl/VTK/commits/vtkGPUImageFilter3) (branch on Kyle Sunderland's VTK fork)
