@@ -96,7 +96,7 @@ Work on two separate scenes:
 ### Multimaterial model
 1. Create a union model of orbital soft tissue and convert into a tetrahedron mesh.
 2. Using the SOFA 'MeshROI' method to use the eyeball-musle polygon model as an ROI to select tetrahedra fell within it, and assign different materials to tets in and out the ROI (i.e., orbital fat).
-3. 
+
 <img src="https://github.com/user-attachments/assets/ad88a41a-5459-4bd2-bff5-4f71f3cb65f0" width="350">
 
  <video
@@ -104,8 +104,6 @@ Work on two separate scenes:
    src="https://github.com/user-attachments/assets/80c8c60b-ea99-44da-8d90-975b2f684990"
    style="max-height:500px; min-height: 200px">
  </video>
-
-1. Describe specific steps you **have actually done**.
 
 ### Using SlicerSOFA infrastructure and vtkProbeFilter() & grid transform for mesh & image deformation
 
@@ -115,6 +113,7 @@ Work on two separate scenes:
    style="max-height:500px; min-height: 200px">
  </video>
 
+### Next step: work on the collision model issue between the retractor and the soft tissue
 
 # Illustrations
 
