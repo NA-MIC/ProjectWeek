@@ -53,7 +53,7 @@ In this project, we want to enable AI agents to interact with MHub.ai models by 
 
 
 We developed a public PoC Skill that can discover, run and adapt MHub models, the skill can be found under
-https://github.com/MHubAI/MHubSkill.
+[https://github.com/MHubAI/MHubSkill](https://github.com/MHubAI/MHubSkill).
 
 
 
