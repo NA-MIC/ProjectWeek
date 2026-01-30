@@ -54,9 +54,9 @@ The Imaging Data Commons is filled with imaging data, but idc-index and database
 1 Prototype "idc-series-preview" is written but needs knowledgable eyes on the project. It also needs some features like annotations added. This project could well be done using fancy DICOM viewer code, but for right now Python works fine for the prototype.
 1 During Project Week, I added annotations to the python module and made it into a Claude Skill.
 
-Python module/skill: https://github.com/mhalle/idc-series-preview
+Python module/skill: <https://github.com/mhalle/idc-series-preview>
 
-Skill download: https://github.com/mhalle/idc-series-preview/releases/latest/download/idc-series-preview.skill
+Skill download: <https://github.com/mhalle/idc-series-preview/releases/latest/download/idc-series-preview.skill>
 
 # Illustrations
 
