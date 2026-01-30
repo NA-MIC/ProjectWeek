@@ -79,7 +79,7 @@ More about the module [here](https://github.com/ciroraggio/SlicerModalityConvert
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 * New model:
-  <img width="1462" height="1264" alt="compareCBCTsCT2" src="https://github.com/user-attachments/assets/537263e2-9a5a-4ec6-988d-3db61fd9dade" />
+  <img alt="compareCBCTsCT2" src="https://github.com/user-attachments/assets/537263e2-9a5a-4ec6-988d-3db61fd9dade" />
 
 
 * Tutorial: [Skull Extraction from T1w MRI via Deep Learning-based Image-to-Image Translation in 3D Slicer](https://github.com/ciroraggio/SlicerModalityConverter/blob/develop/ModalityConverter/assets/tutorials/MRItoCT-skull.mp4)
