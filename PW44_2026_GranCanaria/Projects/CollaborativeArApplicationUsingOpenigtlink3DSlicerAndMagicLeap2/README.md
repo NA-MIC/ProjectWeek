@@ -95,6 +95,9 @@ This time, we aim to follow a similar approach, this time with Magic Leap 2, wit
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+## Alicia with Viture Luma Ultra and Pro Neckband
+
+<img width="1406" height="1874" alt="image" src="https://github.com/user-attachments/assets/b52efeb7-17c6-466e-a74a-4b0d3ed2c2b2" />
 
 
 _No response_
