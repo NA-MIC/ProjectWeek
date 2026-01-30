@@ -52,7 +52,7 @@ The Lymph Node Quantification Project currently has no web presence, pointer to 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Built the website https://lnqproject.org  (mkdocs with material theme)
+1. Built the website <https://lnqproject.org>  (mkdocs with material theme)
 2. Wrote llms.txt for the site
 3. added citation database with datasette browser: [Browse LNQ Citations](https://lite.datasette.io/?url=https://raw.githubusercontent.com/mhalle/LNQ-citations/master/citations.db&metadata=https://raw.githubusercontent.com/mhalle/s2cli/main/citetree-metadata.yaml#/citations/papers)
 
