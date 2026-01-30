@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -72,7 +72,7 @@ I will use diffusion and structural MRI, specifically whole-brain tractography (
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-<img width="468" height="533" alt="image" src="https://github.com/user-attachments/assets/12007fc5-7f9c-4ea1-8e71-21ae046ec721" />
+![](https://github.com/user-attachments/assets/12007fc5-7f9c-4ea1-8e71-21ae046ec721)
 
 Segmentation of the DVC-CLFS fiber tract (white) from the UKF whole-brain tractography and FreeSurfer-generated parcellations using 3D Slicer tool and its extensions.
 
@@ -85,7 +85,3 @@ Segmentation of the DVC-CLFS fiber tract (white) from the UKF whole-brain tracto
 Investigating the Structural Network Underlying Brain-Immune Interactions Using Combined Histopathology and Neuroimaging: A Critical Review for Its Relevance in Acute and Long COVID-19.
 Kikinis et al. 2024,
 https://pubmed.ncbi.nlm.nih.gov/38590789/
-
-
-
-

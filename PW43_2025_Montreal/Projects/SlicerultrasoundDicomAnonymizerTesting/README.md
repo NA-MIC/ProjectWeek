@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw43-project
 
 permalink: /:path/
@@ -102,7 +102,7 @@ During PW43 we completed manual de-identification (fan segmentation by clicking 
 Results from PW43 - WIP:
 
 <p align="center">
-<img width="872" alt="fan-segmentation-pw43" src="https://github.com/user-attachments/assets/b57695f1-1d8a-490f-8939-d265cfe98ecd" />
+![](https://github.com/user-attachments/assets/b57695f1-1d8a-490f-8939-d265cfe98ecd)
 </p>
 
 
@@ -112,5 +112,3 @@ Results from PW43 - WIP:
      If possible, also add links to sample data, and to any relevant publications. -->
 
 - [https://github.com/SlicerUltrasound](https://github.com/SlicerUltrasound)
-
-

@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -72,13 +72,12 @@ The project to create a simple shader as an input to volume rendering using Laye
 
 # Illustrations
 Proposed simple architecture for volume rendering in the **Middle ground** solution above
-<img width="500" alt="Screenshot 2026-01-30 093325" src="https://github.com/user-attachments/assets/ea5a7157-7df3-4a2f-9d86-bbac16c9142e" />
+![](https://github.com/user-attachments/assets/ea5a7157-7df3-4a2f-9d86-bbac16c9142e)
 
 The new architecture opens the possibility of creating rendering graphs, like in many CGI software and game engines.
-<img width="500" alt="7334bfaa111f61fc01e73dbd568e39429fde1fcc" src="https://github.com/user-attachments/assets/52a714d4-5883-458e-a526-b3de402abecb" />
+![](https://github.com/user-attachments/assets/52a714d4-5883-458e-a526-b3de402abecb)
 
 # Background and References
 
 - [Layer Displayable Manager on GitHub](https://github.com/KitwareMedical/SlicerLayerDisplayableManager) 
 - [vtkGPUImageFilters](https://github.com/Sunderlandkyl/VTK/commits/vtkGPUImageFilter3) (branch on Kyle Sunderland's VTK fork)
-

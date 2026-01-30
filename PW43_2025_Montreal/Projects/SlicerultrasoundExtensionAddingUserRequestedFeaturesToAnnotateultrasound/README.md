@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw43-project
 
 permalink: /:path/
@@ -152,8 +152,8 @@ Timer demo:
 
 Label annotation and populating rater tbale:
 
-<img width="395" alt="labels" src="https://github.com/user-attachments/assets/82875613-02be-4548-b1d6-46c52103ed35" />
-<img width="395" alt="labels in rater table" src="https://github.com/user-attachments/assets/496c3132-91d1-4512-849d-b49a0fdf05c3" />
+![](https://github.com/user-attachments/assets/82875613-02be-4548-b1d6-46c52103ed35)
+![](https://github.com/user-attachments/assets/496c3132-91d1-4512-849d-b49a0fdf05c3)
 
 
 Adjudication video:
@@ -169,7 +169,7 @@ https://github.com/user-attachments/assets/d3cb237e-92d7-4a67-87ff-18c41fe003cd
 
 
 
-<img width="352" alt="adjudicator-tools" src="https://github.com/user-attachments/assets/c3d61cf3-a1bf-47ce-bbc7-f27af37c712f" />
+![](https://github.com/user-attachments/assets/c3d61cf3-a1bf-47ce-bbc7-f27af37c712f)
 
 
 Current keyboard shortcuts:
@@ -188,4 +188,3 @@ Current keyboard shortcuts:
 - Related Extension: [Sandbox – UserStatistics module](https://github.com/Slicer/SlicerSandbox)
 
 _No response_
-

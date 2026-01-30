@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -111,7 +111,7 @@ An optional `module` field can also be included in the step dictionary to restri
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-<img width="1642" height="595" alt="Image" src="https://github.com/user-attachments/assets/92e1aa2e-c6ab-4ed5-affc-285a2336cb72" />
+![](https://github.com/user-attachments/assets/92e1aa2e-c6ab-4ed5-affc-285a2336cb72)
 Part of the curriculum tree in the commercial app that we propose to adapt to Slicer core
 
 
@@ -124,4 +124,3 @@ Part of the curriculum tree in the commercial app that we propose to adapt to Sl
 
 * The commercial app in question: [https://ebatinca.com/productos/start](https://ebatinca.com/productos/start)
 * The current training material for Slicer core: [https://training.slicer.org/](https://training.slicer.org/)
-

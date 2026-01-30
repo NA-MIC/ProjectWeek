@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -22,7 +22,7 @@ key_investigators:
 
 Make an orientation marker for OHIF whose 26 surfaces (6 faces, 8 corners and 12 edges) can be clicked to reorient the volume in 3D/VRT viewport.
 
-<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/d9a50e00-74ba-4549-93a7-6d34229c4c18" />
+![](https://github.com/user-attachments/assets/d9a50e00-74ba-4549-93a7-6d34229c4c18)
 
 
 
@@ -101,4 +101,3 @@ This project is supported by [Freie Universität Berlin](https://www.fu-berlin.d
 
 
 _No response_
-

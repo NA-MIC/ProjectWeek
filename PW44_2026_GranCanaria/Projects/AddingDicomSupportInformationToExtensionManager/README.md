@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -76,10 +76,10 @@ Currently DICOM support in extensions is written to a json file in the slicer re
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 ### Extension suggestion
-<img width="2222" height="1580" alt="image" src="https://github.com/user-attachments/assets/23334375-e646-4e1b-9437-091c561410c0" />
+![](https://github.com/user-attachments/assets/23334375-e646-4e1b-9437-091c561410c0)
 
 ### Girder contents
-<img width="2405" height="1590" alt="image" src="https://github.com/user-attachments/assets/6dace467-46a2-4ee6-bd02-3029f130c8d0" />
+![](https://github.com/user-attachments/assets/6dace467-46a2-4ee6-bd02-3029f130c8d0)
 
 # Background and References
 
@@ -92,4 +92,3 @@ Currently DICOM support in extensions is written to a json file in the slicer re
 
 ### Other links
 - [https://pypi.org/project/rule-engine/](https://pypi.org/project/rule-engine/)
-

@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -98,9 +98,9 @@ You can try this extension here: https://github.com/DomenicoRiggio/SlicerModelsV
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-<img width="3932" height="2360" alt="before" src="https://github.com/user-attachments/assets/da3689c9-e0ba-4905-bd9b-243d6d832f53" />
+![](https://github.com/user-attachments/assets/da3689c9-e0ba-4905-bd9b-243d6d832f53)
 
-<img width="3923" height="2360" alt="After" src="https://github.com/user-attachments/assets/3cdf45fe-2d92-493c-9022-fa52971e41e2" />
+![](https://github.com/user-attachments/assets/3cdf45fe-2d92-493c-9022-fa52971e41e2)
 
 
 ---
@@ -112,4 +112,3 @@ You can try this extension here: https://github.com/DomenicoRiggio/SlicerModelsV
 
 [1] Lasso, A., *et al.* **Segment Mesher** – A 3D Slicer extension for generating volumetric meshes from segmentation data.  
 GitHub repository: https://github.com/lassoan/SlicerSegmentMesher
-

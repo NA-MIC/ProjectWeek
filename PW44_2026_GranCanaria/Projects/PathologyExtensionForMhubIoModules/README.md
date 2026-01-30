@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -68,13 +68,13 @@ Pathology (DICOM) images differ greatly from radiology images, e.g., contain mul
 
 
 ## Layer Extraction
-<img width="707" height="379" alt="Image" src="https://github.com/user-attachments/assets/e5705efa-0279-4f4a-b485-75e85fa2a167" />
+![](https://github.com/user-attachments/assets/e5705efa-0279-4f4a-b485-75e85fa2a167)
 
 ## Proposed Pipeline
-<img width="1211" height="391" alt="Image" src="https://github.com/user-attachments/assets/f3ccb9db-3eb4-4b62-8697-3cca89f09f11" />
+![](https://github.com/user-attachments/assets/f3ccb9db-3eb4-4b62-8697-3cca89f09f11)
 
 ## RMS Model
-<img width="1197" height="642" alt="Image" src="https://github.com/user-attachments/assets/3a356f20-2bef-4400-853c-32dd66ea8989" />
+![](https://github.com/user-attachments/assets/3a356f20-2bef-4400-853c-32dd66ea8989)
 
 
 
@@ -89,4 +89,3 @@ Pathology (DICOM) images differ greatly from radiology images, e.g., contain mul
 - [Reproducible Radiology and Pathology Imaging Analysis Applications in MHub ](https://docs.google.com/presentation/d/1bcP9WhqRf1eZtMZ1lsubE6wCgKdAYA4CIPedhw2Rcuo/edit?slide=id.g34b433d272b_1_0#slide=id.g34b433d272b_1_0) Slide 17-22
 - [MHub.ai](https://mhub.ai)
 - [Official PathologyExtension Repository](https://github.com/MHubAI/PathologyExtension)
-

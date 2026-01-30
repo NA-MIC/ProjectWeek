@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -50,7 +50,7 @@ _No response_
 
 We have adjusted the SLicerNNUnet extension for landmark detection.
 
-<img width="2090" height="1792" alt="image" src="https://github.com/user-attachments/assets/fa47cf3d-482b-4752-9245-883dfb58dff1" />
+![](https://github.com/user-attachments/assets/fa47cf3d-482b-4752-9245-883dfb58dff1)
 
 
 
@@ -72,4 +72,3 @@ _No response_
 
 
 The respective publication is currently under review for MIDL 2026 ([OpenReview submission](https://openreview.net/forum?id=G2Dpy3hayS))
-

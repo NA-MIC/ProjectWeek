@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -88,8 +88,8 @@ Also, created a small anonymization Slicer extension that will fit our later wor
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-<img width="1202" height="633" alt="Image" src="https://github.com/user-attachments/assets/db4355c7-71b9-418e-ab0d-07d18bd3c004" />
-<img width="1186" height="626" alt="Image" src="https://github.com/user-attachments/assets/104baf5d-bcde-4378-b411-b7f450d4f9db" />
+![](https://github.com/user-attachments/assets/db4355c7-71b9-418e-ab0d-07d18bd3c004)
+![](https://github.com/user-attachments/assets/104baf5d-bcde-4378-b411-b7f450d4f9db)
 
 Progress:
 Anonymization moudle UI:
@@ -97,11 +97,11 @@ Anonymization moudle UI:
  </iframe>
 
 Anonymization moudle UI:
- <img width="1920" height="1030" alt="Képernyőkép 2026-01-30 104841" src="https://github.com/user-attachments/assets/f8629ab0-713c-4ffa-a4b4-0ca0cd36ca65" />
+ ![](https://github.com/user-attachments/assets/f8629ab0-713c-4ffa-a4b4-0ca0cd36ca65)
 
 
 Example module usage with our own cochlear implant CBCT data:
-<img width="1920" height="1030" alt="fluoro_SlicerHeart" src="https://github.com/user-attachments/assets/680dd100-0976-4829-94b0-7755068e8605" />
+![](https://github.com/user-attachments/assets/680dd100-0976-4829-94b0-7755068e8605)
 
 
 
@@ -112,4 +112,3 @@ Example module usage with our own cochlear implant CBCT data:
 
 
 _No response_
-

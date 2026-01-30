@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw43-project
 
 permalink: /:path/
@@ -89,11 +89,11 @@ In this project we aim to improve materials/resources that accompany the dataset
 
 Check out [this notebook](https://tinyurl.com/3sfunh44) if you want to know more about the below!
   
-<img width="913" alt="image" src="https://github.com/user-attachments/assets/dc5cf7a0-ed13-4a66-bf94-4a5c8995287d" />
+![](https://github.com/user-attachments/assets/dc5cf7a0-ed13-4a66-bf94-4a5c8995287d)
 
-<img width="1015" alt="image" src="https://github.com/user-attachments/assets/091602a8-b786-4776-8cba-a9360c0e7998" />
+![](https://github.com/user-attachments/assets/091602a8-b786-4776-8cba-a9360c0e7998)
 
-<img width="1013" alt="image" src="https://github.com/user-attachments/assets/ffc9a1ea-35c3-48df-b9fd-bb0560e27c32" />
+![](https://github.com/user-attachments/assets/ffc9a1ea-35c3-48df-b9fd-bb0560e27c32)
 
 
 # Illustrations
@@ -125,4 +125,3 @@ Plot from the [Krishnaswamy et al. 2024](http://arxiv.org/abs/2406.14486) study 
 [3] Weiss, J., Bernatz, S., Johnson, J., Thiriveedhi, V., Mak, R. H., Fedorov, A., Lu, M. T. & Aerts, H. J. W. Opportunistic assessment of steatotic liver disease in lung cancer screening eligible individuals. J. Intern. Med. (2025). [https://doi.org/10.1111/joim.20053](https://doi.org/10.1111/joim.20053)
 
 [4] Krishnaswamy, D., Thiriveedhi, V. K., Ciausu, C., Clunie, D., Pieper, S., Kikinis, R. & Fedorov, A. Rule-based outlier detection of AI-generated anatomy segmentations. arXiv [eess.IV] (2024). at [http://arxiv.org/abs/2406.14486](http://arxiv.org/abs/2406.14486)
-

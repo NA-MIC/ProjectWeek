@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -71,7 +71,7 @@ Example waveforms from the new optimiser, illustrating both the gradient in time
 
 
 
-<img width="674" height="744" alt="image" src="https://github.com/user-attachments/assets/9bddf89c-8539-4f7e-bf7c-61957deb83ba" />
+![](https://github.com/user-attachments/assets/9bddf89c-8539-4f7e-bf7c-61957deb83ba)
 
 
 
@@ -91,4 +91,3 @@ Previous work presenting the idea of time-dependent diffusion MRI with non-stand
 - Chakwizira, A., Zhu, A., Foo, T., Westin, C.-F., Szczepankiewicz, F. & Nilsson, M. 2023. Diffusion MRI with free gradient waveforms on a high-performance gradient system: Probing restriction and exchange in the human brain. NeuroImage. 283: 120409
 
 - Chakwizira, A., Westin, C.-F., Brabec, J., Lasič, S., Knutsson, L., Szczepankiewicz, F. & Nilsson, M. 2022. Diffusion MRI with pulsed and free gradient waveforms: Effects of restricted diffusion and exchange. NMR in Biomedicine. n/a(n/a): e4827.
-

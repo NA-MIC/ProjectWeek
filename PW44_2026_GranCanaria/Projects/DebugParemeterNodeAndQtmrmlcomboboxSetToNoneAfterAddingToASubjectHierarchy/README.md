@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -92,7 +92,7 @@ runButton.clicked.connect(onRun)
 dialog.show()
 ```
 
-<img width="477" height="195" alt="Image" src="https://github.com/user-attachments/assets/fb1dc7c1-f782-49a3-9688-9da18e58a1c1" />
+![](https://github.com/user-attachments/assets/fb1dc7c1-f782-49a3-9688-9da18e58a1c1)
 
 ```
 [AFTER MOVE (post SetItemParent)]
@@ -133,4 +133,3 @@ _No response_
 
 
 _No response_
-

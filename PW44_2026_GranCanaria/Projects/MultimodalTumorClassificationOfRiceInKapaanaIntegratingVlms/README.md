@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -29,7 +29,7 @@ key_investigators:
 - RICE-Net is currently integrated into Kapaana, providing a structured environment for processing imaging and radiotherapy data and enabling inference on these inputs within a clinical routine.
 - However, relevant clinical information, including pathology and radiology reports as well as medication plans, is not yet integrated, although it could substantially improve model performance and clinical utility. Corresponding multimodal extensions are currently under development and planned for integration into a new Kapaana workflow.im
 
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/15a5ca20-6ef7-4e92-b605-220c263ef539" />
+![](https://github.com/user-attachments/assets/15a5ca20-6ef7-4e92-b605-220c263ef539)
 
 - However, such models cannot yet be integrated into Kapaana, as the platform currently does not support text processing or the integration of large language and vision–language models.
 
@@ -89,4 +89,3 @@ _No response_
 
 
 _No response_
-

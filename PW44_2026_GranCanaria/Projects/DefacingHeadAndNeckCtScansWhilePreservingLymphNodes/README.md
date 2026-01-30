@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -65,25 +65,25 @@ For the Lymph Node Quantification project we want to analyze and share head and 
 
 * Closed curve snapped to model surface
 
-<img width="1008" height="377" alt="image" src="https://github.com/user-attachments/assets/bb1f2597-e68e-416f-a87f-619629f95674" />
+![](https://github.com/user-attachments/assets/bb1f2597-e68e-416f-a87f-619629f95674)
 
 * Dynamic modeling applied to suface wrap solidfy model
 
-<img width="440" height="476" alt="image" src="https://github.com/user-attachments/assets/95876794-4d8e-414b-8e9e-f9361d6fe97a" />
+![](https://github.com/user-attachments/assets/95876794-4d8e-414b-8e9e-f9361d6fe97a)
 
 * Facial blur
 
-<img width="798" height="508" alt="image" src="https://github.com/user-attachments/assets/b3c02fc2-2d83-4b3d-b2ce-e89b3186f67a" />
+![](https://github.com/user-attachments/assets/b3c02fc2-2d83-4b3d-b2ce-e89b3186f67a)
 
 * Extra blur
 
-<img width="677" height="481" alt="image" src="https://github.com/user-attachments/assets/acb70748-22ba-45fd-a85e-954d9ac39d9c" />
+![](https://github.com/user-attachments/assets/acb70748-22ba-45fd-a85e-954d9ac39d9c)
 
 * Zenda's current solution
 
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/6f07147c-cb90-4fd1-8816-1b0946b5f8f4" />
+![](https://github.com/user-attachments/assets/6f07147c-cb90-4fd1-8816-1b0946b5f8f4)
 
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/9917273d-7fe0-4654-94d7-49060f919b3e" />
+![](https://github.com/user-attachments/assets/9917273d-7fe0-4654-94d7-49060f919b3e)
 
 ### Open Questions
 
@@ -100,11 +100,11 @@ For the Lymph Node Quantification project we want to analyze and share head and 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-<img width="500" height="349" alt="Image" src="https://github.com/user-attachments/assets/b93bf4ce-485d-46c6-af8b-bda41197eb1b" />
+![](https://github.com/user-attachments/assets/b93bf4ce-485d-46c6-af8b-bda41197eb1b)
 
 We will use the [CTHead](https://drive.google.com/file/d/1a0tt9_Uu7whrYs2VKbBezwKi7gJGG823/view?usp=sharing) sample data for experiments.
 
-<img width="1005" height="904" alt="image" src="https://github.com/user-attachments/assets/86c88b58-2874-435f-90ef-111bb53fb808" />
+![](https://github.com/user-attachments/assets/86c88b58-2874-435f-90ef-111bb53fb808)
 
 
 # Background and References
@@ -118,18 +118,12 @@ We will use the [CTHead](https://drive.google.com/file/d/1a0tt9_Uu7whrYs2VKbBezw
 
 ### "Phantom of the Opera" deidentification:
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/9cf6fd85-43c6-4e12-9de7-a7ded3f9c485" />
+![](https://github.com/user-attachments/assets/9cf6fd85-43c6-4e12-9de7-a7ded3f9c485)
 
 ### "Venetian Masquerade" deidentification:
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/c7aad156-f783-47bb-8e3a-125bbb1edb97" />
+![](https://github.com/user-attachments/assets/c7aad156-f783-47bb-8e3a-125bbb1edb97)
 
 ### "Traditional medical publication" deidentification:
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/f6d69bb7-3356-4334-813b-e6eea7862bb4" />
-
-
-
-
-
-
+![](https://github.com/user-attachments/assets/f6d69bb7-3356-4334-813b-e6eea7862bb4)

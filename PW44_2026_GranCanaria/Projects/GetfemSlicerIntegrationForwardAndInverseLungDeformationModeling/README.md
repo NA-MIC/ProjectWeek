@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -95,7 +95,7 @@ Future developments will focus on:
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-<img width="1920" height="1048" alt="Image" src="https://github.com/user-attachments/assets/a1dc8d4e-cb4a-4e91-a47a-bb5522055a2f" />
+![](https://github.com/user-attachments/assets/a1dc8d4e-cb4a-4e91-a47a-bb5522055a2f)
 
 
 
@@ -105,4 +105,3 @@ Future developments will focus on:
      If possible, also add links to sample data, and to any relevant publications. -->
 
 - Steve Pieper, SlicerGetFEM, [https://github.com/pieper/SlicerGetFEM](https://github.com/pieper/SlicerGetFEM)
-

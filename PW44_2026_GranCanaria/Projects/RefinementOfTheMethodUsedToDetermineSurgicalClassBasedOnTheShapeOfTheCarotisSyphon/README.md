@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -78,7 +78,7 @@ Next steps: Ground truth should be considered in a different way. Instead of opt
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-<img width="749" height="792" alt="Image" src="https://github.com/user-attachments/assets/02e5d8ea-f072-4fb6-81f0-b8f5f7336ed7" />
+![](https://github.com/user-attachments/assets/02e5d8ea-f072-4fb6-81f0-b8f5f7336ed7)
 
 
 
@@ -89,4 +89,3 @@ Next steps: Ground truth should be considered in a different way. Instead of opt
 
 
 _No response_
-

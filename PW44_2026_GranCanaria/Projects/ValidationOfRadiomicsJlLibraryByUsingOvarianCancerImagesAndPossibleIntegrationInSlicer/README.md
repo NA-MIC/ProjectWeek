@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -116,7 +116,7 @@ create_library(".", "radiomicsjl_build";
 
 ![Radiomics.jl](https://raw.githubusercontent.com/pzaffino/Radiomics.jl/refs/heads/main/Logo%20Radiomicsjl.png)
 
-<img width="1106" height="408" alt="Image" src="https://github.com/user-attachments/assets/1dc97ca0-90a1-4e5f-ae40-67730e3dae16" />
+![](https://github.com/user-attachments/assets/1dc97ca0-90a1-4e5f-ae40-67730e3dae16)
 
 
 
@@ -130,4 +130,3 @@ create_library(".", "radiomicsjl_build";
 - Radiomics.jl source code: [https://github.com/pzaffino/Radiomics.jl](https://github.com/pzaffino/Radiomics.jl)
 - Pyradiomics documentation: [https://pyradiomics.readthedocs.io](https://pyradiomics.readthedocs.io)
 - Pyradiomics source code: [https://github.com/AIM-Harvard/pyradiomics/tree/master](https://github.com/AIM-Harvard/pyradiomics/tree/master)
-

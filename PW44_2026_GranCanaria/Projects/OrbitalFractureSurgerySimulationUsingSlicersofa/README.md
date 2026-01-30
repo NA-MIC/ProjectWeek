@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -36,9 +36,9 @@ Using SlicerSOFA to simulate orbital fracture repair using titanium plate.
 
 Virtual planning in oral and maxillofacial surgery (OMFS) is primary based on static models using proprietary software for implant customization design and surgical navigation. Soft tissue behaviors were usally unknown. However, physics simulation has not been widely adopted in OMFS virtual planning. One reason is simulation is complex. SlicerSOFA can bridge this gap by integration Slicer and SOFA.
 
-<img src="https://github.com/user-attachments/assets/b8f775ea-4360-415b-9279-d44d7ecadbd2" width="200">
-<img src="https://github.com/user-attachments/assets/da97f07b-c505-4d63-92de-7eeb9a6d89c6" width="200">
-<img src="https://github.com/user-attachments/assets/7fe6a8b3-3b5f-45d2-8959-00356edbb846" width="200">
+![](https://github.com/user-attachments/assets/b8f775ea-4360-415b-9279-d44d7ecadbd2)
+![](https://github.com/user-attachments/assets/da97f07b-c505-4d63-92de-7eeb9a6d89c6)
+![](https://github.com/user-attachments/assets/7fe6a8b3-3b5f-45d2-8959-00356edbb846)
 
 [Image source](https://surgeryreference.aofoundation.org/cmf/trauma/midface/orbit-floor/reconstruction#general-considerations)
 
@@ -66,8 +66,8 @@ Work on two separate scenes:
 - Challenges: collision in a confined space; proper mechanical models of different tissue types
 - Creating a single multi-material model
 
-<img src="https://github.com/user-attachments/assets/8ef946f4-00ff-4e3d-b0ce-126b367299fc" width="200">
-<img src="https://github.com/user-attachments/assets/5aa60cab-99d4-48c3-9d09-7eeef7470867" width="250">
+![](https://github.com/user-attachments/assets/8ef946f4-00ff-4e3d-b0ce-126b367299fc)
+![](https://github.com/user-attachments/assets/5aa60cab-99d4-48c3-9d09-7eeef7470867)
 
 
 **2. Plate bending and fixation**
@@ -97,7 +97,7 @@ Work on two separate scenes:
 1. Create a union model of orbital soft tissue and convert into a tetrahedron mesh.
 2. Using the SOFA 'MeshROI' method to use the eyeball-musle polygon model as an ROI to select tetrahedra fell within it, and assign different materials to tets in and out the ROI (i.e., orbital fat).
 
-<img src="https://github.com/user-attachments/assets/ad88a41a-5459-4bd2-bff5-4f71f3cb65f0" width="350">
+![](https://github.com/user-attachments/assets/ad88a41a-5459-4bd2-bff5-4f71f3cb65f0)
 
  <video
    controls muted
@@ -134,4 +134,3 @@ Orbital fracture repair introduction: [AO Surgery Reference - Orbital Floor Reco
 
 Related previous PW pages: [Evaluate the fit of preformed plates in orbital surgery
 ](https://projectweek.na-mic.org/PW43_2025_Montreal/Projects/EvaluateTheFitOfPreformedPlatesInOrbitalSurgery/) and [Simulate orbit surgery using SlicerSOFA](https://projectweek.na-mic.org/PW43_2025_Montreal/Projects/SimulateOrbitSurgeryUsingSlicersofa/)
-

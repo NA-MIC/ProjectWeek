@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -91,10 +91,10 @@ _No response_
 ## Curious examples of failures of Claude
 
 * remind to check documentation in the prompt?
-<img width="600" height="430" alt="image" src="https://github.com/user-attachments/assets/a8e4d117-a619-4ac2-9cbb-460b2120835c" />
+![](https://github.com/user-attachments/assets/a8e4d117-a619-4ac2-9cbb-460b2120835c)
 
 * need to understand the code ...
-<img width="602" height="607" alt="image" src="https://github.com/user-attachments/assets/72c38fe5-8144-43a1-81a9-b7996e6a66a3" />
+![](https://github.com/user-attachments/assets/72c38fe5-8144-43a1-81a9-b7996e6a66a3)
 
 
 # Background and References
@@ -104,4 +104,3 @@ _No response_
 
 
 _No response_
-

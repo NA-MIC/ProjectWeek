@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw43-project
 
 permalink: /:path/
@@ -26,15 +26,15 @@ Segmentation of orbital soft tissue and bones are difficult because the structur
 Manual segmentation of orbit is laborious and technical. The available deep learning tools are scarce. TotalSegmentator recently included a model for segmenting extraocular muscles but it might only be based on about twenty manual segmentations with no peer-reviewed publications. Boundaries between some muscles (e.g., superiour rectus & levator palpebrae) cannot be validated due to CT image qualities. A company from Finland has a model for segmenting orbital tissue but they did not incorporate fractured conditions. Consequently, fat is indistinguishable from blood in herniation cases.
 
 -Segmentation of orbital fat (herniation into maxillary sinus) vs. blood. A Finnish commercial software include blood as fat segmentation, thus failed to compute herniation. <br>
-<img src="https://github.com/user-attachments/assets/444d7704-1965-41cb-a42d-621dc1fa88d6" width="400"/>
-<img src="https://github.com/user-attachments/assets/e72d0d66-a01c-40da-a5cd-dd4b4ad58212" width="350"/><br>
-<img src="https://github.com/user-attachments/assets/e65d9afd-587a-427c-a414-bc0a0243a6b2" width="400"/>
-<img src="https://github.com/user-attachments/assets/c54ffdc2-004d-46c0-a94a-6c6e8dcd37b5" width="350"/><br>
+![](https://github.com/user-attachments/assets/444d7704-1965-41cb-a42d-621dc1fa88d6)
+![](https://github.com/user-attachments/assets/e72d0d66-a01c-40da-a5cd-dd4b4ad58212)<br>
+![](https://github.com/user-attachments/assets/e65d9afd-587a-427c-a414-bc0a0243a6b2)
+![](https://github.com/user-attachments/assets/c54ffdc2-004d-46c0-a94a-6c6e8dcd37b5)<br>
 
 <br>
 -Conformational change in inferior rectus (segmented by TotalSegmentator):<br>
-<img src="https://github.com/user-attachments/assets/0d8e2ae1-f45c-4a45-82bf-9b4a9a9505aa" width="450"/>
-<img src="https://github.com/user-attachments/assets/658c39f1-91cc-486f-a466-0c8eebb81339" width="450"/>
+![](https://github.com/user-attachments/assets/0d8e2ae1-f45c-4a45-82bf-9b4a9a9505aa)
+![](https://github.com/user-attachments/assets/658c39f1-91cc-486f-a466-0c8eebb81339)
 
 
 ## Objective
@@ -90,4 +90,3 @@ _No response_
 
 
 _No response_
-

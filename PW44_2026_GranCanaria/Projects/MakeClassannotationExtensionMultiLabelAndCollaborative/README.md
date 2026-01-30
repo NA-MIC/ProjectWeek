@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -85,7 +85,7 @@ Next Steps
 ![ClassAnnotation logo](https://github.com/lorenaromeo/SlicerClassAnnotation/blob/main/ClassAnnotation.png?raw=true)
 ![ClassAnnotation pannel](https://raw.githubusercontent.com/lorenaromeo/SlicerClassAnnotation/refs/heads/main/ClassAnnotation_screenshot.png)
 
-<img width="1680" height="1050" alt="Screenshot 2026-01-30 alle 11 20 44" src="https://github.com/user-attachments/assets/c52cdc71-2d16-40a4-a506-dcb2a6a3e56e" />
+![](https://github.com/user-attachments/assets/c52cdc71-2d16-40a4-a506-dcb2a6a3e56e)
 
 
 # Background and References
@@ -96,4 +96,3 @@ Next Steps
 
 - Source code: [https://github.com/lorenaromeo/SlicerClassAnnotation](https://github.com/lorenaromeo/SlicerClassAnnotation)
 - Demo (video): [https://drive.google.com/file/d/1aquVa_120tXwTltVutA9tb2mD2o8SCwK/view?usp=sharing](https://drive.google.com/file/d/1aquVa_120tXwTltVutA9tb2mD2o8SCwK/view?usp=sharing)
-

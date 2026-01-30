@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -119,7 +119,7 @@ key_investigators:
 <iframe width="420" height="315" src="https://www.youtube.com/embed/9poa0YMYqHo">  
 </iframe>
 
-<img width="1728" height="966" alt="image" src="https://github.com/user-attachments/assets/84d43eb2-33c6-4cb7-95b4-b4577f91a838" />
+![](https://github.com/user-attachments/assets/84d43eb2-33c6-4cb7-95b4-b4577f91a838)
 
 # Background and References
 
@@ -128,4 +128,3 @@ key_investigators:
 
 
 _No response_
-

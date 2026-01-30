@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -86,7 +86,7 @@ The implementation of further ideas is coming.
 
 
 
-<img width="1920" height="1030" alt="RawImageGuess_enh_1" src="https://github.com/user-attachments/assets/fed718c2-cf5e-4888-a136-fd898548d2b9" />
+![](https://github.com/user-attachments/assets/fed718c2-cf5e-4888-a136-fd898548d2b9)
 
 # Background and References
 
@@ -99,4 +99,3 @@ https://projectweek.na-mic.org/PW28_2018_GranCanaria/Projects/RawImageGuess/
 
 And 2019:
 https://projectweek.na-mic.org/PW30_2019_GranCanaria/Projects/RawImageGuess/
-

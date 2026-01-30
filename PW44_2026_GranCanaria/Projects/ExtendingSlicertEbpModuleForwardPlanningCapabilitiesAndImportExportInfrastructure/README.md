@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -67,7 +67,7 @@ Our overall goal is to establish a well-integrated treatment planning tool in Sl
 
 ### RTPlan recalculation:
 
-<img width="800" height="650" alt="Screenshot 2026-01-30 084035" src="https://github.com/user-attachments/assets/f01bee65-8d97-4062-b1c1-10c09011938a" />
+![](https://github.com/user-attachments/assets/f01bee65-8d97-4062-b1c1-10c09011938a)
 
 <br />
 <br />
@@ -75,8 +75,8 @@ Our overall goal is to establish a well-integrated treatment planning tool in Sl
 **pyRadPlan:** 
 1. Enabled **field-based forward dose calculation (PHOTONS)** from loaded **field shapes**.
 
-<img width="300" height="303" alt="Screenshot 2026-01-30 075107" src="https://github.com/user-attachments/assets/c425fdf7-2139-4770-9104-f65f963105d7" />
-<img width="270" height="300" alt="Screenshot 2026-01-30 075744" src="https://github.com/user-attachments/assets/b54964b0-4331-44e8-a678-087d0bf7eede" />
+![](https://github.com/user-attachments/assets/c425fdf7-2139-4770-9104-f65f963105d7)
+![](https://github.com/user-attachments/assets/b54964b0-4331-44e8-a678-087d0bf7eede)
  (coronal view)
 
 <br />
@@ -119,4 +119,3 @@ _No response_
 
 
 _No response_
-

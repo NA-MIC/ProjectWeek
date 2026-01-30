@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw42-project
 
 permalink: /:path/
@@ -70,7 +70,7 @@ We will spend Project Week developing the software to support these features and
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-<img width="1704" alt="Screenshot 2025-01-31 at 11 17 38 AM" src="https://github.com/user-attachments/assets/80e53527-a968-4319-a9b0-c5b75f6bc8c0" />
+![](https://github.com/user-attachments/assets/80e53527-a968-4319-a9b0-c5b75f6bc8c0)
 
 
 ![image001](https://github.com/user-attachments/assets/90aeaef1-8d07-4efa-b434-830adacfc671)

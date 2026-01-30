@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -72,8 +72,8 @@ A core part of this project is to collect user feedback in a structured way (set
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 <p float="left">
-  <img height="500" alt="Bildschirmfoto 2026-01-26 um 12 10 40" src="https://github.com/user-attachments/assets/18a28dc9-386a-4a04-a3a7-f4bd69ab346e" />
-  <img height="500" alt="Bildschirmfoto 2026-01-26 um 12 11 48" src="https://github.com/user-attachments/assets/413917c6-6f2f-49d3-8412-293b1078747f" />
+  ![](https://github.com/user-attachments/assets/18a28dc9-386a-4a04-a3a7-f4bd69ab346e)
+  ![](https://github.com/user-attachments/assets/413917c6-6f2f-49d3-8412-293b1078747f)
 </p>
 
 
@@ -87,4 +87,3 @@ A core part of this project is to collect user feedback in a structured way (set
 - [MHub.ai Model Repository](https://mhub.ai/models)
 - [MHub.ai Tutorials](https://github.com/MHubAI/documentation/tree/main/tutorials)
 - [MHub Runner (Extension)](https://github.com/MHubAI/SlicerMHubRunner)
-

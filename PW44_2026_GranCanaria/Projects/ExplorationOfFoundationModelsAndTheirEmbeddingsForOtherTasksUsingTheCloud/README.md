@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -97,10 +97,10 @@ How could it relate to Slicer and Imaging Data Commons (IDC)? Given a sample pat
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 Overview of project: 
-<img width="960" height="540" alt="overview" src="https://github.com/user-attachments/assets/477f71aa-07b9-428b-b246-a3941e0733d6" />
+![](https://github.com/user-attachments/assets/477f71aa-07b9-428b-b246-a3941e0733d6)
 
 Sample of connectome plot and showing the query image: 
-<img width="80%" alt="connectome_image" src="https://github.com/user-attachments/assets/cdee6e22-2c54-4395-a07f-1e08a1a70d31" />
+![](https://github.com/user-attachments/assets/cdee6e22-2c54-4395-a07f-1e08a1a70d31)
 
 Demonstration of content-based image retrieval: 
 <video
@@ -115,4 +115,3 @@ Demonstration of content-based image retrieval:
      If possible, also add links to sample data, and to any relevant publications. -->
 
 [Try this out yourself!](https://storage.googleapis.com/pw_44_demo/FM/site/index_connectome_with_urls.html?query=100158&matches=122866,131423,119358,134408,124261&model=FMCIB&bucket=pw_44_demo/FM)
-

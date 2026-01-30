@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -100,22 +100,22 @@ Cast serves as an umbrella standard that encompasses specialized variants such a
 Regarding authentication:  Most 3D slicer integrations may not need user management.  In that case, you can set the Cast API in single-user mode using the reset buttom on the bottom right.  This will make the mock authentication to always return user id/topic 'SINGLE-USER'.  In this way, all applications work on the same topic.
 
 
-<img width="320" height="115" alt="image" src="https://github.com/user-attachments/assets/1c38e1f3-c415-44f6-9888-f370684bb29c" />
+![](https://github.com/user-attachments/assets/1c38e1f3-c415-44f6-9888-f370684bb29c)
 
 
 # Illustrations
 
 Cast API in Web Server module:
 
-   <img width="273" height="208" alt="image" src="https://github.com/user-attachments/assets/9b4eff43-739f-4785-8ce1-3c0c1c3a8a53" />
+   ![](https://github.com/user-attachments/assets/9b4eff43-739f-4785-8ce1-3c0c1c3a8a53)
 
 Accessing the admin and test client pages from the test workbench:
-<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/4b261445-c33e-465e-b3c3-096cbe5dd2af" />
+![](https://github.com/user-attachments/assets/4b261445-c33e-465e-b3c3-096cbe5dd2af)
 
 
 Cast admin page:
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5e6b77d3-3400-4efd-a271-f42863ff115f" />
+![](https://github.com/user-attachments/assets/5e6b77d3-3400-4efd-a271-f42863ff115f)
 
 
 
@@ -125,14 +125,14 @@ Cast admin page:
 Test client:
 
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/4f7a6121-2864-47f2-a877-81f18eb501a2" />
+![](https://github.com/user-attachments/assets/4f7a6121-2864-47f2-a877-81f18eb501a2)
 
 
 
 
 Conference portal:
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/0b7894dd-697a-4444-8d47-5f8ebd92d950" />
+![](https://github.com/user-attachments/assets/0b7894dd-697a-4444-8d47-5f8ebd92d950)
 
 
 
@@ -157,7 +157,7 @@ Conference portal:
 
 
    
-   <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fa278c4d-4199-4a19-807e-41aa19acb59a" />
+   ![](https://github.com/user-attachments/assets/fa278c4d-4199-4a19-807e-41aa19acb59a)
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
@@ -227,4 +227,3 @@ Cast serves as an umbrella standard that encompasses specialized "Cast" variants
 
 
 _No response_
-

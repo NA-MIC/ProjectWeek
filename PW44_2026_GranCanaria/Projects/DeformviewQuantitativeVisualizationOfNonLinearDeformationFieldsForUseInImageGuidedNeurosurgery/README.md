@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -134,11 +134,11 @@ Local UI changes have begun, no functionality is attached yet. Implementing a 's
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b0cc065d-97f5-4f22-a7b6-7b2c2ff61e64" width="100%"><br>
+      ![](https://github.com/user-attachments/assets/b0cc065d-97f5-4f22-a7b6-7b2c2ff61e64)<br>
       <b>Sparse Visualization Tab UI (current Transforms Visualizer functionality)</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/8a12f53f-4d10-481e-8b64-d89fff406e24" width="100%"><br>
+      ![](https://github.com/user-attachments/assets/8a12f53f-4d10-481e-8b64-d89fff406e24)<br>
       <b>Dense Visualization Tab UI (DeformView added functionality)</b>
     </td>
   </tr>
@@ -150,11 +150,7 @@ Local UI changes have begun, no functionality is attached yet. Implementing a 's
 
 Worked with Steve to get a local build of 3D Slicer on OSX (Silicon). Also wrote documentation to configure, build, run, and debug 3D Slicer from source on macOS (ARM64) using Qt6 and Xcode.
 
-<img
-  src="https://github.com/user-attachments/assets/56d00342-6869-43ad-8035-f480e3ae3f6e"
-  alt="Slicer-PR-Doc"
-  width="600"
-/>
+![](https://github.com/user-attachments/assets/56d00342-6869-43ad-8035-f480e3ae3f6e)
 
 
 #### Current Recipe for Slicer
@@ -346,7 +342,7 @@ make -j8 #Optional rebuild to show local changes
 **Displacement Magnitude Map**  
 Voxel-wise magnitude of non-linear deformation between preoperative T2-FLAIR MRI and intraoperative tumour resection T2-FLAIR, from Case 50 of the ReMIND dataset. Warmer colours indicate larger tissue displacement.
 
-<img src="https://github.com/user-attachments/assets/72cd8330-0b6c-4e1b-bed4-29fcaef86351" width="800" alt="Displacement magnitude map" />
+![](https://github.com/user-attachments/assets/72cd8330-0b6c-4e1b-bed4-29fcaef86351)
 
 ---
 
@@ -354,14 +350,14 @@ Voxel-wise magnitude of non-linear deformation between preoperative T2-FLAIR MRI
 
 The current Transform Visualizer module (core 3D Slicer module) visualizes deformation as glyphs (arrows), grid, and contour. When integrated together, it is more intuitive where deformation has occurred (DeformView) and the direction of deformation (Transform Visualizer).
 
-<img width="800" alt="NAMIC-Overlay" src="https://github.com/user-attachments/assets/7f059022-35c2-41d7-ae36-b223d832a4a6" />
+![](https://github.com/user-attachments/assets/7f059022-35c2-41d7-ae36-b223d832a4a6)
 
 
 ---
 **Jacobian determinant magnitude map**  
 Visual of the Jacobian map, where red indicates tissue expansion and blue is tissue compression, as a percentage. This is the same data as the above displacement magnitude example.
 
-<img width="700" alt="Jacobian_mag" src="https://github.com/user-attachments/assets/4b01baf2-ddc9-44da-b8c2-9a5b81b702b8" />
+![](https://github.com/user-attachments/assets/4b01baf2-ddc9-44da-b8c2-9a5b81b702b8)
 
 
 ---
@@ -369,7 +365,7 @@ Visual of the Jacobian map, where red indicates tissue expansion and blue is tis
 **User Study Results**  
 Comparison of **DeformView** with the existing Transform Visualizer module (n=10) across four attributes: helpfulness, interpretability, intuitiveness, and user confidence (1–5 scale; higher scores indicate better performance). DeformView is rated higher across all categories, with significant improvements in helpfulness and intuitiveness.
 
-<img src="https://github.com/user-attachments/assets/22094efd-4df5-4a33-b21e-ed3e88a6c897" width="800" alt="User study results" />
+![](https://github.com/user-attachments/assets/22094efd-4df5-4a33-b21e-ed3e88a6c897)
 
 
 #Contact
@@ -397,4 +393,3 @@ Chung, M. K., Worsley, K. J., Paus, T., Cherif, C., Collins, D. L., Giedd, J. N.
 Juvekar, P., Dorent, R., Kögl, F., Torio, E., Barr, C., Rigolo, L., … & Kapur, T. (2024). REMiND: The brain resection multimodal imaging database. Scientific Data, 11(1), 494.
 
 Crameri, F., & Hason, S. (2024). Navigating color integrity in data visualization. Patterns, 5(5), 100972. doi:10.1016/j.patter.2024.100972
-

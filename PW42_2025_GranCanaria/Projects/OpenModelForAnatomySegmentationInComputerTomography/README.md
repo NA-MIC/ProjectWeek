@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw42-project
 
 permalink: /:path/
@@ -88,7 +88,7 @@ Next Steps:
 ![334442645-dfbe0cbf-0341-4dfc-991d-bdcf2c621c2d](https://github.com/user-attachments/assets/de0d6f1d-8389-4cde-b597-683e84bb60ea)
 
 
-<img width="1512" alt="slicer_demo" src="https://github.com/user-attachments/assets/5cfcf858-b2ac-4c95-99e8-b83307426e58" />
+![](https://github.com/user-attachments/assets/5cfcf858-b2ac-4c95-99e8-b83307426e58)
 
 
 <video

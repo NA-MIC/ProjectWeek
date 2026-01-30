@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw43-project
 
 permalink: /:path/
@@ -57,7 +57,7 @@ Since the current "UI" for creating these visualizations is a text editor the ab
 4. Talked with MassVision team (Amoon) and shared mutual enthusiasm for prettier and more interactive plots and plan to continue collaboration
 5. Learned that there's a [pyecharts](https://pyecharts.org/#/) package that may be easier to use than current javascript wrapping (but may also make debugging harder)
 
-<img width="1408" alt="image" src="https://github.com/user-attachments/assets/9a169d58-5424-4901-95d3-b3e1f569a324" />
+![](https://github.com/user-attachments/assets/9a169d58-5424-4901-95d3-b3e1f569a324)
 
 
 # Illustrations
@@ -89,4 +89,3 @@ Previous experiments with parallel coordinates charts leveraged the qSlicerWebWi
 
 
 _No response_
-

@@ -1,4 +1,4 @@
----
+﻿---
 layout: pw44-project
 
 permalink: /:path/
@@ -75,7 +75,7 @@ During this Project Week, we want to validate the module in a real live scanning
 
 
 ![KidneyNav](https://github.com/user-attachments/assets/25fa7367-8c2f-4506-8d56-5a2cd1663fe3)
-<img width="1433" height="841" alt="Screenshot 2026-01-30 051110" src="https://github.com/user-attachments/assets/302e2f0a-ffdf-4219-a2f0-864fb112368f" />
+![](https://github.com/user-attachments/assets/302e2f0a-ffdf-4219-a2f0-864fb112368f)
 
 # Background and References
 
@@ -84,4 +84,3 @@ During this Project Week, we want to validate the module in a real live scanning
 
 
 _No response_
-
