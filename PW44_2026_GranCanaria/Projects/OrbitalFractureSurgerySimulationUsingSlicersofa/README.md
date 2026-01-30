@@ -82,7 +82,7 @@ Work on two separate scenes:
  <video
    controls muted
    src="https://github.com/user-attachments/assets/0b93f9aa-dabe-4870-8e73-00c9a834fc28"
-   style="max-height:640px; min-height: 200px">
+   style="max-height:300px; min-height: 200px">
  </video>
 
 
@@ -93,13 +93,27 @@ Work on two separate scenes:
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+### Multimaterial model
+1. Create a union model of orbital soft tissue and convert into a tetrahedron mesh.
+2. Using the SOFA 'MeshROI' method to use the eyeball-musle polygon model as an ROI to select tetrahedra fell within it, and assign different materials to tets in and out the ROI (i.e., orbital fat).
+3. 
+<img src="https://github.com/user-attachments/assets/ad88a41a-5459-4bd2-bff5-4f71f3cb65f0" width="350">
 
+ <video
+   controls muted
+   src="https://github.com/user-attachments/assets/80c8c60b-ea99-44da-8d90-975b2f684990"
+   style="max-height:500px; min-height: 200px">
+ </video>
 
 1. Describe specific steps you **have actually done**.
 
+### Using SlicerSOFA infrastructure and vtkProbeFilter() & grid transform for mesh & image deformation
 
+ <video
+   controls muted
+   src="https://github.com/user-attachments/assets/a18fb59e-1751-46a9-b317-718834077e70"
+   style="max-height:500px; min-height: 200px">
+ </video>
 
 
 # Illustrations
