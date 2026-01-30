@@ -88,4 +88,5 @@ Pathology (DICOM) images differ greatly from radiology images, e.g., contain mul
 - [MHub Documentation - Example Collection Repository](https://github.com/LennyN95/mhubio-test-collection)
 - [Reproducible Radiology and Pathology Imaging Analysis Applications in MHub ](https://docs.google.com/presentation/d/1bcP9WhqRf1eZtMZ1lsubE6wCgKdAYA4CIPedhw2Rcuo/edit?slide=id.g34b433d272b_1_0#slide=id.g34b433d272b_1_0) Slide 17-22
 - [MHub.ai](https://mhub.ai)
+- [Official PathologyExtension Repository](https://github.com/MHubAI/PathologyExtension)
 
