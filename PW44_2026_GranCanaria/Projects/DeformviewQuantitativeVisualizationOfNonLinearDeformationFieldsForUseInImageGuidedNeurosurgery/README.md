@@ -131,18 +131,9 @@ The transformation is incrementally applied to the moving image over 10 discrete
 
 Local UI changes have begun, no functionality is attached yet. Implementing a 'sparse' tab (current functionality) and a 'dense' tab (added functionality) - but open to feedback.
 
-<table>
-  <tr>
-    <td align="center">
-      ![](https://github.com/user-attachments/assets/b0cc065d-97f5-4f22-a7b6-7b2c2ff61e64)<br>
-      <b>Sparse Visualization Tab UI (current Transforms Visualizer functionality)</b>
-    </td>
-    <td align="center">
-      ![](https://github.com/user-attachments/assets/8a12f53f-4d10-481e-8b64-d89fff406e24)<br>
-      <b>Dense Visualization Tab UI (DeformView added functionality)</b>
-    </td>
-  </tr>
-</table>
+| Sparse Visualization Tab UI | Dense Visualization Tab UI |
+|---|---|
+| ![](https://github.com/user-attachments/assets/b0cc065d-97f5-4f22-a7b6-7b2c2ff61e64)<br>**Sparse Visualization Tab UI (current Transforms Visualizer functionality)** | ![](https://github.com/user-attachments/assets/8a12f53f-4d10-481e-8b64-d89fff406e24)<br>**Dense Visualization Tab UI (DeformView added functionality)** |
 
 
 
