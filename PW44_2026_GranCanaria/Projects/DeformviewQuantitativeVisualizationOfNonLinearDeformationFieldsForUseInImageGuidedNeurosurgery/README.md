@@ -86,7 +86,7 @@ We plan to address the remaining bugs (that we know of), get user feedback, and 
 
 ### Updated Our Module README 
 
-We'll make our GitHub public for interested parties in the coming days. See GitHub Repo here: https://github.com/elisedl1/BrainshiftModule
+We'll make our GitHub public for interested parties in the coming days. See GitHub Repo here: **https://github.com/elisedl1/BrainshiftModule**
 
 
 ### Introduced the 'Increment Transform' feature
@@ -96,8 +96,8 @@ The transformation is incrementally applied to the moving image over 10 discrete
 <!-- ![](increment_project_page.gif) -->
 
 
-https://github.com/user-attachments/assets/a7def86b-730b-4f77-9f9a-d078bb9b40a0
-
+[https://github.com/user-attachments/assets/a7def86b-730b-4f77-9f9a-d078bb9b40a0
+](https://github.com/NA-MIC/ProjectWeek/blob/master/PW44_2026_GranCanaria/Projects/DeformviewQuantitativeVisualizationOfNonLinearDeformationFieldsForUseInImageGuidedNeurosurgery/trimmed_demo.mov)
 
 
 ### Fixed Remaining (Known) Bugs and Functional Errors
