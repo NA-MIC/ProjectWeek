@@ -22,8 +22,6 @@ key_investigators:
 
 We developed a framework for 3D medical landmark detection, based on a U-Net and heatmap regression. The method was evaluated on several public datasets. We want to make these trained models available within a slicer extension.
 
-<img width="1928" height="668" alt="image" src="https://github.com/user-attachments/assets/48d763b3-b486-479c-95e6-3ea550dfb8ce" />
-
 
 ## Objective
 
@@ -50,9 +48,10 @@ _No response_
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-We have adjusted the SlicerNNUnet extension to apply nnLandmark instead.
+We have adjusted the SLicerNNUnet extension for landmark detection.
 
-<img width="2090" height="1792" alt="image" src="https://github.com/user-attachments/assets/a90c1e72-c14e-46b8-9205-ce5305dddc92" />
+<img width="2090" height="1792" alt="image" src="https://github.com/user-attachments/assets/fa47cf3d-482b-4752-9245-883dfb58dff1" />
+
 
 
 
