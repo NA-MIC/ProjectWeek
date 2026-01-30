@@ -93,7 +93,7 @@ Also, created a small anonymization Slicer extension that will fit our later wor
 
 Progress:
 Anonymization moudle UI:
-<iframe width="960" height="540" src="https://www.youtube.com/embed/L2dJuvdan_0e">
+<iframe width="960" height="540" src="https://www.youtube.com/embed/L2dJuvdan_0">
  </iframe>
 
 Anonymization moudle UI:
