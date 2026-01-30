@@ -78,10 +78,10 @@ Our goals during the project week are to:
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 Anonymize module
-<img width="1740" height="980" alt="Image" src="https://github.com/user-attachments/assets/ebfdbe29-4540-47d1-9a10-1d05e172fcd9" />
+<img width="80%" alt="Image" src="https://github.com/user-attachments/assets/ebfdbe29-4540-47d1-9a10-1d05e172fcd9" />
 
 Annotate module
-<img width="1476" height="952" alt="Image" src="https://github.com/user-attachments/assets/7f8b89b7-00f9-42b2-aae1-2558b2e64279" />
+<img width="80%" alt="Image" src="https://github.com/user-attachments/assets/7f8b89b7-00f9-42b2-aae1-2558b2e64279" />
 
 Original OHIF app for annotation of pleural lines and B-lines - on our anonymized lung US data: 
 <video
@@ -105,4 +105,6 @@ Enhancements to the OHIF app for annotation of pleural lines and B-lines - on sa
 
 
 [Link to code](https://github.com/SlicerUltrasound/SlicerUltrasound)
+
+[Link to PR for OHIF](https://github.com/OHIF/Viewers/pull/5758)
 
