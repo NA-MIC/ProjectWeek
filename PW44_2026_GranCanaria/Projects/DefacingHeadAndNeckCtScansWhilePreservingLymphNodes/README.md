@@ -79,6 +79,11 @@ For the Lymph Node Quantification project we want to analyze and share head and 
 
 <img width="677" height="481" alt="image" src="https://github.com/user-attachments/assets/acb70748-22ba-45fd-a85e-954d9ac39d9c" />
 
+* Zenda's current solution
+
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/6f07147c-cb90-4fd1-8816-1b0946b5f8f4" />
+
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/9917273d-7fe0-4654-94d7-49060f919b3e" />
 
 ### Open Questions
 
