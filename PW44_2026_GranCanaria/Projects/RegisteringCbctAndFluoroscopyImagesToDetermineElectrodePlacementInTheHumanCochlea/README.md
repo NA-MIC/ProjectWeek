@@ -21,7 +21,18 @@ key_investigators:
 - name: Attila Tanács
   affiliation: University of Szeged
   country: Hungary
+  
+- name: András Lasso
+  affiliation: Queen's University
+  country: Canada, ON
+  
+- name: Roland Nagy (remote)
+  affiliation: University of Szege
+  country: Hungary
 
+- name: Ádám Perényi (remote)
+  affiliation: University of Szege
+  country: Hungary
 ---
 
 # Project Description
@@ -60,12 +71,14 @@ Brainstorm about ideas, and maybe create a prototype using example data.
 
 
 ## Progress and Next Steps
-
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+With some sample data we tried the new Virtual CathLab module. It seems that it has most of the functionality we need to bring our work further.
+Also, created a small anonymization Slicer extension that will fit our later workflow.
 
 
 1. Describe specific steps you **have actually done**.
+- Checked the Virtual CathLab module.
+- Successfully loaded our own imaing CBCT data into it, and we had similar results as our fluoroscopy images
+- Createn a batch anoymization extension
 
 
 
@@ -77,6 +90,14 @@ Brainstorm about ideas, and maybe create a prototype using example data.
 
 <img width="1202" height="633" alt="Image" src="https://github.com/user-attachments/assets/db4355c7-71b9-418e-ab0d-07d18bd3c004" />
 <img width="1186" height="626" alt="Image" src="https://github.com/user-attachments/assets/104baf5d-bcde-4378-b411-b7f450d4f9db" />
+
+Progress:
+Anonymization moudle UI:
+<iframe width="960" height="540" src="https://www.youtube.com/embed/watch?v=L2dJuvdan_0e">
+ </iframe>
+
+Example module usage with our own cochlear implant CBCT data:
+<img width="1920" height="1030" alt="fluoro_SlicerHeart" src="https://github.com/user-attachments/assets/680dd100-0976-4829-94b0-7755068e8605" />
 
 
 
