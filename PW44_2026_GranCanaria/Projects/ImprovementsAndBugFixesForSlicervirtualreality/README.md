@@ -42,6 +42,7 @@ Currently SlicerVR is usable with OpenVR/OpenXR, however there are some pending 
  
 - Interaction
     - Not all controller interactions are recognized
+    - Investigate remappable controller bindings from python
 
 - Etc.
 
@@ -67,8 +68,7 @@ Bring SlicerVR to stable, usable performance and complete basic interaction supp
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
-1. Performance update for Markups bypassing depth check for visible points ([Slicer#8979](https://github.com/Slicer/Slicer/pull/8979)) ([SlicerVirtualReality#185](https://github.com/KitwareMedical/SlicerVirtualReality/pull/185))
+1. Greatly improved performance for rendering Markups in VR by bypassing depth check for visible points ([Slicer#8979](https://github.com/Slicer/Slicer/pull/8979)) ([SlicerVirtualReality#185](https://github.com/KitwareMedical/SlicerVirtualReality/pull/185))
 
 # Illustrations
 
