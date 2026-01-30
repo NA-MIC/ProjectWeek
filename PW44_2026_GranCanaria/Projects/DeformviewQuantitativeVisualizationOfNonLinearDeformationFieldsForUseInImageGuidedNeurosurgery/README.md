@@ -86,7 +86,7 @@ We plan to address the remaining bugs (that we know of), get user feedback, and 
 
 ### Updated Our Module README 
 
-We'll make our GitHub public for interested parties in the coming days. See GitHub Repo here: **https://github.com/elisedl1/BrainshiftModule**
+We'll make our GitHub public for interested parties in the coming days. See GitHub Repo here: **[https://github.com/elisedl1/BrainshiftModule](https://github.com/elisedl1/BrainshiftModule)**
 
 
 ### Introduced the 'Increment Transform' feature
