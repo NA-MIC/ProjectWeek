@@ -64,7 +64,14 @@ ClassAnnotation is an extension designed to support users during medical image a
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Extended ClassAnnotation from single-label to multi-label allowing multiple features per patient (still working in progress).
+2. Added a clear multi-label user interface with automatically generated class buttons and consistent Single/Multi mode behavior.
+3. Defined a structured multi-label output.
+
+Next Steps
+
+- Perform thorough testing and validation of the multi-label mode.
+- Add support for a collaborative configuration.
 
 
 
@@ -77,6 +84,7 @@ ClassAnnotation is an extension designed to support users during medical image a
 ![ClassAnnotation logo](https://github.com/lorenaromeo/SlicerClassAnnotation/blob/main/ClassAnnotation.png?raw=true)
 ![ClassAnnotation pannel](https://raw.githubusercontent.com/lorenaromeo/SlicerClassAnnotation/refs/heads/main/ClassAnnotation_screenshot.png)
 
+<img width="1680" height="1050" alt="Screenshot 2026-01-30 alle 11 20 44" src="https://github.com/user-attachments/assets/c52cdc71-2d16-40a4-a506-dcb2a6a3e56e" />
 
 
 # Background and References
