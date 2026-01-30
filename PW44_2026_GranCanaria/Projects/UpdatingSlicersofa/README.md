@@ -40,8 +40,9 @@ SlicerSOFA is a 3D Slicer extension integrating the simulation framework SOFA in
 1. Update SlicerSOFA to use SOFA v25.12 (latest available).
 2. Update SlicerSOFA to run on the latest 3D Slicer stable and development versions.
 3. Fix SlicerSOFA MacOS integration.
-4. Integrate RPyC external execution
-5. Update project documentation
+4. Enable to load a regular SOFA Scene in Slicer-SOFA
+5. Integrate RPyC external execution
+6. Update project documentation
 
 
 
@@ -60,18 +61,18 @@ The core SOFA library will be updated first to it's latest version (v25.12) and 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
-1. Describe specific steps you **have actually done**.
-
+#### 4. Enable to load a regular SOFA Scene in Slicer-SOFA
+A new example in Slicer-SOFA has been added called *SOFASceneLoader* where you can open any python-based sofa scene as long as it has a method called createScene (this is the standard way to open a python scene using runSofa).
+The PR can be found here : https://github.com/Slicer/SlicerSOFA/pull/58 
 
 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+[SlicerSOFA.webm](https://github.com/user-attachments/assets/6ce15869-eb69-4be1-adad-87db3bb91d46)
 
 
-_No response_
 
 
 
