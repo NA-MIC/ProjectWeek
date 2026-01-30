@@ -365,7 +365,8 @@ Comparison of **DeformView** with the existing Transform Visualizer module (n=10
 <img src="https://github.com/user-attachments/assets/22094efd-4df5-4a33-b21e-ed3e88a6c897" width="800" alt="User study results" />
 
 
-
+#Contact
+Any issues, questions, or inquiries - email us at isabel.frolick@mail.mcgill.ca and/or elise.donszelmannlund@mail.mcgill.ca
 
 
 # Background and References
