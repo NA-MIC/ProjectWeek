@@ -66,19 +66,27 @@ Collect use cases, refinement suggestions and new ideas.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Ruined the original functionality :D
+2. Began to implement new ideas an experiment with them. One is a 
+3. Tried one, but didn't really work out as expected. It is a row continuity heuristic (super cheap, super effective)
+Natural images (medical, microscopy, industrial) have strong horizontal continuity.
+For a guessed X:
+Interpret raw data as 1D array
+Split into rows of length X
+Compute:
+mean(|row[i] - row[i+1]|)
+Do this for several rows.
+Maybe needs some refinement.
 
-
-
+The implementation of further ideas is coming.
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_No response_
 
-
+<img width="1920" height="1030" alt="RawImageGuess_enh_1" src="https://github.com/user-attachments/assets/fed718c2-cf5e-4888-a136-fd898548d2b9" />
 
 # Background and References
 
