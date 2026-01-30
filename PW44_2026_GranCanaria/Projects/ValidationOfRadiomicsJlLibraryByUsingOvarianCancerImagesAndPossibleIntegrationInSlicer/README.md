@@ -67,9 +67,44 @@ Of course any suggestion is more than welcome.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Tested the library on ovarian cancer CT (a few features must be fixed)
+2. Tested juliacall to use Radiomics.jl from Python (you don't need to install Julia)
+```bash
+pip install juliacall
+```
 
+```python
+from juliacall import Main as jl
+jl.seval('import Pkg; Pkg.add("Radiomics")')
+```
+```python
+import SimpleITK as sitk
+import numpy as np
 
+from juliacall import Main as jl
+jl.seval("using Radiomics")
+
+ct_sitk = sitk.ReadImage('DATA_PATH/ct.nii.gz')
+mask_sitk = sitk.ReadImage('DATA_PATH/mask.nii.gz')
+
+ct = sitk.GetArrayFromImage(ct_sitk)
+mask = sitk.GetArrayFromImage(mask_sitk)
+
+spacing = list(ct_sitk.GetSpacing())
+
+radiomic_features = dict(jl.Radiomics.extract_radiomic_features(ct, mask, spacing))
+```
+3. Created a shared library and used it both in Python and C++
+```julia
+using PackageCompiler
+
+create_library(".", "radiomicsjl_build";
+               lib_name="libradiomicsjl",
+               force=true,
+               incremental=true,
+               filter_stdlibs=true)
+```
+4. Collected very useful comments, suggestions, and potential use-cases (thanks Andrey Fedorov!)
 
 
 # Illustrations
