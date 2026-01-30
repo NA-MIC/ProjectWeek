@@ -70,7 +70,7 @@ The PR can be found here : https://github.com/Slicer/SlicerSOFA/pull/58
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-![SlicerSOFA.webm](https://github.com/user-attachments/assets/6ce15869-eb69-4be1-adad-87db3bb91d46)
+[SlicerSOFA.webm](https://github.com/user-attachments/assets/6ce15869-eb69-4be1-adad-87db3bb91d46)
 
 
 
