@@ -67,7 +67,7 @@ Collect use cases, refinement suggestions and new ideas.
 
 
 1. Ruined the original functionality :D
-2. Began to implement new ideas an experiment with them. One is a 
+2. Began to implement new ideas an experiment with them.
 3. Tried one, but didn't really work out as expected. It is a row continuity heuristic (super cheap, super effective)
 Natural images (medical, microscopy, industrial) have strong horizontal continuity.
 For a guessed X:
