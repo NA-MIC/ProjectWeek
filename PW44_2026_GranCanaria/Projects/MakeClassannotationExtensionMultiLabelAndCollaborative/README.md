@@ -67,6 +67,7 @@ ClassAnnotation is an extension designed to support users during medical image a
 1. Extended ClassAnnotation from single-label to multi-label allowing multiple features per patient (still working in progress).
 2. Added a clear multi-label user interface with automatically generated class buttons and consistent Single/Multi mode behavior.
 3. Defined a structured multi-label output.
+4. Talked to Andras and got some good advice from him.
 
 Next Steps
 
