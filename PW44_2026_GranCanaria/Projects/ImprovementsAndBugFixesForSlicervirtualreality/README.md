@@ -35,10 +35,17 @@ key_investigators:
 
 
 Currently SlicerVR is usable with OpenVR/OpenXR, however there are some pending issues:
+
+- Nightly dashboard
+    - Errors in the nighlty dashboard ([SlicerPreview Dashboard](https://slicer.cdash.org/viewBuildError.php?buildid=4075074))
+
 - Performance
     - Adding markups to the scene causes an immediate drop in framerate and rendering artifacts
     - Visualization of interaction handles results in performance issues
     - Volume rendering with multi-component images/sequences causes a drop in framerate when the camera is close to the volume
+
+- Visualization
+    - Investigate "washed-out" appearance in VR view
  
 - Interaction
     - Not all controller interactions are recognized
@@ -58,24 +65,30 @@ Bring SlicerVR to stable, usable performance and complete basic interaction supp
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
-1. Profile and baseline performance (CPU, GPU, FPS in representative scenes)
-2. Fix highest-impact performance issues (markups, widgets, volume rendering)
-3. Add missing OpenXR controller input mapping
-4. Iterate with testing in real scenes
+1. Make SlicerVirtualReality available from the extension manager again
+2. Profile and baseline performance (CPU, GPU, FPS in representative scenes)
+3. Fix highest-impact performance issues (markups, widgets, volume rendering)
+4. Add missing OpenXR controller input mapping
+5. Iterate with testing in real scenes
 
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-1. Greatly improved performance for rendering Markups in VR by bypassing depth check for visible points ([Slicer#8979](https://github.com/Slicer/Slicer/pull/8979)) ([SlicerVirtualReality#185](https://github.com/KitwareMedical/SlicerVirtualReality/pull/185))
+1. SlicerVirtualReality is again available on the extension index ([SlicerPreview Dashboard](https://slicer.cdash.org/builds/4080509))
+2. Greatly improved performance for rendering Markups in VR by bypassing depth check for visible points ([Slicer#8979](https://github.com/Slicer/Slicer/pull/8979)) ([SlicerVirtualReality#185](https://github.com/KitwareMedical/SlicerVirtualReality/pull/185))
+3. Washed-out colors in virtual reality appear to be resolved.
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+### Color issue
 
-_No response_
+<img width="1505" height="798" alt="image" src="https://github.com/user-attachments/assets/117d767c-c04a-489d-899f-c1e3c55b208e" />
+
+
 
 
 
@@ -84,6 +97,6 @@ _No response_
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-
-[SlicerVirtualReality](https://github.com/KitwareMedical/SlicerVirtualReality/)
+Previous project week page on color isues in virtual reality: [Previous Project Week](https://projectweek.na-mic.org/PW42_2025_GranCanaria/Projects/LightingProblemsWithLatestSlicervr/)
+Extension repository: [SlicerVirtualReality](https://github.com/KitwareMedical/SlicerVirtualReality/)
 
