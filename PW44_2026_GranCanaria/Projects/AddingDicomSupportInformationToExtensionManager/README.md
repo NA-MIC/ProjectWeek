@@ -86,7 +86,10 @@ Currently DICOM support in extensions is written to a json file in the slicer re
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
+### Development branches
+- [Sunderlandkyl/slicer_package_manager - additional_metadata](https://github.com/Sunderlandkyl/slicer_package_manager/tree/additional_metadata)
+- [Sunderlandkyl/Slicer - additional_extension_metadata](https://github.com/Sunderlandkyl/Slicer/tree/additional_extension_metadata)
 
-- [https://github.com/girder/slicer_package_manager](https://github.com/girder/slicer_package_manager)
+### Other links
 - [https://pypi.org/project/rule-engine/](https://pypi.org/project/rule-engine/)
 
