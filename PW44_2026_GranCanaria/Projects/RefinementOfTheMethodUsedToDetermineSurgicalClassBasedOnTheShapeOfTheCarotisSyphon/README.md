@@ -42,8 +42,8 @@ We categorised 53 studies into four groups. Previously, we extracted nine featur
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Our main objective is to refine the extracted attribute values in order to enhance the classification results.
-2. Vessel segmentation is also part of the process that is performed manually currently. We are trying to make it automatic.
+1. Objective A. Our main objective is to refine the extracted attribute values in order to enhance the classification results.
+2. Objective B. Vessel segmentation is also part of the process that is performed manually currently. We are trying to make it automatic.
 
 
 
@@ -63,7 +63,13 @@ We categorised 53 studies into four groups. Previously, we extracted nine featur
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-_No response_
+1. Absolute distance values were normalized by computing the ratio of distance relative to the distance along the centreline of the vessel.
+2. Starting from the first cross section, difference values were computed from absolute vessel cross section area values.
+3. Attributes were inspected using Weka functions.
+
+Results: Even the new attributes are not really a good descriptor of best choice available as ground truth.
+
+Next steps: Ground truth should be considered in a different way. Instead of opting for one single choice, a percentage value could be assigned to each intrumentation. From the recorded surgical log data, we know which devices were tested and which were unsuccessful. These unsuccessful instrument applications could also be used to train the classification method.
 
 
 
