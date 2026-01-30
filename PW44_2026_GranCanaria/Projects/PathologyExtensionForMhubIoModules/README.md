@@ -45,20 +45,21 @@ Pathology (DICOM) images differ greatly from radiology images, e.g., contain mul
 
 1. Create a new pathology extension repository
 2. Implement an extractor module
-3. Implement a specific dicomseg conversion module (e.g., based on highdicom) 
-4. Implement the RMS model as PoC
+4. Implement a specific dicomseg conversion module (e.g., based on highdicom) 
+5. Implement the RMS model as PoC
 
 
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-
-1. Describe specific steps you **have actually done**.
-
-
+1. A **PathologyExtension** repository was created.  Modules defined in the extension are automatically discovered during the MHubIO run setup so these
+   extensions are available to all MHub models
+2. A **PathologyResolutionFilter** module has been developed and tested on DICOM-WSI images from the NCI Imaging Data Commons.  The module reads image metadata
+   and copies only image resolutions that match an input parameter of desired resolutions.  Only image resolutions matching the desired target resolution
+   are copied from the input for MHub pipeline processing.
+3. A prototype method using the **HighDicom** Python library was developed and tested to write DICOM DSeg (segmentation) images.  Next, this code needs to be
+   wrapped as an MHub DSegWriter method and added to the PathologyExtension repository. Once this is complete, pathology algorithns that don't know how to read and write WSI-DICOM can be used in DICOM to DICOM
+   workflows 
 
 
 # Illustrations
