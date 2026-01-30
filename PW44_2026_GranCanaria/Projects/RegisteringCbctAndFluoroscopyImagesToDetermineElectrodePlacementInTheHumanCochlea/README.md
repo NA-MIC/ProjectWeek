@@ -95,6 +95,9 @@ Progress:
 Anonymization moudle UI:
 <iframe width="960" height="540" src="https://www.youtube.com/embed/L2dJuvdan_0"> </iframe>
 
+In case the embedded video doesn't work, here is the link to YouTube:
+https://www.youtube.com/watch?v=L2dJuvdan_0
+
 Anonymization moudle UI:
  ![](https://github.com/user-attachments/assets/f8629ab0-713c-4ffa-a4b4-0ca0cd36ca65)
 
