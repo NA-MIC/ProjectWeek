@@ -57,13 +57,12 @@ _No response_
   - When users load a scene view, we should indicate what scene view has been loaded
   - Previous/Next button to move between scene views
   - If "source data" (volume, etc.) is deleted, then we should erase scene views where it is visible, or show a message.
-  - Segmentations can become hidden when switching scene views
+
   
   - Issues
     - Capture display/view nodes checkboxes not left checked by default when capturing a scene view
     - Recording only view nodes doesn't maintain display node visibility
-    - 
-    -  
+    - Segmentations can become hidden when switching scene views
 
 ## Progress and Next Steps
 
