@@ -63,23 +63,23 @@ For the Lymph Node Quantification project we want to analyze and share head and 
 
 ### Area to be defaced
 
-* Closed curve snapped to model surface
+#### Closed curve snapped to model surface
 
 ![](https://github.com/user-attachments/assets/bb1f2597-e68e-416f-a87f-619629f95674)
 
-* Dynamic modeling applied to suface wrap solidfy model
+#### Dynamic modeling applied to suface wrap solidfy model
 
 ![](https://github.com/user-attachments/assets/95876794-4d8e-414b-8e9e-f9361d6fe97a)
 
-* Facial blur
+#### Facial blur
 
 ![](https://github.com/user-attachments/assets/b3c02fc2-2d83-4b3d-b2ce-e89b3186f67a)
 
-* Extra blur
+#### Extra blur
 
 ![](https://github.com/user-attachments/assets/acb70748-22ba-45fd-a85e-954d9ac39d9c)
 
-* Zenda's current solution
+#### Zenta's current solution
 
 ![](https://github.com/user-attachments/assets/6f07147c-cb90-4fd1-8816-1b0946b5f8f4)
 
