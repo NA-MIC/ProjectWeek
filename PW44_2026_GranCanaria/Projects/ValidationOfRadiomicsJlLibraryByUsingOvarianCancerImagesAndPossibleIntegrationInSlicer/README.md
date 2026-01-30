@@ -95,6 +95,7 @@ spacing = list(ct_sitk.GetSpacing())
 radiomic_features = dict(jl.Radiomics.extract_radiomic_features(ct, mask, spacing))
 ```
 3. Created a shared library and used it both in Python and C++
+
 ```julia
 using PackageCompiler
 
@@ -104,6 +105,7 @@ create_library(".", "radiomicsjl_build";
                incremental=true,
                filter_stdlibs=true)
 ```
+
 4. Collected very useful comments, suggestions, and potential use-cases (thanks Andrey Fedorov!)
 
 
