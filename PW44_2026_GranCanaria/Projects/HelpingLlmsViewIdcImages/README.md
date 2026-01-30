@@ -64,6 +64,8 @@ Skill download: <https://github.com/mhalle/idc-series-preview/releases/latest/do
 
 ![Base of lungs](nlst_lung_bases_v070.jpg)
 
+![Contrast mosaic](nlst_contrast_full.jpg)
+
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
