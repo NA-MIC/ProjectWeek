@@ -985,6 +985,15 @@ Discussions led to a few changes to the design:
 
 [This PR is the outcome!](https://github.com/Slicer/Slicer/pull/9010)
 
+### Future directions:
+
+The PR will probably take some back-and-forth, and it's only a start to the chain of improvements that we ultimately want:
+
+- Integration of `uv` for speed of dependency resolution and for the ability to roll back the environment to a previous lock file. Pre-installation of `uv` is already a solved problem over at this old PR [#8181](https://github.com/Slicer/Slicer/pull/8181).
+- Support for virtual environemnts. Sometimes you just want to try out a new segmentation model and it needs a very specific environment; we should consider making it easier to say "pip install this package, but to an isolated dedicated virtual environment." Similar philosophy to `pipx` or `uv tool`, with the convenience of `slicer.util.pip_install`.
+- Establishing a canonical location for extensions to specify their depdendencies. This would open up the option of resolving dependencies for mutliple extensions all at once. It also opens up the option to provide more convenient tooling at the level of `ScriptedLoadableModule`.
+- SlicerIDCBrowser goes through some effort to [check whether packages _can_ be updated](https://github.com/ImagingDataCommons/SlicerIDCBrowser/blob/a3fbf8309a602dc1e857991f95303c6ee5336ac2/IDCBrowser/IDCBrowser.py#L455-L463), and to do so in a non-blocking way. This is actually quite useful to include in the family of `slicer.util.pip_*` things.
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
@@ -1006,6 +1015,6 @@ Discussions led to a few changes to the design:
 
 Prior related work and ideas:
 
-- https://github.com/Slicer/Slicer/issues/7171
-- https://github.com/Slicer/Slicer/issues/7707
-- https://github.com/Slicer/Slicer/pull/8181
+- [https://github.com/Slicer/Slicer/issues/7171](https://github.com/Slicer/Slicer/issues/7171)
+- [https://github.com/Slicer/Slicer/issues/7707](https://github.com/Slicer/Slicer/issues/7707)
+- [https://github.com/Slicer/Slicer/pull/8181](https://github.com/Slicer/Slicer/pull/8181)
