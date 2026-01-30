@@ -95,7 +95,12 @@ The transformation is incrementally applied to the moving image over 10 discrete
 
 <!-- ![](increment_project_page.gif) -->
 
-https://github.com/user-attachments/assets/a7def86b-730b-4f77-9f9a-d078bb9b40a0
+
+ <video
+   controls muted
+   src="https://github.com/user-attachments/assets/a7def86b-730b-4f77-9f9a-d078bb9b40a0"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
 
 ### Fixed Remaining (Known) Bugs and Functional Errors
@@ -115,9 +120,13 @@ https://github.com/user-attachments/assets/a7def86b-730b-4f77-9f9a-d078bb9b40a0
 - Implement a full reset of default settings, not limited to window/level
 
 
-https://github.com/user-attachments/assets/cc53157e-60be-44e1-93b6-ee63ef7c2e34 
+ <video
+   controls muted
+   src="https://github.com/user-attachments/assets/cc53157e-60be-44e1-93b6-ee63ef7c2e34"
+   style="max-height:640px; min-height: 200px">
+ </video>
 
-
+ 
 ### Started Integration of DeformView and Transforms Visualizer Module
 
 Local UI changes have begun, no functionality is attached yet. Implementing a 'sparse' tab (current functionality) and a 'dense' tab (added functionality) - but open to feedback.
