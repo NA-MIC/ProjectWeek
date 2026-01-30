@@ -62,12 +62,18 @@ More about the module [here](https://github.com/ciroraggio/SlicerModalityConvert
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
+### Preogress
 1. The integration of the two pre-trained T1w-to-T2w translation models was completed but not accepted. Although preliminary tests were performed, the achieved performance was not satisfactory for practical use. In addition, the training strategy adopted for these models makes their general usability and scalability difficult in a broader clinical/research context. For these reasons, the models were not officially integrated into the module.
 
 2. A CBCT-to-CT translation model for the head and neck district was successfully integrated into the module.
 
-3. A short tutorial was added to demonstrate how to extract the skull directly from a T1-w MRI using the MRHead example, exploiting the models available in the Modality Converter module. 
+3. A short tutorial was added to demonstrate how to extract the skull directly from a T1-w MRI using the MRHead example, exploiting the models available in the Modality Converter module.
+
+### Next steps
+
+1. Evaluate the possibility of integrating alternative, more robust T1w–T2w translation models with better generalization performance.
+
+2. Extend the tutorial section with additional use cases based on the currently integrated models.
 
 # Illustrations
 
