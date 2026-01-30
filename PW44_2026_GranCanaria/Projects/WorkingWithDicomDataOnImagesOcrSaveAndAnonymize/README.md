@@ -72,7 +72,7 @@ The regions can be blanked both with pure black (0,0,0) and pure white (255,255,
 
 
 Here is a short video demonstrating the current functionality:
-<iframe width="420" height="315" src="https://www.youtube.com/embed/=Ao9UofN0RsY">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Ao9UofN0RsY">
  </iframe>
 
 
