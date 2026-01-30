@@ -24,6 +24,10 @@ key_investigators:
 - name: Ron Kikinis
   affiliation: BWH
   country: USA
+
+- name: Paolo Zaffino
+  affiliation: Magna Graecia University of Catanzaro
+  country: Italy
 ---
 
 # Project Description
@@ -136,8 +140,7 @@ A CSV file listing all selected representative CT series is available in the [**
 
 ### 2. Publish the CrossSegmentationExplorer extension in 3DSlicer
 A Pull Request to include CrossSegmentationExplorer as a Tier 1 3D Slicer extension has been created.
-
-
+Pull Request: https://github.com/Slicer/ExtensionsIndex/pull/2310
 
 
 
