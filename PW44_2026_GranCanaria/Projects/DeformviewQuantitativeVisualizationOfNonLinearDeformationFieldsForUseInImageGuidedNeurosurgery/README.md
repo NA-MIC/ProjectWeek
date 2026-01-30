@@ -37,7 +37,11 @@ The proposed module combines scientifically derived, intuitive colour maps and v
 cursor pointer that directly displays displacement values on hover, a function not available in existing
 Slicer tools, to improve user understanding and confidence.
 
+### Updated Our Module README 
 
+We'll make our GitHub public for interested parties in the coming days. See GitHub Repo here: **[https://github.com/elisedl1/BrainshiftModule](https://github.com/elisedl1/BrainshiftModule)**
+
+If you have any questions/ issues, contact us at isabel.frolick@mail.mcgill.ca and/or elise.donszelmannlund@mail.mcgill.ca
 
 ## Objective
 
@@ -84,9 +88,7 @@ We plan to address the remaining bugs (that we know of), get user feedback, and 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-### Updated Our Module README 
 
-We'll make our GitHub public for interested parties in the coming days. See GitHub Repo here: **[https://github.com/elisedl1/BrainshiftModule](https://github.com/elisedl1/BrainshiftModule)**
 
 
 ### Introduced the 'Increment Transform' feature
