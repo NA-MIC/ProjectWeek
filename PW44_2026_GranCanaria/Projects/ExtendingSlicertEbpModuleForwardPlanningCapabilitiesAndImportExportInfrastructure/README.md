@@ -3,7 +3,7 @@ layout: pw44-project
 
 permalink: /:path/
 
-project_title: Extending SliceRT EBP Module - forward planning capabilities and import-export infrastructure
+project_title: Extending SliceRT EBP Module - RTPlan recalculation capabilities and import-export infrastructure
 category: Infrastructure
 presenter_location: 
 
@@ -65,10 +65,42 @@ Our overall goal is to establish a well-integrated treatment planning tool in Sl
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+### RTPlan recalculation:
 
-1. Describe specific steps you **have actually done**.
+<img width="800" height="650" alt="Screenshot 2026-01-30 084035" src="https://github.com/user-attachments/assets/f01bee65-8d97-4062-b1c1-10c09011938a" />
+
+<br />
+<br />
+
+**pyRadPlan:** 
+1. Enabled **field-based forward dose calculation (PHOTONS)** from loaded **field shapes**.
+
+<img width="300" height="303" alt="Screenshot 2026-01-30 075107" src="https://github.com/user-attachments/assets/c425fdf7-2139-4770-9104-f65f963105d7" />
+<img width="270" height="300" alt="Screenshot 2026-01-30 075744" src="https://github.com/user-attachments/assets/b54964b0-4331-44e8-a678-087d0bf7eede" />
+ (coronal view)
+
+<br />
+<br />
+
+**SlicerRT:**
+<br />
+
+2. Added *CreateMLCAperturePolyData* in *MLCPositionLogic* --> Extracts **fieldshape** from beam and MLCTableNode. (Currently only MLCs!)
+
+3. Locally integrated forward calculation in **pyRadPlanDoseEngine**.
+
+4. Started testing on **loaded RTPlans**.
+
+<br />
+
+**Next steps:**
+1.	Solve orientation problem.
+2.	Further test on loaded Plans (**TROTS**, **matRad**).
+3.	Refine fieldshape by **jaws** & other **beam-limiting devices**.
 
 
+### Import/Export Features:
+No progress so far
 
 
 # Illustrations
