@@ -57,12 +57,9 @@ The system uses the Github CLI, gh, to interact with Github but has some perform
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-
-1. Describe specific steps you **have actually done**.
-
+* I had a productive discussion with Deepa about how the github repo approach might apply to the multisite ultrasound analysis use case
+* I researched the github app approach to centralizing a database cache of repository status, and this seems feasible if still a bit clunky
+* More research and refinement is needed to put an actual system in place, but the contraints space is getting clearer (what things can be done with the gh cli vs which things require manual interaction with the github web site)
 
 
 
