@@ -21,6 +21,10 @@ key_investigators:
   affiliation: Queen's University
   country: Canada
 
+- name: Csaba Pinter
+  affiliation: Ebatinca SL
+  country: Spain
+
 ---
 
 # Project Description
