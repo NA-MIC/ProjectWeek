@@ -96,6 +96,10 @@ Anonymization moudle UI:
 <iframe width="960" height="540" src="https://www.youtube.com/embed/watch?v=L2dJuvdan_0e">
  </iframe>
 
+Anonymization moudle UI:
+ <img width="1920" height="1030" alt="Képernyőkép 2026-01-30 104841" src="https://github.com/user-attachments/assets/f8629ab0-713c-4ffa-a4b4-0ca0cd36ca65" />
+
+
 Example module usage with our own cochlear implant CBCT data:
 <img width="1920" height="1030" alt="fluoro_SlicerHeart" src="https://github.com/user-attachments/assets/680dd100-0976-4829-94b0-7755068e8605" />
 
