@@ -96,8 +96,8 @@ The transformation is incrementally applied to the moving image over 10 discrete
 <!-- ![](increment_project_page.gif) -->
 
 
-[https://github.com/user-attachments/assets/a7def86b-730b-4f77-9f9a-d078bb9b40a0
-](https://github.com/NA-MIC/ProjectWeek/blob/master/PW44_2026_GranCanaria/Projects/DeformviewQuantitativeVisualizationOfNonLinearDeformationFieldsForUseInImageGuidedNeurosurgery/trimmed_demo.mov)
+<video src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW44_2026_GranCanaria/Projects/DeformviewQuantitativeVisualizationOfNonLinearDeformationFieldsForUseInImageGuidedNeurosurgery/trimmed_demo.mov" controls width="640"></video>
+
 
 
 ### Fixed Remaining (Known) Bugs and Functional Errors
@@ -118,8 +118,7 @@ The transformation is incrementally applied to the moving image over 10 discrete
 
 
 
-[https://github.com/user-attachments/assets/cc53157e-60be-44e1-93b6-ee63ef7c2e34
-](https://github.com/NA-MIC/ProjectWeek/blob/master/PW44_2026_GranCanaria/Projects/DeformviewQuantitativeVisualizationOfNonLinearDeformationFieldsForUseInImageGuidedNeurosurgery/incrementVideo.mov)
+<video src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW44_2026_GranCanaria/Projects/DeformviewQuantitativeVisualizationOfNonLinearDeformationFieldsForUseInImageGuidedNeurosurgery/incrementVideo.mov" controls width="640"></video>
 
 
 
