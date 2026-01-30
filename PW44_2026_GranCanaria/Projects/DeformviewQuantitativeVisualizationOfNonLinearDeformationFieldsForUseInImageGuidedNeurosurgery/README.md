@@ -95,9 +95,7 @@ The transformation is incrementally applied to the moving image over 10 discrete
 
 <!-- ![](increment_project_page.gif) -->
 
-
-<video src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW44_2026_GranCanaria/Projects/DeformviewQuantitativeVisualizationOfNonLinearDeformationFieldsForUseInImageGuidedNeurosurgery/trimmed_demo.mov" controls width="640"></video>
-
+https://github.com/NA-MIC/ProjectWeek/raw/master/PW44_2026_GranCanaria/Projects/DeformviewQuantitativeVisualizationOfNonLinearDeformationFieldsForUseInImageGuidedNeurosurgery/trimmed_demo.mov
 
 
 ### Fixed Remaining (Known) Bugs and Functional Errors
