@@ -96,6 +96,7 @@ Patient-related attributes (e.g. age, sex, or other clinical metadata) are not y
 - *Exposure* values were rounded to the nearest 100 units.
 
 **Dataset statistics (after filtering and data reduction):**
+
 | Numerical Attribute             | Count  | Unique | Min  | Q25  | Median | Mean | Q75  | Max   | Std  |
 |-----------------------|--------|----------|------|------|--------|------|------|-------|------|
 | SliceThickness    | 133273 | 13       | 0.60 | 2.00 | 2.50   | 2.47 | 2.50 | 6.50  | 0.90 |
