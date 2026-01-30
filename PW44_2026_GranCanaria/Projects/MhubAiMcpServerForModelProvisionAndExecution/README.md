@@ -34,10 +34,6 @@ In this project, we want to enable AI agents to interact with MHub.ai models by 
 1. Local MCP server to interact with the MHub.ai model repository
 2. Provision of tools and guidelines for automatic model deployment
 
-_If that works:_
-
-3. Implementation of 1-2 PoC models using the MPC.
-
 
 
 ## Approach and Plan
@@ -56,7 +52,8 @@ _If that works:_
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+We developed a public PoC Skill that can discover, run and adapt MHub models, the skill can be found under
+https://github.com/MHubAI/MHubSkill.
 
 
 
