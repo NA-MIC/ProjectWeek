@@ -71,14 +71,15 @@ In a discussion with Arthur, here are some future directions we identified as va
 - Support DICOM as an on-disk format, and consider having dicom-nifti conversion
 - Adding (optional?) experimental parameters to DWI class (or a subclass?) to support things like time-dependent diffusion mri
 
+## Final state of things
 
-# Illustrations
+The outcome of this project was mostly discussions and ideas; here are a couple of last-minute updates to wrap things up:
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+- The abcdmicro notebooks now include built-in downloading of suitable example data. Now anybody can try them without having ABCD data! [Here is a snapshot you can try right now](https://github.com/brain-microstructure-exploration-tools/abcd-microstructure-pipelines/tree/6da13394a10e912d50cdc9ea26dccc5cae0f6b65/notebooks), but once they are merged you should refer to the main branch.
+- After some back-and-forth on different ways of approaching the Slicer bridge, [here is a (AI generated) way of approaching a `SlicerVolumeResource`](https://gist.github.com/ebrahimebrahim/57d4f7f2999b29138a9ec4146febb7f3).
 
 
-_Coming soon?_
-
+Side story: Trying to install abcdmicro into the Slicer python environment immediatley raised ia problem: abcdmicro depends on TractSeg which depends on fury which depends on a version of vtk that conflicts with Slicer's. To install it we had to install abcdmicro with `--no-deps`, then install the deps manually, except for TractSeg. In the case of TractSeg it has to be installed with `--no-deps`, and then its deps have to be installed manually, with the exception of fury. We don't need fury in Slicer. This whole story could have been averted if TractSeg made fury an optional dependency; abcdmicro doesn't really need fury after all. But we can't rely on package maintainers to do things the exact way we want. This story relates to my other PW44 project! It would be useful to support some way of just forcibly skipping a `Requirement`.
 
 
 # Background and References
