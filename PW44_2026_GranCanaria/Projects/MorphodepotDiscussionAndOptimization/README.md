@@ -65,10 +65,10 @@ The system uses the Github CLI, gh, to interact with Github but has some perform
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+## An Example MorphoDepo specimen (Bumblebee microCT)
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/3eb375e4-20fc-4d54-9bc8-b5dc1425ced9" />
 
-_No response_
 
 
 
