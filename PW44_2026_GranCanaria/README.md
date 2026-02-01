@@ -23,9 +23,12 @@ project_categories:
 
 ### NH Imperial Playa, Salon Tamadaba, ground floor past the stairs/elevators
 
-<img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW42_2025_GranCanaria/PW40_WorkArea.jpg?raw=true" width="1000">
+<img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW44_2026_GranCanaria/Photos/PW44_Group.jpg?raw=true" width="1000">
 
-| <img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW42_2025_GranCanaria/PW40_Group.jpg?raw=true" width="492">  | <img src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW40_2024_GranCanaria/NHIMperialPlaya.jpg" width="492">  |
+<img src="https://github.com/NA-MIC/ProjectWeek/blob/master/PW44_2026_GranCanaria/Photos/PW44.gif?raw=true" width="492"> <img src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW44_2026_GranCanaria/Photos/PW44_04.jpg" width="492">
+
+<img src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW44_2026_GranCanaria/Photos/PW44_01.jpg" width="248"> <img src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW44_2026_GranCanaria/Photos/PW44_03.jpg" width="248"> <img src="https://github.com/NA-MIC/ProjectWeek/raw/master/PW40_2024_GranCanaria/NHIMperialPlaya.jpg" width="480">
+
 
 - **Recommended hotels (special rates) and maps**
   - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
