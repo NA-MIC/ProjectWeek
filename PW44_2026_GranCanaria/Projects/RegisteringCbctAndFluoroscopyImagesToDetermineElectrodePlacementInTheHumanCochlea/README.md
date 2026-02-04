@@ -93,11 +93,10 @@ Also, created a small anonymization Slicer extension that will fit our later wor
 
 Progress:
 Anonymization moudle UI:
-<!-- <iframe width="960" height="540" src="https://www.youtube.com/embed/L2dJuvdan_0"> </iframe> -->
-<iframe width="960" height="540" src="https://www.youtube.com/embed/L2dJuvdan_0?si=oUD2uVGXpINsztF-"> </iframe>
+<iframe width="960" height="540" src="https://www.youtube.com/embed/Tq1r9Yp6PGk" referrerpolicy="strict-origin-when-cross-origin"> </iframe>
 
 In case the embedded video doesn't work, here is the link to YouTube:
-https://www.youtube.com/watch?v=L2dJuvdan_0
+https://www.youtube.com/watch?v=Tq1r9Yp6PGk
 
 Anonymization moudle UI:
  ![](https://github.com/user-attachments/assets/f8629ab0-713c-4ffa-a4b4-0ca0cd36ca65)
