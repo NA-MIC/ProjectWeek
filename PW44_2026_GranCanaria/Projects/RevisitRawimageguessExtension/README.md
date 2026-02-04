@@ -11,23 +11,23 @@ key_investigators:
 
 - name: Attila Nagy
   affiliation: University of Szeged
-  Hungary
+  country: Hungary
 
 - name: Csaba Pintér
   affiliation: EBATINCA SL
-  Spain
+  country: Spain
 
 - name: Andras Lasso
   affiliation: Queen's University
-  Canada
+  country: Canada
 
 - name: Steve Pieper
   affiliation: Isomics Inc.
-  USA
+  country: USA
 
 - name: Jean-Christophe Fillion-Robin
   affiliation: Kitware Inc.
-  USA
+  country: USA
 
 ---
 
