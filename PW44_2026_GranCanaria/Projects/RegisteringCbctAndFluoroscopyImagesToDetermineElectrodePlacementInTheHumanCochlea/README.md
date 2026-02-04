@@ -93,11 +93,11 @@ Also, created a small anonymization Slicer extension that will fit our later wor
 
 Progress:  
 Anonymization module UI demo video:  
-https://github.com/user-attachments/assets/12af2e2c-c0a4-4734-b6f9-c6e620ea4c3b
+<video width="960" height="540"  src="https://github.com/user-attachments/assets/12af2e2c-c0a4-4734-b6f9-c6e620ea4c3b" controls></video>
 
 
 Here is a link to the same video on
-![YouTube](https://www.youtube.com/watch?v=Tq1r9Yp6PGk)
+[YouTube](https://www.youtube.com/watch?v=Tq1r9Yp6PGk)
 
 Anonymization module UI:
  ![](https://github.com/user-attachments/assets/f8629ab0-713c-4ffa-a4b4-0ca0cd36ca65)
