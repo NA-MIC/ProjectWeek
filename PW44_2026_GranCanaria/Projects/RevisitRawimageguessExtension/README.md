@@ -11,22 +11,23 @@ key_investigators:
 
 - name: Attila Nagy
   affiliation: University of Szeged
-  country: Hungary
+  Hungary
 
 - name: Csaba Pintér
-  affiliation: EBATINCA
-  country: Spain
+  affiliation: EBATINCA SL
+  Spain
 
 - name: Andras Lasso
-  affiliation: Queen's
-  country: Canada
+  affiliation: Queen's University
+  Canada
 
 - name: Steve Pieper
-  affiliation: Isomics Inc
-  country: Cambridge
+  affiliation: Isomics Inc.
+  USA
 
 - name: Jean-Christophe Fillion-Robin
-  affiliation: Kitware
+  affiliation: Kitware Inc.
+  USA
 
 ---
 
@@ -69,15 +70,15 @@ Collect use cases, refinement suggestions and new ideas.
 1. Ruined the original functionality :D
 2. Began to implement new ideas an experiment with them.
 3. Tried one, but didn't really work out as expected. It is a row continuity heuristic (super cheap, super effective)
-Natural images (medical, microscopy, industrial) have strong horizontal continuity.
-For a guessed X:
-Interpret raw data as 1D array
-Split into rows of length X
-Compute:
-mean(|row[i] - row[i+1]|)
-Do this for several rows.
-Maybe needs some refinement.
-
+Natural images (medical, microscopy, industrial) have strong horizontal continuity.  
+For a guessed X:  
+Interpret raw data as 1D array  
+Split into rows of length X  
+Compute:  
+mean(|row[i] - row[i+1]|)  
+Do this for several rows.  
+Maybe needs some refinement.  
+  
 The implementation of further ideas is coming.
 
 # Illustrations
