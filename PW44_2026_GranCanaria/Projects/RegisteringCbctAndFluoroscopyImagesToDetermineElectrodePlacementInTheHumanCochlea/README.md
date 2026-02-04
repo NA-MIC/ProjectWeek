@@ -91,15 +91,15 @@ Also, created a small anonymization Slicer extension that will fit our later wor
 ![](https://github.com/user-attachments/assets/db4355c7-71b9-418e-ab0d-07d18bd3c004)
 ![](https://github.com/user-attachments/assets/104baf5d-bcde-4378-b411-b7f450d4f9db)
 
-Progress:
-Anonymization moudle UI:
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Tq1r9Yp6PGk?si=cBHJbAM6VvNZmJ7R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>-->
-[![A short demo on how it works](https://img.youtube.com/vi/Tq1r9Yp6PGk/0.jpg)](https://www.youtube.com/watch?v=Tq1r9Yp6PGk)
+Progress:  
+Anonymization module UI demo video:  
+https://github.com/user-attachments/assets/12af2e2c-c0a4-4734-b6f9-c6e620ea4c3b
 
-In case the embedded video doesn't work, here is the link to YouTube:
-![](https://www.youtube.com/watch?v=Tq1r9Yp6PGk)
 
-Anonymization moudle UI:
+Here is a link to the same video on
+![YouTube](https://www.youtube.com/watch?v=Tq1r9Yp6PGk)
+
+Anonymization module UI:
  ![](https://github.com/user-attachments/assets/f8629ab0-713c-4ffa-a4b4-0ca0cd36ca65)
 
 
