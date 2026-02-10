@@ -53,7 +53,7 @@ Agent Skills are folders of instructions, scripts, and resources that agents can
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. IDC skill is available in [https://github.com/K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)
+1. IDC skill is available 
 2. Feedback and use cases collected from the community
 
 
@@ -76,6 +76,7 @@ Agent Skills are folders of instructions, scripts, and resources that agents can
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
+**It is best to use the standalong skill available at [https://github.com/ImagingDataCommons/idc-claude-skill](https://github.com/ImagingDataCommons/idc-claude-skill) to reduce LLM confusion!**
 
 1. Set up Claude.AI with the `claude-scientific-skills` MCP server, experiment.
 2. Started setting up the skill layout and deciding what should be covered.
