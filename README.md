@@ -1,7 +1,7 @@
 ## Welcome to the main page for the Project Week events!
 
 
-### The [44th Project Week](https://projectweek.na-mic.org/PW44_2026_GranCanaria/) will take place on Jan 26-30, 2026, in person in Las Palmas de Gran Canaria, Spain.
+### The 45th Project Week will take place on June 22-26, 2026, in person at MIT, Boston, USA.
 
 ## Frequently Asked Questions
 
@@ -37,14 +37,13 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
 ## Upcoming Project Weeks
 
- [Project Week 44](PW44_2026_GranCanaria/README.md) will take place on Jan 26-30, 2026, in person in Las Palmas de Gran Canaria, Spain.
-
- Project Week 45 will take place on June 22-26, 2026, in person at MIT, Boston, USA. 
+  Project Week 45 will take place on June 22-26, 2026, in person at MIT, Boston, USA. 
 
 ## Past Project Weeks
 
 | Events | Registrants |
 |----|----|
+| [2026 January 26-30 Project Week 44](PW44_2026_GranCanaria/README.md) - Gran Canaria, Spain. | 48 |
 | [2025 June 23-27: Project Week 43](PW43_2025_Montreal/README.md) - Montreal, Canada. | 56 |
 | [2025 January 27-31: Project Week 42](PW42_2025_GranCanaria/README.md) - Gran Canaria, Spain. | 63 |
 | [2024 June 24-28: Project Week 41](PW41_2024_MIT/README.md) - MIT, Cambridge, MA, USA. | 116 |
