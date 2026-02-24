@@ -37,7 +37,8 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
 ## Upcoming Project Weeks
 
-  Project Week 45 will take place on June 22-26, 2026, in person at MIT, Boston, USA. 
+  Project Week 45 will take place on June 22-26, 2026, in person at MIT, Boston, USA.
+
   Project Week 46 will take place on January 25-29, 2027, in person in Las Palmas de Gran Canaria, Spain.
 
 ## Past Project Weeks
