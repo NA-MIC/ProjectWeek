@@ -90,7 +90,11 @@ How could it relate to Slicer and Imaging Data Commons (IDC)? Given a sample pat
 1. We first explored the embeddings in a low-dimensiontal space using UMAP, but we couldn't see any visible clusters.
 2. Then, we used BigQuery vector search from Google Cloud to try content-based image retrieval. This worked, but was not efficient. 
 3. Then, we decided to precompute distances between these embeddings.
-4. We used Apache e-charts to show results from querying a patient and finding the top 5 matches. 
+4. We used Apache e-charts to show results from querying a patient and finding the top 5 matches.
+
+This project was further developed - see the following:
+* https://github.com/ImagingDataCommons/nlst-sybil-connectome
+* https://imagingdatacommons.github.io/nlst-sybil-connectome/
 
 # Illustrations
 
