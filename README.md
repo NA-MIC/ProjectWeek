@@ -1,7 +1,7 @@
 ## Welcome to the main page for the Project Week events!
 
 
-### The 45th Project Week will take place on June 22-26, 2026, in person at MIT, Boston, USA.
+### The [45th Project Week](PW45_2026_Boston/README.md) will take place on June 22-26, 2026, in person at MIT, Boston, USA.
 
 ## Frequently Asked Questions
 
@@ -33,7 +33,7 @@ The Project Week series was founded in 2005, along with the National Alliance fo
 
 #### Who to contact?
 
-Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)), [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//)), [@rafaelpalomar](https://github.com/rafaelpalomar) ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp)), [@piiq](https://github.com/piiq) ([Theodore Aptekarev](https://discourse.slicer.org/u/pll_llq)) and [@sjh26](https://github.com/sjh26) (Sam Horvath) who are happy to tell you more about them.
+Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](https://spl.harvard.edu/people/tina-kapur-phd)), [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/sidrouin)), [@rafaelpalomar](https://github.com/rafaelpalomar) ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp)), Theodore Aptekarev,  [@sjh26](https://github.com/sjh26) ([Sam Horvath, PhD](https://www.kitware.com/samantha-horvath/)) and [@deepakri201](https://github.com/deepakri201) ([Deepa Krishnaswamy, PhD](https://scholar.google.com/citations?user=X8jB1n0AAAAJ&hl=en)) who are happy to tell you more about them.
 
 ## Upcoming Project Weeks
 
@@ -45,6 +45,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
 | Events | Registrants |
 |----|----|
+| [2026 June 22-36 Project Week 45](PW45_2026_Boston/README.md) - MIT, Cambridge, MA, USA. |  |
 | [2026 January 26-30 Project Week 44](PW44_2026_GranCanaria/README.md) - Gran Canaria, Spain. | 48 |
 | [2025 June 23-27: Project Week 43](PW43_2025_Montreal/README.md) - Montreal, Canada. | 56 |
 | [2025 January 27-31: Project Week 42](PW42_2025_GranCanaria/README.md) - Gran Canaria, Spain. | 63 |
