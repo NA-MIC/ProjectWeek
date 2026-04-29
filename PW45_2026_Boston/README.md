@@ -15,7 +15,7 @@ project_categories:
 - Infrastructure
 ---
 
-# Welcome to the web page for the 44th Project Week!
+# Welcome to the web page for the 45th Project Week!
 
 [This event](https://projectweek.na-mic.org/PW_45_2026_Boston/README.html) will take place June 22nd - 26th, 2026 in MIT, Boston, USA, in person. If you have any questions, you can contact the [organizers](#organizers).
 
