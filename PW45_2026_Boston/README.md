@@ -25,7 +25,7 @@ Rooms TBA
 
 ## Preparation meetings
 
-Preparations meetings will be at 10 AM EDT and start Tuesday, May 5th 2026.  [Zoom Link](https://etsmtl.zoom.us/j/96828430830?pwd=9EqBWHKc4fytzNThgha4ByM1hoQwPr.1)
+Preparation meetings will be at 10 AM EDT and start Tuesday, May 5th 2026.  [Zoom Link](https://etsmtl.zoom.us/j/96828430830?pwd=9EqBWHKc4fytzNThgha4ByM1hoQwPr.1)
 
 
 ## Communication
