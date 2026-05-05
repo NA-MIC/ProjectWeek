@@ -32,6 +32,7 @@ Preparation meetings will be at 10 AM EDT and start Tuesday, May 5th 2026.  [Zoo
 
 - Sign up for the new mailing list [here](https://gaggle.email/join/3d-slicer-project-week@gaggle.email)
 - If you are planning to attend, please fill out this [poll](https://forms.gle/FxpRXXtovJ1Vpk9q9)
+- Discord server invite: [Click here to join](https://discord.gg/9pHuAWd79n)
 
 ## Registration
 
