@@ -21,7 +21,7 @@ project_categories:
 
 ## Location
 
-Rooms TBA
+Grier Rooms (34-401A, 34-401B), Building 34, 50 Vassar Street, Cambridge, MA
 
 ## Preparation meetings
 
