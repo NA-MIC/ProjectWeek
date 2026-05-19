@@ -64,7 +64,7 @@ Implement SCENEVIEW request in the Slicer client
 
 
 Online example:
-https://examples-vtkjs.d2pxx3mhr69djy.amplifyapp.com/examples/CastClient.html
+<https://examples-vtkjs.d2pxx3mhr69djy.amplifyapp.com/examples/CastClient.html>
 
 
 
@@ -75,17 +75,19 @@ https://examples-vtkjs.d2pxx3mhr69djy.amplifyapp.com/examples/CastClient.html
 
 
 VolView using a segmentation service provider:
-https://youtu.be/hxk0FvQMyb8
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hxk0FvQMyb8?si=d2dmwfyggzZY5NsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Cast  Interface Module:
 
-<img width="800" height="766" alt="Image" src="https://github.com/user-attachments/assets/64fc6b9c-85c2-46cb-af95-a9e68d2ebbd9" />
+<img width="600"  alt="Image" src="https://github.com/user-attachments/assets/64fc6b9c-85c2-46cb-af95-a9e68d2ebbd9" />
 
 
 Cast hub: 
 
-<img width="1184" height="1000" alt="Image" src="https://github.com/user-attachments/assets/70e48177-4cbd-4dc9-a723-8593c6fa67ef" />
+<img width="600"  alt="Image" src="https://github.com/user-attachments/assets/70e48177-4cbd-4dc9-a723-8593c6fa67ef" />
 
 
 
@@ -96,7 +98,7 @@ Cast hub:
 
 
 What is Cast?
-Cast is an offshoot of FHIRcast (https://fhircast.hl7.org/). FHIRcast is the standard replacing Epic’s file drop interface for integration with PACS and reporting systems. It provides a secure messaging infrastructure using a hub with websocket subscriptions.
+Cast is an offshoot of FHIRcast (<https://fhircast.hl7.org/>). FHIRcast is the standard replacing Epic’s file drop interface for integration with PACS and reporting systems. It provides a secure messaging infrastructure using a hub with websocket subscriptions.
 
 Cast differs to FHIRcast in the following way:
 
@@ -135,20 +137,17 @@ For testing and development, the hub provides a test mock auth endpoint that ass
 Hub availability and complexity are possibly  the main obstacle to the deployment of this technology; therefore the hub is kept as simple as possible and only handles message handling. The cast_api.py script used for  Volview server and 3D slicer is @2000 lines and the admin.html portal as well.
 
 
-The cast hub does not support context management.  That strategy was tried 30 years ago with CCOW ( https://en.wikipedia.org/wiki/CCOW ) and failed.  Context is to be retrieved from the relevant applications directly through the request mechanism.   
+The cast hub does not support context management.  That strategy was tried 30 years ago with CCOW ( <https://en.wikipedia.org/wiki/CCOW> ) and failed.  Context is to be retrieved from the relevant applications directly through the request mechanism.   
 
 
-https://projectweek.na-mic.org/PW44_2026_GranCanaria/Projects/CastAStandardForRealTimeFrontEndIntegrationOfHealthcareApplication/
+<https://projectweek.na-mic.org/PW44_2026_GranCanaria/Projects/CastAStandardForRealTimeFrontEndIntegrationOfHealthcareApplication/>
 
 
 VolView cast interface:
 
-<img width="906" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a2913844-0202-40bb-b52c-4cf45d26fc82" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/a2913844-0202-40bb-b52c-4cf45d26fc82" />
 
 VTK-JS worklist cast client example:
- <iframe width="420" height="315" src="https://youtu.be/MUagLJ5HHG0">
- </iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/MUagLJ5HHG0?si=ciSN9c_wLSfpc3X9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Example using vtk-js worklist example, OHIF and Volview:
-https://youtu.be/MUagLJ5HHG0
 
