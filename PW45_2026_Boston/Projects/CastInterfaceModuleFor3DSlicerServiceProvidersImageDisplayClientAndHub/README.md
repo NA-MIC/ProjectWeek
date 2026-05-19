@@ -77,17 +77,17 @@ Online example:
 VolView using a segmentation service provider:
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hxk0FvQMyb8?si=d2dmwfyggzZY5NsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" src="https://www.youtube.com/embed/hxk0FvQMyb8?si=d2dmwfyggzZY5NsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Cast  Interface Module:
 
-<img width="600"  alt="Image" src="https://github.com/user-attachments/assets/64fc6b9c-85c2-46cb-af95-a9e68d2ebbd9" />
+<img width="800"  alt="Image" src="https://github.com/user-attachments/assets/64fc6b9c-85c2-46cb-af95-a9e68d2ebbd9" />
 
 
 Cast hub: 
 
-<img width="600"  alt="Image" src="https://github.com/user-attachments/assets/70e48177-4cbd-4dc9-a723-8593c6fa67ef" />
+<img width="800"  alt="Image" src="https://github.com/user-attachments/assets/70e48177-4cbd-4dc9-a723-8593c6fa67ef" />
 
 
 
@@ -145,9 +145,9 @@ The cast hub does not support context management.  That strategy was tried 30 ye
 
 VolView cast interface:
 
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/a2913844-0202-40bb-b52c-4cf45d26fc82" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/a2913844-0202-40bb-b52c-4cf45d26fc82" />
 
 VTK-JS worklist cast client example:
- <iframe width="560" height="315" src="https://www.youtube.com/embed/MUagLJ5HHG0?si=ciSN9c_wLSfpc3X9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ <iframe width="800" src="https://www.youtube.com/embed/MUagLJ5HHG0?si=ciSN9c_wLSfpc3X9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
