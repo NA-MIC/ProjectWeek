@@ -74,10 +74,10 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-1. https://projectweek.na-mic.org/PW44_2026_GranCanaria/Projects/ExplorationOfFoundationModelsAndTheirEmbeddingsForOtherTasksUsingTheCloud/
-2. https://github.com/AIM-Harvard/TumorImagingBench
-3. https://imagingdatacommons.github.io/nlst-sybil-connectome/?model=CTClipVit&match=c&color=cancerType
-4. https://github.com/niccolo246/3D-MAE-MedImaging
-5. https://arxiv.org/pdf/2501.09001
-6. https://pmc.ncbi.nlm.nih.gov/articles/PMC12876872/
+1. <https://projectweek.na-mic.org/PW44_2026_GranCanaria/Projects/ExplorationOfFoundationModelsAndTheirEmbeddingsForOtherTasksUsingTheCloud/>
+2. <https://github.com/AIM-Harvard/TumorImagingBench>
+3. <https://imagingdatacommons.github.io/nlst-sybil-connectome/?model=CTClipVit&match=c&color=cancerType>
+4. <https://github.com/niccolo246/3D-MAE-MedImaging>
+5. <https://arxiv.org/pdf/2501.09001>
+6. <https://pmc.ncbi.nlm.nih.gov/articles/PMC12876872/>
 
