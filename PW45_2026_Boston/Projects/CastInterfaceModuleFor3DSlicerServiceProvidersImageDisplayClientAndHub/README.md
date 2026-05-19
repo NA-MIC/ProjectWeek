@@ -1,0 +1,154 @@
+---
+layout: pw45-project
+
+permalink: /:path/
+
+project_title: 'Cast interface module  for 3D Slicer: Service Providers, Image Display client and
+  Hub.'
+category: Infrastructure
+presenter_location: 
+
+key_investigators:
+
+- name: Martin Bellehumeur
+  affiliation: Radical Imaging
+  country: Germany
+
+---
+
+# Project Description
+
+<!-- Add a short paragraph describing the project. -->
+
+
+Cast interface Module for 3D Slicer: Service Providers, Image Display client and Hub.
+
+Service Providers: Service providers subscribe to all user topics for dicom events and send back results to the user. Each service provider connects with its own product name and onMessage script. The script handles producing the results from the DICOM files received. The service connects to the hub in the cloud and can service the clients even when the service is not in the cloud.
+
+Image Display Client: The image display client provide a PACS client type interface to the 3D slicer viewer. Supported events are ImagingStudy-open, Imaging-Study-close and request for sceneview. 
+
+Hub: The hub is the server that distributes the messages and handles the data transfer requests over the websocket connection to each client. 
+
+
+
+
+
+## Objective
+
+<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+
+
+ - Provide cloud access to 3D slicer processing services to viewers without running 3D slicer in the cloud. Only the hub needs to be in the cloud and 3D slicer can connect to the hub and provide the services from anywhere.
+ - Finish the request for request SCENEVIEW started in project week 44.
+ - Add an image display client to the 3D slicer viewer.
+ - Support 3D Slicer developers who want to connect to cast / FHIRcast.
+
+
+
+
+
+## Approach and Plan
+
+<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+
+
+
+Implement SCENEVIEW request in the Slicer client
+
+
+
+## Progress and Next Steps
+
+<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
+     If there are specific steps that you could not complete then you can describe them here, too. -->
+
+
+Online example:
+https://examples-vtkjs.d2pxx3mhr69djy.amplifyapp.com/examples/CastClient.html
+
+
+
+
+# Illustrations
+
+<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+
+
+VolView using a segmentation service provider:
+https://youtu.be/hxk0FvQMyb8
+
+
+Cast  Interface Module:
+
+<img width="800" height="766" alt="Image" src="https://github.com/user-attachments/assets/64fc6b9c-85c2-46cb-af95-a9e68d2ebbd9" />
+
+
+Cast hub: 
+
+<img width="1184" height="1000" alt="Image" src="https://github.com/user-attachments/assets/70e48177-4cbd-4dc9-a723-8593c6fa67ef" />
+
+
+
+# Background and References
+
+<!-- If you developed any software, include link to the source code repository.
+     If possible, also add links to sample data, and to any relevant publications. -->
+
+
+What is Cast?
+Cast is an offshoot of FHIRcast (https://fhircast.hl7.org/). FHIRcast is the standard replacing Epic’s file drop interface for integration with PACS and reporting systems. It provides a secure messaging infrastructure using a hub with websocket subscriptions.
+
+Cast differs to FHIRcast in the following way:
+
+Mission: 
+Cast is focused on desktop integration of healthcare applications. It is not restricted to a specific data format.  Cast is also not restricted to a specific authentication mechanism; it expects that apps will authenticate with the customer's system. Cast aims to provide a general framework that can support all use cases by adding data types with verbs (events), for example, nifti-send.
+
+
+
+
+Features: 
+In addition to FHIRcast events, the cast hub allows the following:
+
+ - Request data from applications such as worklist context, report content, DICOM instance, DICOM tag, JPEG/PNG screenshots, scene views, etc.
+
+ - Support for binary files transfer; therefore payloads other than FHIR/JSON, such as DICOM, PNG, NIFTi, openEHR, OpenIGTLink.
+
+ - Group topics for multi-user workflows, such as tumor boards or interventional procedures.
+Support for IHE roles.
+
+ - Support three additional subscription data: 
+ -- subscriber.product.name, 
+ -- subscriber.product.version,
+ -- subscriber.actors
+ 
+ - Support four additional event data: 
+ -- subscriber.name
+ -- subscriber.actor
+ -- target.actor
+ -- target.product.name
+
+
+For testing and development, the hub provides a test mock auth endpoint that assigns a user  when none is provided.  A “single-user” mode is available for stand-alone applications that do not use authentication.   The hub mock auth endpoints are the same as keycloak to facilitate integration.
+
+
+
+Hub availability and complexity are possibly  the main obstacle to the deployment of this technology; therefore the hub is kept as simple as possible and only handles message handling. The cast_api.py script used for  Volview server and 3D slicer is @2000 lines and the admin.html portal as well.
+
+
+The cast hub does not support context management.  That strategy was tried 30 years ago with CCOW ( https://en.wikipedia.org/wiki/CCOW ) and failed.  Context is to be retrieved from the relevant applications directly through the request mechanism.   
+
+
+https://projectweek.na-mic.org/PW44_2026_GranCanaria/Projects/CastAStandardForRealTimeFrontEndIntegrationOfHealthcareApplication/
+
+
+VolView cast interface:
+
+<img width="906" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a2913844-0202-40bb-b52c-4cf45d26fc82" />
+
+VTK-JS worklist cast client example:
+ <iframe width="420" height="315" src="https://youtu.be/MUagLJ5HHG0">
+ </iframe>
+
+Example using vtk-js worklist example, OHIF and Volview:
+https://youtu.be/MUagLJ5HHG0
+
