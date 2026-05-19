@@ -51,6 +51,7 @@ body:
     description: |
       *Please note the formatting on the Key Investigators list:*
       `- Firstname Lastname (Affiliation, Country)`
+      **IT MUST BE IN LIST FORMAT**
     placeholder: |
       - FirstName1 LastName1 (Affiliation, Country)
       - FirstName2 LastName2 (Affiliation, Country)
