@@ -77,7 +77,7 @@ Online example:
 VolView using a segmentation service provider:
 
 
-<iframe width="800" src="https://www.youtube.com/embed/hxk0FvQMyb8?si=d2dmwfyggzZY5NsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/hxk0FvQMyb8?si=d2dmwfyggzZY5NsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Cast  Interface Module:
@@ -148,6 +148,6 @@ VolView cast interface:
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/a2913844-0202-40bb-b52c-4cf45d26fc82" />
 
 VTK-JS worklist cast client example:
- <iframe width="800" src="https://www.youtube.com/embed/MUagLJ5HHG0?si=ciSN9c_wLSfpc3X9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ <iframe width="800" height="500" src="https://www.youtube.com/embed/MUagLJ5HHG0?si=ciSN9c_wLSfpc3X9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
