@@ -23,9 +23,9 @@ key_investigators:
 
 Cast interface Module for 3D Slicer: Service Providers, Image Display client and Hub.
 
-Service Providers: Service providers subscribe to all user topics for dicom events and send back results to the user. Each service provider connects with its own product name and onMessage script. The script handles producing the results from the DICOM files received. The service connects to the hub in the cloud and can service the clients even when the service is not in the cloud.
+Service Providers: Service providers subscribe to all user topics for dicom events and send back results to the user. Each service provider has its own onMessage script. The script handles producing the results from the DICOM files received and publishes a dicom-send event back to the user topic.
 
-Image Display Client: The image display client provide a PACS client type interface to the 3D slicer viewer. Supported events are ImagingStudy-open, Imaging-Study-close and request for sceneview. 
+Image Display Client: The image display client provide a PACS client type interface to the 3D slicer viewer. Supported events should be ImagingStudy-open, Imaging-Study-close, dicom-send and request for sceneview. 
 
 Hub: The hub is the server that distributes the messages and handles the data transfer requests over the websocket connection to each client. 
 
@@ -38,12 +38,9 @@ Hub: The hub is the server that distributes the messages and handles the data tr
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
- - Provide cloud access to 3D slicer processing services to viewers without running 3D slicer in the cloud. Only the hub needs to be in the cloud and 3D slicer can connect to the hub and provide the services from anywhere.
- - Finish the request for request SCENEVIEW started in project week 44.
- - Add an image display client to the 3D slicer viewer.
+ - Provide cloud access to 3D slicer processing services to viewers without running 3D slicer in the cloud. Only the hub needs to be in the cloud. 3D Slicer can connect to the hub and provide the services from anywhere through the websocket connection.
+ - Finish the request for SCENEVIEW started in project week 44 by adding an image display client to the 3D slicer viewer.
  - Support 3D Slicer developers who want to connect to cast / FHIRcast.
-
-
 
 
 
@@ -52,8 +49,8 @@ Hub: The hub is the server that distributes the messages and handles the data tr
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-
-Implement SCENEVIEW request in the Slicer client
+ - Implement service providers with existing 3D slicer modules such as Total Segmentator or Skull Stripper.
+ - Implement SCENEVIEW request in the Slicer client
 
 
 
@@ -82,12 +79,14 @@ VolView using a segmentation service provider:
 
 Cast  Interface Module:
 
-<img width="800"  alt="Image" src="https://github.com/user-attachments/assets/64fc6b9c-85c2-46cb-af95-a9e68d2ebbd9" />
+<img width="599" height="801" alt="image" src="https://github.com/user-attachments/assets/9fc6fa7e-5878-441f-a248-f8d9f9965ada" />
+
 
 
 Cast hub: 
 
-<img width="800"  alt="Image" src="https://github.com/user-attachments/assets/70e48177-4cbd-4dc9-a723-8593c6fa67ef" />
+<img width="1253" height="892" alt="image" src="https://github.com/user-attachments/assets/e99f55c1-0448-4bf9-97c4-55424eb3ca2d" />
+
 
 
 
@@ -137,7 +136,7 @@ For testing and development, the hub provides a test mock auth endpoint that ass
 Hub availability and complexity are possibly  the main obstacle to the deployment of this technology; therefore the hub is kept as simple as possible and only handles message handling. The cast_api.py script used for  Volview server and 3D slicer is @2000 lines and the admin.html portal as well.
 
 
-The cast hub does not support context management.  That strategy was tried 30 years ago with CCOW ( <https://en.wikipedia.org/wiki/CCOW> ) and failed.  Context is to be retrieved from the relevant applications directly through the request mechanism.   
+The cast hub does not support context management.  That strategy was tried 30 years ago with CCOW ( <https://en.wikipedia.org/wiki/CCOW> ) and failed.  Context is to be retrieved from the relevant applications directly through the request mechanism.     
 
 
 <https://projectweek.na-mic.org/PW44_2026_GranCanaria/Projects/CastAStandardForRealTimeFrontEndIntegrationOfHealthcareApplication/>
@@ -150,4 +149,7 @@ VolView cast interface:
 VTK-JS worklist cast client example:
  <iframe width="800" height="500" src="https://www.youtube.com/embed/MUagLJ5HHG0?si=ciSN9c_wLSfpc3X9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+
+Wasserthal J., Meyer M., , Hanns-Christian Breit H.C., Cyriac J., Shan Y., Segeroth, M.: TotalSegmentator: robust segmentation of 104 anatomical structures in CT images. https://arxiv.org/abs/2208.05868 
 
