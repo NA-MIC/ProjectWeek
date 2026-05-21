@@ -79,7 +79,8 @@ VolView using a segmentation service provider:
 
 Cast  Interface Module:
 
-<img width="599" height="801" alt="image" src="https://github.com/user-attachments/assets/9fc6fa7e-5878-441f-a248-f8d9f9965ada" />
+<img width="686" height="775" alt="image" src="https://github.com/user-attachments/assets/ff10219f-23d9-4da9-a0cc-529733119a0e" />
+
 
 
 
@@ -90,7 +91,7 @@ Cast hub:
 
 
 
-# Background and References
+# Background
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
@@ -150,6 +151,13 @@ VTK-JS worklist cast client example:
  <iframe width="800" height="500" src="https://www.youtube.com/embed/MUagLJ5HHG0?si=ciSN9c_wLSfpc3X9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+# References
 
+Total segmentation:
+https://pubs.rsna.org/doi/10.1148/ryai.230024
+
+Skull stripper:
 Wasserthal J., Meyer M., , Hanns-Christian Breit H.C., Cyriac J., Shan Y., Segeroth, M.: TotalSegmentator: robust segmentation of 104 anatomical structures in CT images. https://arxiv.org/abs/2208.05868 
+
+
 
