@@ -23,7 +23,7 @@ key_investigators:
 
 Cast interface Module for 3D Slicer: Service Providers, Image Display client and Hub.
 
-Service Providers: Service providers subscribe to all user topics for dicom events and send back results to the user. Each service provider has its own onMessage script. The script handles producing the results from the DICOM files received and publishes a dicom-send event back to the user topic.
+Service Providers: Service providers subscribe to all user topics for dicom/nifti events and send back results to the user throuh the hub. Each service provider has its own onMessage script. The script handles producing the results from the DICOM files received and publishes a dicom-send event back to the user topic.
 
 Image Display Client: The image display client provide a PACS client type interface to the 3D slicer viewer. Supported events should be ImagingStudy-open, Imaging-Study-close, dicom-send and request for sceneview. 
 
@@ -109,6 +109,7 @@ Cast is focused on desktop integration of healthcare applications. It is not res
 
 
 Features: 
+
 In addition to FHIRcast events, the cast hub allows the following:
 
  - Request data from applications such as worklist context, report content, DICOM instance, DICOM tag, JPEG/PNG screenshots, scene views, etc.
@@ -137,12 +138,15 @@ For testing and development, the hub provides a test mock auth endpoint that ass
 Hub availability and complexity are possibly  the main obstacle to the deployment of this technology; therefore the hub is kept as simple as possible and only handles message handling. The cast_api.py script used for  Volview server and 3D slicer is @2000 lines and the admin.html portal as well.
 
 
-The cast hub does not support context management.  Context is to be retrieved from the relevant applications directly through the request mechanism.   In cast, the hub is a routing appliance only.  It does not look at event data; it has no storage or database;  only distribution logic.  
-## Security Architecture Benefits
+The cast hub does not support context management.  Context is to be retrieved from the relevant applications directly through the request mechanism.   In cast, the hub is a routing appliance only.  It does not look at event data; it has no storage or database;  only distribution logic.   The context management paradigm was tried 30 years ago with CCOW ( <https://en.wikipedia.org/wiki/CCOW> ).  We have to acknowledge that today all advanced radiology integrations function without a context management server. They manage with events obtained through a combination of file drops, postMessages, URL with parameters, EXEs with command-line parameters and socket to to socket.  
+
+There is value to being able to obtain real-time information from other applications in the workfow.  For example, knowing the "sceneview" status of an Image Display application or the current content of the report editor.  This  is different than what a FHIRcast hub would know since it is relies on getting events which are not generated for each keystoke/click. 
+
+## Security Benefits for Service Providers
 
 This architecture protects service providers by eliminating direct inbound internet exposure entirely.
 
-Each service provider establishes only **outbound encrypted connections** to the Cast Hub, which functions exclusively as a lightweight **routing and session coordination appliance**. Because no inbound ports need to be opened on hospital or enterprise networks, the service providers remain protected behind existing firewalls and are never directly reachable from the public internet.
+Each service provider establishes only **outbound encrypted connections** to the Cast Hub, which functions exclusively as a lightweight **routing and session coordination appliance**. Because no inbound ports need to be opened on hospital or enterprise networks, the service providers remain protected behind existing firewalls and are never directly reachable from the public internet. 
 
 The Cast Hub maintains:
 
@@ -151,21 +155,19 @@ The Cast Hub maintains:
 - No long-term data retention
 - No exposed clinical infrastructure
 
-This significantly reduces the overall attack surface and minimizes operational security risk.  It also simplifies providing services since the service provider does not need to open ports on their router.
+This significantly reduces the overall attack surface and minimizes operational security risk.  It also simplifies providing services since the IT department does not need to open ports on their router.
 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed38287e-c256-495d-83f6-1c20c2dff96f" />
 
 
 
-The context management paradigm was tried 30 years ago with CCOW ( <https://en.wikipedia.org/wiki/CCOW> ).  We have to acknowledge that today all advanced radiology integrations function without it. They manage with a combination of file drops, postMessage, URL with parameter, exe with command-line parameters and socket to to socket.  
-
-There is value being able to obtain real-time  information from applications in the workfow.  For example, knowing the "sceneview" status of an Image Display application or the actual current content of the report.  This  is different than what a FHIRcast hub would know since it is relies on getting events which are not generated for each keystoke/click.  
+ 
 <https://projectweek.na-mic.org/PW44_2026_GranCanaria/Projects/CastAStandardForRealTimeFrontEndIntegrationOfHealthcareApplication/>
 
-In throry, the hub can be cloud deployed as a serverless application.  In practice, many of those offerings do not support websocket services and a docker based solution is necessary like  Azuee WebApps or AWS elastic beanstalk.  
+In theory, the hub can be cloud deployed as a serverless application.  In practice, many of those low cost offerings do not support websocket services and a docker based offering is necessary like  Azure WebApps or AWS elastic beanstalk.  
 
-For high availibity deployment a  hot stand-by configuraiton can be configured.  The "reset server" button in the hub admin portal allows testing workfow behavior during failover.
+For high availibity deployment a  hot stand-by configuraiton can be configured.  The "reset server" button in the hub admin portal allows testing workflow behavior during failover.
 
 VolView cast interface:
 
