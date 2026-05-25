@@ -79,7 +79,7 @@ VolView using a segmentation service provider:
 
 Cast  Interface Module:
 
-<img width="686" height="775" alt="image" src="https://github.com/user-attachments/assets/ff10219f-23d9-4da9-a0cc-529733119a0e" />
+<img width="756" height="804" alt="image" src="https://github.com/user-attachments/assets/edaccdd0-3c25-4dce-b356-b375af9d97fd" />
 
 
 
@@ -137,9 +137,31 @@ For testing and development, the hub provides a test mock auth endpoint that ass
 Hub availability and complexity are possibly  the main obstacle to the deployment of this technology; therefore the hub is kept as simple as possible and only handles message handling. The cast_api.py script used for  Volview server and 3D slicer is @2000 lines and the admin.html portal as well.
 
 
-The cast hub does not support context management.  That strategy was tried 30 years ago with CCOW ( <https://en.wikipedia.org/wiki/CCOW> ) and failed.  Context is to be retrieved from the relevant applications directly through the request mechanism.     
+The cast hub does not support context management.  Context is to be retrieved from the relevant applications directly through the request mechanism.   In cast, the hub is a routing appliance only.  It does not look at event data; it has no storage or database;  only distribution logic.  
+## Security Architecture Benefits
+
+This architecture protects service providers by eliminating direct inbound internet exposure entirely.
+
+Each service provider establishes only **outbound encrypted connections** to the Cast Hub, which functions exclusively as a lightweight **routing and session coordination appliance**. Because no inbound ports need to be opened on hospital or enterprise networks, the service providers remain protected behind existing firewalls and are never directly reachable from the public internet.
+
+The Cast Hub maintains:
+
+- No persistent storage
+- No database
+- No long-term data retention
+- No exposed clinical infrastructure
+
+This significantly reduces the overall attack surface and minimizes operational security risk.
+
+<img width="1535" height="1024" alt="image" src="https://github.com/user-attachments/assets/9b6d7d2b-70db-487c-b01c-ad461d6ca5d7" />
 
 
+
+
+
+The context management paradigm was tried 30 years ago with CCOW ( <https://en.wikipedia.org/wiki/CCOW> ).  We have to acknowledge that today all advanced radiology integrations function without it. They manage with a combination of file drops, postMessage, URL with parameter, exe with command-line parameters and socket to to socket.  
+
+There is value being able to obtain real-time  information from applications in the workfow.  For example, knowing the "sceneview" status of an Image Display application or the actual current content of the report which can be different than what a FGHIRcast hub would know since it is relies on getting events which are not generated for each keystoke/click.  
 <https://projectweek.na-mic.org/PW44_2026_GranCanaria/Projects/CastAStandardForRealTimeFrontEndIntegrationOfHealthcareApplication/>
 
 
