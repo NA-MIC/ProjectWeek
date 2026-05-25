@@ -151,19 +151,21 @@ The Cast Hub maintains:
 - No long-term data retention
 - No exposed clinical infrastructure
 
-This significantly reduces the overall attack surface and minimizes operational security risk.
-
-<img width="1535" height="1024" alt="image" src="https://github.com/user-attachments/assets/9b6d7d2b-70db-487c-b01c-ad461d6ca5d7" />
+This significantly reduces the overall attack surface and minimizes operational security risk.  It also simplifies providing services since the service provider does not need to open ports on their router.
 
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed38287e-c256-495d-83f6-1c20c2dff96f" />
 
 
 
 The context management paradigm was tried 30 years ago with CCOW ( <https://en.wikipedia.org/wiki/CCOW> ).  We have to acknowledge that today all advanced radiology integrations function without it. They manage with a combination of file drops, postMessage, URL with parameter, exe with command-line parameters and socket to to socket.  
 
-There is value being able to obtain real-time  information from applications in the workfow.  For example, knowing the "sceneview" status of an Image Display application or the actual current content of the report which can be different than what a FGHIRcast hub would know since it is relies on getting events which are not generated for each keystoke/click.  
+There is value being able to obtain real-time  information from applications in the workfow.  For example, knowing the "sceneview" status of an Image Display application or the actual current content of the report.  This  is different than what a FHIRcast hub would know since it is relies on getting events which are not generated for each keystoke/click.  
 <https://projectweek.na-mic.org/PW44_2026_GranCanaria/Projects/CastAStandardForRealTimeFrontEndIntegrationOfHealthcareApplication/>
 
+In throry, the hub can be cloud deployed as a serverless application.  In practice, many of those offerings do not support websocket services and a docker based solution is necessary like  Azuee WebApps or AWS elastic beanstalk.  
+
+For high availibity deployment a  hot stand-by configuraiton can be configured.  The "reset server" button in the hub admin portal allows testing workfow behavior during failover.
 
 VolView cast interface:
 
