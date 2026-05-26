@@ -45,7 +45,7 @@ Here are the steps using the GitHub web interface:
 
 4. Once done, click "Commit Changes", and follow the instructions to create a fork and a pull request to add your changes to the webpage. See this screenshot for reference: ![Screenshot 2023-06-12 10 50 50](https://github.com/NA-MIC/ProjectWeek/assets/25040869/180e81bb-d4f9-4f65-8569-a93192b2828e)
 
-## Videos in project pages
+## Videos not working correctly?
 
 Here are some steps to make sure all of your awesome videos render correctly:
 
@@ -68,7 +68,7 @@ Here are some steps to make sure all of your awesome videos render correctly:
     </video>
     ```
 
-2. Links to externally hosted videos (such as YouTube) will need an iframe.
+2. Links to externally hosted videos (such as YouTube) will need an iframe. You can copy the correct iframe embedding code from the video, page itself, by clicking the Share button and then Embed
 
     Replace:
 
@@ -82,3 +82,7 @@ Here are some steps to make sure all of your awesome videos render correctly:
     <iframe width="420" height="315" src="https://www.youtube.com/embed/ZWxE5QcGvE8">
     </iframe>
     ````
+
+## Images look squashed?
+
+Edit the `img` tag for the image to have `width=800` and remove the height attribute
