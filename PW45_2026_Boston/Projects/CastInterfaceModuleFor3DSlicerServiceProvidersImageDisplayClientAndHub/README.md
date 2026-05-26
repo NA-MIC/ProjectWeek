@@ -80,14 +80,14 @@ VolView using a segmentation resource server:
 
 Cast  Interface Module:
 
-<img width="756" height="804" alt="image" src="https://github.com/user-attachments/assets/edaccdd0-3c25-4dce-b356-b375af9d97fd" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/edaccdd0-3c25-4dce-b356-b375af9d97fd" />
 
 
 
 
 Cast hub: 
 
-<img width="1253" height="892" alt="image" src="https://github.com/user-attachments/assets/e99f55c1-0448-4bf9-97c4-55424eb3ca2d" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/e99f55c1-0448-4bf9-97c4-55424eb3ca2d" />
 
 
 
@@ -160,7 +160,7 @@ The Cast Hub maintains:
 This significantly reduces the overall attack surface and minimizes operational security risk.  It also simplifies providing reources since the IT department does not need to open ports on their router.  Since the resource servers are not on the internet, you will get shared keys for the auth server.  The hub can use domain name certificates.
 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/04cd3c0b-58e4-41c6-85e3-9c40db579a9a" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/04cd3c0b-58e4-41c6-85e3-9c40db579a9a" />
 
 
 
