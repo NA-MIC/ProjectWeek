@@ -70,6 +70,10 @@ List of registered participants so far (names will be added here after processin
 <!-- Participants list is updated programmatically, please don't remove the comments -->
 <!-- Participants list start -->
 
+1. Martin Bellehumeur (Radical Imaging, in person)
+2. Mauro Ignacio Dominguez (Independent, virtual)
+3. Sam Horvath (Kitware, in person)
+4. Rafael Palomar (Norwegian University of Science and Technology, Norway, virtual)
 
 
 <!-- Participants list end -->
