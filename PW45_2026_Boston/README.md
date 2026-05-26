@@ -36,7 +36,7 @@ Preparation meetings will be at 10 AM EDT and start Tuesday, May 5th 2026.  [Zoo
 
 ## Registration
 
-TBA
+[Click here](https://cvent.me/DdkOLA)
 
 
 
