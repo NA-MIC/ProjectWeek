@@ -3,7 +3,7 @@ layout: pw45-project
 
 permalink: /:path/
 
-project_title: 'Cast interface module  for 3D Slicer: Service Providers, Image Display client and
+project_title: 'Cast interface module  for 3D Slicer: Resource Servers, Image Display client and
   Hub.'
 category: Infrastructure
 presenter_location: 
@@ -73,8 +73,9 @@ Online example:
 
 VolView using a segmentation resource server:
 
+<!-- should be https://youtu.be/AXadJl0u8g8  -->
+<iframe width="800" height="500" src="https://www.youtube.com/embed/AXadJl0u8g8?si=d2dmwfyggzZY5NsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="800" height="500" src="https://www.youtube.com/embed/hxk0FvQMyb8?si=d2dmwfyggzZY5NsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Cast  Interface Module:
