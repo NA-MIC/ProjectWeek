@@ -143,6 +143,90 @@ NIfTI does not carry DICOM identity or segment ontology. Required inputs:
 
 **Suggested pipeline:** load reference DICOM → resample labelmap → encode with **highdicom** or **dcmqi** → validate in OHIF via DICOMweb. Web-only: **dcmjs** adapters from Cornerstone labelmaps when viewport metadata includes the reference study.
 
+### Package Overview
+
+```mermaid
+flowchart TB
+  subgraph files [Files on disk]
+    DCM[".dcm DICOM Part 10"]
+    NII[".nii.gz NIfTI"]
+    JSON["gt_rebuilt_metadata.json"]
+  end
+
+  subgraph python [Your Python pipeline - test_medimage]
+    PY_PYD["pydicom"]
+    PY_PYS["pydicom-seg"]
+    PY_SITK["SimpleITK"]
+    PY_NP["NumPy"]
+    PY_SUB["subprocess / stdlib"]
+  end
+
+  subgraph cpp_cli [C++ CLI tools]
+    DCMQI["dcmqi binaries<br/>segimage2itkimage<br/>itkimage2segimage"]
+    DCMTK["DCMTK<br/>dcmodify"]
+    GDCM_PY["python-gdcm<br/>optional fix scripts"]
+  end
+
+  subgraph sitk_backends [Behind SimpleITK]
+    ITK["ITK"]
+    GDCM_IO["GDCM via GDCMImageIO<br/>GetGDCMSeriesFileNames"]
+  end
+
+  subgraph browser [OHIF Viewer - browser only]
+    OHIF["OHIF Viewers"]
+    DWC["dicomweb-client"]
+    DCMJS["dcmjs"]
+    CS_ADP["@cornerstonejs/adapters"]
+    CS3D["@cornerstonejs/core + tools"]
+    CIL["@cornerstonejs/dicom-image-loader"]
+    DP["dicom-parser"]
+  end
+
+  subgraph not_in_repo [Common but NOT in your repo]
+    HD["highdicom - not used"]
+    NB["nibabel - not used"]
+  end
+
+  subgraph pacs [Archive / transport]
+    PACS["PACS / Orthanc / DICOMweb<br/>QIDO - WADO - STOW"]
+  end
+
+  DCM --> PY_PYD
+  DCM --> PY_SITK
+  DCM --> DCMQI
+  DCM --> DCMTK
+  DCM --> GDCM_PY
+  NII --> PY_SITK
+  PY_SITK --> ITK
+  PY_SITK --> GDCM_IO
+  DCMQI -.-> ITK
+  DCMQI -.-> DCMTK
+
+  PY_PYD --> NII
+  PY_PYS --> NII
+  PY_SITK --> NII
+  PY_NP --> NII
+  NII --> DCMQI
+  DCMQI --> DCM
+  PY_PYD --> DCM
+  DCMTK --> DCM
+  GDCM_PY --> DCM
+  PY_PYD --> JSON
+
+  PACS <-->|DICOMweb| DWC
+  DWC --> OHIF
+  DCMJS --> OHIF
+  OHIF --> CS3D
+  CS_ADP --> DCMJS
+  CS_ADP --> CS3D
+  CIL --> CS3D
+  DP --> CIL
+  DWC -->|retrieve bytes| CS_ADP
+  DCMJS -->|STOW Part 10| DWC
+
+  HD -.->|alternative SEG writer| DCM
+```
+
 ### DICOM tooling map
 
 ```
