@@ -21,9 +21,9 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-Cast interface Module for 3D Slicer: Service Providers, Image Display client and Hub.
+Cast interface Module for 3D Slicer: Resource Servers, Image Display client and Hub.
 
-Service Providers: Service providers subscribe to all user topics for dicom/nifti events and send back results to the user throuh the hub. Each service provider has its own onMessage script. The script handles producing the results from the DICOM files received and publishes a dicom-send event back to the user topic.
+Resource servers: Resource servers subscribe to all user topics for dicom/nifti events and send back results to the user throuh the hub. Each server has its own onMessage script. The script handles producing the results from the DICOM files received and publishes a dicom-send event back to the user topic.
 
 Image Display Client: The image display client provide a PACS client type interface to the 3D slicer viewer. Supported events should be ImagingStudy-open, Imaging-Study-close, dicom-send and request for sceneview. 
 
@@ -49,7 +49,7 @@ Hub: The hub is the server that distributes the messages and handles the data tr
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
- - Implement service providers with existing 3D slicer modules such as Total Segmentator or Skull Stripper.
+ - Implement reource servers with existing 3D slicer modules such as Total Segmentator or Skull Stripper.
  - Implement SCENEVIEW request in the Slicer client
 
 
@@ -71,7 +71,7 @@ Online example:
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-VolView using a segmentation service provider:
+VolView using a segmentation resource server:
 
 
 <iframe width="800" height="500" src="https://www.youtube.com/embed/hxk0FvQMyb8?si=d2dmwfyggzZY5NsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -100,9 +100,10 @@ Cast hub:
 What is Cast?
 Cast is an offshoot of FHIRcast (<https://fhircast.hl7.org/>). FHIRcast is the standard replacing Epic’s file drop interface for integration with PACS and reporting systems. It provides a secure messaging infrastructure using a hub with websocket subscriptions.
 
-Cast differs to FHIRcast in the following way:
+Cast differs to FHIRcast in it;s goals and features.
 
-Mission: 
+Goal: 
+
 Cast is focused on desktop integration of healthcare applications. It is not restricted to a specific data format.  Cast is also not restricted to a specific authentication mechanism; it expects that apps will authenticate with the customer's system. Cast aims to provide a general framework that can support all use cases by adding data types with verbs (events), for example, nifti-send.
 
 
@@ -146,7 +147,7 @@ There is value to being able to obtain real-time information from other applicat
 
 This architecture protects service providers by eliminating direct inbound internet exposure entirely.
 
-Each service provider establishes only **outbound encrypted connections** to the Cast Hub, which functions exclusively as a lightweight **routing and session coordination appliance**. Because no inbound ports need to be opened on hospital or enterprise networks, the service providers remain protected behind existing firewalls and are never directly reachable from the public internet. 
+Each resource server establishes only **outbound encrypted connections** to the Cast Hub, which functions exclusively as a lightweight **routing and session coordination appliance**. Because no inbound ports need to be opened on hospital or enterprise networks, the resource servers remain protected behind existing firewalls and are never directly reachable from the public internet. 
 
 The Cast Hub maintains:
 
@@ -155,10 +156,10 @@ The Cast Hub maintains:
 - No long-term data retention
 - No exposed clinical infrastructure
 
-This significantly reduces the overall attack surface and minimizes operational security risk.  It also simplifies providing services since the IT department does not need to open ports on their router.
+This significantly reduces the overall attack surface and minimizes operational security risk.  It also simplifies providing reources since the IT department does not need to open ports on their router.  Since the resource servers are not on the internet, you will get shared keys for the auth server.  The hub can use domain name certificates.
 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed38287e-c256-495d-83f6-1c20c2dff96f" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/04cd3c0b-58e4-41c6-85e3-9c40db579a9a" />
 
 
 
@@ -171,10 +172,11 @@ For high availibity deployment a  hot stand-by configuraiton can be configured. 
 
 VolView cast interface:
 
-<img width="800" alt="Image" src="https://github.com/user-attachments/assets/a2913844-0202-40bb-b52c-4cf45d26fc82" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/d187a192-ee2d-4a70-90ba-7a3885ecba11" />
+
 
 VTK-JS worklist cast client example:
- <iframe width="800" height="500" src="https://www.youtube.com/embed/MUagLJ5HHG0?si=ciSN9c_wLSfpc3X9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ <iframe width="600" height="500" src="https://www.youtube.com/embed/MUagLJ5HHG0?si=ciSN9c_wLSfpc3X9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 # References
