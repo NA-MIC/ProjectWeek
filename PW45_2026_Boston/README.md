@@ -72,8 +72,12 @@ List of registered participants so far (names will be added here after processin
 
 1. Martin Bellehumeur (Radical Imaging, in person)
 2. Mauro Ignacio Dominguez (Independent, virtual)
-3. Sam Horvath (Kitware, in person)
+3. Sam Horvath (Kitware, USA, in person)
 4. Rafael Palomar (Norwegian University of Science and Technology, Norway, virtual)
+5. Andrey Fedorov (Brigham and Women's Hospital, USA, in person)
+6. Renzo Phellan Aro (Lunenfeld-Tanenbaum Research Institute, Canada, in person)
+7. Jaeyoung Cho (University Hospital Bonn, Germany, in person)
+8. Ryan Cahil (in person)
 
 
 <!-- Participants list end -->
