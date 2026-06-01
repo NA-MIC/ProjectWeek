@@ -96,12 +96,12 @@ The goal of this project is to further increase availability of anatomic segment
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-* https://portal.imaging.datacommons.cancer.gov/
-* https://terra.bio/
-* https://github.com/ENHANCE-PET/MOOSE
-* https://github.com/robert-graf/VIBESegmentator
-* https://github.com/pzaffino/Radiomics.jl
-* https://github.com/QIICR/dcmqi
-* https://github.com/wasserth/totalsegmentator
-* https://doi.org/10.1117/1.JMI.13.6.062204
+- <https://portal.imaging.datacommons.cancer.gov/>
+- <https://terra.bio/>
+- <https://github.com/ENHANCE-PET/MOOSE>
+- <https://github.com/robert-graf/VIBESegmentator>
+- <https://github.com/pzaffino/Radiomics.jl>
+- <https://github.com/QIICR/dcmqi>
+- <https://github.com/wasserth/totalsegmentator>
+- <https://doi.org/10.1117/1.JMI.13.6.062204>
 
