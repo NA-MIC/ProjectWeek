@@ -78,6 +78,14 @@ List of registered participants so far (names will be added here after processin
 6. Renzo Phellan Aro (Lunenfeld-Tanenbaum Research Institute, Canada, in person)
 7. Jaeyoung Cho (University Hospital Bonn, Germany, in person)
 8. Ryan Cahil (in person)
+9. Alexander Buisson (University of North Carolina, USA, in person)
+10. Eduardo Caleme (University of North Carolina, USA, in person)
+11. Lucia Cevidanes (University of North Carolina, USA, in person)
+12. Mariana Costa Bernardes Matias (Brigham and Women's Hospital, USA, in person)
+13. Paul Dumont (University of North Carolina, USA, in person)
+14. Ron Kikinis (Brigham and Women's Hospital, USA, in person)
+15. Steve Pieper (Isomics, USA, in person)
+16. Chi Zhang (Texas A&M University, USA, in person)
 
 
 <!-- Participants list end -->
