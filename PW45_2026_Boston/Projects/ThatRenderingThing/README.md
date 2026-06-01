@@ -100,7 +100,7 @@ The work in progress in [SlicerWGPU](https://github.com/pieper/SlicerWGPU), whic
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-SlilcerCL: https://github.com/pieper/SlicerCL (https://www.youtube.com/watch?v=hFxTyLPjQd0)
-STEP: https://github.com/pieper/step (https://www.youtube.com/watch?v=ML9_JWAz1kY, https://youtu.be/8dputUoKBTA)
-Transfer function editor: https://youtu.be/4Q9NfNmN-9w
+- SlicerCL: <https://github.com/pieper/SlicerCL> (<https://www.youtube.com/watch?v=hFxTyLPjQd0>)
+- STEP: <https://github.com/pieper/step> (<https://www.youtube.com/watch?v=ML9_JWAz1kY>, <https://youtu.be/8dputUoKBTA> )
+- Transfer function editor: <https://youtu.be/4Q9NfNmN-9w>
 
