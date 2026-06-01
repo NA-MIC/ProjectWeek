@@ -29,7 +29,7 @@ We intend to utilize this **3D view as training data for robotic motion**.
 The 3D Slicer view will function just like a real camera mounted on the robot.
 Furthermore, it will allow us to build **custom simulation environments to generate and train on virtual data**.
 
-<img width="1139" height="311" alt="Image" src="https://github.com/user-attachments/assets/09d40dbd-0033-45a7-8e0d-324c90201013" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/09d40dbd-0033-45a7-8e0d-324c90201013" />
 
 
 
@@ -41,7 +41,7 @@ Furthermore, it will allow us to build **custom simulation environments to gener
 - Establishing a pipeline to integrate 3D Slicer's visual data with robot joint data for advanced policy learning and real-time inference.
 - Establishing an environment dedicated to generating and training on synthetic simulation data.
 
-<img width="1334" height="530" alt="Image" src="https://github.com/user-attachments/assets/9b099b3d-69ae-4c0a-b26b-c2931b94ead2" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/9b099b3d-69ae-4c0a-b26b-c2931b94ead2" />
 
 
 
