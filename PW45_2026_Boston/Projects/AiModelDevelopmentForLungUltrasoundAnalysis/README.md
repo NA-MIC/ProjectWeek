@@ -86,10 +86,10 @@ Therefore, we have started to investigate using object detection models for auto
 
 
 Ground truth boxes in scanline space: oriented bounding box for the pleural line (left), and axis-aligned bounding box for the B-lines. 
-<img width="1467" height="710" alt="Image" src="https://github.com/user-attachments/assets/e2c235c9-7abe-4a63-a6a0-512143757eb2" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/e2c235c9-7abe-4a63-a6a0-512143757eb2" />
 
 YOLO results after performing pleural line detection and B-line detection, and conversion back to the sector space, compared to the ground truth: 
-<img width="2148" height="654" alt="Image" src="https://github.com/user-attachments/assets/22010591-075d-4910-9e31-184b91568813" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/22010591-075d-4910-9e31-184b91568813" />
 
 Percent pleura for one test lung zone - x = frame #, and y = percentage. We see that the AI predicted 
 <img width="455" height="333" alt="Image" src="https://github.com/user-attachments/assets/ac226669-a7e1-40dd-b479-cb7cb14a95f0" />
@@ -102,9 +102,13 @@ Percent pleura for one test lung zone - x = frame #, and y = percentage. We see 
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-[1] Lucassen RT, Jafari MH, Duggan NM, Jowkar N, Mehrtash A, Fischetti C, Bernier D, Prentice K, Duhaime EP, Jin M, Abolmaesumi P. Deep learning for detection and localization of B-lines in lung ultrasound. IEEE journal of biomedical and health informatics. 2023 Jun 5;27(9):4352-61.
-[2] Asgari-Targhi A, Ungi T, Jin M, Harrison N, Duggan N, Duhaime E, Goldsmith A, Kapur T. Can Crowdsourced Annotations Improve AI-Based Congestion Scoring for Bedside Lung Ultrasound?. InInternational Conference on Medical Image Computing and Computer-Assisted Intervention 2024 Oct 7 (pp. 580-590). Cham: Springer Nature Switzerland.[3] MICCAI 2026 submission. 
-[3] MICCAI 2026 acceptance. AI-Driven Pulmonary Congestion Assessment for Lung Ultrasound via Segmentation-Guided Transformers. 
-[4] https://github.com/ultralytics/ultralytics
-[5] https://github.com/roboflow/rf-detr
+- [1] Lucassen RT, Jafari MH, Duggan NM, Jowkar N, Mehrtash A, Fischetti C, Bernier D, Prentice K, Duhaime EP, Jin M, Abolmaesumi P. Deep learning for detection and localization of B-lines in lung ultrasound. IEEE journal of biomedical and health informatics. 2023 Jun 5;27(9):4352-61.
+
+- [2] Asgari-Targhi A, Ungi T, Jin M, Harrison N, Duggan N, Duhaime E, Goldsmith A, Kapur T. Can Crowdsourced Annotations Improve AI-Based Congestion Scoring for Bedside Lung Ultrasound?. InInternational Conference on Medical Image Computing and Computer-Assisted Intervention 2024 Oct 7 (pp. 580-590). Cham: Springer Nature Switzerland.[3] MICCAI 2026 submission. 
+
+- [3] MICCAI 2026 acceptance. AI-Driven Pulmonary Congestion Assessment for Lung Ultrasound via Segmentation-Guided Transformers. 
+
+- [4] https://github.com/ultralytics/ultralytics
+
+- [5] https://github.com/roboflow/rf-detr
 
