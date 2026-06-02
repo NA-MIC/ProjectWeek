@@ -63,7 +63,7 @@ https://github.com/mbellehumeur/SlicerCastInterface/
 
 
 Online 3D Slicer Hub for project week:
-[<https://examples-vtkjs.d2pxx3mhr69djy.amplifyapp.com/examples/CastClient.html>](https://slicerhub-azejffgnb7dve8es.canadaeast-01.azurewebsites.net/api/hub/admin)
+[Slicer Hub](https://slicerhub-azejffgnb7dve8es.canadaeast-01.azurewebsites.net/api/hub/admin)
 
 
 
