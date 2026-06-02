@@ -69,7 +69,7 @@ Online 3D Slicer Hub for project week:
 
 # Illustrations
 
-<img width="1324" height="857" alt="image" src="https://github.com/user-attachments/assets/a64ed683-e556-45a0-8727-50116f1c9ed1" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a64ed683-e556-45a0-8727-50116f1c9ed1" />
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
