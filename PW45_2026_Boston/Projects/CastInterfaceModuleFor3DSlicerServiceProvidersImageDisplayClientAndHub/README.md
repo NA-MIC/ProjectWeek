@@ -62,12 +62,14 @@ Extension repository:
 https://github.com/mbellehumeur/SlicerCastInterface/
 
 
-Online example:
-<https://examples-vtkjs.d2pxx3mhr69djy.amplifyapp.com/examples/CastClient.html>
+Online 3D Slicer Hub for project week:
+[<https://examples-vtkjs.d2pxx3mhr69djy.amplifyapp.com/examples/CastClient.html>](https://slicerhub-azejffgnb7dve8es.canadaeast-01.azurewebsites.net/api/hub/admin)
 
 
 
 # Illustrations
+
+<img width="1324" height="857" alt="image" src="https://github.com/user-attachments/assets/a64ed683-e556-45a0-8727-50116f1c9ed1" />
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
