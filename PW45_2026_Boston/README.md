@@ -86,6 +86,13 @@ List of registered participants so far (names will be added here after processin
 14. Ron Kikinis (Brigham and Women's Hospital, USA, in person)
 15. Steve Pieper (Isomics, USA, in person)
 16. Chi Zhang (Texas A&M University, USA, in person)
+17. Amirali Azimi (Brigham and Women's Hospital, USA, in person)
+18. Alexandre Banks Gadbois (Brigham and Women's Hospital, USA, in person)
+19. David Dinh (Brigham and Women's Hospital, USA, in person)
+20. Tina Kapur (Brigham and Women's Hospital, USA, in person)
+21. Deepa Krishnaswamy (Brigham and Women's Hospital, USA, in person)
+22. Puxun Tu (Brigham and Women's Hospital, USA, in person)
+23. Benoit Verreman (Canada, in person)
 
 
 <!-- Participants list end -->
