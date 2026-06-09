@@ -37,7 +37,7 @@ Hub: The hub is the server that distributes the messages and handles the data tr
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
- - Provide cloud access to 3D slicer processing services to viewers without running 3D slicer in the cloud. Only the hub needs to be in the cloud. 3D Slicer can connect to the hub and provide the services from anywhere through the websocket connection.
+ - Develop standard desktop integration of AI resources like Total Segmentator.
  - Finish the request for SCENEVIEW started in project week 44 by adding an image display client to the 3D slicer viewer.
  - Support 3D Slicer developers who want to connect to cast / FHIRcast.
 
@@ -48,8 +48,8 @@ Hub: The hub is the server that distributes the messages and handles the data tr
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
- - Implement reource servers with existing 3D slicer modules such as Total Segmentator or Skull Stripper.
- - Implement SCENEVIEW request in the Slicer client
+ - Implement resource servers concept. 
+ - Implement SCENEVIEW request in the Slicer image display client
 
 
 
@@ -75,17 +75,27 @@ Imaging worklist:
 
 
 
-Global scene views:
+
+
+Cross-product scene views:
 
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/2f7feceb-1e85-4918-9012-220daa5870b0" />
 
 
 
+
+
+
+VolView desktop integration of TotalSegmentator 
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/18fc3eda-44bf-47e1-84cc-9e988e3b568d" />
+
+
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-VolView using a segmentation resource server:
+VolView using a segmentation resource server without DICOM archive:
 
 <!-- should be https://youtu.be/AXadJl0u8g8  -->
 <iframe width="800" height="500" src="https://www.youtube.com/embed/AXadJl0u8g8?si=d2dmwfyggzZY5NsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -94,10 +104,9 @@ VolView using a segmentation resource server:
 
 # References
 
-Total segmentation:
+Total segmentator:
 https://pubs.rsna.org/doi/10.1148/ryai.230024
 
-Skull stripper:
 Wasserthal J., Meyer M., , Hanns-Christian Breit H.C., Cyriac J., Shan Y., Segeroth, M.: TotalSegmentator: robust segmentation of 104 anatomical structures in CT images. https://arxiv.org/abs/2208.05868 
 
 
