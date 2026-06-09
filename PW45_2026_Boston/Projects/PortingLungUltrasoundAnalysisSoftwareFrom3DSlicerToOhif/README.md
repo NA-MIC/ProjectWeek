@@ -80,10 +80,10 @@ Initial work has been performed by the Radical Imaging team to update OHIF with 
 
 
 3D Slicer extension for annotating pleural lines and B-lines: 
-<img width="1476" height="952" alt="Image" src="https://github.com/user-attachments/assets/00192df6-e400-4f88-8c45-7a2d66feb4e8" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/00192df6-e400-4f88-8c45-7a2d66feb4e8" />
 
 Current functionality in OHIF: 
-<img width="2192" height="1217" alt="Image" src="https://github.com/user-attachments/assets/572f4131-d48c-4fb8-804c-ea2ce1b53f14" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/572f4131-d48c-4fb8-804c-ea2ce1b53f14" />
 
 
 
