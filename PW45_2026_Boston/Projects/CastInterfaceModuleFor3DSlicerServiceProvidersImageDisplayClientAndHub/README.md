@@ -58,18 +58,29 @@ Hub: The hub is the server that distributes the messages and handles the data tr
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-Extension repository:
-https://github.com/mbellehumeur/SlicerCastInterface/
+Extension repository: [repo](https://github.com/mbellehumeur/SlicerCastInterface/)
 
 
-Online 3D Slicer Hub for project week:
-[Slicer Hub](https://slicerhub-azejffgnb7dve8es.canadaeast-01.azurewebsites.net/api/hub/admin)
+Online imaging worklist (vtk.js IO module cast interface example) with OHIF/VoolView for project week:
+[Imaging worklist with cast interface](https://slicerhub-azejffgnb7dve8es.canadaeast-01.azurewebsites.net/worklist-client/examples/CastClient.html)
 
 
 
 # Illustrations
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/a64ed683-e556-45a0-8727-50116f1c9ed1" />
+Imaging worklist:
+
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a6e46b10-97ae-4558-a802-ab067317bf54" />
+
+
+
+Global scene views:
+
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/2f7feceb-1e85-4918-9012-220daa5870b0" />
+
+
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
