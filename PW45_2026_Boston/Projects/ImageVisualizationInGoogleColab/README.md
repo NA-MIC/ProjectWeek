@@ -3,7 +3,7 @@ layout: pw45-project
 
 permalink: /:path/
 
-project_title: Using trame-slicer in Google Colab
+project_title: Image visualization in Google Colab
 category: Infrastructure
 presenter_location: 
 
@@ -28,7 +28,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-Experiment with using `trame-slicer` for visualizing images and segmentations in Google Colab.
+In this project we will experiment with different approaches to implementing 3d visualization of radiology images and overlaying segmentations in Google Colab. The primary motivation for this project is to support visualization of images from Imaging Data Commons along with user-generated analysis results in Google Colab, which has zero prereqisites for installing software on user's computer.
 
 
 
