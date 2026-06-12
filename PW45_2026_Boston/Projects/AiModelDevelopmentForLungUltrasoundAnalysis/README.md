@@ -9,11 +9,11 @@ presenter_location:
 
 key_investigators:
 
-- name: Deepa Krishnaswamy
+- name: Alexandre Banks Gadbois
   affiliation: Brigham and Women's Hospital
   country: USA
 
-- name: Alexandre Banks Gadbois
+- name: Deepa Krishnaswamy
   affiliation: Brigham and Women's Hospital
   country: USA
 
