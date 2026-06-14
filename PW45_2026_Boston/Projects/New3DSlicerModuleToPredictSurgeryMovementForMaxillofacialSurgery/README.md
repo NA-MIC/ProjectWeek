@@ -29,6 +29,11 @@ key_investigators:
   affiliation: Isomics
   country: USA
 
+- name: Mauro I. Dominguez (I added me if that's ok)
+  affiliation: Independent
+  country: Argentina
+
+
 ---
 
 # Project Description
