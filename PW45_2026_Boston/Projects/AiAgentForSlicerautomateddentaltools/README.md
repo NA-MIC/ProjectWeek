@@ -93,7 +93,7 @@ What would the Slicer user interface look like?
 
 Slicer Automated Dental Tools Overview : 
 
-<img width="841" height="365" alt="Image" src="https://github.com/user-attachments/assets/32b13db1-2e45-4067-8fd6-1d18a84fd662" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/32b13db1-2e45-4067-8fd6-1d18a84fd662" />
 
 
 
@@ -103,5 +103,5 @@ Slicer Automated Dental Tools Overview :
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-SlicerAutomatedDentalTools: https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools
+- SlicerAutomatedDentalTools: <https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools>
 
