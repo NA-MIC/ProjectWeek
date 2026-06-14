@@ -84,11 +84,11 @@ _No response_
 
 
 DICOM De-ID Loop:
-<img width="960" height="720" alt="Image" src="https://github.com/user-attachments/assets/b95e956f-f422-494c-8c52-91b3d1fbd174" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/b95e956f-f422-494c-8c52-91b3d1fbd174" />
 
 OHIF Mode:
 
-<img width="1728" height="1045" alt="Image" src="https://github.com/user-attachments/assets/f4a099f4-5f71-40a3-a22f-f84ace253d0e" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/f4a099f4-5f71-40a3-a22f-f84ace253d0e" />
 
 
 
