@@ -85,8 +85,8 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-slicerClaw: https://github.com/jumbojing/slicerClaw
-mcp-slicer: https://github.com/zhaoyouj/mcp-slicer
-slicer-skill: https://github.com/pieper/slicer-skill
-SlicerChat: https://arxiv.org/abs/2407.11987
+- slicerClaw: <https://github.com/jumbojing/slicerClaw>
+- mcp-slicer: <https://github.com/zhaoyouj/mcp-slicer>
+- slicer-skill: <https://github.com/pieper/slicer-skill>
+- SlicerChat: <https://arxiv.org/abs/2407.11987>
 
