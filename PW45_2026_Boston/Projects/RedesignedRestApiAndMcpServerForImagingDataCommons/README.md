@@ -21,6 +21,10 @@ key_investigators:
   affiliation: Isomics Inc.
   country: USA
 
+- name: Martin Bellehumeur
+  affiliation: Radical Imaging
+  country: Germany
+
 - name: Ulrike Wagner
   affiliation: Leidos Biomedical Research
   country: USA
