@@ -99,9 +99,9 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-https://dicom.nema.org/medical/dicom/current/output/html/part15.html#sect_E.1.1
+- <https://dicom.nema.org/medical/dicom/current/output/html/part15.html#sect_E.1.1>
 
-https://github.com/clintools/dicom-curate
+- <https://github.com/clintools/dicom-curate>
 
-https://github.com/pydicom/deid
+- <https://github.com/pydicom/deid>
 
