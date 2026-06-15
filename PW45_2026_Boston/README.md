@@ -93,6 +93,16 @@ List of registered participants so far (names will be added here after processin
 21. Deepa Krishnaswamy (Brigham and Women's Hospital, USA, in person)
 22. Puxun Tu (Brigham and Women's Hospital, USA, in person)
 23. Benoit Verreman (Canada, in person)
+24. SangHyuk Kim (USA, in person)
+25. Andras Lasso (Queen's University, Canada, in person)
+26. Kalysta Makimoto (Brigham and Women's Hospital, USA, in person)
+27. Axel Masquelin (Brigham and Women's Hospital, USA, in person)
+28. Kaveh Moradkhani (Canada, in person)
+29. Ahmed Rekik (ETS, Canada, in person)
+30. Joonho Seo (Republic of Korea, in person)
+31. Kyle Sunderland (Queen's University, Canada, in person)
+32. Trinity Urban (USA, virtual) 
+33. Taewoo Yoon (Republic of Korea, in person)
 
 
 <!-- Participants list end -->
