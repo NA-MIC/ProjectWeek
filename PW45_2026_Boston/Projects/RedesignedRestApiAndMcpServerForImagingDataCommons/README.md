@@ -17,6 +17,18 @@ key_investigators:
   affiliation: Institute for Systems Biology
   country: USA
 
+- name: Steve Pieper
+  affiliation: Isomics Inc.
+  country: USA
+
+- name: Ulrike Wagner
+  affiliation: Leidos Biomedical Research
+  country: USA
+
+- name: Granger Sutton
+  affiliation: National Cancer Institute
+  country: USA
+
 ---
 
 # Project Description
