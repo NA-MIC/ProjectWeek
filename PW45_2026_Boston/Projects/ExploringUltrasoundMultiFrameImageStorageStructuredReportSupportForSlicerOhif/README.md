@@ -84,10 +84,14 @@ In this project, I want to see if using DICOM Structured Reports (SR) will help 
 
 
 Current workflow: 
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/6574e377-dc30-4454-9938-78fb3db31f39" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/6574e377-dc30-4454-9938-78fb3db31f39" />
 
 Successfully loaded the converted annotations in OHIF!
-https://github.com/user-attachments/assets/dd84c277-2fd6-47e2-a331-e47ff4af16ad
+<video
+   controls muted
+   src="https://github.com/user-attachments/assets/dd84c277-2fd6-47e2-a331-e47ff4af16ad"
+   style="max-width:800px">
+ </video>
 
 
 
