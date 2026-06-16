@@ -40,24 +40,21 @@ Orbital fractures are typically caused by blunt-force trauma. Fracture repair fr
 
 This project aims to develop a reproducible patient-specific SOFA/SlicerSOFA FEM simulation workflow to predict orbital soft tissue restoration after fracture repair using a preformed titanium plate. 
 
-The simulation processes span across multiple scenes from retracting orbital tissue to place a plate and then let the tissue fall onto the plate. The only deformable object is a unified multi-material orbital tissue mesh. The retracting tool, plate, and bony orbit are all simulated as collision-only boundary conditions. 
+The simulation processes span across multiple scenes from retracting orbital tissue to place a plate and then let the tissue fall onto the plate. The only deformable object is a unified multi-material orbital tissue mesh. Tetrahedrons inside different tissue regions to assign with different material properties. The retracting tool, plate, and bony orbit are all simulated as rigid bodies.
 
-Currently, collision constraints computation has been identified as a major simulation bottleneck because orbital tissue is confined in the bony orbit. Tissue in fracture orbit also has localized protrusions representing fat herniation that have to be retracted.
-
-Another difficulty is about scene setups and parameter tuning, such as boundary conditions and constraints, including bone-tissue attachment and retracting tool moving trajectory and contour, and experimenting with different parameters and methods. 
-
-
+Major simulation steps are: 
+1. Tissue retraction to create a gap for plate placement
+2. Plate placement
+3. Tissue restoration by falling onto the plate
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 The main objective is to streamline workflow reproducibility and improve efficiency for patient-specific simulation:
-1. Streamlining setting & simplifying constraints and boundary conditions for patient-specific simulation
+1. Streamlining setting & simplifying constraints and boundary conditions for patient-specific simulation, including bone-tissue attachment, collision simplification, retracting moving trajectories and retraction stages, etc.
 2. Tracking, quantifying, and visualize tissue position and shape change.
-3. Facilitate smooth transition across different SOFA scenes in Slicer and improve interactive simulation.
-4. Facilitate parameter tuning, method selection, and performance tracking within Slicer
-
+3. Use Slicer methods to facilitate simulation setup, smooth transitions across multiple scenes, outcome visualization, and parameter tuning.
 
 
 ## Approach and Plan
@@ -68,7 +65,7 @@ Implement Slicer methods to:
 1. Streamline scene setup and interaction, such as tissue bone attachment, syncing the interactive transform with the SOFA controller, retraction trajectories, and collision regions
 2. Track and visualize tissue deformation, such as using TPS, grid transform, and mark up-based methods.
 3. Facilitate performance tracking and parameter tuning & method selection in SlicerSOFA (e.g., exploring using AI agents)
-4. Initiate creating a Slicer module based on SlicerSOFA for multi-scene simulation
+4. Initiate creating a Slicer module based on SlicerSOFA.
 
 
 
@@ -87,8 +84,31 @@ Implement Slicer methods to:
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
+Standard surgical process that retracted orbital tissue to create a gap for plate placement.<br>
 <img width="300" alt="Image" src="https://github.com/user-attachments/assets/f3288dea-a17f-4d2f-95ae-3ea9bfc94292" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/e9ff4a64-45a0-48b6-85f1-8e945bfc3ce1" />
+
+Fat herniation and inferior rectus muscle conformational changes in floor fx<br>
+<img width="400" halt="image" src="https://github.com/user-attachments/assets/761de370-d5b6-4e52-9b29-3e7e42be01fe" />
+
+Create a multi-material mesh from a combined orbital tissue surface model from segmentations using Gmsh.<br>
+<img width="300" alt="Screenshot from 2026-05-11 15-56-43" src="https://github.com/user-attachments/assets/4baf2e0b-2aa6-42d8-8fbb-21bcbe9e02a5" />
+<img width="300" alt="Screenshot from 2026-05-11 16-01-20" src="https://github.com/user-attachments/assets/6b4d494e-234b-4bb1-8136-01d5510beec5" />
+
+Orbital tissue attachment points at the superior surface set up in Slicer and visualized in SOFA<br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/9d7a8100-d3a3-4e5c-8a2e-91ad1f67f537" />
+<img width="300" alt="Screenshot from 2026-06-03 08-29-36" src="https://github.com/user-attachments/assets/0410b324-f338-4eeb-acf1-5ac5e6aabcd6" />
+
+Simulation of tissue retraction using plane models in SOFA (skull hidden) and the same process in Slicer SOFA. The left picture shows one plane holds one area of the tissue to enable another plane for further retraction.<br>
+<img width="300" alt="Screenshot from 2026-06-08 16-53-29" src="https://github.com/user-attachments/assets/825565a5-a6cf-425c-a31e-663681b4b70a" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/af9db4b1-d37a-4e8f-a16d-64acbd4bf85d" />
+
+Tissue restoration onto the plate<br>
+<img width="300" alt="Screenshot from 2026-06-10 11-37-40" src="https://github.com/user-attachments/assets/9654a234-6d05-4d87-8984-82a3add9c35a" />
+<img width="300" alt="Screenshot from 2026-06-09 09-54-34" src="https://github.com/user-attachments/assets/fdc2d3aa-9d63-4e72-a2e3-247173e79ef7" />
+
+Tracking and visualizing globe & inferior rectus changes after restoration (not very accurate though):<br>
+<img width="600" alt="Screenshot from 2026-06-11 17-39-30" src="https://github.com/user-attachments/assets/096f4d10-3875-4754-9553-9726e2a7bec2" />
 
 
 
