@@ -105,7 +105,7 @@ Simulation of tissue retraction using plane models in SOFA (skull hidden) and th
 
 Tissue restoration onto the plate<br>
 <img width="300" alt="Screenshot from 2026-06-10 11-37-40" src="https://github.com/user-attachments/assets/9654a234-6d05-4d87-8984-82a3add9c35a" />
-<img width="300" alt="Screenshot from 2026-06-09 09-54-34" src="https://github.com/user-attachments/assets/fdc2d3aa-9d63-4e72-a2e3-247173e79ef7" />
+<img width="300" alt="Screenshot from 2026-06-10 11-39-07" src="https://github.com/user-attachments/assets/06a22496-2f09-43f4-874c-b9b60991f2dd" />
 
 Tracking and visualizing globe & inferior rectus changes after restoration (not very accurate though):<br>
 <img width="600" alt="Screenshot from 2026-06-11 17-39-30" src="https://github.com/user-attachments/assets/096f4d10-3875-4754-9553-9726e2a7bec2" />
