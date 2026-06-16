@@ -9,6 +9,16 @@
     <link rel="shortcut icon" href="{{ "/assets/favicons/favicon.ico" | relative_url}}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
+  <style>
+    .lightbox-overlay {
+      display: none; position: fixed; inset: 0;
+      background: rgba(0,0,0,0.9); z-index: 9999;
+      align-items: center; justify-content: center; cursor: zoom-out;
+    }
+    .lightbox-overlay.active { display: flex; }
+    .lightbox-overlay img { max-width: 95vw; max-height: 95vh; object-fit: contain; }
+  </style>
+
 <!-- for github edit ribbon; main include is in `assets/css/style.scss` -->
 <!--[if lt IE 9]>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
@@ -27,8 +37,32 @@
       {{ content }}
 
     </div>
+    <div class="lightbox-overlay" id="lightbox">
+      <img id="lightbox-img" src="" alt="">
+    </div>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
+    <script>
+      (function () {
+        var overlay = document.getElementById('lightbox');
+        var lbImg   = document.getElementById('lightbox-img');
+
+        document.querySelectorAll('.markdown-body img').forEach(function (img) {
+          img.style.cursor = 'zoom-in';
+          img.addEventListener('dblclick', function () {
+            lbImg.src = img.src;
+            lbImg.alt = img.alt;
+            overlay.classList.add('active');
+          });
+        });
+
+        overlay.addEventListener('click', function () { overlay.classList.remove('active'); });
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape') overlay.classList.remove('active');
+        });
+      })();
+    </script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
