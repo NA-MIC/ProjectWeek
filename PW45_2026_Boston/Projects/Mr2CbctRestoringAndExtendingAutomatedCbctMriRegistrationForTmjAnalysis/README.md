@@ -105,23 +105,25 @@ No response
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-No response
+<video
+  controls muted
+  src="https://github.com/user-attachments/assets/560a90e5-ccc9-4ec8-be45-7606dc6c3080"
+  style="max-width:800px">
+</video>
 
-https://github.com/user-attachments/assets/560a90e5-ccc9-4ec8-be45-7606dc6c3080
-
-<img width="800" alt="Image" src="https://github.com/user-attachments/assets/6ff6b1e8-a796-4fd8-8bec-5be64b6bd389" ondblclick="this.requestFullscreen()" style="cursor:zoom-in"/>
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/6ff6b1e8-a796-4fd8-8bec-5be64b6bd389" />
 
 Initial images
 
-<img width="800" alt="Image" src="https://github.com/user-attachments/assets/849362f2-ee53-43a8-8d8a-786ce34f3f90" ondblclick="this.requestFullscreen()" style="cursor:zoom-in"/>
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/849362f2-ee53-43a8-8d8a-786ce34f3f90" />
 
 Center MRI on CBCT function
 
-<img width="800" alt="Image" src="https://github.com/user-attachments/assets/f8aa1b2d-785f-422d-9fc3-d4350c1f5b37" ondblclick="this.requestFullscreen()" style="cursor:zoom-in"/>
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/f8aa1b2d-785f-422d-9fc3-d4350c1f5b37" />
 
 Clinician manual registration
 
-<img width="1491" height="1058" alt="Image" src="https://github.com/user-attachments/assets/eae12ffd-e920-4a57-8eea-9da554c7894a" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/eae12ffd-e920-4a57-8eea-9da554c7894a" />
 
 Elastix Refinement
 
