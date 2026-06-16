@@ -109,15 +109,15 @@ No response
 
 https://github.com/user-attachments/assets/560a90e5-ccc9-4ec8-be45-7606dc6c3080
 
-<img width="1641" height="532" alt="Image" src="https://github.com/user-attachments/assets/6ff6b1e8-a796-4fd8-8bec-5be64b6bd389" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/6ff6b1e8-a796-4fd8-8bec-5be64b6bd389" ondblclick="this.requestFullscreen()" style="cursor:zoom-in"/>
 
 Initial images
 
-<img width="817" height="885" alt="Image" src="https://github.com/user-attachments/assets/849362f2-ee53-43a8-8d8a-786ce34f3f90" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/849362f2-ee53-43a8-8d8a-786ce34f3f90" ondblclick="this.requestFullscreen()" style="cursor:zoom-in"/>
 
 Center MRI on CBCT function
 
-<img width="1422" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f8aa1b2d-785f-422d-9fc3-d4350c1f5b37" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/f8aa1b2d-785f-422d-9fc3-d4350c1f5b37" ondblclick="this.requestFullscreen()" style="cursor:zoom-in"/>
 
 Clinician manual registration
 
