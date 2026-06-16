@@ -63,6 +63,37 @@
         });
       })();
     </script>
+    <script>
+      (function () {
+        var URL_RE = /(https?:\/\/[^\s<>"')\]]+)/g;
+        var SKIP = { A: 1, CODE: 1, PRE: 1, SCRIPT: 1, STYLE: 1 };
+
+        function walk(node) {
+          if (node.nodeType === 3) {
+            var text = node.nodeValue;
+            URL_RE.lastIndex = 0;
+            if (!URL_RE.test(text)) return;
+            URL_RE.lastIndex = 0;
+            var frag = document.createDocumentFragment();
+            var last = 0, m;
+            while ((m = URL_RE.exec(text)) !== null) {
+              frag.appendChild(document.createTextNode(text.slice(last, m.index)));
+              var a = document.createElement('a');
+              a.href = m[0];
+              a.textContent = m[0];
+              frag.appendChild(a);
+              last = m.index + m[0].length;
+            }
+            frag.appendChild(document.createTextNode(text.slice(last)));
+            node.parentNode.replaceChild(frag, node);
+          } else if (node.nodeType === 1 && !SKIP[node.tagName]) {
+            Array.from(node.childNodes).forEach(walk);
+          }
+        }
+
+        document.querySelectorAll('.markdown-body').forEach(walk);
+      })();
+    </script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
