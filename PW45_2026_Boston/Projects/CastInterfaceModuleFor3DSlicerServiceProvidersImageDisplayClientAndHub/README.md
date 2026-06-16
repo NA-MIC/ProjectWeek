@@ -3,7 +3,7 @@ layout: pw45-project
 
 permalink: /:path/
 
-project_title: 'Cast interface extension for 3D Slicer: Hub,  Resource Servers and Image Display client.'
+project_title: 'Cast interface extension for  Slim and 3D Slicer: Hub,  Resource Servers and Image Display client.'
 category: Infrastructure
 presenter_location: 
 
@@ -13,6 +13,10 @@ key_investigators:
   affiliation: Radical Imaging
   country: Germany
 
+- name: Andrey Fedorov
+  affiliation: BWH
+  country: USA
+
 ---
 
 # Project Description
@@ -20,14 +24,8 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-Cast interface Module for 3D Slicer: Resource Servers, Image Display client and Hub.
 
-Resource servers: Resource servers subscribe to all user topics for dicom/nifti events and send back results to the user throuh the hub. Each server has its own onMessage script. The script handles producing the results from the DICOM files received and publishes a dicom-send event back to the user topic.
-
-Image Display Client: The image display client provide a PACS client type interface to the 3D slicer viewer. Supported events should be ImagingStudy-open, Imaging-Study-close, dicom-send and request for sceneview. 
-
-Hub: The hub is the server that distributes the messages and handles the data transfer requests over the websocket connection to each client. 
-
+Cast interface Module for Slim and  3D Slicer: Resource Servers, Image Display client and Hub.
 
 
 
@@ -37,6 +35,7 @@ Hub: The hub is the server that distributes the messages and handles the data tr
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
+ - Add cast interface to Slim viewer
  - Develop standard desktop integration of AI resources like Total Segmentator.
  - Finish the request for SCENEVIEW started in project week 44 by adding an image display client to the 3D slicer viewer.
  - Support 3D Slicer developers who want to connect to cast / FHIRcast.
@@ -50,6 +49,7 @@ Hub: The hub is the server that distributes the messages and handles the data tr
 
  - Implement resource servers concept. 
  - Implement SCENEVIEW request in the Slicer image display client
+ - Implement cast interface in Slim
 
 
 
@@ -58,10 +58,10 @@ Hub: The hub is the server that distributes the messages and handles the data tr
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-Extension repository: [repo](https://github.com/mbellehumeur/SlicerCastInterface/)
+ [Cast interface extension repositoty](https://github.com/mbellehumeur/SlicerCastInterface/)
 
 
-Online imaging worklist (vtk.js IO module cast interface example) with OHIF/VoolView for project week:
+Online imaging worklist (vtk.js IO module cast interface example) with Slim/OHIF/VolView for project week:
 [Imaging worklist with cast interface](https://slicerhub-azejffgnb7dve8es.canadaeast-01.azurewebsites.net/worklist-client/examples/CastClient.html)
 
 
