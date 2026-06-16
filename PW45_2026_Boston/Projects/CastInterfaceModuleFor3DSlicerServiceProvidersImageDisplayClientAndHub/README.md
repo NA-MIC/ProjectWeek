@@ -58,7 +58,7 @@ Cast interface Module for Slim and  3D Slicer: Resource Servers, Image Display c
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
- [Cast interface extension repositoty](https://github.com/mbellehumeur/SlicerCastInterface/)
+ [Cast interface extension repository](https://github.com/mbellehumeur/SlicerCastInterface/)
 
 
 Online imaging worklist (vtk.js IO module cast interface example) with Slim/OHIF/VolView for project week:
@@ -70,8 +70,8 @@ Online imaging worklist (vtk.js IO module cast interface example) with Slim/OHIF
 
 Imaging worklist:
 
+<img width="1278" height="772" alt="image" src="https://github.com/user-attachments/assets/76dbe891-9ef5-49c9-839c-827d4a13cc88" />
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a6e46b10-97ae-4558-a802-ab067317bf54" />
 
 
 
@@ -87,9 +87,19 @@ Cross-product scene views:
 
 
 
+
+
+
+IDC Claude desktop integration in worlist
+
+
+<img width="660" height="464" alt="image" src="https://github.com/user-attachments/assets/a1eab181-a5c8-45bf-a67d-182f80ec7bec" />
+
+
+
 VolView desktop integration of TotalSegmentator 
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/18fc3eda-44bf-47e1-84cc-9e988e3b568d" />
+<img width="1145" height="891" alt="image" src="https://github.com/user-attachments/assets/e41cd703-b5cd-4a5a-86e9-a547dfcc51ce" />
 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
