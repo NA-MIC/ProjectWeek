@@ -65,8 +65,32 @@
     </script>
     <script>
       (function () {
-        var URL_RE = /(https?:\/\/[^\s<>"')\]]+)/g;
-        var SKIP = { A: 1, CODE: 1, PRE: 1, SCRIPT: 1, STYLE: 1 };
+        var URL_RE    = /(https?:\/\/[^\s<>"')\]]+)/g;
+        var SKIP      = { A: 1, CODE: 1, PRE: 1, SCRIPT: 1, STYLE: 1 };
+        // GitHub drag-and-drop video assets have no file extension in the URL
+        var GH_ASSET  = /^https:\/\/github\.com\/[^/]+\/[^/]+\/assets\/\d+\/[0-9a-f-]+$/i;
+        var YT_SHORT  = /^https?:\/\/youtu\.be\/([A-Za-z0-9_-]+)/;
+        var YT_LONG   = /^https?:\/\/(?:www\.)?youtube\.com\/watch\?(?:[^#]*&)?v=([A-Za-z0-9_-]+)/;
+
+        function makeElement(url) {
+          var m;
+          if (GH_ASSET.test(url)) {
+            var v = document.createElement('video');
+            v.controls = true; v.muted = true; v.src = url;
+            v.style.maxWidth = '800px';
+            return v;
+          }
+          if ((m = YT_SHORT.exec(url)) || (m = YT_LONG.exec(url))) {
+            var f = document.createElement('iframe');
+            f.width = '420'; f.height = '315';
+            f.src = 'https://www.youtube.com/embed/' + m[1];
+            f.allowFullscreen = true;
+            return f;
+          }
+          var a = document.createElement('a');
+          a.href = url; a.textContent = url;
+          return a;
+        }
 
         function walk(node) {
           if (node.nodeType === 3) {
@@ -78,10 +102,7 @@
             var last = 0, m;
             while ((m = URL_RE.exec(text)) !== null) {
               frag.appendChild(document.createTextNode(text.slice(last, m.index)));
-              var a = document.createElement('a');
-              a.href = m[0];
-              a.textContent = m[0];
-              frag.appendChild(a);
+              frag.appendChild(makeElement(m[0]));
               last = m.index + m[0].length;
             }
             frag.appendChild(document.createTextNode(text.slice(last)));
