@@ -67,8 +67,9 @@
       (function () {
         var URL_RE    = /(https?:\/\/[^\s<>"')\]]+)/g;
         var SKIP      = { A: 1, CODE: 1, PRE: 1, SCRIPT: 1, STYLE: 1 };
-        // GitHub drag-and-drop video assets have no file extension in the URL
-        var GH_ASSET  = /^https:\/\/github\.com\/[^/]+\/[^/]+\/assets\/\d+\/[0-9a-f-]+$/i;
+        // GitHub drag-and-drop video assets have no file extension in the URL.
+        // Two URL shapes exist: legacy owner/repo/assets/N/uuid and newer user-attachments/assets/uuid
+        var GH_ASSET  = /^https:\/\/github\.com\/(?:user-attachments\/assets|[^/]+\/[^/]+\/assets\/\d+)\/[0-9a-f-]+$/i;
         var YT_SHORT  = /^https?:\/\/youtu\.be\/([A-Za-z0-9_-]+)/;
         var YT_LONG   = /^https?:\/\/(?:www\.)?youtube\.com\/watch\?(?:[^#]*&)?v=([A-Za-z0-9_-]+)/;
 
