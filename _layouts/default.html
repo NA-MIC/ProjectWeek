@@ -114,6 +114,13 @@
         }
 
         document.querySelectorAll('.markdown-body').forEach(walk);
+
+        // Remove "_No response_" paragraphs injected by the issue→page pipeline
+        document.querySelectorAll('.markdown-body em').forEach(function (em) {
+          if (em.textContent !== 'No response') return;
+          var p = em.parentElement;
+          (p && p.tagName === 'P' && p.textContent.trim() === 'No response' ? p : em).remove();
+        });
       })();
     </script>
     {% if site.google_analytics %}
