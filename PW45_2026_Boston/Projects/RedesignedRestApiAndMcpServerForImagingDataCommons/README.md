@@ -39,6 +39,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
+**Questions? Want to participate remotely? Join our project [Discord channel](https://discord.gg/TTFGUYGdsZ)!**
 
 TL;DR: Work on v3 of IDC REST API simultaneously with the development of the MCP server.
 
