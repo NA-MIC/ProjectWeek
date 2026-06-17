@@ -39,6 +39,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
+**Questions? Want to participate remotely? Join our project [Discord channel](https://discord.gg/TTFGUYGdsZ)!**
 
 The goal of this project is to further increase availability of anatomic segmentations and accompanying radiomics features for the images available in Imaging Data Commons.
 
