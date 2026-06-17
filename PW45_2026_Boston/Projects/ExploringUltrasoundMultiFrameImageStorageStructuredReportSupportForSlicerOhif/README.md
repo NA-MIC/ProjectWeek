@@ -21,6 +21,10 @@ key_investigators:
   affiliation: Massachusetts General Hospital
   country: USA
 
+- name: Matt McCormick
+  affiliation: Fideus Labs
+  country: USA
+
 - name: Dave Dinh
   affiliation: Brigham and Women's Hospital
   country: USA
@@ -59,10 +63,11 @@ In this project, I want to see if using DICOM Structured Reports (SR) will help 
 
 
 1. Create a DICOM Structured Report for our annotations using Ultrasound Multi-frame Image Storage (both pleura line and B-line points/lines, and manual annotations like pleural percentage)
-2. Add functionality to 3D Slicer core for loading, parsing, and viewing these SRs. 
-3. Make sure that the SR can be loaded into the official OHIF viewer. 
-4. Add functionality to the OHIF `usAnnotation` extension to save the annotations as an SR 
-5. Deploy OHIF with `usAnnotation` to connect to the cloud (Google Healthcare DICOM datastore) 
+2. Create these SRs using both highdicom and [itk-wasm](https://docs.itk.org/projects/wasm/en/latest/introduction/file_formats/dicom.html) (as suggested by Matt, better for OHIF)
+3. Add functionality to 3D Slicer core for loading, parsing, and viewing these SRs. 
+4. Make sure that the SR can be loaded into the official OHIF viewer. 
+5. Add functionality to the OHIF `usAnnotation` extension to save the annotations as an SR 
+6. Deploy OHIF with `usAnnotation` to connect to the cloud (Google Healthcare DICOM datastore) 
 
 
 
