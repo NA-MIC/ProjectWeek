@@ -103,6 +103,11 @@ List of registered participants so far (names will be added here after processin
 31. Kyle Sunderland (Queen's University, Canada, in person)
 32. Trinity Urban (USA, virtual) 
 33. Taewoo Yoon (Republic of Korea, in person)
+34. Mohamed Alalli Bilal (Mauritania, virtual)
+35. Habayatou Diallo (Senegal, virtual)
+36. Danny Ran (Canada, in person)
+37. Xiang Ran (DaoAI Robotics, in person)
+38. Jarrett Rushmore (Boston University, USA, in person)
 
 
 <!-- Participants list end -->
