@@ -108,6 +108,7 @@ List of registered participants so far (names will be added here after processin
 36. Danny Ran (Canada, in person)
 37. Xiang Ran (DaoAI Robotics, in person)
 38. Jarrett Rushmore (Boston University, USA, in person)
+39. Sandy Wells (Brigham and Women's Hospital, USA, in person)
 
 
 <!-- Participants list end -->
