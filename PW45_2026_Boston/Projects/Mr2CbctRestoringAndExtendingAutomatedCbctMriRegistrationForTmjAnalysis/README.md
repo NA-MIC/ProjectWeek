@@ -4,7 +4,7 @@ layout: pw45-project
 permalink: /:path/
 
 project_title: 'MR2CBCT: Restoring and Extending Automated CBCT-MRI Registration for TMJ Analysis'
-category: DICOM
+category: Segmentation / Classification / Landmarking
 presenter_location: 
 
 key_investigators:
