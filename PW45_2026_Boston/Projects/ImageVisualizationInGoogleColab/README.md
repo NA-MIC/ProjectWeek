@@ -69,6 +69,7 @@ In this project we will experiment with different approaches to implementing 3d 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+<img width="1439" height="748" alt="image" src="https://github.com/user-attachments/assets/dbfdd42e-8f9c-4b62-a98b-b0e0e4ba99c4" />
 
 _No response_
 
