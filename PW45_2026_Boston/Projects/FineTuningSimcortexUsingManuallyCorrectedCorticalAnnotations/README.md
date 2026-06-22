@@ -25,58 +25,55 @@ key_investigators:
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
+SimCortex v2 is a deep learning pipeline for cortical surface reconstruction from brain MRI. In this project, we will fine-tune the existing SimCortex v2 model using manually corrected segmentations and cortical surfaces.
 
+The goal is to evaluate whether manual supervision can improve the reconstructed white and pial surfaces compared with the current SimCortex v2 baseline.
 
-_No response_
-
+As a practical outcome, we will also prepare a 3D Slicer extension for SimCortex. The extension runs SimCortex through Docker from a native T1-weighted MRI and loads the reconstructed cortical surfaces back into Slicer for visualization.
 
 
 ## Objective
 
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
+1. Fine-tune SimCortex v2 using manually corrected segmentations and cortical surfaces, and evaluate the fine-tuned model on held-out test data.
 
-
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-
-
-
+2. Prepare the SimCortex 3D Slicer extension for public release, so users can run the pipeline and visualize the reconstructed surfaces directly in 3D Slicer.
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-
-
+1. Review the manually corrected segmentations and cortical surfaces.
+2. Prepare the manual annotations in a format compatible with the SimCortex v2 training pipeline.
+3. Fine-tune the relevant SimCortex v2 stages using the manual annotations.
+4. Run inference with both the baseline and fine-tuned models on the same test data.
+5. Compare the results using surface metrics, topology-related checks, and visual inspection.
+6. Test the local SimCortex 3D Slicer extension and prepare the repository for public use.
 
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-
-1. Describe specific steps you **have actually done**.
-
-
+1. SimCortex v2 is already available as an open-source cortical surface reconstruction pipeline.
+2. Manually corrected segmentations and cortical surfaces are available for fine-tuning.
+3. A local prototype of the SimCortex 3D Slicer extension has been developed.
+4. The extension can run SimCortex through Docker from a T1-weighted MRI and load the reconstructed white and pial surfaces back into Slicer.
+5. Next steps are to finalize the fine-tuning workflow, run initial experiments, evaluate the results, and prepare the Slicer extension for public release.
 
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+The main illustration shows the SimCortex pipeline from brain MRI to segmentation, initial surfaces, deformation, and final predicted cortical surfaces.
 
-_No response_
+<img width="9224" height="2888" alt="Image" src="https://github.com/user-attachments/assets/d3d4cd33-8c13-46a2-a59a-b5af894be9e8" />
 
+A second illustration shows the local SimCortex 3D Slicer extension with reconstructed white and pial surfaces loaded in Slicer.
+
+<img width="2048" height="1351" alt="Image" src="https://github.com/user-attachments/assets/81cdc66f-5362-41cf-af7f-2385b1023b8d" />
 
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
+* SimCortex GitHub repository:
+  https://github.com/Neuro-iX/SimCortex
 
-
-_No response_
+* SimCortex: Collision-free Simultaneous Cortical Surfaces Reconstruction:
+  https://arxiv.org/abs/2507.06955
 
