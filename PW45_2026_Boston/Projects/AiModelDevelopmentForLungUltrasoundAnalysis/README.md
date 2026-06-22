@@ -4,7 +4,7 @@ layout: pw45-project
 permalink: /:path/
 
 project_title: AI model development for lung ultrasound analysis
-category: Segmentation / Classification / Landmarking
+category: AI
 presenter_location: 
 
 key_investigators:
