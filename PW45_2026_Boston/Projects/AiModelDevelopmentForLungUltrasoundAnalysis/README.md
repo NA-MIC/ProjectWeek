@@ -36,11 +36,11 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-One of the primary indicators of acute heart failure is the presence of pulmonary congestion. To detect the fluid build up quickly the in emergency room, lung ultrasound exams are taken of the patient. Clinicians look for hyperechoic artifacts (B-lines) that appear in the image, where the more they see, the more congested the patient is. 
+One of the primary indicators of acute heart failure is the presence of pulmonary congestion. To detect fluid build up quickly in the emergency room, lung ultrasound exams are taken of the patient. Clinicians look for hyperechoic artifacts (B-lines) that appear in the image, where the more they see the more congested the patient is. 
 
-Unfortunately, the manual detection of these B-lines is difficult due to the image quality, which depends on the type of transducer and the expertise of the clinician. Therefore, AI models have started to be developed to quickly detect these B-lines. Our group, over the past few years, has developed multiple methods [1], [2], [3]. One of the drawbacks though, is that the models do not compute the pleural percentage, which is the ratio of the B-line sectors to the pleural line sectors. 
+Unfortunately, manual detection of these B-lines is difficult due to the image quality, which depends on the type of transducer and the expertise of the clinician. Therefore, AI models have started to be developed to quickly detect these B-lines. Our group, over the past few years, has developed multiple methods [1], [2], [3]. One of the drawbacks though, is that existing models do not compute the pleural percentage, the ratio of the B-line sectors to the pleural line sectors, which is strongly associated with extravascular lung water and consistent with other semi-quantitative clinical scores [4]. 
 
-Therefore, we have started to investigate using object detection models for automatically finding the pleural lines and B-lines. Our goal for this project week is to train and validate detection models such as YOLO, [4] and talk to clinicians about the performance. 
+Therefore, we have started to develop detection models to automatically find pleural lines and B-lines and compute the percentage pleura. Our goal for this project week is to train and validate keypoint detection models such as ViTPose++, [5], and HRNet with UDP, [6], and talk to clinicians about the performance. 
 
 
 
@@ -49,9 +49,9 @@ Therefore, we have started to investigate using object detection models for auto
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Train and validate YOLO  models for pleural line and B-line detection. 
-2. Train and validate other state-of-the-art methods, such as [RF-DETR](https://github.com/roboflow/rf-detr) [5]
-3. Show and discuss our results with clinicians. 
+1. Develop a dataloader to read in and pre-process US scans from different sites, patients, and probes.
+2.  Train and validate keypoint detection models such as ViTPose++ and HRNet (with UDP) for pleural line and B-line (endpoint) detection.
+3.  Show and discuss our results with clinicians. 
 
 
 
@@ -61,9 +61,10 @@ Therefore, we have started to investigate using object detection models for auto
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Develop models for pleural line and B-line detection. 
-2. Make our model/code publicly available. 
-3. Talk to clinicians 
+1. Develop a dataloader to efficiently handle pre-processing and different data distributions.
+2. Develop 1-2 models for pleural line and B-line keypoint detection. 
+3. Make our model/code publicly available. 
+4. Talk to clinicians.
 
 
 
@@ -74,8 +75,8 @@ Therefore, we have started to investigate using object detection models for auto
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. We have trained some preliminary YOLO models. We trained one oriented bounding box YOLO model for pleural lines, and another axis-aligned box YOLO model for B-lines. 
-2. We calculated the percent pleura and compared it to the experts. 
+1. We have trained some preliminary YOLO models for bounding box detection. We trained one oriented bounding box YOLO model for pleural lines, and another axis-aligned box YOLO model for B-lines. 
+2. We calculated the percent pleura and compared it to the experts.
 
 
 
@@ -106,9 +107,12 @@ Percent pleura for one test lung zone - x = frame #, and y = percentage. We see 
 
 - [2] Asgari-Targhi A, Ungi T, Jin M, Harrison N, Duggan N, Duhaime E, Goldsmith A, Kapur T. Can Crowdsourced Annotations Improve AI-Based Congestion Scoring for Bedside Lung Ultrasound?. InInternational Conference on Medical Image Computing and Computer-Assisted Intervention 2024 Oct 7 (pp. 580-590). Cham: Springer Nature Switzerland.[3] MICCAI 2026 submission. 
 
-- [3] MICCAI 2026 acceptance. AI-Driven Pulmonary Congestion Assessment for Lung Ultrasound via Segmentation-Guided Transformers. 
+- [3] MICCAI 2026 acceptance. AI-Driven Pulmonary Congestion Assessment for Lung Ultrasound via Segmentation-Guided Transformers.
+  
+- [4] Brusasco C, Santori G, Bruzzo E, et al. Quantitative lung ultrasonography: a putative new 
+algorithm for automatic detection and quantification of B-lines. Crit Care. 2019;23(1):288. 
 
-- [4] https://github.com/ultralytics/ultralytics
+- [5] [https://github.com/ultralytics/ultralytics](https://github.com/vitae-transformer/vitpose#Updates)
 
-- [5] https://github.com/roboflow/rf-detr
+- [6] [https://github.com/HuangJunJie2017/UDP-Pose](https://github.com/HuangJunJie2017/UDP-Pose)
 
