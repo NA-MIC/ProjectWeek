@@ -5,9 +5,9 @@ redirect_from:
 - /PW_45_2026_Boston/Readme.html
 
 project_categories:
-- IGT and Training
-- DICOM
 - VR/AR and Rendering
+- DICOM
+- IGT and Training
 - Segmentation / Classification / Landmarking
 - Quantification and Computation
 - Cloud / Web
