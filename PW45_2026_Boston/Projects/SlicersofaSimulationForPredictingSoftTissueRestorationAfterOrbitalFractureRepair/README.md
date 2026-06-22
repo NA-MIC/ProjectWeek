@@ -38,21 +38,16 @@ key_investigators:
 
 Orbital fractures are typically caused by blunt-force trauma. Fracture repair frequently requires placing a titanium plate to reconstruct bony orbit and restore tissue position and function from disturbed conditions, such as enophthalmos ("sunken eye") and muscle entrapment & conformational changes. 
 
-This project aims to develop a reproducible patient-specific SOFA/SlicerSOFA FEM simulation workflow to predict orbital soft tissue restoration after fracture repair using a preformed titanium plate. 
+This project aims to develop a reproducible and scalable patient-specific SOFA/SlicerSOFA FEM simulation workflow to predict orbital soft tissue restoration after fracture repair using a preformed titanium plate.The simulation processes span across multiple scenes from retracting orbital tissue to place a plate and then let the tissue fall onto the plate. The only deformable object is a unified multi-material orbital tissue mesh. Tetrahedrons inside different tissue regions to assign with different material properties. The retracting tool, plate, and bony orbit are all simulated as rigid bodies.
 
-The simulation processes span across multiple scenes from retracting orbital tissue to place a plate and then let the tissue fall onto the plate. The only deformable object is a unified multi-material orbital tissue mesh. Tetrahedrons inside different tissue regions to assign with different material properties. The retracting tool, plate, and bony orbit are all simulated as rigid bodies.
-
-Major simulation steps are: 
-1. Tissue retraction to create a gap for plate placement
-2. Plate placement
-3. Tissue restoration by falling onto the plate
+Currently, it still relies on many steps of manual set up in Slicer, including retraction plane position and moving trajectory and distances, attachment points, input/output across staged scenes, and tissue-bone attachment points.
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 The main objective is to streamline workflow reproducibility and improve efficiency for patient-specific simulation:
-1. Streamlining setting & simplifying constraints and boundary conditions for patient-specific simulation, including bone-tissue attachment, collision simplification, retracting moving trajectories and retraction stages, etc.
+1. Streamlining setting & simplifying constraints and boundary conditions for patient-specific simulation, including bone-tissue attachment, collision simplification, retracting moving trajectories and retraction stages, and transitions across scenes.
 2. Tracking, quantifying, and visualize tissue position and shape change.
 3. Use Slicer methods to facilitate simulation setup, smooth transitions across multiple scenes, outcome visualization, and parameter tuning.
 
@@ -62,11 +57,9 @@ The main objective is to streamline workflow reproducibility and improve efficie
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 Implement Slicer methods to:
-1. Streamline scene setup and interaction, such as tissue bone attachment, syncing the interactive transform with the SOFA controller, retraction trajectories, and collision regions
+1. Initiate a SlicerSOFA-based module prototype to streamline scene setup and interaction, such as tissue bone attachment, syncing the interactive transform with the SOFA controller, retraction trajectories, and collision regions
 2. Track and visualize tissue deformation, such as using TPS, grid transform, and mark up-based methods.
 3. Facilitate performance tracking and parameter tuning & method selection in SlicerSOFA (e.g., exploring using AI agents)
-4. Initiate creating a Slicer module based on SlicerSOFA.
-
 
 
 ## Progress and Next Steps
