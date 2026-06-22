@@ -83,11 +83,12 @@ Convert into a tetrahedral mesh (15k nodes in this case)<br>
 
 Assign different material properties in SOFA using surface models: globe, muscles, optic nerve, and orbital fat <br>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/ff4fc457-eeda-4b72-8d23-e9f29bc6e91e" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/a7a3e5d1-45b3-428f-bda0-e88dfb3b267d" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a7a3e5d1-45b3-428f-bda0-e88dfb3b267d" />
 
 
-Further refinement by creating finer elements near tissue surfaces
-![Uploading image.png…]()
+Further refinement by creating finer elements near tissue surfaces <br>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/2f1898dc-92df-477f-8124-294e97ed6f7b" />
+
 
 
 _No response_
