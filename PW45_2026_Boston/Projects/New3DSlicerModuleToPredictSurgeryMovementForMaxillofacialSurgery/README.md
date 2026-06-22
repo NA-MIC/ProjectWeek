@@ -4,7 +4,7 @@ layout: pw45-project
 permalink: /:path/
 
 project_title: New 3D Slicer Module to predict surgery movement for maxillofacial surgery
-category: Other
+category: IGT and Training
 presenter_location: 
 
 key_investigators:
