@@ -28,7 +28,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-In this project we will experiment with different approaches to implementing 3d visualization of radiology images and overlaying segmentations in Google Colab. The primary motivation for this project is to support visualization of images from Imaging Data Commons along with user-generated analysis results in Google Colab, which has zero prereqisites for installing software on user's computer.
+In this project we will experiment with different approaches to implementing 3d visualization of radiology images and overlaying segmentations in [Google Colab](https://colab.research.google.com/). The primary motivation for this project is to support visualization of images from Imaging Data Commons along with user-generated analysis results in Google Colab, which has zero prereqisites for installing software on user's computer.
 
 
 
@@ -75,6 +75,7 @@ _No response_
 
 
 # Background and References
+* [https://colab.research.google.com/](https://colab.research.google.com/)
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
