@@ -12,7 +12,6 @@ project_categories:
 - Quantification and Computation
 - Cloud / Web
 - Infrastructure
-- AI
 ---
 
 # Welcome to the web page for the 45th Project Week!
