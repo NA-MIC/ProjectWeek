@@ -1,3 +1,4 @@
+<img width="912" height="539" alt="Screenshot 2026-06-19 at 2 13 42 PM" src="https://github.com/user-attachments/assets/6fc1f439-24d1-4529-8625-fe15bc0445a4" />
 ---
 layout: pw45-project
 
@@ -62,13 +63,22 @@ The new Slicer-CIP architecture separates the interactive visualization layer (3
 
 
 1. Reviewing current CIP-Slicer integration and getting feedback and development notes from Rubén San José Estépar.
-2. 
+2. Identify which modules require updates.
+3. Updated the identified modules.
 
 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+Example of the lung nodule module:
+<img width="912" height="539" alt="LungLeisonModule" src="https://github.com/user-attachments/assets/3606d1b7-cc3e-49d1-aa13-442fd93338df" />
+
+Example of the airway to vessel (AV) module:
+<img width="706" height="405" alt="AVModule" src="https://github.com/user-attachments/assets/f9d6443e-3e9d-463d-b1a3-1530a7ab69fb" />
+
+Example of the airway inspector module:
+<img width="706" height="405" alt="AirwayModule" src="https://github.com/user-attachments/assets/84f80369-2026-4a98-afdd-aa901b4d28c7" />
 
 
 _No response_
