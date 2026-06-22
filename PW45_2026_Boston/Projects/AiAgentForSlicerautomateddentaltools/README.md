@@ -4,7 +4,7 @@ layout: pw45-project
 permalink: /:path/
 
 project_title: AI-Agent for SlicerAutomatedDentalTools
-category: Infrastructure
+category: AI
 presenter_location: 
 
 key_investigators:
