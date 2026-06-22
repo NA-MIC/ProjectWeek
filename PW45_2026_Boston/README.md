@@ -5,7 +5,6 @@ redirect_from:
 - /PW_45_2026_Boston/Readme.html
 
 project_categories:
-- AI
 - IGT and Training
 - DICOM
 - VR/AR and Rendering
@@ -13,6 +12,7 @@ project_categories:
 - Quantification and Computation
 - Cloud / Web
 - Infrastructure
+- AI
 ---
 
 # Welcome to the web page for the 45th Project Week!
