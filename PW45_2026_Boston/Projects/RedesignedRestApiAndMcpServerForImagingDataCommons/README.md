@@ -41,7 +41,7 @@ key_investigators:
 
 **Questions? Want to participate remotely? Join our project [Discord channel](https://discord.gg/TTFGUYGdsZ)!**
 
-TL;DR: Work on v3 of IDC REST API simultaneously with the development of the MCP server.
+TL;DR: Work on v3 of [Imaging Data Commons (IDC)](https://portal.imaging.datacommons.cancer.gov/) REST API simultaneously with the development of the IDC [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro) server.
 
 IDC already offers a customized agent skill in [https://github.com/ImagingDataCommons/imaging-data-commons-skill](https://github.com/ImagingDataCommons/imaging-data-commons-skill), which is very powerful in helping with the use of IDC. However, in order to use it effectively, the user needs to have access to an LLM platform that supports code execution, and needs to suffer the "cold start" cost of setting up the environment. IDC MCP interface can provide "zero startup cost" solution for answering at least some of the queries, optimized for the use by agents. At the same time, MCP interface will need to rely on IDC API, which in its current v2 form is not useful at all. We are in the process of simultaneous redesign of IDC API and design of the MCP interface. Since we do not have expertise on the team doing something like this before, we would appreciate community feedback.
 
