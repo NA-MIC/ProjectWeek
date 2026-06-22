@@ -4,7 +4,7 @@ layout: pw45-project
 permalink: /:path/
 
 project_title: Local AI-Copilot for Slicer medical imaging workflows
-category: Infrastructure
+category: AI
 presenter_location: 
 
 key_investigators:
