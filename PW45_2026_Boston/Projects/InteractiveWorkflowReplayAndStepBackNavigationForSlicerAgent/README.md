@@ -4,7 +4,7 @@ layout: pw45-project
 permalink: /:path/
 
 project_title: Interactive Workflow Replay and Step-Back Navigation for Slicer Agent
-category: Infrastructure
+category: AI
 presenter_location: 
 
 key_investigators:
