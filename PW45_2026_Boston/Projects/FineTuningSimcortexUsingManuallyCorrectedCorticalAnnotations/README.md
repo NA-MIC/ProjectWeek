@@ -1,3 +1,28 @@
+---
+layout: pw45-project
+
+permalink: /:path/
+
+project_title: Fine-tuning SimCortex Using Manually Corrected Cortical Annotations
+category: Segmentation / Classification / Landmarking
+presenter_location: 
+
+key_investigators:
+
+- name: Kaveh Moradkhani
+  affiliation: École de technologie supérieure
+  country: Canada
+
+- name: Jarrett Rushmore
+  affiliation: Center for Morphometric Analysis
+  country: Massachusetts General Hospital, USA
+
+- name: Sylvain Bouix
+  affiliation: École de technologie supérieure
+  country: Canada
+
+---
+
 ### Draft Status
 
 Ready for page creation
