@@ -1,4 +1,3 @@
-<img width="912" height="539" alt="Screenshot 2026-06-19 at 2 13 42 PM" src="https://github.com/user-attachments/assets/6fc1f439-24d1-4529-8625-fe15bc0445a4" />
 ---
 layout: pw45-project
 
@@ -23,6 +22,7 @@ key_investigators:
   country: United States
 
 ---
+<img width="912" height="539" alt="Screenshot 2026-06-19 at 2 13 42 PM" src="https://github.com/user-attachments/assets/6fc1f439-24d1-4529-8625-fe15bc0445a4" />
 
 # Project Description
 
