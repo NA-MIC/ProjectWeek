@@ -21,6 +21,10 @@ key_investigators:
   affiliation: Brigham and Women's Hospital
   country: USA
 
+- name: Steve Pieper
+  affiliation: Isomics, Inc.
+  country: USA
+
 - name: Tina Kapur
   affiliation: Brigham and Women's Hospital
   country: USA
