@@ -41,18 +41,10 @@ Post Slicer 5.12 release, the dev team will be working on moving the factory bui
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-
-
-
-
-## Approach and Plan
-
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
-
+1. Release Slicer 5.12
+2. Create qt build image: https://github.com/Slicer/SlicerBuildEnvironment/tree/main/Docker
+3. Transition factory machines to Qt6
+4. Begin setting up arm64 facotry machine
 
 
 
