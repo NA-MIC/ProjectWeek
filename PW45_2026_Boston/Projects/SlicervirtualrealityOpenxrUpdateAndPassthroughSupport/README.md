@@ -27,6 +27,7 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
+![SlicerVirtualReality Logo](https://github.com/KitwareMedical/SlicerVirtualReality/raw/master/SlicerVirtualReality.png)
 
 Currently SlicerVirtualReality is compiled using an older version of OpenXR. This project aims to finalize the integration of the latest version of OpenXR, as well as adding requested features such as passthrough using Meta Quest headsets.
 
@@ -50,7 +51,7 @@ Currently SlicerVirtualReality is compiled using an older version of OpenXR. Thi
 
 1. Fix remaining issues in the OpenXR update ([Branch](https://github.com/Sunderlandkyl/VTK/tree/openxr_passthrough_slicer-v9.6.2-2026-05-15-f49a1dbaf)).
 2. Integrate PR containing VTK changes into the Slicer fork: ([PR](https://github.com/Slicer/VTK/pull/63))
-3. Integrated changes into SlicerVirtualReality (Branch)
+3. Integrated changes into SlicerVirtualReality ([Branch](https://github.com/Sunderlandkyl/SlicerVirtualReality/tree/openxr_passthrough_update))
 
 
 
@@ -60,7 +61,9 @@ Currently SlicerVirtualReality is compiled using an older version of OpenXR. Thi
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Initial implementations can be found here: https://github.com/Sunderlandkyl/VTK/tree/openxr_passthrough_slicer-v9.6.2-2026-05-15-f49a1dbaf
+1. Initial implementations can be found here:
+   - https://github.com/Sunderlandkyl/VTK/tree/openxr_passthrough_slicer-v9.6.2-2026-05-15-f49a1dbaf
+   - https://github.com/Sunderlandkyl/SlicerVirtualReality/tree/openxr_passthrough_update
 
 
 
@@ -80,6 +83,7 @@ _No response_
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-- VTK branch https://github.com/Sunderlandkyl/VTK/tree/openxr_passthrough_slicer-v9.6.2-2026-05-15-f49a1dbaf
-- Slicer/VTK PR https://github.com/Slicer/VTK/pull/63
+- VTK branch: https://github.com/Sunderlandkyl/VTK/tree/openxr_passthrough_slicer-v9.6.2-2026-05-15-f49a1dbaf
+- Slicer/VTK PR: https://github.com/Slicer/VTK/pull/63
+- SlicerVirtualReality branch: https://github.com/Sunderlandkyl/SlicerVirtualReality/tree/openxr_passthrough_update
 
