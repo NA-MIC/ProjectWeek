@@ -82,6 +82,7 @@ IDC already offers a customized agent skill in [https://github.com/ImagingDataCo
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+<img width="614" height="638" alt="image" src="https://github.com/user-attachments/assets/d9c93937-681e-4cbe-a4a6-649fce10f4db" />
 
 _No response_
 
