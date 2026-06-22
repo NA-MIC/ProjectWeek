@@ -28,7 +28,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-Continued development on NousNav project
+Continued development on NousNav project, in preparation for work with new collaborators
 
 
 
@@ -37,17 +37,8 @@ Continued development on NousNav project
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Objective A. Describe **what you plan to achieve** in 1-2 sentences.
-
-
-
-
-## Approach and Plan
-
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
-
-
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
+1. Generate installers for NousNav 1.1
+2. Finalize 1.2 Release
 
 
 
