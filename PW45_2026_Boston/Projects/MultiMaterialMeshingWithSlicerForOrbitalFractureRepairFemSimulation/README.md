@@ -77,9 +77,8 @@ Segmentation using a preliminary nnUNet model trained via MONAI <br>
 
 Create a combined uniform tissue segmentation and convert into a surface model <br>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/7ccbc660-30b1-403d-b825-3c1e249e3dd9" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/ecedcbad-19b7-4fa1-b8e4-1859632754c0" />
 
-Convert into a tetrahedral mesh<br>
+Convert into a tetrahedral mesh (15k nodes in this case)<br>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/11d006de-55f1-4781-b3e8-b08f738a1fda" />
 
 Assign different material properties in SOFA using surface models: globe, muscles, optic nerve, and orbital fat <br>
