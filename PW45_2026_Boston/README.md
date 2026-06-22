@@ -6,13 +6,13 @@ redirect_from:
 
 project_categories:
 - IGT and Training
-- AI
 - DICOM
 - VR/AR and Rendering
 - Segmentation / Classification / Landmarking
 - Quantification and Computation
 - Cloud / Web
 - Infrastructure
+- AI
 ---
 
 # Welcome to the web page for the 45th Project Week!
