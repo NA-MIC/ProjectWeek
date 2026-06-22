@@ -13,6 +13,10 @@ key_investigators:
   affiliation: Brigham and Women's Hospital
   country: USA
 
+- name: Mauro Dominguez
+  affiliation: Independent
+  country: Argentina
+
 - name: Ron Kikinis
   affiliation: Brigham and Women's Hospital
   country: USA
