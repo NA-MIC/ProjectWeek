@@ -23,8 +23,8 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
-
-3D Slicer can function as a tool to display real-time object movements in a 3D view. 
+We are developing a robotic system for fracture reduction using SlicerROS2. The goal of this project is to investigate whether recent imitation learning approaches, such as visuomotor policies or Vision-Language-Action (VLA) models, can be applied to this robot system.
+In this project, 3D Slicer functions as a tool to display real-time object movements in a 3D view. 
 We intend to utilize this **3D view as training data for robotic motion**.
 The 3D Slicer view will function just like a real camera mounted on the robot.
 Furthermore, it will allow us to build **custom simulation environments to generate and train on virtual data**.
