@@ -109,6 +109,9 @@ List of registered participants so far (names will be added here after processin
 37. Xiang Ran (DaoAI Robotics, in person)
 38. Jarrett Rushmore (Boston University, USA, in person)
 39. Sandy Wells (Brigham and Women's Hospital, USA, in person)
+40. Sylvain Bouix (ETS Montreal, Canada, in person)
+41. Haoyang Zheng (China, in person)
+42. Cark-Fredrik Westin (Brigham and Women's Hospital, USA, in person)
 
 
 <!-- Participants list end -->
