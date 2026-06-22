@@ -32,26 +32,16 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-A reproducible meshing workflow is essential for reproducible and efficient FEM simulation. Meshing is a laborious and subjective process due to complex tissue geometry. First, orbital tissue are difficult to segment. 
-
-To simplify set up for tracking orbital tissue position changes after fracture repair, we are using a multi-material unified orbital tissue mesh, in which elements in different regions are assigned different tissue material properties. This helps bypassing many complex setups, including define boundary conditions of tightly contact multiple soft tissue. 
-
-Multi-material mesh requires generating fine elements at the tissue boundaries to better capture the geometry and assign different material properties accordingly. Currently, this can be done in gmsh by constructing a distance field from the surface within a unified mesh. However, this usually leads to higher number of elements, thus limiting simulation 
-
-However, the process can requires significant manual preprocessing. A challenge is local fat herniation and complicated fractured boundary.
-
+Creating a volumetric mesh is essential for FEM simulation. However, meshing for orbital tissue with fracture is challenging due to multiple thin structures confined in a bony orbit, low CT contrast, and presence of trauma. To ease the process, we prepared a unified multi-material mesh for orbital tissue to avoid dealing with tissue boundaries. We are currently training a preliminary model using MONAI-nnUNet for orbital tissue segmentation using 13 specimens, each of which augmented to 5 additional volumns using TorchIO. We then created a unified orbital tissue segmentation, converted to a surface model, and created a tetrahedral mesh using gmsh. Sub-tissue regions were then selected in SOFA using specific tisssue surface models. Overall, though much easier than creating multiple tissue meshes, this step still requires many manual steps, including segmentation refinement and surface model downsampling and uniform remeshing, in Slicer and gmsh. Furthermore, due to the coarseness of interior tetrahedra, the selected tetrahedra could not accurately reflect internal tissue geometry, creating errors in tissue geometry tracking in simulation. Mesh refinement was used to create finer elements at interior tissue surface but it led to a over-detailed mesh with too many elements.
 
 
 ## Objective
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-
-1. Continue the automated segmentation training using Monai-nnUNet.
-2. Streamline manual processing, including handling patient-specifc fat herniation and fracture patterns.
-3. Quantify the effect of different levels of mesh refinement on quantifying tissue position and shape changes.
-4. Explore different methods for multi-material meshing for balancing simulation speed and geometric accuracy.
-
+1. Imporve nnUNet modeling training for orbital segmentation
+2. Streamline mesh preprocessing in Slicer and create a reproducible, standardize segmentation-to-meshing recipe.
+3. Improve mesh refinement to balance geometric accuracy and mesh size.
 
 
 
@@ -60,7 +50,10 @@ However, the process can requires significant manual preprocessing. A challenge 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. Describe specific steps of **what you plan to do** to achieve the above described objectives.
+1. Explore how to construct better TorchIO image augmentation effects for improving model training.
+2. Improve thin orbital bone segmentation
+3. Explore gmsh and alternative toolkits for mesh size control and refinement
+4. Explore using AI agent to streamline and standardize segmentation-to-meshing workflow.
 
 
 
@@ -78,7 +71,24 @@ However, the process can requires significant manual preprocessing. A challenge 
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+Segmentation using a preliminary nnUNet model trained via MONAI <br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/8212cf59-0f20-4861-936c-087d09a63619" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/8f1d5afe-d086-4b02-abf8-4e7f79f3b553" />
+
+Create a combined uniform tissue segmentation and convert into a surface model <br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/7ccbc660-30b1-403d-b825-3c1e249e3dd9" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/ecedcbad-19b7-4fa1-b8e4-1859632754c0" />
+
+Convert into a tetrahedral mesh<br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/11d006de-55f1-4781-b3e8-b08f738a1fda" />
+
+Assign different material properties in SOFA using surface models: globe, muscles, optic nerve, and orbital fat <br>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/ff4fc457-eeda-4b72-8d23-e9f29bc6e91e" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/a7a3e5d1-45b3-428f-bda0-e88dfb3b267d" />
+
+
+Further refinement by creating finer elements near tissue surfaces
+![Uploading image.png…]()
 
 
 _No response_
