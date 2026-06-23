@@ -53,7 +53,7 @@ The **Discord** application is used to communicate between team members and orga
 
 We have the following three breakout sessions planned:
 
-- 6/24 Tuesday: Slicer Updates and QnA (Sam Horvath and Andras Lasso) (Main Room)
+- 6/24 Tuesday: Slicer Updates and QnA (Sam Horvath and Andras Lasso) (Main Room) [Slides](https://docs.google.com/presentation/d/1JGdUZfynRlW88MCarinqvXFy9twBdcIcaKVYgd9eA8E/edit?usp=sharing)
 - 6/25 Wednesday: AI Overview and Demos (Steve Pieper) (Room To be decided on Tuesday morning based on interest)
 - 6/26 Thursday: Slicer Refactoring (Andras Lasso, Sam Horvath, Steve Pieper)
 
