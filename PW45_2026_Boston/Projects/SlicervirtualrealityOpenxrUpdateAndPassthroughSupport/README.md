@@ -3,7 +3,7 @@ layout: pw45-project
 
 permalink: /:path/
 
-project_title: SlicerVirtualReality - OpenXR Update and Passthrough Support
+project_title: SlicerVirtualReality - OpenXR Update, Passthrough Support, Interactions Refactor
 category: VR/AR and Rendering
 presenter_location: 
 
@@ -18,6 +18,10 @@ key_investigators:
   country: Canada
 
 - name: Sylvain Bouix
+  affiliation: ETS Montreal
+  country: Canada
+
+- name: Simon Drouin
   affiliation: ETS Montreal
   country: Canada
 
