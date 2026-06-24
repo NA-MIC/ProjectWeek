@@ -41,8 +41,14 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
+Try the new “Cast Interface” 3D slicer extension to integrate different AI engines with VolView and OHIF without a DICOM server.  
 
-Cast interface Module for Slim and  3D Slicer: Resource Servers, Image Display client and Hub.
+Cast is  an offshoot of FHIRcast (<https://fhircast.hl7.org/>)and is focused on desktop integration workflows for healthcare providers and researchers. It provides a secure event messaging infrastructure using a hub with websocket subscriptions.
+
+The project also integrated with a new IDC MCP server to search for studies in the Imaging Data Commons repository and added cast to the Slim whole slide imaging viewer, VolView, OHIF and the 3D slicer viewer. 
+
+The repository for the slicer extension is here: https://github.com/mbellehumeur/SlicerCastInterface
+
 
 
 
@@ -52,8 +58,8 @@ Cast interface Module for Slim and  3D Slicer: Resource Servers, Image Display c
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
+ - Develop standard based desktop integration of AI resources.
  - Add cast interface to Slim viewer
- - Develop standard desktop integration of AI resources.
  - Finish the request for SCENEVIEW started in project week 44 by adding an image display client to the 3D slicer viewer.
  - Support 3D Slicer developers who want to connect to cast / FHIRcast.
 
@@ -84,38 +90,33 @@ Cast interface Module for Slim and  3D Slicer: Resource Servers, Image Display c
 
 # Illustrations
 
+
+
+VolView desktop integration of AI subcortical segmentation of the brain 
+
+<img width="1162" height="957" alt="image" src="https://github.com/user-attachments/assets/7c8aefc0-d697-4813-9193-53fe08944c99" />
+
+<br><br>
+
+
 Imaging worklist:
 
 <img width="1278" height="772" alt="image" src="https://github.com/user-attachments/assets/76dbe891-9ef5-49c9-839c-827d4a13cc88" />
 
-
-
-
-
+<br><br>
 
 Cross-product scene views:
 
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/2f7feceb-1e85-4918-9012-220daa5870b0" />
 
-
-
-
-
-
-
-
+<br><br>
 
 IDC MCP  integration in worlist
 
 
 <img width="660" height="464" alt="image" src="https://github.com/user-attachments/assets/a1eab181-a5c8-45bf-a67d-182f80ec7bec" />
 
-
-
-VolView desktop integration of TotalSegmentator 
-
-<img width="1145" height="891" alt="image" src="https://github.com/user-attachments/assets/e41cd703-b5cd-4a5a-86e9-a547dfcc51ce" />
 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
