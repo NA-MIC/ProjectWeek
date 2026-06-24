@@ -14,6 +14,10 @@ key_investigators:
   affiliation: Lunenfeld-Tanenbaum Research Institute
   country: Sinai Health, Canada
 
+- name: Martin Bellehumeur
+  affiliation: Radical Imaging
+  country: Germany
+
 ---
 
 # Project Description
@@ -48,14 +52,20 @@ This project focuses on creating or using existing foundational deep learning mo
 
 
 
-## Progress and Next Steps
+## Progress
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Working on identifying members of the 3D Slicer community interested in participating in the project.
+1. Worked on identifying members of the 3D Slicer community interested in participating in the project.
+2. Usid Claude AI to generate the graphical interface in 3D Slicer to process medical images using the [Tangerine](https://github.com/niccolo246/3D-MAE-MedImaging) model.
+3. Created a stand-alone command-line interface to access the model via OHIF.
 
+## Next Steps
+
+1. Look for more model models that can encode CT images to add to the interface.
+2. Connect VS studio code via ssh to a server, for easier development with Claude AI.
 
 
 
@@ -64,7 +74,7 @@ This project focuses on creating or using existing foundational deep learning mo
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_No response_
+
 
 
 
