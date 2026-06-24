@@ -59,8 +59,9 @@ This project focuses on using existing foundational deep learning models in 3D S
 
 
 1. Worked on identifying members of the 3D Slicer community interested in participating in the project.
-2. Usid Claude AI to generate the graphical interface in 3D Slicer to process medical images using the [Tangerine](https://github.com/niccolo246/3D-MAE-MedImaging) model.
+2. Used Claude AI to generate the graphical interface in 3D Slicer to process medical images using the [Tangerine](https://github.com/niccolo246/3D-MAE-MedImaging) model.
 3. Created a stand-alone command-line interface to access the model via OHIF.
+4. Uploaded the code to a Github [repo](https://github.com/rphellan/slicerW45).
 
 ## Next Steps
 
