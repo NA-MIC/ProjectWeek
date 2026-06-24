@@ -13,7 +13,7 @@ key_investigators:
 - name: Renzo Phellan Aro
   affiliation: Lunenfeld-Tanenbaum Research Institute
   country: Canada
-
+  
 - name: Martin Bellehumeur
   affiliation: Radical Imaging
   country: Germany
@@ -77,8 +77,9 @@ This project focuses on using existing foundational deep learning models in 3D S
 
 *Figure 1: Example screenshot showing the application interface in 3D Slicer.*
 
+<img width="2880" height="1620" alt="image" src="https://github.com/user-attachments/assets/5fd64d0e-fcba-4efd-90b5-b508bec70fc5" />
 
-
+*Figure 2: Example screenshot showing the application interface in OHIF.*
 
 
 # Background and References
