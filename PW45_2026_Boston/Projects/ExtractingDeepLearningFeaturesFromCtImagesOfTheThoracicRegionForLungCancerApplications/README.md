@@ -12,7 +12,7 @@ key_investigators:
 
 - name: Renzo Phellan Aro
   affiliation: Lunenfeld-Tanenbaum Research Institute
-  country: Sinai Health, Canada
+  country: Canada
 
 - name: Martin Bellehumeur
   affiliation: Radical Imaging
@@ -25,7 +25,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-This project focuses on creating or using existing foundational deep learning models in 3D Slicer to process CT images of the thoracic region. The objective is to extract features that can be used for lung cancer applications, such as classification, screening, and risk prediction.
+This project focuses on using existing foundational deep learning models in 3D Slicer to process CT images of the thoracic region. The objective is to extract features that can be used for lung cancer applications, such as classification, screening, and risk prediction.
 
 
 
@@ -73,6 +73,9 @@ This project focuses on creating or using existing foundational deep learning mo
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+<img width="2876" height="1422" alt="image" src="https://github.com/user-attachments/assets/68d3072b-389a-48dd-9d09-710bb8786f74" />
+
+*Figure 1: Example screenshot showing the application interface in 3D Slicer.*
 
 
 
