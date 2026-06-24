@@ -17,6 +17,23 @@ key_investigators:
   affiliation: BWH
   country: USA
 
+- name: Renzo Phellan Aro
+  affiliation: Lunenfeld-Tanenbaum Research Institute, Sinai Health
+  country: Canada
+
+- name: Ahmed Rekik
+  affiliation: École de technologie supérieure
+  country: Canada
+
+- name: Jarrett Rushmore
+  affiliation: Center for Morphometric Analysis, Massachusetts General Hospital, Boston
+  country: USA
+
+- name: Sylvain Bouix
+  affiliation: École de technologie supérieure
+  country: Canada
+  
+
 ---
 
 # Project Description
@@ -36,7 +53,7 @@ Cast interface Module for Slim and  3D Slicer: Resource Servers, Image Display c
 
 
  - Add cast interface to Slim viewer
- - Develop standard desktop integration of AI resources like Total Segmentator.
+ - Develop standard desktop integration of AI resources.
  - Finish the request for SCENEVIEW started in project week 44 by adding an image display client to the 3D slicer viewer.
  - Support 3D Slicer developers who want to connect to cast / FHIRcast.
 
@@ -58,11 +75,10 @@ Cast interface Module for Slim and  3D Slicer: Resource Servers, Image Display c
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
- [Cast interface extension repository](https://github.com/mbellehumeur/SlicerCastInterface/)
 
+  Two project week teams integrated their AI resource with VolView and OHIF for lung cancer screening and brain cortex segmentation.
+  
 
-Online imaging worklist (vtk.js IO module cast interface example) with Slim/OHIF/VolView for project week:
-[Imaging worklist with cast interface](https://slicerhub-azejffgnb7dve8es.canadaeast-01.azurewebsites.net/worklist-client/examples/CastClient.html)
 
 
 
@@ -90,7 +106,7 @@ Cross-product scene views:
 
 
 
-IDC Claude desktop integration in worlist
+IDC MCP  integration in worlist
 
 
 <img width="660" height="464" alt="image" src="https://github.com/user-attachments/assets/a1eab181-a5c8-45bf-a67d-182f80ec7bec" />
@@ -114,10 +130,22 @@ VolView using a segmentation resource server without DICOM archive:
 
 # References
 
+Lung cancer screening:
+https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ExtractingDeepLearningFeaturesFromCtImagesOfTheThoracicRegionForLungCancerApplications/
+
+Subcortical segmentation:
+https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Vox2SeglamProtocolGuidedSubcorticalSegmentationIn3DSlicer/
+
 Total segmentator:
 https://pubs.rsna.org/doi/10.1148/ryai.230024
-
 Wasserthal J., Meyer M., , Hanns-Christian Breit H.C., Cyriac J., Shan Y., Segeroth, M.: TotalSegmentator: robust segmentation of 104 anatomical structures in CT images. https://arxiv.org/abs/2208.05868 
+
+
+ [Cast interface extension repository](https://github.com/mbellehumeur/SlicerCastInterface/)
+
+
+Online imaging worklist with Slim/OHIF/VolView for project week:
+[Imaging worklist with cast interface](https://slicerhub-azejffgnb7dve8es.canadaeast-01.azurewebsites.net/worklist-client/examples/CastClient.html)
 
 
 
