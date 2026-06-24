@@ -39,7 +39,7 @@ Continued development on NousNav project, in preparation for work with new colla
 
 
 1. Generate installers for NousNav 1.1 ✔️
-2. Finalize 1.2 Release
+2. Finalize 1.2 Release ⏳
 3. Work on addressing licensing concerns from MGB
 
 
