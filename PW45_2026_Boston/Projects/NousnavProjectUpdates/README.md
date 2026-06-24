@@ -38,7 +38,7 @@ Continued development on NousNav project, in preparation for work with new colla
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Generate installers for NousNav 1.1 ✔️
+1. Generate installers for NousNav 1.1 ⏳
 2. Finalize 1.2 Release ⏳
 3. Work on addressing licensing concerns from MGB
 
