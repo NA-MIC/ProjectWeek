@@ -65,7 +65,11 @@ Currently SlicerVirtualReality is compiled using an older version of OpenXR. Thi
    - https://github.com/Sunderlandkyl/VTK/tree/openxr_passthrough_slicer-v9.6.2-2026-05-15-f49a1dbaf
    - https://github.com/Sunderlandkyl/SlicerVirtualReality/tree/openxr_passthrough_update
 
-
+2. Discussion on updating interaction events:
+    - VR Event Handling Levels
+      1. Json file maps device specific buttons to device independent buttons ex. Button 1, Button 2, Joystick1, Trigger1, Grip1 etc.
+      2. SlicerVirtualReality handles mapping from device independent events to interaction events ex. Pick3DEvent, Pick3DLineEvent, etc.
+      3. Displayable managers handle events in the same way that they handle mouse and keyboard interaction events.
 
 
 # Illustrations
