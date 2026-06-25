@@ -99,7 +99,7 @@ Successfully loaded the converted annotations in Slicer!
    
 Interactive dashboard to keep track of one type of annotations: 
 
-<img width="1512" height="815" alt="lus_dashboard" src="https://github.com/user-attachments/assets/3e5fdd5f-cdae-4b2d-a7f6-7e6dcc25a359" />
+<img width="1508" height="850" alt="lus_dashboard" src="https://github.com/user-attachments/assets/d3193526-2101-4856-a7f3-896519721d6e" />
 
 <video
    controls muted
