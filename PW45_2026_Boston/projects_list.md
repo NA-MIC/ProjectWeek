@@ -212,11 +212,11 @@ TL;DR: Work on v3 of [Imaging Data Commons (IDC)](https://portal.imaging.datacom
 IDC already offers a customized agent skill in [https://github.com/ImagingDataCommons/imaging-data-commons-skill](https://github.com/ImagingDataCommons/imaging-data-commons-skill), which is very powerful in helping with the use of IDC. However, in order to use it effectively, the user needs to have access to an LLM platform that supports code execution, and needs to suffer the "cold start" cost of setting up the environment. IDC MCP interface can provide "zero startup cost" solution for answering at least some of the queries, optimized for the use by agents. At the same time, MCP interface will need to rely on IDC API, which in its current v2 form is not useful at all. We are in the process of simultaneous redesign of IDC API and design of the MCP interface. Since we do not have expertise on the team doing something like this before, we would appreciate community feedback.
 
 
-25. **[Robust Segmentation Experience in OHIF Viewer](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/RobustSegmentationExperienceInOHIFViewer/)** (Jaeyoung Cho @ University Hospital Bonn, +) ([cornerstonejs/cornerstone3D](https://github.com/cornerstonejs/cornerstone3D))
+25. **[Robust Segmentation Experience in OHIF Viewer](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/RobustSegmentationExperienceInOHIFViewer/)** (Jaeyoung Cho @ University Hospital Bonn, +) ([CCI-Bonn/OHIF-AI](https://github.com/CCI-Bonn/OHIF-AI))
 
 OHIF Viewer is a widely used web-based medical image viewer built on Cornerstone3D. Segmentation is central to many clinical and research workflows, yet reliability and robustness in OHIF/Cornerstone still lag behind user expectations — with recurring errors and edge cases in everyday use ([OHIF/Viewers#5453](https://github.com/OHIF/Viewers/issues/5453)).
 
-During Project Week 45, I would like to focus on improving the stability and user experience of segmentation in OHIF/Cornerstone. I am looking forward to collaborating with others interested in segmentation, digital pathology, and web-based imaging viewers.
+During Project Week 45, I would like to focus on improving the stability and user experience of segmentation in OHIF/Cornerstone. This builds on ongoing work in [OHIF-AI](https://github.com/CCI-Bonn/OHIF-AI) — an OHIF-based viewer with server-side AI integration (SAM2, nnInteractive, MedSAM2, and related tools) at University Hospital Bonn — where segmentation workflows are central to day-to-day use. I am looking forward to collaborating with others interested in segmentation, digital pathology, and web-based imaging viewers.
 
 This project targets two complementary areas:
 
