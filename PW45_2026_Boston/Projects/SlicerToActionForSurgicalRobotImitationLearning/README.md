@@ -64,18 +64,26 @@ Furthermore, it will allow us to build **custom simulation environments to gener
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
-1. Describe specific steps you **have actually done**.
-
-
+**1. Synthetic Training Data Generation**   
+Randomly generate diverse bone fragment configurations.  
+Generate and apply a reduction trajectory that reduces each configuration.  
+During the reduction process, capture images from four views (Axial, Lateral, Medial, ISO) in 3D Slicer, and store the corresponding strut lengths as an episode.  
+Save the data as a dataset of 100+ episodes.  
+**2. Training Policy**  
+Feed the stored dataset into the LeRobot visuomotor policy framework.  
+Train an ACT (Action Chunking with Transformers) policy to obtain the policy network (100K steps, loss < 0.03).  
+**3. Run Reduction**  
+Randomly generate an arbitrary bone fragment configuration.  
+(1) Capture the four views in Slicer and feed them, together with the corresponding strut lengths, into the policy as the observation.  
+(2) Infer strut lengths.  
+(3) Perform forward kinematics analysis and update the robot's pose.  
+(4) Return to (1) and iterate.  
 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-
-_No response_
+<img width="1054" height="567" alt="image" src="https://github.com/user-attachments/assets/99518a87-4d88-4dd1-acc5-0b851af118d4" />
 
 
 
@@ -83,7 +91,8 @@ _No response_
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
+References
+[1] T. Z. Zhao, V. Kumar, S. Levine, and C. Finn, "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware," in Proc. Robotics: Science and Systems (RSS), 2023. arXiv:2304.13705.  
+[2] R. Cadene, S. Alibert, A. Soare, Q. Gallouédec, A. Zouitine, T. Wolf, et al., "LeRobot: State-of-the-art Machine Learning for Real-World Robotics in PyTorch," 2024. [Online]. Available: https://github.com/huggingface/lerobot  
 
-
-_No response_
 
