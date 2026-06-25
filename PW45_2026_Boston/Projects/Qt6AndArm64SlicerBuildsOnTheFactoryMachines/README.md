@@ -55,8 +55,7 @@ This week we will be finalizing the 5.12 release, and then working on moving the
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-<img width="2174" height="772" alt="image" src="https://github.com/user-attachments/assets/00b181af-1a89-4845-aa19-0f85f2ef1e8a" />
-
+<img width="2231" height="1172" alt="image" src="https://github.com/user-attachments/assets/4fd30f74-7d08-4eef-ac51-5879955f6e7c" />
 
 
 # Background and References
