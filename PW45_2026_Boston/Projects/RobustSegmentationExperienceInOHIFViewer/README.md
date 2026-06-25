@@ -20,33 +20,27 @@ OHIF Viewer is a widely used web-based medical image viewer built on Cornerstone
 
 During Project Week 45, I would like to focus on improving the stability and user experience of segmentation in OHIF/Cornerstone. I am looking forward to collaborating with others interested in segmentation, digital pathology, and web-based imaging viewers.
 
-This project targets three complementary areas:
+This project targets two complementary areas:
 
-- **Workflow reliability** — Reduce errors and fragile behavior in common segmentation tasks (loading, editing, saving, and display).
-- **Representation interoperability** — Enable better interchangeability between contour-based and labelmap-based segmentations inside OHIF/Cornerstone3D.
-- **Microscopy segmentation** — Explore segmentation support for whole-slide and microscopy images in OHIF, as in the [SLIM](https://github.com/MGHComputationalPathology/slim) viewer.
+- **DICOM-SEG landscape** — Understand the development and history of DICOM Segmentation, current standard direction (including label-map encodings), and recommended usage for save/load and interchange with research formats.
+- **Overlapping segments in OHIF** — Ensure overlapping segmentations work reliably across **Stack Viewport + MPR**, **Volume Viewport**, and downstream tools — **segmentation statistics** and **bidirectional measurements**.
 
-Several related gaps remain in the broader stack: the WSI microscopy viewer (`wsi-microscopy-viewer`) does not yet support segmentation display, overlapping segmentations are not always handled reliably, and contour ↔ labelmap conversion is not yet exposed end-to-end in OHIF. This project aims to advance solutions within Cornerstone3D and OHIF toward a more dependable segmentation experience across radiology and pathology use cases.
+Several related gaps remain in the broader stack: overlapping segmentations are not always handled reliably across viewport types, DICOM persistence paths are still evolving ([PR #5806](https://github.com/OHIF/Viewers/pull/5806), [#4875](https://github.com/OHIF/Viewers/issues/4875)), and contour ↔ labelmap conversion is not yet exposed end-to-end in OHIF. This project aims to advance solutions within Cornerstone3D and OHIF toward a more dependable segmentation experience.
 
 For DICOM persistence, standards context, and recommended interchange with research formats (NIfTI), see [Background and References](#background-and-references).
 
 ## Objective
 
-1. **Improve segmentation reliability** — Identify and address high-impact failure modes in OHIF/Cornerstone segmentation workflows (load, render, edit, persist) to reduce user-facing errors.
-2. **Contour ↔ labelmap interoperability** — Allow users and tools to convert between contour-based and labelmap-based segmentation representations in OHIF/Cornerstone3D, building on work such as [Cornerstone3D PR #2170](https://github.com/cornerstonejs/cornerstone3D/pull/2170).
-3. **Microscopy segmentation support** — Enable segmentation rendering (labelmap and/or contour overlay) in the OHIF WSI microscopy viewer, progressing toward capabilities comparable to SLIM.
-4. **DICOM persistence** — Clarify recommended save/load paths for segmentations (DICOM SEG and emerging label-map encodings) and validate practical DICOM ↔ NIfTI interchange (see [DICOM-SEG and format interchange](#dicom-seg-and-format-interchange)).
+1. **Understand DICOM-SEG** — Review the development and history of DICOM Segmentation (classic binary/fractional SEG, emerging label-map encodings, tooling ecosystem) and document **recommended usage** for saving, loading, and sharing segmentations in clinical and research workflows (see [DICOM-SEG and format interchange](#dicom-seg-and-format-interchange)).
+
+2. **Overlapping segments across OHIF viewports and measurements** — In the context of OHIF, ensure **overlapping segments** work correctly for **Stack Viewport + MPR** and **Volume Viewport**, and that this behavior is connected to working **segmentation statistics** and **bidirectional measurements** on those segmentations (see [Illustrations](#illustrations)).
 
 ## Approach and Plan
 
-1. **Audit current state** — Review segmentation pain points in OHIF/Viewers and Cornerstone3D; compare microscopy segmentation support in `wsi-microscopy-viewer` vs. SLIM and document pipeline gaps.
-2. **Reliability fixes** — Triage and reproduce issues from community reports (e.g. [#5453](https://github.com/OHIF/Viewers/issues/5453), [#5849](https://github.com/OHIF/Viewers/issues/5849)); prototype fixes or workarounds for the most impactful cases.
-3. **Contour ↔ labelmap conversion** — Review and test upstream conversion work; expose it in the OHIF UI so users need not convert representations manually.
-4. **Microscopy segmentation MVP** — Integrate Cornerstone3D segmentation rendering into the OHIF WSI microscopy viewport; target labelmap overlay as a first milestone.
-5. **Overlapping segments** — Investigate segment blending/ordering in Cornerstone3D so multiple overlapping segments render and interact correctly.
-6. **DICOM persistence audit** — Map save/load paths (classic SEG vs label-map objects); test against [OHIF/Viewers PR #5806](https://github.com/OHIF/Viewers/pull/5806); document DICOM ↔ NIfTI assumptions ([background notes](#dicom-seg-and-format-interchange)).
-7. **Integration testing** — Validate changes with real DICOM SEG and RT-STRUCT datasets (radiology and pathology); record short demo screencasts.
-8. **Documentation and follow-up** — Open or update GitHub issues/PRs in `cornerstonejs/cornerstone3D` and `OHIF/Viewers` for work continuing beyond the week.
+1. **DICOM-SEG review** — Summarize standard history (binary SEG → label-map Sup 243), tooling roles (dcmjs, highdicom, dcmqi, etc.), and recommended save/load paths; validate against [PR #5806](https://github.com/OHIF/Viewers/pull/5806) ([background notes](#dicom-seg-and-format-interchange)).
+2. **Reproduce overlapping-segment issues** — Triage reports (e.g. [#5453](https://github.com/OHIF/Viewers/issues/5453), [Cornerstone3D PR #2170](https://github.com/cornerstonejs/cornerstone3D/pull/2170)) across Stack + MPR and Volume viewports.
+3. **Fix overlapping segment rendering** — Investigate segment blending/ordering in Cornerstone3D so multiple overlapping segments render and interact correctly in all target viewport types.
+4. **Connect stats and bidirectional measurements** — Verify segmentation statistics (volume, HU stats, voxel count) and bidirectional tool output remain correct when segments overlap and when switching between Stack/MPR and Volume layouts.
 
 ## Progress and Next Steps
 
@@ -58,7 +52,9 @@ For DICOM persistence, standards context, and recommended interchange with resea
 
 # Illustrations
 
-<!-- Add screenshots, diagrams, or screen recordings here once available. -->
+OHIF MPR layout (Stack + MPR viewports) with overlapping segmentations (red and green), segmentation statistics, and bidirectional measurements:
+
+![OHIF overlapping segmentations with statistics and bidirectional measurements in MPR view](ohif-segmentation-stats-mpr.png)
 
 # Background and References
 
@@ -84,7 +80,7 @@ For DICOM persistence, standards context, and recommended interchange with resea
 
 ## DICOM-SEG and format interchange
 
-Reference material for persistence, standards, tooling, and conversion with NIfTI. Intended as background for the [DICOM persistence](#dicom-persistence) objective and [approach step 6](#approach-and-plan).
+Reference material for persistence, standards, tooling, and conversion with NIfTI. Intended as background for [objective 1](#objective) and [approach step 1](#approach-and-plan).
 
 ### Recommended practice
 
@@ -145,95 +141,51 @@ NIfTI does not carry DICOM identity or segment ontology. Required inputs:
 
 ### Package Overview
 
-```mermaid
-flowchart TB
-  subgraph files [Files on disk]
-    DCM[".dcm DICOM Part 10"]
-    NII[".nii.gz NIfTI"]
-    JSON["gt_rebuilt_metadata.json"]
-  end
+Project Week pages do not render Mermaid; the diagrams below use plain text so they display on [projectweek.na-mic.org](https://projectweek.na-mic.org).
 
-  subgraph python [Your Python pipeline - test_medimage]
-    PY_PYD["pydicom"]
-    PY_PYS["pydicom-seg"]
-    PY_SITK["SimpleITK"]
-    PY_NP["NumPy"]
-    PY_SUB["subprocess / stdlib"]
-  end
+**End-to-end data flow**
 
-  subgraph cpp_cli [C++ CLI tools]
-    DCMQI["dcmqi binaries<br/>segimage2itkimage<br/>itkimage2segimage"]
-    DCMTK["DCMTK<br/>dcmodify"]
-    GDCM_PY["python-gdcm<br/>optional fix scripts"]
-  end
-
-  subgraph sitk_backends [Behind SimpleITK]
-    ITK["ITK"]
-    GDCM_IO["GDCM via GDCMImageIO<br/>GetGDCMSeriesFileNames"]
-  end
-
-  subgraph browser [OHIF Viewer - browser only]
-    OHIF["OHIF Viewers"]
-    DWC["dicomweb-client"]
-    DCMJS["dcmjs"]
-    CS_ADP["@cornerstonejs/adapters"]
-    CS3D["@cornerstonejs/core + tools"]
-    CIL["@cornerstonejs/dicom-image-loader"]
-    DP["dicom-parser"]
-  end
-
-  subgraph not_in_repo [Common but NOT in your repo]
-    HD["highdicom - not used"]
-    NB["nibabel - not used"]
-  end
-
-  subgraph pacs [Archive / transport]
-    PACS["PACS / Orthanc / DICOMweb<br/>QIDO - WADO - STOW"]
-  end
-
-  DCM --> PY_PYD
-  DCM --> PY_SITK
-  DCM --> DCMQI
-  DCM --> DCMTK
-  DCM --> GDCM_PY
-  NII --> PY_SITK
-  PY_SITK --> ITK
-  PY_SITK --> GDCM_IO
-  DCMQI -.-> ITK
-  DCMQI -.-> DCMTK
-
-  PY_PYD --> NII
-  PY_PYS --> NII
-  PY_SITK --> NII
-  PY_NP --> NII
-  NII --> DCMQI
-  DCMQI --> DCM
-  PY_PYD --> DCM
-  DCMTK --> DCM
-  GDCM_PY --> DCM
-  PY_PYD --> JSON
-
-  PACS <-->|DICOMweb| DWC
-  DWC --> OHIF
-  DCMJS --> OHIF
-  OHIF --> CS3D
-  CS_ADP --> DCMJS
-  CS_ADP --> CS3D
-  CIL --> CS3D
-  DP --> CIL
-  DWC -->|retrieve bytes| CS_ADP
-  DCMJS -->|STOW Part 10| DWC
-
-  HD -.->|alternative SEG writer| DCM
+```
+  Files on disk                    Archive / transport
+  ┌──────────────┐                 ┌─────────────────────────────┐
+  │ .dcm (SEG)   │◄───────────────►│ PACS / Orthanc / DICOMweb   │
+  │ .nii.gz      │    STOW/QIDO    │ QIDO · WADO-RS · STOW-RS    │
+  └──────┬───────┘                 └──────────────┬──────────────┘
+         │                                        │
+         │ read/write                             │ retrieve / store
+         ▼                                        ▼
+  ┌──────────────────────────────────────────────────────────────────┐
+  │                     Conversion & I/O layers                       │
+  ├─────────────────────┬──────────────────────┬─────────────────────┤
+  │ Python (offline)    │ C++ CLI              │ Browser (OHIF)      │
+  │ · pydicom           │ · dcmqi              │ · dicomweb-client   │
+  │ · pydicom-seg       │   segimage2itkimage  │ · dcmjs             │
+  │ · SimpleITK/NumPy   │   itkimage2segimage  │ · @cornerstonejs/   │
+  │ · highdicom         │ · DCMTK (dcmodify)   │   adapters          │
+  │                     │ · python-gdcm        │ · cornerstone-dicom-│
+  │                     │                      │   seg               │
+  └─────────┬───────────┴──────────┬───────────┴──────────┬──────────┘
+            │                      │                      │
+            └──────────┬───────────┴──────────────────────┘
+                       ▼
+            ┌─────────────────────┐
+            │ ITK / GDCM (C++)    │  ← behind SimpleITK & dcmqi
+            └─────────────────────┘
+                       │
+                       ▼
+            ┌─────────────────────┐
+            │ OHIF + Cornerstone3D│  labelmap / contour in viewport
+            │ core + tools        │  → stats, bidirectional, export
+            └─────────────────────┘
 ```
 
-### DICOM tooling map
+**Layer stack (who sits on whom)**
 
 ```
                     ┌─────────────────────────────────────────┐
-                    │           Application layer            │
-                    │  OHIF  │  3D Slicer  │  ML scripts     │
-                    └────┬──────────┬──────────────┬──────────┘
+                    │           Application layer             │
+                    │  OHIF  │  3D Slicer  │  ML / Python     │
+                    └────┬──────────┬──────────────┬───────────┘
                          │          │              │
            ┌─────────────┼──────────┼──────────────┼─────────────┐
            ▼             ▼          ▼              ▼             ▼
@@ -242,7 +194,7 @@ flowchart TB
            │             Reporting      │
            └─────────────┬──────────────┘
                          ▼
-              pydicom (Python)  │  dicomParser (JS, legacy)
+              pydicom (Python)  │  dicom-parser (JS, legacy)
                          ▼
               DCMTK / GDCM (C++) — dcmseg, DIMSE
 ```
