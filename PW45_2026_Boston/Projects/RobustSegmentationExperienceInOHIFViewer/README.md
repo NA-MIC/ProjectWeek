@@ -18,7 +18,7 @@ key_investigators:
 
 OHIF Viewer is a widely used web-based medical image viewer built on Cornerstone3D. Segmentation is central to many clinical and research workflows, yet reliability and robustness in OHIF/Cornerstone still lag behind user expectations — with recurring errors and edge cases in everyday use ([OHIF/Viewers#5453](https://github.com/OHIF/Viewers/issues/5453)).
 
-During Project Week 45, I would like to focus on improving the stability and user experience of segmentation in OHIF/Cornerstone. I am looking forward to collaborating with others interested in segmentation, digital pathology, and web-based imaging viewers.
+During Project Week 45, I would like to focus on improving the stability and user experience of segmentation in OHIF/Cornerstone. This builds on ongoing work in [OHIF-AI](https://github.com/CCI-Bonn/OHIF-AI) — an OHIF-based viewer with server-side AI integration (SAM2, nnInteractive, MedSAM2, and related tools) at University Hospital Bonn — where segmentation workflows are central to day-to-day use. I am looking forward to collaborating with others interested in segmentation, digital pathology, and web-based imaging viewers.
 
 This project targets two complementary areas:
 
@@ -63,6 +63,7 @@ OHIF MPR layout (Stack + MPR viewports) with overlapping segmentations (red and 
 | Resource | Notes |
 |----------|--------|
 | [OHIF Viewer](https://ohif.org/) | Web viewer |
+| [OHIF-AI](https://github.com/CCI-Bonn/OHIF-AI) | OHIF fork with server-side AI (SAM2, nnInteractive, MedSAM2, etc.); project context at University Hospital Bonn |
 | [Cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) | Rendering engine |
 | [Cornerstone3D PR #2170](https://github.com/cornerstonejs/cornerstone3D/pull/2170) | Contour ↔ labelmap conversion |
 | [SLIM Viewer](https://github.com/MGHComputationalPathology/slim) | Microscopy segmentation reference |
