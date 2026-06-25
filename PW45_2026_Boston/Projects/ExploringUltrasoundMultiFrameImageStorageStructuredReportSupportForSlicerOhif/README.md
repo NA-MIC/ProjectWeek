@@ -79,7 +79,9 @@ In this project, I want to see if using DICOM Structured Reports (SR) will help 
 
 1. Converted our JSON annotation file to a DICOM SR 
 2. Confirmed the DICOM SR can load in OHIF 
-3. Started implementing changes to Slicer core to view this type of annotation SR 
+3. Added functionality to 3D Slicer to load, parse, and view these DICOM SRs
+4. Next week - will make a PR to Slicer
+5. WIP - deploying OHIF connected to a Google Cloud Platform DICOM datastore, with the usAnnotation plugin support 
 
 
 
@@ -97,6 +99,16 @@ Successfully loaded the converted annotations in OHIF!
    src="https://github.com/user-attachments/assets/dd84c277-2fd6-47e2-a331-e47ff4af16ad"
    style="max-width:800px">
  </video>
+
+Successfully loaded the converted annotations in Slicer! 
+<video
+   controls muted
+   src="https://github.com/user-attachments/assets/27951621-5f61-4c54-b0e7-d3572df79452"
+   style="max-width:800px">
+</video>
+   
+
+
 
 
 
