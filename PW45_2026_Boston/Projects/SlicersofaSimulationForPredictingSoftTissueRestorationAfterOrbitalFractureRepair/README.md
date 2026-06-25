@@ -77,10 +77,6 @@ Implement Slicer methods to:
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-Standard surgical process that retracted orbital tissue to create a gap for plate placement.<br>
-<img width="300" alt="Image" src="https://github.com/user-attachments/assets/f3288dea-a17f-4d2f-95ae-3ea9bfc94292" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/e9ff4a64-45a0-48b6-85f1-8e945bfc3ce1" />
-
 Fat herniation and inferior rectus muscle conformational changes in floor fx<br>
 <img width="400" halt="image" src="https://github.com/user-attachments/assets/761de370-d5b6-4e52-9b29-3e7e42be01fe" />
 
@@ -102,7 +98,6 @@ Tissue restoration onto the plate<br>
 
 Tracking and visualizing globe & inferior rectus changes after restoration (not very accurate though):<br>
 <img width="600" alt="Screenshot from 2026-06-11 17-39-30" src="https://github.com/user-attachments/assets/096f4d10-3875-4754-9553-9726e2a7bec2" />
-
 
 
 # Background and References
