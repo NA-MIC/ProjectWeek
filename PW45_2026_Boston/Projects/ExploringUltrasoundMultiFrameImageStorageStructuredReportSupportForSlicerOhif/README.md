@@ -91,9 +91,11 @@ In this project, I want to see if using DICOM Structured Reports (SR) will help 
 
 
 Current workflow: 
+
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/6574e377-dc30-4454-9938-78fb3db31f39" />
 
 Successfully loaded the converted annotations in OHIF!
+
 <video
    controls muted
    src="https://github.com/user-attachments/assets/dd84c277-2fd6-47e2-a331-e47ff4af16ad"
@@ -101,6 +103,7 @@ Successfully loaded the converted annotations in OHIF!
  </video>
 
 Successfully loaded the converted annotations in Slicer! 
+
 <video
    controls muted
    src="https://github.com/user-attachments/assets/27951621-5f61-4c54-b0e7-d3572df79452"
