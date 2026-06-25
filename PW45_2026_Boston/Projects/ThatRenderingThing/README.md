@@ -73,13 +73,11 @@ The work in progress in [SlicerWGPU](https://github.com/pieper/SlicerWGPU), whic
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
 
+<!-- Source link: https://youtu.be/e90v5--29JQ  -->
 
-(TBD)
-
-
+ <iframe width="420" src="https://www.youtube.com/embed/e90v5--29JQ">
+ </iframe>
 
 # Illustrations
 
