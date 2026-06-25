@@ -13,7 +13,7 @@ key_investigators:
   affiliation: Kitware
   country: USA
 
-- name: Alex Golby
+- name: Alexandra Golby
   affiliation: BWH
   country: USA
 
@@ -26,7 +26,7 @@ key_investigators:
 # Project Description
 
 <!-- Add a short paragraph describing the project. -->
-The NousNav project is an initiative led by Dr Alex Golby to develop a low-cost neuronavigation system designed for use in low- and middle-income countries. We are developing a 3D Slicer based application focused on supporting segmentation, registration and navigation tasks.
+The NousNav project is an initiative led by Dr Alexandra Golby to develop a low-cost neuronavigation system designed for use in low- and middle-income countries. We are developing a 3D Slicer based application focused on supporting segmentation, registration and navigation tasks.
 
 The project will also include the development of open source hardware desgins for these applications.
 
