@@ -76,7 +76,7 @@ The work in progress in [SlicerWGPU](https://github.com/pieper/SlicerWGPU), whic
 
 <!-- Source link: https://youtu.be/e90v5--29JQ  -->
 
- <iframe width="800" src="https://www.youtube.com/embed/e90v5--29JQ">
+ <iframe width="1000" height="800" src="https://www.youtube.com/embed/e90v5--29JQ">
  </iframe>
 
 * Volume render automatically on load
