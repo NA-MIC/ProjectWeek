@@ -87,7 +87,8 @@ Next Steps: Deploy these trained models directly within 3D Slicer by developing 
 
 
 An illustrative example of the pipeline for local clinical data extraction.
-<img width="1156" height="297" alt="Image" src="https://github.com/user-attachments/assets/61831e68-d674-4c4c-a4eb-88614df9cdab" />
+<img width="2260" height="1530" alt="image" src="https://github.com/user-attachments/assets/ab930885-cd8a-4af6-9f1b-c9d12d150dcb" />
+
 
 
 
