@@ -112,7 +112,7 @@ Interactive dashboard to keep track of one type of annotations:
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-[Google Colab notebook for creating the Structured Report]()
+[Google Colab notebook for creating the Structured Report](https://github.com/deepakri201/create_LUS_SR)
 
 [GitHub code for the dashboard](https://github.com/deepakri201/lus-dashboard/)
 
