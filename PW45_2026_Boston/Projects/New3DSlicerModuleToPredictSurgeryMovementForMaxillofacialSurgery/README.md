@@ -90,7 +90,8 @@ Also, we'll verify the accuracy of the outputs within the Slicer environment and
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-_No response_
+<img width="1728" height="695" alt="Screenshot 2026-06-25 at 10 29 58 AM" src="https://github.com/user-attachments/assets/40e31807-6507-4743-b3e6-e130736a4ab1" />
+
 
 
 
