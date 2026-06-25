@@ -80,10 +80,7 @@ Currently SlicerVirtualReality is compiled using an older version of OpenXR. Thi
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
-_No response_
-
-
+<img width="640" alt="IMG_20260625_104739134_HDR" src="https://github.com/user-attachments/assets/c1e406e5-4887-4c43-b370-694434bd1fcc" />
 
 # Background and References
 
