@@ -79,6 +79,11 @@ The work in progress in [SlicerWGPU](https://github.com/pieper/SlicerWGPU), whic
  <iframe width="420" src="https://www.youtube.com/embed/e90v5--29JQ">
  </iframe>
 
+* Volume render automatically on load
+* Render 3D during segmentation
+* Instant 3D editing feedback - no surface model built
+* Nicer compositing
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
