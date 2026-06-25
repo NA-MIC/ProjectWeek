@@ -32,7 +32,7 @@ jobs:
         echo "title=$title" >> $GITHUB_OUTPUT
 
     - name: Find project issue comment
-      uses: peter-evans/find-comment@v2.4.0
+      uses: peter-evans/find-comment@v4.0.0
       id: fc
       with:
         issue-number: ${{ github.event.issue.number }}
@@ -41,7 +41,7 @@ jobs:
 
     - name: Create or update comment ⌛
       id: couc
-      uses: peter-evans/create-or-update-comment@v3
+      uses: peter-evans/create-or-update-comment@v5
       with:
         comment-id: ${{ steps.fc.outputs.comment-id }}
         issue-number: ${{ github.event.issue.number }}
@@ -57,7 +57,7 @@ jobs:
         event_name="PW45_2026_Boston"
         echo "name=$event_name" >> $GITHUB_OUTPUT
 
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v7
 
 
     - name: Generate project directory name
@@ -88,7 +88,7 @@ jobs:
 
     - name: Create or update comment 🛑
       if: ${{ failure() && steps.check_project_exists.outcome == 'failure' }}
-      uses: peter-evans/create-or-update-comment@v3
+      uses: peter-evans/create-or-update-comment@v5
       with:
         comment-id: ${{ steps.couc.outputs.comment-id }}
         issue-number: ${{ github.event.issue.number }}
@@ -153,7 +153,7 @@ jobs:
 
     - name: Issue Forms Body Parser
       id: parse
-      uses: zentered/issue-forms-body-parser@v2.0.0
+      uses: zentered/issue-forms-body-parser@v3.0.0
 
     - name: Extract issue fields
       id: extract
@@ -183,7 +183,7 @@ jobs:
       run: |
         cat ${{ runner.temp }}/template-data.json
 
-    - uses: actions/setup-python@v4.6.0
+    - uses: actions/setup-python@v6.3.0
       with:
         python-version: "3.x"
 
@@ -206,7 +206,7 @@ jobs:
           -e "jinja2_ansible_filters.AnsibleCoreFiltersExtension" \
           -o ${{ steps.event_info.outputs.name }}/Projects/${{ steps.project_directory.outputs.name }}/README.md
 
-    - uses: tibdex/github-app-token@v1
+    - uses: tibdex/github-app-token@v2
       id: generate-token
       with:
         app_id: ${{ secrets.APP_ID }}
@@ -214,7 +214,7 @@ jobs:
 
     - name: Create Pull Request
       id: cpr
-      uses: peter-evans/create-pull-request@v5
+      uses: peter-evans/create-pull-request@v8
       with:
         token: ${{ steps.generate-token.outputs.token }}
         commit-message: |
@@ -232,7 +232,7 @@ jobs:
 
     - name: Create or update comment ❌
       if: ${{ failure() && steps.check_project_exists.outcome == 'success'  }}
-      uses: peter-evans/create-or-update-comment@v3
+      uses: peter-evans/create-or-update-comment@v5
       with:
         comment-id: ${{ steps.couc.outputs.comment-id }}
         issue-number: ${{ github.event.issue.number }}
@@ -243,7 +243,7 @@ jobs:
 
     - name: Create or update comment ✅
       if: ${{ success() }}
-      uses: peter-evans/create-or-update-comment@v3
+      uses: peter-evans/create-or-update-comment@v5
       with:
         comment-id: ${{ steps.couc.outputs.comment-id }}
         issue-number: ${{ github.event.issue.number }}
@@ -254,7 +254,7 @@ jobs:
 
     - name: Remove "project:create" label
       if: ${{ always() }}
-      uses: actions/github-script@v6
+      uses: actions/github-script@v9
       with:
         script: |
           github.rest.issues.removeLabel({

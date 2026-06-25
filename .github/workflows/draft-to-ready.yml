@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Add "ready" label
-        uses: actions/github-script@v6
+        uses: actions/github-script@v9
         with:
           script: |
             github.rest.issues.addLabels({
