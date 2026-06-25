@@ -3,7 +3,7 @@ layout: pw45-project
 
 permalink: /:path/
 
-project_title: Local AI-Copilot for Slicer medical imaging workflows
+project_title: Testing Local LLMs for Agentic Tasks via Slicer Skills
 category: AI
 presenter_location: 
 
@@ -44,10 +44,8 @@ This project will attempt to build a free, confidential, and fully local alterna
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-
-1. Build a private MCP pipeline linking Ollama to 3D Slicer for secure, context-aware API scripting.
-2. Benchmark local model performance (Llama-3, DeepSeek) against cloud baselines for accuracy and cost.
-
+1. Evaluate the capability of local LLMs (deployed via Ollama) to leverage the existing "Slicer skill" to execute agentic user tasks.
+2. Benchmark the performance, context-awareness, and reliability of these local models against established cloud baselines (Claude).
 
 
 ## Approach and Plan
@@ -71,6 +69,7 @@ Progress: Reviewed current cloud-reliant MCP integrations (slicer-skill, mcp-sli
 
 
 # Illustrations
+<img width="1260" height="1446" alt="image" src="https://github.com/user-attachments/assets/a51aecf1-e9fe-48a1-985c-b1b0caa23a0a" />
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
