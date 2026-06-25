@@ -74,7 +74,46 @@ Currently SlicerVirtualReality is compiled using an older version of OpenXR. Thi
       1. Json file maps device specific buttons to device independent buttons ex. Button 1, Button 2, Joystick1, Trigger1, Grip1 etc.
       2. SlicerVirtualReality handles mapping from device independent events to interaction events ex. Pick3DEvent, Pick3DLineEvent, etc.
       3. Displayable managers handle events in the same way that they handle mouse and keyboard interaction events.
+     
+### Temporary documentation of existing event mapping
+| OpenXR Quest 3 bindings           | VTK action paths     | Type      | VTK function or event id (default) |
+| --------------------------------- | -------------------- | --------- | ---------------------------------- |
+|                                   | elevation            | vector2   |                                    |
+| /user/hand/left/input/aim         | handpose             | pose      |                                    |
+| /user/hand/right/input/aim        | handpose             | pose      |                                    |
+|                                   | handposegrip         | pose      |                                    |
+|                                   | haptic               | vibration |                                    |
+|                                   | complexgestureaction | boolean   |                                    |
+| /user/hand/right/input/thumbstick | movement             | vector2   |                                    |
+|                                   | nextcamerapose       | boolean   |                                    |
+|                                   | positionprop         | boolean   |                                    |
+| /user/hand/right/input/b          | showmenu             | boolean   |                                    |
+|                                   | startelevation       | boolean   |                                    |
+| /user/hand/right/input/thumbstick | startmovement        | boolean   |                                    |
+| /user/hand/right/input/a          | triggeraction        | boolean   |                                    |
+| /user/hand/left/input/y           | forwardthickcrop     |           |                                    |
+| /user/hand/left/input/menu        | nextcamerapose       |           |                                    |
+| /user/hand/left/input/x           | backthickcrop        |           |                                    |
 
+### New event mapping proposal
+| OpenXR Quest 3 bindings           | VTK action paths     | Type      | VTK function or event id (default) |
+| --------------------------------- | -------------------- | --------- | ---------------------------------- |
+|                                   | elevation            | vector2   |                                    |
+| /user/hand/left/input/aim         | handpose             | pose      |                                    |
+| /user/hand/right/input/aim        | handpose             | pose      |                                    |
+|                                   | handposegrip         | pose      |                                    |
+|                                   | haptic               | vibration |                                    |
+|                                   | complexgestureaction | boolean   |                                    |
+| /user/hand/right/input/thumbstick | movement             | vector2   |                                    |
+|                                   | nextcamerapose       | boolean   |                                    |
+|                                   | positionprop         | boolean   |                                    |
+| /user/hand/right/input/b          | showmenu             | boolean   |                                    |
+|                                   | startelevation       | boolean   |                                    |
+| /user/hand/right/input/thumbstick | startmovement        | boolean   |                                    |
+| /user/hand/right/input/a          | triggeraction        | boolean   |                                    |
+| /user/hand/left/input/y           | forwardthickcrop     |           |                                    |
+| /user/hand/left/input/menu        | nextcamerapose       |           |                                    |
+| /user/hand/left/input/x           | backthickcrop        |           |                                    |
 
 # Illustrations
 
