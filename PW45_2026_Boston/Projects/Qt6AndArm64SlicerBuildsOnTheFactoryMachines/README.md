@@ -47,15 +47,19 @@ This week we will be finalizing the 5.12 release, and then working on moving the
 
 1. Release Slicer 5.12 ✔️
     1. Ensure macOS signing is working properly ✔️
-3. Create qt build image: https://github.com/Slicer/SlicerBuildEnvironment/tree/main/Docker
-4. Install Qt6 on Windows factory
-5. Begin setting up arm64 factory machine
+3. Create qt build image: https://github.com/Slicer/SlicerBuildEnvironment/tree/main/Docker ✔️
+    1. Initial image has been built successfully: https://hub.docker.com/r/slicer/buildenv-qt6-almalinux8-gcc14
+5. Install Qt6 on Windows factory
+6. Begin setting up arm64 factory machine
 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 <img width="2231" height="1172" alt="image" src="https://github.com/user-attachments/assets/4fd30f74-7d08-4eef-ac51-5879955f6e7c" />
+
+<img width="1587" height="679" alt="image" src="https://github.com/user-attachments/assets/690e5506-bf25-47fe-a004-07c64529f6f8" />
+
 
 
 # Background and References
