@@ -108,6 +108,23 @@ for name in sorted(os.listdir(PROJECTS_DIR)):
         name_m = re.search(r'^key_investigators:.*?^\s*-\s*name:\s*([^\n]+)', text, re.MULTILINE | re.DOTALL)
         lead = (name_m.group(1).strip() + ", +") if name_m else None
 
+    # Extract GitHub repo URL — prefer Background and References section
+    repo_url = None
+    repo_name = None
+    bg_section = extract_section(text, r'^# Background and References', [r'^# '])
+    search_texts = [bg_section, text] if bg_section else [text]
+    for search in search_texts:
+        for line in search.splitlines():
+            if re.match(r'^\s*-\s*\[\d+\]', line):  # skip citation lines like "- [1] ..."
+                continue
+            m2 = re.search(r'https://github\.com/([^/\s")\]>]+/[^/\s")\]>]+)', line)
+            if m2 and 'user-attachments' not in m2.group(0):
+                repo_url = m2.group(0).rstrip('.,>')
+                repo_name = m2.group(1).rstrip('.,>')
+                break
+        if repo_url:
+            break
+
     proj_url = f"{BASE_URL}/{name}/"
     img_url = pick_best_image(text)
 
@@ -117,14 +134,16 @@ for name in sorted(os.listdir(PROJECTS_DIR)):
     desc = re.sub(r'(?m)^\d+\.\s+', '- ', desc)
 
     projects.append(dict(title=title, proj_url=proj_url, img_url=img_url,
-                         desc=desc, lead=lead))
+                         desc=desc, lead=lead, repo_url=repo_url,
+                         repo_name=repo_name if repo_url else None))
 
 
-lines = ["# PW45 2026 Boston — Project Links\n"]
+lines = ["# Project Week# 45, June 22-26, 2026 @ MIT, Boston, USA\n"]
 
 for i, p in enumerate(projects, 1):
     lead_str = f' ({p["lead"]})' if p['lead'] else ''
-    lines.append(f'{i}. **[{p["title"]}]({p["proj_url"]})**{lead_str}\n')
+    repo_str = f' ([{p["repo_name"]}]({p["repo_url"]}))' if p['repo_url'] else ' (no github repo yet)'
+    lines.append(f'{i}. **[{p["title"]}]({p["proj_url"]})**{lead_str}{repo_str}\n')
 
     if p['img_url']:
         lines.append(
