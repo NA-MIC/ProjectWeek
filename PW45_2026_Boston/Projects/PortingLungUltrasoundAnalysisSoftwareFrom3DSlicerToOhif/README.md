@@ -22,7 +22,7 @@ key_investigators:
   country: USA
 
 - name: Tina Kapur
-  affiliation: Brigham and Women's Hospital
+  affiliation: BWH
   country: USA
 
 ---
