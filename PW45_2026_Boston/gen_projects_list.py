@@ -99,6 +99,15 @@ for name in sorted(os.listdir(PROJECTS_DIR)):
         continue
     title = title_m.group(1).strip().strip("'")
 
+    lead_m = re.search(
+        r'^key_investigators:.*?^\s*-\s*name:\s*([^\n]+)\n\s*affiliation:\s*([^\n]+)',
+        text, re.MULTILINE | re.DOTALL)
+    if lead_m:
+        lead = f"{lead_m.group(1).strip()} @ {lead_m.group(2).strip()}, +"
+    else:
+        name_m = re.search(r'^key_investigators:.*?^\s*-\s*name:\s*([^\n]+)', text, re.MULTILINE | re.DOTALL)
+        lead = (name_m.group(1).strip() + ", +") if name_m else None
+
     proj_url = f"{BASE_URL}/{name}/"
     img_url = pick_best_image(text)
 
@@ -108,13 +117,14 @@ for name in sorted(os.listdir(PROJECTS_DIR)):
     desc = re.sub(r'(?m)^\d+\.\s+', '- ', desc)
 
     projects.append(dict(title=title, proj_url=proj_url, img_url=img_url,
-                         desc=desc))
+                         desc=desc, lead=lead))
 
 
 lines = ["# PW45 2026 Boston — Project Links\n"]
 
 for i, p in enumerate(projects, 1):
-    lines.append(f'{i}. **[{p["title"]}]({p["proj_url"]})**\n')
+    lead_str = f' ({p["lead"]})' if p['lead'] else ''
+    lines.append(f'{i}. **[{p["title"]}]({p["proj_url"]})**{lead_str}\n')
 
     if p['img_url']:
         lines.append(
