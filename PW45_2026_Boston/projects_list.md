@@ -36,7 +36,7 @@ The goal of this project is to further increase availability of anatomic segment
 
 5. **[Cast interface extension for  Slim and 3D Slicer: Hub,  Resource Servers and Image Display client.](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/CastInterfaceModuleFor3DSlicerServiceProvidersImageDisplayClientAndHub/)** (Martin Bellehumeur @ Radical Imaging, +) ([mbellehumeur/SlicerCastInterface](https://github.com/mbellehumeur/SlicerCastInterface))
 
-<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/CastInterfaceModuleFor3DSlicerServiceProvidersImageDisplayClientAndHub/"><img src="https://github.com/user-attachments/assets/76dbe891-9ef5-49c9-839c-827d4a13cc88" style="max-width:480px;width:100%"></a>
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/CastInterfaceModuleFor3DSlicerServiceProvidersImageDisplayClientAndHub/"><img src="https://github.com/user-attachments/assets/7c8aefc0-d697-4813-9193-53fe08944c99" style="max-width:480px;width:100%"></a>
 
 Try the new “Cast Interface” 3D slicer extension to integrate different AI engines with VolView and OHIF without a DICOM server.  
 
@@ -74,7 +74,7 @@ This project focuses on using existing foundational deep learning models in 3D S
 
 9. **[Fan mask and OCR bound box editing for OHIF-based DICOM De-Identification verification](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/FanMaskAndOcrBoundBoxEditingForOhifBasedDicomDeIdentificationVerificationMode/)** (Dave Dinh @ BWH, +) (no github repo yet)
 
-<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/FanMaskAndOcrBoundBoxEditingForOhifBasedDicomDeIdentificationVerificationMode/"><img src="https://github.com/user-attachments/assets/b95e956f-f422-494c-8c52-91b3d1fbd174" style="max-width:480px;width:100%"></a>
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/FanMaskAndOcrBoundBoxEditingForOhifBasedDicomDeIdentificationVerificationMode/"><img src="https://github.com/user-attachments/assets/f4a099f4-5f71-40a3-a22f-f84ace253d0e" style="max-width:480px;width:100%"></a>
 
 Optimal DICOM de-identification for downstream research requires balancing removal and retention. We must scrub embedded PHI in both tags and pixels while preserving valuable non-PHI metadata (e.g., scan settings like depth). Even with both addressed, human review is still needed to catch misses.
 
@@ -144,7 +144,7 @@ During Project Week, we aim to develop and evaluate a more reliable and integrat
 
 17. **[MR2CBCT: Restoring and Extending Automated CBCT-MRI Registration for TMJ Analysis](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Mr2CbctRestoringAndExtendingAutomatedCbctMriRegistrationForTmjAnalysis/)** (Eduardo Duarte Caleme @ University of North Carolina, +) (no github repo yet)
 
-<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Mr2CbctRestoringAndExtendingAutomatedCbctMriRegistrationForTmjAnalysis/"><img src="https://github.com/user-attachments/assets/6ff6b1e8-a796-4fd8-8bec-5be64b6bd389" style="max-width:480px;width:100%"></a>
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Mr2CbctRestoringAndExtendingAutomatedCbctMriRegistrationForTmjAnalysis/"><img src="https://github.com/user-attachments/assets/f8aa1b2d-785f-422d-9fc3-d4350c1f5b37" style="max-width:480px;width:100%"></a>
 
 MRI-to-CBCT registration remains a pressing challenge in medical imaging. Simultaneous visualization of hard and soft tissue structures benefits both clinicians and patients in the diagnosis of temporomandibular degenerative joint disease. Challenges remain in accurately registering these two modalities due to differences in intensity distributions that complicate mutual information optimization, as well as the necessity for initial manual alignment, which can prove unintuitive and challenging for clinicians using current 3D Slicer tools.
 
@@ -213,6 +213,8 @@ IDC already offers a customized agent skill in [https://github.com/ImagingDataCo
 
 
 25. **[Robust Segmentation Experience in OHIF Viewer](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/RobustSegmentationExperienceInOHIFViewer/)** (Jaeyoung Cho @ University Hospital Bonn, +) ([CCI-Bonn/OHIF-AI](https://github.com/CCI-Bonn/OHIF-AI))
+
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/RobustSegmentationExperienceInOHIFViewer/"><img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW45_2026_Boston/Projects/RobustSegmentationExperienceInOHIFViewer/ohif-segmentation-stats-mpr.png" style="max-width:480px;width:100%"></a>
 
 OHIF Viewer is a widely used web-based medical image viewer built on Cornerstone3D. Segmentation is central to many clinical and research workflows, yet reliability and robustness in OHIF/Cornerstone still lag behind user expectations — with recurring errors and edge cases in everyday use ([OHIF/Viewers#5453](https://github.com/OHIF/Viewers/issues/5453)).
 
@@ -307,7 +309,7 @@ The work in progress in [SlicerWGPU](https://github.com/pieper/SlicerWGPU), whic
 
 32. **[Vox2SegLAM: Protocol-Guided Subcortical Segmentation in 3D Slicer](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Vox2SeglamProtocolGuidedSubcorticalSegmentationIn3DSlicer/)** (Ahmed Rekik @ École de technologie supérieure, +) (no github repo yet)
 
-<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Vox2SeglamProtocolGuidedSubcorticalSegmentationIn3DSlicer/"><img src="https://github.com/user-attachments/assets/d4ad19a7-6048-4d48-aa48-f893331e8d80" style="max-width:480px;width:100%"></a>
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Vox2SeglamProtocolGuidedSubcorticalSegmentationIn3DSlicer/"><img src="https://github.com/user-attachments/assets/51fcdf47-e1a7-4318-ac84-38637db7b6bc" style="max-width:480px;width:100%"></a>
 
 3D SlicerVox2SegLAM is an extension that brings an AI-assisted, protocol-guided workflow to subcortical brain segmentation and landmarking. A joint CNN+GNN model predicts 26 subcortical structures and 20 anatomical landmarks directly from a T1 MRI, following the Harvard-Oxford Atlas (HOA 2.0) neuroanatomical protocol.
 
