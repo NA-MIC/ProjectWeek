@@ -10,7 +10,7 @@ presenter_location:
 key_investigators:
 
 - name: Deepa Krishnaswamy
-  affiliation: Brigham and Women's Hospital
+  affiliation: BWH
   country: USA
 
 - name: Andrey Fedorov
@@ -26,7 +26,7 @@ key_investigators:
   country: USA
 
 - name: Dave Dinh
-  affiliation: Brigham and Women's Hospital
+  affiliation: BWH
   country: USA
 
 - name: Tina Kapur

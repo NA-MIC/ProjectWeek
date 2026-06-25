@@ -10,15 +10,15 @@ presenter_location:
 key_investigators:
 
 - name: Alexandre Banks Gadbois
-  affiliation: Brigham and Women's Hospital
+  affiliation: BWH
   country: USA
 
 - name: Deepa Krishnaswamy
-  affiliation: Brigham and Women's Hospital
+  affiliation: BWH
   country: USA
 
 - name: Dave Dinh
-  affiliation: Consultant for Brigham and Women's Hospital
+  affiliation: BWH
   country: USA
 
 - name: Matt McCormick

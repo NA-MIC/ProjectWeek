@@ -10,11 +10,11 @@ presenter_location:
 key_investigators:
 
 - name: Dave Dinh
-  affiliation: Consultant
+  affiliation: BWH
   country: Brigham and Women's Hospital, USA
 
 - name: Deepa Krishnaswamy
-  affiliation: Brigham and Women's Hospital
+  affiliation: BWH
   country: USA
 
 - name: Matt McCormick
