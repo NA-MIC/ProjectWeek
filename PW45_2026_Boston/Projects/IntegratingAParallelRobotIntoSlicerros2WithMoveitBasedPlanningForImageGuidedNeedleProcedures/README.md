@@ -87,6 +87,12 @@ Next steps include refining the KIMM pose-space planning and IK-validation workf
 
 <img width="1024" height="768" alt="WhatsApp Image 2026-06-26 at 8 52 27 AM" src="https://github.com/user-attachments/assets/8ae6776e-d66d-4ec7-b534-601c1b0343a2" />
 
+<img width="782" height="788" alt="Screenshot from 2026-06-26 08-57-00" src="https://github.com/user-attachments/assets/21fea214-60c4-4809-9628-6d33579015de" />
+
+<img width="782" height="788" alt="Screenshot from 2026-06-26 08-57-33" src="https://github.com/user-attachments/assets/fcc16071-4b6a-4165-af2f-083ae59711d1" />
+
+<img width="783" height="848" alt="Screenshot from 2026-06-26 08-56-15" src="https://github.com/user-attachments/assets/30f9fffa-d999-4eb5-85e4-7302d837f586" />
+
 
 # Background and References
 
