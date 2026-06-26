@@ -102,7 +102,7 @@ The work in progress in [SlicerWGPU](https://github.com/pieper/SlicerWGPU), whic
 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
-
+Research reported in this publication was supported by the National Cancer Institute of the National Institutes of Health under [Award Number R01CA310962](https://taggs.hhs.gov/Detail/AwardDetail?arg_AwardNum=R01CA310962&arg_ProgOfficeCode=110). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health
 
 - SlicerCL: <https://github.com/pieper/SlicerCL> (<https://www.youtube.com/watch?v=hFxTyLPjQd0>)
 - STEP: <https://github.com/pieper/step> (<https://www.youtube.com/watch?v=ML9_JWAz1kY>, <https://youtu.be/8dputUoKBTA> )
