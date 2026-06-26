@@ -64,18 +64,33 @@ Implement Slicer methods to:
 
 ## Progress and Next Steps
 
-1. Convert a SOFA scene into a Slicer scene using SlicerSOFA infrastructure and Sequence module to generate a playback sequence recording.<br>
+1. Convert a SOFA scene into a Slicer scene and created a prototype module using SlicerSOFA infrastructure
+2. Use sequence module to generate a playback sequence recording.<br>
 [Screencast from 06-25-2026 09_59_22 PM.webm](https://github.com/user-attachments/assets/1cbec52b-194e-46c7-8a3b-b2b621fb20eb)
 
 <img width="768" height="432" alt="Screencast from 06-25-2026 09_59_22 PM webm" src="https://github.com/user-attachments/assets/75b7209e-9d93-4363-8b6e-1acfe5b18f15" />
 
 <img width="768" height="432" alt="Screencast from 06-25-2026 09_59_22 PM webm (1)" src="https://github.com/user-attachments/assets/a226a13b-18e3-4f02-8156-07ec1e41e2b2" />
 
+<img width="640" height="360" alt="Recording 2026-06-26 002342" src="https://github.com/user-attachments/assets/af7ab06f-c669-462a-8fd3-a889a9ccfab0" />
+
+
 
 2. Newton Physics demo
 
+[Screencast from 06-25-2026 04_26_48 PM.webm](https://github.com/user-attachments/assets/c44a0bf2-3d30-4b52-afb7-4c17c164d9e2)
+
+<img width="768" height="432" alt="Screencast from 06-25-2026 04_26_48 PM webm" src="https://github.com/user-attachments/assets/95625807-6fbf-4bea-b9b6-ea22ea058314" />
+
+
+Next steps
+- Continue improve workflow reproducibility and gui for fracture cases
+- Compare outcome with post-op images for more optimization and improvment.
 
 # Illustrations
+<img width="1411" height="532" alt="Screenshot 2026-06-26 003232" src="https://github.com/user-attachments/assets/241d7938-4b61-42e1-b402-16a42be4b926" />
+
+
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 

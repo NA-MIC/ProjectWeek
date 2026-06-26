@@ -87,6 +87,7 @@ The work in progress in [SlicerWGPU](https://github.com/pieper/SlicerWGPU), whic
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+<img width="1002" height="807" alt="image" src="https://github.com/user-attachments/assets/7a71cf08-c4db-494b-90ef-c7292b4dfa00" />
 
 
 <img width="400" alt="Image" src="https://github.com/user-attachments/assets/2fc3ddb2-f485-40a6-b8e1-241e4fe4d155" />
