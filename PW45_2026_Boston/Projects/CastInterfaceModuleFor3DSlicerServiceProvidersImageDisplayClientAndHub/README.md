@@ -3,7 +3,7 @@ layout: pw45-project
 
 permalink: /:path/
 
-project_title: 'Cast interface extension for  Slim and 3D Slicer: Hub,  Resource Servers and Image Display client.'
+project_title: '3D Slicer Cast interface extension: Hub,  Resource Servers and Image Display client.'
 category: Infrastructure
 presenter_location: 
 
@@ -40,14 +40,10 @@ key_investigators:
 
 <!-- Add a short paragraph describing the project. -->
 
+The project is about desktop integration infrastucture for healthcare applications.  It introduces a new 3D Slicer extension that provides backend and front-end services to that effect. 
 
-Try the new “Cast Interface” 3D slicer extension to integrate different AI engines with VolView and OHIF without a DICOM server.  
 
-Cast is  an offshoot of FHIRcast (<https://fhircast.hl7.org/>)and is focused on desktop integration workflows for healthcare providers and researchers. It provides a secure event messaging infrastructure using a hub with websocket subscriptions.
-
-The project also integrated with a new IDC MCP server to search for studies in the Imaging Data Commons repository and added cast to the Slim whole slide imaging viewer, VolView, OHIF and the 3D slicer viewer. 
-
-The repository for the slicer extension is here: https://github.com/mbellehumeur/SlicerCastInterface
+The extension repository is here: https://github.com/mbellehumeur/SlicerCastInterface
 
 
 
@@ -57,11 +53,9 @@ The repository for the slicer extension is here: https://github.com/mbellehumeur
 
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
-
- - Develop standard based desktop integration of AI resources.
- - Add cast interface to Slim viewer
- - Finish the request for SCENEVIEW started in project week 44 by adding an image display client to the 3D slicer viewer.
- - Support 3D Slicer developers who want to connect to cast / FHIRcast.
+ - Proof of concept global scene views to circle back to PW43 AI for personal hanging protocols project. 
+ - Demonstrate the new 3D Slicer extension with a worklist example application. 
+ - Demonstrate medical imaging resource server integration with the research of NA-MIC conference participants 
 
 
 
@@ -82,15 +76,26 @@ The repository for the slicer extension is here: https://github.com/mbellehumeur
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-  Two project week teams integrated their AI resource with VolView and OHIF for lung cancer screening and brain cortex segmentation.
+  Three project week teams integrated their research:
   
-
+   - Lung cancer screening with OHIF
+     (https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ExtractingDeepLearningFeaturesFromCtImagesOfTheThoracicRegionForLungCancerApplications/)
+   - Subcortical segmentation: with VolView.
+     (https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Vox2SeglamProtocolGuidedSubcorticalSegmentationIn3DSlicer/)
+   - AI search agents for IDC data with the worklist example application.
+     (https://projectweek.na-mic.org/PW45_2026_Boston/Projects/RedesignedRestApiAndMcpServerForImagingDataCommons/)
+  
 
 
 
 # Illustrations
 
+Cross-product scene views:
 
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/2f7feceb-1e85-4918-9012-220daa5870b0" />
+
+<br><br>
 
 VolView desktop integration of AI subcortical segmentation of the brain 
 
@@ -105,12 +110,7 @@ Imaging worklist:
 
 <br><br>
 
-Cross-product scene views:
 
-
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/2f7feceb-1e85-4918-9012-220daa5870b0" />
-
-<br><br>
 
 IDC MCP  integration in worlist
 
