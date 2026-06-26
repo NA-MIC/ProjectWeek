@@ -41,6 +41,10 @@ key_investigators:
   affiliation: CPE Lyon
   country: France
 
+- name: Andras Lasso
+  affiliation: Queen's University
+  country: Canada
+
 ---
 
 # Project Description
@@ -86,18 +90,15 @@ MRI-to-CBCT registration remains a pressing challenge in medical imaging. Simult
 3. Fixed a mask size mismatch crash in apply_mask.py and a left/right label swap in TMJ crop side detection.
 4. Implemented clinician-friendly manual approximation tools, featuring options to freely translate the volume by dragging in slice views, rotate by dragging the circle edge, set a custom center of rotation, and center the MRI at the CBCT center of mass for extremely distant cases. This makes registration significantly easier and more accessible to clinicians and students.
 5. Successfully ran the registration pipeline on 25 cases outside of the initial validation sample, yielding clinically satisfying results.
-6. *Next Steps:* Robust automated approximation, increased Elastix capture range, and quantitative validation utilizing Target Registration Error (TRE).
-
+6. Implemented new registration mode (drag the image anywhere in the slice view) - https://github.com/Slicer/Slicer/pull/9258
+7. *Next Steps:* Robust automated approximation, increased Elastix capture range, and quantitative validation utilizing Target Registration Error (TRE).
 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-
-No response
-
-
+![](Screenshot01.jpg)
 
 # Background and References
 
