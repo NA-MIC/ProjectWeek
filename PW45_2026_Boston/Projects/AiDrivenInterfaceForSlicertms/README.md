@@ -59,7 +59,7 @@ SlicerTMS is a 3DSlicer module for patient-specific transcranial stimulation. It
 
 
 
-## Progress
+## Progress and Illustrations
 
 - SlicerTMS Navigation workflow automated by integrating Local LLM.
 - SlicerTMS Registration feature is controlled by cookbook: RAG router bypassing LLM logic for known tasks. Near zero-latency for defined commands.
@@ -83,7 +83,7 @@ Concept: Direct route bypasses LLM logic for safe, immediate execution.
         ┃                               ↓
         ┃                ( Safe Medical API Execution )
 ```
-Cookbook Matching </br>
+Cookbook Matching
 <img src="./Cookbook matching.png" width="400" alt="Description">
 
 Surface Registration
@@ -97,6 +97,7 @@ Surface Registration
 - AI agent should execute active Read-Reason-Action loops. System should auto-correct spatial errors like "F10 is 2mm off".
 - Local LLMs must be evaluated against cloud models like Claude: accuracy vs execution speed for targeting tasks.
 ```text
+=========================================================================
 [ PHASE 2: FUTURE WORK ] Active Scene Introspection & Reasoning Loop
 =========================================================================
 Concept: LLM acts as a "Tool User" with bi-directional spatial awareness.
@@ -115,13 +116,8 @@ Concept: LLM acts as a "Tool User" with bi-directional spatial awareness.
                   4. ACTION ➔ Triggers Cookbook: MoveNode("F10", [0,0,-2])
 ```
 
-Active AI Agent </br>
+Active AI Agent
 <img src="./future_1.png" width="700" alt="Description"> </br>
-
-
-# Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
 _No response_
