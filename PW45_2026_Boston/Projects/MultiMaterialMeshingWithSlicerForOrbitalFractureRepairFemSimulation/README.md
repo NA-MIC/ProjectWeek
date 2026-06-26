@@ -67,7 +67,7 @@ Initially, I tried to teach it step-by-step. Giving sample outcomes from my own 
 Steps:
 1. Create a combined orbital tissue segment from individual segments
 2. Create a 0.5 mm gap between tissue segment & bony orbit: expand the skull by 0.5mm and subtract tissue segment from it
-3. Smoothing the segment and removing isolated voxels.
+3. Smoothing the segment, fill all internal holes, and removing isolated voxels.
 4. Convert combined orbital tissue segment to a surface model and downsample + uniform remesh it to about 1.5k pts
 5. Using a customized gmsh script to do the meshing. Redo surface remesh and/or gmsh spacing set up until getting around 10 to 15K tetrahedra.
 6. Convert individual tissue segments to models with <1k pts for MeshROI tet selection in SOFA
@@ -92,6 +92,9 @@ I also had to constantly monitor the "thinking" process in case Claude did extra
 
 
 # Illustrations
+<img width="1220" height="778" alt="image" src="https://github.com/user-attachments/assets/d9eef697-56aa-488f-8461-06ff95257839" />
+
+
 
 Segmentation using a preliminary nnUNet model trained via MONAI <br>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/8212cf59-0f20-4861-936c-087d09a63619" />
