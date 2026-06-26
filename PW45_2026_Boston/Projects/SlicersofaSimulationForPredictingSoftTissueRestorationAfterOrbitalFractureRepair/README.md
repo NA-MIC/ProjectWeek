@@ -92,28 +92,6 @@ Next steps
 
 
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-Create a multi-material mesh from a combined orbital tissue surface model from segmentations using Gmsh.<br>
-<img width="300" alt="Screenshot from 2026-05-11 15-56-43" src="https://github.com/user-attachments/assets/4baf2e0b-2aa6-42d8-8fbb-21bcbe9e02a5" />
-<img width="300" alt="Screenshot from 2026-05-11 16-01-20" src="https://github.com/user-attachments/assets/6b4d494e-234b-4bb1-8136-01d5510beec5" />
-
-Orbital tissue attachment points at the superior surface set up in Slicer and visualized in SOFA<br>
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/9d7a8100-d3a3-4e5c-8a2e-91ad1f67f537" />
-<img width="300" alt="Screenshot from 2026-06-03 08-29-36" src="https://github.com/user-attachments/assets/0410b324-f338-4eeb-acf1-5ac5e6aabcd6" />
-
-Simulation of tissue retraction using plane models in SOFA (skull hidden) and the same process in Slicer SOFA. The left picture shows one plane holds one area of the tissue to enable another plane for further retraction.<br>
-<img width="300" alt="Screenshot from 2026-06-08 16-53-29" src="https://github.com/user-attachments/assets/825565a5-a6cf-425c-a31e-663681b4b70a" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/af9db4b1-d37a-4e8f-a16d-64acbd4bf85d" />
-
-Tissue restoration onto the plate<br>
-<img width="300" alt="Screenshot from 2026-06-10 11-37-40" src="https://github.com/user-attachments/assets/9654a234-6d05-4d87-8984-82a3add9c35a" />
-<img width="300" alt="Screenshot from 2026-06-10 11-39-07" src="https://github.com/user-attachments/assets/06a22496-2f09-43f4-874c-b9b60991f2dd" />
-
-Tracking and visualizing globe & inferior rectus changes after restoration (not very accurate though):<br>
-<img width="600" alt="Screenshot from 2026-06-11 17-39-30" src="https://github.com/user-attachments/assets/096f4d10-3875-4754-9553-9726e2a7bec2" />
-
-
 # Background and References
 
 <!-- If you developed any software, include link to the source code repository.
