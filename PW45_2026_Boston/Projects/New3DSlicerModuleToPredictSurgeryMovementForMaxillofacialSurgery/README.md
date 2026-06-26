@@ -100,6 +100,6 @@ Also, we'll verify the accuracy of the outputs within the Slicer environment and
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-
-_No response_
+Github link: https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools
+This work was supported by the National Institute of Dental and Craniofacial Research (NIDCR) of the National Institutes of Health under Award Number R01DE024450.
 
