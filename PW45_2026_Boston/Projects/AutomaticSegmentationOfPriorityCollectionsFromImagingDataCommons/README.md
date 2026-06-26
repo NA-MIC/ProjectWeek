@@ -78,12 +78,13 @@ The goal of this project is to further increase availability of anatomic segment
 This week we made progress on debugging/fixing/imporoving segmentation workflow and the associated tools.
 
 1. Refined post-processing component of the workflow - improved/fixed generation of DICOM SEG.
-2. Fixed handling of deflate transfer syntax in dcmqi, which was broken on windows (which was also broken in Slicer) [https://github.com/QIICR/dcmqi/pull/549](https://github.com/QIICR/dcmqi/pull/549)
-3. Adding SNOMED mapping upstream to the MOOSE segmentator [https://github.com/ENHANCE-PET/MOOSE/pull/241](https://github.com/ENHANCE-PET/MOOSE/pull/241)
-4. Started working on making the segmentation workflow applicable to segmentation of non-IDC data (via private Google bucket access)
-5. Added the option to allow Terra to access private Google buckets containing dicom files
-6. Added export of output DICOM SEG files into Google Cloud DICOM stores
-7. Added output CSVs containing performance metrics and structure metrics to the output
+   * [https://github.com/Sunderlandkyl/CloudSegmentator/pull/1](https://github.com/Sunderlandkyl/CloudSegmentator/pull/1)
+3. Fixed handling of deflate transfer syntax in dcmqi, which was broken on windows (which was also broken in Slicer) [https://github.com/QIICR/dcmqi/pull/549](https://github.com/QIICR/dcmqi/pull/549)
+4. Adding SNOMED mapping upstream to the MOOSE segmentator [https://github.com/ENHANCE-PET/MOOSE/pull/241](https://github.com/ENHANCE-PET/MOOSE/pull/241)
+5. Started working on making the segmentation workflow applicable to segmentation of non-IDC data (via private Google bucket access)
+6. Added the option to allow Terra to access private Google buckets containing dicom files
+7. Added export of output DICOM SEG files into Google Cloud DICOM stores
+8. Added output CSVs containing performance metrics and structure metrics to the output
 
 # Illustrations
 
