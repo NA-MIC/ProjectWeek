@@ -97,7 +97,7 @@ key_investigators:
 
 # Results
 
-- **Video.** Full workflow demo — hub-based remote inference deployment (VolView/CastInterface) followed by the Vox2SegLAM pipline end-to-end:
+- **Video.** Full workflow demo — hub-based remote inference deployment (VolView/CastInterface) followed by the Vox2SegLAM pipeline end-to-end:
 
    <video
    controls muted
