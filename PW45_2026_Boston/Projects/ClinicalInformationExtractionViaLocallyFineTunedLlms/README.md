@@ -86,12 +86,20 @@ Next Steps: Deploy these trained models directly within 3D Slicer by developing 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-An illustrative example of the pipeline for local clinical data extraction.
+ Illustrative example of the pipeline for local clinical data extraction.
 <img width="2260" height="1530" alt="image" src="https://github.com/user-attachments/assets/ab930885-cd8a-4af6-9f1b-c9d12d150dcb" />
 
-Results:
-<img width="2510" height="1304" alt="image" src="https://github.com/user-attachments/assets/b0ea4c58-5da1-445d-9764-d88b0777fa19" />
+Dataset partitioning and subset allocation.
+<img width="2372" height="592" alt="image" src="https://github.com/user-attachments/assets/7b924d06-cea4-475c-a405-4ff1279c678e" />
 
+Representative Example of a Progress Note Paired / Labelling
+<img width="2336" height="714" alt="image" src="https://github.com/user-attachments/assets/873bf2eb-bb1d-4bb9-8900-816cef4dde9c" />
+
+Model benchmarking and matched external comparisons.
+<img width="2090" height="950" alt="image" src="https://github.com/user-attachments/assets/dfc1ccdb-1d7b-4ee6-8845-42adff0f2476" />
+
+3D Slicer user interface
+<img width="1030" height="720" alt="image" src="https://github.com/user-attachments/assets/3b14ee1f-d1c3-40ce-a18a-80284abd3fdc" />
 
 
 # Background and References
@@ -100,5 +108,5 @@ Results:
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-_No response_
+NIH funding : R01DE024450
 
