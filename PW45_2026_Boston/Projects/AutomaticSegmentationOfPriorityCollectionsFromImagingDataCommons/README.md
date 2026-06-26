@@ -81,6 +81,9 @@ This week we made progress on debugging/fixing/imporoving segmentation workflow 
 2. Fixed handling of deflate transfer syntax in dcmqi, which was broken on windows (which was also broken in Slicer) [https://github.com/QIICR/dcmqi/pull/549](https://github.com/QIICR/dcmqi/pull/549)
 3. Adding SNOMED mapping upstream to the MOOSE segmentator [https://github.com/ENHANCE-PET/MOOSE/pull/241](https://github.com/ENHANCE-PET/MOOSE/pull/241)
 4. Started working on making the segmentation workflow applicable to segmentation of non-IDC data (via private Google bucket access)
+5. Added the option to allow Terra to access private Google buckets containing dicom files
+6. Added export of output DICOM SEG files into Google Cloud DICOM stores
+7. Added output CSVs containing performance metrics and structure metrics to the output
 
 # Illustrations
 
