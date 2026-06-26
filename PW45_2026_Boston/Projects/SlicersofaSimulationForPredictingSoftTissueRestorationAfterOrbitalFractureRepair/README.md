@@ -94,9 +94,6 @@ Next steps
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
-Fat herniation and inferior rectus muscle conformational changes in floor fx<br>
-<img width="400" halt="image" src="https://github.com/user-attachments/assets/761de370-d5b6-4e52-9b29-3e7e42be01fe" />
-
 Create a multi-material mesh from a combined orbital tissue surface model from segmentations using Gmsh.<br>
 <img width="300" alt="Screenshot from 2026-05-11 15-56-43" src="https://github.com/user-attachments/assets/4baf2e0b-2aa6-42d8-8fbb-21bcbe9e02a5" />
 <img width="300" alt="Screenshot from 2026-05-11 16-01-20" src="https://github.com/user-attachments/assets/6b4d494e-234b-4bb1-8136-01d5510beec5" />
