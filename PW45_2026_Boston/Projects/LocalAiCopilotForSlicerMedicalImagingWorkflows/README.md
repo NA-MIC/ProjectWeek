@@ -71,16 +71,18 @@ Progress: Reviewed current cloud-reliant MCP integrations (slicer-skill, mcp-sli
 # Illustrations
 <img width="1076" height="1250" alt="image" src="https://github.com/user-attachments/assets/fdd3dde3-90e3-4bab-8520-9538315ec5f9" />
 
+
 Results:
+Result in the 3D Slicer scene after a simple prompt with a local 7B Qwen model:
+
+- Using the Slicer MCP tool execute_python, write and run Python code that creates a red cube model and adds it to the 3D scene.
+
+- Using the Slicer MCP tool load_sample_data, load the MRHead sample dataset.
+
 <img width="1428" height="1006" alt="image" src="https://github.com/user-attachments/assets/9ab35d03-7c82-4825-ae67-9ca98d443329" />
 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-
-_No response_
-
-
 
 # Background and References
 
@@ -93,3 +95,4 @@ _No response_
 - slicer-skill: <https://github.com/pieper/slicer-skill>
 - SlicerChat: <https://arxiv.org/abs/2407.11987>
 
+NIH funding NIDCR R01DE024450
