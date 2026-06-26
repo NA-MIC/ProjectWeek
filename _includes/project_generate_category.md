@@ -46,7 +46,8 @@
   {% if page.project_categories contains pw_page_category %}
 
     {% comment %}If if applies, add catergory header.{% endcomment %}
-    {% unless categories contains pw_page_category %}
+    {% assign category_heading = "### " | append: pw_page_category %}
+    {% unless categories contains category_heading %}
 {% capture categories %}
 {{ categories }}
 ### {{ pw_page_category }}
