@@ -69,11 +69,7 @@ _No response_
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
-
-
-
+Deploy to development environment to get feedback from end users.
 
 
 
@@ -83,12 +79,39 @@ _No response_
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-DICOM De-ID Loop:
+**DICOM De-ID Loop**
+
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/b95e956f-f422-494c-8c52-91b3d1fbd174" />
 
-OHIF Mode:
+**DICOM De-ID Verification Mode**
 
-<img width="800" alt="Image" src="https://github.com/user-attachments/assets/f4a099f4-5f71-40a3-a22f-f84ace253d0e" />
+Single DICOM review mode:
+
+<img width="1728" height="998" alt="single_view_ocr_overlay" src="https://github.com/user-attachments/assets/3d5c1180-e155-4ec7-b896-9d5efcdd3a06" />
+
+<img width="1728" height="998" alt="ocr_and_phi_bounding_box_editor" src="https://github.com/user-attachments/assets/c2dec3cd-6d54-4a5c-aa1b-e246aeb8d0f5" />
+
+<img width="1728" height="998" alt="singe_view_fan_overlay" src="https://github.com/user-attachments/assets/bdb21fa1-4240-4ce0-9560-2f590b8b5bad" />
+
+<img width="1728" height="998" alt="fan_geometry_editor" src="https://github.com/user-attachments/assets/4b1e4b7c-8b51-44ee-8307-f3c944e1aa4d" />
+
+<img width="1728" height="998" alt="single_view_metadata_review" src="https://github.com/user-attachments/assets/8d86bc7a-c5b9-4d4f-9479-dba74cd95c10" />
+
+<img width="1728" height="998" alt="single_view_summary" src="https://github.com/user-attachments/assets/ced5757d-c93c-4fcd-9a86-5c9f171e40e1" />
+
+Batch DICOM review mode:
+
+<img width="1728" height="998" alt="batch_view_ocr" src="https://github.com/user-attachments/assets/5d76a0a3-fb31-4d63-aa01-b481fa1f02f7" />
+
+<img width="1728" height="998" alt="batch_view_fan" src="https://github.com/user-attachments/assets/07d73882-44a1-4b5b-acc7-b9043bba4db6" />
+
+<img width="1728" height="998" alt="batch_view_deid" src="https://github.com/user-attachments/assets/0507a25e-af39-40fc-afed-e62d9ac42422" />
+
+<img width="1728" height="998" alt="batch_view_fan_crop" src="https://github.com/user-attachments/assets/f6f75edf-2c9f-418e-b919-72b520d1b8e9" />
+
+<img width="1728" height="998" alt="batch_view_metadata_review" src="https://github.com/user-attachments/assets/57ae4227-8686-403c-8b1e-4a39c396fa93" />
+
+<img width="1728" height="998" alt="batch_view_summary" src="https://github.com/user-attachments/assets/551f4921-c695-4eeb-ae16-ebc90930227c" />
 
 
 
