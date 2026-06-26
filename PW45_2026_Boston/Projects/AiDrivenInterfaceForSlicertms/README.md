@@ -94,6 +94,7 @@ Surface Registration
 - AI Agent must understand scenes and coordinates before reasoning (Spatial understanding).
 - AI agent should execute active Read-Reason-Action loops. System should auto-correct spatial errors like "F10 is 2mm off".
 - Local LLMs must be evaluated against cloud models like Claude: accuracy vs execution speed for targeting tasks.
+
 ```text
 [ PHASE 2: FUTURE WORK ] Active Scene Introspection & Reasoning Loop
 =========================================================================
@@ -112,7 +113,6 @@ Concept: LLM acts as a "Tool User" with bi-directional spatial awareness.
                   3. REASON ➔ Calculate Offset (Z: 55.0 - 2.0 = 53.0)
                   4. ACTION ➔ Triggers Cookbook: MoveNode("F10", [0,0,-2])
 ```
-
 Active AI Agent </br>
 <img src="./future_1.png" width="700" alt="Description"> </br>
 
@@ -122,6 +122,7 @@ Active AI Agent </br>
 - AI Agent must understand scenes and coordinates before reasoning (Spatial understanding).
 - AI agent should execute active Read-Reason-Action loops. System should auto-correct spatial errors like "F10 is 2mm off".
 - Local LLMs must be evaluated against cloud models like Claude: accuracy vs execution speed for targeting tasks.
+
 ```text
 =========================================================================
 [ PHASE 2: FUTURE WORK ] Active Scene Introspection & Reasoning Loop
@@ -141,7 +142,6 @@ Concept: LLM acts as a "Tool User" with bi-directional spatial awareness.
                   3. REASON ➔ Calculate Offset (Z: 55.0 - 2.0 = 53.0)
                   4. ACTION ➔ Triggers Cookbook: MoveNode("F10", [0,0,-2])
 ```
-
 Active AI Agent
 <img src="./future_1.png" width="700" alt="Description"> </br>
 
