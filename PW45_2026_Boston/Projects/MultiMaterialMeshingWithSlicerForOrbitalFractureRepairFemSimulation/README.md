@@ -92,7 +92,7 @@ I also had to constantly monitor the "thinking" process in case Claude did extra
 
 
 # Illustrations
-<img width="1220" height="778" alt="image" src="https://github.com/user-attachments/assets/d9eef697-56aa-488f-8461-06ff95257839" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/d9eef697-56aa-488f-8461-06ff95257839" />
 
 
 
