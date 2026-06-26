@@ -75,8 +75,7 @@ We want to create a well tested CLI based tool that takes in user input and gene
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+Open source project and integrate with two existing de-id projects: pipeline for batch dicom de-id and an OHIF mode for verifying de-id DICOMs.
 
 
 
@@ -86,10 +85,21 @@ We want to create a well tested CLI based tool that takes in user input and gene
 
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+<img width="1728" height="1082" alt="Screenshot 2026-06-26 at 2 57 49 PM" src="https://github.com/user-attachments/assets/323d698e-72f9-49c7-8b62-e578f381987b" />
+
+<img width="1728" height="1082" alt="Screenshot 2026-06-26 at 2 58 07 PM" src="https://github.com/user-attachments/assets/34d77706-ab9f-49db-8582-423798646533" />
+
+<img width="1728" height="1082" alt="Screenshot 2026-06-26 at 2 58 11 PM" src="https://github.com/user-attachments/assets/3b063291-b9c9-4482-ba1b-92ad280785d6" />
+
+<img width="1728" height="1082" alt="Screenshot 2026-06-26 at 2 58 16 PM" src="https://github.com/user-attachments/assets/ecfa0c06-98c4-48a5-82e3-7a29847ec40e" />
+
+<img width="1728" height="1082" alt="Screenshot 2026-06-26 at 2 58 21 PM" src="https://github.com/user-attachments/assets/2af5eaf4-6074-406f-9d58-559757243aae" />
+
+<img width="1728" height="1082" alt="Screenshot 2026-06-26 at 2 58 24 PM" src="https://github.com/user-attachments/assets/2c60403e-1300-499c-aeb5-e06ed031b9d8" />
+
+<img width="1728" height="1082" alt="Screenshot 2026-06-26 at 2 58 29 PM" src="https://github.com/user-attachments/assets/49d8cca1-dda5-4335-9d10-c7830927facc" />
 
 
-_No response_
 
 
 
