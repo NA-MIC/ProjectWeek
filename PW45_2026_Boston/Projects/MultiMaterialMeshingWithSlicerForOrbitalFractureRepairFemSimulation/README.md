@@ -60,13 +60,35 @@ Creating a volumetric mesh is essential for FEM simulation. However, meshing for
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+Using claude slicer-skill [https://github.com/pieper/slicer-skill](https://github.com/pieper/slicer-skill) to create a prompt to streamline a segmentation to meshing workflow. Overall it took me five hours. 
+
+Initially, I tried to teach it step-by-step. Giving sample outcomes from my own manual preprocessing as ground truth helped.
+
+Steps:
+1. Create a combined orbital tissue segment from individual segments
+2. Create a 0.5 mm gap between tissue segment & bony orbit: expand the skull by 0.5mm and subtract tissue segment from it
+3. Smoothing the segment and removing isolated voxels.
+4. Convert combined orbital tissue segment to a surface model and downsample + uniform remesh it to about 1.5k pts
+5. Using a customized gmsh script to do the meshing. Redo surface remesh and/or gmsh spacing set up until getting around 10 to 15K tetrahedra.
+6. Convert individual tissue segments to models with <1k pts for MeshROI tet selection in SOFA
 
 
-1. Describe specific steps you **have actually done**.
+<img width="637" height="445" alt="image" src="https://github.com/user-attachments/assets/3c33e217-cf09-4ef5-8b91-698a1e5c27f3" />
 
+https://github.com/user-attachments/assets/233a780e-c723-4821-a830-ee283b6d458a
 
+<img width="478" height="744" alt="Screenshot from 2026-06-25 16-44-44" src="https://github.com/user-attachments/assets/a213a2bb-c21f-4f35-8b03-872cb7bf2c5f" />
+<img width="457" height="726" alt="Screenshot from 2026-06-25 16-48-19" src="https://github.com/user-attachments/assets/c5d5a531-6e3f-4f17-8145-2ba302f69d4f" />
+
+In the end, it produced a prompt and a script for segmentation and Surface Toolbox effects for reusing.
+
+<img width="693" height="484" alt="Screenshot from 2026-06-24 23-44-17" src="https://github.com/user-attachments/assets/9775d4b2-1420-430f-ac52-db070644ede7" />
+
+I also had to constantly monitor the "thinking" process in case Claude did extra unncessary steps:
+
+<img width="485" height="214" alt="Screenshot from 2026-06-25 00-25-56" src="https://github.com/user-attachments/assets/7649c150-fe3a-47bf-ba52-ca27298faf6f" />
+
+<img width="1360" height="740" alt="Screenshot from 2026-06-25 16-46-15" src="https://github.com/user-attachments/assets/f593e62a-02bb-463d-97ab-4c5181fdbfd6" />
 
 
 # Illustrations
