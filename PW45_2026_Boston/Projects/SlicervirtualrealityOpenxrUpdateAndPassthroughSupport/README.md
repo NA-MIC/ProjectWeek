@@ -74,46 +74,14 @@ Currently SlicerVirtualReality is compiled using an older version of OpenXR. Thi
       1. Json file maps device specific buttons to device independent buttons ex. Button 1, Button 2, Joystick1, Trigger1, Grip1 etc.
       2. SlicerVirtualReality handles mapping from device independent events to interaction events ex. Pick3DEvent, Pick3DLineEvent, etc.
       3. Displayable managers handle events in the same way that they handle mouse and keyboard interaction events.
-     
-### Temporary documentation of existing event mapping
-| OpenXR Quest 3 bindings           | VTK action paths     | Type      | VTK function or event id (default) |
-| --------------------------------- | -------------------- | --------- | ---------------------------------- |
-|                                   | elevation            | vector2   |                                    |
-| /user/hand/left/input/aim         | handpose             | pose      |                                    |
-| /user/hand/right/input/aim        | handpose             | pose      |                                    |
-|                                   | handposegrip         | pose      |                                    |
-|                                   | haptic               | vibration |                                    |
-|                                   | complexgestureaction | boolean   |                                    |
-| /user/hand/right/input/thumbstick | movement             | vector2   |                                    |
-|                                   | nextcamerapose       | boolean   |                                    |
-|                                   | positionprop         | boolean   |                                    |
-| /user/hand/right/input/b          | showmenu             | boolean   |                                    |
-|                                   | startelevation       | boolean   |                                    |
-| /user/hand/right/input/thumbstick | startmovement        | boolean   |                                    |
-| /user/hand/right/input/a          | triggeraction        | boolean   |                                    |
-| /user/hand/left/input/y           | forwardthickcrop     |           |                                    |
-| /user/hand/left/input/menu        | nextcamerapose       |           |                                    |
-| /user/hand/left/input/x           | backthickcrop        |           |                                    |
 
-### New event mapping proposal
-| OpenXR Quest 3 bindings           | VTK action paths     | Type      | VTK function or event id (default) |
-| --------------------------------- | -------------------- | --------- | ---------------------------------- |
-|                                   | elevation            | vector2   |                                    |
-| /user/hand/left/input/aim         | handpose             | pose      |                                    |
-| /user/hand/right/input/aim        | handpose             | pose      |                                    |
-|                                   | handposegrip         | pose      |                                    |
-|                                   | haptic               | vibration |                                    |
-|                                   | complexgestureaction | boolean   |                                    |
-| /user/hand/right/input/thumbstick | movement             | vector2   |                                    |
-|                                   | nextcamerapose       | boolean   |                                    |
-|                                   | positionprop         | boolean   |                                    |
-| /user/hand/right/input/b          | showmenu             | boolean   |                                    |
-|                                   | startelevation       | boolean   |                                    |
-| /user/hand/right/input/thumbstick | startmovement        | boolean   |                                    |
-| /user/hand/right/input/a          | triggeraction        | boolean   |                                    |
-| /user/hand/left/input/y           | forwardthickcrop     |           |                                    |
-| /user/hand/left/input/menu        | nextcamerapose       |           |                                    |
-| /user/hand/left/input/x           | backthickcrop        |           |                                    |
+3. Summary of code changes:
+   - **OpenXR runtime update & passthrough**: updated the bundled OpenXR SDK to 1.1.60 and added AR passthrough (`XR_ENVIRONMENT_BLEND_MODE_ALPHA_BLEND`) to `vtkMRMLVirtualRealityViewNode`/`qMRMLVirtualRealityView`. Also implemented environment-depth occlusion (`XR_META_environment_depth`), debug visualization, and VR scene/depth volume capture; these controls are hidden in the module UI for now since depth occlusion isn't functional with the current Meta runtime.
+   - **Generic controller actions**: `SetupActions()` now registers the 28 generic Oculus Touch actions directly (5 default to the legacy VTK 3D events they replace, to preserve existing behavior; the rest keep their own generic event IDs for raw observability). All are rebindable from Python via the existing `AddAction()` helper, and are now invoked on the interactor.
+   - **Interaction fixes**: grip button mapped to the "move prop" event; fixed complex gesture handling; added trigger click actions; fixed a bug where grabbed objects would slowly drift ("crawl away") during manipulation (root cause: `vtkTransform::SetMatrix()` updates internal state but never calls `Modified()`, so MRML's observer notifications weren't firing -- switched to `vtkMRMLTransformNode::SetMatrixTransformToParent()`, which does).
+   - **UI**: the VR toolbar button now toggles the hardware connection (useful for exiting immersive mode or resetting the connection) instead of toggling rendering enable, which wasn't useful.
+   - **Controller render models**: OpenXR has no API for rendering controller models, so vtkRenderingOpenXR falls back to a profile-to-asset JSON lookup table that has to be located next to the VTK build/install tree. Added a JSON mapping entry and a bundled glTF model for the Meta Quest Touch Plus controllers (previously only a generic placeholder rendered in headset), and moved the whole controller-models setup (Meta Quest Touch Plus, HTC Vive, Valve Index) into the module's own `Resources/ControllerModels/`, deployed via CMake and wired up through `vtkOpenXRRenderWindow::SetModelsManifestDirectory()`, so it survives a clean rebuild instead of depending on files manually placed in the VTK build tree.
+   - Documentation ([DeveloperGuide](https://github.com/KitwareMedical/SlicerVirtualReality/blob/master/DeveloperGuide.md#controller-event-ids), and [User guide](https://github.com/KitwareMedical/SlicerVirtualReality/blob/master/README.md)) updated to match the above. List of observable/overridable controller events is available [here](https://github.com/KitwareMedical/SlicerVirtualReality/blob/master/DeveloperGuide.md#controller-event-ids).
 
 # Illustrations
 
