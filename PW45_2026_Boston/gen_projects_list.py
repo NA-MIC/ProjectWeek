@@ -164,15 +164,22 @@ for name in sorted(os.listdir(PROJECTS_DIR)):
     desc = extract_section(text, r'^# Project Description', [r'^## ', r'^# '])
     desc = re.sub(r'(?m)^\d+\.\s+', '- ', desc)
 
-    progress = extract_section(
+    def clean_progress(raw):
+        raw = re.sub(r'(?m)^\d+\.\s+', '- ', raw)
+        raw = re.sub(r'```.*?```', '', raw, flags=re.DOTALL)
+        raw = re.sub(r'<iframe[^>]*>.*?</iframe>', '', raw, flags=re.DOTALL)
+        raw = re.sub(r'(?m)^https?://\S+\s*$', '', raw)
+        raw = re.sub(r'\*\(To be filled.*?\)\*', '', raw, flags=re.DOTALL)
+        raw = re.sub(r'(?m)^-\s*…\s*$', '', raw)
+        raw = re.sub(r'\n{3,}', '\n\n', raw).strip()
+        return raw
+
+    progress = clean_progress(extract_section(
         text,
         r'^## (?:Progress[^\n]*|Objectives and Progress|Results and Outputs[^\n]*)',
-        [r'^## ', r'^# '])
-    progress = re.sub(r'(?m)^\d+\.\s+', '- ', progress)
-    progress = re.sub(r'```.*?```', '', progress, flags=re.DOTALL)
-    progress = re.sub(r'<iframe[^>]*>.*?</iframe>', '', progress, flags=re.DOTALL)
-    progress = re.sub(r'(?m)^https?://\S+\s*$', '', progress)
-    progress = re.sub(r'\n{3,}', '\n\n', progress).strip()
+        [r'^## ', r'^# ']))
+    if not progress:
+        progress = clean_progress(extract_section(text, r'^## Approach and Plan', [r'^## ', r'^# ']))
 
     projects.append(dict(title=title, proj_url=proj_url, img_url=img_url,
                          desc=desc, progress=progress, lead=lead, repo_url=repo_url,

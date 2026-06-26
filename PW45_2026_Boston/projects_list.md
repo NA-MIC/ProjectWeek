@@ -152,6 +152,10 @@ We’re building a closed-loop system with two components:
 
 The pipeline handles most de-identification automatically, but reviewers still face significant cognitive load when inspecting every metadata diff, OCR-flagged region, and fan crop. The OHIF mode currently surfaces areas in the DICOM metadata that require verification based on predefined rules but reviewers also need tools to edit PHI masks, OCR bounding boxes for non-PHI extraction, and fan geometry for fan-only pixel extraction.
 
+**Progress and Next Steps**
+
+_No response_
+
 
 10. **[Fine-tuning SimCortex Using Manually Corrected Cortical Annotations](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/FineTuningSimcortexUsingManuallyCorrectedCorticalAnnotations/)** (Kaveh Moradkhani @ École de technologie supérieure, +) ([Neuro-iX/SimCortex](https://github.com/Neuro-iX/SimCortex))
 
@@ -438,11 +442,10 @@ For DICOM persistence, standards context, and recommended interchange with resea
 
 **Progress and Next Steps**
 
-*(To be filled in during and after the event)*
-
-- …
-- …
-- …
+- **DICOM-SEG review** — Summarize standard history (binary SEG → label-map Sup 243), tooling roles (dcmjs, highdicom, dcmqi, etc.), and recommended save/load paths; validate against [PR #5806](https://github.com/OHIF/Viewers/pull/5806) ([background notes](#dicom-seg-and-format-interchange)).
+- **Reproduce overlapping-segment issues** — Triage reports (e.g. [#5453](https://github.com/OHIF/Viewers/issues/5453), [Cornerstone3D PR #2170](https://github.com/cornerstonejs/cornerstone3D/pull/2170)) across Stack + MPR and Volume viewports.
+- **Fix overlapping segment rendering** — Investigate segment blending/ordering in Cornerstone3D so multiple overlapping segments render and interact correctly in all target viewport types.
+- **Connect stats and bidirectional measurements** — Verify segmentation statistics (volume, HU stats, voxel count) and bidirectional tool output remain correct when segments overlap and when switching between Stack/MPR and Volume layouts.
 
 
 26. **[Slicer Chest Imaging Platform Reboot](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/SlicerChestImagingPlatformReboot/)** (Kalysta Makimoto @ Brigham and Women's Hospital, +) (no github repo yet)
@@ -578,6 +581,13 @@ For example, a standard may permit multiple actions for a given metadata field. 
 The initial user interface for the generator will be a command-line (CLI) tool. It will operate based on a predefined decision tree and output rules and test specifications in formats suitable for humans, AI systems, and supported programming languages.
 
 In practice, DICOM De-ID outputs can vary depending on modality, imaging protocols, contractual requirements, and application domains. However, there remains a consistent need to validate that outputs conform to a predefined set of rules. This library represents a step forward in programmatically generating verifiable rules for reliable and consistent implementation.
+
+**Progress and Next Steps**
+
+We want to create a well tested CLI based tool that takes in user input and generates the following:
+
+- A reference list of itemized, actionable rules
+- A unit and end-to-end test specification that users can apply to their specific use cases
 
 
 32. **[That Rendering Thing](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ThatRenderingThing/)** (Steve Pieper @ Isomics, +) ([pieper/SlicerCL](https://github.com/pieper/SlicerCL))
