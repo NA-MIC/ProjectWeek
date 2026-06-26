@@ -70,14 +70,9 @@ The software architecture will be designed to separate the clinical-based workfl
 
 
 
-
 # Illustrations
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-
-_No response_
-
+<img width="1024" height="768" alt="WhatsApp Image 2026-06-26 at 8 52 27 AM" src="https://github.com/user-attachments/assets/8ae6776e-d66d-4ec7-b534-601c1b0343a2" />
 
 
 # Background and References
@@ -85,6 +80,7 @@ _No response_
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-
-_No response_
-
+# Funding
+NIH R01EB020667
+NIH R01CA235134
+BWH Department of Radiology GR0131914
