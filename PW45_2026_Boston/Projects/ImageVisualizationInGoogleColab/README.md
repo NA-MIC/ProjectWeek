@@ -58,6 +58,7 @@ In this project we will experiment with different approaches to implementing 3d 
 
 1. Prepared notebooks demonstrating the use of `trame-slicer`, `ipyniiview` and Steve's `desktopia`: [https://github.com/ImagingDataCommons/IDC-Tutorials/pull/104](https://github.com/ImagingDataCommons/IDC-Tutorials/pull/104)
   * `ipyniiview` appears to be most robust, lightweight and fast viewer to use in Colab notebook (not tested outside of Google)
+  * `trame-slicer` developers [identified directions to improve performance and simplify usage](https://github.com/KitwareMedical/trame-slicer/issues/81#issuecomment-4660192264), will monitor
 2. Contributed new tutorials to IDC-Tutorials repo, updated "getting started" with using `ipyniiview`: [https://github.com/ImagingDataCommons/IDC-Tutorials/pull/104](https://github.com/ImagingDataCommons/IDC-Tutorials/pull/104)
   * [updated intro tutorial](https://github.com/ImagingDataCommons/IDC-Tutorials/blob/master/notebooks/getting_started/part2_searching_basics.ipynb) with visualization
 
