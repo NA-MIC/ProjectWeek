@@ -4,7 +4,7 @@ layout: pw45-project
 permalink: /:path/
 
 project_title: Slicey - an AI coding agent built into 3D Slicer
-category: AI
+category: Infrastructure
 presenter_location: In person
 
 key_investigators:
