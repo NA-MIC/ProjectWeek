@@ -100,6 +100,6 @@ Next steps include refining the KIMM pose-space planning and IK-validation workf
 
 
 # Funding
-NIH R01EB020667
-NIH R01CA235134
-BWH Department of Radiology GR0131914
+- NIH R01EB020667
+- NIH R01CA235134
+- BWH Department of Radiology GR0131914
