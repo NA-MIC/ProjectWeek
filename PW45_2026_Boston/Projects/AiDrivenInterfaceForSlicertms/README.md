@@ -114,13 +114,10 @@ Concept: LLM acts as a "Tool User" with bi-directional spatial awareness.
                   3. REASON ➔ Calculate Offset (Z: 55.0 - 2.0 = 53.0)
                   4. ACTION ➔ Triggers Cookbook: MoveNode("F10", [0,0,-2])
 ```
-Active AI Agent </br>
-<img src="./future_1.png" width="700" alt="Description"> </br>
+Active AI Agent
+<img src="./future_1.png" width="700" alt="Description">
 
 
-# Illustrations
-
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
 _No response_
