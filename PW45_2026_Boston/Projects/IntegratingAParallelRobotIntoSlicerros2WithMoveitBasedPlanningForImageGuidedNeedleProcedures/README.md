@@ -26,17 +26,12 @@ key_investigators:
 
 # Project Description
 
-<!-- Add a short paragraph describing the project. -->
-
-
 This project aims to integrate a Stewart-platform parallel robot into the [SlicerROS2](https://github.com/rosmed/slicer_ros2_module) ecosystem for image-guided biopsy and ablation procedures. The robot, developed by collaborator Dr. Joonho Seo at KIMM, will be controlled using [ROS2](https://www.ros.org/) and and can align a needle or ablation probe based on patient intraoperative imaging. By integrating robot visualization and motion-planning preview into the 3D Slicer interface, we aim to allow the user to visualize the planned robot motion and probe trajectory before execution. This integration will also provide a foundation for future closed-loop robotic control using medical imaging feedback.
 
 During Project Week, we created an initial ROS 2 package for the KIMM Stewart-platform robot, integrated it with SlicerROS2, and developed a Slicer-side custom-control workflow for sending desired platform poses from 3D Slicer to the robot through ROS 2. The project also motivated a generalizable interface for related medical Stewart-platform robots, including the [AIRS RONAVIS-RD platform](https://airsurgical.net/RONAVIS-RD/) for orthopedic fracture reduction.
 
 
 ## Objective
-
-<!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 The objective of this project is to explore and prototype how a parallel robot with custom forward and inverse kinematics can be integrated into the SlicerROS2 and MoveIt-based planning workflow. While current SlicerROS2/MoveIt integration is becoming mature for serial-link manipulators, parallel robots such as Stewart platforms require a different strategy because their kinematics may be provided by an external library rather than by standard MoveIt solvers. During Project Week, we aim to define and demo a practical software architecture for robot visualization, kinematic communication, motion-planning preview, and future execution control from the Slicer interface.
 
@@ -47,20 +42,13 @@ A broader objective is to make the SlicerROS2 custom-control workflow reusable a
 
 ## Approach and Plan
 
-<!-- Describe here HOW you would like to achieve the objectives stated above. -->
+We plan to develop a ROS2 package for the KIMM Stewart-platform robot and align it with a standard ROS2 robot architecture. The package will include a robot description, TF frame representation, virtual joint-state representation, and command interfaces for SlicerROS2 integration.
 
+The technical approach is to represent the Stewart platform in ROS2 in a way that supports visualization and command exchange, while keeping the closed-chain kinematics handled by robot-specific code. Because standard URDF/TF representations do not directly solve closed-chain parallel-robot kinematics, the robot package will expose a simplified visualization and state interface to SlicerROS2, while using custom kinematic calculations for platform pose and actuator feasibility.
 
-We reviewed and adjust the existing Stewart-platform code to create a ROS2 package aligned with a standard ROS2 robot architecture, including robot description, transforms, controllers, and interfaces compatible with the MoveIt and ros2_control workflow. This included defining the relevant robot frames, moving platform, actuator representation, needle/probe guide, and joint or actuator interfaces required for visualization, planning, and control.
+We plan to investigate two complementary planning strategies for Stewart-platform robots. For the KIMM robot, the near-term strategy is pose-space planning of the moving platform, followed by IK-based validation of actuator feasibility and execution constraints. In parallel, we plan to review the AIRS robot architecture as a related medical Stewart-platform system with different kinematic and command interfaces, including joint-state command capability.
 
-We are investigating how to connect the robot’s custom forward and inverse kinematics libraries to the MoveIt-based planning workflow. Possible strategies include wrapping the custom FK/IK library as a MoveIt-compatible kinematics plugin, exposing FK/IK through ROS2 services or actions, or using MoveIt for planning-scene management, trajectory preview, and collision checking while handling Stewart-platform-specific kinematics externally.
-
-In parallel, we developed an initial workflow for how to integrate the robot workflow into SlicerROS2. The planned image-guided workflow starts from intraoperative imaging in 3D Slicer, where the user defines a target, entry point, or desired needle/probe trajectory. This trajectory is converted into a desired robot alignment request and sent through the ROS 2/MoveIt interface. The planned robot pose, motion preview, and needle/probe trajectory are then visualized in Slicer before execution.
-
-The current architecture separates three layers: the Slicer-based planning and visualization workflow, the ROS 2/SlicerROS2 robot-communication layer, and the robot-specific implementation. In this structure, Slicer provides image-based planning, target or trajectory definition, transform selection, and visualization; SlicerROS2 provides communication with ROS 2 topics, services, and robot state feedback; and each robot package provides its own kinematics, command modes, controllers, workspace limits, and safety constraints.
-
-For the KIMM robot, the current practical pathway is pose-space planning of the moving platform, followed by IK-based validation of actuator feasibility and execution constraints. For the AIRS robot, joint-state commands are available, supporting a complementary joint-control workflow and ongoing development of a more MoveIt-native integration.
-
-The short-term Project Week goal is to define a practical architecture and initial prototype for connecting SlicerROS2, MoveIt, ros2_control, and the Stewart-platform. Expected outcomes include an updated software architecture, identification of required ROS2 topics/services/actions, a preliminary strategy for custom FK/IK integration, and an initial workflow for visualizing a planned robot alignment from Slicer.
+We also plan to develop a SlicerROS2 custom-control workflow that will allow a user-defined planning transform in 3D Slicer to be sent to the robot through ROS2. The broader architectural approach is to separate the Slicer-based planning and visualization workflow, the ROS2/SlicerROS2 communication layer, and the robot-specific kinematics and control implementation.
 
 
 ## Progress and Next Steps
@@ -94,10 +82,13 @@ Next steps include refining the KIMM pose-space planning and IK-validation workf
 <img width="782" height="788" alt="Screenshot from 2026-06-26 08-57-33" src="https://github.com/user-attachments/assets/fcc16071-4b6a-4165-af2f-083ae59711d1" />
 
 
-
 # Background and References
 
+- [ros2_kimm_robot](https://github.com/maribernardes/ros2_kimm_robot)  
+  ROS 2 package developed for the KIMM Stewart-platform robot.
 
+- [CustomControl-3DSlicer](https://github.com/maribernardes/CustomControl-3DSlicer)  
+  3D Slicer custom-control module for sending robot planning poses from Slicer to ROS 2 through SlicerROS2.
 
 # Funding
 - NIH R01EB020667
