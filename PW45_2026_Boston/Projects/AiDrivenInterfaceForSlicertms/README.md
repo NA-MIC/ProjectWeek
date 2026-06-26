@@ -59,7 +59,7 @@ SlicerTMS is a 3DSlicer module for patient-specific transcranial stimulation. It
 
 
 
-## Progress
+## Progress and Illustrations
 
 - SlicerTMS Navigation workflow automated by integrating Local LLM.
 - SlicerTMS Registration feature is controlled by cookbook: RAG router bypassing LLM logic for known tasks. Near zero-latency for defined commands.
@@ -83,19 +83,18 @@ Concept: Direct route bypasses LLM logic for safe, immediate execution.
         ┃                               ↓
         ┃                ( Safe Medical API Execution )
 ```
-Cookbook Matching </br>
+Cookbook Matching
 <img src="./Cookbook matching.png" width="400" alt="Description">
 
 Surface Registration
 <img src="./surface registration.png" width="700" alt="Description"> </br>
-
-
 
 ## Next Steps
 
 - AI Agent must understand scenes and coordinates before reasoning (Spatial understanding).
 - AI agent should execute active Read-Reason-Action loops. System should auto-correct spatial errors like "F10 is 2mm off".
 - Local LLMs must be evaluated against cloud models like Claude: accuracy vs execution speed for targeting tasks.
+
 ```text
 [ PHASE 2: FUTURE WORK ] Active Scene Introspection & Reasoning Loop
 =========================================================================
@@ -114,14 +113,37 @@ Concept: LLM acts as a "Tool User" with bi-directional spatial awareness.
                   3. REASON ➔ Calculate Offset (Z: 55.0 - 2.0 = 53.0)
                   4. ACTION ➔ Triggers Cookbook: MoveNode("F10", [0,0,-2])
 ```
-
 Active AI Agent </br>
 <img src="./future_1.png" width="700" alt="Description"> </br>
 
 
-# Illustrations
+## Next Steps
 
-<!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+- AI Agent must understand scenes and coordinates before reasoning (Spatial understanding).
+- AI agent should execute active Read-Reason-Action loops. System should auto-correct spatial errors like "F10 is 2mm off".
+- Local LLMs must be evaluated against cloud models like Claude: accuracy vs execution speed for targeting tasks.
+
+```text
+=========================================================================
+[ PHASE 2: FUTURE WORK ] Active Scene Introspection & Reasoning Loop
+=========================================================================
+Concept: LLM acts as a "Tool User" with bi-directional spatial awareness.
+
+[ Surgeon Input ] ➔ ( e.g., "F10 is off by 2mm, move it down" )
+        ↓
+[ RAG Router ]    ━━━ ( Semantic Similarity Calculation )
+        ↓
+        ┗━━━ [ Match < 0.35 ] ➔ [ LLM Deep Reasoning ] 
+                                        ↓
+                         [ Bi-Directional Query Loop ]
+                                        ↓
+                  1. READ   ➔ Calls GetNodeCoordinate("F10")
+                  2. RETURN ⬅ Slicer: {"F10": [x:45.2, y:12.1, z:55.0]}
+                  3. REASON ➔ Calculate Offset (Z: 55.0 - 2.0 = 53.0)
+                  4. ACTION ➔ Triggers Cookbook: MoveNode("F10", [0,0,-2])
+```
+Active AI Agent
+<img src="./future_1.png" width="700" alt="Description"> </br>
 
 
 _No response_
