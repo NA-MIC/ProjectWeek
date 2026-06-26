@@ -75,12 +75,12 @@ The goal of this project is to further increase availability of anatomic segment
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
+This week we made progress on debugging/fixing/imporoving segmentation workflow and the associated tools.
 
-
-1. Describe specific steps you **have actually done**.
-
-
-
+1. Refined post-processing component of the workflow - improved/fixed generation of DICOM SEG.
+2. Fixed handling of deflate transfer syntax in dcmqi, which was broken on windows (which was also broken in Slicer) [https://github.com/QIICR/dcmqi/pull/549](https://github.com/QIICR/dcmqi/pull/549)
+3. Adding SNOMED mapping upstream to the MOOSE segmentator [https://github.com/ENHANCE-PET/MOOSE/pull/241](https://github.com/ENHANCE-PET/MOOSE/pull/241)
+4. Started working on making the segmentation workflow applicable to segmentation of non-IDC data (via private Google bucket access)
 
 # Illustrations
 
