@@ -102,7 +102,7 @@ This week we made progress on debugging/fixing/imporoving segmentation workflow 
 <!-- If you developed any software, include link to the source code repository.
      If possible, also add links to sample data, and to any relevant publications. -->
 
-
+- <https://github.com/Sunderlandkyl/CloudSegmentator/tree/moose_test/> 
 - <https://portal.imaging.datacommons.cancer.gov/>
 - <https://terra.bio/>
 - <https://github.com/ENHANCE-PET/MOOSE>
