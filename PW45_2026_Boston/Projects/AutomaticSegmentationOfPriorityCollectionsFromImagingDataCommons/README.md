@@ -89,6 +89,8 @@ This week we made progress on debugging/fixing/imporoving segmentation workflow 
 
 <img width="776" height="499" alt="Image" src="https://github.com/user-attachments/assets/5a146049-09b6-4aea-8298-4f8d79b7e5eb" />
 
+<img width="1279" height="616" alt="image" src="https://github.com/user-attachments/assets/b793aaa1-0003-424a-9f48-895bca8d7aa9" />
+
 
 
 # Background and References
