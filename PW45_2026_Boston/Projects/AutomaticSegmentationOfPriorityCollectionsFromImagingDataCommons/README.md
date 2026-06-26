@@ -9,6 +9,10 @@ presenter_location:
 
 key_investigators:
 
+- name: Andrey Fedorov
+  affiliation: BWH
+  country: USA
+
 - name: Kyle Sunderland
   affiliation: Queen's
   country: Canada
@@ -28,10 +32,6 @@ key_investigators:
 - name: Michael Onken
   affiliation: OpenConnections GmbH
   country: Germany
-
-- name: Andrey Fedorov
-  affiliation: BWH
-  country: USA
 
 ---
 
