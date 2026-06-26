@@ -77,6 +77,8 @@ Therefore, we have started to develop detection models to automatically find ple
 
 1. We have trained some preliminary YOLO models for bounding box detection. We trained one oriented bounding box YOLO model for pleural lines, and another axis-aligned box YOLO model for B-lines. 
 2. We calculated the percent pleura and compared it to the experts.
+3. Implemented and validated a data preprocessing script: 1) parses data and formats into COCO-styled repository, 2) enables sector-to-scanline conversions, 3) enables filtering by metadata (_site, annotator, lung zone, patients, before/after diuretic, transducer type, transducer manufacturer_)
+4. Implemented a dataloader that allocates equal proportions of different metadata tags to train/vali/test datasets. Implemented k-fold validation and inclusion of data by various metadata tags.
 
 
 
@@ -94,6 +96,78 @@ YOLO results after performing pleural line detection and B-line detection, and c
 
 Percent pleura for one test lung zone - x = frame #, and y = percentage. We see that the AI predicted 
 <img width="455" height="333" alt="Image" src="https://github.com/user-attachments/assets/ac226669-a7e1-40dd-b479-cb7cb14a95f0" />
+
+**Data Exploration (During Project Week)**
+
+Overview of different metadata of lung ultrasound dataset:
+<img width="1653" height="993" alt="LungUSDataOverview" src="https://github.com/user-attachments/assets/e046e100-d5e3-4aaa-8ee9-0dd1a1b5f8d0" />
+
+Overview of original data structures:
+```
++---Andrew/
+|   +---Andrew-0561119268/
+|   |       0561119268_08109698.andrew.json
+|   |       0561119268_08109698.dcm
+|   |       ...
+|   +---Andrew-1835608883/
+|   +---Andrew-3594442829/
+|   +---Andrew-5476058456/
+|   +---Andrew-5982622832/
+|   ...
+|   +---Andrew-CARVD_123_Day_0/
+|   +---Andrew-CARVD_124_Day_0/
+|   +---Andrew-CARVD_125_Day_0/
+|   ...
+|   +---Andrew-CARVD_134_Day_0/
+|   +---Andrew-Lahey_001_T0_Transverse/
+|   +---Andrew-Lahey_029_T0_Transverse/
+|   +---Andrew-Lahey_032_T0_Transverse/
+|   ...
++---Arjun/
+|   ...
++---Frances/
+|   ...
++---Lao/
+|   ...
++---Nick/
+|   ...
++---Nicole/
+|   ...
++---Peter/
+|   ...
++---Sandra/
+|   ...
++---Sandra-old/
+    ...
+```
+
+Overview of new data structure:
+```
+COCO_Data
++---annotations/
+|   +---scanline/
+|   |       <Annotator>_<clipid>.json
+|   |       <Annotator>_<clipid>.json
+|   |       ...
+|   +---sector/
+|           <Annotator>_<clipid>.json
+|           <Annotator>_<clipid>.json
+|           ...
++---images/
+    +---scanline/
+    |       <Annotator>_<clipid>_<framenum>.png
+    |       <Annotator>_<clipid>_<framenum>.png
+    |       ...
+    +---sector/
+            <Annotator>_<clipid>_<framenum>.png
+            <Annotator>_<clipid>_<framenum>.png
+            ...
+```
+
+
+Standardized JSON Metadata:
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/70d1a7a3-a83f-4b3e-9629-e7fa67848f1f" />
 
 
 
