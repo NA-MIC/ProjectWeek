@@ -67,9 +67,9 @@ Implement Slicer methods to:
 1. Convert a SOFA scene into a Slicer scene using SlicerSOFA infrastructure and Sequence module to generate a playback sequence recording.<br>
 [Screencast from 06-25-2026 09_59_22 PM.webm](https://github.com/user-attachments/assets/1cbec52b-194e-46c7-8a3b-b2b621fb20eb)
 
-<img width="640" height="360" alt="Screencast from 06-25-2026 09_59_22 PM webm" src="https://github.com/user-attachments/assets/75b7209e-9d93-4363-8b6e-1acfe5b18f15" />
+<img width="768" height="432" alt="Screencast from 06-25-2026 09_59_22 PM webm" src="https://github.com/user-attachments/assets/75b7209e-9d93-4363-8b6e-1acfe5b18f15" />
 
-<img width="640" height="360" alt="Screencast from 06-25-2026 09_59_22 PM webm (1)" src="https://github.com/user-attachments/assets/a226a13b-18e3-4f02-8156-07ec1e41e2b2" />
+<img width="768" height="432" alt="Screencast from 06-25-2026 09_59_22 PM webm (1)" src="https://github.com/user-attachments/assets/a226a13b-18e3-4f02-8156-07ec1e41e2b2" />
 
 
 2. Newton Physics demo
