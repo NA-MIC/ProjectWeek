@@ -40,7 +40,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-This project develops a privacy-preserving extraction framework using locally deployable open-weight LLMs to structure dense clinical narratives. We aim to bypass expensive and non-private cloud APIs by fine-tuning models to extract Common Data Elements (CDEs) from Orthodontic and TMJ progress notes entirely offline.
+This project develops a privacy-preserving extraction framework using locally deployable open-weight LLMs to structure dense clinical narratives. A primary goal is to harmonize the diverse data and writing styles of different clinicians and doctors. Furthermore, we aim to bypass expensive and non-private cloud APIs by fine-tuning models to extract Common Data Elements (CDEs) from Orthodontic and TMJ progress notes entirely offline
 
 
 
@@ -89,6 +89,8 @@ Next Steps: Deploy these trained models directly within 3D Slicer by developing 
 An illustrative example of the pipeline for local clinical data extraction.
 <img width="2260" height="1530" alt="image" src="https://github.com/user-attachments/assets/ab930885-cd8a-4af6-9f1b-c9d12d150dcb" />
 
+Results:
+<img width="2510" height="1304" alt="image" src="https://github.com/user-attachments/assets/b0ea4c58-5da1-445d-9764-d88b0777fa19" />
 
 
 

@@ -69,6 +69,28 @@ A second illustration shows the local SimCortex 3D Slicer extension with reconst
 <img width="2048" height="1351" alt="Image" src="https://github.com/user-attachments/assets/81cdc66f-5362-41cf-af7f-2385b1023b8d" />
 
 
+## Results and Outputs from Project Week
+
+During Project Week, we worked on two main directions: model fine-tuning and 3D Slicer integration.
+
+For the fine-tuning part, we trained SimCortex using 30 manually corrected segmentations and cortical
+surfaces. We tested different training configurations and evaluated the models on three independent
+datasets (CNP, ds001486, HCP/OASIS), covering 120 test subjects in total. The evaluation includes
+surface distance metrics (Chamfer, ASSD, HD90), self-intersection fraction (SIF), cortical thickness
+error, and inter-surface collision checks.
+
+The tables below summarize the quantitative comparison between the baseline SimCortex and
+SimCortex FineTune.
+
+<!-- Replace the src below with your actual uploaded image URLs -->
+<img width="1142" height="315" alt="image" src="https://github.com/user-attachments/assets/a06a9fa2-5271-41ff-b143-f9e94fb3d086" />
+
+<img width="1091" height="278" alt="image" src="https://github.com/user-attachments/assets/ba70bdfd-bc82-45f4-8a58-286bd5e4c9b7" />
+
+For the 3D Slicer part, the SimCortex extension was merged into the official 3D Slicer Extensions
+Index. Users can now install it directly from Slicer, run the full pipeline from a T1-weighted MRI
+through Docker, and load the reconstructed white and pial surfaces back into Slicer for visualization.
+
 # Background and References
 
 * SimCortex GitHub repository:
