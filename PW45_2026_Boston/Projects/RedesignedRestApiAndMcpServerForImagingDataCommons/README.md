@@ -73,7 +73,12 @@ IDC already offers a customized agent skill in [https://github.com/ImagingDataCo
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Developed v3 of IDC REST API and the initial version of MCP server - [repo and overview](https://github.com/fedorov/IDC-API/blob/idc-api-v3/docs/user-guide.md)
+2. Shared MCP server endpoint with interested users, collected feedback (in particular, identified the need to improve support of clinical data)
+3. Improved MCP integration with Martin's project [https://github.com/mbellehumeur/vtk-js/pull/1](https://github.com/mbellehumeur/vtk-js/pull/1)
+4. Implemented support for clinical tables query.
+  * [public linkt to a conversation with Claude](https://claude.ai/share/85b9d201-1f85-4492-9b9b-311bf98b09f5) demonstrating the capabilities of clinical data exploration with the updated IDC MCP server
+5. Summarized (but not benchmarked!) differences between using "vanilla" Claude vs Claude + IDC skill vs Claude + IDC MCP.
 
 
 
@@ -81,6 +86,12 @@ IDC already offers a customized agent skill in [https://github.com/ImagingDataCo
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+
+Snippets from [this conversation](https://claude.ai/share/85b9d201-1f85-4492-9b9b-311bf98b09f5)
+
+<img width="662" height="706" alt="image" src="https://github.com/user-attachments/assets/ca1b293f-ff98-4081-93be-1d678941ad77" />
+
+<img width="670" height="721" alt="image" src="https://github.com/user-attachments/assets/3b1a8db0-ab9b-4f6b-b9c0-ad1ddd68a667" />
 
 <img width="1134" height="639" alt="image" src="https://github.com/user-attachments/assets/83ba0f17-ed92-4066-85f2-cfcd0a4eeb7a" />
 
