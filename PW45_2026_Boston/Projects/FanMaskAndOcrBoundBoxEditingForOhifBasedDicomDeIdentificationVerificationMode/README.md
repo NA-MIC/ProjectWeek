@@ -5,7 +5,7 @@ permalink: /:path/
 
 project_title: Fan mask and OCR bound box editing for OHIF-based DICOM De-Identification verification
   mode
-category: DICOM
+category: Lung Ultrasound
 presenter_location: 
 
 key_investigators:
