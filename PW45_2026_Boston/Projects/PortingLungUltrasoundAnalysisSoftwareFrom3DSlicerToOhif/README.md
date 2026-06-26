@@ -4,7 +4,7 @@ layout: pw45-project
 permalink: /:path/
 
 project_title: Porting lung ultrasound analysis software from 3D Slicer to OHIF
-category: Cloud / Web
+category: Lung Ultrasound
 presenter_location: 
 
 key_investigators:
