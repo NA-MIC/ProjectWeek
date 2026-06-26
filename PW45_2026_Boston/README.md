@@ -7,12 +7,12 @@ redirect_from:
 project_categories:
 - VR/AR and Rendering
 - DICOM
+- Lung Ultrasound
 - IGT and Training
 - Segmentation / Classification / Landmarking
 - Quantification and Computation
 - Cloud / Web
 - Infrastructure
-- AI
 ---
 
 # Welcome to the web page for the 45th Project Week!
