@@ -11,12 +11,14 @@
 
 2. **[AI driven interface for SlicerTMS](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/AiDrivenInterfaceForSlicertms/)** (SangHyuk Kim @ BWH & UMass Boston, +) (no github repo yet)
 
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/AiDrivenInterfaceForSlicertms/"><img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW45_2026_Boston/Projects/AiDrivenInterfaceForSlicertms/surface%20registration.png" style="max-width:480px;width:100%"></a>
+
 SlicerTMS is a 3DSlicer module for patient-specific transcranial stimulation. It integrates several functions, including neuronavigation, electric field modeling, real-time EEG streaming and recording, and TMS control. These functions involve a complex user interface, and some tasks, such as neuronavigation registration, may need more than one user. To simplify the interface and improve the user experience, we will develop a new version leveraging LLM models and Slicer AI Agent tools. Specifically, we will eliminate LLM hallucinations at the infrastructure level by executing medical software APIs through human-verified Markdown Cookbooks and local Vector RAG technologies. Furthermore, the system establishes a next-generation intelligent environment featuring a self-evolving Auto-Correction engine that tracks and learns directly from clinician adjustment patterns, all while seamlessly supporting the trusted clinical interfaces medical professionals already use.
 
 
 3. **[AI model development for lung ultrasound analysis](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/AiModelDevelopmentForLungUltrasoundAnalysis/)** (Alexandre Banks Gadbois @ BWH, +) (no github repo yet)
 
-<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/AiModelDevelopmentForLungUltrasoundAnalysis/"><img src="https://github.com/user-attachments/assets/e2c235c9-7abe-4a63-a6a0-512143757eb2" style="max-width:480px;width:100%"></a>
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/AiModelDevelopmentForLungUltrasoundAnalysis/"><img src="https://github.com/user-attachments/assets/22010591-075d-4910-9e31-184b91568813" style="max-width:480px;width:100%"></a>
 
 One of the primary indicators of acute heart failure is the presence of pulmonary congestion. To detect fluid build up quickly in the emergency room, lung ultrasound exams are taken of the patient. Clinicians look for hyperechoic artifacts (B-lines) that appear in the image, where the more they see the more congested the patient is. 
 
@@ -25,36 +27,33 @@ Unfortunately, manual detection of these B-lines is difficult due to the image q
 Therefore, we have started to develop detection models to automatically find pleural lines and B-lines and compute the percentage pleura. Our goal for this project week is to train and validate keypoint detection models such as ViTPose++, [5], and HRNet with UDP, [6], and talk to clinicians about the performance.
 
 
-4. **[Automatic segmentation of priority collections from Imaging Data Commons](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/AutomaticSegmentationOfPriorityCollectionsFromImagingDataCommons/)** (Kyle Sunderland @ Queen's, +) ([ENHANCE-PET/MOOSE](https://github.com/ENHANCE-PET/MOOSE))
+4. **[Automatic segmentation of priority collections from Imaging Data Commons](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/AutomaticSegmentationOfPriorityCollectionsFromImagingDataCommons/)** (Andrey Fedorov @ BWH, +) ([Sunderlandkyl/CloudSegmentator](https://github.com/Sunderlandkyl/CloudSegmentator))
 
-<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/AutomaticSegmentationOfPriorityCollectionsFromImagingDataCommons/"><img src="https://github.com/user-attachments/assets/5a146049-09b6-4aea-8298-4f8d79b7e5eb" style="max-width:480px;width:100%"></a>
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/AutomaticSegmentationOfPriorityCollectionsFromImagingDataCommons/"><img src="https://github.com/user-attachments/assets/b793aaa1-0003-424a-9f48-895bca8d7aa9" style="max-width:480px;width:100%"></a>
 
 **Questions? Want to participate remotely? Join our project [Discord channel](https://discord.gg/TTFGUYGdsZ)!**
 
 The goal of this project is to further increase availability of anatomic segmentations and accompanying radiomics features for the images available in Imaging Data Commons.
 
 
-5. **[Cast interface extension for  Slim and 3D Slicer: Hub,  Resource Servers and Image Display client.](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/CastInterfaceModuleFor3DSlicerServiceProvidersImageDisplayClientAndHub/)** (Martin Bellehumeur @ Radical Imaging, +) ([mbellehumeur/SlicerCastInterface](https://github.com/mbellehumeur/SlicerCastInterface))
+5. **[3D Slicer Cast interface extension: Hub,  Resource Servers and Image Display client.](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/CastInterfaceModuleFor3DSlicerServiceProvidersImageDisplayClientAndHub/)** (Martin Bellehumeur @ Radical Imaging, +) ([mbellehumeur/SlicerCastInterface](https://github.com/mbellehumeur/SlicerCastInterface))
 
 <a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/CastInterfaceModuleFor3DSlicerServiceProvidersImageDisplayClientAndHub/"><img src="https://github.com/user-attachments/assets/7c8aefc0-d697-4813-9193-53fe08944c99" style="max-width:480px;width:100%"></a>
 
-Try the new “Cast Interface” 3D slicer extension to integrate different AI engines with VolView and OHIF without a DICOM server.  
+The project is about desktop integration infrastucture for healthcare applications.  It introduces a new 3D Slicer extension that provides backend and front-end services to that effect. 
 
-Cast is  an offshoot of FHIRcast (<https://fhircast.hl7.org/>)and is focused on desktop integration workflows for healthcare providers and researchers. It provides a secure event messaging infrastructure using a hub with websocket subscriptions.
 
-The project also integrated with a new IDC MCP server to search for studies in the Imaging Data Commons repository and added cast to the Slim whole slide imaging viewer, VolView, OHIF and the 3D slicer viewer. 
-
-The repository for the slicer extension is here: https://github.com/mbellehumeur/SlicerCastInterface
+The extension repository is here: https://github.com/mbellehumeur/SlicerCastInterface
 
 
 6. **[Clinical Information Extraction via Locally Fine-Tuned LLMs](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ClinicalInformationExtractionViaLocallyFineTunedLlms/)** (Paul Dumont @ University of North Carolina at Chapel Hill, +) (no github repo yet)
 
 <a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ClinicalInformationExtractionViaLocallyFineTunedLlms/"><img src="https://github.com/user-attachments/assets/ab930885-cd8a-4af6-9f1b-c9d12d150dcb" style="max-width:480px;width:100%"></a>
 
-This project develops a privacy-preserving extraction framework using locally deployable open-weight LLMs to structure dense clinical narratives. We aim to bypass expensive and non-private cloud APIs by fine-tuning models to extract Common Data Elements (CDEs) from Orthodontic and TMJ progress notes entirely offline.
+This project develops a privacy-preserving extraction framework using locally deployable open-weight LLMs to structure dense clinical narratives. A primary goal is to harmonize the diverse data and writing styles of different clinicians and doctors. Furthermore, we aim to bypass expensive and non-private cloud APIs by fine-tuning models to extract Common Data Elements (CDEs) from Orthodontic and TMJ progress notes entirely offline
 
 
-7. **[Exploring Ultrasound Multi-frame Image Storage Structured Report support for Slicer/OHIF](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ExploringUltrasoundMultiFrameImageStorageStructuredReportSupportForSlicerOhif/)** (Deepa Krishnaswamy @ BWH, +) ([SlicerUltrasound/SlicerUltrasound](https://github.com/SlicerUltrasound/SlicerUltrasound))
+7. **[Exploring Ultrasound Multi-frame Image Storage Structured Report support for Slicer/OHIF](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ExploringUltrasoundMultiFrameImageStorageStructuredReportSupportForSlicerOhif/)** (Deepa Krishnaswamy @ BWH, +) ([deepakri201/create_LUS_SR](https://github.com/deepakri201/create_LUS_SR))
 
 <a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ExploringUltrasoundMultiFrameImageStorageStructuredReportSupportForSlicerOhif/"><img src="https://github.com/user-attachments/assets/6574e377-dc30-4454-9938-78fb3db31f39" style="max-width:480px;width:100%"></a>
 
@@ -105,12 +104,18 @@ In this project we will experiment with different approaches to implementing 3d 
 
 12. **[Improving QC protocols for AMP SCZ Clinical and MRI Data](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ImprovingQcProtocolsForAmpSczClinicalAndMriData/)** (Sylvain Bouix @ école de technologie supérieure, +) (no github repo yet)
 
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ImprovingQcProtocolsForAmpSczClinicalAndMriData/"><img src="https://github.com/user-attachments/assets/ea7915eb-1a4a-4dd0-86b2-3be1369fda8c" style="max-width:480px;width:100%"></a>
+
 We will be adding anomaly detection algorithms to clinical data and MRI data in the AMP SCZ project.
 
 
-13. **[Integrating a Parallel Robot into SlicerROS2 with MoveIt-Based Planning for Image-Guided](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/IntegratingAParallelRobotIntoSlicerros2WithMoveitBasedPlanningForImageGuidedNeedleProcedures/)** (Mariana Bernardes @ BWH, +) ([rosmed/slicer_ros2_module](https://github.com/rosmed/slicer_ros2_module))
+13. **[Integrating a Parallel Robot into SlicerROS2 with MoveIt-Based Planning for Image-Guided](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/IntegratingAParallelRobotIntoSlicerros2WithMoveitBasedPlanningForImageGuidedNeedleProcedures/)** (Mariana Bernardes @ BWH, +) ([maribernardes/ros2_kimm_robot](https://github.com/maribernardes/ros2_kimm_robot))
+
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/IntegratingAParallelRobotIntoSlicerros2WithMoveitBasedPlanningForImageGuidedNeedleProcedures/"><img src="https://github.com/user-attachments/assets/8ae6776e-d66d-4ec7-b534-601c1b0343a2" style="max-width:480px;width:100%"></a>
 
 This project aims to integrate a Stewart-platform parallel robot into the [SlicerROS2](https://github.com/rosmed/slicer_ros2_module) ecosystem for image-guided biopsy and ablation procedures. The robot, developed by collaborator Dr. Joonho Seo at KIMM, will be controlled using [ROS2](https://www.ros.org/) and and can align a needle or ablation probe based on patient intraoperative imaging. By integrating robot visualization and motion-planning preview into the 3D Slicer interface, we aim to allow the user to visualize the planned robot motion and probe trajectory before execution. This integration will also provide a foundation for future closed-loop robotic control using medical imaging feedback.
+
+During Project Week, we created an initial ROS 2 package for the KIMM Stewart-platform robot, integrated it with SlicerROS2, and developed a Slicer-side custom-control workflow for sending desired platform poses from 3D Slicer to the robot through ROS 2. The project also motivated a generalizable interface for related medical Stewart-platform robots, including the [AIRS RONAVIS-RD platform](https://airsurgical.net/RONAVIS-RD/) for orthopedic fracture reduction.
 
 
 14. **[Interactive Workflow Replay and Step-Back Navigation for Slicer Agent](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/InteractiveWorkflowReplayAndStepBackNavigationForSlicerAgent/)** (Puxun Tu @ Brigham and Women's Hospital, +) ([puxuntu/Slicer_agent](https://github.com/puxuntu/Slicer_agent))
@@ -124,9 +129,9 @@ We propose adding a workflow replay timeline that records per-step state and all
 
 15. **[Testing Local LLMs for Agentic Tasks via Slicer Skills](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/LocalAiCopilotForSlicerMedicalImagingWorkflows/)** (Paul Dumont @ University of North Carolina at Chapel Hill, +) ([jumbojing/slicerClaw](https://github.com/jumbojing/slicerClaw))
 
-<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/LocalAiCopilotForSlicerMedicalImagingWorkflows/"><img src="https://github.com/user-attachments/assets/a51aecf1-e9fe-48a1-985c-b1b0caa23a0a" style="max-width:480px;width:100%"></a>
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/LocalAiCopilotForSlicerMedicalImagingWorkflows/"><img src="https://github.com/user-attachments/assets/9ab35d03-7c82-4825-ae67-9ca98d443329" style="max-width:480px;width:100%"></a>
 
-This project will attempt to build a free, confidential, and fully local alternative to cloud-based LLMs for medical imaging workflows. To bypass expensive and non-private cloud models, we will attempt to create an AI Agent for 3D Slicer designed to run entirely offline. We aim to enable private models powered by Ollama to accurately query the Slicer API without relying on external cloud infrastructure.
+This project develops a free, confidential, and fully local alternative to cloud-based LLMs for medical imaging workflows. To bypass expensive and non-private cloud infrastructure, we are building an offline AI Agent for 3D Slicer powered by Ollama. Specifically, we aim to evaluate the capability of these local models to leverage existing "Slicer skills" to execute agentic user tasks via the Slicer API. Finally, we will benchmark the performance, context-awareness, and reliability of these local models against established cloud baselines like Claude.
 
 
 16. **[Low-Cost Tracked 3D Ultrasound Reconstruction with GE Vscan Air and NousNav](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/LowCostTracked3DUltrasoundReconstructionWithGeVscanAirAndNousnav/)** (Amirali Azimi @ Brigham and Women's Hospital, +) (no github repo yet)
@@ -142,21 +147,21 @@ A proof-of-concept reconstruction has already been performed using ultrasound im
 During Project Week, we aim to develop and evaluate a more reliable and integrated workflow for ultrasound image acquisition, timestamp synchronization, probe calibration, patient registration, three-dimensional reconstruction, and visualization within 3D Slicer and the broader open-source image-guided therapy ecosystem.
 
 
-17. **[MR2CBCT: Restoring and Extending Automated CBCT-MRI Registration for TMJ Analysis](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Mr2CbctRestoringAndExtendingAutomatedCbctMriRegistrationForTmjAnalysis/)** (Eduardo Duarte Caleme @ University of North Carolina, +) (no github repo yet)
+17. **[MR2CBCT: Restoring and Extending Automated CBCT-MRI Registration for TMJ Analysis](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Mr2CbctRestoringAndExtendingAutomatedCbctMriRegistrationForTmjAnalysis/)** (Eduardo Duarte Caleme @ University of North Carolina, +) ([Slicer/Slicer](https://github.com/Slicer/Slicer))
 
-<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Mr2CbctRestoringAndExtendingAutomatedCbctMriRegistrationForTmjAnalysis/"><img src="https://github.com/user-attachments/assets/f8aa1b2d-785f-422d-9fc3-d4350c1f5b37" style="max-width:480px;width:100%"></a>
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Mr2CbctRestoringAndExtendingAutomatedCbctMriRegistrationForTmjAnalysis/"><img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW45_2026_Boston/Projects/Mr2CbctRestoringAndExtendingAutomatedCbctMriRegistrationForTmjAnalysis/Screenshot01.jpg" style="max-width:480px;width:100%"></a>
 
 MRI-to-CBCT registration remains a pressing challenge in medical imaging. Simultaneous visualization of hard and soft tissue structures benefits both clinicians and patients in the diagnosis of temporomandibular degenerative joint disease. Challenges remain in accurately registering these two modalities due to differences in intensity distributions that complicate mutual information optimization, as well as the necessity for initial manual alignment, which can prove unintuitive and challenging for clinicians using current 3D Slicer tools.
 
 
-18. **[Multi-material meshing with Slicer for orbital fracture repair FEM simulation](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/MultiMaterialMeshingWithSlicerForOrbitalFractureRepairFemSimulation/)** (Chi Zhang @ Texas A&M College of Dentistry, +) (no github repo yet)
+18. **[Multi-material meshing with Slicer for orbital fracture repair FEM simulation](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/MultiMaterialMeshingWithSlicerForOrbitalFractureRepairFemSimulation/)** (Chi Zhang @ Texas A&M College of Dentistry, +) ([pieper/slicer-skill](https://github.com/pieper/slicer-skill))
 
-<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/MultiMaterialMeshingWithSlicerForOrbitalFractureRepairFemSimulation/"><img src="https://github.com/user-attachments/assets/2f1898dc-92df-477f-8124-294e97ed6f7b" style="max-width:480px;width:100%"></a>
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/MultiMaterialMeshingWithSlicerForOrbitalFractureRepairFemSimulation/"><img src="https://github.com/user-attachments/assets/d9eef697-56aa-488f-8461-06ff95257839" style="max-width:480px;width:100%"></a>
 
 Creating a volumetric mesh is essential for FEM simulation. However, meshing for orbital tissue with fracture is challenging due to multiple thin structures confined in a bony orbit, low CT contrast, and presence of trauma. To ease the process, we prepared a unified multi-material mesh for orbital tissue to avoid dealing with tissue boundaries. We are currently training a preliminary model using MONAI-nnUNet for orbital tissue segmentation using 13 specimens, each of which augmented to 5 additional volumns using TorchIO. We then created a unified orbital tissue segmentation, converted to a surface model, and created a tetrahedral mesh using gmsh. Sub-tissue regions were then selected in SOFA using specific tisssue surface models. Overall, though much easier than creating multiple tissue meshes, this step still requires many manual steps, including segmentation refinement and surface model downsampling and uniform remeshing, in Slicer and gmsh. Furthermore, due to the coarseness of interior tetrahedra, the selected tetrahedra could not accurately reflect internal tissue geometry, creating errors in tissue geometry tracking in simulation. Mesh refinement was used to create finer elements at interior tissue surface but it led to a over-detailed mesh with too many elements.
 
 
-19. **[New 3D Slicer Module to predict surgery movement for maxillofacial surgery](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/New3DSlicerModuleToPredictSurgeryMovementForMaxillofacialSurgery/)** (Alexandre Buisson @ University of North Carolina at Chapel Hill, +) (no github repo yet)
+19. **[New 3D Slicer Module to predict surgery movement for maxillofacial surgery](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/New3DSlicerModuleToPredictSurgeryMovementForMaxillofacialSurgery/)** (Alexandre Buisson @ University of North Carolina at Chapel Hill, +) ([DCBIA-OrthoLab/SlicerAutomatedDentalTools](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools))
 
 <a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/New3DSlicerModuleToPredictSurgeryMovementForMaxillofacialSurgery/"><img src="https://github.com/user-attachments/assets/40e31807-6507-4743-b3e6-e130736a4ab1" style="max-width:480px;width:100%"></a>
 
@@ -196,8 +201,10 @@ This week we will be finalizing the 5.12 release, and then working on moving the
 
 23. **[Recon-all correction script based on manual subcortical segmentation files](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ReconAllCorrectionScriptBasedOnManualSubcorticalSegmentationFiles/)** (Jarrett Rushmore @ Center for Morphometric Analysis, +) (no github repo yet)
 
-White and pial surfaces and parcellation from recon-all pipeline (7.4.1) need quite a few manual corrections.
-At the same time, 100 cases from HCP-YA dataset were manually segmented using HOA2 atlas (subcortical areas).
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ReconAllCorrectionScriptBasedOnManualSubcorticalSegmentationFiles/"><img src="https://github.com/user-attachments/assets/4a51c349-5b44-49f5-895e-b5648b22506d" style="max-width:480px;width:100%"></a>
+
+White and pial surfaces and parcellation (aparc+aseg) from recon-all pipeline (FreeSurfer 7.4.1) need quite a few manual corrections.
+At the same time, 100 cases from HCP-YA dataset were manually segmented using HOA2 atlas.
 The goal of the project is to leverage the latter to get better results with recon-all.
 
 
@@ -237,9 +244,9 @@ For DICOM persistence, standards context, and recommended interchange with resea
 `The Chest Imaging Platform (CIP)` is an open-source software suite developed by the `Applied Chest Imaging Laboratory (ACIL)` at Brigham and Women's Hospital (Harvard Medical School). Slicer CIP is designed for quantitative chest CT analysis, helping clinicians and researchers identify and measure phenotypes for Chronic Obstructive Pulmonary Disease (COPD), Interstitial Lung Disease (ILD), Acute Lung Injury (ALI), Pulmonary Vascular Pruning, and Lung Cancer.
 
 
-27. **[Slicer-to-Action for surgical robot imitation learning](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/SlicerToActionForSurgicalRobotImitationLearning/)** (Taewoo Yoon @ AIRS Inc, +) (no github repo yet)
+27. **[Slicer-to-Action for surgical robot imitation learning](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/SlicerToActionForSurgicalRobotImitationLearning/)** (Taewoo Yoon @ AIRS Inc, +) ([huggingface/lerobot](https://github.com/huggingface/lerobot))
 
-<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/SlicerToActionForSurgicalRobotImitationLearning/"><img src="https://github.com/user-attachments/assets/09d40dbd-0033-45a7-8e0d-324c90201013" style="max-width:480px;width:100%"></a>
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/SlicerToActionForSurgicalRobotImitationLearning/"><img src="https://github.com/user-attachments/assets/99518a87-4d88-4dd1-acc5-0b851af118d4" style="max-width:480px;width:100%"></a>
 
 We are developing a robotic system for fracture reduction using SlicerROS2. The goal of this project is to investigate whether recent imitation learning approaches, such as visuomotor policies or Vision-Language-Action (VLA) models, can be applied to this robot system.
 In this project, 3D Slicer functions as a tool to display real-time object movements in a 3D view. 
@@ -250,7 +257,7 @@ Furthermore, it will allow us to build **custom simulation environments to gener
 
 28. **[SlicerSOFA simulation for predicting soft tissue restoration after orbital fracture](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/SlicersofaSimulationForPredictingSoftTissueRestorationAfterOrbitalFractureRepair/)** (Chi Zhang @ Texas A&M College of Dentistry, +) (no github repo yet)
 
-<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/SlicersofaSimulationForPredictingSoftTissueRestorationAfterOrbitalFractureRepair/"><img src="https://github.com/user-attachments/assets/096f4d10-3875-4754-9553-9726e2a7bec2" style="max-width:480px;width:100%"></a>
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/SlicersofaSimulationForPredictingSoftTissueRestorationAfterOrbitalFractureRepair/"><img src="https://github.com/user-attachments/assets/241d7938-4b61-42e1-b402-16a42be4b926" style="max-width:480px;width:100%"></a>
 
 Orbital fractures are typically caused by blunt-force trauma. Fracture repair frequently requires placing a titanium plate to reconstruct bony orbit and restore tissue position and function from disturbed conditions, such as enophthalmos ("sunken eye") and muscle entrapment & conformational changes. 
 
@@ -266,7 +273,14 @@ Currently, it still relies on many steps of manual set up in Slicer, including r
 Currently SlicerVirtualReality is compiled using an older version of OpenXR. This project aims to finalize the integration of the latest version of OpenXR, as well as adding requested features such as passthrough using Meta Quest headsets.
 
 
-30. **[Standardizing DICOM De-ID with Actionable Rules and Tests](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/StandardizingDicomDeIdWithActionableRulesAndTests/)** (Dave Dinh @ BWH, +) ([clintools/dicom-curate](https://github.com/clintools/dicom-curate))
+30. **[Slicey - an AI coding agent built into 3D Slicer](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/SliceyAiCodingAgentFor3DSlicer/)** (Andras Lasso @ Queen's University, +) ([PerkLab/SlicerSandbox](https://github.com/PerkLab/SlicerSandbox))
+
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/SliceyAiCodingAgentFor3DSlicer/"><img src="https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW45_2026_Boston/Projects/SliceyAiCodingAgentFor3DSlicer/SliceyScreenshot01.jpg" style="max-width:480px;width:100%"></a>
+
+Slicey is a new scripted module (in the [SlicerSandbox](https://github.com/PerkLab/SlicerSandbox) extension) that embeds an AI coding agent directly inside 3D Slicer. Instead of copy-pasting code snippets into the Python console or running a separate MCP server, the user chats with Claude in a panel docked in Slicer, and Claude can read/write files in folders the user explicitly shares, and write and execute Python code in a real, running Slicer session (either the user's current window or an isolated companion instance) to carry out the request.
+
+
+31. **[Standardizing DICOM De-ID with Actionable Rules and Tests](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/StandardizingDicomDeIdWithActionableRulesAndTests/)** (Dave Dinh @ BWH, +) ([clintools/dicom-curate](https://github.com/clintools/dicom-curate))
 
 DICOM de-identification (De-ID) efforts often overlap in the rules used to process DICOM metadata. This project aims to translate [an existing DICOM De-ID standard](https://dicom.nema.org/medical/dicom/current/output/html/part15.html#sect_E.1.1) into a set of actionable rules that can serve both as an implementation guide and as a verifiable audit trail for tools and AI systems.
 For example, a standard may permit multiple actions for a given metadata field. A baseline reference can recommend a default action, while still allowing users to specify alternative behaviors as needed. The proposed generator will take user input and produce:
@@ -279,9 +293,9 @@ The initial user interface for the generator will be a command-line (CLI) tool. 
 In practice, DICOM De-ID outputs can vary depending on modality, imaging protocols, contractual requirements, and application domains. However, there remains a consistent need to validate that outputs conform to a predefined set of rules. This library represents a step forward in programmatically generating verifiable rules for reliable and consistent implementation.
 
 
-31. **[That Rendering Thing](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ThatRenderingThing/)** (Steve Pieper @ Isomics, +) ([pieper/SlicerCL](https://github.com/pieper/SlicerCL))
+32. **[That Rendering Thing](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ThatRenderingThing/)** (Steve Pieper @ Isomics, +) ([pieper/SlicerCL](https://github.com/pieper/SlicerCL))
 
-<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ThatRenderingThing/"><img src="https://github.com/user-attachments/assets/2fc3ddb2-f485-40a6-b8e1-241e4fe4d155" style="max-width:480px;width:100%"></a>
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ThatRenderingThing/"><img src="https://github.com/user-attachments/assets/7a71cf08-c4db-494b-90ef-c7292b4dfa00" style="max-width:480px;width:100%"></a>
 
 I've been experimenting with [wgpu-py](https://github.com/pygfx/wgpu-py), an implementation of WebGPU that you can pip_install directly into Slicer.
 
@@ -307,7 +321,7 @@ The work in progress in [SlicerWGPU](https://github.com/pieper/SlicerWGPU), whic
 * Go to the `Scene Rendering` module and try the buttons.  The top block of buttons (the "VTK Injection" block) are the current demos and the "Dual View" bock are some older experiments.
 
 
-32. **[Vox2SegLAM: Protocol-Guided Subcortical Segmentation in 3D Slicer](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Vox2SeglamProtocolGuidedSubcorticalSegmentationIn3DSlicer/)** (Ahmed Rekik @ École de technologie supérieure, +) (no github repo yet)
+33. **[Vox2SegLAM: Protocol-Guided Subcortical Segmentation in 3D Slicer](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Vox2SeglamProtocolGuidedSubcorticalSegmentationIn3DSlicer/)** (Ahmed Rekik @ École de technologie supérieure, +) (no github repo yet)
 
 <a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/Vox2SeglamProtocolGuidedSubcorticalSegmentationIn3DSlicer/"><img src="https://github.com/user-attachments/assets/51fcdf47-e1a7-4318-ac84-38637db7b6bc" style="max-width:480px;width:100%"></a>
 

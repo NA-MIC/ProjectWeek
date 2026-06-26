@@ -1,5 +1,6 @@
 import re
 import os
+from urllib.parse import quote
 
 PROJECTS_DIR = "/Users/tkapur/repos/ProjectWeek/PW45_2026_Boston/Projects"
 OUT_PATH = "/Users/tkapur/repos/ProjectWeek/PW45_2026_Boston/projects_list.md"
@@ -8,12 +9,22 @@ RAW_BASE = "https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW45_202
 
 # Manual image overrides: folder name → image URL to use instead of auto-selected
 IMAGE_OVERRIDES = {
+    "AiAgentForSlicerautomateddentaltools":
+        "https://github.com/user-attachments/assets/32b13db1-2e45-4067-8fd6-1d18a84fd662",
+    "AiModelDevelopmentForLungUltrasoundAnalysis":
+        "https://github.com/user-attachments/assets/22010591-075d-4910-9e31-184b91568813",
     "CastInterfaceModuleFor3DSlicerServiceProvidersImageDisplayClientAndHub":
         "https://github.com/user-attachments/assets/7c8aefc0-d697-4813-9193-53fe08944c99",
+    "ClinicalInformationExtractionViaLocallyFineTunedLlms":
+        "https://github.com/user-attachments/assets/ab930885-cd8a-4af6-9f1b-c9d12d150dcb",
+    "ExploringUltrasoundMultiFrameImageStorageStructuredReportSupportForSlicerOhif":
+        "https://github.com/user-attachments/assets/6574e377-dc30-4454-9938-78fb3db31f39",
     "FanMaskAndOcrBoundBoxEditingForOhifBasedDicomDeIdentificationVerificationMode":
         "https://github.com/user-attachments/assets/f4a099f4-5f71-40a3-a22f-f84ace253d0e",
     "Mr2CbctRestoringAndExtendingAutomatedCbctMriRegistrationForTmjAnalysis":
-        "https://github.com/user-attachments/assets/f8aa1b2d-785f-422d-9fc3-d4350c1f5b37",
+        "https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW45_2026_Boston/Projects/Mr2CbctRestoringAndExtendingAutomatedCbctMriRegistrationForTmjAnalysis/Screenshot01.jpg",
+    "SliceyAiCodingAgentFor3DSlicer":
+        "https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW45_2026_Boston/Projects/SliceyAiCodingAgentFor3DSlicer/SliceyScreenshot01.jpg",
     "Vox2SeglamProtocolGuidedSubcorticalSegmentationIn3DSlicer":
         "https://github.com/user-attachments/assets/51fcdf47-e1a7-4318-ac84-38637db7b6bc",
 }
@@ -45,7 +56,7 @@ def get_images_from_section(text, start_pattern, stop_patterns):
     # HTML img tags: <img width="NNN" ... src="URL" ...>
     for tag in re.finditer(r'<img\b[^>]+>', chunk):
         tag_text = tag.group()
-        url_m = re.search(r'src="(https://[^"]+)"', tag_text)
+        url_m = re.search(r'src="([^"]+)"', tag_text)
         if not url_m:
             continue
         url = url_m.group(1)
@@ -55,7 +66,7 @@ def get_images_from_section(text, start_pattern, stop_patterns):
         width = int(w_m.group(1)) if w_m else 0
         results.append((width, url))
     # Markdown images: ![alt](url)
-    for m2 in re.finditer(r'!\[[^\]]*\]\((https://[^)]+)\)', chunk):
+    for m2 in re.finditer(r'!\[[^\]]*\]\(([^)]+)\)', chunk):
         url = m2.group(1)
         if re.search(r'youtube|youtu\.be', url, re.I):
             continue
@@ -67,7 +78,8 @@ def resolve_img_url(url, folder):
     """Convert a relative image path to a raw GitHub URL."""
     if url.startswith('http'):
         return url
-    return f"{RAW_BASE}/{folder}/{url}"
+    clean = url[2:] if url.startswith('./') else url.lstrip('/')
+    return f"{RAW_BASE}/{folder}/{quote(clean)}"
 
 
 def pick_best_image(text, folder):
@@ -85,7 +97,7 @@ def pick_best_image(text, folder):
     if not all_imgs:
         results = []
         for tag in re.finditer(r'<img\b[^>]+>', text):
-            url_m = re.search(r'src="(https://[^"]+)"', tag.group())
+            url_m = re.search(r'src="([^"]+)"', tag.group())
             if url_m and not re.search(r'youtube|youtu\.be', url_m.group(1), re.I):
                 w_m = re.search(r'width="([0-9]+)"', tag.group())
                 results.append((int(w_m.group(1)) if w_m else 0, url_m.group(1)))
