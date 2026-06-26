@@ -36,7 +36,7 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-This project will attempt to build a free, confidential, and fully local alternative to cloud-based LLMs for medical imaging workflows. To bypass expensive and non-private cloud models, we will attempt to create an AI Agent for 3D Slicer designed to run entirely offline. We aim to enable private models powered by Ollama to accurately query the Slicer API without relying on external cloud infrastructure.
+This project develops a free, confidential, and fully local alternative to cloud-based LLMs for medical imaging workflows. To bypass expensive and non-private cloud infrastructure, we are building an offline AI Agent for 3D Slicer powered by Ollama. Specifically, we aim to evaluate the capability of these local models to leverage existing "Slicer skills" to execute agentic user tasks via the Slicer API. Finally, we will benchmark the performance, context-awareness, and reliability of these local models against established cloud baselines like Claude.
 
 
 
@@ -69,7 +69,11 @@ Progress: Reviewed current cloud-reliant MCP integrations (slicer-skill, mcp-sli
 
 
 # Illustrations
-<img width="1260" height="1446" alt="image" src="https://github.com/user-attachments/assets/a51aecf1-e9fe-48a1-985c-b1b0caa23a0a" />
+<img width="1076" height="1250" alt="image" src="https://github.com/user-attachments/assets/fdd3dde3-90e3-4bab-8520-9538315ec5f9" />
+
+Results:
+<img width="1428" height="1006" alt="image" src="https://github.com/user-attachments/assets/9ab35d03-7c82-4825-ae67-9ca98d443329" />
+
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
