@@ -69,8 +69,7 @@ _No response_
 
 ## Progress and Next Steps
 
-<!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
-     If there are specific steps that you could not complete then you can describe them here, too. -->
+Deploy to testing environment and iterate on user feedback.
 
 
 
@@ -83,12 +82,50 @@ _No response_
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
 
-DICOM De-ID Loop:
+**DICOM De-ID Loop**
+
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/b95e956f-f422-494c-8c52-91b3d1fbd174" />
 
-OHIF Mode:
+**High Level Overview**
 
-<img width="800" alt="Image" src="https://github.com/user-attachments/assets/f4a099f4-5f71-40a3-a22f-f84ace253d0e" />
+<img width="1728" height="861" alt="Screenshot 2026-06-26 at 2 48 10 PM" src="https://github.com/user-attachments/assets/ba0d5bd5-dab4-48ea-9e85-b1646a594e94" />
+
+<img width="1728" height="915" alt="Screenshot 2026-06-26 at 2 48 21 PM" src="https://github.com/user-attachments/assets/9cb1b243-40ef-4955-85e0-cfe71f077d62" />
+
+<img width="1728" height="972" alt="Screenshot 2026-06-26 at 2 48 48 PM" src="https://github.com/user-attachments/assets/3f5ec870-84ca-4076-9b7b-e1b2cf11057f" />
+
+<img width="1728" height="972" alt="Screenshot 2026-06-26 at 2 49 01 PM" src="https://github.com/user-attachments/assets/c2c87d92-6af4-4f76-8fbf-f5d2e3b6f2fd" />
+
+
+**DICOM De-ID Verification Mode**
+
+Individual DICOM Review:
+
+<img width="1728" height="998" alt="single_view_ocr_overlay" src="https://github.com/user-attachments/assets/3cbe26d1-69ed-425d-9822-f63665288d5b" />
+
+<img width="1728" height="998" alt="ocr_and_phi_bounding_box_editor" src="https://github.com/user-attachments/assets/649cc05e-9aaa-44a0-b9c1-9ce7a8fceb8e" />
+
+<img width="1728" height="998" alt="singe_view_fan_overlay" src="https://github.com/user-attachments/assets/8d852b63-7e77-4d27-a31c-3a6283d16a17" />
+
+<img width="1728" height="998" alt="fan_geometry_editor" src="https://github.com/user-attachments/assets/4d3edb8d-36b0-431a-8e7f-a3f39e0887e7" />
+
+<img width="1728" height="998" alt="single_view_metadata_review" src="https://github.com/user-attachments/assets/e45c9dbb-d36c-44ab-b6d2-cbd05537b1b8" />
+
+
+Batch DICOM Review:
+
+<img width="1728" height="998" alt="batch_view_ocr" src="https://github.com/user-attachments/assets/2728db03-2dad-43e2-919b-33aea96023ab" />
+
+<img width="1728" height="998" alt="batch_view_fan" src="https://github.com/user-attachments/assets/a734e329-b123-40f8-adc1-82966644258b" />
+
+<img width="1728" height="998" alt="batch_view_deid" src="https://github.com/user-attachments/assets/d4f5d620-f47a-4f59-bc28-2694e1e20de7" />
+
+<img width="1728" height="998" alt="batch_view_fan_crop" src="https://github.com/user-attachments/assets/cc5e2e8b-92a1-4e4a-84c0-021183a27bf9" />
+
+<img width="1728" height="998" alt="batch_view_metadata_review" src="https://github.com/user-attachments/assets/924a5e64-9bf7-447e-8a6f-31642899abd1" />
+
+<img width="1728" height="998" alt="batch_view_summary" src="https://github.com/user-attachments/assets/bc90715a-48b2-4f1f-a8f3-a6a20545e0cc" />
+
 
 
 
