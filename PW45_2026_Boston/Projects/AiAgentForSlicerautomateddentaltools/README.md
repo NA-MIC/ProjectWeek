@@ -95,13 +95,17 @@ Slicer Automated Dental Tools Overview :
 
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/32b13db1-2e45-4067-8fd6-1d18a84fd662" />
 
+Tool demo:
+
+https://github.com/user-attachments/assets/6c0fbb3c-7a7f-4aa8-aa00-e0512f3cf760
+
+Results comparing local LLMs and Cloud-based Models:
+
+<img width="1629" height="82" alt="Screenshot 2026-06-26 at 11 35 49 AM" src="https://github.com/user-attachments/assets/5356216f-b681-4ebf-ac21-0d589fb1950f" />
 
 
 # Background and References
 
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
-
-
-- SlicerAutomatedDentalTools: <https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools>
+Github link: https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools
+This work was supported by the National Institute of Dental and Craniofacial Research (NIDCR) of the National Institutes of Health under Award Number R01DE024450.
 
