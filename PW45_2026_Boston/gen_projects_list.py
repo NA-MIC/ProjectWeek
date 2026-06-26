@@ -13,6 +13,8 @@ IMAGE_OVERRIDES = {
         "https://github.com/user-attachments/assets/32b13db1-2e45-4067-8fd6-1d18a84fd662",
     "AiModelDevelopmentForLungUltrasoundAnalysis":
         "https://github.com/user-attachments/assets/22010591-075d-4910-9e31-184b91568813",
+    "InteractiveWorkflowReplayAndStepBackNavigationForSlicerAgent":
+        "https://raw.githubusercontent.com/NA-MIC/ProjectWeek/master/PW45_2026_Boston/Projects/InteractiveWorkflowReplayAndStepBackNavigationForSlicerAgent/workflow_replay_demo.png",
     "CastInterfaceModuleFor3DSlicerServiceProvidersImageDisplayClientAndHub":
         "https://github.com/user-attachments/assets/7c8aefc0-d697-4813-9193-53fe08944c99",
     "ClinicalInformationExtractionViaLocallyFineTunedLlms":
@@ -38,6 +40,7 @@ def extract_section(text, start_pattern, stop_patterns):
     stop = re.search("|".join(stop_patterns), rest, re.MULTILINE)
     chunk = rest[:stop.start()] if stop else rest
     chunk = re.sub(r'<!--.*?-->', '', chunk, flags=re.DOTALL)
+    chunk = re.sub(r'[^\n]+\n\s*<img\b[^>]*/?\s*>', '', chunk)  # strip caption lines before images
     chunk = re.sub(r'<img[^>]*/?\s*>', '', chunk)
     chunk = re.sub(r'!\[.*?\]\(.*?\)', '', chunk)
     return chunk.strip()
@@ -159,12 +162,20 @@ for name in sorted(os.listdir(PROJECTS_DIR)):
     img_url = IMAGE_OVERRIDES.get(name) or pick_best_image(text, name)
 
     desc = extract_section(text, r'^# Project Description', [r'^## ', r'^# '])
-    # Convert any numbered list items in description to bullets so they
-    # don't interfere with the outer project numbering in the rendered markdown
     desc = re.sub(r'(?m)^\d+\.\s+', '- ', desc)
 
+    progress = extract_section(
+        text,
+        r'^## (?:Progress[^\n]*|Objectives and Progress|Results and Outputs[^\n]*)',
+        [r'^## ', r'^# '])
+    progress = re.sub(r'(?m)^\d+\.\s+', '- ', progress)
+    progress = re.sub(r'```.*?```', '', progress, flags=re.DOTALL)
+    progress = re.sub(r'<iframe[^>]*>.*?</iframe>', '', progress, flags=re.DOTALL)
+    progress = re.sub(r'(?m)^https?://\S+\s*$', '', progress)
+    progress = re.sub(r'\n{3,}', '\n\n', progress).strip()
+
     projects.append(dict(title=title, proj_url=proj_url, img_url=img_url,
-                         desc=desc, lead=lead, repo_url=repo_url,
+                         desc=desc, progress=progress, lead=lead, repo_url=repo_url,
                          repo_name=repo_name if repo_url else None))
 
 
@@ -184,6 +195,10 @@ for i, p in enumerate(projects, 1):
 
     if p['desc']:
         lines.append(p['desc'] + '\n')
+
+    if p['progress']:
+        lines.append('**Progress and Next Steps**\n')
+        lines.append(p['progress'] + '\n')
 
     lines.append('')
 
