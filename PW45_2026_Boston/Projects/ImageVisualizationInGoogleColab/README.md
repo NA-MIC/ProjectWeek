@@ -42,8 +42,6 @@ In this project we will experiment with different approaches to implementing 3d 
 3. Document and report any issues identified.
 
 
-
-
 ## Approach and Plan
 
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
@@ -52,22 +50,23 @@ In this project we will experiment with different approaches to implementing 3d 
 1. Read up on what `trame-slicer` is and how to use it.
 2. Start from the instructions put together by Andras in <https://github.com/KitwareMedical/trame-slicer/issues/81>.
 
-
-
 ## Progress and Next Steps
 
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
-
-
-
+1. Prepared notebooks demonstrating the use of `trame-slicer`, `ipyniiview` and Steve's `desktopia`: [https://github.com/ImagingDataCommons/IDC-Tutorials/pull/104](https://github.com/ImagingDataCommons/IDC-Tutorials/pull/104)
+  * `ipyniiview` appears to be most robust, lightweight and fast viewer to use in Colab notebook (not tested outside of Google)
+2. Contributed new tutorials to IDC-Tutorials repo, updated "getting started" with using `ipyniiview`: [https://github.com/ImagingDataCommons/IDC-Tutorials/pull/104](https://github.com/ImagingDataCommons/IDC-Tutorials/pull/104)
+  * [updated intro tutorial](https://github.com/ImagingDataCommons/IDC-Tutorials/blob/master/notebooks/getting_started/part2_searching_basics.ipynb) with visualization
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
+
+<img width="1437" height="897" alt="image" src="https://github.com/user-attachments/assets/73259aff-ee0a-4cdb-8884-adf975c36e7b" />
+
 
 <img width="1439" height="748" alt="image" src="https://github.com/user-attachments/assets/dbfdd42e-8f9c-4b62-a98b-b0e0e4ba99c4" />
 
