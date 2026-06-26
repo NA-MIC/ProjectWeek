@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/8a96e063-ae7f-44c0-9dcf-9a7a1c37b82d
-
 ---
 layout: pw45-project
 
