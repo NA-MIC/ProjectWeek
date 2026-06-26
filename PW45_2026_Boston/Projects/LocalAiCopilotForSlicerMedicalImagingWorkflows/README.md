@@ -4,7 +4,7 @@ layout: pw45-project
 permalink: /:path/
 
 project_title: Testing Local LLMs for Agentic Tasks via Slicer Skills
-category: AI
+category: Infrastructure
 presenter_location: 
 
 key_investigators:
