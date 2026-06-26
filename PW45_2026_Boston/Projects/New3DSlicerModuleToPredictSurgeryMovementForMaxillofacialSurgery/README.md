@@ -92,7 +92,17 @@ Also, we'll verify the accuracy of the outputs within the Slicer environment and
 
 <img width="1728" height="695" alt="Screenshot 2026-06-25 at 10 29 58 AM" src="https://github.com/user-attachments/assets/40e31807-6507-4743-b3e6-e130736a4ab1" />
 
+Tool Demo:
 
+https://github.com/user-attachments/assets/5be5f7b6-f967-4f26-a71d-bf860154024b
+
+IOS-CBCT Registration tool:
+
+<img width="670" height="794" alt="Screenshot 2026-06-26 at 11 19 17 AM" src="https://github.com/user-attachments/assets/6dd31440-43df-4f67-8c8a-4a50717df5c2" />
+
+VFACE Tool (Classification of Asymmetry and/or longitudinal studies):
+
+<img width="669" height="789" alt="Screenshot 2026-06-26 at 11 18 51 AM" src="https://github.com/user-attachments/assets/306f84a3-fbac-4503-8fb5-92670b47ee71" />
 
 
 # Background and References
