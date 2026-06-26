@@ -65,6 +65,8 @@ In this project we will experiment with different approaches to implementing 3d 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+Result of running [this IDC tutorial notebook](https://github.com/ImagingDataCommons/IDC-Tutorials/blob/master/notebooks/getting_started/part2_searching_basics.ipynb)
+
 <img width="1437" height="897" alt="image" src="https://github.com/user-attachments/assets/73259aff-ee0a-4cdb-8884-adf975c36e7b" />
 
 
