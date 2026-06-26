@@ -4,7 +4,7 @@ layout: pw45-project
 permalink: /:path/
 
 project_title: Clinical Information Extraction via Locally Fine-Tuned LLMs
-category: AI
+category: Infrastructure
 presenter_location: 
 
 key_investigators:
