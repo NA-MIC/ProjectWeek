@@ -81,6 +81,8 @@ Result in the 3D Slicer scene after a simple prompt with a local 7B Qwen model:
 
 <img width="1428" height="1006" alt="image" src="https://github.com/user-attachments/assets/9ab35d03-7c82-4825-ae67-9ca98d443329" />
 
+Chatbot Interface (Cline)
+<img width="1052" height="2082" alt="image" src="https://github.com/user-attachments/assets/523b064d-85b1-44d2-b354-28eaf68837c7" />
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
