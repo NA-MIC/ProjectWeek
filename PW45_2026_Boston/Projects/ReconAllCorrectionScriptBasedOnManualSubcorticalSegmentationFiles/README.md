@@ -28,8 +28,8 @@ key_investigators:
 <!-- Add a short paragraph describing the project. -->
 
 
-White and pial surfaces and parcellation from recon-all pipeline (7.4.1) need quite a few manual corrections.
-At the same time, 100 cases from HCP-YA dataset were manually segmented using HOA2 atlas (subcortical areas).
+White and pial surfaces and parcellation (aparc+aseg) from recon-all pipeline (FreeSurfer 7.4.1) need quite a few manual corrections.
+At the same time, 100 cases from HCP-YA dataset were manually segmented using HOA2 atlas.
 The goal of the project is to leverage the latter to get better results with recon-all.
 
 
@@ -40,9 +40,9 @@ The goal of the project is to leverage the latter to get better results with rec
 <!-- Describe here WHAT you would like to achieve (what you will have as end result). -->
 
 
-1. Add flexibility to the script (different cases of use: with or without ribbon/subcortical files)
+1. Make the pipeline more straightforward, by using only one edited input image (subcortical HOA segmentation)
 2. Visually check the different scenario results of the script, and solve following region issues: hippocampus/amygdala, temporal lobe
-3. Make the script easier to be used by novice users
+3. Train an nnUNet model on segmenting white and gray matter based on manually edited ribbon
 
 
 
@@ -51,9 +51,9 @@ The goal of the project is to leverage the latter to get better results with rec
 <!-- Describe here HOW you would like to achieve the objectives stated above. -->
 
 
-1. All segmentation results will be computed beforehand
-2. NAMIC project week participants may be invited to test the script
-
+1. Create a new script to merge HOA and FS aseg.presurf.mgz file (merge_hoa_into_aseg.py)
+2. Modify previous script (ribbon_edit_script.sh) to adapt to new input
+3. Use edited ribbon of HOA to train an nnUNet model
 
 
 
@@ -62,26 +62,16 @@ The goal of the project is to leverage the latter to get better results with rec
 <!-- Update this section as you make progress, describing of what you have ACTUALLY DONE.
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
-
-
-
+1. merge_hoa_into_aseg.py works properly
+2. Final result is good: surfaces and parcellation are HOA compatible (minimal corrections needed)
+3. nnUNet trained model didn't segment properly WM/GM
+  - add HOA subcortical labels to help segmentation
+  - compare with other models (like Unest)
 
 
 
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-
-
-_No response_
-
-
-
-# Background and References
-
-<!-- If you developed any software, include link to the source code repository.
-     If possible, also add links to sample data, and to any relevant publications. -->
-
-
-_No response_
+<img width="2467" height="3332" alt="HOABV_Project Week" src="https://github.com/user-attachments/assets/f5201872-65e6-4eb0-aae2-681540ee81a1" />
 
