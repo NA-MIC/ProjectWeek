@@ -73,5 +73,6 @@ The goal of the project is to leverage the latter to get better results with rec
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
-<img width="2467" height="3332" alt="HOABV_Project Week" src="https://github.com/user-attachments/assets/f5201872-65e6-4eb0-aae2-681540ee81a1" />
+<img width="2228" height="2926" alt="HOABV_Project Week(1)" src="https://github.com/user-attachments/assets/4a51c349-5b44-49f5-895e-b5648b22506d" />
+
 
