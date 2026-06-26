@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/8a96e063-ae7f-44c0-9dcf-9a7a1c37b82d
+
 ---
 layout: pw45-project
 
@@ -76,7 +80,7 @@ The goal of the project is to leverage the latter to get better results with rec
 <img width="2228" height="2926" alt="HOABV_Project Week(1)" src="https://github.com/user-attachments/assets/4a51c349-5b44-49f5-895e-b5648b22506d" />
 
 
-https://github.com/user-attachments/assets/e339be0a-c1a5-41e3-9ebd-f8cacd4a5600
+https://github.com/user-attachments/assets/8df68d33-37ac-4b2e-b94d-73d2219f620b
 
 
 
