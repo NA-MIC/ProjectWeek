@@ -95,6 +95,16 @@ key_investigators:
 <img width="2068" height="1185" alt="Image" src="https://github.com/user-attachments/assets/bafc0a10-95e7-4976-a324-aac7b8e5afc8" />
 
 
+# Results
+
+- **Video.** Full workflow demo — hub-based remote inference deployment (VolView/CastInterface) followed by the Vox2SegLAM 3D Slicer extension end-to-end:
+
+   <video
+   controls muted
+   src="https://github.com/user-attachments/assets/c0781e8a-0b7f-4b91-957e-7d9ea8aae0fc"
+   style="max-width:800px">
+ </video>
+
 
 
 # Background and References
