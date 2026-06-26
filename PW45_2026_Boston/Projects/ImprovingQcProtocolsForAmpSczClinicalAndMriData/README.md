@@ -58,7 +58,10 @@ We will be adding anomaly detection algorithms to clinical data and MRI data in 
      If there are specific steps that you could not complete then you can describe them here, too. -->
 
 
-1. Describe specific steps you **have actually done**.
+1. Scanned the database for site distribution outliers, string anomalies, and time series anomalies that allowed several new quality control rules to be developed.
+2. Created a web interface for MRI data that allowed various synthetic anatomical and scanner features to be visualized.
+3. Used the synthetic anatomical and scanner augmentations to train a robust MRI QC model.
+4. Next steps involve calculating the correlation between the automatic MRI QC and scores by human raters.
 
 
 
@@ -67,6 +70,7 @@ We will be adding anomaly detection algorithms to clinical data and MRI data in 
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
 
+<img width="1276" height="614" alt="image" src="https://github.com/user-attachments/assets/ea7915eb-1a4a-4dd0-86b2-3be1369fda8c" />
 
 _No response_
 
