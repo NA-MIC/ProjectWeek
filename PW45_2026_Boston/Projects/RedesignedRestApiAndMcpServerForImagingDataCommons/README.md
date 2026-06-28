@@ -25,6 +25,10 @@ key_investigators:
   affiliation: Radical Imaging
   country: Germany
 
+- name: Ryan Cahill
+  affiliation:
+  country: USA
+
 - name: Ulrike Wagner
   affiliation: Leidos Biomedical Research
   country: USA
@@ -79,6 +83,7 @@ IDC already offers a customized agent skill in [https://github.com/ImagingDataCo
 4. Implemented support for clinical tables query.
   * [public linkt to a conversation with Claude](https://claude.ai/share/85b9d201-1f85-4492-9b9b-311bf98b09f5) demonstrating the capabilities of clinical data exploration with the updated IDC MCP server
 5. Summarized (but not benchmarked!) differences between using "vanilla" Claude vs Claude + IDC skill vs Claude + IDC MCP.
+6. 3rd party security review by Ryan completed.
 
 
 
