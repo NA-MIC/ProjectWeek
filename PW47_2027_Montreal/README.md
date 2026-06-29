@@ -3,9 +3,20 @@ permalink: /:path/
 redirect_from:
 - /PW47_2027_Montreal/README.html
 - /PW47_2027_Montreal/Readme.html
+
+project_categories:
+- VR/AR and Rendering
+- DICOM
+- Lung Ultrasound
+- IGT and Training
+- Segmentation / Classification / Landmarking
+- Quantification and Computation
+- Cloud / Web
+- Infrastructure
 ---
 
 # Welcome to the web page for the 47th Project Week!
+<img src="images/pw39-event-photos.jpg" height="200">
 
 This event will take place June 28th - July 2nd, 2027 in Montreal, Canada.
 
@@ -16,6 +27,7 @@ This event will take place June 28th - July 2nd, 2027 in Montreal, Canada.
 The images below show how to get to the Project Week conference room. If you Google "ETS", it will take you to the main building of the university (1). You need to walk about 200 meters to get to the building called "Maison des étudiants" (2). Enter the building and either climb the stairs or take the elevator on the right to reach the second floor (3). From there, you should easily find the registration desk.
 
 Venue entrance on Google Maps: [https://goo.gl/maps/xNedgMBt4C6jwiCu5](https://goo.gl/maps/xNedgMBt4C6jwiCu5)
+<img src="images/PW43-venue.png" height="200">
 
 ## How to participate
 
