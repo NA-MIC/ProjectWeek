@@ -23,6 +23,10 @@ Venue entrance on Google Maps: [https://goo.gl/maps/xNedgMBt4C6jwiCu5](https://g
 * These meetings are an opportunity to introduce yourself, find a project you want to participate in during the workshop or propose one yourself and find collaborators. You will also find out more about how the workshop works.
 * **Register as soon as possible** to help us plan the number of attendees.
 
+## Breakout sessions
+
+## Projects
+
 ## Registration
 
 Registration details coming soon.
@@ -57,7 +61,8 @@ List of registered participants so far (names will be added here after processin
 * [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)),
 * [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//))
 * [@rafaelpalomar](https://github.com/rafaelpalomar) ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp))
-* [@piiq](https://github.com/piiq) ([Theodore Aptekarev](https://discourse.slicer.org/u/pll_llq))
+* [@deepakri201](https://github.com/deepakri201) ([Deepa Krishnaswamy, PhD](https://scholar.google.com/citations?user=X8jB1n0AAAAJ&hl=en))
+* Theodore Aptekarev
 * [@sjh26](https://github.com/sjh26) ([Sam Horvath, PhD](https://www.kitware.com/samantha-horvath/))
 
 ## History
