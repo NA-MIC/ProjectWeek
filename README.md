@@ -39,7 +39,7 @@ Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD]
 
   [Project Week 46](PW46_2027_GranCanaria/README.md) will take place on January 25-29, 2027, in person in Las Palmas de Gran Canaria, Spain.
   
-  Project Week 47 will take place on June 21-25, 2027, in person in Montréal, QC, Canada.
+  Project Week 47 will take place on June 28 - July 2, 2027, in person in Montréal, QC, Canada.
 
 ## Past Project Weeks
 
