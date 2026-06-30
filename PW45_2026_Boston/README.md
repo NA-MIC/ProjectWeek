@@ -17,7 +17,7 @@ project_categories:
 
 # Welcome to the web page for the 45th Project Week!
 
-[This event](https://projectweek.na-mic.org/PW_45_2026_Boston/README.html) will take place June 22nd - 26th, 2026 in MIT, Boston, USA, in person. If you have any questions, you can contact the [organizers](#organizers).
+[This event](https://projectweek.na-mic.org/PW_45_2026_Boston/README.html)  took place June 22nd - 26th, 2026 in MIT, Boston, USA, in person. If you have any questions, you can contact the [organizers](#organizers).
 
 ## Location
 
@@ -25,7 +25,7 @@ Grier Rooms (34-401A, 34-401B), Building 34, 50 Vassar Street, Cambridge, MA
 
 ## Preparation meetings
 
-Preparation meetings will be at 10 AM EDT and start Tuesday, May 5th 2026.  [Zoom Link](https://etsmtl.zoom.us/j/96828430830?pwd=9EqBWHKc4fytzNThgha4ByM1hoQwPr.1)
+Preparation meetings were held at 10 AM EDT starting Tuesday, May 5th 2026.  [Zoom Link](https://etsmtl.zoom.us/j/96828430830?pwd=9EqBWHKc4fytzNThgha4ByM1hoQwPr.1)
 
 
 ## Communication
