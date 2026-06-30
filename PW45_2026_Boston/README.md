@@ -123,6 +123,9 @@ List of registered participants so far (names will be added here after processin
 40. Sylvain Bouix (ETS Montreal, Canada, in person)
 41. Haoyang Zheng (China, in person)
 42. Cark-Fredrik Westin (Brigham and Women's Hospital, USA, in person)
+43. Minjune Kim (Airsurgical, Republic of Korea, in person)
+44. Keerthana Srinivasan (Brigham and Women's Hospital, USA, in person)
+45. Owen Borders (Brigham and Women's Hospital, USA, in person)
 
 
 <!-- Participants list end -->
