@@ -118,3 +118,7 @@ Interactive dashboard to keep track of one type of annotations:
 
 _No response_
 
+# Funding
+
+This work is supported by NIH R01EB035679 and R21EB034075.
+

@@ -190,3 +190,6 @@ algorithm for automatic detection and quantification of B-lines. Crit Care. 2019
 
 - [6] [https://github.com/HuangJunJie2017/UDP-Pose](https://github.com/HuangJunJie2017/UDP-Pose)
 
+# Funding
+
+This work is supported by NIH R01EB035679 and R21EB034075.

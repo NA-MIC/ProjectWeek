@@ -95,3 +95,7 @@ Current functionality in OHIF:
 
 [SlicerUltrasound code](https://github.com/SlicerUltrasound/SlicerUltrasound)
 
+# Funding
+
+This work is supported by NIH R01EB035679 and R21EB034075.
+

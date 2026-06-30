@@ -154,7 +154,7 @@ The pipeline handles most de-identification automatically, but reviewers still f
 
 **Progress and Next Steps**
 
-_No response_
+Deploy to testing environment and iterate on user feedback.
 
 
 10. **[Fine-tuning SimCortex Using Manually Corrected Cortical Annotations](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/FineTuningSimcortexUsingManuallyCorrectedCorticalAnnotations/)** (Kaveh Moradkhani @ École de technologie supérieure, +) ([Neuro-iX/SimCortex](https://github.com/Neuro-iX/SimCortex))
@@ -421,6 +421,7 @@ IDC already offers a customized agent skill in [https://github.com/ImagingDataCo
 - Implemented support for clinical tables query.
   * [public linkt to a conversation with Claude](https://claude.ai/share/85b9d201-1f85-4492-9b9b-311bf98b09f5) demonstrating the capabilities of clinical data exploration with the updated IDC MCP server
 - Summarized (but not benchmarked!) differences between using "vanilla" Claude vs Claude + IDC skill vs Claude + IDC MCP.
+- 3rd party security review by Ryan completed.
 
 
 25. **[Robust Segmentation Experience in OHIF Viewer](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/RobustSegmentationExperienceInOHIFViewer/)** (Jaeyoung Cho @ University Hospital Bonn, +) ([CCI-Bonn/OHIF-AI](https://github.com/CCI-Bonn/OHIF-AI))
@@ -572,6 +573,8 @@ Next steps: gather feedback from other Project Week participants on the chat UX 
 
 31. **[Standardizing DICOM De-ID with Actionable Rules and Tests](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/StandardizingDicomDeIdWithActionableRulesAndTests/)** (Dave Dinh @ BWH, +) ([clintools/dicom-curate](https://github.com/clintools/dicom-curate))
 
+<a href="https://projectweek.na-mic.org/PW45_2026_Boston/Projects/StandardizingDicomDeIdWithActionableRulesAndTests/"><img src="https://github.com/user-attachments/assets/323d698e-72f9-49c7-8b62-e578f381987b" style="max-width:480px;width:100%"></a>
+
 DICOM de-identification (De-ID) efforts often overlap in the rules used to process DICOM metadata. This project aims to translate [an existing DICOM De-ID standard](https://dicom.nema.org/medical/dicom/current/output/html/part15.html#sect_E.1.1) into a set of actionable rules that can serve both as an implementation guide and as a verifiable audit trail for tools and AI systems.
 For example, a standard may permit multiple actions for a given metadata field. A baseline reference can recommend a default action, while still allowing users to specify alternative behaviors as needed. The proposed generator will take user input and produce:
 
@@ -584,10 +587,7 @@ In practice, DICOM De-ID outputs can vary depending on modality, imaging protoco
 
 **Progress and Next Steps**
 
-We want to create a well tested CLI based tool that takes in user input and generates the following:
-
-- A reference list of itemized, actionable rules
-- A unit and end-to-end test specification that users can apply to their specific use cases
+Open source project and integrate with two existing de-id projects: pipeline for batch dicom de-id and an OHIF mode for verifying de-id DICOMs.
 
 
 32. **[That Rendering Thing](https://projectweek.na-mic.org/PW45_2026_Boston/Projects/ThatRenderingThing/)** (Steve Pieper @ Isomics, +) ([pieper/SlicerCL](https://github.com/pieper/SlicerCL))

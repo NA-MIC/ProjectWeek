@@ -115,3 +115,7 @@ Open source project and integrate with two existing de-id projects: pipeline for
 
 - <https://github.com/pydicom/deid>
 
+# Funding
+
+This work is supported by NIH R01EB035679 and R21EB034075.
+
