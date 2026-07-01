@@ -117,5 +117,5 @@ Open source project and integrate with two existing de-id projects: pipeline for
 
 # Funding
 
-This work is supported by NIH R01EB035679 and R21EB034075.
+This work is supported by NIH [R01EB035679](https://reporter.nih.gov/project-details/11267990) and [R21EB034075](https://reporter.nih.gov/project-details/10741596).
 

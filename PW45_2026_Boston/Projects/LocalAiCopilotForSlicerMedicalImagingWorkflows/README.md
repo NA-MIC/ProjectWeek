@@ -97,4 +97,4 @@ Chatbot Interface (Cline)
 - slicer-skill: <https://github.com/pieper/slicer-skill>
 - SlicerChat: <https://arxiv.org/abs/2407.11987>
 
-NIH funding NIDCR R01DE024450
+NIH funding NIDCR [R01DE024450](https://reporter.nih.gov/project-details/11458698)

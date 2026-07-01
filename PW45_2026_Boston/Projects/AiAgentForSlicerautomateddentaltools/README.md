@@ -107,5 +107,5 @@ Results comparing local LLMs and Cloud-based Models:
 # Background and References
 
 Github link: https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools
-This work was supported by the National Institute of Dental and Craniofacial Research (NIDCR) of the National Institutes of Health under Award Number R01DE024450.
+This work was supported by the National Institute of Dental and Craniofacial Research (NIDCR) of the National Institutes of Health under Award Number [R01DE024450](https://reporter.nih.gov/project-details/11458698).
 

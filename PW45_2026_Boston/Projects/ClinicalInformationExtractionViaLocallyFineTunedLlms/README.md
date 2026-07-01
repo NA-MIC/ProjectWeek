@@ -108,5 +108,5 @@ Model benchmarking and matched external comparisons.
      If possible, also add links to sample data, and to any relevant publications. -->
 
 
-NIH funding : R01DE024450
+NIH funding : [R01DE024450](https://reporter.nih.gov/project-details/11458698)
 

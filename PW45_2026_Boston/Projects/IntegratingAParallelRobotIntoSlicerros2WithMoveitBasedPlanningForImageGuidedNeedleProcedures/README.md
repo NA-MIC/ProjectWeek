@@ -99,6 +99,6 @@ https://github.com/user-attachments/assets/7c947dad-5f3c-482d-a8bf-87c40bb047a0
   3D Slicer custom-control module for sending robot planning poses from Slicer to ROS 2 through SlicerROS2.
 
 # Funding
-- NIH R01EB020667
-- NIH R01CA235134
+- NIH [R01EB020667](https://reporter.nih.gov/project-details/10608711)
+- NIH [R01CA235134](https://reporter.nih.gov/project-details/10221645)
 - BWH Department of Radiology GR0131914
