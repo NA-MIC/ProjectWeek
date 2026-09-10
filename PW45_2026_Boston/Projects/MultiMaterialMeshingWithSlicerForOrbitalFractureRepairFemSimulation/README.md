@@ -105,8 +105,6 @@ I also had to constantly monitor the "thinking" process in case Claude did extra
 
 
 Segmentation using a preliminary nnUNet model trained via MONAI <br>
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/8212cf59-0f20-4861-936c-087d09a63619" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/8f1d5afe-d086-4b02-abf8-4e7f79f3b553" />
 
 Create a combined uniform tissue segmentation and convert into a surface model <br>
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/7ccbc660-30b1-403d-b825-3c1e249e3dd9" />
