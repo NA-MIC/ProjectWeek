@@ -29,7 +29,7 @@ key_investigators:
 
 ## Funding Source(s)
 
-(to be added)
+This project was supported by the Technology Development Program - DeepTech Challenge Project(RS-2024-00512145) funded by the Ministry of SMEs and Startups (MSS, Korea).
 
 # Project Description
 
