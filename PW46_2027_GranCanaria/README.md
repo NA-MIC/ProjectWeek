@@ -47,7 +47,9 @@ TBA
 
 ## Registration
 
-TBA
+* **Registration link will be posted soon here**
+* Remote participation will not be possible at this project week
+* Registration costs 500€ (increases to 550€ after December 25), and includes the venue, as well as coffee breaks, snacks, and lunch at the hotel for the entire week
 
 ## Discord
 The **Discord** application is used to communicate between team members and organize activities before and during Project Week. Please join the Project Week [Discord server](https://discord.gg/AkxzKvqMBp) as soon as possible and explore its functionality before the workshop. For more information on the use of Discord before and during Project Week, please visit [this page](../common/Discord.md).
