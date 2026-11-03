@@ -93,11 +93,12 @@ List of registered participants so far (names will be added here after processin
 
 ### Global Project Week organizing committee
 
-* [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](http://www.spl.harvard.edu/pages/People/tkapur)),
-* [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://drouin-simon.github.io/ETS-web//))
+* [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](https://spl.harvard.edu/people/tina-kapur-phd)),
+* [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/sidrouin)
 * [@rafaelpalomar](https://github.com/rafaelpalomar) ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp))
-* [@piiq](https://github.com/piiq) ([Theodore Aptekarev](https://discourse.slicer.org/u/pll_llq))
+* Theodore Aptekarev
 * [@sjh26](https://github.com/sjh26) ([Sam Horvath, PhD](https://www.kitware.com/samantha-horvath/))
+* [@deepakri201](https://github.com/deepakri201) ([Deepa Krishnaswamy, PhD](https://scholar.google.com/citations?user=X8jB1n0AAAAJ&hl=en))
 
 ## History
 Please read about our experience in running these events since 2005: [Increasing the Impact of Medical Image Computing Using
