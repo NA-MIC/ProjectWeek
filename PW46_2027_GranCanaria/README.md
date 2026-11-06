@@ -47,7 +47,7 @@ TBA
 
 ## Registration
 
-* **Registration link will be posted soon here**
+* Please confirm your participation using the **[registration form](https://docs.google.com/forms/d/e/1FAIpQLSdsSJYwtIGe3hXuGhOVWstzSISOeNnfTwKN8NvbDvEwpfjN4w/viewform?usp=publish-editor)**
 * Remote participation will not be possible at this project week
 * Registration costs 500€ (increases to 550€ after December 25), and includes the venue, as well as coffee breaks, snacks, and lunch at the hotel for the entire week
 
