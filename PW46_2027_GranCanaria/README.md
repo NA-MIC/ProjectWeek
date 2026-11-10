@@ -65,6 +65,8 @@ The **Discord** application is used to communicate between team members and orga
 
 To learn how to create or update project pages, please refer to the [contributing project pages](ContributingProjectPages.md) section.
 
+Is your project page not rendering correctly? Check [the image and video tips page](ImagesAndVideos.md) for help.
+
 {% include projects.md %}
 
 ## Registrants
