@@ -33,7 +33,7 @@ The Project Week series was founded in 2005, along with the National Alliance fo
 
 #### Who to contact?
 
-Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](https://spl.harvard.edu/people/tina-kapur-phd)), [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/sidrouin)), [@rafaelpalomar](https://github.com/rafaelpalomar) ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp)), Theodore Aptekarev,  [@sjh26](https://github.com/sjh26) ([Sam Horvath, PhD](https://www.kitware.com/samantha-horvath/)) and [@deepakri201](https://github.com/deepakri201) ([Deepa Krishnaswamy, PhD](https://scholar.google.com/citations?user=X8jB1n0AAAAJ&hl=en)) who are happy to tell you more about them.
+Project Weeks are led by [@tkapur](https://github.com/tkapur) ([Tina Kapur, PhD](https://spl.harvard.edu/people/tina-kapur-phd)), [@drouin-simon](https://github.com/drouin-simon) ([Simon Drouin, PhD](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/sidrouin)), [@rafaelpalomar](https://github.com/rafaelpalomar) ([Rafael Palomar, PhD](https://www.ntnu.edu/employees/rafaelp)), [@sjh26](https://github.com/sjh26) ([Sam Horvath, PhD](https://www.kitware.com/samantha-horvath/)) and [@deepakri201](https://github.com/deepakri201) ([Deepa Krishnaswamy, PhD](https://scholar.google.com/citations?user=X8jB1n0AAAAJ&hl=en)) who are happy to tell you more about them.
 
 ## Upcoming Project Weeks
 
