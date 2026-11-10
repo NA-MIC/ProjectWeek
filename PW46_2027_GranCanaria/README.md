@@ -43,7 +43,7 @@ project_categories:
 
 ## Preparation meetings
 
-Preparation meetings will be held on Tuesdays at 10 AM EDT starting November 17th 2026, then every Tuesday except December 22 and 29. [Zoom Link](https://ntnu.zoom.us/j/98063045282?pwd=WyKb9XHcEjNrb7f35K9I7uXOHA4S6V.1)
+Preparation meetings will be held on Tuesdays at 10 AM ET (16:00 CET) starting November 17th 2026, then every Tuesday except December 22 and 29. [Zoom Link](https://ntnu.zoom.us/j/98063045282?pwd=WyKb9XHcEjNrb7f35K9I7uXOHA4S6V.1)
 
 ## Registration
 
