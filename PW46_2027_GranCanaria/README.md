@@ -33,7 +33,7 @@ project_categories:
 
 - **Recommended hotels (special rates) and maps**
   - NH Imperial Playa [Map](https://cutt.ly/twjO0PO)
-    - Booking: Discounted hotel rooms booking link TBA
+    - Booking: [Discounted hotel rooms booking link](https://www.minor-hotels.com/en/eventsweb/na-mic-workshop-internacional) (More rooms to be added to the selection as of Nov 24, 2026)
 
 - **Transportation** from the airport to the city (Las Palmas de Gran Canaria):
   - Taxi (line at the airport)
